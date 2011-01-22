@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = National Olympic Committee
+| rdfs:domain = OlympicResult
+}}

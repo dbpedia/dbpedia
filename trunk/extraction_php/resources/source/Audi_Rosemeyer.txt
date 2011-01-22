@@ -1,0 +1,67 @@
+{{Infobox Automobile
+| image          = [[Image:Audi Rosemeyer Modell.jpg|250px]] ''a model of the Audi Rosemeyer''
+| name           = Audi Rosemeyer
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen AG Group]]
+| aka            = 
+| production     = 
+| assembly       =
+| predecessor    = 
+| successor      = 
+| class          = [[Concept car]], [[Halo Car]]
+| body_style     = 2-door [[Coupe]]
+| layout         = [[Mid-engine design|Mid engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+| platform       =
+| engine         = 8 L [[W16 engine|W16]]
+| transmission   = 6-speed [[Manual transmission|manual gearbox]]
+| wheelbase      = {{Auto in|114.6|0}}
+| length         = {{Auto in|178.7|0}}
+| width          = {{Auto in|75.6|0}}
+| height         = 
+| weight         = 
+| fuel_economy   =
+| fuel_capacity  =
+| related        = 
+| similar        = [[Bugatti Veyron]]
+| designer       = 
+}}
+
+The '''Rosemeyer''' is a [[concept car]] built and shown initially at [[Autostadt]] by [[Audi]] during 2000, and at various auto shows throughout [[Europe]].  Although it was never intended for production, its striking design and highly sporting nature drew considerable attention to the brand, and many potential buyers highly anticipated a production version, to no avail.  It does, however bear a striking resemblance to the [[Bugatti Veyron]] and uses the same engine.
+
+==Information==
+The vehicle was designed to evoke emotion and garner attention, and was unique in that it combined elements of modern design with styling strongly resembling the former [[Auto Union]]s "[[Silver Arrows]]" [[Grand Prix motor racing|Grand Prix]] racers, namely their 16-cylinder car driven by [[Bernd Rosemeyer]], after which the car is named.
+
+Powered by a large capacity, mid-mounted 16-cylinder engine making {{Convert|700|hp|kW|-1|abbr=on}} and featuring Audi's [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system, the vehicle promised high performance to match its appearance.  It was ultimately deemed unfit for production, both because of extremely high projected production costs, and Audi's unwillingness to create in-house competition for models from [[Lamborghini]], which Audi had purchased during the 1990s.  In some ways, Audi's [[Lamborghini Gallardo|Gallardo]]-based [[Audi R8|R8]] could be considered the Rosemeyer's successor. 
+==Specification==
+* 8004&nbsp;cc [[W16 engine|W16]] [[Mid-engine design|mid-mounted engine]]
+* 5 valves/cyl
+* {{convert|78.71|hp|abbr=on}} per litre
+* {{convert|761|Nm|ftlbf|abbr=on}} @ 4000&nbsp;rpm
+* Wheelbase: {{Auto in|114.6|0}}
+* Length: {{Auto in|178.7|0}}
+* Width: {{Auto in|75.6|0}}
+* 6-speed [[Manual transmission|manual gearbox]]
+* Top speed: {{convert|217.5|mph|km/h|1|abbr=on}}
+
+==References==
+{{cite web |url=http://www.cartype.com/page.cfm?id=66&alph=ALL&dec=ALL |title=Audi Rosemeyer}}
+
+==External links==
+{{Commonscat|Audi concept vehicles}}
+* [http://www.audi.com Audi corporate website]
+
+{{Audi}}
+
+[[Category:Audi vehicles|Rosemeyer]]
+[[Category:Audi concept vehicles|Rosemeyer]]
+[[Category:Sports cars]]
+[[Category:2000s automobiles]]
+[[Category:Coupes]]
+[[Category:Mid-engined vehicles]]
+[[Category:Retro style automobiles]]
+
+
+{{Modern-auto-stub}}
+
+[[fr:Audi Rosemeyer]]
+[[nl:Audi Rosemeyer]]

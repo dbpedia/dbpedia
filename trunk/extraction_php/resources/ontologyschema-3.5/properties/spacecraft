@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = spacecraft
+| rdfs:domain = SpaceMission
+| rdfs:range = Spacecraft
+}}

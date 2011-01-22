@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = campus
+| rdfs:domain = University
+}}

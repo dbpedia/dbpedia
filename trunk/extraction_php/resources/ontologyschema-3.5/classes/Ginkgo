@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Ginkgo
+| rdfs:subClassOf = Plant
+}}

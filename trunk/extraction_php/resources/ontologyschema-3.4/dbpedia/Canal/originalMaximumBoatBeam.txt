@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = original maximum boat beam
+|rdfs:domain = Canal
+|rdfs:range = metre
+}}

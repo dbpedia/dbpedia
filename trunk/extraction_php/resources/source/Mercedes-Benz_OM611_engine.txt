@@ -1,0 +1,78 @@
+{{Infobox Automobile engine
+| image         = 
+| name          = Mercedes-Benz OM611 engine
+| aka           = 
+| manufacturer  = [[Mercedes-Benz]]
+| type          = OM611
+| production    = [[1998]]–[[2006]]
+| predecessor   = [[Mercedes-Benz OM604 engine]]
+| successor     = [[Mercedes-Benz OM646 engine]]
+| bore          = 88.0 mm
+| stroke        = 88.3–88.4 mm
+| displacement  = {{convert|2148|cc|L cuin||abbr=on}}<br>{{convert|2151|cc|L cuin||abbr=on}}
+| length        = 
+| diameter      = 
+| width         = 
+| height        = 
+| weight        = 
+| block         = 
+| head          = 
+| valvetrain    = DOHC
+| supercharger  = 
+| turbocharger  = Yes
+| fuelsystem    = [[Common rail]] direct injection
+| fueltype      = [[Diesel fuel|Diesel]]
+| oilsystem     = 
+| coolingsystem = 
+| power         = 60–105&nbsp;kW (82–143&nbsp;hp)
+| specpower     = 
+| torque        = 200–315 Nm (148–232 lb·ft)
+| compression   = 
+| fuelcon       = 
+| specfuelcon   = 
+| oilcon        = 
+}}
+The '''[[Mercedes-Benz]] OM611 [[Internal combustion engine|engine]]''' is a [[straight-4]] [[diesel engine]] produced by [[Mercedes-Benz]].
+
+It replaced in [[1998]] the naturally aspirated [[Mercedes-Benz OM604 engine|OM604]] with indirect injection in the [[Mercedes-Benz C-Class#W202|W202 C-Class]] and the [[Mercedes-Benz W210|W210 E-Class]] for the [[1999]] [[model year]], in {{convert|102|PS|kW hp|0|abbr=on}} and {{convert|125|PS|kW hp|0|abbr=on}} powertrains.
+
+In [[1999]], the displacement were reduced from {{convert|2151|cc|L cuin||abbr=on}} to {{convert|2148|cc|L cuin||abbr=on}} for the E-Class, and the engine were now available ind {{convert|116|PS|kW hp|0|abbr=on}} and {{convert|143|PS|kW hp|0|abbr=on}} powertrains.
+
+It was also introduced with the facelift of the [[Mercedes-Benz Sprinter|W90x Sprinter]] in [[2000]] for the [[2001]] model year in {{convert|82|PS|kW hp|0|abbr=on}}, {{convert|109|PS|kW hp|0|abbr=on}} and {{convert|129|PS|kW hp|0|abbr=on}} powertrains, and in the [[Mercedes-Benz C-Class#W203|W203 C-Class]] in {{convert|122|PS|kW hp|0|abbr=on}} and {{convert|143|PS|kW hp|0|abbr=on}} powertrains.
+
+The [[Mercedes-Benz W211|W211 E-Class]] introduced in [[2002]] were not equipped with the OM611, but with the new [[Mercedes-Benz OM646 engine|OM646]] engine.
+
+== Technical specifications ==
+{|class="wikitable" cellpadding="0" cellspacing="0" style="text-align:center; font-size:91%;"
+|-
+!style="background:#DCDCDC" align="center" valign="middle" | Displacement
+!style="background:#DCDCDC" align="center" valign="middle" | Bore
+!style="background:#DCDCDC" align="center" valign="middle" | Stroke
+!style="background:#DCDCDC" align="center" valign="middle" | Cylinders
+!style="background:#DCDCDC" align="center" valign="middle" | Valves
+!style="background:#DCDCDC" align="center" valign="middle" | Power
+!style="background:#DCDCDC" align="center" valign="middle" | Torque
+!style="background:#DCDCDC" align="center" valign="middle" | Applications
+|-
+|rowspan="2"|{{convert|2151|cc|L cuin||abbr=on}}||rowspan="9"|88.0 mm||rowspan="2"|88.4 mm||rowspan="9"|[[straight-4]]||rowspan="9"|16||{{convert|102|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|235|Nm|lbft||abbr=on}} @1500 rpm||1998 [[Mercedes-Benz C-Class#W202|W202 C-Class]], 1998 [[Mercedes-Benz W210|W210 E-Class]]
+|-
+|{{convert|125|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|300|Nm|lbft||abbr=on}} @1800 rpm||1998 [[Mercedes-Benz C-Class#W202|W202 C-Class]], 1998 [[Mercedes-Benz W210|W210 E-Class]]
+|-
+|rowspan="7"|{{convert|2148|cc|L cuin||abbr=on}}||rowspan="7"|88.3 mm||{{convert|82|PS|kW hp|0|abbr=on}} @3800 rpm||{{convert|200|Nm|lbft||abbr=on}} @1400–2600 rpm||2000 [[Mercedes-Benz Sprinter|W90x Sprinter]]
+|-
+|{{convert|109|PS|kW hp|0|abbr=on}} @3800 rpm||{{convert|270|Nm|lbft||abbr=on}} @1400–2400 rpm||2000 [[Mercedes-Benz Sprinter|W90x Sprinter]]
+|-
+|{{convert|116|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|250|Nm|lbft||abbr=on}} @1400–2600 rpm||1999 [[Mercedes-Benz W210|W210 E-Class]], 2000 [[Mercedes-Benz C-Class#W203|W203 C-Class]]
+|-
+|{{convert|122|PS|kW hp|0|abbr=on}} @3800 rpm||{{convert|270|Nm|lbft||abbr=on}} @1600–2400 rpm||2003 [[Mercedes-Benz W211|W211 E-Class]], 2003 [[Mercedes-Benz C-Class#W203|W203 C-Class]]
+|-
+|{{convert|129|PS|kW hp|0|abbr=on}} @3800 rpm||{{convert|300|Nm|lbft||abbr=on}} @1600–2400 rpm||2000 [[Mercedes-Benz Sprinter|W90x Sprinter]]
+|-
+|{{convert|136|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|315|Nm|lbft||abbr=on}} @1800–2600 rpm||1999 [[Mercedes-Benz W210|W210 E-Class]] for [[Belgium]]
+|-
+|{{convert|143|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|315|Nm|lbft||abbr=on}} @1800–2600 rpm||1999 [[Mercedes-Benz W210|W210 E-Class]], 2000 [[Mercedes-Benz C-Class#W203|W203 C-Class]]
+|}
+
+{{automotive-part-stub}}
+
+[[Category:Mercedes-Benz engines|OM611]]

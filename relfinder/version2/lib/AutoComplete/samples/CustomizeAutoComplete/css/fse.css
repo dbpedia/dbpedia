@@ -1,0 +1,144 @@
+Application {
+	paddingRight: 0;
+	paddingLeft: 0;
+	paddingTop: 0;
+	paddingBottom: 0;	
+}
+
+.glassPanel {
+		backgroundSize: "100%";
+		backgroundImage: Embed(source="/assets/header.swf#glassHeader");
+		paddingTop: 7;
+		paddingLeft: 10;
+		}
+
+.glassPods {
+	borderStyle: solid;
+	backgroundColor: #ffffff;
+	backgroundAlpha: .2;
+	borderThickness: 0;
+	dropShadowEnabled: true;
+	cornerRadius: 8;
+	paddingRight: 0;
+	paddingLeft: 0;
+	paddingTop: 0;
+	paddingBottom: 0;	
+}
+
+.glassLabels {
+	color: #FFFFFF;
+	fontSize: 10;
+	fontWeight: bold;
+	paddingLeft: 5	
+}
+
+.cssTextArea {
+	backgroundColor: #FFFFFF;
+	borderStyle: solid;
+	borderThickness: 0;
+	cornerRadius: 8;
+	editable: false;
+	paddingRight: 5;
+	paddingLeft: 5;
+	backgroundAlpha: .4;	
+}
+
+.undoLink {
+	textDecoration: underline;
+	fontFamily: Verdana;
+	fontSize: 9;
+	fontWeight: normal;	
+	icon: Embed(source="/assets/undo.png");
+	rollOverColor: #AFBFC6;
+	textRollOverColor: #FFFFFF;
+	selectionColor: #AFBFC6;
+	textSelectionColor: #000000;
+}
+
+HSlider {
+	showTrackHighlight: true;
+}
+
+.styleControlTabNavigator {
+	paddingLeft: 5; 
+	tabWidth: 80; 
+	paddingRight: 5;
+	 backgroundAlpha: 0; 
+	 borderStyle: solid; 
+	 borderColor: #FFFFFF; 
+	 paddingBottom: 10; 
+	 borderThickness: 1; 
+	 cornerRadius: 4;
+	 tabStyleName: "fseTabs";
+}
+
+.fseTabs {
+	cornerRadius: 6;
+	highlightAlphas: 0.4, 0;
+	fillAlphas: 0,0;
+	borderColor: #FFFFFF;
+	themeColor: #a8b8c1;	
+	paddingLeft: 10;
+	paddingRight: 10;
+	backgroundAlpha: 1;
+	backgroundColor: #FFFFFF;
+	color: #0B333C;
+	textRollOverColor: #0B333C;
+	fontSize: 9;
+}
+
+.fseAppControlBar {
+	cornerRadius: 6;
+	shadowDistance: 3;
+}
+
+.componentLinkBar {
+	rollOverColor: #cad5da;
+	selectionColor: #ffffff;
+	disabledColor: #FFFFFF;
+	fontSize: 9;
+}
+
+.conditionalBox {
+	borderStyle: solid;
+	borderThickness: 0;
+	backgroundColor: #FFFFFF;
+	backgroundAlpha: .2;
+	cornerRadius: 6;
+	horizontalAlign: right;
+}
+
+.conditionalForm {
+	paddingTop: 8;
+	paddingBottom: 5;
+	paddingRight: 5;
+	paddingLeft: 5;
+}
+
+.noPadding {
+	paddingRight: 0;
+	paddingTop: 0;
+	paddingLeft: 0;
+	paddingBottom: 0;	
+}
+
+.styleExplorerTitle {
+	fontFamily: Arial;
+	fontSize: 18;
+	color: #FFFFFF;
+	fontWeight: bold;
+}
+
+.footerLink {
+	fontFamily: Verdana;
+	fontSize: 9;
+	color: #FFFFFF;	
+	rollOverColor: #9BAFB9;
+	textRollOverColor: #FFFFFF;
+	selectionColor: #AFBFC6;
+	textSelectionColor: #000000;
+}
+
+.myButtonBarStyleName {
+	fontFamily: Verdana;
+}

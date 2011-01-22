@@ -1,0 +1,17 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Airline
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = hubs | ontologyProperty = Airline/hubAirport }}
+	{{ DBpediaPropertyMapping | templateProperty = secondary_hubs | ontologyProperty = Airline/hubAirport }}
+	{{ DBpediaPropertyMapping | templateProperty = focus_cities | ontologyProperty = Airline/targetAirport }}
+	{{ DBpediaPropertyMapping | templateProperty = lounge | ontologyProperty = Airline/lounge }}
+	{{ DBpediaPropertyMapping | templateProperty = alliance | ontologyProperty = Airline/alliance }}
+	{{ DBpediaPropertyMapping | templateProperty = destinations | ontologyProperty = Airline/destination }}
+	{{ DBpediaPropertyMapping | templateProperty = headquarters | ontologyProperty = Airline/headquarter }}
+	{{ DBpediaPropertyMapping | templateProperty = airline | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = commenced | ontologyProperty = Organisation/foundationPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = ceased | ontologyProperty = Organisation/foundationPerson }}
+	{{ DBpediaPropertyMapping | templateProperty = parent | ontologyProperty = Company/parentCompany }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

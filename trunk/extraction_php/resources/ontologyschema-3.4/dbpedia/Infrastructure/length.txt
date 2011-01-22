@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = length
+|rdfs:domain = Infrastructure
+|rdfs:range = kilometre
+}}

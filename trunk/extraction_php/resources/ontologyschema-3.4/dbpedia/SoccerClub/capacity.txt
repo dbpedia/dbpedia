@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = capacity
+|rdfs:domain = SoccerClub
+|rdfs:range = xsd:integer
+}}

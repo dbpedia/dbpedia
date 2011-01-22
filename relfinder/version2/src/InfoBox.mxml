@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml" xmlns:local="*"
+	paddingBottom="2" paddingTop="2" paddingRight="2" paddingLeft="2" 
+	width="{findRelationPanel.width - 20}" height="100%" 
+	resize="{imageView.calcIdealImageSize(height); callLater(resizeTextArea, [abstarctText]);}"
+	visible="{(selectedElement) ? true : false}" initialize="init()"
+	horizontalScrollPolicy="off" verticalScrollPolicy="on"
+	>
+	
+	<mx:Script>
+		<![CDATA[
+			import components.ButtonBarPanel;
+			import flash.events.Event;
+			import global.Languages;
+			import graphElements.Element;
+			import mx.containers.Panel;
+			import mx.controls.TextArea;
+			
+			private function init():void {
+				Languages.getInstance().addEventListener("eventSelectedLanguageChanged", selectedLanguageChangedHandler);
+				Languages.getInstance().addEventListener("eventLangsChanged", selectedLanguageChangedHandler);
+			}
+			
+			private function selectedLanguageChangedHandler(event:Event):void {
+				langCombo.selectedIndex = Languages.getInstance().selectedLanguageIndex;
+				callLater(resizeTextArea, [abstarctText]);
+			}
+			
+			private var _selectedElement:Element = null;
+			
+			[Bindable]
+			public function get selectedElement():Element {
+				return _selectedElement;
+			}
+			
+			public function set selectedElement(value:Element):void {
+				_selectedElement = value;
+				dispatchEvent(new Event("selectedElementChange"));
+				
+				callLater(resizeTextArea, [abstarctText]);
+			}
+			
+			private function openWebsite(evt:TextEvent):void {
+				if (evt.text..search("http://") == 0) {
+					var newLink:URLRequest = new URLRequest(evt.text);
+					navigateToURL(newLink,"_blank");
+				}
+			}
+			
+			private function changeLang():void {
+				Languages.getInstance().selectedLanguage = langCombo.selectedItem.toString();
+				callLater(resizeTextArea, [abstarctText]);
+			}
+			
+			
+			private var _findRelationPanel:Panel = new Panel();
+			
+			[Bindable]
+			public function get findRelationPanel():Panel {
+				return _findRelationPanel;
+			}
+			
+			public function set findRelationPanel(value:Panel):void {
+				_findRelationPanel = value;
+				dispatchEvent(new Event("findRelationPanelChange"));
+			}
+			
+			private function resizeTextArea(field:TextArea):void {
+				var ta_height:uint = 10;
+				field.validateNow();
+
+				for(var i:int=0; i < field .mx_internal::getTextField().numLines; i++) {
+					ta_height += field.mx_internal::getTextField().getLineMetrics(i).height;
+				}
+				
+				field.minHeight = ta_height;
+			}
+			
+		]]>
+	</mx:Script>
+	
+	<mx:HBox>
+		<mx:Label truncateToFit="true" width="{findRelationPanel.width - 24 - langCombo.width - 8 - 20}" fontWeight="bold" fontSize="16" text="{selectedElement.rdfLabel}" /> 
+		<mx:ComboBox id="langCombo" dataProvider="{Languages.getInstance().asDataProvider}" width="60" close="{changeLang();}" />
+	</mx:HBox>
+	<mx:Form id="moreInfos" width="100%" paddingLeft="0" paddingRight="0" paddingBottom="0" paddingTop="0" horizontalGap="0" verticalGap="0" indicatorGap="4">
+		<mx:FormItem label="More Infos:" width="100%" paddingLeft="0" paddingRight="0" paddingBottom="0" paddingTop="0" horizontalGap="0" verticalGap="0">
+			<mx:VBox paddingLeft="0" paddingRight="0" paddingBottom="0" paddingTop="0" horizontalGap="0" verticalGap="0">
+				<mx:Label id="resourceLink" truncateToFit="true"  width="{findRelationPanel.width - 100 - 20}" htmlText="{selectedElement.uriLink}" toolTip="{selectedElement.resourceURI}" selectable="true" link="openWebsite(event);"  />
+				<local:InfoLinkBox dataProvider="{selectedElement.pages}" width="{findRelationPanel.width - 100 - 25}" />
+			</mx:VBox>
+		</mx:FormItem>
+	</mx:Form>
+	
+	<local:ImageView id="imageView" width="{findRelationPanel.width - 24 - 20}" image_path="{selectedElement.imageURL}" />
+	<mx:TextArea id="abstarctText" wordWrap="true" editable="false" borderStyle="none" width="{findRelationPanel.width - 28 - 20}" htmlText="{selectedElement.abstract}" verticalScrollPolicy="off" horizontalScrollPolicy="off" />
+</mx:VBox>

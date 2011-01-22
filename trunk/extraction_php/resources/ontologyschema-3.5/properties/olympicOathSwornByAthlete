@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = olympic oath sworn by athlete
+| rdfs:domain = Olympics
+| rdfs:range = Person
+}}

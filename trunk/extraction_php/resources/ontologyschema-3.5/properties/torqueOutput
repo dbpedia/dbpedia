@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = torque output
+| rdfs:domain = AutomobileEngine
+| rdfs:range = Torque
+| rdf:type = owl:FunctionalProperty
+}}

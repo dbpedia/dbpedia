@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= body discovered
+|rdfs:domain	= Person
+|rdfs:range		= owl:Thing <!-- Place -->
+}}

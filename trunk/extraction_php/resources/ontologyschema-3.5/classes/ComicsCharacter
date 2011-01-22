@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Comics Character
+| rdfs:subClassOf = FictionalCharacter
+}}

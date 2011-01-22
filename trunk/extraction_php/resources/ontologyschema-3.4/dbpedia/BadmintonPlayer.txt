@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Badminton Player
+|rdfs:subClassOf = Athlete
+}}

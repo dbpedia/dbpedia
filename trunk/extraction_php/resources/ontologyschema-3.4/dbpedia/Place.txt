@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Place
+|rdfs:subClassOf = owl:Thing
+}}

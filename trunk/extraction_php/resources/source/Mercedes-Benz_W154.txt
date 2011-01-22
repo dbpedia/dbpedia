@@ -1,0 +1,151 @@
+{{Racing car |
+  Car_name         = Mercedes-Benz W154 | 
+  Image            = [[File:Mercedes Silberpfeil-W154 1939.jpg|260px]] |
+  Category         = [[Grand Prix motor racing|Grand Prix]] | 
+  Constructor      = [[Mercedes-Benz]] | 
+  Designer         = [[Max Sailer]], [[Albert Heess]], [[Max Wagner (automotive designer)|Max Wagner]], [[Rudolf Uhlenhaut]]|
+  Team             = [[Daimler-Benz|Daimler-Benz AG]]|
+  Drivers          = [[Rudolf Caracciola]], [[Hermann Lang]], [[Manfred von Brauchitsch]], [[Richard Seaman]]|
+  Chassis          = Oval tubular frame|
+  Front suspension = Independent suspension with wishbones, coil springs, hydraulic dampers|
+  Rear suspension  = De Dion axle, torsion bars, cockpit adjustable hydraulic dampers|
+  Engine name      = M154 & M163|
+  Capacity         = 3.0 litre|
+  Configuration    = [[V12 engine|V12]]|
+  Turbo/NA         = supercharged|
+  Engine position  = [[Front-engine design|front-engine]], [[Longitudinal engine|longitudinally mounted]]|
+  Gearbox name     = [[Mercedes-Benz]]|
+  Gears            = 5-speed|
+  Type             = |
+  Differential     = |
+  Debut            = [[1938 Grand Prix De Pau]]|
+  Races            = 16|
+  Wins             = 11|
+  Drivers_champ    = 1<ref>The 1939 championship was not officially completed due to the outbreak of [[World War II]]. Although Auto Union driver [[Hermann Paul Müller]] lead the points standings, the German motorsport authority declared Mercedes driver [[Hermann Lang]]. As this is disputed, and the results of the championship were not officially announced, this championship has not been counted towards the total.</ref>|
+  Poles            = |
+  Fastest_laps     = |
+}}
+
+The '''Mercedes-Benz W154''' was a Grand Prix racing car designed by Rudolf Uhlenhaut. The W154 competed in the 1938 and 1939 Grand Prix seasons and was used by [[Rudolf Caracciola]] to win the 1938 European Championship.
+
+The W154 was created as a result of a rule change by the sports governing body AIACR, which required supercharged engine capacities to be limited to 3000cc. Mercedes' previous car, the W125 used a 5700cc engine and was therefore ineligible to be entered. Mercedes decided that a new car, designed from the outset to comply with the new regulations would be preferable to modifying the existing car and thus designed the W154.
+
+Although using the same chassis design as the 1938 car, a different body was used for the 1939 season and the M154 engine used during 1938 was replaced by the M163. As a result of the new engine, the 1939 car is often mistakenly referred to as a Mercedes-Benz W163.<ref>[http://www.kolumbus.fi/leif.snellman/c9.htm Mercedes-Benz W154 (1939 body) (Grand Prix 3 Litre)]</ref>
+
+==Concept==
+[[Image:LangH-MB-W154-1986-08-16.jpg|thumb|left|The W154 being demonstrated in 1986 by Hermann Lang]]
+For the 1938 season, Grand Prix racing's governing body AIACR moved from a [[Formula racing|formula]] limited by weight to one limited by engine capacity. This meant Mercedes-Benz's previous car, the W125, was not eligible for entry into 1938 Grands Prix. When designing the new car, Mercedes based the chassis on that used in the W125. The new engine regulations allowed a maximum capacity of 3000cc with a [[supercharger]] or 4500cc without. After testing both types, Mercedes chose to use a supercharged 3000cc variant.
+
+==Engine and transmission==
+Due to the new regulations, a completely new engine was used for the 1938 season. The M154 was a 3000cc supercharged V12, attaining an output between 425-474 horse power. In 1939, the 2-stage supercharged version of this 2,961.54 cc V12 engine (67.0 x 70.0 mm) recorded a test bed power of 476 BHP (483 PS) at 7,800 rpm.
+
+To compensate for the smaller engine compared to the W125, the W154 had an extra gear with a 5-speed manual transmission. The first gear was protected by a latch to avoid being engaged accidentally.
+
+{{Listen|filename=Mercedes-Benz W154 (1938).ogg|title=Mercedes-Benz W154|description=Mercedes-Benz W154 at Goodwood Festival of Speed 2009}}
+
+==Chassis and suspension==
+The chassis was largely based on that of the preceding W125.<ref>[http://www.supercars.net/cars/2069.html Supercars.net: 1938 Mercedes-Benz W154]</ref> The frame was constructed using oval tubes made of nickel-chrome molybdenum to provide a stiff chassis. 
+
+The bodywork of the W125 was aluminium metal, which like its predecessors was left unpainted in its bare silver colour. This brought Mercedes' cars during this period, including the W154, the nickname of ''[[Silver Arrows]]''.
+
+The suspension was also near identical to the W125. The rear consisted of De Dion tube, a non-independent suspension designed to keep the two rear wheels in parallel using a solid tubular beam. The rear also had hydraulic rear dampers, which were possible to adjust from within the cockpit during a race.
+
+==European Championship Results==
+(results in bold indicate '''pole position''')
+{|
+|- valign="top"
+|
+{| class="wikitable" style="text-align:center; font-size:95%"
+! Year
+! Team
+! Engine
+! Drivers
+! 1
+! 2
+! 3
+! 4
+|-
+|rowspan="5"| [[1938 Grand Prix season|1938]]
+|rowspan="5"| [[Daimler-Benz|Daimler-Benz AG]]
+|rowspan="5"| [[Mercedes-Benz]] M154
+|
+| [[1938 French Grand Prix|FRA]]
+| [[1938 German Grand Prix|GER]]
+| [[1938 Swiss Grand Prix|SUI]]
+| [[1938 Italian Grand Prix|ITA]]
+|-
+| [[Hermann Lang]]
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#cfcfff"| <small>Ret</small>
+|bgcolor="#dfffdf"| <small>10</small>
+|bgcolor="#cfcfff"| <small>Ret</small>
+|-
+| [[Manfred von Brauchitsch]]
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#cfcfff"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#efcfff"| <small>Ret</small>
+|-
+| [[Rudolf Caracciola]]
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|-
+| [[Richard Seaman]]
+|
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#ffcfcf"| <small>Ret</small>
+|-
+|rowspan="5"| [[1939 Grand Prix season|1939]]
+|rowspan="5"| [[Daimler-Benz|Daimler-Benz AG]]
+|rowspan="5"| [[Mercedes-Benz]] M163
+|
+| [[1939 Belgian Grand Prix|BEL]]
+| [[1939 French Grand Prix|FRA]]
+| [[1939 German Grand Prix|GER]]
+| [[1939 Swiss Grand Prix|SUI]]
+|-
+| [[Hermann Lang]]
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#cfcfff"| <small>Ret</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#ffcfcf"| <small>Ret</small>
+|-
+| [[Manfred von Brauchitsch]]
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#efcfff"| <small>Ret</small>
+|bgcolor="#ffcfcf"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|-
+| [[Rudolf Caracciola]]
+|bgcolor="#ffcfcf"| <small>Ret</small>
+|bgcolor="#ffcfcf"| <small>Ret</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|-
+| [[Richard Seaman]]
+|bgcolor="#cfcfff"| <small>Ret</small>
+|
+|
+|
+|-
+|}
+|valign="top"|
+{{EC driver results legend}}
+|}
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+{{commonscat|Mercedes-Benz W154}}
+{{Mercedes Grand Prix}}
+{{Silver Arrows}}
+[[Category:Mercedes-Benz vehicles|W154]]
+[[Category:Grand Prix cars]]
+
+[[de:Mercedes-Benz W 154]]
+[[sl:Mercedes-Benz W154]]
+[[sv:Mercedes-Benz W154]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = drains to
+|rdfs:domain = Lymph
+|rdfs:range = Lymph
+}}

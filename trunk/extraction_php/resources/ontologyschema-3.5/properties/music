@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = music
+| rdfs:range = MusicalArtist
+}}

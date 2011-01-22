@@ -1,0 +1,220 @@
+{{Infobox Automobile
+|name=BMW Z1
+|image=[[Image:BMWZ1.jpg|250px|BMW Z1]]
+|manufacturer=[[BMW]]
+|class=[[Roadster]]
+|production=March 1989&ndash;June 1991
+|inspired by=[[BMW 507]]
+|successor=[[BMW Z3]]
+|platform=[[FR layout]]
+|engine=2.5&nbsp;L ''[[BMW M20#M20B25|BMW M20B25]]'' [[Straight-6|I6]]
+|length=3,921&nbsp;mm (154.4&nbsp;in)
+|wheelbase=2,447&nbsp;mm (96.3&nbsp;in)
+|width=1,690&nbsp;mm (66.5&nbsp;in)
+|height=1,227&nbsp;mm (48.3&nbsp;in)
+|track=1,456&nbsp;mm (57.3&nbsp;in) ''front''<br />1,470&nbsp;mm (57.9&nbsp;in) ''rear''
+|weight=1,250&nbsp;kg (2,755.8&nbsp;lb) ''empty''<br />1,460&nbsp;kg (3,218.7&nbsp;lb) ''fully loaded''
+|related=[[BMW 3-Series]]
+|platform=[[BMW E30]]
+}}
+The '''BMW Z1''' was a two-seat [[roadster]] developed by [[BMW]] and produced from March 1989 to June 1991.<ref>Oswald, op. cit., p. 258. Production was to commence in June, 1988 but was delayed until March 1989.</ref>  The Z1 featured doors which, instead of opening outward or [[gull-wing doors|upward]], dropped down into the door sills. A total of 8,000 Z1 cars were produced.
+
+==History==
+The first example of a Z1 was released by BMW to the press in 1986 and later officially presented at the 1987 [[Frankfurt Motor Show]].  Initial demand was so fierce that BMW had 5,000 orders before production began.  However, demand dropped significantly around 1988 and BMW ended production in 1991.  There is speculation that the drop in demand was due to the early inflated demand from speculative investors.<ref name="ultimatecarpage.com">{{cite web|url=http://www.ultimatecarpage.com/frame.php?file=car.php&carnum=52 |title=1988 - 1991 BMW Z1 - Images, Specifications and Information |publisher=Ultimatecarpage.com |date= |accessdate=2009-09-27}}</ref> In 1988, however, BMW was quoted as saying that they had 35,000 orders for the Z1. 
+
+The BMW Z1 was designed over a three-year period by an in-house division of [[BMW Forschung und Technik GmbH]].  The development of the Z1 is attributed to Dr. [[Ulrich Bez]], not to forget the core of his team at BMW Technik GmbH (Alexander Pregl, Rudolf Müller, Lutz Janssen, Wolf-Henryk Menke, Dieter Schaffner, Klaus Faust, Sabine Zemelka and Stephan Stark). Control of the project was turned over to Dr. [[Klaus Faust]] when Bez left for [[Porsche]] in October, 1988. 
+
+The BMW Z1 was used to develop and debut several technologies.  Z1 designer [[Harm Lagaay]] mentioned that Z1 production helped generate patents for BMW's [[high-intensity discharge lamp]], integrated roll-bar, door mechanism, and underbody tray.
+
+==Z line==
+The Z in Z1 originally stood for ''Zukunft'' ([[German language|German]] for ''future'') and would later be used on other cars in the line: the [[BMW Z3|Z3]], [[BMW Z4|Z4]], and [[BMW Z8|Z8]]).  All of these vehicles (including the Z1) are two-door roadsters.
+
+==Construction==
+===Chassis===
+[[Image:BMW Z1 front.jpg|thumb|right|BMW Z1]]
+The chassis was specially designed for the Z1 and features a number of innovative features: removable body panels, continuously zinc welded seams, a composite undertray, and the unusual dropped doors.  Parts of the car (including the engine, gearbox, and front suspension) were borrowed from the [[BMW E30]] [[BMW 3-Series|325i]], but the Z1 remains largely original.<ref name=RT0389>{{cite journal |last=Dinkel |first=John |author= |authorlink= |coauthors= |date= |year=1989 |month=March |day= |title=Munich's Marvel |trans_title= |journal=Road & Track |volume= |series= |issue= |page= |pages= 72-73 |publisher= Diamandis Communications|location= Newport Beach CA|issn= |pmid= |pmc= |doi= |bibcode= |oclc= |id= |url= |language= |accessdate= |laysummary= |laysource= |laydate= |quote=}}</ref>
+
+The body was made from plastic and could be removed completely from the chassis. The side panels and doors are made of [[General Electric]]'s ''XENOY'' [[thermoplastic]].  The hood, trunk, and roof cover are '''GRP''' components made by Seger + Hoffman AG.  The car is painted in a special flexible lacquer finish developed jointly by AKZO Coatings and BMW Technik GmbH.
+
+During the Z1s launch, BMW suggested that owners purchase an additional set of body panels and change the color of the car from time to time.  The car could actually be driven with all of the panels completely removed, similar to the [[Pontiac Fiero]].  BMW noted that the body could be completely replaced in 40 minutes, although Z1 owners have reported that this may be optimistic.<ref>{{cite web|url=http://www.bmwz1.co.uk/z1const.htm |title=BMW Z1 construction |publisher=Bmwz1.co.uk |date= |accessdate=2009-09-27}}</ref>
+
+The entire vehicle was designed with aerodynamics in mind. 
+In specific, the entire [[undertray]] is completely flat and the [[muffler]] and rear valance were designed as integral aerodynamic components to decrease turbulence and rear lift.  The front end reportedly induces a high-pressure zone just forward of the front wheels to increase front-wheel traction.<ref>{{cite web|url=http://www.bmwz1.co.uk/z1aero.htm |title=BMW Z1 aerodynamics |publisher=Bmwz1.co.uk |date= |accessdate=2009-09-27}}</ref> The Z1 has a [[drag coefficient]] of 0.36&nbsp;C<sub>d</sub> with the top up or 0.43&nbsp;C<sub>d</sub> with it down.
+
+===Doors===
+The doors retract vertically down into the car's body instead of swinging outward or upward.  The inspiration for these doors came from more traditional roadsters which often feature removable metal or cloth doors.  Because removable doors did not fit within BMW's design goals, the retractable doors were installed instead.
+
+Because the body, with its high sills, offers crash protection independent of the doors, the vehicle may be legally and safely driven with the doors up or down, although they are not legal in the U.S.
+
+The windows may be operated independently of the doors, although they do retract automatically if the door is lowered.  Both the window and door are driven by electric motors through toothed rubber belts and may be moved manually in an emergency.<ref>{{cite web|url=http://www.bmwz1.co.uk/ |title=BMW Z1 |publisher=BMW Z1 |date= |accessdate=2009-09-27}}</ref>
+
+===Driveline===
+Both the engine (the [[BMW M20#M20B25|BMW M20B25]]) and the five-speed [[manual transmission|manual gearbox]] (the Getrag 260/5) were sourced from the E30 325i.  The 2.5&nbsp;L (2,494&nbsp;cc) 12-valve [[SOHC]] engine sits tilted 20&nbsp;degrees to the right to accommodate the low hoodline.<ref name="ultimatecarpage.com"/>  The engine produces {{convert|170|hp|kW|0|abbr=on}}{{Citation needed|date=October 2009}} at 5,800&nbsp;rpm and {{convert|222|Nm|lb·ft|abbr=on}}{{Citation needed|date=October 2009}} of torque in its original form, although several tuners have programs for increasing the performance of the Z1 by either upgrading or replacing the engine.
+
+===Suspension===
+The rear suspension, called the '''Z Axle''', was specially designed for the Z1.<ref>{{cite web|url=http://www.bmwz1.co.uk/z1home.htm |title=BMW Z1 |publisher=BMW Z1 |date= |accessdate=2009-09-27}}</ref> It was one of the first BMWs to feature a [[multi-link suspension|multi-link design]].<ref name="bmwworld.com">http://www.bmwworld.com/models/z1.htm</ref> In the 1990s, the Z-axle would be used on a variety of [[BMW Group]] vehicles, including the [[E36]] BMW 3-Series and the R40 [[Rover 75]].
+
+The Z1 was outfitted with 15&nbsp;in (381&nbsp;mm) diameter by 7&nbsp;in (178&nbsp;mm) wide [[wheel]]s on both the front and rear, shod with 205/55VR-15 [[tire]]s.<ref>[http://www.supercars.net/cars/1986@$BMW@$Z1x.html ]{{Dead link|date=September 2009}}</ref>
+
+==Technical data==
+{{-}}
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div style="float">'''Technical data BMW Z1 <ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- style="background:#ffdead;"
+! style="width:25%;"|BMW
+! style="width:75%;"|Z1
+|- style="background:#eee;"
+| Produced:&nbsp; || style="text-align:center;"|1989&ndash;1991
+|- style="background:#eee;"
+| Engine:&nbsp; || style="text-align:center;"|[[straight-6|6-cylinder-inline engine]] ([[four-stroke]]), front-mounted
+|- style="background:#eee;"
+| Bore x Stroke:&nbsp; || style="text-align:center;"|{{convert|84|x|75|mm|abbr=on}}
+|- style="background:#eee;"
+| Displacement:&nbsp; || style="text-align:center;"|2,494 cc
+|- style="background:#eee;"
+| Max. Power @ rpm:&nbsp; || style="text-align:center;"| {{convert|170|PS|kW hp|abbr=on}} @ 5,800&nbsp;rpm
+|- style="background:#eee;"
+| Max. Torque @ rpm:&nbsp; || style="text-align:center;"| {{convert|218|Nm|lbft|abbr=on}} @ 4,300&nbsp;rpm
+|- style="background:#eee;"
+| Compression Ratio:&nbsp; || style="text-align:center;"|8.8: 1
+|- style="background:#eee;"
+| Fuel feed:&nbsp; || style="text-align:center;"| Electronic fuel injection, [[Robert Bosch GmbH|Bosch]] Motronic
+|- style="background:#eee;"
+| Fuel tank capacity:&nbsp; || style="text-align:center;"|  {{Convert|57|L|usgal impgal|1|abbr=on}}
+|- style="background:#eee;"
+| Valvetrain:&nbsp; || style="text-align:center;"| [[SOHC]], toothed belt
+|- style="background:#eee;"
+|  Cooling:&nbsp; || style="text-align:center;"|Water
+|- style="background:#eee;"
+| Gearbox:&nbsp; || style="text-align:center;"| 5-speed manual <br/>  rear wheel drive, axle ratio 3.64:1
+|- style="background:#eee;"
+| Electrical system:&nbsp; || style="text-align:center;"|  12 volt
+|- style="background:#eee;"
+| Front suspension:&nbsp; || style="text-align:center;"| McPherson axle, coil springs, stabilising bar
+|- style="background:#eee;"
+| Rear suspension::&nbsp; || style="text-align:center;"| Lower trailing arms with diagonal rods, upper wishbones, coil springs, stabilising bar
+|- style="background:#eee;"
+| Brakes:&nbsp; || style="text-align:center;"| Disc brakes , power assisted, ABS
+|- style="background:#eee;"
+| Steering:&nbsp; || style="text-align:center;"| Rack and pinion steering, power assisted
+|- style="background:#eee;"
+| Body structure:&nbsp; || style="text-align:center;"| Plastic body panels on unibody steel chassis with glued-in lower tub 
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+| Dry weight:&nbsp; || style="text-align:center;"|{{convert|1290|kg|lb|abbr=on}}
+|- style="background:#eee;"
+| Loaded weight:&nbsp; || style="text-align:center;"|{{convert|1460|kg|lb|abbr=on}}
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+| Track front/<br />rear:&nbsp; || style="text-align:center;"|{{convert|1456|mm|in|abbr=on}} {{convert|1470|mm|in|abbr=on}}
+|- style="background:#eee;"
+| Wheelbase:&nbsp; || style="text-align:center;"| {{convert|2450|mm|in|abbr=on}}
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+| Length:&nbsp; || style="text-align:center;"| {{convert|3925|mm|in|abbr=on}}
+|- style="background:#eee;"
+| Width:&nbsp; || style="text-align:center;"| {{convert|1690|mm|in|abbr=on}}
+|- style="background:#eee;"
+| Height:&nbsp; || style="text-align:center;"| {{convert|1248|mm|in|abbr=on}} (with roof erected: {{convert|1277|mm|in|abbr=on}}
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+| Tyre/Tire sizes:&nbsp; || style="text-align:center;"| 225/45ZR16
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+|  || colspan="6" style="text-align:center;"|
+|- style="background:#eee;"
+| Top speed:&nbsp; || style="text-align:center;"|{{convert|220|km/h|mph|abbr=on}}
+|- style="background:#eee;"
+| 0-62&nbsp;mph:&nbsp; || style="text-align:center;"| 9.0 seconds
+|- style="background:#eee;"
+| Fuel Consumption (estimate):&nbsp; || style="text-align:center;"|{{convert|11.0|l/100 km|lk=off }}
+|}
+</div>
+</div>
+</div>
+
+===Interior===
+[[Image:BMW Z1 Tür.jpg|thumb]]
+The instruments on the Z1 are styled like motorcycle gauges, and the [[tachometer]] on the Z1 has a red needle, whereas all other gauges have a white needle.
+
+== Production ==
+BMW only produced 8,000 Z1 models.  The majority of these (6,443) were sold in BMW's native German market.<ref>{{cite web|url=http://www.bmw-z1.de/English/body_numbers.html |title=numbers |publisher=Bmw-z1.de |date= |accessdate=2009-09-27}}</ref> The country to receive the second-greatest number of Z1s, Italy, received less than 7% of the total sold domestically.  BMW was reportedly unable to build more than 10 to 20 Z1 vehicles each day.<ref name="z1z1.de">{{cite web|url=http://www.z1z1.de/frames/z1-artikel_fs.html |title=BMW Z1 Roadster |publisher=Z1z1.de |date= |accessdate=2009-09-27}}</ref> None were initially sold in North America, although examples have been independently imported since the car's launch. 
+
+There are reports that BMW built 12 Z1 vehicles during 1986 and 1987, bringing the total to 8,012 vehicles.<ref>Brossaud, 7.</ref><ref name="bmw-z1.org">http://www.bmw-z1.org/marge.htm</ref> However, most sources report the 8,000 figure.
+
+More than half of all Z1 vehicles (specifically, 4,091) were produced for the 1990 model year.  Seventy-eight Z1 vehicles were reportedly used as test mules, although most were later sold without a warranty and, presumably, at a lower price. 
+
+The Z1 was available in six exterior colors and four interior colors, although the vast majority (6,177) were red, black, or green with a dark grey interior.<ref name="bmw-z1.org"/> Light yellow exterior (''fun-gelb'' in [[German language|German]] or ''fun yellow'' in English; 133 examples made) or red interior (38 examples made) are the rarest Z1 colors.  The colors ''swimming pool blue'' and ''oh-so-orange'' were reserved for the car's designers, Bez and Lagaay. 
+
+Reportedly, some 1,101 Z1 vehicles were delivered without a factory radio installed.  In these vehicles, BMWS AG installed an aftermarket Sony radio in its place.
+
+None of the Z1 vehicles were sold with air conditioning. The vehicle's dashboard is very small and there was no room for both heat and cooling units. Some Z1 vehicles were converted using BMW E30 parts to have air conditioning, but reportedly the heater elements had to be removed. 
+
+BMW Z1 vehciles officially imported to France for sale there have yellow headlights instead of the clear ones found elsewhere.<ref>Brossaud, 8.</ref>
+
+==Price==
+New Z1 vehicles  sold new for 83,000 to 89,000 [[German mark|DM]]<ref name="z1z1.de"/><ref>http://www.z1z1.de/artikel/zeitung/cabriorevue7_92.html</ref> or between €42,000 and €45,500. As of 2001, used BMW Z1 vehicles were selling for between [[Franc|FF]]125,000 and 250,000 (between €19,000 and [[Euro|€]]38,000) in France including a 19.6% VAT.<ref>Brossaud, 18.</ref> One example fetched just over £20,000 at Bonham's 2004 Olympia auction.<ref name="ultimatecarpage.com"/> In 2006, cars could be bought in France for a price between €25,000 and €30,000 the upper being reach for cars in perfect condition with low mileage.
+
+==Modification==
+German motor tuners Alpina, Hamann-Motorsport, Schnitzer and Kelleners had programs for the enhancement of the Z1.<ref name="bmwworld.com"/> The Hamann program included a {{convert|220|hp|abbr=on}} 2.7&nbsp;L or a [[turbocharger|turbocharged]] {{convert|245|hp|abbr=on}} 2.5&nbsp;L engine. Schnitzer did the 2.7 conversion with {{convert|200|bhp|abbr=on}}, delivered a five-stud conversion with bigger brakes and lower suspension in combination with their Rennsport wheels. Kelleners' included a {{convert|286|to-|330|hp|abbr=on}} 3.0&nbsp;L engine.
+
+Alpina had a special arrangement with BMWS AG to modify BMW Z1 vehicles into the RLE (Roadster Limited Edition).  Alpina built 66 of these, although BMW notes that 82 can be tracked through Alpina. The RLE featured an upgraded 200&nbsp;hp 2.7&nbsp;L engine, sport muffler, tires, and assorted plaques and stripes.  The {{convert|0|to-|100|km/h|abbr=on}} time dropped from 8.4&nbsp;seconds to 7.1&nbsp;seconds, top speed increased from {{convert|219|km/h|mph|0|abbr=on}} to {{convert|228|km/h|mph|0|abbr=on}}, and price increased to 116,000 DM.<ref name="z1z1.de"/>
+
+At least one Z1 has been modified with a {{convert|330|PS|kW hp|0|abbr=on}} [[BMW E34|E34]] [[BMW M5|M5]] engine.<ref>http://www.z1z1.de/artikel/zeitung/tuning02_91.htm</ref>
+
+==Paraphernalia and other information==
+''[[Minichamps]]'', ''[[Schabak]]'', ''[[Revell]]'', and ''Herpa'' have made die-cast and plastic models of the Z1.  Additionally, 16,000 phone cards (10,000 in February 1992 and 6,000 in November 1997) featuring pictures of the Z1 were issued in France.<ref>Brossaud, 26-28</ref>
+
+The BMW Z1 also had a very small part in the [[Jackie Chan]] film, [[Armour of God II: Operation Condor]].
+
+BMW World reports that Z1 vehicles can be imported to the United States for show or display purposes.<ref>http://www.bmwworld.com/bmw/importing.htm</ref>
+
+==References==
+{{Reflist|colwidth=30em}}
+{{refbegin}}
+* Brossaud, Frederic (2001).  "[http://perso.wanadoo.fr/fred.brossaud/pdf/bmw_z1_eng.pdf BMW Z1]."  Accessed on January 2, 2005.
+* {{cite book | author = Kittler, Eberhard | title = Essential Bmw Roadsters & Cabriolets: The Cars and Their Story from 328 to Z3 | publisher = Bay View Books | year = 1996 | isbn = 1-870979-77-X (paperback)}}
+* {{cite book | author = Zeichner, Walter; BMW | title =  Typenkompaß BMW Personenwagen seit 1952 Erstauflage | publisher = Motorbuch Verlag | year = 1998 | isbn = 3-613-01873-X (paperback)}}
+* Mueller, Thomas G.; BMW |  DIE GROSSE BMW Z1 CHRONIK Erstauflage | publisher = www.edition-weiss-blau.de | year = 2002 |
+{{refend}}
+
+==External links==
+{{Commons category}}
+* [http://www.rowanatkinson.org/articles/00100.htm Rowan Atkinson on the BMW Z1] is a commentary on the Z1 written by [[Rowan Atkinson]] and which appeared in [[The Independent]] on February 4, 1990.
+* [http://www.bmw.de/bmw_aktuell/panorama/75jahre_teil10_z1.html BMW Aktuell: Panorama] Is [[BMW]]'s official [[German language]] history page describing the Z1.
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw Z1}}
+[[Category:BMW vehicles|Z1]]
+[[Category:Roadsters]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Vehicles introduced in 1988]]
+[[Category:Sports cars]]
+
+[[de:BMW Z1]]
+[[es:BMW Z1]]
+[[fr:BMW Z1]]
+[[it:BMW Z1]]
+[[nl:BMW Z1]]
+[[ja:BMW・Z1]]
+[[no:BMW Z1]]
+[[pl:BMW Z1]]
+[[pt:BMW Z1]]
+[[ru:BMW Z1]]
+[[sv:BMW Z1]]
+[[uk:BMW Z1]]

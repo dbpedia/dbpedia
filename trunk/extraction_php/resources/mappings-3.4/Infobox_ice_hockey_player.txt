@@ -1,0 +1,33 @@
+{{ DBpediaTemplateMapping
+| mapToClass = IceHockeyPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = shoots | ontologyProperty = IceHockeyPlayer/shoots }}
+	{{ DBpediaPropertyMapping | templateProperty = shot | ontologyProperty = IceHockeyPlayer/shoots }}
+	{{ DBpediaPropertyMapping | templateProperty = catches | ontologyProperty = IceHockeyPlayer/shoots }}
+	{{ DBpediaPropertyMapping | templateProperty = caught | ontologyProperty = IceHockeyPlayer/shoots }}
+	{{ DBpediaPropertyMapping | templateProperty = league | ontologyProperty = IceHockeyPlayer/league }}
+	{{ DBpediaPropertyMapping | templateProperty = prospect_team | ontologyProperty = IceHockeyPlayer/prospectTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = prospect_league | ontologyProperty = IceHockeyPlayer/prospectLeague }}
+	{{ DBpediaPropertyMapping | templateProperty = draft | ontologyProperty = IceHockeyPlayer/draft }}
+	{{ DBpediaPropertyMapping | templateProperty = draft_year | ontologyProperty = IceHockeyPlayer/draftYear }}
+	{{ DBpediaPropertyMapping | templateProperty = draft_team | ontologyProperty = IceHockeyPlayer/draftTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = wha_draft | ontologyProperty = IceHockeyPlayer/whaDraft }}
+	{{ DBpediaPropertyMapping | templateProperty = wha_draft_year | ontologyProperty = IceHockeyPlayer/whaDraftYear }}
+	{{ DBpediaPropertyMapping | templateProperty = wha_draft_team | ontologyProperty = IceHockeyPlayer/whaDraftTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = halloffame | ontologyProperty = IceHockeyPlayer/hallOfFame }}
+	{{ DBpediaPropertyMapping | templateProperty = position | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = weight_lb | ontologyProperty = Person/weight | unit = pound }}
+	{{ DBpediaPropertyMapping | templateProperty = team | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = former_teams | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = played_for | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality_2 | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = career_start | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = career_end | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = height_ft  | unit1 = foot  | templateProperty2 = height_in  | unit2 = inch  | ontologyProperty = Person/height }}
+}}

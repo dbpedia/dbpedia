@@ -1,0 +1,10 @@
+{{TemplateMapping
+| mapToClass = Musical
+| mappings = 
+	{{PropertyMapping | templateProperty = music | ontologyProperty = musicBy }}
+	{{PropertyMapping | templateProperty = lyrics | ontologyProperty = lyrics }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = book | ontologyProperty = author }}
+	{{PropertyMapping | templateProperty = basis | ontologyProperty = basedOn }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+}}

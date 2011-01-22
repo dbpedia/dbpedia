@@ -1,0 +1,106 @@
+{{Infobox Automobile
+|image=[[Image:VW Schwimmwagen 1.jpg|250px|VW Schwimmwagen]]
+|name=Volkswagen Type 166 'Schwimmwagen'
+|manufacturer=[[Volkswagen]]
+|parent_company=
+|production=15,000 (1942-1944)
+|assembly=
+|predecessor=
+|successor=
+|class=
+|body_style=
+|platform=
+|layout=
+|engine=4-cyl. boxer, air cooled<br />1,131 cc, 25 hp @ 3,000 rpm
+|related=
+|similar=
+|transmission=4-speed manual<br />2-speed transfer case;<br />4WD only on 1st gear / reverse
+|wheelbase= {{convert|200|cm|in|1|abbr=on}}
+|length={{convert|382.5|cm|in|1|abbr=on}}
+|width={{convert|148|cm|in|1|abbr=on}}
+|height={{convert|161.5|cm|in|1|abbr=on}}
+|ground_clearance={{convert|25|cm|in|1|abbr=on}}
+|weight=910 kg (1,345 kg GVW)
+|top_speed={{convert|80|km/h|mi/h|1|abbr=on}}  ({{convert|10|km/h|mi/h|1|abbr=on}} on water)
+|fuel_economy=
+|fuel_capacity={{Convert|50|L|usgal impgal|1|abbr=on}}
+| related = [[Volkswagen Kübelwagen#History|VW type 86 & 87]]
+| similar = [[Ford GPA|Ford GPA 'Seep']]
+}}
+The '''VW Type 128 and 166 Schwimmwagen''' (literally ''Floating / Swimming Car'') were [[amphibious vehicle|amphibious]] [[four-wheel drive]] off-roaders, used extensively by the German [[Wehrmacht]] and the [[Waffen-SS]] during the [[Second World War]]. The '''Type 166''' is the most numerous mass-produced amphibious car in history.
+
+==Development==
+Volkswagen Schwimmwagens used the engine and mechanicals of the VW Type 86 four-wheel drive prototype of the [[Kübelwagen]] and the Type 87 four-wheel drive 'Kübel/Beetle' Command Car, which in turn were based on the platform of the civilian [[Volkswagen Beetle]]. However, [[Erwin Komenda]], [[Ferdinand Porsche]]'s first car body designer, was forced to develop an all new unitized bodytub structure, since the utterly flat floorpan chassis of the existing VW vehicles was totally unsuited to smooth movement through water. Komenda patented his ideas for the swimming car at the [[Deutsches Patent- und Markenamt|German Patent office]].
+
+The earliest Type 128 prototype was based on the full-length Kübelwagen chassis with a 240&nbsp;cm (7.9 ft) [[wheelbase]]. Pre-production units of the 128, fitted with custom welded bodytubs, demonstrated that this construction was too weak for tough off-roading, had insufficient torsional rigidity, and easily suffered hull-ruptures at the front cross-member, as well as in the wheel-wells. This was unacceptable for an amphibious vehicle. The large-scale production models (Type 166) were therefore made smaller, and had a wheel-base of only 200&nbsp;cm (6.6 ft).
+
+VW Schwimmwagens were both produced by the Volkswagen factory at Fallersleben / [[Wolfsburg]], as well as by Porsche's facilities in Stuttgart; with the bodies (or rather hulls) produced by [[Ambi Budd]] in Berlin. From 1941 through 1944 a total of 15,584 Type 166 Schwimmwagen cars were produced; 14,276 at Fallersleben and 1,308 by Porsche. Given these numbers, the VW 166 is the most mass-produced amphibious car in history.{{Citation needed|date=September 2009}}
+Only 163 are known by the Schwimmwagen Registry to remain today, and only 13 have survived without restoration work.<ref>{{cite web|author=Bart Lemmens |url=http://www.vw166.com/schwimmwagen/registry/index.html |title=VW-Schwimmwagen type 166 - The VW-Schwimmwagen Registry |publisher=Vw166.com |date= |accessdate=2009-07-25}}</ref>
+
+==Technology==
+All Schwimmwagen were [[four wheel drive]] only on first gear (and reverse gears with some models) and had ZF self-locking differentials on both front and rear axles. Just like the Kübelwagen, the Schwimmwagen  had [[portal gear]] rear hubs that gave better ground clearance, while at the same time reducing drive-line torque stresses with their gear reduction at the wheels.
+
+When crossing water a screw propeller could be lowered down from the rear deck engine cover. When in place a simple coupling provided drive straight from an extension of the engine's crankshaft. This meant that screw propulsion was only available going forward. For reversing in the water there was the choice of using the standard equipment paddle or running the land drive in reverse, allowing the wheel-rotation to slowly take the vehicle back. The front wheels doubled up as rudders, so steering was done with the steering wheel both on land and on water.
+
+==Images==
+<gallery>
+File:Bundesarchiv Bild 146-1979-175-10, Carinhall, Göring begrüßt SS-Führer.jpg| [[Hermann Göring]] with a Schwimmwagen at [[Carinhall]]
+File:Bundesarchiv Bild 101I-721-0372-13A, Frankreich, Offiziere in Schwimmkübel.jpg| German officers in a Schwimmwagen in France in 1944
+Image:Schwimmwagen p1.jpg|Schwimmwagen from the December 1944 issue of the Intelligence Bulletin
+Image:Schwimmwagen_at_RAF_Duxford.jpg|VW Schwimmwagen at RAF, Duxford
+Image:VW_Schwimmwagen_2.jpg|Interior
+Image:IMG_5436.JPG|VW Schwimmwagen
+Image:Schwimmwagen_Dresden.jpg|Schwimmwagen, Army Museum Dresden
+Image:VW_Schwimmwagen_3.jpg|Propeller
+Image:KdF_166.JPG|Volkswagen Schwimmwagen
+Image:Kübelwagen and Panzerfaust.jpg|A Schwimmwagen loaded with [[Panzerfaust]] 60 anti-tank weapons.
+Image:KDF_166.JPG
+</gallery>
+
+==Volkswagen Schwimmwagen in fiction ==
+
+The [[amphibious vehicle]] in the [[manga]] and [[anime]] series ''[[Kokoro Library]]'', used by the three sisters who maintain the titular library, is very reminiscent of a Volkswagen Schwimmwagen, as is the vehicle used by Section III in [[Pumpkin Scissors]]. It was also used in Polish TV series ''[[Pan Samochodzik|Samochodzik i templariusze]]'' (Mr Automobile and Knight Templars) as main character's amphibious car (to which he owes his nickname), although in the book the car is described as modified [[Ferrari America#410 Superamerica|Ferrari 410 Superamerica]].
+
+==Literature==
+René Pohl: ''Mit dem Auto baden gehen.'' HEEL Verlag, Gut-Pottscheidt Konigswinter 1998, ISBN 3-89365-702-9
+
+==See also==
+*[[Amphicar]]
+*[[FMC XR311]]
+*[[FN Herstal AS 24]]
+*[[M151 MUTT]]
+*[[LuAZ-967]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Volkswagen Schwimmwagen}}
+* [http://www.lonesentry.com/articles/schwimmwagen/index.html U.S. Intelligence report on German Schwimmwagen]
+* [http://www.vw166.com/ The VW-Schwimmwagen Registry]
+* [http://www.schwimmwagen.de Schwimmwagen enthusiast site]
+* [http://www.williammaloney.com/Aviation/CanadianWarMuseum/GermanArmor/index_2.htm Schwimmwagen ] Photos of the Schwimmwagen at the Canada War Museum in Ottawa
+* [http://www.schwimmwagen.co.uk UK Schwimmwagen owners site]
+
+{{VW}}
+
+[[Category:World War II German vehicles]]
+[[Category:Volkswagen vehicles|Schwimmwagen]]
+[[Category:Amphibious vehicles]]
+[[Category:Rear-engined vehicles]]
+[[Category:Vehicles with boxer engines]]
+[[Category:Military Light Utility Vehicle]]
+
+[[cs:Volkswagen Schwimmwagen]]
+[[de:Volkswagen Typ 166 Schwimmwagen]]
+[[et:Schwimmwagen]]
+[[fr:Volkswagen Schwimmwagen]]
+[[it:Schwimmwagen]]
+[[nl:Volkswagen Schwimmwagen]]
+[[ja:シュビムワーゲン]]
+[[pl:Schwimmwagen]]
+[[pt:Schwimmwagen]]
+[[ru:Volkswagen Typ 166]]
+[[fi:Volkswagen Schwimmwagen]]
+[[sv:Volkswagen Schwimmwagen]]
+[[tr:Volkswagen Schwimmwagen]]

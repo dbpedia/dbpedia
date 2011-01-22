@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = training
+| rdfs:domain = Artist
+| rdfs:range = EducationalInstitution
+}}

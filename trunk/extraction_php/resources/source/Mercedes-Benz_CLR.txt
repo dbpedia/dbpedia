@@ -1,0 +1,72 @@
+{{Racing car |
+  Car_name         = Mercedes-Benz CLR |
+  Image            =  |
+  Category         = <small>[[Le Mans Prototype|Le Mans Grand Tourer Prototype]] (LMGTP)</small> |
+  Constructor      = [[AMG-Mercedes]] |
+  Designer         =  |
+  Team             = {{flagicon|DEU}} [[AMG-Mercedes]] |
+  Drivers          =  |
+  Chassis          = [[Carbon fibre]] and [[aluminium]] honeycomb monocoque |
+  Front suspension = [[Double wishbone suspension]] |
+  Rear suspension  = [[Double wishbone suspension]] |
+  Wheelbase        = {{convert|2670|mm|in|abbr=on}} |
+  Track            =  |
+  Engine name      = [[Mercedes-Benz]] ''GT 108 C'' |
+  Capacity         = {{convert|5721|cc|cuin|abbr=on}} |
+  Configuration    = [[V8 engine|V8]], |
+  Turbo/NA         = [[naturally-aspirated]], |
+  Engine position  = [[Mid engine|mid-mounted]] |
+  Gearbox name     = X-Trac |
+  Gears            = 6-speed |
+  Type             = [[Manual transmission|sequential manual]] |
+  Differential     =  |
+  Weight           = {{convert|921|kg|lb|abbr=on}} |
+  Fuel             = [[Mobil 1]] |
+  Tyres            = [[Bridgestone]] |
+  Debut            = [[1999 24 Hours of Le Mans]] |
+  Races            = 1 |
+  Wins             = 0 |
+  Poles            = 0 |
+  Fastest_laps     = 0 |
+  Teams_champ      =  |
+  Cons_champ       =  |
+  Drivers_champ    =  |
+  Last_season   = 1999 |
+}}
+The '''Mercedes-Benz CLR''' was a [[Le Mans Prototype]] built by [[Mercedes-Benz]] for the [[1999 24 Hours of Le Mans]]. It became infamous for spectacular crashes during its only competitive outing.
+
+==Racing history==
+In April 1999 Mercedes launched the new Mercedes CLR as successor to the [[FIA]] GT championship-winning [[Mercedes-Benz CLK-GTR]] and later [[Mercedes-Benz CLK-LM|CLK LM]] which would take part in the upcoming [[Le Mans 24 Hours]]. With tens of thousands of miles of testing on smooth race tracks, like Homestead and Hockenheimring, Mercedes felt that the car was quick enough to win the race, despite the short time spent on [[wind tunnel]] testing.
+
+Three cars were entered, numbered 4, 5, and 6, each driven by a German, a French, and an English speaking driver, to allow efficient international marketing. Mercedes' major competitors, [[Audi R8R]], [[BMW V12 LMR]], [[Cadillac]], [[Nissan R390 GT1]] and [[Toyota GT-One]], each entered two, three, or even four cars, making the 1999 Le Mans one of the toughest ever, particularly when additional competing smaller private teams like [[Panoz]] were considered. Only [[Porsche]], the winner of the previous year's race, was missing.
+
+However, [[Mark Webber]]'s #4 car became airborne at the ''Indianapolis'' corner during the Thursday night qualifying session. The car was rebuilt from scratch on Friday, modified for more downforce at the front, and entered in the Saturday morning warm-up<ref>http://www.youtube.com/watch?v=O9EU8JH03gE</ref>. This time, [[Mark Webber]] only made it to the hump before the ''Mulsanne'' corner when the car backflipped in spectacular fashion, this time caught in mid-air<ref>http://www.mulsannescorner.com/benzCLR1.html</ref> by photographers. Luckily, neither Webber nor anyone else was injured on either occasion.
+
+Despite the second incident and its echoes of the [[1955 Le Mans disaster]], [[Norbert Haug]] decided to go ahead and enter the other two cars in the afternoon, with additional modifications and instructions to the drivers not to follow others cars closely over humps.
+
+Still after over 4 hours, driven at the time by [[Peter Dumbreck]], the #5 CLR chased a [[Toyota GT-One]] and became airborne two turns before ''Indianapolis'', somersaulting and landing over the barriers into the trees, all on worldwide live TV. The crowd in the Le Mans grandstands was terrified, seeing the pictures on large screens without hearing any comment for a long time. No injuries were sustained in this incident. The race continued under [[Racing_flags#The_yellow_flag|yellow flag]] conditions. The #6 CLR, driven by [[Bernd Schneider (racecar driver)|Bernd Schneider]], was immediately retired.
+
+== Consequences ==
+ 
+The flying Mercedes at Le Mans brought the almost immediate cancellation of the CLR project. Its planned participation in the [[Norisring]] event "200 Meilen von Nürnberg" was cancelled, as was participation in the [[ALMS]] series. Mercedes blamed the humps at Le Mans, which were lowered later. In similar incidents at [[Road Atlanta]], the [[Porsche 911 GT1]]-98 of [[Yannick Dalmas]] had backflipped in 1998, and a [[BMW V12 LMR]] with [[Bill Auberlen]] did so on the same hump in 2000. Yet both these cars had raced, and won, at Le Mans without incidents. Later on Mercedes claimed that a miscalculation during aerodynamic development had a role in the crashes as air was literally lifting the car off the ground from the underside.
+
+In total, four CLRs were constructed by HWA and of those, two remain in existence.  The surviving #6 car, with yellow mirrors was never raced again, and it is not shown at the [[Mercedes-Benz Museum]], apparently having been sold to a private collector. It was driven in 2001 at the Hockenheimring, and in June 2009 on the Nürburgring<ref>http://www.modena-trackdays.com/index.php?id=235</ref><ref>http://www.racerspics.de/bilder/displayimage.php?album=82&pos=121</ref>. At least one CLR was exhibited in 2008 as part of an event for driver [[Bernd Schneider (racing driver)|Bernd Schneider]].<ref>[http://www.motorsport-aktuell.com/tourenwagen/dtm/news/rennen-und-feiern-6434.html Le-Mans-CLR von 1999]</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.mulsannescorner.com/benzCLR1.html 1999 Mercedes-Benz CLR], Michael J. Fuller, Mulsanne's Corner
+* [http://www.mulsannescorner.com/techarticle1.htm Mercedes CLR Flip at Le Mans], David Hansen, Mulsanne's Corner
+* [http://web.archive.org/web/20080102052625/http://www.geocities.com/simontmallett/clk5.html Mercedes CLK & CLR], Simon T Mallett, GreatRacingCars
+
+[[Category:Le Mans Prototypes]]
+[[Category:Mercedes-Benz vehicles|CLR]]
+[[Category:24 Hours of Le Mans race cars]]
+[[Category:Sports prototypes]]
+
+[[de:Mercedes-Benz CLR]]
+[[es:Mercedes-Benz CLR]]
+[[fr:Mercedes-Benz CLR]]
+[[it:Mercedes-Benz CLR]]
+[[ja:メルセデスベンツ・CLR]]

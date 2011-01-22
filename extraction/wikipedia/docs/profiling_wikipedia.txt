@@ -1,0 +1,56 @@
+To activate MediaWiki Profiling:
+
+See http://www.mediawiki.org/wiki/How_to_debug
+
+Add the following lines in LocalSettings.php right after
+the line require_once( "$IP/includes/DefaultSettings.php" ):
+
+	$wgDebugLogFile  = 'C:/Temp/wikipedia_en_old_log.txt';
+	
+	/** Only record profiling info for pages that took longer than this */
+	$wgProfileLimit = 0.0;
+	
+	/** Don't put non-profiling info into log file */
+	$wgProfileOnly = true;
+	
+	/** Log sums from profiling into "profiling" table in db. */
+	$wgProfileToDatabase = false;
+	
+	/** If true, print a raw call tree instead of per-function report */
+	$wgProfileCallTree = false;
+	
+	/** Should application server host be put into profiling table */
+	$wgProfilePerHost = false;
+	 
+	/** Detects non-matching wfProfileIn/wfProfileOut calls */
+	$wgDebugProfiling = false;
+	
+	/** Output debug message on every wfProfileIn/wfProfileOut */
+	$wgDebugFunctionEntry = 1;
+	
+	/** Lots of debugging output from SquidUpdate.php */
+	$wgDebugSquid = false;
+
+
+Add the following line in index.php after the line
+require_once( "$preIP/includes/WebStart.php" ):
+
+	wfProfileIn('index.php');
+
+Add the following lines in index.php at the end instead of the line
+$mediaWiki->restInPeace():
+
+	// $mediaWiki->restInPeace();
+	
+	wfProfileOut('index.php');
+	wfLogProfilingData();
+
+Add the following lines in StartProfiler.php instead of the line
+require_once( dirname(__FILE__).'/includes/ProfilerStub.php' ):
+
+	// require_once( dirname(__FILE__).'/includes/ProfilerStub.php' );
+	
+	require_once(  dirname(__FILE__).'/includes/Profiler.php' );
+	$wgProfiler = new Profiler;
+
+

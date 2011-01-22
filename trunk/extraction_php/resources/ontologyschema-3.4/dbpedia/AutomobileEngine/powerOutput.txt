@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= power output   
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= kilowatt
+|rdf:type	= owl:FunctionalProperty
+}}

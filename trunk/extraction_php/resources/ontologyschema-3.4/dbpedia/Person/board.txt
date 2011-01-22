@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= board
+|rdfs:domain	= Person
+}}

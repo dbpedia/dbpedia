@@ -1,0 +1,30 @@
+{{ DBpediaTemplateMapping
+| mapToClass = GrandPrix
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Type | ontologyProperty = GrandPrix/type }}
+	{{ DBpediaPropertyMapping | templateProperty = Course_mi | ontologyProperty = GrandPrix/course | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = Course_km | ontologyProperty = GrandPrix/course | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = Distance_laps | ontologyProperty = GrandPrix/distanceLaps }}
+	{{ DBpediaPropertyMapping | templateProperty = Distance_mi | ontologyProperty = GrandPrix/distance | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = Distance_km | ontologyProperty = GrandPrix/distance | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = Pole_Driver | ontologyProperty = GrandPrix/poleDriver }}
+	{{ DBpediaPropertyMapping | templateProperty = Pole_Country | ontologyProperty = GrandPrix/poleDriverCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = Pole_Team | ontologyProperty = GrandPrix/poleDriverTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = Fast_Driver | ontologyProperty = GrandPrix/fastestDriver }}
+	{{ DBpediaPropertyMapping | templateProperty = Fast_Team | ontologyProperty = GrandPrix/fastestDriverTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = Fast_Country | ontologyProperty = GrandPrix/fastestDriverCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = First_Driver | ontologyProperty = GrandPrix/firstDriver }}
+	{{ DBpediaPropertyMapping | templateProperty = First_Country | ontologyProperty = GrandPrix/firstDriverCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = First_Team | ontologyProperty = GrandPrix/firstDriverTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = Second_Driver | ontologyProperty = GrandPrix/secondDriver }}
+	{{ DBpediaPropertyMapping | templateProperty = Second_Country | ontologyProperty = GrandPrix/secondDriverCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = Second_Team | ontologyProperty = GrandPrix/secondTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = Third_Driver | ontologyProperty = GrandPrix/thirdDriver }}
+	{{ DBpediaPropertyMapping | templateProperty = Third_Country | ontologyProperty = GrandPrix/thirdDriverCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = Third_Team | ontologyProperty = GrandPrix/thirdTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = Country | ontologyProperty = Event/country }}
+	{{ DBpediaPropertyMapping | templateProperty = Date | ontologyProperty = Event/date }}
+	{{ DBpediaPropertyMapping | templateProperty = Year | ontologyProperty = Event/date }}
+	{{ DBpediaPropertyMapping | templateProperty = Official name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Location | ontologyProperty = Event/location }}
+}}

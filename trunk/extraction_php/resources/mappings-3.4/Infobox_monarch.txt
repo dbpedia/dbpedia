@@ -1,0 +1,33 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Monarch
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = heir | ontologyProperty = Monarch/heir }}
+	{{ DBpediaPropertyMapping | templateProperty = royal anthem | ontologyProperty = Monarch/royalAnthem }}
+	{{ DBpediaPropertyMapping | templateProperty = date of burial | ontologyProperty = Monarch/dateOfBurial }}
+	{{ DBpediaPropertyMapping | templateProperty = place of burial | ontologyProperty = Monarch/placeOfBurial }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = title | ontologyProperty = Person/title }}
+	{{ DBpediaPropertyMapping | templateProperty = reign | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = reign | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = othertitles | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = full name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = predecessor | ontologyProperty = Person/predecessor }}
+	{{ DBpediaPropertyMapping | templateProperty = successor | ontologyProperty = Person/successor }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 1 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 2 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 3 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 4 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 5 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 6 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 7 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 8 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 9 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse 10 | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = offspring | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = father | ontologyProperty = Person/father }}
+	{{ DBpediaPropertyMapping | templateProperty = mother | ontologyProperty = Person/mother }}
+	{{ DBpediaPropertyMapping | templateProperty = date of birth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place of birth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = date of death | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place of death | ontologyProperty = Person/deathPlace }}
+}}

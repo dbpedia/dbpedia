@@ -1,0 +1,19 @@
+{{ DBpediaTemplateMapping
+| mapToClass = NationalCollegiateAthleticAssociationAthlete
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = college | ontologyProperty = NationalCollegiateAthleticAssociationAthlete/college }}
+	{{ DBpediaPropertyMapping | templateProperty = sport | ontologyProperty = NationalCollegiateAthleticAssociationAthlete/sport }}
+	{{ DBpediaPropertyMapping | templateProperty = highschool | ontologyProperty = NationalCollegiateAthleticAssociationAthlete/highschool }}
+	{{ DBpediaPropertyMapping | templateProperty = former_school(s) | ontologyProperty = NationalCollegiateAthleticAssociationAthlete/formerHighschool }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = jersey | ontologyProperty = Athlete/currentNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = weight_lb | ontologyProperty = Person/weight | unit = pound }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = height_ft  | unit1 = foot  | templateProperty2 = height_in  | unit2 = inch  | ontologyProperty = Person/height }}
+}}

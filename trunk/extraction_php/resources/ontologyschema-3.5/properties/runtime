@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = runtime
+| rdfs:domain = Work
+| rdfs:range = Time
+}}

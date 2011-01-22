@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = failed launches
+| rdfs:range = xsd:integer
+}}

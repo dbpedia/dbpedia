@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Planet
+|rdfs:subClassOf = owl:Thing
+}}

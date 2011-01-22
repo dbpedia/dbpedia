@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = mainspan
+| rdfs:domain = Bridge
+| rdfs:range = Length
+}}

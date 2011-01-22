@@ -1,0 +1,194 @@
+{{Unreferenced|date=June 2009}}
+{{for|a complete overview of all the 3 series chassis|BMW 3 Series}}
+{{Infobox Automobile
+|name=BMW 3-Series (E36)
+|image=[[Image:BMW M3 E36 coupe.jpg|250px|1996 M3 Coupé]]
+|manufacturer=[[BMW]]
+|production=1990–1999
+|predecessor=[[BMW E30]]
+|successor=[[BMW E46]]
+|width=
+|height=
+|length=
+|class=[[Entry-level luxury car]] / [[Compact executive car]]
+|body_style=2-door [[coupé]]<br>2-door [[convertible]]<br>3-door [[hatchback]]<br>4-door [[sedan (car)|sedan]]<br>5-door [[station wagon]]
+|platform=
+|layout=[[FR layout]]
+|engine='''[[Petrol engine|Petrol]] Engines:'''<br>1.6L [[Straight-4|I4]]<br>1.8L I4<br>1.8L I4 [[Multi-valve|16 valve]]<br>1.9L I4 16 valve<br>2.0L [[Straight-6|I6]] 24 valve<br>2.5L I6 24 valve<br>2.8L I6 24 valve<br>3.0L I6 24 valve<br>3.2L I6 24 valve<br>'''[[Diesel engine|Diesel]] Engines:'''<br>1.7L I4 [[Turbodiesel]]<br>2.5L I6 Turbodiesel
+|transmission=5-speed [[manual transmission|manual]]<br>6-speed manual<br>4-speed [[automatic transmission|automatic]]<br>5-speed automatic
+|related=[[BMW M3]]<br>[[BMW Z3]]
+}}
+
+The '''BMW E36''' is the [[BMW_3_Series#E36.2C_1991-2000|third generation]] of the [[BMW 3 Series|3 Series]] [[compact executive car]]s produced by [[BMW]].  It was introduced in late 1990 (as a 1991 model) for Europe and in late 1991 (as a 1992 model) for US and Canada. It was the successor to the [[BMW E30|E30 3 Series]] and was eventually replaced by the [[BMW E46|E46 3 Series]] in 1998, though E36 coupes were still produced for the 1999 model year. The E36 experienced enormous success in the market. It laid strong foundations for the success that the [[BMW E46]] experienced in subsequent years.
+
+Also known as the "Dolphin shape", the E36 was sold from 1991 through 1999. All E36 sedans, coupes, and station wagons employed the "Z-axle" [[multilink suspension]] in the rear which had been proven in the [[BMW Z1|Z1]]. The hatchback body style, known as the [[BMW_Compact#E36.2F5|E36/5 or BMW Compact]], was identical to the regular E36 from front bumper to A-Pillar. In order to save space due to its truncated rear end, the Compact used a rear semi-trailing arm suspension based on the old E30 (also found in the [[BMW Z3|Z3]] and [[BMW M Coupe|M Coupe]]), instead of the [[Z-Axle]] Multilink employed in all other E36's.
+
+In the United States, the four-door E36 were on sale by fall 1991, while the E30 coupes were retained until well into 1992 when they were replaced until E36 coupes. The E36 convertible was delayed until 1994. The hatchback body style, known as the [[BMW Compact]], was introduced in 1995 starting with the 318ti, being very popular in Europe but largely unsuccessful in North America.  The "Touring" station wagon was sold in Europe from 1995, but was not offered in the United States. 
+
+DOHC engines were used across the range, with [[VANOS]] variable valve timing introduced in 1993. The 2.5 L M50B25 used in the 325i models was replaced in 1996 with the 2.8 L M52B28, creating the 328 line. Another 2.5 L engine, the M52B25, was reintroduced for 1998 but badged as the 323i rather than 325i.
+
+==International models==
+
+Each model is followed by its particular engine code.
+
+===Sedans===
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 88%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+! Name
+! Volume
+! Engine
+! Valvetrain
+! Fuel
+! Output
+! Torque
+! Engine code
+! 0-100&nbsp;km/h,s
+! Top speed
+! Years
+|- bgcolor=#ffffff
+|'''316i'''||{{convert|1596|cc|L cuin|abbr=on}}||[[straight-4|4cyl]]||[[SOHC]] 8V||[[Petrol]]||{{convert|100|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|141|Nm|lbft|abbr=on}} @4250 rpm||[[BMW M40#M40B16|M40B16]]||13.1||{{convert|191|km/h|mph|abbr=on}}||1990–1993
+|- bgcolor=#ffffff
+|'''316i'''||{{convert|1596|cc|L cuin|abbr=on}}||4cyl||SOHC 8V||Petrol||{{convert|102|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|150|Nm|lbft|abbr=on}} @3900 rpm||[[BMW M43#M43B16|M43B16]]||12.7||{{convert|195|km/h|mph|abbr=on}}||1993–1998
+|- bgcolor=#ffffff
+|'''318i'''||{{convert|1796|cc|L cuin|abbr=on}}||4cyl||SOHC 8V||Petrol||{{convert|113|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|162|Nm|lbft|abbr=on}} @4250 rpm||[[BMW M40#M40B18|M40B18]]||11.5||{{convert|198|km/h|mph|abbr=on}}||1990–1993
+|- bgcolor=#ffffff
+|'''318i'''||{{convert|1796|cc|L cuin|abbr=on}}||4cyl||SOHC 8V||Petrol||{{convert|115|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|168|Nm|lbft|abbr=on}} @3900 rpm||[[BMW M43#M43B18|M43B18]]||11.3||{{convert|201|km/h|mph|abbr=on}}||1993–1998
+|- bgcolor=#ffffff
+|'''318is'''||{{convert|1796|cc|L cuin|abbr=on}}||4cyl||[[DOHC]] [[multi-valve|16V]]||Petrol||{{convert|140|PS|kW hp|0|abbr=on}} @6000 rpm||{{convert|175|Nm|lbft|abbr=on}} @4500 rpm||[[BMW M42#M42B18|M42B18]]||10.2||{{convert|213|km/h|mph|abbr=on}}||1992–1996
+|- bgcolor=#ffffff
+|'''318is'''||{{convert|1895|cc|L cuin|abbr=on}}||4cyl||DOHC 16V||Petrol||{{convert|140|PS|kW hp|0|abbr=on}} @6000 rpm||{{convert|180|Nm|lbft|abbr=on}} @4300 rpm||[[BMW M44#M44B19|M44B19]]||10.2||{{convert|213|km/h|mph|abbr=on}}||1996–1998
+|- bgcolor=#ffffff
+|'''320i'''||{{convert|1991|cc|L cuin|abbr=on}}||[[straight-6|6cyl]]||DOHC 24V||Petrol||{{convert|150|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|190|Nm|lbft|abbr=on}} @4700 rpm||[[BMW M50#M50B20|M50B20]]||10.0||{{convert|214|km/h|mph|abbr=on}}||1991–1994
+|- bgcolor=#ffffff
+|'''320i'''||{{convert|1991|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|150|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|190|Nm|lbft|abbr=on}} @4200 rpm||[[BMW M52#M52B20|M52B20]]||9.9||{{convert|214|km/h|mph|abbr=on}}||1994–1998
+|- bgcolor=#ffffff
+|'''323i'''||{{convert|2494|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|170|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|245|Nm|lbft|abbr=on}} @3950 rpm||[[BMW M52#M52B25|M52B25]]||8.0||{{convert|231|km/h|mph|abbr=on}}||1995–1998
+|- bgcolor=#ffffff
+|'''325i'''||{{convert|2494|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|192|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|245|Nm|lbft|abbr=on}} @4700 rpm||[[BMW M50#M50B25|M50B25]]||8.0||{{convert|233|km/h|mph|abbr=on}}||1991–1993
+|- bgcolor=#ffffff
+|'''325i'''||{{convert|2494|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|192|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|245|Nm|lbft|abbr=on}} @4200 rpm||[[BMW M50#M50B25|M50B25]]||7.5||{{convert|233|km/h|mph|abbr=on}}||1993–1995
+|- bgcolor=#ffffff
+|'''328i'''||{{convert|2793|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|193|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|280|Nm|lbft|abbr=on}} @3950 rpm||[[BMW M52#M52B28|M52B28]]||7.4||{{convert|240|km/h|mph|abbr=on}}||1994–1998
+|- bgcolor=#ffffff
+|'''M3'''||{{convert|2990|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|286|PS|kW hp|0|abbr=on}} @7000 rpm||{{convert|320|Nm|lbft|abbr=on}} @2600 rpm||[[BMW S50#S50B30|S50B30]]||5.4||{{convert|250|km/h|mph|abbr=on}}||1992–1998
+|- bgcolor=#ffffff
+|'''M3'''||{{convert|3201|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|321|PS|kW hp|0|abbr=on}} @7400 rpm||{{convert|350|Nm|lbft|abbr=on}} @3250 rpm||[[BMW S50#S50B32|S50B32]]||5.2||{{convert|250|km/h|mph|abbr=on}}||1995–1998
+|- bgcolor=#ffffff||
+|'''318tds'''||{{convert|1665|cc|L cuin|abbr=on}}||4cyl||SOHC 8V||[[Diesel]]||{{convert|90|PS|kW hp|0|abbr=on}} @4400 rpm||{{convert|190|Nm|lbft|abbr=on}} @2000 rpm||[[BMW M41#M41D17|M41D17]]||14.4||{{convert|182|km/h|mph|abbr=on}}||1994–1998
+|- bgcolor=#ffffff||
+|'''325td'''||{{convert|2498|cc|L cuin|abbr=on}}||6cyl||SOHC 12V||Diesel||{{convert|115|PS|kW hp|0|abbr=on}} @4800 rpm||{{convert|222|Nm|lbft|abbr=on}} @1900 rpm||[[BMW M51#M51D25|M51D25]]||12.0||{{convert|198|km/h|mph|abbr=on}}||1991–1996
+|- bgcolor=#ffffff||
+|'''325td'''||{{convert|2498|cc|L cuin|abbr=on}}||6cyl||SOHC 12V||Diesel||{{convert|115|PS|kW hp|0|abbr=on}} @4800 rpm||{{convert|230|Nm|lbft|abbr=on}} @1900 rpm||[[BMW M51#M51D25|M51D25]]||12.0||{{convert|198|km/h|mph|abbr=on}}||1996–1998
+|- bgcolor=#ffffff||
+|'''325tds'''||{{convert|2498|cc|L cuin|abbr=on}}||6cyl||SOHC 12V||Diesel||{{convert|143|PS|kW hp|0|abbr=on}} @4800 rpm||{{convert|260|Nm|lbft|abbr=on}} @2200 rpm||[[BMW M51#M51D25|M51D25]]||10.4||{{convert|214|km/h|mph|abbr=on}}||1993–1996
+|- bgcolor=#ffffff||
+|'''325tds'''||{{convert|2498|cc|L cuin|abbr=on}}||6cyl||SOHC 12V||Diesel||{{convert|143|PS|kW hp|0|abbr=on}} @4600 rpm||{{convert|280|Nm|lbft|abbr=on}} @2200 rpm||[[BMW M51#M51D25|M51D25]]||10.4||{{convert|214|km/h|mph|abbr=on}}||1996–1998
+|}
+
+===Coupes===
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 88%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+! Name
+! Volume
+! Engine
+! Valvetrain
+! Sunny
+! Fuel
+! Output
+! Torque
+! Engine code
+! 0-100&nbsp;km/h,s
+! Top speed
+! Years
+|- bgcolor=#ffffff
+|'''316i'''||{{convert|1596|cc|L cuin|abbr=on}}||[[straight-4|4cyl]]||[[SOHC]] 8V||[[Petrol]]||{{convert|102|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|150|Nm|lbft|abbr=on}} @3900 rpm||[[BMW M43#M43B16|M43B16]]||11.3||{{convert|201|km/h|mph|abbr=on}}||1993–1998
+|- bgcolor=#ffffff
+|'''318is'''||{{convert|1796|cc|L cuin|abbr=on}}||4cyl||[[DOHC]] [[multi-valve|16V]]||Petrol||{{convert|140|PS|kW hp|0|abbr=on}} @6000 rpm||{{convert|175|Nm|lbft|abbr=on}} @4500 rpm||[[BMW M42#M42B18|M42B18]]||10.2||{{convert|213|km/h|mph|abbr=on}}||1992–1996
+|- bgcolor=#ffffff
+|'''318is'''||{{convert|1895|cc|L cuin|abbr=on}}||4cyl||DOHC 16V||Petrol||{{convert|140|PS|kW hp|0|abbr=on}} @6000 rpm||{{convert|180|Nm|lbft|abbr=on}} @4300 rpm||[[BMW M44#M44B19|M44B19]]||10.2||{{convert|213|km/h|mph|abbr=on}}||1996–1999
+|- bgcolor=#ffffff
+|'''320i'''||{{convert|1991|cc|L cuin|abbr=on}}||[[straight-6|6cyl]]||DOHC 24V||Petrol||{{convert|150|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|190|Nm|lbft|abbr=on}} @4700 rpm||[[BMW M50#M50B20|M50B20]]||10.0||{{convert|214|km/h|mph|abbr=on}}||1992–1993
+|- bgcolor=#ffffff
+|'''320i'''||{{convert|1991|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|150|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|190|Nm|lbft|abbr=on}} @4700 rpm||[[BMW M52#M52B20|M52B20]]||9.9||{{convert|214|km/h|mph|abbr=on}}||1993–1999
+|- bgcolor=#ffffff
+|'''323i'''||{{convert|2494|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|170|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|245|Nm|lbft|abbr=on}} @3950 rpm||[[BMW M52#M52B25|M52B25]]||8.0||{{convert|227|km/h|mph|abbr=on}}||1995–1999
+|- bgcolor=#ffffff
+|'''325is'''||{{convert|2494|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|192|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|245|Nm|lbft|abbr=on}} @4200 rpm||[[BMW M50#M50B25|M50B25]]||7.3||{{convert|233|km/h|mph|abbr=on}}||1992–1995
+|- bgcolor=#ffffff
+|'''328i'''||{{convert|2793|cc|L cuin|abbr=on}}||6cyl||DOHC 24V||Petrol||{{convert|193|PS|kW hp|0|abbr=on}} @5900 rpm||{{convert|280|Nm|
+|'''323ti'''||{{convert|2494|cc|L cuin|abbr=on}}||[[straight-6|6cyl]]||DOHC 24V||Petrol||{{convert|170|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|245|Nm|lbft|abbr=on}} @3950 rpm||[[BMW M52#M52B25|M52B25]]||6.4||{{convert|250|km/h|mph|abbr=on}}||1997–2000
+|- bgcolor=#ffffff||
+|'''318tds'''||{{convert|1665|cc|L cuin|abbr=on}}||4cyl||SOHC 8V||[[Diesel engine|Diesel]]||{{convert|90|PS|kW hp|0|abbr=on}} @4400 rpm||{{convert|190|Nm|lbft|abbr=on}} @2000 rpm||[[BMW M41#M41D17|M41D17]]||13.9||{{convert|175|km/h|mph|abbr=on}}||1995–2000
+|}
+
+==US/Canada models==
+
+*'''318i, 318is, 318ic''' (1992-1995) [[BMW M42#M42B18|M42B18]]
+*'''318ti''' (1994-1996) [[BMW M42#M42B18|M42B18]]
+*'''318i, 318ti''' (1996-1998) [[BMW M44#M44B19|M44B19]]
+*'''320i''' (1994) [[BMW M50#M52B20|M52B20]]
+*'''323i, 323is, 323ic''' (1996-1998) [[BMW M52#M52B25|M52B25]]
+*'''325i, 325is, 325ic''' (1992) [[BMW M50#M502B25|M50B25]]
+*'''325i, 325is, 325ic''' (1993-1995) [[BMW M50#M502B25|M50TUB25]]
+*'''328i, 328is, 328ic''' (1996-1998) [[BMW M52#M52B28|M52B28]]
+*'''M3''' (1995-1999 coupe, 1997-1998 sedan, 1998-1999 convertible) [[BMW M50#S50B30US|S50B30US]] (1995) and [[BMW_M52#S52B32|S52B32]] (1996-1999)
+
+==Other platform applications==
+[[File:Bmw 316 e36 engine bay-2.jpg|thumb|left|316 Coupe 1.6 L engine]]
+
+BMW made an entry level version of the E36 called the [[BMW Compact]], a three-door [[hatchback]].  This platform is often referred to as the '''E36/5'''.  In the [[United States]]/[[Canada]] market the car was sold as the  ''318ti'' and was equipped with a 1.8L, {{convert|139|bhp|kW PS|0|abbr=on}} [[BMW M42|M42B18]] engine and was priced at [[USD]]23,000 in 1995. In 1996 the 1.8 liter engine was replaced with 1.9L [[BMW M44|M44B19]] putting out {{convert|142|bhp|kW PS|0|abbr=on}} and {{convert|133|ft.lbf|N.m|abbr=on}} of torque. Ostensibly due to slow US sales of the E36/5 Compact, the [[BMW E46|E46]] Compact was not sold in the United States.
+
+A modified version of the E36 platform designated as '''E36/7''' was used for the [[BMW Z3]] roadster in 1996-2002. The modification for the [[BMW Z3]] Coupe was designated as '''E36/8'''.
+
+Even though the BMW factory was producing its own E36 convertibles, the [[Karosserie Baur|Baur]] "Top Cabriolet" conversion was still available, possibly out of respect for the long association of the two firms.
+
+==Motorsports==
+In 1998, a BMW E36 320d had won the [[24 Hours Nürburgring]], being able to drive very long [[wikt:stint|stints]].
+
+==Success==
+Sales figures for 3 Series coupes, sedans, and convertibles were at all time highs in North America and Europe. BMW achieved a strong market identity and presence due to the E36's high quality and "really fun to drive" character.{{Fact|date=June 2009}}
+
+<gallery perrow="5">
+File:1996-1998 BMW 323i (E36) sedan 02.jpg|1996–1998 BMW 323i sedan
+File:BMW E36 Touring Heck.JPG|E36 Wagon
+Image:BMW-E36-convertible.jpg|1994-1996 BMW E36 convertible (US)
+Image:'97-'99 BMW 323i Convertible E36 (Hudson).JPG|1997-1999 BMW 323i convertible (North America)
+Image:BMW M3 E36 coupe.jpg|1996 [[BMW M3]] Coupé
+File:M3 E36 Sedan.jpg|[[BMW M3]] Sedan
+Image:GASPBMW.JPG|Georgia State Patrol 318i
+Image:BMW-E36-sedan.jpg|E36 3-Series sedan (US)
+File:BMW-BAUR-TC4(2).JPG|[[Karosserie Baur|Baur]] Convertible
+Image:BMW-318ti.jpg|318ti Compact
+</gallery>
+
+==External links==
+{{commonscat}}
+<!--
+READ FIRST: External links that do not completely conform to the external link policy should be submitted through the Open Directory Project. Please read up on this by visiting the ODP article and external link policy:
+- http://en.wikipedia.org/wiki/Open_Directory_Project
+- http://en.wikipedia.org/wiki/Wikipedia:External_links
+-->
+* [http://www.bmw.com/generic/com/en/products/automobiles/showroom/3series/sedan/index.html Official BMW 3 Series]
+* {{dmoz|Recreation/Autos/Makes_and_Models/BMW/3_Series/|BMW 3 Series}}
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 3 Series (E36)}}
+[[Category:BMW platforms|E36]]
+[[Category:Vehicles introduced in 1990]]
+[[Category:Euro NCAP large family cars]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+
+[[da:BMW E36]]
+[[de:BMW E36]]
+[[et:BMW E36]]
+[[es:BMW E36]]
+[[nah:BMW 3er-E36]]
+[[nl:BMW E36]]
+[[no:BMW E36]]
+[[pl:BMW E36]]
+[[pt:BMW E36]]
+[[ru:BMW E36]]
+[[sv:BMW E36]]
+[[tr:BMW E36]]

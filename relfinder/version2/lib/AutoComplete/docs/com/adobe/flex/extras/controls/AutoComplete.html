@@ -1,0 +1,366 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="../../../../../style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../../../../../print.css" type="text/css" media="print">
+<meta content="AutoComplete,com.adobe.flex.extras.controls.AutoComplete,filterFunction,keepLocalHistory,lookAhead,typedText" name="keywords">
+<title>com.adobe.flex.extras.controls.AutoComplete</title>
+<script type="text/javascript" src="../../../../../AC_OETags.js"></script>
+</head>
+<body>
+<script type="text/javascript" language="javascript" src="../../../../../asdoc.js"></script><script type="text/javascript" language="javascript" src="../../../../../cookies.js"></script><script type="text/javascript" language="javascript">
+<!--
+				asdocTitle = 'AutoComplete - AutoComplete API Documentation';
+				var baseRef = '../../../../../';
+				window.onload = configPage;
+			--></script>
+<table style="display:none" id="titleTable" cellspacing="0" cellpadding="0" class="titleTable">
+<tr>
+<td align="left" class="titleTableTitle">AutoComplete Component Language Reference</td><td align="right" class="titleTableTopNav">
+<!-- <a onclick="loadClassListFrame('../../../../../all-classes.html')" href="../../../../../package-summary.html">All&nbsp;Packages</a>&nbsp;|&nbsp;<a onclick="loadClassListFrame('../../../../../all-classes.html')" href="../../../../../class-summary.html">All&nbsp;Classes</a>&nbsp;|&nbsp;<a onclick="loadClassListFrame('../../../../../index-list.html')" href="../../../../../all-index-A.html">Index</a>&nbsp;|&nbsp;<a href="../../../../../index.html?com/adobe/flex/extras/controls/AutoComplete.html&amp;com/adobe/flex/extras/controls/class-list.html" id="framesLink1">Frames</a><a onclick="parent.location=document.location" href="" style="display:none" id="noFramesLink1">No&nbsp;Frames</a> -->
+</td><td rowspan="3" align="right" class="titleTableLogo"><img alt="Adobe Logo" title="Adobe Logo" class="logoImage" src="../../../../../images/logo.jpg"></td>
+</tr>
+<tr class="titleTableRow2">
+<td align="left" id="subTitle" class="titleTableSubTitle">Class&nbsp;AutoComplete</td><td align="right" id="subNav" class="titleTableSubNav"><a href="#propertySummary">Properties</a>&nbsp;| <a href="#methodSummary">Methods</a>&nbsp;| <a href="#eventSummary">Events</a>&nbsp;| <a href="#includeExamplesSummary">Examples</a></td>
+</tr>
+<tr class="titleTableRow3">
+<td colspan="2">&nbsp;</td>
+</tr>
+</table>
+<script type="text/javascript" language="javascript">
+<!--
+if (!isEclipse() || window.name != ECLIPSE_FRAME_NAME) {titleBar_setSubTitle("Class AutoComplete"); titleBar_setSubNav(false,true,false,false,true,false,true,true,false,false,false,false,false,false);}
+--></script>
+<div class="MainContent">
+<table cellspacing="0" cellpadding="0" class="classHeaderTable">
+<tr>
+<td class="classHeaderTableLabel">Package</td><td><a onclick="javascript:loadClassListFrame('class-list.html')" href="package-detail.html">com.adobe.flex.extras.controls</a></td>
+</tr>
+<tr>
+<td class="classHeaderTableLabel">Class</td><td class="classSignature">public class AutoComplete</td>
+</tr>
+<tr>
+<td class="classHeaderTableLabel">Inheritance</td><td class="inheritanceList">AutoComplete <img class="inheritArrow" alt="Inheritance" title="Inheritance" src="../../../../../images/inherit-arrow.gif"> mx.controls.ComboBox</td>
+</tr>
+</table>
+<p></p>
+  The AutoComplete control is an enhanced 
+  TextInput control which pops up a list of suggestions 
+  based on characters entered by the user. These suggestions
+  are to be provided by setting the <code>dataProvider
+  </code> property of the control.
+  <p></p>
+<a name="mxmlSyntaxSummary"></a><span class="classHeaderTableLabel">MXML Syntax</span><span style="display:none" id="showMxmlLink"><a onclick="toggleMXMLOnly();" href="#mxmlSyntaxSummary"><img class="collapsedImage" alt="collapsed" title="collapsed" src="../../../../../images/collapsed.gif"> Show MXML Syntax</a>
+<br>
+</span><span id="hideMxmlLink"><a onclick="toggleMXMLOnly();" href="#mxmlSyntaxSummary"><img class="expandedImage" alt="expanded" title="expanded" src="../../../../../images/expanded.gif"> Hide MXML Syntax</a></span>
+<div class="mxmlSyntax" id="mxmlSyntax">   <p>The <code>&lt;fc:AutoComplete&gt;</code> tag inherits all the tag attributes
+  of its superclass, and adds the following tag attributes:</p>
+   <pre>
+  &lt;fc:AutoComplete
+    <b>Properties</b>
+    keepLocalHistory="false"
+    lookAhead="false"
+    typedText=""
+    filterFunction="<i>Internal filter function</i>"
+     <b>Events</b>
+    filterFunctionChange="<i>No default</i>"
+    typedTextChange="<i>No default</i>"
+  /&gt;
+  </pre>
+   </div>
+<script type="text/javascript" language="javascript">
+<!--
+setMXMLOnly();
+--></script>
+<p>
+<a href="#includeExamplesSummary">View the examples.</a>
+</p>
+<p>
+<span class="classHeaderTableLabel">See also</span>
+</p>
+<div class="seeAlso">mx.controls.ComboBox</div>
+<br>
+<hr>
+</div>
+<a name="propertySummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Public Properties</div>
+<table id="summaryTableProperty" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Property</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#filterFunction">filterFunction</a> : Function<div class="summaryTableDescription">
+   A function that is used to select items that match the
+   function's criteria.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#keepLocalHistory">keepLocalHistory</a> : Boolean<div class="summaryTableDescription">
+   When true, this causes the control to keep track of the
+   entries that are typed into the control, and saves the
+   history as a local shared object.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#lookAhead">lookAhead</a> : Boolean<div class="summaryTableDescription">
+   lookAhead decides whether to auto complete the text in the text field
+   with the first item in the drop down list or not.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#typedText">typedText</a> : String<div class="summaryTableDescription">
+   A String to keep track of the text changed as 
+   a result of user interaction.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<a name="methodSummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Public Methods</div>
+<table id="summaryTableMethod" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Method</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#AutoComplete()">AutoComplete</a>()</div>
+<div class="summaryTableDescription">
+      Constructor.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<a name="eventSummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Events</div>
+<table id="summaryTableEvent" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Event</th><th>Summary</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#event:filterFunctionChange">filterFunctionChange</a>
+</div>
+</td><td class="summaryTableDescription summaryTableCol">
+  Dispatched when the <code>filterFunction</code> property changes.</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#event:typedTextChange">typedTextChange</a>
+</div>
+</td><td class="summaryTableDescription summaryTableCol">
+  Dispatched when the <code>typedText</code> property changes.</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript" language="javascript">
+<!--
+showHideInherited();
+--></script>
+<div class="MainContent">
+<a name="propertyDetail"></a>
+<div class="detailSectionHeader">Property detail</div>
+<a name="filterFunction"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">filterFunction</td><td class="detailHeaderType">property</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>filterFunction:Function</code>&nbsp;&nbsp;[read-write]<p>
+   A function that is used to select items that match the
+   function's criteria. 
+   A filterFunction is expected to have the following signature:
+     <pre>f(item:*, text:String):Boolean</pre>
+     where the return value is <code>true</code> if the specified item
+   should displayed as a suggestion. 
+   Whenever there is a change in text in the AutoComplete control, this 
+   filterFunction is run on each item in the <code>dataProvider</code>.
+   
+    </p><p>The default implementation for filterFunction works as follows:<br>
+    If "AB" has been typed, it will display all the items matching 
+   "AB*" (ABaa, ABcc, abAc etc.).</p>
+     <p>An example usage of a customized filterFunction is when text typed
+   is a regular expression and we want to display all the
+   items which come in the set.</p>
+     <p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get filterFunction():Function</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set filterFunction(value:Function):void</code>
+<br>
+<br>
+<span class="label">Example</span>
+<br>   <pre>
+   public function myFilterFunction(item:*, text:String):Boolean
+   {
+      public var regExp:RegExp = new RegExp(text,"");
+      return regExp.test(item);
+   }
+   </pre>
+    <p></p>
+</div>
+<a name="keepLocalHistory"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">keepLocalHistory</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>keepLocalHistory:Boolean</code>&nbsp;&nbsp;[read-write]<p>
+   When true, this causes the control to keep track of the
+   entries that are typed into the control, and saves the
+   history as a local shared object. When true, the
+   completionFunction and dataProvider are ignored.
+     </p><p>The default value is <code>"false"</code>.</p>
+<p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get keepLocalHistory():Boolean</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set keepLocalHistory(value:Boolean):void</code>
+<br>
+</div>
+<a name="lookAhead"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">lookAhead</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>lookAhead:Boolean</code>&nbsp;&nbsp;[read-write]<p>
+   lookAhead decides whether to auto complete the text in the text field
+   with the first item in the drop down list or not. 
+     </p><p>The default value is <code>"false"</code>.</p>
+<p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get lookAhead():Boolean</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set lookAhead(value:Boolean):void</code>
+<br>
+</div>
+<a name="typedText"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">typedText</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>typedText:String</code>&nbsp;&nbsp;[read-write]<p>
+   A String to keep track of the text changed as 
+   a result of user interaction.
+  </p><p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get typedText():String</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set typedText(value:String):void</code>
+<br>
+</div>
+<a name="constructorDetail"></a>
+<div class="detailSectionHeader">Constructor detail</div>
+<a name="AutoComplete()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">AutoComplete</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">constructor</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public function AutoComplete()</code><p>
+      Constructor.
+     </p></div>
+<div class="detailSectionHeader">Event detail</div>
+<a name="event:filterFunctionChange"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">filterFunctionChange</td><td class="detailHeaderType">event&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<span class="label">Event object type: </span><code>flash.events.Event</code>
+<br>
+<p></p><p>
+  Dispatched when the <code>filterFunction</code> property changes.
+   You can listen for this event and update the component
+  when the <code>filterFunction</code> property changes.</p>
+ 
+  </p></div>
+<a name="event:typedTextChange"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">typedTextChange</td><td class="detailHeaderType">event&nbsp;</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<span class="label">Event object type: </span><code>flash.events.Event</code>
+<br>
+<p></p><p>
+  Dispatched when the <code>typedText</code> property changes.
+   You can listen for this event and update the component
+  when the <code>typedText</code> property changes.</p>
+ 
+  </p></div>
+<a name="includeExamplesSummary"></a>
+<div class="detailSectionHeader">Examples</div>
+<div class="exampleHeader">AutoCompleteCountriesData</div>
+<div class="detailBody">
+<div class="listing">
+<pre>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" xmlns:fc="http://www.adobe.com/2006/fc"&gt;
+    &lt;mx:Script source="CountriesData.as" /&gt;
+    &lt;mx:Panel title="AutoComplete Example" height="75%" width="75%" layout="horizontal"
+        paddingTop="10" paddingBottom="10" paddingLeft="10" paddingRight="10"&gt;
+        &lt;mx:VBox&gt;
+            &lt;mx:HBox&gt;
+                &lt;fc:AutoComplete id="AC" dataProvider="{myDP}" labelField="name"/&gt;
+                &lt;mx:VBox width="250"&gt;
+                &lt;mx:Text  color="blue" text="Type the name of the country"/&gt;
+                &lt;mx:Label text="Rank (Based on Density): {AC.selectedItem.rank}"/&gt;
+                &lt;mx:Label text="You selected: {AC.selectedItem.name}"/&gt;
+                &lt;mx:Label text="Density (Pop per km square): {AC.selectedItem.density}"/&gt;
+                &lt;mx:Label text="Population: {AC.selectedItem.population}"/&gt;
+                &lt;mx:Label text="Area (km square): {AC.selectedItem.area}"/&gt;
+                &lt;/mx:VBox&gt;         
+            &lt;/mx:HBox&gt;
+            &lt;mx:Text  text="Source:"/&gt;
+            &lt;mx:Text  htmlText="{source}" color="#0033CC"/&gt;
+        &lt;/mx:VBox&gt;
+    &lt;/mx:Panel&gt;    
+&lt;/mx:Application&gt;</pre>
+</div>
+<script type="text/javascript" language="javascript">
+<!--
+				AC_FL_RunContent(
+					"src", "../../../../../../docs/com/adobe/flex/extras/controls/example/AutoCompleteCountriesData/AutoCompleteCountriesData",
+					"width", "100%",
+					"height", "400px",
+					"align", "middle",
+					"id", "example1",
+					"quality", "high",
+					"bgcolor", "",
+					"name", "example1",
+					"flashvars","",
+					"allowScriptAccess","sameDomain",
+					"type", "application/x-shockwave-flash",
+					"pluginspage", "http://www.macromedia.com/go/getflashplayer"
+				);
+			--></script>
+</div>
+<br>
+<br>
+<hr>
+<br>
+<p></p>
+<center class="copyright">&copy; 2004-2006 Adobe Systems Incorporated. All rights reserved.<br>Fri Sep 22 2006, 6:37 PM IST </center>
+</div>
+</body>
+</html>
+<!--Fri Sep 22 2006, 6:37 PM IST -->

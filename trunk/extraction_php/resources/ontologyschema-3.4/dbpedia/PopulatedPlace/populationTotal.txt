@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = population total
+|rdfs:domain = PopulatedPlace
+|rdfs:range = xsd:integer
+}}

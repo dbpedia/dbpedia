@@ -1,0 +1,24 @@
+{{TemplateMapping
+| mapToClass = Protein
+| mappings = 
+	{{PropertyMapping | templateProperty = Symbol | ontologyProperty = symbol }}
+	{{PropertyMapping | templateProperty = AltSymbols | ontologyProperty = symbol }}
+	{{PropertyMapping | templateProperty = ATC_prefix | ontologyProperty = atcPrefix }}
+	{{PropertyMapping | templateProperty = ATC_suffix | ontologyProperty = atcSuffix }}
+	{{PropertyMapping | templateProperty = ATC_supplemental | ontologyProperty = atcSupplemental }}
+	{{PropertyMapping | templateProperty = CAS_number | ontologyProperty = casNumber }}
+	{{PropertyMapping | templateProperty = CAS_supplemental | ontologyProperty = casSupplemental }}
+	{{PropertyMapping | templateProperty = DrugBank | ontologyProperty = drugbank }}
+	{{PropertyMapping | templateProperty = EntrezGene | ontologyProperty = entrezgene }}
+	{{PropertyMapping | templateProperty = HGNCid | ontologyProperty = hgncid }}
+	{{PropertyMapping | templateProperty = OMIM | ontologyProperty = omim }}
+	{{PropertyMapping | templateProperty = PDB | ontologyProperty = pdb }}
+	{{PropertyMapping | templateProperty = RefSeq | ontologyProperty = refseq }}
+	{{PropertyMapping | templateProperty = UniProt | ontologyProperty = uniprot }}
+	{{PropertyMapping | templateProperty = ECnumber | ontologyProperty = ecNumber }}
+	{{PropertyMapping | templateProperty = Chromosome | ontologyProperty = chromosome }}
+	{{PropertyMapping | templateProperty = Arm | ontologyProperty = arm }}
+	{{PropertyMapping | templateProperty = Band | ontologyProperty = band }}
+	{{PropertyMapping | templateProperty = LocusSupplementaryData | ontologyProperty = locusSupplementaryData }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+}}

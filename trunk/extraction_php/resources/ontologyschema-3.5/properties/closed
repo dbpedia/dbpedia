@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = closed
+| rdfs:domain = EducationalInstitution
+| rdfs:range = xsd:date
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = cargo gas
+|rdfs:domain = Spacecraft
+|rdfs:range = kilogram
+}}

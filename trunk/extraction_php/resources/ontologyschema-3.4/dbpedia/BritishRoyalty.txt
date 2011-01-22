@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = British Royalty
+|rdfs:subClassOf = Person
+}}

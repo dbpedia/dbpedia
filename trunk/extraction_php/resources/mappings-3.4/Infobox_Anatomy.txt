@@ -1,0 +1,16 @@
+{{ DBpediaTemplateMapping
+| mapToClass = AnatomicalStructure
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = GraySubject | ontologyProperty = AnatomicalStructure/graySubject }}
+	{{ DBpediaPropertyMapping | templateProperty = GrayPage | ontologyProperty = AnatomicalStructure/grayPage }}
+	{{ DBpediaPropertyMapping | templateProperty = Precursor | ontologyProperty = AnatomicalStructure/precursor }}
+	{{ DBpediaPropertyMapping | templateProperty = Artery | ontologyProperty = AnatomicalStructure/artery }}
+	{{ DBpediaPropertyMapping | templateProperty = Vein | ontologyProperty = AnatomicalStructure/vein }}
+	{{ DBpediaPropertyMapping | templateProperty = Nerve | ontologyProperty = AnatomicalStructure/nerve }}
+	{{ DBpediaPropertyMapping | templateProperty = Lymph | ontologyProperty = AnatomicalStructure/lymph }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshName | ontologyProperty = AnatomicalStructure/meshName }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshNumber | ontologyProperty = AnatomicalStructure/meshNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsPre | ontologyProperty = AnatomicalStructure/dorlandsPrefix }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsSuf | ontologyProperty = AnatomicalStructure/dorlandsSuffix }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+}}

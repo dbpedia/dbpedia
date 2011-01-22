@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = upper age
+| rdfs:domain = School
+| rdfs:range = xsd:integer
+}}

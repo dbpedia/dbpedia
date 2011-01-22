@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = introduced
+| rdfs:domain = Beverage
+| rdfs:range = xsd:date
+}}

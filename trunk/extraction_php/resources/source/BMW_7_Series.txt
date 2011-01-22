@@ -1,0 +1,645 @@
+{{Infobox Automobile
+|image=[[Image:Bmw-f01-wiki-paultan.org.jpg|250px|F02 BMW 750Li]] <br /> 2009 BMW 750Li
+|name=BMW 7 Series
+|manufacturer=[[BMW]]
+|production=1977–present
+|predecessor=[[BMW New Six]]
+|class=[[Full-size]] [[luxury car]]
+|body_style=4-door [[sedan (car)|sedan]]
+|layout=[[FR layout]]
+|assembly=[[Dingolfing]], [[Germany]]<ref>{{cite web|author=monocom gmbh Dingolfing |url=http://www.bmw-werk-dingolfing.de |title=BMW Werk Dingolfing |publisher=Bmw-werk-dingolfing.de |date= |accessdate=2009-10-14}}</ref>
+}}
+
+The '''BMW 7 Series''' is a line of [[full-size]] [[luxury vehicle]]s produced by the [[Germany|German]] automaker [[BMW]]. Introduced in 1977, it is BMW's [[flagship car]] and is only available as a [[sedan (car)|sedan]].
+
+There have been five generations of the 7 Series:
+* [[BMW E23]] (1977–1986)
+* [[BMW E32]] (1987–1994)
+* [[BMW E38]] (1995–2001)
+* [[BMW E65/E66]] (2002–2008)
+* [[BMW F01]] (2009–present)
+
+==E23 (1977–1986)==
+{{Infobox Automobile generation
+|name=E23
+|image=[[Image:Bmw e23 v sst.jpg|250px|BMW E23]]
+|production=1977–1986
+|weight=
+|wheelbase=
+|length=
+|width=
+|height=
+|layout=
+|fuel_economy=
+|body_style=
+|engine=3.2 [[Liter|L]] [[I6]]<br />3.4 [[Liter|L]] [[I6]]<br />2.5 L I6<br />2.8 L I6<br />3.0 L I6<br />3.3 L I6<br />3.5 L I6
+|fuel_capacity=
+|transmission=4-speed [[automatic transmission|automatic]]<br />5-speed [[manual transmission|manual]]
+|speed=
+}}
+{{main|BMW E23}}
+Models offered:
+
+{| class="wikitable" style="font-size:95%;"
+|-
+!rowspan=2|Model
+!rowspan=2|Engine
+!colspan=4|Power
+!colspan=3|Torque
+!rowspan=2|Built
+|-
+!PS
+!kW
+!hp
+!at rpm
+!N·m
+!ft·lbf
+!at rpm
+|-
+|725‡ ||2494 cc I-6
+| {{convert|150|PS|kW hp|disp=table}}
+|align=right| 5800
+| {{convert|208|N.m|disp=table}}
+|align=right| 4000
+| style="text-align:center;"| 1977−1979?
+|-
+|728 ||2788 cc I-6
+| {{convert|170|PS|kW hp|disp=table}}
+|align=right| 5800
+| {{convert|233|N.m|disp=table}}
+|align=right| 4000
+| style="text-align:center;"| 1977−1979
+|-
+|728i || 2788 cc I-6
+| {{convert|184|PS|kW hp|disp=table}}
+|align=right| 5800
+| {{convert|235|N.m|disp=table}}
+|align=right| 4200
+| style="text-align:center;"| 1979−1986
+|-
+|730 || 2985 cc I-6
+| {{convert|184|PS|kW hp|disp=table}}
+|align=right| 5800
+| {{convert|255|N.m|disp=table}}
+|align=right| 3500
+| style="text-align:center;"| 1977−1979
+|-
+|732i || 3205 cc I-6
+| {{convert|196|PS|kW hp|disp=table}}
+|align=right| 5500
+| {{convert|279|N.m|disp=table}}
+|align=right| 4500
+| style="text-align:center;"| 1979−1986
+|-
+|733i || 3205 cc I-6
+| {{convert|197|PS|kW hp|disp=table}}
+|align=right| 5500
+| {{convert|279|N.m|disp=table}}
+|align=right| 4300
+| style="text-align:center;"|1977−1979
+|-
+|735i || 3453 cc I-6
+| {{convert|218|PS|kW hp|disp=table}}
+|align=right| 5200
+| {{convert|304|N.m|disp=table}}
+|align=right| 4000
+| style="text-align:center;"| 1979−1982
+|-
+|735i || 3430 cc I-6
+| {{convert|218|PS|kW hp|disp=table}}
+|align=right| 5200
+| {{convert|304|N.m|disp=table}}
+|align=right| 4000
+| style="text-align:center;"| 1982−1986
+|-
+|745i || 3205 cc I-6
+| {{convert|252|PS|kW hp|disp=table}}
+|align=right| 5200
+| {{convert|374|N.m|disp=table}}
+|align=right| 2600
+| style="text-align:center;"| 1980−1982
+|-
+|745i || 3430 cc I-6
+| {{convert|252|PS|kW hp|disp=table}}
+|align=right| 4900
+| {{convert|374|N.m|disp=table}}
+|align=right| 2200
+| style="text-align:center;"| 1983−1986
+|-
+!colspan=13 | North America and Japan
+|-
+|733i || 3210 cc I-6
+|align=right| 179
+|align=right| 132
+|align=right| 177
+| 5500
+|align=right| 266
+|align=right| 196
+| 4000
+| MY 1978−1979
+|-
+|733i || 3210 cc I-6
+|align=right| 176
+|align=right| 130
+|align=right| 174
+| 5200
+|align=right| 255
+|align=right| 188
+| 4200
+| MY 1980−1981
+|-
+|733i || 3210 cc I-6
+|align=right| 184
+|align=right| 135
+|align=right| 181
+| 6000
+|align=right| 264
+|align=right| 195
+| 4000
+| MY 1982−1984
+|-
+|735i/L7 || 3430 cc I-6
+|align=right| 185
+|align=right| 136
+|align=right| 182
+| 5400
+|align=right| 290
+|align=right| 214
+| 4000
+| MY 1985−1987,<br/>L7 1986–1987
+|-
+!colspan=13 | South Africa
+|-
+|745i || 3453 cc I-6
+| {{convert|286|PS|kW hp|disp=table}}
+|align=right| 6500
+| {{convert|340|N.m|disp=table}}
+|align=right| 4500
+| style="text-align:center;"| 198?−198?
+|-
+|colspan=13| '''Note:''' ‡ For government agencies and on special order only<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945–1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}, p. 244</ref>
+|}
+{{-}}
+
+==E32 (1987–1995)==
+{{Infobox Automobile generation
+|name=E32
+|image=[[Image:BMW-740iL.jpg|250px|BMW 740iL]]
+|production=1986–1995
+|weight=
+|wheelbase= {{convert|2832|mm|1|abbr=on}} (Base)<br /> {{convert|2946|mm|1|abbr=on}} (Middle & Top End)
+|length={{convert|4910|mm|1|abbr=on}} (Base)<br /> {{convert|5024|mm|1|abbr=on}} (Middle & Top End)
+|layout=
+|width= {{convert|1844|mm|1|abbr=on}}
+|height= {{convert|1412|mm|1|abbr=on}} (Base)<br /> {{convert|1400|mm|1|abbr=on}} (Middle & Top End)
+|body_style=
+|engine=3.0 [[Liter|L]] 188 [[Horsepower|hp]] [[I6]]<br />
+3.0 L {{convert|218|hp|abbr=on}} [[V8 engine|V8]]<br />
+3.4 L {{convert|211|hp|abbr=on}} [[I6]]<br />
+4.0 L {{convert|286|hp|abbr=on}} [[V8 engine|V8]]<br />
+5.0 L {{convert|299|hp|abbr=on}} [[V12 engine|V12]]
+|fuel_capacity={{Convert|81|L|usgal impgal|1|abbr=on}} (Base)<br />{{Convert|90|L|usgal impgal|1|abbr=on}} (Middle)<br />{{Convert|91|L|usgal impgal|1|abbr=on}} (Top End)
+|transmission=4-speed [[automatic transmission|automatic]]<br />5-speed [[manual transmission|manual]]<br />5-speed [[automatic transmission|automatic]]
+|speed=
+}}
+{{main|BMW E32}}
+The E32 was introduced in 1986, with the 730i and 735i featuring 3.0 L and 3.5 L [[straight-6]] engines respectively, and a new, 5.0 L, {{convert|300|hp}} [[V12 engine]] for the 750i. In 1992, 3.0 L and 4.0 L [[V8 engine|V8]] engines were added to the lineup (730i and 740i). All models were also available in a stretched 'L' version, which had 10&nbsp;cm of extra legroom for the rear passengers. See [[BMW E32]] article for more information.
+
+{| class="wikitable" style="font-size:95%;"
+|-
+! Model
+! Engine Code
+! Engine Type
+! Displacement
+! Power
+! Torque
+! 0–100&nbsp;km/h ([[Second|s]])
+! Years made
+|-
+| 730i
+| [[BMW M30|M30]]
+| [[straight-6|I6]] 12V
+| {{convert|2986|cc|abbr=on}}
+| {{convert|188|bhp|kW PS|0|abbr=on}} @ 5800
+| {{convert|260|Nm|lb·ft|abbr=on}} @ 4000
+| 9.3 ([[manual transmission|man]]) / 10.6 ([[Automatic transmission|aut]])
+| 1986–1994
+|-
+| 735i
+| [[BMW M30|M30]]
+| [[straight-6|I6]] 12V
+| {{convert|3430|cc|abbr=on}}
+| {{convert|211|bhp|kW PS|0|abbr=on}} @ 4900
+| {{convert|305|Nm|lb·ft|abbr=on}} @ 4000
+| 8.3 ([[manual transmission|man]]) / 9.1 ([[Automatic transmission|aut]])
+| 1986–1992
+|-
+| 730i V8
+| [[BMW M60|M60]]
+| [[V8 engine|V8]] 32V
+| {{convert|2997|cc|abbr=on}}
+| {{convert|218|bhp|kW PS|0|abbr=on}} @ 5800
+| {{convert|290|Nm|lb·ft|abbr=on}} @ 4500
+| 8.5 ([[manual transmission|man]]) / 9.3 ([[Automatic transmission|aut]])
+| 1992–1994
+|-
+| 740i
+| [[BMW M60|M60]]
+| [[V8 engine|V8]] 32V
+| {{convert|3982|cc|abbr=on}}
+| {{convert|286|bhp|kW PS|0|abbr=on}} @ 5800
+| {{convert|400|Nm|lb·ft|abbr=on}} @ 4500
+| 7.4 ([[Automatic transmission|aut]])
+| 1992–1994
+|-
+| 750i
+| [[BMW M70|M70]]
+| [[V12 engine|V12]] 24V
+| {{convert|4988|cc|abbr=on}}
+| {{convert|299|bhp|kW PS|0|abbr=on}} @ 5200
+| {{convert|450|Nm|lb·ft|abbr=on}} @ 4100
+| 7.4([[Automatic transmission|aut]])
+| 1987–1994
+|}
+U.S figures
+{| class="wikitable" style="font-size:95%;"
+|-
+! Model
+! Engine Code
+! Engine Type
+! Displacement ([[Cubic centimetre|cc]])
+! Power
+! Torque
+! 0–100&nbsp;km/h ([[Second|s]])
+! Years made
+|-
+| 735i/L
+| [[BMW M30|M30]]
+| [[straight-6|I6]] 12V
+| {{convert|3430|cc|abbr=on}}
+| {{convert|208|bhp|kW PS|0|abbr=on}} @ 4900
+| {{convert|305|Nm|lb·ft|abbr=on}} @ 4000
+| 8.3 ([[manual transmission|man]]) / 9.1 ([[Automatic transmission|aut]])
+| 1988–1992
+|-
+| 740i/L
+| [[BMW M60|M60]]
+| [[V8 engine|V8]] 32V
+| {{convert|3982|cc|abbr=on}}
+| {{convert|282|bhp|kW PS|0|abbr=on}} @ 5800
+| {{convert|400|Nm|lb·ft|abbr=on}} @ 4500
+| 7.4 ([[Automatic transmission|aut]])
+| 1993–1994
+|-
+| 750i/L
+| [[BMW M70|M70]]
+| [[V12 engine|V12]] 24V
+| {{convert|4988|cc|abbr=on}}
+| {{convert|296|bhp|kW PS|0|abbr=on}} @ 5200
+| {{convert|450|Nm|lb·ft|abbr=on}} @ 4100
+| 7.4([[Automatic transmission|aut]])
+| 1988–1994
+|}
+
+{{-}}
+
+==E38 (1994–2001)==
+{{Infobox Automobile generation
+|name=E38
+|image=[[Image:BMW E38 front 20080108.jpg|250px]]
+|production=1994–2001
+|weight=
+|wheelbase= {{convert|3071|mm|1|abbr=on}}<br /> {{convert|2931|mm|1|abbr=on}} (base only)
+|length= {{convert|5123|mm|1|abbr=on}} <br /> {{convert|4983|mm|1|abbr=on}} (base only)
+|layout=
+|width= {{convert|1862|mm|1|abbr=on}}
+|height= {{convert|1425|mm|1|abbr=on}} <br /> {{convert|1435|mm|1|abbr=on}} (base only)
+|fuel_economy=
+|body_style=
+|engine=4.0 L {{convert|282|hp|abbr=on}} [[V8]]<br />5.4 L {{convert|322|hp|abbr=on}} [[V12 engine|V12]]<br />5.4 L {{convert|326|hp|abbr=on}} [[V12 engine|V12]]
+|fuel_capacity=
+|transmission=5-speed automatic <br /> 5-speed manual
+|speed=
+}}[[Image:1999 BMW e38.jpg|left|thumb|1999 BMW E38 facelift]]
+{{main|BMW E38}}
+The E38 generation (1994–2001) had a five-speed [[automatic transmission|automatic]]. The [[engine]] variants in [[Europe]] were 725tds, 728i, 730i, 730d, 735i, 740i (4.0 and 4.4 L), 740d and 750i (with a 5.4&nbsp;L V12 {{convert|322|bhp|kW PS|0|abbr=on}} engine, as was used in the [[Rolls-Royce Silver Seraph]]).
+
+In the [[Americas]], the models were sold as the 740i, 740iL and 750iL. The 740i and 740iL shared the same 4.0&nbsp;L V8 engine in model year 1995, but the next year the V8 grew to 4.4L while stated power stayed at {{convert|282|hp|abbr=on}}, though torque grew from {{convert|295|to|310|lb·ft|Nm|abbr=on}}.  Then again coinciding with the 1999 facelift, the V8's power again stayed the same but now torque grew further to 324lb-ft, due to new variable valve timing. The 740iL is essentially a long-wheelbase 740i (hence the "L" in the model name). The considerably rarer 5.4&nbsp;L V12-powered 750iL was only available as a long-body; there was no E38 750i in the US lineup. The 750iL was BMW's flagship sedan.
+{{-}}
+
+==E65/E66 (2002–2008)==
+{{main|BMW E65/E66/E67/E68}}
+{{Infobox Automobile generation
+|name=E65/E66/E67/E68
+|production=2002–2008
+|image=[[Image:03-05 BMW 745Li.jpg|250px|2003-2005 BMW 745Li (US)]]
+|wheelbase= {{convert|2990|mm|1|abbr=on}} (SWB)<br />{{convert|3129|mm|1|abbr=on}} (LWB)
+|length= {{convert|5029|mm|1|abbr=on}} (2002-05 E65)<br />{{convert|5169|mm|1|abbr=on}} (2002-05 E66)<br />{{convert|5039|mm|1|abbr=on}} (2006-present E65)<br />{{convert|5179|mm|1|abbr=on}} (2006-present E66)
+|layout=
+|width= {{convert|1902|mm|1|abbr=on}}
+|height= {{convert|1491|mm|1|abbr=on}}<br />{{convert|1483|mm|1|abbr=on}} (2006-present LWB)<br />{{convert|1476|mm|1|abbr=on}} (Alpina B7)
+|fuel_economy=
+|body_style=
+|engine=4.4 L {{convert|325|hp|abbr=on}} [[V8 engine|V8]]<br />4.8 L {{convert|360|hp|abbr=on}} [[V8 engine|V8]]<br />6.0 L {{convert|438|hp|abbr=on}} [[V12 engine|V12]]<br />4.4 L {{convert|500|hp|abbr=on}} [[V8]]
+|fuel_capacity=
+|transmission=5-speed automatic<br />6-speed automatic
+|speed=
+}}
+The 4th generation was available on four different platforms: the standard-wheelbase '''E65''' (2990&nbsp;mm, 118&nbsp;in), the extended-wheelbase '''E66''' (3130&nbsp;mm, 123&nbsp;in), the [[BMW 7 Series#High Security|High Security]] version '''E67''' and the [[hydrogen 7|hydrogen powered version]] '''E68'''.  It dropped the [[manual transmission]] entirely.
+
+The E65/E66/E67/E68 7 Series featured BMW's first of a kind [[iDrive]] system, consisting of a video screen in the dashboard and a controller mounted on the center console that is used in a similar way to a [[computer mouse]]. Using a system of eight menus, most of the car's climate, audio, navigation, suspension and communication settings are controlled via iDrive. However, the system has been criticized by many automotive writers as being too complex and not intuitive enough.
+
+"Active" Seat continuous passive motion technology was made standard equipment on the 750/760 models and included in the Luxury Seating Package with heated and ventilated seats for driver and front passenger on the 745 models.
+
+The car was available in thirteen variants<ref>{{cite web|url=http://www.bmw.com/generic/com/en/products/automobiles/showroom/7series/sedan/index.html |title=BMW AG : Products : 7 Series Sedan |publisher=Bmw.com |date= |accessdate=2009-06-06}}</ref>—of those, 11 are now in production and on sale in Europe, with five available in the U.S. since diesel models are not available there.
+
+{| class="wikitable" style="font-size:95%;"
+|- style="background:#efefef;"
+!
+!Engine
+!Power
+!Torque
+!0–100&nbsp;km/h*
+!Top speed
+|-
+!align="left"|730i
+|3.0&nbsp;[[Liter|L]] [[petrol]] (gasoline) [[I6]]
+| {{convert|170|kW|PS hp|0|abbr=on}}
+| {{convert|300|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|8.1&nbsp;[[Second|s]]
+|237&nbsp;[[Kilometers per hour|km/h]] (147&nbsp;[[Miles per hour|mph]])
+|-
+!align="left"|730Li
+|3.0&nbsp;L petrol (gasoline) I6
+| {{convert|170|kW|PS hp|0|abbr=on}}
+| {{convert|300|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|8.3&nbsp;s
+|237&nbsp;km/h (147&nbsp;mph)
+|-
+!align="left"|730d
+|3.0&nbsp;L [[diesel engine|diesel]] I6
+| {{convert|170|kW|PS hp|0|abbr=on}}
+| {{convert|520|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|7.8&nbsp;s
+|238&nbsp;km/h (148&nbsp;mph)
+|-
+!align="left"|730Ld
+|3.0&nbsp;L [[diesel engine|diesel]] I6
+| {{convert|170|kW|PS hp|0|abbr=on}}
+| {{convert|520|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|7.9&nbsp;s
+|238&nbsp;km/h (148&nbsp;mph)<ref>{{cite web|author=Interone Worldwide GmbH |url=http://www.bmw.com/com/en/newvehicles/7series/sedan/2005/allfacts/engine_6c_diesel.html |title=BMW 7 Series Sedan : Six-cylinder diesel engine (730d, 730Ld) |publisher=Bmw.com |date=2008-06-17 |accessdate=2009-06-06}}</ref>
+|-
+!align="left"|735i/735Li**
+|3.6&nbsp;L&nbsp;petrol (gasoline)&nbsp;[[V8]]
+| {{convert|200|kW|PS hp|0|abbr=on}}
+| {{convert|360|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|7.5&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)***
+|-
+!align="left"|740d
+|3.9&nbsp;L diesel V8
+| {{convert|190|kW|PS hp|0|abbr=on}}
+| {{convert|600|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|7.5&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)***
+|-
+!align="left"|745d
+|4.4&nbsp;L diesel V8
+| {{convert|242|kW|PS hp|0|abbr=on}}
+| {{convert|750|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|6.6&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)***
+|-
+!align="left"|745i/745Li**
+|4.4&nbsp;L petrol (gasoline) V8
+| {{convert|245|kW|PS hp|0|abbr=on}}
+| {{convert|450|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|6.3&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)***
+|-
+!align="left"|760i
+|6.0&nbsp;L petrol (gasoline) [[V12 engine|V12]]
+| {{convert|327|kW|PS hp|0|abbr=on}}
+| {{convert|600|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|5.5&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)***
+|-
+!align="left"|760Li
+|6.0&nbsp;L petrol (gasoline) V12
+| {{convert|327|kW|PS hp|0|abbr=on}}
+| {{convert|600|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|5.6&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)***
+|-
+!align="left"|Alpina B7
+|4.4&nbsp;L petrol (gasoline) V8
+| {{convert|373|kW|PS hp|0|abbr=on}}
+| {{convert|699|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|4.8&nbsp;s
+|300&nbsp;km/h (186&nbsp;mph)
+|}
+
+<nowiki>*</nowiki>''0–62&nbsp;mph''<br />
+<nowiki>**</nowiki>''Performance numbers for the 735i and 735Li are identical, and those for the 745i and 745Li are identical.''<br />
+<nowiki>***</nowiki>''All roadgoing BMWs have an electronically limited top speed of 250&nbsp;km/h.''
+
+In [[North America|America]], only the 750i, 750Li and 760Li were available from BMW dealerships. The 730i, 730d, 740i, 740d [[Turbodiesel]] and their long wheelbase counterparts were available in the rest of the world, in addition to the short wheelbase 760i. Alpina B7 was available for order through BMW dealerships only in [[United States]] and [[Canada]], everywhere else it was available through [[Alpina]] dealerships.
+
+In US:
+*2002–2005 '''745i''': 4.4&nbsp;L V8, {{convert|325|hp|abbr=on}}.
+*2002–2005 '''745Li''': 4.4&nbsp;L V8, {{convert|325|hp|abbr=on}}.
+*2006– '''750i''': 4.8&nbsp;L V8, {{convert|360|hp|abbr=on}}.
+*2006– '''750Li''': 4.8&nbsp;L V8, {{convert|360|hp|abbr=on}}.
+*2004–2006 '''760i''': 6.0&nbsp;L V12, {{convert|438|hp|abbr=on}}.
+*2003– '''760Li''': 6.0&nbsp;L V12, {{convert|438|hp|abbr=on}}.
+*2007– '''Alpina B7''': 4.4&nbsp;L V8, {{convert|500|hp|abbr=on}}.
+
+===2006===
+[[Image:06-08 BMW 750i.jpg|right|thumb|2006–2008 BMW 750i (US)]]
+
+The 7 Series was facelifted for 2006 with a restyled front and rear and a larger range of engines, the [[BMW N62#N62B48|N62B48]].
+
+The twice-refreshed 7 Series sports a new taillight and reduced height for the trunk lid. The front headlight and the kidney grille was also raised somewhat, as well as a new front air dam and fog light assembly.
+
+{| class="wikitable" style="font-size:95%;"
+|- style="background:#efefef;"
+!
+!Engine
+!Power
+!Torque
+!0–100&nbsp;km/h*
+!Top speed
+|-
+!align="left"|750i
+|4.8&nbsp;L [[petrol]] (gasoline) [[V8 engine|V8]]
+| {{convert|270|kW|PS hp|0|abbr=on}}
+| {{convert|490|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|5.9&nbsp;s
+| 250&nbsp;km/h (155&nbsp;mph)**<ref name="newvehicles2005">{{cite web|author=Interone Worldwide GmbH |url=http://www.bmw.com/com/en/newvehicles/7series/sedan/2005/allfacts/engine_v8_petrol.html |title=BMW 7 Series Sedan : Eight-cylinder petrol engines (750i/Li, 740i/Li) |publisher=Bmw.com |date=2008-06-17 |accessdate=2009-06-06}}</ref>
+|-
+!align="left"|750Li
+|4.8&nbsp;L [[petrol]] (gasoline) [[V8]]
+| {{convert|270|kW|PS hp|0|abbr=on}}
+| {{convert|490|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|6.0&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)**<ref name="newvehicles2005"/>
+|-
+!align="left"|760Li
+|6.0&nbsp;L [[petrol]] (gasoline) [[V12 engine|V12]]
+| {{convert|327|kW|PS hp|0|abbr=on}}
+| {{convert|600|Nm|lb·ft|abbr=on}}
+| style="text-align:center;"|5.6&nbsp;s
+|250&nbsp;km/h (155&nbsp;mph)**<ref>{{cite web|author=Interone Worldwide GmbH |url=http://www.bmw.com/com/en/index_narrowband.html?content=/com/en/newvehicles/7series/sedan/2005/introduction.html |title=BMW automobiles - website of the BMW AG |publisher=Bmw.com |date=2008-06-17 |accessdate=2009-06-06}}</ref>
+|}
+
+<nowiki>*</nowiki>''0–62&nbsp;mph''<br />
+<nowiki>**</nowiki>''All roadgoing BMWs have an electronically limited top speed of {{convert|250|km/h|mi/h|0|abbr=on}}. This limitation does not however apply to the GCC specification models.''
+
+The 4.4&nbsp;L V8 was replaced by a 4.8&nbsp;L unit producing {{convert|367|hp|abbr=on}}  and 361 lb·ft  . The new model with the enlarged engine is now known as 750i and 750Li (for the long wheel-base model). The 750i and 750Li replace the 745i and 745Li in all world markets. The 745d, powered by a 4.4&nbsp;L turbodiesel producing {{convert|329|hp|abbr=on}}   has replaced the 740d. As before, a six-speed automatic transmission with Steptronic is standard on all models.
+
+===2007===
+In 2007 the 7 series received minor updates both inside and out. On the exterior, new wheel designs were made available and power folding mirrors became standard. On the inside, an update to the iDrive system (but still no RTTI: Real Time Traffic Info) was also made standard. 2007 also saw the installation of an auxiliary input for connecting an audio source.  Engine options remained the same as with the 2006 model, but the short wheelbase 760i, was no longer available for the North American market.
+
+===Hydrogen 7===
+BMW plans to offer a car that runs on both [[petrol]] and [[hydrogen car|hydrogen]], to be called the [[Hydrogen 7]].  Since the infrastructure for refueling a hydrogen fueled engine is not widely available, the [[V12 engine]] also runs on [[gasoline]]. Drivers will be able to switch what fuel they are using with the push of a button.<ref>[http://money.cnn.com/2006/09/12/autos/bmw_hydrogen/index.htm?postversion=2006091212 Coming soon: Hydrogen-powered BMW - Sep. 12, 2006<!-- Bot generated title -->]</ref>  However, only 100 units have been built up to now for a limited edition. For example, the mayor of Munich, [[Christian Ude]], received one of them. BMW has also developed a newer, more efficient hydrogen combustion engine, now on par with some of the most efficient diesel engines.{{Citation needed|date=August 2009}}
+<!-- Image with unknown copyright status removed: [[Image:BMW_hydrogen_7.jpg|right|thumb|250px|BMW Hydrogen 7]] -->
+
+===High Security===
+BMW also built armoured versions of the 7 series vehicles. The models have protection levels VR6/VR7. Security features include laminated windows, carbon fibre reinforced armour plating, under body armour, emergency front windscreen exit, lowered door windows, [[run flat tires]].
+
+===Self-parking system===
+BMW has developed a parking-assist technology that can automatically park the car while the driver stands outside and watch as the internal robotics park it using a combination of sensors. A prototype of the system has been completed and a [http://paultan.org/archives/2006/07/12/bmw-demos-a-self-parking-bmw-730i/ demo video] was recorded using a BMW 730i.
+{{-}}
+
+==F01/F02 (2009–)==
+{{main|BMW F01}}
+{{Infobox Automobile generation
+|name=F01/F02
+|image=[[Image:BMW F01 front 20081213.jpg|250px]]
+|production=2009–Present
+|class= [[Full-size|Full size]] [[luxury car]]
+|wheelbase= {{convert|3070|mm|in|1|abbr=on}} (SWB)<br />{{convert|3210|mm|in|1|abbr=on}} (LWB)
+|length= {{convert|5072|mm|in|1|abbr=on}} (SWB)<br />{{convert|5212|mm|in|1|abbr=on}} (LWB)
+|layout=[[FR|FR Layout]], [[AWD]] (750i/Li only)<ref name="2010F01">{{cite web |url=http://paultan.org/archives/2009/06/25/f01f02-bmw-7-series-gets-updated-new-740d-xdrive-and-m-sport-kit/ |title=F01/F02 BMW 7-Series gets updated with new 740d, xDrive and M-Sport kit! |dateformat=mdy |accessdate=June 25 2009 |author=Paul Tan |date=June 25, 2009 |work=Paul Tan's Automotive News }}</ref>
+|width= {{convert|1902|mm|in|1|abbr=on}}
+|height= {{convert|1479|mm|in|1|abbr=on}} (SWB)<br /> {{convert|1478|mm|in|1|abbr=on}} (LWB)
+|fuel_economy= 18.1mpg, 13L/100km (combined)
+|body_style= 4-door [[sedan (automobile)|sedan]]
+|engine=6.0L {{convert|552|PS|abbr=on}} twin turbo [[V12 engine|V12]]<br />4.4L {{convert|407|PS|abbr=on}} twin turbo [[V8]]<br />3.0L {{convert|326|PS|abbr=on}} [[Straight-6|I6]]<br />3.0L {{convert|245|PS|abbr=on}} turbodiesel [[Straight-6|I6]]<br />3.0L {{convert|306|PS|abbr=on}} turbodiesel [[Straight-6|I6]]
+|fuel_capacity= {{convert|82|L|abbr=on}}
+|transmission=6-speed [[ZF Friedrichshafen|ZF]] automatic<br />8-speed [[ZF Friedrichshafen|ZF]] automatic
+|speed= 250km/hr, 155mph top speed
+}}
+
+The 5th generation F01/F02 came out January 2009, replacing the 4th generation 7 Series.   All models come with a ZF 6-speed [[automatic transmission]]. Five variants are showcased at debut, the 750Li, the 740Li, the 750i, the 740i and the 730d.<ref name="F01">{{cite web |url=http://paultan.org/archives/2008/07/05/new-bmw-7-series-f01-specifications-and-photos/ |title=New BMW 7-Series F01 Specifications and Photos |dateformat=mdy |accessdate=July 5 2008 |author=Paul Tan |date=July 5, 2008 |work=Paul Tan's Automotive News }}</ref>
+
+Numerous engines also power the 7 Series worldwide.  BMW offers [[diesel engine|diesel]], [[straight 6]], [[V8 engine|V8]] and V12 motors. An all-aluminum 3.0-liter straight-six cylinder diesel engine produces {{convert|245|hp|kW PS|abbr=on}}. The peak torque figure of {{convert|540|Nm|lb·ft|abbr=on}} comes in at 1,750 rpm up through 3,000 rpm. Its 194g/km emission figure is class-leading for conventionally powered luxury cars, as is its 38.7 mpg{{Clarifyme|us or imp gal?|date=February 2009}} fuel consumption figure.<ref>{{cite web|url=http://www.automoblog.net/2009/01/28/the-new-bmw-730ld/|title=The New BMW 730Ld|publisher=Automoblog.net}}</ref>
+
+BMW switched from a [[MacPherson strut]] front suspension to a [[double wishbone]] design for improved handling. The F01 is also available in a [[bulletproof]] version.<ref>{{cite web|url=http://www.carthusiast.com/bmw-7-series-high-security-a-new-definition-of-security-1992.html |title=BMW 7 Series High Security – a new definition of security |publisher=Carthusiast.com |date= |accessdate=2009-09-11}}</ref>
+
+{| class="wikitable"
+|-
+! Model!! Engine Code!! Engine Type!! Displacement !! Power !! Torque !! 0–100&nbsp;km/h ([[Second|s]])
+! Years made
+|-
+| 760Li
+| [[BMW N74|N74B60]]
+| [[V12 engine|V12]] 48V
+| {{convert|5972|cc|abbr=on}}
+| {{convert|552|PS|kW hp|0|abbr=on}} @ 5250 rpm
+| {{convert|750|Nm|lb·ft|abbr=on}} @ 1500-5000 rpm
+| 4.6 ([[Automatic Transmission|aut]])
+| 2009-
+|-
+| 750i/750Li
+| [[BMW N63|N63]]
+| [[V8]] 32V
+| {{convert|4395|cc|abbr=on}}
+| {{convert|408|PS|kW hp|0|abbr=on}} @ 5500-6400 rpm
+| {{convert|600|Nm|lb·ft|abbr=on}} @ 1750-4500 rpm
+| 5.5 ([[Automatic transmission|aut]])
+| 2009–
+|-
+| 740i/740Li
+| N54
+| [[straight-6|I6]] 24V
+| {{convert|2979|cc|abbr=on}}
+| {{convert|326|PS|kW hp|0|abbr=on}} @ 5800 rpm
+| {{convert|450|Nm|lb·ft|abbr=on}} @ 1500-4500 rpm
+| 5.7 ([[Automatic transmission|aut]])
+| 2009–
+|-
+| 730d/730Ld
+|  N57
+| [[straight-6|I6]] 24V
+| {{convert|2993|cc|abbr=on}}
+| {{convert|245|PS|kW hp|0|abbr=on}} @ 4000 rpm
+| {{convert|540|Nm|lb·ft|abbr=on}} @ 1750-3000 rpm
+| 7.2 ([[Automatic transmission|aut]])
+| 2009–
+|-
+| 740d<ref name="2010F01"/>
+|  N57
+| [[straight-6|I6]] 24V
+| {{convert|2993|cc|abbr=on}}
+| {{convert|306|PS|kW hp|0|abbr=on}}
+| {{convert|600|Nm|lb·ft|abbr=on}} @ 1500-2500 rpm
+| 6.3 ([[Automatic transmission|aut]])
+| 2009–
+|}<ref name="F01"/>
+
+In April 2009, BMW announced plans for a 760Li, which will be BMW's new flagship model. The 760Li will be equipped with a twin-turbocharged V12 producing 544 horsepower, which will propel the car from 0 to 62 miles per hour in 4.6 seconds.<ref>{{cite web|url=http://www.automoblog.net/2009/04/27/bmws-new-flagship-the-760li/|title=BMW’s New Flagship - the 760Li |publisher=Automoblog.net}}</ref><ref>{{cite web|url=http://www.bmwblog.com/docs/BMW_760i_760Li.pdf|format=PDF|title=BMW 760Li Press Release and Specifications}}</ref>
+
+===Improved iDrive===
+The new F01/F02 is equipped with a more intuitive [[iDrive]] system with a full featured web browser.<ref name="F01"/> [http://paultan.org/archives/2008/07/07/a-collection-of-new-bmw-7-series-videos/ Video]
+this will be safer, and more technologically advanced as well as rich in entertainment.
+<ref name="F01"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{commonscat}}
+*[http://www.bmw.com/generic/com/en/fascination/technology/technologyguide/index.html?content=http://www.bmw.com/generic/com/en/fascination/technology/technologyguide/content_reload.html?articleUrlStartactive_seatsarticleUrlEnd BMW Active Seat Technology Guide]
+*[http://paultan.org/archives/2006/07/12/bmw-demos-a-self-parking-bmw-730i/ BMW demos a self-parking BMW 730i]
+*[http://www.popular-pics.com/pictures.aspx?photoid=437 Night vision technology in the BMW 7-Series]
+*[http://www.youtube.com/watch?v=oJRd3eZh1Hs 733i TV Review]
+*[http://www.ialpina.info/alpina-b7/ Alpina B7 (Alpina version of 7 Series)]
+*[http://www.bmw-ids.com/seven_s.html BMW 7 Series High Security]
+*[http://www.automoblog.net/2008/11/14/the-new-bmw-7-series/ All-new BMW 7-Series for 2009]
+*[http://www.businesscar.co.uk/story.asp?sectioncode=1&storycode=4761&c=2&theme=0 BMW 740d added to 7-Series] - Includes images
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 7 Series}}
+[[Category:BMW vehicle series|7 Series]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Full-size vehicles]]
+[[Category:Flagship vehicles]]
+[[Category:Sedans]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1977]]
+[[Category:Hybrid electric vehicles]]
+
+[[cs:BMW řada 7]]
+[[da:BMW 7-serie]]
+[[de:BMW 7er]]
+[[et:BMW 7. seeria]]
+[[es:BMW Serie 7]]
+[[fr:BMW Série 7]]
+[[hr:BMW serije 7]]
+[[it:BMW Serie 7]]
+[[nl:BMW 7-serie]]
+[[ja:BMW・7シリーズ]]
+[[no:BMW 7-serie]]
+[[pl:BMW serii 7]]
+[[ru:BMW 7]]
+[[fi:BMW 7-sarja]]
+[[sv:BMW 7-serie]]
+[[uk:BMW 7 Series]]
+[[zh:BMW 7系列]]

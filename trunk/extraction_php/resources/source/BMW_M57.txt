@@ -1,0 +1,142 @@
+{{Infobox Automobile engine
+| image = 
+| name = BMW M57
+| aka =
+| manufacturer = [[BMW]]
+| type = [[Straight-6]] [[Diesel]]
+| production = 1998&ndash;present
+| predecessor = [[BMW M51]]
+| successor = [[BMW N57]]
+| bore =
+| stroke =
+| displacement = {{convert|2497|cc|L cuin|1|abbr=on}}<br/>{{convert|2926|cc|L cuin|1|abbr=on}}<br/>{{convert|2993|cc|L cuin|1|abbr=on}}
+| length =
+| diameter =
+| width =
+| height =
+| weight =
+| block =
+| head =
+| valvetrain =
+| supercharger =
+| turbocharger =
+| fuelsystem =
+| fueltype =
+| oilsystem =
+| coolingsystem =
+| power =
+| specpower =
+| torque =
+| compression =
+| fuelcon =
+| specfuelcon =
+| oilcon =
+}}
+The '''[[BMW]] M57''' is a [[straight-6]] [[diesel engine]] produced from 1998.  It won the "2.5&ndash;3 L" category of the [[International Engine of the Year]] award for 1999 through 2002.  The downgraded twin-[[turbocharger]] version won that same award in 2005 and 2006. Again in 2009 won the award.
+
+==Summary==
+{| class=wikitable
+|+Models
+|-
+!Engine code!!Displacement!!Power, Torque@rpm!!Redline (rpm)!!Year
+|-
+|M57D25||rowspan=2|{{convert|2497|cc|L cuin||abbr=on}}||{{convert|163|PS|kW hp||abbr=on}}@4000, {{convert|350|Nm|lbft||abbr=on}}@2000-2500||4750||2000
+|-
+|M57TUD25||{{convert|177|PS|kW hp||abbr=on}}@4000, {{convert|400|Nm|lbft||abbr=on}}@2000-2750||rowspan=4|4750||2004
+|-
+|rowspan=3|M57D30||rowspan=3|{{convert|2926|cc|L cuin||abbr=on}}||{{convert|184|PS|kW hp||abbr=on}}@4000, {{convert|390|Nm|lbft||abbr=on}}@1750-3200||1998
+|-
+|{{convert|184|PS|kW hp||abbr=on}}@4000, {{convert|410|Nm|lbft||abbr=on}}@2000-3000||1998
+|-
+|{{convert|193|PS|kW hp||abbr=on}}@4000, {{convert|410|Nm|lbft||abbr=on}}@1750-3000||2000
+|-
+|rowspan=4|M57TUD30||rowspan=4|{{convert|2993|cc|L cuin||abbr=on}}||{{convert|204|PS|kW hp||abbr=on}}@4000, {{convert|410|Nm|lbft||abbr=on}}@1500-3250||rowspan=3|4750||2003
+|-
+|{{convert|218|PS|kW hp||abbr=on}}@4000, {{convert|500|Nm|lbft||abbr=on}}@2000-2750||2002
+|-
+|{{convert|245|PS|kW hp||abbr=on}}@4000, {{convert|500|Nm|lbft||abbr=on}}@2000-2250||2008
+|-
+|{{convert|272|PS|kW hp||abbr=on}}@4000, {{convert|560|Nm|lbft||abbr=on}}@2000-2250||5000||2004
+|-
+|rowspan=2|M57TU2D30||rowspan=2|{{convert|2993|cc|L cuin||abbr=on}}||{{convert|231|PS|kW hp||abbr=on}}@4000, {{convert|500|Nm|lbft||abbr=on}}@2000-2750||rowspan=2|4750||2005
+|-
+|{{convert|286|PS|kW hp||abbr=on}}@4000, {{convert|580|Nm|lbft||abbr=on}}@2000-2250||2004
+|}
+
+==M57D25==
+'''M57D25''' was introduced in 2000. It produced {{Convert|120|kW|hp|0|abbr=on}} at 4000 [[revolutions per minute|rpm]] and {{convert|350|Nm|lbft||abbr=on}} at 2000-2500 rpm with a 4750 rpm redline.
+
+Applications:
+* 2000-2003 [[BMW E39|E39]] [[BMW 5-Series|525d]]
+
+==M57TUD25==
+'''M57TUD25''' was introduced in 2004.  It produced {{Convert|130|kW|hp|0|abbr=on}} at 4000 rpm and {{convert|400|Nm|lbft||abbr=on}} at 2000-2750 rpm.
+
+Applications:
+* [[BMW E60|E60/E61]] [[BMW 5-Series|525d]]
+
+==M57D30==
+'''M57D30''', also called M57D29, was introduced in 1998.
+
+Applications:
+*{{convert|184|PS|kW hp||abbr=on}}@4000, {{convert|390|Nm|lbft||abbr=on}}@1750-3200 models:
+** [[BMW E39|E39]] [[BMW 5-Series|530d]]
+** [[BMW E46|E46]] [[BMW 3-Series|330d/330xd]]
+*{{convert|184|PS|kW hp||abbr=on}}@4000, {{convert|410|Nm|lbft||abbr=on}}@2000-3000 models:
+** [[BMW E38|E38]] [[BMW 7-Series|730d]]
+** [[BMW E53|E53]] [[BMW X5|X5 3.0d]]
+*{{convert|193|PS|kW hp||abbr=on}}@4000, {{convert|410|Nm|lbft||abbr=on}}@1750-3000 models:
+** [[BMW E38|E38]] [[BMW 7-Series|730d]]
+** [[BMW E39|E39]] [[BMW 5-Series|530d]]
+
+==M57TUD30==
+'''M57TUD30''' was introduced in 2002.  It originally produced {{Convert|160|kW|hp|0|abbr=on}} at 4000 rpm and {{convert|500|Nm|lbft||abbr=on}} at 2000-2750 rpm, but was tweaked for {{Convert|150|kW|hp|0|abbr=on}} at 4000 rpm and {{convert|410|Nm|lbft||abbr=on}} at 1500-3250 rpm for 2003 and again for {{Convert|200|kW|hp|0|abbr=on}} at 4000 rpm and {{convert|560|Nm|lbft||abbr=on}} at 2000-2250 rpm in 2004.
+
+Applications:
+*{{convert|204|PS|kW hp||abbr=on}}@4000, {{convert|410|Nm|lbft||abbr=on}}@1500-3250 models:
+** [[BMW E46|E46]] [[BMW 3-Series|330d/330Cd/330xd]]
+** [[BMW E83|E83]] [[BMW X3|X3 3.0d]]
+*{{convert|218|PS|kW hp||abbr=on}}@4000, {{convert|500|Nm|lbft||abbr=on}}@2000-2750 models:
+** [[BMW E53|E53]] [[BMW X5|X5 3.0d]]
+** [[BMW E60|E60/E61]] [[BMW 5-Series|530d/530xd]]
+** [[BMW E65|E65]] [[BMW 7-Series|730d]]
+*{{convert|272|PS|kW hp||abbr=on}}@4000, {{convert|560|Nm|lbft||abbr=on}}@2000-2250
+** [[BMW E60|E60/E61]] [[BMW 5-Series|535d]]
+
+{{convert|245|PS|kW hp||abbr=on}}@4000, {{convert|500|Nm|lbft||abbr=on}}@2000-2250
+{{convert|286|PS|kW hp||abbr=on}}@4000, {{convert|580|Nm|lbft||abbr=on}}@2000-2250
+
+==M57TU2D30==
+'''M57TU2D30''' was introduced in 2007, making its debut in the facelifted [[BMW 5 series|E60]] and [[BMW 5 series|E61]].
+
+*M57TU2D30-UL: {{convert|197|PS|kW hp||abbr=on}}
+*M57TU2D30-OL: {{convert|235|PS|kW hp||abbr=on}}@4000, {{convert|500|Nm|lbft||abbr=on}}@2000-2750
+*M57TU2D30-TOP: {{convert|286|PS|kW hp||abbr=on}}, {{convert|580|Nm|lbft||abbr=on}}
+
+Applications:
+*{{convert|197|PS|kW hp||abbr=on}}, {{convert|400|Nm|lbft||abbr=on}} models:
+**[[BMW E90|E90/E91/E92]] [[BMW 3-Series|325d]]
+**[[BMW E60|E60/E61]] [[BMW 5-Series|525d/525xd]]
+*{{convert|231|PS|kW hp||abbr=on}}@4000, {{convert|500|Nm|lbft||abbr=on}}@2000-2750 models:
+**[[BMW E65|E65]] [[BMW 7-Series|730d]]
+**[[BMW E90|E90/E91]] [[BMW 3-Series|325d]]
+**[[BMW E90|E90/E91]] [[BMW 3-Series|330d/330xd]]
+*{{convert|235|PS|kW hp||abbr=on}} models:
+**[[BMW E60|E60/E61]], [[BMW E70]], [[BMW E71]]
+*{{convert|286|PS|kW hp||abbr=on}}, {{convert|580|Nm|lbft||abbr=on}} models:
+**[[BMW E60|E60/E61]] [[BMW 5-Series|535d]]
+**[[BMW E70|E70]] [[BMW X5|X5 3.0sd]]
+**[[BMW E71|E71]] [[BMW X6|X6 xDrive35d]]
+**[[BMW E83|E83]] [[BMW X3|X3 3.0sd]]
+**[[BMW E90|E90/E91]] [[BMW 3-Series|335d]]
+
+==See also==
+* [[List of BMW engines]]
+
+[[Category:BMW engines|M57]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:BMW M57]]
+[[it:BMW M57]]
+[[no:BMW M57]]
+[[pl:BMW M57]]

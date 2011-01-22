@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = voice
+|rdfs:domain = TelevisionShow
+|rdfs:range = Person
+}}

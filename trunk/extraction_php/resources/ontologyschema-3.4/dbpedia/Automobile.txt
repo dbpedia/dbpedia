@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Automobile
+|rdfs:subClassOf = MeanOfTransportation
+}}

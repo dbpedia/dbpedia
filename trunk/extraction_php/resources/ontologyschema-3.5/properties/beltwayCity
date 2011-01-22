@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = beltway city
+| rdfs:domain = Road
+| rdfs:range = City
+}}

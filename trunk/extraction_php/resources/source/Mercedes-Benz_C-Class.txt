@@ -1,0 +1,506 @@
+{{Infobox Automobile
+|image=[[Image:Mercedes W204 front 20071102.jpg|250px|W204 Mercedes-Benz C-Class]]
+|name=Mercedes-Benz C-Class
+|manufacturer=[[Mercedes-Benz]]
+|parent_company=[[Daimler-Benz]]<br />[[DaimlerChrysler AG]] (from 1998)<br />[[Daimler AG]] (from 2007)
+|production=1993&ndash;present
+|predecessor=[[Mercedes-Benz 190]]
+|assembly=[[Bremen (city)|Bremen]], [[Germany]]<br />[[Sindelfingen]], [[Germany]]<br />[[Monterrey]], [[Mexico]]<br />[[East London, South Africa|East London]], [[South Africa]]<br />[[Pune]], [[India]]<br />[[Cairo]], [[Egypt]]<br />[[Juiz de Fora]], [[Brazil]]<br /> [[Beijing]], [[China]]
+|class=[[Compact executive car]]
+|layout=[[Front-engine design|Front engine]], [[rear-wheel drive]] / [[Four-wheel drive]]
+|successor=[[Mercedes-Benz CLC-Class]] (For Hatchback)
+}}
+
+The '''Mercedes-Benz C-Clas''' is a [[compact executive car]] produced by the [[Mercedes-Benz]] division of [[Daimler AG]]. First introduced in 1993 as a replacement for the [[Mercedes-Benz W201|190]] range, the C-Class was nicknamed the "Baby Benz" as it was the smallest model in the marque's lineup, until the 1997 arrival of the [[Mercedes-Benz A-Class|A-Class]]. The C-Class is built at Mercedes-Benz factories in [[Sindelfingen]] and [[Bremen (city)|Bremen]], Germany, as well as in Mercedes's factories in Brazil<ref name="wardsauto.com">{{Cite web|url=http://wardsauto.com/ar/mercedes_coupe_brazil/|title=Mercedes to Build C-Class Sports Coupe in Brazil|accessdate=2008-12-26|work=wardsauto.com}}</ref> and [[DaimlerChrysler]]'s [[South Africa]]n factory in [[East London, South Africa|East London]]. The very first W202 C-Class sedan was produced on June 1, 1993, and the second generation W203 C-Class rolled off the assembly line on July 18, 2000. The third generation W204 C-Class was launched in 2007. The C-Class is the base car in the United States. 
+
+The C-Class platform has been used for several [[coupe]]s, including the [[Mercedes-Benz CLC-Class|CLC-Class]] (and its predecessor, the [[Mercedes-Benz W203|C-Class Sportcoupe]]) and the [[Mercedes-Benz W212|E-class Coupe]] (and its predecessor, the [[Mercedes-Benz CLK-Class|CLK-Class]]).
+<ref name="autoblog.com">{{cite web|last=Shunk |first=Chris |url=http://www.autoblog.com/2009/05/19/2010-mercedes-benz-e-class-coupe-a-c-class-underneath/ |title=2010 Mercedes-Benz E-Class Coupe a C-Class underneath? — Autoblog |publisher=Autoblog.com |date=2009-05-19 |accessdate=2009-07-26}}</ref>
+
+==W202 (1993&ndash;2000){{anchor|W202}}==
+{{Infobox Automobile generation
+|name=W202
+|image=[[File:Mercedes-Benz C280 -- 09-07-2009.jpg|250px|1998-2000 Mercedes-Benz C280 (US)]]
+|production=1993&ndash;2000
+|engine={{nowrap|1.8&ndash;2.3 L [[Mercedes-Benz M111 engine|M111]] [[Straight-4|I4]]}}<br />
+{{nowrap|2.8 L [[Mercedes-Benz M104 engine|M104]] [[Straight-6|I6]]}}<br />
+{{nowrap|2.4&ndash;2.8 L [[Mercedes-Benz M112 engine|M112]] [[V6]]}}<br />
+{{nowrap|3.6 L [[Mercedes-Benz M104 engine|M104]] [[Straight-6|I6]] [[Mercedes-AMG|AMG]]}}<br />
+{{nowrap|4.3&ndash;5.4 L [[Mercedes-Benz M113 engine|M113]] [[V8]] [[Mercedes-AMG|AMG]]}}<br />
+{{nowrap|2.0&ndash;2.2 L [[Mercedes-Benz OM601 engine|OM601]] [[Diesel engine|Diesel]] [[Straight-4|I4]]}}<br />
+{{nowrap|2.2 L [[Mercedes-Benz OM611 engine|OM611]] [[Diesel engine|Diesel]] [[Straight-4|I4]]}}<br />
+{{nowrap|2.5 L [[Mercedes-Benz OM605 engine|OM605]] [[Diesel engine|Diesel]] [[Straight-5|I5]]}}
+|wheelbase={{convert|2670|mm|in|1|abbr=on}}
+|length={{convert|4505|mm|in|1|abbr=on}}
+|width={{convert|1720|mm|in|1|abbr=on}}
+|platform=[[Mercedes-Benz W202]]
+|height={{convert|1425|mm|in|1|abbr=on}}
+|transmission=5-speed [[Manual transmission|manual]]<br />4-speed [[Automatic transmission|automatic]]<br />5-speed automatic
+|body_style=4-door [[sedan (automobile)|sedan]]<br />5-door [[station wagon|wagon]]
+|related=[[Mercedes-Benz C208]]
+}}
+
+The first generation [[W202]] C-Class was introduced in 1993, as a replacement for the [[Mercedes-Benz W201]] (190), and proved successful among high-end car buyers. The C-Class sedan was the company's entry-level model up until 1997, when Mercedes launched the A-Class. Styling themes were carried over from the previous W201 series, but the new series had a smoother and rounder design than the previous generation of compact Mercedes.
+
+===Engines===
+On its debut, the C-Class was the only Mercedes model with a complete lineup of [[multi-valve]] engines. The new family of [[straight-4|four cylinder]] petrol units, called [[Mercedes-Benz M111 engine|M111]], debuted in the C 180 (1.8&nbsp;L, {{convert|122|PS|kW hp|0|abbr=on}}), C 200 (2.0&nbsp;L, {{convert|136|PS|kW hp|0|abbr=on}} and C 220 (2.2&nbsp;L, {{convert|150|PS|kW hp|0|abbr=on}}, the only four cylinder of the range sold in the U.S.). In 1996 the C 220 was replaced by the C 230, enlarged to 2.3&nbsp;L displacement but with the same output, although with torque increased to {{convert|220|Nm|lbft|0|abbr=on}}. The C 280 was the high end model of the class, with a four-valve-per-cylinder [[straight-6]] engine, capable of reaching {{convert|193|PS|kW hp|0|abbr=on}}.
+
+Four-cylinder diesel models were equipped with the same [[Mercedes-Benz OM601 engine|OM601]] engine of the 190, in the 2.0&nbsp;L and 2.2&nbsp;L versions. Many of these diesel variants were sold as taxis, due to their low fuel consumption and strong reliability. There were also more powerful [[Mercedes-Benz OM605 engine|OM605]] [[straight-5|five cylinder]] engines which were available in naturally aspired (C 250 D) and turbocharged (C 250 TD) forms. The turbodiesel was introduced in 1995 and is one of the novelties in the engine range available from this year. The most important was a [[supercharger|supercharged]] version of the M111 straight four, the C 230 Kompressor, using a [[Roots-type supercharger]] to generate {{convert|193|PS|kW hp|0|abbr=on}} at 5300&nbsp;rpm: Mercedes-Benz reused supercharger technology after 50 years. Due to the tax law in Italy and Portugal, models in those countries featured a supercharged version of the smaller 2.0&nbsp;L (C 200 Kompressor), which had a similar output of the C 230 Kompressor.
+
+With the restyling in 1997, a lot of things changed under the hood of the Baby Benz. The most important innovation was the [[Mercedes-Benz OM611 engine|OM611]], the first turbodiesel engine equipped with a [[common rail]] direct injection system (co-developed with Bosch). The new model was named C 220 CDI, and had an improvement in output of 30 PS compared with the C 220 Diesel, better fuel average and lower emissions. Another revolution occurred to the six cylinder engines, as the legendary straight six were replaced by an all new family of [[V6]], the [[Mercedes-Benz M112 engine|M112]]. The new engines featured [[SOHC]] heads instead of the previous [[DOHC]], three valves per cylinder instead of four, and twin [[sparkplugs]]. The four-cylinder C 230 was replaced by the C 240 (2.4&nbsp;L) and the I6 C 280 by the V6 C 280. These changes theoretically reduced emissions, and improved fuel consumption, without sacrificing power (the C 280 in fact had a slight 4&nbsp;PS increase with the change).
+
+In the last four years of production, the W202 received a few changes in the choices of engine. In 1998, a less powerful version of the 2.2&nbsp;L turbodiesel was added, called C 200 CDI, which replaced the C 220 Diesel. In 2000, the C 200 Kompressor T's output was cut to {{convert|163|PS|kW hp||abbr=on}}, the C 240 T displacement was enlarged from 2.4&nbsp;L to 2.6&nbsp;L, but output remained at {{convert|170|PS|kW hp||abbr=on}} and the C 180 got a 2.0&nbsp;L engine.
+
+{{Col-begin}}
+{{Col-2}}
+{| class="wikitable" border="1" style="font-size:95%;"
+|+Petrol engines
+! Engine || Cyl. || Power
+|- 
+| 1.8 16V [[Mercedes-Benz M111 engine|M111]] || S4 || {{convert|122|PS|kW hp|0|abbr=on}}
+|-
+| 2.0 16V [[Mercedes-Benz M111 engine|M111]] || S4 || {{convert|136|PS|kW hp|0|abbr=on}}
+|-
+| 2.2, 2.3 16V [[Mercedes-Benz M111 engine|M111]] || S4 || {{convert|150|PS|kW hp|0|abbr=on}}
+|-
+| 2.4 18V [[Mercedes-Benz M112 engine|M112]] || V6 || {{convert|170|PS|kW hp|0|abbr=on}}
+|-
+| 2.3 16V K [[Mercedes-Benz M111 engine|M111]] || S4 || {{convert|193|PS|kW hp|0|abbr=on}}
+|-
+| 2.8 24V [[Mercedes-Benz M104 engine|M104]] || S6 || {{convert|197|PS|kW hp|0|abbr=on}}
+|-
+| 2.8 18V [[Mercedes-Benz M112 engine|M112]] || V6 || {{convert|197|PS|kW hp|0|abbr=on}}
+|-
+| 3.6 24V AMG [[Mercedes-Benz M104 engine|M104]] || S6 || {{convert|280|PS|kW hp|0|abbr=on}}
+|-
+| 4.3 24V AMG [[Mercedes-Benz M113 engine|M113-E43]] || V8 || {{convert|306|PS|kW hp|0|abbr=on}}
+|-
+| 5.4 24V AMG [[Mercedes-Benz M113 engine|M113-E55]] || V8 || {{convert|345|PS|kW hp|0|abbr=on}}
+|}
+{{Col-2}}
+{| class="wikitable" border="1" style="font-size:95%;"
+|+Diesel engines
+! Engine || Cyl. || Power
+|- 
+| 2.0 8V D [[Mercedes-Benz OM601 engine|OM601]] || S4 || {{convert|75|PS|kW hp|0|abbr=on}}
+|-
+| 2.2 16V D [[Mercedes-Benz OM601 engine|OM601]] || S4 || {{convert|95|PS|kW hp|0|abbr=on}}
+|-
+| 2.2 16V CDI [[Mercedes-Benz OM611 engine|OM611]] || S4 || {{convert|102|PS|kW hp|0|abbr=on}}
+|-
+| 2.5 20V D [[Mercedes-Benz OM605 engine|OM605]] || S5 || {{convert|113|PS|kW hp|0|abbr=on}}
+|-
+| 2.2 16V CDI [[Mercedes-Benz OM611 engine|OM611]] || S4 || {{convert|125|PS|kW hp|0|abbr=on}}
+|-
+| 2.5 20V TD [[Mercedes-Benz OM605 engine|OM605]] || S5 || {{convert|150|PS|kW hp|0|abbr=on}}
+|}
+{{Col-end}}
+
+===Transmissions===
+At the launch all W202 variants were equipped with a 5-speed manual gearbox. The 722.4 4-speed automatic transmission, also called [[4G-TRONIC]], was available as extra cost (standard on the C 36 AMG). In 1996 this old transmission - which was on sale since 1981 - was replaced by a 5-speed automatic gearbox (aka 722.5 or [[5G-TRONIC]]), which received the manual shifting in 1999 (722.6). In 2000 the T-Modell, the only still on sale, was equipped with the G56 6-speed manual transmission.
+
+===Safety===
+The W202 confirms the typical attention of the brand to active and passive safety. At the launch the C-Class had standard driver airbag, ABS and integrated side-impact protection; the front passenger airbag became standard from 1995 onwards, and from the same period Traction control (ETS in the 4-cylinder models, combined with [[limited slip differential]] (ASD) or ASR in the 6 cylinders models) was available as extra cost. In 1997 ASR became standard in the C 280s equipped with the automatic transmission and in the C 36 AMG, as ETS in the 4-cylinder models, except for the C 180 and the C 220 Diesel.
+
+With the 1997 restyling ASR became standard in all the models, except in the C 180 and C 220 Diesel. This last model continued to offer ETS available as extra cost. Moreover front side airbags and Brake assist (BAS) came in the list of standard safety features. The two basic models finally joined ASR in 1998, and, in 1999, the W202 was the first mid-size sedan to offer ESP as standard in all the range.
+
+====Crash test ratings====
+{| class="wikitable" border="1"
+|-
+|[[EuroNCAP]] adult occupant<ref>{{cite web|url=http://www.euroncap.com/tests/mercedes_benz_c_class_1997/18.aspx |title=For safer cars &#124; Mercedes Benz C Class |publisher=Euro NCAP |date= |accessdate=2009-07-26}}</ref>:
+|{{rating|2|5}}
+|-
+|EuroNCAP pedestrian (pre-2002 rating):
+|{{rating|2|4}}
+|}
+
+{| class="wikitable" border="1"
+|+ [[NHTSA]] crash test ratings (1997)<ref>www.safercar.gov</ref>:
+|-
+|Frontal Driver:
+|{{rating|4|5}}
+|-
+|Frontal Passenger:
+|{{rating|4|5}}
+|-
+|Side Driver:
+|{{rating|3|5}}
+|-
+|Side Rear Passenger:
+|{{rating|4|5}}
+|}
+
+===T-Model===
+[[Image:Mercedes W202 T-Model rear 20071009.jpg|thumb|right|200px|W202 T-Model]]
+In the 1980s, the [[Mercedes-Benz 190]] suffered from the lack of an estate version, which was available in models like [[BMW 3 Series]] and [[Audi 80]].{{Fact|date=January 2009}} [[Mercedes-Benz]] finally introduced an [[Station wagon|estate]] model in 1996, called T-Modell (T for touring or transporter). It shared the same versions of the [[sedan (car)|sedan]], with the exception of the AMG versions.
+
+===US-spec models===
+W202s in North America included the C 220 (later replaced by the C 230), C 280 (both I6 and V6) and the AMG variants. It was launched in the U.S. in 1994, and unlike models in Europe, featured a third stop light, no specific trim levels, and side lights at the end of the front-turn signals.
+
+===Restyling===
+[[Image:93-97 Mercedes-Benz C-Class.jpg|thumb|left|200px|1994-1997 W202 C-Class sedan]]
+[[Image:1st Mercedes-Benz C280.jpg|thumb|right|200px|1998-2000 W202 C280 sedan]]
+In 1997, the C-Class was given a small midlife freshening, with new darker rear lights and new wheel rims as well as subtle interior trim changes, including on the door mouldings. The front and rear bumpers were also reshaped.
+{{clear}}
+
+===AMG models {{Anchors|C36 AMG|C36|C43 AMG|C43}}===
+In 1995, the C-Class received its first genuine performance model, the C 36 AMG, to counter the new six-cylinder BMW M3. Developed with [[Mercedes-AMG|AMG]], the tuning house that had now become a subsidiary of Daimler-Benz, it had a racing-tuned suspension (lowered by {{convert|25|mm|in|0|abbr=on}}) and in the USA, a four-speed [[automatic gearbox]], followed by a standard five-speed automatic gearbox. The 3.6 L engine had a maximum output of {{convert|280|PS|kW hp|0|abbr=on}} at 5750&nbsp;rpm and {{convert|385|Nm|lbft|0|abbr=on}} at 4000&nbsp;rpm. Top speed was electronically limited to {{convert|250|km/h|mph|0|abbr=on}}. Only a total of 5200 C 36 AMGs were produced.
+
+In 1998 AMG developed a new flagship for the C-Class, the [[C43 AMG|C 43 AMG]], powered by a 4.3&nbsp;L [[V8]], which could now achieve {{convert|306|PS|kW hp|0|abbr=on}} at 5850&nbsp;rpm, with a torque of {{convert|410|Nm|lbft|0|abbr=on}} at 3250&nbsp;rpm. It was also available as a station wagon. Again, only 4200 AMG units were produced, with only 25 C 43 vehicles of the 2000 model year imported to the US.  This vehicle bears four gear assembly each side by side to impart better fuel efficiency & performance.
+
+==W203 (2000&ndash;2007){{anchor|W203}}==
+{{Infobox Automobile generation
+|name=W203
+|image=[[Image:06-07 Mercedes-Benz C350.jpg|250px|2006-2007 Mercedes-Benz C350 sedan (US)]]
+|platform=[[Mercedes-Benz W203]]
+|production=Sedan & Wagon 2000&ndash;2007<br />Hatchback 2001&ndash;2007
+|engine={{nowrap|1.8&ndash;2.3 L [[Mercedes-Benz M111 engine|M111]] [[Straight-4|I4]]}}<br />
+{{nowrap|1.8 L [[Mercedes-Benz M271 engine|M271]] [[Straight-4|I4]] Kompressor}}<br />
+{{nowrap|2.0&ndash;2.3 L [[Mercedes-Benz M111 engine|M111]] [[Straight-4|I4]] Kompressor}}<br />
+{{nowrap|2.6 L&ndash;3.2 L [[Mercedes-Benz M112 engine|M112]] [[V6]]}}<br />
+{{nowrap|2.5 L&ndash;3.5 L [[Mercedes-Benz M272 engine|M272]] [[V6]]}}<br />
+{{nowrap|3.2 L Supercharged [[Mercedes-Benz M112 engine|M112]] [[V6]] [[Mercedes-AMG|AMG]]}}<br />
+{{nowrap|5.4 L [[Mercedes-Benz M113 engine|M113]] [[V8]] [[Mercedes-AMG|AMG]]}}<br />
+{{nowrap|2.1 L [[Mercedes-Benz OM611 engine|OM611]] [[Diesel engine|Diesel]] [[Straight-4|I4]]}}<br />
+{{nowrap|2.7 L [[Mercedes-Benz OM612 engine|OM612]] [[Diesel engine|Diesel]] [[Straight-5|I5]]}}<br />
+{{nowrap|3.0 L [[Mercedes-Benz OM642 engine|OM642]] [[Diesel engine|Diesel]] [[V6]]}}<br />
+{{nowrap|3.0 L [[Mercedes-Benz OM612 engine|OM612]] [[Diesel engine|Diesel]] [[Straight-5|I5]] [[Mercedes-AMG|AMG]]}}
+|wheelbase={{convert|2715|mm|in|1|abbr=on}}
+|length=Saloon: {{convert|4526|mm|in|1|abbr=on}}<br />T-Modell: {{convert|4541|mm|in|1|abbr=on}}<br />SportCoupe: {{convert|4343|mm|in|1|abbr=on}}
+|width={{convert|1728|mm|in|1|abbr=on}}
+|height=Saloon: {{convert|1426|mm|in|1|abbr=on}}<br />T-Modell: {{convert|1465|mm|in|1|abbr=on}}<br />Coupe: {{convert|1406|mm|in|1|abbr=on}}
+|transmission=6-speed manual<br />5-speed automatic<br />7-speed automatic
+|body_style=3-door [[hatchback]]<br />4-door [[sedan (car)|sedan]]<br />5-door [[station wagon]]
+}}
+[[Image:Mercedes-Benz W203s.jpg|300px|thumb|right|Pre-update W203 (background) with updated model (foreground)]]
+[[Image:Mercedes-Benz-C240-wagon.jpg|250px|thumb|right|W203 wagon]]
+[[Image:Mercedes-Benz-C230-hatch-2.jpg|250px|thumb|right|W203 Sportcoupe]]
+[[Image:Mercedes-Benz CL203 CLC180 Kompressor Heck.JPG|250px|thumb|right|W203-2 CLC-Class]]
+
+The second generation C-Class was introduced in 2000, with a sportier look than the previous generations, with a steeper front-end and shorter rear-end. The styling cues were similar to that of the [[Mercedes-Benz W220|W220]] S-Class. The sedan debuted with a range of straight-four and V6 gasoline engines and straight-four and straight-five Diesels.  Most of the engines were carried over from the W202, but the C 320 was exclusive, offering {{convert|218|PS|kW hp|0|abbr=on}}, also the C240 now had 2597 cc but output was unchanged at {{convert|170|PS|kW hp|0|abbr=on}}. The diesels now featured [[common rail]] [[direct injection]] and [[variable geometry turbocharger]]s. Six-speed manual gearboxes were now standard for nearly the entire range (except the C320 and C 270 CDI). For the first time, the number designations were no longer equivalent to the engine displacement, more specifically in the C 200 (1.8&nbsp;L), C 240 (2.6&nbsp;L) and C 200 CDI (2.2&nbsp;L).
+
+In 2001, Mercedes increased the range, with the introduction of the new T-Modell station wagon and '''Sportcoupé'''. The Sportcoupé was a three-door [[liftback]] made to counter the [[BMW Compact]], but like its competitor, it proved unpopular with the younger buyers it was targeted towards, due to high prices compared to the lower entry-level models it was competing against, and unfavorable exchange rates. Although removed from the [[North America]]n lineup in 2005, it continued on sale in other markets. From October 2000 until 2007, a total of 230,000 Sportcoupés were built in the [[Bremen]] factory and in Brazil<ref>''auto motor und spo''rt, #3/2008, p. 27</ref>. In [[Canada]], it was replaced by the [[Mercedes-Benz B-Class]]. In 2003 new family of supercharged four cylinder engines, dubbed [[Mercedes-Benz M271 engine|M271]], also debuted. All of them used the same 1.8&nbsp;L engine, with different designations according to horsepower levels, including a version powered by [[natural gas]]. The {{convert|193|PS|kW hp|0|abbr=on}} C 230K was initially available only in the Sportcoupé (replacing the 2.3&nbsp;L engine in 2002 and older models). The newer 1.8&nbsp;L was less powerful but smoother and more efficient than the older 2.3&nbsp;L ({{convert|192|PS|kW hp|0|abbr=on}} compared to {{convert|193|PS|kW hp|0|abbr=on}}. [[4MATIC]] [[four wheel drive]] versions were also offered for the C 240 and C 320.
+
+The C-Class was refreshed in early 2004. In this year, the interior styling was changed in all three body styles. Different taillights were added to the Sportcoupé and several all-new [[Mercedes-Benz M272 engine|M272]] and [[Mercedes-Benz OM642 engine|OM642]] V6 engines were introduced later in the year. Both petrol and diesel engines were added.  The C230 V6, C280, C350 replaced the C240 and C320, the new-generation 6-cylinder engines developed substantially more power than the older version, by as much as 24% more, whilst also increasing fuel economy and reducing C0<sub>2<sub></sub></sub> emissions.  The C230 V6, C280 and C350 developed {{convert|204|PS|kW hp|0|abbr=on}}, {{convert|231|PS|kW hp|0|abbr=on}} and {{convert|272|PS|kW hp|0|abbr=on}} respectively.  The three-valve twin spark design was replaced by a four-valve design, now with [[variable valve timing]].  .  On the diesel side too, things were much improved, with a brand-new V6 3.0 litre CDI diesel.  The new V6 diesel offered masses of more power compared to the C270 CDI, by as much as 32% more, the CO<sub>2<sub></sub></sub> emissions and fuel economy were also bettered, the output of this engine {{convert|224|PS|kW hp|0|abbr=on}} and its torque of 510 Nm made it the worlds most powerful diesel at the time. The C220 CDI received a power increase from {{convert|143|PS|kW hp|0|abbr=on}} to {{convert|150|PS|kW hp|0|abbr=on}} In addition, these engines also received the new seven-speed [[7G-Tronic]] automatic transmission, a more economical naturally-aspirated 1.8&nbsp;L (C 160) was added to the Sportcoupé lineup.
+
+The last W203 C-Class sedan was produced on December 14, 2006 at the Sindelfingen plant.
+
+However, the W203 Sportcoupé [[liftback]] will continue to be produced in Brazil beyond this date, since Mercedes-Benz does not foresee producing a W204 Sportcoupé. Indeed, it has decided to offer an updated W203-2 or CL203 Sportcoupé with a new restyled front end inspired by the W204 sedan <ref>{{cite web|url=http://www.worldcarfans.com/spyphotos.cfm/spyphotoID/6070214.002/page/1/country/gcf/mercedes/spy-photos-all-new-mercedes-c-sportcoupe |title=SPY PHOTOS: All New Mercedes C Sportcoupe |publisher=Worldcarfans |date=2007-02-14 |accessdate=2009-07-26}}</ref> and an improved engine range parallel to the one of the W204. It was also spun off into its own separate line as the '''[[Mercedes-Benz CLC-Class|CLC-Class]]'''. <ref>[http://media.daimler.com/dcmedia/0-921-614233-1-1034478-1-0-0-0-0-1-11817-854934-0-1-0-0-0-0-0.html?TS=1199899280531&REF=921%2Fen%2FMercedes-Benz%20Cars%2FMercedes-Benz%20P.%20Cars%2F.Newsroom%20%28Mercedes-Benz%20P.Cars%29%2F%23XCID%3D617718%20%7C%20XPID%3D0%20%7C%20XCTY%3D3897%20%7C%20XAID%3D New Key Visual for Mercedes-Benz Fashion Week Berlin 2008: Two stars in the photo studio: Top model Eva Padberg and the new Mercedes-Benz CLC]</ref>
+
+===Crash test ratings===
+{| class="wikitable" border="1"
+|-
+|[[EuroNCAP]] adult occupant<ref>{{cite web|url=http://www.euroncap.com/tests/mercedes_benz_c_class_2002/127.aspx |title=For safer cars &#124; Mercedes Benz C Class |publisher=Euro NCAP |date= |accessdate=2009-07-26}}</ref>:
+|{{rating|5|5}}
+|-
+|EuroNCAP pedestrian (pre-2002 rating):
+|{{rating|2|4}}
+|-
+|[[IIHS]] overall frontal offset score<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=205 |title=IIHS-HLDI: Mercedes C class |publisher=Iihs.org |date=2006-10-10 |accessdate=2009-07-26}}</ref>:
+|Good
+|-
+|IIHS overall side crash test score<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=955 |title=IIHS-HLDI: Mercedes C class |publisher=Iihs.org |date=2008-04-23 |accessdate=2009-07-26}}</ref>:
+|Acceptable
+|}
+
+{| class="wikitable" border="1"
+|+ [[NHTSA]] crash test ratings (2006)<ref>{{cite web|url=http://www.safercar.gov/portal/search?model=3538 |title=Safercar.gov |publisher=Safercar.gov |date= |accessdate=2009-07-26}}</ref>:
+|-
+|Frontal Driver:
+|{{rating|4|5}}
+|-
+|Frontal Passenger:
+|{{rating|4|5}}
+|-
+|Side Driver:
+|{{rating|5|5}}
+|-
+|Side Rear Passenger:
+|{{rating|4|5}}
+|-
+|Rollover:
+|{{rating|4|5}}
+|}
+
+===AMG models {{Anchors|C32 AMG|C32|C55 AMG|C55}}===
+After the performance of the AMG models in the previous generation, Mercedes-Benz attempted to increase sales among high-end buyers by introducing two different AMG versions in the new model, also in 2001. The C 32 AMG scaled back down to a 3.2&nbsp;L V6 engine, to match the [[BMW E46|E46 M3]] displacement and improve weight distribution, but it required a [[twin-screw type supercharger]] (manufactured by IHI) to reach {{convert|354|PS|kW hp|0|abbr=on}}) at 6100&nbsp;[[Revolutions per minute|rpm]] and {{convert|450|Nm|lb.ft|0|abbr=on}} at 4400&nbsp;rpm. Like its predecessors, it used a five-speed automatic, helping it to complete a 0-100&nbsp;km/h sprint within 5.2 seconds. The second version was C 30 CDI AMG, using a 3.0&nbsp;L five-cylinder engine, capable of {{convert|231|PS|kW hp|0|abbr=on}} at 3800&nbsp;rpm and {{convert|540|Nm|lb.ft|0|abbr=on}} at 2000&nbsp;rpm. Both were available in all three body styles, but the diesel model did not reach sales expectations and was retired in 2004, as well as the C 32 AMG Sportcoupé.
+
+By the revision of the C-Class in 2005, C 32 AMG was also replaced, giving way to a new 5.4&nbsp;L naturally-aspirated V8-powered C 55 AMG. This was an evolution of the V8 engine found in the previous [[Mercedes-Benz E-Class|E-Class]], with power raised to {{convert|367|PS|kW hp|0|abbr=on}} at 5750&nbsp;rpm and torque climbing to {{convert|510|Nm|lb.ft|0|abbr=on}} at 4000&nbsp;rpm. Unlike the less-powerful V6s and V8s in the rest of the Mercedes-Benz lineup, it continues to use Speedshift five-speed automatic. Though maximum speed is still limited to {{convert|250|km/h|mph|0|abbr=on}} and 4.9 seconds from 0 to 100&nbsp;km/h (62&nbsp;mph) is improved, this model is considered the sportiest AMG model in the C-Class history before the recent release of the W204 (third generation) C 63 AMG.
+{{Col-begin}}
+{{Col-2}}
+{| class="wikitable" border="1" style="font-size:95%;"
+|+Petrol engines
+! Version || Engine || Cyl. || Power (PS)
+|-
+| C 160 || 1.8 16V [[Mercedes-Benz M111 engine|M111]] || S4 || {{convert|122|PS|kW hp|0|abbr=on}}
+|-
+| C 180 || 2.0 16V [[Mercedes-Benz M111 engine|M111]]<br />1.8 16V K [[Mercedes-Benz M271 engine|M271]] || S4 || {{convert|129|PS|kW hp|0|abbr=on}}<br />{{convert|143|PS|kW hp||abbr=on}}
+|-
+| C 200 || 2.0 16V K [[Mercedes-Benz M111 engine|M111]]<br />1.8 16V K [[Mercedes-Benz M271 engine|M271]] || S4 || {{convert|163|PS|kW hp|0|abbr=on}}<br />{{convert|163|PS|kW hp||abbr=on}}
+|-
+| C 230 || 1.8 16V K [[Mercedes-Benz M271 engine|M271]]<br />2.3 16V K [[Mercedes-Benz M111 engine|M111]]<br />2.5 24V [[Mercedes-Benz M272 engine|M272]] || S4<br />S4<br />V6 || {{convert|192|PS|kW hp|0|abbr=on}}<br />{{convert|193|PS|kW hp|0|abbr=on}}<br />{{convert|204|PS|kW hp|0|abbr=on}}
+|-
+| C 240 || 2.6 18V [[Mercedes-Benz M112 engine|M112]] || V6 || {{convert|170|PS|kW hp|0|abbr=on}}
+|-
+| C 280 || 3.0 24V [[Mercedes-Benz M272 engine|M272]] || V6 || {{convert|231|PS|kW hp|0|abbr=on}}
+|-
+| C 320 || 3.2 18V [[Mercedes-Benz M112 engine|M112]] || V6 || {{convert|218|PS|kW hp|0|abbr=on}}
+|-
+| C 350 || 3.5 24V [[Mercedes-Benz M272 engine|M272]] || V6 || {{convert|272|PS|kW hp|0|abbr=on}}
+|-
+| C 32 AMG || 3.2 18V SC [[Mercedes-Benz M112 engine|M112]] || V6 || {{convert|354|PS|kW hp|0|abbr=on}}
+|-
+| C 55 AMG || 5.4 24V [[Mercedes-Benz M113 engine|M113]] || V8 || {{convert|367|PS|kW hp|0|abbr=on}}
+|}
+{{Col-2}}
+{| class="wikitable" border="1" style="font-size:95%;"
+|+Diesel engines
+! Version || Engine || Cyl. || Power (PS)
+|-
+| C 200 CDI || 2.1 16V CDI [[Mercedes-Benz OM611 engine|OM611]] || S4 || {{convert|115|PS|kW hp|0|abbr=on}}<br />{{convert|122|PS|kW hp|0|abbr=on}}
+|-
+| C 220 CDI || 2.1 16V CDI [[Mercedes-Benz OM611 engine|OM611]] || S4 || {{convert|143|PS|kW hp|0|abbr=on}}<br />{{convert|150|PS|kW hp|0|abbr=on}}
+|-
+| C 270 CDI || 2.7 20V CDI [[Mercedes-Benz OM612 engine|OM612]] || S5 || {{convert|170|PS|kW hp|0|abbr=on}}
+|-
+| C 320 CDI || 3.0 24V CDI [[Mercedes-Benz OM642 engine|OM642]] || V6 || {{convert|224|PS|kW hp|0|abbr=on}}<br />{{convert|231|PS|kW hp|0|abbr=on}}
+|-
+| C 30 CDI AMG || 3.0 20V CDI [[Mercedes-Benz OM612 engine|OM612]] || S5 || {{convert|231|PS|kW hp|0|abbr=on}}
+|}
+{{Col-end}}
+
+{{-}}
+
+==W204 (2007&ndash;present){{anchor|W204}}==
+{{Advert}}
+{{Infobox Automobile generation
+|name=W204
+|image=[[Image:2008 Mercedes-Benz C300 Sport 1.jpg|250px|2008 Mercedes-Benz W204 C300 Sport (US)]]
+|production=2007&ndash;present
+|engine={{nowrap|1.6 L-1.8 L [[Mercedes-Benz M271 engine|M271]] [[Straight-4|I4]] Kompressor}}<br />
+{{nowrap|2.5&ndash;3.5 L [[Mercedes-Benz M272 engine|M272]] [[V6]]}}<br />
+{{nowrap|6.2 L [[Mercedes-Benz M156 engine|M156]] [[V8]] [[Mercedes-AMG|AMG]]}}<br />
+{{nowrap|2.1 L [[Mercedes-Benz OM611 engine|OM611]] [[Diesel engine|Diesel]] [[Straight-4|I4]]}}<br />
+{{nowrap|2.1 L [[Mercedes-Benz OM651 engine|OM651]] [[Diesel engine|Diesel]] [[Straight-4|I4]]}}<br />
+{{nowrap|3.0 L [[Mercedes-Benz OM642 engine|OM642]] [[Diesel engine|Diesel]] [[V6]]}}
+|transmission=6-speed manual<br />5-speed automatic<br />7-speed automatic
+|platform=[[Mercedes-Benz W204]]
+|body_style=4-door [[sedan (car)|saloon]], 5-door [[station wagon|estate]]
+|wheelbase={{convert|2760|mm|in|1|abbr=on}}
+|related=
+|length={{convert|4582|mm|in|1|abbr=on}} (sedan)<br />
+{{convert|4596|mm|in|1|abbr=on}} (wagon)<br />
+{{convert|4726|mm|in|1|abbr=on}} (C63 AMG sedan)
+|width={{convert|1770|mm|in|1|abbr=on}}
+|Front track 1548 mm 
+|Rear track 1552 mm <br />
+{{convert|1795|mm|in|1|abbr=on}} (C 63 AMG)
+|height={{convert|1447|mm|in|1|abbr=on}}
+|MEDAL Recycle lost part 50/100-73/100 }}
+[[Image:C63.jpg|250px|thumb|right|2008 Mercedes-Benz C63 AMG]]
+[[DaimlerChrysler]] introduced a new generation of the C-Class on January 18, 2007 <ref>http://www.daimlerchrysler.com/dccom/0-5-693758-1-693744-1-0-0-0-0-0-13-7163-0-0-0-0-0-0-0.html</ref> and displayed it in the 2007 [[Geneva Auto Show]]. Sales started on [[March 31]], 2007 in almost all European countries. The new vehicle has an extended wheelbase and tracks, a stiffer bodyshell and a design inspired by the most recent [[Mercedes-Benz S-Class|S-Class]] and some hints from the [[Mercedes-Benz CLS-Class|CLS-Class]].
+
+The model has four trim levels of equipment - Classic, Elegance, Avantgarde and AMG, A high performance AMG version with a 6.2&nbsp;L engine followed in September 2007, labelled C 63 AMG with {{convert|457|PS|kW hp|0|abbr=on}} to rival the [[Audi RS4]] and [[BMW M3]]. The Classic and Elegance lines retain the traditional Mercedes-Benz radiator [[grille]], with a three-point star bonnet emblem. The Avantgarde line has a grille similar to that on Mercedes' sport coupe models, with two horizontal bars and a large centre-mounted star. In the UK the Classic line is known as the SE and the Avantgarde line is known as the C-Class Sport <ref>{{cite web|url=http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/passenger_cars/home/products/new_cars/cclasssaloon/lines.0003.html |title=Mercedes-Benz UK - C-Class - C-Class Saloon |publisher=.mercedes-benz.co.uk |date= |accessdate=2009-07-26}}</ref>, and comes with an AMG bodykit, and AMG alloy wheels as standard. In the United States, the Classic is not sold, while the Elegance is known as the C-Class Luxury and the Avantgarde wearing the AMG sports package is known as the C-Class Sport. Both lines have an additional amber light in front of the front wheel well. In Canada, the Elegance (as just the C-Class), Avantgarde (Sport package), and AMG models are sold. Unlike the previous generations, the wagon version is no longer sold in North America.<ref>{{cite web|url=http://www.jdpower.com/autos/articles/2008-Mercedes-Benz-C-Class-Wagon-Preview |title=2008 Mercedes-Benz C-Class Wagon Preview |publisher=J.D. Power |date= |accessdate=2009-07-26}}</ref>
+
+There is a special system exclusive to this class, named 'Agility control' package, which through its unique concept provides drivers with excellent agility and ride quality.  It achieves this feat through a hydro-mechanical set up, which constantly analyses road conditions and driving 'habits', resultantly it adjusts damper & suspension settings accordingly to provide the driver the best possible balance between ride comfort and agility.  Buyers can opt for 'Advanced agility control' package. This system is an upgrade to the standard one, offering a 'sport' mode button.
+
+Versions of the car are available with a choice of rear- and all-wheel drive (in the latter case an improved version of the 4MATIC system, not available in right-hand drive format), along with a variety of four and six-cylinder engines (and a 6.2 litre V8 in the C 63 AMG). Engines are the straight-4 M271 and [[V6]] M272 [[Four-stroke cycle|petrol engines]], straight-4 OM611 + OM651, and V6 OM642 [[Diesel engine]]s.  Most of the engines are from the W203 C-class, but the C 180K, C 200K, C 200 CDI & C 220 CDI derivatives have increased power outputs, also with improvements with respect to emissions and fuel consumption.  In 2008 new generation V6's are expected to replace the current V6 powerplants.  Six-speed [[manual transmission]]s are standard on all models (except the C 350),(7G-Tronic is available for C 230K, C 280, C 300, C 320 CDI and standard for C 350) and a five speed automatic transmission available for the four cylinder models. In the United States, the C 300 Luxury and C 350 Sport are only available with the 7G-Tronic transmission, and the C 300 Sport comes with a six-speed manual transmission, and the 7G-Tronic automatic transmission as an option. In Canada, 7G-Tronic automatic transmission comes with any 4MATIC model. The 4MATIC Models include C 230 4MATIC, C 300 4MATIC, and the C 350 4MATIC. The C 63 AMG comes with standard rear-wheel-drive.
+
+The development of the W204 C-Class involved the use of a "digital prototype", which put a 2.1 [[terabyte]] digital replica of the car through a 15 million mile road course. This is an industry first which allowed for crash testing and more, before a physical prototype was actually constructed.
+
+The Mercedes E-class coupe shares its platform with the C-class.<ref name="autoblog.com"/>
+
+===AMG model {{Anchors|C 63 AMG|C 63}}===
+
+The [http://www.emercedesbenz.com/Sep07/11_2007_IAA_International_Motor_Show_The_Mercedes_Benz_C63_AMG_1.html C 63 AMG] is reportedly the first AMG Mercedes designed from the ground up for performance, as compared to previous AMG cars which essentially featured "bolt on" performance modifications. The C 63 has a revised front end architecture that is taken from the [http://www.emercedesbenz.com/Apr07/04_New_York_Auto_Show_World_Premier_CLK_63_AMG_Black_Series.html CLK 63 AMG Black series]. The revised 7-speed automatic transmission now has three shift modes - Comfort, Sport and Manual - with the last one running with the converter locked allowing the driver to hold the engine at the rev limit. The ESP can now be completely turned off, interfering only under heavy braking. The car also has the quickest, most responsive steering of any Mercedes to date. ''[[Car and Driver]]'' tested the car in their December 2007 issue and got a 0-60 mph time of 3.9 seconds and a quarter-mile time of 12.3 seconds at {{convert|116|mi/h|km/h|abbr=on}}.<ref>http://www.caranddriver.com/assets/download/60ksports_powertrain.pdf</ref> This makes the C 63 one of the fastest 4-door sedans in the world.
+
+===Crash test ratings===
+{| class="wikitable" border="1"
+|-
+|[[EuroNCAP]] adult occupant<ref>{{cite web|url=http://www.euroncap.com/tests/mercedes_benz_c_class_2007/308.aspx |title=For safer cars &#124; Mercedes Benz C Class |publisher=Euro NCAP |date= |accessdate=2009-07-26}}</ref>:
+|{{rating|5|5}}
+|-
+|EuroNCAP child occupant:
+|{{rating|3|5}}
+|-
+|EuroNCAP pedestrian:
+|{{rating|2|4}}
+|-
+|[[IIHS]] overall frontal offset score<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=915 |title=IIHS-HLDI: Mercedes C class |publisher=Iihs.org |date=2008-11-25 |accessdate=2009-07-26}}</ref>:
+|Good
+|-
+|IIHS overall side crash test score<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=1042 |title=IIHS-HLDI: Mercedes C class |publisher=Iihs.org |date=2008-11-25 |accessdate=2009-07-26}}</ref>:
+|Good
+|}
+
+{| class="wikitable" border="1"
+|+ [[NHTSA]] crash test ratings (2007)<ref>{{cite web|url=http://www.safercar.gov/portal/search?model=4021 |title=Safercar.gov |publisher=Safercar.gov |date= |accessdate=2009-07-26}}</ref>
+|-
+|Frontal Driver:
+|{{rating|4|5}}
+|-
+|Frontal Passenger:
+|{{rating|4|5}}
+|-
+|Side Driver:
+|{{rating|5|5}}
+|-
+|Side Rear Passenger:
+|{{rating|5|5}}
+|-
+|Rollover:
+|{{rating|4|5}}
+|}
+
+{{Col-begin}}
+{{Col-2}}
+{| class="wikitable" border="1" style="font-size:95%;"
+|+Petrol engines
+! Version || Engine || Cyl. || Power
+|-
+| C 180 KOMPRESSOR || 1.8 16V [[Mercedes-Benz M271 engine|M271]] || S4 || {{convert|156|PS|kW hp|0|abbr=on}}
+|-
+| C 180 KOMPRESSOR BlueEFFICIENCY || 1.6 16V [[Mercedes-Benz M271 engine|M271]] || S4 || {{convert|156|PS|kW hp|0|abbr=on}}
+|-
+| C 200 KOMPRESSOR || 1.8 16V [[Mercedes-Benz M271 engine|M271]] || S4 || {{convert|184|PS|kW hp|0|abbr=on}}
+|-
+| C 230 (C 250 in Japan) || 2.5 24V [[Mercedes-Benz M272 engine|M272]] || V6 || {{convert|204|PS|kW hp|0|abbr=on}}
+|-
+| C 280 (C 300 in North America) || 3.0 24V [[Mercedes-Benz M272 engine|M272]] || V6 || {{convert|231|PS|kW hp|0|abbr=on}}
+|-
+| C 350 || 3.5 [[Mercedes-Benz M272 engine|M272]] 24V || V6 || {{convert|272|PS|kW hp|0|abbr=on}}
+|-
+| C 350 CGI BlueEFFICIENCY || 3.5 24V direct injection [[Mercedes-Benz M272 engine|M272]] || V6 || {{convert|292|PS|kW hp|0|abbr=on}}<ref>[http://www.autobloggreen.com/2008/10/23/c-350-cgi-blueefficiency-28-mpg-in-a-large-petrol-sedan/ C 350 CGI BlueEFFICIENCY: 28 mpg in a large petrol sedan]</ref>
+|-
+| C 63 AMG || 6.2L-6,208cc 32V [[Mercedes-Benz M156 engine|M156]] || V8 || {{convert|457|PS|kW hp|0|abbr=on}}
+|}
+{{Col-2}}
+{| class="wikitable" border="1" style="font-size:95%;"
+|+Diesel engines
+! Version || Engine || Cyl. || Power
+|-
+| C 200 CDI || 2.1 16V CDI [[Mercedes-Benz OM611 engine|OM611]] || S4 || {{convert|136|PS|kW hp|0|abbr=on}}
+|-
+| C 200 CDI BlueEFFICIENCY<ref>[http://www.autobloggreen.com/2008/02/28/geneva-08-preview-mercedes-new-blueefficiency-c-class-saloons/ Geneva '08 preview: Mercedes' new BlueEFFICIENCY C-Class saloons; one gets 46 mpg!]</ref>|| 2.1 16V CDI [[Mercedes-Benz OM651 engine|OM651]] || S4 || {{convert|136|PS|kW hp|0|abbr=on}}
+|-
+| C 220 CDI || 2.1 16V CDI [[Mercedes-Benz OM611 engine|OM611]] || S4 || {{convert|170|PS|kW hp|0|abbr=on}}
+|-
+| C 250 CDI BlueEFFICIENCY Prime Edition<ref>[http://www.autobloggreen.com/2008/10/14/mercedes-benz-launches-c250-cdi-blueefficiency-prime-edition/ Mercedes Benz launches C250 CDI BlueEfficiency Prime Edition]</ref> || 2.1 16V [[Mercedes-Benz OM651 engine|OM651]] twin turbo CDI || S4 || {{convert|204|PS|kW hp|0|abbr=on}}
+|-
+| C 320 CDI || 3.0 24V CDI [[Mercedes-Benz OM642 engine|OM642]] || V6 || {{convert|224|PS|kW hp|0|abbr=on}}
+|}
+{{Col-end}}
+
+===Awards===
+The 2007 Mercedes-Benz C Class was awarded [[Wheels Car of the Year|Car of the Year]] in Australia by [[Wheels Magazine]], edging out the Ford Mondeo and [[Mazda 2]] for the award.<ref>[http://www.wheelsmag.com.au/Car_of_the_Year_2007 Wheels - Car of the Year 2007 - Car Reviews | Wheels Magazine<!-- Bot generated title -->]</ref> It was also awarded "Executive Car Of The Year" by Top Gear Magazine for the 2007 Top Gear Awards.
+
+==Motorsport==
+[[Image:DTM Mercedes W204 DiResta09 amk.jpg|thumb|right|The DTM C-Class (W204) of 2009 on the [[Hockenheimring]].]]
+===C-Class DTM 2006 Specifications===
+*Chassis: Tubular grid frame with steel roof and sides; other body parts such as doors, hood, fenders and rear cover made from CFK; integrated driver safety cell and defined front, rear and lateral crash structures.
+*Length: 191.8 inches.
+*Height: 49.4 inches.
+*Width: 72.6 inches.
+*Weight: 1030 [[kilogram|kg]] (with driver).
+*Engine: Custom-built [[Mercedes-Benz]] [[V8 engine|V8]], 90 degrees, [[Overhead camshaft|DOHC]].
+*Displacement: 4.0 liter.
+*Aerodynamics: Aerodynamic modifications to front apron and side panels, flat underfloor, rear diffusor, standardized double-profile rear aerofoil.
+*Springs: [[H&R (springs)|H&R]].
+*Fuel capacity: 14.29800114 UK Gallons.
+*Fuel: [[Aral AG|Aral]] Ultimate 100 RON unleaded.
+*Injector: [[Fuel injection]].
+*Oil: [[Mobil 1]] dry sump.
+*Grease/Radiator fluid: [[Wurth]].
+*Power output: 476 hp at 7,500/min.
+*Tires: Dunlop SP Sport Maxx, front: 265/660-R18, rear: 280/660-R18.
+*Steering: Rack-and-pinion steering with power assistance.
+*Brakes: Standardized carbon brake system without ABS.
+*Intake air restrictors: diameter of 2 x 28&nbsp;mm.
+*Safety equipment: [[Hugo Boss AG|BOSS]] seatbelt 6-point, [[HANS device]].
+*Transmission: Carbon-fiber cardan shaft Three-disc carbon-fiber clutch, mechanically operated via a foot-operated pedal Standardized six-speed transmission with sequential gearshift, transaxle configuration with mechanical differential lock Rear-wheel drive without acceleration skid control.
+*Wheel suspension: Double wishbones with spring/damper units on the front and rear axles, actuated via pushrods.
+*Wheel rims: [[ATS (wheels)|ATS]] Aluminum wheels with a diameter of 18 inches and a width of 11 inches on the front axle / 12 inches on the rear axle; standardized tires with a diameter of 660&nbsp;mm on front and rear axles.
+*ECU: [[Robert Bosch GmbH|Bosch]] MS 2.9.
+*Ignition: [[Mercedes-AMG|H.W.A]] [[Capacitor discharge ignition|CDI]] on/off switch.
+
+===FIA Formula One===
+In addition to a modified [[SL63]] for the official safety car, the FIA utilise several C63 estates for medical cars that are stationed around the track in case of an accident. At the [[2009 Brazilian Grand Prix]] these cars were used for inspecting the track in the extreme weather that interrupted proceedings.
+
+==Concepts==
+[[Siemens]] employing prototype hybrid technology, showed off a modified Mercedes C-Class Sport Coupe that boasts faster acceleration, more [[torque]] -- and better [[Fuel economy in automobiles|fuel economy]] -- than its gasoline-powered equivalent. However, the company admitted that the car was "far from ready for production", and too expensive to manufacture or sell.
+
+==US sales==
+{| class="wikitable" border="1"
+|-
+! US Calendar Year
+! Sales
+|-
+| 2003<ref>{{cite web|url=http://www.theautochannel.com/news/2005/01/04/313903.html |title=2004 Highest Year on Record for Mercedes-Benz USA |publisher=Theautochannel.com |date=2004-11-17 |accessdate=2009-07-26}}</ref>
+| 65,982
+|-
+| 2004
+| 69,251
+|-
+| 2005<ref>{{cite web|url=http://www.theautochannel.com/news/2007/01/03/032870.html |title=Mercedes-Benz Rings in the New Year with Record 2006 Sales |publisher=Theautochannel.com |date=2004-11-17 |accessdate=2009-07-26}}</ref>
+| 60,658
+|-
+| 2006
+| 50,187
+|-
+| 2007<ref>{{cite web|url=http://www.emercedesbenz.com/Jan09/05_001548_Mercedes_Benz_USA_Sales_Drop_32_Percent_In_December_2008.html |title=Mercedes-Benz USA's Sales Drop 32.1 Percent In December 2008 &#124; eMercedesBenz - The Unofficial Mercedes-Benz Weblog |publisher=eMercedesBenz |date=2009-01-05 |accessdate=2009-07-26}}</ref>
+| 63,701
+|-
+| 2008
+| 72,471
+|}
+
+==Notes==
+{{reflist|2}}
+<!--  References in an encyclopedia should give facts and figures. Please consider whether magazine reviews count as references before linking. -->
+
+==References==
+*[http://autoweb.drive.com.au/cms/A_50360/newsarticle.html Mercedes and AMG - Performance Partners, March 1998]
+*[http://www.autocarmag.com/News/NewsArticle/AllCars/223836/ Mercedes unveils the new C-class, January 2007]
+
+==External links==
+{{commonscat|Mercedes-Benz C-Class}}
+*[http://www.c-class.co.uk/ Official C-Class microsite (UK)]
+*[http://www.mbusa.com/models/class-overview.do?modelCode=c_class_main Official C-Class page (USA)]
+*[http://www.mercedes-benz.ca/whatdrivesyou/en/ Official C-Class Page (Canada)]
+*[http://www.emercedesbenz.com/Jan07/18_Its_Official_Mercedes_Finally_Unveils_The_2008_Mercedes_Benz_C_Class.html W204 C-Class press release, text, photographs]
+
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz vehicles|C-Class]]
+[[Category:Compact cars]]
+[[Category:Compact executive cars]]
+[[Category:Euro NCAP large family cars]]
+[[Category:Sedans]]
+[[Category:Hatchbacks]]
+[[Category:Station wagons]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1993]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Flexible-fuel vehicles]]
+[[Category:Partial zero-emissions vehicles]]
+[[Category:Aftermarket plug-in hybrid vehicles]]
+
+[[da:Mercedes-Benz C-klasse]]
+[[de:Mercedes-Benz C-Klasse]]
+[[et:Mercedes-Benzi C-klass]]
+[[el:Mercedes-Benz W204]]
+[[es:Mercedes-Benz Clase C]]
+[[fr:Mercedes-Benz Classe C]]
+[[hr:Mercedes-Benz C-klasa]]
+[[it:Mercedes-Benz Classe C]]
+[[nl:Mercedes-Benz C-Klasse]]
+[[ja:メルセデス・ベンツ Cクラス]]
+[[pl:Mercedes-Benz klasy C]]
+[[pt:Mercedes-Benz Classe C]]
+[[ru:Mercedes-Benz C-класс]]
+[[simple:Mercedes-Benz C-Class]]
+[[fi:Mercedes-Benz C-sarja]]
+[[sv:Mercedes-Benz C-klass]]
+[[tr:Mercedes-Benz C-Serisi]]
+[[uk:Mercedes-Benz C-Class]]

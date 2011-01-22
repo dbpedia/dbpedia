@@ -1,0 +1,62 @@
+{{Infobox Automobile engine
+|image=[[Image:BMW S65 Engine.JPG|250px]]
+|name=BMW S65 engine
+|manufacturer=[[BMW|BMW, Bayerische Motoren Werke AG]]
+|production=[[2007]]&ndash;
+|bore=92&nbsp;mm
+|stroke=75.2&nbsp;mm
+|displacement=4.0&nbsp;L (3999&nbsp;cc/244&nbsp;in³)
+|length=734&nbsp;mm
+|compression=12.0:1
+|predecessor=[[BMW M54#S54B32|BMW S54]]
+|successor=
+|class=[[DOHC]] 90° [[V8 engine|V8]]
+|similar=[[BMW S85]]<br>[[Mercedes-Benz M156 engine|Mercedes-Benz M156]]
+}}
+The '''S65''' is a [[naturally-aspirated engine|naturally-aspirated]] [[DOHC]] 32-valve [[automobile]] [[V8 engine]] from [[BMW]].
+Derived from the [[BMW S85]] [[V10 engine]] used in the [[BMW M5|M5]]/[[BMW M6|M6]], it shares the same basic architecture and [[aluminium]] construction. It was introduced in the [[BMW E90|E92]] [[BMW M3|M3]] as a replacement for the [[BMW M54#S54B32|S54]] [[straight-6]]. The engine was chosen as [[International Engine of the Year]] for the 3.0 to 4.0 L category in 2008 and 2009.
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#S65B40|S65B40]]||4.0&nbsp;L (3999&nbsp;cc/244&nbsp;in³)||309&nbsp;kW (420&nbsp;PS) @ 8300||400&nbsp;N·m (295&nbsp;ft·lbf) @ 3900||8400||2007
+|}
+
+The '''S65B40''' was developed as a result of increasingly stringent [[Euro V]] and [[California Air Resources Board]] (CARB) emissions regulations.<ref name = Zerotohundred>{{cite web | date = [[2007-03-29]] | url = http://www.zerotohundred.com/newforums/automotive-news/148318-in-depth-2007-bmw-e92-m3-awesome-420bhp-at-8400rpm.html#post2118890 | title = 2007 BMW E92 M3 | publisher = Zerotohundred.com | accessdate = 2007-04-29}}</ref> The S54 engine had reached the end of its development potential, making it clear a new engine was needed.
+
+The S65 shares the same 92&nbsp;mm bore and 75.2&nbsp;mm stroke cylinder dimensions with the S85 V10, along with the Double-[[VANOS]] [[variable valve timing]] system and 12.0:1 [[compression ratio]]. 
+
+However, the V8 does differ in a number of crucial aspects from its V10 sibling.
+The VANOS system is operated from engine oil-pressure, negating the need for a separate high-pressure hydraulic system as fitted to the S85. New lightweight [[ignition coil|spark coils]] with integrated [[engine knocking|knock]] sensors are fitted to each cylinder, bringing the total sensor count to eight compared with two on the V10. This allows more accurate detection of knocking with the added benefit that the eight sensors actually weigh less than the previous two sensor setup.
+
+A conventional wet-sump lubrication system with two oil pumps replaces the three-pump [[dry sump]] system used on the V10, further decreasing weight.
+The [[alternator]] disconnects from the engine during acceleration to maximise power, only charging the [[Battery (electricity)|battery]] during braking whenever possible, in a system BMW calls Brake Energy Regeneration.<ref>{{cite web | date = [[2007-04-20]] | url = http://www.kenrockwell.com/bmw/m3/2007/engine.htm | title = BMW M3 V8 | publisher = KenRockwell.com | accessdate = 2007-04-29}}</ref>
+
+The die-cast, over-[[eutectic]] aluminium-silicon [[engine block]] is sourced from BMW's [[Landshut]] [[Formula One|F1]] foundry, while aluminium [[cylinder head]]s come from Hydro-Aluminium in [[Austria]]. Other notable features of the engine include lightweight iron-coated aluminium [[piston]]s, steel-magnesium connecting rods, forged steel crankshaft and eight throttle butterflies.
+[[Image:BMW S65 Engine Model.JPG|thumb|250px|S65 engine with the top plastic air plenum removed to reveal the 8 individual [[throttle body|throttle bodies]].]]
+
+An updated version of the [[Siemens AG|Siemens]] '''MS S65''' [[Engine Control Unit|ECU]] (used in the S85 V10) is fitted to the V8. Claimed to be capable of more than 200 million calculations per second, the new ECU (known as the '''MS S60''') comfortably exceeds the 25 million calculations of which the S54's ECU was capable.<ref name = Zerotohundred />
+
+The resulting engine weighs 202&nbsp;kg (445&nbsp;lb): 15&nbsp;kg (33&nbsp;lb) lighter than the straight-6 engine it replaces, while also being shorter.<ref>{{cite web | date = [[2007-04-01]] | url = http://www.bmwusa.com/NR/rdonlyres/E2DF8A41-714F-4846-9066-E558310AB8D8/0/070405_The_new_BMW_M3.pdf | title = The new BMW M3 | publisher = [[BMW]] USA | accessdate = 2007-04-29}}</ref>
+
+The [[firing order]] for the S65 engine is 1-5-4-8-7-2-6-3, which is different from the typical BMW V8 firing order of 1-5-4-8-6-3-7-2 [http://www.bimmerfest.com/pdf/BMW-M3-Aftersales-Training--Information.pdf]
+
+A 4.4 liter version of the engine is used in the BMW M3 GTS.<ref>[http://paultan.org/2009/11/06/new-bmw-m3-gts-with-larger-4-4l-v8/ New BMW M3 GTS with a larger 4.4L V8]</ref>
+
+Applications:
+* 2008-2009- [[BMW_E90|E90, E92, E93]] [[BMW M3|M3]]
+
+==See also==
+*[[List of BMW engines]]
+*[[BMW S85]]
+
+==References==
+<references />
+[[Category:BMW engines|S65]]
+
+[[de:BMW S65]]
+[[it:BMW S65]]
+[[no:BMW S65]]
+[[pl:BMW S65]]

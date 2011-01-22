@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = timezone
+|rdfs:domain = City
+
+}}

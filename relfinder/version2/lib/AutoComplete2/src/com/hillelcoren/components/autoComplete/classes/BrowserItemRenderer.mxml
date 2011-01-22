@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Label xmlns:mx="http://www.adobe.com/2006/mxml">
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+			
+			private var _selectedItems:ArrayCollection;
+			
+			public function set selectedItems( value:ArrayCollection ):void
+			{
+				_selectedItems = value;
+			}
+			
+			override public function set data( item:Object ):void
+			{
+				super.data = item;
+				
+				if (item && _selectedItems && _selectedItems.getItemIndex( item ) >= 0)
+				{
+					this.setStyle( "color", Consts.COLOR_TEXT_DISABLED );
+				}
+				else
+				{
+					this.clearStyle( "color" );
+				}				
+			}
+			
+		]]>
+	</mx:Script>
+</mx:Label>

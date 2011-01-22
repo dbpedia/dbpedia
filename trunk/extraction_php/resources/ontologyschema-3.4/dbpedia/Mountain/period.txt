@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= period
+|rdfs:domain 	= Mountain
+|rdfs:range		= xsd:string
+}}

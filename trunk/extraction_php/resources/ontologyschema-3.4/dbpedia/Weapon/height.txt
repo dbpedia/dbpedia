@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = height
+|rdfs:domain = Weapon
+|rdfs:range = millimetre
+}}

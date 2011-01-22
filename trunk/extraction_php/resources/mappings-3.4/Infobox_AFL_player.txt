@@ -1,0 +1,43 @@
+{{ DBpediaTemplateMapping
+| mapToClass = FootballPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = status | ontologyProperty = FootballPlayer/status }}
+	{{ DBpediaPropertyMapping | templateProperty = College | ontologyProperty = FootballPlayer/college }}
+	{{ DBpediaPropertyMapping | templateProperty = high_school | ontologyProperty = FootballPlayer/highschool }}
+	{{ DBpediaPropertyMapping | templateProperty = debutyear | ontologyProperty = FootballPlayer/debutYear }}
+	{{ DBpediaPropertyMapping | templateProperty = finalyear | ontologyProperty = FootballPlayer/finalYear }}
+	{{ DBpediaPropertyMapping | templateProperty = draftyear | ontologyProperty = FootballPlayer/draftYear }}
+	{{ DBpediaPropertyMapping | templateProperty = draftround | ontologyProperty = FootballPlayer/draftRound }}
+	{{ DBpediaPropertyMapping | templateProperty = draftpick | ontologyProperty = FootballPlayer/draftPick }}
+	{{ DBpediaPropertyMapping | templateProperty = undraftedyear | ontologyProperty = FootballPlayer/undraftedYear }}
+	{{ DBpediaPropertyMapping | templateProperty = teams | ontologyProperty = FootballPlayer/team }}
+	{{ DBpediaPropertyMapping | templateProperty = debutteam | ontologyProperty = FootballPlayer/debutTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = suppdraftyear | ontologyProperty = FootballPlayer/supplementalDraftYear }}
+	{{ DBpediaPropertyMapping | templateProperty = suppdraftround | ontologyProperty = FootballPlayer/supplementalDraftRound }}
+	{{ DBpediaPropertyMapping | templateProperty = pastteams | ontologyProperty = FootballPlayer/pastTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = espn | ontologyProperty = FootballPlayer/espnid }}
+	{{ DBpediaPropertyMapping | templateProperty = coachingteams | ontologyProperty = FootballPlayer/coachingTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = full_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = team | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = position1 | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = position2 | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = position3 | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = position4 | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = position5 | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = DateOfBirth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Birthplace | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = DateOfDeath | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = Weight_lbs | ontologyProperty = Person/weight | unit = pound }}
+	{{ DBpediaPropertyMapping | templateProperty = position | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = number | ontologyProperty = Athlete/currentNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathdate | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = currentteam | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = currentnumber | ontologyProperty = Athlete/currentNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = currentposition | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Person/weight | unit = pound }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = Height_ft  | unit1 = foot  | templateProperty2 = Height_in  | unit2 = inch  | ontologyProperty = Person/height }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = heightft  | unit1 = foot  | templateProperty2 = heightin  | unit2 = inch  | ontologyProperty = Person/height }}
+}}

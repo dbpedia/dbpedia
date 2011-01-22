@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Voice Actor
+|rdfs:subClassOf = Actor
+}}

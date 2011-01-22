@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = sister station
+|rdfs:domain = Broadcast
+|rdfs:range = Broadcast
+}}

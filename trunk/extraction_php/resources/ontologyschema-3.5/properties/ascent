@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = ascent
+| rdfs:range = xsd:string
+}}

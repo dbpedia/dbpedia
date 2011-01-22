@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = publish date
+| rdfs:domain = Work
+| rdfs:range = xsd:date
+}}

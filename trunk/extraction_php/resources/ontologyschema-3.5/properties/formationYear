@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = formation year
+| rdfs:domain = Organisation
+| rdfs:range = xsd:gYear
+}}

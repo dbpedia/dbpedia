@@ -1,0 +1,26 @@
+#parse("header.vm")
+
+#if ($image)
+    <div class="image"><img src="$image" alt="Depiction of $title" /></div>
+#end
+
+#if ($comment)
+    <p>$comment</p>
+#end
+
+#if (!$properties.isEmpty())
+#parse("proptable.vm")
+#else
+    <p>No further information is available.</p>
+#end
+
+#if ($metadata)
+	<a name="meta"></a>
+	<h2>Metadata</h2>
+	<div id="metadata-tables">
+	#parse("metadatatable.vm")
+	</div>
+	<a href="#meta" onclick="showAllMetadata('metadata-tables')">expand all</a>
+#end
+
+#parse("footer.vm")

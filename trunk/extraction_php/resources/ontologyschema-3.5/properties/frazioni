@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = frazioni
+| rdfs:domain = City
+| rdfs:range = PopulatedPlace
+}}

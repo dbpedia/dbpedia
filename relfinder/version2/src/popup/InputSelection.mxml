@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+Copyright (C) 2009 Philipp Heim, Sebastian Hellmann, Jens Lehmann, Steffen Lohmann and Timo Stegemann
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.	
+-->
+
+<mx:TitleWindow xmlns:mx="http://www.adobe.com/2006/mxml"  width="300" height="600" borderAlpha="0.7" creationComplete="{init();}">
+	<mx:Script>
+		<![CDATA[
+			import connection.model.ConnectionModel;
+			import connection.ILookUp;
+			import connection.LookUpKeywordSearch;
+			import connection.LookUpSPARQL;
+			import connection.SPARQLConnection;
+			import connection.SPARQLResultEvent;
+			import flash.events.Event;
+			import flash.events.KeyboardEvent;
+			import flash.ui.Keyboard;
+			import mx.collections.ArrayCollection;
+			import mx.controls.Alert;
+			import mx.controls.List;
+			import mx.core.IToolTip;
+			import mx.events.ListEvent;
+			import mx.managers.PopUpManager;
+			import mx.managers.ToolTipManager;
+			import mx.utils.ObjectUtil;
+			import popup.InputSelectionEvent;
+			
+			private function init():void {
+				textArea.text = "Your input is not clear.\nPlease select a resource from the list or check your input for spelling mistakes."
+				focusManager.setFocus(textInput);
+				this.x = 180;
+				this.y = 30;
+				setStyle("borderColor", getStyle("themeColor"));
+				addEventListener("dpChange", dpChangeHandler);
+				textInput.setSelection(textInput.text.length, textInput.text.length);
+				
+				
+				// if user starts input disambiguation, before autocompelte recieves his results, a new request must be started
+				
+				if (_dataProvider == null) {
+					_dataProvider = new ArrayCollection();
+				}
+				
+				if (_dataProvider.length == 0 || _dataProvider.getItemAt(0) == null || _dataProvider.getItemAt(0).label.toString() == "Searching...") {
+					trace("start new search");
+					inputChanged(new Event("inputChange"));
+				}
+			}
+			
+			private var _inputIndex:int;
+			private var _inputText:String;
+			private var _dataProvider:ArrayCollection;
+			
+			private function dpChangeHandler(e:Event):void {
+				inputList.selectedIndex = 0;
+			}
+			
+			[Bindable(event="indexChange")]
+			public function get inputIndex():int {
+				return _inputIndex;
+			}
+			
+			public function set inputIndex(index:int):void {
+				_inputIndex = index;
+				this.title = "Input " + (_inputIndex + 1) + " is not valid";
+				dispatchEvent(new Event("indexChange"));
+			}
+			
+			[Bindable(event="inputChange")]
+			public function get inputText():String {
+				return _inputText;
+			}
+			
+			public function set inputText(input:String):void {
+				_inputText = input;
+				textInput.text = _inputText;
+				dispatchEvent(new Event("inputChange"));
+			}
+			
+			[Bindable(event="dpChange")]
+			public function get dataProvider():ArrayCollection {
+				callLater(selectFirstElement);
+				return _dataProvider;
+			}
+			
+			public function set dataProvider(dataProvider:ArrayCollection):void {
+				_dataProvider = dataProvider;
+				callLater(selectFirstElement);
+				dispatchEvent(new Event("dpChange"));
+			}
+			
+			public function newKeyDownHandler(event:KeyboardEvent):void {
+				if (event.keyCode == Keyboard.ENTER) {
+					ok();
+				}
+			}
+			
+			public function inputChanged(event:Event):void {
+				
+				if (textInput.text.length > 1) {
+					var results:ArrayCollection = new ArrayCollection();
+					var searching:Object = new Object();
+					searching.label = "Searching...";
+					results.addItem(searching);
+					dataProvider = results;
+					ConnectionModel.getInstance().sparqlConfig.lookUp.run(textInput.text, this, 50);
+				}
+			}
+			
+			private function selectFirstElement():void {
+				inputList.selectedIndex = 0;
+			}
+			
+			public function ok():void {
+				if (inputList.selectedItem && inputList.selectedItem.hasOwnProperty("uris")) {
+					dispatchEvent(new InputSelectionEvent(InputSelectionEvent.INPUTSELECTION, _inputIndex, inputList.selectedItem));
+					PopUpManager.removePopUp(this);
+				}else {
+					Alert.show("You have to select a valid resource from list", "No valid resource selected!", Alert.OK);
+				}
+			}
+			
+			public function cancel():void {
+				PopUpManager.removePopUp(this);
+			}
+			
+			private var tooltipInstance:IToolTip;
+			
+			private function showTooltip(e:ListEvent):void {
+				var ob:Object = (inputList.dataProvider)[e.rowIndex];
+				if (ob.hasOwnProperty("uris")) {
+					var pos:Point = inputList.contentToGlobal(new Point(x, y));
+					tooltipInstance = ToolTipManager.createToolTip(arrayToString(ob.uris), pos.x - x + inputList.width, pos.y - y + (22 * (e.rowIndex - inputList.verticalScrollPosition)));
+				}
+			}
+			
+			private function destroyTooltip(e:ListEvent):void {
+				if (tooltipInstance) {
+					try {
+						ToolTipManager.destroyToolTip(tooltipInstance);
+					}catch (e:ArgumentError) {
+						trace(e);
+					}
+				}
+			}
+			
+			private function arrayToString(arr:Array):String {
+				var output:String = "";
+				for each(var entry:String in arr) {
+					output += entry + "\n";
+				}
+				return output;
+			}
+			
+		]]>
+	</mx:Script>
+	
+	
+	<mx:VBox width="100%" height="100%">
+		<mx:TextArea id="textArea" width="100%" wordWrap="true" editable="false" selectable="false" borderStyle="none"/>
+		
+		<mx:TextInput id="textInput" width="100%" change="{inputChanged(event);}" keyDown="{newKeyDownHandler(event);}" />
+		
+		<mx:VDividedBox width="100%" height="100%">
+			<mx:List id="inputList" width="100%" height="100%" wordWrap="true" variableRowHeight="true"
+				dataProvider="{dataProvider}" doubleClickEnabled="true" itemDoubleClick="{ok();}" 
+				itemRenderer="popup.InputSelectionListRenderer" />
+				<!-- from inputList   itemRollOver="showTooltip(event)" itemRollOut="destroyTooltip(event)"-->
+		</mx:VDividedBox>
+		
+		
+		<mx:HBox horizontalAlign="right" width="100%">
+			<mx:Button id="okButton" label="Select" click="{ok();}" />
+			<mx:Button id="cancelButton" label="Cancel" click="{cancel();}" />
+		</mx:HBox>
+	</mx:VBox>
+</mx:TitleWindow>

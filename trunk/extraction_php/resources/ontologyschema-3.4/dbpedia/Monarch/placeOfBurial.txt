@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = place of burial
+|rdfs:domain = Monarch
+|rdfs:range = PopulatedPlace
+}}

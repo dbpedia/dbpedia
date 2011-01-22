@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = event
+| rdfs:domain = BadmintonPlayer
+| rdfs:range = Event
+}}

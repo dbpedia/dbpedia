@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = organisation
+| rdfs:domain = Spacecraft
+| rdfs:range = Organisation
+}}

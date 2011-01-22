@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Fictional Character
+|rdfs:subClassOf = Person
+}}

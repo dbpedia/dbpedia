@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = completion date
+|rdfs:domain = Work
+|rdfs:range = xsd:date
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = editor
+| rdfs:range = Person
+}}

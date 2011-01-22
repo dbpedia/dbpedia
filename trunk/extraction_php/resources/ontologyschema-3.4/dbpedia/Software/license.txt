@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = license
+|rdfs:domain = Software
+|rdfs:range = owl:Thing
+}}

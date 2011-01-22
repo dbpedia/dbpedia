@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = River
+|rdfs:subClassOf = BodyOfWater
+}}

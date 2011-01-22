@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Cleric
+|rdfs:subClassOf = Person
+}}

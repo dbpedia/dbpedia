@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= fate
+|rdfs:domain	= Company
+|rdfs:range		= xsd:string
+}}

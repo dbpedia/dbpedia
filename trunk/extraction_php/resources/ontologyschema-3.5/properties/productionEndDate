@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = production end date
+| rdfs:range = xsd:date
+}}

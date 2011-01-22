@@ -1,0 +1,1720 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF
+	xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+	xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+	xmlns:factbook='http://linuxproj.ecs.soton.ac.uk/~bh704/cia/#'
+	xmlns:units='http://linuxproj.ecs.soton.ac.uk/cia/units/#'>
+	<rdf:Description rdf:about="http://www.cia.gov/cia/publications/factbook/print/source/fr.html">
+		<rdfs:label>France</rdfs:label>
+		
+		
+
+<factbook:Landboundaries-data>12345</factbook:Landboundaries-data>
+<factbook:Location-data>lklkj lkj</factbook:Location-data>
+<factbook:Geographiccoordinates-latitude>12.4</factbook:Geographiccoordinates-latitude>
+<factbook:Geographiccoordinates-longitude>333.3</factbook:Geographiccoordinates-longitude>
+<factbook:Climate-data>kjlkjlkj</factbook:Climate-data>		
+<factbook:Terrain-data> jklj k</factbook:Terrain-data>		
+<factbook:Economicaid-recipient-data>236978687</factbook:Economicaid-recipient-data>
+		
+		
+		<factbook:Name>France</factbook:Name>
+		<factbook:has_background>
+			<factbook:Background>
+				<factbook:Background-data>Although ultimately a victor in World Wars I and II, France suffered extensive losses in its empire, wealth, manpower, and rank as a dominant nation-state. Nevertheless, France today is one of the most modern countries in the world and is a leader among European nations. Since 1958, it has constructed a presidential democracy resistant to the instabilities experienced in earlier parliamentary democracies. In recent years, its reconciliation and cooperation with Germany have proved central to the economic integration of Europe, including the introduction of a common exchange currency, the euro, in January 1999. At present, France is at the forefront of efforts to develop the EU's military capabilities to supplement progress toward an EU foreign policy.</factbook:Background-data>
+			</factbook:Background>
+		</factbook:has_background>
+		<factbook:has_location-metropolitanfrance>
+			<factbook:Location-metropolitanFrance>
+				<factbook:Location-metropolitanFrance-data>Western Europe, bordering the Bay of Biscay and English Channel, between Belgium and Spain, southeast of the UK; bordering the Mediterranean Sea, between Italy and Spain</factbook:Location-metropolitanFrance-data>
+			</factbook:Location-metropolitanFrance>
+		</factbook:has_location-metropolitanfrance>
+		<factbook:has_location-frenchguiana>
+			<factbook:Location-FrenchGuiana>
+				<factbook:Location-FrenchGuiana-data>Northern South America, bordering the North Atlantic Ocean, between Brazil and Suriname</factbook:Location-FrenchGuiana-data>
+			</factbook:Location-FrenchGuiana>
+		</factbook:has_location-frenchguiana>
+		<factbook:has_location-guadeloupe>
+			<factbook:Location-Guadeloupe>
+				<factbook:Location-Guadeloupe-data>Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, southeast of Puerto Rico</factbook:Location-Guadeloupe-data>
+			</factbook:Location-Guadeloupe>
+		</factbook:has_location-guadeloupe>
+		<factbook:has_location-martinique>
+			<factbook:Location-Martinique>
+				<factbook:Location-Martinique-data>Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago</factbook:Location-Martinique-data>
+			</factbook:Location-Martinique>
+		</factbook:has_location-martinique>
+		<factbook:has_location-reunion>
+			<factbook:Location-Reunion>
+				<factbook:Location-Reunion-data>Southern Africa, island in the Indian Ocean, east of Madagascar</factbook:Location-Reunion-data>
+			</factbook:Location-Reunion>
+		</factbook:has_location-reunion>
+		<factbook:has_geographiccoordinates-metropolitanfrance>
+			<factbook:Geographiccoordinates-metropolitanFrance>
+				<factbook:Geographiccoordinates-metropolitanFrance-data>46 00 N, 2 00 E</factbook:Geographiccoordinates-metropolitanFrance-data>
+			</factbook:Geographiccoordinates-metropolitanFrance>
+		</factbook:has_geographiccoordinates-metropolitanfrance>
+		<factbook:has_geographiccoordinates-frenchguiana>
+			<factbook:Geographiccoordinates-FrenchGuiana>
+				<factbook:Geographiccoordinates-FrenchGuiana-data>4 00 N, 53 00 W</factbook:Geographiccoordinates-FrenchGuiana-data>
+			</factbook:Geographiccoordinates-FrenchGuiana>
+		</factbook:has_geographiccoordinates-frenchguiana>
+		<factbook:has_geographiccoordinates-guadeloupe>
+			<factbook:Geographiccoordinates-Guadeloupe>
+				<factbook:Geographiccoordinates-Guadeloupe-data>16 15 N, 61 35 W</factbook:Geographiccoordinates-Guadeloupe-data>
+			</factbook:Geographiccoordinates-Guadeloupe>
+		</factbook:has_geographiccoordinates-guadeloupe>
+		<factbook:has_geographiccoordinates-martinique>
+			<factbook:Geographiccoordinates-Martinique>
+				<factbook:Geographiccoordinates-Martinique-data>14 40 N, 61 00 W</factbook:Geographiccoordinates-Martinique-data>
+			</factbook:Geographiccoordinates-Martinique>
+		</factbook:has_geographiccoordinates-martinique>
+		<factbook:has_geographiccoordinates-reunion>
+			<factbook:Geographiccoordinates-Reunion>
+				<factbook:Geographiccoordinates-Reunion-data>21 06 S, 55 36 E</factbook:Geographiccoordinates-Reunion-data>
+			</factbook:Geographiccoordinates-Reunion>
+		</factbook:has_geographiccoordinates-reunion>
+		<factbook:has_mapreferences-metropolitanfrance>
+			<factbook:Mapreferences-metropolitanFrance>
+				<factbook:Mapreferences-metropolitanFrance-data>Europe</factbook:Mapreferences-metropolitanFrance-data>
+			</factbook:Mapreferences-metropolitanFrance>
+		</factbook:has_mapreferences-metropolitanfrance>
+		<factbook:has_mapreferences-frenchguiana>
+			<factbook:Mapreferences-FrenchGuiana>
+				<factbook:Mapreferences-FrenchGuiana-data>South America</factbook:Mapreferences-FrenchGuiana-data>
+			</factbook:Mapreferences-FrenchGuiana>
+		</factbook:has_mapreferences-frenchguiana>
+		<factbook:has_mapreferences-guadeloupe>
+			<factbook:Mapreferences-Guadeloupe>
+				<factbook:Mapreferences-Guadeloupe-data>Central America and the Caribbean</factbook:Mapreferences-Guadeloupe-data>
+			</factbook:Mapreferences-Guadeloupe>
+		</factbook:has_mapreferences-guadeloupe>
+		<factbook:has_mapreferences-martinique>
+			<factbook:Mapreferences-Martinique>
+				<factbook:Mapreferences-Martinique-data>Central America and the Caribbean</factbook:Mapreferences-Martinique-data>
+			</factbook:Mapreferences-Martinique>
+		</factbook:has_mapreferences-martinique>
+		<factbook:has_mapreferences-reunion>
+			<factbook:Mapreferences-Reunion>
+				<factbook:Mapreferences-Reunion-data>World</factbook:Mapreferences-Reunion-data>
+			</factbook:Mapreferences-Reunion>
+		</factbook:has_mapreferences-reunion>
+		<factbook:has_area-total>
+			<factbook:Area-total>
+				<factbook:Area-total-data>643427 sq km; 547030 sq km (metropolitan France)</factbook:Area-total-data>
+			</factbook:Area-total>
+		</factbook:has_area-total>
+		<factbook:has_area-land>
+			<factbook:Area-land>
+				<factbook:Area-land-data>640053 sq km; 545630 sq km (metropolitan France)</factbook:Area-land-data>
+			</factbook:Area-land>
+		</factbook:has_area-land>
+		<factbook:has_area-water>
+			<factbook:Area-water>
+				<factbook:Area-water-data>3374 sq km; 1400 sq km (metropolitan France)</factbook:Area-water-data>
+			</factbook:Area-water>
+		</factbook:has_area-water>
+		<factbook:has_area-note>
+			<factbook:Area-note>
+				<factbook:Area-note-data>the first numbers include the overseas regions of French Guiana, Guadeloupe, Martinique, and Reunion</factbook:Area-note-data>
+			</factbook:Area-note>
+		</factbook:has_area-note>
+		<factbook:has_area-comparative>
+			<factbook:Area-comparative>
+				<factbook:Area-comparative-data>slightly less than the size of Texas</factbook:Area-comparative-data>
+			</factbook:Area-comparative>
+		</factbook:has_area-comparative>
+		<factbook:has_landboundaries-metropolitanfrance-total>
+			<factbook:Landboundaries-metropolitanFrance-total>
+				<factbook:Landboundaries-metropolitanFrance-total-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">2889</factbook:Landboundaries-metropolitanFrance-total-data>
+			</factbook:Landboundaries-metropolitanFrance-total>
+		</factbook:has_landboundaries-metropolitanfrance-total>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Andorra</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">56.6</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Belgium</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">620</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Germany</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">451</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Italy</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">488</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Luxembourg</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">73</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Monaco</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">4.4</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Spain</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">623</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Switzerland</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">573</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-guadeloupe-total>
+			<factbook:Landboundaries-Guadeloupe-total>
+				<factbook:Landboundaries-Guadeloupe-total-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">10.2</factbook:Landboundaries-Guadeloupe-total-data>
+			</factbook:Landboundaries-Guadeloupe-total>
+		</factbook:has_landboundaries-guadeloupe-total>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Netherlands Antilles</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">10.2</factbook:Landboundaries-bordercountries-data>
+				<factbook:Landboundaries-bordercountries-note>Sint Maarten</factbook:Landboundaries-bordercountries-note>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-frenchguiana-total>
+			<factbook:Landboundaries-FrenchGuiana-total>
+				<factbook:Landboundaries-FrenchGuiana-total-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">1183</factbook:Landboundaries-FrenchGuiana-total-data>
+			</factbook:Landboundaries-FrenchGuiana-total>
+		</factbook:has_landboundaries-frenchguiana-total>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Brazil</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">673</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_landboundaries-bordercountries>
+			<factbook:Landboundaries-bordercountries>
+				<factbook:Landboundaries-bordercountries-title>Suriname</factbook:Landboundaries-bordercountries-title>
+				<factbook:Landboundaries-bordercountries-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">510</factbook:Landboundaries-bordercountries-data>
+			</factbook:Landboundaries-bordercountries>
+		</factbook:has_landboundaries-bordercountries>
+		<factbook:has_coastline-total>
+			<factbook:Coastline-total>
+				<factbook:Coastline-total-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">4668</factbook:Coastline-total-data>
+			</factbook:Coastline-total>
+		</factbook:has_coastline-total>
+		<factbook:has_coastline-metropolitanfrance>
+			<factbook:Coastline-metropolitanFrance>
+				<factbook:Coastline-metropolitanFrance-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">3427</factbook:Coastline-metropolitanFrance-data>
+			</factbook:Coastline-metropolitanFrance>
+		</factbook:has_coastline-metropolitanfrance>
+		<factbook:has_maritimeclaims-territorialsea>
+			<factbook:Maritimeclaims-territorialsea>
+				<factbook:Maritimeclaims-territorialsea-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#Nm">12</factbook:Maritimeclaims-territorialsea-data>
+			</factbook:Maritimeclaims-territorialsea>
+		</factbook:has_maritimeclaims-territorialsea>
+		<factbook:has_maritimeclaims-contiguouszone>
+			<factbook:Maritimeclaims-contiguouszone>
+				<factbook:Maritimeclaims-contiguouszone-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#Nm">24</factbook:Maritimeclaims-contiguouszone-data>
+			</factbook:Maritimeclaims-contiguouszone>
+		</factbook:has_maritimeclaims-contiguouszone>
+		<factbook:has_maritimeclaims-exclusiveeconomiczone>
+			<factbook:Maritimeclaims-exclusiveeconomiczone>
+				<factbook:Maritimeclaims-exclusiveeconomiczone-data>200 nm (does not apply to the Mediterranean)</factbook:Maritimeclaims-exclusiveeconomiczone-data>
+			</factbook:Maritimeclaims-exclusiveeconomiczone>
+		</factbook:has_maritimeclaims-exclusiveeconomiczone>
+		<factbook:has_maritimeclaims-continentalshelf>
+			<factbook:Maritimeclaims-continentalshelf>
+				<factbook:Maritimeclaims-continentalshelf-data>200-m depth or to the depth of exploitation</factbook:Maritimeclaims-continentalshelf-data>
+			</factbook:Maritimeclaims-continentalshelf>
+		</factbook:has_maritimeclaims-continentalshelf>
+		<factbook:has_climate-metropolitanfrance>
+			<factbook:Climate-metropolitanFrance>
+				<factbook:Climate-metropolitanFrance-data>generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as mistral</factbook:Climate-metropolitanFrance-data>
+			</factbook:Climate-metropolitanFrance>
+		</factbook:has_climate-metropolitanfrance>
+		<factbook:has_climate-frenchguiana>
+			<factbook:Climate-FrenchGuiana>
+				<factbook:Climate-FrenchGuiana-data>tropical; hot, humid; little seasonal temperature variation</factbook:Climate-FrenchGuiana-data>
+			</factbook:Climate-FrenchGuiana>
+		</factbook:has_climate-frenchguiana>
+		<factbook:has_climate-guadeloupeandmartinique>
+			<factbook:Climate-GuadeloupeandMartinique>
+				<factbook:Climate-GuadeloupeandMartinique-data>subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average</factbook:Climate-GuadeloupeandMartinique-data>
+			</factbook:Climate-GuadeloupeandMartinique>
+		</factbook:has_climate-guadeloupeandmartinique>
+		<factbook:has_climate-reunion>
+			<factbook:Climate-Reunion>
+				<factbook:Climate-Reunion-data>tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)</factbook:Climate-Reunion-data>
+			</factbook:Climate-Reunion>
+		</factbook:has_climate-reunion>
+		<factbook:has_terrain-metropolitanfrance>
+			<factbook:Terrain-metropolitanFrance>
+				<factbook:Terrain-metropolitanFrance-data>mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east</factbook:Terrain-metropolitanFrance-data>
+			</factbook:Terrain-metropolitanFrance>
+		</factbook:has_terrain-metropolitanfrance>
+		<factbook:has_terrain-frenchguiana>
+			<factbook:Terrain-FrenchGuiana>
+				<factbook:Terrain-FrenchGuiana-data>low-lying coastal plains rising to hills and small mountains</factbook:Terrain-FrenchGuiana-data>
+			</factbook:Terrain-FrenchGuiana>
+		</factbook:has_terrain-frenchguiana>
+		<factbook:has_terrain-guadeloupe>
+			<factbook:Terrain-Guadeloupe>
+				<factbook:Terrain-Guadeloupe-data>Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin</factbook:Terrain-Guadeloupe-data>
+			</factbook:Terrain-Guadeloupe>
+		</factbook:has_terrain-guadeloupe>
+		<factbook:has_terrain-martinique>
+			<factbook:Terrain-Martinique>
+				<factbook:Terrain-Martinique-data>mountainous with indented coastline; dormant volcano</factbook:Terrain-Martinique-data>
+			</factbook:Terrain-Martinique>
+		</factbook:has_terrain-martinique>
+		<factbook:has_terrain-reunion>
+			<factbook:Terrain-Reunion>
+				<factbook:Terrain-Reunion-data>mostly rugged and mountainous; fertile lowlands along coast</factbook:Terrain-Reunion-data>
+			</factbook:Terrain-Reunion>
+		</factbook:has_terrain-reunion>
+		<factbook:has_elevationextremes-lowestpoint>
+			<factbook:Elevationextremes-lowestpoint>
+				<factbook:Elevationextremes-lowestpoint-place>Rhone River delta</factbook:Elevationextremes-lowestpoint-place>
+				<factbook:Elevationextremes-lowestpoint-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#m">-2</factbook:Elevationextremes-lowestpoint-data>
+			</factbook:Elevationextremes-lowestpoint>
+		</factbook:has_elevationextremes-lowestpoint>
+		<factbook:has_elevationextremes-highestpoint>
+			<factbook:Elevationextremes-highestpoint>
+				<factbook:Elevationextremes-highestpoint-place>Mont Blanc</factbook:Elevationextremes-highestpoint-place>
+				<factbook:Elevationextremes-highestpoint-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#m">4807</factbook:Elevationextremes-highestpoint-data>
+			</factbook:Elevationextremes-highestpoint>
+		</factbook:has_elevationextremes-highestpoint>
+		<factbook:has_naturalresources-metropolitanfrance>
+			<factbook:Naturalresources-metropolitanFrance>
+				<factbook:Naturalresources-metropolitanFrance-data>coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, fish</factbook:Naturalresources-metropolitanFrance-data>
+			</factbook:Naturalresources-metropolitanFrance>
+		</factbook:has_naturalresources-metropolitanfrance>
+		<factbook:has_naturalresources-frenchguiana>
+			<factbook:Naturalresources-FrenchGuiana>
+				<factbook:Naturalresources-FrenchGuiana-data>gold deposits, petroleum, kaolin, niobium, tantalum, clay</factbook:Naturalresources-FrenchGuiana-data>
+			</factbook:Naturalresources-FrenchGuiana>
+		</factbook:has_naturalresources-frenchguiana>
+		<factbook:has_landuse-arableland>
+			<factbook:Landuse-arableland>
+				<factbook:Landuse-arableland-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">33.46</factbook:Landuse-arableland-data>
+			</factbook:Landuse-arableland>
+		</factbook:has_landuse-arableland>
+		<factbook:has_landuse-permanentcrops>
+			<factbook:Landuse-permanentcrops>
+				<factbook:Landuse-permanentcrops-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">2.03</factbook:Landuse-permanentcrops-data>
+			</factbook:Landuse-permanentcrops>
+		</factbook:has_landuse-permanentcrops>
+		<factbook:has_landuse-other>
+			<factbook:Landuse-other>
+				<factbook:Landuse-other-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">64.51</factbook:Landuse-other-data>
+			</factbook:Landuse-other>
+		</factbook:has_landuse-other>
+		<factbook:has_landuse-note>
+			<factbook:Landuse-note factbook:date="2005">
+				<factbook:Landuse-note-data>French Guiana - arable land 0.13%, permanent crops 0.04%, other 99.83% (90% forest, 10% other); Guadeloupe - arable land 11.70%, permanent crops 2.92%, other 85.38%; Martinique - arable land 9.09%, permanent crops 10.0%, other 80.91%; Reunion - arable land 13.94%, permanent crops 1.59%, other 84.47%</factbook:Landuse-note-data>
+			</factbook:Landuse-note>
+		</factbook:has_landuse-note>
+		<factbook:has_irrigatedland-total>
+			<factbook:Irrigatedland-total>
+				<factbook:Irrigatedland-total-data>26190 sq km;</factbook:Irrigatedland-total-data>
+			</factbook:Irrigatedland-total>
+		</factbook:has_irrigatedland-total>
+		<factbook:has_irrigatedland-metropolitanfrance>
+			<factbook:Irrigatedland-metropolitanFrance factbook:date="2003">
+				<factbook:Irrigatedland-metropolitanFrance-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#sqkm">26000</factbook:Irrigatedland-metropolitanFrance-data>
+			</factbook:Irrigatedland-metropolitanFrance>
+		</factbook:has_irrigatedland-metropolitanfrance>
+		<factbook:has_naturalhazards-metropolitanfrance>
+			<factbook:Naturalhazards-metropolitanFrance>
+				<factbook:Naturalhazards-metropolitanFrance-data>flooding; avalanches; midwinter windstorms; drought; forest fires in south near the Mediterranean</factbook:Naturalhazards-metropolitanFrance-data>
+			</factbook:Naturalhazards-metropolitanFrance>
+		</factbook:has_naturalhazards-metropolitanfrance>
+		<factbook:has_naturalhazards-overseasdepartments>
+			<factbook:Naturalhazards-overseasdepartments>
+				<factbook:Naturalhazards-overseasdepartments-data>hurricanes (cyclones), flooding, volcanic activity (Guadeloupe, Martinique, Reunion)</factbook:Naturalhazards-overseasdepartments-data>
+			</factbook:Naturalhazards-overseasdepartments>
+		</factbook:has_naturalhazards-overseasdepartments>
+		<factbook:has_environment-currentissues>
+			<factbook:Environment-currentissues>
+				<factbook:Environment-currentissues-data>some forest damage from acid rain; air pollution from industrial and vehicle emissions; water pollution from urban wastes, agricultural runoff</factbook:Environment-currentissues-data>
+			</factbook:Environment-currentissues>
+		</factbook:has_environment-currentissues>
+		<factbook:has_environment-internationalagreements-partyto>
+			<factbook:Environment-internationalagreements-partyto factbook:date="2003">
+				<factbook:Environment-internationalagreements-partyto>Air Pollution</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Air Pollution-Nitrogen Oxides</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Air Pollution-Persistent Organic Pollutants</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Air Pollution-Sulfur 85</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Air Pollution-Sulfur 94</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Air Pollution-Volatile Organic Compounds</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Antarctic-Environmental Protocol</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Antarctic-Marine Living Resources</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Antarctic Seals</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Antarctic Treaty</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Biodiversity</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Climate Change</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Climate Change-Kyoto Protocol</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Desertification</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Endangered Species</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Hazardous Wastes</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Law of the Sea</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Marine Dumping</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Marine Life Conservation</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Ozone Layer Protection</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Ship Pollution</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Tropical Timber 83</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Tropical Timber 94</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Wetlands</factbook:Environment-internationalagreements-partyto>
+				<factbook:Environment-internationalagreements-partyto>Whaling</factbook:Environment-internationalagreements-partyto>
+			</factbook:Environment-internationalagreements-partyto>
+		</factbook:has_environment-internationalagreements-partyto>
+		<factbook:has_environment-internationalagreements-signedbutnotratified>
+			<factbook:Environment-internationalagreements-signedbutnotratified>
+				<factbook:Environment-internationalagreements-signedbutnotratified-data>none of the selected agreements</factbook:Environment-internationalagreements-signedbutnotratified-data>
+			</factbook:Environment-internationalagreements-signedbutnotratified>
+		</factbook:has_environment-internationalagreements-signedbutnotratified>
+		<factbook:has_geography-note>
+			<factbook:Geography-note factbook:date="2003">
+				<factbook:Geography-note>largest West European nation</factbook:Geography-note>
+			</factbook:Geography-note>
+		</factbook:has_geography-note>
+		<factbook:has_population-total>
+			<factbook:Population-total>
+				<factbook:Population-total-data>63713926</factbook:Population-total-data>
+			</factbook:Population-total>
+		</factbook:has_population-total>
+		<factbook:has_population-note>
+			<factbook:Population-note factbook:date-est="2007">
+				<factbook:Population-note-data>60876136 in metropolitan France</factbook:Population-note-data>
+			</factbook:Population-note>
+		</factbook:has_population-note>
+		<factbook:Agestructure-0-14years-percentage rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">18.6</factbook:Agestructure-0-14years-percentage>
+		<factbook:Agestructure-0-14years-male>6063181</factbook:Agestructure-0-14years-male>
+		<factbook:Agestructure-0-14years-female>5776272</factbook:Agestructure-0-14years-female>
+		<factbook:Agestructure-15-64years-percentage rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">65.2</factbook:Agestructure-15-64years-percentage>
+		<factbook:Agestructure-15-64years-male>20798889</factbook:Agestructure-15-64years-male>
+		<factbook:Agestructure-15-64years-female>20763283</factbook:Agestructure-15-64years-female>
+		<factbook:Agestructure-65yearsandover-percentage rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">16.2</factbook:Agestructure-65yearsandover-percentage>
+		<factbook:Agestructure-65yearsandover-male>4274290</factbook:Agestructure-65yearsandover-male>
+		<factbook:Agestructure-65yearsandover-female>6038011</factbook:Agestructure-65yearsandover-female>
+		<factbook:has_medianage-total>
+			<factbook:Medianage-total>
+				<factbook:Medianage-total-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#years">39</factbook:Medianage-total-data>
+			</factbook:Medianage-total>
+		</factbook:has_medianage-total>
+		<factbook:has_medianage-male>
+			<factbook:Medianage-male>
+				<factbook:Medianage-male-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#years">37.5</factbook:Medianage-male-data>
+			</factbook:Medianage-male>
+		</factbook:has_medianage-male>
+		<factbook:has_medianage-female>
+			<factbook:Medianage-female factbook:date-est="2007">
+				<factbook:Medianage-female-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#years">40.4</factbook:Medianage-female-data>
+			</factbook:Medianage-female>
+		</factbook:has_medianage-female>
+		<factbook:has_populationgrowthrate>
+			<factbook:Populationgrowthrate factbook:date-est="2007">
+				<factbook:Populationgrowthrate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">0.588</factbook:Populationgrowthrate-data>
+			</factbook:Populationgrowthrate>
+		</factbook:has_populationgrowthrate>
+		<factbook:has_birthrate>
+			<factbook:Birthrate factbook:date-est="2007">
+				<factbook:Birthrate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#birthsperthou">12.91</factbook:Birthrate-data>
+			</factbook:Birthrate>
+		</factbook:has_birthrate>
+		<factbook:has_deathrate>
+			<factbook:Deathrate factbook:date-est="2007">
+				<factbook:Deathrate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#deathsperthou">8.55</factbook:Deathrate-data>
+			</factbook:Deathrate>
+		</factbook:has_deathrate>
+		<factbook:has_netmigrationrate>
+			<factbook:Netmigrationrate factbook:date-est="2007">
+				<factbook:Netmigrationrate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#migrantsperthou">1.52</factbook:Netmigrationrate-data>
+			</factbook:Netmigrationrate>
+		</factbook:has_netmigrationrate>
+		<factbook:has_sexratio-atbirth>
+			<factbook:Sexratio-atbirth>
+				<factbook:Sexratio-atbirth-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#maletofemale">1.05</factbook:Sexratio-atbirth-data>
+			</factbook:Sexratio-atbirth>
+		</factbook:has_sexratio-atbirth>
+		<factbook:has_sexratio-under15years>
+			<factbook:Sexratio-under15years>
+				<factbook:Sexratio-under15years-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#maletofemale">1.05</factbook:Sexratio-under15years-data>
+			</factbook:Sexratio-under15years>
+		</factbook:has_sexratio-under15years>
+		<factbook:has_sexratio-15-64years>
+			<factbook:Sexratio-15-64years>
+				<factbook:Sexratio-15-64years-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#maletofemale">1.002</factbook:Sexratio-15-64years-data>
+			</factbook:Sexratio-15-64years>
+		</factbook:has_sexratio-15-64years>
+		<factbook:has_sexratio-65yearsandover>
+			<factbook:Sexratio-65yearsandover>
+				<factbook:Sexratio-65yearsandover-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#maletofemale">0.708</factbook:Sexratio-65yearsandover-data>
+			</factbook:Sexratio-65yearsandover>
+		</factbook:has_sexratio-65yearsandover>
+		<factbook:has_sexratio-totalpopulation>
+			<factbook:Sexratio-totalpopulation factbook:date-est="2007">
+				<factbook:Sexratio-totalpopulation-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#maletofemale">0.956</factbook:Sexratio-totalpopulation-data>
+			</factbook:Sexratio-totalpopulation>
+		</factbook:has_sexratio-totalpopulation>
+		<factbook:has_infantmortalityrate-total>
+			<factbook:Infantmortalityrate-total>
+				<factbook:Infantmortalityrate-total-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#deathstobirths">3.41</factbook:Infantmortalityrate-total-data>
+			</factbook:Infantmortalityrate-total>
+		</factbook:has_infantmortalityrate-total>
+		<factbook:has_infantmortalityrate-male>
+			<factbook:Infantmortalityrate-male>
+				<factbook:Infantmortalityrate-male-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#deathstobirths">3.76</factbook:Infantmortalityrate-male-data>
+			</factbook:Infantmortalityrate-male>
+		</factbook:has_infantmortalityrate-male>
+		<factbook:has_infantmortalityrate-female>
+			<factbook:Infantmortalityrate-female factbook:date-est="2007">
+				<factbook:Infantmortalityrate-female-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#deathstobirths">3.04</factbook:Infantmortalityrate-female-data>
+			</factbook:Infantmortalityrate-female>
+		</factbook:has_infantmortalityrate-female>
+		<factbook:has_lifeexpectancyatbirth-totalpopulation>
+			<factbook:Lifeexpectancyatbirth-totalpopulation>
+				<factbook:Lifeexpectancyatbirth-totalpopulation-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#years">80.59</factbook:Lifeexpectancyatbirth-totalpopulation-data>
+			</factbook:Lifeexpectancyatbirth-totalpopulation>
+		</factbook:has_lifeexpectancyatbirth-totalpopulation>
+		<factbook:has_lifeexpectancyatbirth-male>
+			<factbook:Lifeexpectancyatbirth-male>
+				<factbook:Lifeexpectancyatbirth-male-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#years">77.35</factbook:Lifeexpectancyatbirth-male-data>
+			</factbook:Lifeexpectancyatbirth-male>
+		</factbook:has_lifeexpectancyatbirth-male>
+		<factbook:has_lifeexpectancyatbirth-female>
+			<factbook:Lifeexpectancyatbirth-female factbook:date-est="2007">
+				<factbook:Lifeexpectancyatbirth-female-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#years">84</factbook:Lifeexpectancyatbirth-female-data>
+			</factbook:Lifeexpectancyatbirth-female>
+		</factbook:has_lifeexpectancyatbirth-female>
+		<factbook:has_totalfertilityrate>
+			<factbook:Totalfertilityrate factbook:date-est="2007">
+				<factbook:Totalfertilityrate-data>1.98 children born/woman</factbook:Totalfertilityrate-data>
+			</factbook:Totalfertilityrate>
+		</factbook:has_totalfertilityrate>
+		<factbook:has_hivoraids-adultprevalencerate>
+			<factbook:HIVorAIDS-adultprevalencerate factbook:date-est="2003">
+				<factbook:HIVorAIDS-adultprevalencerate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">0.4</factbook:HIVorAIDS-adultprevalencerate-data>
+			</factbook:HIVorAIDS-adultprevalencerate>
+		</factbook:has_hivoraids-adultprevalencerate>
+		<factbook:has_hivoraids-peoplelivingwithhivoraids>
+			<factbook:HIVorAIDS-peoplelivingwithHIVorAIDS factbook:date-est="2003">
+				<factbook:HIVorAIDS-peoplelivingwithHIVorAIDS-data>120000</factbook:HIVorAIDS-peoplelivingwithHIVorAIDS-data>
+			</factbook:HIVorAIDS-peoplelivingwithHIVorAIDS>
+		</factbook:has_hivoraids-peoplelivingwithhivoraids>
+		<factbook:has_hivoraids-deaths>
+			<factbook:HIVorAIDS-deaths factbook:date-est="2003">
+				<factbook:HIVorAIDS-deaths-data>less than 1000</factbook:HIVorAIDS-deaths-data>
+			</factbook:HIVorAIDS-deaths>
+		</factbook:has_hivoraids-deaths>
+		<factbook:has_nationality-noun>
+			<factbook:Nationality-noun>
+				<factbook:Nationality-noun-data>Frenchman(men), Frenchwoman(women)</factbook:Nationality-noun-data>
+			</factbook:Nationality-noun>
+		</factbook:has_nationality-noun>
+		<factbook:has_nationality-adjective>
+			<factbook:Nationality-adjective>
+				<factbook:Nationality-adjective-data>French</factbook:Nationality-adjective-data>
+			</factbook:Nationality-adjective>
+		</factbook:has_nationality-adjective>
+		<factbook:has_ethnicgroups>
+			<factbook:Ethnicgroups factbook:date-est="2003">
+				<factbook:Ethnicgroups-data>Celtic and Latin with Teutonic</factbook:Ethnicgroups-data>
+			</factbook:Ethnicgroups>
+		</factbook:has_ethnicgroups>
+		<factbook:has_ethnicgroups>
+			<factbook:Ethnicgroups factbook:date-est="2003">
+				<factbook:Ethnicgroups-data>Slavic</factbook:Ethnicgroups-data>
+			</factbook:Ethnicgroups>
+		</factbook:has_ethnicgroups>
+		<factbook:has_ethnicgroups>
+			<factbook:Ethnicgroups factbook:date-est="2003">
+				<factbook:Ethnicgroups-data>North African</factbook:Ethnicgroups-data>
+			</factbook:Ethnicgroups>
+		</factbook:has_ethnicgroups>
+		<factbook:has_ethnicgroups>
+			<factbook:Ethnicgroups factbook:date-est="2003">
+				<factbook:Ethnicgroups-data>Indochinese</factbook:Ethnicgroups-data>
+			</factbook:Ethnicgroups>
+		</factbook:has_ethnicgroups>
+		<factbook:has_ethnicgroups>
+			<factbook:Ethnicgroups factbook:date-est="2003">
+				<factbook:Ethnicgroups-data>Basque minorities</factbook:Ethnicgroups-data>
+			</factbook:Ethnicgroups>
+		</factbook:has_ethnicgroups>
+		<factbook:has_ethnicgroups-overseasdepartments>
+			<factbook:Ethnicgroups-overseasdepartments>
+				<factbook:Ethnicgroups-overseasdepartments-data>black, white, mulatto, East Indian, Chinese, Amerindian</factbook:Ethnicgroups-overseasdepartments-data>
+			</factbook:Ethnicgroups-overseasdepartments>
+		</factbook:has_ethnicgroups-overseasdepartments>
+		<factbook:has_religions>
+			<factbook:Religions factbook:date-est="2003">
+				<factbook:Religions-title>Roman Catholic</factbook:Religions-title>
+				<factbook:Religions-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">83</factbook:Religions-data>
+			</factbook:Religions>
+		</factbook:has_religions>
+		<factbook:has_religions>
+			<factbook:Religions factbook:date-est="2003">
+				<factbook:Religions-title>Protestant</factbook:Religions-title>
+				<factbook:Religions-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">2</factbook:Religions-data>
+			</factbook:Religions>
+		</factbook:has_religions>
+		<factbook:has_religions>
+			<factbook:Religions factbook:date-est="2003">
+				<factbook:Religions-title>Jewish</factbook:Religions-title>
+				<factbook:Religions-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">1</factbook:Religions-data>
+			</factbook:Religions>
+		</factbook:has_religions>
+		<factbook:has_religions>
+			<factbook:Religions factbook:date-est="2003">
+				<factbook:Religions-title>Muslim</factbook:Religions-title>
+				<factbook:Religions-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">5</factbook:Religions-data>
+			</factbook:Religions>
+		</factbook:has_religions>
+		<factbook:has_religions>
+			<factbook:Religions factbook:date-est="2003">
+				<factbook:Religions-title>unaffiliated</factbook:Religions-title>
+				<factbook:Religions-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">4</factbook:Religions-data>
+			</factbook:Religions>
+		</factbook:has_religions>
+		<factbook:has_religions-overseasdepartments>
+			<factbook:Religions-overseasdepartments>
+				<factbook:Religions-overseasdepartments-data>Roman Catholic, Protestant, Hindu, Muslim, Buddhist, pagan</factbook:Religions-overseasdepartments-data>
+			</factbook:Religions-overseasdepartments>
+		</factbook:has_religions-overseasdepartments>
+		<factbook:has_languages>
+			<factbook:Languages factbook:date-est="2003">
+				<factbook:Languages-data>French 100%</factbook:Languages-data>
+			</factbook:Languages>
+		</factbook:has_languages>
+		<factbook:has_languages>
+			<factbook:Languages factbook:date-est="2003">
+				<factbook:Languages-data>rapidly declining regional dialects and languages</factbook:Languages-data>
+			</factbook:Languages>
+		</factbook:has_languages>
+		<factbook:has_languages-overseasdepartments>
+			<factbook:Languages-overseasdepartments>
+				<factbook:Languages-overseasdepartments-data>French, Creole patois</factbook:Languages-overseasdepartments-data>
+			</factbook:Languages-overseasdepartments>
+		</factbook:has_languages-overseasdepartments>
+		<factbook:has_literacy-definition>
+			<factbook:Literacy-definition>
+				<factbook:Literacy-definition-data>age 15 and over can read and write</factbook:Literacy-definition-data>
+			</factbook:Literacy-definition>
+		</factbook:has_literacy-definition>
+		<factbook:has_literacy-totalpopulation>
+			<factbook:Literacy-totalpopulation>
+				<factbook:Literacy-totalpopulation-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">99</factbook:Literacy-totalpopulation-data>
+			</factbook:Literacy-totalpopulation>
+		</factbook:has_literacy-totalpopulation>
+		<factbook:has_literacy-male>
+			<factbook:Literacy-male>
+				<factbook:Literacy-male-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">99</factbook:Literacy-male-data>
+			</factbook:Literacy-male>
+		</factbook:has_literacy-male>
+		<factbook:has_literacy-female>
+			<factbook:Literacy-female factbook:date-est="2003">
+				<factbook:Literacy-female-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">99</factbook:Literacy-female-data>
+			</factbook:Literacy-female>
+		</factbook:has_literacy-female>
+		<factbook:has_countryname-conventionallongform>
+			<factbook:Countryname-conventionallongform>
+				<factbook:Countryname-conventionallongform-data>French Republic</factbook:Countryname-conventionallongform-data>
+			</factbook:Countryname-conventionallongform>
+		</factbook:has_countryname-conventionallongform>
+		<factbook:has_countryname-conventionalshortform>
+			<factbook:Countryname-conventionalshortform>
+				<factbook:Countryname-conventionalshortform-data>France</factbook:Countryname-conventionalshortform-data>
+			</factbook:Countryname-conventionalshortform>
+		</factbook:has_countryname-conventionalshortform>
+		<factbook:has_countryname-locallongform>
+			<factbook:Countryname-locallongform>
+				<factbook:Countryname-locallongform-data>Republique francaise</factbook:Countryname-locallongform-data>
+			</factbook:Countryname-locallongform>
+		</factbook:has_countryname-locallongform>
+		<factbook:has_countryname-localshortform>
+			<factbook:Countryname-localshortform>
+				<factbook:Countryname-localshortform-data>France</factbook:Countryname-localshortform-data>
+			</factbook:Countryname-localshortform>
+		</factbook:has_countryname-localshortform>
+		<factbook:has_governmenttype>
+			<factbook:Governmenttype>
+				<factbook:Governmenttype-data>republic</factbook:Governmenttype-data>
+			</factbook:Governmenttype>
+		</factbook:has_governmenttype>
+		<factbook:has_capital-name>
+			<factbook:Capital-name>
+				<factbook:Capital-name-data>Paris</factbook:Capital-name-data>
+			</factbook:Capital-name>
+		</factbook:has_capital-name>
+		<factbook:has_capital-geographiccoordinates>
+			<factbook:Capital-geographiccoordinates>
+				<factbook:Capital-geographiccoordinates-data>48 52 N, 2 20 E</factbook:Capital-geographiccoordinates-data>
+			</factbook:Capital-geographiccoordinates>
+		</factbook:has_capital-geographiccoordinates>
+		<factbook:has_capital-timedifference>
+			<factbook:Capital-timedifference>
+				<factbook:Capital-timedifference-data>UTC+1 (6 hours ahead of Washington, DC during Standard Time)</factbook:Capital-timedifference-data>
+			</factbook:Capital-timedifference>
+		</factbook:has_capital-timedifference>
+		<factbook:has_capital-daylightsavingtime>
+			<factbook:Capital-daylightsavingtime>
+				<factbook:Capital-daylightsavingtime-data>+1hr, begins last Sunday in March; ends last Sunday in October</factbook:Capital-daylightsavingtime-data>
+			</factbook:Capital-daylightsavingtime>
+		</factbook:has_capital-daylightsavingtime>
+		<factbook:has_administrativedivisions>
+			<factbook:Administrativedivisions>
+				<factbook:Administrativedivisions-data>26 regions (regions, singular - region); Alsace, Aquitaine, Auvergne, Basse-Normandie (Lower Normandy), Bourgogne, Bretagne (Brittany), Centre, Champagne-Ardenne, Corse (Corsica), Franche-Comte, Guadeloupe, Guyane (French Guiana), Haute-Normandie (Upper Normandy), Ile-de-France, Languedoc-Roussillon, Limousin, Lorraine, Martinique, Reunion, Midi-Pyrenees, Nord-Pas-de-Calais, Pays de la Loire, Picardie, Poitou-Charentes, Provence-Alpes-Cote d'Azur, Rhone-Alpes</factbook:Administrativedivisions-data>
+			</factbook:Administrativedivisions>
+		</factbook:has_administrativedivisions>
+		<factbook:has_administrativedivisions-note>
+			<factbook:Administrativedivisions-note>
+				<factbook:Administrativedivisions-note-data>France is divided into 22 metropolitan regions (including the "territorial collectivity" of Corse or Corsica) and 4 overseas regions and is subdivided into 96 metropolitan departments and 4 overseas departments</factbook:Administrativedivisions-note-data>
+			</factbook:Administrativedivisions-note>
+		</factbook:has_administrativedivisions-note>
+		<factbook:has_dependentareas>
+			<factbook:Dependentareas>
+				<factbook:Dependentareas-data>Bassas da India, Clipperton Island, Europa Island, French Polynesia, French Southern and Antarctic Lands, Glorioso Islands, Juan de Nova Island, New Caledonia, Tromelin Island, Wallis and Futuna</factbook:Dependentareas-data>
+			</factbook:Dependentareas>
+		</factbook:has_dependentareas>
+		<factbook:has_dependentareas-note>
+			<factbook:Dependentareas-note>
+				<factbook:Dependentareas-note-data>the US does not recognize claims to Antarctica; New Caledonia has been considered a "sui generis" collectivity of France since 1999, a unique status falling between that of an independent country and a French overseas department</factbook:Dependentareas-note-data>
+			</factbook:Dependentareas-note>
+		</factbook:has_dependentareas-note>
+		<factbook:has_independence>
+			<factbook:Independence>
+				<factbook:Independence-data>486 (unified by CLOVIS)</factbook:Independence-data>
+			</factbook:Independence>
+		</factbook:has_independence>
+		<factbook:has_nationalholiday>
+			<factbook:Nationalholiday>
+				<factbook:Nationalholiday-data>Fete de la Federation, 14 July (1790); note - although often incorrectly referred to as Bastille Day, the celebration actually commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are Fete Nationale (National Holiday) and quatorze juillet (14th of July)</factbook:Nationalholiday-data>
+			</factbook:Nationalholiday>
+		</factbook:has_nationalholiday>
+		<factbook:has_constitution>
+			<factbook:Constitution>
+				<factbook:Constitution-data>adopted by referendum 28 September 1958, effective 4 October 1958</factbook:Constitution-data>
+			</factbook:Constitution>
+		</factbook:has_constitution>
+		<factbook:has_constitution-note>
+			<factbook:Constitution-note>
+				<factbook:Constitution-note-data>amended concerning election of president in 1962; amended to comply with provisions of 1992 EC Maastricht Treaty, 1996 Amsterdam Treaty, 2000 Treaty of Nice; amended to tighten immigration laws in 1993; amended in 2000 to change the seven-year presidential term to a five-year term; amended in 2005 to make the EU constitutional treaty compatible with the Constitution of France and to ensure that the decision to ratify EU accession treaties would be made by referendum</factbook:Constitution-note-data>
+			</factbook:Constitution-note>
+		</factbook:has_constitution-note>
+		<factbook:has_legalsystem>
+			<factbook:Legalsystem>
+				<factbook:Legalsystem-data>civil law system with indigenous concepts; review of administrative but not legislative acts</factbook:Legalsystem-data>
+			</factbook:Legalsystem>
+		</factbook:has_legalsystem>
+		<factbook:has_suffrage>
+			<factbook:Suffrage>
+				<factbook:Suffrage-data>18 years of age; universal</factbook:Suffrage-data>
+			</factbook:Suffrage>
+		</factbook:has_suffrage>
+		<factbook:has_executivebranch-chiefofstate>
+			<factbook:Executivebranch-chiefofstate>
+				<factbook:Executivebranch-chiefofstate-data>President Jacques CHIRAC (since 17 May 1995)</factbook:Executivebranch-chiefofstate-data>
+			</factbook:Executivebranch-chiefofstate>
+		</factbook:has_executivebranch-chiefofstate>
+		<factbook:has_executivebranch-headofgovernment>
+			<factbook:Executivebranch-headofgovernment>
+				<factbook:Executivebranch-headofgovernment-data>Prime Minister Dominique DE VILLEPIN (since 31 May 2005)</factbook:Executivebranch-headofgovernment-data>
+			</factbook:Executivebranch-headofgovernment>
+		</factbook:has_executivebranch-headofgovernment>
+		<factbook:has_executivebranch-cabinet>
+			<factbook:Executivebranch-cabinet>
+				<factbook:Executivebranch-cabinet-data>Council of Ministers appointed by the president at the suggestion of the prime minister</factbook:Executivebranch-cabinet-data>
+			</factbook:Executivebranch-cabinet>
+		</factbook:has_executivebranch-cabinet>
+		<factbook:has_executivebranch-elections>
+			<factbook:Executivebranch-elections>
+				<factbook:Executivebranch-elections-data>president elected by popular vote for a five-year term (changed from seven-year term in October 2000); election last held 21 April and 5 May 2002 (next to be held, first round 22 April 2007, second round 6 May 2007); prime minister nominated by the National Assembly majority and appointed by the president</factbook:Executivebranch-elections-data>
+			</factbook:Executivebranch-elections>
+		</factbook:has_executivebranch-elections>
+		<factbook:has_executivebranch-electionresults>
+			<factbook:Executivebranch-electionresults>
+				<factbook:Executivebranch-electionresults-data>Jacques CHIRAC reelected president; percent of vote, second ballot - Jacques CHIRAC 81.96%, Jean-Marie LE PEN 18.04%</factbook:Executivebranch-electionresults-data>
+			</factbook:Executivebranch-electionresults>
+		</factbook:has_executivebranch-electionresults>
+		<factbook:has_legislativebranch>
+			<factbook:Legislativebranch>
+				<factbook:Legislativebranch-data>bicameral Parliament or Parlement consists of the Senate or Senat (331 seats - 305 for metropolitan France, 9 for overseas departments, 5 for dependencies, and 12 for French nationals abroad; members are indirectly elected by an electoral college to serve nine-year terms; elected by thirds every three years); note - between 2006 and 2010, 15 new seats will be added to the Senate for a total of 346 seats - 326 for metropolitan France and overseas departments, 2 for New Caledonia, 2 for Mayotte, 1 for Saint-Pierre and Miquelon, 3 for overseas territories, and 12 for French nationals abroad; starting in 2008, members will be indirectly elected by an electoral college to serve six-year terms, with one-half the seats being renewed every three years; and the National Assembly or Assemblee Nationale (577 seats - 555 for metropolitan France, 15 for overseas departments, 7 for dependencies; members are elected by popular vote under a single-member majority system to serve five-year terms)</factbook:Legislativebranch-data>
+			</factbook:Legislativebranch>
+		</factbook:has_legislativebranch>
+		<factbook:has_legislativebranch-elections>
+			<factbook:Legislativebranch-elections>
+				<factbook:Legislativebranch-elections-data>Senate - last held 26 September 2004 (next to be held in September 2008); National Assembly - last held 8-16 June 2002 (next to be held on 10 and 17 June 2007)</factbook:Legislativebranch-elections-data>
+			</factbook:Legislativebranch-elections>
+		</factbook:has_legislativebranch-elections>
+		<factbook:has_legislativebranch-electionresults>
+			<factbook:Legislativebranch-electionresults>
+				<factbook:Legislativebranch-electionresults-data>Senate - percent of vote by party - NA; seats by party - UMP 156, PS 97, UDF 33, PCF 23, RDSE 15, other 7; National Assembly - percent of vote by party - NA; seats by party - UMP 355, PS 140, UDF 29, PCF 21, Left Radical Party 7, Greens 3, other 22</factbook:Legislativebranch-electionresults-data>
+			</factbook:Legislativebranch-electionresults>
+		</factbook:has_legislativebranch-electionresults>
+		<factbook:has_judicialbranch>
+			<factbook:Judicialbranch>
+				<factbook:Judicialbranch-data>Supreme Court of Appeals or Cour de Cassation (judges are appointed by the president from nominations of the High Council of the Judiciary); Constitutional Council or Conseil Constitutionnel (three members appointed by the president, three appointed by the president of the National Assembly, and three appointed by the president of the Senate); Council of State or Conseil d'Etat</factbook:Judicialbranch-data>
+			</factbook:Judicialbranch>
+		</factbook:has_judicialbranch>
+		<factbook:has_politicalpartiesandleaders>
+			<factbook:Politicalpartiesandleaders factbook:date-est="2003">
+				<factbook:Politicalpartiesandleaders>Citizen and Republican Movement or MRC [Jean Pierre CHEVENEMENT]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Democratic and European Social Rally or RDSE [Jacques PELLETIER] (mainly Radical Republican and Socialist Parties, and PRG)</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>French Communist Party or PCF [Marie-George BUFFET]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Greens [Yann WEHRLING]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Left Radical Party or PRG [Jean-Michel BAYLET] (previously Radical Socialist Party or PRS and the Left Radical Movement or MRG)</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Movement for France or MPF [Philippe DE VILLIERS]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>National Front or FN [Jean-Marie LE PEN]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Rally for France or RPF [Charles PASQUA]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Socialist Party or PS [Francois HOLLANDE]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Union for French Democracy or UDF [Francois BAYROU]</factbook:Politicalpartiesandleaders>
+				<factbook:Politicalpartiesandleaders>Union for a Popular Movement or UMP [Nicolas SARKOZY]</factbook:Politicalpartiesandleaders>
+			</factbook:Politicalpartiesandleaders>
+		</factbook:has_politicalpartiesandleaders>
+		<factbook:has_politicalpressuregroupsandleaders>
+			<factbook:Politicalpressuregroupsandleaders factbook:date-est="2003">
+				<factbook:Politicalpressuregroupsandleaders>historically-Communist labor union (Confederation Generale du Travail) or CGT, approximately 700000 members (claimed)</factbook:Politicalpressuregroupsandleaders>
+				<factbook:Politicalpressuregroupsandleaders>left-leaning labor union (Confederation Francaise Democratique du Travail) or CFDT, approximately 889000 members (claimed)</factbook:Politicalpressuregroupsandleaders>
+				<factbook:Politicalpressuregroupsandleaders>independent labor union (Confederation Generale du Travail - Force Ouvriere) or FO, 300000 members (est.)</factbook:Politicalpressuregroupsandleaders>
+				<factbook:Politicalpressuregroupsandleaders>independent white-collar union (Confederation Generale des Cadres) or CGC, 196000 members (claimed)</factbook:Politicalpressuregroupsandleaders>
+				<factbook:Politicalpressuregroupsandleaders>employers' union (Mouvement des Entreprises de France) or MEDEF, 750000 companies as members (claimed)</factbook:Politicalpressuregroupsandleaders>
+			</factbook:Politicalpressuregroupsandleaders>
+		</factbook:has_politicalpressuregroupsandleaders>
+		<factbook:has_politicalpressuregroupsandleaders-guadeloupe>
+			<factbook:Politicalpressuregroupsandleaders-Guadeloupe>
+				<factbook:Politicalpressuregroupsandleaders-Guadeloupe-data>Christian Movement for the Liberation of Guadeloupe or KLPG; General Federation of Guadeloupe Workers or CGT-G; General Union of Guadeloupe Workers or UGTG; Movement of Independent Guadeloupe or MPGI; The Socialist Renewal Movement</factbook:Politicalpressuregroupsandleaders-Guadeloupe-data>
+			</factbook:Politicalpressuregroupsandleaders-Guadeloupe>
+		</factbook:has_politicalpressuregroupsandleaders-guadeloupe>
+		<factbook:has_politicalpressuregroupsandleaders-martinique>
+			<factbook:Politicalpressuregroupsandleaders-Martinique>
+				<factbook:Politicalpressuregroupsandleaders-Martinique-data>Caribbean Revolutionary Alliance or ARC; Central Union for Martinique Workers or CSTM [Marc PULVAR]; Frantz Fanon Circle; League of Workers and Peasants; Proletarian Action Group or GAP</factbook:Politicalpressuregroupsandleaders-Martinique-data>
+			</factbook:Politicalpressuregroupsandleaders-Martinique>
+		</factbook:has_politicalpressuregroupsandleaders-martinique>
+		<factbook:has_internationalorganizationparticipation>
+			<factbook:Internationalorganizationparticipation factbook:date-est="2003">
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ABEDA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ACCT"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#AfDB"/>
+			<factbook:Internationalorganizationparticipation-data>Arctic-Council</factbook:Internationalorganizationparticipation-data>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#AsDB"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#Australia-Group"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#BDEAC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#BIS"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#BSEC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#CBSS"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#CE"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#CERN"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#EAPC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#EBRD"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#EIB"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#EMU"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ESA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#EU"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#FAO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#FZ"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#G-5"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#G-7"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#G-8"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#G-10"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IADB"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IAEA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IBRD"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ICAO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ICC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ICCt"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ICRM"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IDA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IEA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IFAD"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IFC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IFRCS"/>
+			<factbook:Internationalorganizationparticipation-data>IFTU</factbook:Internationalorganizationparticipation-data>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IHO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ILO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IMF"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IMO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#InOC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#Interpol"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IOC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#IOM"/>
+			<factbook:Internationalorganizationparticipation-data>IPU</factbook:Internationalorganizationparticipation-data>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ISO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ITU"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#MIGA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#MINURSO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#MINUSTAH"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#MONUC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#NATO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#NEA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#NSG"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#OAS"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#OECD"/>
+			<factbook:Internationalorganizationparticipation-data>OIF</factbook:Internationalorganizationparticipation-data>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#OPCW"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#OSCE"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#Paris-Club"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#PCA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#PIF"/>
+			<factbook:Internationalorganizationparticipation-data>SECI</factbook:Internationalorganizationparticipation-data>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#SPC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UN"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UN-Security-Council"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNCTAD"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNESCO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNHCR"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNIDO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNIFIL"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNITAR"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNMEE"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNMIL"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNMOVIC"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNOCI"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNOMIG"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNRWA"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UNTSO"/>
+			<factbook:Internationalorganizationparticipation-data>UNWTO</factbook:Internationalorganizationparticipation-data>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#UPU"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WADB"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WCL"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WCO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WEU"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WFTU"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WHO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WIPO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WMO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#WTO"/>
+			<factbook:Internationalorganizationparticipation-data rdf:resource="http://linuxproj.ecs.soton.ac.uk/cia/orgs/#ZC"/>
+			</factbook:Internationalorganizationparticipation>
+		</factbook:has_internationalorganizationparticipation>
+		<factbook:has_diplomaticrepresentationintheus-chiefofmission>
+			<factbook:DiplomaticrepresentationintheUS-chiefofmission>
+				<factbook:DiplomaticrepresentationintheUS-chiefofmission-data>Ambassador Jean-David LEVITTE</factbook:DiplomaticrepresentationintheUS-chiefofmission-data>
+			</factbook:DiplomaticrepresentationintheUS-chiefofmission>
+		</factbook:has_diplomaticrepresentationintheus-chiefofmission>
+		<factbook:has_diplomaticrepresentationintheus-chancery>
+			<factbook:DiplomaticrepresentationintheUS-chancery>
+				<factbook:DiplomaticrepresentationintheUS-chancery-data>4101 Reservoir Road NW, Washington, DC 20007</factbook:DiplomaticrepresentationintheUS-chancery-data>
+			</factbook:DiplomaticrepresentationintheUS-chancery>
+		</factbook:has_diplomaticrepresentationintheus-chancery>
+		<factbook:has_diplomaticrepresentationintheus-telephone>
+			<factbook:DiplomaticrepresentationintheUS-telephone>
+				<factbook:DiplomaticrepresentationintheUS-telephone-data>[1] (202) 944-6000</factbook:DiplomaticrepresentationintheUS-telephone-data>
+			</factbook:DiplomaticrepresentationintheUS-telephone>
+		</factbook:has_diplomaticrepresentationintheus-telephone>
+		<factbook:has_diplomaticrepresentationintheus-fax>
+			<factbook:DiplomaticrepresentationintheUS-FAX>
+				<factbook:DiplomaticrepresentationintheUS-FAX-data>[1] (202) 944-6166</factbook:DiplomaticrepresentationintheUS-FAX-data>
+			</factbook:DiplomaticrepresentationintheUS-FAX>
+		</factbook:has_diplomaticrepresentationintheus-fax>
+		<factbook:has_diplomaticrepresentationintheus-consulate-s-general>
+			<factbook:DiplomaticrepresentationintheUS-consulate-s-general>
+				<factbook:DiplomaticrepresentationintheUS-consulate-s-general-data>Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco</factbook:DiplomaticrepresentationintheUS-consulate-s-general-data>
+			</factbook:DiplomaticrepresentationintheUS-consulate-s-general>
+		</factbook:has_diplomaticrepresentationintheus-consulate-s-general>
+		<factbook:has_diplomaticrepresentationfromtheus-chiefofmission>
+			<factbook:DiplomaticrepresentationfromtheUS-chiefofmission>
+				<factbook:DiplomaticrepresentationfromtheUS-chiefofmission-data>Ambassador Craig R. STAPLETON</factbook:DiplomaticrepresentationfromtheUS-chiefofmission-data>
+			</factbook:DiplomaticrepresentationfromtheUS-chiefofmission>
+		</factbook:has_diplomaticrepresentationfromtheus-chiefofmission>
+		<factbook:has_diplomaticrepresentationfromtheus-embassy>
+			<factbook:DiplomaticrepresentationfromtheUS-embassy>
+				<factbook:DiplomaticrepresentationfromtheUS-embassy-data>2 Avenue Gabriel, 75382 Paris Cedex 08</factbook:DiplomaticrepresentationfromtheUS-embassy-data>
+			</factbook:DiplomaticrepresentationfromtheUS-embassy>
+		</factbook:has_diplomaticrepresentationfromtheus-embassy>
+		<factbook:has_diplomaticrepresentationfromtheus-mailingaddress>
+			<factbook:DiplomaticrepresentationfromtheUS-mailingaddress>
+				<factbook:DiplomaticrepresentationfromtheUS-mailingaddress-data>PSC 116, APO AE 09777</factbook:DiplomaticrepresentationfromtheUS-mailingaddress-data>
+			</factbook:DiplomaticrepresentationfromtheUS-mailingaddress>
+		</factbook:has_diplomaticrepresentationfromtheus-mailingaddress>
+		<factbook:has_diplomaticrepresentationfromtheus-telephone>
+			<factbook:DiplomaticrepresentationfromtheUS-telephone>
+				<factbook:DiplomaticrepresentationfromtheUS-telephone-data>[33] (1) 43-12-22-22</factbook:DiplomaticrepresentationfromtheUS-telephone-data>
+			</factbook:DiplomaticrepresentationfromtheUS-telephone>
+		</factbook:has_diplomaticrepresentationfromtheus-telephone>
+		<factbook:has_diplomaticrepresentationfromtheus-fax>
+			<factbook:DiplomaticrepresentationfromtheUS-FAX>
+				<factbook:DiplomaticrepresentationfromtheUS-FAX-data>[33] (1) 42 66 97 83</factbook:DiplomaticrepresentationfromtheUS-FAX-data>
+			</factbook:DiplomaticrepresentationfromtheUS-FAX>
+		</factbook:has_diplomaticrepresentationfromtheus-fax>
+		<factbook:has_diplomaticrepresentationfromtheus-consulate-s-general>
+			<factbook:DiplomaticrepresentationfromtheUS-consulate-s-general>
+				<factbook:DiplomaticrepresentationfromtheUS-consulate-s-general-data>Marseille, Strasbourg</factbook:DiplomaticrepresentationfromtheUS-consulate-s-general-data>
+			</factbook:DiplomaticrepresentationfromtheUS-consulate-s-general>
+		</factbook:has_diplomaticrepresentationfromtheus-consulate-s-general>
+		<factbook:has_flagdescription>
+			<factbook:Flagdescription>
+				<factbook:Flagdescription-data>three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution; the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Ireland, Cote d'Ivoire, Luxembourg, and Netherlands; the official flag for all French dependent areas</factbook:Flagdescription-data>
+			</factbook:Flagdescription>
+		</factbook:has_flagdescription>
+		<factbook:has_economy-overview>
+			<factbook:Economy-overview>
+				<factbook:Economy-overview-data>France is in the midst of transition from a well-to-do modern economy that has featured extensive government ownership and intervention to one that relies more on market mechanisms. The government has partially or fully privatized many large companies, banks, and insurers, and has ceded stakes in such leading firms as Air France, France Telecom, Renault, and Thales. It maintains a strong presence in some sectors, particularly power, public transport, and defense industries. The telecommunications sector is gradually being opened to competition. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that reduce income disparity and the impact of free markets on public health and welfare. The government in 2006 focused on introducing measures that attempt to boost employment through increased labor market flexibility; however, the population has remained opposed to labor reforms, hampering the government's ability to revitalize the economy. The tax burden remains one of the highest in Europe (nearly 50% of GDP in 2005). The lingering economic slowdown and inflexible budget items probably pushed the budget deficit above the eurozone's 3%-of-GDP limit in 2006; unemployment hovers near 9%. With at least 75000000 foreign tourists per year, France is the most visited country in the world and maintains the third largest income in the world from tourism.</factbook:Economy-overview-data>
+			</factbook:Economy-overview>
+		</factbook:has_economy-overview>
+		<factbook:has_gdp-purchasingpowerparity>
+			<factbook:GDP-purchasingpowerparity factbook:date-est="2006">
+				<factbook:GDP-purchasingpowerparity-data>1871000000000</factbook:GDP-purchasingpowerparity-data>
+			</factbook:GDP-purchasingpowerparity>
+		</factbook:has_gdp-purchasingpowerparity>
+		<factbook:has_gdp-officialexchangerate>
+			<factbook:GDP-officialexchangerate factbook:date-est="2006">
+				<factbook:GDP-officialexchangerate-data>2154000000000</factbook:GDP-officialexchangerate-data>
+			</factbook:GDP-officialexchangerate>
+		</factbook:has_gdp-officialexchangerate>
+		<factbook:has_gdp-realgrowthrate>
+			<factbook:GDP-realgrowthrate factbook:date-est="2006">
+				<factbook:GDP-realgrowthrate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">2.3</factbook:GDP-realgrowthrate-data>
+			</factbook:GDP-realgrowthrate>
+		</factbook:has_gdp-realgrowthrate>
+		<factbook:has_gdp-percapita-ppp>
+			<factbook:GDP-percapita-PPP factbook:date-est="2006">
+				<factbook:GDP-percapita-PPP-data>30100</factbook:GDP-percapita-PPP-data>
+			</factbook:GDP-percapita-PPP>
+		</factbook:has_gdp-percapita-ppp>
+		<factbook:has_gdp-compositionbysector-agriculture>
+			<factbook:GDP-compositionbysector-agriculture>
+				<factbook:GDP-compositionbysector-agriculture-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">2.2</factbook:GDP-compositionbysector-agriculture-data>
+			</factbook:GDP-compositionbysector-agriculture>
+		</factbook:has_gdp-compositionbysector-agriculture>
+		<factbook:has_gdp-compositionbysector-industry>
+			<factbook:GDP-compositionbysector-industry>
+				<factbook:GDP-compositionbysector-industry-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">20.6</factbook:GDP-compositionbysector-industry-data>
+			</factbook:GDP-compositionbysector-industry>
+		</factbook:has_gdp-compositionbysector-industry>
+		<factbook:has_gdp-compositionbysector-services>
+			<factbook:GDP-compositionbysector-services factbook:date-est="2006">
+				<factbook:GDP-compositionbysector-services-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">77.2</factbook:GDP-compositionbysector-services-data>
+			</factbook:GDP-compositionbysector-services>
+		</factbook:has_gdp-compositionbysector-services>
+		<factbook:has_laborforce>
+			<factbook:Laborforce factbook:date-est="2006">
+				<factbook:Laborforce-data>27880000</factbook:Laborforce-data>
+			</factbook:Laborforce>
+		</factbook:has_laborforce>
+		<factbook:has_laborforce-byoccupation-agriculture>
+			<factbook:Laborforce-byoccupation-agriculture>
+				<factbook:Laborforce-byoccupation-agriculture-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">4.1</factbook:Laborforce-byoccupation-agriculture-data>
+			</factbook:Laborforce-byoccupation-agriculture>
+		</factbook:has_laborforce-byoccupation-agriculture>
+		<factbook:has_laborforce-byoccupation-industry>
+			<factbook:Laborforce-byoccupation-industry>
+				<factbook:Laborforce-byoccupation-industry-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">24.4</factbook:Laborforce-byoccupation-industry-data>
+			</factbook:Laborforce-byoccupation-industry>
+		</factbook:has_laborforce-byoccupation-industry>
+		<factbook:has_laborforce-byoccupation-services>
+			<factbook:Laborforce-byoccupation-services factbook:date="1999">
+				<factbook:Laborforce-byoccupation-services-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">71.5</factbook:Laborforce-byoccupation-services-data>
+			</factbook:Laborforce-byoccupation-services>
+		</factbook:has_laborforce-byoccupation-services>
+		<factbook:has_unemploymentrate>
+			<factbook:Unemploymentrate factbook:date-est="2006">
+				<factbook:Unemploymentrate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">8.7</factbook:Unemploymentrate-data>
+			</factbook:Unemploymentrate>
+		</factbook:has_unemploymentrate>
+		<factbook:has_populationbelowpovertyline>
+			<factbook:Populationbelowpovertyline factbook:date="2004">
+				<factbook:Populationbelowpovertyline-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">6.2</factbook:Populationbelowpovertyline-data>
+			</factbook:Populationbelowpovertyline>
+		</factbook:has_populationbelowpovertyline>
+		<factbook:has_householdincomeorconsumptionbypercentageshare-lowest10pc>
+			<factbook:Householdincomeorconsumptionbypercentageshare-lowest10pc>
+				<factbook:Householdincomeorconsumptionbypercentageshare-lowest10pc-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">3</factbook:Householdincomeorconsumptionbypercentageshare-lowest10pc-data>
+			</factbook:Householdincomeorconsumptionbypercentageshare-lowest10pc>
+		</factbook:has_householdincomeorconsumptionbypercentageshare-lowest10pc>
+		<factbook:has_householdincomeorconsumptionbypercentageshare-highest10pc>
+			<factbook:Householdincomeorconsumptionbypercentageshare-highest10pc factbook:date="2004">
+				<factbook:Householdincomeorconsumptionbypercentageshare-highest10pc-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">24.8</factbook:Householdincomeorconsumptionbypercentageshare-highest10pc-data>
+			</factbook:Householdincomeorconsumptionbypercentageshare-highest10pc>
+		</factbook:has_householdincomeorconsumptionbypercentageshare-highest10pc>
+		<factbook:has_distributionoffamilyincome-giniindex>
+			<factbook:Distributionoffamilyincome-Giniindex factbook:date="2002">
+				<factbook:Distributionoffamilyincome-Giniindex-data>26.7</factbook:Distributionoffamilyincome-Giniindex-data>
+			</factbook:Distributionoffamilyincome-Giniindex>
+		</factbook:has_distributionoffamilyincome-giniindex>
+		<factbook:has_inflationrate-consumerprices>
+			<factbook:Inflationrate-consumerprices factbook:date-est="2006">
+				<factbook:Inflationrate-consumerprices-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">1.5</factbook:Inflationrate-consumerprices-data>
+			</factbook:Inflationrate-consumerprices>
+		</factbook:has_inflationrate-consumerprices>
+		<factbook:has_investment-grossfixed>
+			<factbook:Investment-grossfixed factbook:date-est="2006">
+				<factbook:Investment-grossfixed-data>20% of GDP</factbook:Investment-grossfixed-data>
+			</factbook:Investment-grossfixed>
+		</factbook:has_investment-grossfixed>
+		<factbook:has_budget-revenues>
+			<factbook:Budget-revenues>
+				<factbook:Budget-revenues-data>1150000000000</factbook:Budget-revenues-data>
+			</factbook:Budget-revenues>
+		</factbook:has_budget-revenues>
+		<factbook:has_budget-expenditures>
+			<factbook:Budget-expenditures factbook:date-est="2006">
+				<factbook:Budget-expenditures-data>$1211000000000; including capital expenditures of $NA</factbook:Budget-expenditures-data>
+			</factbook:Budget-expenditures>
+		</factbook:has_budget-expenditures>
+		<factbook:has_publicdebt>
+			<factbook:Publicdebt factbook:date-est="2006">
+				<factbook:Publicdebt-data>64.7% of GDP</factbook:Publicdebt-data>
+			</factbook:Publicdebt>
+		</factbook:has_publicdebt>
+		<factbook:has_agriculture-products>
+			<factbook:Agriculture-products factbook:date-est="2006">
+				<factbook:Agriculture-products>wheat</factbook:Agriculture-products>
+				<factbook:Agriculture-products>cereals</factbook:Agriculture-products>
+				<factbook:Agriculture-products>sugar beets</factbook:Agriculture-products>
+				<factbook:Agriculture-products>potatoes</factbook:Agriculture-products>
+				<factbook:Agriculture-products>wine grapes</factbook:Agriculture-products>
+				<factbook:Agriculture-products>beef</factbook:Agriculture-products>
+				<factbook:Agriculture-products>dairy products</factbook:Agriculture-products>
+				<factbook:Agriculture-products>fish</factbook:Agriculture-products>
+			</factbook:Agriculture-products>
+		</factbook:has_agriculture-products>
+		<factbook:has_industries>
+			<factbook:Industries factbook:date-est="2006">
+				<factbook:Industries>machinery</factbook:Industries>
+				<factbook:Industries>chemicals</factbook:Industries>
+				<factbook:Industries>automobiles</factbook:Industries>
+				<factbook:Industries>metallurgy</factbook:Industries>
+				<factbook:Industries>aircraft</factbook:Industries>
+				<factbook:Industries>electronics; textiles</factbook:Industries>
+				<factbook:Industries>food processing; tourism</factbook:Industries>
+			</factbook:Industries>
+		</factbook:has_industries>
+		<factbook:has_industrialproductiongrowthrate>
+			<factbook:Industrialproductiongrowthrate factbook:date-est="2006">
+				<factbook:Industrialproductiongrowthrate-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">0.2</factbook:Industrialproductiongrowthrate-data>
+			</factbook:Industrialproductiongrowthrate>
+		</factbook:has_industrialproductiongrowthrate>
+		<factbook:has_electricity-production>
+			<factbook:Electricity-production factbook:date="2005">
+				<factbook:Electricity-production-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#kWh">549400000000</factbook:Electricity-production-data>
+			</factbook:Electricity-production>
+		</factbook:has_electricity-production>
+		<factbook:has_electricity-productionbysource-fossilfuel>
+			<factbook:Electricity-productionbysource-fossilfuel>
+				<factbook:Electricity-productionbysource-fossilfuel-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">8.2</factbook:Electricity-productionbysource-fossilfuel-data>
+			</factbook:Electricity-productionbysource-fossilfuel>
+		</factbook:has_electricity-productionbysource-fossilfuel>
+		<factbook:has_electricity-productionbysource-hydro>
+			<factbook:Electricity-productionbysource-hydro>
+				<factbook:Electricity-productionbysource-hydro-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">14</factbook:Electricity-productionbysource-hydro-data>
+			</factbook:Electricity-productionbysource-hydro>
+		</factbook:has_electricity-productionbysource-hydro>
+		<factbook:has_electricity-productionbysource-nuclear>
+			<factbook:Electricity-productionbysource-nuclear>
+				<factbook:Electricity-productionbysource-nuclear-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">77.1</factbook:Electricity-productionbysource-nuclear-data>
+			</factbook:Electricity-productionbysource-nuclear>
+		</factbook:has_electricity-productionbysource-nuclear>
+		<factbook:has_electricity-productionbysource-other>
+			<factbook:Electricity-productionbysource-other factbook:date="2001">
+				<factbook:Electricity-productionbysource-other-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">0.7</factbook:Electricity-productionbysource-other-data>
+			</factbook:Electricity-productionbysource-other>
+		</factbook:has_electricity-productionbysource-other>
+		<factbook:has_electricity-consumption>
+			<factbook:Electricity-consumption factbook:date="2005">
+				<factbook:Electricity-consumption-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#kWh">482400000000</factbook:Electricity-consumption-data>
+			</factbook:Electricity-consumption>
+		</factbook:has_electricity-consumption>
+		<factbook:has_electricity-exports>
+			<factbook:Electricity-exports factbook:date="2005">
+				<factbook:Electricity-exports-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#kWh">68300000000</factbook:Electricity-exports-data>
+			</factbook:Electricity-exports>
+		</factbook:has_electricity-exports>
+		<factbook:has_electricity-imports>
+			<factbook:Electricity-imports factbook:date="2005">
+				<factbook:Electricity-imports-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#kWh">8000000000</factbook:Electricity-imports-data>
+			</factbook:Electricity-imports>
+		</factbook:has_electricity-imports>
+		<factbook:has_oil-production>
+			<factbook:Oil-production factbook:date-est="2005">
+				<factbook:Oil-production-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#bblday">73500</factbook:Oil-production-data>
+			</factbook:Oil-production>
+		</factbook:has_oil-production>
+		<factbook:has_oil-consumption>
+			<factbook:Oil-consumption factbook:date-est="2005">
+				<factbook:Oil-consumption-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#bblday">1970000</factbook:Oil-consumption-data>
+			</factbook:Oil-consumption>
+		</factbook:has_oil-consumption>
+		<factbook:has_oil-exports>
+			<factbook:Oil-exports factbook:date="2005">
+				<factbook:Oil-exports-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#bblday">474200</factbook:Oil-exports-data>
+			</factbook:Oil-exports>
+		</factbook:has_oil-exports>
+		<factbook:has_oil-imports>
+			<factbook:Oil-imports factbook:date="2005">
+				<factbook:Oil-imports-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#bblday">1890000</factbook:Oil-imports-data>
+			</factbook:Oil-imports>
+		</factbook:has_oil-imports>
+		<factbook:has_oil-provedreserves>
+			<factbook:Oil-provedreserves>
+				<factbook:Oil-provedreserves-data>159000000 bbl (1 January 2006)</factbook:Oil-provedreserves-data>
+			</factbook:Oil-provedreserves>
+		</factbook:has_oil-provedreserves>
+		<factbook:has_naturalgas-production>
+			<factbook:Naturalgas-production factbook:date-est="2004">
+				<factbook:Naturalgas-production-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#cubicm">1400000000</factbook:Naturalgas-production-data>
+			</factbook:Naturalgas-production>
+		</factbook:has_naturalgas-production>
+		<factbook:has_naturalgas-consumption>
+			<factbook:Naturalgas-consumption factbook:date-est="2004">
+				<factbook:Naturalgas-consumption-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#cubicm">45410000000</factbook:Naturalgas-consumption-data>
+			</factbook:Naturalgas-consumption>
+		</factbook:has_naturalgas-consumption>
+		<factbook:has_naturalgas-exports>
+			<factbook:Naturalgas-exports factbook:date-est="2004">
+				<factbook:Naturalgas-exports-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#cubicm">770000000</factbook:Naturalgas-exports-data>
+			</factbook:Naturalgas-exports>
+		</factbook:has_naturalgas-exports>
+		<factbook:has_naturalgas-imports>
+			<factbook:Naturalgas-imports factbook:date-est="2004">
+				<factbook:Naturalgas-imports-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#cubicm">44780000000</factbook:Naturalgas-imports-data>
+			</factbook:Naturalgas-imports>
+		</factbook:has_naturalgas-imports>
+		<factbook:has_naturalgas-provedreserves>
+			<factbook:Naturalgas-provedreserves>
+				<factbook:Naturalgas-provedreserves-data>341000000000 cu m (1 January 2006 est.)</factbook:Naturalgas-provedreserves-data>
+			</factbook:Naturalgas-provedreserves>
+		</factbook:has_naturalgas-provedreserves>
+		<factbook:has_currentaccountbalance>
+			<factbook:Currentaccountbalance factbook:date-est="2006">
+				<factbook:Currentaccountbalance-data>38000000000</factbook:Currentaccountbalance-data>
+			</factbook:Currentaccountbalance>
+		</factbook:has_currentaccountbalance>
+		<factbook:has_exports>
+			<factbook:Exports factbook:date-est="2006">
+				<factbook:Exports-data>490000000000</factbook:Exports-data>
+			</factbook:Exports>
+		</factbook:has_exports>
+		<factbook:has_exports-commodities>
+			<factbook:Exports-commodities factbook:date-est="2006">
+				<factbook:Exports-commodities>machinery and transportation equipment</factbook:Exports-commodities>
+				<factbook:Exports-commodities>aircraft</factbook:Exports-commodities>
+				<factbook:Exports-commodities>plastics</factbook:Exports-commodities>
+				<factbook:Exports-commodities>chemicals</factbook:Exports-commodities>
+				<factbook:Exports-commodities>pharmaceutical products</factbook:Exports-commodities>
+				<factbook:Exports-commodities>iron and steel</factbook:Exports-commodities>
+				<factbook:Exports-commodities>beverages</factbook:Exports-commodities>
+			</factbook:Exports-commodities>
+		</factbook:has_exports-commodities>
+		<factbook:has_exports-partners>
+			<factbook:Exports-partners factbook:date="2005">
+				<factbook:Exports-partners-title>Germany</factbook:Exports-partners-title>
+				<factbook:Exports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">14.7</factbook:Exports-partners-data>
+			</factbook:Exports-partners>
+		</factbook:has_exports-partners>
+		<factbook:has_exports-partners>
+			<factbook:Exports-partners factbook:date="2005">
+				<factbook:Exports-partners-title>Spain</factbook:Exports-partners-title>
+				<factbook:Exports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">9.7</factbook:Exports-partners-data>
+			</factbook:Exports-partners>
+		</factbook:has_exports-partners>
+		<factbook:has_exports-partners>
+			<factbook:Exports-partners factbook:date="2005">
+				<factbook:Exports-partners-title>Italy</factbook:Exports-partners-title>
+				<factbook:Exports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">8.7</factbook:Exports-partners-data>
+			</factbook:Exports-partners>
+		</factbook:has_exports-partners>
+		<factbook:has_exports-partners>
+			<factbook:Exports-partners factbook:date="2005">
+				<factbook:Exports-partners-title>UK</factbook:Exports-partners-title>
+				<factbook:Exports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">8.3</factbook:Exports-partners-data>
+			</factbook:Exports-partners>
+		</factbook:has_exports-partners>
+		<factbook:has_exports-partners>
+			<factbook:Exports-partners factbook:date="2005">
+				<factbook:Exports-partners-title>Belgium</factbook:Exports-partners-title>
+				<factbook:Exports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">7.1</factbook:Exports-partners-data>
+			</factbook:Exports-partners>
+		</factbook:has_exports-partners>
+		<factbook:has_exports-partners>
+			<factbook:Exports-partners factbook:date="2005">
+				<factbook:Exports-partners-title>US</factbook:Exports-partners-title>
+				<factbook:Exports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">7.1</factbook:Exports-partners-data>
+			</factbook:Exports-partners>
+		</factbook:has_exports-partners>
+		<factbook:has_imports>
+			<factbook:Imports factbook:date-est="2006">
+				<factbook:Imports-data>529100000000</factbook:Imports-data>
+			</factbook:Imports>
+		</factbook:has_imports>
+		<factbook:has_imports-commodities>
+			<factbook:Imports-commodities factbook:date-est="2006">
+				<factbook:Imports-commodities>machinery and equipment</factbook:Imports-commodities>
+				<factbook:Imports-commodities>vehicles</factbook:Imports-commodities>
+				<factbook:Imports-commodities>crude oil</factbook:Imports-commodities>
+				<factbook:Imports-commodities>aircraft</factbook:Imports-commodities>
+				<factbook:Imports-commodities>plastics</factbook:Imports-commodities>
+				<factbook:Imports-commodities>chemicals</factbook:Imports-commodities>
+			</factbook:Imports-commodities>
+		</factbook:has_imports-commodities>
+		<factbook:has_imports-partners>
+			<factbook:Imports-partners factbook:date="2005">
+				<factbook:Imports-partners-title>Germany</factbook:Imports-partners-title>
+				<factbook:Imports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">18.9</factbook:Imports-partners-data>
+			</factbook:Imports-partners>
+		</factbook:has_imports-partners>
+		<factbook:has_imports-partners>
+			<factbook:Imports-partners factbook:date="2005">
+				<factbook:Imports-partners-title>Belgium</factbook:Imports-partners-title>
+				<factbook:Imports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">10.7</factbook:Imports-partners-data>
+			</factbook:Imports-partners>
+		</factbook:has_imports-partners>
+		<factbook:has_imports-partners>
+			<factbook:Imports-partners factbook:date="2005">
+				<factbook:Imports-partners-title>Italy</factbook:Imports-partners-title>
+				<factbook:Imports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">8.3</factbook:Imports-partners-data>
+			</factbook:Imports-partners>
+		</factbook:has_imports-partners>
+		<factbook:has_imports-partners>
+			<factbook:Imports-partners factbook:date="2005">
+				<factbook:Imports-partners-title>Spain</factbook:Imports-partners-title>
+				<factbook:Imports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">7</factbook:Imports-partners-data>
+			</factbook:Imports-partners>
+		</factbook:has_imports-partners>
+		<factbook:has_imports-partners>
+			<factbook:Imports-partners factbook:date="2005">
+				<factbook:Imports-partners-title>Netherlands</factbook:Imports-partners-title>
+				<factbook:Imports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">6.6</factbook:Imports-partners-data>
+			</factbook:Imports-partners>
+		</factbook:has_imports-partners>
+		<factbook:has_imports-partners>
+			<factbook:Imports-partners factbook:date="2005">
+				<factbook:Imports-partners-title>UK</factbook:Imports-partners-title>
+				<factbook:Imports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">5.9</factbook:Imports-partners-data>
+			</factbook:Imports-partners>
+		</factbook:has_imports-partners>
+		<factbook:has_imports-partners>
+			<factbook:Imports-partners factbook:date="2005">
+				<factbook:Imports-partners-title>US</factbook:Imports-partners-title>
+				<factbook:Imports-partners-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">5.1</factbook:Imports-partners-data>
+			</factbook:Imports-partners>
+		</factbook:has_imports-partners>
+		<factbook:has_reservesofforeignexchangeandgold>
+			<factbook:Reservesofforeignexchangeandgold factbook:date-est="2006">
+				<factbook:Reservesofforeignexchangeandgold-data>98540000000</factbook:Reservesofforeignexchangeandgold-data>
+			</factbook:Reservesofforeignexchangeandgold>
+		</factbook:has_reservesofforeignexchangeandgold>
+		<factbook:has_debt-external>
+			<factbook:Debt-external>
+				<factbook:Debt-external-data>$3461000000000 (30 June 2006)</factbook:Debt-external-data>
+			</factbook:Debt-external>
+		</factbook:has_debt-external>
+		<factbook:has_economicaid-donor>
+			<factbook:Economicaid-donor factbook:date="2006">
+				<factbook:Economicaid-donor-data>10100000000</factbook:Economicaid-donor-data>
+			</factbook:Economicaid-donor>
+		</factbook:has_economicaid-donor>
+		<factbook:has_currency-code>
+			<factbook:Currency-code>
+				<factbook:Currency-code-data>euro (EUR)</factbook:Currency-code-data>
+			</factbook:Currency-code>
+		</factbook:has_currency-code>
+		<factbook:has_currency-code--note>
+			<factbook:Currency-code--note>
+				<factbook:Currency-code--note-data>on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries</factbook:Currency-code--note-data>
+			</factbook:Currency-code--note>
+		</factbook:has_currency-code--note>
+		<factbook:has_currencycode>
+			<factbook:Currencycode>
+				<factbook:Currencycode-data>EUR</factbook:Currencycode-data>
+			</factbook:Currencycode>
+		</factbook:has_currencycode>
+		<factbook:has_exchangerates>
+			<factbook:Exchangerates>
+				<factbook:Exchangerates-from>euros</factbook:Exchangerates-from>
+				<factbook:Exchangerates-to>US dollar</factbook:Exchangerates-to>
+
+				<factbook:Exchangerates-data>
+					<factbook:Exchangerates-rate factbook:date="2006">
+						<factbook:Exchangerates-rate-data>0.7964</factbook:Exchangerates-rate-data>
+					</factbook:Exchangerates-rate>
+				</factbook:Exchangerates-data>
+				<factbook:Exchangerates-data>
+					<factbook:Exchangerates-rate factbook:date="2005">
+						<factbook:Exchangerates-rate-data>0.8041</factbook:Exchangerates-rate-data>
+					</factbook:Exchangerates-rate>
+				</factbook:Exchangerates-data>
+				<factbook:Exchangerates-data>
+					<factbook:Exchangerates-rate factbook:date="2004">
+						<factbook:Exchangerates-rate-data>0.8054</factbook:Exchangerates-rate-data>
+					</factbook:Exchangerates-rate>
+				</factbook:Exchangerates-data>
+				<factbook:Exchangerates-data>
+					<factbook:Exchangerates-rate factbook:date="2003">
+						<factbook:Exchangerates-rate-data>0.886</factbook:Exchangerates-rate-data>
+					</factbook:Exchangerates-rate>
+				</factbook:Exchangerates-data>
+				<factbook:Exchangerates-data>
+					<factbook:Exchangerates-rate factbook:date="2002">
+						<factbook:Exchangerates-rate-data>1.0626</factbook:Exchangerates-rate-data>
+					</factbook:Exchangerates-rate>
+				</factbook:Exchangerates-data>
+			</factbook:Exchangerates>
+		</factbook:has_exchangerates>
+		<factbook:has_fiscalyear>
+			<factbook:Fiscalyear>
+				<factbook:Fiscalyear-data>calendar year</factbook:Fiscalyear-data>
+			</factbook:Fiscalyear>
+		</factbook:has_fiscalyear>
+		<factbook:has_telephones-mainlinesinuse>
+			<factbook:Telephones-mainlinesinuse factbook:date="2005">
+				<factbook:Telephones-mainlinesinuse-data>38433000; 38433000 (metropolitan France)</factbook:Telephones-mainlinesinuse-data>
+			</factbook:Telephones-mainlinesinuse>
+		</factbook:has_telephones-mainlinesinuse>
+		<factbook:has_telephones-mobilecellular>
+			<factbook:Telephones-mobilecellular factbook:date="2005">
+				<factbook:Telephones-mobilecellular-data>49370000; 49370000 (metropolitan France)</factbook:Telephones-mobilecellular-data>
+			</factbook:Telephones-mobilecellular>
+		</factbook:has_telephones-mobilecellular>
+		<factbook:has_telephonesystem-generalassessment>
+			<factbook:Telephonesystem-generalassessment>
+				<factbook:Telephonesystem-generalassessment-data>highly developed</factbook:Telephonesystem-generalassessment-data>
+			</factbook:Telephonesystem-generalassessment>
+		</factbook:has_telephonesystem-generalassessment>
+		<factbook:has_telephonesystem-domestic>
+			<factbook:Telephonesystem-domestic>
+				<factbook:Telephonesystem-domestic-data>extensive cable and microwave radio relay; extensive introduction of fiber-optic cable; domestic satellite system</factbook:Telephonesystem-domestic-data>
+			</factbook:Telephonesystem-domestic>
+		</factbook:has_telephonesystem-domestic>
+		<factbook:has_telephonesystem-international>
+			<factbook:Telephonesystem-international>
+				<factbook:Telephonesystem-international-data>country code - 33; satellite earth stations - 2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat (Atlantic Ocean region); HF radiotelephone communications with more than 20 countries</factbook:Telephonesystem-international-data>
+			</factbook:Telephonesystem-international>
+		</factbook:has_telephonesystem-international>
+		<factbook:has_telephonesystem-overseasdepartments>
+			<factbook:Telephonesystem-overseasdepartments>
+				<factbook:Telephonesystem-overseasdepartments-data>country codes: French Guiana - 594; Guadeloupe - 590; Martinique - 596; Reunion - 262</factbook:Telephonesystem-overseasdepartments-data>
+			</factbook:Telephonesystem-overseasdepartments>
+		</factbook:has_telephonesystem-overseasdepartments>
+		<factbook:has_radiobroadcaststations>
+			<factbook:Radiobroadcaststations factbook:date="1998">
+				<factbook:Radiobroadcaststations-data>AM 41, FM about 3500 (this figure is an approximation and includes many repeaters), shortwave 2</factbook:Radiobroadcaststations-data>
+			</factbook:Radiobroadcaststations>
+		</factbook:has_radiobroadcaststations>
+		<factbook:has_radios>
+			<factbook:Radios factbook:date="1997">
+				<factbook:Radios-data>55300000</factbook:Radios-data>
+			</factbook:Radios>
+		</factbook:has_radios>
+		<factbook:has_televisionbroadcaststations>
+			<factbook:Televisionbroadcaststations factbook:date="1995">
+				<factbook:Televisionbroadcaststations-data>584 (plus 9676 repeaters)</factbook:Televisionbroadcaststations-data>
+			</factbook:Televisionbroadcaststations>
+		</factbook:has_televisionbroadcaststations>
+		<factbook:has_televisions>
+			<factbook:Televisions factbook:date="1997">
+				<factbook:Televisions-data>34800000</factbook:Televisions-data>
+			</factbook:Televisions>
+		</factbook:has_televisions>
+		<factbook:has_internetcountrycode>
+			<factbook:Internetcountrycode>
+				<factbook:Internetcountrycode-data>metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Reunion - .re</factbook:Internetcountrycode-data>
+			</factbook:Internetcountrycode>
+		</factbook:has_internetcountrycode>
+		<factbook:has_internethosts>
+			<factbook:Internethosts factbook:date="2006">
+				<factbook:Internethosts-data>3149000; 3149000 (metropolitan France)</factbook:Internethosts-data>
+			</factbook:Internethosts>
+		</factbook:has_internethosts>
+		<factbook:has_internetserviceproviders-isps>
+			<factbook:InternetServiceProviders-ISPs factbook:date="2000">
+				<factbook:InternetServiceProviders-ISPs-data>62</factbook:InternetServiceProviders-ISPs-data>
+			</factbook:InternetServiceProviders-ISPs>
+		</factbook:has_internetserviceproviders-isps>
+		<factbook:has_internetusers>
+			<factbook:Internetusers factbook:date="2006">
+				<factbook:Internetusers-data>29945000; 29945000 (metropolitan France)</factbook:Internetusers-data>
+			</factbook:Internetusers>
+		</factbook:has_internetusers>
+		<factbook:has_airports-total>
+			<factbook:Airports-total>
+				<factbook:Airports-total-data>501</factbook:Airports-total-data>
+			</factbook:Airports-total>
+		</factbook:has_airports-total>
+		<factbook:has_airports-metropolitanfrance>
+			<factbook:Airports-metropolitanFrance factbook:date="2006">
+				<factbook:Airports-metropolitanFrance-data>477</factbook:Airports-metropolitanFrance-data>
+			</factbook:Airports-metropolitanFrance>
+		</factbook:has_airports-metropolitanfrance>
+		<factbook:has_airports-withpavedrunways-total>
+			<factbook:Airports-withpavedrunways-total>
+				<factbook:Airports-withpavedrunways-total-data>292 (metropolitan France) 15 (overseas departments)</factbook:Airports-withpavedrunways-total-data>
+			</factbook:Airports-withpavedrunways-total>
+		</factbook:has_airports-withpavedrunways-total>
+		<factbook:has_airports-withpavedrunways-over3047m>
+			<factbook:Airports-withpavedrunways-over3047m>
+				<factbook:Airports-withpavedrunways-over3047m-data>13 (metropolitan France) 3 (overseas departments)</factbook:Airports-withpavedrunways-over3047m-data>
+			</factbook:Airports-withpavedrunways-over3047m>
+		</factbook:has_airports-withpavedrunways-over3047m>
+		<factbook:has_airports-withpavedrunways-2438to3047m>
+			<factbook:Airports-withpavedrunways-2438to3047m>
+				<factbook:Airports-withpavedrunways-2438to3047m-data>28 (metropolitan France) 1 (overseas departments)</factbook:Airports-withpavedrunways-2438to3047m-data>
+			</factbook:Airports-withpavedrunways-2438to3047m>
+		</factbook:has_airports-withpavedrunways-2438to3047m>
+		<factbook:has_airports-withpavedrunways-1524to2437m>
+			<factbook:Airports-withpavedrunways-1524to2437m>
+				<factbook:Airports-withpavedrunways-1524to2437m-data>96 (metropolitan France)</factbook:Airports-withpavedrunways-1524to2437m-data>
+			</factbook:Airports-withpavedrunways-1524to2437m>
+		</factbook:has_airports-withpavedrunways-1524to2437m>
+		<factbook:has_airports-withpavedrunways-914to1523m>
+			<factbook:Airports-withpavedrunways-914to1523m>
+				<factbook:Airports-withpavedrunways-914to1523m-data>81 (metropolitan France) 5 (overseas departments)</factbook:Airports-withpavedrunways-914to1523m-data>
+			</factbook:Airports-withpavedrunways-914to1523m>
+		</factbook:has_airports-withpavedrunways-914to1523m>
+		<factbook:has_airports-withpavedrunways-under914m>
+			<factbook:Airports-withpavedrunways-under914m factbook:date="2006">
+				<factbook:Airports-withpavedrunways-under914m-data>74 (metropolitan France) 6 (overseas departments)</factbook:Airports-withpavedrunways-under914m-data>
+			</factbook:Airports-withpavedrunways-under914m>
+		</factbook:has_airports-withpavedrunways-under914m>
+		<factbook:has_airports-withunpavedrunways-total>
+			<factbook:Airports-withunpavedrunways-total>
+				<factbook:Airports-withunpavedrunways-total-data>185 (metropolitan France) 9 (overseas departments)</factbook:Airports-withunpavedrunways-total-data>
+			</factbook:Airports-withunpavedrunways-total>
+		</factbook:has_airports-withunpavedrunways-total>
+		<factbook:has_airports-withunpavedrunways-1524to2437m>
+			<factbook:Airports-withunpavedrunways-1524to2437m>
+				<factbook:Airports-withunpavedrunways-1524to2437m-data>4 (metropolitan France)</factbook:Airports-withunpavedrunways-1524to2437m-data>
+			</factbook:Airports-withunpavedrunways-1524to2437m>
+		</factbook:has_airports-withunpavedrunways-1524to2437m>
+		<factbook:has_airports-withunpavedrunways-914to1523m>
+			<factbook:Airports-withunpavedrunways-914to1523m>
+				<factbook:Airports-withunpavedrunways-914to1523m-data>73 (metropolitan France) 2 (overseas departments)</factbook:Airports-withunpavedrunways-914to1523m-data>
+			</factbook:Airports-withunpavedrunways-914to1523m>
+		</factbook:has_airports-withunpavedrunways-914to1523m>
+		<factbook:has_airports-withunpavedrunways-under914m>
+			<factbook:Airports-withunpavedrunways-under914m factbook:date="2006">
+				<factbook:Airports-withunpavedrunways-under914m-data>108 (metropolitan France) 7 (overseas departments)</factbook:Airports-withunpavedrunways-under914m-data>
+			</factbook:Airports-withunpavedrunways-under914m>
+		</factbook:has_airports-withunpavedrunways-under914m>
+		<factbook:has_heliports>
+			<factbook:Heliports factbook:date="2006">
+				<factbook:Heliports-data>3</factbook:Heliports-data>
+			</factbook:Heliports>
+		</factbook:has_heliports>
+		<factbook:has_pipelines>
+			<factbook:Pipelines factbook:date="2006">
+				<factbook:Pipelines-title>gas</factbook:Pipelines-title>
+				<factbook:Pipelines-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">14588</factbook:Pipelines-data>
+			</factbook:Pipelines>
+		</factbook:has_pipelines>
+		<factbook:has_pipelines>
+			<factbook:Pipelines factbook:date="2006">
+				<factbook:Pipelines-title>oil</factbook:Pipelines-title>
+				<factbook:Pipelines-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">3024</factbook:Pipelines-data>
+			</factbook:Pipelines>
+		</factbook:has_pipelines>
+		<factbook:has_pipelines>
+			<factbook:Pipelines factbook:date="2006">
+				<factbook:Pipelines-title>refined products</factbook:Pipelines-title>
+				<factbook:Pipelines-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">4889</factbook:Pipelines-data>
+			</factbook:Pipelines>
+		</factbook:has_pipelines>
+		<factbook:has_railways-total>
+			<factbook:Railways-total>
+				<factbook:Railways-total-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#km">29085</factbook:Railways-total-data>
+			</factbook:Railways-total>
+		</factbook:has_railways-total>
+		<factbook:has_railways-standardgauge>
+			<factbook:Railways-standardgauge>
+				<factbook:Railways-standardgauge-data>28918 km 1.435-m gauge (14481 km electrified)</factbook:Railways-standardgauge-data>
+			</factbook:Railways-standardgauge>
+		</factbook:has_railways-standardgauge>
+		<factbook:has_railways-narrowgauge>
+			<factbook:Railways-narrowgauge factbook:date="2006">
+				<factbook:Railways-narrowgauge>167 km 1.000-m gauge</factbook:Railways-narrowgauge>
+			</factbook:Railways-narrowgauge>
+		</factbook:has_railways-narrowgauge>
+		<factbook:has_roadways-total>
+			<factbook:Roadways-total>
+				<factbook:Roadways-total-data>956303 km (includes 5083 km of roads in the overseas departments)</factbook:Roadways-total-data>
+			</factbook:Roadways-total>
+		</factbook:has_roadways-total>
+		<factbook:has_roadways-paved>
+			<factbook:Roadways-paved factbook:date="2004">
+				<factbook:Roadways-paved-data>951220 km (metropolitan France; including 10490 km of expressways)</factbook:Roadways-paved-data>
+			</factbook:Roadways-paved>
+		</factbook:has_roadways-paved>
+		<factbook:has_waterways-metropolitanfrance>
+			<factbook:Waterways-metropolitanFrance>
+				<factbook:Waterways-metropolitanFrance-data>8500 km (1686 km accessible to craft of 3000 metric tons)</factbook:Waterways-metropolitanFrance-data>
+			</factbook:Waterways-metropolitanFrance>
+		</factbook:has_waterways-metropolitanfrance>
+		<factbook:has_waterways-frenchguiana>
+			<factbook:Waterways-FrenchGuiana factbook:date="2000">
+				<factbook:Waterways-FrenchGuiana-data>3760 km (460 km navigable by small oceangoing vessels and coastal and river steamers, 3300 km by native craft)</factbook:Waterways-FrenchGuiana-data>
+			</factbook:Waterways-FrenchGuiana>
+		</factbook:has_waterways-frenchguiana>
+		<factbook:has_merchantmarine-total>
+			<factbook:Merchantmarine-total>
+				<factbook:Merchantmarine-total-data>61</factbook:Merchantmarine-total-data>
+			</factbook:Merchantmarine-total>
+		</factbook:has_merchantmarine-total>
+		<factbook:has_merchantmarine-total-grt>
+			<factbook:Merchantmarine-total-grt>
+				<factbook:Merchantmarine-total-grt-data>875777</factbook:Merchantmarine-total-grt-data>
+			</factbook:Merchantmarine-total-grt>
+		</factbook:has_merchantmarine-total-grt>
+		<factbook:has_merchantmarine-total-dwt>
+			<factbook:Merchantmarine-total-dwt>
+				<factbook:Merchantmarine-total-dwt-data>1318605</factbook:Merchantmarine-total-dwt-data>
+			</factbook:Merchantmarine-total-dwt>
+		</factbook:has_merchantmarine-total-dwt>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>cargo</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">1</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>chemical tanker</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">3</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>container</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">5</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>liquefied gas</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">6</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>passenger</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">3</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>cargo</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">32</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>petroleum tanker</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">10</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-bytype>
+			<factbook:Merchantmarine-bytype factbook:date="2000">
+				<factbook:Merchantmarine-bytype-title>roll off</factbook:Merchantmarine-bytype-title>
+				<factbook:Merchantmarine-bytype-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#">1</factbook:Merchantmarine-bytype-data>
+			</factbook:Merchantmarine-bytype>
+		</factbook:has_merchantmarine-bytype>
+		<factbook:has_merchantmarine-foreign-owned>
+			<factbook:Merchantmarine-foreign-owned>
+				<factbook:Merchantmarine-foreign-owned-data>13 (Denmark 1, Hong Kong 1, Italy 2, Monaco 1, Norway 1, NZ 1, Singapore 2, Sweden 2, Switzerland 2)</factbook:Merchantmarine-foreign-owned-data>
+			</factbook:Merchantmarine-foreign-owned>
+		</factbook:has_merchantmarine-foreign-owned>
+		<factbook:has_merchantmarine-registeredinothercountries>
+			<factbook:Merchantmarine-registeredinothercountries>
+				<factbook:Merchantmarine-registeredinothercountries-data>154 (Antigua and Barbuda 1, Australia 3, Bahamas 37, Bermuda 1, Cameroon 1, French Polynesia 1, French Southern and Antarctic Lands	36, Gibraltar 1, Indonesia 1, Isle of Man 2, Italy 1, South Korea 12, Liberia 3, Luxembourg 14, Malta 6, Mexico 1, Morocco 1, Panama 15, Saint Vincent and the Grenadines 8, UK 4, Wallis and Futuna 5)</factbook:Merchantmarine-registeredinothercountries-data>
+			</factbook:Merchantmarine-registeredinothercountries>
+		</factbook:has_merchantmarine-registeredinothercountries>
+		<factbook:has_merchantmarine-note>
+			<factbook:Merchantmarine-note factbook:date="2006">
+				<factbook:Merchantmarine-note-data>Reunion owns one ship registered in the Bahamas</factbook:Merchantmarine-note-data>
+			</factbook:Merchantmarine-note>
+		</factbook:has_merchantmarine-note>
+		<factbook:has_portsandterminals>
+			<factbook:Portsandterminals>
+				<factbook:Portsandterminals-data>Basse-Terre (Guadeloupe), Bordeaux, Calais, Degrad de Cannes (French Guiana), Dunkerque, Fort-de-France (Martinique), Gustavia (Guadeloupe), La Pallice, La Trinite (Martinique), Le Havre, Le Port (Reunion), Marin (Martinique), Marseille, Nantes, Paris, Pointe-a-Pitre (Guadeloupe), Rouen, Strasbourg</factbook:Portsandterminals-data>
+			</factbook:Portsandterminals>
+		</factbook:has_portsandterminals>
+		<factbook:has_militarybranches>
+			<factbook:Militarybranches factbook:date="2006">
+				<factbook:Militarybranches>Army (includes marines</factbook:Militarybranches>
+				<factbook:Militarybranches>Foreign Legion</factbook:Militarybranches>
+				<factbook:Militarybranches>light aviation)</factbook:Militarybranches>
+				<factbook:Militarybranches>Navy (includes naval air)</factbook:Militarybranches>
+				<factbook:Militarybranches>Air Force (includes air defense)</factbook:Militarybranches>
+				<factbook:Militarybranches>National Gendarmerie</factbook:Militarybranches>
+			</factbook:Militarybranches>
+		</factbook:has_militarybranches>
+		<factbook:has_militaryserviceageandobligation>
+			<factbook:Militaryserviceageandobligation factbook:date="2001">
+				<factbook:Militaryserviceageandobligation-data>17 years of age for voluntary military service; conscription ended in the 1990s; women serve in non-combat military posts</factbook:Militaryserviceageandobligation-data>
+			</factbook:Militaryserviceageandobligation>
+		</factbook:has_militaryserviceageandobligation>
+		<factbook:has_manpoweravailableformilitaryservice-malesage18-49>
+			<factbook:Manpoweravailableformilitaryservice-malesage18-49>
+				<factbook:Manpoweravailableformilitaryservice-malesage18-49-data>13676509</factbook:Manpoweravailableformilitaryservice-malesage18-49-data>
+			</factbook:Manpoweravailableformilitaryservice-malesage18-49>
+		</factbook:has_manpoweravailableformilitaryservice-malesage18-49>
+		<factbook:has_manpoweravailableformilitaryservice-femalesage18-49>
+			<factbook:Manpoweravailableformilitaryservice-femalesage18-49 factbook:date-est="2005">
+				<factbook:Manpoweravailableformilitaryservice-femalesage18-49-data>13504539</factbook:Manpoweravailableformilitaryservice-femalesage18-49-data>
+			</factbook:Manpoweravailableformilitaryservice-femalesage18-49>
+		</factbook:has_manpoweravailableformilitaryservice-femalesage18-49>
+		<factbook:has_manpowerfitformilitaryservice-malesage18-49>
+			<factbook:Manpowerfitformilitaryservice-malesage18-49>
+				<factbook:Manpowerfitformilitaryservice-malesage18-49-data>11262661</factbook:Manpowerfitformilitaryservice-malesage18-49-data>
+			</factbook:Manpowerfitformilitaryservice-malesage18-49>
+		</factbook:has_manpowerfitformilitaryservice-malesage18-49>
+		<factbook:has_manpowerfitformilitaryservice-femalesage18-49>
+			<factbook:Manpowerfitformilitaryservice-femalesage18-49 factbook:date-est="2005">
+				<factbook:Manpowerfitformilitaryservice-femalesage18-49-data>11079472</factbook:Manpowerfitformilitaryservice-femalesage18-49-data>
+			</factbook:Manpowerfitformilitaryservice-femalesage18-49>
+		</factbook:has_manpowerfitformilitaryservice-femalesage18-49>
+		<factbook:has_manpowerreachingmilitaryserviceageannually-malesage18-49>
+			<factbook:Manpowerreachingmilitaryserviceageannually-malesage18-49>
+				<factbook:Manpowerreachingmilitaryserviceageannually-malesage18-49-data>389204</factbook:Manpowerreachingmilitaryserviceageannually-malesage18-49-data>
+			</factbook:Manpowerreachingmilitaryserviceageannually-malesage18-49>
+		</factbook:has_manpowerreachingmilitaryserviceageannually-malesage18-49>
+		<factbook:has_manpowerreachingmilitaryserviceageannually-femalesage18-49>
+			<factbook:Manpowerreachingmilitaryserviceageannually-femalesage18-49 factbook:date-est="2005">
+				<factbook:Manpowerreachingmilitaryserviceageannually-femalesage18-49-data>372719</factbook:Manpowerreachingmilitaryserviceageannually-femalesage18-49-data>
+			</factbook:Manpowerreachingmilitaryserviceageannually-femalesage18-49>
+		</factbook:has_manpowerreachingmilitaryserviceageannually-femalesage18-49>
+		<factbook:has_militaryexpenditures-dollarfigure>
+			<factbook:Militaryexpenditures-dollarfigure factbook:date="2005">
+				<factbook:Militaryexpenditures-dollarfigure-data>$45000000000 FY06</factbook:Militaryexpenditures-dollarfigure-data>
+			</factbook:Militaryexpenditures-dollarfigure>
+		</factbook:has_militaryexpenditures-dollarfigure>
+		<factbook:has_militaryexpenditures-percentofgdp>
+			<factbook:Militaryexpenditures-percentofGDP factbook:date-est="2005">
+				<factbook:Militaryexpenditures-percentofGDP-data rdf:datatype="http://linuxproj.ecs.soton.ac.uk/cia/units/#pc">2.6</factbook:Militaryexpenditures-percentofGDP-data>
+			</factbook:Militaryexpenditures-percentofGDP>
+		</factbook:has_militaryexpenditures-percentofgdp>
+		<factbook:has_disputes-international>
+			<factbook:Disputes-international>
+				<factbook:Disputes-international-data>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</factbook:Disputes-international-data>
+			</factbook:Disputes-international>
+		</factbook:has_disputes-international>
+		<factbook:has_illicitdrugs-metropolitanfrance>
+			<factbook:Illicitdrugs-metropolitanFrance>
+				<factbook:Illicitdrugs-metropolitanFrance-data>transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics</factbook:Illicitdrugs-metropolitanFrance-data>
+			</factbook:Illicitdrugs-metropolitanFrance>
+		</factbook:has_illicitdrugs-metropolitanfrance>
+		<factbook:has_illicitdrugs-frenchguiana>
+			<factbook:Illicitdrugs-FrenchGuiana>
+				<factbook:Illicitdrugs-FrenchGuiana-data>small amount of marijuana grown for local consumption; minor transshipment point to Europe</factbook:Illicitdrugs-FrenchGuiana-data>
+			</factbook:Illicitdrugs-FrenchGuiana>
+		</factbook:has_illicitdrugs-frenchguiana>
+		<factbook:has_illicitdrugs-martinique>
+			<factbook:Illicitdrugs-Martinique>
+				<factbook:Illicitdrugs-Martinique-data>transshipment point for cocaine and marijuana bound for the US and Europe</factbook:Illicitdrugs-Martinique-data>
+			</factbook:Illicitdrugs-Martinique>
+		</factbook:has_illicitdrugs-martinique>
+		<factbook:has-map>http://www.cia.gov/cia/publications/factbook/maps/source/fr-map.gif</factbook:has-map>
+		<factbook:has-flag>http://www.cia.gov/cia/publications/factbook/flags/source/fr-flag.gif</factbook:has-flag>
+		<factbook:has-large-flag>http://www.cia.gov/cia/publications/factbook/flags/source/fr-lgflag.gif</factbook:has-large-flag>
+		<factbook:has-url>http://www.cia.gov/cia/publications/factbook/print/source/fr.html</factbook:has-url>
+	</rdf:Description>
+</rdf:RDF>
+

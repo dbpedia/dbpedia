@@ -1,0 +1,7 @@
+{{ DummyTemplate |
+date A = [[February 23]] [[2007]] |
+date B =  [[30 June]], [[1999]] |
+date C = 5 August 812 |
+date D = May 1982 |
+date E =[[12 May]] [[12 BC]]
+}}

@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<!-- 
+Copyright (C) 2009 Philipp Heim, Sebastian Hellmann, Jens Lehmann, Steffen Lohmann and Timo Stegemann
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.	
+-->
+
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" 
+				xmlns:fc="com.adobe.flex.extras.controls.springgraph.*"
+				xmlns:hc="com.hillelcoren.components.*"
+				xmlns:reflector="com.rictus.reflector.*"
+				xmlns:code="http://code.google.com/p/flexlib/"
+				xmlns:bbp="components.*"
+				xmlns:local="*"
+				layout="absolute" verticalAlign="middle" backgroundColor="white" 
+				paddingLeft="2" paddingBottom="2" paddingRight="2" paddingTop="2"
+				fontFamily="Verdana" fontSize="9"
+				
+				preinitialize="preInitHandler(event)"
+				creationComplete="setup()" >
+					
+	<mx:Script source="Source.as"/>
+	<mx:Style source="../assets/css/styles.css"/>
+	
+	<mx:VBox id="mainVBox" width="100%" height="100%" backgroundColor="#f8f8f8" paddingBottom="0" paddingTop="0" paddingRight="0" paddingLeft="0">
+		
+		<mx:HDividedBox id="hdivbox" width="100%" height="100%" liveDragging="true" paddingBottom="2" paddingTop="2" paddingRight="2" paddingLeft="2">
+			
+			<bbp:ButtonBarPanel id="findRelationPanel" width="300" height="100%" title="Find Relations" buttons="{getButtons()}" >
+				<mx:TabNavigator width="100%" height="100%" id="tn" tabWidth="{tn.width/2}" cornerRadius="0" borderThickness="0" horizontalAlign="center" >
+					<mx:VBox id="tab1" label="between" width="100%" horizontalScrollPolicy="off" verticalGap="0" >
+						
+						<!--<mx:VBox width="100%" verticalGap="0" >-->
+					
+						<mx:Form width="100%" paddingLeft="6" paddingRight="6" paddingTop="0">
+							<mx:Repeater id="inputFieldRepeater" dataProvider="{inputFields}" width="100%" >
+								<mx:FormItem width="100%" label="({inputFieldRepeater.currentIndex + 1})" paddingRight="0">	<!-- label="{(inputFieldRepeater.currentIndex >= 1) ? 'and:' : 'Between:'}" -->
+									<mx:HBox width="100%" verticalGap="2" horizontalGap="2">
+										<hc:AutoComplete id="inputField" width="{findRelationPanel.width - 88}" dataProvider="{new ArrayCollection()}" labelField="label" matchType="anyPart" 
+												prompt="Relations between what?" 
+												searchChange="handleAutoCompleteSearchChange(event.currentTarget)"
+												isStrict="true" style="{ AutoComplete.STYLE_FACEBOOK }" backspaceAction="focus" 
+												isBrowseable="false" isMultiSelect="false" allowDuplicates="false" areNewItemsEditable="true"
+												dropDownItemRenderer="AutoCompleteDDRenderer" />
+										
+										<mx:Button id="removeInputFieldButton" toolTip="Remove Input Field" click="removeInputField(event.currentTarget.repeaterIndex)" skin="skin.CloseButtonSkin" />
+									</mx:HBox>
+	
+								</mx:FormItem>
+							</mx:Repeater> 
+							<mx:FormItem width="100%" defaultButton="{findRelationButton}">
+								<mx:HBox width="100%"  paddingRight="0" >
+									<mx:Button id="addInputFieldButton" height="20" label="add" paddingLeft="2" paddingRight="2" toolTip="Add Input Field" click="addNewInputField()" skin="skin.EmptyButtonSkin" />
+									<mx:Spacer width="100%" />
+									<mx:Button id="clearButton" label="clear" height="20"  click="{clear();}" paddingLeft="2" paddingRight="2" focusEnabled="false" skin="skin.EmptyButtonSkin"/>
+									<!-- <mx:Button id="clearAll" label="clear all" click="clear();" height="20" enabled="{false}"/>	 --> <!-- TODO: sinnvolle sperre einstellen! -->
+									<mx:Button id="findRelationButton" label="Find Relations"  height="20" click="callLater(findRelations)" paddingLeft="6" paddingRight="6"/>
+								</mx:HBox>
+							</mx:FormItem>
+						</mx:Form>
+						
+						<mx:HRule width="100%"/>
+		
+						<!-- STATUS INFO -->
+						<!-- <mx:HBox paddingBottom="2" paddingTop="2" paddingRight="2" paddingLeft="2" horizontalGap="2" width="100%" backgroundColor="#ffffff">
+							<mx:Text id="statusLabel" text="Status: Idle"/>
+							
+						</mx:HBox>
+						
+						<mx:HRule width="100%"/> -->
+							
+						<mx:VDividedBox id="vdivbox" visible="{_showOptions}" width="100%" height="100%" liveDragging="true" paddingBottom="0" paddingTop="0" paddingRight="0" paddingLeft="0">
+							<mx:VBox id="filterOptions" width="100%" height="100%" paddingBottom="2" paddingTop="2" paddingRight="2" paddingLeft="2" horizontalGap="2">
+								<!-- FILTER OPTIONS -->
+								<mx:Label fontWeight="bold" text='Filter by: '/>
+								<mx:TabNavigator width="100%" height="100%" id="tn2" tabWidth="{tn2.width/3}" cornerRadius="0" borderThickness="0" horizontalAlign="center" >
+									<mx:VBox id="tab11" label="lengths">
+										<mx:DataGrid id="dgL" height="100%" width="100%" rowCount="4" dataProvider="{_pathLengths}" selectedItem="{selectedPathLength}" selectionColor="0xCDFFC1" rollOverColor="0xE3FFD6" change="{selectedPathLength = dgL.selectedItem as PathLength}" variableRowHeight="true">
+											<mx:columns>
+												<mx:DataGridColumn dataField="label" wordWrap="true" headerStyleName="myHeader" headerText="number of nodes in between"></mx:DataGridColumn>
+												<mx:DataGridColumn width="50" dataField="stringNumOfPaths" headerStyleName="myHeader" headerText="#num"></mx:DataGridColumn>
+												<mx:DataGridColumn width="35" dataField="isVisible" headerStyleName="myHeader" headerText="vi" itemRenderer="graphElements.VisibilityRenderer"></mx:DataGridColumn>
+											</mx:columns>
+										</mx:DataGrid>
+										
+										<!--<code:HSlider id="pathLengthRange" allowThumbOverlap="true" thumbCount="2" values="[0,0]" showDataTip="false" minimum="0" maximum="1" snapInterval="1" labels="[0, 1]"
+										  liveDragging="true" lockRegionsWhileDragging="true"
+										  change="emptyToDrawPaths(); delayedDrawing = false; pathLengthRangeChanged(pathLengthRange.values[0], pathLengthRange.values[1]);" width="100%" 
+										  showTrackHighlight="true" tickInterval="1" />-->
+									</mx:VBox>
+									
+									<mx:VBox id="tab2" label="concepts">
+										<mx:DataGrid id="dgC" height="100%" width="100%" rowCount="4" dataProvider="{_concepts}" selectedItem="{selectedConcept}" selectionColor="0xCDFFC1" rollOverColor="0xE3FFD6" change="{selectedConcept = dgC.selectedItem as Concept}" variableRowHeight="true">
+											<mx:columns>
+												<mx:DataGridColumn dataField="label" headerStyleName="myHeader" wordWrap="true" headerText="concept of nodes"></mx:DataGridColumn>
+												<mx:DataGridColumn width="50" dataField="stringNumOfElements" headerStyleName="myHeader" headerText="#num"></mx:DataGridColumn>
+												<mx:DataGridColumn width="35" dataField="isVisible" headerStyleName="myHeader" headerText="vi" itemRenderer="graphElements.VisibilityRenderer"></mx:DataGridColumn>
+											</mx:columns>
+										</mx:DataGrid>
+									</mx:VBox>
+									
+									<mx:VBox id="tab3" label="types">
+										<mx:DataGrid id="dgT" height="100%" width="100%" rowCount="4" dataProvider="{_relTypes}" selectedItem="{selectedRelType}" selectionColor="0xCDFFC1" rollOverColor="0xE3FFD6" change="{selectedRelType = dgT.selectedItem as RelType}" variableRowHeight="true">
+											<mx:columns>
+												<mx:DataGridColumn dataField="label" headerStyleName="myHeader" wordWrap="true" headerText="relation type"></mx:DataGridColumn>
+												<mx:DataGridColumn width="50" dataField="stringNumOfRelations" headerStyleName="myHeader" headerText="#num"></mx:DataGridColumn>
+												<mx:DataGridColumn width="35" dataField="isVisible" headerStyleName="myHeader" headerText="vi" itemRenderer="graphElements.VisibilityRenderer"></mx:DataGridColumn>
+											</mx:columns>
+										</mx:DataGrid>
+									</mx:VBox>
+									
+								</mx:TabNavigator>
+							</mx:VBox>
+							
+							<!--<mx:VBox id="filterOptions"  width="100%" height="100%" paddingBottom="2" paddingTop="2" paddingRight="2" paddingLeft="2" horizontalGap="2">
+								
+								<mx:Label text='Filters: '/>
+								<mx:Label text='a) Show only relations with length in a certain range'/>
+								
+								<code:HSlider id="pathLengthRange" allowThumbOverlap="true" thumbCount="2" values="[0,0]" showDataTip="false" minimum="0" maximum="1" snapInterval="1" labels="[0, 1]"
+								  liveDragging="true" lockRegionsWhileDragging="true"
+								  change="emptyToDrawPaths(); delayedDrawing = false; pathLengthRangeChanged(pathLengthRange.values[0], pathLengthRange.values[1]);" width="100%" 
+								  showTrackHighlight="true" tickInterval="1" />
+								
+								<mx:Spacer height="5"></mx:Spacer>
+								<mx:Label text="b) and connected via certain concepts"/>
+								<mx:DataGrid id="dgC" height="100%" width="100%" rowCount="4" dataProvider="{_concepts}" selectedItem="{selectedConcept}" selectionColor="0xCDFFC1" rollOverColor="0xE3FFD6" change="{selectedConcept = dgC.selectedItem as Concept}" variableRowHeight="true">
+									<mx:columns>
+										<mx:DataGridColumn dataField="label" wordWrap="true" headerText="concept"></mx:DataGridColumn>
+										<mx:DataGridColumn width="50" dataField="numVisibleElements" headerText="#num"></mx:DataGridColumn>
+										<mx:DataGridColumn width="35" dataField="isVisible" headerText="vi" itemRenderer="graphElements.VisibilityRenderer"></mx:DataGridColumn>
+									</mx:columns>
+								</mx:DataGrid>
+							</mx:VBox>-->
+							
+							<!-- TODO: we need a nicer layout!! 
+							visible="{(selectedElement) ? true : false}" -->
+							<!--<mx:VBox id="infobox" width="100%" paddingBottom="2" paddingTop="2" paddingRight="2" paddingLeft="2" height="100%" resize="{imageView.calcIdealImageSize(infobox.height)}"
+								visible="{(selectedElement) ? true : false}">
+								<mx:HBox>
+									<mx:Label truncateToFit="true" width="{findRelationPanel.width - 24 - 68}" fontWeight="bold" fontSize="16" text="{selectedElement.rdfLabel}" /> 
+									<mx:ComboBox id="langCombo" dataProvider="{Languages.getInstance().asDataProvider}" width="60" close="{changeLang();}" />
+								</mx:HBox>
+								<mx:Form id="moreInfos" width="100%" paddingLeft="0" paddingRight="0" paddingBottom="0" paddingTop="0" horizontalGap="0" verticalGap="0" indicatorGap="4">
+									<mx:FormItem label="More Infos:" width="100%" paddingLeft="0" paddingRight="0" paddingBottom="0" paddingTop="0" horizontalGap="0" verticalGap="0">
+										<mx:VBox paddingLeft="0" paddingRight="0" paddingBottom="0" paddingTop="0" horizontalGap="0" verticalGap="0">
+											<mx:Label id="resourceLink" truncateToFit="true"  width="{findRelationPanel.width - 100}" htmlText="{selectedElement.uriLink}" selectable="true" link="openWikipedia(event);" />
+											<mx:Label id="wikiLink" truncateToFit="true"  width="{findRelationPanel.width - 100}" htmlText="{selectedElement.htmlLinkToWikipedia}" selectable="true" link="openWikipedia(event);" visible="({selectedElement.htmlLinkToWikipedia} != null) ? true : false" />
+										</mx:VBox>
+									</mx:FormItem>
+								</mx:Form>
+								
+								<local:ImageView id="imageView" width="{findRelationPanel.width - 24}" image_path="{selectedElement.imageURL}" />
+								<mx:TextArea wordWrap="true" editable="false" borderStyle="none" width="100%" height="100%" htmlText="{selectedElement.abstract}"/>
+							</mx:VBox>-->
+							
+							<local:InfoBox findRelationPanel="{findRelationPanel}" selectedElement="{selectedElement}" />
+							
+						</mx:VDividedBox>
+						
+						<!-- </mx:VBox> -->
+						
+					</mx:VBox>
+					
+					<mx:VBox label="examples" width="100%">
+						<mx:Form width="100%" paddingLeft="6" paddingRight="6" paddingTop="0" paddingBottom="0">
+							<mx:DataGrid id="dgExamples" width="100%" rowCount="10" dataProvider="{_examples}" doubleClickEnabled="true" doubleClick="loadExample(dgExamples.selectedItem.o1, dgExamples.selectedItem.o2, dgExamples.selectedItem.ep)" >
+								<mx:columns>
+									<mx:DataGridColumn dataField="o1Lab" headerText="(1)"> </mx:DataGridColumn>
+									<mx:DataGridColumn dataField="o2Lab" headerText="(2)"> </mx:DataGridColumn>
+									<mx:DataGridColumn dataField="epLab" headerText="in"> </mx:DataGridColumn>
+								</mx:columns>
+							</mx:DataGrid>
+							<mx:FormItem width="100%">
+								<mx:HBox width="100%" paddingLeft="0" paddingRight="0">
+									<mx:Spacer width="100%" />
+									<mx:Button id="loadButton" label="load"  height="20" click="loadExample(dgExamples.selectedItem.o1, dgExamples.selectedItem.o2, dgExamples.selectedItem.ep)"/>
+								</mx:HBox>
+							</mx:FormItem>
+						</mx:Form>
+					</mx:VBox>
+				</mx:TabNavigator>
+			</bbp:ButtonBarPanel>
+			
+			<mx:VBox width="100%" height="100%">
+				
+				<fc:SpringGraph id="sGraph" backgroundColor="#ffffff" height="100%" width="100%" left="0" right="0" top="0" bottom="0" viewFactory="{new ViewFactory()}" edgeRenderer="{new DirectedEdge()}" dataProvider="{graph}"
+					repulsionFactor="0.5">
+						
+						<fc:removeItemEffect>
+							<mx:Fade alphaFrom="1" alphaTo="0" duration="1000"/>				
+						</fc:removeItemEffect>
+						
+						<fc:addItemEffect>
+							<mx:Fade alphaFrom="0" alphaTo="1" duration="2000"/>
+						</fc:addItemEffect>
+						
+				</fc:SpringGraph>
+				
+				<!-- <mx:HDividedBox width="100%" height="100%"> 
+					<fc:Roamer id="roamer" backgroundColor="#ffffff" height="100%" width="100%" bottom="0" viewFactory="{new ViewFactory()}" edgeRenderer="{new DirectedEdge()}" showHistory="true" tidyHistory="false" dataProvider="{graph}"
+						maxDistanceFromCurrent="40" itemLimit="99" repulsionFactor="0.5">
+						
+						<fc:removeItemEffect>
+							<mx:Fade alphaFrom="1" alphaTo="0" duration="1000"/>				
+						</fc:removeItemEffect>
+						
+						<fc:addItemEffect>
+							<mx:Fade alphaFrom="0" alphaTo="1" duration="2000"/>
+						</fc:addItemEffect>
+					</fc:Roamer>
+					
+					 <mx:TextArea id="outputTA" height="100%" /> -->
+				<!-- </mx:HDividedBox> -->
+			</mx:VBox>
+		</mx:HDividedBox>
+	</mx:VBox>
+	
+	<!-- STATUS INFO (New Position)-->
+	<!--mx:Canvas backgroundColor="#cccccc" y="10" x="{mainVBox.width - statusLabel.width - 10}" width="{statusLabel.width}" height="{statusLabel.height}" / -->
+	<mx:ApplicationControlBar id="statusBar" y="10" x="{mainVBox.width - statusBar.width - 10}"
+		paddingBottom="1" paddingLeft="1" paddingRight="1" paddingTop="1" horizontalGap="0"
+		fillAlphas="[0.9, 0.9]" fillColors="[#EEEEEE, #CCCCCC]" dropShadowEnabled="false">
+		
+			<mx:Text id="statusLabel" text="Status: Idle" selectable="false" fontWeight="bold"/>
+			<local:LoadingAnimation id="la" circleRadius="7" dotSize="2" numberOfDots="8"/>
+	</mx:ApplicationControlBar>
+	<mx:Button id="stopDelayed" label="stop delayed graph building" y="{statusBar.height + 10 + 5}" x="{mainVBox.width - stopDelayed.width - 10}" visible="{!(!la.isRotating() || !delayedDrawing)}" click="{delayedDrawing = false;}" />
+	
+</mx:Application>

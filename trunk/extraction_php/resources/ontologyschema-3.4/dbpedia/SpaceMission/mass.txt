@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = mass
+|rdfs:domain = SpaceMission
+|rdfs:range = kilogram
+}}

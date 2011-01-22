@@ -1,0 +1,11 @@
+{{ DBpediaTemplateMapping
+| mapToClass = MusicFestival
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = music_festival_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = years_active | ontologyProperty = Event/startDate }}
+	{{ DBpediaPropertyMapping | templateProperty = years_active | ontologyProperty = Event/endDate }}
+	{{ DBpediaPropertyMapping | templateProperty = dates | ontologyProperty = Event/date }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Event/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

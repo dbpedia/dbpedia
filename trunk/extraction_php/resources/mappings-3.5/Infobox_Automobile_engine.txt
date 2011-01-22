@@ -1,0 +1,85 @@
+{{TemplateMapping
+|mapToClass = AutomobileEngine
+|mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{PropertyMapping | templateProperty = manufacturer | ontologyProperty = manufacturer}}
+	
+	{{PropertyMapping | templateProperty = aka | ontologyProperty = 
+	foaf:name}}
+	
+	{{DateIntervalMapping | templateProperty = production | 
+	startDateOntologyProperty = productionStartDate|
+	endDateOntologyProperty = productionEndDate}}
+		
+	{{DateIntervalMapping | templateProperty = production |
+	startDateOntologyProperty = productionStartYear|
+	endDateOntologyProperty = productionEndYear}}
+
+	{{PropertyMapping | templateProperty = predecessor | ontologyProperty = predecessor}}
+	
+	{{PropertyMapping | templateProperty = successor | ontologyProperty = successor}}
+	
+	{{PropertyMapping | templateProperty = configuration | ontologyProperty = configuration}}
+	
+	{{PropertyMapping | templateProperty = displacement | ontologyProperty = displacement | unit = Volume}}
+	
+	{{PropertyMapping | templateProperty = bore | ontologyProperty = cylinderBore | unit = Length }}
+		
+	{{PropertyMapping | templateProperty = stroke | ontologyProperty = pistonStroke | unit = Length}}
+	
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length}}
+		
+	{{PropertyMapping | templateProperty = width | ontologyProperty = width | unit = Length}}
+	
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length}}
+	
+	{{PropertyMapping | templateProperty = diameter | ontologyProperty = diameter | unit = Length}}
+	
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass}}
+	
+	{{PropertyMapping | templateProperty = block | ontologyProperty = blockAlloy}}
+	
+	{{PropertyMapping | templateProperty = head | ontologyProperty = headAlloy}}
+	
+	{{PropertyMapping | templateProperty = valvetrain | ontologyProperty = valvetrain}}
+	
+	{{PropertyMapping | templateProperty = fuelsystem | ontologyProperty = fuelSystem}}
+	
+	{{PropertyMapping | templateProperty = fueltype | ontologyProperty = fuelType}}
+	
+	{{PropertyMapping | templateProperty = oilsystem | ontologyProperty = oilSystem}}
+	
+	{{PropertyMapping | templateProperty = coolingsystem | ontologyProperty = coolingSystem}}
+	
+	{{PropertyMapping | templateProperty = power | ontologyProperty = powerOutput | unit = Power}}
+	
+	<!-- 
+	specific power has a very special dimension: power per volume.
+	We don't have that dimension yet.
+	{{PropertyMapping | templateProperty = specpower | ontologyProperty = specificPower}}
+	-->
+	
+	{{PropertyMapping | templateProperty = torque  | ontologyProperty = torqueOutput | unit = Torque}}
+	
+	{{PropertyMapping | templateProperty = compression | ontologyProperty = compressionRatio}}
+	
+	{{PropertyMapping | templateProperty = fuelcon | ontologyProperty = fuelConsumption}}
+	
+	<!-- supercharger too few entries 	-->
+	<!-- turbocharger too few entries 	-->
+	<!-- management too few entries  	-->
+	<!-- specfuelcon too few entries 	-->
+	<!-- oilcon too few entries			-->
+	
+}}
+	
+	
+	
+	
+	
+	
+	
+	
+	

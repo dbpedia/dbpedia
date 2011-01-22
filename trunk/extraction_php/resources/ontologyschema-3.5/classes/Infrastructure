@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Infrastructure
+| specificProperties = {{SpecificProperty | ontologyProperty = length | unit = kilometre }}
+}}

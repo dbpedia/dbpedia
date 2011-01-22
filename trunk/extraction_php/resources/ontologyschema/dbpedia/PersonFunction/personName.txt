@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= personName
+|rdfs:domain	= PersonFunction
+|rdfs:range		= xsd:string
+}}

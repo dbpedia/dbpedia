@@ -1,0 +1,16 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Municipality
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = neighboring_municipalities | ontologyProperty = Municipality/neighboringMunicipality }}
+	{{ DBpediaPropertyMapping | templateProperty = postal_code | ontologyProperty = PopulatedPlace/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = municipality_code | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = highest_m | ontologyProperty = Place/maximumElevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = lowest_m | ontologyProperty = Place/minimumElevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = population | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = populationof | ontologyProperty = PopulatedPlace/populationAsOf }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = demonym | ontologyProperty = PopulatedPlace/demonym }}
+	{{ DBpediaGeocoordinatesMapping | longitudeMinutes = long_m  | longitudeDirection = long_NS  | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeDirection = lat_EW }}
+}}

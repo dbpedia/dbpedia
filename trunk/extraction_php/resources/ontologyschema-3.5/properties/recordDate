@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = record date
+| rdfs:domain = MusicalWork
+| rdfs:range = xsd:date
+}}

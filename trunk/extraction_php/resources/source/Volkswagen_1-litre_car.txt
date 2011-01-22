@@ -1,0 +1,66 @@
+[[Image:1-Liter-VW (525150348).jpg|thumb|300px|1L Concept Replica at the AUTOVISION Tradition & Forum Museum in Germany.]]
+The '''Volkswagen 1-litre car''', also known as the '''1L'''<ref name="gas2.org">{{cite web
+ | url= http://gas2.org/2008/05/07/vw-confirms-1l-concept-will-become-reality-in-2010
+ | title= VW Confirms 1L Concept Will Become Reality in 2010
+ | author= Benjamin Jones | date= 2008-05-07 |work= |publisher= 
+ | accessdate= 2008-05-07 }} </ref>, also known as the '''L1''' (see [[#2009 model|2009 model]] below), is a two-person [[diesel hybrid]] [[concept car]] produced by [[Volkswagen]]. The 1-litre car was designed to be both roadworthy and practical, while being able to travel 100&nbsp;km on 1 litre of diesel fuel (equivalent to 235 miles per [[United States customary units|U.S.]] [[gallon]] or 282 mpg [[Imperial units|Imperial]])<ref name=pressrelease>{{cite web |url= http://www.volkswagen.de/vwcms_publish/vwcms/master_public/virtualmaster/de3/unternehmen/mobilitaet_und_nachhaltigkeit/technik___innovation/Forschung/1_Liter_Auto.html |title= Volkswagen baut das erste 1-Liter-Auto der Welt. |accessdate= 2008-02-21 |publisher= Volkswagen AG |language= [[German language|German]] }}</ref>. This stems from the [[International System of Units]] unit of [[fuel efficiency]], which is the number of litres of fuel required to travel 100 kilometers. To achieve such economy, it is produced with lightweight materials, a [[streamlined]] body and an engine and transmission designed and tuned for economy. A prototype was displayed in 2002 and limited production of the VW 1L is expected to start in 2010. The car can go {{convert|161|km/h|abbr=on}} but at that speed only gets {{convert|1.36|l/100 km|abbr=on}}.
+
+==Size and aerodynamics==
+For aerodynamics, the car seats two in [[tandem]], rather than side-by-side. There are no rear view mirrors and it instead uses cameras and electronic displays. The rear wheels are close together to allow a streamlined body. The total [[aerodynamic drag]] is very small because both the [[drag coefficient]] and the frontal area are small (see [[drag equation]]). The [[drag coefficient]] (''C''<sub>d</sub>) is 0.159,<ref name=pressrelease/> compared to 0.30 for typical cars.
+
+The external dimensions of the car are {{convert|3.47|m|ft|1|abbr=on}} long, {{convert|1.25|m|ft|1|abbr=on}} wide and {{convert|1.0|m|ft|1|abbr=on}} tall.
+
+The car features an aircraft-style canopy, flat wheel covers and an underbelly cover to smooth the airflow. The engine cooling vents open only as needed.
+
+There is {{convert|80|L|cuft|1|abbr=on}} of storage space.
+
+==Materials==
+For light weight, the car uses an unpainted [[carbon fibre]] skin over a [[magnesium]]-alloy subframe. Individual components have been designed for low weight, including engine, transmission, suspension, wheels (carbon fibre), brakes (aluminium), hubs (titanium), bearings (ceramic), interior, and so on. Empty vehicle weight is {{convert|290|kg|lb|0|abbr=on}}.
+
+==Engine and drive system==
+The engine is a one-cylinder {{convert|299|cc|cuin|0|abbr=on}} diesel producing just {{convert|6.3|kW|hp|1|abbr=on}}, but the production version will use a 2-cylinder version with somewhat higher power and a [[mild hybrid]] design. It drives through a six-speed transmission that combines stick-shift mechanics, weight, and drive efficiency with automatic convenience and efficiency controls. There is no clutch pedal. The gear selection (forwards, reverse or neutral) is made using a switch on the right-hand side of the cockpit. The engine is switched off automatically during deceleration and stops, and auto-restarted when the acceleration pedal is pressed.
+
+==Fuel consumption and range==
+According to Volkswagen, fuel economy is {{convert|0.99|L/100 km|mpgUS|0|abbr=on}}. A {{convert|6.5|L|USgal|1|abbr=on}} fuel tank gives a driving range of {{convert|650|km|mi|0|abbr=on}}. If diesel were $3 a gallon, the fuel to travel 400 miles would cost $5.
+
+==Safety==
+The body and frame are designed with crush/[[crumple zone]]s and roll-over protection, and the tandem seating means large side crush zones. Volkswagen claims protection comparable to a GT racing car. The production version apparently has [[Anti-lock braking system|anti-lock brakes]], airbags with pressure sensors, and [[Electronic stability control|stability control]].
+
+==Production and price==
+Volkswagen approved a limited production by 2010.<ref name="gas2.org"/><ref>{{cite web
+ | url= http://www.motorauthority.com/cars/volkswagen/vw-boss-confirms-1-liter-car-for-2010
+ | title= VW boss confirms 1-Liter car for 2010 
+ |author= |last= |first= |authorlink= |coauthors= 
+ | date= 2007-10-09 |work= |publisher= 
+ | accessdate= 2008-05-07 }} </ref> The initial price is still unknown.
+
+==2009 model{{Anchor|2009 Model}}==
+
+{{expand-section}}
+
+The second edition Volkswagen L1, released at the [[2009]] [[Frankfurt Motor Show]], has a [[curb weight]] of 381 kg (840&nbsp;lbs.), coefficient of drag of 0.195, and fuel efficiency of {{convert|1.38|L/100 km|mpgUS|0|abbr=on}} with [[carbon dioxide|CO<sub>2</sub>]] emissions of 39&nbsp;g/km.  It uses one half of a 1.6-litre TDI engine in a hybrid installation. The 800&nbsp;[[cubic centimeter|cm<sup>3</sup>]], twin-cylinder, common-rail, turbodiesel is joined by a 10.4 kW (14&nbsp;bhp) electric motor.  The engine operates in two modes with the eco mode giving 5.2 kW (7&nbsp;bhp) and sport mode 21.6 kW (29&nbsp;bhp), the electric motor provides extra acceleration and can power the L1 on its own for short distances. The L1 can achieve a top speed of 158&nbsp;km/h (99&nbsp;mph), with 0-100&nbsp;km/h (0-62&nbsp;mph) acceleration in 14.3&nbsp;[[second|s]].
+<ref>{{cite web|url=http://www.telegraph.co.uk/motoring/frankfurt-motor-show/6198163/Frankfurt-Motor-Show-Volkswagen-L1-Concept.html|title=Frankfurt Motor Show: Volkswagen L1 Concept| date= 2009-09-18 |accessdate= 2009-09-22}}</ref><ref>{{cite web|url=http://www.treehugger.com/files/2009/09/vw-l1-1-liter-car-concept-170-mpg-diesel-hybrid.php|title=
+Most Fuel Efficient Diesel-Hybrid in the World: VW Shows New Version of 1-Liter Concept Car (170 MPG)| date= 2009-09-15}}</ref><ref>{{cite web|url=http://www.telegraph.co.uk/finance/newsbysector/transport/6192992/VW-unveils-180-mile-per-gallon-two-seater-L1-hybrid-at-Frankfurt-Motor-Show.html|title=VW unveils 180 mile-per-gallon, two-seater L1 hybrid at Frankfurt Motor Show| date= 2009-09-15}}</ref>
+
+==References==
+{{reflist}}
+{{refbegin}}
+* http://gas2.org/2008/03/12/the-worlds-most-fuel-efficient-car-285-mpg-not-a-hybrid/| 2008-03-12
+* Volkswagen: http://www.volkswagen.co.uk/volkswagen-world/futures/1-litre-car
+* Canadian Driver: http://www.canadiandriver.com/articles/gw/vw1litre.htm| 2002-06-05 
+* Supercars: http://www.supercars.net/cars/1935.html
+{{refend}}
+
+{{VW}}
+
+{{DEFAULTSORT:Volkswagen 1-Litre Car}}
+[[Category:Volkswagen concept vehicles|1-Litre-Auto]]
+[[Category:Green automobiles]]
+[[Category:Hybrid electric vehicles]]
+[[Category:Upcoming automobiles]]
+
+[[zh-min-nan:Volkswagen 1 li̍p chhia]]
+[[de:VW 1-Liter-Auto]]
+[[pl:Volkswagen 1L]]
+[[pt:Volkswagen 1-litre concept]]
+[[sv:Volkswagen 1-Liter-Auto]]

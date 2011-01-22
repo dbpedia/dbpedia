@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = heir
+| rdfs:domain = Monarch
+| rdfs:range = Person
+}}

@@ -1,0 +1,22 @@
+{{ DBpediaTemplateMapping
+| mapToClass = BaseballPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = bats | ontologyProperty = BaseballPlayer/bats }}
+	{{ DBpediaPropertyMapping | templateProperty = throws | ontologyProperty = BaseballPlayer/throws }}
+	{{ DBpediaPropertyMapping | templateProperty = statyear | ontologyProperty = BaseballPlayer/statisticYear }}
+	{{ DBpediaPropertyMapping | templateProperty = stat1label | ontologyProperty = BaseballPlayer/statisticLabel }}
+	{{ DBpediaPropertyMapping | templateProperty = stat1value | ontologyProperty = BaseballPlayer/statisticValue }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = team | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = number | ontologyProperty = Athlete/currentNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = position | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = positionplain | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = debutteam | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = teams | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = deathdate | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = finalteam | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaCombineDateMapping | templateProperty1 = debutdate  | unit1 = xsd:gMonthDay | templateProperty2 = debutyear  | unit2 = xsd:gYear | ontologyProperty = Person/activeYearsStartDate }}
+	{{ DBpediaCombineDateMapping | templateProperty1 = finaldate  | unit1 = xsd:gMonthDay | templateProperty2 = finalyear  | unit2 = xsd:gYear | ontologyProperty = Person/activeYearsEndDate }}
+}}

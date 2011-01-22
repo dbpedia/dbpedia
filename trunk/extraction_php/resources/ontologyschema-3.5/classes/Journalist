@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Journalist
+| rdfs:subClassOf = Person
+}}

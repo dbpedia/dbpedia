@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = ethnic groups in year
+|rdfs:domain = Country
+|rdfs:range = xsd:date
+}}

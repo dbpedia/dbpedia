@@ -1,0 +1,14 @@
+{{TemplateMapping
+| mapToClass = Hospital
+| mappings = 
+	{{PropertyMapping | templateProperty = Region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = State | ontologyProperty = state }}
+	{{PropertyMapping | templateProperty = Country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = Beds | ontologyProperty = bedCount }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Location | ontologyProperty = location }}
+	{{GeocoordinatesMapping | coordinates = Coordinates }}
+	{{PropertyMapping | templateProperty = Affiliation | ontologyProperty = affiliation }}
+	{{PropertyMapping | templateProperty = Closed | ontologyProperty = closingDate }}
+	{{PropertyMapping | templateProperty = Website | ontologyProperty = foaf:homepage }}
+}}

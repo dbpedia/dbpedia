@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Crustacean
+| rdfs:subClassOf = Animal
+}}

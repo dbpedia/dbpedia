@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = plays
+|rdfs:domain = TennisPlayer
+|rdfs:range = xsd:string
+}}

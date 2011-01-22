@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = native name
+| rdfs:domain = Place
+| rdfs:range = xsd:string
+}}

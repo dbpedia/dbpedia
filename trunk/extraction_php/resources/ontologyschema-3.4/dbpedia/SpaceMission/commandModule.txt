@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = command module
+|rdfs:domain = SpaceMission
+|rdfs:range = xsd:string
+}}

@@ -1,0 +1,70 @@
+{{Redirect|V10}}
+[[Image:Viper-v10.JPG|thumb|250px|right|The [[Dodge Viper]] V10]]
+
+A '''V10 engine''' is a [[V engine]] with 10 [[cylinder (engine)|cylinder]]s in two banks of five with a distinct exhaust note.
+
+== Mechanicals ==
+{{Cleanup|date=September 2009}}
+The V10 can be considered to be constructed by mating two even firing straight-5 engines together. The straight 5 engine shows first and second order rocking motion. Here it should be assumed that the crankshaft with low second order vibration is used and the first order is balanced by a balance shaft. By mating the straight-5 banks at 90 degrees and using 5 throws the balance shafts balance each other and become null. The firing sequence is odd (BMW M5, Dodge Viper). Using an 18° split journal crankshaft the firing order can be made even, and the two balancer shaft do not balance each other completely, but are combined into a single very small balance shaft (Lamborghini Gallardo, [[Ford Modular engine#6.8&nbsp;L V10|Ford 6.8 V10]]). Using a 5 throw crankshaft and 72° bank angle the firing order can be made even, and the two balancer shafts do not balance each other completely, but are combined into a single <!-- compared to the last sentence: not as small --> small balance shaft. <!-- OR :-( . I would definitively like a source for this. But as it stands this is no controversial topic and the two sentences just serve to stop the reader thinking about an ideal V10 --> A 36° degree bank angle and a 108° flying arm crankshaft would allow even firing without a balance shaft and smaller counterweights, but are impractical.
+
+The V10 configuration is not an [[Engine balance|inherently balanced]] design like a straight-6 or [[V12 engine|V12]] or a flat-6 or a straight-8 or a crossplane V8 (ignoring the counterweights) and does still have a small second order rocking motion, which can only be compensated by two additional balance shafts.
+
+==Road cars==
+Until recently, V10s had rarely been a popular configuration for road cars: a [[V12 engine|V12]] is only slightly more complicated, and runs more smoothly, and a [[V8 engine|V8]] is less complex and more economical.  Nevertheless, modern engineering has made it possible to use V10 engines for applications where a V8 would produce insufficient power and a V12 would be too complicated or bulky.
+
+[[Dodge]] was the first to develop a modern V10 engine, originally designing a version of its [[Chrysler LA engine|LA series small block]] for use in trucks.  However, the engine saw its first production use in substantially revised form in the [[Dodge Viper]].  The original truck version of the engine was eventually used starting in 1994 in the [[Dodge Ram]].  It discontinued in that application after 2003.  However, 2003 also saw the introduction of the [[Dodge Ram SRT-10]], a performance model meant to rival Ford's successful [[Ford SVT Lightning|F-150 SVT Lightning]].  The Viper engine (a 90-degree engine with odd firing order to obviate the need for a balance shaft) has been tweaked through the years, and now produces {{convert|600|hp|kW PS|0|abbr=on|lk=on}} (447&nbsp;kW) in a standard state of tune from its 8.4 liter displacement.  The engine is also used by [[Bristol Cars|Bristol]], in tuned form, in their two-seat [[Bristol Fighter (car)|Fighter]] [[coupe]], where it can produce upward of {{convert|630|hp|kW PS|0|abbr=on}} (470&nbsp;kW).
+
+Ford also developed a heavy-duty V10 version of their [[Ford Triton engine#6.8 Triton V10|Triton]] engine to replace the aging [[Ford 385 engine|460 big block]] in truck applications.  It was introduced in the [[Ford E-Series|E-Series/Econoline]] full-size [[van]], and also saw duty in the [[Ford F-Series|F-Series Super Duty]] line and the [[Ford Excursion]] SUV, and is still in production in 2008.
+[[Image:100 0303.jpg|thumb|E-60 [[BMW M5]] V10]]
+
+[[Europe]]an [[marque]]s were slower to adopt the V10 configuration.  However, high-revving V10 powerplants were incorporated into supercars from [[Lamborghini]] and [[Porsche]].  [[BMW]] and [[Audi]] later unveiled ten-cylinder versions of their mid-range saloons (the BMW 5-Series and Audi A6 families, respectively).  Interestingly, [[Volkswagen]] developed a ten-cylinder engine as well, but as a [[turbodiesel]].
+
+A list of post-war V10-engined [[automobile|production cars]] (sorted alphabetically by manufacturer, sub-sorted by year of introduction):
+* [[Audi S6#C6|Audi S6 (C6)]] - 5.2 [[litre]] 
+* [[Audi RS6#C6|Audi RS6 (C6)]] - 5.0 L [[twin-turbo|biturbo]]
+* [[Audi S8#D3|Audi S8 (D3)]] - 5.2 L
+* [[Audi R8]] - 5.2 L
+* [[BMW M5#E60|BMW M5 (E60)]] - 5.0 L
+* [[BMW M6]] - 5.0 L
+* [[Bristol Fighter (car)|Bristol Fighter]]
+* [[Connaught Type-D]] (entering production in [[2007]])
+* [[Dodge Viper|Dodge Viper SRT-10]] (the first modern V-10-engined car)
+* [[Dodge Ram|Dodge Ram 2500/3500 Heavy Duty]] (pickup trucks)
+* [[Dodge Ram SRT10|Dodge Ram SRT-10]] (pickup truck)
+* [[Ford Econoline|Ford E-350]] (full-size van)
+* [[Ford F-Series|Ford F-250/F-350 Super Duty]] (pickup trucks)
+* [[Ford Excursion]] (sport-utility vehicle)
+* [[Lexus LFA]] - 4.8 L<ref>[http://paultan.org/2009/10/21/552-horsepower-lexus-lfa-launched-all-you-need-to-know/ 552hp Lexus LFA launched - all you need to know]</ref>
+* [[Lamborghini Gallardo]] - 5.0 L (5.2 L facelifted)
+* [[Porsche Carrera GT]] - 5.7 L
+* [[Volkswagen Touareg]] (a [[turbodiesel]])
+* [[Volkswagen Phaeton]] (a turbodiesel)
+* [[Wiesmann MF GT 5]] (BMW S85-B50, BMW M5, M6; 550HP)
+
+== Racing ==
+
+The most widespread use of the V10 has been in [[Formula One]] racing. Alfa Romeo made the first modern Formula One V10 in 1986; although it was never used in a Formula One car.<ref name="velocetoday.com">{{Cite web|url=http://velocetoday.com/cars/cars_134.php|title=164 Pro-Car|accessdate=2007-12-28|work=velocetoday.com}}</ref> Later the configuration was introduced by [[Honda F1|Honda]] and [[Renault F1|Renault]] before the [[1989 Formula One season|1989]] season. The introduction of the 3.5 litre rule after turbos were outlawed made the V10 seem the best compromise between the V8 and the V12. V10 motors became common-place after the reduction from 3.5 to 3 litres, and V10 engines were exclusively used by teams from the 1998 season. [[Renault F1|Renault]] had a more flat 110° angle motor in 2002 and 2003, but reverted to a more conventional layout (a 72° angle) following the change in rules which dictated that an engine must last two race weekends. In a further change to the rules, V10s were banned for the 2006 season in favour of 2.4 litre V8s. 
+
+There are also cars with V10 engines in [[sports car racing]], usually with [[Judd (engine)|Judd]] powerplants with 4 or 5 litre engines, made available for customers, although the first V10 was seen in the works [[Peugeot 905]], in the final races of the 1990 [[World Sportscar Championship]].
+
+== Notes ==
+{{reflist}}
+
+{{Refimprove|date=December 2007}}
+{{Piston engine configurations}}
+
+{{DEFAULTSORT:V10 Engine}}
+[[Category:Piston engine configurations]]
+
+[[da:V10-motor]]
+[[es:Motor V10]]
+[[fr:Moteur V10]]
+[[it:Motore V10]]
+[[lt:V10]]
+[[ja:V型10気筒]]
+[[no:V10-motor]]
+[[pl:V10]]
+[[pt:Motor V10]]
+[[fi:V10]]
+[[sv:V10]]
+[[vec:V10]]

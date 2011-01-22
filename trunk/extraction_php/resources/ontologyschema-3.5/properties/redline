@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = redline
+| rdfs:domain = AutomobileEngine
+| rdfs:range = xsd:integer
+| rdf:type = owl:FunctionalProperty
+}}

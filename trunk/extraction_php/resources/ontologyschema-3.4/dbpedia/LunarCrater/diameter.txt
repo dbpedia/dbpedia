@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = diameter
+|rdfs:domain = LunarCrater
+|rdfs:range = kilometre
+}}

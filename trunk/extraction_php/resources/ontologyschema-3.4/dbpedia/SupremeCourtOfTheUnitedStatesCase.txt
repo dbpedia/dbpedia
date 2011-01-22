@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Supreme Court Of The United States Case
+|rdfs:subClassOf = owl:Thing
+}}

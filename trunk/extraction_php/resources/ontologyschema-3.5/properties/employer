@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = employer
+| rdfs:domain = Person
+| rdfs:range = Organisation
+}}

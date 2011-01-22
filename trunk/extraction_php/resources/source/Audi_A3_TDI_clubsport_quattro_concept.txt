@@ -1,0 +1,50 @@
+{{Mergeto|Audi A3|date=February 2009}}
+{{Infobox Automobile
+| image          = 
+| name           = Audi A3 TDI clubsport quattro
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen Group]]
+| aka            =
+| production     = Concept
+| assembly       =
+| predecessor    =
+| successor      =
+| class          = [[Concept car]]
+| body_style     = 2-door compact [[hatchback]]
+| layout         =[[Front-engine design|Front engine]],<br>[[quattro (four wheel drive system)|quattro]] on-demand [[four-wheel drive]] 
+| platform       =
+| engine         = 
+| transmission   =
+| wheelbase      =
+| length         = {{convert|167.48|in|mm|0|abbr=on}} 
+| width          = {{convert|71.85|in|mm|0|abbr=on}} 
+| height         = {{convert|54.53|in|mm|0|abbr=on}} 
+| weight         =
+| fuel_capacity  =
+| electric_range =
+| related        =
+| designer       =
+}}
+
+The '''Audi A3 TDI clubsport quattro''' is a [[concept car]] unveiled in 2008.  Based on the [[Audi A3]], it is an approach by [[Audi AG|Audi]] to address both performance and the environment.
+
+==Drivetrain and chassis==
+The engine in the concept car is a turbocharged 2.0 liter diesel producing {{convert|224|hp}} and {{convert|332|ft.lbf|N.m|abbr=on}}. of torque.  It  produces {{convert|113.8|hp}} per liter while meeting Euro 5 Diesel emission standards.  It uses the [[quattro (four wheel drive system)|quattro]] drive system with a six-speed manual transmission.
+
+The chassis has Audi's Magnetic Ride Suspension system, lowering the vehicle {{convert|1.4|in|mm}} from the base model.  It also has ceramic front brakes, a four-link rear suspension and electro-mechanical servo assist for the [[rack and pinion]] steering.<ref name = qq>{{cite journal | last =Rivera| first =Paul| title =Audi A3 TDI clubsport quattro concept| journal =quattro quarterly | volume = XVIII | issue = 3 | pages = 43–44 | publisher = Audi Club North America | date = Summer 2008}}</ref>
+
+==Exterior and interior==
+Exterior modifications include the widening of the grill, modifying the odd, and enlarging air intrakes.  Bolt-on fender flares and a large rear spoiler have been added.  The interior changes include sport seats and a flat-bottomed steering wheel.<ref name = qq/>
+
+==Performance==
+Audi claims performance of 0 to {{convert|62|mph|km/h}} in 6.6 seconds with a top speed of {{convert|149|mph|km/h}}.<ref>{{Citation | last =Monticello | first =Mike | author-link = | last2 = | first2 = | author2-link = | title =Audi A3 TDI Clubsport Quattro Concept | journal =[[Road & Track]] | volume = | issue = | pages =20 | date =August 2008 | url =http://www.roadandtrack.com/article.asp?section_id=10&article_id=6848 | doi = | id = }}</ref>  It is expected to get approximately {{convert|40|mpgus|L/100 km mpgimp}}.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.audi.com/audi/com/en2/experience/motor_shows/a3_tdi_clubsport_quattro.html Audi A3 TDI clubsport quattro concept web site]
+
+{{DEFAULTSORT:A3 TDI clubsport quattro concept}}
+[[Category:Audi vehicles]]
+[[Category:Audi concept vehicles]]

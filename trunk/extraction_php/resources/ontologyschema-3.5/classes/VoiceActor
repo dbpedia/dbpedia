@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Voice Actor
+| rdfs:subClassOf = Actor
+}}

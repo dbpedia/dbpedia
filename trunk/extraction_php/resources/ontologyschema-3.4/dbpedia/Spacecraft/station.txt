@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = station
+|rdfs:domain = Spacecraft
+|rdfs:range = SpaceStation
+}}

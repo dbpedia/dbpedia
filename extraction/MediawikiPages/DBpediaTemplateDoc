@@ -1,0 +1,26 @@
+== DBpedia Template Annotation ==
+The information in this section used by [[DBpedia]] which is a community project for extracting structured information from Wikipedia and make it freely available on the Web. Please see the [http://meta.wikimedia.org/wiki/DBpedia/ontology overview of the DBpedia ontology].
+
+
+== Some Notes ==
+For guidelines see: [http://meta.wikimedia.org/wiki/DBpedia/guidelines here]
+
+Properties can be either be mapped normally with:
+
+<nowiki>{{DBpedia Attribute|Born|birthDate|parseHint=date}}</nowiki>
+
+<nowiki>{{DBpedia Attribute|Born|birthPlace|parseHint=place}}</nowiki>
+
+or they can just be accepted:
+
+<nowiki>{{DBpedia Attribute|birthplace}}</nowiki>
+
+which means that they have been reviewed and posses the correct spelling.
+
+We do the following transformation for any mapped property:
+
+<nowiki>{{DBpedia Attribute|Established_Title5}}</nowiki>
+
+will be '''establishedtitle''', i.e. to lower case, underscores are removed and numbers at the end
+
+'''More detailed information will follow soon.'''

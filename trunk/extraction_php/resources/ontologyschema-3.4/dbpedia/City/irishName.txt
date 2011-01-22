@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = irish name
+|rdfs:domain = City
+|rdfs:range = xsd:string
+}}

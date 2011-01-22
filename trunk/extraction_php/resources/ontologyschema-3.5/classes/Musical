@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Musical
+| rdfs:subClassOf = Work
+}}

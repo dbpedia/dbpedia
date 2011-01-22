@@ -1,0 +1,60 @@
+{{Infobox Automobile
+| name           = Audi Nuvolari quattro
+| image          = [[Image:Audi nuvolari-studie.jpg|250px|left|front view of the Nuvolari quattro]]
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen Group]]
+| aka            =
+| production     = 2003
+| assembly       = 
+| predecessor    = 
+| successor      = [[Audi A5|Audi A5 and S5]]
+| class          = [[Concept car]], [[sports car]]
+| body_style     = 2-door 4-seat [[coupé]]
+| layout         = [[Front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four wheel drive]]
+| platform       =
+| engine         = 5.0L [[gasoline direct injection|FSI]] [[V10 engine|V10]], 2x[[DOHC]]
+| transmission   =
+| wheelbase      =
+| length         = {{convert|4800|mm|1|abbr=on}}
+| width          = {{convert|1920|mm|1|abbr=on}}
+| height         = {{convert|1410|mm|1|abbr=on}}
+| weight         =
+| fuel_capacity  =
+| related        = 
+| designer       = 
+}}
+[[Image:AUDI Nuvolari Quattro (859317621).jpg|200px|thumb|left|Rear view of the Nuvolari quattro]]
+
+The '''Audi Nuvolari quattro''' (also known as the '''Audi Nuvolari''') was a [[concept car]] created by [[Germany|German]] automobile maker [[Audi]].  This vehicle was first introduced at the 2003 [[Geneva Motor Show]].  It was what Audi planned to become the vision of their next [[grand tourer]] (GT) vehicle.  It was the second of three concept cars designed by [[Audi]] and shown in 2003, after the [[Audi Pikes Peak quattro|Pikes Peak quattro]] and ahead of the [[Audi Le Mans quattro|Le Mans quattro]].<ref>{{PDF|[http://www.audi.com/etc/medialib/cms4imp/audi2/company/financial_information/pdf.Par.0103.File.pdf Audi 2003 Product Strategy - indicating Audi Nuvolari quattro detail (p.13)]|1.50&nbsp;MB}} - </ref><ref>[http://www.conceptcarz.com/vehicle/z6932/Audi_Nuvolari.aspx Audi Nuvolari quattro study, from ConceptCarz.com]</ref>
+
+The Nuvolari quattro had a 5.0&nbsp;L [[twin-turbo]]charged [[V10 engine|V10]] [[gasoline direct injection|Fuel Stratified Injection]] (FSI) engine rated at {{convert|441|kW|PS bhp|0|lk=on|abbr=on}}.  [[Torque]] on the Nuvolari quattro was rated at {{convert|750|Nm|0|lk=on|abbr=on}}.  The Nuvolari quattro used Audi's [[Torsen]]-based [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.
+
+It could accelerate from 0 to {{convert|100|km/h|mph||abbr=on}} in about 4.1 seconds.  Top speed was electronically governed to {{convert|250|km/h|mph||abbr=on}}.
+
+The Nuvolari quattro was named after one of the most famous and legendary race car drivers of all time, [[Tazio Nuvolari]].  Nuvolari gained 61 [[Grand Prix motor racing|Grand Prix]] victories and died in 1953.  Fifty years after his death, the Audi Nuvolari quattro was created in honour of his memory.
+
+Audi subsequently developed the Nuvolari quattro into the new [[Audi A5|A5 and S5]] range.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat|Audi Nuvolari quattro}}
+* [http://www.audi.com Audi corporate website]
+* [http://www.audi.com/etc/medialib/cms4imp/audi2/company/financial_information/pdf.Par.0103.File.pdf Audi Official 2003 Product Strategy]
+* [http://www.audiworld.com/news/03/geneva/nuvolari/content.shtml Vision of the GT of the Future: Audi Nuvolari quattro]
+
+{{Audi}}
+
+{{DEFAULTSORT:Nuvolari Quattro}}
+[[Category:Audi vehicles]]
+[[Category:Audi concept vehicles]]
+
+
+{{modern-auto-stub}}
+
+[[es:Audi Nuvolari]]
+[[nl:Audi Nuvolari quattro]]
+[[pt:Audi Nuvolari]]
+[[ru:Audi Nuvolari quattro]]
+[[sv:Audi Nuvolari Quattro]]

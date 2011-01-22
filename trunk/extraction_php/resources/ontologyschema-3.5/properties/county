@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = county
+| rdfs:range = PopulatedPlace
+}}

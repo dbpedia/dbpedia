@@ -1,0 +1,13 @@
+{{TemplateMapping
+| mapToClass = Race
+| mappings = 
+	{{PropertyMapping | templateProperty = firstwinner | ontologyProperty = firstWinner }}
+	{{PropertyMapping | templateProperty = mostwins | ontologyProperty = mostWinner }}
+	{{PropertyMapping | templateProperty = mostrecent | ontologyProperty = recentWinner }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = date | ontologyProperty = date }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = localnames | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = first | ontologyProperty = startDate }}
+	{{PropertyMapping | templateProperty = last | ontologyProperty = endDate }}
+}}

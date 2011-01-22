@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = distance to Belfast
+|rdfs:domain = City
+|rdfs:range = kilometre
+}}

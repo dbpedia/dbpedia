@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = wine region
+|rdfs:domain = Grape
+|rdfs:range = WineRegion
+}}

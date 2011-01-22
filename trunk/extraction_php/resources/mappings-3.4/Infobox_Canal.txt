@@ -1,0 +1,33 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Canal
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = company | ontologyProperty = Canal/company }}
+	{{ DBpediaPropertyMapping | templateProperty = engineer | ontologyProperty = Canal/principalEngineer }}
+	{{ DBpediaPropertyMapping | templateProperty = a_engineer | ontologyProperty = Canal/engineer }}
+	{{ DBpediaPropertyMapping | templateProperty = date_act | ontologyProperty = Canal/dateAct }}
+	{{ DBpediaPropertyMapping | templateProperty = date_const | ontologyProperty = Canal/dateConstruction }}
+	{{ DBpediaPropertyMapping | templateProperty = date_use | ontologyProperty = Canal/dateUse }}
+	{{ DBpediaPropertyMapping | templateProperty = date_comp | ontologyProperty = Canal/dateCompleted }}
+	{{ DBpediaPropertyMapping | templateProperty = date_ext | ontologyProperty = Canal/dateExtended }}
+	{{ DBpediaPropertyMapping | templateProperty = date_closed | ontologyProperty = Canal/dateClosed }}
+	{{ DBpediaPropertyMapping | templateProperty = date_rest | ontologyProperty = Canal/dateRestored }}
+	{{ DBpediaPropertyMapping | templateProperty = start | ontologyProperty = Canal/startPoint }}
+	{{ DBpediaPropertyMapping | templateProperty = o_start | ontologyProperty = Canal/originalStartPoint }}
+	{{ DBpediaPropertyMapping | templateProperty = end | ontologyProperty = Canal/endPoint }}
+	{{ DBpediaPropertyMapping | templateProperty = o_end | ontologyProperty = Canal/originalEndPoint }}
+	{{ DBpediaPropertyMapping | templateProperty = branch | ontologyProperty = Canal/branch }}
+	{{ DBpediaPropertyMapping | templateProperty = branch_of | ontologyProperty = Canal/branchOf }}
+	{{ DBpediaPropertyMapping | templateProperty = join | ontologyProperty = Canal/hasJunctionWith }}
+	{{ DBpediaPropertyMapping | templateProperty = maximumBoatLength | ontologyProperty = Canal/maximumBoatLength | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = originalMaximumBoatLength | ontologyProperty = Canal/originalMaximumBoatLength | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = maximumBoatBeam | ontologyProperty = Canal/maximumBoatBeam | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = originalMaximumBoatBeam | ontologyProperty = Canal/originalMaximumBoatBeam | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = o_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = m_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = elev | ontologyProperty = Place/elevation | unit = foot }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = len  | unit1 = foot  | templateProperty2 = len_in  | unit2 = inch  | ontologyProperty = Canal/maximumBoatLength }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = o_len  | unit1 = foot  | templateProperty2 = o_len_in  | unit2 = inch  | ontologyProperty = Canal/originalMaximumBoatLength }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = beam  | unit1 = foot  | templateProperty2 = beam_in  | unit2 = inch  | ontologyProperty = Canal/maximumBoatBeam }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = o_beam  | unit1 = foot  | templateProperty2 = o_beam_in  | unit2 = inch  | ontologyProperty = Canal/originalMaximumBoatBeam }}
+}}

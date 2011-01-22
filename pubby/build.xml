@@ -1,0 +1,71 @@
+<project name="pubby" default="classes" basedir=".">
+
+  <property name="version"        value="0.3.2-dev"/>
+  <property name="src"            value="${basedir}/src"/>
+  <property name="webroot"        value="${basedir}/webapp"/>
+  <property name="webinf"         value="${webroot}/WEB-INF"/>
+  <property name="webinf.lib"     value="${webinf}/lib"/>
+  <property name="webinf.classes" value="${webinf}/classes"/>
+  <property name="distname"       value="${ant.project.name}-${version}"/>
+  <property name="zip"            value="${basedir}/${distname}.zip"/>
+  <property name="war"            value="${basedir}/${ant.project.name}.war" />
+  <property name="jetty.lib"      value="${basedir}/jetty"/>
+  <property name="javac.debug"    value="true" />
+  <property name="javac.optimize" value="true" />
+  <property name="javac.deprecation" value="true" />
+  <property name="javac.target"   value="1.4" />
+  <property name="javac.source"   value="1.4" />
+
+  <target name="classpath">
+    <mkdir dir="${webinf.lib}"/> 
+    <path id="classpath">
+      <fileset dir="${webinf.lib}">
+        <include name="*.jar"/>
+      </fileset>
+      <pathelement location="${jetty.lib}/javax.servlet.jar"/>
+    </path>
+
+    <property name="expanded.classpath" refid="classpath"/>
+  </target>
+
+  <target name="clean" description="Remove generated files"> 
+    <delete file="${war}" quiet="false"/>
+    <delete file="${zip}" quiet="false"/>
+    <delete quiet="false" includeemptydirs="true">
+      <fileset dir="${webinf.classes}"/>
+    </delete>
+  </target>
+
+  <target name="classes" depends="classpath" description="Compile classes">
+    <mkdir dir="${webinf.classes}"/> 
+    <javac srcdir="${src}"
+           destdir="${webinf.classes}"
+           debug="${javac.debug}"
+           optimize="${javac.optimize}"
+           deprecation="${javac.deprecation}"
+           source="${javac.target}"
+           target="${javac.target}"
+           >
+       <classpath>
+         <path refid="classpath"/>
+       </classpath>
+
+       <include name="**/*.java"/>
+    </javac>
+  </target>
+
+  <target name="war" depends="classes" description="build WAR"> 
+    <war destfile="${war}"
+         webxml="${webinf}/web.xml"
+         basedir="${webroot}">
+      <exclude name="WEB-INF/web.xml"/>
+      <exclude name="**/CVS/**"/>
+    </war>
+  </target>
+
+  <target name="zip" depends="classes">
+    <zip destfile="${zip}">
+      <zipfileset prefix="${distname}" dir="."/>
+    </zip>
+  </target>
+</project>

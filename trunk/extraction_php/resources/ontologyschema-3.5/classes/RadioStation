@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Radio Station
+| rdfs:subClassOf = Organisation
+}}

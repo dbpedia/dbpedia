@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = start date
+|rdfs:domain = Event
+|rdfs:range = xsd:date
+}}

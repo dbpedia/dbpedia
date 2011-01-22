@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = right tributary
+|rdfs:domain = River
+|rdfs:range = River
+}}

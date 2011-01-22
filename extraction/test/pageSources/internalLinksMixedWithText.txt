@@ -1,0 +1,6 @@
+{{ DummyTemplate |
+key_people = [[Max Muster]] (CEO)/(CFO), [[Donald D. Duck | Donald]] employee. ''Other'' text, has to be ignored! |
+schluessel_menschen = His name is [[Max Muster]] or in English [[Tony Template]] ! [[Links]], / .. [[Wikipedia | Wiki]] |
+next property = [[123s5]] abcd             hh jj [[1234|1234]] to |
+last_PROPERTY = abcd [[short]] ghij [[nextLink]] but even more more text!
+}}

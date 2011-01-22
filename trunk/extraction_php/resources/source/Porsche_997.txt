@@ -1,0 +1,450 @@
+{{Infobox Automobile
+| name           = Porsche 997
+| image          = [[Image:2004 silver Porsche 911 Carrera type 997.jpg|250px|Porsche 997 S]]
+| manufacturer   = [[Porsche]]
+| parent_company = 
+| aka            = Porsche 911 (nine-eleven)<br/>[[Porsche Carrera]]
+| production     = 2004–present
+| assembly       = [[Stuttgart]], [[Baden-Württemberg]], [[Germany]]
+| predecessor    = [[Porsche 996]]
+| successor      = Incumbent
+| class          = [[Sports car]]
+| body_style     = 2-door [[coupé]]<br/>2-door [[convertible]]
+| layout         = [[Rear engine]], [[rear wheel drive]] / [[all wheel drive]]
+| platform       = 
+|engine=3.6L [[Flat-6|H6]]<br>3.8L [[Flat-6|H6]]
+|transmission=5-speed [[Automatic transmission|automatic]]<br>6-speed [[Manual transmission|manual]]
+|wheelbase={{Auto in|92.5|0}}<br>GT3: {{Auto in|92.7|0}}<br>GT3 RS: {{Auto in|92.9|0}}
+|length={{Auto in|175.6|0}}<br>2005–06 Turbo S Convertible, GT3 & Turbo S: {{Auto in|174.6|0}}<br>Carrera 4 Cabriolet: {{Auto in|174.3|0}}<br>2007–08 GT3 & Turbo: {{Auto in|176.3|0}}<br>GT3 RS: {{Auto in|176.9|0}}
+|width=2007–08: {{Auto in|72.9|0}}<br>Carrera, Carrera S & 2007–08 GT3: {{Auto in|71.2|0}}<br>2005–06 Turbo S: {{Auto in|72.1|0}}<br>2005–06 GT3: {{Auto in|69.7|0}}
+|height={{Auto in|51.6|0}}<br>2005–06 GT3: {{Auto in|50.0|0}}<br>Carrera 4S: {{Auto in|51.2|0}}<br>Carrera 4S Convertible: {{Auto in|52.1|0}}<br>2007–08 GT3: {{Auto in|50.4|0}}<br>2005–06 Turbo S: {{Auto in|51.0|0}}
+| weight         = 
+| related        = 
+| designer       = 
+| sp             = us
+}}
+The '''Porsche Type 997''' (Type Nine-Nine-Seven), imply called the '''997''' (Nine-Nine-Seven) is the current version of the [[Porsche 911|911]] [[sports car]] built by [[Germany|German]] [[Automotive industry|manufacturer]] [[Porsche]]. Production of the Carrera and Carrera S [[coupé]]s began in July [[2004]], [[all-wheel drive]] Carrera 4 and Carrera 4S versions began shipping in November [[2005]], [[Porsche 997#Turbo|Turbo]] and GT3 derivatives went on sale in late [[2006]] and the 911 GT2 in [[2007]]. In addition to the coupe and cabriolet versions, [[Targa top|Targa]] versions of the Carrera 4 and Carrera 4S are available, which carry on with the "glass canopy" roof design used on all Targa 911s since the [[Porsche 993|Type 993 Generation 911]].
+
+During [[2009]] Porsche made comprehensive changes to the 997 lineup which included small styling changes, increases in engine displacement across the board, the addition of [[Gasoline direct injection]] and the introduction of the company's new "PDK" [[Dual clutch transmission]] as well as other mechanical changes. As a result, the updated 997 models are faster, lighter and more fuel efficient than the outgoing versions and have somewhat better handling. In the case of the 997 Turbo, a comprehensively re-tuned [[all wheel drive]] system with an optional "torque vectoring" system was also a part of the upgrades package; in an October 2009 preliminary review, Car and Driver magazine estimated that when equipped with the PDK transmission, the updated Turbo should be capable of going from 0 to 60 miles per hour in three (3.0) seconds flat. As of December 2009, the 911 GT2 was the only variant in the 997 lineup not to have received any changes or upgrades.
+
+The 997 is the most commercially successful 911 of all time, having sold 100,000 units between its introduction in [[2004]] and July of [[2007]]. It has also received mostly positive reviews from the worldwide motoring press; even British motoring journalist [[Jeremy Clarkson]], a known detractor of Porsche vehicles, noted that the 997 will "make love to your fingertips and stir your soul."<ref>{{cite web|title=Porsche 911|work=[[TimesOnline]]|publisher=[[Times of London]]|url=http://www.timesonline.co.uk/tol/driving/jeremy_clarkson/article425310.ece|month=March | year=2005|accessdate=2009-08-26}}</ref>
+
+==First generation==
+===Design===
+While the exterior styling is changed—in fact, the 997 Carrera S and Carrera 4S models share only their roof panels with their predecessor, the 996—it is again more evolution than revolution, typical of Porsche and the Carrera. [[Jeremy Clarkson]] has often voiced the opinion that Porsche had "the laziest design team in the world" due to the almost unnoticeable change in external appearance between the 997 and earlier models. The most notable difference between the 997 and the predecessor 996 is the return to circular headlights, like those of pre-996 Carreras, with separate indicator units. The interior has been almost entirely re-invented and all the controls are new; however, it is more reminiscent of classic 911 interiors than of the outgoing 996. The body in general remains low profile with a drag coefficient of 0.29 for the Carrera and .30 for the Carrera S.{{Citation needed|date=February 2009}}
+
+Visually, the rear [[bodywork]] is a total of {{convert|88|mm|in|1|abbr=on}} wider.
+
+===Performance===
+The base Carrera has essentially the same {{convert|3596|cc|L cuin|abbr=on}} [[flat-6]] ([[flat engine|Boxer]]) engine from [[Porsche 996|Type 996]] Carrera. The Carrera S uses a new {{convert|3824|cc|L cuin|abbr=on}} flat-6 engine. The X51 Powerkit is available for S, 4S, Targa models, which increases engine power.
+
+According to testing carried out by several [[US|American]] [[automotive]] publications, the Turbo model can accelerate from 0 to {{convert|100|km/h|mph|abbr=on}} in about 3.7 seconds with an [[automatic transmission]] and 3.9 seconds with the [[manual transmission]]. The Carrera S model is capable of going 0 to {{convert|60|mph|km/h|abbr=on}} in 4.7 seconds, and carries a top speed of {{convert|300|km/h|mph|abbr=on}}, while the base Carrera model has 0 to {{convert|60|mph|km/h|abbr=on}} acceleration in 4.8 seconds, with a top speed of {{convert|180|mph|km/h|abbr=on}}. Note, however, that these figures contradict the conservative [[Porsche 997#Statistics|official Porsche figures]].
+
+The viscous clutch all wheel drive system (997.1) sends between 5% and 40% of engine [[torque]] to the front wheels as needed.
+
+===Cabriolet===
+For the first time, development of the cabriolet version of the 997 led the design and engineering effort at Porsche with the coupe following.  Porsche applied the logic that if you started with the more difficult cabriolet challenges (for chassis stiffness) the coupe version would simply be that more rigid. Despite additional weight, the cabriolet versions attain nearly the same performance figures as their coupe counterparts. Even the rear tail comes up slightly higher on the cabriolets to compensate for differences in drag over the canvas top vs. the smoother coupe shape.
+
+[[Image:CarreraCabriolet.jpg|right|thumb|250px|2006 Carrera S Cabriolet in Blue Turquoise (Paint To Sample.)]]
+
+===911 Club Coupe (2005)===
+It is a limited (50 units) version of 2006MY Carrera S coupe with X51 Powerkit commemorating the 50th anniversary of the Porsche Club of America.<ref>{{cite web|title=50th anniversary - Porsche Club of America|publisher=''Porsche''|url=http://www.porsche.com/all/transitional/usa/clubs/pca/50thanniversary/default.asp |accessdate=2008-05-03}}</ref><ref>[http://www.pca.org/ Porsche Club of America (PCA)]</ref>
+
+The vehicle includes Azurro California-colored body (from [[Porsche 356]]), a vehicle identification number (VIN) which ends with the production number and special commemorative badging and door sills which adorn the interior, Sport Chrono Package Plus system, optional Porsche Ceramic Composite Brakes.
+
+The car #1 was transferred to the Porsche Museum in [[Stuttgart]], [[Germany]] and one PCA member won the car #50 in a [[sweepstakes]] drawing. The remaining 48 units were sold to randomly chosen U.S. and Canadian PCA members. After 2005-08-15, unsold units were made available to the general public.
+
+The vehicle was unveiled in PCA's 50th Annual Porsche Parade in Hershey, Pa.
+
+The vehicle has MSRP of $99,911 US and $145,911 CDN.<ref>[http://www.seriouswheels.com/cars/top-2006-Porsche-911-Carrera-S-Club-Coupe.htm 2006 Porsche 911 Club Coupe]</ref>
+
+===Turbo===
+[[Image:997 turbo gelb 04.jpg|thumb|right|250px|2007 Porsche 997 Turbo in Speed Yellow]]
+
+The 997 Turbo debuted in February 2006 at the [[Geneva Motor Show]]. It has a new front [[bumper]] with turn signals incorporated to look like [[light-emitting diode|LED]] lights in a horizontal bar through the air intake. The fog lights are moved to the corners of the bumpers. Large air intakes in front of and behind the rear wheels are other obvious visual cues. The retractable rear wing is also one of the highlights, a feature which has been available on the [[Porsche 996|996]] Turbo as well.
+
+The engine is reported to be based on the rugged and very reliable [[Porsche 964|964]]/GT1 design rated {{convert|480|PS|kW hp|abbr=on}} and {{convert|620|Nm|lbft|abbr=on}}. The turbocharger uses two-stage resonance intake system.
+
+The [[BorgWarner]]'s Variable Turbine Geometry (VTG), first variable geometry turbines introduced to street Porsche 911 cars, uses guide vanes located in front of the turbine wheel that modulates inflow angle and speed. Variable geometry turbines were previously only available to diesel engined vehicles, but a similar approach was used successfully by [[Garrett AiResearch|Garrett]] starting in 1989 with the [[Shelby CSX#CSX-VNT|Shelby CSX]] that utilized a computer controlled variable nozzles instead.
+
+The optional Sport Chrono package allows 911 Turbo to overboost for 10 seconds, increasing peak torque over a narrow rev range.
+[[Image:Porsche 997 Turbo White.JPG|thumb|right|250px|2007 Porsche 997 Turbo in Carrara White]]
+According to official Porsche figures, it accelerates {{convert|100|km/h|mph|abbr=on}} in 3.9 seconds with the manual transmission, and 3.7 seconds with Tiptronic S transmission. It has also recorded a {{convert|60|mph|km/h|abbr=on}} time of 3.2 seconds at the hands of US motoring publication [[Motor Trend]], eclipsing all of its major competitors and even Porsche's own [[Porsche Carrera GT|Carrera GT]] supercar. The 997 Turbo has an official top speed of {{convert|311|km/h|mph|abbr=on}} and [[Jeremy Clarkson]] has claimed he got near this, getting up to an indicated speed of {{convert|322|km/h|mph|abbr=on}} during his 2008 video special, ''Clarkson: Thriller.''
+
+====Turbo Cabriolet====
+[[Porsche AG]] announced on May 7, 2007 that the 911 Turbo Cabriolet would go on sale in September 2007. The Porsche 997 Turbo Cabriolet is one of the fastest [[convertible]] [[sports car]]s in production. It is capable of reaching similar top speeds, and acceleration, of the standard Porsche 997 Turbo Coupe. This is considered an astonishing feat because usually the convertible version of cars are much slower than the hardtop variant, due to its slightly less stable [[aerodynamics]] associated with its soft roof, and its extra weight caused by the structural reinforcements made necessary by the absence of B and C pillars.
+
+===GT3===
+[[Image:2006 SAG - Porsche GT3 -04.JPG.JPG|thumb|right|250px|2006 Porsche 997 GT3 at the 2006 [[Geneva Motor Show]]]]
+The [[Porsche 911 GT3|997 GT3]] model also debuted in [[Geneva Motor Show#2006|Geneva in 2006]].  Like previous GT3 models, it is a way for Porsche to [[homologate]] aerodynamic features for racing, as well as a starting model for customer racing. The 997 GT3 was priced at [[US$]]106,000. The engine has the same displacement as the Turbo, but without turbocharger and uses a new variable intake system. The engine is rated at {{convert|435|PS|kW hp|abbr=on}} and {{convert|405|Nm|lbft|abbr=on}}<ref>{{cite web|title=First Drive: 2007 Porsche 911 GT3 997 - Short Take Road Tests|work=[[Car and Driver]]|publisher=[[Hachette Filipacchi Médias]]|url=http://www.caranddriver.com/shortroadtests/10864/first-drive-2007-porsche-911-gt3-997.html|month=May | year=2006|accessdate=2008-02-04}}</ref>. It has an 8400 rpm redline which is the same as the {{convert|612|bhp|kW PS|0|abbr=on}} Carrera GT's. The 3.6L dry-sump engine does not seem to share the rear main seal (RMS) problems of the earliest 3.6L/3.8L semi-dry-sump engines.
+
+The GT3 body includes a special front bumper which increases cooling for the front-mounted radiators as well as a split spoiler at the rear. The GT3 also includes a special rear bumper and center tailpipes which draw heat away from the engine.  It is lowered and rides on 30-series 305mm (12&nbsp;in) tires on 19in (483mm) wheels. The car weighs 3075&nbsp;lb (1395&nbsp;kg).
+[[Image:Porsche 911 GT3 RS 997.JPG|thumb|right|250px|Porsche 997 GT3 RS]]
+[[Image:Tafel 997 GT3-RSR.jpg|thumb|right|250px|Porsche 997 GT3 RSR]]
+
+The 997 GT3 is more driver-friendly than its predecessor, with "comfort" seats and the Porsche Communication Management system installed.
+
+The special [[Porsche 911 GT3 RS|RS]] model<ref>{{cite web|title=Upfront News: Porsche 997 911 GT3 RS|publisher=''Car and Driver''|url=http://www.caranddriver.com/carnews/11315/upfront-news-porsche-997-911-gt3-rs.html|month=May | year=2006|accessdate=2008-02-04}}</ref> came without most of these luxuries out to focus more on track-oriented driving (although the car is still road-legal).  The package also included a full rollcage and carbon fiber seats to add to that race-car-for-the-road feel. The RS version was released in Europe in October 2006; the North American release was in March 2007<ref>{{cite web|title=2007 Porsche 997 911 GT3 RS to be sold in U.S.|publisher=''Car and Driver''|url=http://caranddriver.com/reviews/hot_lists/high_performance/sports_car_central/2007_porsche_997_911_gt3_rs_to_be_sold_in_u_s_car_news|month=May | year=2006|accessdate=2008-02-19}}</ref>. A racing version of the GT3 RS debuted in 2007, and it was called the 997 GT3 RSR.
+
+The ratios on the six-speed [[transmission (mechanics)|transmission]] are more aggressive, allowing the GT3 to hit {{convert|60|mph|km/h|abbr=on}} in 4.1 seconds, while the RS accomplishes the same in 4 flat.  It will continue to {{convert|100|mph|km/h|abbr=on}} in 9.2 seconds and has an ungoverned top speed of {{convert|310|km/h|mph|abbr=on}}.
+
+===Targa===
+The Targa 4 and Targa 4S versions, like the Porsche 911 Targa of the [[Porsche 993|993]] and [[Porsche 996|996]] generations, are equipped with a glass roof and hatch. At any speed, the roof can be opened where it drops down an inch and slides a metre back underneath the hatch. As the roof weighs an additional {{convert|60|kg|lb|0|abbr=on}} the [[suspension (vehicle)|suspension]] has been modified from Carrera models. When the glass roof is retracted, a small glass deflector above the windshield is raised to aid in aerodynamic stability.
+
+Unlike previous versions of the Porsche 911 Targa, the Porsche 997 Targa 4 and Targa 4S have an [[all-wheel-drive]] drivetrain, hence the "4" in the name. The naming is to fit in with the naming trend of other Porsche models, namely the Carrera 4 and Carrera 4S, whose "4" in the names are also due to their all-wheel drive systems. Targa 4 models are slightly slower than the hard top Carrera models because the heavier roof and all-wheel-drive drivetrain increases the weight and the inertia associated with acceleration.
+
+===GT2===
+This is the most powerful and fastest road-going 911 GT2 ever to be sold to the public.<ref name=GT/> The [[Porsche 996]] [[Porsche 911|911]] GT2 was superseded by the 997-generation GT2, on sale since November 2007. On Friday July 13, 2007, an official brochure of the 997 GT2 was leaked on the [[internet]].
+
+The 997 GT2 has a twin turbocharged 3.6 litre 6-cylinder engine<ref name=GT>{{cite web|title=2008 Porsche 911 GT2 - First Drive Review |url=http://www.caranddriver.com/reviews/hot_lists/high_performance/porsche_file/2008_porsche_911_gt2_first_drive_review__1|work=[[Car and Driver]]|month=December | year=2007|accessdate=2009-02-08}}</ref> based on 997 Turbo but Porsche achieved power increase through completely newly designed expansion intake manifold in which the distributor pipe is longer than in Turbo and the intake manifolds are shorter, a full titanium silencer is used also in GT2, even though the Porsche 911 (997) Carrera S variant has a slightly larger engine at 3.8 litres. Despite the power hike, Porsche claims fuel consumption at full throttle is improved by 15 percent compared with the Turbo.<ref name=GT/> The GT2 accelerates in 3.6 seconds to {{convert|60|mph|km/h|abbr=on}} and in 7.4 seconds to {{convert|100|mph|km/h|abbr=on}} and has top speed of {{convert|329|km/h|mph|abbr=on}}. This makes it the first Porsche 911 GT2 to exceed the {{convert|200|mph|km/h|abbr=on}} top speed after the 1998 [[Porsche 911 GT1]] Race Version (which is not considered an actual Porsche 911 due to its [[mid-engine design|mid-mounted]] engine and it only saw roads for homologation purposes). The Porsche 997 GT2 has a curb weight of {{convert|1440|kg|lb|abbr=on}}. Transmission choice includes only a 6-speed manual gearbox.
+
+The GT2 is the first Porsche equipped with launch control, a way of taking off with maximum force while preventing mechanical meltdown.<ref name=GT/> That means the revs are automatically set to the correct level for an optimal launch.<ref name=GT/>
+
+Based on leaked out spy photos its appearance is slightly different from its sister-car, the Porsche 911 (997) Turbo, in a few ways. It does not have fog lights in the front bumper, it has a revised front lip, it has a larger rear wing (with two small air scoops on either side), and it has a different rear bumper (now featuring [[titanium]] exhaust pipes).
+
+The Porsche 911 (997) GT2 is also different from the Porsche 911 (997) Turbo because the GT2 is [[rear-wheel-drive]] not [[all-wheel-drive]]. This causes the Porsche 911 GT2 to have a slightly faster acceleration from {{convert|100|km/h|mph|abbr=on}} than the Manual Porsche 911 Turbo by 0.2 seconds.
+
+===Engines===
+{| class="wikitable"
+|-
+!Models!!Engine!!Power, torque@rpm
+|-
+|Carrera, Carrera 4, Targa 4||{{convert|3596|cc|L cuin|abbr=on}} H6||{{convert|325|PS|kW hp|abbr=on}}@6800, {{convert|370|Nm|0|abbr=on}}@4250
+|-
+|Carrera S, Carrera 4S, Targa 4S||{{convert|3824|cc|L cuin|abbr=on}} H6||{{convert|355|PS|kW hp|abbr=on}}@6600, {{convert|400|Nm|0|abbr=on}}@4600
+|-
+|Carrera S, Carrera 4S, Targa 4S with X51 Powerkit; Club Coupe||{{convert|3824|cc|L cuin|abbr=on}} H6||{{convert|381|PS|kW hp|abbr=on}}@7200, {{convert|415|Nm|0|abbr=on}}@5500
+|-
+|GT3, GT3 RS||{{convert|3600|cc|L cuin|0|abbr=on}} H6||{{convert|415|PS|kW hp|abbr=on}}@7600, {{convert|405|Nm|0|abbr=on}}@5500
+|-
+|Turbo||{{convert|3600|cc|L cuin|0|abbr=on}} H6 twin turbo||{{convert|480|PS|kW hp|abbr=on}}@6000, {{convert|620|Nm|0|abbr=on}}@1950-5000<br>Overboost: {{convert|680|Nm|0|abbr=on}}@2100-4000
+|-
+|GT2||{{convert|3600|cc|L cuin|0|abbr=on}} H6 twin turbo||{{convert|530|PS|kW hp|0|abbr=on}}@6500, {{convert|680|Nm|0|abbr=on}}@2200-4500
+|-
+|}
+
+Models with turbocharged engines include Variable Turbine Geometry (VTG) turbochargers.
+
+===Models===
+{| class="wikitable" style="font-size: 90%; text-align: center;"
+|-
+! style="width:10%; background: #BBEEFF;" | Model
+! style="width:5%; background: #BBEEFF;" | [[Suggested retail price|MSRP]]<br />(Cost [[USD]]) <!-- This should probably all be in Euros? -->
+! style="width:17%; background: #BBEEFF;" | Horsepower, engine
+! style="width:6%; background: #BBEEFF;" | 0-60&nbsp;mph<br />0–96 kph*
+! style="width:7%; background: #BBEEFF;" | Top speed
+! style="width:15%; background: #BBEEFF;" | Slogan
+! style="width:4%; background: #BBEEFF;" | Website
+|-
+! 911 Carrera
+| $76,300
+| {{convert|345|PS|kW hp|lk=on|abbr=on}} @ 6500 rpm, 3.6 L [[dry sump|dry-sump]]
+| 4.7 [[second|s]]
+| {{convert|180|mi/h|km/h|abbr=on}}
+| Inner strength.
+| [http://www.porsche.com/usa/models/911/911-carrera/]
+|-
+! 911 Carrera S
+| $87,000
+| {{convert|385|PS|kW hp|abbr=on}} @ 6500 rpm, 3.8 L dry-sump
+| 4.5 s
+| {{convert|188|mi/h|km/h|abbr=on}}
+| A legend in top form.
+| [http://www.porsche.com/usa/models/911/911-carrera-s/]
+|-
+! 911 Carrera Cabriolet
+| $87,000
+| {{convert|345|PS|kW hp|abbr=on}} @ 6500 rpm, 3.6 L dry-sump
+| 4.9 s
+| {{convert|180|mi/h|km/h|abbr=on}}
+| Open for enthusiasm.
+| [http://www.porsche.com/usa/models/911/911-carrera-cabriolet/]
+|-
+! 911 Carrera S Cabriolet
+| $97,700
+| {{convert|385|PS|kW hp|abbr=on}} @ 6500 rpm, 3.8 L dry-sump
+| 4.7 s
+| {{convert|188|mi/h|km/h|abbr=on}}
+| Only three figures describe this feeling.
+| [http://www.porsche.com/usa/models/911/911-carrera-s-cabriolet/]
+|-
+! 911 Carrera 4
+| $82,500
+| {{convert|345|PS|kW hp|abbr=on}} @ 6500 rpm, 3.6 L dry-sump
+| 4.8 s
+| {{convert|177|mi/h|km/h|abbr=on}}
+| Safety and dynamics. Coupled to inner strength.
+| [http://www.porsche.com/usa/models/911/911-carrera-4/]
+|-
+! 911 Carrera 4S
+| $93,200
+| {{convert|385|PS|kW hp|abbr=on}} @ 6500 rpm, 3.8 L dry-sump
+| 4.5 s
+| {{convert|185|mi/h|km/h|abbr=on}}
+| Inner strength. To the power of 4.
+| [http://www.porsche.com/usa/models/911/911-carrera-4s/]
+|-
+! 911 Carrera 4 Cabriolet
+| $93,200
+| {{convert|345|PS|kW hp|abbr=on}} @ 6500 rpm, 3.6 L dry-sump
+| 5.0 s
+| {{convert|177|mi/h|km/h|abbr=on}}
+| All-wheel drive for all-weather pleasure.
+| [http://www.porsche.com/usa/models/911/911-carrera-4-cabriolet/]
+|-
+! 911 Carrera 4S Cabriolet
+| $103,900
+| {{convert|385|PS|kW hp|abbr=on}} @ 6500 rpm, 3.8 L dry-sump
+| 4.7 s
+| {{convert|185|mi/h|km/h|abbr=on}}
+| The sky is the limit.
+| [http://www.porsche.com/usa/models/911/911-carrera-4s-cabriolet/]
+|-
+! 911 Targa 4
+| $90,400
+| {{convert|345|PS|kW hp|abbr=on}} @ 6500 rpm, 3.6 L dry-sump
+| 5.0 s
+| {{convert|177|mi/h|km/h|abbr=on}}
+| Coupe or Cabriolet? Both, actually.
+| [http://www.porsche.com/usa/models/911/911-targa-4/]
+|-
+! 911 Targa 4S
+| $101,100
+| {{convert|385|PS|kW hp|abbr=on}} @ 6500 rpm, 3.8 L dry-sump
+| 4.7 s
+| {{convert|185|mi/h|km/h|abbr=on}}
+| Completely new. Yet true to its core.
+| [http://www.porsche.com/usa/models/911/911-targa-4s/]
+|-
+! 911 Turbo
+| $132,800
+| {{convert|470|PS|kW hp|abbr=on}} @ 6000 rpm, 3.6 L dry-sump
+| 3.5 s
+| {{convert|194|mi/h|km/h|abbr=on}}
+| Efficiency Demands Performance
+| [http://www.porsche.com/usa/models/911/911-turbo/]
+|-
+! 911 Turbo Cabriolet
+|$142,800
+| {{convert|470|PS|kW hp|abbr=on}} @ 6000 rpm, 3.6 L dry-sump
+| 3.6s
+| {{convert|194|mi/h|km/h|abbr=on}}
+| Efficiency Demands Performance
+| [http://www.porsche.com/usa/models/911/911-turbo-cabriolet/]
+|-
+! 911 GT3
+| $112,200
+| {{convert|415|PS|kW hp|abbr=on}} @ 7600 rpm, 3.8 L dry-sump
+| 4.0 s
+| {{convert|194|mi/h|km/h|abbr=on}}
+| From the inner sanctum.
+| [http://www.porsche.com/usa/models/911/911-gt3/]
+|-
+! 911 GT3 RS
+| $132,800
+| {{convert|415|PS|kW hp|abbr=on}} @ 7600 rpm, 3.6 L dry-sump
+| 3.9 s
+| {{convert|193|mi/h|km/h|abbr=on}}
+| Origin Motorsport.
+| [http://www.porsche.com/usa/models/911/911-gt3-rs/]
+|-
+! 911 GT2
+| $194,000
+| {{convert|530|PS|kW hp|abbr=on}} @ 6500 rpm, 3.6 L dry-sump
+| 3.5 s
+| {{convert|204|mi/h|km/h|abbr=on}}
+| Respect required.
+| [http://www.porsche.com/usa/models/911/911-gt2/]
+|}
+
+*Note: 0-60&nbsp;mph acceleration times refer to the time taken to reach 60 [[miles per hour]] (96 [[kilometers per hour]]).
+*Note: MSRP prices are set to the [[United States]]. In [[Europe]] prices are considerably higher and in some countries can even be the double of the American price.<ref>[http://www.porsche.no/index.php?page_id=4&catalogId=3&pci=7F9A3A7A42 1.470.000 NOK converts to 218.399 USD.]</ref>
+*Note: dry sump in all but GT3, GT3 RS, GT2 and Turbo versions, is a simplified version of dry-sump, with an internal oil reservoir instead of an external one, and only 3 pumps instead of the 7 in the more powerful version of the 911
+
+==Second generation (2009-)==
+[[File:'09 Porsche 911 Convertible (MIAS).JPG|thumb|right|2009 Porsche 911 convertible (North America)]]
+The 997 was revised in 2008 for the 2009 [[model year]]. The updated Porsche 911 (called 997 Gen II internally at Porsche<ref>{{cite web |url=http://www.autoweek.com/apps/pbcs.dll/article?AID=/20080722/FREE/30254095/1532/FREE |title=DRIVES: 2009 Porsche 911 |accessdate=2008-10-01 |author=Vettraino, J.P. |date=July 21, 2008 |work=AutoWeek |page=18 }}</ref>) included following changes:
+
+*A revised front [[bumper]] with larger air intakes
+*[[Headlamp]]s with newly optional dual HID projectors, a new LED taillamp shape, and LED turnsignals
+*New [[direct injection]] engines with redesigned Porsche Sport Exhaust (PSE)
+*Redesigned PCM system with optional touch-screen hard-drive navigation
+*Tiptronic S option was replaced by PDK (Porsche Doppelkupplung) 7-speed [[dual clutch transmission]].<ref>[http://www.caranddriver.com/carnews/12430/spied-2009-porsche-911-carrera-s.html Car & Driver - Spied: 2009 Porsche Carrera S]</ref><ref>[http://www.motorauthority.com/cars/porsche/details-on-porsches-2008-911-update/  Details on Porsche’s 2008 911 update]</ref><ref>[http://www.evo.co.uk/videos/planetevovideos/223848/porsche-911.html EVO: Porsche 911]</ref>
+
+Production began at late 2008. Pricing was increased from the 997, Gen I; the base Carrera model is set to start at US$ 76,300 for North American buyers.
+
+Initially available models include coupe and cabriolet versions of Carrera, Carrera 4, Carrera S and Carrera 4S. The car was unveiled at the [[Paris Auto Show]] in September 2008.
+
+On June 6, 2008, these changes to the Porsche 911 were revealed on the Porsche website. The Turbo will have to wait until the [[Frankfurt Motor Show|Frankfurt show]] in September, thereafter the Turbo-based [[Porsche 911 GT2|GT2]] will be updated.<ref name=Meiners/>
+
+===Targa (2009-)===
+The updated Targa and Targa 4S models were announced on the 28th of July 2008.<ref>[http://paultan.org/archives/2008/07/28/facelifted-2009-porsche-911-targa-4-and-targa-4s/ Facelifted 2009 Porsche 911 Targa4 and Targa 4S]</ref>
+
+===GT3 (2010-)===
+The 2010 Porsche 911 GT3 was unveiled at the [[Geneva Motor Show#2009|2009 Geneva Motor Show]]<ref name=Meiners/>, available in Europe from May, in the US from October.<ref name=Meiners/> To make the GT3 safe for less experienced drivers, the stability control system is available<ref>{{cite web|url=http://www.roadandtrack.com/article.asp?section_id=10&article_id=7830|title=2010 Porsche 911 GT3|last=DeLorenzo|first=Matt |month=March | year=2009|work=[[Road & Track Magazine]]|accessdate=2009-04-15}}</ref> on the 2010 model year GT3 for the first time.<ref name=Meiners>{{cite web|url=http://www.caranddriver.com/news/auto_shows/2009_geneva_auto_show_auto_shows/production_debuts/2010_porsche_911_gt3_auto_shows|title=2010 Porsche 911 GT3 - Auto Shows |last=Meiners|first=Jen|month=January | year=2009|work=[[Car and Driver]]|accessdate=2009-04-11}}</ref> Changes to the exterior are only subtle still recognizable<ref name=Meiners/> bringing about aerodynamic improvements.<ref name=Meiners/> Total downforce has been doubled.<ref name=Meiners/>
+
+Power output rises from 415 to 435&nbsp;hp.<ref name=Meiners/>
+
+===Turbo/Turbo Cabriolet (2009-)===
+Models equipped with PDK also include an optional 3-spoke steering wheel with gearshift paddles as an alternative to the standard steering wheel with shift buttons.
+
+Other optional equipment include Porsche Torque Vectoring (PTV).
+
+The vehicle was unveiled in 2009 [[Frankfurt Motor Show]].
+
+Production versions went on sale in Germany in 2009-11-21. European models have MSRP of €122,400 for Coupé and €131,800 for the Cabriolet (before tax).<ref>[http://www.autoblog.com/2009/08/07/porsche-unveils-facelifted-2010-911-turbo-packing-500-horsepower/ Porsche unveils facelifted 2010 911 Turbo packing 500 horsepower]</ref>
+
+===GT3 RS (2010-)===
+It is a version of GT3 with more engine power, lower weight and shorter transmission ratios, as well as upgraded body and suspension components, designed for homologating the race version of the 911 GT3. Engine was rated {{convert|450|PS|kW hp|abbr=on}} with 8500 rpm redline.
+
+The transmission has shorter ratios than found in the 911 GT3 for improved acceleration. Dynamic engine mounts are standard and serve to improve the car's handling to an even higher level. Other features include PASM suspension, a wider front and rear track and corresponding bodywork.
+
+Optional equipment include lithium-ion battery, which is {{convert|10|kg|lb|abbr=on}} lighter than stock lead-acid battery.
+
+The vehicle was unveiled in 2009 Frankfurt Motor Show.
+
+US model was set to go on sale in early spring of 2010 with MSRP of $132,800US.<ref>[http://www.autoblog.com/2009/08/19/breaking-porsche-unveils-sportier-2010-911-gt3-rs/ BREAKING: Porsche unveils sportier 2010 911 GT3 RS]</ref>
+
+===GT3 Cup (2009-)===
+It is a Porsche Carrera Cups race car based on 911 GT3 RS. It includes {{convert|44|mm|in|abbr=on}} wider rear body, {{convert|15|mm|in|abbr=on}} lower front spoiler lip, {{convert|1.70|m|in|abbr=on}} rear wing (from 911 GT3 Cup S race car), LED taillights, racing exhaust system with a fully controlled catalytic converter, a modified special exhaust system offering more dynamic and muscular sound (from Porsche Mobil1 Supercup cars), Porsche Ceramic Composite Brakes. 9.5Jx18 front alloy wheels with 24/64-18 Michelin racing tyres and 12Jx18 alloy wheels with 27/68-18 tyres, additional Unibal joints on the track control arms and front and rear sword-shaped anti-roll bars with seven position settings each, additional vent in the upper part of the front lid, steering wheel mounted Info Display with 6 switches, Carrara White body.
+
+The vehicle was unveiled in 2009 Frankfurt Motor Show.
+
+Production model began delivery in 2009-10. European model has base MSRP of €149,850 (before tax).<ref>[http://www.autoblog.com/2009/08/26/pavlovs-bellporsche-reveals-prices-new-911-gt3-cup-racer-ahead-of-frankfurt/ Pavlov's Bell: Porsche reveals, prices new 911 GT3 Cup racer ahead of Frankfurt debut]</ref>
+
+===911 Sport Classic (2010-)===
+It is a limited (250 units) version of 911 Carerra S coupé, inspired by the 1973 Carrera RS 2.7. The engine is rated {{convert|408|PS|kW hp|abbr=on}} via newly developed resonance intake manifold with 6 vacuum-controlled switching flaps. It includes 6-speed manual transmission, double-dome roof, 44mm wider rear body, SportDesign front apron with spoiler lip and the rear spoiler fixed in position (from 1973 Carrera RS 2.7), PCCB Porsche Ceramic Composite Brakes, 20mm lower PASM sports suspension, mechanical rear axle differential, 19-inch wheels with black rim spokes, Porsche Exclusive woven leather seats and door panels, dashboard with Espresso Nature natural leather upholstery, Sport Classic Grey body colour.
+
+The vehicle was unveiled in 2009 Frankfurt Auto Show.<ref>[http://www.autoblog.com/2009/09/16/frankfurt-2009-porsche-911-sport-classic-shares-a-funky-tail-f Frankfurt 2009: Porsche 911 Sport Classic shares a funky tail, funky colors]</ref>
+
+Production vehicles went on sale in January 2010. European model had base MSRP of €169,300 (before tax).<ref>[http://www.autoblog.com/2009/09/02/frankfurt-preview-limited-edition-porsche-911-sport-classic-mar/ Frankfurt Preview: Limited-edition Porsche 911 Sport Classic marks return of the ducktail]</ref>
+
+===Engines===
+{| class="wikitable"
+|-
+!Models!!Engine!!Power (hp, torque)@rpm
+|-
+|Carrera, Carrera 4, Targa 4||{{convert|3614|cc|L cuin|abbr=on}} H6||{{convert|345|PS|0|kW hp|abbr=on}}@6500, {{convert|390|Nm|0|abbr=on}}@4400
+|-
+|Carrera S, Carrera 4S, Targa 4S||{{convert|3800|cc|L cuin|0|abbr=on}} H6||{{convert|385|PS|0|kW hp|abbr=on}}@6500, {{convert|420|Nm|0|abbr=on}}@4400
+|-
+|GT3||{{convert|3800|cc|L cuin|0|abbr=on}} H6||{{convert|435|PS|kW hp|0|abbr=on}}@7600, {{convert|430|Nm|0|abbr=on}}@6250
+|-
+|GT3 RS, GT3 Cup||{{convert|3800|cc|L cuin|0|abbr=on}} H6||{{convert|450|PS|kW hp|0|abbr=on}}@7900, {{convert|430|Nm|0|abbr=on}}@6750
+|-
+|Turbo, Turbo Cabriolet||{{convert|3800|cc|L cuin|0|abbr=on}} H6 Twin Turbo||{{convert|500|PS|kW hp|0|abbr=on}}@6000, {{convert|651|Nm|0|abbr=on}}@1950-5000 <BR>overboost: {{convert|700|Nm|0|abbr=on}}@2100-4000
+|-
+|Sport Classic||{{convert|3800|cc|L cuin|0|abbr=on}} H6||{{convert|408|PS|kW hp|0|abbr=on}}@7300, 
+|}
+
+===Transmissions===
+All models include standard 6-speed manual transmission. 7-speed Porsche Doppelkupplung (PDK) transmission is available in all but GT3, GT3 RS, GT3 Cup, GT2, Sport Classic models. PDK transmission includes Sport Plus setting that includes launch control and motorsport derived gearshifting.
+
+===Performance===
+{| class="wikitable"
+|-
+!rowspan=2|Model!!colspan=2|Acceleration (0-60&nbsp;mph) (s)!!colspan=3|Acceleration (0–100&nbsp;km/h) (s)!!colspan=2|Top speed
+|-
+|manual||PDK||manual||PDK||PDK Sport+||manual||PDK
+|-
+|Carrera||4.7||4.5||4.9||4.7||4.5||{{convert|289|km/h|mph|abbr=on}}||{{convert|287|km/h|mph|abbr=on}}
+|-
+|Carrera Cabriolet||4.9||4.7||5.1||4.9||4.7||{{convert|289|km/h|mph|abbr=on}}||{{convert|287|km/h|mph|abbr=on}}
+|-
+|Carrera 4||4.8||4.6||5.0||4.8||4.6||{{convert|284|km/h|mph|abbr=on}}||{{convert|282|km/h|mph|abbr=on}}
+|-
+|Carrera 4 Cabriolet||5.0||4.8||5.2||5.0||4.8||{{convert|284|km/h|mph|abbr=on}}||{{convert|282|km/h|mph|abbr=on}}
+|-
+|Carrera S||4.5||4.3||4.7||4.5||4.3||{{convert|302|km/h|mph|abbr=on}}||{{convert|300|km/h|mph|abbr=on}}
+|-
+|Carrera S Cabriolet||4.7||4.5||4.9||4.7||4.5||{{convert|302|km/h|mph|abbr=on}}||{{convert|300|km/h|mph|abbr=on}}
+|-
+|Carrera 4S||4.5||4.3||4.7||4.5||4.3||{{convert|297|km/h|mph|abbr=on}}||{{convert|295|km/h|mph|abbr=on}}
+|-
+|Carrera 4S Cabriolet||4.7||4.5||4.9||4.7||4.5||{{convert|297|km/h|mph|abbr=on}}||{{convert|295|km/h|mph|abbr=on}}
+|-
+|Targa 4||5.2||5.0||5.2||5.0||4.8||{{convert|284|km/h|mph|abbr=on}}||{{convert|282|km/h|mph|abbr=on}}
+|-
+|Targa 4S||4.9||4.7||4.9||4.7||4.5||{{convert|297|km/h|mph|abbr=on}}||{{convert|295|km/h|mph|abbr=on}}
+|-
+|GT3||4.0||-||4.1||-||-||{{convert|312|km/h|mph|abbr=on}}||-
+|-
+|GT3 RS||3.8||-||4.0||-||-||{{convert|310|km/h|mph|abbr=on}}||-
+|-
+|GT3 Cup||?||-||?||-||-||?||-
+|-
+|Turbo||3.4||3.2||3.7||?||?||{{convert|312|km/h|mph|abbr=on}}||{{convert|312|km/h|mph|abbr=on}}
+|-
+|Turbo Cabriolet||3.5||3.3||3.8||?||?||{{convert|312|km/h|mph|abbr=on}}||{{convert|312|km/h|mph|abbr=on}}
+|-
+|Sport Classic||?||-||4.6||-||-||{{convert|302|km/h|mph|abbr=on}}||-
+|-
+|}
+
+===Physical===
+{| class="wikitable"
+|-
+!Model!!Weight (PDK +{{convert|30|kg|lb|0|abbr=on}}, Cabriolet +{{convert|85|kg|lb|0|abbr=on}}, lithium ion battery -{{convert|10|kg|lb|0|abbr=on}})!!Wheel/tire (front)!!Wheel/tire (rear)
+|-
+|Carrera||{{convert|1490|kg|lb|0|abbr=on}}||8x18in, 235/40ZR18||10.5x18in, 265/40ZR18
+|-
+|Carrera 4||{{convert|1545|kg|lb|0|abbr=on}}||8x19in, 235/35ZR19||11x19in, 295/30ZR19
+|-
+|Carrera S||{{convert|1500|kg|lb|0|abbr=on}}||8.5x19in, 235/35ZR19||11.5x19in, 305/35ZR19
+|-
+|Carrera 4S||{{convert|1555|kg|lb|0|abbr=on}}||8x19in, 235/35ZR19||11x19in, 305/30ZR19
+|-
+|Targa 4||{{convert|1605|kg|lb|0|abbr=on}}||8x18in, 235/40ZR18||11x18in, 295/35ZR18
+|-
+|Targa 4S||{{convert|1615|kg|lb|0|abbr=on}}||8x19in, 235/35ZR19||11x19in, 305/30ZR19
+|-
+|GT3||{{convert|1470|kg|lb|0|abbr=on}}||8.5x19in 235/35ZR19||12x19in 305/30ZR19
+|-
+|GT3 RS||{{convert|1360|kg|lb|0|abbr=on}}||9x19in, 245/35ZR19||12x19in, 325/30ZR19
+|-
+|GT3 Cup||{{convert|1200|kg|lb|0|abbr=on}}||9.5x18in, 24/64-18||12x18in, 27/68-18
+|-
+|Turbo||{{convert|1570|kg|lb|0|abbr=on}}||?||?
+|-
+|}
+
+==GT3 Tequipment (2009-)==
+It is a line of accessories for Type 997 models of the GT3 and GT3 RS developed by Porsche's Motorsport Division in Weissach, began sale in 2009-09 for all regions except China. Part choices include titanium double tailpipe, carbon rear spoiler lip (Gurney flap) and rear lid ram air scoop, carbon front above bumper air outlet and rear-view mirrors, forged aluminium 19-inch GT3 wheels with central locking.<ref>[http://www.worldcarfans.com/109091021629/porsche-911-gt3-and-gt3-rs-tequipment--retrofitted-motorsport Porsche 911 GT3 and GT3 RS Tequipment - Retrofitted Motorsport Accessories]</ref>
+
+For first generation of the 911 GT3 and GT3 RS, there is also a model designation in various wheel colours extending round the wheel.
+
+==Marketing==
+In June 2009 Porsche Cars North America partnered with five New York City street artists to unveil five graffiti-decorated Porsche 911 hoods in the [[Helenbeck Gallery]]. The hoods were sold to raise funds for CITYarts, a New York City based organization whose mission is to bring children in contact with public artists.<ref>[http://www.cnw.ca/fr/releases/archive/June2009/02/c2366.html Five legendary NYC street artists use Porsche 911 hoods as canvas]</ref><ref><!-- Previously malware website link in helenbeck gallery --></ref>
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* {{cite web|title=Geneva Giant: Porsche’s race-bred 911 is back|url=http://autoweek.com/apps/pbcs.dll/article?AID=/20060224/FREE/60223010/1024/LATESTNEWS|work=[[AutoWeek]]|accessdate=February 27, 2006}}
+
+==External links==
+{{commonscat|Porsche 997}}
+*[http://www.porsche.com/international/models/911/ Official Porsche website]
+*[http://www.motortrend.com/av/reviews/112_0811_2009_porsche_911_carrera_video/index.html Porsche 911 Carrera updates for 2009] [[Motor Trend]]
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|997]]
+[[Category:Sports cars]]
+[[Category:Vehicles with boxer engines]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2004]]
+
+[[de:Porsche 997]]
+[[fr:Porsche 911 (997)]]
+[[it:Porsche 997]]
+[[nah:Porsche 997 Carrera]]
+[[nl:Porsche 997]]
+[[pl:Porsche 911 (997)]]
+[[pt:Porsche 997]]
+[[ru:Porsche 997]]
+[[fi:Porsche 997]]
+[[sv:Porsche 997]]
+[[tr:Porsche 997]]

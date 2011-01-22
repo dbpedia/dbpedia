@@ -1,0 +1,3 @@
+{{TemplateMapping
+| mapToClass = HockeyTeam
+}}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+////////////////////////////////////////////////////////////////////////////////
+//
+// Copyright (C) 2003-2006 Adobe Macromedia Software LLC and its licensors.
+// All Rights Reserved.
+// The following is Sample Code and is subject to all restrictions on such code
+// as contained in the End User License Agreement accompanying this product.
+// If you have received this file from a source other than Adobe,
+// then your use, modification, or distribution of it requires
+// the prior written permission of Adobe.
+//
+////////////////////////////////////////////////////////////////////////////////
+-->
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" creationComplete="InitializeData()" 
+	xmlns:fc="http://www.adobe.com/2006/fc" xmlns:ns="*">
+<mx:Script source="RestaurantFinder.as" />
+
+<mx:XML source="Hotels.xml" id="hotels" />
+<mx:Panel width="60%" height="80%" verticalGap="30" paddingLeft="30" paddingTop="20" paddingBottom="20"
+	 paddingRight="20" title="Restaurant Finder sample">
+	<mx:Text text="This example illustrates use of custum ItemRenderer in an AutoComplete component. It also has custom 
+filter function" fontFamily="Verdana" textAlign="justify" color="#0000ff" fontSize="10"/>
+	<mx:HBox horizontalGap="25">
+		<mx:Text width="212" fontFamily="Verdana" textAlign="justify" color="#0000ff" fontSize="10" htmlText="&lt;b&gt;Usage:&lt;/b&gt;                                                          
+		Enter your favorite cuisine to see list of hotels providing that cuisine, to see details of particular hotel select that hotel from dropdown and press enter key"/>
+		<mx:VBox paddingTop="20">
+			<fc:AutoComplete  enter="SetData()" id="ac" dataProvider="{hotelList}"  width="250" filterFunction="MyFilterFunction"
+			itemRenderer="{new ClassFactory(AutoCompleteIR)}" labelFunction="CuisineLabel" open="ac.dropdown.variableRowHeight = true;ac.dropdown.wordWrap = true;"/>	
+		</mx:VBox>
+	</mx:HBox>
+	<ns:RestaurantDetails id="restaurantDetails"/>
+	<mx:Text id="description" y="455" text="" width="316" height="110"/>
+</mx:Panel>
+</mx:Application>

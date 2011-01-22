@@ -1,0 +1,27 @@
+{{ DBpediaTemplateMapping
+| mapToClass = MilitaryPerson
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = placeofburial_label | ontologyProperty = MilitaryPerson/noteOnPlaceOfBurial }}
+	{{ DBpediaPropertyMapping | templateProperty = allegiance | ontologyProperty = MilitaryPerson/allegiance }}
+	{{ DBpediaPropertyMapping | templateProperty = branch | ontologyProperty = MilitaryPerson/branch }}
+    {{ DBpediaDateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = MilitaryPerson/serviceStartDate | endDateOntologyProperty = MilitaryPerson/serviceEndDate }}
+	{{ DBpediaDateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = MilitaryPerson/serviceStartYear | endDateOntologyProperty = MilitaryPerson/serviceEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = rank | ontologyProperty = MilitaryPerson/militaryRank }}
+
+<!--
+	{{ DBpediaPropertyMapping | templateProperty = unit | ontologyProperty = MilitaryPerson/unit }}
+	{{ DBpediaPropertyMapping | templateProperty = commands | ontologyProperty = MilitaryPerson/command }}
+	{{ DBpediaPropertyMapping | templateProperty = battles | ontologyProperty = MilitaryPerson/battle }}
+-->
+
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = born | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = died | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofburial | ontologyProperty = Person/restingPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = relations | ontologyProperty = Person/relation }}
+	{{ DBpediaPropertyMapping | templateProperty = laterwork | ontologyProperty = Person/occupation }}
+}}

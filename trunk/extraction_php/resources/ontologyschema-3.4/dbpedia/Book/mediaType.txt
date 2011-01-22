@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = media type
+|rdfs:domain = Book
+|rdfs:range = owl:Thing
+}}

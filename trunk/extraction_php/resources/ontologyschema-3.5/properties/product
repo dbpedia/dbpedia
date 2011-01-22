@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = product
+| rdfs:domain = Organisation
+}}

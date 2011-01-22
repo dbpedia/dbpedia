@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = current member
+| rdfs:range = Person
+}}

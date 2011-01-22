@@ -1,0 +1,126 @@
+{{Infobox Automobile
+| name           = Volkswagen Polo Mk 5
+| image          = [[Image:VW Polo (6).JPG|250px|2009 Volkswagen Polo Mark V at the Geneva Motor Show]]
+| manufacturer   = [[Volkswagen]]
+| parent_company = [[Volkswagen Group]]
+| production   = 2009–
+| class        = [[Supermini car|Supermini]]
+| body_style   = 3-door [[hatchback]]<br> 5-door [[hatchback]]
+| layout       = [[FF layout]]
+| platform     = [[Volkswagen Group A0 platform#PQ25|Volkswagen Group PQ25]]
+| predecessor  = [[Volkswagen Polo Mk4]]
+| engine         = 1.2L [[Straight-3|I3]]<br>1.2L [[Straight-4|I4]] TSI<br>1.4L I4<br>1.6L I4 [[Turbo Direct Injection|TDI]]
+| transmission   = 5-speed [[Manual transmission|manual]]<br>6-speed [[Manual transmission|manual]]<br>7-speed [[Direct-Shift Gearbox]]
+| wheelbase      = 
+| length         = {{convert|3952|mm|in|1|abbr=on}}
+| width          = {{convert|1682|mm|in|1|abbr=on}}
+| height         = {{convert|1454|mm|in|1|abbr=on}}
+| weight         =
+| fuel_capacity  =
+| related        = [[SEAT Ibiza]] Mk4<br>[[Audi A1]]
+| designer       = [[Walter de Silva]]
+}}
+
+The '''Volkwagen Polo Mk5''' is the fifth generation of the [[Volkswagen Polo]]  [[supermini car|supermini]]-class car, launched by [[Volkswagen]] in March 2009.
+
+The Mark 5 Polo, internally designated ''Typ 6R'', is based on Volkwagen's [[Volkswagen Group A0 platform#PQ25|PQ25]] platform, shared with the 2008 [[SEAT Ibiza]]. Its styling, by a team led by [[Walter de Silva]], follows the direction of the previous 2008 [[Volkswagen Scirocco]] and [[Volkswagen Golf Mk6|Golf VI]]. Slightly larger than the previous generation Polo, the Mark 5 is, however, 7.5% lighter.
+
+The car was unveiled in 2009 Geneva Motor Show.<ref>[http://www.autoblog.com/2009/03/03/geneva-2009-2010-volkswagen-polo/ Geneva 2009: 2010 Volkswagen Polo]</ref>
+
+==Specifications==
+===Features===
+The European version includes a standard [[Electronic stability control|ESP]] electronic stabilization program with Hill Hold Control, head-thorax airbags (integrated in the front seatbacks), belt tensioners and belt force limiters plus seatbelt warning indicator and head restraints, three rear head restraints and Isofix child seat preparation.
+
+===Engines===
+;Petrol engines:
+{| class="wikitable" style="text-align: center; font-size:95%;"
+|-
+!width="110px"| Model
+!width="160px"| Engine
+!width="180px"| Power@rpm
+!width="180px"| torque@rpm
+!width="100px"| 0-100 km/h acceleration
+!width="140px"| Top speed
+!width="150px"| Transmission
+!width="80px"| CO2<br />emissions
+|-
+|1.2||{{convert|1198|cc|cuin||abbr=on}} I3||{{convert|60|PS|kW hp||abbr=on}} @5200 ||{{convert|108|Nm|lbft||abbr=on}} @3000||16.1s||{{convert|157|km/h|mph|0|abbr=on}}||5-spd manual ||128 g/km
+|-
+|1.2||{{convert|1198|cc|cuin||abbr=on}} I3||{{convert|70|PS|kW hp||abbr=on}} @5400 ||{{convert|112|Nm|lbft||abbr=on}} @3000||14.1s||{{convert|165|km/h|mph|0|abbr=on}}||5-spd manual ||128 g/km
+|-valign="top"
+|1.4||{{convert|1390|cc|cuin||abbr=on}} I4||{{convert|85|PS|kW hp||abbr=on}} @5000 ||{{convert|132|Nm|lbft||abbr=on}} @3800||11.9s||{{convert|177|km/h|mph|0|abbr=on}}||5-spd manual,<br />7-spd [[Direct Shift Gearbox|DSG]] <small>(optional)</small> ||139 g/km <br />135 g/km
+|-valign="top"
+|1.2 TSI||{{convert|1197|cc|cuin||abbr=on}} turbo I4||{{convert|105|PS|kW hp||abbr=on}} @5000 ||{{convert|175|Nm|lbft||abbr=on}} @1500-4100||9.7s||{{convert|190|km/h|mph|0|abbr=on}}||6-spd manual,<br />7-spd [[Direct Shift Gearbox|DSG]] <small>(optional)</small> ||129 g/km <br /> 124 g/km
+|}
+ 
+;[[Common rail]] diesel engines:
+{| class="wikitable" style="text-align: center; font-size:95%;"
+|-
+!width="110px"| Model
+!width="160px"| Engine
+!width="180px"| Power@rpm
+!width="180px"| torque@rpm
+!width="100px"| 0-100 km/h acceleration
+!width="140px"| Top speed
+!width="150px"| Transmission
+!width="80px"| CO2<br />emissions
+|-
+|1.6 TDI||{{convert|1595|cc|cuin||abbr=on}} turbo I4||{{convert|75|PS|kW hp||abbr=on}} @4000 ||{{convert|195|Nm|lbft||abbr=on}} @1500-2500||13.9s||{{convert|170|km/h|mph|0|abbr=on}}||5-spd manual ||109 g/km
+|-valign="top"
+|1.6 TDI||{{convert|1595|cc|cuin||abbr=on}} turbo I4||{{convert|90|PS|kW hp||abbr=on}} @4200 ||{{convert|230|Nm|lbft||abbr=on}} @1500-2500||11.5s||{{convert|180|km/h|mph|0|abbr=on}}||5-spd manual,<br />7-spd [[Direct Shift Gearbox|DSG]] <small>(optional)</small> ||109 g/km <br /> 112 g/km
+|-
+|1.6 TDI BlueMotion||{{convert|1595|cc|cuin||abbr=on}} turbo I4||{{convert|90|PS|kW hp||abbr=on}} @4200 ||{{convert|230|Nm|lbft||abbr=on}} @1500-2500||11.5s||{{convert|180|km/h|mph|0|abbr=on}}||5-spd manual ||96 g/km
+|-
+|1.6 TDI||{{convert|1595|cc|cuin||abbr=on}} turbo I4||{{convert|105|PS|kW hp||abbr=on}} @4400 ||{{convert|250|Nm|lbft||abbr=on}} @1500-2500||10,4s||{{convert|189|km/h|mph|0|abbr=on}}||5-spd manual ||109 g/km
+|}
+
+===Safety===
+*EuroNCAP: 5 stars<ref>{{Cite web
+| title =Volkswagen Polo gets three doors and five stars
+| accessdate = 2009-08-27
+| url = http://www.ausmotive.com/2009/08/27/volkswagen-polo-three-door.html
+}}</ref>
+
+==Polo "Wörthersee 09"==
+It is a concept car based on Polo.
+
+It includes Flash Red body with black rally stripes, 18-inch Budapest wheels, high gloss black interior, aluminum tread lates.
+
+The vehicle was unveiled at GTI Meet at Wörthersee.<ref>[http://www.autoblog.com/2009/05/20/seeing-red-vw-unveils-gti-and-polo-worthersee-09-concepts/ Seeing Red: VW unveils GTI and Polo Wörthersee '09 concepts]</ref>
+
+==North American release==
+The North American market will finally see the Polo in its vehicle lineup with the release of the fifth generation version of the vehicle. However, it will not receive the 3 or 5-door hatchback versions that the rest of the world will receive. Instead, the North American market will receive a 4-door [[Sedan (automobile)|sedan]] and an [[Multi-purpose vehicle|MPV]] version of the vehicle. Production of the 4-door sedan Polo will commence in 2012 at Volkswagen's production facility in [[Puebla, Puebla|Puebla, Mexico]], alongside the sixth generation [[Volkswagen Jetta|Jetta]]/[[Volkswagen New Compact Sedan|NCS]].<ref>[http://www.caranddriver.com/reviews/hot_lists/high_performance/vw_audi_central/upcoming_volkswagen_models_lineup_to_get_less_german_car_news Upcoming Volkswagen models lineup to get less German], Retrieved 30-5-09</ref>
+
+==See also==
+*[[Volkswagen Polo]] for an overview of all models
+*[[Volkswagen Polo Mk1]]
+*[[Volkswagen Polo Mk2]]
+*[[Volkswagen Polo Mk3]]
+*[[Volkswagen Polo Mk4]]
+
+==References==
+{{reflist}}
+*{{cite web|url=http://www.volkswagen.co.uk/volkswagen-world/news/item/131|title=Volkswagen News: Smarter, lighter and even cleaner: fifth generation Polo unveiled|date=2009-03|work=www.volkswagen.co.uk|accessdate=2009-03-09}}
+*{{cite web|url=http://www.caranddriver.com/news/auto_shows/2009_geneva_auto_show_auto_shows/production_debuts/2009_volkswagen_polo_auto_shows|title=2009 Volkswagen Polo - Auto Shows|last=Meiners|first=Jens|date=2009-03|work=[[Car and Driver]]|accessdate=2009-03-09}}
+
+==External links==
+*[http://carandbikeblog.com/2009/05/02/2009-volkswagen-polo-pre-launch-review/ 2009 Volkswagen Polo Mk5 Review and Images]
+*[http://consumerguideauto.howstuffworks.com/2010-volkswagen-polo.htm 2010 Volkswagen Polo Review and Prices]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (South America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Polo 5]]
+[[Category:Subcompact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:Vehicles introduced in 2009]]
+[[Category:2000s automobiles]]
+[[Category:Upcoming automobiles]]
+
+[[da:Volkswagen Polo V]]
+[[de:VW Polo V]]
+[[fr:Volkswagen Polo V]]
+[[it:Volkswagen Polo (2009)]]
+[[uk:Volkswagen Polo 5]]

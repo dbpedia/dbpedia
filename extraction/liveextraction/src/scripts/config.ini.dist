@@ -1,0 +1,10 @@
+[BERLIN_DB]
+uri      = 
+username = 
+password = 
+
+[WIKIEDIT]
+# domain is without http - e.g. meta.wikimedia.org, localhost/wiki
+domain   =
+username =
+password =

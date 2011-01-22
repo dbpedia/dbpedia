@@ -1,0 +1,40 @@
+== Defined namespace prefixes for DBpedia ==
+The namespace prefixes defined in the table below will be recognized for template-arguments that allow Manchester OWL Syntax when editing class or property definitions on the [[DBpedia/ontology]] subpages.
+
+This page is purely informative which means that modifications will have no effect on the DBpedia data extraction process.
+These mappings are maintained by the DBpedia team and cannot be changed via the wiki.
+
+{| class="wikitable"
+! prefix
+! name
+|-
+| (none)
+| http://dbpedia.org/ontology/
+|-
+| foaf
+| http://xmlns.com/foaf/0.1/
+|-
+| opencyc
+| http://sw.opencyc.org/concept/
+|-
+| owl
+| http://www.w3.org/2002/07/owl#
+|-
+| rdf
+| http://www.w3.org/1999/02/22-rdf-syntax-ns#
+|-
+| rdfs
+| http://www.w3.org/2000/01/rdf-schema#
+|-
+| skos
+| http://www.w3.org/2004/02/skos/core#
+|-
+| umbel-sc
+| http://umbel.org/umbel/sc/
+|-
+| xsd
+| http://www.w3.org/2001/XMLSchema#
+|-
+| yago
+| http://www.mpii.de/yago/resource/
+|}

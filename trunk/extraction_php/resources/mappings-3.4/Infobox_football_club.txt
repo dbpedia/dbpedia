@@ -1,0 +1,36 @@
+{{ DBpediaTemplateMapping
+| mapToClass = SoccerClub
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = dissolved | ontologyProperty = SoccerClub/dissolved }}
+	{{ DBpediaPropertyMapping | templateProperty = ground | ontologyProperty = SoccerClub/ground }}
+	{{ DBpediaPropertyMapping | templateProperty = capacity | ontologyProperty = SoccerClub/capacity }}
+	{{ DBpediaPropertyMapping | templateProperty = chrtitle | ontologyProperty = SoccerClub/chairmanTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = chairman | ontologyProperty = SoccerClub/chairman }}
+	{{ DBpediaPropertyMapping | templateProperty = ceo | ontologyProperty = SoccerClub/ceo }}
+	{{ DBpediaPropertyMapping | templateProperty = mgrtitle | ontologyProperty = SoccerClub/managerTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = manager | ontologyProperty = SoccerClub/manager }}
+	{{ DBpediaPropertyMapping | templateProperty = season | ontologyProperty = SoccerClub/season }}
+	{{ DBpediaPropertyMapping | templateProperty = position | ontologyProperty = SoccerClub/position }}
+	{{ DBpediaPropertyMapping | templateProperty = pattern_la1 | ontologyProperty = SoccerClub/leftArmPattern }}
+	{{ DBpediaPropertyMapping | templateProperty = pattern_b1 | ontologyProperty = SoccerClub/bodyPattern }}
+	{{ DBpediaPropertyMapping | templateProperty = pattern_ra1 | ontologyProperty = SoccerClub/rightArmPattern }}
+	{{ DBpediaPropertyMapping | templateProperty = pattern_sh1 | ontologyProperty = SoccerClub/shortsPattern }}
+	{{ DBpediaPropertyMapping | templateProperty = pattern_so1 | ontologyProperty = SoccerClub/socksPattern }}
+	{{ DBpediaPropertyMapping | templateProperty = leftarm1 | ontologyProperty = SoccerClub/leftArm }}
+	{{ DBpediaPropertyMapping | templateProperty = body1 | ontologyProperty = SoccerClub/body }}
+	{{ DBpediaPropertyMapping | templateProperty = rightarm1 | ontologyProperty = SoccerClub/rightArm }}
+	{{ DBpediaPropertyMapping | templateProperty = shorts1 | ontologyProperty = SoccerClub/shorts }}
+	{{ DBpediaPropertyMapping | templateProperty = socks1 | ontologyProperty = SoccerClub/socks }}
+	{{ DBpediaPropertyMapping | templateProperty = pattern_name3 | ontologyProperty = SoccerClub/patternName }}
+	{{ DBpediaPropertyMapping | templateProperty = firstgame | ontologyProperty = SoccerClub/firstGame }}
+	{{ DBpediaPropertyMapping | templateProperty = largestwin | ontologyProperty = SoccerClub/largestWin }}
+	{{ DBpediaPropertyMapping | templateProperty = worstdefeat | ontologyProperty = SoccerClub/worstDefeat }}
+	{{ DBpediaPropertyMapping | templateProperty = topscorer | ontologyProperty = SoccerClub/clubsRecordGoalscorer }}
+	{{ DBpediaPropertyMapping | templateProperty = fansgroup | ontologyProperty = SoccerClub/fansgroup }}
+	{{ DBpediaPropertyMapping | templateProperty = honours | ontologyProperty = SoccerClub/honours }}
+	{{ DBpediaPropertyMapping | templateProperty = clubname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = SportsTeam/nickname }}
+	{{ DBpediaPropertyMapping | templateProperty = shortname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+}}

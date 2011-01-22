@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = ATC supplemental
+|rdfs:domain = Drug
+|rdfs:range = xsd:string
+}}

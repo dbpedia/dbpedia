@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = highest
+|rdfs:domain = Island
+|rdfs:range = xsd:string
+}}

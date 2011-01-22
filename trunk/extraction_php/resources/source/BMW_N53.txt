@@ -1,0 +1,79 @@
+{{Infobox Automobile
+|name=BMW N53 engine
+|manufacturer=[[BMW AG]]
+|production=2007&ndash;
+|predecessor=[[BMW N52]]
+|class=[[Straight 6]]
+|engine=
+}}
+
+The '''BMW N53''' is [[BMW]]'s latest and most modern [[straight 6]] engine, released in 2007 in the facelifted [[BMW 5 Series]] ([[BMW E60|E60/E61]]) and the [[BMW 3 Series]] ([[BMW E90|E90/E91/E92/E93]]). It is an improvement on the N52 Naturally Aspirated (NA) engine mainly since it has [[gasoline direct injection]] technology and can burn [[stratified]]. However, unlike its predecessor, it does not contain BMW's Valvetronic technology due to space limitations in the cylinder head<ref>{{cite web
+ |url=http://www.bmwinformation.com/engines/straight6_n.html
+ |title=BMW Straight 6 Engine - N Series
+ |publisher=BMWInformation.com
+ |first=
+ |last=
+ |date=[[2007]]
+ |accessdate=2008-05-20
+}}</ref>.BMW does not plan to put the N53 engine for sale in Australian and North American models due to the high [[sulphur]] content of the fuel available in these markets.
+
+The N53 is BMW's 14th generation production [[Straight-6|straight six engine]]. It makes use of ''HPI'': High Precision Injection or Direct Injection, which consists of Piëzo-electric injectors directly in the cylinder.
+
+The ''N53B30-O0'' has improved maximum power to {{convert|272|bhp|kW|0|abbr=on}} as well as maximum torque over the ''N52B30''. The ''N53B30-O0'' can be found in the 330i (E90/E91/E92/E93) and 530i (E60/E61).
+
+The 325i (E90/E91/E92) switched from the ''N52B25-OL'' (2.5-litre) to the ''N53B30-U0'' (3.0-litre) in September 2007 (March 2007 for the E93). Despite the increased displacement, the maximum power remained unchanged, and maximum [[torque]] has increased just enough to compensate for a longer [[Differential (mechanical device)|differential]] final drive ratio as a result of a shorter useful range (maximum power is given in the ''N53B30-U0'' at only 640 rad/s instead of the 700 rad/s of the older ''N52B25-OL''). The ''N53B30-U0'' can also be found in the present 525i (E60/E61).
+
+The 2.5-litre ''N53B25-U0'' can be found in the present 523i (E60/E61)<ref>{{cite web
+ |url=http://www.racingdynamics.com/Reference/BMWGroup_MotorDesignations.cfm
+ |title=BMW Engine Codes
+ |publisher=
+ |first=
+ |last=
+ |date=[[2007]]
+ |accessdate=2008-05-20
+}}</ref>.
+
+''U0'' subcoded engines seem to be crippled versions of their equivalent displacement ''O0'' versions as they share all internal dimensions and technology.
+
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine Code!!Displacement!!Subcode!!Power!!Torque!!Redline!!Year
+|-
+|'''N53B25'''||2497&nbsp;[[Cubic centimetre|cc]] (152&nbsp;in³)||rowspan=2|'''U0'''||140&nbsp;k[[Watt|W]] (190&nbsp;bhp) @ 640 [[Radian per second|rad/s]] (6100&nbsp;[[Revolutions per minute|RPM]])||240&nbsp;[[Newton metre|Nm]] (177&nbsp;[[Foot-pound force|ft·lbf]]) @ 365-525 rad/s (3500-5000&nbsp;RPM)||rowspan=2|680 rad/s (6500&nbsp;RPM)||rowspan=3|2007
+|-
+|rowspan=2|'''N53B30'''||rowspan=2|2996&nbsp;cc (183&nbsp;in³)||160&nbsp;kW (218&nbsp;bhp) @ 640 rad/s (6100&nbsp;RPM)||270&nbsp;Nm (200&nbsp;ft·lbf) @ 250-440 rad/s (2400-4200&nbsp;RPM)
+|-
+|'''O0'''||200&nbsp;kW (272&nbsp;bhp) @ 700 rad/s (6700&nbsp;RPM)||320&nbsp;Nm (236&nbsp;ft·lbf) @ 290-315 rad/s (2750-3000&nbsp;RPM)||735 rad/s (7000&nbsp;RPM)
+|-
+|}
+
+==Applications==
+* March 2007-Ferbruary 2010 [[BMW 5 Series]] ([[BMW E60]]/[[BMW E61|E61]]): '''523i, 525i, 525xi, 530i, 530xi'''
+* March 2007-Present [[BMW 3 Series]] Convertible ([[BMW E93]]): '''325i, 330i'''
+* September 2007-Present [[BMW 3 Series]] ([[BMW E90]]/[[BMW E91|E91]]/[[BMW E92|E92]]): '''325i, 325xi, 330i, 330xi'''
+* July 2008-Present(European market) [[BMW Z4]] ([[BMW E89]]): '''sDrive23i,sDrive30i'''
+* January 2009-Present(European market) [[BMW X3]] ([[BMW E83]]): '''xDrive30i'''
+* January 2009-Present(European market) [[BMW X5]] ([[BMW E70]]): '''xDrive30i'''
+* March 2010(European market)- [[BMW 5 series]] ([[BMW F10]]/[[BMW F10|F11]]): '''523i,528i'''
+
+==References==
+<div class="references-small">
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+<references/>
+</div>
+
+==See also==
+* [[BMW N52]]
+* [[BMW N54]]
+* [[BMW engines]]
+* [[BMW|BMW vehicles]]
+
+[[Category:BMW engines|N53]]
+
+
+{{automotive-part-stub}}
+
+[[de:BMW N53]]
+[[it:BMW N53]]
+[[no:BMW N53]]

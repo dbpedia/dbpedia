@@ -1,0 +1,138 @@
+{{DBpediaTemplateMapping
+|mapToClass = Company
+|mappings = 
+	{{DBpediaPropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{DBpediaPropertyMapping | templateProperty = type | ontologyProperty = 
+	Organisation/type}}
+	
+	{{DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = 
+	Organisation/genre}}
+	
+	{{DBpediaPropertyMapping | templateProperty = fate | ontologyProperty = 
+	Company/fate}}
+	
+	{{DBpediaPropertyMapping | templateProperty = predecessor  | ontologyProperty = 
+	Company/predecessor }}
+	
+	{{DBpediaPropertyMapping | templateProperty = successor | ontologyProperty = 
+	Company/successor}}
+	
+	{{DBpediaPropertyMapping | templateProperty = foundation | ontologyProperty = 
+	Organisation/formationDate}}
+	
+	{{DBpediaPropertyMapping | templateProperty = foundation | ontologyProperty =
+	Organisation/formationYear}}
+
+	{{DBpediaPropertyMapping | templateProperty = foundation | ontologyProperty = 
+	Organisation/foundationPlace}}
+	
+	{{DBpediaPropertyMapping | templateProperty = founder | ontologyProperty = 
+	Organisation/foundationPerson}}
+	
+	{{DBpediaPropertyMapping | templateProperty = defunct | ontologyProperty = 
+	Organisation/extinctionDate}}
+	
+	{{DBpediaPropertyMapping | templateProperty = defunct | ontologyProperty =
+	Organisation/extinctionYear}}
+
+	{{DBpediaPropertyMapping | templateProperty = location_city | ontologyProperty = 
+	Organisation/locationCity}}
+	
+	{{DBpediaPropertyMapping | templateProperty = location_country | ontologyProperty = 
+	Organisation/locationCountry}}
+	
+	{{DBpediaPropertyMapping | templateProperty = location | ontologyProperty = 
+	Organisation/location }}
+	
+	{{DBpediaPropertyMapping | templateProperty = locations | ontologyProperty = 
+	Organisation/location }}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/person}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/title}} 
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/personName}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/title}} 
+	
+	}}
+	
+	{{DBpediaPropertyMapping | templateProperty = area_served | ontologyProperty = 
+	Organisation/regionServed}}
+		
+	{{DBpediaPropertyMapping | templateProperty = industry | ontologyProperty = 
+	Company/industry}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = products | ontologyProperty = 
+	Organisation/product}}
+	
+	{{DBpediaPropertyMapping | templateProperty = production | ontologyProperty = 
+	Company/production}}
+	
+	{{DBpediaPropertyMapping | templateProperty = services | ontologyProperty = 
+	Company/service}}
+	
+	{{DBpediaPropertyMapping | templateProperty = aum | ontologyProperty = 
+	Company/assetUnderManagement | unit = Currency}}
+	
+	{{DBpediaPropertyMapping | templateProperty = revenue | ontologyProperty = 
+	Organisation/revenue | unit = Currency}}
+
+	{{DBpediaPropertyMapping | templateProperty = operating_income | ontologyProperty = 
+	Company/operatingIncome | unit = Currency}}
+	
+	{{DBpediaPropertyMapping | templateProperty = net_income | ontologyProperty = 
+	Company/netIncome | unit = Currency}}
+
+	{{DBpediaPropertyMapping | templateProperty = assets | ontologyProperty = 
+	Company/assets | unit = Currency}}
+	
+	{{DBpediaPropertyMapping | templateProperty = equity | ontologyProperty = 
+	Company/equity | unit = Currency}}
+	
+	{{DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = 
+	Organisation/owner}}
+	
+	{{DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = 
+	Organisation/owningCompany}}
+		
+	{{DBpediaPropertyMapping | templateProperty = num_employees | ontologyProperty = 
+	Organisation/numberOfStaff}}
+	
+	{{DBpediaPropertyMapping | templateProperty = parent | ontologyProperty = 
+	Company/parentCompany }}
+	
+	{{DBpediaPropertyMapping | templateProperty = divisions | ontologyProperty = 
+	Company/division }}
+	
+	{{DBpediaPropertyMapping | templateProperty = subsid | ontologyProperty = 
+	Company/subsidiary }}
+	
+	{{DBpediaPropertyMapping | templateProperty = intl | ontologyProperty = 
+	Company/internationally }}
+	
+	{{DBpediaPropertyMapping | templateProperty = homepage | ontologyProperty = 
+	foaf:homepage}}
+
+	}}
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,55 @@
+{{Infobox Automobile
+| name              = eRuf Model A
+| image             = 
+| manufacturer      = [[Ruf Automobile]]
+| parent_company    = 
+| aka               = Ruf Greenster
+| model_years       = 
+| production        = 2008
+| production_start  = 
+| production_end    = 
+| assembly          = [[Pfaffenhausen]], [[Germany]]
+| predecessor       = 
+| successor         = 
+| class             = [[sports car]]
+| body_style        = 2-door coupe
+| layout            = 
+| platform          = 
+| engine            = 96-cell lithium-ion battery pack<ref name=CD/>
+| transmission      = 
+| wheelbase         = 
+| length            = 
+| width             = 
+| height            = 
+| weight            = {{convert|1910|kg|lb|0|abbr=on}}<ref name=Ruf/>
+| related           = [[Porsche 911]]
+| designer          = 
+| sp                = us
+}}
+
+The '''eRUF Model A''' is an [[Battery electric vehicle|all-electric]] [[sports car]] made by [[Germany|German]] [[automotive industry|automobile manufacturer]] [[Ruf Automobile]]. The car is powered by [[UQM Technologies]]<ref>{{cite web|url=http://www.uqm.com |title=UQM Technologies |publisher=Uqm.com |date= |accessdate=2009-10-17}}</ref>  propulsion system (a UQM PowerPhase 150). The car has a top speed of {{convert|225|km/h|mph|0|sp=us}}<ref>{{cite web|author=Nick Hall|title=eRuf Model A (electric Porsche 911)|url=http://cars.uk.msn.com/reviews/articles.aspx?cp-documentid=147866035|work=[[MSN]] Cars|date=2008-11-13|accessdate=2009-11-11}}</ref> and it’s capable of making {{convert|150|kW|PS hp|0|abbr=on}} and {{convert|479|lbft|Nm|abbr=on}} of torque .<ref name=CD>{{cite web|author=Jake Holmes|title=Ruf eRuf Concept Model A - Car News|url=http://www.caranddriver.com/reviews/hot_lists/high_performance/porsche_file/ruf_eruf_concept_model_a_car_news|work=[[Car and Driver]]|month=October | year=2008|accessdate=2009-01-17}}</ref> Estimated range per charge is 250 kilometers to 320 kilometers, depending on performance level, using iron-phosphate, [[lithium-ion]] batteries built by Axeon plc of [[Great Britain]].<ref>{{cite web|url=http://www.electricdrive.org/index.php?tg=entry&idx=more&article=1996&idg=2 |title=Electric Drive Transportation Association |publisher=Electricdrive.org |date= |accessdate=2009-10-17}}</ref>  The power and [[torque]] produced by the 3-phase motor can be used to recover almost as much power as it can put out.<ref name=Ruf/> During coasting the engine works as a generator producing electricity to charge the batteries.<ref name=Ruf/>  
+
+Ruf has ripped the combustion engine out of a [[Porsche 911]] and slotted in an electric motor.<ref>[http://cars.uk.msn.com/reviews/articles.aspx?cp-documentid=147866035]</ref>
+
+A probable production car would use a clutchless one- or two-speed transmission with no reverse gear as the electric motor can spin forward or in reverse.<ref name=CD/> Ruf engaged [[Calmotors]]<ref>{{cite web|title=CalMotors' Green Performance ECU Powers the eRuf from Ruf Automobile|url=http://www.forbes.com/businesswire/feeds/businesswire/2008/10/27/businesswire20081027005123r1.html|work=Calmotors press release|publisher=[[Forbes]]|date=2008-10-27|accessdate=2009-01-19}}</ref> in [[Camarillo]], [[California]], specialized in the implementation of hybrid electric and electric only powertrain design, to combine the latest generation of lithium-ion batteries with its motor.<ref name=Ruf>{{cite press release|title=eRUF Concept Model A 2008 “Emotion without Emission”|url=http://www.ruf-automobiles.com/ibase/download.php?filename=%2Fhomepages%2F1%2Fd160998924%2Fhtdocs%2Fibase%2Fmodule%2Fmedienarchiv%2Fdateien%2Fpdf%2Fdownloads%2FEvents_Veroeffentlichungen%2Fpress_release_english_eRUF.pdf|format=PDF|publisher=Ruf Automobiles|date=2008-10-10|accessdate=2009-01-17}}</ref>
+
+Ruf hopes to begin production of the eRuf in the fall of 2009.<ref name=CD/>
+
+The prototype was unveiled in 2009 Geneva Motor Show.<ref>[http://www.autoblog.com/2009/03/04/geneva-2009-ruf-greenster-evolves-the-electric-porsche-concept/ Geneva 2009: Ruf Greenster evolves the electric Porsche concept]</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.edmunds.com/insideline/do/Drives/FirstDrives/articleId=136506 Racing Around Lithium-Ion Style in Ruf's Electric 911] [[Edmunds.com]] 11/30/2008
+*[http://blogs.edmunds.com/greencaradvisor/2008/11/porsche-unhappy-with-eruf-places-an-order-for-a-tesla-roadster-to-study-it.html Porsche, Unhappy With eRuf, Places an Order for a Tesla Roadster to Study It] Green Car Advisor, [[Edmunds.com]], 11/25/2008
+*[http://www.engadget.com/2008/10/10/ruf-automobiles-electric-porsche-concept-gets-real-pictured/ Ruf Automobile's electric Porsche concept gets real, pictured] [[Engadget]] 10/10/2008
+*[http://www.autobloggreen.com/2008/10/21/battery-powered-e-ruf-911-tested-by-road-and-track/ Road and Track tests battery-powered E-Ruf 911] [[Autoblog|Autoblog Green]] 10/21/2008
+
+{{DEFAULTSORT:Eruf Model A}}
+[[Category:All-electric vehicles]]
+[[Category:Alternative propulsion]]
+[[Category:Vehicles introduced in 2008]]
+[[Category:Battery electric vehicles]]
+
+[[de:Greenster]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = amgId
+| rdfs:domain = Film
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = location country
+| rdfs:domain = Organisation
+}}

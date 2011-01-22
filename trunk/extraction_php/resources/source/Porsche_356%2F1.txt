@@ -1,0 +1,38 @@
+{{Infobox Automobile
+|name=Porsche 356/1
+|manufacturer=[[Porsche]]
+|production=1948, only 1 made
+|predecessor=none
+|successor=[[Porsche 356]]
+|image=[[Image:PorscheNo1.jpg|250px|Porsche No. 1 Type 356 (mid-engine prototype)]] ''Porsche No. 1 Type 356, Porsche Museum''
+|class=[[Sports car|Sports car (2-door)]]
+|platform=
+|layout=[[RMR layout]] 
+|body_style=Roadster 
+|engine=1.1&nbsp;L [[Flat-4|B4]], 40 hp (DIN)  
+|designer=[[Erwin Komenda]]
+|wheelbase=82.7 inch (2100 mm)
+|width=65.4 inch (1660 mm)
+|weight ={{convert|585|kg|lb||abbr=on}}
+}}
+The '''Porsche 356/1''' was the first ''real'' [[Porsche]] car created by [[Ferry Porsche|Ferdinand "Ferry" Porsche]]. This prototype car was a two-seater open roadster with a mid-mounted, air-cooled [[flat-4]] engine of 1,131 cc displacement that produced {{convert|40|hp}}. While the body was an original design, most of the mechanicals (including engine and suspension) were derived from the [[Volkswagen Beetle]] which Ferry's father, [[Ferdinand Porsche]], had designed. 
+
+The [[aluminum]] [[roadster]] body of the 356/1 was designed by Porsche employee [[Erwin Komenda]] in April 1948 at [[Gmünd]] and completed only a month later. Smooth and low, the 356/1 set the pattern for later [[Porsche 356|356s]] with one fundamental difference; the engine of the production cars was moved behind the rear axle (to reduce costs and make room for two additional seats). The car was registered by the state of [[Carinthia (state)|Carinthia]] (''Kärnten'') with the [[Vehicle registration plate|license plate]] K45-286 and made its maiden voyage on June 8, 1948.
+[[Image:Porsche 356 Nr. 1 Roadster 1948.jpg|thumb|left|The Porsche 356/1]]
+Only one 356/1 was made and it is on display at the [[Porsche Museum, Stuttgart]]. 
+
+== External links ==
+*[http://www.porschearchive.com/ Spec for all variants of Porsche 356]
+*[http://auto.howstuffworks.com/porsche-356-history1.htm How Stuff Works: Porsche 356 Prototypes]
+
+{{Porsche}}
+{{classicpow-auto-stub}}
+
+[[Category:Porsche vehicles|356/1]]
+[[Category:Sports cars]]
+
+[[de:Porsche 356 Nr. 1 Roadster]]
+[[lb:Porsche 356 Nr.1 Roadster]]
+[[no:Porsche 356/1]]
+[[pt:Porsche 356/1]]
+[[tr:Porsche 356/1]]

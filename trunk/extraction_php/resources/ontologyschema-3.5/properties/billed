@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = billed
+| rdfs:domain = Wrestler
+| rdfs:range = PopulatedPlace
+}}

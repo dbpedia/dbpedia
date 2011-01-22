@@ -1,0 +1,250 @@
+{{Racing car |
+  Car_name         = Mercedes-Benz W125 | 
+  Image            = [[File:Mercedes-Benz W 125 Donington.jpg|260px]] |
+  Category         = [[Grand Prix motor racing|Grand Prix]] | 
+  Constructor      = [[Mercedes-Benz]] | 
+  Designer         = [[Max Sailer]], [[Albert Heess]], [[Max Wagner (automotive designer)|Max Wagner]], [[Rudolf Uhlenhaut]]|
+  Team             = [[Daimler-Benz|Daimler-Benz AG]]|
+  Drivers          = [[Manfred von Brauchitsch]], [[Rudolf Caracciola]], [[Hermann Lang]], [[Richard Seaman]]|
+  Chassis          = Tubular frame|
+  Front suspension = Independent suspension with wishbones, coil springs, hydraulic dampers|
+  Rear suspension  = De Dion axle, torsion bars, hydraulic dampers|
+  Engine name      = Mercedes-Benz M125|
+  Capacity         = 5.6 litre|
+  Configuration    = [[Straight-8]]|
+  Turbo/NA         = supercharged|
+  Engine position  = |
+  Gearbox name     = [[Mercedes-Benz]]|
+  Gears            = 4-speed|
+  Type             = transverse|
+  Differential     = |
+  Fuel             = Methanol/benzol blend |
+  Debut            = [[1937 Tripoli Grand Prix]]|
+  Races            = 12|
+  Wins             = 6|
+  Drivers_champ    = 1|
+  Poles            = 6|
+  Fastest_laps     = 6|
+}}
+The '''Mercedes-Benz W125''' was a [[Grand Prix motor racing|Grand Prix]] [[Auto racing|racing car]] designed by [[Rudolf Uhlenhaut]] to race during the [[1937 Grand Prix season]]. The car was used by [[Rudolf Caracciola]] to win the 1937 [[European Championship (auto racing)|European Championship]] and W125 drivers also finished in the second, third and fourth positions in the championship.
+
+The supercharged engine, with 8 cylinders in line (94.0 x 102.mm) and 5,662.85 cc (345.56 CID), attained an output of up to 595 horse power (444&nbsp;kW) in race trim. The highest test bed power measured was 637 BHP (646 PS) at 5,800 rpm. It gave 245 BHP (248 PS) at a mere 2,000 rpm. In 1938, the engine capacity of supercharged Grand Prix cars was limited to 3000cc, and the W125 was replaced by the [[Mercedes-Benz W154]].
+
+The W125 was considered the most powerful race car ever for about 3 decades, until large capacity US-built V8 engines in [[CanAm]] sportcars reached similar power in the mid 1960s. In [[Formula One]] racing itself, the figure was not exceeded until the early 1980s, with the appearance of turbo-charged engines in Formula One.
+
+The W125 reached race speeds of well over {{convert|300|km/h|mph|abbr=on}} in 1937, especially on the [[AVUS]] in [[Berlin]], equipped with a streamlined body.
+
+In [[land speed record]] runs, a [[Mercedes-Benz W125 Rekordwagen]] was clocked at {{convert|432.7|km/h|mph|abbr=on}} over a mile and a kilometer. This car was fitted with a DAB V12 engine (82.0 x 88&nbsp;mm) of 5,576.75 cc (340.31 CID) with a power of 726 BHP (736 PS) at 5,800 rpm. The weight of this engine caused the car to weigh over the 750&nbsp;kg maximum limit. So it never appeared in Grand Prix.
+
+==Concept==
+
+Due to the uncompetitiveness of their W25 car, Mercedes pulled out of the [[1936 Grand Prix Season]] midway through the year in order to concentrate on designing a car that would see them return to the top of the rankings. A new racing department ('Rennabteilung') was set up within Mercedes-Benz in order to work on the car. [[Rudolf Uhlenhaut]], previously a production car engineer for the company, was selected to lead the design team. Uhlenhaut had not previously designed a racing car, but had significant experience testing road cars on the [[Nürburgring]] race track, experience which allowed him to adapt his knowledge relatively easily to race cars.
+
+When testing the old W25 car, Uhlenhaut remarked that the suspension was too stiff, preventing the wheels from following the road. During the test session, a wheel came off the car, yet Uhlenhaut continued to drive the car as if nothing had happened. This stiffness caused the chassis to flex and the rear axle to bend by up to 7-10&nbsp;cm (3-4 inches) under braking. The brief for the new car included a stiffer chassis and more travel on the suspension to avoid the problems experienced in the 1936 car.
+
+==Chassis and suspension==
+[[Image:Mercedes-Benz W 125 - Cockpit 1984-10-24.jpg|thumb|250px|The W125 cockpit]]
+The W125 had a much stiffer tubular frame construction compared to the previous W25 model. This was achieved using oval tubes made of nickel-chrome molybdenum which flexed considerably less than the steel frame used in the W25.
+
+The bodywork of the W125 was aluminium metal, which like its predecessor was left unpainted in its bare silver colour. This brought Mercedes' cars during this period (and rivals [[Auto Union]], whose cars were the same colour) the nickname of ''Silver Arrows''.
+
+==Engine and transmission==
+
+With no regulations limiting engine size, other than the 750&nbsp;kg total car weight limit, Mercedes designed a 5.6 litre engine configured with eight inline cylinders and an overhead camshaft for the W125. Named the M125, the engine was also fitted with a Roots type supercharger producing {{Auto ft.lbf|632|0}} of torque at the start of the season. The engines built varied in power, attaining an output between 560 and 595 horse power (418-444&nbsp;kW) at 5800 rpm. Fuel used was a custom mix of 40% methyl alcohol, 32% benzol, 24% 'A'thyl alcohol and 4% gasoline light.<ref>Dron (2007) P.88</ref> The engine weighed 222&nbsp;kg (490 lbs) - approximately 30% of the total weight of the car, and was mounted in the front of the car.<ref>Ultimatecarpage.com</ref>
+
+Like its W25 predecessor, the W125 used a 4-speed manual transmission. The gearbox design was changed to a [[Manual transmission#Synchronized transmission|constant mesh type]], which provided better reliability compared to the unsynchronized transmission of the M25. In a constant mesh gearbox, the transmission gears are always in mesh and rotating, but the gears are not rigidly connected to the shafts on which they rotate. Instead, the gears can freely rotate or be locked to the shaft on which they are carried. The previous unsynchronised transmission required the gears to be spinning at roughly the same speed when engaged; otherwise, the teeth would refuse to mesh.
+
+{{Listen|filename=Mercedes-Benz W125 (1937).ogg|title=Mercedes-Benz W125|description=Mercedes-Benz W125 at Goodwood Festival of Speed 2009}}
+
+==Racing history==
+The W125 made its first competitive outing in May at the [[1937 Tripoli Grand Prix]] with Mercedes-Benz entering four cars. German [[Hermann Lang]] won his first Grand Prix motor race to give the W125 a victory on its début and provide Mercedes with their first victory over rivals Auto Union since May 1936. The next race was held at the [[AVUS]] motor-racing circuit in Germany, a {{convert|12|mi|km|0|sing=on}} long circuit consisting of two long straights of approximately {{convert|6|mi|km|0}} length joined at either end by a curve. As such, it was possible for a car to reach its top speed. Mercedes entered two W125 cars, a streamliner which was modified from the original design to increase its top speed on the straights and a standard car driven by Richard Seaman in case of problems with the streamliner. The streamliner had a top speed 25&nbsp;km/h (16 mph) faster than the regular car. On lap three of the race, the streamliner retired while leading due to a gearbox failure. Seaman's regular W125 finished in fifth position.
+[[Image:LangH-MB-W125-1977.jpg|thumb|300px|Hermann Lang demonstrating a Mercedes-Benz W125 at the [[Nürburgring]] in 1977. Lang drove a W125 to victory on its début.|left]]
+At the Eifelrennen held at the Nürburgring circuit, Mercedes entered five W125's, including one driven by [[Christian Kautz]] fitted with the new suction carburettor supercharger system. Kautz finished in ninth, while team-mates [[Rudolf Caracciola]] and [[Manfred von Brauchitsch]] finished in second and third places. For the next race, Mercedes split their entries between two races which occurred within a week of another. Two cars were sent to the USA to compete in the [[Vanderbilt Cup]], one of which was fitted with the suction carburettor supercharger used on Kautz's car, and three cars went to Belgium to compete in the first round of the 1937 European Championship. Richard Seaman finished second in the Vanderbilt, and third and fourth place were achieved in the [[Belgian Grand Prix]]. Following Seaman's success in the Vanderbilt with the new supercharger system, it was fitted to all of the W125s.
+
+The following two races were also both part of the European Championship. The next round in Germany saw both Mercedes and rivals Auto Union competing on home soil. Mercedes triumphed, as [[Rudolf Caracciola]] took his first victory of the year and [[Manfred von Brauchitsch]] followed him home in second position. In the next round at Monaco, the positions were reversed as von Brauchitsch won and Caracciola finished in second. A third Mercedes W125, driven by Christian Kautz, took third place.
+
+The non-championship [[Coppa Acerbo]] in Italy was the next event the W125 entered. During practice Richard Seaman crashed into a house and destroyed his car. Therefore only von Brauchitsch and Caracciola started the race. During the race, Seaman took over from Caracciola and despite an engine fire, he finished the race fifth. von Brauchitsch fared better finishing in second position. The Swiss Grand Prix was the penultimate round of the 1937 European Championship. Like in Monaco, Mercedes W125s finished in the top three places, Caracciola taking the win with Hermann Lang in second and von Brauchitsch third. The final round of the championship marked a return to Italy, where at the Livorno Circuit, Caracciola held off team-mate Lang to win the race by 0.4 seconds and become European Champion. von Brauchitsch retired from the race and took second place overall in the Championship. Kautz and Lang took third and fourth places meaning Mercedes drivers occupied the top four positions in the championship table.
+
+The W125 entered into two non-championship events before the end of the season. The Masaryk Grand Prix in Czechoslovakia gave the W125 its final victory when Caracciola won the race, von Brauchitsch finished second and Seaman came in third. The race was marred as Hermann Lang had crashed into spectators on lap five, resulting in twelve injuries and two deaths. The final competitive race Mercedes entered the W125 into was the [[1937 Donington Grand Prix]]. Rosemeyer prevailed, von Brauchitsch finished in second place and Caracciola in third while both of the other W125s failed to finish. The British ERA were outclassed, failing to get classified in their home race.
+
+==Retirement from racing==
+
+1938 saw changes in the rules, with the maximum limit on weight being replaced with a maximum limit on engine capacity and a minimum weight for the car being introduced. As such the W125 would not be eligible for entry without heavy modifications. Instead, Mercedes-Benz developed a new car, the [[Mercedes-Benz W154]], and the W125 was withdrawn from racing.
+
+{{clear}}
+
+==Complete results==
+===European Championship===
+(results in bold indicate '''pole position''')
+{|
+|- valign="top"
+|
+{| class="wikitable" style="text-align:center; font-size:95%"
+! Year
+! Team
+! Engine
+! Drivers
+! 1
+! 2
+! 3
+! 4
+! 5
+|-
+|rowspan="7"| [[1937 Grand Prix season|1937]]
+|rowspan="7"| [[Daimler-Benz|Daimler-Benz AG]]
+|rowspan="7"| [[Mercedes-Benz]] M125
+|
+| [[1937 Belgian Grand Prix|BEL]]
+| [[1937 German Grand Prix|GER]]
+| [[1937 Monaco Grand Prix|MON]]
+| [[1937 Swiss Grand Prix|SUI]]
+| [[1937 Italian Grand Prix|ITA]]
+|-
+| [[Hermann Lang]]
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#dfffdf"| <small>7</small>
+|
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|-
+| [[Christian Kautz]]
+|bgcolor="#dfffdf"| <small>4</small>
+|bgcolor="#dfffdf"| <small>6</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#dfffdf"| <small>6</small>
+|bgcolor="#dfffdf"| <small>Ret</small>
+|-
+| [[Manfred von Brauchitsch]]
+|bgcolor="#dfffdf"| <small>Ret</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#cfcfff"| <small>Ret</small>
+|-
+| [[Rudolf Caracciola]]
+|
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|-
+| [[Richard Seaman]]
+|
+|bgcolor="#efcfff"| <small>Ret</small>
+|
+|
+|bgcolor="#dfffdf"| <small>4</small>
+|-
+| [[Goffredo Zehender]]
+|
+|
+|bgcolor="#dfffdf"| <small>5</small>
+|
+|
+|-
+|}
+|valign="top"|
+{{EC driver results legend}}
+|}
+
+===Non Championship results===
+
+{| class="wikitable" style="text-align:center; font-size:95%"
+! Year
+! Team
+! Engine
+! Drivers
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+|-
+|rowspan="5"| [[1937 Grand Prix season|1937]]
+|rowspan="5"| [[Daimler-Benz|Daimler-Benz AG]]
+|rowspan="5"| [[Mercedes-Benz]] M125
+|
+| [[1937 Tripoli Grand Prix|TRI]]
+| [[1937 Avusrennen|AVUS]]
+| [[1937 Eifelrennen|EIF]]
+| [[1937 Vanderbilt Cup|VAN]]
+| [[1937 Coppa Acerbo|ACE]]
+| [[1937 Masaryk Grand Prix|MAS]]
+| [[1937 Donington Grand Prix|DON]]
+|-
+| [[Hermann Lang]]
+|bgcolor="#FFFFBF"| <small>1</small>
+|
+|bgcolor="#CFCFFF"| <small>9</small>
+|
+|
+|bgcolor="#EFCFFF"| <small>''DNF''</small>
+|bgcolor="#EFCFFF"| <small>''DNF''</small>
+|-
+| [[Rudolf Caracciola]]
+|bgcolor="#CFCFFF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>''DNF''</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>''DNF''</small>
+|bgcolor="#CFCFFF"| <small>5†</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|-
+| [[Richard Seaman]]
+|bgcolor="#CFCFFF"| <small>7
+|bgcolor="#CFCFFF"| <small>5
+|bgcolor="#EFCFFF"| <small>''DNF''</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#CFCFFF"| <small>DNS/5†</small>
+|bgcolor="#CFCFFF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>''DNF''</small>
+|-
+| [[Manfred von Brauchitsch]]
+|bgcolor="#EFCFFF"| <small>''DNF''</small>
+|
+|bgcolor="#FFDF9F"| <small>3</small>
+|
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|-
+|}
+
+†Seaman's car was destroyed in practice and did not start. During the race, Seaman took over Carraciola's car and finished fifth.
+
+==Footnotes==
+{{reflist}}
+
+==References==
+
+*{{cite news| last = Dron| first = Tony | title = Arrow of Desire: Mercedes-Benz W125 | work = Octane Issue 51 | pages = 86 - 90 | publisher = Dennis Publishing| date = September 2007}}
+*{{cite web | url=http://www.supercars.net/cars/1265.html | title=1937 Mercedes-Benz W125 | publisher= Supercars.net Publishing Inc | accessdate=2007-09-16}}
+*{{cite web | url=http://geo.channel4.com/science/microsites/S/speedmachines/bentleymercedes_technology.html
+ | title=Speed Machines: Bentley v Mercedes | publisher= Channel Four Television Corporation | accessdate=2007-09-16}}
+*{{cite web | url=http://www.forix.com/8w/uhlenhaut.html
+ | title=Rudolf Uhlenhaut, the Mercedes-Benz tech brain  | publisher= Forix 8W | accessdate=2007-09-16}}
+*{{cite web | url=http://www.ultimatecarpage.com/car/965/Mercedes-Benz-W125.html
+ | title=Mercedes Benz W125  | publisher= Ultimatecarpage.com | accessdate=2007-10-24}}
+
+*All race results are taken from {{cite web | url=http://www.kolumbus.fi/leif.snellman/gp37.htm | title=The Golden Era of Grand Prix Racing: 1937 | publisher= Leif Snellman | accessdate=2007-09-16}}
+
+==Further reading==
+* {{cite book |last= Jenkinson |first= Denis | authorlink = Denis Jenkinson |title= The Grand Prix Mercedes Benz W125, 1937  |publisher= Arco Pub. Co |year= 1970 |isbn= 978-0-8536-8036-9 }}
+* Chris Nixon, ''Racing the Silver Arrows: Mercedes-Benz versus Auto Union 1934-1939'' (Osprey, London, 1986)
+
+==External links==
+{{commonscat|Mercedes-Benz W125}}
+
+{{Mercedes Grand Prix}}
+{{Silver Arrows}}
+
+[[Category:Mercedes-Benz vehicles|W125]]
+[[Category:Grand Prix cars]]
+
+[[de:Mercedes-Benz W 125]]
+[[es:Mercedes-Benz W125]]
+[[sl:Mercedes-Benz W125]]
+[[fi:Mercedes-Benz W125]]
+[[sv:Mercedes-Benz W125]]

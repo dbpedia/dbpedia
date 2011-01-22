@@ -1,0 +1,31 @@
+The '''M535i''' is an automobile in the [[BMW 5 Series]] automobile made by [[BMW]]. It is featuring a 3.5L engine with special styling such as Motorsport front and rear spoilers, Recaro-brand sport seats, a close-ratio transmission and limited-slip differential, larger brakes, and other styling cues such as Motorsport striping down the sides of the car and on the front airdam, was available between 1979 and 1981 with 1410 cars produced.
+
+== Models ==
+The following models were produced in this series:
+
+{| class="wikitable"
+!rowspan=2|Model
+!rowspan=2|Engine
+!colspan=4|Power
+!colspan=3|Torque
+!rowspan=2|Built
+|-
+!PS
+!kW
+!hp
+!at rpm
+!N·m
+!lbf·ft
+!at rpm
+|
+|-
+|M535i || 3453 cc I-6 
+| {{convert|218|PS|kW hp|disp=table}}
+|align=right|5200 
+| {{convert|310|N.m|disp=table}} 
+|align=right|4000  
+|align="center" | 1979−1981
+|-
+|}
+
+[[Category:BMW vehicles|M535i]]

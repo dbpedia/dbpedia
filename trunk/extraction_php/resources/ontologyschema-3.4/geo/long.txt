@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= longitude
+|rdfs:domain	= gml:_Feature
+|rdfs:range		= xsd:double
+|rdf:type = owl:FunctionalProperty
+}}

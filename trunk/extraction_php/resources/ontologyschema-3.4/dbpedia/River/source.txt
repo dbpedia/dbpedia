@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = source
+|rdfs:domain = River
+|rdfs:range = owl:Thing
+}}

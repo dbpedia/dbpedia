@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = meeting city
+|rdfs:domain = Legislature
+|rdfs:range = City
+}}

@@ -1,0 +1,51 @@
+{{unreferenced|date=November 2009}}
+{{Infobox Automobile
+|name           = MAN SL202
+|image          = [[Image:Busabout - Volgren bodied MAN SL202 02.jpg|250px]]<br>''[[Volgren]] bodied MAN SL202 (with Mercedes-Benz badge) owned by [[Busabout Wagga Wagga]]. Former Darwin Bus Service fleet #79''
+|manufacturer   = [[MAN Nutzfahrzeuge AG]]
+|parent_company = [[MAN SE|MAN AG]]
+|aka            = 
+|production     = 1983 - 1995
+|assembly       = Germany
+|predecessor    = [[MAN SL200]]
+|successor      = [[MAN NL202]]
+|class          = [[Commercial vehicle]]
+|body_style     = Full size [[bus]]
+|layout         = 
+|engine         = D2566UH {{convert|155|kW|PS bhp|0|abbr=on|lk=on}}<br>[[D2866UH]] {{convert|155|kW|PS bhp|0|abbr=on}}<br>E2866UH {{convert|170|kW|PS bhp|0|abbr=on}}
+|transmission   = [[Renk]] [[Renk Doromat|Doromat]] Series<br>[[Voith DIWA]] 851/854.2<br>[[ZF Ecomat]] [[ZF 5HP500 transmission|5HP500]]
+|wheelbase      = 
+|length         = {{convert|11.1|m|1|lk=on}}<br>{{convert|11.7|m|1}}<br>{{convert|12.2|m|1}}
+|width          = {{convert|2.5|m|1}}
+|height         = 
+|weight         = 
+|fuel_capacity  = 
+|related        = [[Mercedes Benz O405]]<br>[[MAN 16.242]]
+|designer       = 
+|sp             = uk
+}}
+The '''MAN SL202''' was a [[single-decker bus]] built by [[MAN SE|MAN AG]] subsidiary [[MAN Nutzfahrzeuge AG]] from the mid-1980s, through to 1995, mainly used in [[Australia]], [[Germany]] and [[New Zealand]].  Much of the design was used in the American version of the SL202, the MAN Americana SL40-102.
+
+The SL202 came with a wide choice of [[transmission (mechanics)|transmissions]], from three- and four-speed [[Renk]] [[Renk Doromat|Doromat]] [[automatic transmission]]s, to three- and four-speed [[Voith DIWA]] transmissions, to four- and five-speed [[ZF Ecomat]] [[ZF 5HP500 transmission|5HP500]] transmissions. One to date has been retro-fitted with an [[Allison Transmission|Allison]] [[Allison World Series|World Series]] B300R4 transmission, creating a largely noticeable increase in performance against similar examples with the three-speed Voith DIWA transmission.
+
+The [[internal combustion engine]]s used in the SL202 were replaced around 1990, from older, smaller, 2566 series engines to newer, larger, 2866 series engines.  The majority of pre-1990 SL202s have a {{convert|155|kW|PS bhp|0|lk=on}} D2566UH engine, developing about {{convert|755|Nm|0|lk=on}} of [[torque]] at 1,400&nbsp;rpm. These D2566 engines have a capacity of {{convert|11.413|L|cuin|1|lk=on}} and max out at 2,200&nbsp;rpm. This same engine was used for the SL200 and is similar in design to that of the OM407h engine used in the [[Mercedes-Benz O305]].
+
+Post-1990 SL202s have the D2866 engine, with higher power and torque figures.  These engines have a capacity of {{convert|11.967|L|cuin|1}} and maximum output at 2,200&nbsp;rpm, the design is similar to the OM447h engine of the Mercedes-Benz O405.
+
+==Replacement==
+The SL202 was replaced by the [[MAN NL202]].
+
+==See also==
+*[[MAN AG Buses]]
+*[[Mercedes-Benz O405]]
+
+==References==
+{{reflist}}
+
+{{commons category|MAN SL 202}}
+
+[[Category:Buses]]
+[[Category:MAN vehicles|SL202]]
+
+[[de:MAN SL 202]]
+[[pl:MAN SL 202]]

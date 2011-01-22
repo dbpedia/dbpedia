@@ -1,0 +1,13 @@
+{{ DummyTemplate |
+backslash = text \ text |
+doublebackslash = text \\ text |
+slash = text / text |
+linebreak = first \n next |
+tab = text \t text |
+return = text \r text |
+double quote = word " word
+}}
+
+CHar Escaping Abstract \n next Line \r word \t \ / \\ /\ \\/
+
+=== next section ===

@@ -1,0 +1,22 @@
+<http://dbpedia.org/resource/subTemplates.txt/propE/subTpl> <http://dbpedia.org/property/subtplProperty> "value_A"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propE/subTpl> <http://dbpedia.org/property/subtplProperty> "value_B"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propE/subTpl> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:subtpl> .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propE> <http://dbpedia.org/resource/subTemplates.txt/propE/subTpl> .
+<http://dbpedia.org/resource/subTemplates.txt/propE/subTpl1> <http://dbpedia.org/property/subtplProperty> "value_C"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propE/subTpl1> <http://dbpedia.org/property/subtplProperty> "value_D"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propE/subTpl1> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:subtpl> .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propE> <http://dbpedia.org/resource/subTemplates.txt/propE/subTpl1> .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propE> "text "@en .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propA> "text"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propB/subTpl> <http://dbpedia.org/property/subtplProperty> "valueX"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propB/subTpl> <http://dbpedia.org/property/subtplProperty> "valueY"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propB/subTpl> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:subtpl> .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propB> <http://dbpedia.org/resource/subTemplates.txt/propB/subTpl> .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propB> "text  text"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propC/AnothersubTpl> <http://dbpedia.org/property/valueA> "X"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propC/AnothersubTpl> <http://dbpedia.org/property/valueB> "y"@en .
+<http://dbpedia.org/resource/subTemplates.txt/propC/AnothersubTpl> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:anothersubtpl> .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propC> <http://dbpedia.org/resource/subTemplates.txt/propC/AnothersubTpl> .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propC> "text "@en .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/propD> "text"@en .
+<http://dbpedia.org/resource/subTemplates.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:maintemplate> .

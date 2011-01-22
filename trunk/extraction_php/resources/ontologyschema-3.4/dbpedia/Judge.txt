@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Judge
+|rdfs:subClassOf = Person
+}}

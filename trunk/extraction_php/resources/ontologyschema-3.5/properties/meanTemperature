@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = mean temperature
+| rdfs:domain = Planet
+| rdfs:range = Temperature
+}}

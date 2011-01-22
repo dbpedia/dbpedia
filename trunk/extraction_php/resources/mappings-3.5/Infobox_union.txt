@@ -1,0 +1,10 @@
+{{TemplateMapping
+| mapToClass = TradeUnion
+| mappings = 
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = affiliation | ontologyProperty = affiliation }}
+	{{PropertyMapping | templateProperty = full_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = formationDate }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

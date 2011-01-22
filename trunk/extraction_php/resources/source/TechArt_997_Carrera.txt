@@ -1,0 +1,49 @@
+{{Infobox Automobile
+|image=<!-- Deleted image removed: [[Image:TechArt 997 Carrera S.jpg|250px|TechArt 997 Carrera S|{{deletable image-caption|1=Wednesday, 29 July 2009}}]] -->
+|name=TechArt 997 Carrera
+|manufacturer=[[TECHART]] (modified [[Porsche]])
+|class=[[sports car]]
+|production=2005-present
+|predecessor=[[TechArt 996 Carrera]]
+|successor=
+|body_style=2-door [[coupé]]
+|layout=[[Rear-engine design|Rear-engine]], [[rear-wheel drive]] or [[all wheel drive]]
+|engine={{convert|3.6|L|cuin|1}} [[flat-6]]<br>{{convert|3.8|L|cuin|1}} [[flat-6]]
+|transmission=6-speed [[manual transmission|manual]]<br>5-speed [[Tiptronic]]
+|wheelbase=
+|length=
+|width=
+|height=
+|weight=
+|related=[[Porsche 997]]
+|similar=
+|designer=
+}}
+
+<!-- Deleted image removed: [[Image:TechArt 997 Cabrio.jpg|right|thumb|250px|TechArt 997 Cabrio|{{deletable image-caption|1=Wednesday, 29 July 2009}}]] -->
+
+The '''TechArt 997 Carrera''', known also as the '''TechArt Coupe''' and '''TechArt Cabrio''', depending on the body style, is a tuning program for [[Porsche 997]] models including the Carrera, Carrera Cabriolet, Carrera 4, Carrera 4 Cabriolet, Carrera S, Carrera S Cabriolet, Carrera 4S, and Carrera 4S Cabriolet.  As with other TechArt products, the kit includes the customer's choice of options, including a body kit, engine upgrades, interior refitment, and custom wheels.
+
+==Design and Features==
+
+<!-- Deleted image removed: [[Image:TechArt 997 Carrera S Polizei.jpg|right|thumb|250px|TechArt 997 Carrera S Polizei car]] -->
+
+The TechArt Coupe/Cabriolet features a bodykit with high-downforce front and rear spoilers, a rear diffuser, side skirts, and mirror and headlight housings.  The car is fitted with TechArt Formula alloy wheels ranging from 18 to 20 inches, and ContiSportContact 2 VMax tires.  A full range of interior customizations are available and tailored to customer taste.  To aid the car's performance, a range of suspension kits, depending on the wheel and tire combinations, can be installed.  The basic kit lowers the car by {{convert|25|mm|in|1}}, while the most advanced kit, the TechArt Vario sport suspension, uses [[Bilstein]] adjustable rebound shock absorbers and variable ride height control which can lower the car up to {{convert|35|mm|in|1}}.<ref name="www.conceptcarz.com">{{Cite web|url=http://www.conceptcarz.com/vehicle/z8558/Porsche_997_911_Carrera.aspx|title=ConceptCarz.com TechArt 997 911 Carrera|accessdate=2008-06-05|work=conceptcarz.com}}</ref>  The engine upgrades utilize custom exhaust, reprogrammed [[Engine Control Unit|ECU]] chips, and performance air cleaners to add {{convert|15|hp|kW|0}} to either the basic 3.6L Carrera engine or the larger 3.8L Carrera S engine, resulting in final outputs of {{convert|340|hp|kW|0}} and {{convert|370|hp|kW|0}}, respectively.<ref name="www.techart.de">{{Cite web|url=http://www.techart.de/homee_gesamt.htm|title=Techart.com TechArt 997 Engine Tuning|accessdate=2008-06-05|work=techart.de}}</ref>
+
+==Police car==
+It was based on 911 Carrera S.
+
+The vehicle was unveiled in 2005 TUNE IT! SAFE!.<ref>[http://www.rsportscars.com/eng/articles/police_porsche.asp Porsche Police Car]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.techart.de/homee_gesamt.htm TechArt official 997 Carrera tuning page]
+
+[[Category:Coupes]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:TechArt vehicles]]
+
+{{Modern-auto-stub}}

@@ -1,0 +1,8 @@
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/backslash> "text \\ text"@en .
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/doublebackslash> "text \\\\ text"@en .
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/slash> "text / text"@en .
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/linebreak> "first \\n next"@en .
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/tab> "text \\t text"@en .
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/return> "text \\r text"@en .
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/doubleQuote> "word \" word"@en .
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .

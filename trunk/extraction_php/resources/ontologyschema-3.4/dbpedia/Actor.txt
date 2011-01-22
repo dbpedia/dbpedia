@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Actor
+|rdfs:subClassOf = Artist
+}}

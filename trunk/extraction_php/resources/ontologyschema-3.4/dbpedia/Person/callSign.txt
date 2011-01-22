@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= call sign
+|rdfs:domain	= Person
+|rdfs:range		= xsd:string
+}}

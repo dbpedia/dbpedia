@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = rocket
+|rdfs:domain = Spacecraft
+|rdfs:range = Rocket
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = season
+|rdfs:domain = SoccerClub
+|rdfs:range = xsd:date
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = ICDO
+|rdfs:domain = Disease
+|rdfs:range = xsd:string
+}}

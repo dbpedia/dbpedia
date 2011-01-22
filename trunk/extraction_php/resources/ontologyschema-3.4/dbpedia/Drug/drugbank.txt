@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = DrugBank
+|rdfs:domain = Drug
+|rdfs:range = xsd:string
+}}

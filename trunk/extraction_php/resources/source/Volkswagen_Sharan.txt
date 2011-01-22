@@ -1,0 +1,218 @@
+{{Infobox Automobile
+| image        = [[File:VW Sharan front 20071026.jpg|250px]]
+| name         = Volkswagen Sharan
+| manufacturer = [[Volkswagen]]
+| production   = 1995&ndash;present
+| class        = [[Large MPV]]
+| assembly     = [[AutoEuropa]], [[Palmela]], [[Portugal]]
+| layout       = [[Front-engine design|Front engine]], [[front-wheel drive]] / [[four-wheel drive]]
+| body_style   = 5-door [[multi-purpose vehicle|MPV]]
+| wheelbase    = Pre-Facelift & 2010-: {{convert|2835|mm|in|1|abbr=on}}<Br>2004-09: {{convert|2841|mm|in|1|abbr=on}}
+| length       = Pre-Facelift: {{convert|4620|mm|in|1|abbr=on}}<br>Facelifted: {{convert|4634|mm|in|1|abbr=on}}
+| width        = Pre-Facelift: {{convert|1810|mm|in|1|abbr=on}}<br>Facelifted: {{convert|1810|mm|in|1|abbr=on}}
+| height       = Pre-Facelift: {{convert|1762|mm|in|1|abbr=on}}<Br>2004-09: {{convert|1759|mm|in|1|abbr=on}}<br>2010-: {{convert|1732|mm|in|1|abbr=on}}
+| engine       = '''[[Petrol engine|Petrol]]:'''<br>
+1.8L [[Straight-4|I4]] {{Convert|110|kW|hp|0|abbr=on}} 20V [[Turbocharger|Turbo]]<br>
+2.0L [[Straight-4|I4]] {{Convert|85|kW|hp|0|abbr=on}}<br>
+2.8L [[VR6 engine|VR6]] {{Convert|128|kW|hp|0|abbr=on}}<br>
+2.8L [[VR6 engine|VR6]] {{Convert|150|kW|hp|0|abbr=on}} 24V<br>
+'''[[Diesel engine|Diesel]]:'''<br>
+1.9L [[Straight-4|I4]] {{Convert|66|kW|hp|0|abbr=on}} [[Turbocharged Direct Injection|TDI]]<br>
+1.9L [[Straight-4|I4]] {{Convert|81|kW|hp|0|abbr=on}} [[Turbocharged Direct Injection|TDI]]<br>
+1.9L [[Straight-4|I4]] {{Convert|85|kW|hp|0|abbr=on}} [[Turbocharged Direct Injection|TDI]]<br>
+1.9L [[Straight-4|I4]] {{Convert|96|kW|hp|0|abbr=on}} [[Turbocharged Direct Injection|TDI]]<br>
+1.9L [[Straight-4|I4]] {{Convert|110|kW|hp|0|abbr=on}} [[Turbocharged Direct Injection|TDI]]<br>
+2.0L [[Straight-4|I4]] {{Convert|103|kW|hp|0|abbr=on}} [[Turbocharged Direct Injection|TDI]]
+| transmission = 5-speed [[manual transmission|manual]] <br> 6-speed [[manual transmission|manual]] <br> 5-speed [[Tiptronic]] [[Automatic transmission|automatic]]
+| related        = [[Ford Galaxy]]<br>[[SEAT Alhambra]]
+}}
+
+{{Redirect|Sharan}}
+
+The '''Volkswagen Sharan''' is a [[large MPV]] produced by the [[germany|German]] [[automaker]] [[Volkswagen]] since 1995.
+
+== History ==
+The name Sharan is derived from a Persian word meaning "Gurkar of Kings"..
+The Volkswagen Group subsequently [[badge engineering|rebadged]] the Volkswagen version in 1996, and sold it also as the [[SEAT Alhambra]] alongside the Sharan. All variants were produced at the joint venture plant [[AutoEuropa]] in [[Portugal]], with each of the three MPV models having its own subtle differences in exterior, and, for the [[Ford Galaxy]], in interior design.
+
+As of 2007, the annual production for the Sharan is in the 50,000 unit range; it is sold in Europe, South Africa and some Asia-Pacific and Latin American countries. In [[Mexico]] it was available with the 1.8[[Liter|L]] Turbo [[Inline-four engine|4 cil]] 150hp with 5 speed Tiptronic [[automatic gearbox]] in Comfortline trim only, while in [[Argentina]] it is available with the 1.8[[Liter|L]] Turbo 4 cil, and the 1.9[[Liter|L]] TDI 4 cil 115hp in both 5 speed [[Manual transmission|manual]] and 5 speed Tiptronic transmissions in Trendline trim only.
+
+The Sharan is not sold in the [[United States]] and [[Canada]].  Originally this was due to an agreement between Ford and Volkswagen, leaving the market free from competition for Ford's [[Ford Aerostar|Aerostar]] [[minivan]].  More recently, Volkswagen decided not to introduce the Sharan in [[North America]], ceased developing the [[Volkswagen Microbus Concept|Microbus concept]], and instead introduced a [[badge engineering|badge-engineered nameplate variant]] of the Chrysler minivans as the [[Volkswagen Routan|Routan]] (sold since 2009, although it replaced the Sharan in [[Mexico]], the only [[North America]]n country that sold it).
+
+Sharan is currently offered with six different engine choices:
+
+*2.0L {{Convert|85|kW|hp|0|abbr=on}} – 4 cylinder petrol
+*2.0L {{Convert|85|kW|hp|0|abbr=on}} – 4 cylinder petrol with LPG
+*1.8L turbo {{Convert|110|kW|hp|0|abbr=on}} – 4 cylinder petrol
+*2.8L VR6 {{Convert|150|kW|hp|0|abbr=on}} – 6 cylinder petrol
+*1.9L {{Convert|85|kW|hp|0|abbr=on}} TDI
+*2.0L {{Convert|103|kW|hp|0|abbr=on}} TDI
+
+The 2.8 VR6 are offered with the option of [[4Motion]] all-wheel drive.
+
+{{-}}
+
+===Mark 1/Phase 1 (1995-2000)===
+[[File:VW Sharan front 20070928.jpg|thumb|left|1995-2000 Volkswagen Sharan]]
+
+The original Sharan was launched in 1995, and was available with five engine choices:
+{| class="wikitable" style="text-align:center; font-size:91%;"
+|-
+! Model
+! Years
+! colspan="2"|Engine and code
+! Displ.
+! Power
+! Torque
+|-
+! 1.8T
+| 1997–2000 || [[straight-4|I4]] 20V || AJH || 1781 cc || {{convert|110|kW|PS hp|0|abbr=on}} @ 6000 rpm || {{convert|210|Nm|lb.ft|abbr=on}} @ 1750–4600 rpm
+|-
+! 2.0
+| 1995–2000 || [[straight-4|I4]] 8V || ADY || 1984 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 5000 rpm || {{convert|170|Nm|lb.ft|abbr=on}} @ 2400 rpm
+|-
+! 2.8 VR6
+| 1995–2000 || [[VR6 engine|VR6]] 12V || AAA/AMY || 2792 cc || {{convert|128|kW|PS hp|0|abbr=on}} @ 5800 rpm || {{convert|235|Nm|lb.ft|abbr=on}} @ 4200 rpm
+|-
+! 1.9 TDI
+| 1995–2000 || [[straight-4|I4]] 8V || 1Z/AHU || 1896 cc || {{convert|66|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|202|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 1.9 TDI
+| 1996–2000 || [[straight-4|I4]] 8V || AFN/AVG || 1896 cc || {{convert|81|kW|PS hp|0|abbr=on}} @ 4150 rpm || {{convert|235|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|}
+
+The 2.8 VR6 model had the option of [[Syncro]] [[all-wheel drive]].
+
+The Sharan received a [[EuroNCAP]] three-star safety rating when it was tested in 1999.
+
+'''Awards'''
+*1999 Auto Express New Car Honours – Best MPV
+*1998 [[Top Gear (magazine)|Top Gear]] Magazine Top Cars – Best People Carrier (Joint Winner)
+*1996 [[What Car]] Awards – Best People Carrier (Joint Winner)
+*1996 Auto Express Awards – Best People Carrier (Joint Winner)
+{{-}}
+
+===Mark 1A/Phase 1.5 (2000-2004)===
+[[File:Volks Sharan.jpg|thumb|right|Volkswagen Sharan (Mexico)]] 
+The Sharan and its stablemates received a major facelift in 2000.  At this time, VW also extended the wheelbase by {{convert|6|mm|in|1|abbr=on}}, increased the front and rear track, and gave it the "VW family" look of the time.
+
+'''Awards'''
+*2000 Auto Express New Car Honours – Best MPV
+
+=== Engine choices ===
+{| class="wikitable" style="text-align:center; font-size:91%;"
+|-
+! Model
+! Years
+! colspan="2"|Engine and code
+! Displ.
+! Power
+! Torque
+|-
+! 1.8T
+| 2000–2004 || [[straight-4|I4]] 20V || AWC || 1781 cc || {{convert|110|kW|PS hp|0|abbr=on}} @ 5800 rpm || {{convert|220|Nm|lb.ft|abbr=on}} @ 1800 rpm
+|-
+! 2.0
+| 2000–2004 || [[straight-4|I4]] 8V || ATM || 1984 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 5200 rpm || {{convert|170|Nm|lb.ft|abbr=on}} @ 2600 rpm
+|-
+! 2.8 V6
+| 2000–2004 || [[VR6 engine|VR6]] 24V || AYL || 2792 cc || {{convert|150|kW|PS hp|0|abbr=on}} @ 6200 rpm || {{convert|265|Nm|lb.ft|abbr=on}} @ 3400 rpm
+|-
+! 1.9 TDI
+| 2000–2003 || [[straight-4|I4]] 8V || ANU || 1896 cc || {{convert|66|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|240|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 1.9 TDI
+| 2000–2004 || [[straight-4|I4]] 8V || AUY || 1896 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|310|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 1.9 TDI
+| 2003–2004 || [[straight-4|I4]] 8V || ASZ || 1896 cc || {{convert|96|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|310|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|}
+{{-}}
+
+===Mark 1B/Phase 1.75 (2004-present)===
+{{Infobox Automobile
+[[File:VW Sharan II. Facelift 20090719 front.JPG|thumb|left|2004-present Volkswagen Sharan]]
+
+A further minor cosmetic facelift was also done for the 2004 model year, in September 2003. This updated primarily the grill and the noticeable round tail lights, and added some new standard equipment such as air conditioning and curtain side [[air bags]].  From 2006, the Ford Galaxy production shifted to a dedicated Ford plant in [[Genk|Limburg]], [[Belgium]] making the Sharan and Alhambra designs dedicated to the Volkswagen Group.
+
+=== Engine choices ===
+{| class="wikitable" style="text-align:center; font-size:91%;"
+|-
+! Model
+! Years
+! colspan="2"|Engine and code
+! Displ.
+! Power
+! Torque
+|-
+! 1.8T
+| 2004–present || [[straight-4|I4]] 20V || AWC || 1781 cc || {{convert|110|kW|PS hp|0|abbr=on}} @ 5800 rpm || {{convert|220|Nm|lb.ft|abbr=on}} @ 1800 rpm
+|-
+! 2.0
+| 2004–present || [[straight-4|I4]] 8V || ATM || 1984 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 5200 rpm || {{convert|170|Nm|lb.ft|abbr=on}} @ 2600 rpm
+|-
+! 2.8 V6
+| 2004–present || [[VR6 engine|VR6]] 24V || AYL || 2792 cc || {{convert|150|kW|PS hp|0|abbr=on}} @ 6200 rpm || {{convert|265|Nm|lb.ft|abbr=on}} @ 3400 rpm
+|-
+! 1.9 TDI
+| 2004–present || [[straight-4|I4]] 8V || BVK || 1896 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|310|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 1.9 TDI
+| 2004–2006 || [[straight-4|I4]] 8V || ASZ || 1896 cc || {{convert|96|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|310|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 1.9 TDI
+| 2004–2006 || [[straight-4|I4]] 8V || BTB || 1896 cc || {{convert|110|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|320|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 2.0 TDI
+| 2005–present || [[straight-4|I4]] 8V || BRT || 1968 cc || {{convert|103|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|310|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|}
+
+{{-}}
+
+== Mark 2 ==
+With the cooperation with [[Ford Galaxy]] moving to [[Belgium]], the final first-generation Ford Galaxy rolled off the AutoEuropa line at the end of 2005.
+
+The current Sharan and SEAT Alhambra are expected to continue in production at AutoEuropa, alongside the [[Volkswagen Eos]] and the new [[Volkswagen Scirocco|Scirocco]] until late 2009, when the second-generation Sharan is due to be launched. There is some evidence for strategic indecision concerning the stillborn [[Volkswagen Microbus Concept|Microbus reincarnation]] with which the replacement Sharan would have shared a platform.   However, it now appears that the next Sharan will share its platform with the current [[Volkswagen Passat|Passat]]. The next generation will be launched in July, 2010<ref>{{cite web | author=Ana Rita Faria  | title=Pré-acordo na Autoeuropa garante manutenção dos empregos | url=http://economia.publico.clix.pt/noticia.aspx?id=1385289 | work= | publisher=Publico.pt | date=05.06.2009 - 16h28 | accessdate=2009-06-05}}</ref>.
+
+== LPG Sharan ==
+In 2006 [[PrinceGas]]<ref name="vwgazette.blogspot.com">[http://vwgazette.blogspot.com/2006/06/ecology-meets-economy.html The VW Gazette: Ecology Meets Economy<!-- Bot generated title -->]</ref> and VW launched the Sharan with a 2.0&nbsp;L {{Convert|85|kW|hp|0|abbr=on}} [[flexible fuel engine]], which could work with either petrol or [[autogas]] (liquified petroleum gas), providing an additional 450 km (280 miles) range over the regular 2.0L petrol engine.  Both fuel tanks, the 70L (18 US gallon) petrol tank and the 60L liquid gas tank combined, give the Sharan enough fuel to cover 730 km (454 miles) between refuels at an average fuel consumption of 9.6&nbsp;L/100&nbsp;km.<ref name="vwgazette.blogspot.com"/>
+
+The liquid gas tank is built into the spare wheel well so it does not compromise on passenger and loading space of the Sharan's interior, although it does eliminate the spare tire.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/models/sharan.html VW Sharan Website]
+* [http://www.euroncap.com/tests/vw_sharan_1999/63.aspx EuroNCAP test of the 1999 Volkswagen Sharan]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Sharan]]
+[[Category:Minivans]]
+[[Category:Euro NCAP large MPVs]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1995]]
+[[Category:Vehicles with VR engines]]
+
+[[bs:Volkswagen Sharan]]
+[[da:Volkswagen Sharan]]
+[[de:VW Sharan]]
+[[es:Volkswagen Sharan]]
+[[fr:Volkswagen Sharan]]
+[[hr:Volkswagen Sharan]]
+[[it:Volkswagen Sharan]]
+[[lv:Volkswagen Sharan]]
+[[nah:Volkswagen Sharan]]
+[[nl:Volkswagen Sharan]]
+[[ja:フォルクスワーゲン・シャラン]]
+[[pl:Volkswagen Sharan]]
+[[pt:Volkswagen Sharan]]
+[[ru:Volkswagen Sharan]]
+[[fi:Volkswagen Sharan]]
+[[sv:Volkswagen Sharan]]
+[[tr:Volkswagen Sharan]]

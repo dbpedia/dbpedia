@@ -1,0 +1,45 @@
+The [[Mercedes-Benz]] '''M119''' was a [[V8]] [[automobile]] engine produced from [[1989]] through [[1999]].  It was available in 4.2&nbsp;L; 5.0&nbsp;L; and 6.0&nbsp;L displacements.  It was a [[double overhead cam]] design with 4 valves per cylinder and [[variable valve timing]] on the [[intake manifold|intake]] side.  It was replaced by the 3-valve [[Mercedes-Benz M113 engine|M113]] starting in [[1997]].
+
+The M119 differed from the [[Mercedes-Benz M117 engine|M117]] in the following ways:
+* The engine block uses asbestos-free gaskets and has better oil flow
+* The cylinder head is now a [[multi-valve|4-valve]] aluminum unit with [[dual overhead camshaft]]s
+* The connecting rods are forged and enable cooling of the pistons with sprayed oil
+* The pistons are iron-coated cast aluminum
+* An improved vibration damper system is used
+* The aluminum oil pan has bolted-on oil baffles to prevent foaming of the engine oil
+* The intake camshaft timing is adjusted [[hydraulic|hydro]]-[[machine|mechanically]] up to 20°:
+** 0&ndash;2000&nbsp;rpm &mdash; retarded for improved idle and cylinder scavenging
+** 2000&ndash;4700&nbsp;rpm &mdash; advanced for increased [[torque]]
+** 4700&ndash;&nbsp;rpm &mdash; retarded for improved [[volumetric efficiency]]
+
+==4.2==
+
+The 4.2&nbsp;L (4196&nbsp;cc) version produced 279&nbsp;PS (205&nbsp;kW) at 5700&nbsp;rpm and 295&nbsp;ft·lbf (400&nbsp;N·m) at 3900&nbsp;rpm.
+
+Applications:
+* [[Mercedes-Benz W124|W124]] [[Mercedes-Benz E-Class|400E/E420]]
+* [[Mercedes-Benz W210|W210]] [[Mercedes-Benz E-Class|E420]]
+* [[Mercedes-Benz W140|W140]] [[Mercedes-Benz S-Class|400SE/400SEL/S420]]
+
+==5.0==
+[[Image:Mercedes-Benz M119 engine.jpg|thumb|right|250px|A twin-turbocharged M119 installed in a [[Mercedes-Benz C11]] [[Group C]] race car.]]
+The 5.0&nbsp;L (4973&nbsp;cc) version produced 326&nbsp;PS (322&nbsp;hp/240&nbsp;kW) at 5700&nbsp;rpm and 354&nbsp;ft·lbf (479&nbsp;N·m) at 3900&nbsp;rpm.  Later engines had the full throttle enrichment removed and power was a little less, nearer 315&nbsp;PS (311&nbsp;hp/235&nbsp;kW).
+
+Applications:
+* [[Mercedes-Benz W124|W124]] [[Mercedes-Benz E-Class|500E/E500]]
+* [[Mercedes-Benz W140|W140]] [[Mercedes-Benz S-Class|500SEL/500SEC/S500]]
+* [[Mercedes-Benz R129|R129]] [[Mercedes-Benz SL-Class|500SL/SL500]]
+* [[Mercedes-Benz W210|W210]] [[Mercedes-Benz E-Class|E50 AMG]]
+
+The 5.0L M119 was also adapted for racing with the addition of two turbochargers.  It won the [[1989 24 Hours of Le Mans]] in the [[Sauber C9]] and was further used in the [[Mercedes-Benz C11]] before being replaced by the M291 3.5L Flat-12 in 1991.
+
+==6.0==
+
+[[Category:Mercedes-Benz engines|M119]]
+[[Category:Articles lacking sources (Erik9bot)]]
+* [[Mercedes-Benz W124|W124]] [[Mercedes-Benz E-Class|E60 AMG]]
+* [[Mercedes-Benz R129|R129]] [[Mercedes-Benz SL-Class|SL60 AMG]]
+* [[Mercedes-Benz W210|W210]] [[Mercedes-Benz E-Class|E60 AMG]]
+
+[[de:Mercedes-Benz M119]]
+[[it:Mercedes-Benz M119]]

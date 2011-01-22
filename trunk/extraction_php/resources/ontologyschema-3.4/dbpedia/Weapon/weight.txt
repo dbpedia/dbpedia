@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = weight
+|rdfs:domain = Weapon
+|rdfs:range = kilogram
+}}

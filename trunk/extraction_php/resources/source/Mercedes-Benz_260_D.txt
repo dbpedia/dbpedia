@@ -1,0 +1,46 @@
+{{Infobox Automobile
+| image         = [[Image:260D.jpg|250px|1938 Mercedes-Benz 260 D]]
+| name          = Mercedes-Benz 260 D
+| manufacturer  = [[Mercedes-Benz]]
+| production    = 1936&ndash;1940
+| predecessor   = 
+| successor     = 
+| class         = [[Full-size]] [[sedan (car)|sedan]]
+| platform      = 
+| layout        = 
+| body_style    = 4-door [[sedan (car)|sedan]]<br /> [[landaulette]]<br />[[Cabriolet (automobile)|cabriolet]]
+| engine        = 2545&nbsp;cc overhead valve, 4 cylinder inline
+| transmission  = three speed gearbox with overdrive (Nullserie), four speed with synchromesh on all ratios from 1937.
+| wheelbase     = 3050 mm (120.1 in)
+| length        = 4390 mm (172.8 in)
+| width         = 1630 mm (64.2 in)
+| height        = 
+| weight        = 1530 kg (3377 lbs)
+| aka           = 
+| fuel_economy  = 
+| fuel_capacity = 38L (10 US gal./8.4 UK gal.)
+| related       = 
+| similar       = 
+| designer      = 
+}}
+{{commonscat|Mercedes-Benz 260 D}}
+The '''Mercedes-Benz 260 D''' was the second [[diesel engine]]d production passenger car and was introduced in 1936. It was named in reference to its engine's cubic capacity. Nearly 2,000 vehicles were assembled until 1940, when the [[Daimler-Benz]] group had to devote itself entirely to military manufacture. 
+
+The 2545&nbsp;cc [[overhead valve]], 4 cylinder engine employed the [[Robert Bosch GmbH|Bosch]] diesel injection system and produced {{convert|45|bhp|abbr=on}} at 3000&nbsp;rpm. The car weighed approximately 1530 kg and could attain a top speed of 95 km/h. 
+
+The chassis was based on contemporary Mercedes technology and had transverse [[leaf spring]] independent front suspension and [[swing axle]]s at the rear.  The brakes were hydraulic. A range of body types were made including saloons, [[landaulette]]s and [[Cabriolet (automobile)|cabriolets]].
+
+Two series were manufactured, 170 pullman-landaulets used only as taxis based on the W21 chassis, called the ''Nullserie'' from 1936 to 1937, with a three speed plus overdrive transmission, without syncromesh on the first gear, and, from 1937 on, the regular production 260D based on the W143 chassis, with a four speed fully synchronized transmission.
+ 
+A surviving example of the car is displayed at the [[Mercedes-Benz]] museum in Germany.
+
+[[Category:Mercedes-Benz vehicles|260 D]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+
+{{Classicprw-auto-stub}}
+
+[[de:Mercedes-Benz W138]]
+[[it:Mercedes-Benz W138]]
+[[nl:Mercedes-Benz W138]]
+[[sv:Mercedes-Benz W138]]

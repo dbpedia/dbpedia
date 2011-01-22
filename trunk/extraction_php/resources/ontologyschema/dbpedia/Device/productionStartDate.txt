@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= production start date
+|rdfs:domain	= Device
+|rdfs:range		= xsd:date
+}}

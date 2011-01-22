@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= owning organisation
+|rdfs:domain	= Island	
+|rdfs:range		= Organisation
+}}

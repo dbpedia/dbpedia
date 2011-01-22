@@ -1,0 +1,8 @@
+{{ DBpediaTemplateMapping
+| mapToClass = PokerPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = hometown | ontologyProperty = PokerPlayer/hometown }}
+	{{ DBpediaPropertyMapping | templateProperty = firstname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = lastname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+}}

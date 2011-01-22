@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= height
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= millimetre
+|rdf:type = owl:FunctionalProperty
+}}

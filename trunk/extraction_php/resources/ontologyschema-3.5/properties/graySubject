@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = Gray subject
+| rdfs:domain = AnatomicalStructure
+| rdfs:range = xsd:integer
+}}

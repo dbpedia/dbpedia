@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = associated musical artist
+|rdfs:domain = MusicalArtist
+|rdfs:range = MusicalArtist
+}}

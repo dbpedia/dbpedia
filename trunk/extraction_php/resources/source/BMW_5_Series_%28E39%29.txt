@@ -1,0 +1,285 @@
+{{Redirect6|E39|the road|European route E39|light bulb fitting|Edison screw}}
+{{Infobox Automobile platform
+| name = BMW 5 Series (E39)
+| image = [[File:BMW E39 front 20081009.jpg|250px|2000–2004 BMW 530d sedan.]]
+| manufacturer = [[BMW]]
+| production = 1995–2004<br />(1,533,123 built)<ref>{{cite book |title=Deutsche Autos seit 1990, vol.5 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch |location=Stuttgart |isbn=3-613-02128-5 |pages=165}} and ''Auto Katalog'', 2003 edition, p. 312; figures for 2002 to 2004: sales according to BMW Group Annual Reports 2002/2003/2004.</ref>
+| assembly = Germany
+| class = [[Mid-size car]]
+| body_style = 4-door [[sedan (car)|sedan]]<br />5-door [[station wagon]]
+| layout = Front engined, rear-wheel drive
+| engine = 2.8&nbsp;L ''[[BMW M52#M52B28|M52B28]]'' [[I6]]<br />4.4&nbsp;L ''[[BMW M62#M62B44|M62B44]]'' [[V8]]<br />2.5&nbsp;L ''[[BMW M54#M54B25|M54B25]]'' [[I6]]<br />3.0&nbsp;L ''[[BMW M54#M54B30|M54B30]]'' [[I6]]<br />4.9&nbsp;L ''[[BMW S62#S62B50|S62B50]]'' [[V8]]
+| transmission = 5-speed [[Manual transmission|manual]]<br />4-speed [[Automatic transmission|automatic]]<br />5-speed [[Automatic transmission|automatic]]<br />6-speed [[Manual transmission|manual]]
+| wheelbase = {{convert|2830|mm|in|1|abbr=on}}
+| length = {{convert|4775|mm|in|1|abbr=on}} (sedan)<br />{{convert|4806|mm|in|1|abbr=on}} (wagon)
+| width = {{convert|1801|mm|in|1|abbr=on}}
+| height = {{convert|1435|mm|in|1|abbr=on}} (sedan)<br />{{convert|1415|mm|in|1|abbr=on}} (2000-03 540i sedan)<br />{{convert|1440|mm|in|1|abbr=on}} (1997-99 wagon)<br />{{convert|1417|mm|in|1|abbr=on}} (1997-99 540i sedan)<br />{{convert|1486|mm|in|1|abbr=on}} (2000-03 wagon)
+| vehicles = [[BMW 5 Series]]
+| related = [[BMW X5]]
+}}
+
+The '''BMW E39''' is the [[BMW 5 Series]] made between 1995 to 2004.  Widely regarded as one of the best four-door saloon cars of all time, it was the successor of the [[BMW E34]] in 1995, and itself was replaced by the [[BMW E60|E60]] platform in 2004. Sales to [[Germany]] and the [[United Kingdom]] began in 1995, and by 1996 sales to the remaining entities of [[Europe]] and the rest of the world had commenced. A [[Facelift (automobile)|mid-generational refresh]] appeared in 2001, featuring minute detail changes. At launch, the base model was the 520i, which developed 112&nbsp;kilowatts (150&nbsp;hp) in the pre-update models, and 126&nbsp;kilowatts (170&nbsp;hp) in later models. An [[BMW M5|M5]] variant was introduced in 1998, with a 5.0&nbsp;litre ''[[BMW M62|S62]]'' [[V8 engine]]. All models but the M5 were available as either a [[sedan (car)|sedan]] or a [[Station wagon|touring wagon]].
+
+Introduced in Europe in 1995, the complete vehicle redesign draws heavily from the [[BMW E38|E38 7 Series]] in body construction and electronic technology. The mid-level BMW sedan showed evolutionary styling changes rather than a dramatic redesign. Initially offered only as a sedan, the [[wheelbase]] grew by 68&nbsp;millimetres (2.7&nbsp;in) and overall length by 55&nbsp;millimetres (2.2&nbsp;in) over the E34. In the US, the new 5 Series came in two forms: the 528i and 540i. The 528i is equipped with the 2.8&nbsp;litre M52 in-line six carried over from the 1996 [[BMW E36|E36 328i]] and the 540i equipped with the 4.4&nbsp;litre [[BMW M62#M62TUB44|M62]] [[V8]]. Both engines were upgraded over the prior 5 Series generation. The 2.8&nbsp;litre dual [[overhead camshaft]] [[Straight-6|six-cylinder]] engine made 141&nbsp;kilowatts (190&nbsp;hp), versus 210&nbsp;kilowatts (282&nbsp;hp) for the 4.4&nbsp;litre dual overhead camshaft, all-aluminum V8. A [[ZF Friedrichshafen|ZF]] five-speed [[manual transmission]] without [[Overdrive (mechanics)|overdrive]] was standard on the 528i, with an optional A4S 310 R four-speed [[Automatic transmission|automatic]]. The 540i, in contrast, could have either a [[Getrag 420G transmission|Getrag six-speed]] [[Manual transmission|manual]] or a new five-speed A5S 560Z automatic transmission with adaptive transmission control. Standard equipment on both models included dual front and side [[airbag]]s, [[anti-lock brakes]], [[Traction control system|traction control]], [[power steering]], and [[air conditioning]].<ref>{{cite web | url = http://www.redbookasiapacific.com/au/vehicle/specs.php?key=BMW+96DH | title = 1996 BMW 528i | publisher = Red Book | accessdate = 2007-09-08}}</ref><ref>{{cite web | url = http://www.redbookasiapacific.com/au/vehicle/specs.php?key=BMW+96DJ | title = 1996 BMW 540i | publisher = Red Book | accessdate = 2007-09-10}}</ref>
+
+==Engineering==
+[[File:BMW E39 Touring 002.JPG|thumb|left|BMW 525i station wagon (Japan).]]
+
+===Body===
+The E39 all-steel body acts as a safety cage for occupant protection. The structural rigidity of the [[monocoque]] was increased using [[computer-aided engineering]]. This allows key points to be reinforced, to increase rigidity, without significantly adding to the weight. The overall increase is 10&nbsp;kilograms (20&nbsp;lb), which is offset by the [[aluminium]] suspension. Laser welding techniques ensure rigid bonding throughout.<ref>{{cite web | last = Kenwright | first = Joe | url = http://www.carpoint.com.au/car-review/2438799.aspx | title = BMW E39 5-Series (1996-03) | publisher = [[ninemsn]] | accessdate = 2007-09-21}}</ref> Another area of focus in the design of the body was in [[structural dynamics]]. The body was designed so that the frequencies for torsional twisting and bending are in separate ranges and above natural frequency. These frequencies are out of the range of engine and driveline vibrations; thus they will not amplify them.<ref name = "PDD">{{Cite journal | year = 1996 | title = Professional Development Department E39 Introduction | publisher = BMW of North America, Inc.}}</ref>
+
+The [[Aerodynamics|aerodynamically]] designed body and features of the E39 gave the 528i and 540i, 0.28 and 0.31 [[drag coefficient]]s respectively. Torsional rigidity was also increased over the [[BMW E34|E34]], by 40&nbsp;percent.<ref name = "PDD"/> The [[chassis]] was so stiff that the rigidity was unchanged for the E60 model.<ref>{{cite web | last = Wan | first = Mark | url = http://www.autozine.org/Classiccar/html/BMW/5er_E39.html | title = BMW 5-Series (E39) | publisher = AutoZine | accessdate = 2007-09-21}}</ref> This added stiffness allows the suspension to work with more accuracy. It also allows total engineering of ride quality through the suspension; rather than in combination with body flex.<ref name = "PDD"/>
+
+===Steering and suspension===
+[[Image:1996-2001 BMW E39 interior.jpg|thumb|Interior showcasing the updated E39's [[Center console (automobile)|centre console]] layout, with optional [[navigation]] screen.]]
+
+With the E39, two steering types and double pivot, [[MacPherson strut]] suspensions systems are used. For the 520i–530i models, BMW, for the first time in a 5 series, utilised [[rack and pinion]] steering.<ref name = "Bent-Eight_Beemer">{{cite web | last = Knowling | first = Michael | date = [[2006-02-02]] | url = http://autospeed.com.au/cms/A_2408/article.html | title = Bent-Eight Beemer | publisher = Web Publications Pty Limited | accessdate = 2007-09-21}}</ref> This not only offers weight reductions over the [[recirculating ball]] type used on the V8s, but also provides quick steering response through its variable ratio. This system steers from the front of the [[axle]].<ref name = "PDD"/>
+
+Six-cylinder models also receive an aluminium front [[subframe]]. The struts use aluminium "Tension Link" that comes from a forward position back to the front of the wheel and an aluminium horizontal link to locate them. Aluminium is used for the: [[steering knuckle]]s, outer strut tube, and the spring pads; saving 21&nbsp;kilograms (46&nbsp;lb).<ref name = "PDD"/>
+
+With the 540i, BMW retained the front steering and suspension from the previous E34 540i with the design based on the [[BMW E38|E38]] [[BMW 7 Series|7 Series]].<ref name = "PDD"/> The physical size, dimensions, and weight of the V8 540i required that the steering be the older recirculating ball type. This system steers from the back side of the axle.<ref name = "Bent-Eight_Beemer"/> The front subframe is steel. To compensate for the heavier front end, BMW used extra aluminium in components including the steering box, steering knuckles, outer strut tube, and the spring pads. The struts are located by an aluminium "Thrust Link" that comes from the rear to meet the back of the wheel and an aluminium horizontal link.<ref name = "PDD"/>
+
+The E39 employs similar design to the E38 7 Series for the rear suspension, regardless of the model specified. This "four-link integral rear suspension" or "Z-link" axle was first introduced on the [[BMW Z1]]. With this, [[Chapman strut]]s are utilised. Through precise [[Toe (automotive)|toe]] angle changes, stable yet responsive handling without unwanted toe change effects under load is achieved.<ref name = "PDD"/>
+
+===Engine specifications===
+Various engine sizes and configurations have been available. The [[North America]]n market saw the 525i, 528i, 530i, 540i and M5. The European range was however, more diverse, with BMW offering the 520i, 523i, 528i, 530i, 535i, 540i, 525tds, 520d (the only [[Straight-4|four-cylinder]] 5-Series engine on this generation), 525d, 530d and M5.
+
+[[Image:BMW 535i SE auto.JPG|thumb|left|1998 (pre-facelift) 535i SE Auto E39 saloon (UK spec).]]
+
+From 1997–2000, the E39 model range in North America consisted of the 528i, 540i, and M5. In 2001, the 528i was discontinued and replaced by the 525i and 530i. The 520i, 523i, 525i and 528i were powered by a 110&nbsp;kilowatt (150&nbsp;hp) engine in earlier versions, a 126&nbsp;kilowatt (170&nbsp;hp) and 141&nbsp;kilowatt (190&nbsp;hp) engines respectively. These were all versions of the [[gasoline]] [[BMW M52|M52]] inline-six engine. The 530i was powered by a 171&nbsp;kilowatt (231&nbsp;hp) inline-six, the [[BMW M54|M54]], shared with the [[E46]] 330i. The 540i was initially powered by the 210&nbsp;kilowatt (282&nbsp;hp) 4.4&nbsp;litre [[BMW M62#M62B44|M62B44]] V8 which was derived from the earlier E34 5 Series' [[BMW M60|M60]], but included [[Alusil|upgraded cylinder block material]], electronics, and more [[Engine displacement|displacement]]. In September 1998, the 540i received the further upgraded [[BMW M62#M62TUB44|M62TUB44]], which was also seen in the [[BMW E38|E38]] (7 Series) and in the [[BMW E53]] ([[BMW X5|X5]]). This engine supported a VANOS variable valve timing system, and had [[electronic throttle control]]. It was slightly boosted to 290&nbsp;hp for year 2002 and 2003 540i.
+{{-}}
+{|class="wikitable" cellpadding="0" cellspacing="0" style="text-align:center; font-size:91%;"
+! Model
+! Engine type
+! Displacement ([[Cubic centimetre|cc]])
+! Bore/Stroke (mm)
+! [[Compression ratio|Comp. ratio]]
+! Fuel system
+! Power
+! Torque
+! 0-100 [[Kilometres per hour|km/h]] (s)
+! Production
+|-
+| 520i
+| [[I6]] 24V
+| 1991
+| 80/66
+| 1:11.0
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|110|kW|PS bhp|0|abbr=on}} @ 5900
+| {{convert|190|Nm|ftlbf|abbr=on}} @ 3500
+| 10.2 ([[Manual transmission|man]]) / 11.5 ([[Automatic transmission|aut]])
+| 1996–2000
+|-
+| 520i
+| [[I6]] 24V
+| 2171
+| 80/72
+| 1:10.7
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|125|kW|PS bhp|0|abbr=on}} @ 6250
+| {{convert|210|Nm|ftlbf|abbr=on}} @ 3500
+| 9.1([[Manual transmission|man]]) / 10.2 ([[Automatic transmission|aut]])
+| 2000–2003
+|-
+| 523i
+| [[I6]] 24V
+| 2496
+| 84/75
+| 1:10.5
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|125|kW|PS bhp|0|abbr=on}} @ 5500
+| {{convert|245|Nm|ftlbf|abbr=on}} @ 3500
+| 8.5 ([[Manual transmission|man]]) / 9.6 ([[Automatic transmission|aut]])
+| 1995–2000
+|-
+| 525i
+| [[I6]] 24V
+| 2494
+| 84/75
+| 1:10.5
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|141|kW|PS bhp|0|abbr=on}} @ 6000
+| {{convert|245|Nm|ftlbf|abbr=on}} @ 3500
+| 8.1 ([[Manual transmission|man]]) / 8.9 ([[Automatic transmission|aut]])
+| 2000–2003
+|-
+| 528i
+| [[I6]] 24V
+| 2793
+| 84/84
+| 1:10.2
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|142|kW|PS bhp|0|abbr=on}} @ 5500
+| {{convert|280|Nm|ftlbf|abbr=on}} @ 3500
+| 7.5 ([[Manual transmission|man]]) / 8.8 ([[Automatic transmission|aut]])
+| 1995–2000
+|-
+| 530i
+| [[I6]] 24V
+| 2979
+| 84/89.6
+| 1:10.2
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|170|kW|PS bhp|0|abbr=on}} @ 5900
+| {{convert|300|Nm|ftlbf|abbr=on}} @ 3500
+| 6.6 ([[Manual transmission|man]]) / 7.6 ([[Automatic transmission|aut]])
+| 2000–2003
+|-
+| 535i
+| [[V8]] 32V
+| 3498
+| 84/78.9
+| 1:10.0
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|180|kW|PS bhp|0|abbr=on}} @ 5800
+| {{convert|345|Nm|ftlbf|abbr=on}} @ 3800
+| 7.4 ([[Automatic transmission|aut]])
+| 1996–2003
+|-
+| 540i
+| [[V8]] 32V
+| 4398
+| 92/82.7
+| 1:10.0
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|210|kW|PS bhp|0|abbr=on}} @ 5400
+| {{convert|440|Nm|ftlbf|abbr=on}} @ 3600
+| 6.1 ([[Manual transmission|man]]) / 6.4 ([[Automatic transmission|aut]])
+| 1996–2003
+|-
+| M5
+| [[V8]] 32V
+| 4941
+| 94/89.0
+| 1:11.0
+| [[Fuel injection#Multi-point fuel injection|Multiport fuel injection]]
+| {{convert|294|kW|PS bhp|0|abbr=on}} @ 6600
+| {{convert|500|Nm|ftlbf|abbr=on}} @ 3800
+| 5.3 ([[Manual transmission|man]])
+| 1998–2003
+|-
+| 520d
+| [[Straight-4|I4]] 16V
+| 1951
+| 88/84
+| 1:19.0
+| [[Common rail]] [[turbodiesel]]
+| {{convert|100|kW|PS bhp|0|abbr=on}} @ 4000
+| {{convert|280|Nm|ftlbf|abbr=on}} @ 1750
+| 10.6 ([[Manual transmission|man]])
+| 2000–2003
+|-
+| 525d
+| [[straight-6|I6]] 24V
+| 2497
+| 80/82.8
+| 1:17.5
+| [[Common rail]] [[turbodiesel]]
+| {{convert|120|kW|PS bhp|0|abbr=on}} @ 4000
+| {{convert|350|Nm|ftlbf|abbr=on}} @ 2000
+| 8.9 ([[Manual transmission|man]]) / 9.1 ([[Automatic transmission|aut]])
+| 2000–2003
+|-
+| 525td
+| [[I6]] 12V
+| 2498
+| 80/82.8
+| 1:22.0
+| [[Indirect injection]] [[turbodiesel]]
+| {{convert|85|kW|PS bhp|0|abbr=on}} @ 4800
+| {{convert|230|Nm|ftlbf|abbr=on}} @ 1900
+| 11.9 ([[Manual transmission|man]])
+| 1997–2000
+|-
+| 525tds
+| [[I6]] 12V
+| 2498
+| 80/82.8
+| 1:22.0
+| [[Indirect injection]] [[turbodiesel]]
+| {{convert|105|kW|PS bhp|0|abbr=on}} @ 4600
+| {{convert|280|Nm|ftlbf|abbr=on}} @ 2200
+| 10.4 ([[Manual transmission|man]]) / 11.0 ([[Automatic transmission|aut]])
+| 1996–2000
+|-
+| 530d
+| [[I6]] 24V
+| 2926
+| 84/88
+| 1:18.0
+| [[Common rail]] [[turbodiesel]]
+| {{convert|135|kW|PS bhp|0|abbr=on}} @ 4000
+| {{convert|390|Nm|ftlbf|abbr=on}} @ 1750
+| 8.0 ([[Manual transmission|man]]) / 8.4 ([[Automatic transmission|aut]])
+| 1998–2000
+|-
+| 530d
+| [[I6]] 24V
+| 2926
+| 84/88
+| 1:18.0
+| [[Common rail]] [[turbodiesel]]
+| {{convert|142|kW|PS bhp|0|abbr=on}} @ 4000
+| {{convert|410|Nm|ftlbf|abbr=on}} @ 1750
+| 7.8 ([[Manual transmission|man]]) / 8.0 ([[Automatic transmission|aut]])
+| 2000–2003
+|}
+
+:''Figures specified are for European sedan models''.<ref>{{cite web | url = http://www.autoweek.nl/carbasemerkindex.php?merkID=8&serietotaalID=56&add=&merkID1=8&cache=no | title = Autoweek Carbase for BMW 5-series | language = Dutch | accessdate = 2007-08-07}}</ref>
+
+==Changes by model year (US)==
+[[File:96-00 BMW 5-Series E39 sedan.jpg|thumb|1996–2000 BMW 540i sedan.]]
+[[File:BMW E39 rear 20081125.jpg|thumb|1996–2000 BMW 523i sedan.]]
+[[File:BMW E39 Touring rear 20081125.jpg|thumb|1996–2000 BMW E39 station wagon.]]
+[[File:BMW E39 Saloon 001.JPG|thumb|BMW 530i sedan (facelift).]]
+[[File:Bmw-e39-m-sport-rear-bumper.jpg|thumb|E39 BMW 5-Series M-Sport rear bumper design.]]
+[[File:BMW E39 rear 20081216.jpg|thumb|BMW 520i sedan (facelift).]]
+[[File:BMW E39 rear 20081009.jpg|thumb|BMW 530d sedan (facelift).]]
+
+===1996===
+The 1996 model year 5 series E39 was introduced into the US market in late 1995. Models available were the 528i with a [[BMW M52|I6]], and the 540i with a [[BMW M62|M62]] V8. 
+
+===1997===
+The 1997 model year the E39 went through minor design changes. The on-board [[computer]], called the Multi-Information System (MID), was upgraded in mid 1997. 
+
+===1998===
+For 1998 optional rear side airbags became available, and both models also gained BMW's exclusive new Head Protection System, which consists of two tubular bags that inflate upon a side impact and pop out just above each front door. A new Sport Package for the 528i and 540i, as well as an [[automatic transmission]] 540i were added options. The Sport Package included black body trim (standard models had chrome around the top of the windows), a sport-tuned suspension, and {{convert|17|in|mm|sing=on}} wheels and tires. In September 1998, the 540i's [[BMW M62|M62B44]] was updated to the [[BMW M62|M62TUB44]], adding {{convert|15|ft·lbf|N.m|abbr=on}} of torque.
+
+The high-performance [[BMW M5|M5 sedan]] returned to the BMW fold. Built in limited numbers, the M5 used a {{convert|400|hp|abbr=on}} V8 [[BMW M62|S62]], and came with a firmer suspension, 18&nbsp;inch wheels, a 6-speed manual transmission, and exclusive interior trim. Lower-body rear side airbags were standard on the M5, remaining optional for other models.
+
+===1999===
+1999 saw the introduction of the Touring (station wagon) body style and joined sedans in both 6-cylinder and V8 editions. Added options for 1999 were brighter xenon headlights, Park Distance Control that warns of obstacles when backing up, and self-leveling rear suspension for wagons. Standard on V8 models and newly optional for 528i versions was BMW's Dynamic Stability Control, designed to aid control in fast turns.
+
+===2000===
+In 2000, rain-sensing windshield wipers and xenon headlamps became standard on the 540i, and were newly available for 528i models. The "M Sport" package was added (replacing the standard sport package), and included the M Sport steering wheel, door sills, and shift knob. The 528i versions also gained the 540i's standard stability control system. All models now had daytime running lights, and fog lamps.
+
+===2001===
+For the 2001 model year, BMW updated the E39 with newer, clear-lens tail, side marker, and headlights which first displayed the now-popular "angel eyes." Rear tail lights were changed to "wave-guide" [[LED]]s ([[Hella (company)|Hella]], the OEM, refers to these lights as "CELIS"), while the side and rear turn signals were changed from amber lenses to clear. The black trim was now painted to match the body color, and the front bumper now featured rounded fog lights. Internally many changes were made to electronics; items such as window regulators and the air conditioning were updated. The 528i was replaced by the 530i which had a new 170&nbsp;kW (228&nbsp;hp) [[BMW M54|M54B30]] 3.0&nbsp;L inline-6. A new entry-level 525i was introduced featuring a 143&nbsp;kW (192&nbsp;hp) [[BMW M54|M54B25]] 2.5&nbsp;L I6 and a slightly lower price. The available navigation system was changed to a wide screen version. The front grill was also changed to a new, more pronounced design.
+
+===2002===
+For 2002, [[BMW Steptronic]]-equipped E39s had their manual shift direction switched to match BMW's [[Electrohydraulic manual transmission|SMG]]. Also, in 2002 the 540i V8 32V engine power was increased from 210&nbsp;kW (282&nbsp;hp) to 216&nbsp;kW (290&nbsp;hp) while torque remained the same. All models got a standard in-dash CD player, 6-cylinder models added a standard power passenger seat, and the 525i received automatic climate control standard. [[Consumer Reports]] declared the 2002 BMW E39 the best car they had ever reviewed.
+
+===2003===
+2003 marked the last year for the E39 platform; they were differentiated by the addition of extra chrome trim on the trunk (boot) and on the sides of the body. In all 6-cylinder model 5-Series add a standard sunroof. The optional navigation systems upgraded from CD-ROM format (8 CDs to cover the entire USA and Canada) to a single DVD-ROM. The optional sport package on the 540i carried parts from M-technic. This included a full M-tech ground effects, M-tech II suspension, 18&nbsp;inch wheels, and a variety of M badging. [[Isofix]]/[[LATCH]] child seat anchors were added. The E39 wagon (touring / estate) was continued into 2004 until the touring version of the new E60 5 Series was released.
+
+==References==
+{{Commonscat|BMW E39}}
+{{Reflist}}
+{{BMW cars}}
+
+[[Category:BMW platforms|E39]]
+[[Category:Euro NCAP executive cars]]
+[[Category:Vehicles introduced in 1995]]
+
+[[da:BMW E39]]
+[[de:BMW E39]]
+[[et:BMW E39]]
+[[es:BMW E39]]
+[[fr:BMW E39]]
+[[nl:BMW E39]]
+[[no:BMW E39]]
+[[pl:BMW E39]]
+[[pt:BMW E39]]
+[[ru:BMW E39]]
+[[sv:BMW E39]]

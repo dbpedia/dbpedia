@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Womens Tennis Association Tournament
+| rdfs:subClassOf = SportsEvent
+}}

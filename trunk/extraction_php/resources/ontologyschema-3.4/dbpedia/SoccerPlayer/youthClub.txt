@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = youth club
+|rdfs:domain = SoccerPlayer
+|rdfs:range = SportsTeam
+}}

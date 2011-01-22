@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+Copyright (C) 2009 Philipp Heim, Sebastian Hellmann, Jens Lehmann, Steffen Lohmann and Timo Stegemann
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.	
+-->
+
+<mx:TitleWindow xmlns:mx="http://www.adobe.com/2006/mxml"  width="400" height="300" borderAlpha="0.7" creationComplete="{init();}">
+	<mx:Script>
+		<![CDATA[
+			import connection.ILookUp;
+			import connection.LookUpKeywordSearch;
+			import connection.LookUpSPARQL;
+			import connection.SPARQLConnection;
+			import connection.SPARQLResultEvent;
+			import flash.events.Event;
+			import mx.collections.ArrayCollection;
+			import mx.controls.Alert;
+			import mx.managers.PopUpManager;
+			import popup.InputSelectionEvent;
+			
+			private function init():void {
+				textArea.text = "Your selected input has several resources.\nPlease select the desired resource."
+				this.x = 180;
+				this.y = 30;
+				setStyle("borderColor", getStyle("themeColor"));
+			}
+			
+			private var _inputIndex:int;
+			private var _inputItem:Object;
+			private var _dataProvider:ArrayCollection;
+			
+			[Bindable(event="indexChange")]
+			public function get inputIndex():int {
+				return _inputIndex;
+			}
+			
+			public function set inputIndex(index:int):void {
+				_inputIndex = index;
+				this.title = "Input " + (_inputIndex + 1) + " is not unique";
+				dispatchEvent(new Event("indexChange"));
+			}
+			
+			[Bindable(event="inputChange")]
+			public function get inputItem():Object {
+				return _inputItem;
+			}
+			
+			public function set inputItem(input:Object):void {
+				if (input.hasOwnProperty("label") && input.hasOwnProperty("uris")) {
+					_inputItem = input;
+					inputLabel.text = _inputItem.label + ":";
+					dataProvider = new ArrayCollection(_inputItem.uris);
+				}
+				dispatchEvent(new Event("inputChange"));
+			}
+			
+			[Bindable(event="dpChange")]
+			public function get dataProvider():ArrayCollection {
+				return _dataProvider;
+			}
+			
+			public function set dataProvider(dataProvider:ArrayCollection):void {
+				_dataProvider = dataProvider;
+				dispatchEvent(new Event("dpChange"));
+			}
+			
+			public function ok():void {
+				if (inputList.selectedItem && inputList.selectedItem.toString() != "") {
+					inputItem.tempUri = inputList.selectedItem.toString();
+					dispatchEvent(new Event("Disambiguation"));
+					PopUpManager.removePopUp(this);
+				}else {
+					Alert.show("You have to select a valid resource from list", "No valid resource selected!", Alert.OK);
+				}
+			}
+			
+			public function cancel():void {
+				PopUpManager.removePopUp(this);
+			}
+			
+		]]>
+	</mx:Script>
+	
+	
+	<mx:VBox width="100%" height="100%">
+		<mx:TextArea id="textArea" width="100%" wordWrap="true" editable="false" selectable="false" borderStyle="none"/>
+		
+		<mx:Label id="inputLabel" width="100%" fontSize="14" fontWeight="bold" />
+		
+		<mx:VDividedBox width="100%" height="100%">
+			<mx:List id="inputList" width="100%" height="100%" wordWrap="true" variableRowHeight="true"
+				dataProvider="{dataProvider}" doubleClickEnabled="true" itemDoubleClick="{ok();}" />
+		</mx:VDividedBox>
+		
+		
+		<mx:HBox horizontalAlign="right" width="100%">
+			<mx:Button id="okButton" label="OK" click="{ok();}" />
+			<mx:Button id="cancelButton" label="Cancel" click="{cancel();}" />
+		</mx:HBox>
+	</mx:VBox>
+</mx:TitleWindow>

@@ -1,0 +1,153 @@
+{{Infobox Automobile
+|name=BMW M62/S62
+|manufacturer=[[BMW]]
+|production=1994&ndash;2005
+|class=[[DOHC]] 90° [[V8]]
+|predecessor=[[BMW M60]]
+|successor=[[BMW N62]]
+|engine=3.5&nbsp;L (3498&nbsp;cc/213&nbsp;in³)<br>4.4&nbsp;L (4398&nbsp;cc/268&nbsp;in³)<br>4.6&nbsp;L (4619&nbsp;cc/281&nbsp;in³)<br>4.9&nbsp;L (4941&nbsp;cc/301&nbsp;in³)
+|similar=[[Jaguar AJ-V8 engine|Jaguar AJ-V8]]<br>[[Ford Modular engine|Ford Modular V8]]<br>[[Ford Yamaha V8 engine|Ford/Yamaha V8]]<br>[[GM Premium V engine|GM Premium V]]<br>[[Mercedes-Benz M113 engine|Mercedes-Benz M113/M155]]<br>[[BMW N62]]<br>[[Toyota UZ engine|Toyota UZ]]<br>[[Nissan VH engine|Nissan VH]]<br>[[Nissan VK engine|Nissan VK]]
+}}
+The [[BMW]] '''M62''' is a [[V8 engine|V8]] [[piston engine]], built in [[Munich, Germany]].  It has an aluminum block with 98&nbsp;mm bore centers and two aluminum DOHC cylinder heads.   
+
+==M62==
+The M62 block does not use cast iron liners, which are less able to dissipate heat than aluminum. The aluminum alloy used to manufacture the M62 block contains high levels of silicon (called [[Alusil]]). The block is etched to expose the silica, creating a bearing surface in the cylinder.  This was an improvement over the earlier [[BMW M60|M60]] V8, that used a [[Nikasil]] cylinder wall coating, which deteriorated with the use of gasoline containing sulfur in the nickel plated combustion chambers. All M62 engines produced for the US market were never built using Nikasil blocks, they were using Alusil only, which is not subject to the corrosion problem associated with Nikasil. Other countries did get the Nikasil M62 engine though.<br />BMW slowly stopped using Nikasil in the M62, and in 1997, they issued a service bulleting to state that the M62 engine will no longer use Nikasil from March 1997 on. This applied to all markets.<br />During the first 2 years of production of the M62 (From 1995 to 1997), many engines were built using Nikasil, but most of them had no issues whatsoever because they were delivered in countries were the gas was properly treated and the levels of sulfure found in them were not harmful.
+
+Screenshot of the BMW TIS bulleting published in 1997:<br />
+Part 1:<br />
+[http://www.bmw-planet.com/images/M62_Nikasil_1.jpg link BMW M60/M62 Nikasil Bulletin]<br />
+Part 2:<br />
+[http://www.bmw-planet.com/images/M62_Nikasil_2.jpg link BMW M60/M62 Nikasil Bulletin]<br />
+
+The M62 uses SFI [[fuel injection]], has 4 valves per cylinder with VVT, and features fracture-split forged powder metal connecting rods.
+
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#M62B35|M62B35]]||rowspan=3|3.5&nbsp;L {{convert|3498|cc|cuin|1|abbr=on}}||{{convert|173|kW|PS hp|0|abbr=on}} @ 5700||{{convert|320|Nm|lbft|0|abbr=on}} @ 3300||6200||1996
+|-
+|rowspan=2|[[#M62TUB35|M62TUB35]]||{{convert|175|kW|PS hp|0|abbr=on}} @ 5800||{{convert|345|Nm|lbft|0|abbr=on}} @ 3800|| ||1998
+|-
+|{{convert|180|kW|PS hp|0|abbr=on}} @ 5800||{{convert|345|Nm|lbft|0|abbr=on}} @ 3800|| ||1998
+|-
+|[[#M62B44|M62B44]]||rowspan=2|4.4&nbsp;L {{convert|4398|cc|cuin|1|abbr=on}}||{{convert|210|kW|PS hp|0|abbr=on}} @ 5700||{{convert|420|Nm|lbft|0|abbr=on}} @ 3900||6100||1996
+|-
+|[[#M62TUB44|M62TUB44]]||{{convert|210|kW|PS hp|0|abbr=on}} @ 5400||{{convert|440|Nm|lbft|0|abbr=on}} @ 3600|| ||1998
+|-
+|[[#M62B46|M62B46]]||4.6&nbsp;L {{convert|4619|cc|cuin|1|abbr=on}}||{{convert|255|kW|PS hp|0|abbr=on}} @ 5700||{{convert|480|Nm|lbft|0|abbr=on}} @ 3700||6500||2001
+|-
+|[[#S62|S62B50]]||4.9&nbsp;L {{convert|4941|cc|cuin|1|abbr=on}}||{{convert|294|kW|PS hp|0|abbr=on}} @ 6600||{{convert|500|Nm|lbft|0|abbr=on}} @ 3800|| 7000 ||1998
+|}
+
+==M62B35==
+The 3.5&nbsp;L ({{convert|3498|cc|cuin|1|abbr=on}}) '''M62B35''' was introduced in the 1996 535i.
+
+Applications:
+* {{convert|173|kW|PS hp|0|abbr=on}} and {{convert|320|Nm|lbft|0|abbr=on}}
+** 1996-1997 [[BMW E39|E39]] [[BMW 5-Series|535i]]
+** 1996-1997 [[BMW E38|E38]] [[BMW 7-Series|735i/735iL]]
+* {{convert|175|kW|PS hp|0|abbr=on}} and {{convert|345|Nm|lbft|0|abbr=on}}
+** 1999-2001 [[BMW E38|E38]] [[BMW 7-Series|735i/735iL]]
+* {{convert|180|kW|PS hp|0|abbr=on}} and {{convert|345|Nm|lbft|0|abbr=on}}
+** 1998-2003 [[BMW E39|E39]] [[BMW 5-Series|535i]]
+
+==M62B44==
+
+The '''M62B44''' is a 4.4&nbsp;L ({{convert|4398|cc|cuin|1|abbr=on}}) version with a 92&nbsp;mm bore and 82.7&nbsp;mm stroke.  In 09.1998, BMW introduced the M62TUB44 which included the VANOS system and an electronically actuated throttle.  The non-VANOS M62B44 had a slightly smaller MAF, but an intake manifold with larger runners for better high rpm flow characteristics (the difference was very similar to the difference between OBD1 and OBD2 M52/S52). The Non-VANOS intake manifold can be swapped onto the newer M62B44TU for more overall power and torque above 3500 rpm.  Dinan sold these intake manifolds as an upgrade (using stock BMW parts), but for substantially more since the upgrade manifold carried the Dinan badge. 
+
+* {{convert|210|kW|PS hp|0|abbr=on}} and {{convert|420|Nm|lbft|0|abbr=on}} / Mechanical Throttle
+** 1996-1998 [[BMW E39|E39]] [[BMW 5-Series|540i]]
+** 1996-1998 [[BMW E38|E38]] [[BMW 7-Series|740i/740iL]]
+** 1994-1999 [[BMW E31|E31]] [[BMW 8-Series|840Ci]]
+* {{convert|210|kW|PS hp|0|abbr=on}} and {{convert|440|Nm|lbft|0|abbr=on}} / Electronic Throttle -SINGLE vanos;the M5 S62 was the first BMW V8 (and only E39 V8) with dual vanos. In 2002, the power was increased from {{convert|210|kW|PS hp|0|abbr=on}} to {{convert|216|kW|PS hp|0|abbr=on}} while torque remained the same.
+** 1998-2003 [[BMW E39|E39]] [[BMW 5-Series|540i]]
+** 1999-2001 [[BMW E38|E38]] [[BMW 7-Series|740i/740iL]]
+** 1999-2003 [[BMW E53|E53]] [[BMW X5|X5 4.4i]]
+** 2003-2005 [[Land Rover]] [[Range Rover|Range Rover 4.4]]
+** 2000-2004 [[Morgan Aero 8]][http://www.autosite.com/content/research/buyersguide/index.cfm/action/viewGuide/year_si/2005/make_vch/Morgan/model_vch/Aero%208/xml/2005-morgan-aero-8.xml]
+
+<gallery>
+Image:BMW_M62B44.jpg|BMW M62 B44
+Image:BMW_M62TUB44.JPG|BMW M62 TUB44
+</gallery>
+
+==M62B46==
+* The '''M62B46''' was a 4.6&nbsp;L ({{convert|4619|cc|cuin|1|abbr=on}}) version producing {{convert|255|kW|PS hp|0|abbr=on}} and {{convert|480|Nm|lbft|0|abbr=on}} of torque.
+** 1997-2002 [[BMW E39|E39]] [[Alpina]] B10
+** 2001      [[BMW E53|E53]] [[BMW X5|X5 4.6is]]
+Parenthetically, it seems odd that the 4.4 liter M62 has the same published HP of it's predecessor, the 4.0 liter M60.  It is well known that these engines made more power than BMW let on.  There have been numerous, well-documented dynomometer runs of E39 540s with these engines (See Bimmer Forums for example) that generate between 260 and 270 HP at the rear wheels indicating that, given even a modest allowance for drive train power loss, the cars were producing crankshaft HP numbers that far exceeded what BMW published.
+
+==S62==<!-- This section is linked from [[V8 engine]] -->
+The high-performance '''S62''' was made for the [[BMW E39|E39]] [[BMW M5|M5]] and [[BMW E52|E52]] [[BMW Z8|Z8]]. It is a 4.9&nbsp;L ({{convert|4941|cc|cuin|1|abbr=on}}) [[V8 engine]] and is based on the same architecture as the regular aluminium block 4.4&nbsp;L [[BMW]] M62 powerplant found in the E39 540i. BMW Motorsport (M) Division has extensively modified the engine for increased [[Power (physics)|power]] and [[torque]]. 
+
+Previous M5 engines were assembled at M division headquarters in [[Garching]], Germany but the S62 M5 engines were assembled at the [[Dingolfing]] assembly plant.
+
+The M5's engine starts with an aluminum and silicon alloy [[Alusil]]. Cylinder linings are etched after honing to promote oil retention and reduce friction. The S62's V8 block shares the M62's basic architecture but with 94.0&nbsp;mm (3.7 in) cylinder bores compared to the M62's 92.0. The stroke is increased from 82.7&nbsp;mm to 89.0&nbsp;mm (3.5 in) significantly improving torque.  This results in a displacement of {{convert|4941|cc|cuin|1|abbr=on}}. The cylinder centers are 98.0&nbsp;mm apart, leaving only 4&nbsp;mm of block surface between cylinders. For effective sealing with this tight cylinder spacing, BMW M engineers developed new 3-layer steel head gaskets to help ensure isolation of gasoline, oil and coolant. 
+
+Based on the cylinder heads used in other BMW V8's, the M5's heads are re-jacketed for cross-flow cooling, as is customary in M division engines. The intake side of the heads also gets coolant passages.  Valve adjustment is not needed, thanks to hydraulic lifters, as fitted on the US spec. [[BMW E36|E36]] [[BMW M3|M3]] inline-6. This is the first European-market M car to use hydraulic lifters.  
+
+The air induction system is also unique to the S62. Air is taken in at two points behind the front bumper, passes through two intake silencers and two hot-film air-mass meters, and then flows into the voluminous plenum atop the engine. From there, air courses through 230-mm intake runners (including the throttle housings) to the individual cylinders. The entire assembly of plenum and runners is attached to the throttle housings via a rubber/metal flange (one per bank) that acoustically and thermally decouples the plenum from the engine itself thereby keeping the air charge cooler before it passes into the cylinders.
+
+Admission of air to the cylinders is not through a typical "throttle body," but through eight individual throttle butterflies (each 50&nbsp;mm or 1.97 in. in diameter), one for each cylinder. Individual throttles are a very costly feature and previous large M six cylinder engines powering the [[BMW M1|M1]], [[BMW M5|M5]] and [[BMW M6|M6]] models, all had this feature. However, the S62 is the first BMW engine with electronically actuated individual throttles. Positioned much nearer the cylinders than a single throttle can be, these throttles eliminate air flow "lag times" significantly improving throttle response.  Each throttle operates in its own housing, mounted directly above the intake port. The electronic throttle linkage (a "fly-by-wire" system) is actuated by two potentiometers as the driver depresses the accelerator.  The driver accelerator inputs are processed by the engine control module and received by a DC servo motor between the cylinder banks.  Through a small gearbox, this motor drives a shaft that in turn drives a link to each bank rotating the four throttle butterflies of that bank.  These two links rotate the two throttle shafts, connecting via ball joints at cylinders 3 and 6. From these points, the other three throttles of each bank are opened and closed in unison.  The servo motor reacts to any pedal movement in 120 milliseconds, so the driver perceives no lag time – only instant throttle response.  The M Driving Dynamics Control System, controlled by the Sport button on the dash, provides two settings for throttle response: Normal mode and a quicker Sport mode.  In the Sport mode, throttle response is more immediate and linear.  In the non-Sport or Normal mode, throttle tip-in is softer and more languid.  Additionally, the throttles of cylinders 4 and 8 also have their own feedback sensors to monitor the throttles' operation. If a fault is recognized, the system switches to one of four "limp-home" modes that can allow operation at up to 100&nbsp;km/h.
+
+[[Robert Bosch GmbH|Bosch]] [[Motronic]] port fuel injection is utilized.  Fuel pressure, at up to {{convert|5|bar|psi|1|abbr=on}}, varies according to need.  The fuel regulator is also plumbed into the fuel filter.  Excess fuel delivered to the filter/regulator returns directly to the fuel tank without passing through the fuel lines to the engine compartment and fuel rails.  This keeps the excess fuel unpressurized, which thus keeps fuel heating to a minimum.
+
+The S62 is BMW's first V8 engine equipped with Double [[VANOS]]; a system that steplessly varies the timing of both intake and exhaust valves of both cylinder banks. The VANOS acronym refers to variable cam control or variable valve timing which in German is VAriable NOckenwellen Steuerung.  While current BMW 2.5 and 2.8&nbsp;L 6-cylinder engines also have the Double VANOS system, the 4.4&nbsp;L M62 V8 has a Single VANOS system that steplessly varies only intake valve timing.  Double VANOS is employed for the first time on a BMW V8 with the introduction of the S62 engine.  In addition to enhanced low to medium engine speed torque, the advantages of VANOS include:
+*Reduced unburned hydrocarbons during idling 
+*Smooth idling 
+*Internal exhaust-gas recirculation at low speeds for improved control of oxides of nitrogen (NOx) 
+*Quicker warm-up of the catalytic converters after a cold start with reduced emissions during this operational phase
+*Reduced combustion noise 
+
+As on other BMW engines, the VANOS mechanisms are located at the front of the cylinder heads.  The {{convert|100|bar|psi|0|abbr=on}} of hydraulic pressure used to actuate VANOS is produced by two dedicated oil pumps; one for each cylinder head.  Valve timing is varied over a range of 60 degrees in terms of crankshaft rotation with a wider adjustment range than that of other BMW engines.
+
+The S62 has its own unique [[electronic control unit]] (ECU) manufactured by [[Siemens]] (designated MSS 52) which oversees:
+*Basic engine functions 
+*Electronic throttle system (including cruise control) 
+*G-sensitive lubrication system 
+*Thermal oil-level sender 
+*Variable tachometer warning zone 
+*Catalytic-converter protective functions 
+*Double VANOS variable valve timing 
+*Maximum engine speed (7000 rpm) 
+*M Driving Dynamics Control, which provides two settings for the throttle system and power steering. 
+
+A forged five-main bearing crankshaft with counterweights receives Mallory metal plugs for extremely fine balance.  Connecting rods are forged as one piece. The caps are then fracture split for the best possible fit when being installed. Balancing pads are also placed on both small and large ends of the rods.
+
+Piston design is unique to the S62 motor. For optimum power output, the engineers designed specifically shaped cutouts in the piston crowns for the intake and exhaust valves. This requires a different piston design for each cylinder bank, rather than the usual identical design for all pistons. The pistons are fitted with valve reliefs, and each is cooled by two upward-firing oil jets per cylinder.  The oil jets are indexed to oil pressure; when pressure reaches {{convert|2.5|bar|psi|1|abbr=on}}, they begin operating. This level of oil pressure is a good indication of higher-than-average load and rpm.  Oil cooling is provided by two separate oil passages in the crankcase. The compression ratio is 11.0:1, 10% higher than for the 4.4&nbsp;L V8 and thus contributing to the engine's high power and torque output.
+
+Given the 45 degree cant (from vertical) of the cylinder banks and the M5's cornering capability of over 1g, natural return of oil to the sump might have been inadequate during extreme cornering. Thus the M engineers devised a unique system to ensure effective engine lubrication at all times. In addition to the main oil (pressure) pump, there are two scavenging (suction) pumps, one for each cylinder bank. In normal and light cornering conditions, oil from the heads and main bearings flow back into the semi-dry sump at the rear of the engine via the two suction pumps. In hard cornering (0.9g or more), the [[Dynamic stability control|Dynamic Stability Control]] system's lateral-g sensor switches magnetic valves to reroute oil extraction points to alternate locationsthe outer sides of the heads and sump—preventing a backup of oil collecting in the outside of the head thus avoiding potential oil starvation.  This system remains active even if the driver switches off the Dynamic Stability Control.  
+
+The oil level (sump capacity of 7 litres) and temperature are monitored by a thermal sensor. A warning appears in the Check Control display if the oil level falls below a certain point. An oil-temperature gauge replaces the fuel economy gauge in the tachometer face. Oil is cooled by a coolant-oil heat exchanger.
+
+The V-8's two cylinder heads are modified to provide efficient coolant flow across the head and the coolant passages are enlarged. Coolant is circulated by a larger water pump with a capacity of 380 liters per minute (83.6 gallons/min). Improvements in radiator efficiency negated any reason to enlarge it for the M5.
+
+Other significant features of the cylinder heads include hollow camshafts of nodular cast iron for reduced inertia and long life. The S62's 35&nbsp;mm intake and 30.5&nbsp;mm exhaust valves are shared with the M62 engine, but valve timing is specific to this engine.  The intake cam profiles yield {{convert|10.32|mm|in|3|abbr=on}} valve lift and 252 degrees total duration and the exhaust cam profiles yield {{convert|10.2|mm|in|3|abbr=on}} lift and 248 degrees duration, with Double [[VANOS]] shifting their timing to vary overlap. As in other current BMW V8 and 6-cylinder engines, the valves are actuated by no-maintenance bucket-type hydraulic lifters.  
+
+In place of the M62 engine's simplex roller chain driving both intake camshafts, the S62 employs a heavier-duty duplex (double roller) chain driving each intake camshaft.  As in the M62, two secondary simplex (single-roller) chains then drive the exhaust camshafts from the intake camshafts.
+
+Exiting the engine through double-wall stainless-steel exhaust headers (as on the M62 engine), exhaust gases then flow through one tri-metal catalytic converter per cylinder bank. There are four oxygen sensors: two ahead of the converters and two behind.  A pressure-equalizer balance pipe connects the two exhaust streams behind the converters, enhancing low-speed torque and contributing to the engine's wonderful exhaust note.  Aft of the catalytic converters, the full dual exhaust system includes two resonators and four mufflers that end in four stainless-steel outlets.
+
+The variable tachometer warning zone innovation reminds drivers that a cold engine (especially a high-performance one) should be treated with care. When the engine is first started, the tachometer's warning zone (indicated by orange [[Light-emitting diode|LED]]s) begins at 4000 rpm. As the engine warms, LEDs are extinguished to lift the limit in increments of 500 rpm until the warning field begins at its normal 6500 rpm. The actual rpm limit is 7000.
+
+The S62 engine produces {{convert|294|kW|PS hp|0|abbr=on}} at 6600 rpm and {{convert|500|Nm|lbft|0|abbr=on}} of torque at 3800 rpm. It is easily identified by its large central intake velocity stack chamber cover that carries the "M" logo and is further inscribed with "BMW M Power" against a simulated carbon fiber background. 
+
+Applications:
+* 1998-2003 [[BMW E39|E39]] [[BMW M5|M5]]
+* 2000-2003 [[BMW E52|E52]] [[BMW Z8|Z8]]
+* 1999-2006 [[Ascari KZ1]]
+* 2006-Present [[Ascari A10]]
+
+==See also==
+* [[BMW N62]]
+* [[List of BMW engines]]
+
+{{DEFAULTSORT:Bmw M62}}
+[[Category:BMW engines|M62]]
+
+[[de:BMW M62]]
+[[it:BMW M62]]
+[[no:BMW M62]]
+[[pl:BMW M62]]

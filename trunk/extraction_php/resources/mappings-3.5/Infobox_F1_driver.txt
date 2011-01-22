@@ -1,0 +1,22 @@
+{{TemplateMapping
+| mapToClass = FormulaOneRacer
+| mappings = 
+	{{PropertyMapping | templateProperty = Carnumber | ontologyProperty = carNumber }}
+	{{PropertyMapping | templateProperty = Races | ontologyProperty = races }}
+	{{PropertyMapping | templateProperty = Championships | ontologyProperty = championships }}
+	{{PropertyMapping | templateProperty = Wins | ontologyProperty = wins }}
+	{{PropertyMapping | templateProperty = Podiums | ontologyProperty = podiums }}
+	{{PropertyMapping | templateProperty = Poles | ontologyProperty = poles }}
+	{{PropertyMapping | templateProperty = Fastest laps | ontologyProperty = fastestLap }}
+	{{PropertyMapping | templateProperty = First race | ontologyProperty = firstRace }}
+	{{PropertyMapping | templateProperty = First win | ontologyProperty = firstWin }}
+	{{PropertyMapping | templateProperty = Last win | ontologyProperty = lastWin }}
+	{{PropertyMapping | templateProperty = Last race | ontologyProperty = lastRace }}
+	{{PropertyMapping | templateProperty = Last season | ontologyProperty = lastSeason }}
+	{{PropertyMapping | templateProperty = Last position | ontologyProperty = lastPosition }}
+	{{PropertyMapping | templateProperty = Career points | ontologyProperty = careerPoints }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = Team | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = Team for 2007 | ontologyProperty = formerTeam }}
+}}

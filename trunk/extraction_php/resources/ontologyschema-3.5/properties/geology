@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = geology
+| rdfs:range = xsd:string
+}}

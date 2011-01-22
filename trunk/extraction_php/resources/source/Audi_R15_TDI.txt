@@ -1,0 +1,119 @@
+{{Racing car
+|Car_name         = Audi R15 TDI
+|Image            = [[File:3 Audi R15.jpg|250px|center]] ''Audi R15 TDI at the 2009 24 Hours of Le Mans''
+|Category         = [[Le Mans Prototype]] (LMP1)
+|Constructor      = [[Audi]]
+|Designer         = 
+|Team             = {{flagicon|DEU}} [[Joest Racing|Audi Sport Team Joest]]
+|Drivers          = [[Allan McNish]], [[Tom Kristensen]], [[Dindo Capello]], [[Lucas Luhr]], [[Mike Rockenfeller]], [[Marco Werner]]
+|Technical ref    = <!-- <ref name=tech>Insert formatted reference</ref> -->
+|Chassis          = [[Carbon fibre]] [[monocoque]]
+|Front suspension = [[Double wishbone suspension|Double wishbone]], torsion bar with separate [[shock absorber|damper]], [[sway bar|anti-roll bar]]
+|Rear suspension  = Double wishbone, torsion bar with separate damper, anti-roll bar
+|Length           = 
+|Width            = 
+|Height           = 
+|Wheelbase        = 
+|Track            = 
+|Engine name      = [[Audi]] [[Turbocharged Direct Injection|TDI]]
+|Capacity         = 5.5&nbsp;litre
+|Configuration    = [[V10 engine|V10]]
+|Turbo/NA         = [[turbodiesel]],
+|Engine position  = [[mid-engine design|mid-engined]], [[longitudinal engine|longitudinally mounted]]
+|Gearbox name     = 
+|Gears            = 6-speed
+|Type             = [[sequential manual transmission|sequential manual]]
+|Differential     = 
+|Weight           = appr. {{convert|900|kg|0|abbr=on|lk=on}}
+|Fuel             = [[Royal Dutch Shell|Shell]] [[Shell V-Power#V-Power Diesel|V-Power Diesel]]
+|Tyres            = [[Michelin]]
+|Debut            = [[2009 12 Hours of Sebring]]
+|Races            = 3<!-- Up to the 2009 Petit Le Mans -->
+|Wins             = 1
+|Cons_champ       = 
+|Drivers_champ    = 
+|Poles            = 0
+|Fastest_laps     = 1
+|}}
+{{Listen|filename=Audi R15 TDI (2009).ogg|title=2009 Audi R15 TDI|description=2009 Audi R15 TDI at Goodwood Festival of Speed 2009}}
+The '''Audi R15 TDI''', commonly abbreviated to the '''R15''', is a [[Le Mans Prototype]] (LMP) [[auto racing|racing car]] constructed by the [[Germany|German]] [[automotive industry|car manufacturer]] [[Audi|Audi AG]].  It is the successor to the [[Audi R10 TDI]].  Like its predecessor, the R15 TDI uses a [[turbodiesel|turbocharged]] [[diesel engine]], although the R15's [[V10 engine]] is  physically smaller than the R10's [[V12 engine|V12]]. The smaller engine is pushed further toward the middle of the car than in the R10, resulting in a more neutral weight balance that gives the car better agility around the corners than its predecessor.<ref>[http://www.audir15tdi.com/news1.html audir15tdi.com]</ref>
+
+The car was tested for the first time in December 2008, before its official unveiling and competition debut at the [[2009 12 Hours of Sebring]] race, 21 March 2009.  Three R15 TDIs participated in the [[24 Hours of Le Mans]] in June 2009, under the control of [[Joest Racing]].  Audi did not defend their [[American Le Mans Series]], or [[Le Mans Series]] titles with the R15 TDI.
+
+The R15 made its competition debut at the 2009 12 Hours of Sebring in March 2009, and followed this event at the [[2009 24 Hours of Le Mans|24 Hours of Le Mans]] in June.<ref>AutoBlog.com [http://www.autoblog.com/2009/02/17/audi-r15-tdi-arrives-early-ahead-of-race-debut/ Audi R15 TDI arrives early ahead of race debut]</ref>  The R15 got off to a perfect start by winning the 12 Hours of Sebring, setting a new race record in the process, but then lost in its second entry.<ref>AUSmotive.com [http://www.ausmotive.com/2009/03/22/audi-r15-tdi-claims-debut-win-at-12-hours-of-sebring.html Audi R15 TDI claims debut win at 12 Hours of Sebring]</ref> [[Peugeot]], its rival, with its [[Peugeot 908 HDi FAP|908 HDi FAP]], took the top two spots in the 24-hour race, ending Audi's five-win streak that lasted back to [[2004 24 Hours of Le Mans|2004]] with the [[gasoline]]-powered [[Audi R8 (race car)|R8]].
+
+The R15 TDI features a {{convert|5.5|L|cuin|0|lk=on}}<ref name="Displacement">{{cite web | url = http://www.lemans.org/24heuresdumans/pages/engages_gb.html | title = Entry List | publisher = [[Automobile Club de l'Ouest]] | date = 2009-02-29 | accessdate = 2009-03-21}}</ref> [[Turbocharged Direct Injection]] (TDI) [[turbodiesel]] [[V10 engine]], rated at over {{convert|600|PS|kW bhp|abbr=on|lk=on}} and {{convert|1050|Nm|0|lk=on}} torque.  The electrical system uses a [[lithium-ion battery]], a first for Audi sports prototypes, as well as [[light-emitting diode|LED]] [[headlamp|headlights]],<ref>{{cite web|url=http://www.speedtv.com/gallery/view/948011/234541 |title=Gallery |publisher=SPEEDtv.com |date= |accessdate=2009-04-16}}</ref><ref>AutoBlog.com [http://www.autoblog.com/2009/03/09/audi-releases-more-details-on-the-r15-tdi/ Audi releases more details on the R15 TDI]</ref> and a unique system of LED rear lights that are mounted on the rear wing endplate.<ref>{{cite web|url=http://www.speedtv.com/gallery/view/950851/240431 |title=Gallery |publisher=SPEEDtv.com |date= |accessdate=2009-04-16}}</ref>
+
+In the week running up to the [[2009 24 Hours of Le Mans]], rivals Peugeot lodged a protest against the R15, claiming that its bodywork did not comply with regulations stating that parts of the bodywork cannot be fitted with the sole purpose of generating downforce. However, after the Wednesday free practice session, the ACO rejected Peugeot's protest.<ref>{{cite news|title=ACO declares Audi bodywork legal |first=Steven |last=English |url=http://www.autosport.com/news/report.php/id/76003 |publisher=autosport.com |date= 2009-06-11}}</ref>
+
+Audi announced on August 25th that two R15s will be raced at the 2009 Petit Le Mans.  This is the first ALMS entry for the R15 since the 2009 12 Hours of Sebring.
+
+== Technical data ==
+{| class="wikitable" style="background-color:#EEEEEE; text-align:center;"
+|- bgcolor="#DDDDDD"
+! colspan="2" width="100" | Audi R 15 TDI
+|-
+| Design || Le Mans Prototype (LMP1)
+|-
+| Motor type || align="center" | V10-Diesel motor with turbocharger
+|-
+| [[Engine displacement]] || 5500&nbsp;cm³
+|-
+| Power || approx. 445 kW (596 hp)
+|-
+| Torque || 1050 Nm (774 lb ft)
+|-
+| V<sub>max</sub> || over 330&nbsp;km/h (205 mph)
+|-
+| Drive wheels || Rear wheels
+|-
+| Gearbox || CFK-gearbox
+|-
+| Transmission || sequential, pneumatic actuated 5-gear
+|-
+| Brakes || 2-circuit hydraulic braking system, [[carbon fibre]] [[disc brakes]] front and back 
+|-
+| Length || 4650&nbsp;mm
+|-
+| Width || 2000&nbsp;mm
+|-
+| Height || 1030&nbsp;mm
+|-
+| Fuel tank capacity || 81 Litre
+|-
+| Weight || min. 900&nbsp;kg
+|}
+
+==Additional images==
+<gallery>
+File:AudiR15.JPG|The '''Audi R15''', driven by [[Tom Kristensen]] during the ''[[2009 12 Hours of Sebring]]''.
+File:Audi R15 TDi - Audi Sport Team Joest.jpg|The '''Audi R15''', driven by [[Timo Bernhard]] during the ''[[2009 24 Hours of Le Mans]]''.
+File:1 Audi R15.jpg|The '''Audi R15''', driven by [[Rinaldo Capello]] during the ''[[2009 24 Hours of Le Mans]]''.
+</gallery>
+
+==References==
+{{reflist}}
+{{clr}}
+
+==External links==
+{{commonscat}}
+* Audi.com - [http://www.audi.com/com/brand/en/experience/motorsport/le_mans.html Audi R15 TDI: “second” generation diesel racing sports car]
+* MulsannesCorner.com - [http://www.mulsannescorner.com/newsjan09.html Mulsanne's Corner's January/February 2009 R15 observations]
+* MulsannesCorner.com - [http://www.mulsannescorner.com/newsmarch09.html Mulsanne's Corner's March/April 2009 R15 observations]
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+
+{{DEFAULTSORT:Audi R15 Tdi}}
+[[Category:Le Mans Prototypes]]
+[[Category:Audi vehicles|R15]]
+[[Category:24 Hours of Le Mans race cars]]
+[[Category:Sports prototypes]]
+
+[[de:Audi R15 TDI]]
+[[es:Audi R15 TDI]]
+[[fr:Audi R15]]
+[[ko:아우디 R15]]
+[[it:Audi R15]]
+[[nl:Audi R15 TDI]]
+[[sv:Audi R15 TDI]]

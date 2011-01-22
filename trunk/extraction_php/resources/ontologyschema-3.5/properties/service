@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = service
+| rdfs:domain = Company
+}}

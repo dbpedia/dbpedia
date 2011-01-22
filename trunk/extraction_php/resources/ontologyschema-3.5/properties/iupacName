@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = IUPAC name
+| rdfs:domain = Drug
+| rdfs:range = xsd:string
+}}

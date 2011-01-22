@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = official opened by
+| rdfs:domain = Olympics
+| rdfs:range = Person
+}}

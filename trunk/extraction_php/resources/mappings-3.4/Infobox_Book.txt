@@ -1,0 +1,23 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Book
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = translator | ontologyProperty = Book/translator }}
+	{{ DBpediaPropertyMapping | templateProperty = illustrator | ontologyProperty = Book/illustrator }}
+	{{ DBpediaPropertyMapping | templateProperty = cover_artist | ontologyProperty = Book/coverArtist }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Book/country }}
+	{{ DBpediaPropertyMapping | templateProperty = series | ontologyProperty = Book/series }}
+	{{ DBpediaPropertyMapping | templateProperty = subject | ontologyProperty = Book/subject }}
+	{{ DBpediaPropertyMapping | templateProperty = media_type | ontologyProperty = Book/mediaType }}
+	{{ DBpediaPropertyMapping | templateProperty = pages | ontologyProperty = Book/pages }}
+	{{ DBpediaPropertyMapping | templateProperty = isbn | ontologyProperty = Book/isbn }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = title_orig | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = author | ontologyProperty = Work/author }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Work/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = publisher | ontologyProperty = Work/publisher }}
+	{{ DBpediaPropertyMapping | templateProperty = pub_date | ontologyProperty = Work/publishDate }}
+	{{ DBpediaPropertyMapping | templateProperty = english_pub_date | ontologyProperty = Work/publishDate }}
+	{{ DBpediaPropertyMapping | templateProperty = preceded_by | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = followed_by | ontologyProperty = Work/subsequentWork }}
+}}

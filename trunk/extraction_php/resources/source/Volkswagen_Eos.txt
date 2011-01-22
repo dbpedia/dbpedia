@@ -1,0 +1,133 @@
+{{Infobox Automobile
+|image          = [[File:VW Eos front 20070926.jpg|250px|Volkswagen Eos]]
+|name           = Volkswagen Eos
+|manufacturer   = [[Volkswagen]]
+|parent_company = [[Volkswagen Group]]
+|production     = 2006&ndash;present
+|assembly       = [[AutoEuropa]], [[Palmela]], [[Portugal]]
+|class          = [[Compact car|Compact]] [[convertible]]
+|layout         = [[FF layout]]
+|predecessor    = [[Volkswagen Golf Cabriolet]]
+|body_style     = 2-door [[coupe convertible]]
+|engine         = 2.0&nbsp;L [[Straight-4|I4]]
+|platform       = [[Volkswagen Group A platform#A5 (PQ35)|Volkswagen Group A5 (PQ35) platform]]
+|wheelbase      = {{convert|2578|mm|in|1|abbr=on}}
+|length         = {{convert|4407|mm|in|1|abbr=on}}
+|width          = {{convert|1791|mm|in|1|abbr=on}}
+|height         = {{convert|1443|mm|in|1|abbr=on}}
+|transmission   = 6-speed [[Manual transmission|manual]],<br>6-speed [[Direct-Shift Gearbox|DSG]]
+|related        = [[Volkswagen Golf Mk5]]<br>[[SEAT León]] Mk2
+|designer       = [[Robert Lešnik]]<ref name="lesnik">{{cite web
+  | title = Volkswagen Eos Lešnik v čokoladi (article in Slovenian)
+  | publisher = AVTO.over.net, [[13 June]], [[2006]], Iztok Franko
+  | url = http://avto.over.net/novica.php?id=1845}}</ref>
+}}
+
+
+The '''Volkswagen Eos''' is a four-seat [[retractable hardtop]] coupe convertible, introduced in 2006 as the successor to the [[Volkswagen Cabrio]].  The Eos is Volkswagen's first production coupe since the last [[Volkswagen Corrado|Corrado]] in 1995.
+
+The name ''Eos'' is derived from [[Eos]], the [[Greek mythology|Greek]] goddess of dawn and wind.  <ref name="mastermcneil">{{cite web
+  | title = About the Name Eos
+  | publisher = Master-McNeil, November 2005
+  | url = http://naming.com/consumer.php?consumer=eos}}</ref>
+[[File:VW Eos rear 20071125.jpg|thumb|left|Rear-view]]
+==Roof design==
+The ''Eos'' incorporates into its five-piece folding roof an integrated and independently sliding glass [[sunroof]] &mdash; making the Eos the only retractable hardtop of this kind.  The roof folds automatically into the trunk in 25 seconds, thereby reducing trunk space from {{convert|10.5|to|6.6|cuft|L}}
+
+The roof was designed and is built by [[OASys (Automotive)|OASys]], a subsidiary of Webasto Germany.
+
+==Inception, production and history==
+Prior to production, the EOS was shown as the ''Concept C'' [[concept car]] at the 2004 [[Geneva Motor Show]] &mdash; designed by a team headed by [[Peter Schreyer]], Head of Volkswagen Design in Wolfsburg. <ref name="vortex">{{cite web
+  | title = Geneva Auto Show 2004: Volkswagen Concept C
+  | publisher = VWVortex, [[Mar 2]], [[2004]], Jamie Vondruska
+  | url = http://www.vwvortex.com/artman/publish/autoshows/article_690.shtml}}</ref>  Other sources attribute the design of the EOS specifically to Slovenian [[Robert Lešnik]].<ref name="lesnik"/>
+
+The production Eos, produced at the [[AutoEuropa]] plant in Portugal, was presented in September 2005 at the [[Internationale Automobil-Ausstellung|Frankfurt Motor Show]], with the North American introduction at the [[Los Angeles Auto Show]] in January, 2006.
+[[Image:2004 Concept C.jpg|thumb|left|'''2004 Concept C''']]
+
+Unlike the Cabrio, which was a convertible version of the [[Volkswagen Golf|Golf]] hatchback, the Eos is a standalone model with all-new body panels, although it shares the platform and components from the [[Volkswagen Passat|Passat]] (Mark 6 (B6 now [[Volkswagen Group A platform#A5 (PQ35)|PQ46]] platform) (2005-present)).  The [[wheelbase]] matches the [[Volkswagen Golf Mk5|Golf Mk5]] and [[Volkswagen Jetta|Jetta]].
+
+[[File:Vw eos 20061025.jpg|thumb|right|Cabriolet VW Eos]]
+
+==Eos White Night (2009-present)==
+It is a special black and white colour scheme package. It includes Candy White-coloured body, Deep Black Pearlescent-coloured roof, cherry-red LED tail lights, 18-inch Budapest wheels. Interior features black mirror covers, radiator grille and trim strips, black nappa leather seats, door and side trim and black steering wheel with light-coloured seams, trim strips and radio trim in Candy White, Sill panel strips with White Night letters. Other features include Climatronic climate control system, sports chassis lowered 15 mm and heated front seats.
+
+The car had base MSRP of €33,140. This option is available with all non-V6 models.<ref>[http://www.autoblog.com/2009/05/28/volkswagen-rolls-out-white-night-eos-special-edition-model/ Hans Gruber, Your Ride Is Here: Volkswagen rolls out White Night Eos special edition]</ref>
+
+==Drivetrain==
+{| class="wikitable"
+|-
+!Model !! Year(s) !! Engine !! Power, torque@rpm !! Transmission !! Emission standards
+|-
+|1.4 TSI||2007-||{{convert|1390|cc|L cuin||abbr=on}} I4 turbo ||{{convert|122|PS|kW hp||abbr=on}}@5500, {{convert|200|Nm|lbft||abbr=on}}@1500-4000||6-speed manual||Euro 5
+|-
+|1.4 TSI||2008-||{{convert|1390|cc|L cuin||abbr=on}} I4 turbo ||{{convert|160|PS|kW hp||abbr=on}}@5800, {{convert|240|Nm|lbft||abbr=on}}@1500-4500||6-speed manual||Euro 5
+|-
+|1.6 FSI||2006-2007||{{convert|1598|cc|L cuin||abbr=on}} I4 ||{{convert|115|PS|kW hp||abbr=on}}@6000, {{convert|155|Nm|lbft||abbr=on}}@4000||6-speed manual||Euro 4
+|-
+|2.0 FSI||2006-2008||{{convert|1984|cc|L cuin||abbr=on}} I4 ||{{convert|150|PS|kW hp||abbr=on}}@6000, {{convert|200|Nm|lbft||abbr=on}}@3500||6-speed manual||Euro 4
+|-
+|2.0 TSI||2006-||{{convert|1984|cc|L cuin||abbr=on}} I4 turbo ||{{convert|200|PS|kW hp||abbr=on}}@5500, {{convert|280|Nm|lbft||abbr=on}}@1800-5000||6-speed manual, 6-speed DSG (optional)||Euro 5
+|-
+|3.2 V6||2006-2008||{{convert|3189|cc|L cuin||abbr=on}} V6 ||{{convert|250|PS|kW hp||abbr=on}}@6300, {{convert|320|Nm|lbft||abbr=on}}@2500-3000||6-speed DSG||Euro 4
+|-
+|3.6 V6||2009-||{{convert|3597|cc|L cuin||abbr=on}} V6 ||{{convert|260|PS|kW hp||abbr=on}}@6000, {{convert|350|Nm|lbft||abbr=on}}@2400-4000||6-speed DSG||Euro 5
+|-
+|2.0 TDI||2006-2008||{{convert|1968|cc|L cuin||abbr=on}} I4 Pumpe Düse turbo diesel||{{convert|140|PS|kW hp||abbr=on}}@4200, {{convert|320|Nm|lbft||abbr=on}}@1750-2500||6-speed manual||Euro 4
+|-
+|2.0 TDI||2009-||{{convert|1968|cc|L cuin||abbr=on}} I4 common rail turbo diesel||{{convert|140|PS|kW hp||abbr=on}}@4200, {{convert|320|Nm|lbft||abbr=on}}@1750-2500||6-speed manual, 6-speed DSG (optional)||Euro 5
+|-
+|}
+
+All vehicles are [[front-wheel drive]] only.
+
+1.4 TSI, 1.6 FSI, 2.0 FSI are only sold in Europe. 2.0 TDI is sold in Europe and Australia.
+
+==Production==
+The Eos is produced in Volkswagen's [[AutoEuropa]] factory in [[Palmela]], Portugal. Although production started in late 2005, first deliveries were delayed due to a wind noise problem.
+
+==International markets==
+The Eos was finally released in Europe in the first quarter of 2006, and in [[North America]] in the third quarter of 2006. Right-hand drive market Japan began sales in October 2006 followed by [[New Zealand]] and [[Australia]] in January 2007. It was released in South Africa in the second quarter of 2007.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*[http://www.volkswagen.com/vwcms_publish/vwcms/master_public/virtualmaster/en2/models/Eos.html Eos at Volkswagen International]
+*[http://www.vwvortex.com/artman/publish/autoshows/article_690.shtml A link to an article of the Eos' inspiration, the Concept C.]
+
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Eos]]
+[[Category:Convertibles]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Hardtop convertibles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2006]]
+[[Category:Cars of Portugal]]
+[[Category:Vehicles with VR engines]]
+
+[[cs:Volkswagen Eos]]
+[[da:Volkswagen Eos]]
+[[de:VW Eos]]
+[[es:Volkswagen Eos]]
+[[fr:Volkswagen Eos]]
+[[hr:Volkswagen Eos]]
+[[it:Volkswagen Eos]]
+[[lv:Volkswagen Eos]]
+[[nl:Volkswagen Eos]]
+[[ja:フォルクスワーゲン・イオス]]
+[[pl:Volkswagen Eos]]
+[[pt:Volkswagen Eos]]
+[[ru:Volkswagen Eos]]
+[[sk:Volkswagen Eos]]
+[[sr:Фолксваген еос]]
+[[fi:Volkswagen Eos]]
+[[sv:Volkswagen Eos]]
+[[tr:Volkswagen EOS]]
+[[uk:Volkswagen Eos]]

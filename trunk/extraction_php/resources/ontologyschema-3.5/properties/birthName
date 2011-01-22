@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = birth name
+| rdfs:domain = Person
+| rdfs:range = xsd:string
+}}

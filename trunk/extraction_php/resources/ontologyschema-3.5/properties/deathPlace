@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = death place
+| rdfs:domain = Person
+}}

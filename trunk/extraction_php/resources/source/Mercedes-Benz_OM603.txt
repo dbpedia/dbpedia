@@ -1,0 +1,22 @@
+{{Unreferenced|date=November 2008}}{{Infobox Automobile engine
+|image=
+|name=Mercedes-Benz OM603 Diesel Engine
+|manufacturer=[[Daimler-Benz]]
+|production=1986 to 1997
+}} 
+
+The '''OM60x''' engine family was a [[straight engine|straight-4,5,6]] [[Diesel engine|Diesel]] automobile engine from [[Mercedes-Benz]] used from 1984 through 1999. The 603 saw limited use in the [[Mercedes-Benz W124|W124]], [[Mercedes-Benz W126|W126]] and [[Mercedes-Benz W140|W140]] model vehicles.
+
+The 603 engine has a capacity of 2996cc and was an engineering marvel in pre-chamber design and a technological leap forward from the tractor motor like 5 cylinder OM617. Versions 60x.96x and  60x.97x are turbocharged;   Versions of the 60x.91x  and 60x.92x are naturally aspirated.  Only turbocharged models of the 603 series were available to the U.S. market.  Only naturally aspirated 601 variants we sold in the US market, The 602 and 606 variant engine of this family available with and without the turbos.   The 604 and 605 never made the US market.<http://www.mbwholesaleparts.com/wholesaleparts/ModelChart/usmodels.htm>
+
+The camshafts and injection pump are driven by duplex chain from the crankshaft. A separate single row chain drives the oil pump. The camshaft operated the valves via hydraulic bucket tappets; valve clearance adjustment is automatic.
+
+Fuel injection is indirect. A Bosch M in-line injection pump is used, with a mechanical governor and vacuum-operated stop control. The pump is lubricated by a connection to the engine oil circulation and the fuel lift pump is mounted on the side of the injection pump. Preheating is by glow plugs with automatic control of preheating time.
+
+The 603 engine was (in)famous for several reasons: The emissions controls imposed in the US market led to the creation of a diesel catalyst, otherwise known as a trap oxidizer. Heat from these trap oxidizers caused failure of the aluminum cylinder heads on the first generation of 603-engined vehicles; debris from the traps could also damage the turbocharger. This first version was sold in the US from 1986 to 1987.  Daimler-Benz will remove these traps for free, and if the turbocharger has been determined to be damaged it will also be replaced.  Even without the heat from the trap oxidizers, the original pre -14 mold number cylinder heads were weak and if overheated could crack.
+
+In 1990 the 350SD/SDL debuted, using a larger-displacement OM603 engine that had more torque and a lower top RPM. The engine lived on in the w140 chassis after the w126 production ended, as the 300SD or S350. By this time the cylinder head issues had been corrected.  These 603.971 engined cars, however, had weak connecting rods that resulted in numerous engine failures. While never formally recalled, Daimler-Benz replaced many engines under warranty, even somewhat after the original warranty term expired (at least for the original owner).  Conventional wisdom holds that cars with these engines are generally to be avoided unless accompanied by proof of a factory replacement engine, as the time of free replacement engines is long over.
+
+The 'best' OM603 is the 3.5l factory replacement engine.  Second-best is the earlier 3l engine using the later 3.5l cylinder head.  (The latter are all that are available as replacement parts from the factory.)  Next is the original 3l engine with an uncracked original-style head, which by one account has about a 20% chance of head failure in its service life if the trap oxidizer is removed before damage has been done.  Last is the original 3.5l engine, which has a considerably higher incidence of failure.  (The failure mode is reputedly that the rods bend a little, resulting in excessive side wear and ovaled cylinders.  The only symptom is dramatically increased oil consumption, by which time the block damage is irreversible.)
+
+[[Category:Mercedes-Benz engines|OM603]]

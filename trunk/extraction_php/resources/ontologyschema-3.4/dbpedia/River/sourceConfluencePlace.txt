@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = source confluence place
+|rdfs:domain = River
+|rdfs:range = PopulatedPlace
+}}

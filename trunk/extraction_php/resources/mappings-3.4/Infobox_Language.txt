@@ -1,0 +1,8 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Language
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = states | ontologyProperty = Language/states }}
+	{{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = Language/region }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nativename | ontologyProperty = foaf:name }}
+}}

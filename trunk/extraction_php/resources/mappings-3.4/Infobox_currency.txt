@@ -1,0 +1,6 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Currency
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = using_countries | ontologyProperty = Currency/usingcountry }}
+	{{ DBpediaPropertyMapping | templateProperty = currency_name_in_local | ontologyProperty = foaf:name }}
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = oversight
+| rdfs:domain = School
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = rival
+| rdfs:domain = School
+| rdfs:range = School
+}}

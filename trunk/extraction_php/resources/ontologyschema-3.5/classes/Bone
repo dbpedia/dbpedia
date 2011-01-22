@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Bone
+| rdfs:subClassOf = AnatomicalStructure
+}}

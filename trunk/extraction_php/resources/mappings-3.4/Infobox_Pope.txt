@@ -1,0 +1,21 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Pope
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Englishname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = title | ontologyProperty = Person/title }}
+	{{ DBpediaPropertyMapping | templateProperty = predecessor | ontologyProperty = Person/predecessor }}
+	{{ DBpediaPropertyMapping | templateProperty = successor | ontologyProperty = Person/successor }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_name | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birthplace | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = buried | ontologyProperty = Person/restingPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = religion | ontologyProperty = Person/religion }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/father }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/mother }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = alma_mater | ontologyProperty = Person/almaMater }}
+}}

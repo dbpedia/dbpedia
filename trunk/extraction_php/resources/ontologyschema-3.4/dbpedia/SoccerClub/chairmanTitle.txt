@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = chairman title
+|rdfs:domain = SoccerClub
+|rdfs:range = xsd:string
+}}

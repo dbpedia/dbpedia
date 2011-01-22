@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = free flight time
+| rdfs:domain = Spacecraft
+| rdfs:range = Time
+}}

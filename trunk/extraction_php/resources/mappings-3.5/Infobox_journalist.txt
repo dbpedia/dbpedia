@@ -1,0 +1,22 @@
+{{TemplateMapping
+| mapToClass = Journalist
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birthname | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = education | ontologyProperty = education }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	{{PropertyMapping | templateProperty = alias | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = title }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = children | ontologyProperty = child }}
+	{{PropertyMapping | templateProperty = relatives | ontologyProperty = relative }}
+	{{PropertyMapping | templateProperty = ethnic | ontologyProperty = ethnicity }}
+	{{PropertyMapping | templateProperty = religion | ontologyProperty = religion }}
+	{{PropertyMapping | templateProperty = salary | ontologyProperty = salary | unit = Currency }}
+	{{PropertyMapping | templateProperty = networth | ontologyProperty = networth | unit = Currency }}
+	{{PropertyMapping | templateProperty = URL | ontologyProperty = foaf:homepage }}
+}}

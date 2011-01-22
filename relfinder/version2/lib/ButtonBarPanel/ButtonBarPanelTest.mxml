@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="horizontal"
+	xmlns:components="components.*" width="100%" height="100%">
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.Alert;
+			import mx.collections.ArrayCollection;
+			
+			[Embed('info_icon.png')]
+			private var btnIcon : Class;
+			[Embed('previous.gif')]
+			private var btn2Icon : Class;
+			[Embed('next.gif')]
+			private var btn3Icon : Class;
+			[Embed('contact.gif')]
+			private var ptitleIcon : Class;
+			
+			
+			public function getBtns() : ArrayCollection
+			{
+				var btn1 : Object = new Object();
+				btn1.toolTip = "Info";
+				btn1.name = "info";
+				btn1.icon = btnIcon;
+				btn1.clickHandler = onClick;
+				
+				var btn2 : Object = new Object();
+				btn2.toolTip = "Previous";
+				btn2.name = "prev";
+				btn2.icon = btn2Icon;
+				btn2.clickHandler = onClick;
+				
+				var btn3 : Object = new Object();
+				btn3.toolTip = "Next";
+				btn3.name = "next";
+				btn3.icon = btn3Icon;
+				btn3.clickHandler = onClick;
+				var btns:ArrayCollection = new ArrayCollection();
+				btns.addItem(btn3);
+				btns.addItem(btn2);
+				btns.addItem(btn1);
+				
+				return btns;
+			}
+			
+			private function onClick(event : MouseEvent) : void
+			{
+				Alert.show("Clicked "+event.target.name);
+			}
+		
+		]]>
+	</mx:Script>	
+	
+	<components:ButtonBarPanel width="30%" height="40%" buttons="{getBtns()}" horizontalAlign="center"
+		verticalAlign="middle" title="Panel Title" titleIcon="{ptitleIcon}">
+		<mx:Label text="Buttons at top"/>
+	</components:ButtonBarPanel>
+	<components:ButtonBarPanel width="30%" height="40%" buttons="{getBtns()}" horizontalAlign="center"
+		btnAtBottom="true" verticalAlign="middle" title="MyPanel" titleIcon="{ptitleIcon}">
+		<mx:Label text="Buttons at bottom"/>
+	</components:ButtonBarPanel>
+</mx:Application>

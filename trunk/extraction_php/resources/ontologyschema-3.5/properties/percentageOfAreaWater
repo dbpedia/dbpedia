@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = percentage of area water
+| rdfs:range = xsd:float
+}}

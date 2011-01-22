@@ -1,0 +1,74 @@
+{{Infobox Automobile
+| image          = [[File:Mini E--DC.jpg|250px|Mini E]]
+| name           = Mini E
+| manufacturer   = [[BMW]]
+| layout         = [[FF layout]]
+| body_style     = 3-door [[hatchback]]
+| production     = 2010-
+| length         = {{convert|146.2|in|0|abbr=on}}
+| width          = {{convert|66.3|in|0|abbr=on}}
+| class          = [[Subcompact]]
+| height         = {{convert|55.4|in|0|abbr=on}}
+| wheelbase      = {{convert|97.1|in|0|abbr=on}}
+| assembly       = [[Oxford]], [[England]]
+| transmission   = 1-speed helical 
+}}
+
+BMW announced the production of a [[Mini (BMW)|Mini]] powered by an electric motor in the summer of 2008 to be called the '''MINI E'''.<ref name="worldcarfans">{{cite web|url=http://www.worldcarfans.com/9080925.010/all-electric-mini-cooper-spotted-for-first-time|title=Worldcarfans site}}</ref> The BMW Group will be the world's first manufacturer of premium cars to deploy a fleet of more than 500 all-electric vehicles for private use. <ref>http://www6.lexisnexis.com/publisher/EndUser?Action=UserDisplayFullDocument&orgId=101846&topicId=104970025&docId=l:871436209</ref>
+
+BMW’s CEO, Norbert Reithofer, announced that Friedrich Eichiner will head a new department, codenamed Project i, which will focus on designing minicars with advanced technology. Eichiner unveiled the MINI E on the rooftop of the Beverly Wilshire the day before the start of the 2008 Los Angeles auto show.
+
+Eichiner hinted that there is a possibility that a fourth brand could be formed, but only if an advanced technology did not fit in a [[Rolls-Royce (car)|Rolls-Royce]], BMW or MINI.<ref>{{cite web|last=Ann |first=Lou |url=http://www.carlist.com/blog/?p=1107 |title=Project i starts with the MINI-e &#124; Lou Ann Hammond on |publisher=Carlist.com |date=2008-12-08 |accessdate=2009-10-17}}</ref>
+
+Mini unveiled an all-electric version of its two-door Cooper hatch at the 2008 [[Los Angeles Auto Show]],<ref>[http://www.autobloggreen.com/2008/10/18/la-preview-officially-official-the-mini-e-does-it-use-a-tesl/ LA Preview: Officially, official: the MINI E!]</ref> and planned to deliver an initial batch of 500 examples to customers in California towards the end of 2008. BMW is using its Mini brand to test the waters with its electric powertrain technology but the vehicle was also developed in order to meet new California regulations that require carmakers to offer zero emission vehicles.<ref>{{cite web|author=Alex&nbsp;Kaufmann |url=http://www.motorauthority.com/mini-e-electric-vehicle-revealed-ahead-of-la-debut.html |title=Technical details for Mini ‘E’ electric vehicle |publisher=MotorAuthority |date= |accessdate=2009-10-17}}</ref> 
+
+The Mini factory located in Oxford, England, supplies [[vehicle glider]]s (cars without powertrains) to a team located in Munich, Germany, which then adds the electric running gear.<ref>{{cite web|author=Alex&nbsp;Kaufmann |url=http://www.motorauthority.com/mini-e-electric-vehicle-revealed-ahead-of-la-debut.html |title=Technical details for Mini ‘E’ electric vehicle |publisher=MotorAuthority |date= |accessdate=2009-10-17}}</ref>
+
+
+==Lease program==
+9,500 people signed up to lease the MINI E, which will cost about $850/month <ref>{{cite web|last=Abuelsamid |first=Sam |url=http://www.autobloggreen.com/2008/11/06/mini-e-will-reportedly-cost-850-month-for-one-year-lease/ |title=MINI E will reportedly cost $850/month for one-year lease — Autoblog Green |publisher=Autobloggreen.com |date=2008-11-06 |accessdate=2009-10-17}}</ref><ref>{{cite web|url=http://minispace.com |title=creative projects, competitions, events, thoughts and ideas, by MINI |publisher=MINI Space |date= |accessdate=2009-10-17}}</ref> or [[€]]600.  In June 2009, Mini started a program to lease 500 2008 Model Year units in the United States.  250 units are leased in [[Los Angeles]] area and 250 in [[New York]]/[[New Jersey]] area.  The lease will end in one year and the cost is $850 a month. Residents in New Jersey do not have to pay sales tax on their lease.
+
+==Specifications==
+[[File:Mini E under the hood.jpg|right|thumb|250px|This is how Mini E looks under the hood .]]
+Power comes from an [[asynchronous motor|Asynchronous]] [[electric motor]] that is mounted in the former engine bay and is rated at {{convert|204|PS|abbr=on}} and {{convert|220|N.m|abbr=on}} of torque. Drive is sent to the front wheels. BMW has gone with a [[lithium-ion]] battery pack with an overall capacity of a {{convert|35|kWh}}.  The batteries weigh {{convert|572|lb|kg}} and replace the back seat.<ref>{{cite journal| last =Taylor III| first = Alex| title =Bavaria's Next Top Model| journal = [[Fortune (magazine)|Fortune]]| volume = 159 | issue = 6| page = 102| date = March 30, 2009 }}</ref>  Top speed is electronically limited to {{Convert|95|mph|abbr=on}}. The car’s range is {{Convert|150|mi|km}} on a single charge under optimal conditions. Estimates of normal driving conditions put ranges at {{Convert|109|mi|km}} city and {{Convert|96|mi|km}} highway.<ref>[http://www.miniusa.com/pv_obj_cache/pv_obj_id_13382CB3DE5965A128742ED5AF950647FC510200/filename/MINI-E-spec-sheet.pdf MINI USA spec sheet (PDF)]</ref>
+
+==AC Propulsion==
+[[AC Propulsion]] issued a news release on November 19, 2008, stating that AC Propulsion is a supplier for Mini E.<ref>[http://www.acpropulsion.com/press_releases/ACP_Powers_MINI_E.pdf Press release from AC Propulsion]</ref>  The news release states that AC Propulsion supplies a specially-developed version of its proprietary [[AC Propulsion tzero|tzero]], a registered [[trademark]], technology, including air-cooled copper-rotor [[induction motor]] and [[Li ion battery]] on the Mini E. It is characterized by high performance, high efficiency, and fast charging.
+
+==Driving characteristics==
+The acceleration is via [[drive-by-wire]] technology.  A [[software]] mediated delay makes the vehicle hesitate a little when the acceleration pedal is first pressed.  This artificially limits the electric motor's response, preventing [[burnout]] from a standstill.  After this initial delay, response goes back to normal, making the Mini E a peppy little car.
+
+Its [[regenerative braking]] is designed to capture as much kinetic energy as possible giving the Mini E a distinct driving characteristic.  Once the driver's right foot leaves the acceleration pedal, the Mini E starts full regenerative braking.  The vehicle slows down significantly as if the brake pedal was pressed and the brake lights will turn on.  On level surfaces Mini E stops completely and the brake lights will turn off.  To slow down, one may just back off the acceleration pedal a little.  Use of the brake pedal may be reserved for emergencies and quick stops.
+
+==Charging==
+MiniE can be charged through 120-volt (at 12 amp) and 240-volt (at 32 or 48 amp) power sources.  The user needs to set correct charging amperage in the instrument panel before charging.  Detailed instructions are in the user's manual.
+
+==Alternative electric Mini==
+Nevada’s [[Hybrid Technologies]] has started production of its electric-powered BMW Mini Cooper all-lithium model. The new electric Mini uses Hybrid Tech’s own proprietary advanced lithium management and battery-balancing system.  Top speed is only around {{Convert|80|mph|abbr=on}} but driving at a slower speed preserves battery-life and means owners will be able to travel up to {{Convert|120|mi|km}} on a single charge. <ref>{{cite web|author=James&nbsp;Martinez |url=http://www.motorauthority.com/all-lithium-electric-mini-cooper-enters-production.html |title=All-lithium electric Mini Cooper enters production |publisher=MotorAuthority |date= |accessdate=2009-10-17}}</ref>
+
+[http://evtv.me/ EVTV.ME] is publishing a free "how-to" series of videos documenting their conversion of a '''2009 Mini Cooper Clubman''' to electric drive.  The project uses a more powerful AC induction motor from MES-DEA and TIMS600 controller to provide 177 ft lbs of torque.  It uses 112 readily available Sky Energy 100Ah LiFePo4 cells to provide an energy storage of 40.3 kWh and a range of 125 miles.  Top speed of 120 mph.  This is an open source project using parts readily available to anyone from existing suppliers and intended for those inclined to do their own conversion of an existing 2009 Mini Cooper Clubman.
+
+==Competitors in light electric vehicles==
+{{Light EV Competitors}}
+
+==See also==
+*  [[Mini (BMW)]]
+
+==References==
+{{reflist}}
+
+[[Category:British brands]]
+[[Category:Cars of England]]
+[[Category:BMW vehicles|MINI]]
+[[Category:Subcompact cars]]
+[[Category:Vehicles with CVT transmission]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:Convertibles]]
+[[Category:Motor vehicle manufacturers of the United Kingdom]]
+[[Category:Retro style automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2008]]
+[[Category:Economy of Oxford]]
+[[Category:All-electric vehicles]]
+[[Category:Electric cars]]

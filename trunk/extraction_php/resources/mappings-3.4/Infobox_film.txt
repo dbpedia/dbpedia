@@ -1,0 +1,25 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Film
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = director | ontologyProperty = Film/director }}
+	{{ DBpediaPropertyMapping | templateProperty = producer | ontologyProperty = Film/producer }}
+	{{ DBpediaPropertyMapping | templateProperty = writer | ontologyProperty = Film/writer }}
+	{{ DBpediaPropertyMapping | templateProperty = narrator | ontologyProperty = Film/narrator }}
+	{{ DBpediaPropertyMapping | templateProperty = starring | ontologyProperty = Film/starring }}
+	{{ DBpediaPropertyMapping | templateProperty = music | ontologyProperty = Film/music }}
+	{{ DBpediaPropertyMapping | templateProperty = cinematography | ontologyProperty = Film/cinematography }}
+	{{ DBpediaPropertyMapping | templateProperty = editing | ontologyProperty = Film/editing }}
+	{{ DBpediaPropertyMapping | templateProperty = distributor | ontologyProperty = Film/distributor }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Film/country }}
+	{{ DBpediaPropertyMapping | templateProperty = budget | ontologyProperty = Film/budget | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = gross | ontologyProperty = Film/gross | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = amg_id | ontologyProperty = Film/amgid }}
+	{{ DBpediaPropertyMapping | templateProperty = imdb_id | ontologyProperty = Film/imdbid }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = released | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = runtime | ontologyProperty = Work/runtime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = preceded_by | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = followed_by | ontologyProperty = Work/subsequentWork }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

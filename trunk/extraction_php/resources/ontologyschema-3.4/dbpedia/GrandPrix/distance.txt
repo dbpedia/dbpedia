@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = distance
+|rdfs:domain = GrandPrix
+|rdfs:range = kilometre
+}}

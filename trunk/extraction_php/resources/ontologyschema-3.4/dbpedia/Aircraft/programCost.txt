@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = program cost
+|rdfs:domain = Aircraft
+|rdfs:range = Currency
+}}

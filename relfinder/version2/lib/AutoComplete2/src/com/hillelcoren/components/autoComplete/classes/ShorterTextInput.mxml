@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:TextInput xmlns:mx="http://www.adobe.com/2006/mxml">
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.core.UITextField;
+			import mx.core.FlexVersion;
+			import mx.core.IRectangularBorder;
+			import mx.core.EdgeMetrics;
+			import mx.core.mx_internal;
+			
+			use namespace mx_internal;
+			
+			private static const DEFAULT_MEASURED_MIN_HEIGHT:int = 18;
+			
+			/**
+			 * Here's the problem. The DEFAULT_MEASURED_MIN_HEIGHT constant has a value of 22, which is the height
+			 * of the TextInput at a font size of 10px. The issue is we draw the border on the FlowBox so it adds
+			 * padding which means at smaller font size the AutoComplete component is taller than a TextInput
+			 * at the same font size. To resolve this we're overriding the measure function and changing the
+			 * min height to 18
+			 */
+			override protected function measure():void
+			{
+			    super.measure();
+			
+			    var bm:EdgeMetrics = border && border is IRectangularBorder ?
+			                         IRectangularBorder(border).borderMetrics :
+			                         EdgeMetrics.EMPTY;
+			
+			    var h:Number;
+			
+			    if (!text || text == "")
+			    {
+			        h = measureText(" ").height +
+			            bm.top + bm.bottom + UITextField.TEXT_HEIGHT_PADDING;
+			        if (FlexVersion.compatibilityVersion >= FlexVersion.VERSION_3_0)  
+			            h += getStyle("paddingTop") + getStyle("paddingBottom");
+			    }
+			    else
+			    {
+			        var lineMetrics:TextLineMetrics;
+			        lineMetrics = measureText(text);
+			
+			        h = lineMetrics.height + bm.top + bm.bottom + UITextField.TEXT_HEIGHT_PADDING; 
+			                        
+			        if (FlexVersion.compatibilityVersion >= FlexVersion.VERSION_3_0)
+			        {
+			            h += getStyle("paddingTop") + getStyle("paddingBottom");
+			        }
+			    }
+			
+			    measuredHeight = Math.max(h, DEFAULT_MEASURED_MIN_HEIGHT);
+			    measuredMinHeight = DEFAULT_MEASURED_MIN_HEIGHT;
+			}
+			
+		]]>
+	</mx:Script>
+</mx:TextInput>

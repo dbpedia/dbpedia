@@ -1,0 +1,9 @@
+{{Class
+| rdfs:label = Weapon
+| rdfs:subClassOf = Device
+| specificProperties = {{SpecificProperty | ontologyProperty = length | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = height | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = weight | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = width | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = diameter | unit = millimetre }}
+}}

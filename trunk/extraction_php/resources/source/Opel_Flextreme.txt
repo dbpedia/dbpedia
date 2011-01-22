@@ -1,0 +1,47 @@
+{{Infobox Automobile
+| image = [[Image:Saturn Flextreme NY.jpg|250px|Saturn Flextreme concept]]
+| name = Opel Flextreme concept
+| aka = Saturn Flextreme (North America)
+| manufacturer = [[Opel]]
+| production = concept - late 2010
+| assembly =
+| predecessor =
+| successor =
+| class = [[Compact car]]
+| body_style = 4&ndash;5 passenger, 3-door liftback
+| layout = [[FF layout]]<!-- possibly MF? -->
+| platform = [[GM Delta platform|Delta II]]/[[GM E-Flex platform|E-Flex]]
+| engine = 1.3L [[diesel engine]] and electric motor
+| transmission = direct
+| wheelbase = {{convert|2725|mm|in|1|abbr=on}}
+| length = {{convert|4555|mm|in|1|abbr=on}}
+| width = {{convert|1836|mm|in|1|abbr=on}}
+| height = {{convert|1487|mm|in|1|abbr=on}}
+| weight =
+| fuel_capacity = 12 gallons{{Clarify me|us or imp gal?|date=April 2009}}
+| battery_range = {{convert|34|mi|km|0}}
+| range_w/_engine_assist = unlimited
+| related =
+| designer =
+}}
+
+The '''Opel Flextreme''' is a diesel [[plug-in hybrid electric vehicle|plug-in hybrid]] [[concept car]] created by [[Opel]]. It can travel {{convert|55|km|mi}} on its [[lithium-ion battery]] before a small [[diesel engine]] starts charging the battery (it is a [[series hybrid]]). The Flextreme uses the same platform and technology as the [[Chevrolet Volt]]. In January 2008, a rebadged version of the concept was introduced at the [[North American International Auto Show]] as the '''[[Saturn Corporation|Saturn]] Flextreme'''.<ref>{{cite web|url=http://www.autotrends.org/concepts/saturn/|title="The Saturn Flextreme: Now That’s Unusual!" in ''Auto Trends''|accessdate=May 15 2008|dateformat=mdy}}</ref> In order to expand on different ways of recharging the battery on the [[GM E-Flex platform]], GM created the [[Cadillac Provoq]] to recharge itself using a [[hydrogen fuel cell]], in addition to the onboard gasoline, E85, and diesel engines found in the other concepts.
+The [[Opel]] Flextreme is expected to emit 40 grams of CO<sub>2</sub> per km or less (according to European test procedure ECE R101 for range extender vehicles).<ref>{{cite web|url=http://media.gm.com/intl/opel/en/news/pk/pk_07.12.17_flextreme/EN_2_Flextreme_Technology.doc|title="Opel Media Information"|accessdate=October 3 2008|dateformat=mdy}}</ref> It is expected to reach approximately {{convert|153|mpgUS|abbr=on}}.{{citation needed|date=March 2009}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://media.gm.com/servlet/GatewayServlet?target=http://image.emerald.gm.com/gmnews/viewmonthlyreleasedetail.do?domain=82&docid=39428 GM press release]
+*[http://news.bbc.co.uk/2/hi/business/6988435.stm BBC NEWS   Business | Car firms eye emissions at show]
+*[http://www.autoblog.com/2007/09/07/frankfurt-preview-opel-flextreme-concept-leaks-onto-the-web/ Frankfurt Preview: Opel Flextreme revealed! - Autoblog]
+*[http://car.pege.org/2007-iaa/general-motors-opel.htm Opel Flextreme at the IAA 2007]
+*[http://www.autobloggreen.com/2008/01/14/embargo-1-14-12-01am-est-detroit-2008-saturn-flextreme-e-flex/ Saturn Flextreme]
+
+[[Category:Opel concept vehicles|Flextreme]]
+[[Category:Plug-in hybrid vehicles]]
+[[Category:Prototype electric vehicles]]
+[[Category:Upcoming automobiles]]
+
+[[nl:Opel Flextreme]]
+[[pl:Opel Flextreme]]

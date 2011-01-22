@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = wheelbase
+| rdfs:domain = Automobile
+| rdfs:range = Length
+| rdf:type = owl:FunctionalProperty
+}}

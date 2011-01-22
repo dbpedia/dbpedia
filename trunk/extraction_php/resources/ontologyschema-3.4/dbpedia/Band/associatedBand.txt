@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = associated band
+|rdfs:domain = Band
+|rdfs:range = Band
+}}

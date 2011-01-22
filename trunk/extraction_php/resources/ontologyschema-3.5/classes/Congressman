@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Congressman
+| rdfs:subClassOf = Politician
+}}

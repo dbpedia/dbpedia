@@ -1,0 +1,55 @@
+{{Infobox Automobile
+|image=[[Image:Ruf RGT 2007.jpg|250px|2007 RGT.]]
+|name=Ruf RGT
+|aka=[[Porsche 911 GT3]]
+|manufacturer=Ruf (modified Porsche)
+|layout=[[RR layout]] 
+|class=[[Sports car]]
+|body_style=2-door [[coupé]]
+|engine=3.6L [[flat-6]]; 
+{{convert|385|bhp|kW PS|0|abbr=on}}  @7600 rpm<br>3.8L [[flat-6]];{{convert|445|bhp|kW PS|0|abbr=on}}  @7600 rpm
+|transmission=6-speed [[manual transmission|manual]]
+|production=2000-current
+|wheelbase= {{convert|92.5|in|mm|0|abbr=on}}
+|length= {{convert|174.4|in|mm|0|abbr=on}}
+|width= {{convert|69.5|in|mm|0|abbr=on}}
+|height= {{convert|50|in|mm|0|abbr=on}}
+|weight= {{convert|2932|lb|abbr=on}}
+}}
+The '''Ruf RGT''' is a sports car made by [[Ruf Automobile]] of Germany.
+
+Based on the [[Porsche 911 GT3]], the Ruf RGT was introduced in 2000.  Inspired by the 1973 [[Porsche Carrera]] RS, the Ruf RGT combines light weight with a powerful engine to provide impressive performance.  Acceleration of the original 3.6L version was 0-60 mph in 4.6 seconds, with a top speed of {{convert|190|mph|km/h|0|abbr=on}}. When the new generation of 911 GT3 debuted, Ruf bored out the 3.6L engine to {{convert|3.8|L|cuin|1}}, modified the exhaust and [[catalytic converter]]s, and replaced the [[Engine Control Unit|ECU]] and air filter.  The new power output was {{convert|445|bhp|kW|0|abbr=on}}, which resulted in decreasing the 0-60 mph time from 4.6 to 4.2 seconds (or even 4.1, according to some sources), and increasing top speed by 7 mph (to 317 km/h).
+
+Both engines are coupled to 6-speed manual transmissions.
+
+Ruf also added a performance suspension system, using [[Bilstein]] components, as well as high-performance [[Brembo]] disc brakes, measuring {{convert|13.8|in|mm|0}} in front and {{convert|13|in|mm|0}} in the rear.
+
+The car's appearance is also changed, utilizing a bodykit which includes a [[polyurethane]] front air dam and [[carbon fibre]] doors, mirrors, engine lid, and spoiler, all of which reduce the car's weight to {{convert|2932|lb|kg|0}}.  The car is fitted with 19 inch Ruf Supperleggera wheels and [[Michelin]] Pilot Sport Cup tires.
+
+Finally, the RGT is customized with interior trim of the customer's choice, including [[Recaro]] seats and the deletion of unnecessary parts to save weight.
+
+Base price for the original model was $135,000 [[USD]], while the new [[Porsche 997|997]] model costs $258,000 [[USD]].
+
+==Specifications==
+(Data shown is the for the [[Porsche 997|997]] model)
+*Weight: {{convert|2932|lb|kg|0}}
+*Power: {{Convert|445|hp|kW|0|abbr=on}} @ 7600 rpm
+*Torque: {{Auto ft.lbf|310|0}} @ 5100 rpm
+*Specific output: approx. {{Convert|117.1|hp|kW|0|abbr=on}} per litre
+*Power to weight ratio: approx. {{convert|6.59|lb|kg}} per horsepower
+
+**0-{{convert|60|mph|km/h|0|abbr=on}}: 4.2 sec
+**Top Speed: {{convert|197|mph|km/h|1|abbr=on}}<ref name="www.roadandtrack.com">{{Cite web|url=http://www.roadandtrack.com/article.asp?section_id=34&article_id=5333|title=Road & Track July 2007 "Pumped Up Porsches"|accessdate=2008-06-04|work=roadandtrack.com}}</ref>
+
+==References==
+{{reflist}}
+
+{{Ruf}}
+
+[[Category:Ruf vehicles|RGT]]
+[[Category:Vehicles with boxer engines]]
+
+
+{{Modern-auto-stub}}
+
+[[ja:RUF・RGT]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = third commander
+|rdfs:domain = MilitaryUnit
+|rdfs:range = Person
+}}

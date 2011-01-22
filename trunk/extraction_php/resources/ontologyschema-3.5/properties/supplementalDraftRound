@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = supplemental draft round
+| rdfs:domain = FootballPlayer
+| rdfs:range = xsd:string
+}}

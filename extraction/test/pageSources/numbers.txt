@@ -1,0 +1,5 @@
+{{ DummyTemplate |
+integer = 1270000 |
+thousands comma = 23,000 |
+floating point = 134.34
+}}

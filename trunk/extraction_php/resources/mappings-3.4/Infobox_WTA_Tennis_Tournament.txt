@@ -1,0 +1,9 @@
+{{ DBpediaTemplateMapping
+| mapToClass = WomensTennisAssociationTournament
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = City | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = Country | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = Venue | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = Web_site | ontologyProperty = foaf:homepage }}
+}}

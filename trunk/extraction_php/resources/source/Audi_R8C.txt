@@ -1,0 +1,68 @@
+{{Racing car
+|Car_name=Audi R8C
+|Image=
+|Category=[[Le Mans Prototype|LMGTP]]
+|Constructor=[[Bentley|Bentley Motors Limited]]
+|Designer=[[Peter Elleray]]
+|Team=[[Audi]]
+|Drivers=
+|Chassis=
+|Rear suspension=
+|Engine name=[[Audi]]
+|Capacity=4.0 litre
+|Configuration=90-degree [[V8]]
+|Turbo/NA=[[twin-turbo]],
+|Engine position=
+|Gearbox name=
+|Gears=
+|Type=
+|Differential=
+|Tyres=
+|Fuel=
+|Debut=
+|Races=
+|Wins=
+|Cons_champ=
+|Drivers_champ=
+|Poles=
+|Fastest_laps=
+}}
+
+
+The '''Audi R8C''' was a [[Le Mans Prototype]] built by [[Audi]] for the [[1999 24 Hours of Le Mans]] designed by [[Peter Elleray]].  It was developed alongside the open [[Audi R8R]] [[spyder]], prior to being replaced by the all-new [[Audi R8 (race car)|Audi R8]] in 2000.
+
+==Development==
+At the time of Audi's announcement of their intention to enter the [[24 Hours of Le Mans]] in 1998, the initial plan was to enter an open-cockpit prototype, known as the [[Audi R8R]].  However, following the dominant performance of GT1-class cars in the [[1998 24 Hours of Le Mans]], the [[Automobile Club de l'Ouest]] (ACO) modified classification rules in order to create a new class known as LMGTP, which would be closed-cockpit prototypes, realistically replacing the powerful, purpose-built GT1 cars.
+
+Following this rule change, Audi decided that they should invest in this new LMGTP class, thus forcing them to design a whole new car, vastly different from the R8R.  With the aid of Audi's new engineering partner Racing Technology Norfolk (RTN), Audi designer Tony Southgate set out to design the new R8C, unlike the R8R which was built by [[Dallara]].  
+
+The R8C and R8R both used the {{Convert|600|hp|kW|-1|abbr=on}} 3.6 litre twin-turbocharged [[V8 engine]], but were be radically different aerodynamically.  While the R8R would have a large number of vents on the nose of the car, most of the intakes and air exits on the R8C would be placed on the side of the car.  The R8C would also use thinner wheel arches, partially due to LMGTP rules which stipulated that LMGTPs used thinner tyres in comparison to LMPs in order to make up for the better aerodynamic efficiency, and thus increased potential speed, of closed-cockpit cars.  Using a styling feature borrowed from the [[Toyota GT-One]], the insides of the front wheel arches would also be opened, in order to not only allow air to exit from the front wheel wells, but also to assist in brake cooling.
+
+For the cockpit of the R8C, a long sloped windshield would extend far down the nose.  For the roof, the minimum roof height would be achieved with the use of raised humps above the driver's position, yet would be lowered in between these humps for better aerodynamic efficiency to the rear wing.
+
+The rear of the car would feature a boxy, blunt tail that was developed from the improved R8R, yet would be longer in order to better maximize the coupe's aerodynamics.
+
+==Racing history==
+Unlike the R8R, which performed the bulk of the testing due to being completed first, the R8C had very little time to test prior to the initial group test for the [[24 Hours of Le Mans]] in May.  At this group test, the cars unfortunately suffered numerous setbacks and lacked the pace of the open-cockpit brothers.  Although they were capable of hitting speeds upwards of {{convert|350|km/h|mph|0|abbr=on}} on the Mulsanne straight, they lacked the handling ability and overall speed for a full lap.  While the R8Rs managed the 8th and 11th fastest times, the R8Cs could only muster 22nd and 28th fastest.  The R8Cs mostly suffered from aerodynamic problems, especially in the build-up of air underneath the engine cover.  This caused the R8Cs to lose their rear engine covers while at speed on several occasions.
+
+For the race itself, the R8Cs were unable to find much improvement over the month off.  Qualifying was more of the same, as the R8Cs managed a mere 20th and 23rd places, while the R8Rs were still 9th and 11th.  Unfortunately during the race, both the R8R and R8C suffered numerous gearbox difficulties.  One R8C was forced to drop out of the race after just 55 laps, while the second R8C would succumb to gearbox failure after the midpoint of the race.  Even though the R8Rs suffered gearbox difficulties, both cars managed to finish the race, taking an impressive third and fourth place.
+
+Following Le Mans, Audi decided that they would concentrate on only one of the two types of cars for the future of their program.  The dismal performance of the R8C, along with the exodus from the LMGTP class by most major manufacturers, lead to Audi to develop an open-cockpit car - the R8.
+
+Audi returned to the LMGTP class in 2001 in the form of the [[Bentley Speed 8|Bentley EXP Speed 8]].  Although similar to the R8C, the EXP Speed 8 shared nothing with the previous LMGTP except for its Audi turbocharged V8.  Aerodynamic lessons from the R8C would however be carried over for the Bentley.
+
+Only two R8Cs were ever built, chassis #101 and #102, both raced by [[Richard Lloyd (racing driver)|Richard Lloyd]]'s [[Audi]] Sport UK.  The [[1999 24 Hours of Le Mans]] would be their only competition.
+
+==See also==
+* [[Audi R8R]]
+* [[Audi R8 (race car)]]
+* [[Bentley Speed 8]]
+
+==External links==
+* [http://www.mulsannescorner.com/audir8c.htm Mulsannes Corner] - Audi R8C analysis
+
+{{Audi}}
+
+[[Category:Audi vehicles|R08C]]
+[[Category:Le Mans Prototypes|Audi R08C]]
+[[Category:24 Hours of Le Mans race cars]]

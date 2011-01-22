@@ -1,0 +1,10 @@
+{{ DBpediaTemplateMapping
+| mapToClass = MusicGenre
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = stylistic_origins | ontologyProperty = MusicGenre/stylisticOrigin }}
+	{{ DBpediaPropertyMapping | templateProperty = instruments | ontologyProperty = MusicGenre/instrument }}
+	{{ DBpediaPropertyMapping | templateProperty = derivatives | ontologyProperty = MusicGenre/derivative }}
+	{{ DBpediaPropertyMapping | templateProperty = subgenres | ontologyProperty = MusicGenre/musicSubgenre }}
+	{{ DBpediaPropertyMapping | templateProperty = fusiongenres | ontologyProperty = MusicGenre/musicFusionGenre }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+}}

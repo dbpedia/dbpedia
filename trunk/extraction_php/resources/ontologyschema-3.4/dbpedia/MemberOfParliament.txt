@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Member Of Parliament
+|rdfs:subClassOf = Politician
+}}

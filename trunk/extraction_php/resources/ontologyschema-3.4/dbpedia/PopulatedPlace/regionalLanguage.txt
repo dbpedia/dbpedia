@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = regional language
+|rdfs:domain = PopulatedPlace
+|rdfs:range = Language
+}}

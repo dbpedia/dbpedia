@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = following event
+| rdfs:domain = Event
+| rdfs:range = Event
+}}

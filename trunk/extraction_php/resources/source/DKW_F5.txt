@@ -1,0 +1,105 @@
+{{Infobox Automobile| image = [[Image:DKW F5 Sedan 1935.jpg|250px|DKW F5 - 700/ Meisterklasse.]]
+| name = DKW F5 Reichsklasse / Meisterklasse 
+| manufacturer = [[Auto Union|Auto Union AG]]
+| production =  1935 – 1936 
+| predecessor =  [[DKW F2|DKW F2 (Reichsklasse)]]<br>[[DKW F4|DKW F4 (Meisterklasse)]]
+| successor = [[DKW F7]]
+| engine = 584&nbsp;cc & 692 cc <br>[[two stroke]] [[straight-2]]
+| layout=[[FF layout]]
+| transmission = 3-speed manual 
+| length = {{convert|3750|mm|in||abbr=on}} <br>(Reichsklasse sedan)
+| width = {{convert|1430|mm|in||abbr=on}} <br>(Reichsklasse sedan)
+| height = {{convert|1480|mm|in||abbr=on}}<br>(Reichsklasse sedan)
+| weight = {{convert|700|kg|lb||abbr=on}} <br>(Reichsklasse sedan)
+| wheelbase =  {{convert|2610|mm|in||abbr=on}}<br> (Reichsklasse sedan)
+| track = 
+|fuel_capacity=
+| related = 
+| similar = 
+| designer = 
+}}
+ [[Image:DKW F5, Bj. 1938 ( 2006-07-16) .jpg|thumb| 250px| right|DKW F5 Roadster (1938)]]
+The '''DKW F5''' is a [[Compact car|sub compact]] [[front wheel drive]]  [[Sedan (car)|saloon]] launched by [[Auto Union|Auto Union’s]] [[DKW]] division in 1935 as a replacement for the DKWs [[DKW F4|F4 (Meisterklasse)]] and [[DKW F2|F2 (Reichsklasse)]] models.
+
+==The body==
+The appearance of the F5 was little changed from those of the F2 and F4.   However, the timber frame construction of the central portion of the body was, in the F5, replaced with a steel frame.   The outer skin of the body remained of fabric construction, with plywood support.
+
+There were two broadly similar F5 saloons, sold as the Reichsklasse and Meisterklasse.   They shared the same track and wheelbase, but the Meisterklasse was 3.5&nbsp;cm longer.   There were also two seater cabriolet versions of each, along with a lighter bodied ‘Front Luxus Sport’ sports cabriolet for which a higher top speed of 90&nbsp;km/h (56&nbsp;mph) was claimed.
+
+==Engine and running gear==
+The cars had the [[straight-2|two cylinder]] two stroke engines of their predecessors.   The Reichsklasse engine was of 584 cc with an output of 18 bhp (13 kW).   The Meisterklasse’s 692 cc engine had an output of 20 bhp (15 kW).   Respective claimed top speeds were 80&nbsp;km/h (50&nbsp;mph) and 85&nbsp;km/h (53&nbsp;mph).
+
+DKW had been producing small front wheel drive sedans since 1931.   The incorporation of [[front wheel drive]] in the F5 was at this time still strikingly innovative in terms of the wider auto market, however.
+
+The car featured a three speed manual transmission system.
+
+==Commercial==
+Production of the F5 saloon ended in 1936 while production of the {{convert|20|bhp|abbr=on}} cabriolet versions continued for a further year.   The car was replaced by the [[DKW F7]].   By the time that happened, approximately 60,000 F5s had been produced, placing this car among Germany’s top sellers.
+
+==Data==
+<br style="clear:both" />
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data DKW F5 <ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1920-1945, Band 4|year= 1996  10. Auflage |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 3-879-435196-7}}</ref>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="15%"|DKW F5
+! width="17%"|’Reichsklasse’
+! width="17%"|’Meisterklasse’
+! width="17%"|’Front’ Cabriolet
+! width="17%"|’Front Luxus’ Cabriolet
+! width="17%"|’Front Luxus Sport’ 
+|- bgcolor="#FFDEAD"
+! width="15%"|Body
+! width="17%"|2-door saloon
+! width="17%"|2-door saloon
+! width="17%"|2 seater cabriolet
+! width="17%"|2 seater cabriolet
+! width="17%"|2 seater [[roadster]]
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1935 - 1936 || align="center" |1935 - 1936 || align="center" |1936 || align="center" |1936 - 1937 || align="center" |1936 - 1937
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="5" align="center" | [[Two stroke]] [[Straight-two|2 cylinder water cooled]] , front mounted
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || align="center" |584 cc || align="center" |692 cc || align="center" |584 cc || align="center" |692 cc || align="center" |692 cc
+|- bgcolor="#EEEEEE"
+| Bore x stroke:&nbsp; || align="center" |74 x 68 || align="center" |76 x 76 || align="center" |74 x 68 || align="center" |76 x 76 || align="center" |76 x 76
+|- bgcolor="#EEEEEE"
+| Max. power :&nbsp; || align="center" |{{Convert|18|hp|kW|0|abbr=on}}  || align="center" |{{Convert|20|hp|kW|0|abbr=on}}  || align="center" |{{Convert|18|hp|kW|0|abbr=on}}  || align="center" |{{Convert|20|hp|kW|0|abbr=on}}  || align="center" |{{Convert|20|hp|kW|0|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || colspan="5" align="center" | 6 volt
+|- bgcolor="#EEEEEE"
+| Max. speed  :&nbsp; || align="center" |80&nbsp;km/h (50&nbsp;mph) || align="center" |85&nbsp;km/h (53&nbsp;mph)  || align="center" |80&nbsp;km/h (50&nbsp;mph) || align="center" |85&nbsp;km/h (53&nbsp;mph) || align="center" |90&nbsp;km/h (56&nbsp;mph)  
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || align="center" |{{convert|700|kg|lb||abbr=on}}|| align="center" |{{convert|770|kg|lb||abbr=on}}  || align="center" |{{convert|650|kg|lb||abbr=on}} || align="center" |{{convert|790|kg|lb||abbr=on}} - {{convert|820|kg|lb||abbr=on}} || align="center" |{{convert|700|kg|lb||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || align="center" |{{convert|1110|mm|in||abbr=on}} {{convert|1220|mm|in||abbr=on}} || align="center" |{{convert|1110|mm|in||abbr=on}} {{convert|1220|mm|in||abbr=on}} || align="center" |{{convert|1110|mm|in||abbr=on}} {{convert|1220|mm|in||abbr=on}} || align="center" |{{convert|1110|mm|in||abbr=on}} {{convert|1220|mm|in||abbr=on}} || align="center" |{{convert|1110|mm|in||abbr=on}} {{convert|1220|mm|in||abbr=on}} ||
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || align="center" |{{convert|2610|mm|in||abbr=on}}|| align="center" |{{convert|2610|mm|in||abbr=on}}|| align="center" |{{convert|2400|mm|in||abbr=on}}|| align="center" |{{convert|2610|mm|in||abbr=on}}|| align="center" |{{convert|2500|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" |{{convert|3750|mm|in||abbr=on}}|| align="center" |{{convert|3985|mm|in||abbr=on}}|| align="center" |{{convert|3450|mm|in||abbr=on}}|| align="center" |{{convert|3995|mm|in||abbr=on}}|| align="center" |{{convert|3745|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || align="center" |{{convert|1430|mm|in||abbr=on}}|| align="center" |{{convert|1465|mm|in||abbr=on}}|| align="center" |{{convert|1450|mm|in||abbr=on}}|| align="center" |{{convert|1480|mm|in||abbr=on}}|| align="center" |{{convert|1440|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" |{{convert|1480|mm|in||abbr=on}}|| align="center" |{{convert|1500|mm|in||abbr=on}}|| align="center" |{{convert|1440|mm|in||abbr=on}}|| align="center" |{{convert|1440|mm|in||abbr=on}}|| align="center" |{{convert|1410|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+==Sources==
+{{reflist}}
+
+*{{De| DKW F5}}
+
+[[Category:DKW vehicles|F5]]
+[[Category:Compact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:1930s automobiles]]
+[[Category:Vehicles introduced in 1935]]
+
+[[de:DKW F5]]

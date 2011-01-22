@@ -1,0 +1,290 @@
+{{Infobox Automobile
+ | image        = [[Image:W201-mopf.jpg|250px|Mercedes-Benz W201]] 
+ | name         = Mercedes 190
+ | manufacturer = [[Mercedes-Benz]]
+ | production   = 1982–1993 <br/> 1,874,668 built <ref name="Kittler6"> {{cite book |title=Deutsche Autos seit 1990, Band 6 |last= Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02052-1 |pages=100}}</ref>
+ | class        = [[Compact executive car]]
+ | body_style   = 4-door [[Sedan (automobile)|saloon]]
+ | platform     = 
+ | layout       = [[FR layout]]
+ | engine       = 1.8L 8v [[Straight-4|I4]] - 2.0L 8v I4 - 2.3L 8v I4 - 2.3L 16v I4 - 2.5L 16v I4<br />2.6L [[I6]]<br />Diesel 2.0L - 2.5L Non-Turbo<br />Diesel 2.5L Turbo
+ | predecessor  =
+ | successor    = [[Mercedes-Benz C-Class]]
+ | related      =
+ | wheelbase    = {{Auto in|104.9|0}}
+ | length       = {{Auto in|175.1|0}}<br>1988-1990 Base: {{Auto in|175.0|0}}
+ | width        = 1988-1990: {{Auto in|66.1|0}}<br>1991-93: {{Auto in|66.5|0}}
+ | height       = 1988-1990: {{Auto in|54.7|0}}<br>1991-93: {{Auto in|54.1|0}}
+ | transmission = 4-speed [[automatic transmission|automatic]]<Br>4-speed [[Manual transmission|manual]]<Br>5-speed [[Manual transmission|manual]]
+ | assembly     = [[Bremen (city)|Bremen]], [[Germany]] <br/> [[Sindelfingen]], Germany
+ | similar      = [[BMW 3 Series]]
+}}
+[[Image:1987-Mercedes Benz-190E-2.3.jpg|thumb|right|1987 Mercedes-Benz 190 E 2.3 (US)]] 
+[[Image:W201.jpg|thumb|right|Mercedes 190 D]]
+[[Image:1990 190E 2.5-16.jpg|thumb|right|1990 Mercedes-Benz 190E 2.5-16 (UK)]]
+:''This is about the [[Luxury_car#Entry-level_luxury|luxury compact car]] produced from 1982 to 1993. See [[Mercedes-Benz 190]] for other models sold with the same name.
+
+The '''Mercedes-Benz W201''' was the last incarnation of the '''[[Mercedes-Benz 190]]''' nameplate. It was a [[sports sedan]]/[[compact executive car]]  produced by the [[Mercedes-Benz]] division of [[Daimler-Benz]]. It was replaced in 1993 by the [[Mercedes-Benz C-Class|C-Class]].
+
+Dubbed "the Baby Benz", the W201-based 190 was the most affordable model in the marque's lineup, being designed to fill the gap in the range below the [[W123]], the equivalent of a modern [[Mercedes E-class]]. Amongst the items that were a first for Mercedes was the 190's patented [[Multi-link suspension|5-link suspension]] at the rear, used in subsequent E- and C- class models, and developments used today in Mercedes road cars. It had front and rear anti-roll bars, and anti-dive, anti-squat geometry. The 190 was available with airbags, ABS brakes and seatbelt tensioners, and other advanced safety features.
+
+==Background==
+£600 million was spent researching and developing this car with Mercedes-Benz acutely aware that a failure of this model could easily bring down the rest of their model range and the entire company’s reputation. Mercedes-Benz later said the 190 was 'massively over-engineered'<ref name="Over Engineered">{{
+cite news
+|title=Top 10: greatest-ever Mercedes
+|url=http://cars.uk.msn.com/News/Top_ten_article.aspx?cp-documentid=544788
+}}</ref>. The W201-based 190 was introduced in November 1982. The UK market was kept waiting up to 12 months longer than mainland Europe in order to stimulate sales.
+
+Local '[[red tape]]' in Bremen (which produced commercial vehicles at the time) prevented Daimler-Benz from building the 190 there, so production was started in [[Sindelfingen]] at a capacity of just 140,000 units per year. Eventually after just the first year, Bremen was cleared for production of the 190, replacing its commercial vehicle lines, and there the 190 was built with the first running modifications since release
+
+== 190E  2.6 straight-six cylinder ==
+Bucking the 1980s trend for 16 valve models, Mercedes-Benz unveiled the 2.6 model in 1986. This was fitted with a new 2.6 L [[Straight-6|six-cylinder]] [[Mercedes-Benz M103 engine|M103]] petrol engine from the new W124 E-Class model range, and produced {{convert|160|bhp|kW|0|abbr=on}}. Being a straight six, it had smoothness lacking from four-cylinder petrol or diesel engines. Although it might look superfluous alongside the similarly powerful 2.3-16 valve, it was intended as a less sporting alternative to the 16 valve models. The late motoring journalist [[LJK Setright]] once rated the 190 E 2.6 as one of his favourite cars.
+
+== 190E  2.3-16 & 2.5-16 "Cosworth" ==
+Back in the late 1970s, Mercedes competed in rallying with the big [[V8]]-powered Coupés of the R107 Series, mainly the light-weight [[Mercedes 450 SLC 5.0]]. Mercedes wished to take the 190 E rallying, and asked British race car engineering company Cosworth to develop an engine with {{convert|320|bhp|kW|0|abbr=on}} for the rally car. This project was known as project "WAA" by Cosworth"<ref name="cosworth">{{
+cite news
+|title=Cosworth project list
+|url=http://www.siipicossu.com/CostinDuckworth.htm
+}}</ref>. During this time, the [[Audi Quattro]] with its [[all wheel drive]] and [[turbocharger]] was launched and made it apparent that the 2.3-16v would not be competitive.{{Vague|apparent in what way?|date=March 2008}} With a continued desire to compete in high-profile motorsport with the 190, and also now an engine to do it with, Mercedes turned to the [[Deutsche Tourenwagen Meisterschaft]] (DTM) (German Touring Car Championship) motorsport series instead. Cars racing in this championship, however, had to be based on a roadgoing model. Mercedes therefore had to put into series production a 190 fitted with a detuned version of the Cosworth engine. This high performance model was known as the 190 E 2.3-16, and debuted at the [[Frankfurt Auto Show]] in September 1983, after its reputation had already been established. Three cars, only slightly cosmetically altered, had set three world records in August at the [[Nardò Ring|Nardo testing facility]] in [[Italy]], recording a combined average speed of {{convert|154.06|mi/h|km/h|2|abbr=on}} over the 50,000&nbsp;km [[endurance]] test, and establishing twelve international endurance records.
+
+===Engine===
+The Cosworth engine was based on the 2.3-liter 8-valve {{Convert|136|hp|kW|0|abbr=on}} unit already fitted to the 190- and E-Class series. [[Cosworth]] developed the [[cylinder head]], "applying knowledge we've learnt from the [[DFV]] and BDA"<ref name="autocar_flying_flag">{{
+
+cite news
+|title=Flying the Flag
+|publisher=Autocar Magazine
+|page=32-33
+|date=August 7, 1985
+
+}}</ref>. It was made from light alloy using Coscast's unique casting process and brought with it [[dual overhead cam]]shafts and [[multi-valve|four valves per cylinder]], meaning 16 valves total which were developed to be the "largest that could practically be fitted into the combustion chamber"<ref name="autocar_flying_flag"/>.
+
+In roadgoing trim the 190 E 2.3-16 produced 49&nbsp;hp (36&nbsp;kW) and 41&nbsp;ft·lbf (55&nbsp;N·m) of torque over the basic single overhead cam 2.3 [[Straight-4|I4]] engine on which it was based. The 2.3&nbsp;L 16 valve engine made "185&nbsp;hp (137&nbsp;kW) at 6,200 rpm and 174&nbsp;ft·lbf (235&nbsp;N·m) at 4,500 rpm, the oversquare 95.50 x 80.25 mm bore and stroke dimensions ensuring that it revs easily up to the 7000 rpm redline"<ref name="autocar">{{
+
+cite news
+|title=Shooting Star
+|publisher=Autocar Magazine
+|page=35-40
+|date=August 7, 1985
+
+}}</ref>. Acceleration from 0-100&nbsp;km/h (62 mph) was less than eight seconds, and the top speed was 230&nbsp;km/h (143 mph)<ref name="autocar"/>.
+
+US-Specification cars had a slightly reduced compression ratio (9.7:1 instead of 10.5:1), and were rated at {{Convert|167|hp|kW|0|abbr=on}} @ 5800 rpm and {{Auto ft.lbf|162|0}} @ 4750.
+
+The roadgoing version of the engine was reconfigured with reduced inlet and exhaust port sizes, different camshaft profiles, no dry sump configuration and Bosch K-jetronic replacing the specialised Kugelfischer fuel injection. These changes helped bring power down to the required {{convert|185|bhp|kW|0|abbr=on}} specification, but still resulted in a "remarkably flexible engine, with a very flat torque curve and a wide power band"<ref name="autocar_flying_flag"/>. The heads for the engines were cast at Cosworth's Coscast foundry in Worcester and sent to Germany to be fitted to the rest of the engine, parts of which were different from the standard 2.3 including light pressed alloy pistons, and rings designed to withstand higher engine speeds, whilst con-rods, bearings and bearing caps were found to be strong enough as standard and left unaltered<ref name="autocar_flying_flag"/>.
+
+===2.5 model===
+An enlarged 2.5&nbsp;[[Liter|L]] [[Internal combustion engine|engine]] replaced the 2.3&nbsp;L in 1988. It offered double valve timing chains to fix the easily snapping single chains on early 2.3 engines, and increased output by 17&nbsp;[[Horsepower|hp]] (12.5&nbsp;kW) with a slight increase in torque. For the European market without catalyst the car delivered 202 bhp (150 kW). Catalyst equipped 2.5-16s produced a slightly reduced {{convert|197|bhp|kW|0|abbr=on}}. It is debated whether the 2.5 L engine was developed and built by Mercedes or Cosworth.{{Fact|date=November 2007}} Mercedes was not keen to broadcast the fact that their most sporting saloon car has an engine developed by a British company. However some cylinder heads from 2.5 L cars are stamped with the Coscast logo indicating they were cast at Cosworth's foundry just like the 2.3s. Cosworth also list a Project code "WAB" for the development of the 2.5-16 cylinder head just as they do for the 2.3-16 cylinder head.<ref name="cosworth"/><ref name="cosworth type reference">{{
+cite news
+|title=Cosworth type reference
+|url=http://www.race-cars.com/utility/coswrthr.htm
+}}</ref>
+
+===16v differences===
+Due to their performance, the 16 valve cars were different from the other 190 models. The body kit on the 2.3-16 and 2.5-16 reduced the drag coefficient to 0.32, one of the lowest CD values on a four door saloon of the time, whilst also reducing lift at speed. The steering ratio was quicker and the steering wheel smaller than that on other 190s, whilst the fuel tank was enlarged from 55 to 70 L. The [[Getrag]] 5-speed [[manual gearbox]] was unique to the 16 valve and featured a 'racing' gear pattern with 'dog-leg' first gear, left and down from neutral. This meant that the remaining 2nd, 3rd, 4th and 5th gears were in a simple H pattern allowing fast and easy selection. The gearchange quality was, however, noted as "notchy, [[Manual_transmission#Synchromesh|baulky]]"<ref name="autocar">
+
+{{cite news
+|title=Shooting Star
+|publisher=Autocar Magazine
+|page=35-40
+|date=August 7, 1985
+
+}}</ref>, criticisms which weren't levelled at the [[BMW M3]] (E30) which shared the same gearbox. An oil cooler was fitted to ensure efficient oil cooling for the inevitable track use many of these cars were destined for.
+
+The strictly four-seater interior had Recaro sports seats with strong side bolsters for front and rear passengers. 3 extra dials - an oil temperature gauge, stopwatch and voltmeter -  were included in the centre console. The 190 E 2.3-16 was available in only two colours, Blue-Black metallic (Pearl Black in the US), and Smoke Silver (which looks gold). The 2.5-16 added Almandine Red and Astral Silver.
+
+All 2.3-16 valve 190 models are fitted with a [[Limited Slip Differential]] (LSD) as standard. They were also available with Mercedes' ASD system which was standard equipment on the 2.5-16v. The ASD is an electronically controlled, hydraulically locking differential which activates automatically when required. The electronic control allows varied amounts of differential lock from the standard 15% right up to 100%. It is not a [[traction control system]] however, and can only maximize traction rather than prevent wheel spin. Activation of the ASD system is indicated by an illuminating amber triangle in the speedometer.
+
+The suspension on 16 valve models is very different from the standard 190 (W201). As well as being lower and stiffer, it has quicker dampers, larger anti-roll bars, harder bushings and hydraulic Self-Levelling Suspension (SLS) on the rear. This allows the rear ride height to remain constant even when the car is fully loaded.
+
+At the inauguration of the new, shorter [[Nürburgring]] in 1984, a race with identical cars was held, with former and current F1 pilots at the wheel. A rather unknown young driver named [[Ayrton Senna]] took First Place in that race.
+
+Private Teams such as AMG later entered the 2.3-16 in touring cars races, especially the [[Deutsche Tourenwagen Masters|DTM]]. In the late 1980s, the 2.5-16 (never released in the United States) raced many times, against the similar [[BMW M3]] and even the [[turbocharged]] [[Ford Sierra]] [[Cosworth]].
+
+==Evolution models==<!-- This section is linked from [[Nissan Skyline GT-R]] -->
+With the debut of the [[BMW M3]] Sport Evolution, Mercedes' direct competitor, it became obvious that the 2.5-16 needed a boost for the circuit. In March 1989, the 190 E 2.5-16 Evolution debuted at the [[Geneva Auto Show]]. The Evo I, as it came to be called, had a new spoiler and wider wheel arches. Many changes were to under-the-skin components such as brakes and suspension. There was a full SLS suspension allowing vehicle ride height to be adjusted from an interior switch. All were intended to allow the Evolution cars to be even more effective round a track.
+
+The Evo I's output similar to the {{convert|202|bhp|kW|0|abbr=on}} of the "regular" 2.5-16.  However this car had a redesigned engine of similar capacity but, most importantly, a shorter stroke and bigger bore which would allow for a higher rev limit and improved top-end power capabilities. Additional changes stretch to "rotating masses lightened, lubrication improved and cam timing altered"<ref name="practical classics">{{
+
+cite news
+|title=Les Grandes Marques a Monaco, Bonhams (16th May 2005)
+|publisher=Practical Classics
+|url=http://www.practicalclassics.co.uk/auctionlot/by-id/1962785854/
+
+}}</ref>. Cosworth also list a project code "WAC" for the development of the short-stroke Evolution engine<ref name="cosworth"/><ref name="cosworth type reference"/>.
+
+Only 502 units of the Evolution model were produced for [[homologation]] in compliance with DTM rules.  For those customers desiring even more performance, a PowerPack option engineered by [[Mercedes-AMG|AMG]] was available for DM 18,000.  The PowerPack option included hotter camshafts, a larger diameter throttle body, more aggressive ignition and fuel management as well as optimization of the intake and exhaust systems.  The net result was an additional {{convert|30|bhp|kW|0|abbr=on}}.
+
+In March 1990, at the [[Geneva Auto Show]], the 190 E 2.5-16 Evolution II was shown. With the success of the first Evolution model, this model's 502-unit production was already sold before it was unveiled.{{Fact|date=November 2007}} This car retailed in 1990 for [[USD]] $80,000.
+
+The "Evo II" included the AMG PowerPack fitted to the same short stroke 2.5 engine as the Evolution, as well as a full SLS suspension allowing vehicle ride height to be adjusted from an interior switch. An obvious modification to the Evolution II is a radical body kit (designed by Prof. Richard Eppler from the University of Stuttgart) with a large adjustable rear wing, rear window spoiler, and Evolution II 17 inch wheels.  The kit served an aerodynamic purpose &mdash; it was wind tunnel tested to reduce drag to 0.29, while at the same time increasing downforce. Period anecdotes tell of a BMW executive who was quoted as saying "if that rear wing works, we'll have to redesign our wind tunnel." The anecdote claims that BMW did.{{Vague|What does this mean? Why did a test which worked require a wind tunnel redesign?|date=March 2008}}
+
+As mentioned 502 were made in "blauschwarz" blue/black metallic. But the last two, numbers 501 and 502 were made in astral silver.
+
+==16V AMG Power Pack ==
+Available only to 2.5-16 and Evolution I models, optional AMG Power Pack increased power to 224 bhp (166 [[Watt#Kilowatt|kW]]) at 7,200 [[rpm]] and [[torque]] to {{Auto ft.lbf|181|0}} at 5,000 rpm, whilst pushing the top speed up to 155 [[Miles per hour|mph]]. In their final incarnations, these engines produced up to {{convert|350|bhp|kW|-1|abbr=on}} in racing tune.
+
+{| cellpadding="2" cellspacing="2" align="center" style="margin: 0 0 1em 1em; border:3px solid #87CEEB;"
+!Engine displacement (cc)
+!Model
+!Configuration
+!Power PS (kW)
+!Max Speed mph (km/h)
+|-
+|1996
+|Carb
+|I4 8V
+|105 (77)
+|115 (185)
+|-
+|1797
+|Inj
+|I4 8V
+|109 (80)
+|115 (185)
+|-
+|1996
+|Inj
+|I4 8V
+|122 (89)
+|122 (195)
+|-
+|2298
+|Inj
+|I4 8V
+|136 (100)
+|124 (200)
+|-
+|2597
+|Inj
+|I6 12V
+|166 (122)
+|133 (215)
+|-
+|2299
+|Inj ECE
+|I4 16V
+|185 (136)
+|143 (230)
+|-
+|2299
+|Inj RÜF
+|I4 16V
+|177 (130)
+|140 (225)
+|-
+|2299
+|Inj KAT
+|I4 16V
+|170 (125)
+|137 (220)
+|-
+|2498
+|Inj RÜF
+|I4 16V
+|204 (150)
+|146 (235)
+|-
+|2498
+|Inj KAT
+|I4 16V
+|194 (143)
+|143 (230)
+|-
+|2498/2463
+|Inj
+|I4 16V AMG p/p
+|225 (165)
+|152 (244)
+|-
+|2463
+|Inj KAT
+|I4 16V Evolution (Evo I)
+|194 (143)
+|143 (230)
+|-
+|2463
+|Inj
+|I4 16V Evolution II (Evo II)
+|235 (173)
+|155 (250)
+|-
+|1997
+|Diesel
+|I4 8V
+|75 (55)
+|100 (160)
+|-
+|2199
+|Diesel
+|I4 8V
+|73 (54)
+|100 (160)
+|-
+|2497
+|Diesel
+|I5 10V
+|94 (69)
+|109 (175)
+|-
+|2497
+|Diesel Turbo
+|I5 10V
+|122 (89)
+|119 (192)
+|}<ref name="mercedes-seite">{{
+cite news
+|title=Mercedes-Benz PKW vehicle list
+|url=http://www.mercedes-seite.de/mercedes/pkw/index.html
+}}</ref>
+<ref name="2.5-16 engine brochure">{{
+cite news
+|title=Produktinformationen fur die Mercedes-Benz-Vertriebsorganisation 190 E 2.5-16 Motor M 102 mit 16 Ventilen
+|url=http://www.smileeverymile.com/Templates/Mercedes_literature%20brochures%20index.htm
+}}</ref>
+
+The turbo diesel model listed was not marketed in right hand drive form for the UK.
+
+== AMG models ==
+[[Mercedes-AMG|AMG]] was not part of Mercedes-Benz when the 190 was first produced, but a separate racing and tuning company. After many racing victories it became world famous and a lot of people wanted AMG to tune their Mercedes-Benz cars.{{Vague|3 people or a million?|date=March 2008}} As they had a lot of racing experience they were tuning all the factory petrol engines for the customers and 190 E was one of them. Engine tuning added {{convert|25|bhp|kW|0|abbr=on}}. They fitted aerodynamic features (spoilers) improving Cw and high speed stability, alloy wheels, leather interior and larger engines up to 6 liter V8's. After victories in [[Deutsche Tourenwagen Masters|DTM]] with AMG 190 E 16V's, Mercedes bought AMG in 1991. The 190 E 3.2 AMG was the first model sold through Mercedes-Benz dealerships with Mercedes-Benz new car warranty. About 200 complete cars were made, in black or silver: they were very expensive (about $90,000). Besides 200 complete 190 E 3.2 AMG's, Mercedes-Benz sold AMG body kits and 3.2l AMG engines separately, so there are 190's fitted with those features from factory or afterward. Sporty 190E 3.2 AMG straight-six 12 valve engines produced {{convert|234|bhp|kW|0|abbr=on}}, and reached {{convert|260|km/h|mph|0|abbr=on}}.
+
+==Limited Editions==
+For the UK and Irish market a special edition 190 was released for the 1993 model year. The car was given the badge name 190LE though on the rear boot lid it read 190E (on the left hand side of the lock) and LE on the right hand side. Roughly 1000 LEs were produced and each one came with a large A3 sized certificate giving each car a unique number.
+ 
+LEs were available in three colours only; Azzuro Blue (blue/purple), Brilliant Silver and Rosso Red (Burgundy). The Azzuro blue coloured cars came with a grey checked cloth interior, the silver ones with black checked cloth and the Rosso Red with biscuit/cream checked cloth.
+
+Some believe that the LE was marketing ploy used by Mercedes to clear out their parts bin. LEs were equipped with extra features that had been options on the other models and were only available with the 1.8 or 2.0 litre engine. Both the 1.8 and 2.0 litre engine came equipped with a standard electric tilt and slide steel sunroof, four electric windows, electric aerial, 8 hole alloy wheels, Blaupunkt Verona CR43 Radio/cassette and walnut wood trim (as opposed to Zebrano wood).  The 2.0 litre engined version had in addition rear headrests and a front armrest. This represented a huge cost saving of nearly £3500 when compared to an identical specced non-LE 1.8 car and roughly £2000 for a identically specced 2.0 litre non-LE car.
+
+No further options could be added to LE cars from the factory - though some were equipped with other dealer installed items.
+
+==190 today ==
+
+Together with the BMW M3, which enjoyed fewer sales worldwide in spite of being less expensive, <ref>Production figures MB 190E 2.3-16/2.5-16: 26,234; BMW M3 (E30): 18,000, according to: {{cite book |title=Deutsche Autos seit 1990, Band 6 |last= Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02052-5 |pages=100}} and {{cite book |title=Deutsche Autos seit 1990, Band 5 |last= Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02128-1 |pages=110}}</ref> the 190 E 2.3-16 and 2.5-16 continue to be used in the "Normally Aspirated cars up to 2500 cc" class in endurance and 24 hour racing at the [[Nürburgring]] Nordschleife, as newer models from BMW and [[Honda]] are not designed to be as competitive as these two 1980's veterans.{{Fact|date=November 2007}}
+
+Production of the 190 ended on [[May 5]], [[1993]]. About 1.8 million were produced<ref name="Kittler6"/>. It was replaced by the [[Mercedes-Benz C-Class|C-Class]]. The 190 is considered by some to be a [[classic car]], there are a number of owners clubs. In spite of their age many 190's can still be seen on roads today.
+
+In 2009, Mercedes has retrospectively fitted a diesel engine from the C 250 CDI BlueEfficiency to a 1992 190 E 2.6 Sportline <ref>{{cite news|title=Autocar 07 September 2009|url=http://www.autocar.co.uk/News/NewsArticle/AllCars/242933/}}</ref>. The experiment has been undertaken to show how far diesel technology has come in the last 20 years. It has been renamed the Mercedes 190 D BlueEfficiency and it is fitted with the latest OM651 common-rail diesel engine. It produces 201bhp and 369lb ft of torque, while 0-62mph comes in 6.2secs. 
+
+== References ==
+{{commonscat|Mercedes-Benz W201}}
+{{reflist}}
+
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz vehicles|W201]]
+[[Category:Compact executive cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:Sedans]]
+[[Category:Vehicles introduced in 1982]]
+
+[[cs:Mercedes-Benz 190]]
+[[da:Mercedes-Benz W201]]
+[[de:Mercedes-Benz W201]]
+[[fr:Mercedes-Benz 190]]
+[[it:Mercedes-Benz W201]]
+[[nl:Mercedes-Benz W201]]
+[[ja:メルセデス・ベンツ 190E]]
+[[pl:Mercedes-Benz W201]]
+[[sv:Mercedes-Benz W201]]
+[[uk:Mercedes-Benz W201]]

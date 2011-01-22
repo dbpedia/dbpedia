@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = lunar orbit time
+|rdfs:domain = SpaceMission
+|rdfs:range = hour
+}}

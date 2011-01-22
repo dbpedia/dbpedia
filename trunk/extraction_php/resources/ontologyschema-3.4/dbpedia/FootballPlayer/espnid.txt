@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = espnId
+|rdfs:domain = FootballPlayer
+|rdfs:range = xsd:integer
+}}

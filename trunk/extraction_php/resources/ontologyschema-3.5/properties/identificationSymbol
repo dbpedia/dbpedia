@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = identification symbol
+| rdfs:domain = MilitaryUnit
+| rdfs:range = xsd:string
+}}

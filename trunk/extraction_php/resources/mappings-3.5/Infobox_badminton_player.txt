@@ -1,0 +1,17 @@
+{{TemplateMapping
+| mapToClass = BadmintonPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = event | ontologyProperty = event }}
+	{{PropertyMapping | templateProperty = coach | ontologyProperty = coach }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = birth_name | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = date_of_birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = place_of_birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = date_of_death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = place_of_death | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass }}
+	{{PropertyMapping | templateProperty = years_active | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = years_active | ontologyProperty = activeYearsEndYear }}
+}}

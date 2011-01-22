@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = DrugBank
+| rdfs:range = xsd:string
+}}

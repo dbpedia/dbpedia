@@ -1,0 +1,36 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Actor
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = arielaward | ontologyProperty = Actor/arielAward }}
+	{{ DBpediaPropertyMapping | templateProperty = geminiawards | ontologyProperty = Actor/geminiAward }}
+	{{ DBpediaPropertyMapping | templateProperty = goldencalfawards | ontologyProperty = Actor/goldenCalfAward }}
+	{{ DBpediaPropertyMapping | templateProperty = goldenraspberryawards | ontologyProperty = Actor/goldenRaspberryAward }}
+	{{ DBpediaPropertyMapping | templateProperty = iftaawards | ontologyProperty = Actor/iftaAward }}
+	{{ DBpediaPropertyMapping | templateProperty = laurenceolivierawards | ontologyProperty = Actor/laurenceOlivierAward }}
+	{{ DBpediaPropertyMapping | templateProperty = naacpimageawards | ontologyProperty = Actor/naacpImageAward }}
+	{{ DBpediaPropertyMapping | templateProperty = nationalfilmawards | ontologyProperty = Actor/nationalFilmAward }}
+	{{ DBpediaPropertyMapping | templateProperty = sagawards | ontologyProperty = Actor/screenActorsGuildAward }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birthplace | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = deathdate | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = othername | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = yearsactive | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = yearsactive | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = domesticpartner | ontologyProperty = Person/partner }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = academyawards | ontologyProperty = Artist/academyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = afiawards | ontologyProperty = Artist/afiAward }}
+	{{ DBpediaPropertyMapping | templateProperty = baftaawards | ontologyProperty = Artist/baftaAward }}
+	{{ DBpediaPropertyMapping | templateProperty = cesarawards | ontologyProperty = Artist/cesarAward }}
+	{{ DBpediaPropertyMapping | templateProperty = emmyawards | ontologyProperty = Artist/emmyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = filmfareawards | ontologyProperty = Artist/filmFareAward }}
+	{{ DBpediaPropertyMapping | templateProperty = goldenglobeawards | ontologyProperty = Artist/goldenGlobeAward }}
+	{{ DBpediaPropertyMapping | templateProperty = goyaawards | ontologyProperty = Artist/goyaAward }}
+	{{ DBpediaPropertyMapping | templateProperty = grammyawards | ontologyProperty = Artist/grammyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = tonyawards | ontologyProperty = Artist/tonyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+}}

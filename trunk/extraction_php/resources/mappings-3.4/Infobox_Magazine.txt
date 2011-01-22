@@ -1,0 +1,14 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Magazine
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = editor | ontologyProperty = Magazine/editor }}
+	{{ DBpediaPropertyMapping | templateProperty = editor_title | ontologyProperty = Magazine/editorTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = previous_editor | ontologyProperty = Magazine/previousEditor }}
+	{{ DBpediaPropertyMapping | templateProperty = issn | ontologyProperty = Magazine/issn }}
+	{{ DBpediaPropertyMapping | templateProperty = title | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = category | ontologyProperty = Work/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = company | ontologyProperty = Work/publisher }}
+	{{ DBpediaPropertyMapping | templateProperty = publisher | ontologyProperty = Work/publisher }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

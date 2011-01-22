@@ -1,0 +1,27 @@
+{{Refimprove|date=February 2009}}
+[[Image:Volkswagen W16.jpg|thumb|200px|A W16 engine from the [[Bugatti Veyron]]]]
+{{Listen|filename=Bugatti Veyron Grand Sport.ogg|title=Bugatti Veyron Grand Sport|description=Bugatti Veyron Grand Sport at Goodwood Festival of Speed 2009}}
+A '''W16 engine''' is a sixteen [[cylinder (engine)|cylinder]] [[reciprocating engine|piston]] [[internal combustion engine]] in a [[W engine|W configuration]].  All W16 engines consist of two [[cylinder bank|banks]] of eight cylinders,<ref>http://smgenglish.typepad.com/photos/uncategorized/2007/12/19/bugatti_w16.jpg</ref> coupled to a single [[crankshaft]].
+
+[[Volkswagen Group]] is the only [[automotive industry|automotive manufacturer]] currently producing W16 engines.  Volkswagen's design is a stretched form of its [[W12 engine]], which is itself based on technology from its [[VR6 engine]].  The engine was introduced with the [[Bentley Hunaudieres]] [[concept vehicle|concept car]], a [[mid-engine design|mid-engined]] [[sports car]], which was never intended for production, and was later used in the [[Audi Rosemeyer]] concept car (Bentley has been a Volkswagen Group holding since 1998).
+
+==W engine design==
+The [[VR6 engine]] is a narrow angle (15°) staggered-inline piston engine, designed to fit within the confined engine bay of a [[front-wheel drive]] [[automobile|car]].  It is very short in length compared to an [[inline-six engine]], because the cylinders are staggered, even cylinders moved forward, odd cylinders moved backward, but all contained in one cylinder bank, to reduce the length.  Joining two such designs together into a [[W engine]] creates a design that is much shorter than a [[V engine]] with the same number of cylinders, but not too much wider.  Volkswagen's W12 engines utilise two VR6-like sets of cylinders mated at 72 degrees, and the W8 consisted of two [[VR6 engine|VR4 engines]] at the 72 degree angle.  In the W16, each side is made up of eight cylinders, but the 'bank' angle is increased to 90 degrees.
+
+Note that this design differs from the [[W18 engine]] that Volkswagen produced for its [[Bugatti]] concept cars of 1998 and 1999.  The narrow angle of each set of cylinders allows just two camshafts to drive each pair of banks, so just four are needed in total.  For this reason, the engine is sometimes described as a WR16.
+
+==W16 engine specifications==
+The Volkswagen Group W16 as configured for the [[Bugatti Veyron|Bugatti Veyron 16.4]] is a 16-cylinder quad-[[turbocharger|turbocharged]] engine with [[multi-valve|four valves]] per cylinder.  The engine is {{convert|71|cm|0|lk=on}} long, and weighs approximately {{convert|400|kg|0|lk=on}}.  Maximum [[power (physics)|power output]] is {{convert|736|kW|PS bhp|0|lk=on}} at 6,000&nbsp;[[revolutions per minute]] (rpm), with a maximum [[torque]] of {{convert|1250|Nm|0|lk=on}} (127.5 kgf·m) from 2,200 to 5,500&nbsp;rpm.<ref>[http://www.supercarnews.net/2006-bugatti-veyron-w16-engine Bugatti press release], checked 2009-03-30</ref> Some automotive press outlets have also reported that the W16 engine has been considered for use in other Volkswagen Group products.<ref>[http://www.themotorreport.com.au/2473/bentley-looking-at-veyron-w16-for-motivation/ Bentley looking at Veyron W16 for motivation], checked 2009-03-30</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.autozine.org/technical_school/engine/tech_engine_packaging.htm#W16 Volkswagen's VR6 and W-engines]
+
+{{Piston engine configurations}}
+
+{{automotive-part-stub}}
+
+[[fr:Moteur W16]]
+[[pt:W16]]

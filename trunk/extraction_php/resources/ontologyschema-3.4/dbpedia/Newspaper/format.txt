@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = format
+|rdfs:domain = Newspaper
+|rdfs:range = owl:Thing
+}}

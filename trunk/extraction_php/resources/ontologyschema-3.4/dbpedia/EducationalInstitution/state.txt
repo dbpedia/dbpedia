@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = state
+|rdfs:domain = EducationalInstitution
+|rdfs:range = PopulatedPlace
+}}

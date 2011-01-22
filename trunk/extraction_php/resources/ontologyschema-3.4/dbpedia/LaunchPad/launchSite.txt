@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = launch site
+|rdfs:domain = LaunchPad
+|rdfs:range = Building
+}}

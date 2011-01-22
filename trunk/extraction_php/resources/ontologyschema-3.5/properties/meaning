@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = meaning
+| rdfs:domain = City
+| rdfs:range = xsd:string
+}}

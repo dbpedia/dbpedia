@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = island
+| rdfs:domain = Lake
+| rdfs:range = Island
+}}

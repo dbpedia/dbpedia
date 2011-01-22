@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = mouth
+|rdfs:domain = River
+|rdfs:range = owl:Thing
+}}

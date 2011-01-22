@@ -1,0 +1,68 @@
+{{Infobox Automobile
+| name = Mercedes-Benz W112
+| aka = 300SE/300SEL
+| image = [[Image:Mercedes SE Coupé.jpg|250px|W111 SE Fintail coupe]]
+| manufacturer = [[Mercedes-Benz]]
+| production = 1961 &mdash; 1965 <br/> 9,875 built (see text)
+| predecessor=[[Mercedes-Benz W189]]
+| successor =[[Mercedes-Benz W109]]
+| related=[[Mercedes-Benz W110]]<br>[[Mercedes-Benz W111]]
+| class = [[Full-size car|Full-size]] [[Luxury car]]
+| body_style =4-door [[sedan (car)|sedan]]<br /> 2-door [[coupe]]<br />2-door [[convertible]]
+| engine =3.0L [[straight-6]]
+}}
+: ''See [[Mercedes-Benz S-Class]] for a complete overview of all S-Class models.''
+
+The '''Mercedes-Benz W112'''  was the top model in the line of six-cylinder [[luxury car]]s built in the mid-1960s. Three models were produced by [[Mercedes-Benz]]: the 300SE [[sedan (car)|sedan]], [[coupé]], and [[Cabriolet (automobile)|cabriolet]] ([[convertible]]) from 1961, all using the same 170 PS three liter injected engine made of aluminium. The long wheelbase version of the 300SE sedan was introduced one year later. It is often referred to as 300SEL, similar to later naming conventions, even though the L in its successor [[Mercedes-Benz W109|300 SEL (W109)]] originally referred to ''Luftfederung'', as it was fitted with [[air suspension]], as all W112 had been. The W112 was offered with four-speed automatic transmission [''sans'' torque-converter; it had a fluid coupling], indicating the manufacturer's growing enthusiasm for the potentially lucrative US market. A manual four-speed box was also available for those preferring a stick-shift system.
+
+The W112 series was supposed to replace the famed [[Mercedes-Benz W189|W189 Type 300]] cars, while still using a body closely related to the lower-end [[Mercedes-Benz W110|W110]] and [[Mercedes-Benz W111|W111]] series. Thus, except for the SL and the ultra-luxury [[Mercedes-Benz W100|600]], Mercedes offered for some time only one standard body. The W112, which was adorned with a lot of chrome in an effort to set it apart, lasted just a few years as the six-cylinder range was replaced in 1965 by the [[Mercedes-Benz W108|W108/109]].
+
+Despite using the same number, the W112 coupe has no relation to the 1991 [[Mercedes-Benz C112]] experimental mid-engined sportscar.
+
+==Models==
+* 1961&ndash;1965 '''300 SE''' Sedan (5,202 built))<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref>
+* 1961&ndash;1965 '''300 SE''' Coupé (3,127 built, including Cabriolet)
+* 1961&ndash;1965 '''300 SE''' Cabriolet (Convertible) (3,127 built, including Coupé)
+* 1962&ndash;1965 '''300 SE''' long-wheelbase Sedan (1,546 built, often called ''300 SEL'')
+
+The 300SE sedan was also raced in the [[European Touring Car Championship]] and won several [[Rallying|rally]]s.
+
+<br style="clear:both;"/>
+===Model timeline===
+{| style="margin:0 auto;" class="toccolours" align="left"
+|- bgcolor=#F0F0F0
+|align=center width=5%|Chassis||align=center width=5%|Type||align=center width=5%|1961||align=center width=5%|1962||align=center width=5%|1963||align=center width=5%|1964||align=center width=5%|1965||align=center width=5%|1966||align=center width=5%|1967|
+|- align=center
+|rowspan=4 bgcolor=#C0C0C0| W112
+|bgcolor=#C0C0C0 rowspan=2|[[sedan (car)|sedan]]
+|colspan=5 bgcolor=#C0C0C0 | 300SE
+|- align=center
+|colspan=1 bgcolor=#E0E0E0|
+|colspan=4 bgcolor=#C0C0C0 | 300SE (long)
+|- align=center
+|bgcolor=#C0C0C0|[[coupé]]
+|colspan=7 bgcolor=#C0C0C0 | 300SE
+|- align=center
+|bgcolor=#C0C0C0|[[Cabriolet (automobile)|cabriolet]] ([[convertible]])
+|colspan=7 bgcolor=#C0C0C0 | 300SE
+|}
+<br style="clear:both;"/>
+
+==References==
+{{reflist}}
+* {{cite web|url=http://home.hiwaay.net/~gbf/mbmodels.html|title= Mercedes-Benz U.S Models|work=Hiwaay.net|accessdate=December 1, 2005}}
+
+==External links==
+* http://www.heckflosse.nl/
+
+{{Classic Mercedes-Benz vehicles}}
+{{Mercedes-Benz S-Class lineage}}
+
+[[Category:Mercedes-Benz platforms|W112]]
+[[Category:Vehicles introduced in 1961]]
+
+[[de:Mercedes-Benz W 112]]
+[[el:Mercedes-Benz W112]]
+[[nl:Mercedes-Benz W112]]
+[[pl:Mercedes-Benz W112]]
+[[sv:Mercedes-Benz W112]]

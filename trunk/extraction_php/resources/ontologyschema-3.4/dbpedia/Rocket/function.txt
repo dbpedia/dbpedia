@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = function
+|rdfs:domain = Rocket
+|rdfs:range = xsd:string
+}}

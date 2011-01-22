@@ -1,0 +1,15 @@
+{{TemplateMapping
+| mapToClass = FootballTeam
+| mappings = 
+	{{PropertyMapping | templateProperty = city | ontologyProperty = city }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = chairman | ontologyProperty = chairman }}
+	{{PropertyMapping | templateProperty = president | ontologyProperty = president }}
+	{{PropertyMapping | templateProperty = general manager | ontologyProperty = generalManager }}
+	{{PropertyMapping | templateProperty = coach | ontologyProperty = coach }}
+	{{PropertyMapping | templateProperty = team_owners | ontologyProperty = teamOwner }}
+	{{PropertyMapping | templateProperty = team_ presidents | ontologyProperty = teamPresident }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = formationDate }}
+	{{PropertyMapping | templateProperty = nicknames | ontologyProperty = nickname }}
+}}

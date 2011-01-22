@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = engineer
+|rdfs:domain = Skyscraper
+|rdfs:range = Company
+}}

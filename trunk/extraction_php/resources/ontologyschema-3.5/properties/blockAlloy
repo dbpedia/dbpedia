@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = block alloy
+| rdfs:domain = AutomobileEngine
+}}

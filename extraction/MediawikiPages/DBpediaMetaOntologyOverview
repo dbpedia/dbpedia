@@ -1,0 +1,8 @@
+The following is a list of entities in the [[DBpedia/ontology | DBpedia ontology]], which are defined in MetaWiki. This list is used by the [[DBpedia]] live extraction framework and serves as an overview and entry point for editing entities.
+
+Contents of DBpedia ontology by entity type:
+* classes: {{Special:WhatLinksHere/Template:DBpedia_Class}}
+* object properties: {{Special:WhatLinksHere/Template:DBpedia_ObjectProperty}}
+* data properties: {{Special:WhatLinksHere/Template:DBpedia_DataProperty}}
+
+''List of all entities:'' {{Special:Prefixindex/DBpedia/ontology/}}

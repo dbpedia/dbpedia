@@ -1,0 +1,14 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Disease
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = DiseasesDB | ontologyProperty = Disease/diseasesdb }}
+	{{ DBpediaPropertyMapping | templateProperty = ICD10 | ontologyProperty = Disease/icd10 }}
+	{{ DBpediaPropertyMapping | templateProperty = ICD9 | ontologyProperty = Disease/icd9 }}
+	{{ DBpediaPropertyMapping | templateProperty = ICDO | ontologyProperty = Disease/icdo }}
+	{{ DBpediaPropertyMapping | templateProperty = OMIM | ontologyProperty = Disease/omim }}
+	{{ DBpediaPropertyMapping | templateProperty = MedlinePlus | ontologyProperty = Disease/medlineplus }}
+	{{ DBpediaPropertyMapping | templateProperty = eMedicineSubj | ontologyProperty = Disease/emedicineSubject }}
+	{{ DBpediaPropertyMapping | templateProperty = eMedicineTopic | ontologyProperty = Disease/emedicineTopic }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshID | ontologyProperty = Disease/meshId }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+}}

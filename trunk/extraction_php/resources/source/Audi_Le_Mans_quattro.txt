@@ -1,0 +1,67 @@
+{{Infobox Automobile
+| name           = Audi Le Mans quattro
+| image          = [[Image:Audi lemans-studie cropped.jpg|250px]] ''Audi Le Mans quattro concept car
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen Group]]
+| aka            =
+| production     = 2003
+| assembly       = [[Neckarsulm]], [[Germany]]
+| predecessor    = 
+| successor      = [[Audi R8]]
+| class          = [[concept car]], [[sports car]]
+| body_style     = 2-door [[coupé]]
+| layout         = [[mid-engine design|Mid engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+| platform       =
+| engine         = 5.0L [[V10 engine|V10]], [[twin-turbo]]charged [[Gasoline direct injection|FSI]], 2x[[DOHC]]
+| transmission   = six-speed [[sequential manual gearbox|sequential manual]]
+| wheelbase      = {{convert|2649|mm|1|abbr=on}}
+| length         = {{convert|4369|mm|1|abbr=on}}
+| width          = {{convert|1900|mm|1|abbr=on}}
+| height         = {{convert|1245|mm|1|abbr=on}}
+| weight         = {{convert|1530|kg|abbr=on}}
+| fuel_capacity  =
+| related        = 
+| designer       =
+}}
+
+The '''Audi Le Mans quattro''' was a [[sports car]] styled [[concept car]], developed by [[Audi]], for presentation at the 2003 [[Frankfurt Motor Show]], as a result of Audi's three successive wins at the arduous [[24 Hours of Le Mans]] endurance motor race in 2000, 2001, and 2002.  It was the third and final concept car designed by [[Audi]] in 2003, following the [[Audi Pikes Peak quattro|Pikes Peak quattro]] and [[Audi Nuvolari quattro|Nuvolari quattro]].<ref>{{PDF|[http://www.audi.com/etc/medialib/cms4imp/audi2/company/financial_information/pdf.Par.0103.File.pdf Audi 2003 Product Strategy - indicating Le Mans quattro detail (p.13)]|1.50&nbsp;MB}} - </ref><ref name="car-reviews.automobile.com">{{Cite web|url=http://car-reviews.automobile.com/Audi/concept/2003-audi-le-mans-quattro-concept/634/|title=2003 Audi Le Mans quattro Concept|accessdate=2008-06-03|work=car-reviews.automobile.com}}</ref>
+
+Audi subsidiary [[quattro GmbH]] subsequently decided to produce the Audi Le Mans quattro as a production road car, calling it the [[Audi R8]], naming it after their very successful [[Audi R8 (race car)]] which won the [[24 Hours of Le Mans]] five times.
+
+==Design and technical==
+The Audi Le Mans Quattro has a number of high-tech features, including the [[headlamp|headlights]] which are composed entirely of [[light-emitting diodes]] (LEDs). The structural framework of the body, the [[Space frame|Audi Space Frame]] (ASF) used in the [[Lamborghini]] [[Lamborghini Gallardo|Gallardo]], is made entirely of [[aluminium]], while the outer skin is made out of [[carbon fiber|carbon fibre]] and aluminium. The car also features an automatic rear [[spoiler (automotive)|spoiler]] which raises at {{convert|70|mi/h|km/h|abbr=on}}.
+
+The Le Mans quattro featured the [[magneto rheological damper]]s, also installed in the latest [[Audi TT]], which gives the car a firmer and more responsive drive and improved handling characteristics. In Audi tradition, the car features [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] to optimise traction and handling.
+
+The Le Mans quattro's engine was a development of the [[Lamborghini Gallardo|Gallardo]]'s, with the same displacement but utilizing different [[cylinder head]]s (with four valves per cylinder rather than five), as well as [[twin-turbo]]chargers and [[Gasoline direct injection|Fuel Stratified Injection]] (FSI) technology, resulting in the high output of {{convert|449|kW|PS bhp|0|lk=on|abbr=on}}, and {{convert|750|Nm|ft.lbf|0|lk=on|abbr=on}} of torque. The [[transmission (mechanics)|gearbox]] is the six-speed [[sequential manual transmission]] used in the Gallardo.
+
+The car showcased various Audi styling cues and technological details, planned to be used in future production Audis.
+
+==Specifications==
+*Power: {{convert|449|kW|PS bhp|0|lk=on|abbr=on}}
+*Torque: {{convert|750|Nm|ft.lbf|0|lk=on|abbr=on}}
+*Engine: 5.0L [[twin-turbo]]charged V10 with FSI
+*0–100&nbsp;km/h: 3.7
+*Top Speed: {{convert|345|km/h|mi/h|0|abbr=on}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commonscat|Audi Le Mans quattro}}
+* [http://www.Audi.com Audi corporate website]
+* {{PDF|[http://www.audi.com/etc/medialib/cms4imp/audi2/company/financial_information/pdf.Par.0103.File.pdf Audi 2003 Product Strategy - indicating Le Mans quattro detail (p.13)]|1.50&nbsp;MB}} - 
+* [http://www.worldcarfans.com/3030908.002/audi-le-mans-quattro Picture gallery at worldcarfans]
+
+{{Audi}}
+
+{{DEFAULTSORT:Le Mans Quattro}}
+[[Category:Audi vehicles]]
+[[Category:Audi concept vehicles]]
+
+
+{{modern-auto-stub}}
+
+[[bg:Audi Le Mans Quattro]]
+[[pl:Audi LeMans Quattro]]
+[[ru:Audi Le Mans quattro]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = number of volunteers
+| rdfs:domain = Organisation
+| rdfs:range = xsd:integer
+}}

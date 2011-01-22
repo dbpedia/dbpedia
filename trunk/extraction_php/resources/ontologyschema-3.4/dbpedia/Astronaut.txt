@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Astronaut
+|rdfs:subClassOf = Person
+}}

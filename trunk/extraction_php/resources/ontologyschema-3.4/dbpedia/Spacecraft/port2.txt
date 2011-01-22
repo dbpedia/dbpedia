@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = port2
+|rdfs:domain = Spacecraft
+|rdfs:range = owl:Thing
+}}

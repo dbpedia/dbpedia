@@ -1,0 +1,13 @@
+{{ DBpediaTemplateMapping
+| mapToClass = VideoGame
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = developer | ontologyProperty = VideoGame/developer }}
+	{{ DBpediaPropertyMapping | templateProperty = platforms | ontologyProperty = VideoGame/platform }}
+	{{ DBpediaPropertyMapping | templateProperty = writer | ontologyProperty = VideoGame/writer }}
+	{{ DBpediaPropertyMapping | templateProperty = artist | ontologyProperty = VideoGame/artist }}
+	{{ DBpediaPropertyMapping | templateProperty = composer | ontologyProperty = VideoGame/composer }}
+	{{ DBpediaPropertyMapping | templateProperty = title | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = publisher | ontologyProperty = Work/publisher }}
+	{{ DBpediaPropertyMapping | templateProperty = released | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Work/genre }}
+}}

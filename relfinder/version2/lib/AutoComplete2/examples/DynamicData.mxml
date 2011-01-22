@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:hc="com.hillelcoren.components.*"
+	width="100%" height="100%"
+	verticalAlign="middle" horizontalAlign="center"
+	color="#000000" xmlns:local="*"
+	initialize="init()">
+
+	<mx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+
+			[Bindable]
+			public var colors:ArrayCollection;
+			
+			private var delayTimer:Timer;
+
+			private function init():void 
+			{
+				colors = new ArrayCollection();
+			}
+				
+			private function handleSearchChange():void 
+			{
+				if (delayTimer != null && delayTimer.running) 
+				{
+					delayTimer.stop();
+				}
+				
+				if (autoComplete.searchText.length > 2 && colors.length == 0) 
+				{
+					// if you remove below line then it kind of works
+					// but it is more correct to remove all data
+					// before repopulate. Really it is just holding
+					// on to stale data
+					colors.removeAll();
+					delayTimer = new Timer( 500, 1 );
+					delayTimer.addEventListener(TimerEvent.TIMER, showComboAll);
+					delayTimer.start();
+				}
+			}
+			
+			private function showComboAll( event:TimerEvent ):void
+			{
+				colors.addItem( { "name":"Almond", "hex":0xEED9C4 } );
+				
+				autoComplete.search();
+			}
+    		    		
+		]]>
+	</mx:Script>
+	
+	<hc:AutoComplete id="autoComplete" dataProvider="{ colors }" labelField="name" searchChange="handleSearchChange()"/>
+		
+</mx:Application> 

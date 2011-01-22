@@ -1,0 +1,27 @@
+{{TemplateMapping
+| mapToClass = MilitaryPerson
+| mappings = 
+	{{PropertyMapping | templateProperty = placeofburial_label | ontologyProperty = noteOnPlaceOfBurial }}
+	{{PropertyMapping | templateProperty = allegiance | ontologyProperty = allegiance }}
+	{{PropertyMapping | templateProperty = branch | ontologyProperty = branch }}
+    {{DateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = serviceStartDate | endDateOntologyProperty = serviceEndDate }}
+	{{DateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = serviceStartYear | endDateOntologyProperty = serviceEndYear }}
+	{{PropertyMapping | templateProperty = rank | ontologyProperty = militaryRank }}
+
+<!--
+	{{PropertyMapping | templateProperty = unit | ontologyProperty = unit }}
+	{{PropertyMapping | templateProperty = commands | ontologyProperty = command }}
+	{{PropertyMapping | templateProperty = battles | ontologyProperty = battle }}
+-->
+
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = born | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = died | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = placeofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = placeofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = placeofburial | ontologyProperty = restingPlace }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{PropertyMapping | templateProperty = relations | ontologyProperty = relation }}
+	{{PropertyMapping | templateProperty = laterwork | ontologyProperty = occupation }}
+}}

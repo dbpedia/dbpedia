@@ -1,0 +1,74 @@
+{{Infobox Automobile
+|name=BMW M42
+|manufacturer=[[BMW]]
+|production=1989&ndash;1996
+|class=[[DOHC]] [[Straight-4]]
+|predecessor=[[BMW M40]]
+|successor=[[BMW M44]]
+|related=[[BMW M12]]
+|engine=1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)
+}}
+The [[BMW]] '''M42''' is a [[DOHC]] 16-valve [[Straight-4|I4]] [[piston engine]] first built for the [[BMW E30|E30]] [[BMW 3-Series|318is and 318i]] 1991 year model.  The engine block is based on the [[BMW M40]], used on the 318i, but had distinctive features such as [[double overhead cam]]s driven by a timing chain, hydraulic valve lifters, and an increased 10:1 compression ratio.  The USA version of the 1991 318i only came with the M42 engine.
+
+Profile gaskets on M42s built before 1993 are known to fail prematurely.
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=2|[[#M42B18|M42B18]]||rowspan=2|1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)||100&nbsp;kW (136&nbsp;PS) @ 6000||172&nbsp;N·m (127&nbsp;ft·lbf) @ 4600||6500||1989
+|-
+|103&nbsp;kW (140&nbsp;PS) @ 6000||175&nbsp;N·m (129&nbsp;ft·lbf) @ 4500||6300||1992
+|}
+==M42B18== 
+
+Displacement for the '''M42B18''' was 1.8&nbsp;L (1796&nbsp;cc); cylinder bore was 84 mm; and stroke was 81 mm. [[BMW E30|E30]] [[BMW 3-Series|318iS]], [[BMW 3-Series|318i]] (in the U.S.; European versions of the 318i were fitted with the [[BMW M40|M40 engine]]), and early [[BMW E36|E36]] [[BMW 3-Series|318iS/318ti]] (prior to 1992) models were fitted with versions producing 100&nbsp;kW (134&nbsp;hp) and 172&nbsp;N·m (127&nbsp;ft·lbf). Later, change in the overhead cam design helped to achieve 103&nbsp;kW (138&nbsp;hp) and 175&nbsp;N·m (129&nbsp;ft·lbf) coping with the increased weight of the [[BMW E36|E36]] models. The engine uses [[Robert Bosch GmbH|Bosch]] M1.7 [[fuel injection]].  
+
+The M42 is a popular engine swap for [[BMW 2002|2002s]] and [[BMW E21|E21s]].  It is a relatively inexpensive swap, and produces more usable power than the [[BMW M10|M10s]], while still being lighter, plus utilizing modern [[Fuel injection|EFI]] and [[Distributor#Direct_ignition|direct-ignition]] and a much improved valvetrain.
+
+Further, the long-stroke forged crankshaft from the [[BMW M47|M47 motor]] coupled with an overbore of +2&nbsp;mm will make for a 2.1&nbsp;L Stroker M42.  The 86&nbsp;mm pistons from a European 3.0&nbsp;L S50 will produce a high compression, stroker M42 when coupled with the M47 crank.  The addition of a MAF conversion from an M50 engine and properly setup cams, valvetrain, and tuning will yield potent output from the "lowly" M42.  
+
+Applications:
+* 1989–1991 [[BMW E30|E30]] [[BMW 3-Series|318iS/U.S. model 318i]]
+* 1992–1996 [[BMW E36|E36]] [[BMW 3-Series|318i/318iS/318ti]]
+* 1993–1995 [[BMW E36|E36]] [[BMW 3-Series|318i]] — (Produced in South Africa for South African market only.)
+
+==S42B20==
+
+[[Image:S42B20.jpg|thumb|right|S42B20 BMW Motorsport Engine]]
+
+A racing version of the M42 Engine, called the S42 is known. It was used in BMW's 320 4-door touring car, participating in the German racing series called STW (Super Tourenwagen Cup). It differed by having individual throttle bodies (ITB) for each cylinder and its capacity was enlarged to 1999&nbsp;cc. It had eight fuel injectors instead of the standard four. Valve cover and [[airbox]] were entirely made of carbon fiber. Lubrication was provided by a [[dry sump]] system. [[Compression ratio]] was increased and a lightweight head was installed.
+
+'''Horsepower evolution steps of the S42 Engine:'''
+
+{| class="wikitable" border="1"
+|-
+! Year
+! 1995
+! 1996
+! 1997
+|-
+|
+| 300 hp
+| 308 hp
+| 315 hp
+|}
+
+In the last evolution step the engine puts out an amazing 158&nbsp;hp/L. Compared to a modern racing engine it was a big achievement.
+
+==See also==
+* [[List of BMW engines]]
+* [[BMW M40]]
+* [[BMW M43]]
+
+==External links==
+* [http://www.m42club.com/ M42Club.com]
+* [http://www.esatclear.ie/~bpurcell/ BP's BMW E30 318is site]
+
+[[Category:BMW engines|M42]]
+
+[[de:BMW M42]]
+[[it:BMW M42]]
+[[no:BMW M42]]
+[[pl:BMW M42]]

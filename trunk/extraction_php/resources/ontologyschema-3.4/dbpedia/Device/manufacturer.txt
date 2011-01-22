@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= manufacturer
+|rdfs:domain	= Device
+|rdfs:range		= Company
+}}

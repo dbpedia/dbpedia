@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = area of catchment
+|rdfs:domain = Lake
+|rdfs:range = squareKilometre
+}}

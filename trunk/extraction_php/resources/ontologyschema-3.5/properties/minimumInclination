@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = minimum inclination
+| rdfs:domain = LaunchPad
+| rdfs:range = xsd:float
+}}

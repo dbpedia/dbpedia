@@ -1,0 +1,159 @@
+{{Infobox Automobile
+|name           = Audi S8 quattro
+|image          = 
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|production     = 1996&ndash;present
+|assembly       = [[Neckarsulm]], [[Germany]]
+|class          = [[full-size car|Large]] [[luxury vehicle|luxury car]], [[sports sedan]] 
+|body_style     = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]]
+|layout         = [[longitudinal engine|Longitudinal]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|platform       = [[Volkswagen Group D platform]] series
+|related        = [[Audi A8]]
+|sp             = uk
+}}
+The '''Audi S8 quattro''' is a [[sports sedan|high-performance version]] of the [[Germany|German]] [[luxury vehicle|luxury]] [[automotive industry|automaker]] [[Audi]]'s flagship car, the [[full-size car|full-size]] [[Audi A8]].  The S8 is produced Audi's [[Neckarsulm]] 'aluminium plant', and it was introduced in September 1996, two years after the first-generation A8 was first sold in the [[Europe]]an market.  Like the A8, the S8 is only available as a four-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]], and both generations have been constructed from an all-[[aluminium]] [[monocoque]], dubbed the "Audi Space Frame" (ASF), the S8 using the [[wheelbase#varying wheelbases within nameplate|standard wheelbase]] platform (not the long-wheel base of the A8L).
+
+The S8, like all [[Audi S and RS models|Audi "S" models]], is fitted as standard with Audi's trademark [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] (4WD), with the S8 using the [[Torsen]]-based permanent 4WD system.
+
+==D2 (''Typ'' 4D, 1996-2002){{anchors|D2|4D}}==
+{{Infobox Automobile generation
+|name             = Audi S8 4.2 quattro (D2)
+|image            = [[Image:AudiS8 2.jpg|250px]]<br>''Audi D2 S8''
+|production_start = September 1996<ref name=ETKA>[[ETKA]]</ref>
+|production_end   = 2002
+|predecessor      = 
+|successor        = 
+|platform         = [[Volkswagen Group D platform#D2|Volkswagen Group D2]]
+|engine           = 4.2&nbsp;[[litre|L]] [[V8 engine|V8]] 2x[[overhead camshaft#double overhead camshaft|DOHC]]
+|transmission     = 6-speed [[manual transmission|manual]],<br>5-speed [[ZF Friedrichshafen|ZF]] [[ZF 5HP24 transmission|5HP24]] [[tiptronic]] [[automatic transmission|automatic]]
+|wheelbase        = {{convert|2880|mm|1|abbr=on|lk=on}}
+|length           = {{convert|5034|mm|1|abbr=on}}
+|width            = {{convert|1880|mm|1|abbr=on}}
+|height           = {{convert|1418|mm|1|abbr=on}}
+|weight           = {{convert|1845|kg|0|abbr=on|lk=on}}
+|fuel_capacity    = {{convert|90|L|impgal usgal|1|abbr=on|lk=on}}
+|related          = [[Audi A8#D2|Audi A8 (D2)]]
+|designer         = 
+|sp               = uk
+}}
+In September 1996,<ref name=ETKA/> Audi introduced the '''Audi S8 4.2 quattro''' (''Typ'' 4D) into the [[Europe]]an market with a six-speed [[manual transmission]], and a year later with [[tiptronic]] [[automatic transmission]] - a high-performance version of the [[Audi A8]] in the vein of [[Mercedes-Benz AMG]] models, sharing the A8's all-[[aluminium]] [[monocoque]] "Audi Space Frame" (ASF), and [[Volkswagen Group D platform#D2|Volkswagen Group D2 platform]].
+
+Production of this original S8 ended in September 2002, shortly before the introduction of the current D3-platform A8.
+
+At the same time of the A8's facelift in late 1999, the S8 received the same cosmetic upgrades.  This was the first model to be introduced to the [[North America]]n market.
+
+The D2 S8 was also featured in the 1998 film ''[[Ronin (film)|Ronin]]''.
+
+===D2 powertrain===
+[[motive power|Motive]] [[power (physics)|power]] in the D2 S8 [[powertrain]] featured a re-tuned, {{convert|250|kW|PS bhp|0|lk=on}} version of the standard {{convert|4172|cc|1|lk=on}} 90° [[V8 engine|V8]] [[petrol engine]] (parts code: 077, identification codes: AKH, AHC).  From late 1999, the engine was given a further power increase to {{convert|265|kW|PS bhp|0|abbr=on}} at 7,000&nbsp;[[revolutions per minute|rpm]], and {{convert|430|Nm|0|lk=on}} of [[torque]] at 3,400&nbsp;rpm (identification codes: AQH, AVP, AYS, BCS).
+
+A sports-recalibrated version of the [[ZF Friedrichshafen|ZF]] [[ZF 5HP24 transmission|5HP24]] five-speed [[tiptronic]] [[automatic transmission]] (parts code: 01L, identification codes: DYM, ECX) ([[gear ratio]]s - 1st: 3.571, 2nd: 2.200, 3rd: 1.505, 4th: 1.000, 5th: 0.804), featuring "Dynamic Shift Programme" (DSP) was standard.  European-spec. models also had a six-speed [[manual transmission]] option (parts code: 01E, identification code: DGV).
+
+[[Torsen]] T-2 based [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] was also standard.  Final drive ratio (for automatic transmission) is 3.730.
+
+===D2 suspension, brakes, wheels & tyres===
+A retuned, {{convert|20|mm|1|lk=on}} lowered sports [[suspension (vehicle)|suspension]] included a 30% stiffer spring rate and 40% more compression damping in the [[shock absorber]]s.  Speed-sensitive "[[power steering#servotronic|servotronic]]" power assisted [[steering]] was also standard.
+
+The [[brake]]s featured [[Robert Bosch GmbH|Bosch]] ABS&nbsp;5.3 [[anti-lock braking system|Anti-lock Braking System]], with [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD), and worked radially ventilated front [[disc brake|discs]] of {{convert|345|mm|2|lk=on}} in diameter by {{convert|30|mm|2|abbr=on}} thick.  The rear vented discs measured {{convert|280|mm|2|abbr=on}} by {{convert|22|mm|2|abbr=on}}.  From 2002, an upgraded Bosch ESP&nbsp;5.7 [[electronic stability control|Electronic Stability Programme]] became standard fitment.
+
+Standard [[alloy wheel]]s were 8Jx18" cast [[aluminium alloy]] "Avus" 6-spoke style, with 245/45ZR18 [[Dunlop Tyres|Dunlop]] SP Sport 8000 or [[Bridgestone]] Potenza RE040 performance [[tire|tyres]].  From 1999 [[model year]], an 8.5Jx20" polished "9-spoke RS" wheel became an option, shod with 255/35ZR20 [[Michelin]] Pilot Sport tyres.  In 2003, 8Jx18" polished 9-spoke RS wheels became a no-cost option road [[wheel]].
+
+===D2 body and interior===
+Whilst the S8 shared the [[aluminium]] [[monocoque]] of the [[Audi A8|A8]], subtle detail included solid aluminium alloy door mirror housings, chrome-effect beltline and lower front [[grille]] trim, and polished twin exhaust pipes, along with subtle "S8" badging.  14-way power adjustable and heated sports front seats with memory function compliment heated rear seats.{{-}}
+
+==D3 (''Typ'' 4E, 2006-){{anchors|D3|4E}}==
+{{Infobox Automobile generation
+|name           = Audi S8 5.2 FSI quattro (D3)
+|image          = [[Image:2007-Audi-S8.jpg|250px]]<br>''2007 Audi D3 S8 (US)''
+|production     = 2006&ndash;present
+|predecessor    = 
+|successor      = 
+|platform       = [[Volkswagen Group D platform#D3|Volkswagen Group D3]]
+|engine         = 5.2&nbsp;[[litre|L]] [[V10 engine|V10]] [[gasoline direct injection|FSI]] 2x[[overhead camshaft#double overhead camshaft|DOHC]]
+|transmission   = 6-speed [[ZF Friedrichshafen|ZF]] [[ZF 6HP26 transmission|6HP26]] [[tiptronic]] [[automatic transmission|automatic]]
+|wheelbase      = {{convert|2944|mm|1|abbr=on|lk=on}}
+|length         = {{convert|5062|mm|1|abbr=on}}
+|width          = {{convert|1897|mm|1|abbr=on}}
+|height         = {{convert|1424|mm|1|abbr=on}}
+|weight         = {{convert|1940|kg|0|abbr=on|lk=on}}
+|fuel_capacity  = {{convert|90|L|1|abbr=on|lk=on}}
+|related        = [[Audi A8#D3|Audi A8 (D3)]]
+|designer       = 
+|sp             = uk
+}}
+[[Image:Audi S8 V10 black with blue fence.jpg|thumb|Rear 3/4 view of D3 Audi S8 5.2 FSI quattro]]
+In the last quarter of 2005, Audi previewed the latest ''Typ'' 4E '''S8 5.2 FSI quattro''', based on its [[Volkswagen Group D platform#D3|Volkswagen Group D3 platform]] stablemate, the [[Audi A8]].  Factory production commenced June 2006.
+
+Audi's factory performance claims for the V10 S8 indicate a {{convert|0|to|100|km/h|1|lk=on}} time of 5.1&nbsp;seconds whilst consuming "SuperPlus" / "EuroSuper" 98&nbsp;[[octane rating#measurement methods|RON]] unleaded [[gasoline|petrol]].  This places the S8 in a competitive range with the [[Mercedes-Benz S-Class|Mercedes-Benz S63 AMG]] and S600 (powered by a twin-turbo V12), the [[BMW 7 Series|BMW 760Li]] (powered by a naturally-aspirated 12-cylinder engine), and the company's own top-of-the-line A8L [[W12 engine|W12]], though the the W12 is more expensive, has more torque.<ref name=CanadianDriver>{{cite web|url=http://www.canadiandriver.com/2009/07/09/inside-story-2009-audi-s8.htm|title=2009 Audi S8|work=CanadianDriver Communications Inc.|publisher=CanadianDriver.com|date=9 July 2009|accessdate=12 November 2009}}</ref>  The S8's top speed is electronically limited to {{convert|250|km/h|1|abbr=on}}.
+
+===D3 powertrain===
+[[motive power|Motive]] [[power (physics)|power]] in the second-generation D3 S8 [[powertrain]] features an all [[aluminium alloy]] {{convert|5204|cc|1|lk=on}} [[gasoline direct injection|Fuel Stratified Injection]] (FSI) [[multi-valve|40-valve]] (four valves per cylinder) 90° [[V10 engine|V10]] [[petrol engine]] (parts code: 07L, identification code: BSM).  [[list of Volkswagen Group petrol engines#BSM|This engine]] is often, but incorrectly referred to as a derivative of the Gallardo's original 5.0&nbsp;litre [[Lamborghini V10]], which was also developed under the Volkswagen Group ownership.  On this Audi-only variant, compared to the Lamborghini engine, it features a longer [[stroke (engine)|stroke]] and wider [[bore (engine)|bore]] - which increases the [[engine displacement|displacement]] of the engine, and produces more [[torque]] at lower revs, making it more suitable for the larger and heavier full-sized luxury Audi saloon.  It produces {{convert|331|kW|PS bhp|0|lk=on}} at 7,000&nbsp;rpm, and {{convert|540|Nm|0|lk=on}} of torque at 3,500&nbsp;rpm.  It utilises twin chain-driven [[overhead camshaft#double overhead camshaft|double overhead camshafts]] (DOHC), and [[variable valve timing]] for both intake and exhaust valves.  Engine management is by way of [[Robert Bosch GmbH|Bosch]] DI-[[Motronic]] MED&nbsp;9.1 electronic [[engine control unit]], which controls the mapped direct ignition, ten individual spark coils, [[common rail]] cylinder-direct sequential multi-point [[fuel injection]], and [[drive by wire]] throttle.
+
+The same 5.2 V10 engine is also used in the third-generation [[Audi S6#C6|Audi S6 (D6)]], but in a slightly lower state of tune where it develops {{convert|320|kW|PS bhp|0|abbr=on}}.
+
+A sports-optimised [[ZF Friedrichshafen|ZF]] [[ZF 6HP26 transmission|6HP26]] six-speed [[tiptronic]] [[automatic transmission]] (parts code: 09E, identification codes: KLW or KZK) ([[gear ratio]]s - 1st: 4.171, 2nd: 2.340, 3rd: 1.521, 4th: 1.143, 5th: 0.867, 6th: 0.691) with "Dynamic Shift Programme" (DSP) and "sport" mode, with [[steering wheel]] mounted paddle-shifters, is the only offering.  Output is transmitted via Audi's trademark [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system, initially using the [[Torsen]] T-2 50:50 dynamic centre [[differential (mechanical device)|differential]], and from 2008 [[model year]], utilising the latest Torsen T-3 asymmetric dynamic centre differential, with a 'default' torque distribution of 40% to the front [[axle]] and 60% to the rear.  Final drive ratio is 4.055, and traction is assisted with Audi's "Electronic Differential Lock" (EDL) and "Anti-Slip Regulation" (ASR) (commonly known as [[traction control system]]) - both functions of the [[Robert Bosch GmbH|Bosch]] ESP&nbsp;5.7 (or the later ESP&nbsp;8.0) [[electronic stability control|Electronic Stability Programme]].
+
+===D3 suspension, steering, brakes, tyres===
+The S8, like its related A8, utilises a multi-link [[suspension (vehicle)|suspension]] layout front and rear, with pressurised air springs.  However, for the S8, the effective spring and damper rates are noticeably firmer, along with re-engineered suspension mounts.  "[[power steering#servotronic|servotronic]]" speed-dependent power assisted rack and pinion [[steering]] point the S8 in the desired trajectory.
+
+The [[brake]] system consists of radially ventilated [[disc brake|discs]] all round, the fronts sized at {{convert|385|mm|1|lk=on}} in diameter by {{convert|36|mm|2|abbr=on}} thick, and the rears at {{convert|335|mm|1|abbr=on}} by {{convert|22|mm|2|abbr=on}}.  The discs are clamped with gloss-black painted dual-piston calipers up front, and a single-piston sliding caliper at the rear, coupled to an electro-mechanical parking brake.  A [[Robert Bosch GmbH|Bosch]] ESP&nbsp;5.7 (later upgraded to ESP&nbsp;8.0) [[electronic stability control|Electronic Stability Programme]], with [[anti-lock braking system|Anti-lock Braking System]] (ABS), [[Brake Assist]], and [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD) complete the brake system.
+
+Optional "Audi ceramic" [[reinforced carbon-carbon#similar products|Carbon fibre-reinforced Silicon Carbide]] (C/SiC) composite front and rear brakes are available, which use {{convert|380|mm|in|2|abbr=on}} diameter by {{convert|38|mm|in|3|abbr=on}} thick drilled, vented, and floating [[SGL Carbon]] discs, with anthracite grey painted six-piston fixed [[Brembo]] monobloc alloy calipers with the "Audi ceramic" logo up front, and {{convert|356|mm|in|2|abbr=on}} by {{convert|28|mm|in|3|abbr=on}} discs at the rear.
+
+Standard [[alloy wheel]]s consist of 9Jx20" [[casting|cast]] aluminium alloy "S design", shod with either {{nowrap|265/35 ZR20 99Y XL}} performance [[tire|tyres]] (either [[Bridgestone]] Potenza RE050A, or [[Yokohama Rubber Company|Yokohama]] Advan Sport), or {{nowrap|275/35 ZR20 102Y XL}} ([[Continental AG|Continental]] SportContact2, [[Dunlop Tyres|Dunlop]] SP SportMaxx, or [[Pirelli]] P-Zero Nero).  A direct-acting [[tire pressure monitoring system|tyre pressure monitoring system]] (TPMS) is also standard.
+
+===D3 body and interior===
+The S8 includes subtle detailing to distinguish it from its related A8.  The [[trapezoid]]al "single-frame" [[grille]] bears the characteristic Audi "S model" vertical strut detail which are highlighted in a chrome finish.  "S8" badging is displayed front and rear, whilst "V10" badges are displayed on each front wing below the side-repeater indicators.  The rear boot-lid incorporates a subtle rear spoiler, and the rear is finished with four chromed oval exhaust tailpipes.
+
+Adaptive [[xenon arc lamp|Xenon]]-plus [[high-intensity discharge lamp|high-intensity discharge]] (HID) headlamps include static turning lights, along with 'swiveling' dynamic cornering lights.  [[Daytime running lamp]]s are five [[light-emitting diode]]s (LEDs) incorporated into a [[cloverleaf]] designed reflector, incorporated into the main [[headlamp]] housing.
+
+The interior equipment includes two-colour leather-clad sports seats, a widescreen colour display for the [[Multi Media Interface]] (MMI), and white illuminated needles for the instrument dials.
+
+An optional 1000&nbsp;[[watt]] digital [[Bang & Olufsen]] "Advanced Sound System" can be specified to replace the standard [[Bose Corporation|BOSE]] surround sound system.  Other notable options include the "Advanced Parking" system, which includes a rearview camera, whose output is displayed on the colour MMI monitor, with "trajectory" lines which move in conjunction with steering wheel movements.
+
+===D3 gallery===
+<gallery>
+Image:Audi S8 front 20080303.jpg|Facelifted Audi S8
+Image:Audi S8 rear 20080303.jpg|Facelifted Audi S8
+</gallery>{{-}}
+
+==D4 (2011-){{anchor|D4}}==
+It is anticipated that a third-generation Audi S8 is expected to go on sale as a 2011 [[model year]], released one year after the all-new 2010 Audi A8.  The S8 is expected to use the 5.0&nbsp;[[litre]] [[gasoline direct injection|FSI]] [[twin-turbo|biturbo]] [[V10 engine]], which currently powers the [[Audi RS6#C6|Audi RS6 (C6)]] with {{convert|427|kW|PS bhp|0|lk=on}}, and it has been reported that the new S8's engine could be tuned up to {{convert|600|hp|kW|0|abbr=on}}.{{dubious|date=November 2009}}<ref>{{cite web|url=http://www.caranddriver.com/news/car/08q4/2010_audi_a8_2011_audi_s8-car_news|title=2010 Audi A8 / 2011 Audi S8|work=Hachette Filipacchi Media U.S., Inc.|publisher=CarAndDriver.com|date=December 2008|accessdate=12 November 2009}} {{unreliable source|date=November 2009}}</ref><ref>{{cite web|url=http://www.motorauthority.com/blog/1023222_preview-next-gen-audi-a8-saloon|title=Preview: Next-gen Audi A8 saloon|work=High Gear Media|publisher=MotorAuthority.com|date=20 July 2009|accessdate=12 November 2009}} {{unreliable source|date=November 2009}}</ref>
+
+==See also==
+{{commons category}}
+*[[Audi A8]]
+*[[Audi S and RS models]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.audi.com Audi.com] international portal
+*[http://www.audi.co.uk/audi/uk/en2/new_cars/a8_new/s8_limousine.html Audi UK S8]
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+{{Audi (North America) timeline 1970 to date}}
+
+[[Category:Audi vehicles|S8]]
+[[Category:Sports cars]]
+[[Category:All wheel drive vehicles]]
+[[Category:Flagship vehicles]]
+[[Category:Euro NCAP executive cars]]
+[[Category:Full-size vehicles]]
+[[Category:Executive cars]]
+[[Category:Sedans]]
+[[Category:Sports sedans]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1998]]
+
+[[bg:Ауди S8]]
+[[da:Audi S8]]
+[[de:Audi S8]]
+[[nl:Audi S8]]
+[[ja:アウディ・S8]]
+[[pl:Audi S8]]
+[[sk:Audi S8]]

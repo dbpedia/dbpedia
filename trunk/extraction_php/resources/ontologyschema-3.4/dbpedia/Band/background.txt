@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = background
+|rdfs:domain = Band
+|rdfs:range = xsd:string
+}}

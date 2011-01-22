@@ -1,0 +1,1 @@
+<http://dbpedia.org/resource/EncodingAllLaguages.txt> <http://www.w3.org/2000/01/rdf-schema#comment> "Ath\u00E8nes (fr) \u30A2\u30C6\u30CD (ja) \u96C5\u5178 (zh) Sm\u00E5land (se) N\u00F8rge (no) Arag\u00E3o (pt) \u0411\u0435\u0440\u043B\u0438\u043D (ru) desambigua\u00E7\u00E3o (pt) p\u00E4\u00E4kaupunki (fi)"@en .

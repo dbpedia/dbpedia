@@ -1,0 +1,51 @@
+{{Infobox Automobile
+| image = [[Image:BMW 503 Cabrio.JPG|250px|BMW 501]]
+| name = BMW 503
+| manufacturer = [[BMW|Bayerische Motoren Werke AG (BMW)]]
+| production = May 1956  – March 1959 <br> 413 built 
+| predecessor = 
+| successor = [[BMW 3200 CS]]
+| body_style = [[coupé|2-door 2+2 seater coupe]]<br> [[Cabriolet (automobile)|2-door 2+2 seater cabriolet]]| engine = 3168&nbsp;cc [[V8]]
+| layout=[[FR layout]]
+| transmission = 4-speed manual 
+| length = {{convert|4750|mm|in||abbr=on}}
+| width = {{convert|1700|mm|in||abbr=on}}
+| height = {{convert|1400|mm|in||abbr=on}}
+| weight = {{convert|1500|kg|lb||abbr=on}} <br>(measurements approximate)
+| wheelbase =  {{convert|2835|mm|in||abbr=on}}
+| track = 
+|fuel_capacity= 
+| related = [[BMW 507]]<br>[[BMW 501|BMW 502]]
+| similar = 
+| designer = [[Albrecht von Goertz]]<br>1914 - 2006
+}}
+
+The '''BMW 503''' is a two door 2+2 seater [[sports car]] unveiled by [[BMW]] at the 1955 [[Frankfurt Motor Show]].   Production got under way during the summer of the next year, and by 1959, when the 503 was withdrawn, 413 had been built including 139 cabriolets.
+
+==Design==
+The car was styled by the entrepreneurial auto-designer, [[Albrecht von Goertz]] based on preliminary drafts prepared by  Kurt Bredschneider. It was originally intended to feature a flamboyant shape incorporating rounded mudguards which would have emphasized its kinship with the [[BMW 501|BMW 502 sedan]], but regulations concerning matters such as light positioning rendered such a form impractical. In retrospect, the more square cornered look of the car as it emerged with fully integrated wings may have been more in tune with future styling trends than the original proposal.
+
+==Technical==
+The 503 incorporated the 3168 cc light metal [[BMW OHV V8 engine|V8]] engine from the [[BMW 501|502]] which in this application delivered a claimed power output of 140 bhp (103 kW) and acceleration from standstill to 100 km/h (62 mph) in 13 seconds along with a top speed slightly short of {{convert|120|mi/h|km/h|0|abbr=on}}. The four speed manual transmission was unchanged from that used in the 502.
+
+==Commercial==
+Also presented at the 1955 [[Frankfurt Motor Show|Motor Show]] was the car’s sister model, the [[BMW 507]], a two seater aluminium bodied [[roadster]] targeting customers looking for more raw performance. Both would be overshadowed in the marketplace by [[Mercedes-Benz 300SL|headline grabbing]] [[Mercedes-Benz 190SL|sports cars]] from [[Mercedes Benz]]. Although the 503 outsold [[BMW 507|its sibling]], sales volumes were dwarfed by those of the rivals from [[Stuttgart|Stuttgart-Untertürkheim]]. Sixty years later, the BMW sports cars from the 1950s are much sought after by collectors and enthusiasts both on account of their inherent qualities and because of their rarity.
+
+[[Image:MHV BMW 503 Coupé 03.jpg|250px|thumb|left|BMW 503 interior]]
+
+*{{De|BMW 503}}
+*{{Italian|BMW 503|[[2008-02-08]]}}
+
+{{BMW early cars}}
+
+[[Category:BMW vehicles|503]]
+[[Category:Roadsters]]
+[[Category:Sports cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1950s automobiles]]
+[[Category:Vehicles introduced in 1955]]
+
+[[de:BMW 503]]
+[[fr:BMW 503]]
+[[it:BMW 503]]
+[[ja:BMW・503]]

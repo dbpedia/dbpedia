@@ -1,0 +1,311 @@
+{{Infobox Automobile
+|image=  [[Image:BMW E81 front 20080719.jpg|250px]]
+|name=BMW 1 Series
+|manufacturer=[[BMW]]
+|production=2004–present
+|predecessor=[[BMW Compact]]
+|class=[[Compact car]]
+|layout=[[FR layout]]
+|assembly=[[Leipzig]], [[Germany]]<br />[[Regensburg]], [[Germany]]
+}}
+The '''BMW 1 Series''' ('''E81/E87''' and '''E82/E88''' models) is a [[compact car]] produced by the German automaker [[BMW]] since 2004. The 1 Series is the only vehicle in its class featuring [[rear-wheel drive]], 50:50<ref>http://www.bmw.com/com/en/newvehicles/1series/coupe/2007/allfacts/engine/50_50_weight_distribution.html</ref> weight balance, a [[Longitudinal engine|longitudinally-mounted]] engine and an advanced aluminum multilink suspension. It is currently BMW's second best-selling automobile, accounting for nearly one-fifth of the total sales in 2008.<ref>http://www.bmwgroup.com/annualreport2008/_downloads/BMW_Group_2008.pdf</ref>
+
+==History==
+The 1 Series was launched globally in Autumn 2004 and shares many structural, chassis, powertrain, hardware and electronic elements with the larger 3 Series.  The model was started to provide a lower point of entry into the BMW range as the 3 Series moved gradually up-market. Initially launched as a 5-door hatchback, a 3-door version was also launched in July 2007. The 1 Series is priced between the [[MINI (BMW)|MINI]] and the current [[BMW E90|E90]] 3 Series.  Because the coupe is the only [[rear wheel drive]] vehicle in its class, it is somewhat considered the successor to the [[BMW 2002]].
+
+The 1 Series coupe (E82) and convertible (E88) went on sale in the United States in [[model year]] 2008 (30 June 2007)<ref>[http://www.autoweek.com/apps/pbcs.dll/article?AID=/20070628/FREE/70627003/1024/LATESTNEWS 2008 BMW 1 Series Coupé - AutoWeek Magazine<!-- Bot generated title -->]</ref> as the 128i and the 135i. Other countries received the 120i and 125i in both platforms. The convertible, unlike the 3 Series convertible, uses a soft-top instead of a folding hardtop. This is lighter, cheaper to manufacture and preserves more trunk space than the folding hardtop would allow.
+
+The North American introduction of the coupe and cabriolet was during the second quarter of 2008, which was credited for helping BMW overtake Lexus as the top luxury brand.<ref>{{cite web|url=http://www.bloomberg.com/apps/news?pid=20601087&sid=agpCSRNO2Q3M&refer=home |title=BMW Threatens Lexus as Top-Selling U.S. Luxury Brand (Update2) |publisher=Bloomberg.com |date=2008-08-08 |accessdate=2009-04-12}}</ref><ref>{{cite web|last=Sabatini |first=Jeff |url=http://online.wsj.com/article/SB121812506408121001.html?mod=googlenews_wsj |title=The Driver's Seat: Hyundai Genesis - WSJ.com |publisher=Online.wsj.com |date=2008-08-08 |accessdate=2009-04-12}}</ref>
+
+==Body types==
+===Hatchback (E81/E87)===
+{{Infobox Automobile generation
+|image=[[Image:BMW E87 facelift front.JPG|250px|2007 BMW 1-Series Hatchback]]
+|name=E81/E87
+|production=2004-present
+|body_style=5-door [[hatchback]] ([[BMW E87]])<br/>3-door [[hatchback]] ([[BMW E81]])
+|platform= 
+|transmission=5-speed [[manual transmission|manual]]<br/>6-speed manual<br/>6-speed [[semi-automatic transmission|semi-automatic]]
+|engine=1.6 L [[I4 engine|I4]]<br/>2.0 L [[I4 engine|I4]]<br/>2.0 L [[Diesel engine|diesel]] [[I4 engine|I4]]<br/>3.0 L [[straight-6|I6]]
+|wheelbase=2660 mm (104.7 in)
+|width=2004-06: 1751 mm (68.9 in)<br />2007-present: {{convert|1748|mm|in|1|abbr=on}}
+|length=2004-06: 4227 mm (166.4 in)<br />2007-Present 5-Door: {{convert|4239|mm|in|1|abbr=on}}<br />2007-Present 3-Door: {{convert|4329|mm|in|1|abbr=on}}
+|height=2004-06: 1430 mm (56.3 in)<br />2007-present: {{convert|1421|mm|in|1|abbr=on}}
+|weight=1320–1450 kg (2904-3190 lbs)
+}}
+
+The 1 Series was originally sold as a 5-door hatchback, with the 3-door hatchback available in 2007. It replaced the [[BMW Compact|BMW 3 Series Compact]] range as the smallest and most affordable vehicle (depending on the engine model) in the BMW range.
+
+===Coupé/Convertible (E82/E88)===
+{{Update|date=March 2009}}
+{{Infobox Automobile generation
+|image=[[File:BMW 135i coupe.jpg|250px|BMW 135i coupe (US)]]
+|name=E82/E88
+|production=2007–present
+|engine=2.0&nbsp;L [[Diesel engine|diesel]] [[I4 engine|I4]]<br /> Twin Turbo [[Diesel engine|diesel]] [[I4 engine|I4]]<br />
+2.0&nbsp;L [[I4 engine|I4]]<br/>
+3.0&nbsp;L [[I6]]<br />
+3.0&nbsp;L [[I6]] Twin Turbo
+|transmission=6-speed [[Manual transmission|manual]]<br />
+6-speed [[Automatic transmission|automatic]]
+|wheelbase={{convert|2660|mm|in|1|abbr=on}}
+|length={{convert|4360|mm|in|1|abbr=on}}
+|width={{convert|1748|mm|in|1|abbr=on}}
+|height=Coupe: {{convert|1423|mm|in|1|abbr=on}}<br/>135i Coupe: {{convert|1408|mm|in|1|abbr=on}}
+|related=
+|fuel_capacity=
+|body_style=2-door [[coupe]]<br />2-door [[convertible]]
+|platform=
+}}
+
+Like the three- and five-door BMW 1 Series models, the E82 also features various [[BMW EfficientDynamics]] components to reduce fuel consumption (see below). The Coupé is {{convert|133|mm|in|abbr=on}} longer than the hatch, creating 20 litres of extra boot space. It is {{convert|220|mm|in|abbr=on}} shorter than 3-series Coupé. 120d, 123d and 135i Coupés' announced unladen weights (EU) are {{convert|1450|kg|lb|abbr=on}}, {{convert|1495|kg|lb|abbr=on}}, and {{convert|1560|kg|lb|abbr=on}}, respectively (corresponding to approx. {{convert|3285|lb|kg|abbr=on}} [[curb weight]] for the 135i, {{convert|90|lb|kg|abbr=on}} lighter than 335i Coupé).
+
+Apart from slight modifications, it uses the same nose design as the rest of the 1 Series so as to ensure some visual consistency within the range.
+
+The 1 Series Coupé (E82) was unveiled in [[Internationale Automobil-Ausstellung]] (IAA) 2007, which went on sale on November 24, 2007.
+
+[[File:2009 BMW 128i convertible.jpg|200px|thumb|right|2009 BMW 128i convertible (US)]]
+The 1-Series Cabriolet uses a fabric top, to differentiate it further from the now steel-roofed 3-series convertible [[BMW E90|E93]].
+
+==Equipment==
+Unlike its predecessor, the new vehicle is built on its own [[automobile platform|platform]] (E87);{{Citation needed|date=March 2009}} however, it shares many components with the [[BMW E90|E90]] 3 Series. Shared parts include MacPherson struts in the front of the car and a trapezoidal-link rear axle. BMW has stated that it shares over 60% of components with the current E90 [[BMW 3 Series]].<ref name="businessweek.com">{{cite web|url=http://www.businessweek.com/magazine/content/03_23/b3836003_mz044.htm|title=BMW |accessdate=2008-03-20|year=2003|work=businessweek.com}}</ref>
+
+The 135i includes M sports package as standard. The 135i comes with the world's first differential with double-helical ball bearings which have the advantage of running at an even lower operating temperature reached more quickly than before thanks to the reduction of fluid required in the differential.<ref>{{cite web|url=http://www.fast-autos.net/vehicles/BMW/2008/135i |title=2008 BMW 135i - Fast Cars, Cool Cars and Hot Cars at |publisher=Fast-autos.net |date= |accessdate=2009-04-12}}</ref>  The 123d ({{convert|150|kW|PS hp|0|abbr=on}}) heads up the range of diesels and is the first ever 4-cylinder diesel engine to come with sequential twin-turbo technology.{{Citation needed|date=February 2009}}
+
+In terms of fuel consumption, the 123d and 120d rate between {{convert|4.8|L/100 km|abbr=on}} and {{convert|5.2|L/100 km|abbr=on}}(according to the ECE-driving cycle).
+
+==2007 refresh==
+In 2007, coupé and cabriolet bodies were added to the 1 series. Exterior changes to the model were minor headlight and taillight revisions, new front/rear bumpers and minor revisions to the interior. The dashboard has been updated, and a recommended gear indicator is now present on models with manual transmissions.<ref>[http://www.bmw.com BMW automobiles - website of the BMW AG<!-- Bot generated title -->]</ref>
+
+New technologies include auto [[Start-stop system]], [[Regenerative braking|Brake Energy Regeneration]], [[Electric Power Steering]], an electric water pump, and a host of drivetrain modifications designed for fuel economy, increased performance, and lower emissions.<ref>[http://www.edmunds.com/insideline/do/Features/articleId=115127 Inside BMW's Latest Powertrain Technologies<!-- Bot generated title -->]</ref> BMW marketing has named this combination of technologies [[EfficientDynamics]],<ref>[http://www.bmw.com/com/en/insights/technology/efficient_dynamics/overview.html BMW EfficientDynamics - Introduction - BMW AG<!-- Bot generated title -->]</ref> which will also be implemented in other BMW models.
+
+==Specifications==
+===Body Styles===
+{| class="wikitable"
+|-
+!Chassis code!!E81!!E82!!E87!!E88
+|-
+|Body type||3-door hatchback||Coupé||5-door hatchback||Cabriolet
+|-
+!Model!!colspan=4|Years
+|-
+|116i||2007-||-||2004-||-
+|-
+|118i||2007-||-||2004-||2008-
+|-
+|120i||2007-||2009-||2004-||2007-
+|-
+|125i||-||2008-||-||2008-
+|-
+|130i||2005-||-||2005-||-
+|-
+|135i||-||2007-||-||2007-
+|-
+|116d||2009-||-||2009||-
+|-
+|118d||2007-||2009-||2004-||2008-
+|-
+|120d||2007-||2007-||2004-||2008-
+|-
+|123d||2007-||2007-||2007-||2008-
+|}
+
+===Engines===
+According to the BMW website{{Citation needed|date=October 2009}} the 135i Coupé accelerates from 0–{{convert|100|km/h|mph|abbr=on}} in 5.3 seconds, however Car and Driver magazine recently recorded 4.7 seconds for 0-60&nbsp;mph acceleration, and a quarter mile time of 13.3 seconds at {{convert|106|mph|km/h|abbr=on}}.<ref>{{cite web|url=http://www.caranddriver.com/reviews/hot_lists/high_performance/bmw_performance_m_power/2008_bmw_135i_road_test+t-it_s_not_the_size,_it_s_how_you_use_it+page-2.html|title=2008 BMW 135i - Road Test|date=May 1, 2008|accessdate=2009-03-30}}</ref> Top speed is electronically limited to {{convert|250|km/h|mph|abbr=on}}. Fuel efficiency is increased to {{convert|30.7|mpgus|L/100 km mpgimp|abbr=on}}, an improvement of 18% compared to its predecessor.<ref name="ultimatecarpage.com">{{cite web|url=http://www.ultimatecarpage.com/car/3257/BMW-135i-Coupe.html|title=BMW 135i Coupe|accessdate=2008-03-20|work=ultimatecarpage.com}}</ref>
+
+The engines below are preceded by their [[model year]] introduction.
+
+In early 2006 the 5-speed [[manual transmission]] in the 116i and 118i was phased out in favor of the 6-speed gearbox available across the rest of the range.
+
+{|class="wikitable" border="1" style="font-size:97%; text-align:centre;"
+!Model<ref>All data according to: ''Automobil Revue'', catalogue editions 2006/2008.</ref> !!Year !!Engine code!! Engine type !!Power !!Torque !!Acceleration<br /><small>0–100&nbsp;km/h</small> !!Top speed !!Body Styles
+|-
+|colspan=11 bgcolor="Gainsboro"|'''Petrol (gasoline) engines'''
+|-
+!rowspan=3| 116i
+|2004–2007 ||[[BMW N45|N45B16]] ||{{convert|1596|cc|L cuin|abbr=on}} I4 16v
+|{{convert|115|PS|kW hp|abbr=on}}
+|{{convert|150|Nm|ftlbf|abbr=on}}
+|10.9 s ([[Manual transmission|MT]])
+|{{convert|200|km/h|mi/h|abbr=on}} (MT)
+|E87
+|-
+|2007−2009 ||[[BMW N43|N43B16]] ||{{convert|1596|cc|L cuin|abbr=on}} I4 16v
+|{{convert|122|PS|kW hp|abbr=on}}
+|{{convert|160|Nm|ftlbf|abbr=on}}
+|10.1 s (MT) <br/> 11.1 s (AT)
+|{{convert|204|km/h|mi/h|abbr=on}} (MT) <br/> {{convert|202|km/h|mi/h|abbr=on}} (AT)
+|E87; E81
+|-
+|2009–  || [[BMW N43|N43B20]] ||{{convert|1995|cc|L cuin|abbr=on}} I4 16v
+|{{convert|122|PS|kW hp|abbr=on}}
+|{{convert|185|Nm|ftlbf|abbr=on}}
+|9.9 s (MT)
+|{{convert|204|km/h|mi/h|abbr=on}} (MT)
+|E87; E81
+|-
+!rowspan=2| 118i
+|2005–2007 ||[[BMW N46|N46B20]] ||{{convert|1995|cc|L cuin|abbr=on}} I4 16v ||{{convert|129|PS|kW hp|abbr=on}} ||{{convert|180|Nm|lbft|abbr=on}} || 9.4 s ([[Manual transmission|MT]])<br />10.1 s ([[Automatic transmission|AT]]) || {{convert|208|km/h|mi/h|abbr=on}} (MT)<br />{{convert|204|km/h|mi/h|abbr=on}} (AT)
+|E87
+|-
+|2007– ||[[BMW N43|N43B20]] ||{{convert|1995|cc|L cuin|abbr=on}} I4 16v ||{{convert|143|PS|kW hp|abbr=on}} ||{{convert|190|Nm|lbft|abbr=on}} || 8.7 s ([[Manual transmission|MT]])<br />9.3 s ([[Automatic transmission|AT]]) || {{convert|210|km/h|mi/h|abbr=on}} (MT)<br />{{convert|210|km/h|mi/h|abbr=on}} (AT)
+|E87; E81; E88
+|-
+!rowspan=2| 120i
+|2004–2007 ||[[BMW N46|N46B20]] ||{{convert|1995|cc|L cuin|abbr=on}} I4 16v ||{{convert|150|PS|kW hp|abbr=on}}||{{convert|200|Nm|lbft|abbr=on}}
+|7.9 s (MT)<br />9.3 s (AT)
+|{{convert|212|km/h|mi/h|abbr=on}} (MT)<br />{{convert|208|km/h|mi/h|abbr=on}} (AT)
+|E87
+|-
+|2007– ||[[BMW N43|N43B20]] ||{{convert|1995|cc|L cuin|abbr=on}} I4 16v ||{{convert|170|PS|kW hp|abbr=on}} ||{{convert|210|Nm|lbft|abbr=on}} || 7.7 s ([[Manual transmission|MT]])<br />8.3 s ([[Automatic transmission|AT]]) || {{convert|224|km/h|mi/h|abbr=on}} (MT)<br />{{convert|222|km/h|mi/h|abbr=on}} (AT)
+|E87; E81; E82; E88
+|-
+!125i
+|2008– ||[[BMW N52|N52B30]] ||{{convert|2996|cc|L cuin|abbr=on}} I6 24v
+|{{convert|218|PS|kW hp|abbr=on}} ||{{convert|270|Nm|lbft|abbr=on}} || 6.4 s (MT)<br />7.0 s (AT) || {{convert|245|km/h|mi/h|abbr=on}} (MT)<br />{{convert|243|km/h|mi/h|abbr=on}} (AT)
+|E88; E82
+|-
+!rowspan=2| 128i
+|2008– ||[[BMW N52|N52B30]] ||{{convert|2996|cc|L cuin|abbr=on}} I6 24v
+|{{convert|230|PS|kW hp|abbr=on}} ||{{convert|271|Nm|lbft|abbr=on}}|| 6.4 s (MT)<ref name="motortrend.com">per ''Motor Trend'' http://www.motortrend.com/roadtests/coupes/112_0807_2008_bmw_128i_first_test/index.html</ref><br />6.7 s (AT) ||  {{convert|209.2|km/h|mi/h|abbr=on|1}} (MT/AT)<br />{{convert|241.4|km/h|mi/h|abbr=on|1}} (MT/AT)(with Sport Package)
+|E88; E82
+|-
+|2008– ||[[BMW N51|N51B30 SULEV]] ||{{convert|2996|cc|L cuin|abbr=on}} I6 24v
+|{{convert|230|PS|kW hp|abbr=on}} ||{{convert|271|Nm|lbft|abbr=on}}|| 6.4 s (MT)<ref name="motortrend.com"/><br />6.7 s (AT) ||  {{convert|209.2|km/h|mi/h|abbr=on|1}} (MT/AT)<br />{{convert|241.4|km/h|mi/h|abbr=on|1}} (MT/AT)(with Sport Package)
+|E88; E82
+|-
+!130i
+|2006–2009 ||[[BMW N52|N52B30]] ||{{convert|2996|cc|L cuin|abbr=on}} I6 24v
+|{{convert|265|PS|kW hp|abbr=on}}
+|{{convert|315|Nm|lbft|abbr=on}}  || 6.0 s ([[Manual transmission|MT]])<br />6.3 s ([[Automatic transmission|AT]]) || {{convert|250|km/h|mi/h|abbr=on|1}} (MT/AT)
+|E87; E81
+|-
+!130i
+|2009– ||[[BMW N52|N52B30]] ||{{convert|2996|cc|L cuin|abbr=on}} I6 24v
+|{{convert|258|PS|kW hp|abbr=on}}
+|{{convert|310|Nm|lbft|abbr=on}}  || 6.0 s ([[Manual transmission|MT]])<br />6.3 s ([[Automatic transmission|AT]]) || {{convert|250|km/h|mi/h|abbr=on|1}} (MT/AT)
+|E87; E81
+|-
+!135i<ref name="bmw.co.uk">{{cite web|url=http://www.bmw.co.uk/bmwuk/about/news/0,,1156___,00.html|title=Further environmental awards for budget-busting BMWs|accessdate=2008-03-20|work=bmw.co.uk}}</ref>
+|2008– ||[[BMW N54|N54B30]] ||{{convert|2979|cc|L cuin|abbr=on}} I6 24v twin turbo |||{{convert|306|PS|kW hp|abbr=on}}||{{convert|400|Nm|lbft|abbr=on}} || 4.8 s ([[Manual transmission|MT]])<br />4.7 s ([[Automatic transmission|AT]])<ref>{{cite web|url=http://www.motortrend.com/roadtests/coupes/112_0806_2008_bmw_135i_test/index.html|title=Quick Test: 2008 BMW 135i|date=May 1, 2008|accessdate=2009-03-30}}</ref> || {{convert|250|km/h|mi/h|abbr=on|1}} (MT/AT)
+|E88; E82
+|-
+|colspan=11 bgcolor="Gainsboro"|'''Diesel engines'''
+|-
+!116d
+|2009– ||[[BMW N47|N47D20]]||{{convert|1995|cc|L cuin|abbr=on}} I4 ||{{convert|116|PS|kW hp|abbr=on}}||{{convert|260|Nm|lbft|abbr=on}} || 10.3 s ([[Manual transmission|MT]]) || {{convert|201|km/h|mi/h|abbr=on}} (MT)
+|E87; E81
+|-
+!rowspan=2| 118d
+|2004–2007 ||[[BMW M47|M47TU2D20]]||{{convert|1995|cc|L cuin|abbr=on}} I4 ||{{convert|122|PS|kW hp|abbr=on}} ||{{convert|280|Nm|lbft|abbr=on}} || 10.0 s ([[Manual transmission|MT]]) || {{convert|201|km/h|mi/h|abbr=on}} (MT)
+|E87
+|-
+|2007– ||[[BMW N47|N47D20]]||{{convert|1995|cc|L cuin|abbr=on}} I4 ||{{convert|143|PS|kW hp|abbr=on}} ||{{convert|300|Nm|lbft|abbr=on}} || 8.9 s ([[Manual transmission|MT]])<br />9.0 s ([[Automatic transmission|AT]]) || {{convert|210|km/h|mi/h|abbr=on}} (MT)<br />{{convert|210|km/h|mi/h|abbr=on}} (AT)
+|E87; E81; E82; E88
+|-
+!rowspan=2| 120d
+|2004–2007 ||[[BMW M47|M47TU2D20]]||{{convert|1995|cc|L cuin|abbr=on}} I4 ||{{convert|163|PS|kW hp|abbr=on}} ||{{convert|340|Nm|lbft|abbr=on}} || 7.9 s ([[Manual transmission|MT]])<br />8.2 s ([[Automatic transmission|AT]]) || {{convert|220|km/h|mi/h|abbr=on}} (MT)<br />{{convert|217|km/h|mi/h|abbr=on}} (AT)
+|E87
+|-
+|2007– ||[[BMW N47|N47D20]]||{{convert|1995|cc|L cuin|abbr=on}} I4 ||{{convert|177|PS|kW hp|abbr=on}} ||{{convert|350|Nm|lbft|abbr=on}} || 7.5 s ([[Manual transmission|MT]])<br />7.7 s ([[Automatic transmission|AT]]) || {{convert|228|km/h|mi/h|abbr=on}} (MT)<br />{{convert|226|km/h|mi/h|abbr=on}} (AT)
+|E87; E81; E82; E88
+|-
+!123d
+|2007– ||[[BMW N47|N47D20]]||{{convert|1995|cc|L cuin|abbr=on}} I4 ||{{convert|204|PS|kW hp|abbr=on}} ||{{convert|400|Nm|lbft|abbr=on}} || 7.0 s ([[Manual transmission|MT]]) || {{convert|238|km/h|mi/h|abbr=on}} (MT)
+|E87; E81; E82; E88
+|-
+|}
+{{clear}}
+
+==M version==
+[[CAR Magazine]] has asserted that there will be an M version of the 1 series, although BMW denies that the M1 nameplate will be resurrected in respect for the [[BMW M1|M1]] [[supercar]] of the late 1970s.<ref>[http://blog.worldcarfans.com/index.cfm/8070503.003/blog-bmw-m1-coupe-allegedly-confirmed BMW M1 Coupe Allegedly Confirmed<!-- Bot generated title -->]</ref>
+Instead, at the 40th [[Tokyo Motor Show]] in October 2007, BMW showed a concept version with the series designation "tii", a tribute to the famed vehicle of the 1970s.<ref>BMW GROUP PRESS CONFERENCE - TOKYO MOTOR SHOW [[October 24|10/24]]/2007</ref>  Elements of this concept have appeared in an accessory line from BMW that has been premiered at the Geneva Motor Show (March 2008).
+This "tii" model is seen in the recently released [[Gran Turismo 5 Prologue]] as well as the standard 1 series.
+
+==Production==
+Sales statistics according to BMW's annual reports.
+
+{| class="wikitable" border="1"
+|-
+!Year!!Units!!Note
+|-
+|2004||39,247||Launched in September.
+|-
+|2005||149,493
+|-
+|2006||151,918
+|-
+|2007||165,803
+|-
+|2008||225,095
+|}
+
+During its first full year on the market in 2005, it became one of BMW's most successful products. 149,493 units were sold, leading to a third-place finish in total numbers sold by model. Only the 3 and [[BMW 5 Series|5 Series]] sold better.<ref>[http://www.bmwgroup.com/, Corporate News]</ref>
+
+The 1 Series was built in [[Regensburg]] and [[Leipzig]], Germany.
+
+==Marketing==
+The 1 Series Coupé was marketed in the US as a spiritual successor to the legendary [[BMW 2002|BMW New Class]]{{Citation needed|date=February 2009}} with its long bonnet, slim cabin and short rear. It has been said that the BMW 1 invokes memories of the E36 BMW, as stated in both Road and Track and Car and Driver Magazines.
+
+In the 1-series hatchback commercial, [[Kermit the Frog]] was shown driving a BMW 1 Series around in a desert making figure eights, showcasing the car's agile nature and playful handling.<ref>[http://paultan.org/archives/2006/07/11/bmw-1-series-kermit-the-frog-advertisement/ commercial]</ref>
+
+BMW is showing a 3-episode web movie [http://1series.bmw.jp/] promo (filmed in [[Hamburg]] with a [[New York City|New York]] cast) that looks almost like a film noir and feels more like a mini–TV movie or film, with the main focus on the actors and more subtle appearances of the car itself. These episodes were made for viewing in [[Japan]]ese movie theaters.
+
+BMW is also advertising the car using comparisons to its classic [[BMW 2002|2002]], an iconic two-door from the 1970s known for its light weight and high level of performance (relative to the era).{{Citation needed|date=September 2009}}
+
+BMW recently released a viral market stunt to promote the BMW 1 Series. The campaign centered on an online video 'mockumentary' called Rampenfest that chronicles the adventures of a small Bavarian town attempting to use a giant ramp to literally launch the new BMW from Germany to the U.S.{{Citation needed|date=September 2009}}
+
+==Motorsports==
+The racing version of 120d is called BMW 120d Motorsport.<ref name="7-forum.com">{{cite web|url=http://www.7-forum.com/news/BMW-Motorsport-bietet-BMW-120d-fuer-den--964.html|title=BMW Motorsport bietet BMW 120d für den Kundensport an |accessdate=2008-03-20|date=November 1, 2006|work=7-forum.com}} {{De icon}}</ref> The engine was rated {{convert|245|PS|kW hp|abbr=on}}@4200rpm and {{convert|450|Nm|lbft|abbr=on}}@3000rpm with 5000rpm redline. It weighs only {{convert|1135|kg|lb|abbr=on}} with a driver. It includes a {{Convert|100|L|usgal impgal}} diesel tank.
+
+In 2006, a BMW 120d modified with a BMW customer racing kit available for €95,000,<ref name="topspeed.com">{{cite web|url=http://www.topspeed.com/cars/bmw/1-series/2006-bmw-120d-motorsport-ar3813.html|title=2006 BMW 120d Motorsport|accessdate=2008-03-20|work=topspeed.com}}</ref> entered by "Schubert Motors" repeated a similar if not better result. It scored 5th in a field of 220 cars, many of them ([[Porsche 911 GT3]], [[BMW M3]], [[Lamborghini Gallardo]], [[Aston Martin]], [[Maserati]]) were much more powerful than the 120d Motorsport, thus a significantly stronger field of competitors than in 1998.
+
+==Reception and awards==
+{{Unreferenced|date=August 2009}}
+[[Jeremy Clarkson]], and other journalists raised a number of other complaints about the 1-series which were or are aesthetic, and have influenced sales demographics. At varying times, the 1-series has been described as having 'Bread-van' looks, or as a 'Shameless attempt by BMW to sell a badge rather than a car'{{Citation needed|date=August 2009}}. Clarkson in particular had described the average BMW 1-series owner as receiving the following assessment from his next door neighbours: 'Hmm, that’s an expensive car. He must be off his rocker.'<ref name="clarkson">{{cite news|url=http://www.timesonline.co.uk/tol/driving/jeremy_clarkson/article401596.ece|title=BMW 1 Series: This car is taking BMW into dangerous territory|work=timesonline.co.uk|date=December 12, 2004|accessdate=2009-11-15}}</ref> Clarkson went so far as to end his review for the Sunday Times with 'The 1-series is crap.'<ref name="clarkson" />
+
+Critical response has dramatically changed in recent years - the 1-series coupe and convertible have been described as 'returning BMW to its roots', and the 135i has been described as the spiritual successor of the original E30 M3 of the 1980s. Clarkson himself awarded the 2008 model five stars, and had the following to say: 'The 135 coupé is the best car BMW makes.'<ref>{{cite news|url=http://www.timesonline.co.uk/tol/driving/jeremy_clarkson/article3103294.ece|title=Beemed back to the wild days of youth|work=timesonline.co.uk|date=December 30, 2007|accessdate=2008-11-10}}</ref> Generally, the 1 Series coupé is more popular with critics and fans than the hatchback model.
+
+Mostly positive reviews give the 1-Series a rating of 75% on [[Seven Car Garage]].  Largely, the negative and lukewarm reviews focus on the aesthetics. <ref>[http://www.sevencargarage.com/Vehicles/Small-Cars/bmw-1-series-128i-2009 Seven Car Garage - BMW 1-Series]</ref>
+
+The BMW 118d, which is not sold in North America, won the prestigious 'World Green Car Award' in 2008 being the only performance oriented car with CO2 emissions and fuel consumption comparable to [[Toyota Prius]].<ref>http://www.wired.com/autopia/2008/03/bmw-118d-wins-w/</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|BMW 1 Series}}
+*[http://www.bmw.com/com/en/newvehicles/1series/overview.html BMW 1 Series] official Global site
+* [http://www.bmw.com/com/_shortcuts/1seriescoupe/landing/index.html The new BMW 1 Series Coupé] Official BMW 1 Series Coupé portal site
+*[http://www.autotrader.co.uk/EDITORIAL/CARS/news/BMW/1SERIES/34904.html 2008 BMW 1 Series Coupé] New BMW 1 Series Coupé Review
+*[http://www.autoevolution.com/testdrive/bmw-120i-cabriolet-2009-new-cars-collection.html BMW 120i Cabriolet (2009) test drive & review] ''by Autoevolution.com''
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 1 Series}}
+[[Category:BMW vehicle series|1 Series]]
+[[Category:Compact cars]]
+[[Category:Sport compact cars]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Hatchbacks]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Coupes]]
+[[Category:Vehicles introduced in 2004]]
+
+[[da:BMW 1-serie]]
+[[de:BMW 1er]]
+[[es:BMW Serie 1]]
+[[fr:BMW Série 1]]
+[[hr:BMW serije 1]]
+[[it:BMW Serie 1]]
+[[lt:BMW 1 Serija]]
+[[nl:BMW 1-serie]]
+[[ja:BMW・1シリーズ]]
+[[no:BMW 1-serie]]
+[[pl:BMW E87]]
+[[pt:BMW E87]]
+[[ru:BMW E87]]
+[[sv:BMW 1-serie]]
+[[uk:BMW 1 Series]]
+[[zh:BMW 1系列]]

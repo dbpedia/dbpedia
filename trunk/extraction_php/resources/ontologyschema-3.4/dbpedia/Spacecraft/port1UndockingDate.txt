@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = port1 undocking date
+|rdfs:domain = Spacecraft
+|rdfs:range = xsd:date
+}}

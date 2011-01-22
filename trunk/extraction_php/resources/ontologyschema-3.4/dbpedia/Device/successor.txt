@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= successor
+|rdfs:domain	= Device
+|rdfs:range		= Device
+}}

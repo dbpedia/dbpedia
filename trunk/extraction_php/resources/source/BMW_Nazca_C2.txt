@@ -1,0 +1,50 @@
+{{Infobox Automobile
+| image = [[Image:BMW Nazca C2.JPG|250px|BMW Nazca C2]]
+| name = BMW Nazca C2
+| manufacturer = [[BMW]]
+| parent_company =
+| aka =
+| production =
+| assembly =
+| predecessor =
+| successor =
+| class = [[Concept car]]
+| body_style = [[Coupe]]
+| layout = [[Rear mid-engine, rear-wheel drive layout|Rear mid-engine, rear-wheel drive]]
+| platform =
+| engine = 5.7 L [[V12 engine|V12]]
+| transmission =
+| wheelbase = {{convert|2600|mm|1|abbr=on}}
+| length = {{convert|4395|mm|1|abbr=on}}
+| width = {{convert|2085|mm|1|abbr=on}}
+| height = {{convert|1105|mm|1|abbr=on}}
+| weight =
+| fuel_capacity =
+| related =
+| designer =
+}}
+
+The '''BMW Nazca C2''' or '''Italdesign Nazca C2''' or '''Italdesign Nazca M12''', was a 1991 concept [[sports car]]. The car was designed by famed automotive engineering company [[Italdesign Giugiaro|Italdesign]], home of [[Giorgetto Giugiaro]], and features a similar frontal design of a [[BMW]]. The car was equipped with the 5.7 L [[V12 engine]] from BMW and produced {{convert|380|bhp|kW PS|0|abbr=on}}.
+
+== Nazca C2 Spider ==
+In 1993 Italdesign released a new, slightly redesigned version of the C2 called C2 Spider. The car appeared in the [[Need For Speed II SE]] video game. The original Nazca C2 appeared in the [[Playstation|PSX]] version of [[Need For Speed III: Hot Pursuit]].
+
+== External links ==
+* [http://www.italdesign.it/dinamic/gallery/gallery_scheda.php?id=177&num_rows=2&family=all&data_all_title=nazca&data_title=nazca Italdesign: Italdesign Nazca C2].
+* [http://www.italdesign.it/dinamic/gallery/gallery_scheda.php?id=65&num_rows=2&family=all&data_all_title=nazca&data_title=nazca Italdesign: Italdesign Nazca C2 Spider].
+* [http://www.conceptcarz.com/vehicle/z1095/Italdesign_Nazca%20C2/default.aspx ConceptCarz: Italdesign Nazca C2].
+
+{{DEFAULTSORT:Nazca C2}}
+[[Category:BMW concept vehicles]]
+[[Category:Italdesign vehicles]]
+
+
+{{Modern-auto-stub}}
+
+[[de:BMW Nazca C2]]
+[[es:BMW Nazca C2]]
+[[it:BMW Italdesign Nazca]]
+[[lt:BMW Nazca C2]]
+[[hu:BMW Nazca C2]]
+[[no:BMW Nazca C2]]
+[[ru:BMW Nazca C2]]

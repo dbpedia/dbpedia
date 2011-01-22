@@ -1,0 +1,118 @@
+{{Infobox Automobile
+|image        = [[File:Vw lupo v sst.jpg|250px]]<br/>[[File:VW Lupo 20090329 rear.jpg|250px]]
+|name         = Volkswagen Lupo
+|manufacturer = [[Volkswagen]]
+|production   = 1998-2005
+|successor    = [[Volkswagen Fox]]
+|body style   = 3-door [[hatchback]]
+|class        = [[City car]]
+|platform     = [[Volkswagen Group A00 platform]]
+|engine       = 1.0L [[straight-4|I4]]<br>1.4L I4<br>1.4L I4 [[multi-valve|16 valve]]<br>1.6L I4 16 valve<br>1.2L [[straight-3|I3]] [[Turbocharged Direct Injection|TDI]] <small>(Lupo 3L)</small><br>1.4L I3 TDI<br>1.7L I4 [[Suction Diesel Injection|SDI]] 
+|related      = [[Audi A2]]<br>[[SEAT Arosa]]
+}}
+
+The '''Volkswagen Lupo''' is a [[city car]] manufactured by German automaker [[Volkswagen]] from 1998 to 2005. 
+
+It was introduced in 1998 to fill a gap at the bottom of the VW model range caused by the increasing size and weight of the [[VW Polo]].  Rivals included the [[Ford Ka]], the [[Opel Agila]] and the [[Fiat Seicento]].  The 1998 VW Lupo was a [[badge-engineered]] version of the stablemate 1997 [[SEAT Arosa]].
+
+The car was available with a variety of [[internal combustion engine|engine]] sizes and trim levels, from budget models through to the GTI variant. The 6-speed '''Lupo GTI''' has been labelled a true successor to the [[VW Golf]] Mk1, the first true [[hot hatch]]. 
+
+Production of the Lupo ceased in 2005.  It has been replaced by the [[VW Fox]].
+
+Awards received by the car include:
+*2001 Fleet News Award - Best Micro Car 
+*1999 Auto Express New Car Honours - Best Small Car 
+*1999 International Engine of the Year Award - Best Fuel Economy
+
+==Lupo 3L==
+[[File:VW Lupo front 20080524.jpg|thumb|250px|left|Lupo 3L]]
+[[File:VWlupo3l.jpg|thumb|250px|left|Rear-view Lupo 3L]]
+
+The Lupo 3L was a special-edition made with the intent of being the world's first car in series production consuming as little as 3 [[litre]]s of fuel per 100 kilometres (78 miles per [[U.S. customary units|US]] [[gallon]] or 94 miles per [[Imperial unit|Imperial]] gallon).  To achieve this the 3L was significantly changed from the standard Lupo to include:
+
+* 1.2 litre 3-cylinder [[diesel engine]] with [[turbocharger]] and direct injection (61 hp, 140 Nm)
+* Use of light-weight aluminum and magnesium alloys for doors, bonnet, rear-hatch, seat frames, engine block, wheels, suspension system etc. to achieve a weight of only {{convert|830|kg|lb|0|abbr=on}}
+* [[Tiptronic]] gearbox
+* Engine start/stop automatic to avoid long idling periods
+* Low rolling resistance tires
+* battery location moved to boot for better weight distribution
+During the period of series production of the Lupo 3L, Volkswagen also presented the [[Volkswagen 1-litre car|1L Concept]], a prototype made with the objective of proving the capability of producing a roadworthy vehicle consuming only 1 litre of fuel per 100 kilometres (235 miles per US gallon).
+
+==Specifications==
+*Length {{convert|3530|mm|in|1|abbr=on}}
+*Width {{convert|1803|mm|in|1|abbr=on}} (with mirrors)
+*Height {{convert|1447|mm|in|1|abbr=on}}
+*Luggage capacity (rear seats up) 130 litres
+*Luggage capacity (rear seats down) 833 litres
+
+==Engine choices==
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 88%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+! Name
+! Volume
+! Engine
+! Fuel
+! Output
+! Torque
+! 0-100&nbsp;km/h,s
+! Top speed
+! Years
+|- bgcolor=#ffffff
+|'''1.0 8v'''||{{convert|999|cc|L cuin|0|abbr=on}}||[[straight-4|4cyl]]||[[Petrol]]||{{convert|50|PS|kW hp|0|abbr=on}} @5000 rpm||{{convert|86|Nm|lbft|0|abbr=on}} @3000–3600 rpm||17.7||{{convert|152|km/h|mph|0|abbr=on}}||1998–2005
+|- bgcolor=#ffffff
+|'''1.4 8v'''||{{convert|1390|cc|L cuin|0|abbr=on}}||4cyl||Petrol||{{convert|60|PS|kW hp|0|abbr=on}} @4700 rpm||{{convert|116|Nm|lbft|0|abbr=on}} @3000 rpm||14.3||{{convert|160|km/h|mph|0|abbr=on}}||2000–2005
+|- bgcolor=#ffffff
+|'''1.4 16v'''||{{convert|1390|cc|L cuin|0|abbr=on}}||4cyl||Petrol||{{convert|75|PS|kW hp|0|abbr=on}} @5000 rpm||{{convert|126|Nm|lbft|0|abbr=on}} @3800 rpm||12.0||{{convert|172|km/h|mph|0|abbr=on}}||1998–2005
+|- bgcolor=#ffffff
+|'''1.4 16v'''||{{convert|1390|cc|L cuin|0|abbr=on}}||4cyl||Petrol||{{convert|100|PS|kW hp|0|abbr=on}} @6000 rpm||{{convert|126|Nm|lbft|0|abbr=on}} @4400 rpm||10.0||{{convert|188|km/h|mph|0|abbr=on}}||1999–2005
+|- bgcolor=#ffffff
+|'''1.4 16v [[Fuel Stratified Injection|FSI]]'''||{{convert|1390|cc|L cuin|0|abbr=on}}||4cyl||Petrol||{{convert|105|PS|kW hp|0|abbr=on}} @6200 rpm||{{convert|130|Nm|lbft|0|abbr=on}} @4250 rpm||11.8||{{convert|199|km/h|mph|0|abbr=on}}||2000–2004
+|- bgcolor=#ffffff
+|'''1.6 16v [[GTI]]'''||{{convert|1598|cc|L cuin|0|abbr=on}}||4cyl||Petrol||{{convert|125|PS|kW hp|0|abbr=on}} @6500 rpm||{{convert|152|Nm|lbft|0|abbr=on}} @3000 rpm||8.3||{{convert|205|km/h|mph|0|abbr=on}}||2000–2005
+|- bgcolor=#ffffff||
+|'''1.2 [[Turbocharged Direct Injection|TDI]] 3L'''||{{convert|1191|cc|L cuin|0|abbr=on}}||[[straight-3|3cyl]]||[[Diesel engine|Diesel]]||{{convert|61|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|140|Nm|lbft|0|abbr=on}} @1800–2400 rpm||14.5||{{convert|165|km/h|mph|0|abbr=on}}||1999–2005
+|- bgcolor=#ffffff||
+|'''1.4 TDI'''||{{convert|1422|cc|L cuin|0|abbr=on}}||3cyl||[[Diesel engine|Diesel]]||{{convert|75|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|195|Nm|lbft|0|abbr=on}} @2200 rpm||12.3||{{convert|170|km/h|mph|0|abbr=on}}||1999–2005
+|- bgcolor=#ffffff||
+|'''1.7 [[Suction Diesel Injection|SDI]]'''||{{convert|1716|cc|L cuin|0|abbr=on}}||4cyl||[[Diesel engine|Diesel (Non Turbo)]]||{{convert|60|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|115|Nm|lbft|0|abbr=on}} @2200–3000 rpm||16.8||{{convert|157|km/h|mph|0|abbr=on}}||1998–2005
+|}
+
+== Electric versions ==
+[[File:VW Lupo 20090329 front.jpg|250px|thumb|VW Lupo]]
+There is a [[plug-in hybrid]] version by [[Imperia (car)|Green Propulsion]].
+
+==External links==
+* [http://www.volkswagen.com/vwcms/international_portal/virtualmaster/en.html VW Lupo's manufacturers home page ]
+* [http://www.diskdrive.co.za/newsstories/vw_lupo3ltdi.html The most economical car on earth?]
+* [http://www.lupo80days.com/route_en.html Around the world in 80 days]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Lupo]]
+[[Category:Front wheel drive vehicles]]
+[[Category:City cars]]
+[[Category:Euro NCAP superminis]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1998]]
+[[Category:Plug-in hybrid vehicles]]
+
+[[cs:Volkswagen Lupo]]
+[[da:Volkswagen Lupo]]
+[[de:VW Lupo]]
+[[es:Volkswagen Lupo]]
+[[fr:Volkswagen Lupo]]
+[[ga:Volkswagen Lupo]]
+[[it:Volkswagen Lupo]]
+[[lv:Volkswagen Lupo]]
+[[nl:Volkswagen Lupo]]
+[[ja:フォルクスワーゲン・ルポ]]
+[[no:Volkswagen Lupo]]
+[[pl:Volkswagen Lupo]]
+[[pt:Volkswagen Lupo]]
+[[ru:Volkswagen Lupo]]
+[[simple:Volkswagen Lupo]]
+[[fi:Volkswagen Lupo]]
+[[sv:Volkswagen Lupo]]
+[[tr:Volkswagen Lupo]]

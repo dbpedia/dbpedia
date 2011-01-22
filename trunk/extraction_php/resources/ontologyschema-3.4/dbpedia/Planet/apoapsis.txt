@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = apoapsis
+|rdfs:domain = Planet
+|rdfs:range = kilometre
+}}

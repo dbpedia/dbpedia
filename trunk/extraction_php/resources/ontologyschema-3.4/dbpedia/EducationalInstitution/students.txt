@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = students
+|rdfs:domain = EducationalInstitution
+|rdfs:range = xsd:integer
+}}

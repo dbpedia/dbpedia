@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = top speed
+| rdfs:domain = AutomobileEngine
+| rdfs:range = Speed
+| rdf:type = owl:FunctionalProperty
+}}

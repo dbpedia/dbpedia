@@ -1,0 +1,45 @@
+{{Unreferenced|date=January 2008}}
+{{Infobox Automobile
+|name=BMW N63 engine
+|manufacturer=[[BMW|BMW, Bayerische Motoren Werke AG]]
+|production=2008-
+|predecessor=[[BMW N62]]
+|successor=
+|class=[[V8]]
+|image=
+}}
+The '''N63B44''' is a 4.4L, [[gasoline direct injection|direct-injected]], twin-turbocharged V8 automobile engine from BMW. It was launched in 2008 as an engine powering the BMW X6 xDrive50i<ref name="x6">[http://paultan.org/archives/2007/12/16/bmw-x6-full-details-specifications-and-photos/ BMW X6 Full Details, Specifications and Photos]</ref>, and later the [[BMW F01|F01 BMW 750i]].<ref name="f01">[http://paultan.org/archives/2008/07/05/new-bmw-7-series-f01-specifications-and-photos/ New BMW 7-Series (F01) Specifications and Photos]</ref>
+{{-}}
+==Specifications==
+{| class=wikitable
+|-
+!Engine!!Displacement (cc)!!Power @rpm!!Torque @rpm!!Redline (rpm)!!Year
+|-
+|N63B44||4395||{{convert|408|PS|kW hp||abbr=on}}@5500-6400||{{convert|600|Nm|lbft||abbr=on}}@1750-4500||7000||2008-
+|}
+
+N63B44 features a reverse-flow air design in which the turbochargers are mounted in the engine valley and the intake manifolds are located on the sides of the block. This new design creates a more compact engine package and reduces the width of the assembled engine. The engine uses air-to-water intercoolers, which is more efficient and provides a shorter air path than using a standard air-to-air intercooler. <ref name="x6">[http://paultan.org/archives/2007/12/16/bmw-x6-full-details-specifications-and-photos/ BMW X6 Full Details, Specifications and Photos]</ref>
+
+Similar to the [[BMW N54|N54B30]], the N63B44 does not use the second generation [[Valvetronic]] technology found in other current engines. The principal advantage of Valvetronic is the reduction of intake vacuum, which is not an issue in the pressurized intake found in a turbo-charged engine.
+
+In terms of performance, the N63 is a close match to the [[BMW N73|N73]] [[V12]] engine found in the previous-generation [[BMW 7 Series (E65)|E65 760i/Li]], so the [[BMW N74|V12 engine]] had to be redesigned for the F01 760i/Li in order to maintain its status as the flagship of the range.<ref>[http://www.caranddriver.com/reviews/car/09q3/2010_bmw_760i_760li-first_drive_review]</ref>
+
+There is a twin scroll twin turbo version of the N63, known as the S63, with Cylinder-bank Comprehensive Manifold (CCM). Engine is rated 555 PS (408 kW; 547 hp) at 6000 rpm and 680 N·m (500 lb·ft) at 1500-5650 rpm. It current powers the X5 M and X6 M, the high performance derivatives of BMW's [[BMW Sports Activity Series|Sports Activity Series]] crossovers.
+
+Applications:
+* 2008&ndash; [[BMW E71|E71 X6]] [[BMW X6|xDrive50i]]
+* 2009&ndash; [[BMW X5 M|E70 X5 M]] 
+* 2009&ndash; [[BMW X6 M|E71 X6 M]]
+* 2009&ndash; [[BMW F01|F01 Sedan]] [[BMW 7-Series|750i/750Li]]
+* 2010&ndash; [[BMW F10|F10 Sedan]] [[BMW 5-Series|550i]]
+==References==
+{{reflist}}
+
+[[Category:BMW engines|N63]]
+
+
+{{automotive-tech-stub}}
+
+[[de:BMW N63]]
+[[it:BMW N63]]
+[[pl:BMW N63]]

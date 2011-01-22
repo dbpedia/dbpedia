@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = spacewalk begin
+| rdfs:domain = SpaceMission
+| rdfs:range = xsd:date
+}}

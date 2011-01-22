@@ -1,0 +1,20 @@
+{{ DBpediaTemplateMapping
+| mapToClass = WineRegion
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = wine years | ontologyProperty = WineRegion/wineYear }}
+	{{ DBpediaPropertyMapping | templateProperty = part of | ontologyProperty = WineRegion/partOfWineRegion }}
+	{{ DBpediaPropertyMapping | templateProperty = similar | ontologyProperty = WineRegion/similar }}
+	{{ DBpediaPropertyMapping | templateProperty = sub regions | ontologyProperty = WineRegion/subregion }}
+	{{ DBpediaPropertyMapping | templateProperty = vineyards | ontologyProperty = WineRegion/numberOfVineyards }}
+	{{ DBpediaPropertyMapping | templateProperty = grapes | ontologyProperty = WineRegion/growingGrape }}
+	{{ DBpediaPropertyMapping | templateProperty = varietals | ontologyProperty = WineRegion/varietals }}
+	{{ DBpediaPropertyMapping | templateProperty = wineries | ontologyProperty = WineRegion/numberOfWineries }}
+	{{ DBpediaPropertyMapping | templateProperty = wine produced | ontologyProperty = WineRegion/wineProduced }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = official name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = other name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Place/location }}
+	{{ DBpediaPropertyMapping | templateProperty = total size | ontologyProperty = Place/areaTotal | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = planted | ontologyProperty = Place/areaTotal | unit = Area }}
+}}

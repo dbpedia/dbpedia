@@ -1,0 +1,6 @@
+{{TemplateMapping
+| mapToClass = Politician
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = years_of_life | ontologyProperty = birthDate }}
+}}

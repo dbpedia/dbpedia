@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = fastest driver country
+|rdfs:domain = GrandPrix
+|rdfs:range = Country
+}}

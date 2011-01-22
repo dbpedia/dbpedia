@@ -1,0 +1,369 @@
+{{Infobox Automobile
+| name           = Mercedes-Benz W126
+| image          = [[File:Mercedes-Benz_W126_.jpg|250px|Mercedes-Benz 430 SEL (US)]]
+| layout         = [[FR layout]]
+| assembly       = [[Sindelfingen]], [[Germany]]
+| manufacturer   = [[Mercedes-Benz]]
+| parent_company = [[Daimler-Benz]]
+| production     = 1979–1991 (sedan)<br />1981–1992 (coupé)
+| predecessor    = [[Mercedes-Benz W116]]
+| successor      = [[Mercedes-Benz W140]]
+| class          = [[Full-size]] [[luxury car]]<br />[[Grand tourer]]
+| body_style     = 2-door [[coupé]]<br />4-door [[sedan (car)|sedan]]
+| transmission   = 4-speed [[Automatic transmission|automatic]]<br />4-speed [[Manual transmission|manual]]<br />5-speed [[Manual transmission|manual]]
+| engine         = '''[[Straight-5]]'''<br />3.0&nbsp;L [[Mercedes-Benz OM617 engine|OM617]] [[Diesel engine|diesel]]<br />'''[[Straight-6]]'''<br />2.6&nbsp;L [[Mercedes-Benz M103 engine|M103]]<br />2.8&nbsp;L [[Mercedes-Benz M110 engine|M110]]<br />3.0&nbsp;L [[Mercedes-Benz M103 engine|M103]]<br />3.5&nbsp;L [[Mercedes-Benz OM603|OM603]] [[Diesel engine|diesel]]<br />'''[[V8 engine|V8]]'''<br />3.8&nbsp;L [[Mercedes-Benz M116 engine|M116]]<br />4.2&nbsp;L [[Mercedes-Benz M116 engine|M116]]<br />5.0&nbsp;L [[Mercedes-Benz M117 engine|M117]]<br />5.6&nbsp;L [[Mercedes-Benz M117 engine|M117]]
+| wheelbase      = {{convert|2935|mm|in|1|abbr=on}} (280 SE)<br/> {{convert|3075|mm|in|1|abbr=on}} (300 SEL)<br/> {{convert|2850|mm|in|1|abbr=on}} (420 SEC)
+| length         = {{convert|4995|mm|in|1|abbr=on}} (280 SE)<br/>{{convert|5160|mm|in|1|abbr=on}} (300 SEL)<br/> {{convert|4935|mm|in|1|abbr=on}} (420 SEC)<br>1988-1991 Sedan: {{Auto in|208.1|0}}<Br>1988-1991 Coupé: {{Auto in|199.2|0}}
+| width          = {{convert|1820|mm|in|1|abbr=on}} (all SE/SEL)<br/> {{convert|1828|mm|in|1|abbr=on}} (all SEC)
+| height         = {{convert|1430|mm|in|1|abbr=on}} (280 SE)<br/>  {{convert|1440|mm|in|1|abbr=on}} (300 SEL)<br/> {{convert|1407|mm|in|1|abbr=on}} (420 SEC)<br>1988-1991 Coupé: {{Auto in|55.0|0}}
+| weight         = {{convert|1560|kg|lb|0|abbr=on}} (280 SE)<br/>{{convert|1655|kg|lb|0|abbr=on}} (500 SEL)<br/> {{convert|1650|kg|lb|0|abbr=on}} (500 SEC)
+}}
+:''For a complete overview of all S-Class models see [[Mercedes-Benz S-Class]].''
+
+The '''Mercedes-Benz W126''' is a series of [[flagship]] [[Automobile|vehicles]] manufactured by [[Germany|German]] automotive marque [[Mercedes-Benz]]. Premiering in September 1979 as the successor to the earlier [[Mercedes-Benz W116|W116]] line, the W126 was the second generation of the  Mercedes-Benz flagship to officially bear the [[Mercedes-Benz S-Class|S-Class]] name referring to ''Sonderklasse'' or "special class."  The W126 was initially offered in [[straight-6]], [[V8]], and turbo [[Diesel engine|diesel]] sedan models. In September 1981, 2-door [[coupé]] versions of the W126 were introduced. Compared to its predecessor, the W126 was more aerodynamic, fuel efficient, capacious, and powerfully engined. The W126 S-Class debuted a new Mercedes-Benz design style which was subsequently used on other vehicles in the company's lineup. The W126 line also introduced many Mercedes-Benz safety innovations, including the first [[airbag#Rebirth: supplemental restraint| airbag]] supplemental restraint systems, seatbelt [[Seat_belt#Pretensioners_and_webclamps|pretensioners]], and [[traction control system|traction control]].<ref name=W126history>{{cite web|url=http://www.geocities.com/MotorCity/Flats/2188/|title=Ian Dunross Mercedes-Benz W126 S-class Homepage|accessdate=2007-05-15}}</ref>
+
+The W126 had a twelve-year production run between 1979 and 1991, the longest of any S-Class generation since the flagship models were first built in the mid-1950s. The different body styles of the W126 S-Class achieved a combined sales total of 892,123 units (818,063 sedans and 74,060 coupés), making the W126 the most popular S-Class ever produced.<ref name=W126history/><ref name=S-Klasse>{{cite web|url=http://www.s-klasse-club.de/gb/geschichte-126.html|title=S-Klasse Club information|accessdate=2007-05-13}}</ref>
+
+== History ==
+Following the debut of the 1970s generation [[Mercedes-Benz W116|W116]] (which also included the flagship [[Mercedes-Benz 450SEL 6.9]]), Mercedes-Benz began plans for the next-generation S-Class model.  Codenamed "project W126,"<ref name=W126history/> the project had specific goals: an improved ride, better handling, and improved [[fuel efficiency]].<ref name=S-Klasse/> These improvements were aimed at helping retain the S-Class' market leadership as the world's best-selling prestige luxury sedan.<ref name=W126history/> Following the 1970s [[1973 oil crisis|oil crisis]], Mercedes-Benz had made fuel efficiency an especially pertinent goal (named "Energy Program"),<ref name=W126page>[http://home.concepts.nl/~vlimmere/index2.HTM The unofficial W126 homepage - model history]</ref> even in the large [[V8 engine]]d versions of the S-Class.
+
+In terms of the body design, the objective of the W126 design team, led by Mercedes-Benz's [[Bruno Sacco]], was to produce a car that was sleeker and more [[aerodynamic]] than the previous model. The application of lighter materials and alloys combined with thorough wind tunnel testing to reduce overall drag meant the car consumed about 10% less fuel than its predecessor.<ref name=S-Klasse/> The maximum speed was also increased (250 km/h in the most powerful model).<ref name=W126history/>
+
+After six years of development, the W126 was formally introduced at the [[Internationale Automobil-Ausstellung]] (International Motor Show, or IAA) in [[Frankfurt]] on September 1979. The initial lineup featured seven models in standard (SE, SD) and long (SEL, SDL) wheelbase [[sedan (car)|sedan]] [[body style]]s: the 280 SE/SEL, 380 SE/SEL, 500 SE/SEL and 300 SD. Technically, the long wheelbase (SEL) variants were codenamed V126, but this was not popularly known.<ref name=W126history/> In 1981, the coupé version (SEC) of the W126 S-Class premiered at the IAA with the 500 SEC model. In 1981, ''[[Wheels Magazine]]'' selected the W126 model 380 SE as its [[Wheels Car of the Year|Car of the Year]].<ref name=wheelsmag>{{cite web|url=http://www.wheelsmag.com.au/wheels/site/articleIDs/C40CA2CB6C8577F1CA257285001E7302?open&template=domWheels|title=Wheels' COTY the real McCoy|last=Gable|first=Chris|2008-09-04|accessdate=2007-05-15}}</ref>
+
+Four years after the introduction of the fuel-efficiency "Energy Program," the model range had been reworked completely. In September 1985, again at the IAA in [[Frankfurt]], the reworked model range was reintroduced. Apart from visual changes to the bumpers, side covers and alloys, the changes made to the available collection of engine variants was most visible. Two newly-constructed 6 cylinder engines and new 4.2 and 5.6 litre V8's were added, and other engines were further upgraded.
+
+The W126 generation was replaced by the [[Mercedes-Benz W140|W140]] in 1992, although a satellite factory in [[South Africa]] is known to have continued production until 1994.
+
+== Styling ==
+[[Image:Mercedes-Benz 500 SE, 1987.jpg|thumb|right|Mercedes-Benz 500 SE sedan]]
+The W126 S-Class premiered the next generation of Mercedes-Benz car styling, which came to dominate the lineup in the 1980s. Because the appearance differed from the rest of the Mercedes-Benz fleet at that time, some people did not appreciate the design at its debut.<ref name=W126page/> Compared to its predecessor, the [[Mercedes-Benz W116|W116]], the new model had a sleeker, lower profile look, with more aerodynamic qualities than before ([[drag coefficient]] of Cd 0.36 for the sedans, 0.34 for the coupés).<ref name =W126history/> For the first time, a Mercedes-Benz sedan was not equipped with traditional chrome [[Bumper (automobile)|bumpers]]; polyurethane deformable bumpers were used, and visually aligned with body panels.<ref name=S-Klasse/>
+
+The interior featured pleated [[leather]] on the doors, woodgrain trim on the center console and across the dash, and a simplified layout with symmetrically placed buttons.
+
+The W126 S-Class carried the following general dimensions: 
+
+{|class=wikitable
+!Body style
+!Length
+!Width
+!Height
+!Wheelbase
+|-
+|W126 sedan||{{convert|208.1|in|abbr=on}}||{{convert|71.7|in|abbr=on}}||{{convert|56.3|in|abbr=on}}||{{convert|121.1|in|abbr=on}}
+|-
+|W126 coupé||{{convert|199.2|in|abbr=on}}||{{convert|72.0|in|abbr=on}}||{{convert|55.0|in|abbr=on}}||{{convert|112.2|in|abbr=on}}
+|}
+
+== Models ==
+The W126 series (named in accordance to their engine size) initially included the 280, 300, 380, and 500 series models. Following the first S-Class mid-cycle refresh, the W126 series included 260, 300, 350, 420, 500, and 560 models. Variants included SE ([[wheelbase|standard wheelbase]]), SEL ([[wheelbase|long wheelbase]]), SEC (coupé), and diesel models (SD / SDL).
+=== W126 (1979-1985) ===
+{|class=wikitable
+!Chassis code
+!Years
+!Model
+!Engine
+!Market
+|-
+|W126.021||1981-1985||280 S||[[Mercedes-Benz M110 engine|M110.924]] 2.8L [[straight-6]] [[carburetor]]||World excluding US
+|-
+|W126.022||1981-1985||280 SE||[[Mercedes-Benz M110 engine|M110.987]] 2.8L [[straight-6]]||World excluding US
+|-
+|W126.023||1981-1985||280 SEL||[[Mercedes-Benz M110 engine|M110.987]] 2.8L [[straight-6]]|||World excluding US
+|-
+|W126.12||1981-1985||300 SD||[[Mercedes-Benz OM617 engine|OM617.951]] 3.0L [[straight-5]] [[Diesel engine|diesel]]||USA and Canada only
+|-
+|W126.032||1984-1985||380 SE||M116.963 3.8L [[V8]]|| 
+|-
+|W126.033||1981-1983||380 SEL||M116.963 3.8L [[V8]]|| 
+|-
+|W126.043||1982-1983||380 SEC||M116.963 3.8L [[V8]]||
+|-
+|W126.036||1984-1985||500 SE||[[Mercedes-Benz M117 engine| M117.963]] 5.0L [[V8]]||World excluding US & Australia
+|-
+|W126.037||1984-1985||500 SEL||[[Mercedes-Benz M117 engine| M117.963]] 5.0L [[V8]]||for US and Canada '84 and '85
+|-
+|W126.044||1984-1985||500 SEC||[[Mercedes-Benz M117 engine| M117.963]] 5.0L [[V8]]||for US and Canada '84 and '85
+|-
+|}
+
+=== W126 (1986-1991) ===
+[[Image:500 SEL W126 3.jpg|thumb|right|Mercedes-Benz 500 SEL sedan]]
+{|class=wikitable
+!Chassis code
+!Years
+!Model
+!Engine
+!Market
+|-
+|W126.12||1986-1991||260 SE||[[Mercedes-Benz M103 engine|M103.941]] 2.6L [[straight-6]]||World excluding US & Australia	
+|-
+|W126.024||1988-1991||300 SE||[[Mercedes-Benz M103 engine|M103.981]] 3.0L [[straight-6]]||'89-'91 US
+|-
+|W126.025||1988-1991||300 SEL||[[Mercedes-Benz M103 engine|M103.981]] 3.0L [[straight-6]]||'88-'91 US
+|-
+|W126.125||1986-1987||300 SDL||[[Mercedes-Benz_OM603|OM603.961]] 3.0L [[straight-6]] [[Diesel engine|diesel]]||	
+|-
+|W126.134||1991||350 SD  ||[[Mercedes-Benz_OM603|OM603.97]] 3.5L [[straight-6]] [[Diesel engine|diesel]]|| 
+|-
+|W126.135||1990-1991||350 SDL||[[Mercedes-Benz_OM603|OM603.97]] 3.5L [[straight-6]] [[Diesel engine|diesel]]|| 
+|-
+|W126.034||1986-1991||420 SE||M116.965 4.2L [[V8]]||World excluding US
+|-
+|W126.035||1986-1991||420 SEL||M116.965 4.2L [[V8]]||	
+|-
+|W126.046||1986-1991||420 SEC||M116.965 4.2L [[V8]]||World excluding US
+|-
+|W126.036||1986-1991||500 SE||[[Mercedes-Benz M117 engine| M117.965]] 5.0L [[V8]]||World excluding US
+|-
+|W126.037||1986-1991||500 SEL||[[Mercedes-Benz M117 engine| M117.965]] 5.0L [[V8]]||World excluding US
+|-
+|W126.044||1986-1991||500 SEC||[[Mercedes-Benz M117 engine| M117.965]] 5.0L [[V8]]||World excluding US
+|-
+|W126.038||1986-1991||560 SE||[[Mercedes-Benz M117 engine| M117.968]] 5.6L [[V8]]||n/a in US, Australia
+|-
+|W126.039||1986-1991||560 SEL||[[Mercedes-Benz M117 engine| M117.968]] 5.6L [[V8]] ||
+|-
+|W126.045||1986-1991||560 SEC||[[Mercedes-Benz M117 engine| M117.968]] 5.6L [[V8]]||
+|-
+|}
+
+== Production figures ==
+=== Saloon models ===
+[[Image:Mercedes Benz 450SEL Seitenansicht.jpg|right|thumb|1981 Mercedes-Benz W126 SEL (long wheelbase version) in profile]]
+[[Image:1986-1991 Mercedes-Benz W126 01.jpg|thumb|right|Mercedes-Benz W126 SE (standard wheelbase version)]]
+{|class=wikitable
+!Model<ref> All figures for saloon and coupé according to: {{cite book |title=Deutsche Autos 1945-1990, vol.4 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5 |pages=112–113}} and {{cite book |title=Deutsche Autos seit 1990, vol.6 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02052-1 |page=190}} </ref>
+! Cal. Years
+!Built
+|-
+| 260 SE ||1985-1991|| align="right" |20,836	
+|-
+| 280 S ||1979-1985|| align="right" |42,996
+|-
+|280 SE||1979-1985||align="right" |133,955
+|-
+|280 SEL ||1980-1985|| align="right" |20,655	
+|-
+|300 SE ||1985−1991|| align="right" |105,422
+|-
+|300 SEL||1985-1993|| align="right" | 40,956
+|-
+|380 SE ||1979-1985|| align="right" |58,239
+|-
+|380 SEL ||1980-1985|| align="right" |27,014	
+|-
+|420 SE ||1985-1991|| align="right" |13,996
+|-
+|420 SEL ||1985-1991|| align="right" |74,017
+|-
+|500 SE ||1979-1991|| align="right" |33,418
+|-
+|500 SEL||1980-1991|| align="right" |72,733
+|-
+|560 SE ||1988-1990|| align="right" |1,251
+|-
+|560 SEL ||1985-1991|| align="right" |75,071
+|-
+|300 SD ||1980-1985|| align="right" |78,725
+|-
+|300 SDL ||1986-1987|| align="right" |13,830
+|-
+|350 SD ||1990-1991|| align="right" |2,066
+|-
+|350 SDL ||1990-1991|| align="right" |2,925
+|-
+|  colspan=2  align="right" |'''Total'''||'''818,105'''
+|}
+
+=== Coupé models ===
+[[Image:Mercedes-Benz 560 SEC (front).png|thumb|right|Mercedes-Benz 560 SEC [[coupé]]]]
+{|class=wikitable
+!Model
+!Cal. Years
+!Built
+|-
+| 380 SEC ||1981-1985|| align="right" |11,267	
+|-
+| 420 SEC ||1985-1991|| align="right" |3,680
+|-
+|500 SEC ||1981-1991||align="right" |30,184
+|-
+|560 SEC ||1985-1991|| align="right" |28,929	
+|-
+|  colspan=2  align="right" |'''Total'''||'''74,060'''
+|}
+
+== Features ==
+Novel luxury features/options included the following safety, comfort, and technological features. Whilst almost all of these features are available on modern luxury cars today, each in its own right was considered very significant in the 1980s. The harmonious and "matter-of-fact" way which these were combined, as well as their renowned durability, has added to the appeal of W126.
+=== Safety ===
+[[Image:500 SEL W126 2.jpg|thumb|right|W126 S-Class driver's seat with SRS airbag]]
+* [[Airbag]]s, as an additional measure of occupant protection. The driver side airbag premiered on 1981 models, as an optional extra (standard from 1985 on 500 SEL and 500 SEC), and the passenger side airbag premiered in 1986 (as an optional extra; due to its expense, few early production W126 cars were thus equipped). The passenger side airbag became standard in 1991 during the models final year.<ref name=S-Klasse/>
+* [[Traction control system]] (TCS), also known as Acceleration Slip Regulation (ASR) to prevent wheelspin (a Mercedes-Benz first). Available on European models only until the year 1990, when it was available to 560 SEL customers in the United States.
+*[[Seat belt]] pretensioners ETR enabled all seat belts (with exception of rear centre lap belt on sedans) to tighten when the car sensed conditions that could lead to an accident (such as sudden, forceful braking).
+* [[Anti-lock braking system]] (ABS) (as introduced by its predecessor, the W116) was optional until 1986 except on premier 500SEL and 500 SEC models.
+* [[Crumple zones]] which absorbed impact energies, reducing passenger injury.
+
+=== Comfort and convenience ===
+[[Image:Hatta.jpg|thumb|W126 power seats and window controls]]
+[[Image:Mercedes W126 500SEL fond 1.jpg|thumb|W126 rear interior]]
+* [[Automotive_lighting#Convenience_lights|Courtesy lights]] on the underside of the doors, to enable the occupant to see the ground when exiting the vehicle in the dark. And on sedan models, individual, rear cabin reading lamps aimed at the rear seat occupants' laps so as to avoid distracting the driver at night.
+* Eight-way powered, dual stage [[Car_seat#Climate_control_and_ventilation|heated front seats]], with two setting memory functions for both front occupants to retain positions of power adjustable steering column and seat position for driver; and seat position for front passenger. The seat heaters were standard on the 560 SEL, and an option on other models.
+* Two-way powered, dual stage heated rear "[[Chesterfield_(disambiguation)#Other uses|Chesterfield]]" bench seat (pre-1990 SELs) with four-way manually adjustable rear headrests that was standard on flagship 500 SEL and 560 SEL models.
+* As an option on the 500 SEL and 560 SEL, individual, power adjustable rear seats were provided with a [[Walnut#Wood|burl walnut]] grained centre console that replaced the centre seat to allow for a 2 + 2 seating format.
+* Fully automatic [[climate control]] system that used an interior temperature sensor to more accurately climatize the cabin. This sensor was mounted near the sunroof so that when the roof was ajar, the sensor would detect cool windchills and call upon the system to adjust heat flow accordingly.
+* Exterior [[temperature sensor]] with display set in main instrument console below the speedometer to inform the driver of exterior conditions.
+
+=== Drivetrain technologies ===
+[[Image:Mercedes W126 500SEL Heck 1.jpg|thumb|Rear-end of a 500 SEL W126]]
+* Four-speed [[automatic transmission]] with a topographical sensor that monitored the vehicle's position (whether on an incline or decline) and gas pedal position. The result was an extraordinary capacity to "hold back" acceleration when coasting downhill and to maintain the S-Class' position without using the brake pedal after coming to a complete stop on a steep incline. The transmission also featured a "limp home mode" in case of electronic failure and was programmed to start in second gear so as to permit smooth, wheel spin free launches.  Second gear start could be switched on and off in European models with a S/W switch to allow more performance orientated driving versus winter driving.
+* The W126 carried forward the [[self-leveling suspension|self-leveling]] [[hydropneumatic]] suspension of the 6.9 W116 model. There were two versions of the self-levelling suspension for the sedan: a rear only hydraulic suspension using two nitrogen ballasts to automatically level the car, and a four-wheel hydraulic levelling system that could be set in three positions. The coupés were only available with the rear-levelling from the factory. In the US, rear-levelling was standard on both the 560 SEC and the 560 SEL, and optional on the 500 SEC and SEL.
+* [[Cruise control]] that used the transmission's [[topographic|topographical sensor]] to appropriately add and cut back the throttle fluidly as needed in order to maintain the desired set speed. The result was a cruise control that was free of the sudden throttle inputs and undesired downhill excess speed that plagued many current cruise control systems.
+
+== U.S. grey market models ==
+=== 500 SEL ===
+[[Image:Mercedes-Benz 500SE.jpg|thumb|Grey-market Mercedes-Benz 500 SE]]
+The 500 SEL has an interesting place in [[National Highway Traffic Safety Administration|U.S. automotive history]], since American demand for this particular car drove the establishment of a large [[grey import vehicles#United States|grey market]]. The detuned, yet very expensive US specification 380 SE/SEL/SEC was underpowered, according to contemporary reports, and fuelled demand for the more powerful version available in the rest of the world. Approximately 22,000 units per year of grey market Mercedes-Benz (including the 500 SE/SEL) were sold in the early 1980s, according to contemporary reports in the ''[[Los Angeles Times]]''.<ref>Dean, Paul. Wheeling-Dealing Gray Market Hits the Skids Bad Publicity, Corporate Action, Legislation Put Brakes on Car Conversions. ''[[The Los Angeles Times]]'', [[July 11]], [[1986]]</ref>
+
+== Problem models ==
+{{Original research|date=May 2008}}
+<!--this kind of sections really arent encyclopedia material, this is better for consumer guides or something else--- -->
+=== 350 SD/SDL ===
+
+Some engines had a design defect<ref>{{cite web|url=http://mbz.org/info/complaints/350SD/|title=Bulletin Newsletter 3.5 Liter Turbodiesel|date=1999-07-06|publisher=MBZ.org|last=Blazer|first=John|accessdate=2008-09-16}}</ref> which causes ovaling of cylinder walls, bent rods, excessive oil consumption (1&nbsp;quart per 200&nbsp;miles or one&nbsp;litre per 300&nbsp;kilometres is not uncommon), and eventually engine failure. Mercedes-Benz did not accept responsibility for this defect, even when problems arose before warranty terms were met. Most of these engine failures have so-far occurred on vehicles driven under high load or city driving, while highway driven engines do not show signs of problems until many miles later, if at all. Fixing the problem can cost the owner more than [[$]]10,000 or 8000[[€]] which exceeds the value of the car. All 350 SD/SDL's will develop this issue, but will not reoccur after being repaired, therefore a thorough pre-purchase check by a qualified mechanic can give the potential buyer a better idea of what they are getting into. Some 350s have gone well over {{convert|400000|mi|km}}, problem free.
+
+=== 1987 300 SDL Turbodiesel ===
+The OM603 diesel engine for this year was recalled on both the S- and E-Class cars due to the original trap oxidizer's tendency to disintegrate into the turbocharger and the engine itself, causing extensive and costly damage. Mercedes-Benz issued a recall on this component and a redesigned oxidizer was installed on most cars produced.
+
+=== 380 SE/SEL ===
+Following the [[1973 oil crisis|fuel crisis]], part of the program was to reduce weight and increase power with decreased engine weight. On early versions of the 380, the engines came with a single row [[timing chain]]. These models were plagued with chain failure problems and some of the problems were corrected by Mercedes-Benz, free of charge. Some models, however, escaped retrofit and may at some point fail as a result. All models built in 1985 were equipped with the dual-row chain from the factory.
+
+The reason for the susceptibility of a single row chain on this engine is because of the intricate rails and tensioner design, along with the two tall cam towers the chain must circulate around. Simple single cam engines generally do not have these problems when using a single belt.
+
+The 380 versions (until 1985) also have a tendency to wear out their cam shafts quite quickly.
+
+== Special variants ==
+=== Popular tuners ===
+[[Image:Mercedes-Benz W126 Sechstürer vr.jpg|thumb|right|Mercedes-Benz W126 stretch limousine]]
+*[[Mercedes-AMG|AMG]], offered body kits for all W126 models, as well as a widebody kit for the coupé. AMG also offered many levels of engine tuning, but was most famous for the [[DOHC]] 6.0&nbsp;litre engine, based on the original 117.968 engine. Also offered was a [[Torsen differential|Gleason Torsen]] differential in varying ratios, manual transmission (extremely rare), and various TV/radio consoles.
+*[[Brabus]], Offered body kits Similar to the AMG package and engine tuning.
+*Lorinser, Offered body kits Similar to the AMG package and minor engine tuning.
+*Koenig Specials, offered a famous widebody kit, a supercharger, and twin-turbo kits.
+*MKB, offered various engine kits
+*RennTech, offered most of the AMG engine tuning packages except for the DOHC engine.
+*Carat, body kits, wooden seatback trays, wood trim, AMG installer/dealer.
+
+=== Armored models ===
+Like the current model [[Mercedes-Benz S-Class#S-Guard|S-Guard]], specially modified W126 S-Class models were produced for the transport of diginitaries and world leaders.  Among the modifications made included a wheelbase stretch, [[bulletproof glass]], and armored body panels.
+
+== Engines ==
+In [[September 1985]], two newly-constructed [[Straight-6|6 cylinder]] [[SOHC]] engines, M103 (already used in the new middle-class [[Mercedes-Benz W124]] series), replaced the 2.8&nbsp;litre [[DOHC]] [[Mercedes-Benz M110 engine|M110]] engines. The carburetted version was replaced by a 2.6&nbsp;litre [[fuel injection]] engine, while the 3.0&nbsp;litre version replaced the fuel injected M110. Also new was a 4.2&nbsp;litre V8 engine, designed to replace the 3.8&nbsp;litre version used in the W126 sedans, coupés, and the [[Mercedes-Benz SL-Class|SL-Class]]. The 5&nbsp;litre engine was modified to receive electronic ignition and electronic-mechanical fuel injection in form of the [[Robert Bosch GmbH|Bosch]] KE-jetronic system. Performance was increased to {{convert|245|hp|abbr=on}}. An ECE version of the 5 litre M117 V8 engine was also available from [[September 1987]] with a power output of {{convert|265|hp|abbr=on}}
+
+The most spectacular new engine was the 5.5&nbsp;litre [[V8]] that was a further development from the 5&nbsp;litre version. An increased stroke meant it could turn out a hefty {{convert|272|hp|abbr=on}}. There was a higher compression version available, if required, that produced some {{convert|300|hp|abbr=on}}. This version was only available without [[catalytic converter]]. But even without the catalytic converter this ECE version, as it was known, would meet the [[emission standards|emission requirements]] of the European community.
+
+A 3.0 litre [[Straight-5|inline 5 cylinder]] turbo diesel was offered from 1981-1985 in [[North America]]. They are known for covering many hundreds of thousands of miles with few problems. In 1986, the 300SD was replaced with the 300SDL. It was part of the second generation of w126 model lineup.  The 5 cylinder engine was replaced with the new inline 6 cylinder engine and the engine was only offered in long wheelbase.  The new engine had 148hp compared to 125hp of the previous.
+
+{| class="wikitable" style="text-align: left"
+|-
+! Engine || Cyl. || Power  || Torque || 0-100km/h || Maximum speed || Notes<ref> All data except acceleration and top speed figures according to: {{cite book |title=Deutsche Autos 1945-1990, vol.4 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5 |pages=112–124}} </ref>
+|-
+| 2.6 12V || [[I6]] || {{convert|166|PS|kW hp|0|abbr=on}} || {{convert|228|Nm|lbft|0|abbr=on}} ||  || {{convert|205|km/h|mi/h|0|abbr=on}} || From MY 1986
+|-
+| 2.6 12V* || [[I6]] || {{convert|160|PS|kW hp|0|abbr=on}} || {{convert|220|Nm|lbft|0|abbr=on}} ||  || {{convert|205|km/h|mi/h|0|abbr=on}} || From MY 1986
+|-
+| 2.8 12V carb. || [[I6]] || {{convert|156|PS|kW hp|0|abbr=on}} || {{convert|223|Nm|lbft|0|abbr=on}} || 11.0s || {{convert|200|km/h|mi/h|0|abbr=on}} || MY 1980-1985
+|-
+| 2.8 12V inj. || [[I6]] || {{convert|185|PS|kW hp|0|abbr=on}} || {{convert|240|Nm|lbft|0|abbr=on}} || 10.0s || {{convert|210|km/h|mi/h|0|abbr=on}} || MY 1980-1985
+|-
+| 3.0 12V* || [[I6]] || {{convert|180|PS|kW hp|0|abbr=on}} || {{convert|255|Nm|lbft|0|abbr=on}} ||  || {{convert|210|km/h|mi/h|0|abbr=on}} || From MY 1986
+|-
+| 3.0 12V || [[I6]] || {{convert|188|PS|kW hp|0|abbr=on}} || {{convert|260|Nm|lbft|0|abbr=on}} ||  || {{convert|210|km/h|mi/h|0|abbr=on}} || From MY 1986
+|-
+| 3.8 16V || [[V8]] || {{convert|218|PS|kW hp|0|abbr=on}} || {{convert|299|Nm|lbft|0|abbr=on}} ||  || {{convert|215|km/h|mi/h|0|abbr=on}} || MY 1980-1981
+|-
+| 3.8 16V || [[V8]] || {{convert|204|PS|kW hp|0|abbr=on}} || {{convert|315|Nm|lbft|0|abbr=on}} || 9.3s || {{convert|205|km/h|mi/h|0|abbr=on}} || MY 1982-1985
+|-
+| 4.2 16V* || [[V8]] || {{convert|204|PS|kW hp|0|abbr=on}} || {{convert|310|Nm|lbft|0|abbr=on}} ||  || {{convert|210|km/h|mi/h|0|abbr=on}} || MY 1986
+|-
+| 4.2 16V || [[V8]] || {{convert|218|PS|kW hp|0|abbr=on}} || {{convert|330|Nm|lbft|0|abbr=on}} || 9.0s || {{convert|218|km/h|mi/h|0|abbr=on}} || MY 1986
+|-
+| 4.2 16V* || [[V8]] || {{convert|224|PS|kW hp|0|abbr=on}} || {{convert|325|Nm|lbft|0|abbr=on}} || 8.3s || {{convert|218|km/h|mi/h|0|abbr=on}} || From MY 1987
+|-
+| 4.2 16V || [[V8]] || {{convert|231|PS|kW hp|0|abbr=on}} || {{convert|335|Nm|lbft|0|abbr=on}} || 8.1s || {{convert|222|km/h|mi/h|0|abbr=on}} || From MY 1987
+|-
+| 5.0 16V || [[V8]] || {{convert|223|PS|kW hp|0|abbr=on}} || {{convert|365|Nm|lbft|0|abbr=on}} || 8.0s || {{convert|220|km/h|mi/h|0|abbr=on}} || From MY 1986
+|-
+| 5.0 16V || [[V8]] || {{convert|240|PS|kW hp|0|abbr=on}} || {{convert|402|Nm|lbft|0|abbr=on}} ||  || {{convert|225|km/h|mi/h|0|abbr=on}} || MY 1980-1981
+|-
+| 5.0 16V || [[V8]] || {{convert|231|PS|kW hp|0|abbr=on}} || {{convert|405|Nm|lbft|0|abbr=on}} || 8.1s || {{convert|220|km/h|mi/h|0|abbr=on}} || MY 1982-1985
+|-
+| 5.0 16V || [[V8]] || {{convert|245|PS|kW hp|0|abbr=on}} || {{convert|400|Nm|lbft|0|abbr=on}} || 7.6s || {{convert|230|km/h|mi/h|0|abbr=on}} || MY 1986
+|-
+| 5.0 16V* || [[V8]] || {{convert|223|PS|kW hp|0|abbr=on}} || {{convert|358|Nm|lbft|0|abbr=on}} ||  || {{convert|220|km/h|mi/h|0|abbr=on}} || MY 1986
+|-
+| 5.0 16V* || [[V8]] || {{convert|252|PS|kW hp|0|abbr=on}} || {{convert|390|Nm|lbft|0|abbr=on}} || 7.5s || {{convert|230|km/h|mi/h|0|abbr=on}} || From MY 1987
+|-
+| 5.0 16V || [[V8]] || {{convert|265|PS|kW hp|0|abbr=on}} || {{convert|405|Nm|lbft|0|abbr=on}} || 7.3s || {{convert|235|km/h|mi/h|0|abbr=on}} || From MY 1987
+|-
+| 5.5 16V* || [[V8]] || {{convert|242|PS|kW hp|0|abbr=on}} || {{convert|390|Nm|lbft|0|abbr=on}} || 7.6s || {{convert|228|km/h|mi/h|0|abbr=on}} || MY 1986
+|-
+| 5.5 16V* || [[V8]] || {{convert|279|PS|kW hp|0|abbr=on}} || {{convert|430|Nm|lbft|0|abbr=on}} || 7.2s || {{convert|240|km/h|mi/h|0|abbr=on}} || From MY 1987
+|-
+| 5.5 16V || [[V8]] || {{convert|272|PS|kW hp|0|abbr=on}} || {{convert|421|Nm|lbft|0|abbr=on}} ||  || {{convert|250|km/h|mi/h|0|abbr=on}} || MY 1986
+|-
+| 5.5 16V RÜF || [[V8]] || {{convert|299|PS|kW hp|0|abbr=on}} || {{convert|456|Nm|lbft|0|abbr=on}} ||  || {{convert|250|km/h|mi/h|0|abbr=on}} || From MY 1987
+|-
+| 5.5 16V ECE || [[V8]] || {{convert|299|PS|kW hp|0|abbr=on}} || {{convert|455|Nm|lbft|0|abbr=on}} || 6.9s || {{convert|250|km/h|mi/h|0|abbr=on}} || MY 1986/87
+|-5.5 32V          V8        Man  PS 320          Man  Nm 522        5.8s      convert 280km/h                      MY 1988/90
+| 3.0 TD || [[Straight-five engine|I5]] || {{convert|125|PS|kW hp|0|abbr=on}} || {{convert|245|Nm|lbft|0|abbr=on}} || 15.0s || {{convert|170|km/h|mi/h|0|abbr=on}} || MY 1980-1985
+|-
+| 3.0 TD || [[I6]] || {{convert|150|PS|kW hp|0|abbr=on}} || {{convert|273|Nm|lbft|0|abbr=on}} || 13.0s || {{convert|195|km/h|mi/h|0|abbr=on}} || MY 1986/87
+|-
+| 3.45 TD || [[I6]] || {{convert|136|PS|kW hp|0|abbr=on}} || {{convert|310|Nm|lbft|0|abbr=on}} || 11.8s || {{convert|175|km/h|mi/h|0|abbr=on}} || MY 1990/91
+|-
+|colspan=7|* = ''Catalyst version''
+|}
+
+== Awards ==
+The W126 S-Class was a champion in the luxury car market, dominating worldwide sales during its production run. At the same time, it also achieved several awards during its production period:
+
+*'''Car of the Year.''' The W126 model 380 SE was the ''[[Wheels Magazine]]'' [[Wheels Car of the Year|Car of the Year]] in 1981.<ref name=wheelsmag/>
+
+*'''Safety.''' The W126 was awarded by the [[Insurance Institute for Highway Safety|U.S. Highway Loss Data Institute]] as the "The Safest Passenger Car of the Year" in 1988 and 1989.<ref name=W126history/>
+
+*'''Customer satisfaction.''' In 1987, 1988, 1989, and 1990, with the W126 S-Class leading its sales, Mercedes-Benz received the highest customer ratings in the [[J.D. Power and Associates|J.D. Power]] Sales Satisfaction Index.<ref>Sanchez, Jesus. Mercedes Still Ranks No. 1 in Poll of New Car Buyers. ''[[The Los Angeles Times]], [[August 8]], [[1990]]</ref>
+
+== Legacy ==
+[[Image:1979-1991 Mercedes-Benz W126 500 SEC and 560 SEL.jpg|thumb|right|The W126 S-Class sedan and coupé]]
+The W126 S-Class, the most successful production S-Class in history, has secured a place as one of the most well-remembered [[luxury vehicles]]–described by some as a "[[Classic car|classic]]."<ref name=S-Klasse/> Its twelve-year production run was longer than any S-Class before or since, and following the debut of the [[W140]] S-Class in 1991, the additional two years of production in [[South Africa]] was a testament to the W126's popularity in the [[export]] market. Although an expensive car to maintain, mostly due to the increased expense of Mercedes-Benz replacement parts, a late model W126, if properly driven, can still be a viable proposition today. Many W126s have been prominently featured in films long after production ended.<ref>{{cite web|url=http://www.s-klasse-club.de/gb/kaufberatung.html|title=S-Klasse Club buying advice|accessdate=2007-05-13}}</ref>
+
+This legacy stands in contrast with the W140 [[chassis]] which had very complex accessory systems, particularly the W140 HVAC system, electrical wiring (due to the push to manufacture [[environmentally friendly]] plastics), and auto-door closing features.  Among actual owners, W126s are known for their simple maintenance, straightforward problems diagnosis, and long term [[Reliability engineering|reliability]].
+
+== References ==
+===Notes===
+{{reflist|2}}
+===Bibliography===
+:• {{cite book |last= Schlegelmilch |first= Rainer W. |coauthors= Hartmut Lehbrink, Jochen Von Osterroth |title= Mercedes |publisher= Könemann |year= 2004 | month = November |isbn= 3-8331-1056-2}}
+
+== External links ==
+{{commonscat|Mercedes-Benz W126}}
+*[http://www.s-klasse-club.de/gb/index.html Mercedes-Benz S-Klasse Club e.V.] - official W126 club
+*[http://home.concepts.nl/~vlimmere/index2.HTM The unofficial W126 page] - history and details of the W126
+*[http://www.mbcoupes.com/w126index.htm Mercedes-Benz SEC club] -  archive of repair tips and history on the SEC
+*[http://www.cannesetoile.com Mercedes-Benz W126] -  French model complete website
+
+{{Mercedes-Benz vehicles}}
+{{Mercedes-Benz S-Class lineage}}
+
+[[Category:Mercedes-Benz platforms|W126]]
+[[Category:Vehicles introduced in 1979]]
+
+[[de:Mercedes-Benz W126]]
+[[fr:Mercedes-Benz W126]]
+[[it:Mercedes-Benz W126]]
+[[hu:Mercedes W126]]
+[[nl:Mercedes-Benz W126]]
+[[ja:メルセデス・ベンツ W126]]
+[[pl:Mercedes-Benz W126]]
+[[ru:Mercedes-Benz W126]]
+[[sv:Mercedes-Benz W126]]

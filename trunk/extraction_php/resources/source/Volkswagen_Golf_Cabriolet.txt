@@ -1,0 +1,163 @@
+{{one source|date=July 2009}}
+{{Infobox Automobile
+|name           = Volkswagen Golf Cabriolet
+|image          =
+|manufacturer   = [[Karmann]], for<br>[[Volkswagen|Volkswagen Passenger Cars]]
+|parent_company = [[Volkswagen Group]]
+|aka            = Golf Cabrio, Golf Cabbie <small>(informal names)</small>
+|production     = 1979−2002;<br>from 2009
+|assembly       = [[Karmann|Karmann plant]], [[Osnabrück]], [[Germany]]
+|predecessor    = [[Volkswagen Beetle|VW Beetle Cabriolet]]
+|successor      = [[Volkswagen New Beetle|VW New Beetle Cabriolet]],<br>[[Volkswagen Eos]]
+|class          = [[small family car]], [[subcompact car]]
+|body_style     = 2-[[car door|door]] [[convertible|cabriolet]]
+|layout         = [[transverse engine|Transverse]] [[front-engine design|front engine]],<br>[[front-wheel drive]]
+|platform       = [[Volkswagen Group A platform]] series
+|related        = [[Volkswagen Golf]]<br>[[Volkswagen Jetta]]
+|sp             = uk
+}}
+The '''Volkswagen Golf Cabriolet''' is the [[convertible|cabriolet]] version of the [[Volkswagen Golf]] hatchback.  Initially based on the [[Volkswagen Golf Mk1]], and the later [[Volkswagen Golf Mk3]], it was produced by [[Karmann]] at [[Osnabrück]] for [[Volkswagen|Volkswagen Passenger Cars]].
+
+There was no Golf Cabriolet produced from the [[Volkswagen Golf Mk2]] or [[Volkswagen Golf Mk4]].
+
+__TOC__{{clr}}
+
+==Golf Mk1 Cabriolet (1979−1993)==
+{{Infobox Automobile generation
+|name          = Volkswagen Golf Mk1 Cabriolet
+|image         = [[Image:VW Golf Cabriolet.jpg|250px]]<br>''Volkswagen Golf Mk1 Cabriolet''
+|aka           = Rabbit Cabriolet
+|production    = 1979−1993
+|predecessor   = [[Volkswagen Beetle|Volkswagen Beetle Cabriolet]]
+|successor     = ''Golf Mk3 Cabriolet''
+|platform      = [[Volkswagen Group A platform#A1|Volkswagen Group A1 platform]]
+|engine        = 1.6&nbsp;[[litre|L]] [[inline-four engine|I4]]<br>1.8&nbsp;L I4
+|transmission  = 4- and 5-speed [[manual transmission|manual]],<br>3-speed [[automatic transmission|automatic]]
+|wheelbase     = 
+|length        = 
+|width         = 
+|height        = 
+|weight        = 
+|fuel_capacity = 
+|related       = [[Volkswagen Golf Mk1]]<br>[[Volkswagen Jetta#17|Volkswagen Jetta Mk1]]
+|designer      =
+|sp            = uk
+}}
+The '''Volkswagen Golf Mk1 Cabriolet''' was introduced in 1979, and was succeeded by the Golf Mk3 Cabriolet in 1993.
+
+The Golf Cabriolet (or ''Typ 155'') in Europe and Canada ("Rabbit Convertible" in America originally and renamed in 1984 to "Cabriolet"), was sold from 1979 to 1993. (a convertible version of the [[Volkswagen Golf Mk2|Mk2 Golf]] was not made).  It had a reinforced body, transverse roll bar, a high level of trim, and kept the pre-1980 style of rear lamp clusters from the Mk1 VW Golf.
+
+The Mk1 Cabriolet is of unibody construction built entirely at the factory of [[Karmann]], from stamping to final assembly; Volkswagen supplied the engine, suspension, interior, etc. for Karmann to install.  The vinyl tops were insulated and manually or hydraulically operated, with a heated glass rear window.
+
+The body of the Cabriolet did not change through the entire production run except for a larger fuel tank and smaller spare tire introduced in the 1984 model year.
+
+In an attempt by Volkswagen to keep the car's styling current, all Cabriolets from 1988 on were fitted with a "Clipper" kit out of the factory.
+
+There were a few special editions of the Cabriolet including the [[Etienne Aigner]], Caret, and Best Seller editions.
+{{clr}}
+
+==Golf Mk3/3.5 Cabriolet (1993−2002)==
+{{Infobox Automobile generation
+|name          = Volkswagen Golf Mk3/3.5 Cabriolet
+|image         = [[Image:Vw Golf III Cabrio.jpg|250px]]<br>Volkswagen Golf Mk3 Cabrio
+|aka           = VW Cabrio
+|production    = 1993−2002
+|predecessor   = ''Golf Mk1 Cabriolet''
+|successor     = [[Volkswagen New Beetle|Volkswagen New Beetle Cabriolet]]<br>[[Volkswagen Eos]]
+|platform      = [[Volkswagen Group A platform#A3|Volkswagen Group A3 platform]]
+|engine        = 1.6&nbsp;[[litre|L]] [[inline-four engine|I4]]<br>1.8&nbsp;L I4<br>2.0&nbsp;L I4<br>1.9&nbsp;L I4 [[Turbocharged Direct Injection|TDI]]
+|transmission  = 5-speed [[manual transmission|manual]]<br>4-speed [[automatic transmission|automatic]]
+|wheelbase     = 
+|length        = 
+|width         = 
+|height        = 
+|weight        = 
+|fuel_capacity = 
+|related       = [[Volkswagen Golf Mk3]]<br>[[Volkswagen Jetta#1H|Volkswagen Jetta/Vento]]
+|designer      = 
+|sp            = uk
+}}
+[[Image:VW Golf III Cabrio front 20080106.jpg|right|200px|thumb|Volkswagen Golf Mk3.5 Cabrio]]
+The '''Volkswagen Golf Mk3 Cabrio''' was introduced in 1993.
+
+It was [[facelift (automobile)|facelifted]] in late 1999 with the front, rear, and [[steering wheel]] styling from the [[Volkswagen Golf Mk4|Golf Mk4]] while still maintaining the body from the Mk3 Cabrio. These Cabrios are often referred to as the Mk3.5 Cabrios. 
+
+The Volkswagen Golf Cabrio was discontinued in 2002.
+
+===Engines===
+The following [[internal combustion engine]]s were available in the Golf Cabriolet:<ref>Volkswagen Golf Cabriolet vehicle wallet {{dk icon}}, May 1999</ref>
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 92%;"
+|colspan="9" align="center"  bgcolor=#C0C0C0|<big>'''all [[internal combustion engine]]s are [[inline-four engine|inline four cylinder]] designs'''</big><br>'''operate on the [[four-stroke engine|four-stroke cycle]], and are [[water cooling|water cooled]]'''
+|-
+![[internal combustion engine|engine<br>name]]!![[engine displacement|displacement]]!!engine<br>ID code(s)!![[power (physics)|max. power]]<br>at [[revolutions per minute|rpm]]!![[torque|max. torque]]<br>at rpm!!0-{{convert|100|km/h|0|abbr=on|lk=on}}!!top speed!![[emission standard|CO<sub>2</sub> emissions]]!!years
+|- 
+|colspan="9" align="center"  bgcolor=#C0C0C0|<big>'''''[[petrol engine]]s'''''</big>
+|-
+|align="left"|'''1.6'''||{{convert|1595|cc|1|abbr=on|lk=on}}||[[Volkswagen EA827 engine#70-102 hp 1.6|AEK]]||{{convert|100|PS|kW bhp|0|abbr=on|lk=on}}<br>@ 5,800 rpm||{{convert|135|Nm|0|abbr=on|lk=on}}<br>@ 4,400 rpm||11.9 [[second|sec.]]||{{convert|185|km/h|1|abbr=on|lk=on}}||192 [[gram|g]]/[[kilometre|km]]||1994−<br>1995
+|-
+|align="left"|'''1.6'''||{{convert|1595|cc|1|abbr=on}}||[[Volkswagen EA827 engine#70-102 hp 1.6|AFT/AKS]]||{{convert|100|PS|kW bhp|0|abbr=on}}<br>@ 5,800 rpm||{{convert|140|Nm|0|abbr=on}}<br>@ 3,500 rpm||11.9 sec.||{{convert|185|km/h|1|abbr=on}}||192 g/km||1995−<br>2000
+|-
+|align="left"|'''1.8'''||{{convert|1781|cc|1|abbr=on}}||[[Volkswagen EA827 engine#75-112 hp 1.8|AAM/ANN]]||{{convert|75|PS|kW bhp|0|abbr=on}}<br>@ 5,000 rpm||{{convert|140|Nm|0|abbr=on}}<br>@ 2,500 rpm||15.5 sec.||{{convert|163|km/h|1|abbr=on}}||185 g/km||1993−<br>2000
+|-
+|align="left"|'''1.8'''||{{convert|1781|cc|1|abbr=on}}||[[Volkswagen EA827 engine#75-112 hp 1.8|ABS/ADZ/ANP]]||{{convert|90|PS|kW bhp|0|abbr=on}}<br>@ 5,500 rpm||{{convert|145|Nm|0|abbr=on}}<br>@ 2,500 rpm||13.1 sec.||{{convert|175|km/h|1|abbr=on}}||192 g/km||1993−<br>2000
+|-
+|align="left"|'''2.0'''||{{convert|1984|cc|1|abbr=on}}||[[list of Volkswagen Group petrol engines#115 hp 2.0|2E/ADY]]||{{convert|115|PS|kW bhp|0|abbr=on}}<br>@ 5,400 rpm||{{convert|166|Nm|0|abbr=on}}<br>@ 3,200 rpm||10.7 sec.||{{convert|193|km/h|1|abbr=on}}||190 g/km||1993−<br>1995
+|-
+|align="left"|'''2.0'''||{{convert|1984|cc|1|abbr=on}}||[[list of Volkswagen Group petrol engines#115 hp 2.0|AGG]]||{{convert|115|PS|kW bhp|0|abbr=on}}<br>@ 5,400 rpm||{{convert|166|Nm|0|abbr=on}}<br>@ 2,600 rpm||10.7 sec.||{{convert|193|km/h|1|abbr=on}}||190 g/km||1995−<br>2000
+|-
+|align="left"|'''2.0'''||{{convert|1984|cc|1|abbr=on}}||[[list of Volkswagen Group petrol engines#115 hp 2.0|AWG/AWF]]||{{convert|115|PS|kW bhp|0|abbr=on}}<br>@ 5,400 rpm||{{convert|165|Nm|0|abbr=on}}<br>@ 3,200 rpm||10.7 sec.||{{convert|193|km/h|1|abbr=on}}||190 g/km||2000−<br>2002
+|-
+|colspan="9" align="center"  bgcolor=#C0C0C0|<big>'''''[[diesel engine]]s'''''</big><br>'''all [[Turbocharged Direct Injection]] (TDI)'''
+|-
+|align="left"|'''1.9 TDI'''||{{convert|1896|cc|1|abbr=on|lk=on}}||[[list of Volkswagen Group diesel engines#1.9 TDI 66-81kW|1Z]]||{{convert|66|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 4,000 rpm||{{convert|202|Nm|0|abbr=on|lk=on}}<br>@ 1,900 rpm||13.3 [[second|sec.]]||{{convert|175|km/h|1|abbr=on|lk=on}}||140 g/km||1995−<br>1996
+|-
+|align="left"|'''1.9 TDI'''||{{convert|1896|cc|1|abbr=on}}||[[list of Volkswagen Group diesel engines#1.9 TDI 66-81kW|ALE/AHU]]||{{convert|66|kW|PS bhp|0|abbr=on}}<br>@ 4,000 rpm||{{convert|210|Nm|0|abbr=on}}<br>@ 1,900 rpm||13.3 sec.||{{convert|175|km/h|1|abbr=on}}||140 g/km||1996−<br>2002
+|-
+|align="left"|'''1.9 TDI'''||{{convert|1896|cc|1|abbr=on}}||[[list of Volkswagen Group diesel engines#1.9 TDI 66-81kW|AFN/AVG]]||{{convert|81|kW|PS bhp|0|abbr=on}}<br>@ 4,150 rpm||{{convert|235|Nm|0|abbr=on}}<br>@ 1,900 rpm||11.3 sec.||{{convert|190|km/h|1|abbr=on}}||140 g/km||1996−<br>2000
+|}{{clr}}
+
+==Golf Mk6 Cabriolet==
+
+A Golf Cabriolet based on the [[Volkswagen Golf Mk6]] is planned for the 2010 [[model year]].  There was no Golf Cabriolet based on the Mk5 Golf, Volkswagen instead choosing to release the [[Volkswagen Eos|Eos]], a [[coupé]] [[cabriolet]] based upon the [[Volkswagen Passat|Passat]] platform, and sharing the same [[wheelbase]] as the contemporaneous [[Volkswagen Golf Mk5|Golf]].  The [[Volkswagen Eos|Eos]] is expensive compared to its rivals, and therefore Volkswagen hope to reposition it as the [[Volkswagen Passat|Passat]] Cabriolet.  The Golf Cabriolet will cost slightly less while increasing profitability for Volkswagen.
+
+==See also==
+{{commons category|VW Golf Cabriolet|Volkswagen Golf Cabriolet}}
+*[[convertible]]
+*[[Volkswagen Golf]] - for an overview of all generations of the Volkswagen Golf
+*[[Volkswagen Golf Mk1]]
+*[[Volkswagen Golf Mk3]]
+*[[Volkswagen Golf Mk4]]
+*[[Volkswagen Golf Mk6]]
+*[[Volkswagen Golf Variant]] - estate (station wagon) versions of the Volkswagen Golf
+*[[list of Volkswagen Group platforms]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.Volkswagen.com Volkswagen.com] official international portal
+*[http://www.cabby-info.com Cabby-Info] A site with vast amounts of information about Cabriolets based on the Mk1 platform
+*[http://cabrio-info.com Cabrio-Info] A wiki with information about Cabriolets based on the Mk3 platform
+*[http://forums.vwvortex.com/zeroforum?id=152 VWvortex Cabriolet Forum] A forum for Mk1 and Mk3 cabriolet owners
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Golf Cabriolet]]
+[[Category:Convertibles]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles introduced in 1979]]
+[[Category:Vehicles introduced in 2009]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Upcoming automobiles]]
+
+
+{{modern-auto-stub}}
+
+[[da:Volkswagen Golf Cabriolet]]
+[[de:VW Golf Cabriolet]]
+[[sv:Volkswagen Golf Cabriolet]]

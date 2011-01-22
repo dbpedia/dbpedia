@@ -1,0 +1,148 @@
+:''Note: This article describes the BMW 328 of 1937 - 1939. There have also been cars called BMW 328i and 328Ci made since the 1990s as models of the [[BMW 3 Series]]''
+
+{{Infobox Automobile
+ | image        =   [[Image:BMW 328 (16.06.2007).jpg|250px]]
+ | name             = BMW 328
+ | manufacturer     = [[BMW|Bayerische Motorenwerke]]
+ | parent_company   = 
+ | aka              = 
+ | production       = 1936&ndash;1940<br>464 produced<ref name="bmwccn.no">[http://www.bmwccn.no/eng/chapter2/articles/roadster2.htm BMW 328 - The Legendary Roadster]</ref>
+ | assembly         = [[Eisenach]], [[Germany]]
+ | predecessor      = BMW 319/1
+ | successor        = [[BMW M1]]
+ | class            = [[Sports car]]        
+ | body_style       = [[Roadster]]
+ | layout           = [[FR layout]]
+ | platform         = 
+ | engine         = 1971 cc [[straight-6]]
+ | transmission     = 4-speed manual 
+ | wheelbase        = {{convert|2400|mm|in|1|abbr=on}}
+ | length           = {{convert|3900|mm|in|1|abbr=on}}
+ | width            = {{convert|1550|mm|in|1|abbr=on}}
+ | height           = {{convert|1400|mm|in|1|abbr=on}}
+ | ground_clearance = 
+ | front_track      = {{convert|1153|mm|in|1|abbr=on}}
+ | rear_track       = {{convert|1220|mm|in|1|abbr=on}}
+ | weight           = {{convert|830|kg|lb|0|abbr=on}}
+ | top_speed        = {{convert|150|km/h|mph|abbr=on}}
+ | fuel_capacity    = {{convert|13|USgal|L impgal|0|abbr=on}}<ref name=Norbye48>Norbye, p.48</ref>
+ | related          = BMW 319/1 (steering and suspension)<br />[[BMW 326]] (brakes, engine block)<ref name=Norbye48 />
+ | similar          = 
+ | designer         = [[Fritz Fiedler]]<br />Alfred Böning<br />Alex von Falkenhausen<br />[[Ernst Loof]]
+}}
+The '''BMW 328''' is a [[sports car]] made by [[BMW]] between 1936 and 1940, designed by Kurt Joachimson. 
+It featured many advanced features for its time, such as a tubular space frame and a [[hemi]]spherical combustion chamber engine.
+It was much praised at the time for its performance and handling, proving to be suitable not only for the BMW factory drivers, but also perfect for everyday motoring.
+
+==Specifications==
+{| class="wikitable"
+|-
+!colspan=2|Specifications<ref name="bmwccn.no" />
+|-
+|Engine|| [[straight-6]] OHV (light alloy cylinder head)
+|-
+|Displacement||{{convert|1971|cc|L cuin|abbr=on}} ({{convert|66|mm|in|abbr=on}} Bore × {{convert|96|mm|in|abbr=on}} Stroke)
+|-
+|Compression ratio||7,5 : 1
+|-
+|Fuel feed||3 Solex 30 JF downdraft carburetor
+|-
+|Power||{{convert|80|PS|kW hp|abbr=on}}@5000rpm*
+|-
+|Motor control||lateral cam shaft, drive by duplex chain
+|-
+|Fuel capacity|| {{Convert|50|L|usgal impgal|0|abbr=on}} (if needed {{Convert|100|L|usgal impgal|0|abbr=on}} possible)
+|-
+|Cooling|| Pump (7,5 l water)
+|-
+|Transmission|| 4-speed
+|-
+|Chassis|| Aluminium body and steel ladder frame<ref name=Norbye48 />
+|-
+|Suspension front|| swing axle with transverse leaf springs
+|-
+|Suspension rear|| live axle with leaf springs
+|-
+|Shock absorbers|| Hydraulic shock absorbers
+|-
+|Brakes||{{convert|280|mm|in|abbr=on}}-diameter hydraulic drum brakes
+|-
+|Wheelbase||{{convert|2400|mm|in|abbr=on}}
+|-
+|Track||{{convert|1153|mm|in|abbr=on}}/{{convert|1220|mm|in|abbr=on}}
+|-
+|External dimensions|| {{convert|3900|mm|in|abbr=on}} × {{convert|1550|mm|in|abbr=on}} × {{convert|1400|mm|in|abbr=on}}
+|-
+|Tires || 5.25 or 5.50–16
+|-
+|Unloaded weight (without drivers)|| {{convert|830|kg|lb|0|abbr=on}}
+|-
+|Top speed:|| {{convert|150|km/h|mph|abbr=on}}
+|}
+*<small> other sources say 4500 rpm.</small>
+
+===Engine===
+The engine has hemispherical or cross flow combustion chambers. The intake valves are opened by the usual overhead valve push rod arrangement of a side cam, push rods, and rocker arms. The exhaust valves, on the other side of the [[cylinder head]], are opened by the same cam shaft, vertical push rods, rocker arms, horizontal push rods, and a second set of rocker arms.
+
+==Awards==
+In 1999 the BMW 328 was named one of 25 finalists for [[Car of the Century]] by a worldwide panel of automotive journalists.
+
+==Motorsports==
+It won the [[RAC Rally]] in 1939 and came in fifth overall (first in its class) in the 1939 [[Le Mans 24]] hours.
+
+===Mille Miglia===
+In 1938, BMW 328 became a class winner in [[Mille Miglia]].
+
+In 1940, the Mille Miglia Touring Coupe won the Mille Miglia with average speed of {{convert|166.7|km/h|mph|abbr=on}}.
+
+In 2004, the BMW 328 Mille Miglia Touring Coupe became the first car to win both the Mille Miglia (1940) and the modern-day classical version of the race.<ref>[http://cars.uk.msn.com/news/articles.aspx?cp-documentid=147863833 Revealed:new BMW Mille Miglia!]</ref>
+
+==Production==
+After [[World War II|the Second World War]], the manufacturing plant in [[Eisenach]] where the 328 had been built found itself in the Russian occupation zone, and automobile manufacturing in Eisenach would follow a state directed path until [[German Reunification]] in 1989. 
+
+==Influence on Bristol==
+One of the Mille Miglia 328s (disguised as a [[Frazer Nash]]) and BMW's technical plans for the car were taken from the bombed BMW factory by English representatives from the [[Bristol Aeroplane Company]] and Frazer Nash companies. Fiedler, the BMW engineer, was persuaded to come too. [[Bristol Cars]] was set up to build complete cars, called Bristols, and would also supply engines to [[Frazer Nash]] for all their post-war cars. The first Bristol car, the [[Bristol 400|400]], was heavily based on the BMW plans.
+This Bristol engine was also a common option in [[AC Cars|AC cars]], before the [[AC Cobra|Cobra]].
+
+==Gallery==
+<gallery>
+Image:Bmw_328.jpg|BMW 328 photographed at the [[Gaisberg]]rennen, Salzburg, June 2004
+Image:Adolf Brudes im BMW 328 Mille Miglia am 14.08.1976.jpg|1940 BMW 328 „Mille Miglia“, with Adolf Brudes as the driver
+Image:BMW 328 6-Zylinder-Motor.jpg|Picture of BMW 328 engine
+Image:BMW 328 Bj 1938 - Heck.jpg|BMW 328, production year 1938
+Image:BMW 328 am 1986-08-16.jpg|BMW 328 on the Nürburgring
+</gallery>
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|last=Simons|first=Rainer|title=BMW 328: From roadster to legend|year=2004|month=|publisher=Bentley Publications|location=|isbn=0-8376-1231-4}}
+*{{cite book |last=Norbye |first=Jan P. |authorlink= |coauthors= |title=BMW - Bavaria's Driving Machines|year=1984 |publisher=Publications International |location=Skokie, IL |isbn=0-517-42464-9}}
+*{{Cite web|url=http://www.bmwccn.no/eng/chapter2/articles/roadster2.htm|title=BMW 328 - the legendary roadster|accessdate=2008-08-30|work=http://www.bmwccn.no}}
+
+== External links ==
+{{commonscat|BMW 328}}
+* [http://www.bmwworld.com/models/vintage/328_mille_miglia.htm BMW World: BMW 328 Mille Miglia]
+* [http://www.kfz-tech.de/Engl/Hersteller/BMW4/BMW328.htm BMW 328 specifications]
+* [http://jalopnik.com/222811/know-thy-germans-bmw-328-roadster-and-coupe Jalopnik BMW 328]
+* [http://carsguide.news.com.au/site/blogs-and-stuff/story/bmw_marks_75_years_of_roadsters/ Carsguide - 75th Anniversary of BMW Roadsters - Gallery]
+
+{{BMW pre war}}
+
+{{DEFAULTSORT:Bmw 328}}
+[[Category:BMW vehicles|328]]
+[[Category:Sports cars]]
+[[Category:1930s automobiles]]
+[[Category:Vehicles introduced in 1936]]
+[[Category:24 Hours of Le Mans race cars]]
+
+[[de:BMW 328]]
+[[es:BMW 328]]
+[[fr:BMW 328]]
+[[it:BMW 328]]
+[[lt:BMW 328]]
+[[nl:BMW 328]]
+[[no:BMW 328]]
+[[ro:BMW 328]]
+[[sv:BMW 328]]

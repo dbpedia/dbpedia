@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:hc="com.hillelcoren.components.*"
+	xmlns:classes="com.hillelcoren.components.autoComplete.classes.*"
+	width="100%" height="100%"
+	verticalAlign="middle" horizontalAlign="center"
+	color="#000000" xmlns:local="*"
+	initialize="init()" viewSourceURL="srcview/index.html">
+
+	<mx:Panel width="560" height="400" title="AutoComplete Demos">
+		<mx:TabNavigator width="100%" height="100%">
+			<local:ColorDemo label="Color Chooser"/>
+			<local:DataGridDemo label="DataGrid Demo"/>
+			<local:EmailDemo label="Email Demo"/>
+		</mx:TabNavigator>		
+	</mx:Panel>
+		
+</mx:Application>

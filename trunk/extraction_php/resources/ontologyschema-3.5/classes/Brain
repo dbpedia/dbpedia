@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Brain
+| rdfs:subClassOf = AnatomicalStructure
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = largest settlement type
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = owl:Thing
+}}

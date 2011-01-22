@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = minimum elevation
+|rdfs:domain = Place
+|rdfs:range = metre
+}}

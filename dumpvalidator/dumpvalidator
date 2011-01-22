@@ -1,0 +1,11 @@
+#!/bin/bash
+APP_ROOT=${0%/*}
+CP="$APP_ROOT"
+SEP=':'
+if [ "$(uname)" = "Cygwin" ]; then SEP=';'; fi
+for jar in "$APP_ROOT"/lib/*.jar "$APP_ROOT"/lib/*/*.jar
+do
+  if [ ! -e "$jar" ]; then continue; fi
+  CP="$CP$SEP$jar"
+done
+exec java -cp "$CP" DumpValidator "$@"

@@ -1,0 +1,94 @@
+{{Infobox Automobile
+|name=Mercedes-Benz W120/W121
+|image=[[Image:Mercedes 180 2 v sst.jpg|250px|W120 180 Ponton sedan]]
+|manufacturer=[[Daimler-Benz]]
+|production=1953&ndash;1962 <br/> 442,963 built <br/> + 25,881 190SL
+|predecessor=[[Mercedes-Benz W136]]/[[Mercedes-Benz W191|W191]]
+|successor=[[Mercedes-Benz W110]]
+|class=[[Midsize car]]
+|body_style=4-door [[sedan (car)|sedan]]<br>2-door [[roadster]]
+|wheelbase=104.3&nbsp;in (2649&nbsp;mm)
+|weight=2690&nbsp;lb (1220&nbsp;kg)
+}}
+[[Image:Merecedes Tankstelle 1961.jpg|thumb|250px|Mercedes-Benz W120 model at a petrol station, 1961]]
+The [[Mercedes-Benz]] '''W120''' and '''W121''' "[[Mercedes-Benz Ponton|Ponton]]" cars were produced from 1953 through 1962.  They were sold under the "180" and "190" model names.  The Ponton models were replaced by the [[Mercedes-Benz W110|W110 "Fintail"]] models beginning in 1961.  The 180 was the first 'small' Mercedes, it can be thought as the C-class of that era.  Mercedes-Benz would return to this market segment in 1982  with the 190E.  The W121 190 was the E-class of the time.  All the 'Ponton' generation models looked very similar in appearance, one could not clearly identify even a 220SE from a 180, only after seeing its larger size and chrome touches was it possible to identify it as a different model.  This was the only generation in which all models looked incredibly similar, though the 300 was exclusive.
+
+The form and body of the car changed little during its production run.   However, in 1957, a year after the introduction of the 190 sedan the Mercedes star at the front of the car was made detachable: reports at the time indicated that this was either to pander to the requirements of certain export markets, notably [[Switzerland]] or to reduce the risk of pedestrian injury in the event of an accident.<ref name=AutoMotoruSport197723>{{cite book |last= |first= |authorlink= Ferdinand Simoneit (Ed)|coauthors= |title= Auto Motor und Sport Heft 23 Seite 6: Vor 20 Jahren: Auto Motor u. Sport in Heft 23 und 24 / 1957|year= 1977 |publisher= Vereinigte Motor-Verlag GmbH & Co KG|location= Stuttgart |id=}}</ref> 
+
+A roadster variant, the '''R121''', better known as the [[Mercedes-Benz 190SL|190SL]], was produced from 1955 to 1963.
+
+Mercedes also produced 6-cylinder Ponton models, the larger [[Mercedes-Benz W128|W128]]/[[Mercedes-Benz W180|W180]] 220s.
+
+==Models==
+{| class=wikitable
+!Type
+!Chassis code
+!Years
+!Model
+!Engine
+!Number built<ref>according to: Werner Oswald: ''Deutsche Autos 1945-1990'', vol.5. Motorbuch Verlag, Stuttgart 2001, ISBN 3-613-02131-5, p. 32.</ref>
+|-
+|rowspan=7|W120 sedan||rowspan=4|W120.010|| 1953&ndash;1957||180 || rowspan=4|1.8&nbsp;L ''[[Mercedes-Benz M121 engine|M121]]'' [[straight-4|I4]]||52,186
+|-
+|1957&ndash;1959||180a||27,353
+|-
+|1959&ndash;1961||180b||29,415
+|-
+|1961&ndash;1962||180c||9,280
+|-
+|rowspan=3|W120.110||1953&ndash;1959||180D||rowspan=2|1.8&nbsp;L ''[[Mercedes-Benz OM636 engine|OM636]]'' [[Diesel engine|Diesel]] [[straight-4|I4]]||116,485
+|-
+|1959&ndash;1961||180Db||24,676
+|-
+|1961&ndash;1962||180Dc||1.8&nbsp;L ''[[Mercedes-Benz OM621 engine|OM621]]'' [[Diesel engine|Diesel]] [[straight-4|I4]]||11,822
+|-
+|rowspan=4|W121 sedan|| rowspan="2" | W121.010|| 1956&ndash;1959|| 190|| 1.9&nbsp;L ''[[Mercedes-Benz M121|M121]]'' [[straight-4|I4]]||61,345
+|-
+|1959&ndash;1961||190b||1.9&nbsp;L ''[[Mercedes-Benz M121 engine|M121]]'' [[straight-4|I4]]||28,463
+|-
+|rowspan=2|W121.110||1958&ndash;1959||190D||1.9&nbsp;L [[Diesel engine|Diesel]] [[straight-4|I4]]||20,629
+|-
+|1959&ndash;1961||190Db||1.9&nbsp;L ''[[Mercedes-Benz OM621 engine|OM621]]'' [[Diesel engine|Diesel]] [[straight-4|I4]]||61,309
+|-
+| || || || || || Notes
+|-
+|rowspan=4|[[Mercedes-Benz 190SL|R121 Roadster]]||rowspan=2|121.040 hardtop||1955&ndash;1961||rowspan=4|[[Mercedes-Benz 190SL|190SL]]||rowspan=4|1.9&nbsp;L ''[[Mercedes-Benz M121 engine|M121]]'' [[straight-4|I4]]||921 engine
+|-
+|1962&ndash;1963||928 engine
+|-
+|rowspan=2|121.042 soft top||1955&ndash;1961||921 engine
+|-
+|1962&ndash;1963||928 engine
+|}
+
+==References==
+{{Reflist}}
+
+* {{cite journal|title=Mercedes 180-D|journal=[[Road & Track]]|issue=1959 Road Test Annual|pages=81&ndash;83}}
+
+== External links ==
+{{commonscat|Mercedes-Benz W120}}
+{{commonscat|Mercedes-Benz W121}}
+{{commonscat|Mercedes-Benz R121}}
+
+{{Classic Mercedes-Benz vehicles}}
+{{Mercedes-Benz E-Class lineage}}
+
+
+{{Classicpow-auto-stub}}
+
+[[Category:Mercedes-Benz platforms|W120]]
+[[Category:Mercedes-Benz vehicles|W120]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sedans]]
+[[Category:Roadsters]]
+[[Category:1950s automobiles]]
+[[Category:1960s automobiles]]
+[[Category:Vehicles introduced in 1953]]
+
+[[de:Mercedes-Benz W120]]
+[[fr:Mercedes-Benz W121]]
+[[it:Mercedes-Benz W120]]
+[[ja:メルセデス・ベンツ W120]]
+[[pl:Mercedes-Benz W120]]
+[[sv:Mercedes-Benz W120]]

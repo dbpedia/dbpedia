@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Beverage
+|rdfs:subClassOf = owl:Thing
+}}

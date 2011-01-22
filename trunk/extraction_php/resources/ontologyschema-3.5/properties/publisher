@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = publisher
+| rdfs:domain = Work
+| rdfs:range = Company
+}}

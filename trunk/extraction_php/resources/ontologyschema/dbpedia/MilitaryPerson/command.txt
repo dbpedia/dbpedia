@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= command
+|rdfs:domain	= MilitaryPerson
+|rdfs:range		= xsd:string
+}}

@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Amphibian
+|rdfs:subClassOf = Animal
+}}

@@ -1,0 +1,53 @@
+{{Refimprove|date=July 2009}}
+A '''straight-three engine''', also known as '''inline-three engine''', or a '''triple''', is an [[internal combustion engine]] with three [[cylinder (engine)|cylinder]]s arranged in a straight line or plane, side by side.
+
+Most inline-three engines employ a crank angle of 120°, and are thus rotationally balanced; however, since the three cylinders are offset from each other, the firing of the end cylinders induces a rocking motion from end to end, since there is no opposing cylinder moving in the opposite direction as in a rotationally balanced straight-six.  The use of a [[balance shaft]] in an antiphase to that vibration produces a smoothly running engine.
+
+An exception to the 120° [[crankshaft]] can be found in some of the inline-three engines made by motorcycle manufacturer [[Laverda]].  In these engines (sometimes referred to as 180° triples), the outer pistons rise and fall together like a 360° [[straight-two engine]].  The inner cylinder is offset 180° from the outer cylinders.  In these engines, cylinder #1 fires 180°.  Later, cylinder #2 fires, and then 180° later cylinder #3 fires.  There is no power stroke on the final 180° of rotation.
+
+==Automobile use==
+[[list of automotive superlatives|The smallest]] inline-three engine was the 543&nbsp;cc [[Suzuki]] ''F5A'', which was used in the [[1982]] [[Suzuki Cervo|Cervo]].  [[Smart (automobile)|Smart]] currently produces a diminutive 799&nbsp;cc inline-three [[diesel engine]], the smallest automotive diesel engine in production<!-- Contradicting sentences (read: ...smallest automtive diesel engine ever.), edited for clarity. -->{{Citation needed|date=November 2009}}.  Most inline-three engines fall below 1.2&nbsp;[[litre]]s, with a 1,198&nbsp;cc [[Volkswagen Group]] unit seen as the largest petrol unit.  A 1.8&nbsp;litre (1779&nbsp;cc) diesel engine was produced by [[VM Motori]] to the [[1984]] [[Alfa Romeo 33]] ''1.8&nbsp;TD'', the largest inline-three produced for automotive use.
+
+Basic versions of the [[Suzuki Cultus|Suzuki Swift/Forsa and related Geo/Chevy Metro]] used an inline-three.
+
+Some [[Daihatsu]] cars use inline-three engines.  The [[Daihatsu Charade|Charade]] and the [[Daihatsu Mira|Mira/Cuore]] used (or are still fitted with) this engine type.  Three-cylinder 1.0&nbsp;litre diesel and [[turbo diesel]] engines were also offered in Daihatsu Charades.
+
+The [[Volkswagen Group]] was known for using three cylinder petrol and diesel engines in the [[Audi]] [[A2]], [[Volkswagen]] [[Polo]], [[Seat]] [[Ibiza]] and [[Škoda Auto|Škoda]] [[Fabia]]. The engines in these cars ranged from 1.2 petrols with 4v per cylinder that delivered 60bhp to 1.4 diesels that delivered 90bhp and had turbo's with [[variable vane geometry]] and delivered outstanding economy, this particular engine was used solely in the [[Audi]] [[A2]]. The most innovative 3 cylinder engine the [[Volkswagen Group]] released was the 1.2 litre diesel, it was one of the first aluminium diesel engines and at the time of release it was the lightest and most economic engine in production. It won many awards and was used in the [[AudiA2 3l]] and the [[Volkswagen Lupo 3l]]
+
+[[Subaru]] also used a inline-three in the [[Subaru Justy]] and the export version of the [[Subaru Sambar]], called the [[Subaru Sumo]], using their [[Subaru EF engine]].
+
+[[Mitsubishi]] has also made extensive use of [[Mitsubishi Motors engines#three cylinder|three cylinder engines]].
+
+In the [[1950s]] and [[1960s]], the [[Saab 93]], [[Saab 95]], [[Saab 96]], and certain [[DKW]] automobiles were powered by inline-three-cylinder, [[two-stroke engine]]s.
+
+The first-generation [[Honda Insight]] (2000-2006) used a 1.0&nbsp;litre inline-three engine in conjunction with an electric motor in its [[hybrid electric vehicle|hybrid]] system.
+
+[[Toyota]], [[Peugeot]] and [[Citroen]] are using a common inline-three-cylinder engine in models of [[Toyota Aygo|Aygo]], [[Peugeot 107|107]] and [[Citroen C1|C1]] respectively.
+
+Currently, the only new three-cylinder car available in North America is the [[Smart fortwo]].
+
+==Motorcycle use==
+===four-stroke===
+The four-stroke inline-three is used by [[Aprilia]], [[Laverda]], [[Triumph Motorcycles Ltd|Triumph]], [[Yamaha Motor Corporation|Yamaha]], [[BMW]], [[Benelli]], [[Petronas]], [[MV Agusta]] and the [[BSA]].
+
+The [[Triumph Rocket III]] has a 2,294&nbsp;cc inline-three engine.  It is currently the largest engine in a motorcycle being made by a major manufacturer.
+
+===two-stroke===
+Between [[1972]] and [[1977]], [[Suzuki]] made the inline-three-cylinder water-cooled 750cc GT750 and the aircooled GT550 and GT380.
+
+Between [[1969]] and [[1978]], [[Kawasaki Heavy Industries|Kawasaki]] made inline-three-cylinder H1 models in 250cc, 350cc, 400cc, 500cc and 750cc, all air-cooled.
+
+==References==
+*http://www.laverdamania.com/millegb.htm {{Dead link|date=July 2009}}
+*http://www.autozine.org/technical_school/engine/smooth1.htm
+
+{{Piston engine configurations}}
+
+{{DEFAULTSORT:Straight-Three Engine}}
+[[Category:Piston engine configurations|Straight-03]]
+[[Category:Motorcycle engines]]
+
+[[ja:直列3気筒]]
+[[pt:Motor de três cilindros em linha]]
+[[ru:Рядный трёхцилиндровый двигатель]]
+[[fi:R3]]

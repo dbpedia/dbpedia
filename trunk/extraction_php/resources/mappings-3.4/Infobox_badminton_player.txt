@@ -1,0 +1,17 @@
+{{ DBpediaTemplateMapping
+| mapToClass = BadmintonPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = event | ontologyProperty = BadmintonPlayer/event }}
+	{{ DBpediaPropertyMapping | templateProperty = coach | ontologyProperty = BadmintonPlayer/coach }}
+	{{ DBpediaPropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_name | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = date_of_birth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place_of_birth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = date_of_death | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place_of_death | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Person/weight | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = years_active | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = years_active | ontologyProperty = Person/activeYearsEndYear }}
+}}

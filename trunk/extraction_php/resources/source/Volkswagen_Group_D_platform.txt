@@ -1,0 +1,43 @@
+{{TOC right}}{{refimprove|date=October 2009}}
+The '''Volkswagen Group D platform''' is a series of [[automobile platform]]s from the [[Germany|German]] conglomerate [[Volkswagen Group]].  It has been used for [[full-size car|large]] [[luxury vehicle|luxury automobiles]].  Originally used by the [[Audi]] [[marque]], it is also latterly used by the [[Volkswagen|Volkswagen Passenger Cars]], and [[Bentley]] marques.
+
+==D1/D11{{anchors|D1|D11}}==
+The '''D1''' (also known as the '''D11'''<ref name="motor-klassik">{{cite web|url=http://www.motor-klassik.de/audi-audi-v8-d11_4c--1214573.html|title=Audi V8 (D11/4C) - Technische Daten|work=Motor Klassik|language={{de icon}}|accessdate=2009-06-30}}</ref>) platform was based on a stretched version of the [[Volkswagen Group C platform#C3|Volkswagen Group C3 platform]]:
+*[[Audi V8]] (''Typ'' 44) (1988-1991)
+*Audi V8 (''Typ'' 4C) (1991-1994)
+
+==D2==
+The '''D2''' platform is an all [[aluminium]] [[monocoque]], based on [[space frame]] principles, which helped to significantly reduce weight without being any less rigid.  Audi AG refers to this type of construction as the "Audi Space Frame" (ASF).  It is technically the first 'original' D platform.
+
+*[[Audi A8#D2|Audi A8]] (1994-2003)
+*[[Audi S8#D2|Audi S8]] (1998-2003)
+
+==D3==
+The '''D3''' platform, also employing an aluminium space frame, is used for the current generation Audi A8 and S8.
+
+*[[Audi A8#D3|Audi A8]] (2003-present)
+*[[Audi S8#D3|Audi S8]] (2006-present)
+
+==D1{{Anchor|D1s}}==
+The '''D1''' platform cars (not to be confused with the earlier Audi V8 platform) share some components with the D3 platform, but have conventional [[steel]] bodyshell construction.
+
+*[[Volkswagen Phaeton]] (''Typ'' 3D, 2002-present)
+*[[Bentley Continental GT]] (2004-present)
+*[[Bentley Continental Flying Spur (2005)]] (2005-present)
+
+==References==
+{{reflist}}
+{{refbegin}}
+*{{cite web|title=Im Fokus: Volkswagen|url=http://www.automobil-produktion.de/imperia/md/content/ap/heftausgaben/ap2006/ap03-2006/14_15_ap.pdf|language={{de icon}}|format=PDF|work=Automobil-Produktion|date=March 2006|accessdate=1 October 2009}}
+*{{cite web|title=Europe's slight rise & anticipated decline - Auto by the Numbers - car sales, production in Western Europe - Illustration - Statistical Data Included|url=http://findarticles.com/p/articles/mi_m0KJI/is_4_114/ai_85009249/pg_2/|work=CBS Interactive Business UK|date=April 2002|accessdate=1 October 2009}}
+{{refend}}
+
+==External links==   
+*[http://www.VolkswagenAG.com Volkswagen Group corporate website]   
+
+{{Volkswagen Group brands}}
+{{Audi}}
+{{VW}}
+{{Bentley}}
+
+[[Category:Volkswagen platforms|D]]

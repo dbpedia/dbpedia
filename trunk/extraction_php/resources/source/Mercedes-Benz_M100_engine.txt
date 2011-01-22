@@ -1,0 +1,19 @@
+{{Infobox Automobile engine
+|image=MB W109 6 3 engine.jpg
+|name=Mercedes-Benz M-100 Engine
+|manufacturer=[[Daimler-Benz]]
+}} 
+[[Image:MB W109 6 3 engine.jpg|thumb|Mercedes-Benz M-100 Engine]]
+
+The '''Mercedes-Benz M100 Engine''' was introduced in the [[1963]] [[Mercedes-Benz 600]] with 6.3 litres, and later also used in the [[Mercedes-Benz 300SEL 6.3]] from 1968 onwards, and even larger, in the 1970s [[Mercedes-Benz 450SEL 6.9]].
+
+It featured a cast iron [[V8]] with a single overhead camshaft operating [[sodium]]-filled [[poppet valve|valve]]s (as are found in piston-driven aircraft) against hardened valve seats on each aluminium alloy cylinder head. 
+
+Each hand-built unit was bench-tested for 265 minutes, 40 of which were under full load. A mechanical [[fuel injection]] system designed and built in-house by Daimler-Benz was used through 1972, with Bosch D-[[Jetronic]] electronic fuel injection being used instead starting in 1973. Several years later came a switch to K-Jetronic. As in all Mercedes-Benz automobile engines, the crankshaft, connecting rods and pistons were [[Forge|forged]] instead of [[Casting|cast]]. 
+
+In non-US trim, the 6.9 litre (6814 cm³ or 417 in³) power plant was conservatively rated at 286 horsepower (213 kW) with 405 ft·lbf (549 Nm) of [[torque]] helping to compensate for the 2.65 to 1 final [[mechanical advantage|drive ratio]] necessary for sustained high-speed cruising. The North American version, introduced in 1977, was only slightly less powerful at 250 horsepower (186 kW) and 360 ft·lbf (488 N·m) of torque due to more stringent emissions control requirements. 
+
+In the interest of both engine longevity as well as creating some extra space under the hood, a "[[dry sump]]" engine [[lubrication]] system was used. Originally developed for use in race cars as a way to prevent foaming of the engine oil by the crankshaft which in turn would create a serious drop in oil pressure, the system circulated twelve litres of oil between the storage tank mounted inside the right front fender and the engine as opposed to the usual four or five litres found in V8s with a standard oil pan and oil pump. As a result, the engine itself had no dipstick for checking the oil level. Rather, the dipstick was attached to the inside of the tank's filler cap (accessible from the engine compartment) and the oil level was checked with the engine running and at operating temperature. The dry sump system also had the benefit of extending the oil change interval to 12,500 miles (20,000 km). This, along with hydraulic valve lifters which required no adjusting and special cylinder head gaskets which eliminated the need for periodic retorquing of the head bolts made the 6.9 nearly maintenance-free for its first 50,000 miles (80,500 km), requiring little basic service other than coolant, minor tune-ups, oil changes and replacement of the air, fuel, oil and power steering filters.
+
+[[Category:Mercedes-Benz engines|M100]]
+[[Category:Articles lacking sources (Erik9bot)]]

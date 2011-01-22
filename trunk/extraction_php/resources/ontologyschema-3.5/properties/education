@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = education
+| rdfs:domain = Person
+}}

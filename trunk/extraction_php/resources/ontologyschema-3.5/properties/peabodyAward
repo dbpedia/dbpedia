@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = Peabody Award
+| rdfs:domain = Comedian
+| rdfs:range = Award
+}}

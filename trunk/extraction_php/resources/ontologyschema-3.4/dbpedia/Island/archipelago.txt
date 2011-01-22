@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = archipelago
+|rdfs:domain = Island
+|rdfs:range = Island
+}}

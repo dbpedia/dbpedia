@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = department
+| rdfs:range = PopulatedPlace
+}}

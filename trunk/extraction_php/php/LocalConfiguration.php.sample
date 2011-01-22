@@ -1,0 +1,43 @@
+<?php
+
+/*
+ * Copy this file to LocalConfiguration.php and customize as required
+ */
+
+namespace dbpedia
+{
+
+use dbpedia\wikiparser\WikiTitle;
+	
+class LocalConfiguration
+{
+    const ontologyNsCode = WikiTitle::NS_MAIN;
+    const ontologyPrefix = 'DBpedia/ontology/';
+    
+    const templateMappingNsCode = WikiTitle::NS_TEMPLATE;
+    const templateMappingSuffix = '/DBpedia';
+    
+    const tableMappingNsCode = WikiTitle::NS_MAIN;
+    const tableMappingName = 'DBpedia/TableMappings';
+    const tableMappingPath = 'Tables/table_mapping';
+    
+    const ontologyDir = '/home/fuberlin/data/projects/dbpedia/trunk/extraction/src/main/resources/ontologyschema';
+    const mappingDir = '/home/fuberlin/data/projects/dbpedia/trunk/extraction/src/main/resources/mappings';
+    const configFile = '/home/fuberlin/data/config.php.ser';
+    const tmpDir = '/home/fuberlin/tmp/process';
+    
+    // 8080 is not open on IPv6 ::1, only on 127.0.0.1 - don't use localhost to avoid a lookup
+    const sparulUrl = 'http://127.0.0.1:8080/sparul';
+    
+    // 80 is open on IPv6 ::1 and on 127.0.0.1
+    const ultraUrl = 'http://127.0.0.1/up/api.php';
+    
+    const ultraUser = '<user>';
+    const ultraPassword = '<password>';
+    
+    const abstractPageUrlFormat = 'http://127.0.0.1:9080/dbpedia_abstracts/index.php/%2$s?dblang=%1$s';
+}
+
+}
+
+?>

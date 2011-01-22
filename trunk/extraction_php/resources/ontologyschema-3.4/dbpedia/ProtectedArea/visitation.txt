@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= visitation
+|rdfs:domain 	= ProtectedArea
+|rdfs:range		= xsd:string
+}}

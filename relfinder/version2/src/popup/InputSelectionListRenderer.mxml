@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox xmlns:mx="http://www.adobe.com/2006/mxml" width="100%" height="100%" horizontalGap="0"
+	creationComplete="init()"  mouseOver="over()" mouseOut="out()" click="clickHandler(event)"
+	horizontalScrollPolicy="off" verticalScrollPolicy="off"
+	implements="mx.controls.listClasses.IDropInListItemRenderer, mx.core.IFontContextComponent">
+	
+	<mx:Script>
+		<![CDATA[
+			import flash.events.KeyboardEvent;
+			import flash.events.MouseEvent;
+			import flash.geom.Point;
+			import mx.controls.List;
+			import mx.controls.listClasses.BaseListData;
+			import mx.controls.listClasses.ListBaseContentHolder;
+			import mx.core.IFlexModuleFactory;
+			import mx.core.IToolTip;
+			import mx.events.FlexEvent;
+			import mx.managers.ToolTipManager;
+			import popup.InputSelectionEvent;
+			
+			[Bindable]
+			private var _list:List;
+			
+			private var tooltipInstance:IToolTip;
+			
+			private function init():void
+			{
+				if (listData && listData.owner) {
+					_list = listData.owner as List;
+				}
+			}
+			
+			private function clickHandler(e:MouseEvent):void {
+				if (data.hasOwnProperty("label") && (data.label == "Searching..." || data.label == "No results found")) {
+					e.stopImmediatePropagation();
+				}
+			}
+			
+			private function over():void {
+				if (data.hasOwnProperty("uris")) {
+					var pos:Point = contentToGlobal(new Point(x, y));
+					tooltipInstance = ToolTipManager.createToolTip(arrayToString(data.uris), pos.x + width, pos.y - y);
+				}
+			}
+			
+			private var _listData:BaseListData;
+			
+			[Bindable("dataChange")]
+			[Inspectable(environment="none")]
+			public function get listData():BaseListData
+			{
+				return _listData;
+			}
+			
+			public function set listData(value:BaseListData):void
+			{
+				_listData = value;
+			}
+			
+			public function get fontContext():IFlexModuleFactory
+			{
+				return moduleFactory;
+			}
+			
+			public function set fontContext(moduleFactory:IFlexModuleFactory):void
+			{
+				this.moduleFactory = moduleFactory;
+			}
+			
+			private var la:LoadingAnimation;
+			
+			private var _data:Object;
+			
+			[Bindable("dataChange")]
+			override public function get data():Object {
+				return _data;
+			}
+			
+			override public function set data(value:Object):void 
+			{
+				_data = value;
+				
+				dispatchEvent(new FlexEvent(FlexEvent.DATA_CHANGE));
+				
+				if (value != null && value.hasOwnProperty("label") && value.label == "Searching...") {
+					
+					if (la == null) {
+						la = new LoadingAnimation();
+						la.circleRadius = 7;
+						la.numberOfDots = 8;
+						la.dotSize = 2;
+						la.startRotation();
+						
+						addChildAt(la, 0);
+					}
+					
+					
+					
+				}else {
+					if (la != null) {
+						removeChild(la);
+						la.stopRotation();
+						la = null;
+					}
+				}
+			}
+			
+			private function arrayToString(arr:Array):String {
+				var output:String = "";
+				for each(var entry:String in arr) {
+					output += entry + "\n";
+				}
+				return output;
+			}
+			
+			private function out():void {
+				if (tooltipInstance) {
+					try {
+						ToolTipManager.destroyToolTip(tooltipInstance);
+					}catch (e:ArgumentError) {
+						trace(e);
+					}
+				}
+			}
+			
+			public function defaultDropDownLabelFunction( item:Object ):String
+			{
+				var label:String = item.label;
+				
+				var str:String = "";
+				var searchStr:String = (parent.parent.parent.parent.parent as InputSelection).textInput.text;
+				
+				var start:int = label.search(new RegExp(searchStr, "gi"));
+				
+				if (start < 0) {
+					return label;
+				}
+				
+				str = label.substring(0, start);
+				str = str + "<b><u>" + label.substr(start, searchStr.length) + "</u></b>";
+				str = str + label.substr(start + searchStr.length, label.length);
+    			
+    			return str;
+			}
+			
+		]]>
+	</mx:Script>
+	
+	<mx:Label id="rendererLabel" width="100%" height="100%" truncateToFit="true" htmlText="{ defaultDropDownLabelFunction( data ) }"  />
+	
+</mx:HBox>

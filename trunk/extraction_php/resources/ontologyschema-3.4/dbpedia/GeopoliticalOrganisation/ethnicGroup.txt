@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = ethnic group
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = EthnicGroup
+}}

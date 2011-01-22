@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Button 
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	initialize="init()">
+	
+	<mx:Metadata>
+		[Event(name="removeClick")]
+		[Style(name="selectedFontWeight", type="String", inherit="yes")]
+		[Style(name="showComma", type="String", inherit="yes", enumeration="yes,no")]
+	</mx:Metadata>
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.Text;
+			import com.hillelcoren.utils.StringUtils;
+			import mx.events.FlexEvent;
+			import mx.core.IFlexDisplayObject;
+			import mx.core.mx_internal;
+            import mx.controls.ButtonLabelPlacement;
+
+            [Bindable]
+            [Embed('/com/hillelcoren/assets/icons/remove.png')]
+            private var Icon:Class;
+			
+			private var _showRemoveIcon:Boolean;
+			private var _showRemoveIconChanged:Boolean;
+			
+			private var _origColor:uint;
+			private var _showCommaChanged:Boolean;
+			private var _allowMultipleSelection:Boolean;
+			
+			private function init():void
+			{
+				labelPlacement = ButtonLabelPlacement.LEFT;
+				
+				addEventListener( FocusEvent.FOCUS_IN, handleFocusIn );
+			}
+			
+			private function handleFocusIn( event:FocusEvent ):void
+			{
+				drawFocus( false );
+			}
+			
+			override protected function commitProperties():void
+			{
+				super.commitProperties();
+				
+				if (_showRemoveIconChanged)
+				{
+					_showRemoveIconChanged = false;
+					
+					var icon:Class = _showRemoveIcon ? Icon : null;
+					setStyle( "icon", icon );
+				}
+				
+				if (_showCommaChanged)
+				{
+					_showCommaChanged = false;
+					
+					var showComma:String = getStyle( "showComma" );
+					label = StringUtils.trimCommas( label ) + ( showComma == "yes" && _allowMultipleSelection ? "," : "" );
+				}
+			}
+			
+			override public function styleChanged( styleProp:String ):void
+			{
+				super.styleChanged( styleProp );
+	
+				if (!styleProp || styleProp == "styleName")
+				{
+					_showCommaChanged = true;
+					invalidateProperties();
+				}
+			}
+			
+			override protected function updateDisplayList( unscaledWidth:Number, unscaledHeight:Number ):void
+			{
+				super.updateDisplayList( unscaledWidth, unscaledHeight );
+				
+				var format:TextFormat = new TextFormat();
+				
+				if (selected || mx_internal::phase == "down")
+				{
+					var color:uint = getStyle( "textSelectedColor" );
+					
+					if (textField.textColor != color)
+					{
+						_origColor = textField.textColor;
+						format.color = color;
+					}
+					
+					if (getStyle( "selectedFontWeight" ) == "bold")
+					{
+						setStyle( "fontWeight", "bold" );								
+					}
+				}
+				else
+				{
+					setStyle( "fontWeight", "normal" );
+				}
+				
+				textField.setTextFormat( format );
+				
+				var showComma:String = getStyle( "showComma" );
+				
+				if (showComma == "yes" && _allowMultipleSelection)
+				{
+					format.underline = false;
+					textField.setTextFormat( format, label.length - 1, label.length );
+				}
+			}
+			
+			
+			public function set showRemoveIcon( value:Boolean ):void
+			{
+				if (value != _showRemoveIcon)
+				{
+					_showRemoveIcon = value;
+					_showRemoveIconChanged = true;
+					
+					invalidateProperties();
+				}
+			}						
+			
+		    override protected function clickHandler(event:MouseEvent):void
+		    {
+		    	super.clickHandler( event );
+		    	
+		    	if (_showRemoveIcon)
+		    	{
+		    		var icon:IFlexDisplayObject = mx_internal::currentIcon; 
+		    		
+		    		if (icon.hitTestPoint( event.stageX, event.stageY ))
+		    		{
+		    			event.stopImmediatePropagation();
+		    			dispatchEvent( new Event( "removeClick" ) );
+		    		}		    				    	
+		    	}		          
+		    }
+
+			public function set allowMultipleSelection( value:Boolean ):void
+			{
+				if (_allowMultipleSelection != value)
+				{
+					_allowMultipleSelection = value;
+					_showCommaChanged = true;
+				
+					invalidateProperties();
+				}
+			}
+						
+		]]>
+	</mx:Script>
+	
+</mx:Button>

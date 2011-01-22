@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = distance traveled
+| rdfs:domain = SpaceMission
+| rdfs:range = Length
+}}

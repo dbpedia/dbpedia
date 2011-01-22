@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = maximum depth
+| rdfs:domain = Place
+| rdfs:range = Length
+}}

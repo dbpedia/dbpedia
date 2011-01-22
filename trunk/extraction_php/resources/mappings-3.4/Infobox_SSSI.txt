@@ -1,0 +1,9 @@
+{{ DBpediaTemplateMapping
+| mapToClass = SiteOfSpecialScientificInterest
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = aos | ontologyProperty = SiteOfSpecialScientificInterest/areaOfSearch }}
+	{{ DBpediaPropertyMapping | templateProperty = interest | ontologyProperty = SiteOfSpecialScientificInterest/interest }}
+	{{ DBpediaPropertyMapping | templateProperty = notifyDate | ontologyProperty = SiteOfSpecialScientificInterest/notifyDate }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = Area }}
+}}

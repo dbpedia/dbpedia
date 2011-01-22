@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/images.txt> <http://dbpedia.org/property/companyLogo> <http://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg> .
+<http://dbpedia.org/resource/images.txt> <http://dbpedia.org/property/imagePhoto> <http://upload.wikimedia.org/wikipedia/commons/d/db/Cityscapeberlin2006.JPG> .
+<http://dbpedia.org/resource/images.txt> <http://dbpedia.org/property/stateCoa> <http://upload.wikimedia.org/wikipedia/commons/d/d9/Coat_of_arms_of_Berlin.svg> .
+<http://dbpedia.org/resource/images.txt> <http://dbpedia.org/property/pngLogo> <http://upload.wikimedia.org/wikipedia/commons/c/cc/testLogo.png> .
+<http://dbpedia.org/resource/images.txt> <http://dbpedia.org/property/pngImagelin> <http://upload.wikimedia.org/wikipedia/commons/d/d5/PngLogo.png> .
+<http://dbpedia.org/resource/images.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .

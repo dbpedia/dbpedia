@@ -1,0 +1,16 @@
+{{TemplateMapping
+| mapToClass = College
+| mappings = 
+	{{PropertyMapping | templateProperty = old_names | ontologyProperty = formerName }}
+	{{PropertyMapping | templateProperty = sister_college | ontologyProperty = sisterCollege }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = colours | ontologyProperty = colours }}
+	{{PropertyMapping | templateProperty = full_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = name_Latin | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = motto | ontologyProperty = motto }}
+	{{PropertyMapping | templateProperty = established | ontologyProperty = established }}
+	{{PropertyMapping | templateProperty = head | ontologyProperty = head }}
+	{{PropertyMapping | templateProperty = undergraduates | ontologyProperty = undergraduates }}
+	{{PropertyMapping | templateProperty = graduates | ontologyProperty = graduates }}
+	{{PropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+}}

@@ -1,0 +1,122 @@
+{{Infobox Automobile
+|name              = Volkswagen Constellation
+|image             = [[Image:MANConstellation.jpg|300px]]<br>''Volkswagen Constellation tractor unit''
+|manufacturer      = [[Volkswagen Trucks and Buses]]
+|parent_company    = [[MAN SE]]
+|aka               = MAN Constellation
+|production        = 2005-present
+|production_start  = 
+|production_end    = 
+|model_years       = 
+|assembly          = [[Resende]], [[Brazil]]<ref name=vwtbpress370>{{cite web|title=Volkswagen Trucks and Buses presents the Constellation 370 line|url=http://www.vwtbpress.com.br/noticia.asp?n=381|work=MAN Latin America|publisher=VWTBpress.com.br|date=07-08-2007|accessdate=21 November 2009}}</ref>
+|predecessor       = 
+|successor         = 
+|class             = [[Commercial vehicle]] - [[truck]]
+|body_style        = [[Tractor unit]], [[Chassis cab]], Flatbed - all "[[cab over|cab-over-engine]]"
+|layout            = 
+|platform          = 
+|engine            = 
+|transmission      = 
+|wheelbase         = 
+|length            = 
+|width             = 
+|height            = 
+|weight            = 
+|fuel_capacity     = {{convert|275|-|620|L|1|abbr=on|lk=on}}<ref name=vwtbpress370/>
+|related           = 
+|designer          = 
+|sp                = uk
+}}
+{{TOC left}}[[Image:VW Constellation BRA.JPG|thumb|250px|Volkswagen Constellation 19.320 Titan [[tractor unit]], at the 2006 IAA Nutzfahrzeuge (Commercial Vehicles show) in Hannover]]
+The '''Volkswagen Constellation''' is the [[flagship#automotive|flagship]] truck from [[Volkswagen Trucks and Buses]] line, covering the 13-57 tonne [[gross combination mass]] (GCM)<ref name=vwtbpress370/> segment.  It is [[list of Volkswagen Group factories|produced]] at [[Resende]] in [[Brazil]],<ref name=vwtbpress370/> and is primarily for the [[South America]]n market.
+
+The truck, a "[[cab over|cab-over-engine]]" released September 2005, was designed in [[Volkswagen]]'s [[Wolfsburg]] Design Studio at [[Volkswagen Group]] Headquarters, but engineered by Volkswagen Truck and Bus, in [[Brazil]], [[South Africa]], and mainland [[Europe]] - on a rigorous 7 million kilometre test phase over a four-year period.<ref name=VW.za>{{cite web|title=Volkswagen Commercial Vehicles - Constellation|url=http://www.vwcommercial.co.za/models/constellation/|work=Volkswagen Commercial Vehicles|publisher=VWcommercial.co.za|accessdate=22 November 2009}}</ref>
+
+In 2006, [[Renato Martins]] won the Brazilian [[Fórmula Truck]] Championship in the Constellation's first season racing.
+
+==Variants==
+The [[cabin (truck)|cab]] is available in [[daycab]]<ref name=vwtbpress370/> and [[sleeper cab]]<ref name=vwtbpress370/> configurations.
+
+It is available in the following [[internal combustion engine]] / [[cargo|payload]] configurations: 13.180<ref name=vwtbpress370/> and 15.180<ref name=vwtbpress370/> with {{convert|180|hp|kW PS|0|abbr=on|lk=on}} [[MWM International Motores]]; 17.250,<ref name=vwtbpress370/> 24.250 6x2<ref name=vwtbpress370/> and 19.320 Titan<ref name=vwtbpress370/> with {{convert|250|hp|kW PS|0|abbr=on}}<ref name=vwtbpress370/> or {{convert|320|hp|kW PS|0|abbr=on}}<ref name=vwtbpress370/> [[Cummins]] [[diesel engine]]s.<ref name=vwtbpress370/>  A further three models were subsequently launched in 2007; a 19.370,<ref name=vwtbpress370/> 25.370,<ref name=vwtbpress370/> and 31.370,<ref name=vwtbpress370/> with a [[Volkswagen Trucks and Buses]] engineered<ref name=vwtbpress370/> and MWM produced<ref name=vwtbpress370/> {{convert|370|hp|kW PS|0|abbr=on}} Volkswagen NGD 370 diesel engine.<ref name=vwtbpress370/>
+
+==Powertrain==
+===VW NGD 370 engine===
+The [[Volkswagen Group]] NGD 370 [[turbodiesel]] engine premiers new attributes for the heavy trucks sector.  The high "flat" [[torque]] at low engine speeds is improved by a variable geometry [[turbocharger|turbo-compressor]]: the Multi Turbo System - MTS.<ref name=vwtbpress370/>  Its [[cylinder head]] features [[multi-valve|four valves]] per cylinder,<ref name=vwtbpress370/> [[engine displacement|displaces]] {{convert|9354|cc|1|lk=on}}<ref name=vwtbpress370/> (9.3&nbsp;[[litre]]s), and generates {{convert|367|hp|kW PS|0|lk=on}} at 2,000&nbsp;rpm.<ref name=vwtbpress370/>  It also features the Dual Power Brake – DPB.<ref name=vwtbpress370/>
+
+It also features an exclusive high pressure [[fuel injection#direct injection|direct fuel injection]] system, the Hydraulic Electronic Unit Injector - HEUI<ref name=vwtbpress370/> – with electro-hydraulic digital [[Unit Injector|unit injectors]]<ref name=vwtbpress370/> and extended durability, developed by the partner company [[Siemens]]/[[VDO (company)|VDO]].<ref name=vwtbpress370/>  An important advantage is the removable wet [[cylinder liner]]s which will assist with easier maintenance and lower costs.<ref name=vwtbpress370/>
+
+Its Multi Turbo System (MTS) turbine with variable vane geometry, is electronically controlled.<ref name=vwtbpress370/>  This helps achieve faster responses, better performance, and better thermal efficiency.<ref name=vwtbpress370/>  This also works as part of the engine brake retarder in the exhaust system.<ref name=vwtbpress370/>  The water-cooled [[exhaust gas recirculation]] (EGR) system, coupled with the [[cylinder block]], reutilises part of the exhaust gasses, producing combustion at lower temperatures with less discharge rates.<ref name=vwtbpress370/>
+
+It includes a new engine brake system, the Dual Power Brake (DPB) fed into the cylinder head, is electronically integrated into the turbocharger.<ref name=vwtbpress370/>  It is claimed that the advantages are: increasing the operational average speed, the brake force, safety, retaking with fuel reduction, and speed on downward slopes.<ref name=vwtbpress370/>  This means less gear shifts, lower maintenance costs, and helps improve the service life of the brakes and [[tire|tyres]].<ref name=vwtbpress370/>
+
+===Transmission===
+[[Clutch]]es on all variants are the hydraulically operated with pneumatic assistance single-plate diaphragm type.<ref name=VW.za_specs>{{cite web|title=Volkswagen Commercial Vehicles - Constellation specifications|url=http://www.vwcommercial.co.za/models/constellation/specifications/|work=Volkswagen Commercial Vehicles|publisher=VWcommercial.co.za|accessdate=22 November 2009}}</ref>  All are supplied by [[ZF Sachs]],<ref name=VW.za_specs/> and range in diameter from {{convert|362|mm|1|lk=on}}<ref name=VW.za_specs/> to {{convert|430|mm|1}}.<ref name=vwtbpress370/><ref name=VW.za_specs/>  The engine output is routed through a variety of [[transmission (mechanics)|transmissions]].  One option is the [[list of ZF transmissions|ZF 16S 1685 TD]] 16-speed manual synchromesh transmission.<ref name=vwtbpress370/>  This latest [[ZF]] box is {{convert|80|kg|0|lk=on}} lighter than existing models,<ref name=vwtbpress370/> due to its all-[[aluminium alloy]] casings.<ref name=vwtbpress370/>  It has a [[torque]] handling capacity of {{convert|1800|Nm|0|lk=on}}.<ref name=vwtbpress370/>
+
+The 6x2 variants use a [[Meritor]] MS 23-185 tractive rear axle,<ref name=vwtbpress370/> and this has a maximum capacity of 60&nbsp;tons.<ref name=vwtbpress370/>  It includes a series differential locking system when used on the VW 25.370 tractor unit.<ref name=vwtbpress370/>
+
+The 6x2 variants also have the facility for partial or total lifting of the third axle,<ref name=vwtbpress370/> which helps achieve better traction, particularly on slopes.<ref name=vwtbpress370/>  This Extra Traction Device (ETD) ensures part of the third axle load, during partial lifting, is transferred to the tractive axle.<ref name=vwtbpress370/>
+
+6x4 variants utilise Meritor MD/MR 25-168 tractive rear axles,<ref name=vwtbpress370/> and are located via [[Randon S.A.]] rear [[suspension (vehicle)|suspension]] ([[bogie]] type rigid shafts in tandem).<ref name=vwtbpress370/>
+
+==Specifications==
+<ref name=VW.za_specs/><ref>{{cite web|title=South African Constellation specifications|url=http://www.fleetwatch.co.za/Tw2007/Volkswagen/index.htm|work=FleetWatch On-Line|publisher=FleetWatch.co.za|year=2007|accessdate=20 November 2009}}</ref>
+
+{|class="wikitable" style="text-align: left; font-size: 82%"
+!colspan=10|<big>Rigids / Freight Carriers / Tippers</big>
+|-
+!model!!engine make / [[engine configuration|configuration]]<br>/ [[engine displacement]]!!max. [[motive power|motive]] [[power (physics)|power]]<br>@ [[revolutions per minute|rpm]]!!max. [[torque]]<br>@ rpm!!clutch make,<br>dia ([[millimetre|mm]])!![[transmission (mechanics)|transmission]]<br>make / type / speed!!rear [[axle]],<br>[[gear ratio|ratios]]!![[wheelbase]]!![[gross vehicle mass|GVM]] ([[kg]])<br>technical<br>capacity!![[gross combination mass|GCM]] (kg)<br>technical<br>capacity
+|-
+!13.180 (4x2)
+|[[MWM International Motores|MWM]] 4.12 TCE [[inline-four engine|I4]] [[common rail|CR]] [[turbocharger|turbo]] [[intercooler]]<br>{{convert|4748|cc|1|lk=on}}||{{convert|132|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 2,200||{{convert|600|Nm|0|abbr=on|lk=on}}<br>@ 1,550-2,000||[[ZF Sachs]] 362||[[Eaton Corporation|Eaton]] FS 4205 A [[manual transmission|manual]]<br>synchromesh 5-speed||[[ArvinMeritor|Meritor]] RS 23-230<br>4.88:1 / 6.80:1||{{convert|4800|mm|1|abbr=on|lk=on}}<br>{{convert|5207|mm|1|abbr=on}}||13,200||23,000
+|-
+!15.180 (4x2)
+|MWM 4.12 TCE I4 CR turbo intercooler<br>{{convert|4748|cc|1}}||{{convert|132|kW|PS bhp|0|abbr=on}}<br>@ 2,200||{{convert|600|Nm|0|abbr=on}}<br>@ 1,550-2,000||ZF Sachs 362||Eaton FS 4205 A manual<br>synchromesh 5-speed||Meritor RS 23-230<br>4.88:1 / 6.80:1||{{convert|4800|mm|1|abbr=on}}<br>{{convert|5207|mm|1|abbr=on}}||15,400||23,000
+|-
+!17.250 (4x2)
+|[[Cummins]] [[Cummins B Series engine#ISB|ISBe]] [[straight-six engine|I6]] CR turbo intercooler<br>{{convert|5880|cc|1}}||{{convert|184|kW|PS bhp|0|abbr=on}}<br>@ 2,500||{{convert|950|Nm|0|abbr=on}}<br>@ 1,200-1,700||ZF Sachs 395||Eaton FS 6306 B manual<br>synchromesh 6-speed||Meritor RS 24-240<br>4.10:1 / 5.59:1||{{convert|4800|mm|1|abbr=on}}<br>{{convert|5207|mm|1|abbr=on}}||17,100||27,000
+|-
+!24.250 (6x2)
+|Cummins ISBe I6 CR turbo intercooler<br>{{convert|5880|cc|1}}||{{convert|184|kW|PS bhp|0|abbr=on}}<br>@ 2,500||{{convert|950|Nm|0|abbr=on}}<br>@ 1,200-1,700||ZF Sachs 395||Eaton FS 6306 B manual<br>synchromesh 6-speed||Meritor RS 24-240<br>4.10:1 / 5.59:1||{{convert|6024|mm|1|abbr=on}}<br>{{convert|6431|mm|1|abbr=on}}||24,100||27,000
+|-
+!26.260 (6x4)
+|MWM 6.12 TCAE<br>{{convert|7.2|L|cuin|1}}||{{convert|194|kW|PS bhp|0|abbr=on}}<br>@ 2,300||{{convert|900|Nm|0|abbr=on}}<br>@ 1,300-1,900||ZF Sachs ???||Eaton RT 7608 LL manual<br>synchromesh 10-speed|| || ||26,200||35,000
+|-
+!31.320 (6x4)
+|Cummins [[Cummins C Series engine|ISCe]] I6 CR turbo intercooler<br>{{convert|8.3|L|cuin|1}}||{{convert|235|kW|PS bhp|0|abbr=on}}<br>@ 1,300||{{convert|1288|Nm|0|abbr=on}}<br>@ 1,100-1,600||ZF Sachs ???||[[list of ZF transmissions|ZF]] 16S ??? ?? manual<br>synchromesh 16-speed|| || ||?????||63,000
+|-
+!31.370 (6x4)
+|[[list of Volkswagen Group diesel engines|VW]] NGD 370<br>{{convert|9354|cc|1}}||{{convert|270|kW|PS bhp|0|abbr=on}}<br>@ 2,000||{{convert|1800|Nm|0|abbr=on}}<br>@ 1,100-1,500||ZF Sachs 430||[[list of ZF transmissions|ZF]] 16S 1685 TD manual<br>synchromesh 16-speed<ref name=vwtbpress370/>|| || ||30,000||57,000
+|}
+{|class="wikitable" style="text-align: left; font-size: 82%"
+!colspan=10|<big>[[Tractor unit]]s</big>
+|-
+!model!!engine make / [[engine configuration|configuration]]<br>/ [[engine displacement]]!!max. [[motive power|motive]] [[power (physics)|power]]<br>@ [[revolutions per minute|rpm]]!!max. [[torque]]<br>@ rpm!!clutch make,<br>dia ([[millimetre|mm]])!![[transmission (mechanics)|transmission]]<br>make / type / speed!!rear [[axle]],<br>[[gear ratio|ratios]]!![[wheelbase]]!![[gross vehicle mass|GVM]] ([[kg]])<br>technical<br>capacity!![[gross combination mass|GCM]] (kg)<br>technical<br>capacity
+|-
+!19.320 (4x2)<br>Titan
+|[[Cummins]] [[Cummins C Series engine|ISCe]] [[straight-six engine|I6]] [[common rail|CR]] [[turbocharger|turbo]] [[intercooler]]<br>{{convert|8270|cc|1|lk=on}}||{{convert|235|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 2,000||{{convert|1288|Nm|0|abbr=on|lk=on}}<br>@ 1,300-1,600||[[ZF Sachs]] 430||[[list of ZF transmissions|ZF]] 16S 221 OD [[manual transmission|manual]]<br>synchromesh 16-speed||[[ArvinMeritor|Meritor]] RS 23-165<br>3.73:1||{{convert|3560|mm|1|abbr=on|lk=on}}||17,100||35,000
+|-
+!19.370 (4x2)
+|[[list of Volkswagen Group diesel engines|VW]] NGD 370<br>{{convert|9354|cc|1}}||{{convert|270|kW|PS bhp|0|abbr=on}}<br>@ 2,000||{{convert|1800|Nm|0|abbr=on}}<br>@ 1,100-1,500||ZF Sachs 430||ZF 16S 1685 TD manual<br>synchromesh 16-speed<ref name=vwtbpress370/>|| || ||16,800||48,000
+|-
+!25.370 (6x2)
+|VW NGD 370<br>{{convert|9354|cc|1}}||{{convert|270|kW|PS bhp|0|abbr=on}}<br>@ 2,000||{{convert|1800|Nm|0|abbr=on}}<br>@ 1,100-1,500||ZF Sachs 430||ZF 16S 1685 TD manual<br>synchromesh 16-speed<ref name=vwtbpress370/>|| || ||24,100||57,000
+|-
+!31.370 (6x4)
+|VW NGD 370<br>{{convert|9354|cc|1}}||{{convert|270|kW|PS bhp|0|abbr=on}}<br>@ 2,000||{{convert|1800|Nm|0|abbr=on}}<br>@ 1,100-1,500||ZF Sachs 430||ZF 16S 1685 TD manual<br>synchromesh 16-speed<ref name=vwtbpress370/>|| || ||30,000||57,000
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.vwtrucksandbuses.com/en/vehicles_constellation.aspx Volkswagen Constellation International portal]
+
+{{Volkswagen Truck and Bus}}
+
+[[Category:Volkswagen vehicles|Constellation]]
+[[Category:Trucks]]
+
+[[de:VW Constellation]]
+[[nl:Volkswagen Constellation]]
+[[pt:Volkswagen Constellation]]

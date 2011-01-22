@@ -1,0 +1,56 @@
+{{ DBpediaTemplateMapping
+| mapToClass = River
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = watershed_imperial | ontologyProperty = River/watershed | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = watershed | ontologyProperty = River/watershed | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge_imperial | ontologyProperty = River/maximumDischarge | unit = cubicFeetPerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge | ontologyProperty = River/maximumDischarge | unit = cubicMetrePerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge | ontologyProperty = River/discharge | unit = cubicMetrePerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge_max_imperial | ontologyProperty = River/maximumDischarge | unit = cubicFeetPerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge_max | ontologyProperty = River/maximumDischarge | unit = cubicMetrePerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge_min_imperial | ontologyProperty = River/minimumDischarge | unit = cubicFeetPerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge_min | ontologyProperty = River/minimumDischarge | unit = cubicMetrePerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = source_district | ontologyProperty = River/sourceDistrict }}
+	{{ DBpediaPropertyMapping | templateProperty = source_region | ontologyProperty = River/sourceRegion }}
+	{{ DBpediaPropertyMapping | templateProperty = source_state | ontologyProperty = River/sourceState }}
+	{{ DBpediaPropertyMapping | templateProperty = source_country | ontologyProperty = River/sourceCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_district | ontologyProperty = River/mouthDistrict }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_region | ontologyProperty = River/mouthRegion }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_state | ontologyProperty = River/mouthState }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_country | ontologyProperty = River/mouthCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth | ontologyProperty = River/mouth }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_elevation_m | ontologyProperty = River/mouthElevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_elevation_ft | ontologyProperty = River/mouthElevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_elevation | ontologyProperty = River/mouthElevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge_m3/s | ontologyProperty = River/discharge | unit = cubicMetrePerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = discharge_cuft/s | ontologyProperty = River/discharge | unit = cubicFeetPerSecond }}
+	{{ DBpediaPropertyMapping | templateProperty = watershed_km2 | ontologyProperty = River/watershed | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = watershed_sqmi | ontologyProperty = River/watershed | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+	{{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = other_name1 | ontologyProperty = Place/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = BodyOfWater/country }}
+	{{ DBpediaPropertyMapping | templateProperty = country1 | ontologyProperty = BodyOfWater/country }}
+	{{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = BodyOfWater/state }}
+	{{ DBpediaPropertyMapping | templateProperty = state1 | ontologyProperty = BodyOfWater/state }}
+	{{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = BodyOfWater/region }}
+	{{ DBpediaPropertyMapping | templateProperty = region1 | ontologyProperty = BodyOfWater/region }}
+	{{ DBpediaPropertyMapping | templateProperty = district | ontologyProperty = BodyOfWater/district }}
+	{{ DBpediaPropertyMapping | templateProperty = district1 | ontologyProperty = BodyOfWater/district }}
+	{{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = BodyOfWater/city }}
+	{{ DBpediaPropertyMapping | templateProperty = city1 | ontologyProperty = BodyOfWater/city }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = source_location | ontologyProperty = River/sourceMountain }}
+	{{ DBpediaPropertyMapping | templateProperty = source_location | ontologyProperty = River/sourcePlace }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_location | ontologyProperty = River/mouthMountain }}
+	{{ DBpediaPropertyMapping | templateProperty = mouth_location | ontologyProperty = River/mouthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = river_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = length_km | ontologyProperty = Place/length | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = length_mi | ontologyProperty = Place/length | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_m | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_ft | ontologyProperty = Place/elevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaGeocoordinatesMapping | ontologyProperty = River/sourcePosition | latitudeDegrees = source_lat_d  | latitudeMinutes = source_lat_m  | latitudeSeconds = source_lat_s  | latitudeDirection = source_lat_NS  | longitudeDegrees = source_long_d  | longitudeMinutes = source_long_m  | longitudeSeconds = source_long_s  | longitudeDirection = source_long_EW }}
+	{{ DBpediaGeocoordinatesMapping | ontologyProperty = River/mouthPosition | latitudeDegrees = mouth_lat_d  | latitudeMinutes = mouth_lat_m  | latitudeSeconds = mouth_lat_s  | latitudeDirection = mouth_lat_NS  | longitudeDegrees = mouth_long_d  | longitudeMinutes = mouth_long_m  | longitudeSeconds = mouth_long_s  | longitudeDirection = mouth_long_EW }}
+}}

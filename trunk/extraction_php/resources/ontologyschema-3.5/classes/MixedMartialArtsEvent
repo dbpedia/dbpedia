@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Mixed Martial Arts Event
+| rdfs:subClassOf = SportsEvent
+}}

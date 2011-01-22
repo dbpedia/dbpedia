@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = province
+|rdfs:domain = City
+|rdfs:range = PopulatedPlace
+}}

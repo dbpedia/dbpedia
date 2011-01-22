@@ -1,0 +1,21 @@
+{{TemplateMapping
+| mapToClass = BritishRoyalty
+| mappings = 
+	{{PropertyMapping | templateProperty = royal anthem | ontologyProperty = royalAnthem }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = title }}
+	{{PropertyMapping | templateProperty = reign | ontologyProperty = activeYearsStartDate }}
+	{{PropertyMapping | templateProperty = reign | ontologyProperty = activeYearsEndDate }}
+	{{PropertyMapping | templateProperty = predecessor | ontologyProperty = predecessor }}
+	{{PropertyMapping | templateProperty = successor | ontologyProperty = successor }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = full name | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = father | ontologyProperty = father }}
+	{{PropertyMapping | templateProperty = mother | ontologyProperty = mother }}
+	{{PropertyMapping | templateProperty = date of birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = place of birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = date of death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = place of death | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = place of burial | ontologyProperty = restingPlace }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+}}

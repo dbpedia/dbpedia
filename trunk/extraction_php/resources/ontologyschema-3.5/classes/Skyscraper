@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Skyscraper
+| rdfs:subClassOf = Building
+}}

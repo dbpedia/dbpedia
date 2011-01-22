@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = watershed
+| rdfs:domain = River
+| rdfs:range = Area
+}}

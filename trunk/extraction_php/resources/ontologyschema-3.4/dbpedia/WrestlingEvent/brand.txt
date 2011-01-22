@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = brand
+|rdfs:domain = WrestlingEvent
+|rdfs:range = TelevisionShow
+}}

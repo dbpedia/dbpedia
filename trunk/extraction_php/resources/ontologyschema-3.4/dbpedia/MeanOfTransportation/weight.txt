@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= weight
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= kilogram
+|rdf:type = owl:FunctionalProperty
+}}

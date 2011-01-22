@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = specialist
+|rdfs:domain = School
+|rdfs:range = xsd:string
+}}

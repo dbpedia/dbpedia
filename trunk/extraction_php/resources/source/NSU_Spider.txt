@@ -1,0 +1,69 @@
+{{Infobox Automobile
+| image = [[File:NSU-Spider.jpg|250px|NSU Spider]]
+| name = NSU Spider
+| manufacturer = [[NSU Motorenwerke AG]]
+| assembly=[[Neckarsulm]]
+| production = 1964  – 1967<br /> 2,375 built 
+| predecessor = 
+| successor = [[NSU Ro80]]
+| body_style = [[Cabriolet (automobile)|2 door cabriolet]]
+| engine = 498&nbsp;cc Single rotor Wankel
+| layout=[[RR layout]]
+| transmission = 4 speed <br />all-synchromesh manual
+| length = {{convert|3580|mm|in||abbr=on}}
+| width = {{convert|1520|mm|in||abbr=on}}
+| height = {{convert|1260|mm|in||abbr=on}}
+| weight = {{convert|700|kg|lb||abbr=on}}<br />(Measurements approximate)
+| wheelbase =  {{convert|2020|mm|in||abbr=on}}
+|fuel_capacity={{Convert|35|L|usgal impgal|1|abbr=on}}
+| track = 
+| related = 
+| similar = 
+| designer = [[Claus Luthe]]
+}}[[File:1967 NSU Spider engine.JPG|250px|thumb|right|The engine bay had originally been designed to take the four stroke air cooled two cylinder engine from the NSU Prinz. The rotary unit was much more compact which permitted a shallow luggage locker to be placed above it. This compensated for reduction in luggage space at the front of the car due to the installation there of the radiator.]]
+
+The '''NSU Spider''' was the first production car in the world to be powered by a [[Wankel engine|Rotary Wankel]] engine<ref name="theautochannel.com">{{Cite web|url=http://www.theautochannel.com/news/2004/07/04/202357.html|title=The Wankel Engine History|accessdate=2008-02-21|work=theautochannel.com}}</ref>.
+
+Apart from its water cooled single rotor engine, the car was in most respects unremarkable. However, standard equipment did include disc brakes on the front wheels.
+
+== The Body ==
+First appearing at the [[Frankfurt Motor Show]] in 1964, the Spider featured a two door cabriolet body based on that of the [[NSU Sport Prinz]] coupé introduced back in 1959. In addition to the folding roof, the Spider was distinguishable from the hard top car by a grill at the front: in order to improve weight distribution, space was found for the Spider’s radiator and for its {{Convert|35|L|usgal impgal|0|sing=on|lk=on}} fuel tank ahead of the driver. The front luggage locker was in consequence small.
+
+== The Rotary Engine ==
+The [[Wankel engine]], invented by [[Felix Wankel]] differed from a piston engine because the quasi-oval design of the combustion chamber, containing a rotor that ascribed within the chamber an [[Epitrochoid]] shaped trajectory, enabling the combustion pressure to be converted directly into a rotary motion. There was no need to lose energy converting reciprocating movement into rotational movement. The result was a remarkably compact free revving engine which in the 1960s was hailed by some as the next major step forward in automobile design. It later transpired that the characteristics of certain critical materials selected and applied by NSU to build  production rotary engines were inappropriate to the stresses they would bear, and rotary engined cars acquired a reputation for unreliability. Warranty costs associated with installation of  the engine in [[NSU Ro80|NSU’s second Wankel engined model]] destroyed the financial viability of NSU. The only large scale automaker to persist with the rotary engine – and then only for [[Mazda RX-8|niche models]] – was [[Mazda]]: piston engines continued to dominate the world’s automobile engine bays. During the Spider’s production period, these disappointments were generally not foreseen, however.
+
+Claimed output was initially {{convert|50|bhp|abbr=on}} at 5500 rpm, though in later models {{convert|54|bhp|abbr=on}} at 6000 rpm was advertised.
+
+The rotary engine was installed above the rear axle. It was compact, light and very free revving in comparison with conventional engines of the time. By ignoring the manufacturers’ recommendations it was possible to rev the engine briefly above 7000 rpm in the lower gears and thereby to achieve a 0 – 100&nbsp;km/h (0 – 62&nbsp;mph) time of 14.5 seconds: other sources, presumably based on following the manufacturers' recommendations, give a time of 15.7 seconds.
+
+== Commercial ==
+Large sales volumes were never envisaged for the car, and this was reflected in a relatively high retail price. 2,375 were built between 1964 and 1967. In 1967, the model was withdrawn and NSU's second rotary engined production saloon was presented. The [[NSU Ro80|Ro80]] would notch up 37,398 units during its ten year production run.
+
+In 1966 Al Auger of Richmond, California USA became the first person in  the world to race a Wankel-powered production car in officially sanctioned races. With only installing a  mandatory roll-bar and racing tires an NSU Spider raced in 1966 and 1967 in Sports Car Club of America sanctioned road races throughout California finishing second overall champion both years in Class H Modified. Because SCCA had no technical information about the Wankel engine it was placed in H Modified racing against lighter, more powerful 850cc highly modified pure race cars.
+
+== Sources and further reading ==
+*{{De|NSU Wankel Spider}}
+*{{Italian|NSU Spider|[[2008-02-21]]}}
+
+{{reflist}}
+
+* Eberhard Kittler: ''DDR Automobil - Klassiker, Band 1.'' Motorbuch Verlag, Stuttgart 2002, ISBN 3-613-02256-7
+* Horst Ihling: ''Autorennsport in der DDR. Wartburg, EMW & Co.'' Verlag Delius Klasing, 2006, ISBN 3-7688-5788-3
+
+== External links ==
+* http://www.wankel-spider.de
+
+{{DEFAULTSORT:Nsu Spider}}
+[[Category:NSU vehicles|Wankel Spider]]
+[[Category:Sports cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Vehicles with Wankel engines]]
+[[Category:1960s automobiles]]
+[[Category:Vehicles introduced in 1964]]
+
+[[de:NSU Wankel Spider]]
+[[fr:NSU Spider]]
+[[it:NSU Spider]]
+[[ja:NSU・ヴァンケルスパイダー]]
+[[no:NSU Wankel Spider]]
+[[sv:NSU Wankel Spider]]

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = derivative
+| rdfs:domain = MusicGenre
+| rdfs:range = MusicGenre
+}}

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Madonna> <http://dbpedia.org/property/disambiguates> <http://dbpedia.org/resource/Madonna_%28entertainer%29> .
+<http://dbpedia.org/resource/Madonna> <http://dbpedia.org/property/disambiguates> <http://dbpedia.org/resource/Madonna_%28Madonna_album%29> .
+<http://dbpedia.org/resource/Madonna> <http://dbpedia.org/property/disambiguates> <http://dbpedia.org/resource/Madonna_%28video%29> .
+<http://dbpedia.org/resource/Madonna> <http://dbpedia.org/property/disambiguates> <http://dbpedia.org/resource/Madonna_%28art%29> .
+<http://dbpedia.org/resource/Madonna> <http://dbpedia.org/property/disambiguates> <http://dbpedia.org/resource/Madonna_%28Edvard_Munch%29> .
+<http://dbpedia.org/resource/Madonna> <http://dbpedia.org/property/disambiguates> <http://dbpedia.org/resource/Madonna_%28...And_You_Will_Know_Us_by_the_Trail_of_Dead_album%29> .

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = coordinates
+|rdfs:domain = Place
+|rdfs:range = xsd:string
+}}

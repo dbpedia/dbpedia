@@ -1,0 +1,80 @@
+{{unreferenced|date=June 2008}}
+{{Infobox Automobile engine
+|name          = Volkswagen D24TIC engine
+|image         = 
+|manufacturer  = [[Volkswagen Group]]
+|aka           = 
+|production    = 
+|predecessor   = [[Volkswagen D24T engine]]
+|successor     = 
+|configuration = [[straight-six engine|Inline 6 cylinder]] [[diesel engine]]
+|displacement  = {{convert|2383|cc|1|abbr=on|lk=on}}
+|bore          = {{convert|75.5|mm|3|abbr=on|lk=on}}
+|stroke        = {{convert|86.4|mm|3|abbr=on}}
+|length        = 
+|width         = 
+|height        = 
+|diameter      = 
+|weight        = 
+|block         = [[cast iron]], 7 [[main bearing]]s
+|head          = 
+|valvetrain    = [[timing belt|belt]]-driven [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC)
+|supercharger  = 
+|turbocharger  = 
+|fuelsystem    = Distributor [[injection pump]], [[indirect injection|indirect]] [[fuel injection]]
+|fueltype      = [[Diesel fuel|Diesel]]
+|oilsystem     = [[Wet sump]]
+|coolingsystem = [[water cooling|Water cooled]]
+|power         = 
+|specpower     = 
+|torque        = 
+|compression   = 22:1
+|fuelcon       = 
+|specfuelcon   = 
+|oilcon        = 
+}}
+The '''Volkswagen D24TIC''' is a 2.4&nbsp;[[litre]] [[straight-six engine|inline-6 cylinder]] [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC) [[diesel engine]], formerly manufactured by [[Volkswagen Group]].
+
+==Technical description & rated outputs==
+The engine is constructed in an identical manner to the [[Volkswagen D24T engine]], and its earler [[Volkswagen D24 engine]] - but includes an [[intercooler]] to improve performance and consistency of performance.
+
+{|class="wikitable" style="text-align: center; font-size: 98%;"
+|+models
+|-
+!engine!![[engine displacement|displacement]]!!max. [[power (physics)|power]]<br>@ [[revolutions per minute|rpm]]!!max. [[torque]]<br>@ rpm!![[redline]]<br>(rpm)!!years
+|-
+|rowspan=3|'''D24TIC'''||rowspan=3|{{convert|2383|cc|1|abbr=on|lk=on}}||{{convert|85|kW|PS bhp|0|abbr=on|lk=on}} @ 4,800||{{convert|210|Nm|0|abbr=on|lk=on}} @ 2,400||5,350||1983
+|-
+|{{convert|85|kW|PS bhp|0|abbr=on}} @ 4,800||{{convert|220|Nm|0|abbr=on}} @ 2,400||5,350||1983
+|-
+|{{convert|63|kW|PS bhp|0|abbr=on}} @ 4,600||{{convert|152|Nm|0|abbr=on}} @ 2,500||5,150||1985
+|}
+
+==Applications==
+*08/1986 - 10/1988 [[Volvo 700 Series#Volvo 740|Volvo 740]]
+*08/1985 - 07/1992 [[Volvo 700 Series#Volvo 760|Volvo 760]]
+*09/1991 - 12/1996 [[Volvo 700 Series#Volvo 960/S90/V90|Volvo 960]]
+
+==See also==
+{{commons category|Volkswagen engines}}
+*[[list of Volkswagen Group diesel engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.VolkswagenAG.com Volkswagen Group corporate website]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Chemnitz.html Chemnitz (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Kassel.html Kassel (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Salzgitter.html Salzgitter (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Polkowice.html Polkowice (Poland) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/amerika/Sao_Carlos.html São Carlos (Brazil) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Asien/Shanghai.html Shanghai (China) - engine plant Mobility and Sustainability]
+
+{{Volkswagen Group brands}}
+{{Volkswagen Commercial Vehicles}}
+
+{{automotive-part-stub}}
+
+[[Category:Volkswagen engines|D24TIC]]

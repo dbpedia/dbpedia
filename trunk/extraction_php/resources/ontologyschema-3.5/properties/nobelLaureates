@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = nobel laureates
+| rdfs:domain = School
+| rdfs:range = Person
+}}

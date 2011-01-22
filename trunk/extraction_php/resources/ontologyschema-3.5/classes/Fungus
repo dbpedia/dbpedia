@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Fungus
+| rdfs:subClassOf = Eukaryote
+}}

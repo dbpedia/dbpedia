@@ -1,0 +1,104 @@
+{{Infobox Automobile
+| name              = BMW 320
+| image             = [[File:BMW automobile 1938.jpg|250px]]
+| manufacturer      = BMW
+| parent_company    = 
+| aka               = 
+| model_years       = 
+| production        = 
+| production_start  = 1937
+| production_end    = 1938
+| assembly          = [[Eisenach]], [[Germany]]
+| predecessor       = [[BMW 315#BMW 329|BMW 329]]
+| successor         = [[BMW 321]]
+| class             = 
+| body_style        = saloon, cabriolet
+| layout            = [[Automobile layout#Rear wheel drive layouts|FR layout]]
+| platform          = 
+| engine            = {{convert|1971|cc|CID|1|abbr=on}}; [[Overhead valve|OHV]] [[I-6|Straight 6]],  {{convert|45|hp|kW|0|abbr=on}}; <ref name=carfolio320>Carfolio.com: 1937 BMW 320 Saloon</ref>
+| transmission = 4 speed manual<ref name=carfolio320 /><ref name="conceptcarz320specs">Conceptcarz.com 1937 BMW 320 Specifications</ref>
+| wheelbase         = {{convert|2750|mm|in|1|abbr=on}}<ref name=carfolio320 /> <ref name=Norbye47>Norbye, pp.47</ref>
+| length            = {{convert|4500|mm|in|1|abbr=on}}<ref name=carfolio320 />
+| width             = {{convert|1540|mm|in|1|abbr=on}}<ref name=carfolio320 />
+| height            = {{convert|1500|mm|in|1|abbr=on}}<ref name=carfolio320 />
+| weight            = {{convert|1000|kg|lb|1|abbr=on}}<ref name=carfolio320 />
+| related           = [[BMW 315]], [[BMW 329]] (suspension)<br /> [[BMW 326]] (engine, chassis)<ref name=Norbye47 />
+| designer          = 
+| sp                = uk
+}}
+
+The '''BMW 320''' was a saloon car manufactured by BMW from 1937 to 1938.  It replaced the 319-based BMW 329.
+
+The 320 was built on a shortened [[BMW 326]] chassis and used a 326 engine with a single carburettor and an output of {{convert|45|hp|kW|0|abbr=on}}.  The suspension, which was carried over from the 329, consisted of an independent front suspension with a high-mounted transverse leaf spring acting as upper control arms and a conventional  [[live axle]] on semi-elliptic springs at the rear.<ref name=Norbye47 />
+
+The 320 was replaced by the [[BMW 321]] in 1938.
+
+
+== Notes ==
+{{reflist}}
+
+== References ==
+*{{Cite book |last=Norbye |first=Jan P. |authorlink= |coauthors= |title=BMW - Bavaria's Driving Machines|year=1984 |publisher=Publications International |location=Skokie, IL |isbn=0-517-42464-9}}
+*{{cite web
+| url         = http://www.carfolio.com/specifications/models/car/?car=101750
+| title       = Carfolio.com: 1937 BMW 320 Saloon
+| accessdate  = 2009-01-23
+| author      = 
+| last        = 
+| first       = 
+| authorlink  = 
+| coauthors   = 
+| date        = 
+| year        = 
+| month       = 
+| format      = 
+| work        = [http://www.carfolio.com/ Carfolio.com]
+| publisher   = Carfolio.com
+| location    =
+| pages       = 
+| language    = 
+| doi         = 
+| archiveurl  = 
+| archivedate = 
+| quote       = 
+}}
+* {{cite web
+| url         = http://www.conceptcarz.com/vehicle/default.aspx?carID=5932&catID=0&eventID=&i=2#menu
+| title       = Conceptcarz.com 1937 BMW 320 Specifications
+| accessdate  = 2009-01-23
+| author      = 
+| last        = 
+| first       = 
+| authorlink  = 
+| coauthors   = 
+| date        = 
+| year        = 
+| month       = 
+| format      = 
+| work        = [http://www.conceptcarz.com/ Conceptcarz.com]
+| publisher   = Daniel Vaughan
+| location    =
+| pages       = 
+| language    = 
+| doi         = 
+| archiveurl  = 
+| archivedate = 
+| quote       = 
+}}
+
+
+
+{{BMW pre war}}
+{{Classicprw-auto-stub}}
+
+[[Category:BMW vehicles|320]]
+[[Category:Executive cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1930s automobiles]]
+[[Category:Vehicles introduced in 1937]]
+[[Category:Compact executive cars]]
+[[Category:Convertibles]]
+[[Category:Sedans]]
+
+[[it:BMW 320]]
+[[fi:BMW 320]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = other appearances
+|rdfs:domain = OlympicResult
+|rdfs:range = OlympicResult
+}}

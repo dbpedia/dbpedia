@@ -1,0 +1,42 @@
+{{Context|date=June 2009}}
+{{Refimprove|date=June 2009}}
+{{Cite check|date=June 2009}}
+{{Infobox Automobile
+| name           = Lohner-Porsche Mixte Hybrid
+| image          = [[File:Lohner Porsche.jpg|300px]]
+| manufacturer   = [[Porsche]]
+| parent_company = 
+| production     = 1900-1905
+| class          = [[Horseless Carriage]]
+| aka            = Lohner-Porsche Electromobile
+| body_style     = 2-seater [[convertible]]<br />4-seater
+| weight         = {{convert|1500|kg|lb|0|abbr=on}}
+| designer       = [[Ferdinand Porsche]]
+| engine         = 10-14 hp Two/four hub-mounted electric motors, driven by battery and/or petrol engine.
+}}
+
+The '''Lohner-Porsche Mixte Hybrid''' was one of the earliest [[hybrid vehicle]]s, developed in 1899 by [[Ferdinand Porsche]].  It was a [[series hybrid]], with four electric motors mounted in the wheel hubs and electricity delivered by batteries and a small generator.  In concept and general layout, it presaged the [[Volvo ReCharge Concept]], the [[Chevrolet Volt]], the [[Opel Flextreme]],the hybrid [[Cadillac Escalade]], and other modern series hybrids.
+
+== Development ==
+
+At the age of 18, Ferdinand Porsche boarded a train in North Bohemia (now Czech Republic) headed for Vienna, and his first job with [[Jacob Lohner]], a [[coachbuilder]]. Despite no formal engineering education, Porsche quickly drafted up plans for an ambitious project, harnessing electric power. The car boasted a completely friction free drivetrain, due to the hub-mounted electric motors which negated the use of gears or driveshafts.  Each internal-pole electric motor was capable of {{convert|2.5|hp|abbr=on}} to {{convert|3.5|hp|abbr=on}} peaking to {{convert|7|hp|abbr=on}} for short bursts.
+
+The car created a press whirlwind, and news traveled as far as Britain, from where Lohner received their first order for an example. However, the car, ordered by a Luton dweller, was to be significantly different from the car shown at the Paris Expo. It had to be capable of running on petrol, as well as electricity, of carrying four passengers (the demonstrator was a two-seat, low slung type) and also had to be four-wheel drive. As a result, the final product was a monster - it required 1.8 tonnes of batteries consisting of a forty-four cell 80 volt lead battery, and cost a massive 15,000 Austrian Crowns. However, the car was completed on time, and was delivered personally by Porsche. The buyer was so impressed that he purchased another, two-wheel drive example.  While it had a form of battery, they were not charged from external sources so it was not a [[Plug-in Hybrid]] Electric Vehicle or PHEV.
+
+At the same time, the Lohner company had broken the Austrian land speed record, with the car's lightning fast top speed of {{convert|37|mi/h|km/h|abbr=on}}. With Porsche at the wheel, the car was victorious in a number of [[motorsport]] events, and by 1905, [[Porsche]] had won the Potting Prize as Austria's most outstanding automotive engineer. In 1906, Porsche was snapped up by Daimler-Benz as chief designer, and left Lohner coachworks for good. Jacob Lohner said, at the time: 'He is very young, but is a man with a big career before him. You will hear of him again.'
+
+The [[Lohner-Porsche]]'s design was studied during NASA's efforts to create the Apollo program's [[Lunar Rover]], and many of its design principles were mirrored in the Rover's design. The series hybrid concept underpins many modern railway locomotives, and interest in series hybrid automobiles is rapidly growing. Although produced over 100 years ago, the car has more significance than ever.
+
+== Links & References ==
+* http://www.ultimatecarpage.com/car/3456/Lohner-Porsche-Mixte-Voiturette.html
+* http://visforvoltage.org/forum/2413-porsche-had-world039s-first-hybrid-100-years-ago
+* http://www.porsche.com/uk/porscheandenvironment/hybriddrive/lohnerporsche/
+* http://www.7gen.com/article-summary/hybrid-electric/14320-porsche-had-world039s-first-hybrid-100-years-ago
+* porsche.com [http://www.porsche.com/filestore.aspx/default.PDF?pool=uk&type=download&id=christophorus-octobernovember2007-hybrid&filetype=default Batteries Included]
+* [http://www.greenhybrid.com/wiki/index.php/Hybrid_History_-_Part_1], [http://money.cnn.com/galleries/2007/autos/0711/gallery.porsche_first_hybrid/4.html], [http://www.hybrid-vehicle.org/hybrid-vehicle-history.html]
+
+[[Category:Historical hybrid vehicles]]
+[[Category:Vehicles introduced in 1901]]
+
+[[ko:로너-포르쉐 믹스테 하이브리드]]
+[[ru:Lohner-Porsche]]

@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= religion
+|rdfs:domain	= Person
+}}

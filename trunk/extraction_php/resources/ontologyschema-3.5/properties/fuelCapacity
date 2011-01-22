@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = fuel capacity
+| rdfs:domain = Automobile
+| rdfs:range = Volume
+| rdf:type = owl:FunctionalProperty
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= function end year
+|rdfs:domain	= PersonFunction
+|rdfs:range		= xsd:gYear
+}}

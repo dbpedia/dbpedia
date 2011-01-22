@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = leader title
+| rdfs:domain = PopulatedPlace
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = founding date
+|rdfs:domain = PopulatedPlace
+|rdfs:range = xsd:date
+}}

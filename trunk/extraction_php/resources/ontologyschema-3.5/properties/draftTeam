@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = draft team
+| rdfs:range = SportsTeam
+}}

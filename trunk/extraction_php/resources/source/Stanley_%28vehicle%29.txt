@@ -1,0 +1,48 @@
+[[File:Stanleyrobot.jpg|thumb|250px|Stanley]]
+'''Stanley''' is an [[autonomous]] [[vehicle]] created by [[Stanford|Stanford University's]] Stanford Racing Team in cooperation with the [[Electronics Research Laboratory|Volkswagen Electronics Research Laboratory (ERL)]].  It competed in, and won, the [[DARPA Grand Challenge (2005)|2005 DARPA Grand Challenge]], earning the Stanford Racing Team the 2 million dollar prize.
+
+==The Stanford Racing Team==
+[[File:Stanley2.JPG|thumb|240px|Stanley parked after the event.]] 
+Led by Associate Professor [[Sebastian Thrun]], director of the [[Stanford Artificial Intelligence Lab]], the Stanford Racing Team was developed solely for the purpose of competing in the 2005 DARPA Grand Challenge. Stanford did not participate in the [[DARPA Grand Challenge#2004 Grand Challenge|2004 DARPA Grand Challenge]] and was considered to have 20:1 chances of winning the 2005 competition.<ref name="PopSci"> Svoboda, Elizabeth [http://www.popsci.com/popsci/darpachallenge/6182640a662c6010vgnvcm1000004eecbccdrcrd.html "PopSci's DARPA Grand Challenge Preview: Update #4"], "Popular Science", October 2005, Accessed April 20, 2007 </ref> Stanley is currently located at the Smithsonian National Museum of American History, although it was displayed at the 2006 New York International Auto Show, and spent 2 years at the Volkswagen Autostadt Museum (Germany). The Stanford Racing Team has entered a new vehicle, a modified [[Volkswagen Passat]] wagon, dubbed "[[Junior (vehicle)|Junior]]", in the [[DARPA Grand Challenge|2007 DARPA Urban Challenge]].<ref> [http://cs.stanford.edu/group/roadrunner/"DARPA Challenge invites Stanford Racing Team to build a robotic car], "Stanford Racing Team", Accessed April 20, 2007 </ref> Other key contributors on the team include [[Michael Montemerlo]] (software lead), Sven Strohband (lead engineer) and Cedric Dupont (vehicle lead), and Pamela Mahoney (communications lead).<ref>http://www.darpa.mil/GRANDCHALLENGE/overview.asp</ref>
+
+==Construction==
+Stanley's original frame was a standard European diesel model [[Volkswagen Touareg]] provided by Volkswagen's ERL for the competition. The Stanford Racing Team chose the Touareg for its "[[drive by wire]]" control system which could be adapted (and was done so by the ERL) to be run directly from an on-board computer without the use of actuators or servo motors (it is important to note however, that the steering wheel was driven by an electric motor and the gear shifting accomplished with a hydraulic piston).<ref name="PopMech"> Russel, Steve [http://www.popularmechanics.com/science/robotics/2169012.html?page=1 "DARPA Grand Challenge Winner"], "Popular Mechanics", January 2006, Accessed April 20, 2007. </ref>
+
+To navigate, Stanley used five roof mounted [[LIDAR]] units to build a 3-D map of the environment, supplementing the position sensing [[GPS]] system. An internal guidance system utilizing gyroscopes and accelerometers monitored the orientation of the vehicle and also served to supplement GPS and other sensor data. Additional guidance data was provided by a video camera used to observe driving conditions out to eighty meters (beyond the range of the LIDAR) and to ensure room enough for acceleration. Stanley also had sensors installed in a wheel well to record a pattern imprinted on the tire and to act as an [[odometer]] in case of loss of signal (such as when driving through a tunnel); using this sensor and its data, the on-board computer can then extrapolate how far it has traveled since the signal was lost.<ref name="Wired"> Davis, Joshua [http://www.wired.com/wired/archive/14.01/stanley.html "Say Hello To Stanley"], "Wired", January 2006, Accessed April 20, 2007 </ref>
+
+To process the sensor data and execute decisions, Stanley was equipped with six low-power 1.6 GHz Intel  [[Pentium M]] based computers in the trunk, running different versions of the [[Linux]] operating system.
+
+==Programming==
+The Stanford School of Engineering developed the 100,000 lines of software run by Stanley to interpret sensor data and execute navigation decisions. Using what [[Popular Mechanics]] calls a "common robot hierarchy", Stanley utilizes "low-level modules fed raw data from LIDAR, the camera, GPS sets and inertial sensors into software programs [to control] the vehicle's speed, direction and decision making.<ref name="PopMech" />
+
+Stanley was characterized by a [[machine learning]] based approach to obstacle detection.  Data from the LIDARs was fused with images from the vision system to perform more distant look-ahead.  If a path of drivable terrain could not be detected for at least 40 meters in front of the vehicle, speed was decreased and the LIDARs used to locate a safe passage.
+
+To correct a common error made by Stanley early in development, the Stanford Racing Team created a log of "human reactions and decisions" and fed the data into a learning algorithm tied to the vehicles controls; this action served to greatly reduce Stanley's errors. The computer log of humans driving also made Stanley more accurate in detecting shadows, a problem that had caused many of the vehicle failures in the [[DARPA Grand Challenge#2004 Grand Challenge|2004 DARPA Grand Challenge]].<ref name="PopMech" />
+
+==References==
+<references/> 
+
+==External links==
+* [http://cs.stanford.edu/group/roadrunner//old/index.html Original Stanley Team Page]
+* [http://robots.stanford.edu/talks/stanley/ Summary of technical papers with movies on Stanley]
+* [http://www.stanfordracing.org/ Current Stanford Racing Team]
+* [http://www.post-gazette.com/pg/05282/585369.stm Pittsburgh Post Gazette article on the DARPA Grand Challenge 2005]
+* [http://www.sciam.com/article.cfm?articleID=000000A3-4BCC-13A8-8BCC83414B7F0000&sc=I100322 Scientific American article on the DARPA Grand Challenge].
+* [http://www.wired.com/wired/archive/14.01/stanley.html Wired Magazine article on the DARPA Grand Challenge].
+* [http://www.popsci.com/popsci/darpachallenge/2e1822e204bd6010vgnvcm1000004eecbccdrcrd.html Popular Science article on the DARPA Grand Challenge].
+* [http://www.pbs.org/wgbh/nova/darpa/ PBS' NOVA show on the DARPA Grand Challenge]
+* [http://video.google.com/videoplay?docid=8594517128412883394 Google TechTalk by Sebastian Thrun on winning the DARPA Grand Challenge]
+* [http://www.executivetalks.com/exe006.html Sebastian Thrun interviewed by Christian Grant on Executive Talks]
+
+{{VW}}
+{{Linux devices}}
+
+[[Category:Driverless cars]]
+[[Category:Stanford University]]
+[[Category:Volkswagen vehicles]]
+[[Category:Linux based devices]]
+
+[[de:Stanley (Fahrzeug)]]
+[[eo:Stanley (veturilo)]]
+[[fr:Stanley (véhicule)]]
+[[pt:Stanley (veículo)]]

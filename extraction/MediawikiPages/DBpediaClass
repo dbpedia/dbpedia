@@ -1,0 +1,72 @@
+<includeonly>
+'''A bot is currently uploading 150 of these Classes as initial setup, please do not revert the changes, if you have any questions write to User:SebastianHellmann'''
+==DBpedia Class "{{SUBPAGENAME}}"==
+The information within the table below is used by [[DBpedia]], a community project for extracting structured information from Wikipedia and make it freely available on the Web. Please read [[DBpedia/ontology]] for an overview of the DBpedia ontology. The information you enter is parsed by an application, so please strictly follow the given syntax.
+{|class="wikitable" <!-- style="float:right" -->
+! property
+! value
+! rowspan="7" | [[Image:DBpediaLogo.svg|200px|DBpedia logo]]
+|-
+| rdfs:label
+| {{{rdfs:label|}}}
+
+{{#if: {{{rdfs:label@de|}}} |
+{{!}}-
+{{!}} rdfs:label@de
+{{!}} {{{rdfs:label@de}}}
+}}
+
+{{#if: {{{rdfs:label@en|}}} |
+{{!}}-
+{{!}} rdfs:label@en
+{{!}} {{{rdfs:label@en}}}
+}}
+
+{{#if: {{{rdfs:label@fr|}}} |
+{{!}}-
+{{!}} rdfs:label@fr
+{{!}} {{{rdfs:label@fr}}}
+}}
+
+|-
+| rdfs:comment
+| {{{rdfs:comment|}}}
+{{#if: {{{rdfs:comment@de|}}} |
+{{!}}-
+{{!}} rdfs:comment@de
+{{!}} {{{rdfs:comment@de}}}
+}}
+
+{{#if: {{{rdfs:comment@en|}}} |
+{{!}}-
+{{!}} rdfs:comment@en
+{{!}} {{{rdfs:comment@en}}}
+}}
+
+{{#if: {{{rdfs:comment@fr|}}} |
+{{!}}-
+{{!}} rdfs:comment@fr
+{{!}} {{{rdfs:comment@fr}}}
+}}
+|-
+| rdfs:subClassOf
+| {{{rdfs:subClassOf|}}}
+|-
+| owl:equivalentClass
+| {{{owl:equivalentClass|}}}
+|-
+| owl:disjointWith
+| {{{owl:disjointWith|}}}
+|-
+| rdfs:seeAlso
+| {{{rdfs:seeAlso|}}}
+|}
+
+See [http://dbpedia-live.openlinksw.com/ontology/{{SUBPAGENAME}} DBpedia:{{SUBPAGENAME}}] for all information available about this entity.
+__NOEDITSECTION__
+{{:DBpedia/guidelines}}
+[[Category:DBpedia_Classes]]
+</includeonly><noinclude>
+{{Documentation}}
+[[Category:DBpedia_Templates]]
+</noinclude>

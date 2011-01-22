@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+Copyright (C) 2009 Philipp Heim, Sebastian Hellmann, Jens Lehmann, Steffen Lohmann and Timo Stegemann
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.	
+-->
+
+<mx:TitleWindow xmlns:mx="http://www.adobe.com/2006/mxml"  width="560" height="100%" borderAlpha="0.7" creationComplete="{init();}">
+	<mx:Script>
+		<![CDATA[
+			import connection.config.Config;
+			import connection.config.DBTuneConfig;
+			import connection.config.IConfig;
+			import connection.LookUpSPARQL;
+			import connection.LookUpKeywordSearch;
+			import flash.display.Loader;
+			import flash.events.Event;
+			import flash.net.FileReference;
+			import flash.utils.ByteArray;
+			import mx.collections.ArrayCollection;
+			import mx.controls.List;
+			import mx.core.Application;
+			import mx.events.ListEvent;
+			
+			import connection.model.ConnectionModel;
+			import mx.controls.RadioButton;
+			import mx.events.ItemClickEvent;
+			import mx.managers.PopUpManager;
+			
+			private var fileOpen:FileReference;
+			private var fileSave:FileReference = new FileReference();
+			
+			private var loader:Loader;
+			private var myData:ByteArray;
+			
+			private function init():void {
+				title = "Settings";
+				PopUpManager.centerPopUp(this);
+				
+				configList.dataProvider = ConnectionModel.getInstance().sparqlConfigs;
+				configList.selectedItem = ConnectionModel.getInstance().sparqlConfig;
+				setSelectedSPARQL();
+				callLater(configList.scrollToIndex, [configList.selectedIndex]);
+				
+				fileOpen = new FileReference();
+				fileOpen.addEventListener(Event.SELECT, selectFile);
+				fileOpen.addEventListener(Event.COMPLETE, openFile);
+				
+				
+			}
+			
+			public function apply():void {
+				
+				ConnectionModel.getInstance().sparqlConfig = configList.selectedItem as IConfig;
+				
+			}
+			
+			public function ok():void {
+				
+				apply();
+				cancel();
+			}
+			
+			public function cancel():void {
+				PopUpManager.removePopUp(this);
+			}
+			
+			public function openQueryTool():void {
+				
+				apply();
+				PopUpManager.createPopUp(this, SPARQLQueryTool, true);
+			}
+			
+			public function selectFirstSPARQL():void {
+				if (configList.dataProvider.length > 0) {
+					configList.selectedItem = configList.dataProvider.getItemAt(0);
+					configList.validateNow();
+					setSelectedSPARQL();
+				}else {
+					ConnectionModel.getInstance().sparqlConfig = new Config();
+					ConnectionModel.getInstance().sparqlConfigs.addItem(ConnectionModel.getInstance().sparqlConfig);
+					configList.validateNow();
+					configList.selectedItem = configList.dataProvider.getItemAt(0);
+					configList.validateNow();
+					setSelectedSPARQL();
+				}
+			}
+			
+			public function setSelectedSPARQL():void {
+				var conf:IConfig = configList.selectedItem as IConfig;
+				if (conf != null) {
+					selectedSPARQL.text = conf.name + " - \"" + conf.endpointURI + "\"";
+				}else {
+					selectedSPARQL.text = "No configuration selected";
+				}
+			}
+			
+			private function create():void {
+				var create:CreateNewEndpoint = PopUpManager.createPopUp(Application.application as DisplayObject, CreateNewEndpoint, true) as CreateNewEndpoint;
+				create.config = new Config();
+			}
+			
+			
+			
+			public function save(event:Event):void {
+				var sc:ArrayCollection = ConnectionModel.getInstance().sparqlConfigs;
+				var ep:IConfig = sc.getItemAt(0) as IConfig;
+				
+				var data:String = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>" +
+									"<data>" +
+										"<proxy>" +
+											"<url>" + proxyInput.text + "</url>" +
+										"</proxy>" +
+										"<endpoints>" +
+											"<defaultEndpoint>";
+												if (ep.name != null && ep.name != "") {
+													data += "<name>" + ep.name + "</name>";
+												}
+												if (ep.description != null && ep.description != "") {
+													data += "<description>" + ep.description + "</description>";
+												}
+												if (ep.endpointURI != null && ep.endpointURI != "") {
+													data += "<endpointURI>" + ep.endpointURI + "</endpointURI>";
+												}
+												if (ep.defaultGraphURI != null && ep.defaultGraphURI != "") {
+													data += "<defaultGraphURI>" + ep.defaultGraphURI + "</defaultGraphURI>";
+												}
+												data += "<isVirtuoso>" + ep.isVirtuoso + "</isVirtuoso>" +
+												"<useProxy>" + ep.useProxy + "</useProxy>";
+												
+												if (ep.autocompleteURIs != null && ep.autocompleteURIs.length > 0) {
+													
+													data += "<autocompleteURIs>";
+													for each(var ac:String in ep.autocompleteURIs) {
+														data += "<autocompleteURI>" + ac + "</autocompleteURI>";
+													}
+													data += "</autocompleteURIs>";
+												}
+												
+												if (ep.ignoredProperties != null && ep.ignoredProperties.length > 0) {
+													
+													data += "<ignoredProperties>";
+													for each(var ip:String in ep.ignoredProperties) {
+														data += "<ignoredProperty>" + ip + "</ignoredProperty>";
+													}
+													data += "</ignoredProperties>";
+												}
+											data += "</defaultEndpoint>";
+											
+											for (var i:int = 1; i < sc.length; i++) {
+												
+												ep = sc.getItemAt(i) as IConfig;
+												
+												data += "<endpoint>";
+												if (ep.name != null && ep.name != "") {
+													data += "<name>" + ep.name + "</name>";
+												}
+												if (ep.description != null && ep.description != "") {
+													data += "<description>" + ep.description + "</description>";
+												}
+												if (ep.endpointURI != null && ep.endpointURI != "") {
+													data += "<endpointURI>" + ep.endpointURI + "</endpointURI>";
+												}
+												if (ep.defaultGraphURI != null && ep.defaultGraphURI != "") {
+													data += "<defaultGraphURI>" + ep.defaultGraphURI + "</defaultGraphURI>";
+												}
+												data += "<isVirtuoso>" + ep.isVirtuoso + "</isVirtuoso>" +
+												"<useProxy>" + ep.useProxy + "</useProxy>";
+												
+												if (ep.autocompleteURIs != null && ep.autocompleteURIs.length > 0) {
+													
+													data += "<autocompleteURIs>";
+													for each(var ac2:String in ep.autocompleteURIs) {
+														data += "<autocompleteURI>" + ac2 + "</autocompleteURI>";
+													}
+													data += "</autocompleteURIs>";
+												}
+												
+												if (ep.ignoredProperties != null && ep.ignoredProperties.length > 0) {
+													
+													data += "<ignoredProperties>";
+													for each(var ip2:String in ep.ignoredProperties) {
+														data += "<ignoredProperty>" + ip2 + "</ignoredProperty>";
+													}
+													data += "</ignoredProperties>";
+												}
+												
+												data += "</endpoint>";
+											}
+											
+										data += "</endpoints>" +
+									"</data>";
+										
+				fileSave.save(new XML(data) , "RelFinderConfig.rfxml");
+			}
+			
+			public function load(event:Event):void {
+				fileOpen.browse([new FileFilter("RelationFinder2 Config (*.rfxml)", "*.rfxml")]);
+			}
+			private function selectFile(e:Event):void {
+				fileOpen.load();
+			}
+
+			private function openFile(e:Event):void {
+				var result:XML = new XML(fileOpen.data);
+				
+				ConnectionModel.getInstance().sparqlConfigs.removeAll();
+				
+				// set proxy
+				ConnectionModel.getInstance().proxy = result.proxy.url;
+				ConnectionModel.getInstance().defaultProxy = result.proxy.url;
+				
+				// set default endpoint
+				var defaultConfig:Config = getConfig(result.endpoints.defaultEndpoint);
+				ConnectionModel.getInstance().sparqlConfigs.addItem(defaultConfig);
+				ConnectionModel.getInstance().sparqlConfig = defaultConfig;
+				
+				for each (var obj:Object in result.endpoints.endpoint) {
+					ConnectionModel.getInstance().sparqlConfigs.addItem(getConfig(obj));
+				}
+				
+				selectFirstSPARQL();
+			}
+
+			public function getConfig(conf:Object):Config {
+				
+				var config:Config = new Config();
+				config.name = conf.name;
+				config.description = conf.description;
+				config.endpointURI = conf.endpointURI;
+				config.defaultGraphURI = conf.defaultGraphURI;
+				config.isVirtuoso = conf.isVirtuoso;
+				config.useProxy = conf.useProxy;
+				if (conf.autocompleteURIs != null) {
+					for each (var autocomplete:String in conf.autocompleteURIs.autocompleteURI) {
+						if (config.autocompleteURIs == null) {
+							config.autocompleteURIs = new ArrayCollection();
+						}
+						config.autocompleteURIs.addItem(autocomplete);
+					}
+				}
+				if (conf.ignoredProperties != null) {
+					for each (var ignoredProperty:String in conf.ignoredProperties.ignoredProperty) {
+						if (config.ignoredProperties == null) {
+							config.ignoredProperties = new ArrayCollection();
+						}
+						config.ignoredProperties.addItem(ignoredProperty);
+					}
+				}
+				
+				//config.autocompleteURIs = (conf.autocompleteURIs != null) ? conf.autocompleteURIs.autocompleteURI : null;
+				//config.ignoredProperties = (conf.ignoredProperties != null) ? conf.ignoredProperties.ignoredProperty : null;
+				
+				return config;
+			}
+			
+			
+			
+		]]>
+	</mx:Script>
+	
+	
+	<mx:VBox width="100%" height="100%">
+		<mx:VBox width="100%" height="100%" id="configBox">
+			
+			<mx:Form id="proxyForm" width="100%" height="100%">
+				<mx:FormItem label="Proxy:" width="100%" height="100%">
+					<mx:HBox width="100%" paddingBottom="0" paddingTop="0" paddingRight="0" paddingLeft="0">
+						<mx:TextInput id="proxyInput" width="100%" text="{ConnectionModel.getInstance().proxy}" />
+						<mx:Button id="proxyReset" label="Reset" toolTip="Reset proxy url to default proxy url from config file" click="{proxyInput.text = ConnectionModel.getInstance().defaultProxy}" />
+					</mx:HBox>
+				</mx:FormItem>
+			</mx:Form>
+			
+			<mx:HRule width="100%"/>
+			<mx:HBox>
+				<mx:Label id="sel" text="Selected:" />
+				<mx:Label id="selectedSPARQL" width="{configBox.width - 20 - sel.width}" truncateToFit="true" fontWeight="bold" fontSize="12" />
+			</mx:HBox>
+			
+			<mx:List id="configList" width="100%" height="300" itemClick="setSelectedSPARQL();" rowCount="0"
+				itemRenderer="popup.EndpointListRenderer" variableRowHeight="true" alternatingItemColors="[0xFFFFFF, 0xEFF1F2]" />
+
+		</mx:VBox>
+		<mx:HBox width="100%">
+			<mx:Button id="createConfig" label="Create" click="{create();}" />
+			<mx:Button id="saveConfigs" label="Save Configs" click="save(event);" />
+			<mx:Button id="loadConfigs" label="Load Configs" click="load(event);" />
+			<mx:Button id="queryTool" label="QueryTool" click="{openQueryTool();}" />
+			<mx:Spacer width="100%" />
+			<mx:Button id="okButton" label="OK" click="{ok();}" />
+			<mx:Button id="cancelButton" label="Cancel" click="{cancel();}" />
+		</mx:HBox>
+	</mx:VBox>
+</mx:TitleWindow>

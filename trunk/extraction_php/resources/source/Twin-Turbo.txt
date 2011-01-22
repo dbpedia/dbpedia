@@ -1,0 +1,46 @@
+{{Unreferenced|date=March 2009}}
+
+'''Twin-turbo''' refers to a [[turbocharger|turbocharged]] [[internal combustion engine|engine]] on which two turbochargers compress the intake charge.  There are two commonly used twin turbo configurations; parallel twin-turbo, and sequential twin-turbo.  A third kind of twin-turbocharging, staged turbocharging, is used in [[Diesel engine|diesel]] [[automobile]] racing applications.
+
+==Parallel twin-turbo==
+
+Parallel twin-turbo refers to a turbocharger configuration in which two identical turbochargers equally split the turbocharging duties with both turbos functioning simultaneously. Each turbocharger is driven by one half of the engine's spent exhaust energy. In most applications, the compressed air from both turbos is combined in a common intake manifold, and sent to the individual cylinders. Commonly each turbocharger is mounted to its own individual exhaust/turbo manifold, however on inline-type engines both turbochargers could be mounted to a single turbo manifold. Parallel twin turbos applied to V-shaped engines are usually mounted with one turbo assigned to each cylinder bank, providing packaging symmetry, and simplifying plumbing over a single turbo setup. When used on inline engines the parallel twin turbos are commonly applied with two smaller turbos, which can provide similar performance with less [[turbo lag]] than a single larger turbo. Some examples of parallel twin-turbo inline engines are [[Nissan]]'s [[Nissan RB engine#RB26DETT|RB26DETT]], BMW's [[BMW N54|N54]] and [[Volvo]]'s B6284T and B6294T. Some examples of V formation engines with parallel twin-turbos include Mitsubishi's 6G72TT, Nissan's [[Nissan VG engine#VG30DETT|VG30DETT]].  [[Audi]]'s [[Audi_S4#Second_generation.2C_B5_.281997-2002.29|1997-2002 S4 (B5)]], 1997-2005 [[Audi A6|A6]], and [[Audi RS6|2003-2004 RS6]].
+
+While a parallel twin-turbo set-up theoretically has less [[Turbocharger#Turbo_Lag|turbo lag]] than a single turbocharger set up, this is not always the case due to many factors, including, marginally-reduced combined inertial resistance, and often simplified exhaust plumbing and the fact that both turbos spool at more or less the same time means that there can still be a noticeable bit of lag, especially in high-flow turbo/high boost applications. Some ways to counter this are to use a light pressure set up with smaller turbos, where the turbos are designed to output less boost but spool earlier. This set up does sacrifice some top end power however it has less lag than a similar engine with a single turbo set up making the same power. Another system would be the use of [[variable geometry turbocharger]]s, this system changes the angle of the guide vanes depending on the exhaust pressure giving the system excellent power throughout the rev range. Once used mainly in turbocharged [[diesel engine]]s, Chrysler was the first to use it in mass-production gasoline-powered vehicles with the [[Shelby CSX]], debuted in 1989.
+
+It is possible to use parallel operation of more than two turbochargers, such as the [[Bugatti EB110]] and [[Bugatti Veyron]]; both of which run four turbochargers in parallel. The EB110 runs 4 turbos on a 3.5 litre V12 engine, producing 542 hp (404 kW) at 8000 rpm. In the Veyron's case, it is a 16 cylinder engine that generates {{convert|1001|PS|kW hp|lk=on|abbr=on}}.
+
+==Sequential twin-turbo==
+
+Sequential twin-turbo refers to a set up in which the motor utilizes one turbocharger for lower engine speeds, and a second or both turbochargers at higher engine speeds. During low to mid engine speeds, when available spent exhaust energy is minimal, only one relatively small turbocharger, the primary turbocharger, is active. During this period, all of the engine's exhaust energy is directed to the primary turbocharger only, lowering the boost threshold, minimizing turbo lag,  increasing power output at low engine speeds and providing the benefits of a small turbo. Towards the end of this cycle, the secondary turbocharger is partially activated (both compressor and turbine flow) in order to pre-spool the secondary turbocharger prior to its full utilization. Once a preset engine speed or boost pressure is attained, valves controlling compressor and turbine flow through the secondary turbocharger are opened completely (the primary turbocharger is deactivated at this point in some applications). At this point the engine is functioning in a full twin-turbocharger form, providing the benefits associated with a large turbo, including maximum power output, without the disadvantages such as increased turbo lag.
+
+Sequential twin-turbocharger systems provide a way to decrease [[Turbocharger#Lag|turbo lag]] without compromising ultimate boost output and engine power. Examples of cars with a sequential twin-turbo setup include the 1986-1988 [[Porsche 959]], the 1992-2002 [[RX-7|Mazda RX-7 Turbo (FD3S)]], the 1993-1998 [[Toyota Supra#Mark IV (1993-1998)|Toyota Supra Turbo (JZA8x)]], and the 1994-2005 [[Subaru Legacy (second generation)|JDM Subaru Legacy GT, GT-B, RS, RS-B & B4]]. With recent advancements in turbocharger design, and reductions in lag this has made possible, sequential twin turbo systems have fallen out of favor because they are seen as unnecessarily costly and complex.  
+
+Sequential twin turbo can also refer to a system where the output pressure must be much greater than atmospheric.  In this case, two similarly sized turbochargers are used in sequence but with both operating all of the time. In this case the first turbo boosts pressure as much as it can (for example to three times the intake pressure) then the second turbo takes this charge and increases it further (for example to an additional three times intake pressure, for a total boost of nine times atmospheric pressure) to a pressure not possible by a single turbo. This is commonly found on piston engine aircraft which usually do not need to rapidly raise and lower engine speed (therefore [[turbo lag]], while still present is not a problem) and where the intake pressure is quite low due to low atmospheric pressure at altitude, requiring a very high pressure ratio. High-performance diesel engines also sometimes use this configuration, since diesel engines do not suffer from pre-ignition issues and can use significantly higher boost pressure than [[Otto cycle]] engines.
+
+===Applications Outside of Automobile Production===
+
+For a long time, several construction equipment companies were attempting to find a way to allow their diesel engines more horsepower, without a radical redesign, with none using a turbocharged design for many decades, because a turbocharged design was considered impractical, and unusable.  However, in 1993, [[Case CE|Case Corporation]] came up with the idea to use a sequential twin turbocharged system on their [[backhoe loader|Loader/Backhoe]] series of construction equipment, the result was a model they quickly dubbed the "''590 Turbo''." This model was put into production in mid 1994, and was given favorable ratings for power, and handling. Today, the sequential twin turbocharged engine that Case developed is still used as an option on all Loader/Backhoe models.
+
+Many other construction, and agricultural equipment manufacturers have followed suit, including [[Deere & Company|John Deere]], [[Massey-Ferguson]], [[Catapiller Inc|CAT]], and [[J.C. Bamford|JCB]].
+
+===Advantages in Diesel emissions===
+
+While spark ignition engines have fallen out of favor of the sequential turbo design, many diesel companies now make engines with sequential turbos in order to reduce emissions.   [[Caterpillar Inc.]] ACERT engines utilize sequential turbos as well as [[International Harvester|International]]
+on some of their newest engines.   2008 and newer [[Ford Super Duty]] diesel trucks use this design.
+
+==See also==
+
+*[[Boost gauge]]
+*[[Boost controller]]
+*[[Supercharger]]
+*[[Intercooler]]
+*[[Twincharger]]
+
+==External links==
+*[http://www.autozine.org/technical_school/engine/tech_engine_3.htm#Twin-turbo Autozine Technical School: Twin-Turbo]
+
+[[Category:Turbochargers]]
+
+[[de:Turbolader]]
+[[ja:ツインターボ]]

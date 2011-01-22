@@ -1,0 +1,80 @@
+{{Infobox Automobile
+| image = [[Image:Opel Antara front 20071104.jpg|250px|2007 Opel Antara]]
+| name = Opel Antara
+| aka = Chevrolet Captiva<br />Daewoo Winstorm MaXX<br />[[GMC Terrain]]<br />[[Holden Captiva|Holden Captiva MaXX]] (2006–2008)<br />[[Holden Captiva|Holden Captiva 5]] (2009–)<br />[[Saturn Vue]]<br />Vauxhall Antara
+| manufacturer = [[General Motors]]
+| assembly = [[Bupyeong-gu|Bupyong]], [[South Korea]]
+| production = 2006–present
+| predecessor = [[Opel Frontera]]
+| layout = [[F4 layout]] 
+| platform = [[GM Theta platform]]
+| body_style = 5-door [[Sport utility vehicle|SUV]]
+| class = [[Compact SUV|Compact]] [[crossover SUV]]
+| similar = [[Hyundai Santa Fe]]<br />[[Mazda CX-7]]<br />[[Mitsubishi Outlander]]
+| engine = 2.0&nbsp;L ''[[List of VM Motori engines|RA 420]]'' [[Straight-4|I4]] ([[turbodiesel]])<br />2.4&nbsp;L ''[[GM Family II engine#D-TEC/E-TEC II|Ecotec]]'' [[straight-4|I4]]<br />3.2&nbsp;L ''[[GM High Feature engine|Alloytec]]'' [[V6 engine|V6]]
+| transmission = 5-speed [[manual transmission|manual]]<br />5-speed [[automatic transmission|automatic]]
+| related = [[Daewoo Winstorm]]
+}}
+
+The '''Opel Antara''' is a [[Compact SUV|compact]] [[crossover SUV]] produced in [[South Korea]] by [[GM Daewoo]], but sold under the [[Opel]] brand. Launched in 2006, the Antara is based on the [[GM Theta platform]] which shares its [[Automobile platform|underpinnings]] and [[powertrain]]s with the [[Daewoo Winstorm]]. However, it has a different exterior and interior design, along with different exterior dimensions. In the [[United Kingdom]], the car is sold as the '''[[Vauxhall Motors|Vauxhall]] Antara'''. In [[Australia]] and [[New Zealand]] the car was known was the '''[[Holden Captiva|Holden Captiva MaXX]]''' until sales were suspended in 2008; in late 2009 it returned as the '''[[Holden Captiva|Holden Captiva 5]]'''. In the [[United States]] and [[Canada]] it has been sold as the '''[[Saturn Vue]]''' since 2007, while in the Middle East, the vehicle is sold as the '''GMC Terrain''',<ref>{{cite web | last = Chowdhury | first = Mashfique Hussain | date = [[2007-11-14]] | url = http://www.drivearabia.com/news/2007/11/14/world-premiere-for-gmc-terrain-in-dubai/ | title = World premiere for GMC Terrain in Dubai | publisher = DriveArabia.com | accessdate = 2007-11-23}}</ref> and as the '''Chevrolet Captiva Sport''' in Mexico, India, Brazil and Uruguay.<ref>{{cite web | date = [[2007-11-28]] | url = http://www.terra.com.mx/articulo.aspx?articuloId=493169 | title = Nueva Chevrolet Captiva Sport 2008 | language = Spanish | publisher = Terra Networks México | accessdate = 2007-12-24}}</ref>
+
+== Concept ==
+{{Main|Chevrolet S3X/T2X}}
+
+The Antara was first previewed by the three-door '''Opel Antara GTC''' ("Gran Turismo Crossover") [[concept car]], presented at the 2005 [[Frankfurt Motor Show]]. The Antara GTC is based on the five-seater [[Chevrolet S3X/T2X|Chevrolet T2X]] concept. A similar two-door concept was later displayed at the [[New York International Auto Show]] as the '''Saturn PreVue'''. The production Antara, is however a longer four-door seven-seater vehicle very similar to the [[Chevrolet S3X/T2X|Chevrolet S3X]] and its derivative Winstorm.
+
+== Powertrain ==
+{| class="wikitable" style="float:left; margin-left:1em;"
+|-
+! Engine
+! Power
+! Torque
+! Transmission
+|-
+| 2.4&nbsp;L ''[[GM Family II engine#D-TEC/E-TEC II|Ecotec]]'' [[straight-4|I4]]
+| {{Convert|103|kW|hp|0|abbr=on}}
+| {{convert|220|Nm|lbft||abbr=on}}
+| 5-speed [[automatic transmission|automatic]]
+|-
+| 3195&nbsp;cc ''[[GM High Feature engine|Alloytec]]'' [[V6 engine|V6]]
+| {{Convert|167|kW|hp|0|abbr=on}}
+| {{convert|297|Nm|lbft||abbr=on}}
+| 5-speed [[automatic transmission|automatic]]
+|-
+| 1991&nbsp;cc ''[[List of VM Motori engines|RA 420 SOHC]]'' [[Straight-4|I4]] ([[turbodiesel]])
+| {{Convert|110|kW|hp|0|abbr=on}}
+| {{convert|320|Nm|lbft||abbr=on}}
+| 5-speed [[manual transmission|manual]]/automatic
+|}
+
+{{-}}
+
+== Electric vehicles ==
+Opel will build the Antara blended [[plug-in hybrid]].<ref>{{cite web|url=http://www.calcars.org/calcars-news/1072.html |title=The Ultimate Posting on Plug-In Hybrid Developments: Clip & Save |publisher=Calcars.org |date= |accessdate=2009-11-01}}</ref>
+
+== References ==
+{{commonscat}}
+{{reflist}}
+{{Opel timeline}}
+
+[[Category:Opel vehicles|Antara]]
+[[Category:Crossover SUVs]]
+[[Category:Compact SUVs]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles introduced in 2006]]
+[[Category:Plug-in hybrid vehicles]]
+
+[[de:Opel Antara]]
+[[hr:Opel Antara]]
+[[it:Opel Antara]]
+[[lv:Opel Antara]]
+[[nl:Opel Antara]]
+[[ja:オペル・アンタラ]]
+[[pl:Opel Antara]]
+[[pt:Opel Antara]]
+[[ru:Opel Antara]]
+[[sr:Опел Антара]]
+[[sv:Opel Antara]]
+[[tr:Opel Antara]]
+[[uk:Opel Antara]]

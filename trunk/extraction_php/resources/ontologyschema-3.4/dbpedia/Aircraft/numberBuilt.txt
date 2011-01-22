@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = number built
+|rdfs:domain = Aircraft
+|rdfs:range = xsd:integer
+}}

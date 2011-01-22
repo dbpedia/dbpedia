@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= service end year
+|rdfs:domain	= MilitaryPerson
+|rdfs:range		= xsd:gYear
+}}

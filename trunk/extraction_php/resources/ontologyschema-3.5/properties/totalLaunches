@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = total launches
+| rdfs:range = xsd:integer
+}}

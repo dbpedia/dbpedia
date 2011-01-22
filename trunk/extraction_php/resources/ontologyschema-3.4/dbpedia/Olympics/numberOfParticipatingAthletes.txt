@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = number of participating athletes
+|rdfs:domain = Olympics
+|rdfs:range = xsd:integer
+}}

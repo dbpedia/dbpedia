@@ -1,0 +1,33 @@
+{{main|BMW M5}}
+<!-- Image with unknown copyright status removed: [[Image:E28m5.jpg|thumb|right|250px|BMW M5 (E28)]] -->
+The first [[BMW M5]], based on the [[BMW E28|E28]] [[BMW 5 Series|5 Series]], made its debut at [[Amsterdam Motor Show]] in February 1985. It was the product of demand for an automobile with the carrying capacity of a saloon (sedan), but the overall performance of a [[sports car]]. It utilized the 535i chassis and an evolution of the engine from the [[BMW M1]]. At its launch the E28 M5 was the fastest production saloon (sedan) in the world.
+
+E28 M5s were handbuilt in Preußenstrasse/Munich prior to the 1986 Motorsport factory summer vacation. Thereafter, M5 production was moved to Daimlerstraße in Garching where the remainder were built by hand.
+
+In May 1987, the keys to the 1000th car were presented to Mr and Mrs Krampertz from Eichenau near Munich by [[Wolfgang Peter Flohr]], the Director of BMW Motorsport GmbH.
+
+The M5 was offered in four different versions. The first version was the Left Hand Drive (LHD) Euro Spec M5. The second version was the UK specification Right Hand Drive (RHD) M5. The third version was the North American Spec (NA or so-called 1988) M5. The fourth version was the South African (ZA) Spec RHD M5.
+
+The E28 M5 remains among the rarest of all regular production derived M cars.  Only the BMW E34 M5 Touring and the BMW 850CSi had a lower production run.
+
+The LHD, RHD Euro Spec M5s and the ZA spec M5s had the [[BMW M88|M88/3]] powerplant which delivered {{convert|286|bhp|abbr=on}} DIN (210 kW) whereas the North American 1988 M5 was equipped with a variant of the M88/3 called the S38 B35 which was equipped with a [[catalytic converter]], which, combined with slightly lower compression of 9.8:1 versus 10.5:1 for the M88/3 reduced the power output to {{convert|256|PS|kW hp|0|abbr=on}}.  The S38 also differed from the M88/3 in that it had a dual-row timing chain as compared to the M88/3's single row timing chain.  The S38 B35 was used in the NA-Spec E28 M5 and E24 M6.  Late production catalyst equipped versions (117 examples) of the European M635CSi were also equipped with the S38 B35.
+
+[[File:M5sig (E28).jpg|thumb|250px|right|1988 US-Spec M5 with European-Specification headlights]]
+
+==Specification==
+
+* (European) - {{convert|286|PS|kW hp|0|abbr=on}} M88/3 Engine with 10.5:1 Compression.  European-Spec M5s were available with a myriad of options unavailable on USA-Spec M5s such as Water Buffalo leather and a Glass Moonroof.  LHD cars were equipped with 185TR390 Metric Wheels made by Mahle with 220-55VR390 Michelin TRX tires.  RHD Cars were equipped with 16x7.5 BBS wheels with 225-50VR16 Tires - these wheels were not shared with any other model.  Air Conditioning was standard on UK Supplied M5s and optional on LHD M5s.  It is also notable that very early European-Spec LHD M5s had VINs that started with "WBA" instead of the "WBS" designation to indicate BMW Motorsport.  it is estimated that no more than 15 M5s were produced with a "WBA" VIN.  European-Spec M5s were available in various colors and with or without leather upholstery.  At least one UK specification car is known to have been produced with comfort seats.
+
+* (USA/Canada) - 256 PS, ({{convert|252|bhp|abbr=on}} in USA/Canada units) S38B35 Engine with 9.8:1 Compression.  All US-Specification M5s were comprehensively optioned.  Leather Door Panels, Leather Center Console, Full Trunk Carpeting, Air Conditioning, Power Windows, Power Sunroof, Power Seats, Cruise Control, On-Board Computer, Central Locking and Shadowline Trim were standard.  The only option on a US-Specification M5 was electrically heated front seats which were standard equipment on Canadian-Market cars.  All North American specification M5s were finished in "Schwarz" or Jet Black.  Officially US Specification cars were only available with Natur (Tan) leather interiors, however Black was offered in Canada and a handful of US-Bound cars were built with black interiors.
+
+==Performance==
+At the time of sale, BMW quoted the following 0-60 mph times to give the impression that the E28 M5 did not outperform the more expensive and heavier E24 M635csi. [[Image:E28m5engine01.jpg|thumb|250px|right|M88/3 engine from 1985 E28 M5]]
+* (Euro) - {{convert|286|PS|abbr=on}} 0-60 mph - 6.2 s. Top Speed: {{convert|153|mi/h|km/h|abbr=on}}
+* (USA) - {{convert|256|PS|abbr=on}}  0-60 mph - 6.5 s. Top Speed: {{convert|148|mi/h|km/h|abbr=on}}
+
+{{BMW cars}}
+
+[[Category:BMW vehicles|M5 E28]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[pl:BMW M5 E28]]

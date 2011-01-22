@@ -1,0 +1,26 @@
+{{TemplateMapping
+| mapToClass = ChristianBishop
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = religion | ontologyProperty = religion }}
+	{{PropertyMapping | templateProperty = Title | ontologyProperty = title }}
+	{{PropertyMapping | templateProperty = Predecessor | ontologyProperty = predecessor }}
+	{{PropertyMapping | templateProperty = Successor | ontologyProperty = successor }}
+	{{PropertyMapping | templateProperty = date of birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = place of birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = date of death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = place of death | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = enthroned | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = ended | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birthplace | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = deathplace | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = parents | ontologyProperty = father }}
+	{{PropertyMapping | templateProperty = parents | ontologyProperty = mother }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = children | ontologyProperty = child }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	{{PropertyMapping | templateProperty = alma_mater | ontologyProperty = almaMater }}
+}}

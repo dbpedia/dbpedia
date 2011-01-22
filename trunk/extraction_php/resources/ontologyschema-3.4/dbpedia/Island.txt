@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Island
+|rdfs:subClassOf = PopulatedPlace
+}}

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Country
+| rdfs:subClassOf = PopulatedPlace
+}}

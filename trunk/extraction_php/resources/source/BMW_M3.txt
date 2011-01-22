@@ -1,0 +1,446 @@
+{{Infobox Automobile
+|image=[[Image:BMW M3 E92 coupe front.jpg|250px|E92 BMW M3 coupé]]
+|name=BMW M3
+|manufacturer=[[BMW M|BMW M GmbH]]
+|production=1986&ndash;present
+|class= [[Sports car]]
+|layout=[[FR layout]]
+}}
+The '''BMW M3''' is a high-performance version of the [[BMW 3 Series]] [[compact car]], developed by [[BMW]]'s branch [[BMW M]]. M3 models have been derived from the E30, E36, E46 and E90/E92/E93 3-series, and sold with [[coupé]], [[sedan (automobile)|sedan]] and [[convertible]] body styles. Common upgrades over the "standard" 3-Series automobiles include more powerful and responsive (yet at times smaller) engines, improved handling/suspension, more aggressive aerodynamics/body, and multiple interior/exterior accents with the "M"/Motorsport nomenclature.
+
+== E30 M3 ==
+{{Infobox Automobile generation
+| name           = E30
+| image          = [[Image:BMW M3 E30.jpg|250px|BMW E30 M3]]
+| production     = 1986&ndash;1992
+| body_style     = 2-door [[coupe]]<br/>2-door [[convertible]]
+| platform       = [[BMW 3 Series (E30)|BMW E30]]
+| related        = [[BMW 3 Series]]
+| transmission   = 5-speed [[Manual transmission|manual]]
+| wheelbase      = {{Auto in|101.1|0}}
+|assembly=[[Regensburg]], [[Germany]]<br/>[[Garching]], [[Germany]]<br /> [[Rosslyn]], [[South Africa]]
+| length         = {{Auto in|171.1|0}}
+| height         = {{Auto in|53.9|0}}
+| width          = {{Auto in|66.1|0}}
+| engine         = 2.3 L [[Straight-4|I4]]
+}}
+Based on the 1986 model year [[BMW 3 Series (E30)|E30]] [[BMW 3 Series|3-Series]], the first M3 was introduced with a 2.3&nbsp;L [[Straight-4|I4]] [[BMW S14|S14B23 engine]] (or S14 in shorthand). The engine design was based on various BMW genealogy; basic block layout from the M10 4 cylinder (found in the 2002 and 320 series) overbored and reinforced to similar specifications of the [[BMW M88]] [[Straight-6|inline-6]]. The valve train and head architecture from BMWs M1 and later M6 inline-6 cylinder was adopted for aggressive breathing, resulting in outstanding performance for the day.
+
+The most notable characteristic of the E30 M3 (relative to later M3 iterations) is its racing pedigree. It was campaigned by BMW as well as other racing teams including [[Prodrive]] and [[AC Schnitzer]] competing in many forms of racing including Rally, DTM, and Australian touring car.
+
+One of the main reasons for production of the road car was to [[homologate]] the M3 for [[Group A]] [[Touring car|Touring Car racing]]. One of the reasons often cited for its creation was that it was to compete with the "2.3-16V"-model of the [[Mercedes-Benz W201]] 190E which was introduced in 1983, although this was only speculative. When the E30 M3 was in its final years of top level competition, the 2.5&nbsp;liter S14 engine in full race trim was capable of {{convert|340|hp|abbr=on}} plus, naturally aspirated.
+
+=== The E30 M3 road car ===
+The third car road-going version produced {{convert|195|bhp|kW PS|0|abbr=on}} (catalyzed model). Evolution models (not sold in North America) continued with 2.3&nbsp;liters but adopted revised exhaust-cam timing, increased compression along with the lack of a catalyst producing approximately {{convert|215|hp|abbr=on}}. Later the Sport Evolution model production run of 600 (sometimes referred as Evolution III) increased engine displacement to 2.5&nbsp;L and produced 238&nbsp;hp (175&nbsp;kW). 786 [[Convertible|cabriolets]] were also produced, all by hand in BMW's Garching plant; at the time the {{convert|215|hp|abbr=on}} example was the world's fastest four-seat [[convertible]].
+
+=== Changes from the standard 3-series ===
+The E30 M3 differed from the rest of the [[BMW 3 Series (E30)|E30]] line-up in many ways. The M3 was equipped with a revised stiffer and more aerodynamic body shell as well as "box flared" wheel-arches to accommodate a wider track with wider and taller wheels and tires.  The only body panels the standard model 3-series and the M3 shared were the hood and sunroof. It also had three times the [[caster angle]] of any other E30. The M3 shared larger wheel bearings and front brake calipers with the [[BMW E28|E28]] 5-Series. It also had a Getrag 265/5 5 speed gearbox, and rear differential with different final-drive ratio and 25% lockup.
+
+=== Wrap up ===
+To keep the car competitive in racing following homologation rules changes year to year, homologation specials were produced. Homologation rules roughly stated that the race version must reflect the street car aerodynamically and in engine displacement; therefore, improved models were periodically released for the public. Special editions and homologation specials include: the Evo 1, Evo 2 and Sport Evolution some of which featured less weight, improved aerodynamics, taller front fender arches (Sport Evolution; to further facilitate {{convert|18|in|mm|sing=on}} wheels in DTM), brake ducting, and more power. Other limited-production models (based on evolution models but featuring special paintwork and/or unique interior schemes commemorating championship wins) include the Europa, Ravaglia, Cecotto, and Europameister.
+
+Production of the original E30 M3 ended in early 1992.
+
+Having won more road races than any other model in history, the E30 M3 is considered by many to be the world's most successful road-race car. M3s entered by BMW and privateer racing outfits did dominate the competition for the years it was in production.  Its wins include the [[Deutsche Tourenwagen Meisterschaft]], [[British Touring Car Championship]] [[European Touring Car Championship]] and even the one-off [[World Touring Car Championship]] title in [[1987 World Touring Car Championship season|1987]]. The E30 M3 is also a multiple winner of [[Guia Race]], [[24 Hours Nürburgring]] and [[Spa 24 Hours]].
+
+=== Notable publication accolades ===
+In 2004, ''[[Sports Car International]]'' named the E30 M3 car number six on the list of [[Sports Car International Top Sports Cars|Top Sports Cars of the 1980s]].
+
+In 2007 "[[Evo Magazine|Evo]]" Magazine rated the E30 M3 Sport Evolution top of all the M series BMWs at time of print 
+
+In 2007 "''[[Automobile Magazine]]'' included the E30 M3 in their "5 greatest drivers cars of all time" under the [[25 Greatest Cars of All Time]].
+
+=== E30 performance ===
+<ref>Works figures according to Kittler, loc. cit.</ref>
+* (2.3 L-16v I4) - {{convert|195|PS|kW hp|abbr=on}} − 0-62&nbsp;mph: 6.9 s. Top Speed: 146&nbsp;mph (235&nbsp;km/h)
+* (2.3 L-16v I4) - {{convert|215|PS|kW hp|abbr=on}} − 0-62&nbsp;mph: 6.7 s. Top Speed: 149&nbsp;mph (240&nbsp;km/h)
+* (2.5 L-16v I4) - {{convert|238|PS|kW hp|abbr=on}} − 0-60&nbsp;mph: 6.1 s. Top Speed: 154&nbsp;mph (248&nbsp;km/h)
+
+=== Production figures ===
+{| class="wikitable" border="1" style="font-size:97%; text-align:center;"
+|-
+!Model
+!Power (kW)
+!Coupe and Sedan
+!Convertible
+|-
+| align="left"| Euro model
+| {{convert|143.5|kW|PS hp|0|abbr=on}} / {{convert|147|kW|PS hp|0|abbr=on}}
+| 8,661
+|
+|-
+| align="left"| US model
+| {{convert|143.5|kW|PS hp|0|abbr=on}}
+| 4,996
+|
+|-
+| align="left"| Evo 1
+| {{convert|147|kW|PS hp|0|abbr=on}}
+| 505
+|
+|-
+| align="left"| Europa late model
+| {{convert|158|kW|PS hp|0|abbr=on}}
+| 1,519
+|
+|-
+| align="left"| Evo 2
+| {{convert|162|kW|PS hp|0|abbr=on}}
+| 500
+|
+|-
+| align="left"| Convertible
+| {{convert|143.5|kW|PS hp|0|abbr=on}} / {{convert|158|kW|PS hp|0|abbr=on}}
+|
+| 786
+|-
+| align="left"| Sport Evolution
+| {{convert|175|kW|PS hp|0|abbr=on}}
+| 600
+|
+|-
+| align="left"| Europameister<br />(''all signed by [[Roberto Ravaglia]]'')
+| {{convert|143.5|kW|PS hp|0|abbr=on}}
+| 148
+|
+|-
+| align="left"| [[Johnny Cecotto|Cecotto]]
+*25 as special edition ''[[Roberto Ravaglia|Ravaglia]]''
+*50 as ''Cecotto Switzerland'' <small>(throttled to 155&nbsp;kW)</small>
+| {{convert|158|kW|PS hp|0|abbr=on}}
+| 505
+|
+|- style="background:gainsboro;"
+| colspan=2 |'''Total'''
+| colspan=2 align="center" | '''~18,000'''
+|}
+
+=== Significant victories in auto racing ===
+[[Image:BMW M3 Gruppe A DTM 2,3 1987 vr TCE.jpg|250px|thumb|left|BMW M3 Group A, DTM, 1987]]
+; Championships
+* [[World Touring Car Championship]]; 1 title ([[1987 World Touring Car Championship season|1987]])
+* [[European Touring Car Championship]]; 2 titles (1987 and 1988)
+* [[British Touring Car Championship]]; 2 titles (1988 and 1991)
+* [[Italia Superturismo Championship]]; 4 titles (1987, 1989, 1990 and 1991)
+* [[Deutsche Tourenwagen Meisterschaft]]; 2 titles (1987 and 1989)
+* [[Australian Touring Car Championship]]; 1 title (1987)
+
+; Races
+* [[Guia Race]]; 5 wins (1987, 1988, 1991, 1992 and 1993)
+* [[24 Hours Nürburgring]]; 4 wins (1989 – 1992)
+* [[Spa 24 Hours]]; 4 wins (1987, 1988, 1990 and 1992)
+
+== E36 M3 ==
+{{Infobox Automobile generation
+| name           = E36
+| image          = [[Image:BMW M3 E36 purple.jpg|250px|1996 BMW M3 coupe, North American version]]
+| production     = 1992&ndash;1999<br/>71,242 built<ref name="Kittler 2001 130">{{cite book |title=Deutsche Autos seit 1990, vol.5 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch |location=Stuttgart |isbn=3-613-02128-5 |page=130}}</ref>
+| body_style     = 4-door [[sedan (car)|sedan]]<br/>2-door [[coupe]]<br/>2-door [[convertible]]
+| platform       = [[BMW 3 Series (E36)|BMW E36]]
+|assembly        =[[Regensburg]], [[Germany]]<br /> [[Rosslyn]], [[South Africa]]
+| related        = [[BMW 3 Series]]
+| transmission   = 5-speed [[Automatic transmission|automatic]]<br/>5-speed [[Manual transmission|manual]]<br/>6-speed [[Manual transmission|manual]]
+| wheelbase      = {{Auto in|106.3|0}}<br/>Convertible: {{Auto in|106.7|0}}
+| length         = {{Auto in|174.5|0}}<br/>Lightweight: {{Auto in|178.0|0}}
+| height         = {{Auto in|52.6|0}}<br/>Sedan: {{Auto in|53.7|0}}
+| width          = {{Auto in|67.3|0}}<br/>Sedan: {{Auto in|66.9|0}}
+| weight         = {{convert|1460|kg|lb|0|abbr=on}}<br/>Convertible: {{convert|1560|kg|lb|0|abbr=on}}
+| engine         = 3.0 L [[Straight-6|I6]]<br/>3.2 L [[Straight-6|I6]] (1996)
+}}
+The E36 M3 debuted in February, 1992 and hit the dealers' showrooms in November that year; it was the first M3 powered by a six-cylinder engine, displacing 2990 cc and developing {{convert|286|PS|kW hp|0|abbr=on}}. Initially available as a [[coupé]] only, BMW introduced M3 convertible/cabriolet and saloon/sedan versions in 1994, the absence of any [[BMW M5|M5]] models in the BMW line-up between the end of e34 M5 production in 1995 and the launch of the e39 M5 in 1998 prompting the introduction of the four door Motorsport model. The E36 is also the first M3 to be manufactured in right-hand drive.
+
+Also in 1994, BMW produced the limited-edition M3 GT as a racing homologation special; all GTs were British Racing Green and featured an upgraded {{convert|295|PS|kW hp|0|abbr=on}} 3.0&nbsp;liter engine. 350 GTs were built.<ref name="Kittler 2001 130"/>
+
+In summer, 1995 M3 coupé and saloon were upgraded to a {{convert|321|PS|kW hp|0|abbr=on}} 3.2&nbsp;liter inline-6; at the same time, the cars received clear indicator lenses, new wheels and a 6-speed gearbox. The Cabriolet did not receive these changes until spring 1996.
+
+The majority of E36 M3's were produced at the [[Regensburg]] factory, however a small number of right hand drive M3's were assembled at BMW's [[Rosslyn]] plant in [[Pretoria]], [[South Africa]].<ref>{{cite web|url=http://www.bmwmregistry.com/model_faq.php?id=15#2 |title=FAQ E36 M3 3.2 |publisher=BMW M Registry |date= |accessdate=2009-06-12}}</ref> In total, 46,525 coupés, 12,114 Cabriolets and 12,603 saloons were produced. Saloon production ended in December, 1997; the coupé ceased production in late 1998; and the Cabriolet in December, 1999.<ref name="Kittler 2001 130"/>
+
+=== North American models ===
+The first E36 M3 to be imported to the United States was the 1995 model, which received a 3.0&nbsp;L 24-valve [[DOHC]] inline-six engine with {{convert|240|bhp|kW PS|0|abbr=on}} and {{convert|305|Nm|lbft|abbr=on}} ([[BMW M50#S50B30|S50B30US]]), a different suspension and a 0-{{convert|60|mph|km/h|abbr=on}} time in about 6 s. It was available with 5-speed [[Manual transmission|manual]] and [[automatic transmission]]s.
+
+A CSL (Lightweight) M3 was produced in limited numbers for the 1996 model year:
+
+The 1996-1999 model years had displacement bumped up to 3.2&nbsp;L, still with {{convert|240|bhp|kW PS|0|abbr=on}} , but torque increases to {{convert|320|Nm|lbft|abbr=on}} which is the same [[BMW M52#S52B32|S52B32US]] engine used in the early [[BMW M Roadster|M Roadster]] and [[BMW M Coupe|M Coupe]]. The manual gearbox remains a 5-speed despite the European versions being upgraded to 6-speed. It was also available as a [[sedan (car)|sedan]] starting in model year 1997, and as [[convertible]] in 1998.  Production of the sedan was halted in 1998, while the other models continued until 1999.
+
+US sales figures include a total of 18,961 coupes, 7,760 sedans and 6,211 convertibles.<ref>All figures: {{cite book |title=Standard Catalog of Imported Cars 1946-2002 |last=Covello |first=Mike |year=2002 |publisher=Krause Publications |location=Iola |isbn=0-87341-605-8 |pages=160–163}}</ref>
+
+=== E36 performance ===
+{| class="wikitable" border="1" style="font-size:95%;"
+|-
+!colspan=2|Version
+!Power
+!0-60&nbsp;mph{{Fact|date=April 2009}}
+!Top Speed
+|-
+|rowspan=3|3.0&nbsp;L-24v [[Straight-6|I6]]
+|-
+| Euro || {{convert|210|kW|PS hp|0|abbr=on}} || <center>5.4 s <ref name="bmwmultiple">[http://www.carautoportal.com/bmw/bmw-m3.php BMW M3 Specs<!-- Bot generated title -->]</ref></center> || {{convert|155|mph|km/h|abbr=on}}<ref name="bmwmultiple"/> <small>(electronically limited)</small>
+|-
+| U.S. || {{convert|179|kW|PS hp|0|abbr=on}} || <center>5.6 s</center> || {{convert|137|mph|km/h|abbr=on}}<ref>''Road & Track Sports & GT Cars 1996'', p. 18.</ref> <small>(electronically limited)</small>
+|-
+|rowspan=3|3.2&nbsp;L-24v I6
+|-
+|Euro || {{convert|236|kW|PS hp|0|abbr=on}} || <center>5.2 s </center> || {{convert|155|mph|km/h|abbr=on}} <small>(electronically limited)</small>
+|-
+|U.S. || {{convert|179|kW|PS hp|0|abbr=on}} || <center>5.5 s </center> || {{convert|139|mph|km/h|abbr=on}} <small>(electronically limited)</small>
+|}
+The E36 M3 was also available as a saloon in the UK for a limited period during 1995-6, during which around 400 RHD models were sold in the UK. This variation had slightly softer suspension but could be purchased with the firmer coupe set-up if the customer wished. Performance figures did not change with the standard {{convert|286|bhp|kW PS|0|abbr=on}} (more than the US model by some margin).
+The 3.2 Evo was introduced with {{convert|316|bhp|kW PS|0|abbr=on}} .
+
+=== E36 special models ===
+There were six special-edition models of the E36 M3 produced: the M3 Euro-Spec (Canadian Edition), M3 CSL (M3 LTW), M3 GT, M3 GT-R, M3-R and the Imola Individual GT2 (the last of the E36s)
+
+There was also an M3 Anniversary Edition only produced in 1999 for Australia. This was the final year of production for the E36, with only 50 coupes and 70 convertibles being made. Furthermore, "BMW Individual" were able to custom design an M3 with specific coloured leather, woodgrain and other personalized options including polished magnesium alloy wheels from the Anniversary edition. Convertibles lacked the sports seats found in the coupe but retained every other feature.
+
+==== M3 Euro-Spec (Canadian Edition) ====
+In 1994 agreements existed between [[Canada]] and several countries in Europe which allowed any car authorized in one participating country to legally be sold in any of the others.{{Fact|date=May 2007}} Though BMW had unveiled the next generation E36 M3 in Europe in 1992, the company felt that the production version would need to be priced much higher for export to North America than the market would allow. While the engineers worked on a less expensive North American version of the E36 M3, BMW Canada seized the window of opportunity: 45 numbered European specification M3 coupes were specially produced and imported into Canada.
+
+Even with a base price of $59,900 (a substantial sum for the day given that the standard equipment list did not include forged lightweight wheels, air conditioning, a sunroof or even metallic paint), all 45 cars were spoken for in just 3&nbsp;days. Unlike the other special versions of the E36 M3, buyers were free to choose any colors and options they wanted on their cars. The cars all came equipped with the {{convert|286|PS|kW hp|0|abbr=on}} 3.0 L inline 6 cylinder engine, vented brakes with floating rotors, glass headlights and other European standard equipment. They were initially delivered to [[Toronto]], then shipped all across the country to the dealerships where they were ordered.
+
+Canada would not see another E36 M3 for sale until two years later, when BMW finally made the American versions of the 1997 M3 available for sale.  Forty five Euro-Spec Canadian Edition cars were built, each one having a numbered engraved plaque in both the glovebox and the custom leather case which holds the owners manuals. Only the Australian M3-R was built in lower numbers.
+
+==== M3 CSL (E36) ====
+<!-- Unsourced image removed: [[Image:Plethora-of-pk's.jpg|thumb|right|250px|1995 BMW M3 CSL]] -->
+Beginning with the first E36 M3s delivered, BMW racers began pressuring BMW for a race-ready version with which to compete against [[Porsche 911]]s in sports-car racing.
+
+In 1995, BMW relented and began building batches of the M3 CSL at BMW Individual. Upon completion they were sent to Prototype Technology Group (PTG) Racing in Virginia for final preparation, which included the front and rear Motorsport flag decals, and "trunk goodies." In the boot there was a different oil pan with dual pick up oil pump, longer oil dipstick tube, front strut bar, lower x brace that owners could install at the risk of voiding the standard BMW warranty.  The car also came with the normal M3 low wing mounted but most dealers installed the special high wing when prepping the car for sale.  An adjustable front lower lip/spoiler was installed. Each new owner was given a 1 page legal document to sign stating that any installation of trunk items voided the new car warranty.  The ECU had the top speed limiter removed which resulted in a drag induced top speed.  Forged 17" alloy wheels, 7-1/2" wide in the front and 8-1/2" wide in the rear, mounted with identically sized 235/40-17 tires front and rear were an additional difference from the standard 17" x 7-1/2" wide cast alloy wheels mounted with 235/40-17 tires on standard M3's.  A 3.23 rear differential was installed vs the normal 3.15 installed in 1995 model year M3's.<ref>{{cite web|url=http://www.bmw-m.net/techdata/95m3ltw.htm |title=95M3LTW |publisher=Bmw-m.net |date= |accessdate=2009-06-12}}</ref>
+
+Although BMW promised to build at least 85 examples, BMW never released the number of M3 CSL's built, and because of the peculiar assembly line, to this day may not be known. However, enthusiasts now believe that there exist approximately 120 models.<ref>[http://www.bmwworld.com/models/m3_ltw.htm BMW World - E36 M3 CSL Lightweight<!-- Bot generated title -->]</ref>
+
+The first two cars, which were used as press cars, are not technically M3 CSL's as they were regular production M3's that PTG made similar in appearance to the not-yet-built CSL. After press duties, those two cars were brought back into the PTG stable.
+
+; Racing History
+
+In an ironic twist, the car that BMW built to race was hardly raced.
+
+Outside of multiple cars raced in the BMW CCA Club Racing series (an amateur series specific only to BMW models) PTG had between two to four models that they raced in [[International Motor Sports Association|IMSA]]. It seems that one of those cars was sold to Jeff McMillian, in which he won the SCCA World Challenge series, without winning a single race. One was raced in the SCCA's Touring 1 class by John Browne, and one or two may have been raced in the extinct Motorola Cup.
+
+==== M3 GT ====
+[[Image:Chris Enright Goodwood 2004 EA85120.JPG|thumb|right|250px|1995 BMW M3 GT Individual]]
+The M3 GT Coupe was a limited-edition mainland Europe only edition of which 356 were made, 50 further M3 GT Individuals were made in right-hand drive for the UK market. All built in 1995.
+
+Famous for being British Racing Green with a Mexico Green interior - a peculiar choice when the traditional German national racing colors were white with red numbers.
+
+The BMW M3 GT was a homologation series special built to allow the E36 M3 to compete in the FIA-GT class II, IMSA GT and international longdistance races.
+
+==== M3 Evolution Imola Individual (M3 GT2) ====
+The M3 Evolution Imola Individual was a limited-edition (200 units for Europe with part VIN WBACB5103-AN307--, 50 for the United Kingdom) car sometimes referred to as the M3 GT2. The engine and performance characteristics of the car were unchanged from the 1996+ euro M3, and a special exterior and interior colour combination was once again chosen by BMW; Imola red (405) paint with Nappa leather & Amaretto seats in Imola red and anthracite seats. It also included side airbags, the M3 GT Class II rear spoiler, front class II corner spoiler extensions, electric seats, and double-spoke polished alloy wheels.
+
+Prior to the release of the Imola Individual there was a pre-production model made which was used as the basis of the special edition, it featured the Class II front and rear spoilers, special order Imola red Paint, special order Nappa + Anthracite Amaretta interior, SMG gearbox, GSM Phone Kit, headlamp washers and double-spoke polished alloy wheels.
+
+This car is believed to be the car BMW used for the Imola individual advertising though not officially confirmed.
+
+[[Image:M3GTIMOLA.jpg|thumb|right|250px|1999 BMW M3 Evolution Imola Individual]]
+
+==== M3-R ====
+Fifteen M3's were ordered by BMW Australia in 1994 to race in the Australian Super Production series. All were delivered to [[Frank Gardner (driver)|Frank Gardner Racing]]  for final preparation. 11 were made available to the general public, (who have to possess a CAMS license to be allowed to buy one), 4 were retained for the race series, the M3R had locally sourced King springs fitted to group n adjustable struts and rear perches, AP racing twin plate clutch and 4 piston brake calipers, dual pickup sump, an oil restrictor in the head, A C Schnitzer cams, a 3.25:1 ratio medium case diff and M5 driveshaft, cold air snorkel into air filter box replacing left hand fog light, non functional rear seat, air conditioner delete and more aggressive tune, GT front splitter and rear spoiler with extensions and gurney strips. this was the most powerful production E36 made with {{convert|240|kW|PS hp|0|abbr=on}}. a bolt in FIA approved roll cage was also a factory option (locally produced by Dencar)there were several differences between the cars depending on customer requirements, early numbers had non staggered BBS wheels, later had staggered BBS wheels (individually numbered plaque fitted to centre console below emergency brake lever)
+
+==== M3 compact ====
+To celebrate the 50th birthday of the German automobile magazine ''Auto Motor und Sport'' in 1996, BMW M GmbH handbuilt (at least) one official BMW E36 M3 compact.  The car was tested and written an article about in the June edition of the named magazine.<ref>''Auto Motor and Sport'', 13/1996, pages 38-40</ref>
+
+The car embodied all the technical (engine, driveline, suspension) and optical (bumpers, wheels, mirrors, dashboard) characteristics of the stock E36 M3.  It was powered by the 321 DIN-hp 3.2-litre engine, and its color was red with a black cloth/alcantara interior.  It had the forged Styling 24M 5-doublespoke wheels that came standard on the M3 cabriolet, an exhaust with fairly centered quad exhaust tip, Recaro sports bucket seats, red four-point seat belts and an alcantara wrapped steering wheel and gear lever.
+
+The car was donated to the automobile magazine, but there are no details of the car's present whereabouts.
+
+== E46 M3 ==
+{{Infobox Automobile generation
+| name           = E46 M3
+| image          = [[Image:BMW M3 coupe E46.jpg|250px|BMW M3 Coupe (US)]]
+| production     = 2001&ndash;2006
+| body_style     = 2-door [[coupe]]<br/>2-door [[convertible]]
+| platform       = [[BMW 3 Series (E46)|BMW E46]]
+|assembly=[[Regensburg]], [[Germany]]
+| related        = [[BMW X3]]<br/>[[BMW 3 Series]]
+| transmission   = 6 Speed [[Manual transmission|Manual]]<br/>6 Speed [[Electrohydraulic manual transmission|SMG]] Drivelogic
+| wheelbase      = {{Auto in|107.5|0}}
+| length         = 2000-02: {{Auto in|176.8|0}}<br/>2003-05: {{Auto in|176.9|0}}
+| height         = Coupe: {{Auto in|54.0|0}}<br/>2001-02 Convertible: {{Auto in|53.7|0}}<br/>2003-05 Coupe: {{Auto in|53.9|0}}
+| width          = {{Auto in|70.1|0}}
+| engine         = 3.2 L [[Straight-6|I6]]
+| weight         = Coupe: {{convert|3415|lb|abbr=on}}
+}}
+The [[BMW 3 Series (E46)|E46]] M3, first introduced in October, 2000, appeared worldwide with the new 3.2&nbsp;L [[BMW M50#S54B32|S54]] M-tuned engine. At the time of the car's introduction, this engine had the highest specific output [[Naturally-aspirated engine|naturally aspirated]] engine ever made by BMW, producing {{convert|343|HP|kW}} and {{convert|365|Nm|lbft|abbr=on}}.
+[[File:BMW M3 convertible.jpg|thumb|left|BMW M3 [[Convertible]]]]
+The E46 M3 was offered with a standard 6-speed GETRAG transmission, but optionally came with a [[SMG]] drivelogic transmission (also known as the SMG II). This is the standard 6-speed GETRAG transmission with an electrohydraulically actuated clutch pedal. Shifts are made via the SMG gear knob or the steering wheel mounted paddle shifters. The engine had a redline of 8,000 rpm. As with most M engines, the S54 again had 6 independent throttle bodies and this time electronically operated throttles (drive-by-wire throttle with no cable). Of interesting note the Double VANOS system used on the E46 was developed with Jamie Gray.
+
+In the US, the E46 M3 came with similar engine output as the European version, unlike in the E36, which was heavily detuned. Power is now at {{convert|333|bhp|kW PS|0|abbr=on}} due to an extra catalytic converter. In 2009, Road and Track Magazine announced the 2006 M3 with the SMG transmission as its favorite sports car of all time.
+
+=== E46 performance ===
+The M3's S54 naturally aspirated engine produces more than {{convert|100|hp}} per litre ({{convert|343|hp}}/3.2 litre).
+
+'''EUR Models'''
+* {{convert|343|PS|kW hp|abbr=on}} @ 7900 rpm
+* Torque: {{convert|365|Nm|lb·ft|abbr=on}}  @ 4900 rpm
+* 0-{{convert|100|km/h|mph|abbr=on}} — 4.5 s for manual, 4.7 s for SMG, 5.0 s for cabriolet
+* 1/4&nbsp;Mile — 13.3 s @ {{convert|104|mi/h|km/h|1|abbr=on}}
+* Top Speed: {{convert|185|mi/h|km/h|abbr=on}}{{Fact|date=June 2009}}
+* Skid Pad: 0.89g<ref name="edmunds.com">{{cite web|url=http://www.edmunds.com/apps/vdpcontainers/do/vdp/articleId=125908/pageNumber=1?synpartner=edmunds&pageurl=www.edmunds.com/reviews/comparison/articles/125908/article.html |title=2002 BMW M3 vs. 2008 BMW 135i vs. 2008 BMW 335i Comparison Test |publisher=Edmunds.com |date=2008-04-27 |accessdate=2009-06-12}}</ref>
+
+'''US Models'''
+* {{convert|333|hp|kW PS|0|abbr=on}}
+* Torque: {{auto lb·ft|262}}
+* 0-{{convert|100|km/h|mph|abbr=on}} — 4.6 seconds for manual, 4.8 seconds for SMG, 5.1 seconds for cabriolet
+* 1/4&nbsp;Mile - Coupe: 13.3 sec @ {{convert|104|mi/h|km/h|abbr=on}}<ref name="Motor Trend, March 2003">[[Motor Trend]], March 2003</ref>, Convertible: 13.7 sec @ {{convert|104|mi/h|km/h|abbr=on}} <ref name="Car & Driver, January 2002">[[Car & Driver]], January 2002</ref>
+* Top Speed - Coupe: {{convert|155|mi/h|km/h|abbr=on}} (electronically limited),<ref>BMW M3 Owners Manual</ref> {{convert|176|mi/h|km/h|abbr=on}} (delimited)<ref name="Motor Trend, March 2003"/>
+* Skid Pad - Coupe: 0.89g,<ref name="edmunds.com"/> Convertible: 0.81g <ref name="Car & Driver, January 2002"/>
+
+=== E46 special models ===
+There were three different models of E46 M3s produced: Model M3 (Sport, Winter, Competition), the M3 CSL and the M3 GTR V8 (limited production).
+
+==== M3 GTR ====
+<!-- Deleted image removed: [[Image:M3 GTR.jpg|thumb|right|M3 GTR (Non Street Version)]] -->
+An E46 GTR came to life on February 2001, powered by a 4000 cc V8 producing {{convert|444|bhp|kW PS|0|abbr=on}} (race version—street version produced {{convert|380|bhp|kW PS|0|abbr=on}}). Unlike the straight-six powered M3 versions, which were outpaced by the [[Porsche 996]] GT3, the racing version of the E46 M3 GTR 16 was very successful in the [[American Le Mans Series]] (ALMS), entered by [[Schnitzer Motorsport]].
+<!-- Unsourced image removed: [[Image:M3_GTR_Arabic_Museum.jpg|thumb|right|180px|The Arabic Museum Masterpiece]] -->
+<!-- Unsourced image removed: [[Image:M3_GTR_Official_Photo.jpg|thumb|right|180px|The Only Photo BMW Ever Released Of The Car]] -->
+Rivals such as [[Porsche]] pointed out that this car was more of a [[prototype]] as no V8 engine was available in the road-going BMW E46, which is in violation of the spirit of [[Gran Turismo]]. In 2001, ALMS regulations stated that cars must be for sale on two continents within twelve months of the rules being issued. To fulfill this rule, BMW put 10 road going GTRs on sale after the 2001 season, for 250,000 euros (then $218,000) each, allegedly only available for select customers.
+
+Due to this, the ALMS rules were altered for 2002 to state that 100 cars and 1000 engines must be built for the car to qualify without penalties. Although BMW could have raced the [[V8 engine|V8]] with the new weight and power penalties under these new regulations, they chose to pull out of the ALMS, effectively ending the short-lived M3 GTR's career.
+
+Two [[Schnitzer Motorsport]] GTR cars saw a comeback in 2003 at the [[24 Hours Nürburgring]], winning 1-2 in 2004 and 2005, as well as entries in the [[24 Hours Spa]]. Onboard coverage recorded in 2004 [[Hans-Joachim Stuck]], [[Pedro Lamy]], [[Jörg Müller]] & [[Dirk Müller]] on the [[Nürburgring]] and [[Spa-Francorchamps]].
+
+Private teams (Scheid, [[Getrag]], etc.) also have fit 4000 cc BMW V8 engines into the E46 body to race on the [[Nürburgring]], winning some [[VLN]] races in the last years.
+
+Both M3 GTR Road and Race Cars were featured in the game [[Gran Turismo 4]], both as prize cars that could only be won and couldn't be bought. It was also featured as the cover car for Electronic Arts' racing game [[Need For Speed: Most Wanted]].
+
+==== M3 CSL (E46) ====
+<!-- Deleted image removed: [[Image:M3 csl front.jpg|thumb|right|E46 BMW M3 CSL]] -->
+<!-- Deleted image removed: [[Image:M3 csl rear.jpg|thumb|right|E46 BMW M3 CSL]] -->
+{{Infobox Automobile generation
+| name           = E46 M3 CSL
+| image          = [[Image:M3-csl.jpg|250px|2003 M3 CSL]]
+}}
+BMW made a limited run (fewer than 1,400 units) of the M3 CSL (E46) machines between June and December 2003. The CSL (Coupe Sport Lightweight) received an aggressive weight reduction campaign, more power (up to 360 hp), and sharper handling characteristics than the standard M3, courtesy of larger anti-roll bars, stiffer spring rates, and semi-[[Slick tire|slick]] racing compound tires (Michelin Pilot Sport Cups). From the exterior, the CSL is distinguished from its standard sibling with a different wheel design, larger integrated rear [[Spoiler (automotive)|spoiler]] and a large air intake hole on the left side of the front bumper. Weight loss was achieved through use of a [[carbon-fiber]] roof, trunk lid made of sheet molding compound, lighter exhaust system, thinner rear glass, carbon fiber front bumper, rear diffuser, interior door panels and console, lightweight racing seats, removed sound insulation, cardboard trunk lid and the removal of side air bags. The M3 CSL's engine differs from the M3 with different camshafts, valves, carbon-fiber intake manifold and alpha-N engine management. Several other features available in a regular M3 as standard such as air conditioning and radio were also deleted, although these options could be added at the request of the owner. [[Electrohydraulic manual transmission|SMG II]] was made standard, with different software from the standard M3. The CSL features a unique system called M track mode which allows the driver to use all the car's longitudinal and lateral acceleration up to the physical limit, for example on the race track.
+
+Owing to the small production run and the complications and expense of clearing [[Department of Transportation|DOT]] and [[United States Environmental Protection Agency|EPA]] standards for the North American market, BMW never exported the CSL to the United States, although the steering rack, brake kit, and the track tuned traction control unit were later made available on the regular M3 as part of the North American-only Competition Package (ZCP).
+
+The CSL holds the BMW M3 [[Nürburgring]] record of 7 min and 50 s, and a Top Gear test track time of 1 min 28 s (wet + oil).
+
+==== M3 Competition Package ====
+While it is known as the '''M3 Competition Package''' in the US and mainland Europe, it is also known as the '''M3 CS''' (Club Sport) in the UK.
+
+Although the M3 CSL was never exported to the United States, for 2005 BMW introduced an M3 Competition Package in both Europe and the US (a.k.a. CS/Club Sport in the UK): a $4,000 option which offered a number of upgrades taken from M3 CSL.  The package includes:
+
+*19-inch [[BBS Kraftfahrzeugtechnik AG|BBS]] spin-cast (flow formed) alloy wheels (marketed as "forged"); 19"x8"front, 19"x9.5"rear: weigh {{convert|26|lb|abbr=on}}.
+*Specially tuned spring rates for the Competition Package; this was carried over to all M3 production from 12/04 on.
+*CSL steering rack: More direct steering ratio of 14.5:1 (vs. standard M3's 15.4:1)
+*CSL's M-Track Mode DSC with a button mounted on the steering wheel (deletion of cruise control and steering wheel mounted radio/phone controls)
+*CSL's Compound cross-drilled rotors; larger front rotor of 13.6&nbsp;inches (from 12.6&nbsp;inches) with black painted calipers
+*[[Alcantara (material)|Alcantara]] steering wheel, gear lever and hand brake
+*Interlagos Blue exterior paint available as an exclusive color option.
+*Unique cube aluminum interior trim
+
+== E90/92/93 M3 ==
+{{Infobox Automobile generation
+| name           = E90/92/93
+| image          = [[Image:2009 BMW M3 convertible.jpg|250px|2009 BMW M3 convertible (US)]]
+| production     = 2008&ndash;present
+| body_style     = 4-door [[sedan (car)|sedan]]<br/>2-door [[coupe]]<br/>2-door [[convertible]]
+| platform       = [[BMW 3 Series (E90)|BMW E90]] (Sedan)<br/>[[BMW 3 Series (E90)#Coupé (E92)|BMW E92]] (Coupe)<br/>[[BMW 3 Series (E90)#Cabriolet (E93)|BMW E93]] (Convertible)
+| related        = [[BMW 3 Series]]<br/>[[BMW X3]]
+| transmission   = 6-speed [[Manual transmission|manual]]<br/>7-speed M-[[dual clutch transmission|DCT]]
+| wheelbase      = {{Auto in|108.7|0}}
+| assembly       = [[Regensburg]], [[Germany]]
+| length         = Convertible: {{Auto in|181.7|0}}<br/>Coupe: {{Auto in|181.4|0}}<br/>Sedan: {{Auto in|180.4|0}}
+| height         = Convertible: {{Auto in|55.8|0}}<br/>Coupe: {{Auto in|54.2|0}}<br/>Sedan: {{Auto in|55.9|0}}
+| width          = Convertible: {{Auto in|71.6|0}}<br/>Coupe: {{Auto in|70.2|0}}<br/>Sedan: {{Auto in|71.5|0}}
+| weight         = Convertible: {{convert|4145|lb|abbr=on}}<br/>Coupe: {{convert|3704|lb|abbr=on}}<br/>Sedan: {{convert|3726|lb|abbr=on}}
+| engine         = 4.0 L [[V8 engine|V8]]
+}}
+The fourth generation BMW M3 was announced on the 2007 Geneva Auto Show (Switzerland, March 6-18th, 2007) with the BMW ''M3 concept''. As was the case with the E46 M3 Concept and E60 M5 Concept, the M3 Concept hid almost nothing of the looks of the production version, that had its world premiere on the 2007 Frankfurt Auto Show ''IAA'' (Germany, September 13 to 23rd).
+
+Just as the previous M3 generations all introduced a completely new engine, the fourth generation M3 did the same: the [[BMW S65]] engine was introduced. This S65B40 is a naturally aspirated, high revving 4-litre V8 (based on the S85B50 5-litre V10 that powers the E60/E61 M5 and the E63/E64 M6 to date) delivers {{convert|414|bhp|kW PS|0|abbr=on}} at 8,300 rpm and peak torque is {{convert|400|Nm|lbft|abbr=on}} at 3,900 rpm, which represents a power increase of 22% over the E46 M3. The engine weighs {{convert|15|kg|lb|abbr=on}} less than the outgoing six cylinder for a total weight of {{convert|202|kg|lb|abbr=on}}. A six-speed manual transmission is standard. As from April 2008, BMW offers a new [[Getrag]] double-clutch gearbox, called M-DKG (Doppel-Kupplungs-Getriebe) or [[dual clutch transmission#BMW|M-DCT]] (Double Clutch Transmission) as an option, which reduces shift pauses to less than a tenth of a second and shortens the car's 0-{{convert|100|km/h|mph|abbr=on}} sprint time by 0.2 seconds vs. manual. It features both automatic and manual modes in a manner similar to the SMG gearboxes in the E36 and E46. The E92 M3 coupe inherits the carbon-fiber roof from the E46 CSL as part of the weight-saving program.  For 2009, the E9x M3 received the same revisions as the non-M 3 series.  The changes include revised front and rear bumpers, and LED tail lights.
+
+
+[[Image:M3 Cabrio.JPG|thumb|left|The M3 Cabrio.]]
+
+
+The new M3 is once again available as a 4-door sedan, based on the E90 3-Series, but unlike the regular models, this car shares the coupe's front end, including headlights. However, it does not get the 2-door's carbon-fiber roof. The E93 hardtop convertible version joins the lineup shortly after the E92's launch, while an E91 wagon is due in the first quarter of 2009. A CSL lightweight version is heavily debated and longed for amongst car enthusiasts, but while cars suspected to be the new M3 CSL have apparently been spotted at the famous Nordschleife (North Loop) of the [[Nürburgring|German Nürburgring]], the M division have stated that they do not plan to offer an e9x M3 CSL and are instead focussed on producing M versions of the X5 and X6 in a significant departure from M's historic practices<ref>{{cite web | url = http://www.carmagazine.co.uk/Secret-new-cars/Search-Results/Spyshots/BMW-cancels-E92-M3-CSL/ | title = BMW ‘cancels E92 M3 CSL' | publisher = Car Magazine | date = 26 August 2008}}.</ref>
+
+[[BMW M]]otorsport announced in February 2008 that [[Rahal Letterman Racing]] will campaign two factory-backed E92 M3s in the [[American Le Mans Series]] in 2009, following a two-year absence by the brand.<ref>{{cite web | url = http://www.autoweek.com/apps/pbcs.dll/article?AID=/20080206/FREE/913021814/1608/FREE | title = BMW returning to American Le Mans Series | publisher = AutoWeek | date = 6 February 2008 | accessdate = 2008-02-06}}</ref>
+
+===E92 M3 GT4===
+
+[[BMW M]]otorsport announced on July 7, 2009 the launch of a line of BMW M3 race cars which meet the [[GT4 European Cup|FIA's GT4]] spec and are oriented for sale to private teams and drivers. The BMW M3 GT4 price is expected to be approximately 120,000 Euros.
+
+"The new BMW M3 GT4 now also provides private teams with numerous opportunities," says BMW Motorsport Director [[Mario Theissen]]. "For over 50 years customer racing has been a cornerstone of BMW’s motorsport programs. After all, what better global ambassador for the performance pedigree of BMW cars than a privateer who is competing for victory in a BMW vehicle."
+
+On April 10 2009, the week after the debut of the GT4, BMW's Customer Racing program announed it had partnered with [[Schubert Motorsport]] (sponsored by [[Motorsport Arena Oschersleben]]) to run the BMW M3 GT4 in the annual [[24 Hours Nürburgring]] race SP10 class. The race took place on the weekend of May 23 and 24 in 2009, with drivers Jochen Ubler, Jorg Muller and Andy Priaulx at the wheel. The team finished sixth in their class and 153rd overall<ref>http://adac.24h-rennen.de/uploads/media/24h-Rennen-Gesamt-01Stunden.pdf</ref>.
+
+The BMW M3 GT4 also raced in the [[ADAC Procar Series|ADAC]] Westfalenfahrt in April 2009 at [[Nürburgring|The Ring]], taking the win in the SP10 class and finishing 30th overall.
+
+The M3 GT4 is offered in Europe as a [[Homologation (motorsport)|homologated]] production race car for sale to the general public. According to Larry Koch, BMW NA M-brand manager, a feasibility study is currently being conducted to evaluate the possible sale of the M3 GT4 in North America. However, without an FIA sanctioned GT4-class racing series in the USA, the sale of the M3 GT4 in the States is not likely.
+
+===E9x M3 Performance===
+*0-{{convert|60|mph|km/h|abbr=on}}: 4.1 seconds for the 2009 E90/E92 M3,<ref name="caranddriver.com">{{cite web|url=http://www.caranddriver.com/reviews/comparison_test/coupes/2009_porsche_911_carrera_vs_2009_bmw_m3_comparison_test+page-2.html |title=2009 Porsche 911 Carrera vs. 2009 BMW M3 - Coupes/Comparison Test/Reviews/Car and Driver |publisher=Car And Driver |date=2008-03-23 |accessdate=2009-06-12}}</ref>  5.1 sec for the convertible
+*1/4&nbsp;mile: 12.6 seconds @ {{convert|183|km/h|mi/h|abbr=on|1}} <ref name="caranddriver.com"/>, Convertible: 13.1 @ {{convert|109|mi/h|km/h|abbr=on|1}}
+*Top Speed: Electronically limited to {{convert|249|km/h|mi/h|abbr=on}}, delimited ~{{convert|300|km/h|mi/h|abbr=on}}+
+*Skid Pad: 0.98 g
+*Slalom: {{convert|114.9|km/h|mi/h|abbr=on}}
+
+===E92 M3 GTS===
+BMW announced the M3 GTS Thursday, 5th of November. The car is powered by an 4.4-litre V8 based on the 4.0-litre engine found in the standard M3, which produces a maximum of 450 bhp via an 7-speed M dual clutch transmission with Drivelogic with adapted shift characteristics. Different-sized tires front and rear running on 19-inch M light-alloy Competition wheels in double-spoke design ensure optimum transmission of acceleration and brake forces to the road ( 255/35 rubber up front and 285/30 in the rear ).
+In Germany deliveries begin in May 2010 while other countries are scheduled for the summer. BMW E92 M3 GTS will start at €115,000 (US$170 614) per unit.<ref>{{cite web | url = http://www.inautonews.com/bmw-m3-gts-is-the-most-extreme-m3-ever | title = 
+BMW M3 GTS is the most extreme M3 ever}}</ref>
+
+==Critical Reception==
+The M3 has received nearly unanimous critical acclaim from motoring journalists for its performance, refinement, and practicality.  It is the only car on [[Seven Car Garage]] to receive 100% positive reviews.<ref>[http://sevencargarage.com/Vehicles/Small-Cars/bmw-m3-2009 Seven Car Garage - BMW M3]</ref>  Ezra Dyer of Automobile Magazine once suggested that "...car magazines generally regard the M3 the same way a four-year-old regards Santa Claus."<ref>[http://www.automobilemag.com/features/great_drives/0610_ezra_buys_an_m3/index.html What Do I Drive? Ezra Dyer Buys a Used BMW M3]</ref>
+
+== BMW M3 Challenge ==
+[[Image:BMW M3 Challenge.jpg|150px|thumb|left|BMW M3 Challenge PC Game]]
+The "BMW M3 challenge" is a freeware racing game developed by BMW for simulation and entertainment purposes. The [[Personal computer|PC]] game includes single and multi-player modes.<ref>{{cite web | url = http://www.bmw.com/com/en/newvehicles/mseries/m3coupe/2007/experience/game/content.html | title = BMW M3 Challenge the game}}</ref>
+
+Developed by Blimey! Games and 10tacle Studios in cooperation with BMW engineers, it is a car simulation that reproduces real life car physics such as [[body roll]] and [[under/over-steer]].
+
+It allows the player to perform advanced driving maneuvers such as feathering the brakes, moderating the clutch engagement level, or engine braking.
+
+BMW M3 Challenge features a drivable representation of the GP portion of the famous [[Nürburgring]] German race track.
+
+== References ==
+{{reflist}}
+*Bloomberg News (2009). "Fiat Retrofits Chrysler Engine, Shelves ‘Dinosaurs’ to Save Gas " [http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aiFf.UPafEOA], Bloomberg
+
+== External links ==
+{{commonscat}}
+<!--========================({{No More Links}})============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. WIKIPEDIA  |
+    | IS NOT A COLLECTION OF LINKS NOR SHOULD IT BE USED FOR ADVERTISING. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    =======================({{No More Links}})=============================-->
+* [http://www.bmw.com/com/en/newvehicles/mseries/m3coupe/2007/introduction.html BMW M3 Coupé]
+* [http://www.bmw.com/com/en/newvehicles/mseries/m3sedan/2007/introduction.html BMW M3 Sedan]
+* [http://www.bmw.com/com/en/newvehicles/mseries/m3convertible/2008/introduction.html BMW M3 Convertible]
+
+{{DEFAULTSORT:Bmw M3}}
+[[Category:BMW vehicles|M3]]
+[[Category:Convertibles]]
+[[Category:Coupes]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sports cars]]
+[[Category:Sports sedans]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1986]]
+
+[[da:BMW M3]]
+[[de:BMW M3]]
+[[es:BMW M3]]
+[[eu:BMW M3]]
+[[fr:BMW M3]]
+[[ko:BMW M3]]
+[[it:BMW M3]]
+[[nl:BMW M3]]
+[[ja:BMW・M3]]
+[[no:BMW M3]]
+[[pl:BMW M3]]
+[[ro:BMW M3]]
+[[ru:BMW M3]]
+[[sv:BMW M3]]
+[[zh:BMW M3]]

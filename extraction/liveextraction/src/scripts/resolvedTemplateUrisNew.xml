@@ -1,0 +1,2980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.6.0_0" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_music_genre</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_music_genre</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_serbia_municipality</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Serbia_municipality</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:geobox_river</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Geobox_River</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Geobox_river</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_canadian_provincial_riding</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Canadian_provincial_riding</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_savivaldybe</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_savivaldybe</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:football_player_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_football_biography</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Football_player_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_algerian_province</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Algerian_Province</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_luxembourg_commune</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Luxembourg_commune</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_state_sc_associate_justice</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_football_biography</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_football_biography</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:nfl_team</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_bishop</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Christian_leader</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Bishop</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_station</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Station</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_station</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_automobile_engine</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Automobile_engine</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_education_in_canada</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_education_in_Canada</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_scc_puisne_justice</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_uk_postcode_area</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_asturian_municipality</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Asturian_municipality</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mep</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:adult_bio</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_adult_biography</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Adult_bio</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_cyclist</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Cyclist</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_cyclist</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_greek_isles</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Greek_Isles</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_newspaper</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Newspaper</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_newspaper</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_protected_area</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_protected_area</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_korean_settlement</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Korean_settlement</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_norway</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Norway</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_british_royalty</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_royalty</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_British_Royalty</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_doctor_who_episode</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Doctor_Who_episode</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_uk_place</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_municipality</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_settlement</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_municipality</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_road</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_road</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_kommun2</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Kommun2</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_television</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Television</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_television</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_rugby_league_biography</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_rugby_league_biography</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_single</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_single</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_u.s._county</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ski_area</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_ski_area</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_automobile</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Automobile</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_automobile</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_figure_skater</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Figure_skater</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_figure_skater</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_russian_city</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Russian_inhabited_locality</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Russian_city</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_river</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_river</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_record_label</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_record_label</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_rugby_biography</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Rugby_biography</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_grand_prix_race_report</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Grand_Prix_race_report</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:drugbox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Drugbox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_embryology</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Embryology</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_anatomy</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Anatomy</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_municipality_in_the_republic_of_macedonia</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nascar_driver</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_speaker</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Speaker</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_us_ambassador</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_currency</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_currency</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_philippine_municipality</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Philippine_municipality</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:protein</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_protein</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Protein</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nflretired</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_deputy_prime_minister</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Deputy_Prime_Minister</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_us_associate_justice</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_singapore_school</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Singapore_School</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_city</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_settlement</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_city</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_philosopher</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Philosopher</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_philosopher</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_scientist</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_scientist</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_television_soap_opera</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Television_Soap_Opera</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_musical_artist_2</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_musical_artist</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_musical_artist_2</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_cargo_spacecraft</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Cargo_spacecraft</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_tv_channel</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_first_lady</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_First_Lady</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_governor</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Governor</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:airport_infobox</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_country_olympics</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Country_Olympics</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_rocket</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Rocket</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_rocket</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_italy</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Italy</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_journalist</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_journalist</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_language</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Language</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_language</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_austria</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Austria</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_netherlands</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Netherlands</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ncaa_athlete</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_kommune</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_kommune</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_country</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Country</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_country</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_town_de</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nfl_player</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_former_country</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Former_Country</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_former_country</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_pittsburgh_neighborhood</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Pittsburgh_neighborhood</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_muscle</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Muscle</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_settlement</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_settlement</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_german_district_noregbez</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_District_DE</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_German_district_noregbez</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_vice_president</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Vice_President</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ship</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Ship_Begin/doc</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_ship</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_convention</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Convention</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:f1_driver</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:geobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Geobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_pref_gr</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_prime_minister</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Prime_Minister</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_bone</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Bone</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_town_at</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_pope</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Pope</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_pope</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_u.s._state</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_england_county</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_England_county</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_space_station</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Space_station</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_television_episode</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Television_episode</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_television_episode</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_broadcasting_network</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_broadcasting_network</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_israel_muni</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Israel_municipality</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Israel_muni</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_badminton_player</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_badminton_player</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_monarch</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_monarch</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:college_coach_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_college_coach</string>
+    </void>
+    <void property="redirect">
+     <string>Template:College_coach_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_politician_%28general%29</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Politician_%28general%29</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_model</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_model</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_beverage</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Beverage</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_beverage</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_book</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_book</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:taxobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Taxobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_chancellor</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Chancellor</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_award</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Award</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_award</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_film</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_film</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_artery</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Artery</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_saint</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_saint</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_governor-elect</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Governor-elect</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_cardinalstyles</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Cardinalstyles</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_cardinalstyles</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:football_player_infobox2</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_football_biography</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Football_player_infobox2</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_building</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_building</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_lymph</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Lymph</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ice_hockey_player</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_ice_hockey_player</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_comedian</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Comedian</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_secretary-general</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_country_or_territory</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Country</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Country_or_territory</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_representative-elect</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Representative-elect</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:song_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_song</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Song_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:single_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_single</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Single_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_pro_football_player</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Pro_Football_player</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_wta_tennis_tournament</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_german_location</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_German_location</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_us_cabinet_official</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:former_f1_driver</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_F1_driver</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Former_F1_driver</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_greek_dimos</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Greek_Dimos</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_eritrea_cabinet_official</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Eritrea_Cabinet_official</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_prefecture_japan</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Prefecture_Japan</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_automobile_platform</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Automobile_platform</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_comics_creator</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_comics_creator</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_magazine</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Magazine</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_magazine</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_bishopbiog</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_bishopbiog</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_state_representative</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_State_Representative</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_politician</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_politician</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_space_shuttle</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Space_Shuttle</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:superherobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_comics_character</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Superherobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_islands</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Islands</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_islands</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_vg</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_VG</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_vg</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:polish_politician_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Polish_politician</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Polish_politician_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_astronaut</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Astronaut</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_city_spain</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Spanish_city</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_city_spain</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:lunar_crater_data</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Lunar_crater</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Lunar_crater_data</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_writer</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_writer</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_provinceit</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_website</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Website</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_website</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_npo</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_hospital</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Hospital</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_hospital</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_park</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Park</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_park</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_disease</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Disease</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_disease</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nflactive</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_canal</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Canal</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_software</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_software</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:ethnic_group</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Ethnic_group</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Ethnic_group</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_continent</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Continent</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_music_festival</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_music_festival</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nrhp</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_nrhp</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_first_minister</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_First_Minister</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_us_chief_justice</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_musical</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_musical</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_afl_player</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_afl_player</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_sssi</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_aircraft</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Aircraft</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_city_japan</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_City_Japan</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_parliament</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Legislature</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Parliament</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_commune_de_france</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_French_commune</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Commune_de_France</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_indian_jurisdiction</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Indian_jurisdiction</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:muscle_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Muscle</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Muscle_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_artist</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_artist</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_wrestler</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_wrestler</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mlb_player</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:female_adult_bio</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_adult_female</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Female_adult_bio</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_catalan_municipio</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_catalan_city</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_catalan_municipio</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:olympics_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Olympics_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_lake</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_lake</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_kibbutz</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Kibbutz</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_belgium</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Belgium</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:football_manager_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_football_biography</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Football_manager_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_football_club</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_football_club</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_prime_minister-elect</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Prime_Minister-elect</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_municipality_pt</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:male_adult_bio</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_adult_male</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Male_adult_bio</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_belgium_arrondissement</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Belgium_Arrondissement</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_musical_artist</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_musical_artist</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_celebrity</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_person</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_celebrity</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_university</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_university</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_character</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_character</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_aust_school</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Aust_school</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mma_event</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_us_territorial_governor</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_congressional_candidate</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Congressional_Candidate</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_district_peru</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_District_Peru</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_former_arab_villages_in_palestine</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_former_Arab_villages_in_Palestine</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_israel_municipality</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Israel_municipality</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_comics_character</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_comics_character</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_broadcast</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_broadcast</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_airport</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_airport</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_australian_place</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Australian_place</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_album</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_album</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_radio_station</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_radio_station</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_secondary_school</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_secondary_school</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_network</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_broadcasting_network</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_network</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_cricketer_biography</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_cricketer_biography</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_scottish_island</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Scottish_island</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ukrainian_raion</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Ukrainian_raion</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:elementbox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Elementbox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_senator</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_senator</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nz_school</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_neighborhood_portland_or</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_gaa_player</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_football_biography_2</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_football_biography_2</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_planet</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Planet</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_planet</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_german_bundesland</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_German_Bundesland</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_stadium</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_stadium</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_tennis_player</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_tennis_biography</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_tennis_player</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_officeholder</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_year_in_spaceflight</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Year_in_spaceflight</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:chembox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Chembox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_of_upazilas</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_neighborhood</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_settlement</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_neighborhood</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mass_town_govt</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Mass_Town_Govt</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_irish_place</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Place_Ireland</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Irish_Place</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_brain</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Brain</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mountain</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_mountain</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_world_heritage_site</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_World_Heritage_Site</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_senator-elect</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Senator-elect</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_uk_station</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_cricketer</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Cricketer</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_cricketer</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_uk_school</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_france</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_France</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_song</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_song</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_architect</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Architect</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_belgium_municipality</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Belgium_Municipality</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_deputy_first_minister</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Deputy_First_Minister</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_governor_general</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Governor_General</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_playboy_playmate</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Playboy_Playmate</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nhl_team</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:cambridge_college_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Cambridge_college</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Cambridge_College_Infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_canadiansenator</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_bridge</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_bridge</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:scotuscase</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_president</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_President</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:doctorwhobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Doctor_Who_episode</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Doctorwhobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_algerian_district</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Algerian_District</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_irish_school</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Irish_school</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_military_conflict</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_military_conflict</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_canada_electoral_district</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Canada_electoral_district</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ambassador</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Ambassador</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_amphoe</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_state_senator</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_State_Senator</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_vein</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Vein</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_space_expedition</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Space_Expedition</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_premier</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Premier</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_parish_pt</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Parish_PT</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Parish_pt</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_thai_province</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Province_Thailand</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Thai_Province</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_legislature</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Legislature</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_am</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_state_sc_justice</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_boxer</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_boxer</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_commune_cambodia</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Commune_Cambodia</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_canadianmp</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_non-profit</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Non-profit</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_non-profit</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_pm</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_russian_federal_subject</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Russian_federal_subject</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_slovak_district</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_District_Slovakia</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Slovak_district</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_union</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_union</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_old_cricketer</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Old_Cricketer</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_criminal</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_criminal</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_romania_communes</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_congressman</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Congressman</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_lt_governor</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Lt_Governor</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_launch_pad</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Launch_Pad</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_gridiron_football_person</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Gridiron_football_person</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_actress</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_actor</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_actress</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_law_school</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_law_school</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_grape_variety</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_grape_variety</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:cycling_race_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_cycling_race</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Cycling_race_infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_historic_building</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_building</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Historic_building</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_military_unit</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_military_unit</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_governor-general</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_minister</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Minister</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_wrestling_event</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Wrestling_event</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_wrestling_event</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_cityit</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:australia_state_or_territory</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Australia_state_or_territory</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_recent_cricketer</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Recent_cricketer</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_philippine_city</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_City_Philippines</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Philippine_city</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_german_district</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_District_DE</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_German_district</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_film_festival</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Film_festival</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_canada</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Canada</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_dotcom_company</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Dotcom_company</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_dotcom_company</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_australia</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Australia</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_palestinian_authority_muni</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Palestinian_Authority_municipality</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Palestinian_Authority_muni</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_former_subdivision</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_former_subdivision</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_province_of_vietnam</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Province_Vietnam</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_province_of_Vietnam</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_school</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_school</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_wine_region</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Wine_Region</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_skyscraper</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_skyscraper</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_chinese_actor_and_singer</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Chinese-language_singer_and_actor</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Chinese_actor_and_singer</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_png_place</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_military_person</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_military_person</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_poker_player</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Poker_player</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_poker_player</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_person</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_person</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_space_mission</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Space_mission</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_company</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_company</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_aust_school_private</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Aust_school_private</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_united_states</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_United_States</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_province_tr</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_lighthouse</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Lighthouse</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_lighthouse</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_actor</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_actor</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_scc_chief_justice</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_archbishop</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Christian_leader</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Archbishop</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_actor_voice</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_actor</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_actor_voice</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nba_player</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:nfl_player</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Nfl_player</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:french_commune</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_French_commune</string>
+    </void>
+    <void property="redirect">
+     <string>Template:French_commune</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_cave</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Cave</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_nerve</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_nerve</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:us_state</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_great_britain</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Great_Britain</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_doge</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Doge</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_of_bd_districts</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_city_lebanon</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_City_Lebanon</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_defense_minister</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Defense_Minister</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mp</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_scotus_case</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_airline</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Airline</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_airline</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_french_region</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_French_region</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_austrian_district</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Austrian_district</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_president-elect</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_President-elect</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_protected_area_of_australia</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_protected_area_of_Australia</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_judge</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_judge</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_historic_cricketer</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Historic_cricketer</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_shopping_mall</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_shopping_mall</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mayor</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Mayor</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:oxford_college_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Oxford_college</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Oxford_College_Infobox</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_greece</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Greece</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_swiss_town</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Swiss_town</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_sweden</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Sweden</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_hungary</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Hungary</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_mla</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_philippine_province</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Philippine_province</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_switzerland</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Switzerland</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ort_in_deutschland</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_German_location</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Ort_in_Deutschland</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:mlbretired</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_olympics_finland</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Olympics_Finland</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_province_peru</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Province_Peru</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_esc_entry</string>
+   <null/>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_weapon</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_weapon</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_indian_politician</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_officeholder</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Indian_politician</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_ort_in_%C3%96sterreich</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_Town_AT</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Ort_in_%C3%96sterreich</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:infobox_department_of_france</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_French_department</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Infobox_Department_of_France</string>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <string>http://dbpedia.org/resource/Template:football_club_infobox</string>
+   <object class="oaiReader.WikiLink">
+    <void property="page">
+     <string>Template:Infobox_football_club</string>
+    </void>
+    <void property="redirect">
+     <string>Template:Football_club_infobox</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

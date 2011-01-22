@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= assembly
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= owl:Thing <!-- PopulatedPlace -->
+}}

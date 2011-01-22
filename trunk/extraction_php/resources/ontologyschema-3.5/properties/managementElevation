@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = management elevation
+| rdfs:range = Length
+}}

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<componentPackage>
+
+<!--
+	URI http://www.adobe.com/2006/fc
+	namespace fc
+	package com.adobe.flex.extras
+-->
+
+	<component id="SpringGraph" class="com.adobe.flex.extras.controls.springgraph.SpringGraph"/>
+	<component id="Roamer" class="com.adobe.flex.extras.controls.springgraph.Roamer"/>
+
+</componentPackage>

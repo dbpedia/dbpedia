@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = visitors total
+| rdfs:domain = Building
+| rdfs:range = xsd:integer
+}}

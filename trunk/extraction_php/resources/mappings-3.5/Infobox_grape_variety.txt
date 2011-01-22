@@ -1,0 +1,9 @@
+{{TemplateMapping
+| mapToClass = Grape
+| mappings = 
+	{{PropertyMapping | templateProperty = origin | ontologyProperty = origin }}
+	{{PropertyMapping | templateProperty = regions | ontologyProperty = wineRegion }}
+	{{PropertyMapping | templateProperty = notable_wines | ontologyProperty = notableWine }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = species | ontologyProperty = species }}
+}}

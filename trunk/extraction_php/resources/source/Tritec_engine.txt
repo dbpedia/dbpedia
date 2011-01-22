@@ -1,0 +1,54 @@
+{{Infobox Automobile engine
+|name=Tritec engine
+|manufacturer=[[Tritec]]
+|production=1999&ndash;2007
+|predecessor=
+|successor=[[Prince engine]]
+|class=[[Straight-4]]
+}}
+In 1997, [[Chrysler Corporation]] and [[Rover Group]] (then a subsidiary of [[BMW]]) formed '''Tritec''', a joint venture to design a new small [[straight-4]] engine for small cars.  They built a factory in Campo Largo of [[Curitiba, Brazil]] to manufacture the engine. When BMW sold Rover Group, BMW retained the stake in Tritec.
+
+It is also called the Pentagon engine.  Production began in September 1999.
+
+It is a modern engine with an [[SOHC]] 16-valve head, [[electronic throttle control]], and meets [[Euro III]] emissions requirements. There are three versions of the engine, 1.4&nbsp;L, 1.6&nbsp;L, and [[supercharged]] 1.6&nbsp;L.
+
+BMW complained about the performance of the engine. According to Ward's Auto, Erich Sonntag of BMW described the Tritec engine as old fashioned and not very effective on function, performance and fuel efficiency.<ref>{{cite web|url=http://auto.moldova.org/news/bmw-sold-tritec-engine-jointventure-56160-eng.html |title=BMW sold Tritec engine joint venture |publisher=Moldova |accessdate=November 8, 2009}}</ref>
+BMW have replaced this engine in the MINI with the new [[Prince engine]] family developed in partnership with [[PSA Peugeot Citroën]], since Chrysler was a part of their rival [[DaimlerChrysler]].  BMW's contract with Tritec expired in 2007 and it terminated the joint venture with DaimlerChrysler in July. DaimlerChrysler passed on the engine factory to the Chrysler group when the two split up and Chrysler was sold off later in 2007.<ref>{{cite web|url=http://www.motorauthority.com/blog/1027256_bmw-signs-off-tritec-engine-project-to-chrysler |title=BMW signs-off Tritec engine project to Chrysler |publisher=Motor Authority |author=Viknesh Vijayenthiran |date=June 7, 2007 |accessdate=November 8, 2009}}</ref>
+
+In February 2006, the [[China|Chinese]] auto company [[Lifan]] bid to purchase the factory after 2007, when the current Tritec engine is no longer needed by BMW and Chrysler. Lifan's plan calls for moving factory tooling to China where it would produce a derivative of the Tritec engine by 2008.  These engines would then be used by Lifan to begin an automobile export business to Europe and North America.
+
+In March 2008 [[Fiat Powertrain Technologies]] announced it will buy the plant and licenses to produce Tritec engines. This investment is around 83 million euros.<ref name="italiaspeed.com">{{Cite web|url=http://www.italiaspeed.com/2008/cars/industry/03/tritec_brazil/1303.html|title=13.03.2008 Fiat Powertrain Technologies buys CHRYSLER'S BRAZILIAN ENGINE UNIT|accessdate=2008-03-13|work=italiaspeed.com}}</ref>
+
+==1.4==
+The 1.4&nbsp;L (1397&nbsp;cc) version uses a {{convert|77|mm|in|1|abbr=on}} [[bore (engine)|bore]] and {{convert|75|mm|in|1|abbr=on}} [[stroke]].  Like all Tritecs, it is an [[SOHC]] [[multivalve|16-valve]] [[aluminium]] engine with multipoint sequential electronic [[fuel injection]].  Output is rated at {{convert|55|kW|PS hp|0|abbr=on}} and {{convert|122|Nm|lbft|0|abbr=on}}. This engine was used in the Portuguese and Greek version of the Mini One.
+
+Applications:
+* [[MINI]] One (Portugal, Greece) (until 2008)
+
+==1.6==
+The 1.6&nbsp;L (1598&nbsp;cc) version uses the same {{convert|77|mm|in|1|abbr=on}} bore with a longer 85.8&nbsp;mm stroke.  Output is rated at {{convert|66|kW|PS hp|0|abbr=on}} and {{convert|140|Nm|lbft|0|abbr=on}} in the Mini One, and {{convert|85|kW|PS hp|0|abbr=on}} and {{convert|149|Nm|lbft|0|abbr=on}} in the Mini Cooper.
+
+Applications:
+* [[MINI]] One and Cooper (until 2008).
+* [[Chrysler PT Cruiser]] (in non-US markets)
+* [[Chery Automobile|Chery]] [[Chery A15|Flagcloud]] and [[Chery A11|Windcloud]].
+* [[Lifan]] 520
+
+==1.6 SC==
+The 1.6 SC uses a [[Roots type supercharger|Roots]]-type [[Eaton Corporation|Eaton]] M45 [[supercharger]] with [[intercooler]].  The [[compression ratio]] is reduced from 10.5:1 to 8.3:1.  Output was initially rated at {{convert|120|kW|PS hp|0|abbr=on}} and {{convert|210|Nm|lbft|0|abbr=on}} but has since been increased to {{convert|125|kW|PS hp|0|abbr=on}} and {{convert|220|Nm|lbft|0|abbr=on}}.  The 1.6 SC won the "1.4&nbsp;L to 1.8&nbsp;L" category at the [[International Engine of the Year]] awards for 2003.  It also won [[Ward's 10 Best Engines]] award for 2003.
+
+Applications:
+* [[MINI]] Cooper S
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Tritec}}
+[[Category:Fiat engines]]
+[[Category:Chrysler engines]]
+[[Category:BMW engines]]
+[[Category:1997 establishments]]
+[[Category:Joint ventures]]
+
+[[it:Motore Tritec]]
+[[no:Tritec (motor)]]

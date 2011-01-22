@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = career prize money
+|rdfs:domain = TennisPlayer
+|rdfs:range = Currency
+}}

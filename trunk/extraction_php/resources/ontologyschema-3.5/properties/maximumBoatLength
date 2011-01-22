@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = maximum boat length
+| rdfs:domain = Canal
+| rdfs:range = Length
+}}

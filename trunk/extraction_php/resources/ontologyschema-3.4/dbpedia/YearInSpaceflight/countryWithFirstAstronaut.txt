@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = country with first astronaut
+|rdfs:domain = YearInSpaceflight
+|rdfs:range = Country
+}}

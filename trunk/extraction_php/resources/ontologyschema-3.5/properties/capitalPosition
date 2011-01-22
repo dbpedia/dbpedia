@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = capital position
+| rdfs:domain = Island
+| rdfs:range = geo:SpatialThing
+}}

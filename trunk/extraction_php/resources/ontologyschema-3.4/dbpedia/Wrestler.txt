@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Wrestler
+|rdfs:subClassOf = Athlete
+}}

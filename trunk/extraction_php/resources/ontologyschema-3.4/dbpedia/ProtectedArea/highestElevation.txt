@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = highest elevation
+|rdfs:domain = ProtectedArea
+|rdfs:range = metre
+}}

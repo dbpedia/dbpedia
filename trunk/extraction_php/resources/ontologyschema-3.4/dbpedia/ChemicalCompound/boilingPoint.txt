@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = boiling point
+|rdfs:domain = ChemicalCompound
+|rdfs:range = kelvin
+}}

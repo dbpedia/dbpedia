@@ -1,0 +1,285 @@
+{{Infobox engineer
+|image                = CarlBenz.jpg
+|image_width          = 15px
+|caption              = Karl Benz
+|name                 = Karl Benz
+|nationality          = [[Germany|German]]
+|birth_date           = 25 November 1844
+|birth_place          = [[Karlsruhe]]
+|death_date           = {{Death date and age|1929|4|4|1844|11|25|df=y}}
+|death_place          =  [[Ladenburg]]
+|education            =
+|spouse               =
+|parents              =
+|children             =
+|discipline           =
+|institutions         =
+|practice_name        =  
+|significant_projects = 
+|significant_design   = 
+|significant_advance  = [[gasoline]]-powered [[automobile]]
+|significant_awards   = 
+}}
+[[Image:Benz Patent Motorwagen 1886 (Replica).jpg|250px|thumb|Replica of the [[Benz Patent Motorwagen]] built in 1885]]
+'''Karl Friedrich Benz''', sometimes spelled as ''Carl'', (25 November 1844 – 4 April 1929) was a [[Germany|German]] engine designer and automobile [[engineer]], generally regarded as the [[inventor]] of the [[petrol]]-powered [[automobile]] and pioneering founder of the automobile manufacturer, [[Mercedes-Benz]].{{Citation needed|date=October 2009}}
+
+Other German contemporaries, [[Gottlieb Daimler]] and [[Wilhelm Maybach]] working as partners, also worked on similar types of inventions, without knowledge of the work of the other, but Benz [[patent]]ed his work first and, after that, patented all of the processes that made the [[internal combustion engine]] feasible for use in automobiles. In [[1879]], Benz was granted a patent for his first engine, which he had designed in [[1878]].{{Citation needed|date=October 2009}}
+
+Despite the fact that in German [[gasoline]] is called "Benzin", it is not so named after Karl's family name, but after the chemical [[benzine]], whose name is centuries older than Karl Benz himself. The affinity of both nouns are mere coincidence.{{Citation needed|date=October 2009}}
+
+==Early life==
+Karl Benz was born Karl Friedrich Michael Vaillant, in [[Karlsruhe#Famous people|Karlsruhe]], [[Baden]], which is part of modern [[Germany]] in [[Europe]], to Josephine Vaillant and a  [[locomotive]] driver, whom she married a few months later.<ref>http://www.geographic.hu/index.php?act=napi&rov=5&id=6102 1844. november 25-én Karlsruheban született Karl Friedrich Vaillant, a Benz autógyár alapítója. Mivel születésekor anyja még hajadon volt, ezért az ő neve után anyakönyvezték. Vaillant csak később vette fel apja nevét, a Benz-et.</ref><ref>http://www.personatti.com/card.data/Karl%20Benz_10080459.htm Realname:, Karl Friedrich Michael Vaillant. Birthdate:, 25 Nov 1844. Deathdate:, 4 Apr 1929. Birthplace:, Germany, Baden-württemberg, Karlsruhe ...</ref><ref>http://www.morgenweb.de/region/mannheim/daimler_benz/622204232.html Bei seiner Geburt am 25. November 1844 in Karlsruhe erhielt der spätere Auto-Pionier den Namen Karl Friedrich Michael Vaillant. Seine Mutter Josephine Vaillant heiratete ein Jahr danach Johann Georg Benz, den Vater des Kindes.</ref><ref>http://www.egoproject.nl/star/automerk%20symbolen.htm Tegelijkertijd met Daimler was Karl Benz ook zeer succesvol in het produceren van auto's. Karl werd geboren als Karl Friedrich Michael Vaillant in 1844 in Muelburb (tegenwoordig Karlsruheen als zoon van Josephine Vaillant en treinmachinist Johann George Benz. Hij kreeg de naam van zijn moeder, omdat zijn ouders pas een jaar na zijn geboorte met elkaar trouwden. Toen Karl 2 jaar oud was verongelukte zijn vader in een spoorwegongeluk. Karl kreeg nu de naam van zijn vader en heette voortaan Karl Friedrich Benz.</ref><ref>http://linx3314.wordpress.com/feed/   Karl Benz wurde alls Karl Friedrich Michael Vaillant in heutige Kalruher Stadtteil Mühlburg geboren.  Sein mutter hat ein man bei der name Johann Georg Benz.l  Er storp eine veile nach das hochzeit.</ref>  When he was two years old, his father was killed in a railway accident, and his name was changed to Karl Friedrich Benz in remembrance of his father.<ref> [[Image:Karl Benz and Bertha Benz gravestone - vdetail2.JPG|thumb|Karl Benz family gravestone]] '''Karl''' is the spelling of his first name on all of his official personal and municipal documents throughout his life, such as birth, school, honorary doctorate, the Baden State Metal certificate, and on his family grave marker as displayed to the right. '''Carl''' is the spelling variant he used for one company, C. Benz Söhne, he formed with his son Eugen after leaving the active management of his long standing company, but remaining on its board of directors for the rest of his life (through its merger with Daimler Motoren Gesellschaft in which the two companies became Daimler-Benz), and it is used for his autobiography by a recent publisher. This spelling variant has been copied often and may be found frequently.<!--What do these say? (Benz 2001; Seidel 2005)--> <!-- need source for middle name --></ref> 
+
+[[Image:Karl Benz 1869.png|thumb|right|Karl Benz, twenty-five years old, in 1869 (collection of Zenodot Verlagsgesellschaft mbH)]]
+Despite living near poverty, his mother strove to give him a good education.  Benz attended the local [[Grammar School]] in Karlsruhe and was a [[child prodigy|prodigious]] student. In 1853, at the age of nine he started at the scientifically oriented [[Lyzeum]]. Next he studied in the [[University of Karlsruhe|Poly-Technical University]] under the instruction of [[Ferdinand Redtenbacher]].
+
+Benz had originally focused his studies on [[locksmithing]], but eventually followed his father's steps toward locomotive engineering. On 30 September 1860, at the age of 15, he passed the entrance exam for [[mechanical engineering]] at the [[University of Karlsruhe]], which he subsequently attended. Benz graduated on 9 July 1864 at 19 years of age.
+
+During these years, while riding his [[bicycle]], Benz started to envision concepts for a vehicle that would eventually become the ''[[horseless carriage]]''.
+
+Following his formal education, Benz had seven years of [[professional]] training in several companies, but did not fit well in any of them. The [[training]] started in Karlsruhe with two years of varied jobs in a [[mechanical engineering]] company.
+
+Benz then moved to [[Mannheim]] to work as a [[technical drawing|draftsman]] and [[designer]] in a [[Weighing scale|scales]] factory. In 1868 he went to [[Pforzheim]] to work for a [[bridge]] building company ''Gebrüder Benckiser Eisenwerke und Maschinenfabrik''. Finally, he went to [[Vienna]] for a short period to work at an [[iron]] [[construction]] company.
+
+==Benz's Factory and his first inventions (1871 to 1882)==
+
+In 1871, at the age of twenty-seven, Karl Benz joined August Ritter in launching a mechanical workshop in [[Mannheim]], also dedicated to supplying construction materials: the ''Iron Foundry and Mechanical Workshop'', later renamed, ''Factory for Machines for Sheet-metal Working''.
+
+The enterprise's first year was a complete disaster. Ritter turned out to be unreliable and local authorities confiscated the business. The difficulty was solved when Benz's [[fiancée]], [[Bertha Benz|Bertha Ringer]], bought out Ritter's share in the company using her dowry.<ref>[http://www.mbusa.com/heritage/karl-benz.do Mercedes-Benz, Home of Mercedes-Benz Luxury Automobiles<!-- bot-generated title -->] at www.mbusa.com</ref>
+
+On 20 July 1872, Karl Benz and Bertha Ringer married, later having five children: Eugen (1873); Richard (1874); Clara (1877); Thilde (1882); and Ellen (1890).{{Citation needed|date=October 2009}}
+
+Despite such business misfortunes, Benz led in the development of new [[engine]]s. To get more revenues, in 1878 he began to work on new [[patent]]s. First, he concentrated all his efforts on creating a reliable gas [[two-stroke cycle|two-stroke engine]]. Benz finished his two-stroke engine on 31 December 1878, New Year's Eve, and was granted a patent for it in 1879.
+
+Benz showed his real [[genius]], however, through his successive [[inventions]] registered while designing what would become the production standard for his two-stroke engine. Benz soon patented the [[accelerator (car)|speed regulation]] system, the [[ignition system|ignition]] using sparks with [[battery (electricity)|battery]], the [[spark plug]], the [[carburetor]], the [[clutch]], the [[gear shift]], and the water [[radiator (engine cooling)|radiator]].{{Citation needed|date=October 2009}}
+
+==Benz's Gasmotoren-Fabrik Mannheim (1882 to 1883)==
+Problems arose again when the [[bank]]s at Mannheim demanded that Karl Benz's ''[[Gas Factory]]'' enterprise be [[Incorporation (business)|incorporated]] due to the high production costs it maintained. Benz was forced to improvise an association with [[photographer]] Emil Bühler and his brother (a [[cheese]] merchant), in order to get additional bank support. The company became the [[joint-stock company]] ''[[Gasmotoren Fabrik Mannheim]]'' in 1882.
+
+After all the necessary agreements, Benz was unhappy because he was left with a measly five percent of the [[shares]] and a modest position as director. Worst of all, his ideas weren't considered when designing new products, so he withdrew from that corporation just one year later, in 1883.
+
+==Benz & Cie. and the Motorwagen==
+{| border="1" cellpadding="2" width=213 cellspacing="0" align="right" style="margin: 0 0 1em 1em; text-align:left; border-collapse:collapse; border:1px gray solid; font-size:69%; background:#f9f9f9"
+|+ <big><big>'''1885 [[Benz Patent Motorwagen]]'''</big></big>
+| style="background:#efefef" align="center" colspan=2 | 
+[[Image:1885Benz.jpg|213px|1885 Benz Tri-Car]]
+|-
+!align=left|Three wheels
+|-
+!align=left|Tubular steel frame
+|-
+!align=left|Rack and pinion steering, connected to a driver end tiller; wheel chained to front axle
+|-
+!align=left|Electric ignition
+|-
+!align=left|Differential rear end gears 
+(mechanically operated inlet valves)
+|-
+!align=left|Water-cooled internal combustion engine 
+|-
+!align=left|Gas or petrol four-stroke horizontally mounted engine 
+|-
+!align=left|Single cylinder, Bore 116&nbsp;mm, Stroke 160&nbsp;mm 
+|-
+!align=left|Patent model: 958 cc, 0.8&nbsp;hp, 600 W, 16&nbsp;km/h  
+|-
+!align=left|Commercialized model: 1600 cc, ¾ hp, {{convert|8|mi/h|km/h|abbr=on}}
+|}
+[[Image:Karl Benz - early automobile logo w cog wheel - 83d40m.JPG|thumb|left||Early logo used on automobiles by Karl Benz]]
+Benz's lifelong [[hobby]] brought him to a bicycle repair shop in Mannheim owned by [[Max Rose]] and [[Friedrich Wilhelm Eßlinger]]. In 1883, the three founded a new company producing industrial machines: ''[[Benz & Cie.|Benz & Company Rheinische Gasmotoren-Fabrik]]'', usually referred to as ''Benz & Cie''. Quickly growing to twenty-five employees, it soon began to produce gas engines as well.
+
+The success of the company gave Benz the opportunity to indulge in his old passion of designing a ''horseless carriage''. Based on his experience with, and fondness for, bicycles, he used similar technology when he created an [[automobile]]. It featured wire wheels (unlike carriages' wooden ones)
+<ref>Georgano, G. N. ''Cars: Early and Vintage, 1886-1930''. (London: Grange-Universal, 1985)</ref> with a four-stroke engine of his own design between the rear wheels, with a very advanced coil ignition <ref name="Georgano">Georgano</ref> and evaporative cooling rather than a radiator.<ref name="Georgano"/> Power was transmitted by means of two [[roller chain]]s to the rear axle. Karl Benz finished his creation in 1885 and named it the ''[[Benz Patent Motorwagen]]''.
+
+It was the first [[automobile]] entirely designed as such to generate its own power, not simply a motorized stage coach or horse carriage, which is why Karl Benz was granted his patent and is regarded as its [[inventor]].
+
+The ''Motorwagen'' was patented on 29 January 1886 as ''DRP-37435: "automobile fueled by gas"''.<ref>[http://home.arcor.de/carsten.popp/DE_00037435_A.pdf DRP's patent No. 37435] (<small>[[Portable Document Format|PDF]], 561 kB, [[German language|German]]</small>) was filed on 29 January 1886 and granted on 2 November 1886, thus taking effect as of 29 January 1886.</ref> The 1885 version was difficult to control, leading to a collision with a wall during a public demonstration. The first successful tests on public roads were carried out in the early summer of 1886. The next year Benz created the ''Motorwagen Model 2'' which had several modifications, and in 1887, the definitive ''Model 3'' with [[wooden]] wheels was introduced, showing at the Paris Expo the same year.<ref name="Georgano"/>
+
+Benz began to sell the vehicle (advertising it as the ''Benz Patent Motorwagen'') in the late summer of 1888, making it the first commercially available automobile in history. The second customer of the Motorwagen was a Parisian [[bicycle]] manufacturer <ref name="Georgano"/> [[Emile Roger]] who had already been building Benz [[engine]]s under [[license]] from Karl Benz for several years. Roger added the Benz automobiles (many built in France) to the line he carried in [[Paris]] and initially most were sold there.
+
+[[Image:Benz Patent Motorwagen Engine.jpg|thumb|right|250px|Engine of the Benz Patent Motorwagen]]
+[[Image:berthabenzmemorialrouteschild.jpg|thumb|right|210px|Official sign of Bertha Benz Memorial Route, commemorating the world's first long distance journey with a Benz Patent Motorwagen in 1888]]
+Early customers could only buy gasoline from pharmacies that sold small quantities as a cleaning product. The early-1888 version of the ''Motorwagen'' had no gears and could not climb hills unaided. This limitation was rectified after [[Bertha Benz]] made her famous trip driving one of the vehicles a great distance and suggested to her husband the addition of another gear.
+
+The popular story about this '''first long distance automobile trip''' is that, supposedly without the knowledge of her husband, on the morning of 5 August 1888, Bertha Benz took this vehicle on a {{convert|106|km|mi|sing=on}} trip from Mannheim to [[Pforzheim]] to visit her mother, taking her sons Eugen and Richard with her. In addition to having to locate fuel at pharmacies on the way, she also overcame various technical and mechanical problems and finally arrived at nightfall, announcing the achievement to Karl by [[telegram]]. It had been her intention to demonstrate the feasibility of using her husband's invention for travel and to obtain [[publicity]] that would make more people aware of it. Today the event is celebrated every two years in Germany with an antique automobile rally. In 2008, [[Bertha Benz Memorial Route]]<ref>[http://www.bertha-benz.de/indexen.php?inhalt=home ''Bertha Benz Memorial Route'']</ref> was officially approved as a route of industrial heritage of mankind, because it follows Bertha Benz's tracks of the world's first long-distance journey by automobile in 1888. Now everybody can follow the {{convert|194|km|mi}} of signposted route from [[Mannheim]] via [[Heidelberg]] to [[Pforzheim]] ([[Black Forest]]) and back.
+
+Benz's ''Model 3'' made its wide-scale debut to the world in the 1889 [[World's Fair]] in [[Paris]], and about twenty-five ''Motorwagens'' were built between 1886 and 1893.
+
+==Benz & Cie. expansion==
+<!-- Unsourced image removed: [[Image:zzz-Velo-1894.jpg|thumb|right|213px|Benz "Velo" model (1894)]] -->
+[[Image:Benz Velo 1894.jpg|thumb|210px|right|Karl Benz introduced the Velo in 1894, becoming the first ''production'' automobile]]
+[[Image:zzz-1stBus.jpg|thumb|right|213px|First bus in history: a Benz truck modified by Netphener company (1895)]]
+[[Image:zzz-Vik-Lond.jpg|thumb|right|213px|Benz "Velo" model presentation in London 1898]]
+<!-- Image with unknown copyright status removed: [[Image:zzz-0309CogWheel1909laurel.jpg|thumb|left|213px|Benz & Company logos: Cog wheel (1903 to 1909) and laureled (since 1909)]] -->
+The great demand for stationary, static [[internal combustion engines]] forced Karl Benz to enlarge the factory in Mannheim, and in 1886 a new building located on [[Waldhofstrasse]] (operating until 1908) was added. ''Benz & Cie.'' had grown in the interim from 50 employees in 1889 to 430 in 1899.
+
+During the last years of the nineteenth century, ''Benz'' was the largest automobile company in the world with 572 units produced in 1899.
+
+Because of its size, in 1899, ''Benz & Cie.'' became a [[joint-stock company]] with the arrival of [[Friedrich Von Fischer]] and [[Julius Ganß]], who came aboard as members of the [[Board of directors|Board of Management]]. Ganß worked in the commercialization department, which is somewhat similar to [[marketing]] in contemporary corporations.
+
+The new directors recommended that Benz should create a less expensive automobile suitable for [[mass production]]. In 1893, Karl Benz created the ''[[Victoria (Benz car)|Viktoria]]'',<!--Is it spelled "Viktoria"? Yes.--> a two-passenger automobile with a 3-[[horsepower|hp]] engine, which could reach the top speed of 11 [[Miles per hour|mph]] and had a [[pivot]]al front [[axle]] operated by a [[roller chain|roller-chained]] [[tiller]] for [[steering]]. The model was successful with 85 units sold in 1893.{{Citation needed|date=October 2009}}<!--TODO:  add ref for "Viktoria"-->
+
+In 1894, Benz improved this design in his new ''Velo'' model.<ref>It would also be copied by Marshall ([[Manchester]]), [[Star Motor Company|Star]] ([[Wolverhampton]]; later named [[Belsize (car company)|Belsize]]), and [[Arnold (car company)|Arnold]] (Paddock Wood, Kent), with wire wheels supplied by [[bicycle]] maker [[Adler (automobile)|Adler]]. ''Cf'' Georgano</ref> This was produced on such a remarkably large scale for the era—1,200 total from 1894 to 1901—it may be considered the first [[mass production#History|production]] automobile.<ref>The other main contenders are the [[Duryea]] and [[Oldsmobile Curved Dash|Olds Runabout]]. The [[Ford Model T|Model T]] is the first truly mass-produced car.</ref> The Benz ''Velo'' also participated in the first automobile race, the 1894 ''[[Auto racing#The beginning of racing|Paris to Rouen Rally]]''.
+
+In 1895, Benz designed the first [[truck]] in history, with some of the units later modified by the first [[bus]] company: the ''[[Netphener]]'', becoming the first buses in history.{{Citation needed|date=October 2009}}
+
+In 1896, Karl Benz was granted a [[patent]] for his design of the first '''[[flat engine]]'''. It had horizontally-opposed [[piston]]s, a design in which the corresponding pistons reach top dead centre simultaneously, thus balancing each other with respect to [[momentum]]. Flat engines with four or fewer cylinders are most commonly called '''boxer''' engines, ''boxermotor'' in German, and also are known as ''horizontally opposed engines''. This design is still used by [[Porsche]], [[Subaru]], and some high performance engines used in [[racing cars]]. In motorcycles, the most famous boxer engine is found in [[History of BMW motorcycles|BMW motorcycles]], though the boxer engine design was used in many other models, including [[Zundapp]], [[History of BMW motorcycles|Wooler]], [[Douglas Dragonfly]], the [[Brough Superior Golden Dream]], [[Ratier]], Universal, [[IMZ-Ural]], [[Dnepr (motorcycle)|Dnepr]], [[Gnome et Rhône]], [[Chang Jiang (motorcycle)|Chang Jiang]], [[Marusho]], and the [[Honda Gold Wing]].
+
+Although [[Gottlieb Daimler]] died in March 1900—and there is no evidence that Benz and [[Gottlieb Daimler|Daimler]] knew each other nor that they knew about each other's early achievements—eventually, competition with [[Daimler Motoren Gesellschaft]] (DMG) in [[Stuttgart]] began to challenge the leadership of Benz & Cie. In October 1900 the main designer of DMG, [[Wilhelm Maybach]], built the engine that would be used later, in the ''[[Mercedes 35hp|Mercedes-35hp]]'' of 1902. The engine was built to the specifications of [[Emil Jellinek]] under a contract for him to purchase thirty-six vehicles with the engine and for him to become a dealer of the special series. Jellinek stipulated the new engine be named Daimler-''Mercedes'' (for his daughter). Maybach would quit DMG in 1907, but he designed the model and all of the important changes. After testing, the first was delivered to Jellinek on 22 December 1900. Jellinek continued to make suggestions for changes to the model and obtained good results racing the automobile in the next few years, encouraging DMG to engage in commercial production of automobiles, which they did in 1902.
+
+[[Image:Benz Logo Mannheim.png|thumb|95px|left|logo with laurels used on Benz & Cie automobiles after 1909]]
+Benz countered with ''[[Parsifil]]'', introduced in 1903 with a vertical twin engine that achieved a top speed of {{convert|37|mi/h|km/h|abbr=on}}. Then, without consulting Benz, the other directors hired some French designers. France was a country with an extensive automobile industry based on Maybach's creations. Because of this action, after difficult discussions, Karl Benz announced his retirement from design management on 24 January 1903, although he remained as director on the Board of Management through its merger with DMG in 1926 and, remained on the board of the new Daimler-Benz corporation until his death in 1929.
+
+Benz's sons Eugen and Richard left Benz & Cie. in 1903, but Richard returned to the company in 1904 as the designer of passenger vehicles.
+
+[[Image:Blitzen Benz racing car.jpg|275px|thumb|right|1909 ''Blitzen Benz''  - built by Benz & Cie., which held the [[land speed record]] for ten years]]
+That year, sales of Benz & Cie. reached 3,480 automobiles, and the company remained the leading manufacturer of automobiles.
+
+Along with continuing as a director of Benz & Cie., Karl Benz soon would found another company—with his son, Eugen—closely held within the family, manufacturing automobiles under another brand and using a French spelling variant of Benz's first name for the first initial of the privately-held company (''see'' discussion in the next section).
+
+In 1909, the ''Blitzen Benz'' was built in Mannheim by Benz & Cie. The bird-beaked vehicle had a 21.5-liter (1312ci), {{convert|200|hp}} engine, and on 9 November 1909, in the hands of [[Victor Hémery]] of France,<ref>Northey, Tom, "Land Speed Record", in ''The World of Automobiles'' (London: Orbis Publishing, 1974), Volume 10, p.1163.</ref> the [[land speed record|land speed racer]] at [[Brooklands]], set a record of {{convert|202.68|km/h|mph}}, said to be "faster than any plane, train, or automobile" at the time, a record that was not exceeded for ten years by any other vehicle. It was transported to several countries, including the United States, to establish multiple records of this achievement.
+
+==Benz Söhne (1906 to 1923)==
+[[Image:Patentmotorwagen mit Karl und Bertha Benz.jpg|thumb|right|Karl and Bertha Benz c. 1914 (collection of Zenodot Verlagsgesellschaft mbH)]]
+
+Karl Benz, Bertha Benz, and their son, Eugen, moved {{convert|10|km|mi}} east of Mannheim to live in nearby [[Ladenburg]], and solely with their own capital, founded the private company, C. Benz Sons (German: ''Benz Söhne'') in 1906, producing automobiles and gas engines. The latter type was replaced by petrol engines because lack of demand.
+
+[[Image:C-Benz-Soehne-Logo.png|thumb|left|95px|logo on family held business production vehicles]]
+This company never issued stocks publicly, building its own line of automobiles independently from Benz & Cie., which was located in Mannheim. The ''Benz Sons'' automobiles were of good quality and became popular in [[London]] as [[taxicab|taxis]].
+
+In 1912, Karl Benz liquidated all of his shares in ''Benz Sons'' and left this family-held company in Ladenburg to Eugen and Richard, but he remained as a director of Benz & Cie.
+
+During a birthday celebration for him in his home town of [[Karlsruhe]] on 25 November 1914, the seventy year-old Karl Benz was awarded an honorary [[Honorary degree|doctorate]] by his alma mater, the ''[[Karlsruhe University]]'', thereby becoming—Dr. Ing. h. c. Karl Benz.
+
+[[Image:BenzTeardrop1923.jpg|thumb|right|1923 Benz ''"Teardrop"'' aerodynamic racecar]]
+Almost from the very beginning of the production of automobiles, participation in [[sports car racing]] became a major method to gain publicity for manufacturers. At first, the production models were raced and the Benz ''Velo'' participated in the first automobile race: [[Auto racing#The Start|Paris to Rouen 1894]]. Later, investment in developing [[racecar]]s for [[motorsports]] produced returns through sales generated by the association of the name of the automobile with the winners. Unique race vehicles were built at the time, as seen in the photograph here of the Benz, the first [[mid-engine]] and [[aerodynamically]] designed, ''Tropfenwagen'', a "teardrop" body introduced at the 1923 [[European Grand Prix]] at [[Autodromo Nazionale Monza|Monza]].
+
+In the last production year of the ''Benz Sons'' company, 1923, three hundred and fifty units were built. During the following year, 1924, Karl Benz built two additional 8/25&nbsp;hp units of the automobile manufactured by this company, tailored for his personal use, which he never sold; they are still preserved.{{Citation needed|date=October 2009}}
+
+==Toward ''Daimler-Benz'' and the first ''Mercedes-Benz'' in 1926==
+
+During the [[First World War]], ''Benz & Cie.'' and ''Daimler Motoren Gesellschaft'' both had massively increased their production for the war effort. After the conflict ended, both manufacturers resumed their normal activities, but the German economy was chaotic. The automobile was considered a ''luxury item'' and as such, was charged a 15% extra [[tax]]. At the same time, the country suffered a severe lack of petroleum. To survive this difficult situation, in 1919, ''Benz & Cie.'' proposed a cooperation suggested by Karl Benz through a representative, [[Karl Jahn]], but ''DMG'' rejected the proposal in December 1919.
+
+The German economic crisis worsened. In 1923, ''Benz & Cie.'' produced only 1,382 units in Mannheim, and ''DMG'' made only 1,020 in Stuttgart. The average cost of an automobile was 25&nbsp;million [[German papiermark|marks]] because of rapid inflation. Negotiations between the two companies resumed and in 1924, they signed an '''''Agreement of Mutual Interest''''' valid until the year 2000. Both enterprises standardized design, production, purchasing, sales, and advertising—marketing their automobile models jointly—although keeping their respective brands.
+
+On 28 June 1926, Benz & Cie. and DMG finally merged as the '''''[[Daimler-Benz]]''''' company, baptizing all of its automobiles, ''[[Mercedes-Benz|Mercedes Benz]]'', honoring the most important model of the DMG automobiles, the ''[[Mercedes 35hp|1902 Mercedes-35hp]]'', along with the Benz name. The name of that DMG model had been selected after ten-year-old [[Mercedes Jellinek]], the daughter of [[Emil Jellinek]] who had set the specifications for the new model. Between 1900 and 1909 he was a member of DMG's board of management and long before the merger Jellinek had resigned.
+
+[[Image:Benz-Wohnhaus-Ladenburg.jpg|200px|thumb|Last home of Karl and Bertha Benz, now the location of the Gottlieb Daimler and Karl Benz Foundation in Ladenburg, Germany]]
+Karl Benz was a member of the new ''Daimler Benz'' board of management for the remainder of his life. A new [[logo]] was created, consisting of a three pointed star (representing Daimler's [[motto]]: ''"engines for land, air, and water"'') surrounded by traditional [[Bay Laurel|laurels]] from the Benz logo, and the brand of all of its automobiles was labeled ''[[Mercedes Benz]]''. Model names would follow the brand name in the same convention as today.
+
+The next year, in 1927, the number of units sold ''tripled'' to 7,918 and the [[Diesel engine|diesel]] line was launched for truck production. In 1928, the ''[[List_of_Mercedes-Benz_cars#1920s|Mercedes Benz SS]]'' was presented.
+
+On 4 April 1929, at the age of 84, Karl Benz died at home in [[Ladenburg]] from a [[bronchitis|bronchial inflammation]]. Until her death, fifteen years later, on 5 May 1944, [[Bertha Benz]] continued to reside in their last home. Members of the family resided in the home for thirty more years. The Benz home now has been designated as [[historic preservation|historic]] and is used as a scientific meeting facility for a nonprofit foundation, the ''Gottlieb Daimler and Karl Benz Foundation'', that honors both Bertha and Karl Benz for their roles in the history of automobiles.{{Citation needed|date=October 2009}}
+
+== See also ==
+[[File:Karl Benz Führerschein.jpg|thumb|An official license to operate the Benz Patent Motorwagen on the public roads was issued by Großherzoglich Badisches Bezirksamt on 1 August 1888]]
+*[[benz (unit)]]
+*[[Bertha Benz]], his wife and automotive pioneer
+*[[German inventors and discoverers]]
+*[[History of the internal combustion engine]]
+
+== References==
+{{reflist}}
+
+==External links==
+{{Commons category|Carl Benz}}
+* Brief biographies of [http://www.mbusa.com/heritage/karl-benz.do Karl Benz] and [http://www.mbusa.com/heritage/bertha-benz.do Bertha Benz], with portraits, an extensive archive, and detailed histories presented at the '''Mercedes-Benz Museum'''.[http://www.mercedes-benz.com/content/mbcom/international/international_website/en/com/Brandworld_Museum.html]
+*Mercedes-Benz corporate archives [http://www.daimlerchrysler.com/dccom/0-5-7189-1-56989-1-0-0-0-0-0-8-7145-0-0-0-0-0-0-0.html],   company archives [http://www.daimlerchrysler.com/dccom/0-5-7189-1-10828-1-0-0-56989-0-0-135-7145-0-0-0-0-0-0-0.html],  history [http://www.daimlerchrysler.com/dccom/0-5-7168-1-9837-1-0-0-0-0-0-8-7145-0-0-0-0-0-0-0.html], media management archives [http://www.daimlerchrysler.com/dccom/0-5-7189-1-10829-1-0-0-56989-0-0-135-7145-0-0-0-0-0-0-0.html], and publications [http://www.daimlerchrysler.com/dccom/0-5-7189-1-10834-1-0-0-56989-0-0-135-7145-0-0-0-0-0-0-0.html]
+*[http://www.automuseum-ladenburg.de/cms/images/ehrendoktor_smal.jpg copies of the honorary doctorate] and  [http://www.automuseum-ladenburg.de/cms/images/staatsmedallie_smal.jpg Baden State medal in gold], both awarded to Karl Benz in his lifetime.
+* [http://www.automuseum-ladenburg.de/ Das Automuseum Dr. Carl Benz in der alten Benz Fabrik] {{de icon}} is the ''Dr. Carl Benz Auto Museum'' created by a private group in 1996 [http://translate.google.com/translate?hl=en&sl=de&u=http://www.mercedes-benz.de/content/germany/mpc/mpc_germany_website/de/home_mpc/passenger_cars/home/passenger_cars_world/heritage/museum/historical_places/car_museum_karl_benz.html&sa=X&oi=translate&resnum=8&ct=result&prev=/search%3Fq%3DAutomuseum%2BDr.%2BCarl%2BBenz%2B%26start%3D10%26hl%3Den%26sa%3DNin] in a former Benz factory for an ancillary business founded with his sons in [[Ladenburg]], which was separate from his major companies.  The company opened in 1906 and closed in 1923, the site has a description of this museum and contemporary photographs [http://www.automuseum-ladenburg.de/cms/templates/gruen/random/3.jpg] with "C. BENZ SÖHNE KG" painted on the building, which contains historical photographs, some restored automobiles, and a [http://www.automuseum-ladenburg.de/cms/index.php?option=com_content&task=view&id=14&Itemid=19 chronology] of the life of Karl Benz 
+* [http://www.3wheelers.com/benz.html Karl Benz on 3-wheelers.com]
+* [http://www.bertha-benz.de/ Bertha Benz Memorial Route]
+* [http://www.uh.edu/engines/epi2402.htm/ Prof. John H. Lienhard on BERTHA BENZ's RIDE]
+*[http://www.kurpfalz-tourist.de/web-data/Bilder/friedhof_1.jpg The Karl  Benz family grave site in Ladenburg]  The urn contains the ashes of their son, Richard Benz, and the inscription on the gavestone  reads:[http://www.geocities.com/MotorCity/Lane/4444/]
+* [http://www.digital-photo.com.au/v/Cars/central_coast_leagues_vintage_drivers_club/Benz_1912_MG_6395-41-41.jpg.html Photograph of Benz 1912 vintage car]
+
+:Dr. Ing. h. c. Karl Benz
+
+:Geb. 26. Nov.  1844
+:Gest. 4. April 1929
+
+:Bertha Benz 
+:Geb. Ringer
+
+:Geb.  3. Mai 1849 
+:Gest. 4. Mai 1944
+
+* The [http://www.daimler-benz-stiftung.de/home/events/en/start.html Gottlieb Daimler and Karl Benz Foundation] founded in 1986 at the last residence of Bertha and Karl Benz in Ladenburg.
+
+{{Benz aeroengines}}
+
+{{DEFAULTSORT:Benz, Karl}}
+[[Category:1844 births]]
+[[Category:1929 deaths]]
+[[Category:Automotive pioneers]]
+[[Category:Benz vehicles]]
+[[Category:German inventors]]
+[[Category:German engineers]]
+[[Category:German founders of automobile manufacturers]]
+[[Category:Mechanical engineers]]
+[[Category:People associated with the internal combustion engine]]
+[[Category:People from Karlsruhe]]
+[[Category:People from the Grand Duchy of Baden]]
+[[Category:University of Karlsruhe alumni]]
+
+[[ar:كارل بنز]]
+[[be-x-old:Карл Бэнц]]
+[[bs:Karl Benz]]
+[[bg:Карл Бенц]]
+[[ca:Carl Benz]]
+[[cs:Karl Benz]]
+[[cy:Carl Benz]]
+[[da:Carl Friedrich Benz]]
+[[de:Carl Benz]]
+[[et:Karl Benz]]
+[[es:Karl Friedrich Benz]]
+[[eo:Karl Benz]]
+[[eu:Karl Benz]]
+[[fr:Carl Benz]]
+[[fur:Carl Benz]]
+[[gd:Carl Benz]]
+[[xal:Бенц, Карл]]
+[[ko:카를 벤츠]]
+[[hi:कार्ल बेन्ज़]]
+[[hr:Carl Benz]]
+[[io:Carl Benz]]
+[[id:Karl Friedrich Benz]]
+[[is:Karl Benz]]
+[[it:Carl Benz]]
+[[he:קרל בנץ]]
+[[jv:Carl Benz]]
+[[pam:Karl Benz]]
+[[sw:Karl Friedrich Benz]]
+[[lv:Karls Bencs]]
+[[lb:Carl Benz]]
+[[lt:Karl Friedrich Benz]]
+[[hu:Karl Benz]]
+[[mk:Карл Бенц]]
+[[ms:Karl Benz]]
+[[nl:Carl Benz]]
+[[new:कार्ल बेन्ज]]
+[[ja:カール・ベンツ]]
+[[no:Carl Benz]]
+[[pl:Karl Benz]]
+[[pt:Karl Benz]]
+[[ksh:Carl Friedrich Benz]]
+[[ro:Carl Benz]]
+[[ru:Бенц, Карл]]
+[[sa:कार्ल बेन्ज़]]
+[[sco:Karl Benz]]
+[[sk:Karl Friedrich Benz]]
+[[sl:Carl Friedrich Benz]]
+[[sr:Карл Бенц]]
+[[sh:Karl Benz]]
+[[fi:Karl Benz]]
+[[sv:Carl Benz]]
+[[tl:Karl Benz]]
+[[ta:கார்ல் பென்ஸ்]]
+[[th:คาร์ล เบนซ์]]
+[[tr:Karl Benz]]
+[[uk:Карл Фрідріх Бенц]]
+[[vi:Carl Benz]]
+[[war:Karl Benz]]
+[[diq:Karl Benz]]
+[[bat-smg:Karls Bencos]]
+[[zh:卡尔·本茨]]

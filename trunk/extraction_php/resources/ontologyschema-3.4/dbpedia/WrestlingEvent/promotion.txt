@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = promotion
+|rdfs:domain = WrestlingEvent
+|rdfs:range = owl:Thing
+}}

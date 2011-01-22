@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/dates.txt> <http://dbpedia.org/property/dateA> "2007-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/dates.txt> <http://dbpedia.org/property/dateB> "1999-06-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/dates.txt> <http://dbpedia.org/property/dateC> "0812-08-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/dates.txt> <http://dbpedia.org/property/dateD> "1982-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth> .
+<http://dbpedia.org/resource/dates.txt> <http://dbpedia.org/property/dateE> "-0012-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/dates.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:%C2%A0dummytemplate> .

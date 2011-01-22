@@ -1,0 +1,84 @@
+{{no footnotes|date=November 2009}}
+{{Infobox Automobile
+|name           = Audi 4000S/CS quattro
+|image          = [[Image:Audi 4000CS.jpg|250px|Audi 4000CS]]
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|aka            = 4Kq, 4000 CSq, 4K CSq
+|production     = 1984–1987
+|assembly       = [[Emden]], [[Germany]]<ref name=ETKA>[[ETKA]]</ref><br>[[Ingolstadt]], Germany<ref name=ETKA/>
+|predecessor    = 
+|successor      = 
+|class          = [[Compact executive car]]
+|body_style     = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]]
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] 
+|platform       = [[Volkswagen Group B platform#B2|Volkswagen Group B2]]
+|engine         = 2.22&nbsp;[[litre|L]] [[straight-five engine|I5]] [[overhead camshaft#single overhead camshaft|SOHC]]
+|transmission   = 5-speed [[manual transmission|manual]]
+|wheelbase      = {{convert|2525|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4486|mm|1|abbr=on}}
+|width          = {{convert|1687|mm|1|abbr=on}}
+|height         = {{convert|1379|mm|1|abbr=on}}
+|weight         = {{convert|1281|kg|0|abbr=on|lk=on}}
+|fuel_capacity  = {{convert|70|L|impgal usgal|1|abbr=on|lk=on}}
+|related        = [[Audi 80#Audi 80 (B2) (1978–86)|Audi 80 (B2)]]
+|designer       =
+|sp             = uk
+}}
+The '''Audi 4000 quattro''' (sometimes written as '''4Kq''', '''4000 CSq''' or '''4K CSq''') was a passenger car, manufactured by [[Audi]] of [[Germany]] from 1984 to 1987.  In Europe, these cars were sold as the '''Audi 80 quattro''' or the '''Audi 90 quattro''', names that were also adopted in the American market a few years later.
+
+The 4000 quattro was only available with Audi's 'trademark' a [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.  There were lock-up controls for the centre and rear [[differential (mechanical device)|differentials]].  1984 and 1985 [[United States|US]] models, and all Canadian models were badged "4000 S", 1986 and 1987 US models were badged "4000 CS".
+
+The 4000 quattro was a car with "multiple personalities".  It was a four-[[vehicle door|door]], five-passenger luxury [[Europe]]an saloon/sedan, although it had the spirit of a [[sports car]] (in the [[internal combustion engine|engine]], [[transmission (mechanics)|transmission]], and [[car handling|handling]]).  With its lockable centre and rear differentials, it gave the car true [[four-wheel drive]] traction capabilities.
+
+==Powertrain==
+The 4000 quattro had a CIS-E fuel-injected 2.22&nbsp;[[litre]] [[straight-five engine|inline 5-cylinder]] [[petrol engine]] (identification code: JT).  It displaced {{convert|2226|cc|1|lk=on}}, was constructed from a [[gray iron|grey]] [[cast iron]] [[cylinder block]], with an [[aluminium alloy]] [[cylinder head]], and used a [[timing belt]]-driven [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC).  The cylinder bore is {{convert|81.0|mm|2|lk=on}}, and the piston stroke is {{convert|86.4|mm|2}}, and it's [[compression ratio]] is 8.5:1.  The rated horsepower is {{convert|86|kW|PS bhp|0|lk=on}} at 5,500&nbsp;rpm, and the torque is {{convert|171|Nm|0|lk=on}} at 3,000&nbsp;rpm.
+
+The only [[transmission (mechanics)|transmission]] available on the 4000S/CS was a five-speed close-ratio [[manual transmission|manual]].  An [[automatic transmission]] was not available.
+
+==Styling and features==
+On the exterior, the 4000 quattro was designed{{citation needed|date=July 2008}} to look like a luxury [[sedan (automobile)|saloon/sedan]].  The door handles have stainless steel inserts to match the body moulding, and clearcoat [[metallic paint]] was an option.
+
+The interior was designed{{citation needed|date=July 2008}} to have "sport" appointments.  Although the [[car seat|seats]] were plush and comfortable, the dash area was "sport" style: tab-rocker component switches, red instrument lighting, sport steering wheel, ''et cetera''.
+
+The 4000 quattro had several standard features which were advanced and/or fancy in the mid [[1980s]] - such as power side mirrors with defoggers, [[cruise control]] with resume function, [[air conditioning]], and [[power window]]s.
+
+The 4000 quattro had some stylish touches - one in particular being the word "quattro" written on the rear windshield in defroster wire.  The word was visible from the outside, and it also appeared in the rear-view mirror (reading in the appropriate direction obviously, due to the double-reversal).  This feature was continued with the later [[Audi 80]]/90 quattro models.
+
+===Options===
+Options included:
+*Clearcoat metallic paint 
+*Leather interior 
+*Power tilt-and-slide [[sunroof]]
+*6-function trip information computer
+*Multi-level heated front seats
+*Upgraded all-weather [[tires|tyres]]
+
+==Gallery==
+<gallery>
+Image:Audi 4000CS Quattro 6.jpg|rear of the car, including the spoiler
+Image:Audi 4000CS Quattro 4.jpg|the "Full Alpine" package's matching painted wheels and hubcaps
+Image:Audi 4000CS Quattro 5.jpg|the "Full Alpine" package's matching painted side-view mirrors
+Image:Audi 4000CS Quattro 7.jpg|the interior; the cow seat covers are an after-market addition
+Image:Audi 4000CS Quattro 2.jpg|the quattro controls and shift stick
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Audi 4000}}
+* AudiWorld.com [http://www.audiworld.com/model/4000/87-4000.shtml Technical specifications of the 4000CS]
+
+{{Audi}}
+{{Audi vehicles timeline (North America)}}
+
+[[Category:Audi vehicles|4000S/CS quattro]]
+[[Category:Mid-size cars]]
+[[Category:Executive cars]]
+[[Category:Sedans]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles introduced in 1985]]
+[[Category:1980s automobiles]]
+
+[[de:Audi 4000]]

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = bed count
+|rdfs:domain = Hospital
+|rdfs:range = xsd:integer
+}}

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Conifer
+| rdfs:subClassOf = Plant
+}}

@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Lymph
+|rdfs:subClassOf = AnatomicalStructure
+}}

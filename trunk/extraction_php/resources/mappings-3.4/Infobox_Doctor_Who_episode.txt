@@ -1,0 +1,24 @@
+{{ DBpediaTemplateMapping
+| mapToClass = TelevisionEpisode
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Series | ontologyProperty = TelevisionEpisode/series }}
+	{{ DBpediaPropertyMapping | templateProperty = Season | ontologyProperty = TelevisionEpisode/seasonNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = Episode | ontologyProperty = TelevisionEpisode/episodeNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = Writer | ontologyProperty = TelevisionEpisode/writer }}
+	{{ DBpediaPropertyMapping | templateProperty = Director | ontologyProperty = TelevisionEpisode/director }}
+	{{ DBpediaPropertyMapping | templateProperty = Music | ontologyProperty = TelevisionEpisode/music }}
+	{{ DBpediaPropertyMapping | templateProperty = Photographer | ontologyProperty = TelevisionEpisode/photographer }}
+	{{ DBpediaPropertyMapping | templateProperty = Guests | ontologyProperty = TelevisionEpisode/guest }}
+	{{ DBpediaPropertyMapping | templateProperty = show | ontologyProperty = TelevisionEpisode/show }}
+	{{ DBpediaPropertyMapping | templateProperty = executive_producer | ontologyProperty = TelevisionEpisode/executiveProducer }}
+	{{ DBpediaPropertyMapping | templateProperty = Title | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Airdate | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Prev | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = Next | ontologyProperty = Work/subsequentWork }}
+	{{ DBpediaPropertyMapping | templateProperty = serial_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Work/type }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Work/runtime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = date | ontologyProperty = Work/publishDate }}
+	{{ DBpediaPropertyMapping | templateProperty = preceding | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = following | ontologyProperty = Work/subsequentWork }}
+}}

@@ -1,0 +1,7 @@
+{{Class
+| rdfs:label = GeopoliticalOrganisation
+| rdfs:subClassOf = Organisation
+| specificProperties = {{SpecificProperty | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+                       {{SpecificProperty | ontologyProperty = areaMagnitude | unit = squareMetre }}
+                       {{SpecificProperty | ontologyProperty = areaMetro | unit = squareKilometre }}
+}}

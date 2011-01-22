@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hc:CloseableTitleWindow
+	xmlns:hc="com.hillelcoren.components.*"
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	implements="com.hillelcoren.components.autoComplete.interfaces.IBrowser"
+	layout="absolute" width="500" height="350" 
+	showCloseButton="false" xmlns:classes="com.hillelcoren.components.autoComplete.classes.*">
+	
+	<mx:Metadata>
+		[Event("change")]
+	</mx:Metadata>	
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.listClasses.ListBase;
+			import mx.controls.List;
+			import mx.controls.DataGrid;
+			import com.hillelcoren.components.AutoComplete;
+			import com.hillelcoren.utils.StringUtils;
+			import mx.utils.ObjectUtil;
+			import mx.controls.dataGridClasses.DataGridColumn;
+			import mx.collections.SortField;
+			import mx.collections.Sort;
+			import mx.collections.ArrayCollection;
+			import mx.events.ListEvent;
+			import mx.events.CloseEvent;
+			import mx.managers.PopUpManager;
+					
+			[Bindable]
+			private var _dataProvider:ArrayCollection;		
+			private var _dataProviderChanged:Boolean;
+			
+			private var _isMultiSelect:Boolean;	
+			private var _isMultiSelectChanged:Boolean;
+					
+			[Bindable]
+			private var _originalSelectedItems:ArrayCollection;
+			
+			private var _browserFields:Array;
+			
+			private var _searchStr:String
+			private var _searchStrChanged:Boolean;
+			
+			private var _filterFunction:Function;
+			private var _labelFunction:Function;
+			private var _itemRenderer:IFactory;
+			
+			[Bindable]
+			protected var _list:ListBase;
+						
+			public function init():void
+			{
+				searchTextInput.setFocus();					
+			}
+			
+			override protected function createChildren():void
+			{
+				super.createChildren();
+				
+				if (getListType() == List)
+				{
+					_list = new List();
+					_list.setStyle( "alternatingItemColors", [0xEEEEEE, 0xFFFFFF] );					
+				}
+				else
+				{
+					_list = new DataGrid();
+					
+					if (_browserFields)
+					{
+						var columns:Array = [];
+						
+						for each (var field:String in _browserFields)
+						{
+							var column:DataGridColumn = new DataGridColumn( field );
+							column.headerText = StringUtils.capitalizeWords( field );
+							columns.push( column );
+						}
+
+						DataGrid( _list ).columns = columns;
+					}
+				}
+				
+				_list.percentWidth = 100;
+				_list.percentHeight = 100;
+				_list.dataProvider = _dataProvider;
+				_list.doubleClickEnabled = true;
+				_list.itemRenderer = _itemRenderer ? _itemRenderer : browserItemRenderer;
+				_list.addEventListener( ListEvent.ITEM_DOUBLE_CLICK, handleDoubleClick );
+				_list.addEventListener( KeyboardEvent.KEY_DOWN, handleKeyDown );
+				vBox.addChildAt( _list, 0 );
+			}
+			
+			private function getListType():Class
+			{
+				if (!_dataProvider || _dataProvider.length == 0)
+				{
+					return List;
+				}
+				
+				var item:Object = _dataProvider.getItemAt( 0 );
+				
+				if (item is String)
+				{
+					return List;
+				}
+				else
+				{
+					return DataGrid;
+				}
+			}
+			
+			public function set filterFunction( value:Function ):void
+			{
+				_filterFunction = value;
+			}
+			
+			private function handleDoubleClick( event:ListEvent ):void
+			{
+				var changeEvent:Event = new Event( Event.CHANGE );
+				dispatchEvent( changeEvent );
+			}
+			
+			private function handleKeyDown( event:KeyboardEvent ):void
+			{
+				if (_list.selectedIndex > -1 && event.keyCode == Keyboard.ENTER)
+				{
+					var changeEvent:Event = new Event( Event.CHANGE );
+					dispatchEvent( changeEvent );
+				}
+			}
+			
+			private function handleCancelClick():void
+			{
+				dispatchEvent( new CloseEvent( CloseEvent.CLOSE ) );
+			}
+			
+			private function handleSelectClick():void
+			{
+				var changeEvent:Event = new Event( Event.CHANGE );
+				dispatchEvent( changeEvent );				
+			}
+			
+			public function set originalSelectedItems( value:ArrayCollection ):void
+			{
+				_originalSelectedItems = value;	
+			}
+			
+			public function set itemRenderer( value:IFactory ):void
+			{
+				_itemRenderer = value;
+			}
+			
+			[Bindable]
+			public function get originalSelectedItems():ArrayCollection
+			{
+				return _originalSelectedItems;
+			}
+			
+			public function get selectedItems():Array
+			{
+				return _list.selectedItems;	
+			}
+			
+			public function set dataProvider( value:ArrayCollection ):void
+			{
+				_dataProvider = value;
+				_dataProviderChanged = true;
+				
+				invalidateProperties();				
+			}
+			
+			public function set labelFunction( value:Function ):void
+			{
+				_labelFunction = value;
+			}
+			
+			public function set isMultiSelect( value:Boolean ):void
+			{
+				_isMultiSelect = value;
+				_isMultiSelectChanged = true;	
+				
+				invalidateProperties();
+			}
+			
+			public function set searchStr( value:String ):void
+			{
+				_searchStr = value;
+				_searchStrChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			public function set browserFields( value:Array ):void
+			{
+				_browserFields = value;
+			}
+			
+			override protected function commitProperties():void
+			{
+				super.commitProperties();
+				
+				if (_isMultiSelectChanged)
+				{
+					_isMultiSelectChanged = false;
+					
+					if (_list)
+					{
+						_list.allowMultipleSelection = _isMultiSelect;
+					}
+					else if (_list)
+					{
+						_list.allowMultipleSelection = _isMultiSelect;
+					}					
+				}
+					
+				if (_dataProviderChanged)
+				{
+					_dataProviderChanged = false;
+					
+					_dataProvider.filterFunction = filterFunctionWrapper;
+					_dataProvider.refresh();
+				}
+				
+				if (_searchStrChanged && _dataProvider)
+				{
+					_searchStrChanged = false;
+					
+					searchTextInput.text = _searchStr;
+					searchTextInput.setSelection( 0, _searchStr.length );
+					
+					_dataProvider.refresh();
+				}
+			}
+			
+			private function filterFunctionWrapper( item:Object ):Boolean
+			{
+				return _filterFunction( item, searchTextInput.text );
+			}
+			
+			private function handleSearchChange():void
+			{
+				_dataProvider.refresh();
+			}
+			
+		]]>
+	</mx:Script>
+	
+	<mx:Component id="browserItemRenderer">
+		<classes:BrowserItemRenderer selectedItems="{ outerDocument.originalSelectedItems }" />
+	</mx:Component>
+		
+	<mx:VBox id="vBox" width="100%" height="100%">
+	
+		<mx:HBox verticalAlign="middle" width="100%" 
+			paddingRight="10" paddingLeft="10" paddingBottom="20" paddingTop="20">
+			<mx:Label text="Search"/>
+			<mx:TextInput id="searchTextInput" change="handleSearchChange()"/>
+			<mx:Spacer width="100%"/>
+			<mx:Button id="selectButton" label="Select" click="handleSelectClick()" enabled="{ _list.selectedIndex > -1 } " width="{ Consts.BUTTON_WIDTH }"/>
+			<mx:Button label="Cancel" click="handleCancelClick()" width="{ Consts.BUTTON_WIDTH }"/>
+		</mx:HBox>
+	</mx:VBox>
+	
+</hc:CloseableTitleWindow>

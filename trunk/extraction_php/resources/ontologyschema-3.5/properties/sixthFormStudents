@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = sixth form students
+| rdfs:domain = School
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,23 @@
+{{ DBpediaTemplateMapping
+| mapToClass = BasketballPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = league | ontologyProperty = BasketballPlayer/league }}
+	{{ DBpediaPropertyMapping | templateProperty = number | ontologyProperty = BasketballPlayer/number }}
+	{{ DBpediaPropertyMapping | templateProperty = highschool | ontologyProperty = BasketballPlayer/highschool }}
+	{{ DBpediaPropertyMapping | templateProperty = college | ontologyProperty = BasketballPlayer/college }}
+	{{ DBpediaPropertyMapping | templateProperty = draft | ontologyProperty = BasketballPlayer/draft }}
+	{{ DBpediaPropertyMapping | templateProperty = draft_year | ontologyProperty = BasketballPlayer/draftYear }}
+	{{ DBpediaPropertyMapping | templateProperty = draft_team | ontologyProperty = BasketballPlayer/draftTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = position | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = weight_lbs | ontologyProperty = Person/weight | unit = pound }}
+	{{ DBpediaPropertyMapping | templateProperty = team | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = career_start | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = career_end | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = former_teams | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaCalculateMapping | operation = add | templateProperty1 = height_ft  | unit1 = foot  | templateProperty2 = height_in  | unit2 = inch  | ontologyProperty = Person/height }}
+}}

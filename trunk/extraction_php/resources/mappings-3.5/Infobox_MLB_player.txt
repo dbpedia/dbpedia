@@ -1,0 +1,22 @@
+{{TemplateMapping
+| mapToClass = BaseballPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = bats | ontologyProperty = bats }}
+	{{PropertyMapping | templateProperty = throws | ontologyProperty = throws }}
+	{{PropertyMapping | templateProperty = statyear | ontologyProperty = statisticYear }}
+	{{PropertyMapping | templateProperty = stat1label | ontologyProperty = statisticLabel }}
+	{{PropertyMapping | templateProperty = stat1value | ontologyProperty = statisticValue }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = team | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = number | ontologyProperty = currentNumber }}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = positionplain | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = birthdate | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = debutteam | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{PropertyMapping | templateProperty = teams | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = deathdate | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = finalteam | ontologyProperty = formerTeam }}
+	{{CombineDateMapping | templateProperty1 = debutdate  | unit1 = xsd:gMonthDay | templateProperty2 = debutyear  | unit2 = xsd:gYear | ontologyProperty = activeYearsStartDate }}
+	{{CombineDateMapping | templateProperty1 = finaldate  | unit1 = xsd:gMonthDay | templateProperty2 = finalyear  | unit2 = xsd:gYear | ontologyProperty = activeYearsEndDate }}
+}}

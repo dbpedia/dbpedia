@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = Golden Raspberry Award
+| rdfs:domain = Actor
+| rdfs:range = Award
+}}

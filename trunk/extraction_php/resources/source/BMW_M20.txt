@@ -1,0 +1,190 @@
+{{Infobox Automobile
+|name=BMW M20 engine
+|manufacturer=[[BMW]]
+|production=1976&ndash;1994
+|predecessor=None
+|successor=[[BMW M50]]
+|class=[[Straight-6]]
+|engine=2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in³)<br>2.3&nbsp;L (2316&nbsp;cc/141&nbsp;in³)<br>2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)<br>2.7&nbsp;L (2693&nbsp;cc/164&nbsp;in³)
+|similar=[[Mercedes-Benz M110 engine|Mercedes-Benz M110]]
+}}
+The '''M20''' is an [[inline-6]] [[piston engine]] by [[BMW]].
+
+Initially designated M60, the 12-valve, belt driven SOHC design was introduced in the 1977 BMW 520/6 and 320/6 as an entirely new design. With displacements ranging from 2.0 to 2.7 liters, it was the "little brother" to the larger [[BMW M30]] engine. It had 91mm bore-spacing instead of 100mm of the M30. It was intended to replace the larger displacement 4-cylinder motors and was born out of BMW's conviction that a small six had more development potential than a large four (i.e. 2 liters+)
+
+Powering the [[BMW E21|E21]] and [[BMW E30|E30]] [[BMW 3-Series|3-Series]], as well as [[BMW E12|E12]], [[BMW E28|E28]] and [[BMW E34|E34]] [[BMW 5 Series|5 Series]] cars, it was produced for nearly two decades, with the last examples powering the E30 ''325i touring'' built until April 1993. By that time, the newer twin-cam [[BMW M50|M50]] engines with 4 valves per cylinder had already been used in the [[BMW E36|E36]] and [[BMW E34|E34]] for a couple of years.
+
+Three different head castings were used over the engine's production run. The earliest was #1264200 aka the "200". These were used in all e21 320/6 and 323i and e12 520/6 engines and later in the e28 and e30 eta engines (epsilon = "<sup></sup>Power With Economy"). The next version was #1277731 aka the "731". This head was the same as the 200 but featured larger intake ports. The final version was #1705885 or "885" introduced in the 325i. Ports were further enlarged, valves were larger and the combustion chamber was redesigned to improve flow and thermodynamic efficiency.
+
+As the [[BMW M21]], it became a [[diesel engine]] that was also available with a [[turbocharger]].
+
+==M20B20==
+The M20B20 is a 2.0 L M20 engine. Entering production in March 1977 in the E12 520 and later in the E21 320/6, the engine had a bore of 80&nbsp;mm and a stroke of 66&nbsp;mm. Fueling was handled by a Solex four-barrel carburetor. These early versions all used the "200" head. When the E30 debuted in 1982, the 2.0 was fitted with Bosch L-Jetronic fuel injection and the revised "731" cylinder head featuring larger intake ports. In 1987, the 2.0 was again revised with the addition of Bosch Motronic engine management and a catalytic converter. Later models also received larger valves. The 2.0 has the distinction of having the longest production run in the M20 series with the last ones rolling off the line in early 1993.
+
+Applications:
+* 1977&ndash;1981 [[BMW E12|E12]] [[BMW 5 Series|520/6]]
+* 1979&ndash;1983 [[BMW E21|E21]] [[BMW 3 Series|320/6]]
+* 1982&ndash;1984 [[BMW E28|E28]] [[BMW 5 Series|520]]
+* 1982&ndash;1988 [[BMW E28|E28]] [[BMW 5 Series|520i]]
+* 1983&ndash;1992 [[BMW E30|E30]] [[BMW 3 Series|320i]]
+* 1988&ndash;1990 [[BMW E34|E34]] [[BMW 5 Series|520i]]
+
+==M20B23==
+This motor was only used in 3-series models. The 323i began as an E21 model in 1977 and was phased out as the E30 models came into production. It initially used the same head and block as the carbureted 2.0 liter but used a longer 76.8&nbsp;mm stroke crank. It also featured Bosch K-Jetronic Injection. So equipped the E21 323i produced {{convert|143|hp|abbr=on}}. The E30 version featured the revised "731" head with larger intake ports and used L-Jetronic instead of K-Jet. Early E30 323s made {{convert|139|hp|abbr=on}} but later versions got updated cams and power rose to {{convert|150|hp|abbr=on}}. The 2.3 liter motor was superseded by the more powerful 2.5 in 1985.
+
+Applications:
+* 1977&ndash;1982 [[BMW E21|E21]] [[BMW 3 Series|323i]]
+* 1982&ndash;1985 [[BMW E30|E30]] [[BMW 3 Series|323i]]
+
+==M20B25==<!-- This section is linked from [[Straight-6]] -->
+[[Image:M20B25.jpg|thumb|300px|right|An M20B25 engine in a US-market 1989 325i (with a painted valve cover).]]
+The German version of the M20B25 produced {{convert|170|hp|abbr=on}} with a catalytic converter and 171&nbsp;hp without. It featured the newly designed "885" head featuring larger ports and valves and an open, higher-volume combustion chamber design. The new engine had an 84&nbsp;mm (3.3&nbsp;in) bore, and 75&nbsp;mm (3&nbsp;in) stroke. The redesigned pistons and combustion chambers made better power, resisted detonation better and had higher thermodynamic efficiency.  It was equipped with Bosch Motronic 1.1/1.3 Adaptive fuel injection. With a minor modification that adjusts the idle speed of a cold engine, the 325i fulfills ''Euro 2'' emission requirements in Germany, resulting in a lower tax compared to ''Euro 1'' (as of 2005).
+
+Applications:
+* 1986&ndash;1994 [[BMW E30|E30]] [[BMW 3 Series|3 Series]]
+* 1989&ndash;1990 [[BMW E34|E34]] [[BMW 5 Series|5 Series]]
+* 1988&ndash;1991 [[BMW E30|E30]] [[BMW Z1|Z1]]
+
+==M20B27==
+
+The 2.7&nbsp;L '''M20B27''' was designed for efficiency (thus the ''e'' for the Greek letter ''epsilon'' in ''325e''). It had an 84&nbsp;mm (3.3&nbsp;in) bore and a longer 81&nbsp;mm (3.2&nbsp;in) stroke for a total displacement of 2693&nbsp;cc. The eta engine used the same "200" head casting as the carbureted 2.0 liter and K-jetronic 2.3 as featured in the E21 but only utilizes four camshaft bearings for reduced internal friction. The heads still have seven journals cast into them though and can be drilled to oil a seven bearing cam.
+
+Output was {{convert|122|hp|abbr=on}} at 4250 rpm for all models produced through model year 1987 and {{convert|127|hp|abbr=on}} at 4800 rpm for the final year of production in 1988. Peak torque is {{convert|170|ft.lbf|N.m|abbr=on}} at about 3250 rpm for all years of the eta. BMW built this engine with fuel economy and low-rev drivability as the top priority.  In production it was coupled to a 2.93:1 differential for the E28 5 series and E30 3 series models starting model year 1986. The earlier 325e used a 2.79:1 ratio. The tall final drive gearing was required to keep the engine in its best operating range at various road speeds.  These features did achieve exceptional efficiency, but at the expense of the sparkling performance typically associated with the marque.
+
+All eta engines used Bosch Motronic engine management systems that were calibrated for maximum fuel economy. The result were very conservative spark advance and fuel delivery curves. In addition, the Motronic had a built-in rev limiter that engaged at about 4750 rpm. While this was hardly sporting, due to the very low overlap and short duration of the cam and the long, narrow intake tubing, the motor would not have made much power over 5,000 rpm anyway. The low redline was an added safety margin to compensate for  the four bearing cam and soft valve springs.
+ 
+In cars produced from September 1987, the eta engine got a substantial refresh from the factory. This included the more recent Bosch Motronic version 1.1/1.3 with adaptive idle control and revised circuitry, the "885" head casting with the larger valves, ports and revised combustion chambers; new pistons to fit the 2.7 L stroke with the 2.5 L head; a special one year only intake manifold with even narrower runners that opened up at the flanges to match the larger ports of the new head; a dual exhaust system; a special eta-tuned 7-bearing cam; and a 5300 rpm rev limit. A new 6000 rpm tachometer was also used.
+
+Applications:
+* 1982&ndash;1987 [[BMW E30|E30]] [[BMW 3 Series|325/325e/325es]]
+* 1982&ndash;1987 [[BMW E28|E28]] [[BMW 5 Series|525e (or 528e in the US)]]
+
+==M20 tuning and modification==
+
+Options vary according to which version of the engine is used as a base. The primary limiting factor in these engines is the 2-valve head design which is good for what it is but is easily bested by later 4-valve designs as found in the M50-series in terms of air-flow potential. All versions of the cylinder head can benefit from flow porting and larger valves and even the "200" can have its ports and chambers opened up to the same dimensions as the "885". All versions can benefit from more aggressive cams such as those from Alpina, Schrick or any other reputable manufacturer. For street use, the practical upper limit of cam duration is 284 intake and 284 exhaust. Any more duration and idle quality and driveability start to deteriorate noticeably, particularly with the stock induction, fueling and ignition systems. In all cases, the fuel/ignition system should be revised accordingly to deal with the extra airflow.
+
+Exhaust upgrades also produce good results from the use of tubular exhaust manifolds (headers) and freer flowing exhausts in general. It must be noted that with the possible exception of the muffler, the original BMW exhaust system from the 325i already flows quite well. Eta exhausts and 320 exhausts(except for late production examples) are more restrictive.
+
+Motronic cars can benefit from high performance chips that remap fuel and spark maps to run on higher-octane fuel. Manufacturers include E.A.T, Conforti as well as many others. Chip selection should be based on the maker's reputation and feedback from current users. K-Jet cars can accommodate flow upgrades and displacement boosts with relative ease and usually require only basic mixture and fuel pressure adjustments for street cars. K-jet does not tolerate radical cams though since it needs a continuous vacuum to actuate the air-flow plate correctly. L-jet cars are more limited since they cannot be chipped and adjustments to fuel pressure and to the air-flow sensor need to be done with extreme care to ensure good results. Simply boosting fuel pressure or adjusting the AFM spring tension without checking the resultant change in mixture can lead to more problems than it solves.
+
+Various intake manifolds were used on injected cars. K-jet cars can only use the original intake since the others do not accommodate mechanical injectors. The intakes on all other models are interchangeable with the best one being from the 325i owing to the larger throttle body, wider tube diameter and shorter overall length for better flow and more power at higher revs. Eta cars up to September 1987 using the "200" head should get the ports opened up to match the wider tubes of the 325i manifold while cars using the 731 head (E30 320i and 323i) require no such modification.
+
+Carburetted 320s have a proprietary manifold and the only induction option on an otherwise stock engine would be porting and/or a carb upgrade. The manifold can also be deleted outright in favor of a custom triple side-draft setup but this would only yield satisfactory results when combined with a cam and some porting.
+
+===Aftermarket tuners===
+
+Alpina and Hartge build higher powered M20s based on stock engines. Their usual approach was to gas-flow the heads, install larger valves, higher compression pistons, more aggressive cams, headers, custom exhaust systems and then tune everything accordingly. Using this approach, Alpina got 170hp from the 2.3, 190hp from the 2.5 and 210 from their 2.7 (based on the 325i engine but with the longer stroke modified M21 Turbo-diesel crank). Hartge's results were similar while using similar approaches.
+
+===Increasing displacement===
+
+Owners of 2.0 and 2.3 liter cars would do well to replace their engine blocks outright in favor of a 325i/Eta block with its larger bore. These blocks can easily be adapted to accommodate the ancillaries from the smaller engines with little or no modification depending on the model they are to be installed in. E21 owners not wishing to upgrade their injection systems for their strokers may still follow the guidelines below but must re-use and re-tune their existing carb or K-Jet systems and their necessary hardware. Furthermore, cars originally using a distributor that base an engine upgrade on a Motronic block will have to re-use all the parts relative to the distributor drive since these are absent on the Motronic block.  HOWEVER, note that the block in the AWD 325iX is a DESIGN unique to the iX with a completely different lubrication system and is not interchangeable with the others without a much more complex adaptation.
+
+===Eta-based 2.7===
+
+Generally, where strokers are concerned the smallest and easiest to build are 2.7 Eta-based. The cast Eta crank, contrary to popular myth, is strong and is proven to over 7500rpm. Reputable engine builders like Jim Rowe of Metric Mechanic routinely use the Eta crank in their stroker builds. The forged crank from an M21 turbo-diesel with the same stroke as the Eta can also be used but it is heavier and unnecessary for moderate-rpm street applications.
+
+===Super Eta-based===
+The easiest is to start with a September 1987 onward Super Eta and installing a 325i cam and springs, a complete 325i intake manifold and throttle and plugging in the 325i engine control unit. Depending on which cam, chip and intake is used, this combination can make 180-200hp with the stock 8.5:1 compression ratio and will rev to 7500rpm.
+
+===325i based===
+Starting with a regular M20B25, acquire an Eta crank and use Super Eta pistons and rods or custom pistons with the 325i rods. Eta, 320 and 323 rods are all 130mm long while 325i rods are 135mm. Regular Eta pistons WILL NOT WORK OPTIMALLY because they are not matched to the "885" head. Results are the same as for the Super Eta and will be better if custom-made higher compression pistons are used.
+
+===Regular 2.7 Eta based===
+This is one option that many have discredited over the years but has been proven to work quite well.  Simply find a 2.7L ETA engine and swap on the complete head off of a 325i.  This is all that is needed for the engine.  The result is 8.3:1 compression which is on the low end for a NA motor but is perfect for a turbo car.  In fact, cars with this setup have made over 400 rwhp with the stock ETA bottom end.
+
+If you are starting with a eta equipped car, this will require an upgrade to Motronic 1.1/1.3 from a 325i in order to get the desired revs and fuel/spark mapping. This will require the use of the entire engine harness, ECM, front crank pulley with crank sensor and bracket, all the sensors (including AFM), injectors '''(Etas built before September 1987 with the older Motronic system use low-impedance injectors, wereas the 325i computer must use high-impedance injectors)''' , also 325i plug wires and the EVAP purge solenoid. An instrument cluster with the 7000 rpm tachometer and a small wiring modification to make the tach work will also be necessary. Owners of Etas made before December 1986 will need to widen the hole where the engine wiring harness goes into the car. Owners of older Etas that have a rectangular plug joining the engine harness to the fuse box instead of a round one will have to change to the later model fuse box or splice all the wires and make a custom connection.
+
+===2.8, 2.9, 3.0 and 3.15===
+
+All of these options will require custom pistons except for the 2.8 which uses regular 325i pistons with eta rods.  Mild build may be able to run factory fuel injection system with larger injectors, but for high power builds some sort of computer upgrade is required. With the exception of the 2.8, all should use 135mm rods sourced from a 325i. A much better option is to use the lighter weight rods from M52B28, S52B32 or M54B30 (these are the same part number) without any additional modification.  Aftermarket rods are also available but not necessary for naturally aspirated builds.  The stock rods have been proven over 7500 rpms and hundreds of horsepower.
+
+Non-Eta-based strokers use the forged crankshafts from an M52, S50US, S52US, or M54 engines. These cranks all fit neatly into the M20 block with little modification. Block clearance should be checked and adjusted accordingly especially if using E30 325i rods. The installation of a spacer on the front of the crankshaft is needed to accommodate the front crank seal on the M20 and a different front crank bolt must be used. Sometimes a modified intermediate shaft is used where block clearance issues arise. All of these extra parts should come with any stroker kit sold by a reputable vendor.
+
+Performance will vary depending on what other mods, if any, are made (cams, porting, exhausts etc.)and the quality of tuning.
+
+===2.8===
+
+Option 1: Eta-based (81mm stroke). Same as 2.7 options above except that the block gets bored out to 86mm and custom pistons are used
+
+Option 2: m52 84mm crank with 325i pistons and ETA rods.  This is the only stroker other than the 2.7 to use all stock parts.  Using the m52 crank, 130mm ETA rods and 325i pistons results in the same compression height as a stock 325i, plus the increased displacement results in 9.7:1 compression ratio.  Some have commented that this is a less than ideal rod stroke ratio of 1.54, but in fact the s52 is even worse at 1.51.
+
+===2.9===
+
+Same as 2.8 Option 2 but block bored to 86mm for 2.9 liters of displacement.
+
+===3.0===
+
+Option 1: Block bored to 86mm, 85.8mm S50B30US crank used for 3.0 liters of displacement.
+
+Option 2: Bore unchanged (84mm), Install 89.6mm crank from S52US or M54B30 for 3.0 liters.
+
+===3.15/3.2===
+
+In this option, the block is bored to 86mm and the 89.6mm crank is used for 3.15 liters. It has been reported that engine-builders have bored out as far as 86.4 for an even 3.2 liters but this is beyond the generally accepted design limitations of the M20 block.
+
+===Miscellaneous Performance upgrades===
+
+-Extrude hone intake: an abrasive clay-like material is fed through the manifold to eliminate imperfections deep inside. Costly and worthwhile only if building larger stroker.
+
+-P-Flow/Cold air intake: Will change induction sound to something more throaty but will accomplish little if anything at all on a stock motor since the stock intake is already well designed and located. A badly executed system will do more harm than good while a well-executed one will only yield slight results.
+
+-M30 AFM: Larger flap for more intake airflow. Consists in installing the electronic section of the M20 AFM onto the larger M30 AFM. Tricky to do and difficult to tune correctly. Don't bother unless building larger stroker. Results generally overstated.
+
+-MAF conversion: replaces AFM with hot-wire style MAF on Motronic cars. Needs software to run correctly. Consider only on larger engines.
+
+-M30 injectors: Higher flow injectors generally help prevent mixture from leaning out at higher revs on modified engines. Good easy mod just be sure to be using correct impedance injector for given injection system. As a rule, E34 535i injectors will work with Motronic 1.1/1.3 systems on M20s. Any others should be checked by consulting with Bosch technical help.
+
+-ITBs: Expensive and require extensive custom fabrication and standalone injection system. Not worthwhile unless building a race engine
+
+-Forced induction: Stock internals will handle 5-8 lbs of boost without an intercooler. Dinan used to manufacture just such a system with impressive results. Higher levels of boost are possible but engines should be prepared in conformity with established standards of building forced induction engines. Detonation and adequate fueling and cooling are aspects to consider as well as the M20's propensity toward head-gasket failure particularly under boost.
+
+== Overview ==
+
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=4| [[#M20B20|M20B20]]||rowspan=4|2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in³)||92&nbsp;kW (123&nbsp;hp) @ 5800||165&nbsp;N·m (121&nbsp;ft·lbf) @ 4000|| ||1981
+|-
+|92&nbsp;kW (123&nbsp;hp) @ 5800||170&nbsp;N·m (125&nbsp;ft·lbf) @ 4000|| ||1981
+|-
+|95&nbsp;kW (129&nbsp;hp) @ 6000||174&nbsp;N·m (128&nbsp;ft·lbf) @ 4000||6200||1985
+|-
+|95&nbsp;kW (129&nbsp;hp) @ 6000||164&nbsp;N·m (120&nbsp;ft·lbf) @ 4300||6200||1986
+|-
+|rowspan=2|[[#M20B23|M20B23]]||rowspan=2|2.3&nbsp;L (2316&nbsp;cc/141&nbsp;in³)||102&nbsp;kW (143&nbsp;hp) @ 5300||205&nbsp;N·m (151&nbsp;ft·lbf) @ 4000||6500||1982
+|-
+|110&nbsp;kW (139-150&nbsp;hp) @ 6000||205&nbsp;N·m (151&nbsp;ft·lbf) @ 4000||6500||1983
+|-
+|rowspan=3|[[#M20B25|M20B25]]||rowspan=3|2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)||126&nbsp;kW (168&nbsp;hp) @ 5800||226&nbsp;N·m (166&nbsp;ft·lbf) @ 4000||6700||1985
+|-
+|120&nbsp;kW (170&nbsp;hp) @ 5800||215&nbsp;N·m (158&nbsp;ft·lbf) @ 4000||6700||1985
+|-
+|125&nbsp;kW (168&nbsp;hp) @ 5800||222&nbsp;N·m (163&nbsp;ft·lbf) @ 4300||6700||1987
+|-
+|rowspan=4|[[#M20B27|M20B27]]||rowspan=4|2.7&nbsp;L (2693&nbsp;cc/164&nbsp;in³)||92&nbsp;kW (121&nbsp;hp) @ 4250||240&nbsp;N·m (177&nbsp;ft·lbf) @ 3250||4800||1983
+|-
+|95&nbsp;kW (127&nbsp;hp) @ 4250||240&nbsp;N·m (177&nbsp;ft·lbf) @ 3250||4800||1986
+|-
+|90&nbsp;kW (120&nbsp;hp) @ 4250||230&nbsp;N·m (169&nbsp;ft·lbf) @ 3250||4800||1985
+|-
+|95&nbsp;kW (127&nbsp;hp) @ 4800||230&nbsp;N·m (169&nbsp;ft·lbf) @ 3200||5200||1987
+|}
+
+==See also==
+[[BMW M70]] - Dual-bank M20
+
+== External links ==
+{{commons|BMW M20}}
+* [http://e30world.com/engine/BMW-E30-timing-belt-and-water-pump BMW E30 Timing Belt replacement procedure] Most important maintenance item on BMW M20 motor
+
+{{DEFAULTSORT:Bmw M20}}
+[[Category:BMW engines|M20]]
+
+[[de:BMW M20]]
+[[es:BMW M20]]
+[[it:BMW M20]]
+[[nl:BMW M20]]
+[[no:BMW M20]]
+[[pl:BMW M20]]

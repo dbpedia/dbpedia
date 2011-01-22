@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = network
+| rdfs:range = Broadcast
+}}

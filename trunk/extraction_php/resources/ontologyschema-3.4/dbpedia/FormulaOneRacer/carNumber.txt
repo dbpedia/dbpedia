@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = car number
+|rdfs:domain = FormulaOneRacer
+|rdfs:range = xsd:integer
+}}

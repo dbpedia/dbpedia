@@ -1,0 +1,44 @@
+{{Infobox Automobile
+| name           = Audi Roadjet
+| image          = [[Image:Audi Roadjet Concept.jpg|250px]] ''Audi Roadjet at the 2006<br>North American International Auto Show''
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen Group]]
+| aka            =
+| production     = 
+| assembly       = [[Ingolstadt]], [[Germany]]
+| predecessor    = 
+| successor      = 
+| class          = [[concept car]]
+| body_style     = 5-door [[hatchback]]
+| layout         = [[Front engine]],<br>[[quattro (four wheel drive system)|quattro]] on-demand [[four-wheel drive]]
+| platform       = [[Volkswagen Group A platform#A5 (PQ35)|A5 (PQ35)]]
+| engine         = 3.2L [[VR6 engine|VR6]] [[Fuel Stratified Injection|FSI]]
+| transmission   =
+| wheelbase      =
+| length         =
+| width          =
+| height         =
+| weight         =
+| fuel_capacity  =
+| related        = 
+}}
+The '''Audi Roadjet''' is a [[concept car]] developed by the [[Germany|German]] manufacturer [[Audi]], and was officially unveiled at the 2006 [[North American International Auto Show]] in [[Detroit, Michigan]].  It is a study of a sporty and luxurious mid-size [[hatchback]].
+
+The concept vehicle is particularly notable because it is the first model to feature a newly developed 3.2-liter [[VR6 engine|VR6]] [[Fuel Stratified Injection]] (FSI) [[petrol engine]] with direct fuel injection.  The engine develops a maximum output of {{convert|300|PS|kW hp|0|abbr=on}} at 7,000 rpm and 363 [[newton metre|Nm]] (244 [[ft·lbf]]) of torque at 4,500 rpm, which is reached through the fixed [[intake manifold]] and the innovative [[valve]] control system called Audi Valvelift System.  The Roadjet, also notable to be the first model equipped with the 7-speed [[Direct-Shift Gearbox]], should be able to accelerate from 0 to 100&nbsp;km/h (60 mph) in 6.4 seconds, while its top speed is electronically limited at 250&nbsp;km/h (155 mph).  The vehicle also features Audi's trademark [[four-wheel drive]] system - [[quattro (four wheel drive system)|quattro]].
+
+According to Audi, this study is a technology demonstrator of innovative electronic systems that will be built into the production models in the next few years.
+
+==External links==
+{{Commonscat|Audi concept vehicles}}
+* [http://www.audi.com Audi corporate website]
+
+{{Audi}}
+
+{{DEFAULTSORT:Roadjet}}
+[[Category:Audi vehicles]]
+[[Category:Audi concept vehicles]]
+
+
+{{modern-auto-stub}}
+
+[[pt:Audi Roadjet]]

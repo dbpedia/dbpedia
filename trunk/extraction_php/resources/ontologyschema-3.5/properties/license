@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = license
+| rdfs:domain = Software
+}}

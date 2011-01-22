@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label = management
+|rdfs:domain = ProtectedArea
+}}

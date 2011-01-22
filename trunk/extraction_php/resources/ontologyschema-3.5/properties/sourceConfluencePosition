@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = source confluence position
+| rdfs:range = geo:SpatialThing
+}}

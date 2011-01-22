@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= main organ
+|rdfs:domain	= Organisation
+}}

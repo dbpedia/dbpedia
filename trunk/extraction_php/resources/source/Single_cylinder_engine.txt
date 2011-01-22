@@ -1,0 +1,43 @@
+{{Unreferenced|date=September 2007}}
+[[Image:4-Stroke-Engine.gif|framed|right|150px|[[Four-stroke cycle]] (or Otto cycle)]]
+A '''single cylinder engine''' is the most basic [[reciprocating engine|piston engine]] configuration of an [[internal combustion engine]].  It is often used for [[motorcycle]]s (a large four-stroke single is often colloquially known as a ''[[thumper (motorcycle)|thumper]]'') but has many uses in portable tools, [[garden tool|garden machinery]] and has been used in [[automobile|cars]] and [[tractor]]s.  The [[Cox model engine]] is a well known miniature example.
+
+==Pros and cons==
+[[File:R27-engine.jpg|thumb|left|[[BMW R27]] single-cylinder motorcycle engine]]
+Single cylinder engines are simple and compact, and will normally deliver more [[power (physics)|power]] within a given envelope.  However, they are prone to vibration, unless this is controlled with [[balance shaft]]s.  Rotating mass tends to be high, restricting sharp changes of speed and acceleration.  Cooling is simpler than with multiple cylinders, potentially saving weight.
+
+However, the large unbalanced reciprocating mass limits maximum engine speed and therefore overall power output.  Thus this configuration is usually only seen in smaller engines.
+
+==Uses==
+[[Image:Horex-regina2-in-untertuerkheim.jpg|right|thumb|Motorbike Horex "Regina" with one-cylinder-four-stroke-engine]]
+Early automobiles and motorcycles were all single cylinder, as were engines for marine use.  The configuration remains in widespread use in dirt bikes and is almost exclusively used in portable tools, and garden machinery such as [[lawn mower]]s.
+
+==Racing classes==
+===Off-road===
+*[[Enduro]], [[Hare scrambles]], [[Motocross]], [[Rally raid]], [[Track racing]]
+
+===Street===
+*[[Supermono]], [[Supermoto]], [[Super single]]
+
+===Go-cart===
+*[[Kart racing]], [[crosskart]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.prestonservices.co.uk/marine.htm Images of several single-cylinder marine engines]
+
+{{Piston engine configurations}}
+{{Machine configurations|state=uncollapsed}}
+
+[[Category:Motorcycle engines]]
+[[Category:Two-stroke petrol engines]]
+[[Category:Dirt biking]]
+
+[[ar:محرك ذو أسطوانة واحدة]]
+[[de:Einzylinder]]
+[[ja:単気筒エンジン]]
+[[ru:Одноцилиндровый двигатель]]
+[[tr:Tek silindirli motorlar]]
+[[it:Motore monocilindrico]]

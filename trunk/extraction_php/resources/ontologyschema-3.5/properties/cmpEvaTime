@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = CMP EVA time
+| rdfs:domain = SpaceMission
+| rdfs:range = Time
+}}

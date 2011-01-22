@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = pages
+| rdfs:domain = Book
+| rdfs:range = xsd:integer
+}}

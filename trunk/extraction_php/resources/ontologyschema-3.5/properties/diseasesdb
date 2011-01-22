@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = DiseasesDB
+| rdfs:domain = Disease
+| rdfs:range = xsd:string
+}}

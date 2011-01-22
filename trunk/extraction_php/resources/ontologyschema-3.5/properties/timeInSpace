@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = time in space
+| rdfs:range = Time
+}}

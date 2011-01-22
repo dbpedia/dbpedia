@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= branch
+|rdfs:domain	= MilitaryPerson
+}}

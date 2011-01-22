@@ -1,0 +1,10 @@
+{{TemplateMapping
+| mapToClass = Cave
+| mappings = 
+	{{PropertyMapping | templateProperty = number of entrances | ontologyProperty = numberOfEntrances }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = depth | ontologyProperty = depth | unit = Length }}
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+}}

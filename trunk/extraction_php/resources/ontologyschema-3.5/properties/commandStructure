@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = command structure
+| rdfs:domain = MilitaryUnit
+| rdfs:range = MilitaryUnit
+}}

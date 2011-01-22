@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = issn
+|rdfs:domain = Magazine
+|rdfs:range = xsd:string
+}}

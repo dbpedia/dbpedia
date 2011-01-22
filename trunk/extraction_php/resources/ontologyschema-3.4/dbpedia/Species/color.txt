@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = color
+|rdfs:domain = Species
+|rdfs:range = xsd:string
+}}

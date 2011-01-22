@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = foundation person
+| rdfs:domain = Organisation
+| rdfs:range = Person
+}}

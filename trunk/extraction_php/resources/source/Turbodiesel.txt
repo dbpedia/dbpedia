@@ -1,0 +1,56 @@
+{{Unreferenced|date=April 2008}}
+
+[[Image:Turbocharger-1-.jpg|thumb|a diesel engine turbocharger]]
+
+'''Turbodiesel''' refers to any [[diesel engine]] with a [[turbocharger]]. Turbocharging is the norm rather than the exception in modern car and truck diesel engines. As with any turbocharged engine, turbodiesels can  offer higher specific power outputs, lower emissions levels, improved efficiency and higher refinement levels than their [[naturally aspirated]] counterparts.
+
+==History==
+The [[turbocharger]] was invented in the early 20th century by [[Alfred Büchi]], a [[Switzerland|Swiss]] [[engineer]]. Büchi specifically intended his device to be used on [[diesel engine]]s- his [[patent]] of 1905 noted the efficiency improvements that a turbocharger could bring to diesel engines. At the time metal and [[Bearing (mechanical)|bearing]] technology was not sufficiently advanced to allow a practical turbocharger to be built. The first practical turbodiesels were marine engines fitted to two [[Germany|German]] passenger [[liner]]s- the ''Danzig'' and the ''Preussen'' in 1923, each having two 10-cylinder engines of 2,500 [[horsepower]] (the [[naturally aspirated]] versions of the same engine produced 1,750 HP). By the late 1920s several diesel engine builders were making large turbodiesels for marine and stationary use such as [[Sulzer (manufacturer)|Sulzer Bros.]], [[MAN SE|MAN]] and [[Paxman (engines)|Paxman]].{{Citation needed|date=September 2009}}
+
+Turbocharger technology was improved greatly by developments during [[World War Two]] and subsequent development of the [[gas turbine]]. It was now possible to use smaller turbochargers on smaller, higher-speed engines. [[Diesel locomotive]]s with turbodiesels began appearing in the late 1940s and 1950s (such as the [[ALCO PA]] in the [[United States of America|United States]]).{{Citation needed|date=September 2009}}
+
+Experiments with turbodiesels of a suitable size and speed to be used in an [[automobile]] were carried out in the 1960s. The [[Rover Company]] (already a builder of industrial gas turbines) built experimental 2.5 liter 4-cylinder turbodiesels (including versions with an [[intercooler]] in 1963 but did not put the design into production. The first turbodiesel introduced in a production car in May 1978 in the [[Mercedes-Benz 300|Mercedes-Benz 300SD]] (series [[Mercedes-Benz W116|W116]], engine [[Mercedes-Benz OM617 engine|OM617.950]]), used a [[Garrett AiResearch]] turbocharger and was only produced for the [[United States]]. In [[Europe]], its first application was in the [[Peugeot 604]] in early 1979 (model year 1978). Turbodiesel cars began to be widely built and sold in Europe during the late 1980s and early 1990s, a trend that has continued to the present day.{{Citation needed|date=September 2009}}
+
+==Characteristics==
+Improvements in power, fuel economy and [[Noise, Vibration, and Harshness]] in both small- and large-capacity turbodiesels over the last decade have spurred their widespread adoption in certain markets, notably in Europe where they (as of 2006) make up over 50% of new car registrations. [http://www.economist.com/business/displaystory.cfm?story_id=8082092] Turbodiesels are generally considered more flexible for automotive uses than [[naturally-aspirated]] diesels, which have strong low-speed [[torque]] outputs but lack power at higher speeds. Turbodiesels can be designed to have a more acceptable spread of both power and torque over their speed range or, if being built for commercial use, can be designed to improve either torque or power at a given speed depending on the exact use. Naturally-aspirated diesels, almost without exception, have a lower power output than a petrol engine of the same capacity whilst the same time requiring stronger (and thus heavier) internal components such as the [[piston]]s and [[crankshaft]] to withstand the greater stresses of the diesel engine's operating cycle. These factors give naturally-aspirated diesels a poor power-to-weight ratio. Turbocharger units weigh very little but can offer significant power, torque and efficiency improvements- fitting a turbocharger can bring a diesel engine's power-to-weight ratio up to the same level as an equivalent petrol unit, making turbodiesels desirable for automotive use, where manufacturers aim for comparable power outputs and handling qualities across their range regardless of the type of power unit chosen.
+
+[[Image:Commonrail turbodiesel Mazda3 2007.JPG||thumb|250px|A [[Mazda Axela]] (Mazda 3 outside Japan) with a modern common rail 1.6 liter turbodiesel engine ([[PSA]]) with variable geometry turbocharger, intercooler, 16 valves, double overhead camshafts and 7-stage direct injection.]]
+
+Turbochargers are in many ways more suited to operation in diesel engines. The smaller speed range that Diesel engines work in (between 1000 and 5000&nbsp;[[rpm]] for a private car, and as little as 1000-2500&nbsp;rpm for a larger unit in a [[commercial vehicle]]) mean that the turbocharger has to change speed less, reducing [[turbo lag]] and improving efficiency. [[Diesel engine]]s do not require [[dump valve]]s (see the [[turbocharger]] article for more information). Perhaps most significantly, the diesel engine is immune from detonation because the fuel is not injected until the moment of combustion, so the compression ratio does not have to be reduced, or other anti-detonation measures taken, as would be necessary for a turbocharged spark-ignition engine.The turbodiesel engine can also help with the amount of torque it can give out. Commonly used in trucks, it helps improve the towing capacity of a truck, as well as [[Fuel economy in automobiles|fuel economy]].
+
+==Turbochargers v. Superchargers for Diesel Engines==
+A turbocharger is generally more desirable than a [[supercharger]] unless outright power is required. Turbochargers offer increased power without the same decrease in fuel economy. In both a turbo- and a supercharged engine, power is increased by providing air under pressure to the engine's [[Cylinder (engine)|cylinders]]. This allows an increased amount of [[Diesel fuel|fuel]] to be burnt, producing more power. However, this inevitably increases fuel consumption. A supercharger is driven directly from the engine and thus its boost output is directly related to engine speed. A turbocharger is more directly controlled by the pressure of the [[exhaust]] [[gas]]es which, as well as increasing with engine speed, also vary significantly with engine [[Structural load|load]].
+
+When a diesel engine is put under a load there is greater resistance to the expansion of combustion gases in the cylinder. This increases combustion pressure and temperature which, in turn, increases the pressure and temperature of the exhaust gases. A turbodiesel engine under a heavy load will thus drive its turbocharger at a greater speed than if the same engine is run at the same [[RPM]] under little or no load.
+
+This has the effect that a turbocharger delivers boost, thus increasing power (and fuel consumption) only when such a power increase is demanded by putting the engine under a heavy load. A turbodiesel-powered vehicle accelerating from rest, for example, will put its engine under a heavy load, thus causing high boost pressures to be delivered by the turbocharger. This is detected by the [[fuel injection]] system which delivers more fuel to provide more power. Once the vehicle reaches a constant speed and constant engine RPM load decreases significantly, the pressure of the exhaust gases through the turbo drop, boost and fuel delivery decrease, thus lowering fuel consumption to near the same levels as a [[naturally-aspirated]] diesel engine. If, say, the vehicle starts climbing a gradient, the engine load increases and the turbocharger and fuel system provide more power. Extra fuel is delivered only when needed.
+
+A supercharger delivers near-constant boost pressures, and so fuel consumption suffers. Superchargers have the advantage of having no boost threshold (an RPM level below which a turbocharger does not operate effectively) and almost no lag. Superchargers only need to be connected to the engine's intake system, thus making installation easier and reducing to some extent the increase in internal temperatures that occurs with turbocharging.
+
+Even in engines operating under a constant load (such as [[electrical generators]]), turbochargers have advantages over superchargers. The main advantage is that a turbocharger does not "rob" power from the engine to the same extent that a supercharger does. A supercharger takes power directly from the engine's [[crankshaft]] to drive it- large units can draw up to 10% of the engine's total power when at full boost, although of course, they provide a power increase much greater than this. Turbochargers are driven by the engine's exhaust gases. A smaller power loss is caused by the turbocharger's [[turbine]] restricting the flow of exhaust gases and increasing back-pressure. In a gasoline engine this power-loss is much more pronounced. It is commonly referred to as turbo-lag and is experienced at lower engine speeds. However, since these speeds are where a diesel is most efficient, the turbo spools (spins) very quickly and lag is almost non-existent. The diesel's torque output is increased and a broader range of engine speeds can be used.
+
+[[Image:LR19JTurbo.JPG||thumb|250px|A [[Land Rover]] 2.5-litre 4-cylinder turbodiesel engine is typical of 'first generation' automotive turbodiesels. The turbocharger itself is visible in the upper centre of this picture.]]
+
+==Turbodiesels in the United States==
+During the 1990s, turbodiesel engines were mainly used in the [[United States]] for [[light truck]]s. An example is the [[Ford Power Stroke engine]] series, mounted on [[Ford F-Series]] Super Duty [[pickup truck]]s, the [[Ford E-Series|E-series]] [[van]]s and the [[Ford Excursion|Excursion]] [[sport utility vehicle]]s.
+
+As demand for diesel engines in standard [[Sedan (automobile)|sedan]] and [[station wagon]] cars in the United States has been much lower than in [[Europe]], the development of smaller automotive turbodiesels has (in general) been led by European manufacturers in recent years. [[Diesel fuel]] in the USA (prior to 2006) had a significantly higher level of [[sulphur]] than the fuel used in Europe, which meant that diesel-engined cars from European makers had to either be fitted with specially developed fuel and emissions control system for the (prohibitvely small) North American market, or simply could not be sold in that market.
+
+After [[ultra-low sulfur diesel|ultra low sulphur diesel]] was introduced in the United States in October, 2006 automakers began to offer turbodiesel models which could take advantage of it to reduce emissions. Manufacturers such as [[Volkswagen]] have been releasing cars with four and six-cylinder turbodiesels.
+
+==See also==
+*[[Common rail]]
+*[[Diesel engine]]
+*[[Injection pump]]
+*[[Intercooler]]
+*[[Turbocharger]]
+*[[Variable geometry turbocharger]]
+
+[[Category:Engine technology]]
+[[Category:Engine fuel system technology]]
+[[Category:Diesel engines| ]]
+
+[[da:Turbodiesel]]
+[[de:Turbodiesel]]
+[[ro:Turbodiesel]]
+[[sv:Turbodiesel]]

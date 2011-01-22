@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = Emmy Award
+|rdfs:domain = Artist
+|rdfs:range = Award
+}}

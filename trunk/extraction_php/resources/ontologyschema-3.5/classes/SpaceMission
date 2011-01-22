@@ -1,0 +1,14 @@
+{{Class
+| rdfs:label = Space Mission
+| rdfs:subClassOf = Event
+| specificProperties = {{SpecificProperty | ontologyProperty = mass | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = cmpEvaTime | unit = hour }}
+                       {{SpecificProperty | ontologyProperty = stationevalength | unit = hour }}
+                       {{SpecificProperty | ontologyProperty = lunarSurfaceTime | unit = hour }}
+                       {{SpecificProperty | ontologyProperty = missionDuration | unit = day }}
+                       {{SpecificProperty | ontologyProperty = distanceTraveled | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = lunarOrbitTime | unit = hour }}
+                       {{SpecificProperty | ontologyProperty = stationvisitlength | unit = hour }}
+                       {{SpecificProperty | ontologyProperty = lunarSampleMass | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = lunarEvaTime | unit = hour }}
+}}

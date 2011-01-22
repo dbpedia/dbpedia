@@ -1,0 +1,14 @@
+{{ DBpediaTemplateMapping
+| mapToClass = ShoppingMall
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = shopping_mall_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaPropertyMapping | templateProperty = address | ontologyProperty = Building/address }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = opening_date | ontologyProperty = Building/openingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = closing_date | ontologyProperty = Building/closingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Building/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = architect | ontologyProperty = Building/architect }}
+	{{ DBpediaPropertyMapping | templateProperty = floor_area | ontologyProperty = Building/floorArea | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

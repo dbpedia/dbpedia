@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	
+	<proxy>
+		<url>http://relfinder.dbpedia.org/Proxy.php</url>
+	</proxy>
+	
+	<endpoints>
+		
+		<defaultEndpoint>
+			<name>DBpedia</name>
+			<abbreviation>dbp</abbreviation>
+			<description>Linked Data version of Wikipedia. The DBpedia data set currently provides information about more than 1.95 million “things”, including at least 80,000 persons, 70,000 places, 35,000 music albums, 12,000 films. Provides descriptions in 12 different languages. Altogether, the DBpedia data set consists of (more than) 103 million RDF triples. The data set is interlinked with various other data sources.</description>
+			<endpointURI>http://dbpedia.org/sparql</endpointURI>
+			<defaultGraphURI>http://dbpedia.org</defaultGraphURI>
+			<isVirtuoso>true</isVirtuoso>
+			<useProxy>false</useProxy>
+			<autocompleteURIs>
+				<autocompleteURI>http://www.w3.org/2000/01/rdf-schema#label</autocompleteURI>
+			</autocompleteURIs>
+			<ignoredProperties>
+				<ignoredProperty>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</ignoredProperty>
+				<ignoredProperty>http://www.w3.org/2004/02/skos/core#subject</ignoredProperty>
+				<ignoredProperty>http://dbpedia.org/property/wikiPageUsesTemplate</ignoredProperty>
+				<ignoredProperty>http://dbpedia.org/property/wordnet_type</ignoredProperty>
+			</ignoredProperties>
+		</defaultEndpoint>
+		
+		<endpoint>
+			<name>Linking Open Data (LOD)</name>
+			<abbreviation>lod</abbreviation>
+			<description>Endpoint for the Linking Open Data project.</description>
+			<endpointURI>http://lod.openlinksw.com/sparql</endpointURI>
+			<isVirtuoso>true</isVirtuoso>
+			<useProxy>true</useProxy>
+			<autocompleteURIs>
+				<autocompleteURI>http://www.w3.org/2000/01/rdf-schema#label</autocompleteURI>
+			</autocompleteURIs>
+			<ignoredProperties>
+				<ignoredProperty>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</ignoredProperty>
+				<ignoredProperty>http://www.w3.org/2004/02/skos/core#subject</ignoredProperty>
+				<ignoredProperty>http://dbpedia.org/property/wikiPageUsesTemplate</ignoredProperty>
+				<ignoredProperty>http://dbpedia.org/property/wordnet_type</ignoredProperty>
+			</ignoredProperties>
+		</endpoint>
+		
+		<endpoint>
+			<name>Linking Open Drug Data (LODD)</name>
+			<abbreviation>lodd</abbreviation>
+			<description>Endpoint for the Linking Open Drug Data project</description>
+			<endpointURI>http://hcls.deri.org/sparql</endpointURI>
+			<defaultGraphURI>http://hcls.deri.org/resource/graph/drugbank</defaultGraphURI>
+			<isVirtuoso>false</isVirtuoso>
+			<useProxy>true</useProxy>
+			<autocompleteURIs>
+				<autocompleteURI>http://www.w3.org/2000/01/rdf-schema#label</autocompleteURI>
+			</autocompleteURIs>
+		</endpoint>
+		
+		<endpoint>
+			<name>DBTune</name>
+			<abbreviation>dbt</abbreviation>
+			<description>Provides linked data access for the Jamendo Creative Commons music platform, the Magnatune label, the BBC John Peel sessions, the MySpace data and the AudioScrobbler data. It also hosts a version of MusicBrainz powered by D2R, and interlinked with Lingvoj and DBpedia.</description>
+			<endpointURI>http://api.talis.com/stores/bbc-backstage/services</endpointURI>
+			<isVirtuoso>false</isVirtuoso>
+			<useProxy>true</useProxy>
+			<autocompleteURIs>
+				<autocompleteURI>http://www.w3.org/2000/01/rdf-schema#label</autocompleteURI>
+			</autocompleteURIs>
+		</endpoint>
+		
+		<endpoint>
+			<name>Linked Movie Data Base</name>
+			<abbreviation>lmdb</abbreviation>
+			<description>Aims at publishing the first open linked data dedicated to movies, with high quality and quantity of interlinks to other LOD data sources and movie-related websites.</description>
+			<endpointURI>http://data.linkedmdb.org</endpointURI>
+			<isVirtuoso>false</isVirtuoso>
+			<useProxy>true</useProxy>
+			<autocompleteURIs>
+				<autocompleteURI>http://www.w3.org/2000/01/rdf-schema#label</autocompleteURI>
+				<autocompleteURI>http://xmlns.com/foaf/0.1/name</autocompleteURI>
+				<autocompleteURI>http://xmlns.com/foaf/0.1/Person</autocompleteURI>
+			</autocompleteURIs>
+		</endpoint>
+		
+		<endpoint>
+			<name>DBLP Bibliography Database (Berlin)</name>
+			<abbreviation>dblp</abbreviation>
+			<description>Provides bibliographic information about scientific papers. Size of the data set: 800.000 articles and 400.000 authors, approx. 15 million triples.</description>
+			<endpointURI>http://www4.wiwiss.fu-berlin.de/dblp</endpointURI>
+			<isVirtuoso>false</isVirtuoso>
+			<useProxy>true</useProxy>
+			<autocompleteURIs>
+				<autocompleteURI>http://www.w3.org/2000/01/rdf-schema#label</autocompleteURI>
+			</autocompleteURIs>
+		</endpoint>
+		
+		<endpoint>
+			<name>CIA World Fact Book</name>
+			<abbreviation>ciawfb</abbreviation>
+			<description>D2R Server publishing the CIA Factbook.</description>
+			<endpointURI>http://www4.wiwiss.fu-berlin.de/factbook</endpointURI>
+			<isVirtuoso>false</isVirtuoso>
+			<useProxy>true</useProxy>
+			<autocompleteURIs>
+				<autocompleteURI>http://www.w3.org/2000/01/rdf-schema#label</autocompleteURI>
+			</autocompleteURIs>
+		</endpoint>
+		
+	</endpoints>
+	
+</data>

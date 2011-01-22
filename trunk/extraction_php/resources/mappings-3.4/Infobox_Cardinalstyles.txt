@@ -1,0 +1,5 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Cardinal
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = cardinal name | ontologyProperty = foaf:name }}
+}}

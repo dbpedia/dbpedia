@@ -1,0 +1,165 @@
+{{Infobox Automobile
+|name=Volkswagen K70
+|manufacturer=[[Volkswagen]]
+|production=1970–1974
+|predecessor=none
+|successor=[[Volkswagen Passat]]
+|image=[[File:VW K70 (foto-Mo).jpg|250px|VW K70]]
+|class=[[Mid-size car]]
+| assembly     = [[Salzgitter]]<ref name=Autocar1973>{{cite journal| authorlink = Unsigned| title = News| journal = [[Autocar]]| volume = vol 138 (nbr 3998)| pages = page 14 |date = date 11 January 1973}}</ref>
+|platform=
+|layout=[[FF layout]]
+|body_style=4-door [[sedan (car)|sedan]]
+|engine=1.6&nbsp;L [[I4 engine|I4]]<br> 1.8&nbsp;L [[I4 engine|I4]]
+|wheelbase= {{convert|2690|mm|in|1|abbr=on}}
+|length= {{convert|4455|mm|in|1|abbr=on}}
+|width= {{convert|1665|mm|in|1|abbr=on}}
+|height={{convert|1455|mm|in|1|abbr=on}} 
+|weight= {{convert|1100|kg|lb|0|abbr=on}}
+|designer=[[Claus Luthe]]<ref name=Autocar197111>{{cite journal| authorlink = Edward Eves | title = Designs analysed: The Volkswagen K70| journal = [[Autocar]]| volume = vol 135 (nbr 3945)| pages = pages 36 - 39|date = date 11 November 1971}}</ref>
+}}
+[[Image:Volkswagen K70 Offenbach.JPG|250px|thumb|right|The 1973 facelift involved replacing the rectangular headlights: this distanced the car a little from its NSU origins.]]
+The '''Volkswagen K70''' (pronounced as "ka siebzig" in German) is a [[sedan (car)|sedan]] automobile developed by [[NSU Motorenwerke AG|NSU]] and sold by [[Volkswagen]] from 1970 till February 1975. The K70 was the first VW to have a front-mounted watercooled engine.
+
+==Development as an NSU==
+Designed by [[Claus Luthe]], the K70 was originally developed by NSU as a smaller brother to the more famous [[NSU Ro 80|Ro 80]], the main difference being that the K70 used a conventional piston engine instead of the Ro80's more complicated [[Wankel]] rotary engine. The name "K70" referred to the fact that the engine had a power output of {{convert|70|PS|kW hp|0|abbr=on}}, the "K" denoting the German word "Kolben", meaning piston, in contrast to the "Ro" denoting the Ro 80's rotary engine.
+
+==Postponed launch as a Volkswagen==
+NSU scheduled the car's press launch for March 1969, intending to present it to the wider public at the [[Geneva Motor Show]] of that year.   However, just as the car was about to be launched, well founded rumors appeared concerning the then imminent take over of cash strapped NSU by Volkswagen:  even before the take over had been made public, the K70's future was threatened by management concerns that the K70 was too close in size and price to the recently launched [[Audi 100#Audi 100 C1|Audi 100]].  Plans for the K70 launch were at the last minute deferred, with rumors that Volkswagen personnel removed the K70 from NSU's show stand on the eve of the [[Geneva Motor Show|show]].  Rumours of the 'merger' reflected a reality endorsed at a special NSU shareholders' meeting the took place on 26 April 1969 and which backed the arrangement whereby NSU took over [[Auto Union]] in return for an increase in the NSU share capital issued to [[Volkswagen]].<ref name=Autocar1969>{{cite journal| authorlink = Unsigned| title = News and Views: VW-NSU Merger| journal = [[Autocar]]| volume = 130 (nbr 3813)| pages = page 58 |date = date 13 March 1969}}</ref>   The reality was a take over of NSU by Volkswagen, and during 1969 the Neckarsulm company was integrated with [[Auto Union|Auto-Union/Audi]], which Volkswagen had acquired from [[Daimler Benz]] in 1964. 
+
+VW was nevertheless in desperate need of a new family sedan to replace the commercially unsuccessful [[Volkswagen Type 4|Type 4]], which itself had been intended as a move upmarket for the [[Volkswagen Beetle|Beetle]] based cars. Thinking that the K70, featuring front wheel drive and modern styling, was the perfect way to transform its image, the [[Wolfsburg]] firm quickly scrapped publicity material showing the K70 badged as an NSU, and just over a year later the sedan instead went into production not at [[Neckarsulm]], but at [[Volkswagen|Volkswagen's]] new [[Salzgitter]] plant.  Now branded as a Volkswagen, the K70 finally started coming of the production line with little fanfare in August 1970, and was launched in export markets during the ensuing months.   A launch date for the wagon / estate version, already delayed, was further deferred - indefinitely as it turned out.
+
+==Engine and transmission==
+The K70 as launched featured a four cylinder water cooled engine:  this was a development from the four cylinder engine mounted in the rear of the [[NSU 1200]], its displacement increased to 1605&nbsp;cc. Despite reports that the car's name reflected an output of {{convert|70|PS|kW hp|0|abbr=on}}, the car at launched boasted a claimed {{convert|75|PS|kW hp|0|abbr=on}}. The engine was longitudinally mounted, well forward and placed directly above the [[Differential (mechanical device)#Purpose|differential]], between the front wheels, and canted to the right.  The clutch and gear box were directly behind the [[Differential (mechanical device)|differential]], and the three comprised a compact package which necessitated a relatively high bonnet / hood but which also maximised the proportion of the car's weight carried by the front wheels, and the space available for passengers and their luggage, characteristics that the K70 shared with the NSU Ro 80. Despite this arrangement, accessing or replacing the clutch was possible, using a service ramp, without any need to move the engine or gear box.
+
+Although the look of the K70 was modern, the performance from the engine, especially on the entry level {{convert|75|PS|kW hp|0|abbr=on}} versions, was merely adequate. Comparison with the [[Volkswagen Type 4|411]], which by 1970 had acquired an enlarged engine and [[fuel injection]], was and is hard to avoid. Neither of VW's family middle weight sedans topped the charts for top speed and acceleration, nor for fuel consumption, and the K70's indifferent fuel consumption became an increasingly pressing issue because the car's production run coincided with the [[1973 oil crisis|1973 oil price shock]]. The introduction during 1973 of an 1807&nbsp;cc version with a claimed {{convert|100|PS|kW hp|0|abbr=on}} addressed the most acute performance concerns, and was accompanied by redesigned engine and transmission mountings which were intended to reduce interior noise levels<ref name=Autocar1973/>. The final K70s did out accelerate the final [[Volkswagen Type 4|412]]s, and had a higher maximum speed. But in respect of fuel efficiency, the air-cooled model - at least in manual transmission guise - retained a useful advantage till the end.
+
+==The body==
+Unfashionably tall by contemporary standards, the K70 also benefited from the space saving characteristics of its [[front wheel drive]] layout and compact engine installation. The boxy cabin was unusually spacious and the luggage capacity class leading. The driver sat slightly higher than in competitor vehicles and the large window area conferred above average all-round visibility<ref name=Autocar197111/>.   The relatively large glass area also led to the car carrying an above average proportion of its weight above waist height, however, rendering a wide track particularly important in order to ensure lateral stability<ref name=Autocar197111/>.   
+
+The 1960s was a decade when forward looking manufacturers were highlighting secondary safety features. Those on the K70 included a fuel tank mounted directly ahead of the rear axle and boot/trunk, and within the wheelbase<ref name=Autocar197111/>. As publicity for the [[Mercedes-Benz W116#Safety|Mercedes-Benz S Class]] would stress when that car was launched in 1972, this was the least vulnerable position in terms of the risk of the fuel tank being punctured in the event of a crash.  The steering column was angled in order to reduce the risk of its being pushed too far back into the passenger cabin, and while [[seat belt]]s were an optional extra at least on the domestic market, mounting points for them were standard.
+
+==Commercial==
+For the Volkswagen dealership network, their staff trained over many years to promote and service rear engined air cooled cars, the appearance at relatively short notice of the water cooled front engined K70 presented a challenge.  Although the car was priced below the Audi 100, there was an unavoidable overlap in the market place with the Volkswagen 411. Despite the different badging, some potential buyers may have tarred the K70 with the same brush as its unreliable NSU Ro 80 sister car, leading to poor sales. The K70 was replaced in 1973 by the [[Audi]]-based [[Volkswagen Passat]].
+
+In total, Volkswagen had produced 210,082 K70s before the car was withdrawn from sale in February 1975. An alternative source gives the production total of the K70 as 211,127<ref name=OldtimerKatalogNr23>{{cite journal| authorlink = Günther Zink  (verantwortlich)| title =Oldtimer Katalog| journal = | volume = Nr. 23| pages = Seite 355|date = 2009|isbn = 978-3-86852-067-52009|publisher=HEEL Verlag GmbH|location=Königswinter }}</ref>.
+
+==Data==
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data VW K70 <ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year= 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5| page=67}}</ref>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="16%"|VW K70
+! width="28%"|1600
+! width="28%"|1600S
+! width="28%"|1800S
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1970 - 1974 || align="center" |1970 - 1973 || align="center" |1973 - 1974
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="3" align="center" |[[I4 engine|4-cylinder-inline engine]] ([[four-stroke]]), front-mounted
+|- bgcolor="#EEEEEE"
+| Bore x Stroke:&nbsp; || colspan="2" align="center" |82&nbsp;mm x 76&nbsp;mm || align="center" |87&nbsp;mm x 76&nbsp;mm
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || colspan="2" align="center" |1605 cc || align="center" |1807 cc
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp; || align="center" |{{convert|75|PS|kW hp|abbr=on}} @ 5200 || align="center" |{{convert|90|PS|kW hp|abbr=on}} @ 5200 || align="center" |{{convert|100|PS|kW hp|abbr=on}} @ 5300
+|- bgcolor="#EEEEEE"
+| Max. Torque @ rpm:&nbsp; || align="center" | {{convert|122|Nm|lbft|abbr=on}} @ 3500 || align="center" |{{convert|134|Nm|lbft|abbr=on}} @ 4000 || align="center" | {{convert|152|Nm|lbft|abbr=on}} @ 3750 
+|- bgcolor="#EEEEEE"
+| Compression Ratio:&nbsp; || align="center" |8.0 : 1 || align="center" |9.5 : 1 || align="center" |9.5 : 1
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || colspan="4" align="center" |  single 2bbl-carburetor Solex 40DDH, later 40DDHT
+|- bgcolor="#EEEEEE"
+| Fuel tank capacity:&nbsp; || colspan="3" align="center" |  {{Convert|52|L|usgal impgal|1|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Valvetrain:&nbsp; || colspan="3" align="center" | Overhead camshaft, duplex chain  
+|- bgcolor="#EEEEEE"
+|  Cooling:&nbsp; || colspan="3" align="center" |Water
+|- bgcolor="#EEEEEE"
+| Gearbox:&nbsp; || colspan="3" align="center" |  4-speed-manual, front wheel drive
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || colspan="3" align="center" |  12 volt
+|- bgcolor="#EEEEEE"
+| Front suspension:&nbsp; || colspan="3" align="center" | McPherson axle, coil springs, anti-roll bar
+|- bgcolor="#EEEEEE"
+| Rear suspension::&nbsp; || colspan="3" align="center" | Trailing arms, coils springs, anti-roll bar
+|- bgcolor="#EEEEEE"
+| Brakes:&nbsp; || colspan="3" align="center" | Front discs (Ø 255&nbsp;mm), rear drums, servo-assisted
+|- bgcolor="#EEEEEE"
+| Steering:&nbsp; || colspan="3" align="center" | Rack & pinion
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; ||colspan="3" align="center" | Sheet steel, unibody (monocoque) construction
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || align="center" |{{convert|1060|kg|lb|abbr=on}}|| align="center" |{{convert|1060|kg|lb|abbr=on}} || align="center" |{{convert|1100|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Loaded weight:&nbsp; || align="center" |{{convert|1510|kg|lb|abbr=on}}|| align="center" |{{convert|1510|kg|lb|abbr=on}} || align="center" |{{convert|1560|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || align="center" |{{convert|1390|mm|in|abbr=on}} {{convert|1425|mm|in|abbr=on}} || align="center" |{{convert|1390|mm|in|abbr=on}} {{convert|1425|mm|in|abbr=on}}|| align="center" |{{convert|1390|mm|in|abbr=on}} {{convert|1425|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || align="center" | {{convert|2690|mm|in|abbr=on}} || align="center" |{{convert|2690|mm|in|abbr=on}}|| align="center" |{{convert|2690|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" | {{convert|4420|mm|in|abbr=on}} || align="center" |{{convert|4420|mm|in|abbr=on}}|| align="center" |{{convert|4470|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || align="center" | {{convert|1685|mm|in|abbr=on}} || align="center" |{{convert|1685|mm|in|abbr=on}}|| align="center" |{{convert|1665|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" | {{convert|1450|mm|in|abbr=on}} || align="center" |{{convert|1450|mm|in|abbr=on}}|| align="center" |{{convert|1435|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Tyre/Tire sizes:&nbsp; || align="center" | 165SR14 || align="center" |165SR14 || align="center" |165SR14 
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Top speed:&nbsp; || align="center" |{{convert|148|km/h|mph|abbr=on}} || align="center" |{{convert|158|km/h|mph|abbr=on}}|| align="center" |{{convert|162|km/h|mph|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Fuel Consumption:&nbsp; || align="center" |{{convert|12.5|l/100 km|lk=off }}   || align="center"  |{{convert|13.5|l/100 km|lk=off }}|| align="center" |{{convert|13.5|l/100 km|lk=off }}
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+== References ==
+{{Reflist}}
+
+*{{German|Volkswagen K70|[[2008-04-16]]}}
+
+==External links==
+{{Commons}}
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1950-1979}}
+{{Volkswagen (North America) timeline 1950-1979}}
+
+[[Category:Volkswagen vehicles|K70]]
+[[Category:Sedans]]
+[[Category:Front wheel drive vehicles]]
+[[Category:1970s automobiles]]
+[[Category:Vehicles introduced in 1969]]
+
+[[de:VW K 70]]
+[[es:Volkswagen K70]]
+[[fr:VW K70]]
+[[it:Volkswagen K 70]]
+[[nl:Volkswagen K70]]
+[[ja:フォルクスワーゲン・K70]]
+[[no:Volkswagen K70]]
+[[pl:Volkswagen K70]]
+[[pt:Volkswagen K 70]]
+[[sv:Volkswagen K 70]]

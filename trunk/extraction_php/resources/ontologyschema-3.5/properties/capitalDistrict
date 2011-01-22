@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = capital district
+| rdfs:domain = Island
+| rdfs:range = PopulatedPlace
+}}

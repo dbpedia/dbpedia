@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = hall of fame
+|rdfs:domain = IceHockeyPlayer
+|rdfs:range = xsd:string
+}}

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Stadium
+| rdfs:subClassOf = Building
+}}

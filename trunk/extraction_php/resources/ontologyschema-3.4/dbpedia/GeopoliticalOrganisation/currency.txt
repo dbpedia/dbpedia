@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = currency
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = Currency
+}}

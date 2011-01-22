@@ -1,0 +1,17 @@
+{{TemplateMapping
+| mapToClass = GaelicGamesPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = sport | ontologyProperty = sport }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = placeofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dob | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = dod | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = club | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = clposition | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = clubs | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = clyears | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = clyears | ontologyProperty = activeYearsEndYear }}
+}}

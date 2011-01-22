@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = notable work
+|rdfs:domain = Writer
+|rdfs:range = Book
+}}

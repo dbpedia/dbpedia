@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = appearances in national team
+|rdfs:domain = SoccerPlayer
+|rdfs:range = xsd:integer
+}}

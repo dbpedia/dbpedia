@@ -1,0 +1,28 @@
+{{TemplateMapping
+| mapToClass = SoccerPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = youthyears | ontologyProperty = youthYears }}
+	{{PropertyMapping | templateProperty = youthclubs | ontologyProperty = youthClub }}
+	{{PropertyMapping | templateProperty = years | ontologyProperty = years }}
+	{{PropertyMapping | templateProperty = clubs | ontologyProperty = club }}
+	{{PropertyMapping | templateProperty = nationalyears | ontologyProperty = nationalYears }}
+	{{PropertyMapping | templateProperty = nationalteam | ontologyProperty = nationalTeam }}
+	{{PropertyMapping | templateProperty = manageryears | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = appearancesInLeague | ontologyProperty = appearancesInLeague }}
+	{{PropertyMapping | templateProperty = goalsInLeague | ontologyProperty = goalsInLeague }}
+	{{PropertyMapping | templateProperty = appearancesInNationalTeam | ontologyProperty = appearancesInNationalTeam }}
+	{{PropertyMapping | templateProperty = goalsInNationalTeam | ontologyProperty = goalsInNationalTeam }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = dateofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = cityofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = countryofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dateofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = cityofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = countryofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = currentclub | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = clubnumber | ontologyProperty = currentNumber }}
+}}

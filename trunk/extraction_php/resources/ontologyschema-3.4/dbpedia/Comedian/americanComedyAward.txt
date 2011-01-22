@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = American Comedy Award
+|rdfs:domain = Comedian
+|rdfs:range = Award
+}}

@@ -1,0 +1,322 @@
+{{otheruses4|the class of vehicle drivetrains|other uses|Four by four/Four-wheel drive (disambiguation)}}
+{{Cleanup|date=March 2008}}
+
+[[Image:Jeep Wrangler TJ.jpg|thumb|right|The [[Jeep Wrangler]] is a 4WD vehicle with a transfer case to select low range or high range 4WD.]]
+'''Four-wheel drive''', '''4WD''', '''4x4''' ("four by four"), or AWD ("all wheel drive") is a four-wheeled [[vehicle]] with a [[Powertrain|drivetrain]] that allows all four [[wheel]]s to receive torque from the [[engine]] simultaneously. While many people associate the term with [[off-road vehicle]]s and [[Sport utility vehicle]]s, powering all four wheels provides better control in normal road cars on many surfaces, and is an important part of sport of [[rallying]].
+
+In abbreviations such as '''4x4''', the first figure is normally taken as the total number of wheels and the second is normally taken as the number of powered wheels (the numbers are actually axle-ends to allow for more than one wheel on each end of an axle). 4x2 means a four-wheel vehicle in which engine power is transmitted to only two axle-ends: the front two in [[front-wheel drive]] or the rear two in [[rear-wheel drive]].<ref>[http://4wheeldrive.about.com/cs/offroadingtips/a/aa021401a.htm  Walczak, Jim. "4WD vs 2WD: The Differences Between 4x4 And 4x2"  About.com, undated document], retrieved on October 4, 2008.</ref>
+
+==4WD versus AWD==
+[[File:Differential switches.svg|thumb|right|Selector-switches for locking differentials.<br />The leftmost is for center-differential, whereas the two others are for front- and rear-differentials. In the view of some, it is the ability to lock differentials that distinguishes 4WD from AWD.]]
+The term ''four-wheel drive'' describes [[truck]]-like vehicles that may allow the driver to manually switch (sometimes with an automatic option) between two-wheel drive mode (if available) for streets and four-wheel drive mode for low [[traction (engineering)|traction]] conditions such as ice, mud, snow, slippery surfaces, or loose gravel.<ref>[http://www.helium.com/items/442814-the-difference-between-4x4-and-4x2-vehicles Fullerton, Roger. "The difference between 4x4 and 4x2 vehicles" Helium, undated document], retrieved on October 4, 2008.</ref>
+
+''All-wheel drive'' (AWD) is often used to describe a "full time" 4WD that may be used on dry pavement without damaging the differentials, although the term may be abused when marketing a vehicle.<ref>[http://www.4x4abc.com/4WD101/abc6.html "All wheel drive or AWD" 4x4abc.com, undated document], retrieved on October 4, 2008.</ref> AWD can be used on dry pavement because it employs a center [[Differential (mechanical device)|differential]], which allows each axle to rotate at a different speed.  ("Full-Time" 4WD can be disengaged and the center differential can be locked, essentially turning it into regular 4WD. On the other hand, AWD cannot be disengaged and differentials cannot be locked.<ref>{{cite web | url=http://auto.howstuffworks.com/four-wheel-drive.htm | title=How Four-Wheel Drive Works}}</ref><ref>{{cite web | url=http://www.4x4abc.com/4WD101/def_turnpart.html | title=part time 4WD can not be used on pavement}}</ref>) This eliminates driveline binding, wheel hop, and other driveline issues associated with the use of 4WD on dry pavement. For vehicles with more than four wheels, AWD means all wheels drive the vehicle, to varying degrees of engagement, while 4WD means only four of the wheels drive the vehicle continuously.  For example, an AWD vehicle with six wheels is often described as a 6x6, the  [[M35 2-1/2 ton cargo truck]] being one of the best-known examples (dual wheels on the rear axles are not counted as additional drive wheels).
+
+Identical drivetrain systems are commonly marketed under different names for [[upmarket]] and [[downmarket]] branding and, conversely, different drivetrain systems are commonly marketed under the same name for brand uniformity.  [[Audi]]'s [[quattro (four wheel drive system)|quattro]], [[Mercedes-Benz]]'s [[4Matic]], [[BMW]] with the [[BMW xDrive|xDrive]], and [[Volkswagen]]'s [[4motion]], for example, can mean either an automatically-engaging "on-demand" system with  Borg-Warner ITM 3e magnetic or  [[Haldex Traction]] hidraylic [[clutch]], or a continuously-operating permanent 4WD system with a [[Torsen]] (torque-sensing) or other type of a [[differential (mechanics)|differential]].
+
+==Design==
+[[Image:En 4wd english.png|thumb|left|Sketch of front-engined 4WD]]
+===Differentials===
+[[Image:Lamborghini Murciélago Roadster 2005.JPG|thumb|right|The [[Lamborghini Murciélago]] is a 4WD that powers the front via a [[viscous coupling unit]] if the rear slips.]]
+[[Image:Hmmwv-036.jpg|thumb|right|The [[HMMWV]] is a 4WD/AWD that powers all wheels evenly (continuously) via a manually lockable center differential, with [[Torsen]] differentials for both front and rear.]]
+[[Image:Car rally.jpg|thumb|right|A [[Subaru Impreza]] [[rally car]] uses AWD for traction on loose dirt.]]
+
+When powering two wheels simultaneously the wheels must be allowed to rotate at different speeds as the vehicle goes around curves. The problem is even more complicated when driving all four wheels. A design that fails to account for this will cause the vehicle to handle poorly on turns, fighting the driver as the tires slip and skid from the mismatched speeds.
+
+A [[differential (mechanics)|differential]] allows one input shaft to drive two output shafts independently with different speeds. The differential distributes [[torque]] (angular force) evenly, while distributing [[angular velocity]] (turning speed) such that the average for the two output shafts is equal to that of the input shaft. Each powered axle requires a differential to distribute power between the left and the right sides. When all four wheels are driven, a third differential can be used to distribute power between the front and the rear axles.
+
+The described system handles extremely well, as it is able to accommodate various forces of movement, and distribute power evenly and smoothly; making slippage unlikely. Once it does slip, however, recovery is difficult. If the left front wheel of a 4WD vehicle slips on an icy patch of road, for instance, the slipping wheel will spin faster than the other wheels due to the lower traction at that wheel. Although the amount of torque applied to each wheel will be identical, the amount of traction at each driven wheel will be limited to that of the wheel with the least traction (at least one wheel on ice in this case). This problem can happen in both 2WD and 4WD vehicles, whenever a driven wheel is placed on a surface with little traction or raised off the ground. The simplistic design works acceptably well for 2WD vehicles. It is much less acceptable for 4WD vehicles because 4WD vehicles have twice as many wheels to lose traction, increasing the likelihood that it will happen. 4WD vehicles may also be more likely to be driven on surfaces with reduced traction.
+
+===Limiting slippage===
+[[Traction control system|Traction control]] was invented to solve this problem for 2WD vehicles. When one wheel spins out of control the [[brake]] is automatically applied to that wheel. By preventing one wheel from spinning freely, power is divided between the pavement for the non-slipping wheel and the brake for the slipping wheel. This is an effective solution, although it causes additional brake wear and may cause a sudden jolt that affects handling. By extending traction control to act on all four wheels the simple three-differential 4WD design will see limited wheel spin. This design is commonly seen on luxury [[crossover SUV]]s.
+
+[[Locking differential]]s work by temporarily locking together a differential's output shafts, causing all wheels to turn at the same rate, providing torque in case of slippage. This is generally used for the center differential, which distributes power between the front and the rear axles. While a drivetrain that turns all wheels equally would normally fight the driver and cause handling problems, this is not a concern when wheels are slipping.
+
+The two most common factory-installed locking differentials use either a computer-controlled [[multi-plate clutch]] or [[viscous coupling unit]] to join the shafts, while other differentials more commonly used on off-road vehicles generally use manually operated locking devices. In the multi-plate clutch the vehicle's computer senses slippage and locks the shafts, causing a small jolt when it activates, which can disturb the driver or cause additional traction loss. In the viscous coupling differentials the [[shear stress]] of high shaft speed differences causes a [[dilatant]] fluid in the differential to become solid, linking the two shafts. This design suffers from fluid degradation with age and from [[exponential]] locking behavior. Some designs use gearing to create a small rotational difference which hastens torque transfer.
+
+A third approach to limiting slippage is the Torsen differential. A Torsen differential allows the output shafts to receive different amounts of torque. This design does not provide for traction when one wheel is spinning freely, where there is no torque. It provides excellent handling in less extreme situations. A typical Torsen II differential can deliver up to twice as much torque to the high traction side before traction is exceeded at the lower tractive side.
+
+Finally, many lower-cost vehicles entirely eliminate the center differential. These vehicles behave as 2WD vehicles under normal conditions. When the drive wheels begin to slip, one of the locking mechanisms discussed above will join the front and rear axles. Such systems distribute power unevenly under normal conditions and thus do not help prevent the loss of traction, instead only enabling recovery once traction is lost. Most minivan 4WD/AWD systems are of this type, usually with the front wheels powered during normal driving conditions and the rear wheels served via a viscous coupling unit. Such systems may be described as having a 95/5 or 90/10 power split.
+
+==History==
+[[Image:1903-Spyker-60-HP-1920x1440.jpg|thumb|The 1903 Spyker 60 H.P. 4WD]]
+[[Image:Center differential Jeep Grand Cherokee AWD.jpg|thumb|Center transfer case sending power from the transmission to two output shafts: to the rear axle (visible on the right) as well as to the front axle (on the left side).]]
+[[Image:Transfer lever 4wd gnangarra.jpg|thumb|Selection lever]]
+The true inventor of four-wheel drive is not really known; the history of such was not well recorded. In 1893, before the establishment of a modern automotive industry in Britain, [[England|English]] engineer  [[Bramah Joseph Diplock]] patented a four wheel drive system for a [[traction engine]], including four-wheel steering and three differentials, which was subsequently built.  The development also incorporated Bramah's [[Pedrail wheel]] system in what was one of the first four-wheel drive automobiles to display an intentional ability to travel on challenging road surfaces.  It stemmed from Bramagh's previous idea of developing an engine that would reduce the amount of damage to public roads.
+
+[[Ferdinand Porsche]] designed and built a four-wheel driven [[Electric vehicle]] for the ''k. u. k. Hofwagenfabrik Ludwig Lohner & Co.'' at Vienna in 1899, presented to the public during the 1900 World Exhibition at Paris. The vehicle was powered by an electric [[hub motor]] at each wheel. Although clumsily heavy, the vehicle proved a powerful sprinter and record-breaker in the hands of its owner E.W. Hart. Due to its unusual status the so-called ''[[Lohner-Porsche Mixte Hybrid|Lohner-Porsche]]'' is not widely credited as the first four-wheel driven automobile.
+
+The first four-wheel drive car, as well as hill-climb racer, with internal combustion engine, the ''[[Spyker]] 60 H.P.'', was presented in 1903 by Dutch brothers Jacobus and Hendrik-Jan Spijker of [[Amsterdam]]. The two-seat sports car, which was also the first ever car equipped with a six-cylinder engine, is now an exhibit in the Louwman Collection (the former ''Nationaal Automobiel Museum'') at [[Geertruidenberg|Raamsdonksveer]] in The Netherlands.
+
+Designs for four-wheel drive in the U.S., came from the Twyford Company of [[Brookville, Pennsylvania]] in 1905, six were made there around 1906; one still exists and is displayed annually.<ref>[http://www.novak-adapt.com/knowledge/model_18.htm Novak Conversions&nbsp;&mdash; The Dana Spicer Model 18 Transfer Case<!-- Bot generated title -->]</ref> The second U.S. four-wheel drive vehicle was built in 1908 by (what became) the [[Four Wheel Drive]] Auto Company (FWD) of [[Wisconsin]] (not to be confused with the term "FWD" as an acronym for ''front-wheel drive''). FWD would later produce over 20,000 of its four-wheel drive Model B trucks for the [[United Kingdom of Great Britain and Ireland|British]] and [[United States|American]] armies during [[World War I]]. Thousands of the [[Thomas B. Jeffery Company|Jeffery Quad]] (1913-1919) were similarly used. The [[Reynolds-Alberta Museum]] has a four-wheel drive "[[List of cars#L-N|Michigan]]" car from about 1905 in unrestored storage. The [[Marmon-Herrington|Marmon-Herrington Company]] was founded in 1931  to serve a growing market for moderately priced four-wheel drive vehicles. Marmon-Herrington specialized in converting [[Ford]] trucks to four wheel drive and got off to a successful start by procuring contracts for military aircraft refueling trucks, 4x4 chassis for towing light weaponry, commercial aircraft refueling trucks, and an order from the Iraqi Pipeline Company for what were the largest trucks ever built at the time.
+ 
+[[Daimler-Benz]] also has a history in four-wheel drive. In 1907 the [[Daimler Motoren Gesellschaft]] had built a four-wheel driven vehicle called ''Dernburg-Wagen'', also equipped with [[steering#four-wheel steering|four-wheel steering]], that was used by German colonial civil servant, Bernhard Dernburg, in [[Namibia]]. Mercedes and BMW, in 1926, introduced a rather sophisticated four-wheel drive, the G1, the G4 and G4 following. The 1937 Mercedes-Benz G5 and BMW 325 4x4 featured full time four-wheel drive, four-wheel steering, three locking differentials, and fully independent suspension. They were produced because of a government demand for a four-wheel drive passenger vehicle. The modern G-series/Wolf such as the [[G-Class|G500]] and [[G-Class#Model|G55]] [[Mercedes-AMG|AMG]] still feature some of the attributes, with the exception of fully independent suspension since it hinders suspension articulation. The [[Unimog]] is another Mercedes truck.
+
+It was not until "go-anywhere" vehicles were needed for the military that four-wheel drive found its place. The [[Jeep]], originally developed by [[American Bantam]] but mass-produced by [[Willys]] and Ford, became the best-known four-wheel drive vehicle in the world during [[World War II]].  Willys (since 1950 owner of the Jeep name) introduced the [[Jeep CJ#CJ-2A|CJ-2A]] in 1945 as the first full-production four-wheel drive passenger vehicle. Possibly beaten by the 1938 [[GAZ-61]].
+
+The [[Land Rover]] appeared at the Amsterdam Motor Show in 1948, originally conceived as a stop-gap product for the struggling Rover car company, and despite chronic under-investment succeeded far better than the passenger cars. Land Rover developed a luxury 4WD with the [[Range Rover]] in the 1970s, which, unlike some offerings from other manufacturers, was capable of serious off-road use. The inspiration was a [[Willys MB]] that was frequently run off-road on the farm belonging to chief engineer [[Maurice Wilks]], and was felt that it needed some refinement.
+
+[[Kaiser Jeep]], the successor to Willys, introduced a 4WD wagon called the [[Jeep Wagoneer|Wagoneer]] in 1963. It was revolutionary at the time, not only because of its technical innovations such as an [[independent front suspension]] and the first [[automatic transmission]] with 4WD, but also because it was equipped and finished as a regular passenger automobile. The Super Wagoneer (1966 to 1969) was powered by [[Rambler (automobile)|Rambler]] or [[Buick]] [[V8 engine|V8s]]. Its high level of equipment made it the first "luxury" SUV. [[American Motors]] (AMC) acquired Kaiser's Jeep Division in 1970 and quickly upgraded and expanded the entire line of serious off-road 4WD vehicles. The top range full-size Grand Wagoneer continued to compete with traditional [[Luxury vehicles|luxury cars]]. It was relatively unchanged during its production through 1991, even after [[Chrysler|Chrysler's]] buyout of AMC.
+
+[[Jensen Motors|Jensen]] applied the ''Formula [[Ferguson Research Ltd.|Ferguson]]'' full-time all-wheel drive system to 318 units of their [[Jensen FF]] built from 1966 to 1971, marking the first time 4WD was used in a production GT sports car.<ref>[http://auto.howstuffworks.com/1966-1971-jensen-ff.htm  "1966-1971 Jensen FF" by the Auto Editors of Consumer Guide, not dated]. Retrieved on March 16, 2008.</ref>  While most 4WD systems split torque evenly, the Jensen split torque roughly 40% front, 60% rear by gearing the front and rear at different ratios. [[Subaru]] introduced the mass-produced [[Subaru Leone|Leone]] in 1972 featuring a part-time four-wheel drive systems that could not be engaged on dry pavement. The American Motors Company introduced a full time AWD vehicle the same year as the Subaru in the Jeep Cherokee and Wagoneer with Quadra Trac (1973 model year first models sold in Sept 1972).<ref>[http://auto.howstuffworks.com/1963-1992-jeep-wagoneer-and-grand-wagoneer4.htm Howstuffworks "1967-1977 Jeep Wagoneer"<!-- Bot generated title -->]</ref> It dominated all other makes in FIA rally competition, due to the performance of the full time AWD, which did not require the driver to get out of the vehicle to [[Locking hubs|lock hubs]] or manually select between 2WD and 4WD modes in the car like other American 4-wheel drive vehicles of the period. Drivers Gene Henderson and Ken Pogue won the FIA championship with a Quadra Trac equipped Jeep in 1972 <ref>{{cite web|url=http://en.wikipedia.org/wiki/Press-on-Regardless_Rally |title=Press-on-Regardless Rally - Wikipedia, the free encyclopedia |publisher=En.wikipedia.org |date=2009-04-30 |accessdate=2009-08-01}}</ref>
+
+[[Image:1987 AMC Eagle wagon burgundy-woodgrain NJ.jpg|thumb|1987 AMC Eagle, the wagon was the most popular model]]
+[[Image:1981 AMC Eagle convertible beige NJ.jpg|thumb|1981 AMC Eagle AWD convertible]]
+
+American Motors introduced the innovative [[AMC Eagle|Eagle]] for the 1980 model year.<ref>[http://findarticles.com/p/articles/mi_m3012/is_2_181/ai_70935228 Sherman, Don. "All-Wheel-Drive Revisited: AMC's 1980 Eagle pioneered the cross-over SUV." Automotive Industries, February 2001], retrieved on March 16, 2008.</ref> This was the world's first complete line ([[sedan (car)|sedan]], [[coupe]], and [[station wagon]]) of permanent automatic all-wheel drive passenger models. The new Eagles combined Jeep technology with an existing and proven AMC passenger [[automobile platform]]. They ushered a whole new product category of "sport-utility" or [[Crossover SUV]]. AMC's Eagles came with the comfort and high level appointments expected of regular passenger models and used the off-road technology for an extra margin of safety and traction.<ref>[http://www.nytimes.com/2008/03/09/automobiles/collectibles/09EAGLE.html?_r=1&oref=slogin Sass, Rob, "A Breed of 4-by-4 Hatched on the Fly" The New York Times, March 9, 2008], retrieved on March 16, 2008.</ref>
+
+The Eagle's thick [[viscous]] fluid center differential provided quiet and smooth transfer of power that was directed proportionally to the axle with the greatest traction. This was a true full-time system operating only in four-wheel drive without undue wear on suspension or driveline components. There was no low range in the transfer case. This became the forerunner of the designs that followed from other manufacturers. The automobile press at the time tested the traction of the Eagles and described it as far superior to the Subaru's and that it could beat many so-called off-road vehicles. ''Four Wheeler'' magazine concluded that the AMC Eagle was ''"The beginning of a new generation of cars."''<ref>[http://amxfiles.com/amc/eagle.html 1980-88 AMC Eagle 4wd (Autoweek)<!-- Bot generated title -->]</ref>
+
+The Eagles were popular (particularly in the [[snowbelt]]), had towing capacity, and came in several equipment levels including sport and luxury trims. Two additional models were added in 1981, the sub-compact SX/4 and Kammback. A manual transmission and a front axle-disconnect feature were also made available for greater fuel economy. During 1981 and 1982 a unique [[convertible]] was added to the line. The Eagle's [[monocoque]] body was reinforced for the conversion and had a steel [[targa top|targa bar]] with a removable fiberglass roof section.
+
+The Eagle station wagon remained in production for one model year after Chrysler Corporation acquired AMC in 1987.
+
+[[Audi]] also introduced a permanently all-wheel driven road-going car, the [[Audi Quattro]], in 1980.  Audi's chassis engineer, Jorg Bensinger, had noticed in winter tests in Scandinavia that a vehicle used by the German Army, the [[Volkswagen]] [[Iltis]], could beat any high performance Audi.  He proposed developing a four-wheel drive car, soon used for ''[[rallying]]'' to improve Audi's conservative image, the resulting rally bred Audi Quattro was a famous and historically significant rally car.  This feature was also extended to Audi's production cars and is still available today.
+
+In 1987, [[Toyota]] also developed a car built for competition in rally campaigns.<ref>[http://www.alltrac.net/FAQ.html#origin Celica All Trac and Gt-Four FAQ<!-- Bot generated title -->]</ref> A limited number of road-going [[Fédération Internationale de l'Automobile|FIA]] [[Homologation]] Special Vehicle Celica GT-Fours (otherwise known as [[Toyota Celica]] Turbo All-Trac in some markets) were produced. The All-Trac system was later available on serial production [[Toyota Camry]], [[Toyota Corolla]], and [[Toyota Previa]] models.
+
+Some of the earliest [[mid-engined]] four-wheel drive cars were the various road-legal rally cars made for [[Group B]] homologation, such as the [[Ford RS200]] made from 1984-86. In 1989, niche maker [[Panther Westwinds]] created a [[mid-engined]] four-wheel drive, the [[Panther Solo|Panther Solo 2]].
+
+Today, sophisticated all-wheel drive systems are found in many passenger vehicles and some exotic [[sports car]]s and [[supercar]]s.
+
+==4WD in road racing==
+[[Bugatti]] created a total of three four-wheel drive racers, the [[Bugatti Type 53|Type 53]], in 1932, but the cars were notorious for having poor handling.
+
+[[Ferguson Research Ltd.]] built the front-engine P99 [[Formula One]] car that actually won a non-WC race with [[Stirling Moss]] in 1961.  In 1969, [[Team Lotus]] raced cars in F1, and the [[Indy 500]], that had both turbine engines and 4WD, as well as the 4WD-Lotus 63 that had the standard [[Cosworth]] engine.  [[Matra]] also raced a similar MS84, and [[McLaren (racing)|McLaren]] entered their [[McLaren M9A|M9A]] in the [[1969 British Grand Prix|British Grand Prix]], while engine manufacturers Cosworth produced their own version which was tested but never raced.  All these F1 cars were considered inferior to their RWD counterparts, as the advent of aerodynamic downforce meant that adequate traction could be obtained in a lighter and more mechanically efficient manner, and the idea was discontinued, even though Lotus tried repeatedly.
+
+Nissan and Audi had success with all-wheel drive in road racing with the former's advent of the [[Nissan Skyline GT-R]] in 1989. So successful was the car that dominated the Japanese circuit for the first years of production, going on to bigger and more impressive wins in Australia before weight penalties eventually levied a defacto ban on the car. Most controversially was the win pulled off at the 1990 [[Macau Grand Prix]] where the car led from start to finish. [[Audi]]'s dominance in the [[Trans-Am Series]] in 1988 was equally controversial as it led to a weight penalty mid season and to a rule revision banning all-AWD cars, its dominance in [[supertouring]] eventually led to a [[Fédération Internationale de l'Automobile|FIA]] ban on AWD system in 1998.
+
+==In construction equipment==
+
+[[Image:ExcavatorLoader3654.JPG|thumb|right|A [[Case CE|Case]] [[backhoe loader|loader–backhoe]] equipped with 4WD (note the 4X4 designation on the battery box, the difference in design of the front hubs, and the treaded front tires).]]
+
+During the late 1980s, there was a movement by construction equipment builders to find a way for their equipment to handle any terrain they can drive across. The first to utilize a 4WD system was [[Case CE|Case Corporation]] (then known as J.I. Case Co.), who designed a hearty four-wheel drive system that was instantly tested, and placed on several models of their [[backhoe loader|Loader/Backhoe]] line.  This system was first used in 1987, and has become somewhat of a benchmark in construction equipment. Today, several construction equipment manufacturers offer a 4WD system as an option on their equipment, mostly backhoes.
+
+The 4WD systems on construction equipment are much stronger and larger than their automobile counterparts, incorporating several redundancies in their design, it is also equipped with an external method of lubricating the gears inside of the transfer case, and the front differential, which are both monitored in the cab by temperature gauges, this is to primarily prevent overheating, and welding of the gears in the transfer case.
+
+The change in outer appearance of a loader–backhoe equipped with 4WD is instantly noticeable, mostly in the difference of the front hubs, which are flat in design, instead of having the standard rear drive appearance, with the large cone protruding from the rims. The second noticeable difference is the design of the front tires, which have a tread on them similar to that of the rear tires, but in smaller scale. The final difference is usually the designation "''4x4''", placed somewhere noticeable, usually on either the battery box or the rear fenders.
+
+==Terminology==
+Although in the strictest sense, the term "four-wheel drive" refers to a capability that a vehicle may have, it is also used to denote the entire vehicle itself.  In [[Australia]], vehicles without significant off-road capabilities are often referred to as All-Wheel Drives (AWD) or SUVs, while those with off-road capabilities are referred to as "four-wheel drives". This term is sometimes also used  in [[North America]], somewhat interchangeably for [[SUV]]s and pickup trucks and is sometimes erroneously applied to two-wheel-drive variants of these vehicles.
+
+The term '''4x4''' (read: ''four by four'') was in use to describe North American military four-wheel-drive vehicles by 1940,<ref>Instruction Book: Driving, Maintenance, Repair.  Department of National Defence, Canada.  Ford Motor Company of Canada and General Motors Products of Canada.  1940. [http://bcoy1cpb.pacdat.net/Manual_-_1940_April_DND_pattern_Ford-Chev.jpg], available from [http://bcoy1cpb.pacdat.net/cmp_canadian_military_pattern.htm]</ref> with the first number indicating the ''total'' number of wheels on a vehicle and the second indicating the number of driven wheels.  The term '''4x4''' is common in North America, and is generally used when marketing a new or used vehicle, and is sometimes applied as badging on a vehicle equipped with four-wheel drive.  Similarly, a '''4x2''' would be appropriate for most two-wheel-drive vehicles, and is often used to describe them as a two-wheel drive.  In Australia the term is often used to describe a [[utility vehicle|ute]] that sits very high on its suspension.  This is to avoid the confusion that the vehicle might be a 4x4 because it appears to be otherwise suited to off-road applications.
+
+Large American trucks with dual tires on the rear axles and two driven axles are officially designated as 4x4s, despite having six driven wheels, because the "dual" wheels behave as a single wheel for traction and classification purposes, and are not individually powered.  True '''[[6x6|six-wheel drive]]''' vehicles with three powered axles such as the famous "[[deuce and a half]]" truck used by the [[U.S. Army]] has three axles (two rear, one front), all of them driven.  This vehicle is a true '''6x6''', as is the [[Pinzgauer High Mobility All-Terrain Vehicle|Pinzgauer]], which is popular with defense forces around the globe.
+
+Another related term is ''[[4-wheeler]]'' (or ''four-wheeler'').  This generally refers to [[all-terrain vehicle]]s with four wheels, and does not indicate the number of driven wheels; a "four wheeler" may have two or four-wheel drive.  (In [[CB slang]], truckers refer to any two-axled vehicle as a "four-wheeler," sometimes in a derogatory sense, as distinguished from an "eighteen-wheeler" or [[semi-truck|tractor/trailer]].)
+
+==Unusual four-wheel drive systems==
+Prompted by a perceived need for a simple, inexpensive all-terrain vehicle for oil exploration in North Africa, the [[France|French]] motor manufacturer [[Citroën]] developed the [[Citroën 2CV|2CV]] Sahara.  Unlike other 4x4 vehicles which use a conventional [[transfer case]] to drive the front and rear axle, the Sahara had two engines, each independently driving a separate axle, with the rear engine facing backwards.  The two throttles, clutches and gear change mechanisms could be linked, so both {{Convert|12|hp|kW|0|abbr=on}} {{convert|425|cc|CID|0|abbr=on}} engines could run together, or they could be split and the car driven solely by either engine.  Combined with twin fuel tanks and twin batteries (which could be set up to run either or both engines), the redundancy of two separate drive trains meant that they could make it back to civilization even after major mechanical failures.  Only around 700 of these cars were built, and only 27 are known to exist today.<ref>[http://www.ultimatecarpage.com/frame.php?file=car.php&carnum=1870 Citroën 2CV Sahara - Ultimatecarpage.com - Images, Specifications and Information<!-- Bot generated title -->]</ref>  Enthusiasts have built their own "new" Saharas, by rebuilding a 2CV and fitting the modified engine, gearbox and axle onto a new, strengthened chassis.
+
+[[British Motor Corporation|BMC]] experimented with a twin-engine [[Mini Moke]] (dubbed the "Twini Moke") in the mid-1960s, but never put it into production. This made advantage of the [[Austin Mini|Mini's]] 'power pack' layout, with a transverse engine and the [[gearbox]] in the engine [[sump]]. Simply by fitting a second engine/gearbox unit across the rear, a rudimentary 4x4 system could be produced. Early prototypes had separate gear levers and clutch systems for each engine. Later versions sent for evaluation by the [[British Army]] had more user-friendly linked systems.
+
+In 1965, A. J. M. Chadwick, patented, GB 1113068, a 4WD system that used hemispherical wheels for an all-terrain vehicle. Twenty years later, B. T. E. Warne, patented, GB 2172558, an improvement on Chadwick's design that did not use differential gear assemblies. By using near-spherical wheels with provision to tilt and turn each wheel co-ordinatively, the driven wheels maintain constant traction. Furthermore, all driven wheels steer and, as pairing of wheels is not necessary, vehicles with an odd number of wheels are possible without affecting the system's integrity. Progressive deceleration is made possible by dynamically changing the front-to-rear effective wheel diameter ratios.
+
+[[Suzuki Motors]] introduced the [[Suzuki Escudo]] Pikes Peak Edition in 1996. Earlier Suzuki versions were twin engined, from 1996 on the engine is a twin-turbocharged 2.0&nbsp;L V6, mated to a sequential 6-speed manual transmission.
+
+[[Nissan Motors]] has developed a system called [[Nissan e4WD|E4WD]], wherein the rear wheels, in a car that is normally front-wheel drive, are driven by electric motors. This system was introduced in some variants of the [[Nissan Cube]] and [[Nissan Tiida|Tiida]].  (This is similar to the system used on the [[Ford Escape]] Hybrid AWD.<ref>{{cite web|url=http://www.edmunds.com/ford/escapehybrid/2009/review.html |title=2009 Ford Escape Hybrid Review and Specs |publisher=Edmunds.com |date= |accessdate=2009-08-01}}</ref>)
+
+Chrysler's [[Jeep]] Division debuted the twin engine, {{Convert|670|hp|kW|0|abbr=on}} [[Jeep Hurricane]] concept at the 2005 [[North American International Auto Show]] in [[Detroit]].  This vehicle has a unique "crab crawl" capability, which allows it to rotate 360° in place. This is accomplished by driving the left wheels as a pair and right wheels as a pair, as opposed to driving the front and rear pairs. A central gearbox allows one side to drive in the opposite direction to the other. It also has dual [[Chrysler Hemi engine|Hemi]] V8s.
+
+Some [[hybrid electric vehicle|hybrid vehicles]] such as the [[Lexus]] [[Lexus RX400h|RX400h]] provide power to an AWD system through a pair of electric motors, one to the front wheels and one to the rear. In the case of the AWD model version of the Lexus RX400h (and its Toyota-branded counterpart, the [[Toyota Harrier|Harrier]] hybrid), the front wheels can also receive drive power directly from the vehicle's gasoline engine as well as via the electric motors, whereas the rear wheels derive power only from the second electric motor. Transfer of power is managed automatically by internal electronics based on traction conditions and need, making this an all-wheel drive system.
+
+==4WD and AWD systems by design type==
+[[Image:04-05 Honda CR-V.jpg|thumb|right|Honda CR-V uses a dual pump differential and lockup torque converter]]
+===Center differential with mechanical lock, or other torque transfer features===
+* [[Alfa Romeo 164]] Q4 (central viscous coupling, epicyclic unit and Torsen rear differential)
+* [[Alfa Romeo 155]] Q4 (central epicyclic unit, Ferguson viscous coupling and Torsen rear differential)
+* [[AMC Eagle]] (central viscous coupling)
+* [[Audi]] - [[Audi Quattro|Quattro]] Coupé, 80, 90, 100 & 200 (locking center and rear differentials) - up to 1987
+* [[Audi Q7]] -double pinion 50/50 with lockup clutch pack
+* Ford - Escort (RS 2000 16v 4x4 models and RS Cosworth), Sierra Cosworth, Sierra and Granada 4x4 models, [[Ford Expedition|Expedition & Expedition EL/Max]] (new): center mechanical differential/locking center differential(hi-lo)
+* [[GL-Class|Mercedes GL-Class]]
+* H1 & [[HMMWV]] NVG 242HD AMG open center differential, locked center differential, Neutral, low range locked. Also [[Torsen differential|Torsen1 differential]] at the front and rear axle, The H1 moved to Torsen2 when ABS was added. The H1 Alpha had optional locking differentials in place of torsens
+* Hummer H2, H3 40/60 planetary with lock
+* Jeep Grand Cherokee, Commander ([[Quadra-Drive]] 2 version only for both vehicles)
+* Jeep Liberty, [[Jeep Cherokee]], [[Dodge Durango]] ([[Select-Trac]])- NV 242 transfer case- rear drive, open center differential, locked center differential, Neutral, low range
+* [[Jeep SJ|Full size Jeeps]] with Borg Warner QuadraTrac: limited slip center differential, 50/50 locked center differential. Low range could be used in locked or unlocked mode, allowing for use of low range on pavement.
+* [[Land Rover]] Defender (and [[Land Rover Series|Series III]] [[Rover V8 engine|V8 models]])
+* [[Land Rover]]/[[Land Rover Discovery]]/LR3
+* [[Land Rover Freelander]]/[[Freelander]]
+* [[Lada Niva]] - full-time 4WD using open center diff with manual lock
+* Lexus LX470 -open with lock
+* Lexus RX300 -[[viscous coupling unit|viscous coupling]] across the otherwise open center differential.
+* Mercedes-Benz Unimog (locking center and rear with up to 10 low range gears).
+* [[Mercedes-Benz G-Class]] (locking center and lockers on both front- and rear axle)
+* [[Mitsubishi Pajero]] (also known as Montero or Shogun)
+* Porsche Cayenne ([[Porsche Traction Management]]) 38/62 planetary with lockup clutch pack
+* [[Range Rover]] Classic 1970-1995 all full-time 4WD either plate LSD, manual lock or Ferguson viscous centre differential .
+* Range Rover 2nd Gen. 1994-2002 full-time 4WD Ferguson viscous centre differential
+* Suzuki Grand Vitara -full-time 4WD using limited-slip center differential, off-road 4WD with selectable center differential lock and low range transfer case, [[traction control system|traction control]] and [[electronic stability control]]
+* [[Subaru]] Basic manual transmissions have a 50/50 viscous-type center differential, performance models have a planetary differential with computer regulated lockup. Automatic transmission models utilize an electronically controlled variable transfer clutch.
+* [[Toyota Highlander]] 50/50 viscous-type center differential.
+* [[Toyota Land Cruiser]]
+* [[Toyota Sequoia]] ([[Multi-mode]])
+* [[Volkswagen Touareg]] -double pinion 50/50 with lockup clutch pack
+
+===Torsen center differential===
+*[[Alfa Romeo]]s:
+**[[Alfa Romeo 156|156 Crosswagon]]
+**[[Alfa Romeo 159|159]]
+**[[Alfa Romeo Brera|Brera]], [[Alfa Romeo Brera|Spider]] Q4 ([[Torsen]] T-3)
+*[[Audi]]s with [[quattro (four wheel drive system)|quattro]] - various iterations of Torsen, the latest T-3 will be fitted to all starting from the 2007 [[Audi RS4|B7 RS4]] onwards
+**[[Audi 80|80 & 90]]
+**[[Audi 100|100 & 200]]
+**[[Audi A4|A4]], [[Audi S4|S4]], [[Audi RS4|RS4]]
+**[[Audi A5|A5 & S5]]
+**[[Audi A6|A6]], [[Audi S6|S6]], [[Audi RS6|RS6]]
+**[[Audi A8|A8]], [[Audi S8|S8]]
+**Q5,[[Audi Q7|Q7]]
+*[[Bentley Continental GT]], [[Bentley Continental Flying Spur (2005)]] initially Torsen T-2, current have T-3
+*[[Chevrolet Trailblazer]] SS Torsen T-3
+*[[Lexus GX]]470, [[Toyota Land Cruiser Prado]] 120 Torsen T-3
+*Range Rover 3rd Gen. 2002-2009
+*[[Toyota 4Runner]] (only Limited V8 model & 2010 Limited V6 model) Torsen T-3 with lock
+*[[Toyota FJ Cruiser]] (only manual models) Torsen T-3 with lock
+*[[Toyota Hilux]] Surf Torsen T-3 with lock
+*[[Toyota Land Cruiser]] 200/2008/V8 Torsen T-3 with lock
+*[[Volkswagen|Volkswagen Passenger Cars]] with [[4motion]]:
+**[[Volkswagen Passat]] Torsen T-2 (B5.5 model, not latest B6 model with transverse engine)
+**[[Volkswagen Phaeton]] Torsen T-2
+
+===Non-locking center differential===
+* Cadillac Escalade, STS AWD, SRX AWD (The first two generations had a viscous clutch on the center differential)
+* Chrysler 300C AWD
+* Dodge Magnum, Charger AWD
+* GMC Yukon Denali, XL Denali, Sierra Denali
+* Mercedes [[4MATIC]] cars, R class, and ML class (note some MLs had low range)
+* Toyota Sienna AWD
+
+The above systems function by selectively using the traction control system (via ABS) to brake a slipping wheel.
+
+===Multiple-clutch systems===
+* [[Acura]] RL, RDX  ([[SH-AWD]]) Right and left axle shaft
+* Acura MDX [[SH-AWD]] & VTM4
+* [[Honda]] Ridgeline
+* Honda Pilot
+* Infiniti FX (ATTESA E-TS) 
+* Mitsubishi GTO MR/3000GT VR-4
+* [[Mitsubishi Lancer Evolution]] Series [[Mitsubishi S-AWC|S-AWC]]
+* 2010 Mitsubishi Outlander GT [[Mitsubishi S-AWC|S-AWC]]
+* [[Mitsubishi Outlander]] (2003-2006) independent front and rear axle coupling, and [[Active Center Differential]].
+* [[Nissan GT-R]] (ATTESA E-TS)
+* Nissan Skyline GT-R (ATTESA E-TS and ATTESA E-TS-PRO) front axle coupling, rear differential locking
+* [[Nissan Skyline]] GTS4 ([[ATTESA E-TS]])
+* Nissan A31 Cefiro SE4 ([[ATTESA E-TS]])
+* [[Porsche 959]] PSK front axle coupling, rear differential locking
+* [[Saab 9-3]], [[Saab 9-4X]] ([[Saab XWD]]).
+
+===Multi-plate clutch coupling===
+*[[Audi A3]] quattro, [[Audi TT]] quattro, [[Audi R8]] (with [[Haldex Traction]])
+*[[BMW]]: 3series, 5series, X3, X5 (the initial X5's had a 38/62 planetary center differential)
+*[[Chevrolet Equinox]] (GMPCA)
+*[[Chrysler Pacifica]] ([[BorgWarner]] ITM3e) (on 2007 model)
+*[[Dodge Nitro]] ([[Quadra-Trac]] 1)
+*[[Dodge Caliber]]
+*[[Ford]]: Escape, Freestyle, Edge, Fusion, Five Hundred (Freestyle, FiveHundred [[Haldex Traction]] based)(Escape [[Control Trac II]], based), Explorer (Borg-Warner ITM 3e multi-plate clutch coupling)
+*[[Honda CR-V]], HR-V, Element
+*[[Hyundai Santa Fe]] , [[Hyundai Tucson]]  Borg-Warner ITM 3e magnetic multi-plate clutch coupling
+*[[Hyundai Veracruz]] IMJ magnetic multi-plate clutch coupling  
+*[[Infiniti]]: G35x, M35x
+*[[Jeep Compass]] ([[Freedom Drive]])
+*[[Jeep]]: Grand Cherokee and SRT8 NVG 249, 247
+*[[Land Rover]]: LR2 (also [[Haldex Traction]])<ref>according to Car and Driver Vol52No8 Feb 07 page 110</ref>
+*[[Lamborghini]]: AWD variants VT series (viscous traction)
+*[[Lincoln (automobile)|Lincoln]]: MKS, MKZ
+*[[Mazdaspeed6]] (a power takeoff unit linked to clutch pack with torque sensitive rear differential.)
+*[[Mazda]]: Tribute, CX-7, CX-9 (tribute [[Control Trac II]], based)
+*[[Mercury (automobile)|Mercury]]: Milan, Montego, Mariner (Montego [[Haldex Traction]] based)
+*[[Mitsubishi Outlander]] (current generation)
+*[[Nissan Murano]] automatic with manual lockup switch
+*[[Porsche 911]] AWD variants (a version of [[BorgWarner]] ITM3e)&nbsp;&mdash; excluding the 964-series Porsche 911 Carrera 4 31/69 planetary center differential
+*[[Pontiac Torrent]] (GMPCA)
+*[[Subaru]] low powered automatic transmission models
+*[[Subaru]] [[Legacy]], [[Outback]], [[Impreza]], [[Subaru Forester|Forester]], [[Tribeca]] automatic transmission models: mechanical front drive, clutch coupled rear axle.
+*[[Suzuki]]: SX4, XL7, Aerio
+*[[Toyota RAV4]] (latest model, not older generations)
+*[[Volkswagen Golf]] 4motion, [[Volkswagen Jetta]] 4motion, [[Volkswagen Eos]] 4motion, [[Volkswagen Tiguan]] 4motion, [[Volkswagen Passat]] (B6) 4motion (initially viscous coupling, later with [[Haldex Traction]])
+*[[Volvo]]: S40, S60, S80, V50, V70, XC70, XC90 (Visco system until 2003; then all [[Haldex Traction]]-based)
+
+Note: the above all function like 2WD when multi-plate clutch coupling is not engaged, and like 4WD highrange in a part time 4WD system when the clutch is engaged (usually by computer although some allow manual control).  Some in this category have varying degrees of control in the torque distribution between front and rear via allowing some of the clutches in a multi- plate clutch coupling to engage and slip varying amounts.  An example of a system like this is the BorgWarner [[i-Trac]](TM) system.  Note: the [[Haldex Traction]]-based car list was created from the list on Haldex Traction corporate web site: [http://www.haldex-traction.com/awdclub/carmodels.htm Haldex Cars].  Interestingly, a version of the [[BorgWarner]] ITM3e system is used on 2006 and up Porsche 911TT's.  The Borg-Warner ITM 3e is also used in the 2006-now [[Hyundai Santa Fe]] and the [[Hyundai Tucson]].  In the Hyundais, the ITM 3e acts like an full-time AWD with 95:5 normal torque split.  In extreme conditions the system can be locked in a 50:50 split via the 4WD LOCK button.
+
+===Off-road drive===
+These are vehicles with no center differential, also known as selectable 4WD.  Off-road drive systems may not be driven in 4WD mode on dry pavement, as damage to the transfer case will occur.
+* [[Chevrolet Tahoe]], [[Chevrolet Trailblazer|Trailblazer]] (LT1 and LT3 models only), [[Chevrolet Tracker|Tracker]], [[Chevrolet Suburban|Suburban]], [[Chevrolet Silverado|Silverado]], [[Chevrolet Avalanche|Avalanche]], [[Chevrolet Colorado|Colorado]], [[Chevrolet S-10 Blazer|S-10 series]], [[Chevrolet K5 Blazer|K5 Blazer]] 
+* Dodge Power Wagon (a Ram version with front and rear differential locks)
+* [[Dodge Ram]], [[Dodge Dakota|Dakota]]
+* Dodge Nitro (Quadra-Trac 2)
+* [[Ford F series]] FX4, [[Ford Explorer|Explorer]],  Sport Trac (all control Trac 1)
+* [[Ford Ranger]] (Torsen rear differential)
+* Geo Tracker
+* [[GMC Envoy]], [[GMC Yukon|Yukon]], [[GMC Sierra|Sierra]], [[Chevrolet S-10 Blazer|Jimmy]]
+* [[Infiniti QX56]] (All-mode 4WD) Auto-engages 4WD with slip
+* Isuzu i-series
+* [[Jeep Cherokee]] (Quadra-Trac 2)
+* Jeep Cherokee, [[Jeep Comanche]], [[Jeep Grand Cherokee|Jeep Grand Cherokee (ZJ)]], [[Jeep Liberty]] (Command-Trac)
+* [[Jeep Wrangler]] (Rubicon has a locking front as well as rear)
+* [[Land Rover Series 1,2&3]] (except [[Rover V8 engine|V8]] models)
+* [[Lincoln Navigator]] (slip sensing can shift automatically into 4-high)
+* Lincoln Mark LT
+* Mazda B-series
+* [[Mitsubishi Raider]]
+* [[Nissan Patrol]]
+* [[Nissan Terrano II]]
+* [[Nissan Armada]], [[Nissan Pathfinder|Pathfinder]] (All-mode 4WD) Auto-engages 4WD with slip
+* [[Nissan Titan]], [[Nissan Xterra|Xterra]], [[Nissan Frontier|Frontier]] (rear locker an option)
+* Subaru [[Loyale]], GL/DL, [[Brat]] Front/4wd/4wd lo, [[Justy]]
+* Suzuki [[Suzuki_Escudo|Sidekick]], [[Suzuki_Jimny|Jimny]]
+* [[Toyota Tacoma]] (rear locking differential optional)
+* Toyota Tundra TRD
+* Toyota FJ Cruiser (automatic transmission models) (also locking rear differential)
+* Toyota 4Runner (only SR5 and pre 2010 Limited V6 models, 2010 Trail edition V6 models) (also locking rear differential on 2010 V6)
+
+==See also==
+*[[:Category:All wheel drive vehicles]]
+*[[Limited slip differential]]
+*[[Off-road vehicle]]
+*[[Sport utility vehicle]]
+*[[Dune bashing]]
+*[[Rock crawling]]
+*Audi [[quattro (four wheel drive system)]]
+*Mercedes [[4Matic]]
+*[[Jeep four wheel drive systems]]
+*[[SH-AWD]]
+*[[BMW xDrive]]
+*[[Six-wheel drive]]
+* [[S-AWC]] - a torque vectoring four-wheel drive system from [[Mitsubishi Motors]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|4WD Vehicles}}
+* [http://www.4x4offroads.com/ 4x4 and off road 4 wheeling - 4x4OffRoads.com]
+{{Automobile layouts}}
+
+{{DEFAULTSORT:Four-Wheel Drive}}
+[[Category:Off-road vehicles]]
+[[Category:Automobile layouts]]
+[[Category:Automotive technologies]]
+
+[[ar:دفع رباعي]]
+[[cs:Pohon všech kol]]
+[[da:Firehjulstrækker]]
+[[de:Allradantrieb]]
+[[es:Tracción a las cuatro ruedas]]
+[[fa:چهار چرخ محرک]]
+[[fr:Transmission intégrale]]
+[[ko:4륜구동]]
+[[id:Penggerak 4 roda]]
+[[it:Trazione integrale]]
+[[nl:Vierwielaandrijving]]
+[[ja:四輪駆動]]
+[[no:Firehjulstrekk]]
+[[nn:Firehjulsdrift]]
+[[pl:AWD]]
+[[pt:4x4]]
+[[ru:Полный привод]]
+[[simple:Four-wheel drive]]
+[[sk:4x4]]
+[[fi:Neliveto]]
+[[sv:Allhjulsdrift]]
+[[zh:四轮驱动]]

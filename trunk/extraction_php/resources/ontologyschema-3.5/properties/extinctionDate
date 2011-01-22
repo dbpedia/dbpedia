@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = extinction date
+| rdfs:domain = Organisation
+| rdfs:range = xsd:date
+}}

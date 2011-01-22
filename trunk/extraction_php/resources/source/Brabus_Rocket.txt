@@ -1,0 +1,71 @@
+{{Infobox Automobile
+| image =[[Image:Brabus Rocket Polizei.jpg|250px]] ''Brabus Rocket police version''
+| name = Brabus Rocket
+| manufacturer = [[Brabus]]
+| parent_company =
+| aka =
+| production =
+| assembly =
+| predecessor =[[BRABUS E V12]]
+| successor =
+| class =
+| body_style = 4-door [[saloon (car)|saloon]]
+| layout = [[FR layout]]
+| platform =
+| engine = 6.3 litre [[V12 engine|V12]]<ref name="Edmunds">{{cite web | url = http://www.edmunds.com/insideline/do/News/articleId=117653 | title = Tuner Special: Brabus Rocket Blasts CLS to 730 HP | accessdate = 2008-04-08 | date = 2006-11-21 | publisher = Edmunds, Inc. }}</ref><ref name="evoNews">{{cite web | url = http://www.evo.co.uk/news/evonews/60610/brabus_rocket.html | title = Brabus Rocket | accessdate = 2008-04-08 | date = 2005-10-03 | publisher = Dennis Publishing Limited }}</ref>
+| transmission = 5-speed [[Automatic transmission|automatic]]<ref name="evoNews"/>
+| wheelbase =
+| length =
+| width =
+| height =
+| weight =
+| fuel_capacity =
+| related = [[Mercedes-Benz CLS-Class|Mercedes-Benz CLS]]<ref name="Edmunds"/><ref name="evoNews"/>
+| designer =
+}}
+The '''BRABUS ROCKET''' is a [[saloon (car)|saloon]] modified from a based on the current [[Mercedes-Benz CLS-Class|Mercedes-Benz CLS]] C219.<ref name="Edmunds"/>
+
+==Police car (2006)==
+In the 2006 ''Tune It Safe!'' program created by German Federal Traffic Ministry and the Association of German Automobile Tuners (VDAT), Brabus unveiled a police car version of CLS V12 S Rocket.<ref>[http://www.autoblog.com/2006/11/16/speeders-nightmare-brabus-cls-rocket-police-car/ Speeder's Nightmare: Brabus CLS Rocket police car]</ref>
+
+== Specifications ==
+===Engine===
+{| class="wikitable"
+|-
+!Type!!Power, torque@rpm
+|-
+|{{convert|6233|cc|L cuin|abbr=on}} V12 twin turbo (BRABUS SV12 S)||{{convert|730|PS|kW hp|abbr=on}}@5100, {{convert|1320|Nm|lbft|abbr=on}}@2100, electronically limited to {{convert|1100|Nm|lbft|abbr=on}}@2100<ref name="Edmunds"/><ref name="evoNews"/>
+|}
+
+The engine was modified from a 5.5L V12 engine block (Mercedes-Benz M275), instead of using existing engines for the Mercedes-Benz C219 vehicles.
+
+===Performance===
+{| class="wikitable"
+|-
+!colspan=3|Accelerations (km/h)!!rowspan=2|Top speed
+|-
+!0-100!!0-200!!0-300
+|-
+|4.0||10.5||29.5||{{convert|365.7|km/h|mph|abbr=on}}, electronically limited to {{convert|350|km/h|mph|abbr=on}}
+|}
+
+==Land speed record attempts==
+In 2006, BRABUS ROCKET had reached world record speed for the world's fastest street-legal [[saloon (car)|saloon]] of {{convert|362.4|km/h|mph|abbr=on}}. Later in 2006-10, the vehicle broke its own record by reaching speed of {{convert|365.7|km/h|mph|abbr=on}} in the circular track in [[Nardo]], Southern Italy. The vehicle was registered as ''CLS 500 BRABUS Rocket'' during the attempt.<ref>[http://www.autoblog.com/2006/11/22/brabus-rocket-bests-own-speed-record/ Brabus Rocket bests own speed record]</ref><ref>[http://www.autoblog.com/2006/11/24/video-record-breaking-brabus-rocket/ VIDEO: Record breaking Brabus Rocket]</ref>
+
+The record held on until November 2008, when G-POWER M5 HURRICANE RS reached top speed of {{convert|228.4|mph|km/h|abbr=on}}.<ref>[http://www.autoblog.com/2008/12/22/g-power-takes-4-door-sedan-top-speed-record-with-m5-hurricane-rs/ G-Power takes 4-door sedan top speed record with M5 Hurricane RS]</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*Brabus page: [http://www.brabus.com/en/raster.php?page=3&sub=2&id=3220 English], [http://www.brabus.com/raster.php?page=3&sub=2&id=3220 German]
+
+[[Category:Cars of Germany]]
+[[Category:Rear wheel drive vehicles]]
+
+
+{{Modern-auto-stub}}
+
+[[de:Brabus Rocket]]
+[[hu:Brabus Rocket]]
+[[pl:Brabus Rocket]]

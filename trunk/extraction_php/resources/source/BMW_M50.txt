@@ -1,0 +1,131 @@
+{{Infobox Automobile
+|name=BMW M50 engine
+|manufacturer=[[BMW]]
+|production=1989&ndash;1994
+|predecessor=[[BMW M20]]
+|successor=[[BMW M52]]
+|class=[[Straight-6]]
+|engine=
+|similar=[[Mercedes-Benz M103 engine|Mercedes-Benz M103]]
+}}
+The [[BMW]] '''M50''' is an [[Straight-6|I6]] [[piston engine]].   It was introduced in March 1989 to replace the [[BMW M20]] and was replaced by the [[BMW M52]] in 1995.  Displacement ranges from 2.0&nbsp;L to 3.2&nbsp;L.  It is a [[DOHC]] 24-valve engine.  A '''Technical Update''' or '''M50TU''' version from 1992 introduced [[VANOS]] [[variable valve timing]]. When this technology was introduced, it was known as VACC or Variable Camshaft Control.
+
+The M50 was not related to the [[BMW M20|M20]] though it used the same 91&nbsp;mm cylinder spacing, bore, and stroke at 2.0&nbsp;L and 2.5&nbsp;L.
+{| class=wikitable
+|+Models
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Bore!!Stroke!!Year
+|-
+|rowspan=2|M50B20||rowspan=2|2.0&nbsp;L (1991&nbsp;cc/121&nbsp;in³)||110&nbsp;kW (150&nbsp;hp) @ 6000||190&nbsp;N·m (140&nbsp;ft·lbf) @ 4700||6750||80mm||66mm||1989
+|-
+|110&nbsp;kW (150&nbsp;hp) @ 5900||190&nbsp;N·m (140&nbsp;ft·lbf) @ 4200||6750||80mm||66mm||1992
+|-
+|M50B24||2.4&nbsp;L||138&nbsp;kW (188&nbsp;hp) @ 5900||235&nbsp;N·m (177&nbsp;ft·lbf) @ 4700||6550||84mm||72mm||1989
+|-
+|rowspan=2|M50B25||rowspan=2|2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)||141&nbsp;kW (192&nbsp;hp) @ 6000||245&nbsp;N·m (181&nbsp;ft·lbf) @ 4700||6500||84mm||75mm||1989
+|-
+|141&nbsp;kW (192&nbsp;hp) @ 5900||250&nbsp;N·m (184&nbsp;ft·lbf) @ 4200||6500||84mm||75mm||1992
+|}
+
+==M50B20==
+
+The 2.0&nbsp;L (1991&nbsp;cc) '''M50B20''' was introduced with the 1989 [[BMW 5-Series|520i]].  It has an 80&nbsp;mm bore and 66&nbsp;mm stroke and produces 150&nbsp;hp (110&nbsp;kW). From the '93 model year onwards, the engine received a 'technical update' which included the addition of [[VANOS]] (VAriable NOckenwellen Steuerung), BMW's variable valve timing system, on the intake cam. The engine thereafter became known as the M50TUB20.
+
+Applications:
+* 1990-1993 [[BMW E36|E36]] [[BMW 3-Series|320i]]
+* 1989-1993 [[BMW E34|E34]] [[BMW 5-Series|520i]]
+
+==M50B24==
+
+This is a 2.4&nbsp;L engine based on the 2.5&nbsp;L M50B25, with a reduced stroke. This engine is only fitted to [[CKD|CKD kits]] assembled in [[Thailand]].  Power output is 188&nbsp;hp (140&nbsp;kW) and torque is 134&nbsp;ft·lbf (235&nbsp;Nm).
+
+Applications:
+* 1993-1997 [[BMW E36|E36]] [[BMW 3-Series|3-Series]] (Thai specification)
+* 1993-1997 [[BMW E34|E34]] [[BMW 5-Series|5-Series]] (Thai specification)
+
+==M50B25==
+The 2.5&nbsp;L (2494&nbsp;cc) '''M50B25''' was introduced with the 1991 [[BMW 5-Series|525i/525ix]] .  It has an 84&nbsp;mm bore and 75&nbsp;mm stroke and produces 192 PS (141 kW; 189 hp) @5900 rpm and 245 N·m (181 lb·ft) @4700 rpm.
+
+Applications:
+* 1991-1992 [[BMW E34|E34]] [[BMW 5-Series|525i/525ix]]
+* 1992 [[BMW E36|E36]] [[BMW 3-Series|325i/325is]]
+
+==M50TUB20==
+The M50TUB20 is a technologically upgraded (TU) version of the BMW M50B20, introduced in 1993.  The most notable change present is the inclusion of BMW's VANOS variable cam timing system on the intake cam.  Power output remains identical; however, there is a slight increase in torque at lower and medium rpms.
+
+Applications:
+* 1993-1996 [[BMW E34|E34]] [[BMW 5-Series|520i]]
+* 1993-1998 [[BMW E36|E36]] [[BMW 3-Series|320i]]
+
+==M50TUB25==
+The M50TUB25 is a technologically upgraded (TU) version of the BMW M50B25, introduced in 1993.  The most notable change present is the inclusion of BMW's VANOS variable cam timing system on the intake cam.  Power output remains identical; however, there is a slight increase in torque at lower and medium rpms.
+
+Applications:
+* 1993-1996 [[BMW E34|E34]] [[BMW 5-Series|525i/525ix]]
+* 1993-1998 [[BMW E36|E36]] [[BMW 3-Series|325i/325is]]
+
+==S50B30US==
+
+The '''S50B30US''' was a 3.0&nbsp;L version, which powered the US-spec [[BMW E36|E36]] [[BMW M3|M3]]. Power was 240&nbsp;hp (179&nbsp;kW). Unlike the RoW S50, this engine used a regular M50 intake in lieu of the individual throttle body set up and hydraulic valve lifters in lieu of solid ones. The cylinder head and the VANOS system are also different on the US S50 versus the RoW model; again having more in common with the regular M50 than the Euro S50.
+
+Applications:
+* 1995 [[BMW E36|E36]] [[BMW M3|M3]]
+
+==S50B30==
+
+The '''S50B30''' was a special sports-oriented 3.0&nbsp;L version, which powered the RoW spec [[BMW E36|E36]] [[BMW M3|M3]]. Power is 286&nbsp;hp (210&nbsp;kW). The S50B30 has a bore of 86 mm and a stroke of 85.8 mm, with a total displacement of 2990 cc. The engine has a maximum permissible speed of 7280 rpm +/-80, and a permissible constant speed of 7000 rpm. It used an ITB intake system with an oversized MAF and a tubular exhaust manifold. The cylinder head was unique and the VANOS system was more advanced than the one used on normal M50s.
+
+Applications:
+* 1992-1995 [[BMW E36|E36]] [[BMW M3|M3]]
+
+==S50B32==
+
+The '''S50B32''' was an evolution version of the S50B30. Power of the 3.2&nbsp;L version is {{convert|321|hp|abbr=on}}. This engine has a bore of 86.4 mm and a stroke of 91.0 mm giving a displacement of 3201 cc. It has a maximum permissible speed of 7600  +/-50 rpm, and a permissible constant speed of 7400 rpm.
+
+Applications:
+* 1996-1999 [[BMW E36|E36]] [[BMW M3|M3]]
+* 1997-2000 [[BMW M Roadster|M Roadster]]
+* 1998-2000 [[BMW M Coupe|M Coupe]]
+
+==S54B32==
+{{Infobox Automobile
+|name=BMW S54 engine
+|manufacturer=[[BMW|BMW M GmbH]]
+|production=2001&ndash;2008
+|predecessor=[[BMW M50#S50B32|BMW S50B32]]
+|successor=
+|class=[[Straight-6]]
+|image=[[Image:BMW S54B32 Engine.JPG|250px]]
+|engine=3.2&nbsp;L (3246&nbsp;cc/132&nbsp;in³)<br>252 kW, {{convert|365|Nm|lbft|0|abbr=on}}
+}}
+The '''S54B32''' is a high-performance engine used in [[BMW M]] vehicles. Its block is made from grey cast iron rather than aluminum to achieve greater rigidity from the same dimensions.  It is a 3.2&nbsp;L (3246&nbsp;cc) engine; bore is {{convert|87|mm|in|1|abbr=on}} and stroke is {{convert|91|mm|in|1|abbr=on}}.  Power output is 343&nbsp;hp (256&nbsp;kW) at 7900&nbsp;rpm with 269&nbsp;ft·lb (365&nbsp;Nm) of torque at 4900&nbsp;rpm with an 8000&nbsp;rpm redline.  The US version of this engine required some modifications to meet US emissions standards (such as close-coupled [[catalytic converter]]s closer to the engine exhaust ports) and thus produced slightly less power at 333&nbsp;hp (248&nbsp;kW) and 262&nbsp;ft·lb (355&nbsp;Nm). The Z4 using this engine was rated at 330 HP, while the Z3 that used this engine was rated at 315 HP.
+
+The S54 is the final, most powerful evolution of the M50 engine line, incorporating individual throttle bodies, drive-by-wire throttle control, and variable valve timing ([[VANOS]]) for both intake and exhaust camshafts. 
+
+BMW also produced an even more powerful version of the S54B32, for the limited edition [[BMW_M3#M3_CSL_.28E46.29|E46 M3 CSL]]. This engine lacked a conventional mass airflow meter, and BMW installed modified intake and exhaust camshafts, as well as a more efficient air intake system. This version yielded {{convert|360|hp|abbr=on}} at 7900 rpm with {{convert|273|ft.lbf|N.m|abbr=on}} of torque at 4300 rpm. 
+
+The S54 won the [[International Engine of the Year]] award overall for 2001, and also claimed the "Best New Engine" that year as well as won the 3-4&nbsp;L category for six straight years in a row from 2001 through 2006. The S54 was also on the [[Ward's 10 Best Engines]] list for 2001 through 2004.
+
+Despite its great success and critical acclaim, the S54 was plagued with rod bearing failures in early production. [[BMW]] attempted to blame vehicle owners for the failures early on but eventually started replacing rod [[Bearing (mechanical)|bearing]]s, oil pumps, and whole engines under [[warranty]]. This fault was attributed to a problem with the connecting rod bottom-end bearing shells that were supplied to BMW by a third party that did not meet BMW's specifications. This problem was fully corrected by BMW on engines produced after 06/2003. A recall was issued to retrofit all M3 cars with affected engines to swap to the proper bearing shells. The recall did not include M Roadster or M Coupe cars with affected S54 engines.
+
+BMW has since retired the S54 engine. But it is still used by Wiesmann for their MF3 Roadster.
+
+Applications:
+* 2001-2006 [[BMW M3|E46 M3]]
+* 2001-2002 [[BMW Z3|Z3 M Roadster]]
+* 2001-2002 [[BMW Z3|Z3 M Coupé]]
+* 2006-2008 [[BMW Z4|E85 Z4 M Roadster]] 
+* 2006-2008 [[BMW Z4|E86 Z4 M Coupé]]
+* 2002-.... [[Wiesmann]] Roadster MF3
+
+==Other links==
+
+[[Category:BMW engines|M50]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:BMW M50]]
+[[it:BMW M50]]
+[[nl:BMW M50]]
+[[no:BMW M50]]
+[[pl:BMW M50]]
+[[ru:BMW M50]]

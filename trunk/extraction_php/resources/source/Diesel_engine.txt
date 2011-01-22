@@ -1,0 +1,562 @@
+[[Image:Tatra018.jpg|thumb|Diesel engines in a museum]]
+
+A '''diesel engine'''  is an [[internal combustion engine]] that uses  the heat of compression to initiate [[ignition]] to burn the fuel, which is injected into the [[combustion chamber]] during the final stage of [[compression]]. This is in contrast to a [[petrol engine]] (known as a '''gasoline engine''' in [[North America]]) or [[gas engine]], which uses the [[Otto cycle]], in which a fuel/air mixture is ignited by a [[spark plug]].
+
+It operates using the [[diesel cycle]] (named after [[Rudolf Diesel]]). Diesel engines have the highest [[thermal efficiency]]  of any [[internal combustion|internal]] or [[external combustion]] engine, because of their [[compression ratio]]. Low-speed diesel engines' thermal efficiency exceeds 50%.<ref name=bmmWW>[http://www.manbw.com/engines/TwoStrokeLowSpeedPropMEEngines.asp?model=S80ME-C7.html Low Speed Engines], MAN Diesel.</ref><ref>www.ansys.com/assets/testimonials/siemens.pdf</ref><ref>http://pepei.pennnet.com/display_article/152601/6/ARTCL/none/none/1/New-Benchmarks-for-Steam-Turbine-Efficiency/</ref><ref>http://en.wikipedia.org/wiki/Wärtsilä-Sulzer_RTA96-C</ref><ref>https://www.mhi.co.jp/technology/review/pdf/e451/e451021.pdf</ref>
+
+Diesel engines are manufactured in [[two stroke]] and [[four stroke]] versions. They were originally used as a more efficient replacement for stationary [[steam engine]]s. Since the 1910s they have been used in [[submarine]]s and ships. Use in locomotives, large trucks and electric generating plants followed later. In the 1930s, they slowly began to be used in a few [[automobile]]s. Since the 1970s, the use of diesel engines in larger on-road and [[off-road vehicle]]s in the USA increased. {{As of|2007}}, about 50 percent of all new car sales in Europe are diesel.<ref>{{cite web|title=European Automobile Production Grows by 5.3% in 2007; Diesel Accounts for 53.3% of New Car Registrations|url=http://www.greencarcongress.com/2008/02/european-automo.html}}</ref>
+
+==History==
+{{Main|Rudolf Diesel}}
+
+[[Rudolf Diesel]], of German nationality, was born in 1858 in [[Paris]] where his parents were [[Bavaria]]n immigrants.<ref>Donald E. Thomas - ''Diesel: Technology and Society in Industrial Germany'', University of Alabama Press, 1987, ISBN 0817302956, ISBN 9780817302955</ref> He was educated at [[Technical University of Munich|Munich Polytechnic]]. After graduation he was employed as a refrigerator engineer but his true love lay in engine design. Diesel designed many heat engines, including a solar-powered air engine. In 1893, he published a paper describing an engine with combustion within a [[Cylinder (engine)|cylinder]], the internal combustion engine. In 1894, he filed for a patent for his new invention, dubbed the diesel engine. His engine was the first to prove that fuel could be ignited without a spark. He operated his first successful engine in 1897.
+
+In 1898, Diesel was granted U.S. Patent 608,845 for an "internal combustion engine".
+
+Though best known for his invention of the pressure-ignited heat engine that bears his name, Rudolf Diesel was also a well-respected thermal engineer and a social theorist. Diesel's inventions have three points in common: they relate to heat transfer by natural physical processes or laws; they involve markedly creative mechanical design; and they were initially motivated by the inventor's concept of [[Society|sociological]] needs. Rudolf Diesel originally conceived the diesel engine to enable independent craftsmen and artisans to compete with [[industry]].<ref>Moon, John F. (1974), Rudolf Diesel and the Diesel Engine, London: Priory Press, ISBN 978-0-85078-130-4</ref> 
+
+At [[Augsburg]], on August 10, 1893, Rudolf Diesel's prime model, a single {{convert|10|ft|m|sing=on}} iron cylinder with a [[flywheel]] at its base, ran on its own power for the first time. Diesel spent two more years making improvements and in 1896 demonstrated another model with a theoretical efficiency of 75 percent, in contrast to the 10 percent efficiency of the [[steam engine]]. By 1898, Diesel had become a millionaire. His engines were used to power [[Pipeline transport|pipeline]]s, electric and water plants, automobiles and trucks, and marine craft. They were soon to be used in mines, [[oil field]]s, factories, and transoceanic shipping.
+[[Image:Diesel generator on an oil tanker.jpg|thumb|Diesel generator on an oil tanker]]
+[[Image:Dieselmotor vs.jpg|thumb|A diesel engine built by [[MAN SE|MAN AG]] in 1906]]
+
+==History timeline==
+{{Main|History of the internal combustion engine}}
+
+* 1824: French physicist [[Nicolas Léonard Sadi Carnot]] established the thermodynamic theory of idealized heat engines. This scientifically established the need for compression to increase the difference between the upper and lower working temperatures.
+
+* 1890:  May, [[Herbert Akroyd Stuart]] jointly with Charles Richard Binney obtain patent No. 7146 entitled: "Improvements in Engines Operated by the Explosion of Mixtures of Combustible Vapour or Gas and Air". This patent describes the World's first compression-ignition engine. 
+
+* 1892: Hornsby of Lincoln, England, build the world's first internal combustion engine to run on purely compression ignition. (experimental)
+
+* 1892: February 23, [[Rudolf Diesel]] obtains a patent (RP 67207) titled "Arbeitsverfahren und Ausführungsart für Verbrennungsmaschienen".
+
+* 1893: Diesel's essay titled ''Theory and Construction of a Rational Heat-engine to Replace the Steam Engine and Combustion Engines Known Today''
+ 
+* 1897: On August 10 Diesel builds his first working prototype in Augsburg
+
+* 1898 Diesel licences his engine to [[Branobel]], Russian oil company, that is interested in the engine which can consume non-distilled oil. Branobel's engineers spent 4 years designing ship-mounted engine.
+
+* 1899: Diesel licenses his engine to builders [[Krupp]] and [[Sulzer]], who quickly become major manufacturers.
+
+* 1902: until 1910 [[MAN SE|MAN]] produced 82 copies of the stationary diesel engine.
+
+* 1903: [[Sormovo]] Shipbuilding Yard launches "Vandal" oil-tanker - first ship propelled by diesel engine.
+
+* 1904: The French build the first diesel [[submarine]], the Z.
+
+* 1905: For diesel engines [[turbocharger]]s and [[intercooler]]s were manufactured by Büchl (CH), as well as a [[scroll]] loader from Creux (F) company.
+
+* 1908: [[Prosper L'Orange]] develops with [[Deutz AG|Deutz]] a precisely controlled injection pump with a needle injection nozzle.
+
+* 1909: The prechamber with hemispherical combustion chamber is developed by Prosper L'Orange with [[Benz & Cie.|Benz]].
+
+* 1910: The Norwegian research ship ''[[Fram]]'' is the first ship of the world with a Diesel drive, afterwards ''Selandia'' was the first trading vessel. By 1960 the Diesel drive had displaced [[steam turbine]] and coal fired steam engines.
+
+* 1912: The Danish built first diesel ship MS ''[[Selandia]]''. The first [[locomotive]] with a diesel engine.
+ 
+* 1913: [[United States Navy|U.S. Navy]] submarines use NELSECO units. [[Rudolf Diesel]] died mysteriously when he crossed the [[English Channel]] on the SS ''Dresden''.
+
+* 1914: German [[U-Boat]]s are powered by MAN diesels.
+
+* 1919: Prosper L'Orange obtains a patent on a prechamber insert and makes a needle injection nozzle. First diesel engine from Cummins.
+
+* 1921: Prosper L'Orange builds a continuous variable output [[injection pump]].
+
+* 1922: First vehicle with (pre-chamber) diesel engine is the[[tractor|Agricultural tractor]] type 6 of Mercedes-Benz agricultural tractor OE Benz Sendling.
+
+* 1923: first [[truck]] with diesel engine made by [[MAN SE|MAN]], [[Benz & Cie.|Benz]] and [[Daimler AG|Daimler]] was tested.
+
+* 1924: The introduction on the truck market of the diesel engine by commercial truck manufacturers in the IAA. [[Fairbanks-Morse]] starts building diesel engines.
+
+* 1927: First [[truck]] injection pump and injection nozzles of [[Robert Bosch GmbH|Bosch]]. First passenger car prototype of [[Stoewer]].
+
+* 1930s: [[Caterpillar Inc.|Caterpillar]] starts building diesels for their tractors.
+
+* 1932: Introduction of strongest Diesel truck of the world by MAN with {{convert|160|hp|abbr=on}}.
+ 
+* 1933: of first [[Automobile|passenger cars]] with diesel engine ([[Citroën]] Rosalie), Citroën uses an engine of the English Diesel pioneer sir [[Harry Ricardo]] [http://www.oldengine.org/members/diesel/Misc/Ricardo.htm]. The car does not go into production due to legal restrictions in the use of Diesel engines.
+
+* 1934: First [[turbo]] Diesel engine for [[railway train]] by [[Maybach]].
+
+* 1934–35: [[Junkers (Aircraft)|Junkers Motorenwerke]] in Germany starts production of the Jumo aviation diesel engine family, the most famous of these being the [[Junkers Jumo 205|Jumo 205]], of which over 900 examples are produced by the outbreak of [[World War II]].<ref>{{cite web|url=http://www.iet.aau.dk/sec2/junkers.htm |title=junkers |publisher=Iet.aau.dk |date= |accessdate=2009-05-11}}</ref>
+
+[[Image:Lumbar patent dieselengine.jpg|thumb|[[Rudolf Diesel]]'s 1893 patent on his engine design]]
+
+* 1936: [[Mercedes-Benz]] builds the [[Mercedes-Benz 260 D|260D]] diesel car. [[Atchison, Topeka and Santa Fe Railway|AT&SF]] inaugurates the diesel train [[Super Chief]]. Airship [[Hindenburg (airship)|Hindenburg]] is powered by diesel engines. First series manufactured passenger cars with diesel engine ([[Mercedes-Benz]] 260 D, [[Hanomag]] and [[Saurer]]). [[Daimler Benz]] airship diesel engine 602LOF6 for [[airship]] the LZ129 ''Hindenburg.
+''
+* 1937: BMW 114 (aircraft engine)|BMW 114 experimental airplane diesel engine development.
+
+* 1938: First turbo Diesel engine of [[Saurer]].
+
+* 1944: Development of [[Air cooling]] for diesel engines by [[Deutz AG|Klöckner Humboldt Deutz AG]] (KHD) for the production stage and later also for Magirus Deutz.
+
+* 1953: [[Turbo]] Diesel truck for [[Mercedes]] in small series.
+ 
+* 1954: Turbo-Diesel truck in mass production of [[Volvo]]. First diesel engine with an overhead [[cam shaft]] of [[Daimler Benz]].<ref>| 1954–1959 || W120 (180 D) || 180 D || [[Mercedes-Benz OM636|OM636 VII]] || Dieselvariante des 180, ab 1958 Ausstellfenster. Leistung: 43&nbsp;PS.</ref>
+ 
+* 1968: [[Peugeot]] introduces the [[Peugeot 204|204]], the first small cars with a transversally mounted diesel engine and [[front-wheel drive]].
+
+* 1973: [[DAF]] produces an air-cooled diesel engine.
+
+* 1976 February: Testing of a diesel engine of [[Volkswagen]] for the passenger car Volkswagen Golf. The [[Common Rail]] injection system was developed by the ETH Zurich from 1976 to 1992.
+
+* 1977: The production of the first passenger car turbo-Diesels (Mercedes 300 SD).
+
+* 1983: [[Grasshopper Mowers]] introduces the first zero-turn lawn mower powered by a diesel engine.
+
+* 1985: ATI Intercooler diesel engine from DAF. First Common Rail system with the IFA truck type W50.
+
+* 1986: [[Electronic Diesel Control]] (EDC) of [[Robert Bosch GmbH|Bosch]] with the [[BMW]] 524tD.
+
+* 1987: Most powerful production truck with a {{convert|460|hp|abbr=on}} MAN diesel engine.
+
+* 1988: First [[turbochargers]] with [[direct injection]] in the diesel engine from [[Fiat]].
+
+* 1991: European emission standards [[euro 1]] met with the truck diesel engine of [[Scania (company)|Scania]].
+
+* 1993: Pump nozzle injection introduced in Volvo truck engines.
+
+* 1994: Unit injector system by Bosch for diesel engines.
+
+* 1997: First [[common rail]] in passenger car, [[Alfa Romeo 156]].
+
+* 1998: BMW makes history by winning the 24 Hour Nuerburgring race with the 320d, powered by a two-liter, four-cylinder diesel engine. The combination of high-performance with better fuel efficiency allows the team to make fewer pit stops during the long endurance race.
+
+* 1999: [[euro 3]] of Scania and first [[Common Rail]] truck diesel engine of [[Renault]].
+
+* 2002: A street-driven Dodge Dakota pickup with a 735 horsepower diesel engine built at [[Gale banks engineering]] hauls its own service trailer to the [[Bonneville]] Salt Flats and sets an [[FIA]] land speed record as the world's fastest pickup truck with a one-way run of 222&nbsp;mph and a two-way average of 217&nbsp;mph.
+
+* 2004: In Western Europe, the ratio of passenger cars with diesel engine exceeds 50%. Selective catalytic reduction (SCR) system in Mercedes, Euro 4 with EGR system and particle filters of [[MAN SE|MAN]]. [[Piezoelectric]] injector technology by Bosch.
+
+* 2006: AUDI R10 TDI wins 12 hours running in Sebring and defeats all other engine concepts. [[Euro 5]] for all [[Iveco]] trucks.
+
+* 2008: [[Subaru]] introduces the first [[horizontally-opposed]] diesel engine to be fitted to a passenger car. This is a Euro 5 compliant engine with an [[EGR]] system.
+
+* 2009: [[Volvo]] claims the worlds strongest truck with their FH16 700. An inline 6 cylinder, 16 litre {{convert|700|hp|kW|0|abbr=on}} diesel engine producing {{convert|3150|Nm|lb•ft|abbr=on}} of torque and fully complying with Euro 5 emission standards.<ref>{{cite web|url=http://www.lincah.com/volvo-fh16-700 |title=Volvo FH16 700 - New Car and Used Car Pictures on |publisher=Lincah.com |date=2009-01-09 |accessdate=2009-05-11}}</ref>
+
+==How diesel engines work==
+{{FixBunching|beg}}
+[[Image:Model Engine Luc Viatour.jpg|thumb|Diesel engine model, leftside]]
+{{FixBunching|mid}}
+[[Image:Model Engine B Luc Viatour.jpg|thumb|Diesel engine model, rightside]]
+{{FixBunching|end}}
+{{See also|Diesel cycle}}
+
+The diesel internal combustion engine differs from the [[gasoline]] powered Otto cycle by using a higher compression of the air to ignite the fuel rather than using a spark plug (''compression ignition'' rather than ''spark ignition'').
+
+In the diesel engine, only air is introduced into the combustion chamber. The air is then compressed with a compression ratio typically between 15 and 22 resulting into a 40 bar (about 600 psi) pressure compared to 8 to 14 bar (about 200 psi) in the petrol engine. This high compression heats the air to {{convert|550|°C|°F|abbr=on}}. At about this moment (the exact moment is determined by the fuel injection timing of the fuel system), fuel is injected directly into the compressed air in the combustion chamber. This may be into a (typically toroidal) void in the top of the piston or a ''pre-chamber'' depending upon the design of the engine. The fuel injector ensures that the fuel is broken down into small droplets, and that the fuel is distributed as evenly as possible. The more modern the engine, the smaller, more numerous and better distributed are the droplets. The heat of the compressed air vaporizes fuel from the surface of the droplets. The vapour is then ignited by the heat from the compressed air in the combustion chamber, the droplets continue to vaporise from their surfaces and burn, getting smaller, until all the fuel in the droplets has been burnt. The start of vaporization causes a delay period during ignition, and the characteristic diesel knocking sound as the vapor reaches ignition temperature and causes an abrupt increase in pressure above the piston. The rapid expansion of combustion gases then drives the piston downward, supplying power to the crankshaft.<ref>[[Combined gas law]]</ref>
+
+As well as the high level of compression allowing combustion to take place without a separate ignition system, a high [[compression ratio]] greatly increases the engine's efficiency. Increasing the compression ratio in a spark-ignition engine where fuel and air are mixed before entry to the cylinder is limited by the need to prevent damaging [[pre-ignition#Pre-ignition|pre-ignition]]<!--- detonation occurs after ignition and is more a fuel quality or combustion chamber design issue --->. Since only air is compressed in a diesel engine, and fuel is not introduced into the cylinder until shortly before top dead center ([[TDC]]), premature detonation is not an issue and compression ratios are much higher.
+
+===Early fuel injection systems===
+Diesel's original engine injected fuel with the assistance of compressed air, which atomized the fuel and forced it into the engine through a nozzle (a similar principle to an aerosol spray). The nozzle opening was closed by a pin valve lifted by the camshaft to initiate the fuel injection before top dead center ([[TDC]]). This is called an air-blast injection. Driving the three stage compressor used some power but the efficiency and net power output was more than any other combustion engine at that time.
+
+Diesel engines in service today raise the fuel to extreme pressures by mechanical pumps and deliver it to the combustion chamber by pressure-activated injectors without compressed air. With direct injected diesels, injectors spray fuel through six or more small orifices in its nozzle. The early air injection diesels always had a superior combustion without the sharp increase in pressure during combustion. Research is now being performed and patents are being taken out to once again use some form of air injection to reduce the nitrogen oxides and pollution, reverting to diesel's original implementation with its superior combustion and possibly quieter operation. In all major aspects, the modern diesel engine holds true to Rudolf Diesel's original design, that of igniting fuel by compression at an extremely high pressure within the cylinder. With much higher pressures and high technology injectors present-day diesel engines use the so-called solid injection system applied by [[Herbert Akroyd Stuart]] for his [[hot bulb engine]]. The [[indirect injection]] engine could be considered the latest development of these low speed ''hot bulb'' ignition engines.
+
+===Cold weather===
+==== Starting ====
+
+In cold weather, high speed diesel engines, which are mostly pre-chambered, could be difficult to start because the mass of the cylinder block and cylinder head absorb the heat of compression, preventing ignition due to the higher surface to volume ratio. Pre-chambered engines therefore make use of small electric heaters inside the pre-chambers called [[glowplug]]s. These engines also generally have a higher [[compression ratio]] of 19:1 to 21:1. Low speed and compressed air started larger and intermediate speed diesels do not have glowplugs and compression ratios are around 16:1. Some engines use resistive grid heaters in the [[intake manifold]] to warm the inlet air until the engine reaches operating temperature. Engine block heaters (electric resistive heaters in the engine block) connected to the utility grid are often used when an engine is turned off for extended periods (more than an hour) in cold weather to reduce startup time and engine wear. In the past, a wider variety of cold-start methods were used. Some engines, such as [[Detroit Diesel]] engines and [[Lister-Petter]] engines, used a system to introduce small amounts of [[ether]] into the inlet manifold to start combustion.  [[Saab]] marine engines, [[Field Marshall]] tractors (among others) used slow-burning solid-fuel 'cigarettes' which were fitted into the cylinder head as a primitive glow plug. [[Lucas Industries plc|Lucas]] developed the ''Thermostart'', where an electrical heating element was combined with a small fuel valve in the inlet manifold. Diesel fuel slowly dripped from the valve onto the hot element and ignited. The flame heated the inlet manifold and when the engine was cranked, the flame was drawn into the cylinders to start combustion. [[International Harvester]] developed a tractor in the 1930s that had a 7-[[liter]] 4-cylinder engine which started as a gasoline/petrol engine then ran on diesel after warming up. The cylinder head had valves which opened for a portion of the compression stroke to reduce the effective compression ratio, and a [[magneto (electrical)|magneto]] produced the spark. An automatic ratchet system automatically disengaged the ignition system and closed the valves once the engine had run for 30 seconds. The operator then switched off the petrol fuel system and opened the throttle on the diesel injection system. Recently direct-injection systems advanced to the extent that pre-chambers systems were not needed using a [[common rail]] fuel system with [[electronic fuel injection]].
+
+====Gelling====
+Diesel fuel is also prone to ''waxing'' or ''gelling'' in cold weather; both are terms for the solidification of diesel oil into a partially crystalline state. The crystals build up in the fuel line (especially in fuel filters), eventually starving the engine of fuel and causing it to stop running. Low-output electric heaters in [[fuel tank]]s and around fuel lines are used to solve this problem. Also, most engines have a ''spill return'' system, by which any excess fuel from the injector pump and injectors is returned to the fuel tank. Once the engine has warmed, returning warm fuel prevents waxing in the tank. Due to improvements in fuel technology, with additives waxing rarely occurs in all but the coldest weather when a mix of diesel and [[kerosene]] should be used to run a vehicle.
+
+===Fuel delivery===
+A vital component of all diesel engines is a mechanical or electronic [[governor (device)|governor]] which regulates the idling speed and maximum speed of the engine by controlling the rate of fuel delivery.  Unlike Otto-cycle engines, incoming air is not throttled and a diesel engine without a governor can not have a stable idling speed and can easily overspeed, resulting in its destruction.  Mechanically governed fuel injection systems are driven by the engine's [[gear train]].<ref name=buckman>[http://www.oldengine.org/members/diesel/Ambac/AmbacMenu1.htm American Bosch Diesel Information Service Manual], fig.3-4, 3-5; [http://www.cs.rochester.edu/u/jag/vw/engine/fi/injpump.html Robert Bosch type VE Diesel injection pump]</ref>  These systems use a combination of springs and weights to control fuel delivery relative to both load and speed.<ref name=buckman/>  Modern, electronically controlled diesel engines control fuel delivery by use of an electronic control module (ECM) or electronic control unit ([[electronic control unit|ECU]]).  The ECM/ECU receives an engine speed signal, as well as other operating parameters such as intake manifold pressure and fuel temperature, from a sensor and controls the amount of fuel and start of injection timing through [[actuator]]s to maximize power and efficiency and minimize emissions.  Controlling the timing of the start of injection of fuel into the cylinder is a key to minimizing emissions, and maximizing [[fuel economy in automobiles|fuel economy]] (efficiency), of the engine.  The timing is measured in degrees of crank angle of the [[piston]] before top dead center.  For example, if the ECM/ECU initiates fuel injection when the piston is 10 degrees before [[dead center|TDC]], the start of injection, or timing, is said to be 10° [[BTDC]].  Optimal timing will depend on the engine design as well as its speed and load.
+
+Advancing the start of injection (injecting before the piston reaches TDC) results in higher in-cylinder pressure and temperature, and higher efficiency, but also results in elevated engine noise and increased [[oxides of nitrogen]] (NO<sub>x</sub>) emissions due to higher combustion temperatures.  Delaying start of injection causes incomplete combustion, reduced fuel efficiency and an increase in exhaust smoke, containing a considerable amount of particulate matter and unburned [[hydrocarbon]]s .
+
+===Major advantages===
+<!-- Editors take note!!!  This is just a summary section.  Expanded discussions of most of these items appear later in the article.  These descriptions should not be expanded without a compelling reason, probably discussed on the talk page first.  If there's an advantage not listed here that you think is important, consider whether it is really one of the few major ones that should be listed here, or whether it belongs in the full discussion of advantages later in the article. -->
+
+Diesel engines have several advantages over other internal combustion engines:
+* They burn less fuel than a petrol engine performing the same work, due to the engine's higher temperature of combustion and greater expansion ratio.<ref name="bmmWW"/> Gasoline engines are typically 25% efficient while diesel engines can convert over 30% of the fuel energy into mechanical energy.<ref>Kraushaar, Jack J. & Ristinen, Robert A. (2006). ''Energy and the Environment'' (2nd ed.). New York:  John Wiley & Sons, Inc. ISBN 978-0471739890.</ref>
+* They have no high-tension electrical ignition system to attend to, resulting in high reliability and easy adaptation to damp environments.  The absence of coils, spark plug wires, etc., also eliminates a source of radio frequency emissions which can interfere with navigation and communication equipment, which is especially important in marine and aircraft applications.
+* They can deliver much more of their rated [[engine power|power]] on a continuous basis than a petrol engine.
+* The life of a diesel engine is generally about twice as long as that of a petrol engine<ref>[http://www.thedieselpage.com/mileage.htm When used under identical operating conditions, a diesel engine will likely produce at least twice the engine life of a gas engine.]</ref> due to the increased strength of parts used, also because diesel fuel has better lubrication properties than petrol.
+* Diesel fuel is considered safer than petrol in many applications. Although diesel fuel will burn in open air using a [[candle wick|wick]], it will not explode and does not release a large amount of flammable vapor.  The low vapor pressure of diesel is especially advantageous in marine applications, where the accumulation of explosive fuel-air mixtures is a particular hazard.
+* For any given partial load the fuel efficiency (mass burned per energy produced) of a diesel engine remains nearly constant, as opposed to petrol and turbine engines which use proportionally more fuel with partial power outputs.<ref>{{cite web|url=http://www.centralmainediesel.com/order/H11000E5.asp?page=H11000E5 |title=Triple-Fuel Honda Powered 12 kW Generator |publisher=Centralmainediesel.com |date= |accessdate=2009-05-11}}</ref><ref>{{cite web|url=http://www.dieselserviceandsupply.com/Diesel_Fuel_Consumption.aspx |title=Approximate Diesel Generator Fuel Consumption Chart |publisher=Dieselserviceandsupply.com |date= |accessdate=2009-05-11}}</ref><ref>{{cite web|url=http://www.smokstak.com/forum/showthread.php?t=44995 |title=15.0 jc fuel consumption - Onan Generators |publisher=Smokstak.com |date= |accessdate=2009-05-11}}</ref><ref> Ransome-Wallis, Patrick (2001). Illustrated Encyclopedia of World Railway Locomotives. Courier Dover Publications. p. 32 fg. 5</ref> 
+<!-- Don't add to this list without reading the comment at the top of the list! -->
+* They generate less waste heat in cooling and exhaust.<ref name=bmmWW/><!--more kwh/lbs fuel ,less waste heat; ref = elementary algebra: t= e+w , w= t-e/wdl1961-->
+* With a diesel, boost pressure is limited only by the strength of the engine components, not predetonation of the fuel charge as in petrol engines.
+* The carbon monoxide content of the exhaust is minimal, therefore diesel engines are used in underground mines.<ref>[http://www3.abe.iastate.edu/human_house/aen206.asp Diesel (compression ignition) engines run with an excess of air and often produce less than 1,200 ppm CO.]</ref>
+
+===Mechanical and electronic injection===
+Many configurations of fuel injection have been used over the past century (1900–2000).
+
+Most present day (2008) diesel engines make use of a [[camshaft]], rotating at half crankshaft speed, lifted mechanical single plunger high pressure [[fuel pump]] driven by the engine crankshaft. For each cylinder, its plunger measures the amount of fuel and determines the timing of each injection. These engines use [[injectors]] that are basically very precise spring-loaded valves that open and close at a specific fuel pressure. For each cylinder a plunger pump is connected with an injector with a high pressure fuel line. Fuel volume for each single combustion is controlled by a slanted [[Groove (machining)|groove]] in the plunger which rotates only a few degrees releasing the pressure and is controlled by a mechanical governor, consisting of weights rotating at engine speed constrained by springs and a lever. The injectors are held open by the fuel pressure. On high speed engines the plunger pumps are together in one unit.<ref>{{cite web|url=http://www.firstdiesel.com |title=Diesel injection pumps, diesel injectors, diesel fuel pumps, turbochargers, diesel trucks all at First Diesel Injection LTD |publisher=Firstdiesel.com |date= |accessdate=2009-05-11}}</ref> Each fuel line should have the same length to obtain the same pressure delay.
+
+A cheaper configuration on high speed engines with fewer than six cylinders is to use an axial-piston distributor pump ,consisting of one rotating pump plunger delivering fuel to a valve and line for each cylinder (functionally analogous to points and distributor cap on an [[Otto engine]]).<ref name=buckman/> This contrasts with the more modern method of having a single fuel pump which supplies fuel constantly at high pressure with a [[common rail]] (single fuel line common) to each injector. Each injector has a [[solenoid]] operated by an electronic control unit, resulting in more accurate control of injector opening times that depend on other control conditions, such as engine speed and loading, and providing better engine performance and fuel economy. This design is also mechanically simpler than the combined pump and valve design, making it generally more reliable, and less noisy, than its mechanical counterpart.
+
+Both mechanical and electronic injection systems can be used in either [[direct injection|direct]] or [[indirect injection]] configurations.
+
+Older diesel engines with mechanical injection pumps could be inadvertently run in reverse, albeit very inefficiently, as witnessed by massive amounts of soot being ejected from the air intake. This was often a consequence of push starting a vehicle using the wrong gear. Large ship diesels can run either way.
+
+===Indirect injection===
+{{Main|Indirect injection}}
+An indirect injection diesel engine delivers fuel into a chamber off the [[combustion chamber]], called a pre-chamber or ante-chamber, where combustion begins and then spreads into the main combustion chamber, assisted by [[turbulence]] created in the chamber. This system allows for a smoother, quieter running engine, and because combustion is assisted by turbulence, [[injector]] pressures can be lower, about 100 bar using a single orifice tapered jet injector . Mechanical injection systems allowed high-speed running suitable for road vehicles (typically up to speeds of around 4,000&nbsp;[[revolutions per minute|RPM]]). The pre-chamber had the disadvantage of increasing heat loss to the engine's cooling system, and restricting the combustion burn, which reduced the efficiency by 5%–10%.<ref>Ashley, Steven. "Diesel cars come clean". ''Mechanical Engineering Magazine'', August 1997. "As combustion proceeds from the swirl or prechamber, you get throttle losses and heat losses, which are the major reasons for the lower efficiency compared to DI,"</ref> Indirect injection engines were used in small-capacity, high-speed diesel engines in automotive, marine and construction uses from the 1950s, until direct injection technology advanced in the 1980s. Indirect injection engines are cheaper to build and it is easier to produce smooth, quiet-running vehicles with a simple mechanical system. In road-going vehicles most prefer the greater efficiency and better controlled emission levels of direct injection.
+
+===Direct injection===
+Modern diesel engines make use of one of the following [[Fuel injection#Direct injection|direct injection]] methods:
+
+Direct injection injectors are mounted in the top of the combustion chamber. The problem with these vehicles was the harsh noise that they made. Fuel consumption was about 15 to 20 percent lower than indirect injection diesels, which for some buyers was enough to compensate for the extra noise.
+
+This type of engine was transformed by electronic control of the injection pump, pioneered by the [[Volkswagen Group]] in 1989. The injection pressure was still only around {{convert|300|bar|psi|abbr=on}}, but the injection timing, fuel quantity, [[Exhaust gas recirculation|EGR]] and turbo boost were all electronically controlled. This gave more precise control of these parameters which made refinement more acceptable and emissions lower.
+
+===Unit direct injection===
+{{Main|Unit Injector}}
+Unit direct injection also injects fuel directly into the cylinder of the engine. In this system the injector and the pump are combined into one unit positioned over each cylinder controlled by the camshaft. Each cylinder has its own unit eliminating the high pressure fuel lines, achieving a more consistent injection. This type of injection system, also developed by Bosch, is used by [[Volkswagen]] AG in cars (where it is called a ''[[Pumpe-Düse]]-System''—literally ''pump-nozzle system'') and by Mercedes Benz ("PLD") and most major diesel engine manufacturers in large commercial engines ([[Caterpillar Inc.|CAT]], [[Cummins]], [[Detroit Diesel]], [[Volvo]]). With recent advancements, the pump pressure has been raised to {{convert|2400|bar|psi|abbr=on}}<ref>{{cite web
+| title = Pumpe-Düse-Einspritztechnik
+| accessdate = 2009-05-17
+| url = http://www.volkswagen.de/vwcms/master_public/virtualmaster/de3/unternehmen/mobilitaet_und_nachhaltigkeit/service/glossar_kopie/pumpe-duese-einspritztechnik.index.html
+}}</ref>, allowing injection parameters similar to common rail systems.<ref>{{cite web
+| title = Diesel, The efficient pump injector unit
+| accessdate = 2008-09-30
+| url = http://www.boschautoparts.co.uk/pcDies6.asp?c=2&d=1
+}}</ref>
+
+===Common rail direct injection===
+{{Main|Common rail}}
+
+In common rail systems, the separate pulsing high pressure fuel line to each cylinder injector is also eliminated. Instead, a high-pressure pump pressurizes fuel at up to {{convert|2000|bar|psi|abbr=on}},<ref>[http://www.audi.co.uk/audi/uk/en2/about_audi_ag/news/AUDI_REVEALS_WORLD_S_MOST_POWERFUL_DIESEL_PASSENGER_CAR.html Audi press release]</ref> in a "common rail". The common rail is a tube that supplies each computer-controlled injector containing a precision-machined nozzle and a plunger driven by a [[solenoid]] or [[Piezoelectricity|piezoelectric]] actuator.
+
+==Types==
+=== Early ===
+
+Rudolf Diesel intended his engine to replace the [[steam engine]] as the primary power source for industry. As such, diesel engines in the late 19th and early 20th centuries used the same basic layout and form as industrial steam engines, with long-bore cylinders, external valve gear, cross-head bearings and an open crankshaft connected to a large [[flywheel]]. Smaller engines would be built with vertical cylinders, while most medium- and large-sized industrial engines were built with horizontal cylinders, just as steam engines had been. Engines could be built with more than one cylinder in both cases. The largest early diesels resembled the triple-expansion [[reciprocating engine]] steam engine, being tens of feet high with vertical cylinders arranged in-line. These early engines ran at very slow speeds—partly due to the limitations of their air-blast injector equipment and partly so they would be compatible with the majority of industrial equipment designed for steam engines; maximum speeds of between 100 and 300 [[Revolutions per minute|rpm]] were common. Engines were usually started by allowing compressed air into the cylinders to turn the engine, although smaller engines could be started by hand.<ref>{{cite web|url=http://www.oldengine.org/members/diesel/Marine/othmarin.htm |title=Marine & other Hot-Bulb Oil Engines |publisher=Oldengine.org |date= |accessdate=2009-05-11}}</ref>
+
+In the early decades of the 20th century, when large diesel engines were first being used, the engines took a form similar to the compound steam engines common at the time, with the piston being connected to the connecting rod via a [[crosshead bearing]]. Following steam engine practice some manufactures made double-acting 
+two-stroke and four-stroke diesel engines to increase power output, with combustion taking place on both sides of the piston, with two sets of valve gear and fuel injection. While it produced large amounts of power and was very efficient, the double-acting diesel engine's main problem was producing a good seal where the piston rod passed through the bottom of the lower combustion chamber to the crosshead bearing, and no more were built. By the 1930s turbochargers were fitted to some engines. Crosshead bearings are still used to reduce the wear on the cylinders in large long-stroke main marine engines.
+
+===Modern===
+[[Image:Yanmar 2GM20.JPG|thumb|A [[Yanmar 2GM20]] marine diesel engine, installed in a [[sailboat]].]]
+As with petrol engines, there are two classes of diesel engines in current use: two-stroke and four-stroke. The four-stroke type is the "classic" version, tracing its lineage back to Rudolf Diesel's [[prototype]]. It is also the most commonly used form, being the preferred power source for many motor vehicles, especially buses and trucks. Much larger engines, such as used for [[Diesel locomotive|railroad locomotion]] and [[marine propulsion]], are often two-stroke units, offering a more favorable power-to-weight ratio, as well as better fuel economy. The most powerful engines in the world are two-stroke diesels of mammoth dimensions.<ref>{{cite web|url=http://people.bath.ac.uk/ccsshb/12cyl/ |title=The Most Powerful Diesel Engine in the World |publisher=People.bath.ac.uk |date= |accessdate=2009-05-11}}</ref>
+
+Two-stroke diesel operation is similar to that of petrol counterparts, except that fuel is not mixed with air prior to induction, and the crankcase does not take an active role in the cycle. The traditional two-stroke design relies upon a mechanically driven [[Roots blower|positive displacement blower]] to charge the cylinders with air prior to compression and ignition. The charging process also assists in expelling ([[scavenging]]) [[combustion]] gases remaining from the previous power stroke. The [[archetype]] of the modern form of the two-stroke Diesel is the [[Detroit Diesel]] engine, in which the blower pressurizes a chamber in the engine block that is often referred to as the "air box". The (much larger) [[Electro-Motive Diesel|Electromotive]] [[Prime mover (locomotive)|prime mover]] utilized in EMD [[Diesel-electric locomotive]]s is built to the same principle.
+
+In a two-stroke diesel engine, as the cylinder's [[piston]] approaches the bottom dead center exhaust ports or valves are opened relieving most of the excess pressure after which a passage between the air box and the cylinder is opened, permitting air flow into the cylinder.<ref>standard p-v diagrams.</ref><ref>[[Two-stroke engine]]</ref><ref>http://www.bath.ac.uk/~ccsshb/12cyl/</ref> The air flow blows the remaining combustion gases from the cylinder—this is the scavenging process. As the piston passes through bottom center and starts upward, the passage is closed and compression commences, culminating in fuel injection and ignition. Refer to [[Two stroke#Two-stroke Diesel engines|two-stroke Diesel engines]] for more detailed coverage of aspiration types and supercharging of two-stroke engine.
+
+Normally, the number of cylinders are used in multiples of two, although any number of cylinders can be used as long as the load on the crankshaft is counterbalanced to prevent excessive [[oscillation|vibration]]. The inline-six cylinder design is the most prolific in light to medium-duty engines, though small V8 and larger inline-four displacement engines are also common. Small-capacity engines (generally considered to be those below five litres in capacity) are generally four or six cylinder types, with the four cylinder being the most common type found in automotive uses. Five cylinder diesel engines have also been produced, being a compromise between the smooth running of the six cylinder and the space-efficient dimensions of the four cylinder. Diesel engines for smaller plant machinery, boats, tractors, generators and pumps may be four, three or two cylinder types, with the single cylinder diesel engine remaining for light stationary work. Direct reversible two-stroke marine diesels need at least three cylinders for reliable restarting forwards and reverse. Four-stroke engines need at least six cylinders, providing repeated power strokes at 120 degrees.
+
+The desire to improve the diesel engine's [[power-to-weight]] ratio produced several novel cylinder arrangements to extract more power from a given capacity. The [[opposed-piston engine]] uses two pistons in one cylinder with the combustion cavity in the middle and gas in- and outlets at the ends. This makes a comparatively light, powerful, swiftly running and economic engine suitable for use in aviation. An example is the [[Junkers Jumo 204|Junkers Jumo 204/205]]. The [[Napier Deltic]] engine, with three cylinders arranged in a triangular formation, each containing two opposed-action pistons, the whole engine having three crankshafts, is one of the better known. The [[Commer]] van company of the United Kingdom used a similar design for road vehicles, designed by Tillings-Stevens, member of the [[Rootes Group]], the TS3. The Commer TS3 engine had 3 horizontal in-line cylinders, each with two opposed action pistons that worked through rocker arms, to connecting rods and had one crankshaft. While both these designs succeeded in producing greater power for a given capacity, they were complex and expensive to produce and operate, and when turbocharger technology improved in the 1960s, this was found to be a much more reliable and simple way of extracting more power.
+
+===Gas generator===
+{{Main|Free-piston engine}}
+As a footnote, prior to 1950, [[Sulzer (manufacturer)|Sulzer]] started experimenting with two-stroke engines with boost pressures as high as 6 [[Atmosphere (unit)|atmosphere]]s, in which all of the output power was taken from an exhaust [[gas turbine]]. The two-stroke pistons directly drove air compressor pistons to make a positive displacement gas generator. Opposed pistons were connected by linkages instead of crankshafts. Several of these units could be connected together to provide power gas to one large output turbine. The overall thermal efficiency was roughly twice that of a simple gas turbine.<ref> ''Modern High-Speed Oil Engines, Volume II'' by C. W. Chapman, published by The Caxton Publishing Co. Ltd. Reprinted in July 1949</ref> This system was derived from [[Raúl Pateras Pescara]]'s work on free-piston engines in the 1930s.
+
+==Advantages and disadvantages versus spark-ignition engines==
+=== Power and fuel economy ===
+The [[MAN B&W Diesel|MAN]] S80ME-C7 low speed diesel engines use 155 gram fuel per kWh for an overall energy conversion efficiency of 54.4%, which is the highest conversion of fuel into power by any [[internal combustion|internal]] or [[external combustion]] engine.<ref name=bmmWW/> Diesel engines are more efficient than petrol (petrol) engines of the same power, resulting in lower fuel consumption. A common margin is 40% more [[miles per gallon]] for an efficient [[turbodiesel]]. For example, the current model [[Škoda Octavia]], using [[Volkswagen Group]] engines, has a combined Euro rating of 6.2&nbsp;L/100&nbsp;km (38 miles per US gallon, 16&nbsp;km/L) for the 102&nbsp;[[Brake horsepower|bhp]] (76&nbsp;kW) petrol engine and 4.4&nbsp;L/100&nbsp;km (54&nbsp;mpg) for the 105&nbsp;bhp (78&nbsp;kW) diesel engine. However, such a comparison doesn't take into account that diesel fuel is denser and contains about 15% more energy by volume. Although the [[Heat of combustion|calorific value]] of the fuel is slightly lower at 45.3&nbsp;MJ/kg ([[joules|megajoules]] per kilogram) than petrol at 45.8&nbsp;MJ/kg, liquid diesel fuel is significantly denser than liquid petrol. This is important because volume of fuel, in addition to mass, is an important consideration in mobile applications. No vehicle has an unlimited volume available for fuel storage.
+
+Adjusting the numbers to account for the energy density of diesel fuel, the overall energy efficiency is still about 20% greater for the diesel version.
+
+While higher compression ratio is helpful in raising efficiency, diesel engines are much more efficient than petrol (petrol) engines when at low power and at engine idle. Unlike the petrol engine, diesels lack a butterfly valve (throttle) in the inlet system, which closes at idle. This creates parasitic loss and destruction of availability on the incoming air, reducing the efficiency of petrol engines at idle. In many applications, such as marine, agriculture, and railways, diesels are left idling unattended for many hours or sometimes days. These advantages are especially attractive in locomotives (see [[dieselisation]]).
+
+Weight can be an issue, since diesel engines are typically heavier than [[petrol engine]]s of similar power output. This is essentially because the diesel must operate at lower engine speeds.<ref>{{cite web | url = http://www.perkins.com/cda/components/fullArticleNoNav?ids%20=%20284124&languageId%20=%207 | title = Engine Genetics | year = 2006 | publisher = Perkins Engines Company Limited}}</ref> Diesel fuel is injected just before the power stroke. As a result of this, the fuel cannot burn completely until it has encountered the right amount of oxygen. This results in incomplete combustion with too much fuel, poor design or failing injectors resulting in black exhaust. In the petrol engine, air and fuel are mixed for the entire compression stroke, ensuring complete mixing even at higher engine speeds.
+
+Diesel engines usually have longer stroke lengths to achieve the necessary compression ratios. As a result piston and connecting rods are heavier and more force must be transmitted through the connecting rods and crankshaft to change the momentum of the piston. This is another reason that a diesel engine must be stronger for the same power output.
+
+Yet it is this same build quality that has allowed some enthusiasts to acquire significant power increases with [[turbocharger|turbocharged]] engines through fairly simple and inexpensive modifications. A petrol engine of similar size cannot put out a comparable power increase without extensive alterations because the stock components would not be able to withstand the higher stresses placed upon them. Since a diesel engine is already built to withstand higher levels of stress, it makes an ideal candidate for [[Engine tuning|performance tuning]] with little expense. However, it should be said that any modification that raises the amount of fuel and air put through a diesel engine will increase its operating temperature which will reduce its life and increase service requirements. These are issues with newer, lighter, ''high performance'' diesel engines which are not "overbuilt" to the degree of older engines and are being pushed to provide greater power in smaller engines.
+The addition of a [[turbocharger]] or [[supercharger]] to the engine greatly assists in increasing [[Fuel economy in automobiles|fuel economy]] and power output, mitigating the fuel-air intake speed limit mentioned above for a given engine displacement. Boost pressures can be higher on diesels than petrol engines, due to the latter's susceptibility to knock, and the higher [[compression ratio]] allows a diesel engine to be more efficient than a comparable spark ignition engine. Because the burned gases are expanded further in a diesel engine cylinder, the exhaust gas is cooler, meaning turbochargers require less cooling, and can be more reliable, than on spark-ignition engines.
+
+With a diesel, boost pressure is essentially unlimited. It is literally possible to run as much boost as the engine will physically stand before breaking apart. 
+
+The increased fuel economy of the diesel engine over the petrol engine means that the diesel produces less [[carbon dioxide]] (CO<sub>2</sub>) per unit distance. Recently, advances in production and changes in the political climate have increased the availability and awareness of [[biodiesel]], an alternative to petroleum-derived diesel fuel with a much lower net-sum emission of CO<sub>2</sub>, due to the absorption of CO<sub>2</sub> by plants used to produce the fuel. Although concerns are now being raised as to the negative effect this is having on the world food supply, as the growing of crops specifically for [[biofuels]] takes up land that could be used for food crops and uses water that could be used by both humans and animals. The use of waste vegetable oil, sawmill waste from managed forests in Finland funded by Nokia venture capital, and the development of the production of vegetable oil from algae, demonstrate great promise in providing feed stocks for sustainable biodiesel, that are not in competition with food production.
+
+Diesel engines have lower power output than equivalent size petrol engine because its speed is limited by the time required for combustion.<ref>{{cite web|url=http://en.wikipedia.org/wiki/Harry_Ricardo |title=Harry Ricardo - Wikipedia, the free encyclopedia |publisher=En.wikipedia.org |date= |accessdate=2009-05-11}}</ref> A combination of improved mechanical technology (such as multi-stage injectors which fire a short "pilot charges" of fuel into the cylinder to warm the combustion chamber before delivering the main fuel charge), higher injection pressures that have improved the atomisation of fuel into smaller droplets, and electronic control (which can adjust the timing and length of the injection process to optimise it for all speeds and temperatures), have mostly mitigated these problems in the latest generation of common-rail designs, while greatly improving engine efficiency. Poor power and narrow torque bands have been addressed by the use of superchargers, turbochargers, (especially [[variable geometry turbocharger]]s), [[intercooler]]s, and a large efficiency increase from about 35% for IDI to 45% for the latest engines in the last 15 years.
+
+Even though diesel engines have a theoretical fuel efficiency of 75%, in practice it is less. Engines in large diesel trucks, buses, and newer diesel cars can achieve peak efficiencies around 45%,<ref>{{cite web | url = http://www.epa.gov/otaq/models/ngm/may04/crc0304c.pdf | title = Medium and Heavy Duty Diesel Vehicle Modeling Using a Fuel Consumption Methodology | format= PDF | year = 2004 | publisher = US EPA}}</ref> and could reach 55% efficiency in the near future.<ref>{{cite web | url = http://www.epa.gov/midwestcleandiesel/publications/presentations/il-finance-09-06/eberhardt.pdf | title = Motivations for Promoting Clean Diesels | format= PDF | year = 2006 | publisher = US Department Of Energy}}</ref> However, average efficiency over a driving cycle is lower than peak efficiency. For example, it might be 37% for an engine with a peak efficiency of 44%.<ref>{{cite journal | url = http://findarticles.com/p/articles/mi_m0FZX/is_4_66/ai_62371160/print?tag=artBody;col1 | title = The Challenge Of CVTs In Current Heavy-Duty Powertrains | month = April | year = 2000 | journal = Diesel Progress North American Edition | author = Michael Soimar}}</ref>
+
+===Emissions===
+{{See also|Diesel particulate matter|Diesel exhaust air contaminants|Diesel fuel#Health effects|Diesel engine#Emissions|Exhaust gas#Diesel engines}}
+
+Diesel engines produce very little [[carbon monoxide]] as they burn the fuel in excess air even at full load, at which point the quantity of fuel injected per cycle is still about 50% lean of [[stoichiometry|stoichiometric]]. However, they can produce black [[soot]] (or more specifically [[diesel particulate matter]]) from their exhaust, which consists of unburned carbon compounds. This is caused by local low temperatures where the fuel is not fully atomized. These local low temperatures occur at the cylinder walls and at the outside of large droplets of fuel. At these areas where it is relatively cold, the mixture is rich (contrary to the overall mixture which is lean). The rich mixture has less air to burn and some of the fuel turns into a carbon deposit. Modern car engines use a [[diesel particulate filter]] (DPF) to capture carbon particles and then intermittently burn them using extra fuel injected into the engine.
+
+The full load limit of a diesel engine in normal service is defined by the "black smoke limit". Beyond which point the fuel cannot be completely combusted, as the "black smoke limit" is still considerably lean of stoichiometric. It is possible to obtain more power by exceeding it, but the resultant inefficient combustion means that the extra power comes at the price of reduced combustion efficiency, high fuel consumption and dense clouds of smoke. This is only done in specialized applications (such as [[tractor pulling]] competitions) where these disadvantages are of little concern.
+
+Likewise, when starting from cold, the engine's combustion efficiency is reduced because the cold engine block draws heat out of the cylinder in the compression stroke. The result is that fuel is not combusted fully, resulting in blue/white smoke and lower power outputs until the engine has warmed through. This is especially the case with indirect injection engines, which are less thermally efficient. With electronic injection, the timing and length of the injection sequence can be altered to compensate for this. Older engines with mechanical injection can have mechanical and hydraulic governor control to alter the timing, and multi-phase electrically controlled [[glow plug]]s, that stay on for a period after start-up to ensure clean combustion—the plugs are automatically switched to a lower power to prevent them burning out.
+
+Particles of the size normally called PM10 (particles of 10 [[micrometre]]s or smaller) have been implicated in health problems, especially in cities. Some modern diesel engines feature [[diesel particulate filter]]s, which catch the black soot and when saturated are automatically regenerated by burning the particles. Other problems associated with the exhaust gases (nitrogen oxides, sulfur oxides) can be mitigated with further investment and equipment; some diesel cars now have catalytic converters in the exhaust.
+
+All diesel engine exhaust emissions can be significantly reduced by the use of [[biodiesel]] fuel. Oxides of nitrogen do increase from a vehicle using biodiesel, but they too can be reduced to levels below that of fossil fuel diesel, by changing fuel injection timing.
+
+===Power and torque===
+For commercial uses requiring towing, load carrying and other tractive tasks, diesel engines tend to have better [[torque]] characteristics. Diesel engines tend to have their torque peak quite low in their speed range (usually between 1600&ndash;2000&nbsp;[[Revolutions per minute|rpm]] for a small-capacity unit, lower for a larger engine used in a [[truck]]). This provides smoother control over heavy loads when starting from rest, and, crucially, allows the diesel engine to be given higher loads at low speeds than a petrol engine, making them much more economical for these applications. This characteristic is not so desirable in private cars, so most modern diesels used in such vehicles use electronic control, [[variable geometry turbocharger]]s and shorter piston strokes to achieve a wider spread of torque over the engine's speed range, typically peaking at around 2500&ndash;3000&nbsp;rpm.
+
+===Noise===
+The characteristic noise of a diesel engine is variably called diesel clatter, diesel nailing, or diesel knock.<ref name="Comb in IC">{{Cite paper
+| title = Combustion in IC (Internal Combustion) Engines
+| accessdate = 2008-11-01
+| url = http://web.archive.org/web/20050430145007/http://me.queensu.ca/courses/MECH435/6.+Combustion+in+IC+Engines.ppt
+| pages = Slide 37
+}}</ref> Diesel clatter is caused largely by the diesel combustion process, the sudden ignition of the diesel fuel when injected into the combustion chamber causes a pressure wave. Engine designers can reduce diesel clatter through: indirect injection; pilot or pre-injection; injection timing; injection rate; compression ratio; turbo boost; and exhaust gas recirculation (EGR).<ref>{{cite web
+| title = Engine & fuel engineering - Diesel Noise
+| accessdate = 2008-11-01
+| url = http://www.eng-tips.com/viewthread.cfm?qid=139341&page=7
+}}</ref> Common rail diesel injection systems permit multiple pre-injections as an aid to noise reduction. Diesel fuels with a higher cetane rating modify the combustion process and reduce diesel clatter.<ref name="Comb in IC" /> CN ([[Cetane number]]) can be raised by distilling higher quality crude oil, or by using a cetane improving additive. Some oil companies market high cetane or premium diesel. Biodiesel has a higher cetane number than petrodiesel, typically 55CN for 100% biodiesel.{{Citation needed|date=November 2008}}
+
+A combination of improved mechanical technology such as multi-stage injectors which fire a short "pilot charges" of fuel into the cylinder to initiate combustion before delivering the main fuel charge, higher injection pressures that have improved the atomisation of fuel into smaller droplets, and electronic control (which can adjust the timing and length of the injection process to optimise it for all speeds and temperatures), have mostly mitigated these problems in the latest generation of common-rail designs, while improving engine efficiency.
+
+===Reliability===
+The lack of an electrical [[ignition system]] greatly improves the reliability. The high durability of a diesel engine is also due to its overbuilt nature (see above), a benefit that is magnified by the lower rotating speeds in diesels. Diesel fuel is a better lubricant than petrol so is less harmful to the oil film on [[piston ring]]s and [[cylinder (engine)|cylinder]] bores; it is routine for diesel engines to cover 250,000 miles (400,000&nbsp;km) or more without a rebuild.
+
+Due to the greater compression force required and the increased weight of the stronger components, starting a diesel engine is harder. More [[torque]] is required to push the engine through compression.
+
+Either an electrical [[Automobile self starter|starter]] or an [[air start system]] is used to start the engine turning. On large engines, pre-[[lubrication]] and slow turning of an engine, as well as heating, are required to minimize the amount of engine damage during initial start-up and running. Some smaller military diesels can be started with an explosive cartridge, called a [[Coffman engine starter|Coffman starter]], which provides the extra power required to get the machine turning. In the past, Caterpillar and [[Deere & Company|John Deere]] used a small petrol [[pony motor|''pony'' motor]] in their tractors to start the primary diesel motor. The pony motor heated the diesel to aid in ignition and utilized a small clutch and transmission to actually spin up the diesel engine. Even more unusual was an [[International Harvester]] design in which the diesel motor had its own carburetor and ignition system, and started on petrol. Once warmed up, the operator moved two levers to switch the motor to diesel operation, and work could begin. These engines had very complex cylinder heads, with their own petrol combustion chambers, and in general were vulnerable to expensive damage if special care was not taken (especially in letting the engine cool before turning it off).
+
+As mentioned above, diesel engines tend to have more [[torque]] at lower engine speeds than petrol engines. However, diesel engines tend to have a narrower [[power band]] than petrol engines. Naturally-aspirated diesels tend to lack power and torque at the top of their speed range. This narrow band is a reason why a vehicle such as a truck may have a [[Transmission (mechanics)|gearbox]] with as many as 18 or more gears, to allow the engine's power to be used effectively at all speeds. Turbochargers tend to improve power at high engine speeds; superchargers improve power at lower speeds; and variable geometry turbochargers improve the engine's performance equally by flattening the torque curve.
+
+===Quality and variety of fuels===
+Petrol/petrol engines are limited in the variety and quality of the fuels they can burn. Older petrol engines fitted with a [[carburetor]] required a volatile fuel that would vaporize easily to create the necessary fuel/air mix for combustion. Because both air and fuel are admitted to the cylinder, if the [[compression ratio]] of the engine is too high or the fuel too volatile (with too low an [[octane]] rating), the fuel will ignite under compression, as in a diesel engine, before the piston reaches the top of its stroke. This pre-ignition causes a power loss and over time major damage to the piston and cylinder. The need for a fuel that is volatile enough to vaporize but not too volatile (to avoid pre-ignition) means that petrol engines will only run on a narrow range of fuels. There has been some success at dual-fuel engines that use petrol/[[ethanol]], petrol/[[propane]], and petrol/[[methane]].
+
+In diesel engines, a mechanical injector system vaporizes the fuel into a pre-combustion chamber (as opposed to a [[Aspirator|Venturi jet]] in a carburetor, or a [[Fuel injection|Fuel injector]] in a fuel injection system vaporizing fuel into the intake manifold or intake runners as in a petrol engine). This ''forced vaporisation'' means that less-volatile fuels can be used. More crucially, because only air is inducted into the cylinder in a diesel engine, the compression ratio can be much higher as there is no risk of pre-ignition provided the injection process is accurately timed. This means that cylinder temperatures are much higher in a diesel engine than a petrol engine, allowing less volatile fuels to be used.
+
+Diesel fuel is a form of light fuel oil, very similar to [[kerosene]]/[[paraffin]], but diesel engines, especially older or simple designs that lack precision electronic injection systems, can run on a wide variety of other fuels. Some of the most common alternatives are Jet A-1 or [[vegetable oil]] from a very wide variety of plants. Some engines can be run on vegetable oil without modification, and most others require fairly basic alterations. [[Biodiesel]] is a pure diesel-like fuel refined from vegetable oil and can be used in nearly all diesel engines. The only limits on the fuels used in diesel engines are the ability of the fuel to flow along the fuel lines and the ability of the fuel to lubricate the injector pump and injectors adequately. In general terms, inline mechanical injector pumps tolerate poor-quality or bio-fuels better than distributor-type pumps. Also, indirect injection engines generally run more satisfactorily on bio-fuels than direct injection engines. This is partly because an indirect injection engine has a much greater 'swirl' effect, improving vaporisation and combustion of fuel, and also because (in the case of vegetable oil-type fuels) [[lipid]] depositions can condense on the cylinder walls of a direct-injection engine if combustion temperatures are too low (such as starting the engine from cold).
+
+It is often reported that Diesel designed his engine to run on peanut oil, but this is not the case.  Diesel stated in his published papers, "at the Pairs Exhibition in 1900 ([[Exposition Universelle (1900)|''Exposition Universelle'']]) there was shown by the Otto Company a small Diesel engine, which, at the request of the [[France|French]] Government ran on Arachide (earth-nut or pea-nut) oil (see [[biodiesel]]), and worked so smoothly that only a few people were aware of it.  The engine was constructed for using mineral oil, and was then worked on vegetable oil without any alterations being made.  The French Government at the time thought of testing the applicability to power production of the Arachide, or earth-nut, which grows in consderable quantities in their [[Africa]]n colonies, and can easily be cultivated there." Diesel himself later conducted related tests and appeared supportive of the idea.<ref>The Biodiesel Handbook, Chaper 2 - The History of Vegatable Oil Based Diesel Fuels, by Gerhard Knothe, ISBN 1893997790</ref> 
+
+Most large marine diesels (often called ''cathedral engines'' due to their size) run on heavy [[fuel oil]] (sometimes called "bunker oil"), which is a thick, viscous and almost un-flammable fuel which is very safe to store and cheap to buy in bulk as it is a waste product from the petroleum refining industry. The fuel must be heated to thin it out (often by the exhaust header) and is often passed through multiple injection stages to vaporize it.
+
+==Fuel and fluid characteristics==
+{{Main|Diesel fuel}}
+Diesel engines can operate on a variety of different fuels, depending on configuration, though the eponymous [[diesel fuel]] derived from [[crude oil]] is most common. The engines can work with the full spectrum of crude oil distillates, from natural gas, alcohols, petrol, [[wood gas]] to the ''fuel oils'' from diesel oil to residual fuels.<ref name="DFE LNG">{{cite web | url=http://www.thedigitalship.com/powerpoints/SMM06/lng/Barend%20Thijssen,%20wartsila.pdf | title=Dual-fuel-electric LNG carriers|format=PDF}}</ref>
+
+The type of fuel used is a combination of service requirements, and fuel costs. Good-quality diesel fuel can be synthesised from [[vegetable oil]] and [[alcohol]]. Diesel fuel can be made from coal or other carbon base using the [[Fischer-Tropsch process]]. [[Biodiesel]] is growing in popularity since it can frequently be used in unmodified engines, though production remains limited. Recently, biodiesel from coconut, which can produce a very promising coco methyl esther (CME), has characteristics which enhance lubricity and combustion giving a regular diesel engine without any modification more power, less particulate matter or black smoke, and smoother engine performance. The Philippines pioneers in the research on Coconut based CME with the help of German and American scientists. Petroleum-derived diesel is often called ''petrodiesel'' if there is need to distinguish the source of the fuel.
+
+[[Vegetable oil used as fuel|Pure plant oil]]s are increasingly being used as a fuel for cars, trucks and remote [[combined heat and power]] generation especially in [[Germany]] where hundreds of decentralised small- and medium-sized oil presses cold press oilseed, mainly [[rapeseed]], for fuel. There is a [[Deutsches Institut für Normung]] fuel standard for [[rapeseed]] oil fuel.
+
+''Residual fuels'' are the "dregs" of the distillation process and are a thicker, heavier oil, or oil with higher [[viscosity]], which are so thick that they are not readily pumpable unless heated. Residual fuel oils are cheaper than clean, refined diesel oil, although they are dirtier. Their main considerations are for use in ships and very large generation sets, due to the cost of the large volume of fuel consumed, frequently amounting to many tonnes per hour. The poorly refined [[biofuel]]s [[straight vegetable oil]] (SVO) and [[waste vegetable oil]] (WVO) can fall into this category, but can be viable fuels on non common rail or TDI PD diesels with the simple conversion of fuel heating to 80 to 100 degrees Celsius to reduce viscosity, and adequate filtration to OEM standards. Engines using these heavy oils have to start and shut down on standard diesel fuel ,as these fuels will not flow through fuel lines at low temperatures. Moving beyond that, use of low-grade fuels can lead to serious maintenance problems because of their high sulphur content. Most diesel engines that power ships like supertankers are built so that the engine can safely use low-grade fuels due to their separate cylinder and crankcase lubrication.
+
+Normal diesel fuel is more difficult to ignite and slower in developing fire than petrol because of its higher [[flash point]], but once burning, a diesel fire can be fierce.
+
+Fuel contaminants such as dirt and water are often more problematic in diesel engines than in petrol engines. Water can cause serious damage, due to corrosion, to the injection pump and injectors; and dirt, even very fine particulate matter, can damage the injection pumps due to the close tolerances that the pumps are machined to. All diesel engines will have a fuel filter (usually much finer than a filter on a petrol engine), and also a water trap. The water trap (which is sometimes part of the fuel filter) often has a float connected to a warning light, which warns when there is too much water in the trap, and must be drained before damage to the engine can result. The fuel filter must be replaced much more often on a diesel engine than on a petrol engine, changing the fuel filter every 2-4 oil changes is not uncommon for some vehicles.
+
+==Safety==
+Diesel fuel has low [[flammability]], leading to a low risk of fire caused by fuel in a vehicle equipped with a diesel engine.
+
+===Yachts===
+In [[yacht]]s diesels are used because petrol engines generate combustible vapors, which can accumulate in the bottom of the vessel, sometimes causing explosions. Therefore ventilation systems on petrol powered vessels are required.<ref> [[Yacht Safety Bureau]] The Yacht Safety Bureau, Inc.in the State of New York</ref>
+
+===Military vehicle safety===
+The [[United States Army]] and [[NATO]] use only diesel fuel engines and turbines because of fire hazard. Diesel does not explode in a manner such as petrol does, it just slowly burns. US Army petrol-engined tanks during [[World War II]] were nicknamed [[Ronson's Lighters|Ronsons]], because it only took a single spark to ignite 50 or more gallons of highly volatile petrol.
+
+==Diesel applications==
+The characteristics of diesel have different advantages for different applications.
+
+===Passenger cars===
+Diesel engines have long been popular in bigger cars and this is spreading to smaller cars. Diesel engines tend to be more economical at regular driving speeds and are much better at city speeds. Their reliability and life-span tend to be better (as detailed). Some 40% or more of all cars sold in Europe are diesel-powered where they are considered a low CO<sub>2</sub> option. (However, particulate emission can be a concern). European governments traditionally favoured diesel engines in taxation policy, but this may be changing, and diesel is currently more expensive than petrol in the UK.
+
+Diesel cars cannot accelerate as quickly as petrol cars and the increased weight of their engines (normally at the front) tends to increase tyre wear. Cold-starting is more problematic in colder climates, and in cases of difficulty they are more difficult to [[jump start]] and to [[bump start]].
+
+[[Mercedes-Benz]] in conjunction with [[Robert Bosch GmbH]] produced diesel-powered passenger cars starting in 1936 and very large numbers are used all over the world (often as "[[Grande Taxi]]"s in the [[Third World]]).  They have put the emphasis on high performance diesel cars in their newer ranges, as does [[Volkswagen]] across various brands.  Other manufacturers ([[Borgward]] in 1952, [[Fiat]] in 1953 and [[Peugeot]] in 1958) joined in, a trend which increased further in the 1970s and 1980s.  [[Citroën]] sells more cars with diesel engines than petrol engines, [[Peugeot]] pioneered smoke-less ''HDI'' designs with [[filter (chemistry)|filter]]s.  The Italian marque [[Alfa Romeo]], known for design and successful history in racing, is now focusing on diesels that can be and are raced.
+
+Turbodiesels can outperform their naturally aspirated petrol-powered sister cars. One anecdote tells of [[Formula One]] driver [[Jenson Button]], who was arrested while driving a diesel-powered [[BMW E46|BMW 330cd Coupé]] at 230&nbsp;km/h (about 140&nbsp;mph) in [[France]], where he was too young to have a petrol-engined car hired to him. Button dryly observed in subsequent interviews that he had actually done [[BMW]] a public relations service, as nobody had believed a diesel road car could be driven that fast. Yet, BMW had already won the [[24 Hours Nürburgring]] overall in 1998 with a 3-series diesel. The BMW diesel lab in Steyr, [[Austria]] is led by [[Ferenc Anisits]] and develops innovative diesel engines.
+
+In the [[United States]], diesel is not as popular in passenger cars as in [[Europe]]. Such cars have been traditionally perceived as heavier, noisier, having performance characteristics which make them slower to accelerate, sootier, smellier, and of being more expensive than equivalent petrol vehicles. From the late seventies to the mid-eighties, [[General Motors|General Motors']] [[Oldsmobile]], [[Cadillac]], and [[Chevrolet]] divisions produced a low-powered and unreliable V8 diesel engine which generally serves as the prime example for this reputation. (The engine was not a converted petrol engine as is popularly believed) [[Dodge]] with its ever-famous [[Cummins]] inline-six diesels optioned in pickup trucks (since about the late 1980s) really revitalized the appeal for diesel power in light vehicles among American consumers, but a superior and widely-accepted American regular-production diesel '''passenger car''' never materialized. [[Ford Motor Company]] tried diesel engines in some passenger cars in the 1980s, but to not much avail. In addition, before the introduction of 15 parts per million [[ultra-low sulfur diesel]], which started at 15 October 2006 in the U.S. (1 June 2006 in Canada), diesel fuel used in North America still had higher sulfur content than the fuel used in Europe, effectively limiting diesel use to industrial vehicles, which had further contributed to the negative image. Ultra-low sulfur diesel is not mandatory until 2010 in the US. This image does not reflect recent designs, especially where the very high low-rev torque of modern diesels is concerned—which have characteristics similar to the big V8 petrol engines popular in the US. Light and heavy trucks, in the U.S., have been diesel-optioned for years. After the introduction of ultra-low sulfur diesel, [[Mercedes-Benz]] has marketed passenger vehicles under the [[BlueTec]] banner. In addition, other manufacturers such as [[Ford]], [[General Motors]], [[Honda]], [[Subaru]], [[Audi]], [[Volkswagen]], [[BMW]], and [[Nissan]] plan to sell Diesel vehicles in the US in 2008-2010, designed to meet the tougher emissions requirements in 2010. Recently, in early 2008, [[Honda]] has stated that they plan to offer their 50 state compliant 2.2 liter i-DTEC diesel engine in the new 2009 Acura TSX for the US market.
+
+In Canada, [[Smart Fortwo]] was first introduced in 2004 with a diesel engine, up until 2008.<ref>{{cite web | url = http://www.auto123.com/en/info/news/previews,view,SMART.spy?artid=72314 | title = Smart ForTwo 2008 Preview | publisher = Auto123.com | author = Filion, Nadine | date= 2006-11-13}}</ref>
+
+In Japan, newly registered Diesel vehicles were less than 1% in 2005.<ref name="autoindustry.co.uk">{{cite web|url=http://www.autoindustry.co.uk/news/22-08-06_7?template=template/printable.xml|title=Honda plans shift towards diesel in Japanese and US markets|accessdate=2008-04-08}}</ref> Honda and Mercedes-Benz have made plans to offer Diesel vehicles in the future, with Mercedes-Benz having already started selling the Mercedes-Benz E320 CDI in autumn 2005.
+
+===Railroad rolling stock===
+Diesel engine has eclipsed [[steam engine]] as the prime mover on all non-electrified railroads in the industrialized world. First [[diesel locomotives]] appeared in the early 20th century, and [[diesel multiple units]] soon after.
+
+While [[electric locomotive]] has now replaced the [[diesel locomotive]] almost completely on passenger traffic in Europe & Asia, the diesel locomotives are still today very popular on cargo hauling [[freight train]]s and on tracks where electrification is not feasible.
+
+===Other transport uses===
+Larger transport applications ([[truck]]s, [[bus]]es, etc.) also benefit from the diesel's reliability and high torque output. Diesel displaced paraffin (or [[tractor vaporising oil]], TVO) in most parts of the world by the end of the 1950s with the [[United States|U.S.]] following some 20 years later.
+
+In merchant ships and boats, the same advantages apply with the relative safety of diesel fuel an additional benefit. The German [[pocket battleship]]s were the largest diesel warships, but the German torpedo-boats known as [[E-boat]]s (''Schnellboot'') of the Second World War were also diesel craft. Conventional [[submarine]]s have used them since before the First World War. American World War II diesel-electric submarines operated on two-stroke cycle as opposed to the four-stroke cycle that other navies used.
+
+===Military fuel standardisation===
+[[NATO]] has a single vehicle fuel policy and has selected diesel for this purpose. The use of a  single fuel simplifies wartime logistics. NATO and the United States Marine Corps have even been developing a diesel military motorcycle based on a [[Kawasaki Heavy Industries|Kawasaki]] off road motorcycle, with a purpose designed naturally aspirated direct injection diesel at [[Cranfield University]] in England, to be produced in the USA, because motorcycles were the last remaining petrol/petrol powered vehicle in their inventory. Previous to this, a few civilian [[motorcycle]]s had been built using adapted stationary diesel engines, but the weight and cost disadvantages generally outweighed the efficiency gains.
+
+==Engine speeds==
+Within the diesel engine industry, engines are often categorized by their rotational speeds into three unofficial groups:
+* High speed engines,
+* medium speed engines, and
+* slow speed engines
+
+High and medium speed engines are predominantly four stroke engines. Medium speed engines are physically larger than high speed engines and can burn lower grade (slower burning) fuel than high speed engines. Slow speed engines are predominantly large two stroke crosshead engines, hence very different from high and medium speed engines. Due to the lower rotational speed of slow and medium speed engines, there is more time for combustion during the power stroke of the cycle, and these engine are capable of utilising lower fuel grades (slower burning) fuels than high speed engines.
+
+===High-speed engines===
+High-speed (approximately 1,000&nbsp;RPM and greater) engines are used to power trucks ([[lorries]]), [[bus]]es, [[tractor]]s, [[automobile|cars]], [[yacht]]s, [[Gas compressor|compressors]], [[pump]]s and small [[electrical generator]]s.  {{As of|2008}}, most high-speed engines have [[indirect injection]], although many modern engines, particularly in on-highway applications, have [[common rail]] [[direct injection]], which is not as reliable due to [[electronics]]  as [[mechanical fuel injection|mechanical injection]], but is cleaner burning.
+
+===Medium-speed engines===
+Medium speed engines are used in large electrical generators, ship propulsion and mechanical drive applications such as large compressors or pumps.  Medium speed diesel engines operate on either diesel fuel or heavy fuel oil by direct injection in the same manner as for low speed engines.
+
+Engines used in electrical generators run at approximately 300 to 1000&nbsp;RPM and are optimized to run at a set [[synchronous speed]] depending on the generation frequency (50 or 60&nbsp;[[Hertz]]) and provide a rapid response to load changes. Typical synchronous speeds for modern medium speed engines are 500/514 RPM (50/60 Hz), 600&nbsp;RPM (both 50 and 60&nbsp;Hz), 720/750&nbsp;RPM, and 900/1000&nbsp;RPM.
+
+{{As of|2009}}, the largest medium speed engines in current production have outputs up to approximately {{convert|20|MW|hp|abbr=on}}. and are supplied by companies like [[MAN B&W]], [[Wartsila]],<ref>[http://www.wartsila.com/Wartsila/global/docs/en/ship_power/media_publications/brochures/product/engines/medium_speed/w64_tr.pdf Wärtsilä 64 Technology Review]</ref> and [[Rolls-Royce plc|Rolls-Royce]] (who acquired Ulstein Bergen Diesel in 1999). Medium speed engines produced are four-stroke machines and two-stroke units.
+
+Typical cylinder bore size for medium speed engines ranges from 20&nbsp;cm to 50&nbsp;cm, and engine configurations typically are offered ranging from in-line 4 cylinder units to V configuration 20 cylinder units.  Most larger medium speed engines are started with compressed air direct on pistons, using an air distributor, as opposed to a pneumatic starting motor acting on the flywheel, which tends to be used for smaller engines. There is no definitive engine size cut-off point for this.
+
+It should also be noted that most major manufacturers of medium speed engines make natural gas fueled versions of their diesel cycle engines, which in fact operate on the [[Otto cycle]], and require spark ignition, typically provided with a spark plug.<ref name="DFE LNG" />  There are also dual (diesel/natural gas/coal gas) fuel versions of medium and low speed diesel engines using a lean fuel air mixture and a small injection of diesel fuel (so called "pilot fuel") for ignition. In case of a gas supply failure or maximum power demand these engines will instantly switch back to full diesel fuel operation .<!--! read refs pls !!!! wdl1961--><ref name="DFE LNG" /><ref>{{cite book | title=User's Guide to Natural Gas Technologies | author=Payne, F. William}}</ref><ref>{{cite web|url=http://www.manbw.com/article_009496.html |title=Man Diesel Se - Press->Press & Trade Press Releases->Trade Press Releases ->Stationary Power->Medium-Speed |publisher=Manbw.com |date=2008-11-19 |accessdate=2009-05-11}}</ref>
+
+===Low-speed engines===
+[[Image:5S50MC.jpg|thumb|right|The MAN B&W 5S50MC 5-cylinder, 2-stroke, low-speed marine diesel engine. This particular engine is found aboard a 29,000 tonne chemical carrier.]]
+Also known as ''slow-speed'', or traditionally ''oil engines'', the largest diesel engines are primarily used to power [[ship]]s, although there are a few land-based power generation units as well. These extremely large two-stroke engines have power outputs up to approximately {{convert|85|MW|hp|abbr=on}}, operate in the range from approximately 60 to 200 RPM and are up to {{convert|15|m|ft|abbr=on}} tall, and can weigh over {{convert|2000|ST|t}}. They typically use direct injection running on cheap low-grade heavy fuel, also known as ''Bunker C'' fuel, which requires heating in the ship for tanking and before injection due to the fuel's high [[viscosity]]. The heat for fuel heating is often provided by waste heat recovery boilers located in the exhaust ducting of the engine, which produce the steam required for fuel heating. Provided the heavy fuel system is kept warm and circulating, engines can be started and stopped on heavy fuel.
+
+Large and medium marine engines are started with compressed air directly applied to the pistons. Air is applied to cylinders to start the engine forwards or backwards because they are normally directly connected to the [[propeller]] without clutch or gearbox, and to provide reverse propulsion either the engine must be run backwards or the ship will utilise an adjustable propeller. At least three cylinders are required with [[two-stroke]] engines and at least six cylinders with [[four-stroke]] engines to provide [[torque]] every 120 degrees.
+
+Companies such as [[MAN B&W Diesel]], (formerly [[Burmeister & Wain]]) and [[Wärtsilä]] (which acquired [[Sulzer]] Diesel) design such large low speed engines. They are unusually narrow and tall due to the addition of a [[crosshead bearing]]. {{As of|2007}}, the [[Straight-14|14 cylinder]] [[Wärtsilä-Sulzer 14RTFLEX96-C]] turbocharged two-stroke diesel engine built by [[Wärtsilä]] licensee [[Doosan Group|Doosan]] in [[South Korea|Korea]] is the most powerful diesel engine put into service, with a cylinder bore of {{convert|960|mm|in|1|abbr=on}} delivering {{convert|114800|hp|MW||abbr=on}}. It was put into service in September 2006, aboard the world's largest container ship ''[[Emma Maersk]]'' which belongs to the [[A.P. Moller-Maersk Group]]. Typical bore size for low speed engines ranges from approximately {{convert|35|to|98|cm|in|abbr=on}}. {{As of|2008}}, all produced low speed engines with [[crosshead bearing]]s are in-line configurations; no Vee versions have been produced.
+
+==Supercharging and turbocharging==
+Most diesels are now [[turbocharging|turbocharged]] and some are both turbo charged and [[supercharged]]. Because diesels do not have fuel in the cylinder before combustion is initiated, more than one bar of air can be loaded in the cylinder without preignition. A turbocharged engine can produce significantly more power than a naturally aspirated engine of the same configuration, as having more air in the cylinders allows more fuel to be burned and thus more power to be produced. A supercharger is powered mechanically by the engine's [[crankshaft]], while a turbocharger is powered by the engine exhaust, not requiring any mechanical power. Turbocharging can improve the fuel economy<ref> Heywood Internal Combustion Engine Fundamentals Figure 15-40 shows better, and much bigger, efficiency of turbo engine versus NA version</ref> of diesel engines by recovering waste heat from the exhaust, increasing the excess air factor, and increasing the ratio of engine output to friction losses. A [[two-stroke engine]] does not have an exhaust and intake stroke. These are performed when the piston is at the bottom of the cylinder. Therefore large two-stroke engines have a piston pump, or electrical driven turbo at startup. Smaller two stroke engines (for example, Detroit 71 series) are fitted with turbochargers and a mechanically driven supercharger. Because turbocharged or supercharged engines produce more power for a given engine size as compared to naturally aspirated engines, attention must be paid to the mechanical design of components, lubrication, and cooling to handle the power. Pistons are usually cooled with  lubrication oil  sprayed on the bottom of the piston. Large diesels may use  water, sea water, or oil supplied through [[telescoping]] pipes attached to the cross head.
+
+==Other applications==
+*[[Aircraft diesel engine]]
+*[[Diesel motorcycle|Motorcycles]]
+
+==Current and future developments==
+{{See also|Diesel car history}}
+
+{{As of|2008}}, many [[common rail]] and unit injection systems already employ new injectors using stacked [[piezoelectric]] wafers in lieu of a solenoid, giving finer control of the injection event.<ref>{{cite web
+| title = Diesel Fuel Injection
+| accessdate = 2008-09-30
+| url = http://www.denso.com.au/products/aftermarket_automotive_components/diesel_fuel_injection
+}}</ref>
+
+[[Variable geometry turbocharger]]s have flexible vanes, which move and let more air into the engine depending on load. This technology increases both performance and fuel economy. Boost lag is reduced as turbo impeller inertia is compensated for.<ref>{{cite web|title=Variable Geometry Turbocharger (VGT)|url=http://www.tc.gc.ca/programs/environment/etv/vgt-eng.htm}}</ref>
+
+Accelerometer pilot control (APC) uses an [[accelerometer]] to provide feedback on the engine's level of noise and vibration and thus instruct the ECU to inject the minimum amount of fuel that will produce quiet combustion and still provide the required power (especially while idling).<ref>{{cite web | url=http://www.analog.com/en/technical-library/faqs/design-center/faqs/CU_faq_MEMs/resources/fca.html| title=Accelerometer Design and Applications}}</ref>
+
+The next generation of common rail diesels is expected to use variable injection geometry, which allows the amount of fuel injected to be varied over a wider range, and variable valve timing similar to that on [[petrol engine]]s.
+Particularly in the United States, coming tougher emissions regulations present a considerable challenge to diesel engine manufacturers. Ford's [[HyTrans Project]] has developed a system which starts the ignition in 400 ms, saving a significant amount of fuel on city routes, and there are other methods to achieve even more efficient combustion, such as [[HCCI|homogeneous charge compression ignition]], being studied.<ref>Craig Goodfellow; cited in {{cite video
+ | people = Neil Beasley
+ | title = Engineering at the Cutting Edge
+ | medium = documentary television series
+ | publisher = [[The Discovery Channel]]
+ | location =  | year2 = 2004}}</ref><ref>{{cite web | url=http://www.autobloggreen.com/2007/08/26/abg-tech-analysis-and-driving-impression-gms-hcci-engine/ | title=ABG Tech analysis and driving impression: GM's HCCI Engine}}</ref>
+
+==Maintenance hazards==
+Fuel injection introduces potential hazards in engine maintenance due to the high fuel pressures used. Residual pressure can remain in the fuel lines long after an injection-equipped engine has been shut down. This residual pressure must be relieved, and if it is done so by external bleed-off, the fuel must be safely contained. If a high-pressure diesel fuel injector is removed from its seat and operated in open air, there is a risk to the operator of injury by [[Jet injector#Accidental jet injection|hypodermic jet-injection]], even with only 100 [[Pounds per square inch|psi]] pressure.<ref>{{cite journal
+ | last = Agha
+ | first = F.P.
+ | authorlink = 
+ | coauthors = 
+ | title = High-pressure paint gun injuries of hand: clinical and roentgen aspects
+ | journal = NY State Journal of Medicine
+ | volume = 78
+ | issue = 
+ | pages = 1955–6
+ | publisher = 
+ | location = 
+ | year = 1978
+ | url = 
+ | doi = 
+ | id = 
+ | accessdate = }}</ref> The first known such injury occurred in 1937 during a diesel engine maintenance operation.<ref>
+{{cite journal
+ | last = Rees
+ | first = C.E.
+ | authorlink = 
+ | coauthors = 
+ | title = Penetration of Tissue by Fuel Oil Under High Pressure from a Diesel Engine
+ | journal = Journal of the American Medical Association
+ | volume = 109
+ | issue = 
+ | pages = 866–7
+ | publisher = 
+ | location = 
+ | year = 1937
+ | url = 
+ | doi = 
+ | id = 
+ | accessdate = }}</ref>
+
+==See also==
+* [[Diesel locomotive]]
+* [[Relative cost of electricity generated by different sources]]
+* [[Hot bulb engine]]
+* [[Diesel automobile racing]]
+* [[Diesel-electric transmission]] 
+* [[Aircraft diesel engine]]
+* [[Carbureted compression ignition model engines]]
+* [[Diesel generator]]
+* [[History of the internal combustion engine]]
+* [[Hesselman engine]]
+* [[Stirling engines]]
+* [[Forced induction]]
+* [[Control theory]]
+* [[Turbocharger]]
+* [[Petrol direct injection]]* [[Diesel cycle]]
+* [[Indirect injection]]
+* [[Wärtsilä-Sulzer RTA96-C]]—world's most powerful, most efficient and largest diesel engine.
+* [[Dieselisation]]
+* [[Junkers Jumo 205]]&mdash;The more successful of the first series of production diesel aircraft engines.
+* [[Napier Deltic]]&mdash;a high-speed, lightweight diesel engine used in fast naval craft and some railway locomotives.
+* [[Hybrid power source]]
+* [[Petrol engine]] , [[petrol]]
+* [[Otto engine]] 
+* [[Glow plug (model engine)]]
+* [[Six stroke engine]]—40% improved efficiency over 4 stroke by using wasted heat to generate steam.
+* [[Gale Banks]]
+* [[WVO]]—Waste Vegetable Oil—filtered, alternative fuel for diesel engines. 
+* [[Straight vegetable oil|SVO]]&mdash;Straight Vegetable Oil&mdash;alternative fuel for diesel engines.
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Diesel engines}}
+{{Commons|Rudolf Diesel}}
+* {{US patent|608845}}
+* [http://auto.howstuffworks.com/diesel.htm HowStuffWorks Article]
+* [http://www.widman.biz/Filtracion/Aire/Flujo/CFM/cfm.html Calculate air requirements (CFM's) for an internal combustion engine.]
+* [http://www.marineenginedigest.com/ Marine Engine Digest]
+* [http://gas-cost.net/index.php#20070604 Diesel Efficiency Article]—Comparison of fuel efficiency between diesel and gas variants of same cars
+* [http://www.bath.ac.uk/~ccsshb/12cyl/ Pictures of an extremely large container ship engine]
+* [http://openticle.com/mechanical-science-handbook/diesel-engine-fundamentals/ Diesel Engine Fundamentals]
+* [http://www.factsaboutscr.com FactsAboutSCR.com, Selective Catalytic Reduction diesel emissions technology]
+
+===Patents===
+* [http://www.google.com/patents?id=05xWAAAAEBAJ US Patent 845140] Combustion Engine, dated February 26, 1907.
+* [http://www.google.com/patents?id=3ntFAAAAEBAJ US Patent 502837] Engine operated by the explosion of mixtures of gas or hydrocarbon vapor and air, dated August 8, 1893.
+* [http://www.google.com/patents?id=oe9lAAAAEBAJ US Patent 439702] Petroleum Engine or Motor, dated November 4, 1890.
+* www.invention-protection.com/pdf_patents/pat608845.pdf - Similar
+{{Machine configurations|state=uncollapsed}}
+
+{{DEFAULTSORT:Diesel Engine}}
+[[Category:Internal combustion piston engines]]
+[[Category:Diesel engines| ]]
+[[Category:Petroleum]]
+[[Category:1893 introductions]]
+
+[[af:Dieselenjin]]
+[[ar:محرك ديزل]]
+[[bg:Дизелов двигател]]
+[[ca:Motor dièsel]]
+[[cs:Vznětový motor]]
+[[da:Dieselmotor]]
+[[de:Dieselmotor]]
+[[es:Motor diésel]]
+[[eo:Dizelmotoro]]
+[[fa:موتور دیزل]]
+[[fr:Moteur Diesel]]
+[[gl:Motor diésel]]
+[[ko:디젤 엔진]]
+[[hr:Dizelski motor]]
+[[id:Mesin diesel]]
+[[is:Díselvél]]
+[[it:Motore Diesel]]
+[[he:מנוע דיזל]]
+[[hu:Dízelmotor]]
+[[ml:ഡീസല്‍ എഞ്ചിന്‍]]
+[[ms:Enjin diesel]]
+[[nl:Dieselmotor]]
+[[ja:ディーゼルエンジン]]
+[[no:Dieselmotor]]
+[[pl:Silnik o zapłonie samoczynnym]]
+[[pt:Motor a diesel]]
+[[ro:Motor diesel]]
+[[ru:Дизельный двигатель]]
+[[sk:Dieselový motor]]
+[[sl:Dizel]]
+[[fi:Dieselmoottori]]
+[[sv:Dieselmotor]]
+[[th:เครื่องยนต์ดีเซล]]
+[[tr:Dizel motor]]
+[[uk:Дизельний двигун]]
+[[vi:Động cơ Diesel]]
+[[zh:柴油引擎]]

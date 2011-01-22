@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = division
+|rdfs:domain = Species
+|rdfs:range = owl:Thing
+}}

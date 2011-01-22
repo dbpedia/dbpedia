@@ -1,0 +1,229 @@
+{| border="0" align="right"
+|-
+|{{Infobox Automobile
+| image = [[Image:Porsche Boxster front 20080521.jpg|250px|Porsche Boxster 987]]
+| name = Porsche Boxster
+| manufacturer = [[Porsche]]
+| parent_company =
+| aka =
+| production = 1996&ndash;present
+| assembly = [[Stuttgart]], [[Germany]]<br />[[Uusikaupunki]], [[Finland]]
+| predecessor = [[Porsche 968]]
+| successor =
+| class = [[Roadster]]
+| body_style = 2-door [[convertible]]
+| layout = [[MR layout]]
+| platform =
+| wheelbase =
+| length =
+| width =
+| height =
+| weight =
+| fuel_capacity =
+| related =
+| designer =
+}}
+|}
+The '''Porsche Boxster''' is a [[Mid-engine design|mid-engined]] [[roadster]] built by [[Porsche]].  The Boxster is Porsche's first vehicle designed by [[Harm Lagaay]] from the beginning as a roadster; all previous Porsche convertibles were based on hardtop coupes.
+
+The first-generation Boxster (the 986) was introduced in late 1996 as a 1997 model; it was powered by a 2.5 litre [[Flat-6|flat six-cylinder]] engine.  In 2000, the new Boxster S variant was introduced with a larger 3.2 litre motor, and the base model received a more powerful 2.7 litre engine. In 2003, styling and engine output was upgraded on both variants.
+
+In 2005, Porsche unveiled the new generation of Boxsters: the type 987. The 987 is more powerful than its predecessor and featured styling inspired by the [[Carrera GT]].  Engine output increased in 2007, when both Boxster models received the engines from their corresponding [[Porsche Cayman]] variants.  In 2009, the Boxster models received several new cosmetic and mechanical upgrades, further increasing engine output and performance.
+
+Production of the 986 began at the former [[Porsche 928]] facility in [[Stuttgart]], Germany in 1996. [[Valmet Automotive]] also manufactures Boxsters under contract to Porsche at a facility in [[Uusikaupunki]], [[Finland]]. The Boxster was Porsche's biggest volume seller from its introduction in model year 1997 until the company introduced the [[Porsche Cayenne|Cayenne]] sport utility vehicle in model year 2003.
+
+The Boxster's name is a [[portmanteau]] of the word "boxer", referring to the vehicle's [[horizontally-opposed engine|horizontally-opposed]] or "[[boxer engine|boxer]]" engine, and the word "roadster", referring to the vehicle's two seat capacity and convertible top.
+
+== 986 ==
+{{Infobox Automobile generation
+|image=[[Image:Porsche Boxster black vl.jpg|250px|Porsche 986 Boxster]]
+|name=Porsche 986
+|manufacturer=[[Porsche]]
+|production=1996&ndash;2004
+|engine=2.5 L [[flat-6|H6]] (1997-1999)<br />2.7 L [[flat-6|H6]] (2000-2004)<br />3.2 L [[flat-6|H6]] (2000-2004)
+|wheelbase=1997-2002: {{Auto in|95.2|0}}<br />2003-04: {{Auto in|95.1|0}}
+|length=1997-2002: {{Auto in|171.0|0}}<br />2003-04: {{Auto in|170.1|0}}
+|width={{Auto in|70.1|0}}
+|height={{Auto in|50.8|0}}
+| transmission = 5-speed [[automatic transmission|automatic]]<br />5-speed [[manual transmission|manual]]<br />6-speed manual
+}}
+Harm Lagaay's Boxster design study stimulated a commercial turnaround for Porsche after several difficult years of falling sales.
+
+The visual appearance of the first generation of the Boxster was heavily inspired by the [[Porsche 356|Porsche Spyder and Speedster]] as well as the [[Porsche 550]] Spyder. The Boxster was released ahead of its big brother, the 996. Through consultation with [[Toyota]], Porsche greatly decreased the cost of manufacture, and introduced large-scale sharing of components between its models. The 986 Boxster had the same bonnet, front wings, and distinctive 'fried-egg' headlight units as the 996.  Its original 2.5L M96 engine shared the same architecture with the 3.4L engine used in the 996. Many believe the combination of the new Boxster / 911 styling and the reduced build costs through component sharing saved Porsche from being acquired by another car company.
+
+All 986/987 Boxsters use the M96 water cooled, [[Flat-6|horizontally opposed ("flat"), six-cylinder]] engine. The M96 is the first completely water-cooled engine used in a production non-front-engined Porsche. In the Boxster the M96 is placed in a [[mid-engine]] configuration as opposed to the [[Rear-engine design|rear-engine]] placement in all 911s. The combination of the M96 and a mid-engine layout provide a low center of gravity, smoothness throughout the rev range, near perfect weight distribution, and neutral handling characteristics. Early production M96 engines had a small but significant number of engine failures due to cracked or slipped cylinder liners, but since a minor redesign in 2000 these problems have been resolved.
+
+'''Boxster 986 model history'''
+{| class=wikitable
+!Model Year
+!Engine
+!HP
+!Transmission
+!0-100km/h (60mph)
+!Top Speed
+|-
+|rowspan=2|1997 ||2.5L||150 kW (204 PS; 201 hp)||Manual||6.9 seconds (6.7)||240 kph (149 mph)
+|-
+|2.5L||150 kW (204 PS; 201 hp)||TipTronic||7.6 seconds (7.4)||235 kph (146 mph)
+|-
+|rowspan=3|2000 ||2.7L||162 kW (168 PS; 228 hp)||Manual||6.4 seconds||253 km/h (157 mph)
+|-
+|2.7L||162 kW (220 PS; 217 hp)||Manual||6.6 seconds||249 km/h (155 mph)
+|-
+|3.2L S||186 kW (253 PS; 249 hp)||xx||5,9 seconds||2xx&nbsp;km/h (1xx&nbsp;mph)
+|-
+|rowspan=2|2002 ||2.7L||170 kW (231 PS; 228 hp)||xx||x.x seconds||2xx&nbsp;km/h (1xx&nbsp;mph)
+|-
+|3.2L S||190 kW (258 PS; 255 hp)||xx||x.x seconds||2xx&nbsp;km/h (1xx&nbsp;mph)
+|-
+|2004 S 550||3.2L||194 kW (264 PS; 260 hp)||xx||x.x seconds||2xx&nbsp;km/h (1xx&nbsp;mph)
+|}
+
+<small>Boxster S 550 Spyder 50th Anniversary Edition limited to 1953 cars</small>
+
+The model received a minor facelift in 2003. The plastic rear window was replaced by glass. Porsche installed a different exhaust pipe and modified air intake. In addition, the often disliked orange "fried egg" front indicators were replaced with clear glass indicators, and the rear light cluster was changed, with orange turn signals replaced with clear grey. The side marker lights on the front wings were changed from orange to clear, except on American market cars, where they remained orange. The bumpers were also changed slightly for a more defined, chiselled appearance, and new wheel designs were made available.
+
+=== Limited Editions ===
+==== 550 Spyder 50th Anniversary Edition ====
+
+In 2004 the 550 Spyder 50th Anniversary Edition was released, with a production run of just 1953 cars. These were all painted GT Silver Metallic, the same color as the car-show version of the Carrera GT supercar, and had unique, cocoa-brown, full-leather interior as standard, with grey natural leather as a no-cost option. Each car also had special interior paintwork, a high-end BOSE sound system, two-tone grey and silver 18" Carrera wheels (unpainted as another zero-cost option), {{convert|5|mm|in|1|abbr=on}} wheel spacers, the Boxster S sport exhaust, the 030 option lower sports suspension, and a plate on the center console piece commonly known as the "batwing" showing the production number. On American market cars only, the rear turn signals were red rather than clear.
+
+<gallery>
+Image:550spyderNose.jpg|50th Anniversary 550 Nose
+Image:550spyderFront.jpg|50th Anniversary 550 Front 3/4
+Image:550spyderRear.jpg|50th Anniversary 550 Rear 3/4
+Image:550spyderInterior.jpg|50th Anniversary 550 Cocoa Interior
+</gallery>
+
+== 987 ==
+{{Infobox Automobile generation
+| image = [[Image:Box0706 1.jpg|250px|2005 Porsche Boxster S]]
+| name = Porsche 987
+| manufacturer = [[Porsche]]
+| parent_company =
+| aka =
+| production = 2005&ndash;
+| assembly = [[Uusikaupunki]], [[Finland]]
+| predecessor =
+| successor =
+| class =
+| body_style =
+| layout = 
+| platform =
+| engine = 2.7 L [[flat-6]] (2005-2008)<br />2.9 L [[flat-6]] (2009-)<br />3.2 L [[flat-6]] (2005-2006)<br />3.4 L [[flat-6]] (2007-)
+| transmission =
+| wheelbase = {{auto in|95.1}}<ref name="BestSportsCar">{{cite web | url = http://www.roadandtrack.com/assets/download/0503_best_sports_car_data_panel.pdf | title = Best All-Around Sports Car | accessdate = 2008-03-18 | year = 2005 | month = March | format = PDF | work = Road & Track | publisher = Hachette Filipacchi Media U.S., Inc. }}</ref>
+| length = 2005-08: {{auto in|171.6|0}}<ref name="BestSportsCar"/><br />2009-: {{Auto in|172.0|0}}
+| width = 2005-08: {{auto in|70.9|0}}<ref name="BestSportsCar"/><br />2009-: {{Auto in|71.5|0}}
+| height = {{auto in|51.0|0}}<ref name="BestSportsCar"/>
+| weight = {{convert|3130|lb|kg|0|abbr=on}}<ref name="BestSportsCar"/>
+| fuel_capacity = {{convert|16.9|USgal|L|1|abbr=on}}<ref name="BestSportsCar"/>
+| electric_range =
+| related = [[Porsche Cayman]]
+| designer =
+| transmission = 5-speed [[automatic transmission|automatic]]<br />5-speed [[manual transmission|manual]]<br />6-speed manual<br />7-speed [[Dual clutch transmission|DCT]]
+}}
+The second generation of the Boxster (internally known as the 987) made its debut at the 2004 [[Paris Motor Show]] alongside the [[Porsche 997|new 911 (997)]].  The car became available for model year 2005.
+
+In appearance the car remains very similar to the previous generation. The most obvious styling change is to the headlights, which now have a profile similar to those of the Carrera GT, Porsche's mid-engined supercar. The intake vents on the sides of the Boxster are now larger, with more pronounced horizontal slats and are coloured metallic silver, irrespective of the paint colour on the rest of the car. The wheel arches have been enlarged to allow wheels up to 19 inches in diameter, a first for the Boxster series. The most significant updates from the 986 series are in the interior, with a more prominent circular theme evident in the instrument cluster and cooling vents. Porsche claims that the 987 Boxster shares only 20% of its components with its predecessor, despite their being almost identical from the outside. The base engine is a 2.7&nbsp;L 176&nbsp;kW (240&nbsp;hp) [[flat-6]], with the Boxster S getting a 3.2&nbsp;L 206&nbsp;kW (280&nbsp;hp) engine. The [[Porsche Cayman|Cayman]] series is derived from the 987.
+
+For the 2007 model year the base Boxster received a revised engine featuring VarioCam Plus to provide a {{convert|5|hp|abbr=on}} boost (245&nbsp;hp; the same as the Cayman). The Boxster S engine was upgraded from 3.2L to 3.4L, resulting in the production of 15 more hp (295&nbsp;hp; the same as the Cayman S). These upgrades made the Boxster series and the Cayman series equivalent in terms of horsepower.
+
+'''Boxster 987 model history'''
+:;MY 2005
+:*2.7L {{convert|176.5|kW|PS hp|0|abbr=on}}
+:*3.2L {{convert|206|kW|PS hp|0|abbr=on}} <small>Boxster S</small>
+:;MY 2007
+:*2.7L {{convert|180|kW|PS hp|0|abbr=on}}
+:*3.4L {{convert|217|kW|PS hp|0|abbr=on}} <small>Boxster S</small>
+
+=== 987 Generation II ===
+Porsche first revealed the face-lifted 2009 Boxster and Boxster S models at the [[Los Angeles International Auto Show]] in November 2008. Both models feature greater horsepower due to an increase in engine displacement for the Boxster and the incorporation of [[Gasoline direct injection|Direct Fuel Injection]] (DFI) for the Boxster S. Both models are now available with Porsche's new 7-speed ''Porsche Doppelkupplungsgetriebe'' (PDK)  [[dual clutch transmission|dual clutch gearbox]] but come standard with a new 6-speed [[manual transmission|manual]] gearbox. Displacement in the standard Boxster's flat-six engine increased from 2.7 to 2.9 liters, increasing horsepower from 245 to 255. Use of DFI in the Boxster S raised the output of the 3.4 liter engine from 295 to 310 horsepower. Cosmetic changes to the 2009 Boxster and Boxster S include new head and tail lights, larger front air intakes with incorporated [[Daytime running lamp|day time running lights]], and an altered lower rear end flanked by twin [[diffuser (automotive)|diffusers]]. The interior includes the redesigned Porsche Communication Management System as an option with a touchscreen interface to reduce button clutter.<ref>[http://www.porsche.com/microsite/boxster/usa.aspx Official Porsche Boxster Microsite]</ref>
+
+'''Boxster 987 Gen II model history'''
+:;MY 2009
+:*2.9L {{convert|188|kW|PS hp|0|abbr=on}}
+:*3.4L {{convert|228|kW|PS hp|0|abbr=on}}
+
+=== Limited Editions ===
+[[File:'10 Porsche Boxster (MIAS).JPG|thumb|left|2008 Porsche Design Edition 2 (North America)]]
+==== RS60 Spyder ====
+In November 2007, Porsche announced a commemorative RS60 Spyder edition of the Boxster to celebrate Porsche's 1960 win in the 12 Hours of Sebring in [[Florida]].<ref>[http://www.porsche.com/usa/aboutporsche/pressreleases/pag/archive2007/quarter4/?pool=international-de&id=2007-11-27 Boxster RS 60 Spyder in Limited Edition]</ref>  Only 1960 units in this series are to be produced worldwide, with approximately 800 slated for the U.S. with each model bearing a numbered production badge on the dash.  The RS60 Spyder comes in only GT Silver Metallic while the standard interior is Carrera Red leather, with dark gray leather as an option.  The RS60 comes standard with 19" SportDesign alloy wheels, Porsche's Active Suspension Management System, and a sports exhaust that boosts the engine output to {{convert|303|PS|kW hp|0|abbr=on}} .  The base price for the RS60 Spyder is $64,900 USD.
+
+==== Porsche Design Edition 2 ====
+Porsche also announced the production of limited Boxster S Porsche Design Edition 2, to be available on October 2008 as 2009 model.<ref>[http://www.caranddriver.com/reviews/hot_lists/high_performance/porsche_file/2009_porsche_boxster_s_porsche_design_edition_2_and_cayman_s_sport_car_news 2009 Porsche Boxster S Porsche Design Edition 2 and Cayman S Sport - Car News]</ref> It features freer-flowing exhaust, which raises power from {{convert|295|PS|kW hp|0|abbr=on}} at 6250 rpm to {{convert|303|PS|kW hp|0|abbr=on}} at an identical 6250 rpm. It came in a unified Carrara White paint scheme with matching white 19-inch wheels, a black and gray interior with white gauges, red taillights and light gray stripes along the entire body. 500 are to be made for worldwide market, with 100 for the U.S. and Canada. The base price for the PDE2 Boxster is $66,900 USD.
+
+=== Boxster Spyder ===
+
+On November 5, 2009, Porsche officially announced the creation of a new production Boxster to be unveiled at the 2009 Los Angeles Motor Show. To be positioned above the Boxster S, the Boxster Spyder will be the lightest Porsche on the market, weighing 2811 pounds (approximately 1278 kilograms). The car will ride on a firmer suspension than the other Boxster models, and will also be almost one inch lower in order to have firmer handling. A manually-operated canvas top, sports bucket seats and two signature humps running along the back of the vehicle provide characteristic design elements. It will offer a six-cylinder boxer engine with 320 horsepower and 273 lb-ft of torque (a 10 horsepower increase over the engine in the Boxster S and the same engine used in the related Cayman S), with manual transmission as standard and Porsche's PDK dual-clutch gearbox as an option. The vehicle will be released worldwide in February 2010 as a 2011 model with a base price of 61200 USD. <ref>[http://www.leftlanenews.com/porsche-boxster-spyder.html 2011 Porsche Boxster Spyder unveiled]</ref>
+
+==Racing==
+
+*Three Boxsters are currently used in the [[KONI Challenge Series]] Street Tuner class.<ref>{{cite web|url=http://www.grand-am.com/schedule/entrylist.cfm?series=k&eid=887 |title=Event Information - Entry List |publisher=Grand-am.com |date= |accessdate=2009-10-04}}</ref>
+
+== Awards ==
+Within a year of marketplace acceptance in the United States the original Boxster received many awards, including:
+
+*[[Car and Driver|''Car and Driver'']] – One of the ''10 Best Cars'' of 1997
+*[[Automobile Magazine|''Automobile'']] – ''Automobile of the Year''
+*[[Motor magazine|''Motor'']] – 1997 ''Performance Car of the Year''
+*''[[Autocar]]'' – ''Best Roadster in the World''
+*''Motorweek'' – 1997 ''Drivers Choice for Best Sports Car''
+*''[[The Philadelphia Inquirer]]'' – ''Best Sports Car of the Decade''
+*''[[Newsweek]]'' – One of the ''Best New Products'' of 1997
+*''[[BusinessWeek]]'' – One of the ''Best New Products'' of 1997
+*American Marketing Association – ''Best New Product'' of 1997
+*Automobile Journalists of Canada – 1997 ''Car of the Year''
+*Automobile Journalists of Canada – ''Best Design'' of 1997
+
+The Boxster has been on ''[[Car and Driver]]'' magazine's annual [[Car and Driver Ten Best|Ten Best]] list nine times, from 1998 through 2003 and 2006 through 2008.
+
+The Boxster S (986s) was rated one of the top ten Porsches of all time by [[Excellence (magazine)|Excellence]] magazine.
+
+The Boxster (both 986 and 987 generations) is [[Evo Magazine|evo]] magazine's recommended buy in the 'Sports Car' category and has been since the model's introduction.
+
+==References==
+{{reflist}}
+* "Into the Sunshine: 2005 Porsche Boxster Revealed", an article in the "News" section on page four of the [[10 May]] [[2004]] issue of ''[[AutoWeek]]''
+
+* "Cover featuring the 2010 Porsche Boxster. November 2007 issue of ''[[Road & Track]]
+
+== External links ==
+{{Commonscat|Porsche Boxster}}
+*[http://www.porsche.com/usa/models/boxster/ Boxster models at official Porsche website]
+*[http://www.porschearchive.com/ original spec for every Boxster variant]
+*[http://www.986faq.com/ Porsche Boxster FAQ]
+*[http://boxster.wikia.com Boxster Tech Wiki]
+*{{dmoz|Recreation/Autos/Makes_and_Models/Porsche/Boxster/|Porsche Boxster}}
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|Boxster]]
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+[[Category:Roadsters]]
+[[Category:Sports cars]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1996]]
+[[Category:Vehicles with boxer engines]]
+
+[[ca:Porsche Boxster]]
+[[de:Porsche Boxster]]
+[[et:Porsche Boxster]]
+[[es:Porsche Boxster]]
+[[fr:Porsche Boxster]]
+[[hr:Porsche Boxster]]
+[[io:Porsche Boxster]]
+[[it:Porsche Boxster]]
+[[lv:Porsche Boxster]]
+[[nah:Porsche 987 Boxster]]
+[[nl:Porsche Boxster]]
+[[ja:ポルシェ・ボクスター]]
+[[no:Porsche Boxster]]
+[[pl:Porsche 986 Boxster]]
+[[pt:Porsche Boxster]]
+[[ru:Porsche Boxster]]
+[[fi:Porsche Boxster]]
+[[sv:Porsche Boxster]]
+[[tr:Porsche Boxster]]
+[[uk:Porsche Boxster]]

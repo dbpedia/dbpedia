@@ -1,0 +1,59 @@
+{{Infobox Automobile
+|name=BMW N46 engine
+|manufacturer=[[BMW]]
+|production=[[2004]]&ndash;
+|predecessor=[[BMW N42]]
+|class=[[Straight-4]]
+|engine=1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)<br>2.0&nbsp;L (1995&nbsp;cc/121&nbsp;in³)
+}}
+The '''N46''' is the larger of two modern [[straight-4]] [[automobile]] [[piston engine]] families from [[BMW]], the smaller being the [[BMW N45|N45]]. The series debuted with the [[BMW E46|E46 316i]] and [[BMW Compact|316ti]] and [[BMW E87|E87 120i]] in [[2004]].
+__NOTOC__
+==Models==
+{| class=wikitable
+|-
+!Engine!!Displacement!!Stroke/Bore!!Power!!Torque!!Redline!!Year
+|-
+|[[#N46B18|N46B18]]||1.8&nbsp;[[Litre|L]] (1796&nbsp;[[cubic centimeter|cc]]/109&nbsp;in³)||90 mm/84 mm||85&nbsp;[[Watt|kW]] (115&nbsp;[[Horsepower|hp]]) @ 5500||175&nbsp;[[Newton metre|N·m]] (129&nbsp;[[Foot-pound force|ft·lbf]]) @ 3750|| ||2004
+|-
+|rowspan=4|[[#N46B20|N46B20]]||rowspan=4|2.0&nbsp;L (1995&nbsp;cc/121&nbsp;in³)||rowspan=4|90 mm/84 mm||95&nbsp;kW (129&nbsp;hp) @ 5750||180&nbsp;N·m (132&nbsp;ft·lbf) @ 3250|| ||2004
+|-
+|105&nbsp;kW (143&nbsp;hp) @ 6000||200&nbsp;N·m (147&nbsp;ft·lbf) @ 3750|| ||2004
+|-
+|110&nbsp;kW (150&nbsp;hp) @ 6200||200&nbsp;N·m (147&nbsp;ft·lbf) @ 3600|| ||2004
+|-
+|110&nbsp;kW (150&nbsp;hp) @ 6200||200&nbsp;N·m (147&nbsp;ft·lbf) @ 3750|| ||2005
+|}
+
+==N46B18==
+The '''N46B18''' is a 1.8&nbsp;L (1796&nbsp;cc) engine producing 85&nbsp;kW (114&nbsp;hp) and 175&nbsp;N·m (129&nbsp;ft·lbf).
+
+Applications:
+* [[BMW E46|E46]] [[BMW 3 Series|316i/316ti]]
+
+==N46B20==
+The '''N46B20''' is a larger 2.0&nbsp;L (1995&nbsp;cc) engine.
+
+Applications:
+* 95&nbsp;kW (127&nbsp;hp) and 180&nbsp;N·m (133&nbsp;ft·lbf)
+** [[BMW E87|E87]] [[BMW 1 Series|118i]]
+** [[BMW E90|E90/E91]] [[BMW 3 Series|318i]]
+* 105&nbsp;kW (141&nbsp;hp) and 200&nbsp;N·m (148&nbsp;ft·lbf)
+** [[BMW E46|E46]] [[BMW 3 Series|318i/318Ci/318ti]]
+* 110&nbsp;kW (148&nbsp;hp) and 200&nbsp;N·m (148&nbsp;ft·lbf)
+** [[BMW E46|E46]] [[BMW 3 Series|318Ci]]
+** [[BMW E85|E85]] [[BMW Z4|Z4 2.0i]]
+** [[BMW E87|E87]] [[BMW 1 Series|120i]]
+** [[BMW E90|E90/E91]] [[BMW 3 Series|320i]]
+
+==See also==
+* [[List of BMW engines]]
+* [[BMW N45]]
+
+[[Category:BMW engines|N46]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:BMW N46]]
+[[es:BMW N46]]
+[[it:BMW N46]]
+[[no:BMW N46]]
+[[pl:BMW N46]]

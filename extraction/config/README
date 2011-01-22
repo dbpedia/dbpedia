@@ -1,0 +1,7 @@
+The two files
+logger_default.ini
+dbpedia_default.ini
+
+are overwritten by local ini files,
+i.e. create logger.ini or dbpedia.ini in config/
+and insert values there to overwrite default

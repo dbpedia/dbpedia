@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = college
+|rdfs:domain = FootballPlayer
+|rdfs:range = EducationalInstitution
+}}

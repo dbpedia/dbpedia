@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = orbital inclination
+| rdfs:domain = SpaceMission
+| rdfs:range = xsd:float
+}}

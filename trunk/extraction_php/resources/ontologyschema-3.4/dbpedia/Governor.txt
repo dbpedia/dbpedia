@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Governor
+|rdfs:subClassOf = Politician
+}}

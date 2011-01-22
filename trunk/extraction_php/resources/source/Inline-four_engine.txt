@@ -1,0 +1,93 @@
+[[Image:Ford-I4DOHC-engblock.jpeg|thumb|250px|Ford inline-four engine with cylinder head removed]]
+{{Refimprove|date=July 2009}}
+The '''inline-four engine''' or '''straight-four engine''' is a four-cylinder [[internal combustion engine]] with all four [[cylinder (engine)|cylinders]] mounted in a straight line, or plane along the [[crankcase]].  The single bank of cylinders may be oriented in either a vertical or an inclined plane with all the [[piston]]s driving a common [[crankshaft]].  Where it is inclined, it is sometimes called a '''slant-four'''.  In a specification chart or when an abbreviation is used, an inline-four engine is listed as '''I4'''.
+
+The inline-four layout is the simplest design which is in perfect [[engine balance|primary balance]] and confers a degree of mechanical simplicity which makes it popular for economy cars.<ref>Nunney, ''Light and Heavy Vehicle Technology'', page 12</ref>  However, despite its simplicity, it suffers from a secondary imbalance which causes minor vibrations in smaller engines.  These vibrations become worse as engine size and power increase, so the more powerful engines used in larger cars generally are more complex designs with more than four cylinders.
+
+==Displacement==
+This [[inline engine]] configuration is the most common in [[automobile|car]]s with a [[engine displacement|displacement]] up to 2.4&nbsp;[[litre]]s.  The usual "practical" limit of the displacement of inline-four engines in a car is around 2.7&nbsp;litres.  However, [[Porsche]] used a 3.0&nbsp;litre four in its [[Porsche 944|944 S2]] and [[Porsche 968|968]] sports cars, and Rolls Royce produced several 4-cylinder engines of 2838cc with basic cylinder dimensions of 3.5 inch diameter and 4.5 inch stroke (Rolls Royce B40); 
+
+Classic and Antique vehicles tended to have larger displacements to develop horsepower and torque.  The Model A Ford was built with a 3.3&nbsp;litre inline-four engine. 
+
+Four-cylinder diesel engines, which are lower revving than gasoline engines, often exceed 3.0 litres. Mitsubishi still employs a 3.2&nbsp;litre four-cylinder [[turbodiesel]] in its Pajero (called the Shogun or Montero in certain markets), and Tata Motors employs a 3.0&nbsp;litre four-cylinder diesel in its Spacio and Sumo Victa.
+
+The [[Toyota B engine|Toyota B engine series]] of diesel engines varies in displacement from 3.0 to 4.1&nbsp;litres. The largest engine in that series was used in the [[Toyota Mega Cruiser|Mega Cruiser]].
+
+Larger four-cylinder engines are used in industrial applications, such as in small trucks and tractors, are often found with displacements up to about 4.6&nbsp;litres. [[Diesel engine]]s for stationary, marine and [[diesel locomotive|locomotive]] use (which run at low speeds) are made in much larger sizes.
+
+Displacement can also be very small, as found in [[kei cars]] sold in Japan, such as the [[Subaru EN engine|Subaru EN series]]; engines that started out at 550&nbsp;cc and are currently at 660&nbsp;cc, with variable valve timing, [[DOHC]] and superchargers resulting in engines that produce {{convert|65|PS|kW bhp|0|abbr=on}}.
+
+==Balance and smoothness==
+[[Image:Engine movingparts.jpg|thumb|250px|Computer generated image showing the major internal moving parts of an inline-four engine with belt-driven double overhead camshafts and 4 valves per cylinder.]]
+The inline-four engine is much smoother than one, two, and three cylinder engines, and this has resulted in it becoming the engine of choice for most economy cars, although it can be found in some sports cars as well.  However, the inline-four is not a fully [[engine balance|balanced]] configuration.
+
+An even-firing inline-four engine is in primary balance because the pistons are moving in pairs, and one pair of pistons is always moving up at the same time as the other pair is moving down.  However, piston acceleration and deceleration are greater in the top half of the crankshaft rotation than in the bottom half, because the connecting rods are not infinitely long.  As a result, two pistons are always accelerating faster in one direction, while the other two are accelerating more slowly in the other direction, which leads to a secondary dynamic imbalance that causes an up-and-down vibration at twice crankshaft speed.  This imbalance is tolerable in a small, low-displacement, low-power configuration, but the vibrations get worse with increasing size and power.<ref>Nunney, 14-15</ref>
+
+The reason for the piston's higher speed during the 180° rotation from mid-stroke through top-dead-centre, and back to mid-stroke, is that the minor contribution to the piston's up/down movement from the connecting rod's change of angle here has the same direction as the major contribution to the piston's up/down movement from the up/down movement of the crank pin.  By contrast, during the 180° rotation from mid-stroke through bottom-dead-centre and back to mid-stroke the minor contribution to the piston's up/down movement from the connecting rod's change of angle has the opposite direction of the major contribution to the piston's up/down movement from the up/down movement of the crank pin.
+
+Most inline-four engines below 2.0&nbsp;[[litre]]s in displacement rely on the damping effect of their engine mounts to reduce the vibrations to acceptable levels . Above 2.0&nbsp;litres, most modern inline-four engines now use [[balance shaft]]s to eliminate the second-order harmonic vibrations.  In a system invented by Dr. [[Frederick W. Lanchester]] in 1911, and popularised by [[Mitsubishi Motors]] in the 1970s, a inline-four engine uses two balance shafts, rotating in opposite directions at twice the crankshaft's speed, to offset the differences in piston speed.<ref>Nunney, 42-44</ref>  However, in the past, there were numerous examples of larger inline-fours without balance shafts, such as the [[Citroën DS|Citroën DS 23]] 2347&nbsp;cc engine that was a derivative of the [[Citroën Traction Avant|Traction Avant]] engine, the 1948 [[Austin Motor Company|Austin]] 2660&nbsp;cc engine used in the [[Austin-Healey 100]] and [[Austin Atlantic]], the 3.3&nbsp;litre [[flathead engine]] used in the [[Ford Model A (1927)]], and the 2.5&nbsp;litre [[GM Iron Duke engine]] used in a number of American cars and trucks.  Soviet/Russian [[Volga (automobile)|GAZ Volga]] cars and [[UAZ]] SUVs, vans and light trucks used [[aluminium]] big-bore inline-four engines (2.5 or later 2.9&nbsp;litres) with no balance shafts in 1950s-1990s.  These engines were generally the result of a long incremental evolution process and their power was kept low compared to their capacity.  However, the forces increase with the square of the engine speed&mdash;that is, doubling the speed makes the vibration four times worse&mdash;so modern high-speed inline-fours have more need to use balance shafts to offset the vibrations.<ref>Nunney, 40-44.</ref>
+
+Four cylinder engines also have a smoothness problem in that the power strokes of the pistons do not overlap.  With four cylinders and four cycles to complete, each piston must complete its power stroke and come to a complete stop before the next piston can start a new power stroke, resulting in a pause between each power stroke and a pulsating delivery of power.  In engines with more cylinders, the power strokes overlap, which gives them a smoother delivery of power and less vibration than a four can achieve.  As a result, six and eight cylinder engines are generally used in more luxurious and expensive cars.
+
+==Automobile use==
+===Notable production inline-four engines ===
+[[Image:Fordsidevalve.jpg|thumb|[[Ford Model T]] engine]]
+[[list of automotive superlatives|The smallest]] automobile production inline-four engine powered the 1961 [[Mazda Carol|Mazda P360 Carol]] [[kei car]].  Displacing just 358&nbsp;cc, the ''[[Mazda OHV engine#358|Mazda OHV]]'' was a conventional but tiny [[pushrod]] engine.  Honda produced, from 1963 to 1967, a 356&nbsp;cc inline-four engine for the [[Honda T360|T360]] truck.  Inline-four motorcycle engines are built down to 250&nbsp;cc, e.g. in the [[Honda CBR250]].
+
+Most inline-four engines, however, have been over 0.7&nbsp;litres in displacement.  A practical upper limit could be placed in the 2.5&nbsp;litre range for contemporary production cars.  Larger engines (up to 4.5&nbsp;litres) have been seen in racing and light [[truck]] use, especially using [[diesel fuel]] (an example is the Mercedes-Benz MBE 904).  The use of balance shafts allowed [[Porsche]] to use a 3.0&nbsp;litres (2990&nbsp;cc) inline-four engine on road cars first in the [[Porsche 944#944S2|944 S2]] (1989-1991), but the largest modern non-diesel was the plain 3.2&nbsp;litre (3188&nbsp;cc) ''[[Pontiac V8 engine#195|195]]'' in the 1961 [[Pontiac Tempest]].
+
+Currently, one of the largest inline-four engines is the 2.89&nbsp;litre UMZ 421 series [[UMZ]] engine (Russian engine).
+
+In the early 20th century, bigger engines existed, both in road cars and sports cars.  Due to the absence of displacement limit regulations, manufacturers took increasing liberties with engine size.  In order to achieve power over {{convert|100|hp}}, most engine builders simply increased displacement, which could sometimes achieve over 10.0&nbsp;litres.  One of the biggest inline-fours of its time was [[De Dietrich]] 17,000&nbsp;cc engine.  Its cubic capacity is over twice the size of the Cadillac's 500&nbsp;[[Cubic inch|CID]] 8.2&nbsp;litre [[V8 engine]], which was considered the largest engine of its type in the 1970s.  These engines ran at very low rpm, often less than 1,500&nbsp;rpm maximum, and had a specific output of about 10&nbsp;hp/L.  The US tractor industry both farm and industrial relied on large four cylinder power units until the early 1960s, when six cylinder designs came into favor.  International Harvester built a large 5.7&nbsp;litre (350&nbsp;CID) four cylinder for their WD-9 series tractors.
+
+Other technologically or historically notable engines using this configuration include:
+*[[Alfa Romeo Twin Cam engine]] - one of the first mass produced twincam engines produced from 1954.  Also first engine in production car with [[variable valve timing]].
+*[[BMC A-Series engine]] - the first engine to be used in a transverse drive train powering the front wheels of a mass-produced automobile ([[Mini]]) .
+*[[Chevrolet]] [[Cosworth]] Twin-Cam [[Chevrolet Vega|Vega]] - 16 valves-all aluminum (block & head)-electronic fuel injection-stainless steel headers.
+* [[Dodge]] A853 - intercooled turbo engine from the [[Dodge SRT-4|SRT-4]], set the land speed record for 4 cylinder production cars at the [[Bonneville Salt Flats]].
+*[[Ford Model T engine]] - one of the most-widely produced engines in the world.
+*[[Ford Model A]] engine - the follow-up design to the Model T.
+*[[GM Quad-4 engine]] - twin-cam Oldsmobile engine offered in GM small, sporty cars. 
+*[[Honda E engine#ED|Honda ED engine]] - first use of Honda's [[CVCC]] technology.
+*[[Honda F20C engine]] - its {{convert|240|hp}} from 2.0&nbsp;litre was the highest specific output of its time, particularly noteworthy in that it achieved this without [[forced induction]].
+*[[Mitsubishi Sirius engine]] - includes the 4G63, which has the highest specific output of a turbocharged production engine in the world with the Lancer Evolution FQ-400 available in the United Kingdom (202.9&nbsp;hp per litre)
+*[[Triumph Slant-4 engine]] - the first mass-produced [[multi-valve]] engine for [[Triumph Motor Company|Triumph]] and an early [[turbo]] engine for [[Saab Automobile|Saab]]
+*[[Willys Go Devil engine|Willys L-134 engine]] - nicknamed the Go Devil engine.  Powered the World War II [[Willys MB|Jeep]] and post-war models.  Notably undersquare, with 3.125 in (79.4&nbsp;mm) bore and 4.375 in (111.1&nbsp;mm) stroke.
+
+===Racing use===
+1913 saw a [[Peugeot]] driven by [[Jules Goux]] winning the [[Indianapolis 500]].  This car was powered by a inline-four engine designed by [[Ernest Henry (engineer)|Ernest Henry]].  This design was very influential for racing engines as it featured for the first time dual overhead camshafts ([[DOHC]]) and four [[poppet valve|valve]]s per cylinder, a layout that would become the standard until today for racing inline-four engines.<ref>Ludvigsen, ''Classic Racing Engines'',pages 14–17</ref>
+
+This Peugeot was sold to the American driver [[Bob Burman|"Wild Bob" Burman]] who broke the engine in 1915.  As Peugeot couldn't deliver a new engine during [[World War I]], Burman asked [[Harry Arminius Miller]] to build a new engine.  With John Edward and [[Fred Offenhauser]], Miller created a Peugeot-inspired inline-four engine.  This was the first version of the engine that would dominate the Indianapolis 500 until 1976 under the brand Miller and later [[Offenhauser]].  The Offenhausers won five straight victories at Indianapolis from 1971 to 1976, and it was not until 1981 that they were eliminated as competitors by engines such as the [[Cosworth]] [[V8 engine]].<ref>Ludvigsen, 182-185.</ref>
+
+Many cars produced for the pre-[[World War II|WWII]] [[voiturette]] [[Grand Prix motor racing]] category used inline-four engine designs.  1.5&nbsp;[[litre]] [[supercharger|supercharged]] engines found their way into cars such as the [[Maserati 4CL]] and various [[English Racing Automobiles]] (ERA) models.  These were resurrected after the war, and formed the foundation of what was later to become [[Formula One]], altought the straight-eight supercharged Alfettas would dominate the early years of F1.
+
+Another engine that played an important role in racing history is the inline-four [[Ferrari]] engine designed by [[Aurelio Lampredi]].  This engine was originally designed as a 2&nbsp;litre [[Formula 2]] engine for the Ferrari 500, but evolved to 2.5&nbsp;litres to compete in [[Formula One]] in the Ferrari 625.<ref>Ludvigsen, 78-81 ,86-89.</ref>  For [[sports car]] racing, capacity was increased up to 3.4&nbsp;litres for the Ferrari 860 Monza.
+
+Yet another very successful engine was the [[Coventry Climax]] inline-four originally designed by [[Walter Hassan]] as a 1.5&nbsp;litre Formula 2 engine.  Enlarged to 2.0&nbsp;litres for Formula One in 1958, it evolved into the large 2495&nbsp;cc FPF that won the Formula One championship in [[Cooper Car Company|Cooper]]'s chassis in 1959 and 1960.<ref>Ludvigsen, 130-133.</ref>
+
+==Motorcycle use==
+[[Image:Honda CB750 Engine.jpg|thumb|Honda CB750 engine]]
+[[list of automotive superlatives|The smallest]] production motorcycle inline-four engine was the [[four-stroke engine]] powered the 231&nbsp;cc Benelli/Moto Guzzi 254.  For racing, Honda built inline-four engines as small as a 125&nbsp;cc for the Honda 125/4.  This engine was replaced by a 125&nbsp;cc [[straight-five engine]].  The largest proprietary inline-four engine in a commercially-produced motorcycle is the 1402&nbsp;cc engine in the [[Suzuki GSX1400]].
+
+Modern inline-four motorcycle engines first gained their popularity with [[Honda]]'s [[overhead camshaft#single overhead camshaft|SOHC]] [[Honda CB750|CB750]] in the 1970s.  Since then, the inline-four has become one of the most common engine configurations in street bikes.  Outside of the [[cruiser (motorcycle)|cruiser]] category, the inline-four is simply the most common configuration because of its relatively high performance-to-cost ratio.  All of the Japanese motorcycle manufacturers offer motorcycles with inline-four engines, as does [[MV Agusta]] and [[BMW motorcycles|BMW]] who employ both [[longitudinal engine|longitudinal]] and [[transverse engine|transverse]]-mounted engines.  Even the modern [[Triumph Motorcycles Ltd|Triumph]] company has offered inline-four-powered motorcycles, though they were discontinued in favour of a [[Triumph Triple|triple]].
+
+The 2009 [[Yamaha R1]] has an interesting inline-four engine that does not fire at even intervals of 180 degrees.
+
+==Notes & references==
+{{reflist}}
+
+*{{cite book|last=Ludvigsen|first=Karl|title=Classic Racing Engines|publisher=Haynes Publishing|year=2001|isbn=1-8596-0649-0}}
+*{{cite book|last=Nunney|first=M J|title=Light and Heavy Vehicle Technology|edition=4th|publisher=Butterworth-Heinemann|year=2006|isbn=0-7506-8037-7}}
+
+{{Piston engine configurations}}
+
+{{DEFAULTSORT:Inline-Four Engine}}
+[[Category:Piston engine configurations|Straight-04]]
+
+[[da:Rækkemotor-4]]
+[[lt:I4]]
+[[ja:直列4気筒]]
+[[no:Rekkefirer]]
+[[pt:Motor de quatro cilindros em linha]]
+[[ru:Рядный четырёхцилиндровый двигатель]]
+[[zh:直列四缸]]

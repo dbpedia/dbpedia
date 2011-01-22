@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = BAFTA Award
+| rdfs:domain = Artist
+| rdfs:range = Award
+}}

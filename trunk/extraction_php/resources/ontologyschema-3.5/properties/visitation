@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = visitation
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = distributing label
+| rdfs:domain = RecordLabel
+| rdfs:range = RecordLabel
+}}

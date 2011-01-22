@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = melting point
+|rdfs:domain = Drug
+|rdfs:range = kelvin
+}}

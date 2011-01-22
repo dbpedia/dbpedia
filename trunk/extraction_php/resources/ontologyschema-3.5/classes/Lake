@@ -1,0 +1,7 @@
+{{Class
+| rdfs:label = Lake
+| rdfs:subClassOf = BodyOfWater
+| specificProperties = {{SpecificProperty | ontologyProperty = shoreLength | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = areaOfCatchment | unit = squareKilometre }}
+                       {{SpecificProperty | ontologyProperty = volume | unit = cubicMetre }}
+}}

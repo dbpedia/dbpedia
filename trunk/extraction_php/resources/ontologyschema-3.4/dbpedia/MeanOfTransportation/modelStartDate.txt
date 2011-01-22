@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= model start date
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= xsd:date
+}}

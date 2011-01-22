@@ -1,0 +1,14 @@
+{{ DummyTemplate |
+swedish = Smålland |
+deutsch = Türschließanlage |
+francais = Françoise, été |
+espanol = España |
+degree Celsius = °C |
+japanese = ベルリン |
+chinese = 柏林 }}
+ 
+swedish: Smålland, deutsch: Türschließanlage, francais: Françoise, été,
+espanol:España, degree Celsius: °C, japanese = ベルリン, chinese:柏林
+
+== Next Section ==
+ 

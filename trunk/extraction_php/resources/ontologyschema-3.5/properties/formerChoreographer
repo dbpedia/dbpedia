@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = former choreographer
+| rdfs:domain = FigureSkater
+| rdfs:range = Person
+}}

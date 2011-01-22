@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = contractor
+| rdfs:domain = Skyscraper
+| rdfs:range = Company
+}}

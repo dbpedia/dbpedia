@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Olympic Result
+|rdfs:subClassOf = owl:Thing
+}}

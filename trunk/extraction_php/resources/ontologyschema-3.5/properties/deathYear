@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = death year
+| rdfs:domain = Person
+| rdfs:range = xsd:gYear
+}}

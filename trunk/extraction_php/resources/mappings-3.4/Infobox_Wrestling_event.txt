@@ -1,0 +1,12 @@
+{{ DBpediaTemplateMapping
+| mapToClass = WrestlingEvent
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = promotion | ontologyProperty = WrestlingEvent/promotion }}
+	{{ DBpediaPropertyMapping | templateProperty = brand | ontologyProperty = WrestlingEvent/brand }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = date | ontologyProperty = Event/date }}
+	{{ DBpediaPropertyMapping | templateProperty = venue | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = lastevent | ontologyProperty = Event/previousEvent }}
+	{{ DBpediaPropertyMapping | templateProperty = nextevent | ontologyProperty = Event/followingEvent }}
+}}

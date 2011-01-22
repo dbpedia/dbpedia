@@ -1,0 +1,8 @@
+{{TemplateMapping
+| mapToClass = LunarCrater
+| mappings = 
+	{{PropertyMapping | templateProperty = diameter | ontologyProperty = diameter | unit = kilometre }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = depth | ontologyProperty = depth | unit = kilometre }}
+	{{GeocoordinatesMapping | latitude = latitude  | longitudeDirection = N_or_S  | longitude = longitude  | latitudeDirection = E_or_W }}
+}}

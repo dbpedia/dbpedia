@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = population metro density
+|rdfs:domain = PopulatedPlace
+|rdfs:range = inhabitantsPerSquareKilometre
+}}

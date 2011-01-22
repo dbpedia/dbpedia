@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = starring
+| rdfs:range = Person
+}}

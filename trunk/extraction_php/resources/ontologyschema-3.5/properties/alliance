@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = alliance
+| rdfs:domain = Airline
+}}

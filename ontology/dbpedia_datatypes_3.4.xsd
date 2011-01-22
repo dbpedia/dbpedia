@@ -1,0 +1,192 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://dbpedia.org/ontology/" elementFormDefault="qualified">
+<simpleType name="Area" base="double" />
+	<simpleType name="squareMillimetre" base="Area" />
+	<simpleType name="squareCentimetre" base="Area" />
+	<simpleType name="squareDecimetre" base="Area" />
+	<simpleType name="squareMetre" base="Area" />
+	<simpleType name="squareDecametre" base="Area" />
+	<simpleType name="squareHectometre" base="Area" />
+	<simpleType name="squareKilometre" base="Area" />
+	<simpleType name="hectare" base="Area" />
+	<simpleType name="squareInch" base="Area" />
+	<simpleType name="squareFoot" base="Area" />
+	<simpleType name="squareYard" base="Area" />
+	<simpleType name="acre" base="Area" />
+	<simpleType name="squareMile" base="Area" />
+	<simpleType name="squareNauticalMile" base="Area" />
+<simpleType name="Volume" base="double" />
+	<simpleType name="cubicMillimetre" base="Volume" />
+	<simpleType name="cubicCentimetre" base="Volume" />
+	<simpleType name="cubicDecimetre" base="Volume" />
+	<simpleType name="cubicMetre" base="Volume" />
+	<simpleType name="cubicDecametre" base="Volume" />
+	<simpleType name="cubicHectometre" base="Volume" />
+	<simpleType name="cubicKilometre" base="Volume" />
+	<simpleType name="microlitre" base="Volume" />
+	<simpleType name="millilitre" base="Volume" />
+	<simpleType name="centilitre" base="Volume" />
+	<simpleType name="decilitre" base="Volume" />
+	<simpleType name="litre" base="Volume" />
+	<simpleType name="decalitre" base="Volume" />
+	<simpleType name="hectolitre" base="Volume" />
+	<simpleType name="kilolitre" base="Volume" />
+	<simpleType name="megalitre" base="Volume" />
+	<simpleType name="gigalitre" base="Volume" />
+	<simpleType name="cubicMile" base="Volume" />
+	<simpleType name="cubicYard" base="Volume" />
+	<simpleType name="cubicFoot" base="Volume" />
+	<simpleType name="cubicInch" base="Volume" />
+	<simpleType name="imperialBarrel" base="Volume" />
+	<simpleType name="usBarrel" base="Volume" />
+	<simpleType name="imperialBarrelOil" base="Volume" />
+	<simpleType name="usBarrelOil" base="Volume" />
+	<simpleType name="imperialGallon" base="Volume" />
+	<simpleType name="usGallon" base="Volume" />
+<simpleType name="Length" base="double" />
+	<simpleType name="nanometre" base="Length" />
+	<simpleType name="micrometre" base="Length" />
+	<simpleType name="millimetre" base="Length" />
+	<simpleType name="centimetre" base="Length" />
+	<simpleType name="decimetre" base="Length" />
+	<simpleType name="metre" base="Length" />
+	<simpleType name="decametre" base="Length" />
+	<simpleType name="hectometre" base="Length" />
+	<simpleType name="kilometre" base="Length" />
+	<simpleType name="megametre" base="Length" />
+	<simpleType name="gigametre" base="Length" />
+	<simpleType name="inch" base="Length" />
+	<simpleType name="hand" base="Length" />
+	<simpleType name="foot" base="Length" />
+	<simpleType name="yard" base="Length" />
+	<simpleType name="fathom" base="Length" />
+	<simpleType name="rod" base="Length" />
+	<simpleType name="chain" base="Length" />
+	<simpleType name="furlong" base="Length" />
+	<simpleType name="mile" base="Length" />
+	<simpleType name="nautialMile" base="Length" />
+	<simpleType name="astronomicalUnit" base="Length" />
+	<simpleType name="light-year" base="Length" />
+	<simpleType name="kilolight-year" base="Length" />
+<simpleType name="Speed" base="double" />
+	<simpleType name="metrePerSecond" base="Speed" />
+	<simpleType name="kilometrePerSecond" base="Speed" />
+	<simpleType name="kilometrePerHour" base="Speed" />
+	<simpleType name="milePerHour" base="Speed" />
+	<simpleType name="footPerSecond" base="Speed" />
+	<simpleType name="footPerMinute" base="Speed" />
+	<simpleType name="knot" base="Speed" />
+<simpleType name="Force" base="double" />
+	<simpleType name="nanonewton" base="Force" />
+	<simpleType name="millinewton" base="Force" />
+	<simpleType name="newton" base="Force" />
+	<simpleType name="kilonewton" base="Force" />
+	<simpleType name="meganewton" base="Force" />
+	<simpleType name="giganewton" base="Force" />
+	<simpleType name="tonne-force" base="Force" />
+	<simpleType name="megapond" base="Force" />
+	<simpleType name="kilogram-force" base="Force" />
+	<simpleType name="kilopond" base="Force" />
+	<simpleType name="gram-force" base="Force" />
+	<simpleType name="pond" base="Force" />
+	<simpleType name="milligram-force" base="Force" />
+	<simpleType name="millipond" base="Force" />
+	<simpleType name="poundal" base="Force" />
+<simpleType name="Energy" base="double" />
+	<simpleType name="joule" base="Energy" />
+	<simpleType name="kilojoule" base="Energy" />
+	<simpleType name="erg" base="Energy" />
+	<simpleType name="milliwatt-hour" base="Energy" />
+	<simpleType name="watt-hour" base="Energy" />
+	<simpleType name="kilowatt-hour" base="Energy" />
+	<simpleType name="megawatt-hour" base="Energy" />
+	<simpleType name="gigawatt-hour" base="Energy" />
+	<simpleType name="terawatt-hour" base="Energy" />
+	<simpleType name="electronVolt" base="Energy" />
+	<simpleType name="millicalorie" base="Energy" />
+	<simpleType name="calorie" base="Energy" />
+	<simpleType name="kilocalorie" base="Energy" />
+	<simpleType name="megacalorie" base="Energy" />
+	<simpleType name="inch-pound" base="Energy" />
+	<simpleType name="foot-pound" base="Energy" />
+<simpleType name="Temperature" base="double" />
+	<simpleType name="kelvin" base="Temperature" />
+	<simpleType name="degreeCelsius" base="Temperature" />
+	<simpleType name="degreeFahrenheit" base="Temperature" />
+	<simpleType name="degreeRankine" base="Temperature" />
+<simpleType name="Mass" base="double" />
+	<simpleType name="milligram" base="Mass" />
+	<simpleType name="gram" base="Mass" />
+	<simpleType name="kilogram" base="Mass" />
+	<simpleType name="tonne" base="Mass" />
+	<simpleType name="metricTon" base="Mass" />
+	<simpleType name="stone" base="Mass" />
+	<simpleType name="pound" base="Mass" />
+	<simpleType name="ounce" base="Mass" />
+	<simpleType name="grain" base="Mass" />
+	<simpleType name="carat" base="Mass" />
+	<simpleType name="atomicMassUnit" base="Mass" />
+<simpleType name="Pressure" base="double" />
+	<simpleType name="millipascal" base="Pressure" />
+	<simpleType name="pascal" base="Pressure" />
+	<simpleType name="hectopascal" base="Pressure" />
+	<simpleType name="kilopascal" base="Pressure" />
+	<simpleType name="megapascal" base="Pressure" />
+	<simpleType name="millibar" base="Pressure" />
+	<simpleType name="decibar" base="Pressure" />
+	<simpleType name="bar" base="Pressure" />
+	<simpleType name="standardAtmosphere" base="Pressure" />
+	<simpleType name="poundPerSquareInch" base="Pressure" />
+<simpleType name="Torque" base="double" />
+	<simpleType name="newtonMillimetre" base="Torque" />
+	<simpleType name="newtonCentimetre" base="Torque" />
+	<simpleType name="newtonMetre" base="Torque" />
+<simpleType name="FuelEfficiency" base="double" />
+	<simpleType name="kilometresPerLitre" base="FuelEfficiency" />
+	<simpleType name="litresPerKilometre" base="FuelEfficiency" />
+	<simpleType name="milesPerImperialGallon" base="FuelEfficiency" />
+	<simpleType name="milesPerUsGallon" base="FuelEfficiency" />
+	<simpleType name="imperialGallonsPerMile" base="FuelEfficiency" />
+	<simpleType name="usGallonsPerMile" base="FuelEfficiency" />
+<simpleType name="Power" base="double" />
+	<simpleType name="watt" base="Power" />
+	<simpleType name="kilowatt" base="Power" />
+	<simpleType name="milliwatt" base="Power" />
+	<simpleType name="megawatt" base="Power" />
+	<simpleType name="gigawatt" base="Power" />
+	<simpleType name="horsepower" base="Power" />
+	<simpleType name="pferdestaerke" base="Power" />
+<simpleType name="PopulationDensity" base="double" />
+	<simpleType name="inhabitantsPerSquareKilometre" base="PopulationDensity" />
+	<simpleType name="inhabitantsPerHectare" base="PopulationDensity" />
+	<simpleType name="inhabitantsPerSquareMile" base="PopulationDensity" />
+	<simpleType name="inhabitantsPerAcre" base="PopulationDensity" />
+	<simpleType name="perSquareKilometre" base="PopulationDensity" />
+	<simpleType name="perHectare" base="PopulationDensity" />
+	<simpleType name="perSquareMile" base="PopulationDensity" />
+	<simpleType name="perAcre" base="PopulationDensity" />
+<simpleType name="InformationUnit" base="double" />
+	<simpleType name="bit" base="InformationUnit" />
+	<simpleType name="kilobit" base="InformationUnit" />
+	<simpleType name="megabit" base="InformationUnit" />
+	<simpleType name="byte" base="InformationUnit" />
+	<simpleType name="kilobyte" base="InformationUnit" />
+	<simpleType name="megabyte" base="InformationUnit" />
+	<simpleType name="gigabyte" base="InformationUnit" />
+	<simpleType name="terabyte" base="InformationUnit" />
+<simpleType name="Frequency" base="double" />
+	<simpleType name="millihertz" base="Frequency" />
+	<simpleType name="hertz" base="Frequency" />
+	<simpleType name="kilohertz" base="Frequency" />
+	<simpleType name="megahertz" base="Frequency" />
+	<simpleType name="gigahertz" base="Frequency" />
+<simpleType name="FlowRate" base="double" />
+	<simpleType name="cubicMetrePerSecond" base="FlowRate" />
+	<simpleType name="cubicFeetPerSecond" base="FlowRate" />
+	<simpleType name="cubicMetrePerYear" base="FlowRate" />
+	<simpleType name="cubicFeetPerYear" base="FlowRate" />
+<simpleType name="Density" base="double" />
+	<simpleType name="kilogramPerCubicMetre" base="Density" />
+	<simpleType name="kilogramPerLitre" base="Density" />
+	<simpleType name="gramPerCubicCentimetre" base="Density" />
+	<simpleType name="gramPerMillilitre" base="Density" />
+</schema>

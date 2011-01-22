@@ -1,0 +1,173 @@
+{{Infobox Automobile platform
+|name=BMW X3 (E83)
+|image=[[Image:BMW X3 front 20080524.jpg|250px|X3 (2004–2006)]]
+|manufacturer=[[Magna Steyr]]
+|production=2004&ndash;
+|predecessor=
+|successor=[[BMW F25]]
+|body_style=5-door [[Sport utility vehicle|SUV]]
+|related=[[BMW E46]]
+|engine=[[Petrol]]:<br/>2,0–3,0 liter<br/>(110–200&nbsp;kW)<br/>[[Diesel engine|diesel]]:<br/>2,0–3,0 liter<br/>(110–210&nbsp;kW)
+|length= {{convert|4565|mm|in|1|abbr=on}}
+|width= {{convert|1853|mm|in|1|abbr=on}}
+|height= {{convert|1647|mm|in|1|abbr=on}}
+|Wheelbase= {{convert|2795|mm|in|1|abbr=on}}
+|weight= {{convert|1730|-|1880|kg|abbr=on}}
+|class=[[Compact SUV|Compact]] [[Crossover (automobile)|crossover SUV]]
+|similar=[[Land Rover Freelander]]<br>[[Acura RDX]]<br>[[Mercedes-Benz M-Class]]<br>[[Lexus RX]]<br>[[Nissan Murano]]
+|vehicles=[[BMW X3]]
+}}
+[[File:BMW X3 rear 20080524.jpg|thumb|Heckansicht des X3 (2004–2006)|250px]]
+The'' 'BMW X3''' (internal designation: E83) is a compact [[Crossover (automobile)|crossover SUV]] of the German automaker [[BMW]]. The "little brother" of the X5 with the models [[BMW E53|E53]] and later [[BMW E70|E70]] was presented at the [[International Motor Show|IAA]] 2003 and is since January 2004 on the market. [[Magna Steyr]] designed and built at the plant in [[Vienna]] the X3. It is the first BMW since the M1 to not be built at a BMW factory.</br>
+For trips to areas away from paved roads and gravel roads are missing from the X3 a gear reduction, [[limited slip differential|lockable differentials]] and a sufficient entanglement of the rear axle.
+
+==Engines==
+All models are equipped with the [[four-wheel drive]] [[xDrive]], the forces of the engines for each as needed splits between the front and rear .
+{| class="wikitable" style="text-align:left"
+|-
+! Model !! Model Year !! Engine
+|-
+| X3 xDrive18d
+| 2009-Current 
+| align="center" | [[BMW N47|N47D20]]
+|-
+| X3 2.0d/ xDrive20d
+| 2005-Current
+| align="center" | [[BMW M47|M47TU2D20]]
+|-
+| X3 2.0i/ xDrive20i
+| 2004-Current
+| align="center" | [[BMW N46|N46B20]]
+|-
+| X3 2.5i
+| 2004-2006
+| align="center" | [[BMW M54|M54B25]]
+|-
+| X3 2.5si/ xDrive25i
+| 2007-Current
+| align="center" | [[BMW N52|N52B25]]
+|-
+| X3 3.0d/ xDrive30d
+| 2004-Current
+| align="center" | [[BMW M57|M57TUD30]]
+|-
+| X3 3.0sd/ xDrive35d
+| 2007-Current
+| align="center" | [[BMW M57|M57TU2D30]]
+|-
+| X3 3.0i
+| 2004-2006
+| align="center" | [[BMW M54|M54B30]]
+|-
+| X3 3.0si/ xDrive30i
+| 2007-Current
+| align="center" | [[BMW N52|N52B30]]
+|}
+
+{| class="wikitable"
+|- style="background:#cccccc;"
+! Model || capacity || cylinder || power || Torque ||0-100&nbsp;km/h|| V<sub>max</sub> ||production period
+|-
+|-
+| 2.0i/<br />xDrive20i || 1995&nbsp;cc ||align="center" | 4 || 110&nbsp;kW (150 PS)<br />at 6200/min|| {{convert|200|Nm|lb·ft|abbr=on}} at 3750/min|| 11,5 s || {{convert|198|km/h|mi/h|0|abbr=on}} ||since 9/2005
+|-
+| 2.5i || 2494&nbsp;cc ||align="center" | 6 || 141&nbsp;kW (192 PS)<br />bei 6000/min|| {{convert|245|Nm|lb·ft|abbr=on}} at 3500/min|| 8,9 [9,8] s || 208 [208] km/h ||9/2004–8/2006
+|-
+| 2.5si/<br />xDrive25i || 2494&nbsp;cc ||align="center" | 6 ||  160&nbsp;kW (218 PS)<br />at 6500/min|| {{convert|250|Nm|lb·ft|abbr=on}} at 2750-4250/min|| 8,5 [8,9] s || 210 [210]/ <br />221 [220]* km/h ||since 9/2006
+|-
+| 3.0i || 2979&nbsp;cc ||align="center" | 6 || 170&nbsp;kW (231 PS)<br />bei 5900/min|| {{convert|300|Nm|lb·ft|abbr=on}} at 3500/min|| 7,8 [8,1] s || 210 [210]/ <br />224 [210]* km/h ||9/2003–8/2006
+|-
+| 3.0si/<br />xDrive30i || 2996&nbsp;cc ||align="center" | 6 ||  200&nbsp;kW (272 PS)<br />at 6650/min|| {{convert|315|Nm|lb·ft|abbr=on}} at 2750/min|| 7,2 [7,5] s || 210 [210]/ <br />232 [228]* km/h ||since 9/2006
+|-
+| xDrive18d || 1995&nbsp;cc ||align="center" | 4 || 110&nbsp;kW (143 PS)<br />at 4000/min|| {{convert|350|Nm|lb·ft|abbr=on}} at 1750/min|| 10,3 s || {{convert|195|km/h|mi/h|0|abbr=on}} || seit 6/2009
+|-
+| 2.0d || 1995&nbsp;cc ||align="center" | 4 || 110&nbsp;kW (150 PS)<br />at 4000/min|| {{convert|330|Nm|lb·ft|abbr=on}} at 2000/min|| 10,2 s || {{convert|198|km/h|mi/h|0|abbr=on}} ||9/2004–8/2007
+|-
+| 2.0d/<br />xDrive20d || 1995&nbsp;cc ||align="center" | 4 || 130&nbsp;kW (177 PS)<br />at 4000/min|| {{convert|350|Nm|lb·ft|abbr=on}} at 1750-3000/min|| 8,9 [9,2] s || 206 [205] km/h ||seit 9/2007
+|-
+| 3.0d || 2993&nbsp;cc ||align="center" | 6 || 150&nbsp;kW (204 PS)<br />at 4000/min|| {{convert|410|Nm|lb·ft|abbr=on}} at 1500-3250/min|| 7,9 [8,2] s || 210 [210]/ <br />218 [215]* km/h ||9/2003–8/2004
+|-
+| 3.0d/<br />xDrive30d || 2993&nbsp;cc ||align="center" | 6 || 160&nbsp;kW (218 PS)<br />at 4000/min|| {{convert|500|Nm|lb·ft|abbr=on}} at 1750-2750/min|| 7,4 [7,7] s || 210 [210]/ <br />220 [220]* km/h ||since 9/2004
+|-
+| 3.0sd/<br />xDrive35d <ref>Standard with 6-speed automatic</ref>|| 2993&nbsp;cc ||align="center" | 6 || 210&nbsp;kW (286 PS)<br />at 4400/min|| {{convert|580|Nm|lb·ft|abbr=on}} at 1750-2250/min|| 6,4 s || {{convert|240|km/h|mi/h|0|abbr=on}} ||since 9/2006
+|-
+|}
+</div></div></div>
+;Notes: 
+
+[] = Values are valid for vehicles with 5-speed automatic (as of 09/2005: 6-speed automatic). <br/> 
+<nowiki>*</nowiki> = In combination with optional Edition Sport, M-Sport package, dynamic packet or certain alloy wheels. 
+
+==Facelift==
+
+<gallery widths="200">
+ File:BMW E83 front 20081128.jpg|X3 modelyear 2007
+ File:BMW E83 rear 20081128.jpg|X3 modelyear 2007
+ File:BMW_X3_06_int.JPG|Interior of the modelyear 2007
+</gallery>
+
+Since 23 September 2006 the E83 has a [[facelift]]. It was last little details on the headlights, the double kidney grill, front bumper, tail lights, the rear bumper, and especially the controversial interior. With the exception of the four-cylinder gasoline engine and the engine range has been revised, most recently in the autumn of 2007, the 2.0 diesel engine. Another engine that ''3.0sd'' with [[twin turbo]]chargers has been introduced.
+
+==Editions==
+Since September 2008, the Edition Exclusive and Edition lifestyle are available. The M-Sport Package is being replaced in March 2009 by the Sport Limited Edition.
+
+== Design ==
+The X3 is only slightly smaller than its big brother, the X5 ([[BMW E53|E53]]) and features (measured up to the window edge), even greater, at 20 liters of luggage compartment (480 liters). Due to its compact dimensions, it looks sportier and less brawny than its bigger brother, X5.
+
+== Safety ==
+{| class="wikitable" border="1"<ref>{{internetquelle |url=http://www.euroncap.com/tests/bmw_x3/311.aspx |titel=Ergebnisse des BMW E83 beim Euro NCAP-Crashtest |sprache=englisch |zugriff=15. Juli 2009}}</ref>
+|+[[Euro NCAP]] scores
+|-
+|Adult Occupant:
+|{{rating|4|5}}
+|-
+|Child Occupant:
+|{{rating|4|5}}
+|-
+|Pedestrian:
+|{{rating|1|4}}
+|}
+
+==Sales==
+In 2005 BMW sold 20 percent more X3s than in 2004, making sales of 110,700 vehicles. On 18 June 2008 was the 500000th X3 in Graz produced.
+
+== Awards ==
+* "Yellow Angel" 2008 in category Quality <ref name="bmw2259">[https://www.press.bmwgroup.com/pressclub/p/de/pressDetail.html?outputChannelId=7&id=T0005546DE&left_menu_item=node__2259]</ref> 
+* "Yellow Angel" 2009 in category Quality <ref name="bmw2259"/>  
+
+== External links ==
+{{Commonscat}}
+* [http://www.bmw.de/de/de/newvehicles/x3/x3/2006/overview.html Official Website]
+* [http://www.hybrid-autos.info/BMW-X3-Efficient-Dynamics-2005.html X3 Efficient Dynamics Hybridcar (prototype)]
+
+==References==
+<references/>
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw X3 (E83)}}
+[[Category:BMW platforms|E83]]
+
+
+{{Modern-auto-stub}}
+
+[[bs:BMW X3]]
+[[cs:BMW X3]]
+[[da:BMW X3]]
+[[de:BMW X3]]
+[[es:BMW X3]]
+[[fr:BMW X3]]
+[[hr:BMW X3]]
+[[id:BMW X3]]
+[[it:BMW X3]]
+[[nl:BMW X3]]
+[[ja:BMW・X3]]
+[[no:BMW X3]]
+[[pl:BMW X3]]
+[[pt:BMW E83]]
+[[ru:BMW X3]]
+[[fi:BMW X3]]
+[[sv:BMW X3]]
+[[tr:BMW X3]]
+[[uk:BMW X3]]
+[[zh:BMW X3]]

@@ -1,0 +1,134 @@
+The '''Ford Pinto engine''' is the unofficial but generic nickname for a [[straight-4|4 cylinder]] [[internal combustion engine]] built by the [[Ford Europe]].  In Ford sales literature it was referred to as the  '''EAO''' or '''OHC''' engine, it is also sometimes called the "[[Metric engine]]" since it was designed using the metric system.  The internal Ford codename for the unit was the '''T88-series''' engine.
+
+It was used in many European Ford [[automobile|cars]] and was exported to the [[United States]] to be used in the [[Ford Pinto]], a successful [[Subcompact car]] of the 1970s, hence the name which is used most often for the unit.  In Britain, it is commonly used in many [[kit car]]s and [[hot rods]], especially in the 2 litre size.
+
+==OHC==
+In Europe, the '''OHC''' was introduced in 1970 to replace the [[Ford Essex V4 engine|Essex V4]] in the Mk3 [[Ford Cortina]] ([[Ford Taunus|Taunus]]).  It was the first Ford engine to feature a belt-driven [[single overhead cam|overhead camshaft]] (thus the name).
+
+Applications:
+* [[Ford Taunus]]
+* [[Ford Escort]] Mk1 RS2000 
+* [[Ford Escort]] Mk2 RS2000, Mexico 
+* [[Ford Cortina]]
+* [[Ford Capri]]
+* [[Ford Sierra]]
+* [[Ford Granada]]
+* [[Ford Scorpio]]
+* [[Ford Transit]] [[van]]
+* [[TVR Tasmin|TVR Tasmin 200]]
+
+The Pinto engine was available in [[engine displacement|displacements]] of 1.3&nbsp;L, 1.6&nbsp;L, 1.8&nbsp;L and 2.0&nbsp;L.  Due to emission requirements it was phased out towards the end of the 1980s to be replaced by the [[Ford CVH engine|CVH engine]] and [[Ford I4 DOHC engine|DOHC engine]], the latter being (contrary to popular belief) a completely new design and not a twin-cam development of the Pinto unit.  The 16-valve version of the Ford DOHC unit is still used on the [[Ford Transit]]. The only DOHC direct derivative of Pinto engine is Cosworth YB 16-valve engine, powering [[Ford Sierra]] and [[Ford Escort]] RS Cosworth variants.
+
+===1.6 EAO===
+The 1.6&nbsp;L (1593&nbsp;cc) OHC had a bore of 87.7&nbsp;mm (3.45&nbsp;in) and a stroke of 66.0&nbsp;mm (2.60&nbsp;in).  It produced 61&nbsp;kW (82&nbsp;hp) and 130 &nbsp;N·m (96&nbsp;ft·lbf ) of [[torque]].
+
+Applications:
+* 1970 [[Ford Taunus]]
+* [[Ford Escort]] Mk II Mexico
+* [[Ford Cortina]] Mk III and IV
+* [[Ford Sierra]]
+** HC LCS/LCT, 55&nbsp;kW (74&nbsp;hp) and 120&nbsp;N·m (88&nbsp;ft·lbf) (Economy)
+
+===2.0 EAO===
+The 2.0&nbsp;L (1993&nbsp;cc) '''EAO''' was used in many vehicles from the early 1970s.  Bore was 90.8&nbsp;mm (3.57&nbsp;in) and stroke was 76.9&nbsp;mm (3.03&nbsp;in).
+The 1971 Pinto and Capri used this engine with a single [[Weber carburetor|Weber]] 32/36 DFAV [[carburetor]] and 8.2:1 compression.  In this application, it produced 64&nbsp; kW (86&nbsp;hp) and 140&nbsp;N·m (103&nbsp;ft·lbf).  The engine was produced in [[Cologne, Germany]].
+
+Output in the Escort RS2000 was 82&nbsp;kW (110&nbsp;hp) and 161&nbsp;N·m (119&nbsp;ft·lbf).
+
+Applications:
+* 1971 to 1974 [[Ford Pinto]] ''2000''
+* 1971 to 1974 [[Ford Capri]] ''2000''
+* [[Ford Cortina]] Mk III and IV
+* 1975 [[Ford Escort]] ''RS2000''
+* 1978 [[Ford Transit]]
+
+===2.3 OHC===
+The [[Ford Pinto]] used the '''OHC''' version, a 2.3&nbsp;L (2302&nbsp;cc) unit introduced in 1974 which has a 96.0&nbsp;mm (3.78&nbsp;in) bore and 79.5&nbsp;mm (3.13&nbsp;in) stroke.  This version lasted until 1997 in various guises.  The earliest units produced 66&nbsp;kW (88&nbsp;hp) and 160 &nbsp;N·m (118&nbsp;ft·lbf).  This engine has also been known as the ''Lima'' engine, after the [[Lima Engine]] plant in [[Lima, Ohio]], where it was first manufactured (it was also later manufactured in [[Brazil]]).
+
+In 1979-80, a draw-through, non-intercooled turbo version was produced for Mustang Cobras and some Capris. Lack of dealership and owner training resulted in many stuck turbochargers and other maintenance problems. They were limited to 5 PSI of boost though Ford Motorsport sold a wastegate with an adjustable rod which allowed an increase of up to 9 PSI. It was used in this carbureted form in a number of passenger cars, from the Fairmont Futura Turbo to the 1979 Indy Pace Car edition Mustang.
+
+In the 1980s, a [[turbocharged]] and [[intercooled]] version was used in the ''[[Ford Thunderbird Turbo Coupe]]''.  This was made practical by the introduction of Ford's EECIV port fuel injection system; 1983's 2.3 Liter Turbo was the first production implementation of that advance in technology, which paved the way for across the board use in many Ford passenger car and light truck engines; however, the turbo version never made it into any Ford trucks.  Output for this turbo/intercooled version was 142&nbsp;kW (190&nbsp;hp) and 325&nbsp;N·m (240&nbsp;ft·lbf) for the 1987-88 models with the (T-5) 5-speed manual transmission.
+
+The turbocharged and intercooled 2.3 was also used in the 1984-86 Mustang SVO, while the 1983-1984 Mustang TurboGT, 1985-89 [[Merkur XR4Ti]], 1983-1986 Thunderbird Turbo Coupe and 1984-1986 Mercury Cougar XR7 all skipped the intercooler on their turbo versions, which dropped output to {{convert|180|hp|abbr=on}} and {{convert|205|ftlbf|Nm|abbr=on}} of torque. The SVO Mustang's output increased in 1985 1/2 to 205 HP.
+
+A dual-spark version (with two spark plugs per cylinder and distributorless ignition) was introduced in the 1989 [[Ford Ranger]] and 1991 [[Ford Mustang]].  This version produced 78&nbsp;kW (105&nbsp;hp) and 183&nbsp;N·m (135&nbsp;ft·lbf).
+
+Applications:
+* Naturally-Aspirated 
+** [[Ford Aerostar]]
+** [[Ford Pinto]]
+** [[Ford Ranger]]/[[Mazda B-Series]]
+** [[Ford Mustang]]
+** 1975-1979 [[Ford Maverick]] Brazilian models
+** Ford [[Jeep CJ-5]] Brazilian models
+** Ford Rural, F-75 pick up Brazilian models
+** [[Ford Taunus]] Argentina models
+** [[Ford Sierra]] Argentina models
+** [[Ford Falcon]] Argentina models
+** [[Ford Fairmont]]
+** [[Mercury Bobcat]]
+** [[Mercury Capri]]
+** [[Ford Mustang II]]
+** [[Mercury Zephyr]]
+** 1983-1986 [[Ford LTD]] (Optional)
+* Turbo
+** 1979-1980 Ford Mustang, Mercury Capri (carbureted)
+** 1980 Ford Fairmont, Mercury Zephyr (carbureted)
+** 1985-1989 [[Merkur XR4Ti]]
+** 1983-1986 Thunderbird Turbo Coupe
+** 1984-1986 Mercury Cougar XR7
+** 1983-1984 Mustang TurboGT (W Code)
+** 1983-1984 Capri Turbo RS
+* Turbo/Intercooler
+** 1987-1988 [[Ford Thunderbird Turbo Coupe]]
+** 1984-1986 [[Ford Mustang]] SVO
+
+* used as a conversion engine on [[VW]] based cars like [[Sandrail]] and [[Baja Bug]]
+
+===1.3 OHC===
+The smallest member of the family was the 1.3&nbsp;L (1294&nbsp;cc) "1.3 HC JCT".  With a  79.0&nbsp;mm (3.11&nbsp;in) bore and 66.0&nbsp;mm (2.60&nbsp;in) stroke, it produced 44&nbsp;kW (59&nbsp;hp) and 98&nbsp;N·m (72&nbsp;ft·lbf) in the [[Ford Sierra]].
+
+===1.6 OHC===
+A later version also displaced 1.6&nbsp;L but measured 1597&nbsp;cc with an 81.3&nbsp;mm (3.20&nbsp;in) bore and 76.9&nbsp;mm (3.03&nbsp;in) stroke.  This "HC E LSD", used in the [[Ford Sierra]], produced 55&nbsp;kW (73.8&nbsp;hp) and 123&nbsp;N·m (90&nbsp;ft·lbf).
+
+===1.8 OHC===
+A 1.8&nbsp;L (1796&nbsp;cc) version was used in the [[Ford Sierra]]. This engine, the "HC E REB", had an 86.2&nbsp;mm (3.39&nbsp;in) bore and 76.9&nbsp;mm (3.03&nbsp;in) stroke.  Output was 66&nbsp;kW (88.5&nbsp;hp) and 140&nbsp;N·m (103&nbsp;ft·lbf).
+
+===2.0 OHC===
+A de-bored version of the 2.3 OHC was introduced in 1983 for Ford's light trucks. Output was 73 hp (54&nbsp;kW).  Bore was 3.520&nbsp;in (89.4&nbsp;mm) and stroke was 3.126&nbsp;in (79.4&nbsp;mm) for a total of 1994&nbsp;cc displacement.
+
+Applications:
+* [[Ford Sierra]]
+** HC NET, 77&nbsp;kW (103.3&nbsp;hp) and 157&nbsp;N·m (115&nbsp;ft·lbf)
+** HC i NR, 85&nbsp;kW (114&nbsp;hp) and 160&nbsp;N·m (118&nbsp;ft·lbf)
+** N5A (Sierra Cosworth 2wd), 150&nbsp;kW (204&nbsp;hp) and 278&nbsp;N·m (205&nbsp;ft·lbf)
+** N5C (Sierra Cosworth 4wd), 162&nbsp;kW (220&nbsp;hp) and 290&nbsp;N·m (213&nbsp;ft·lbf)
+* [[Ford Escort]]
+** N5F (Escort Cosworth 4wd), 165&nbsp;kW (227&nbsp;hp) and 290&nbsp;N·m (213&nbsp;ft·lbf)
+** Escort mk1 rs2000 rwd, {{convert|100|hp|abbr=on}}
+
+===2.5 OHC===
+A stroked (by 7&nbsp;mm) version of the 2.3 OHC [[Ford Ranger]] engine appeared in 1998.  It also used higher-flow cylinder heads for better intake and combustion.  Output was 89&nbsp;kW (119&nbsp;hp) and 202&nbsp;N·m (149&nbsp;ft·lbf). It was replaced in 2001 by the Mazda-derived [[Ford Duratec engine#Duratec 23|Duratec 23]], but Ford Power Products continues to sell this engine as the '''LRG-425'''.
+
+Applications:
+* 1998-2001 [[Ford Ranger]]
+
+==DOHC==
+A 16-valve [[DOHC]] variant of the Pinto engine was not developed before 1984. Instead Michael Costin and Keith Duckworth of [[Cosworth]] Engineering introduced the 16-valve DOHC unit based on Ford earlier Kent X-flow engine. Although only 1.6 and 1.8 versions of the so-called Cosworth BDA (Belt Driven A-type) were put into volume production, the rally Escorts were homologated within the 2000 cc class. This allowed further boring and stroking to gain several more HP for the 2-litre works cars.
+
+===1.6===
+The 1.6&nbsp;L (1601&nbsp;cc) DOHC engine used an 81.0&nbsp;mm (3.19&nbsp;in) bore and 77.62&nbsp;mm (3.06&nbsp;in) stroke.  It produced 88&nbsp;kW (120&nbsp;hp) and 152&nbsp;N·m (112&nbsp;ft·lbf).
+
+===1.8===
+The 1.8&nbsp;L (1845&nbsp;cc) DOHC engine used an 86.8&nbsp;mm (3.42&nbsp;in) bore and 77.62&nbsp;mm (3.06&nbsp;in) stroke.  It produced 86&nbsp;kW (115&nbsp;hp) and 163&nbsp;N·m (120&nbsp;ft·lbf).
+
+Applications:
+* 1971 [[Ford Escort]] ''RS1600''
+* 1975 [[Ford Escort]] ''RS1800''
+
+==See also==
+* [[List of Ford engines]]
+
+{{DEFAULTSORT:Ford Pinto Engine}}
+[[Category:Ford engines|Pinto]]
+[[Category:Articles lacking sources (Erik9bot)]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = commander
+|rdfs:domain = MilitaryConflict
+|rdfs:range = owl:Thing
+}}

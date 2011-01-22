@@ -1,0 +1,20 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Saint
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = feast_day | ontologyProperty = Saint/feastDay }}
+	{{ DBpediaPropertyMapping | templateProperty = venerated_in | ontologyProperty = Saint/veneratedIn }}
+	{{ DBpediaPropertyMapping | templateProperty = beatified_date | ontologyProperty = Saint/beatifiedDate }}
+	{{ DBpediaPropertyMapping | templateProperty = beatified_place | ontologyProperty = Saint/beatifiedPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = beatified_by | ontologyProperty = Saint/beatifiedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = canonized_date | ontologyProperty = Saint/canonizedDate }}
+	{{ DBpediaPropertyMapping | templateProperty = canonized_place | ontologyProperty = Saint/canonizedPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = canonized_by | ontologyProperty = Saint/canonizedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = major_shrine | ontologyProperty = Saint/majorShrine }}
+	{{ DBpediaPropertyMapping | templateProperty = suppressed_date | ontologyProperty = Saint/suppreddedDate }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = titles | ontologyProperty = Person/title }}
+}}

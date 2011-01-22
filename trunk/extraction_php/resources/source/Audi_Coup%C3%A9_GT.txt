@@ -1,0 +1,60 @@
+{{Infobox Automobile
+|name           = Audi Coupé GT
+|image          = [[Image:Audi-GT-front.jpg|none|250px]] ''Audi Coupé GT 5E''
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group|Volkswagen Group (Volkswagen AG)]]
+|aka            = ''Typ'' 85
+|production     = 1980 - 1987
+|class          = [[Sports car]], [[Coupé]]
+|assembly       = [[Ingolstadt]], [[Germany]] 
+|predecessor    =
+|successor      =
+|class          =
+|body_style     = 2-[[vehicle door|door]] [[coupé]]
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br>[[front-wheel drive]] or [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|platform       = [[Volkswagen Group B platform#B2|Volkswagen Group B2]]
+|engine         = 1.8[[litre|L]] (1781cc) [[inline-four engine|I4]] 8v ([[list of discontinued Volkswagen Group petrol engines#DZ|DZ]]),<br>1.9L (1921cc) [[straight-five engine|I5]] 10v ([[list of discontinued Volkswagen Group petrol engines#WN|WN]]),<br>2.0L (1994cc) I5 10v ([[list of discontinued Volkswagen Group petrol engines#JS|JS]]),<br> 2.1L (2144cc) I5
+ 10v (KE) ,<br>2.2L (2226cc) I5 10v ([[list of discontinued Volkswagen Group petrol engines#KV|KV]])
+|transmission   =
+|wheelbase      =
+|length         =
+|width          =
+|height         =
+|weight         =
+|fuel_capacity  =
+|related        = [[Audi Quattro]],<br>[[Audi 80]]/[[Audi 4000]],<br>[[Audi Coupé]],<br>[[Audi Coupé quattro]]
+|designer       = [[Giorgetto Giugiaro]]
+|sp             = uk
+}}
+The '''Audi Coupé GT''' ('''''Typ'' 85''') is a two-[[vehicle door|door]] [[coupé]] produced and sold by [[Audi]] from 1980 to 1987.  The car was an attempt by Audi to offer a cheaper version of its [[turbocharger|turbocharged]], [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] [[Audi Quattro]] - without turbochargers or four wheel drive.
+
+The Coupé GT featured a similar body shape to the Quattro, but without the knife-edged fender flares of the more expensive car.  Mechanically, the biggest changes from the Quattro to the GT were the use of a [[naturally-aspirated engine|naturally aspirated]] 1.9&nbsp;[[litre]] carburetter [[petrol engine]], 2.0&nbsp;litre, 2.2, or 2.3&nbsp;litre [[fuel injection|fuel injected]] [[straight-five engine|inline five cylinder]] engine and a [[front-wheel drive]] [[powertrain|drivetrain]].  Although some later Coupé GTs were also fitted with a [[list of discontinued Volkswagen Group petrol engines#DZ|1.8&nbsp;litre]] injected [[inline-four engine|inline four cylinder]] engine.
+
+From late 1984, Audi made available the option of the [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system to produce the [[Audi Coupé quattro]], a model which was rarer than the turbocharged Quattro model.  This was only produced with the 2.2&nbsp;litre engine.
+
+From September 1980 to September 1987, 174,687 Coupé GTs were built.<ref>Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 4, ISBN 3-613-02131-5, p. 263.</ref>
+
+==References==
+{{Reflist}}
+{{-}}
+
+==External links==
+{{commons category|Audi Coupé}}
+More information on the KV engined Audi Coupé quattro can be found at http://www.kvquattro.com
+
+
+{{modern-auto-stub}}
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+{{Audi (North America) timeline 1970 to date}}
+
+[[Category:Audi vehicles|Coupé GT]]
+[[Category:Coupes]]
+[[Category:Sports cars]]
+[[Category:All wheel drive vehicles]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles introduced in 1980]]
+[[Category:1980s automobiles]]
+
+[[fr:Audi Coupé GT]]

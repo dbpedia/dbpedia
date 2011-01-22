@@ -1,0 +1,15 @@
+{{TemplateMapping
+| mapToClass = RecordLabel
+| mappings = 
+	{{PropertyMapping | templateProperty = parent | ontologyProperty = parent }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = formationDate }}
+	{{PropertyMapping | templateProperty = founder | ontologyProperty = foundationPerson }}
+	{{PropertyMapping | templateProperty = founder | ontologyProperty = foundationOrganisation }}
+	{{PropertyMapping | templateProperty = distributor | ontologyProperty = distributingLabel }}
+	{{PropertyMapping | templateProperty = distributor | ontologyProperty = distributingCompany }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = url | ontologyProperty = foaf:homepage }}
+}}

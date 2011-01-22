@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Vein
+|rdfs:subClassOf = AnatomicalStructure
+}}

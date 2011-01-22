@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Film Festival
+| rdfs:subClassOf = Event
+}}

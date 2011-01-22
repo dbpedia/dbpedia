@@ -1,0 +1,48 @@
+{{TemplateMapping
+| mapToClass = SpaceMission
+| mappings = 
+	{{PropertyMapping | templateProperty = spacecraft_name | ontologyProperty = spacecraft }}
+	{{PropertyMapping | templateProperty = shuttle_name | ontologyProperty = shuttle }}
+	{{PropertyMapping | templateProperty = command_module | ontologyProperty = commandModule }}
+	{{PropertyMapping | templateProperty = service_module | ontologyProperty = serviceModule }}
+	{{PropertyMapping | templateProperty = lunar_module | ontologyProperty = lunarModule }}
+	{{PropertyMapping | templateProperty = booster | ontologyProperty = booster }}
+	{{PropertyMapping | templateProperty = callsign | ontologyProperty = callSign }}
+	{{PropertyMapping | templateProperty = crew_size | ontologyProperty = crewSize }}
+	{{PropertyMapping | templateProperty = launch_pad | ontologyProperty = launchPad }}
+	{{PropertyMapping | templateProperty = launch_date | ontologyProperty = launchDate }}
+	{{PropertyMapping | templateProperty = spacewalk_begin | ontologyProperty = spacewalkBegin }}
+	{{PropertyMapping | templateProperty = spacewalk_end | ontologyProperty = spacewalkEnd }}
+	{{GeocoordinatesMapping | coordinates = lunar_landing }}
+	{{GeocoordinatesMapping | coordinates = landing_site }}
+	{{PropertyMapping | templateProperty = lunar_eva_duration | ontologyProperty = lunarEvaTime | unit = Time }}
+	{{PropertyMapping | templateProperty = lunar_rover | ontologyProperty = lunarRover }}
+	{{PropertyMapping | templateProperty = cmp_eva_duration | ontologyProperty = cmpEvaTime | unit = Time }}
+	{{PropertyMapping | templateProperty = lunar_surface_time | ontologyProperty = lunarSurfaceTime | unit = Time }}
+	{{PropertyMapping | templateProperty = lunar_sample_mass | ontologyProperty = lunarSampleMass | unit = Mass }}
+	{{PropertyMapping | templateProperty = time_lunar_orbits | ontologyProperty = lunarOrbitTime | unit = Time }}
+	{{PropertyMapping | templateProperty = landing | ontologyProperty = landingDate }}
+	{{PropertyMapping | templateProperty = mission_duration | ontologyProperty = missionDuration | unit = Time }}
+	{{PropertyMapping | templateProperty = orbits | ontologyProperty = numberOfOrbits }}
+	{{PropertyMapping | templateProperty = inclination | ontologyProperty = orbitalInclination }}
+	{{PropertyMapping | templateProperty = distance_traveled | ontologyProperty = distanceTraveled | unit = Length }}
+	{{PropertyMapping | templateProperty = crew_caption | ontologyProperty = crewMember }}
+	{{PropertyMapping | templateProperty = previous_mission | ontologyProperty = previousMission }}
+	{{PropertyMapping | templateProperty = next_mission | ontologyProperty = nextMission }}
+	{{PropertyMapping | templateProperty = NumberOfCrew | ontologyProperty = crewSize }}
+	{{PropertyMapping | templateProperty = LaunchDate | ontologyProperty = launchDate }}
+	{{PropertyMapping | templateProperty = LaunchVehicle | ontologyProperty = launchvehicle }}
+	{{PropertyMapping | templateProperty = LandingDate | ontologyProperty = landingDate }}
+	{{PropertyMapping | templateProperty = LandingVehicle | ontologyProperty = landingvehicle }}
+	{{GeocoordinatesMapping | coordinates = LandingSite }}
+	{{PropertyMapping | templateProperty = StationVisitLength | ontologyProperty = stationvisitlength | unit = Time }}
+	{{PropertyMapping | templateProperty = StationEVALength | ontologyProperty = stationevalength | unit = Time }}
+	{{PropertyMapping | templateProperty = Duration | ontologyProperty = missionDuration | unit = Time }}
+	{{PropertyMapping | templateProperty = Distance | ontologyProperty = distanceTraveled | unit = Length }}
+	{{PropertyMapping | templateProperty = Mass | ontologyProperty = mass | unit = Mass }}
+	{{PropertyMapping | templateProperty = CrewCaption | ontologyProperty = crewMember }}
+	{{PropertyMapping | templateProperty = previous | ontologyProperty = previousMission }}
+	{{PropertyMapping | templateProperty = next | ontologyProperty = nextMission }}
+	{{PropertyMapping | templateProperty = mission_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+}}

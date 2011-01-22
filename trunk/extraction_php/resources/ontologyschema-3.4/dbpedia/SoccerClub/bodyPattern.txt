@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = body pattern
+|rdfs:domain = SoccerClub
+|rdfs:range = xsd:string
+}}

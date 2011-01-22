@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = doctoral
+| rdfs:domain = University
+| rdfs:range = xsd:integer
+}}

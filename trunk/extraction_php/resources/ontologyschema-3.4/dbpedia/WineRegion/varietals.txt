@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = varietals
+|rdfs:domain = WineRegion
+|rdfs:range = owl:Thing
+}}

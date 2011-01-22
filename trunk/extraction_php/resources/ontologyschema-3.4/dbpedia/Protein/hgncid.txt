@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = HGNCid
+|rdfs:domain = Protein
+|rdfs:range = xsd:string
+}}

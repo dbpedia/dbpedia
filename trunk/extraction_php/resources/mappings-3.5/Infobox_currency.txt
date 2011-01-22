@@ -1,0 +1,6 @@
+{{TemplateMapping
+| mapToClass = Currency
+| mappings = 
+	{{PropertyMapping | templateProperty = using_countries | ontologyProperty = usingcountry }}
+	{{PropertyMapping | templateProperty = currency_name_in_local | ontologyProperty = foaf:name }}
+}}

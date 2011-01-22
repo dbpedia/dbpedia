@@ -1,0 +1,90 @@
+[[Image:Actros182201.jpg|thumb|right|200px|A Mercedes-Benz Actros truck in Poland]]
+[[Image:actros_tipper.jpg|thumb|right|200px|Mercedes-Benz Actros]]
+The Mercedes-Benz Actros is a heavy duty [[truck]] introduced by [[Mercedes-Benz]] in 1996. It is normally used for long-distance [[haulage]], [[Duty vehicle|heavy duty]] [[distribution (business)|distribution]] haulage and [[construction haulage]]. It is available in weights starting at 18 [[tonne]]s{{Fact|date=March 2009}} and is powered by a V6 or V8 cylinder engine with [[turbo]] and [[intercooler]]. Mercedes-Benz launched Actros II in 2002.
+{{Fact|date=February 2008}}
+
+==Gearbox==
+The second Actros generation comes with an electronic sequential gearbox that Mercedes-Benz has dubbed the "Telligent Gearbox". It pushes forward the principle used in some earlier Mercedes-Benz tractors -- using the gearshift lever to command a pneumatically actuated system that changes the gears. The Telligent gearbox utilizes a computer, together with a load-sensing system on the fifth-wheel coupling, to estimate the proper gear that the truck must be in. For example, if you want to upshift, the computer estimates the load on the tractor and the current engine mode, and gives you the proper gear for decreasing engine RPM. On the other hand, if you want to downshift, the computer assumes you wish to overtake, and gives you a proper gear for acceleration.
+
+There's an automatic version, which works like the Tiptronic system found in Mercedes-Benz cars.
+
+===Operation===
+The system consists of a small lever mounted under the right armrest and a flat switch underneath. The lever is slightly tilted, so that it matches the natural curve of the driver's hand when it's on the armrest. The lever has two buttons on either side. When at a standstill, the driver must push the left button, then (while holding it), push the lever forward and release it. This always selects second fast. Then the driver could push the lever forward once again to select fourth fast. The current gear is shown as a large number on the main display. After doing this, the driver steps on the clutch pedal and waits for approximately two seconds. After the gearshift has completed, a double click is sounded through the speakers, and the driver proceeds with pulling off as normal.
+
+Once moving, the driver has two choices. He or she may push or pull the lever to let the computer choose the gear for them, or they can use the splitter switch (the small switch under the lever) to pre-select gears. Either way, the gear is selected first, then the clutch is depressed. For example, if you're in fourth fast, pulling the splitter switch up once pre-selects fifth slow.
+
+The right button (known as the 'flush button', as it is flush with the lever) is used to switch to neutral.
+
+===Advantages===
+Since the driver does not directly operate on the gearbox, it significantly reduces the wear and tear on the gearbox itself. The gearbox is fully synchronized, and in some models the computer would even blip the throttle for you for a smoother downshift. Also, it's great for novice drivers, who are not sure of the proper gear.
+
+===Drawbacks===
+The computer rarely estimates the steepness of the road. When driving on extremely steep roads, or under winter conditions, it's better to use the manual pre-selection (by using the splitter switch) instead of letting the computer do the job.
+
+Also, the Actros has been designed as a highway tractor. However, even highway tractors have to drive through cities at times. The two-second delay could be very unpleasant when having to pull out of a stoplight. Also, this two-second delay is practically dangerous when overtaking. A driver would slam their manually-controlled gearbox in a lower gear for less than a second, in order to get acceleration. Whereas failing to do this at a stoplight simply slows down other traffic, when overtaking it could leave you in the opposite lane with no power.
+
+Another safety consideration is the situation when the brakes and/or retarder have failed during a long descend. With a manually-controlled gearbox the driver would be able to downshift no matter the grinding, whereas the Telligent would not allow the downshift, thus leaving the truck coasting down.
+
+Also, in an automatic version overtaking is nearly impossible, as the gearbox switches up as soon as the engine goes past the redline, thus slowing down acceleration.
+
+== Cab ==
+The cab of the Actros is built with consideration of the driver. It provides silent, smooth and pleasant ride. Pneumatic suspension of both the cab and the tractor itself makes for a really smooth feeling even on the roughest road. The high-roof sleeper version provides two bunks (the upper one not usable while driving, as the seats must be folded). The upper bunk is somewhat wider, but all the controls (radio, windows, auxiliary heater, etc.) are available from the lower bunk. However, most of the controls one would need (auxiliary heater, sunroof, etc.) while resting doubled overhead of the driver, and the width of the upper bunk allows for a person to use them by merely stretching their hand.
+
+The auxiliary heater can be programmed to turn on, for example, 30 minutes before the driver enters the truck, so in the winter a driver would be able to enter a warm cab instead of waiting for it to warm up.
+
+There are large storage spaces, especially in the MegaSpace cab. Additional storage spaces are available under the lower bunk. In some cab types there are boxes behind the doors, that open from the inside, but are accessible on the outside - for storing tools, lashing belts, ratchets, etc. 
+
+The driver seat is a fully adjustable Grammer pneumatically suspended seat, and the passenger seat only allows for backrest adjustment. The steering wheel is fully adjustable as well, and allows the driver to control functions of the on-board computer as well as the built-in radio/CD player. 
+
+The cab has excellent sound isolation and provides almost car-like noise-levels.
+
+The Actros cabs come in three types:
+*S - designed for daily operation and construction vehicles such as cement trucks. The daily cab has its front bumper lower to the ground to prevent under-run, whereas the construction version of the S cab has its front bumper higher to prevent hitting an obstacle when driving off-road on the site.
+*M - designed for distribution vehicles. It offers a sleeper, though comfort has not been focused on as in the L cab. It comes in short and long sleeper versions.
+*L - Low-roof long-haul cab, providing comfortable driving and rest for the driver.
+*LH "MegaSpace"- Long-haul high-roof cab, providing comfort for long driving, as well as enough space for the driver and/or passenger to freely move around the cab when needed.
+
+== Electronics ==
+The Actros comes with ASR and ABS as a standard. Also, it has load-sensing compatibility with most of the modern trailers. On the versions equipped with a digital tachograph, basic information (like current driver's working hours) are displayed on the main display. The computer's interface is very intuitive, and it is fully controllable from the steering wheel.
+
+There is a wide range of other electronic features, offered as extras. These include lane assist (warns the driver if they inadvertently leave their lane), distance measuring radar (which engages the brakes if the vehicle in front suddenly stops), side looking radar for warning the driver about a vehicle in their blind spot, and many more, mostly oriented towards safety. All of them are marketed as "Telligent".
+
+===Problems with electronics===
+In some cases, when the electronics of the trailer (especially the ABS sensors in the wheels) get wet, the brake pedal would not operate as normal, and even the slightest touch would result in a wheel-lock. There are problems with the calculation of the mileage available for the remaining fuel. Cases have been reported when the fuel has run out with the computer showing 25 more miles to go.  Also, the statistics of average speed and fuel consumption are prone to failure when driving a digital tachograph truck without a driver card. This problem has now been solved by a software update from Mercedes.
+
+== Variants ==
+Actros Armoured Heavy Support Vehicle System (AHSVS) is a military armoured truck (86 ordered by [[Canadian Forces Land Force Command]] in 2007) using the civilian Actros platform with a protected cab developed by [[Land Mobility Technologies]] in South Africa for Mercedes-Benz.
+
+== Gallery ==
+<gallery>
+Image:Zdravotnický modul tahač zepředu.JPG|
+Image:03302007079.jpg|
+Image:Mercedes-Benz Actros 1848 BlueTec 5-4.JPG|
+Image:Mercedes Actros-Willi Betz (BG)-2004.jpg|
+Image:Mercedes Actros-Nikolaus Hammerer (D).jpg|
+Image:Mercedes Actros ITOY 2004.jpg|
+Image:Actros_1.jpg
+</gallery>
+
+== See also ==
+{{commonscat|Mercedes-Benz Actros}}
+*[[Dump truck]]
+*[[Tractor unit]]
+*[[Semi-trailer]] and [[semi-trailer truck]]
+
+{{truck-stub}}
+
+[[Category:Mercedes-Benz vehicles|Actros]]
+[[Category:Trucks]]
+[[Category:Articles lacking sources (Erik9bot)]]
+[[Category:Vehicles introduced in 1996]]
+
+[[ar:أكتروس]]
+[[de:Mercedes-Benz Actros]]
+[[fr:Mercedes Actros]]
+[[it:Mercedes-Benz Actros]]
+[[nl:Mercedes-Benz Actros]]
+[[ja:メルセデス・ベンツ アクトロス]]
+[[pl:Mercedes Actros]]
+[[ru:Mercedes-Benz Actros]]
+[[fi:Mercedes-Benz Actros]]

@@ -1,0 +1,24 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Mayor
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = otherparty | ontologyProperty = OfficeHolder/otherParty }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = restingplace | ontologyProperty = Person/restingPlace }}
+	{{ DBpediaGeocoordinatesMapping | ontologyProperty = Person/restingPlacePosition | coordinates = restingplacecoordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = birthname | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = party | ontologyProperty = Person/party }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = partner | ontologyProperty = Person/partner }}
+	{{ DBpediaPropertyMapping | templateProperty = relations | ontologyProperty = Person/relation }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = residence | ontologyProperty = Person/residence }}
+	{{ DBpediaPropertyMapping | templateProperty = alma_mater | ontologyProperty = Person/almaMater }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = religion | ontologyProperty = Person/religion }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

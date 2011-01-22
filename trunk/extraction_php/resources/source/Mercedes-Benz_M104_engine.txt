@@ -1,0 +1,41 @@
+The [[Mercedes-Benz]] '''M104''' was a [[straight-6]] [[automobile]] engine produced from 1990 through 1997.  It was a [[double overhead cam]] design with 4 valves per cylinder.  It replaced the [[Mercedes-Benz M103 engine|M103]] and was replaced by the [[Mercedes-Benz M112 engine|M112]] [[V6]] starting in 1997.  The M104 continued in production under license by [[SsangYong Motor Company]] of [[Korea]].
+
+
+==3.0 L M104.98x==
+This 3.0 L 24v DOHC engine replaced the 12v 3.0 L [[Mercedes-Benz M103 engine|M103]] engine. It was found in the [[Mercedes-Benz W124|W124 300E-24 models]], [[Mercedes-Benz W124|W124 300CE-24 models]], [[Mercedes-Benz W124|W124 300TE-24 models]] and [[Mercedes-Benz R129|R129 300SL-24 models]]. The 3.0 L M104 produced 217 hp(162 kW) and features [[Jetronic|KE-Jetronic]] fuel injection, cylinder specific ignition-timing, [[Variable valve timing|variable valve timing]] and under-piston cooling jets. It was replaced by the 2.8 L and 3.2 L M104 engines.
+
+==2.8 L M104.94x==
+After the [[W124]] received a facelift 2 capacities replaced the 3.0 litre, a 2.8 litre lower power version and a 3.2 litre version. The 2.8 L M104 produced 197 hp(145kW) at 5500 rpm. Max torque was 270&nbsp;N·m or 199 ft/lbs at 3750 rpm. Lubrication system is pressure circulation lubrication. Amount of oil in engine is 7.5 litres and amount of coolant in engine is 9 litres. Number of valves is 2 intake and 2 exhaust with V-shaped overhead configuration. Valve operation is 2 top camshaft. Camshaft drive is duplex roller chain. Starter motor is electrical with 1.7 kW. Ignition system is ignition mapping control. The 2.8 L M104 was also used in the [[Mercedes-Benz W202|W202]] [[Mercedes-Benz C-Class|C-Class]] model C280 and in the [[Mercedes-Benz W140|W140]] [[Mercedes-Benz S-Class|S-Class]] model S280 (the latter was not sold in North America).
+
+==3.2 L M104.99x==
+
+The 3.2&nbsp;L (3199&nbsp;cc) version produced 220&nbsp;hp (161&nbsp;kW) at 5500&nbsp;rpm and 310&nbsp;N·m (229&nbsp;ft·lbf) at 3750&nbsp;rpm.  This engine was found in the [[Mercedes-Benz W124|W124]] and [[Mercedes-Benz W210|W210]] [[Mercedes-Benz E-Class|E-Class]], [[Mercedes-Benz W140|W140]] [[Mercedes-Benz S-Class|S-Class]], [[Mercedes-Benz W463|W463]] [[Mercedes-Benz_G-Class|G-Class]], and [[Mercedes-Benz R129|R129]] [[Mercedes-Benz SL-Class|SL-Class]].
+
+==AMG 3.4 L==
+
+There were 3.4&nbsp;L conversions done to the 3.0 L M104.980 by AMG, prior to their formal cooperation with Daimler Benz.
+
+[[Mercedes-AMG|AMG]] developed a 3.4 L M104 that was used in the E34 and E34T AMG ([[Mercedes-Benz W124|W124]]) vehicles. Amount of oil in engine is 7.5 litres and amount of coolant in engine is 9 litres. It made 272ps at 6500rpm and used Bosch KE-Jetronic (CIS-E) injection.
+
+==AMG 3.6 L M104.941==
+
+There were 3.6&nbsp;L conversions done to both the M103 and M104 by Brabus, among others.
+
+[[Mercedes-AMG|AMG]] developed a 3.6 L M104 that was used in the W202 C36 AMG ([[Mercedes-Benz W202|W202]]),the W124 E36 AMG ([[Mercedes-Benz W124|W124]]) and the E36 AMG ([[Mercedes-Benz W210|W210]])   vehicles.
+
+The AMG 3.6 M104 was rated at {{convert|276|hp}} at 5,750 rpm and {{convert|284|ft.lbf|N.m}} of torque at 4,000 rpm using the HFM engine management system.
+
+The boost in power was obtained by stroking the 2,8 litre M104 using the crank from the 350sd engine.
+
+[[Image:Mercedes_M104_AMG_3.6.jpg|250px|thumb|right|AMG 3.6 Liter M104 in a W124 E36T AMG]]
+
+==Turbo Conversions==
+
+Turbocharger kits were offered for both the M103 and M104 engines by Turbo Technics, Mosselman, Lotec and other tuners.  These conversions typically raised engine output to between 300 and {{convert|400|hp}}.
+During the 1990s UK customers were able to buy new vehicles eqipped with a Turbo Technics conversion directly from Mercedes dealer Hughes of Beaconsfield (limited run of 75 conversions).
+
+[[Category:Mercedes-Benz engines|M104]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:Mercedes-Benz M104]]
+[[it:Mercedes-Benz M104]]

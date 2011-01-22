@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = demonym
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = xsd:string
+}}

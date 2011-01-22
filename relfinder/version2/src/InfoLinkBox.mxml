@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml"
+	paddingLeft="0" paddingRight="0" paddingBottom="0" paddingTop="0" horizontalGap="0" verticalGap="0"
+	horizontalScrollPolicy="off" verticalScrollPolicy="off"
+	initialize="init()">
+	
+	<mx:Script>
+		<![CDATA[
+			import flash.events.Event;
+			import flash.events.TextEvent;
+			import mx.collections.ArrayCollection;
+			import mx.controls.Label;
+			import mx.events.CollectionEvent;
+			import mx.utils.URLUtil;
+			
+			private var _dataProvider:ArrayCollection;
+			
+			[Bindable(event="dataProviderChange")]
+			public function get dataProvider():ArrayCollection {
+				return _dataProvider;
+			}
+			
+			public function set dataProvider(value:ArrayCollection):void {
+				
+				if (_dataProvider != null) {
+					_dataProvider.removeEventListener(CollectionEvent.COLLECTION_CHANGE, dpChangeHandler);
+				}
+				
+				_dataProvider = value;
+				
+				_dataProvider.addEventListener(CollectionEvent.COLLECTION_CHANGE, dpChangeHandler);
+				
+				createLinks();
+				
+				dispatchEvent(new Event("dataProviderChange"));
+			}
+			
+			private function init():void {
+				
+			}
+			
+			private function dpChangeHandler(event:CollectionEvent):void {
+				createLinks();
+			}
+			
+			private function createLinks():void {
+				
+				removeAllChildren();
+				
+				for each (var url:String in _dataProvider) {
+					
+					var _label:Label = new Label();
+					_label.setStyle("paddingLeft", 0);
+					_label.setStyle("paddingRight", 0);
+					_label.truncateToFit = true;
+					_label.selectable = true;
+					_label.width = width;
+					_label.addEventListener(TextEvent.LINK, openWebsite);
+					_label.htmlText = createHTMLLink(url);
+					_label.toolTip = url;
+					
+					addChild(_label);
+					
+				}
+			}
+			
+			private function createHTMLLink(url:String):String {
+				return "<font color='#0000FF'><u><a href='event:" + url + "'>" + URLUtil.getServerName(url) + "</a></u></font>";
+			}
+			
+			private function openWebsite(evt:TextEvent):void {
+				if (evt.text..search("http://") == 0) {
+					var newLink:URLRequest = new URLRequest(evt.text);
+					navigateToURL(newLink,"_blank");
+				}
+			}
+			
+			
+			
+			
+		]]>
+	</mx:Script>
+	
+</mx:VBox>

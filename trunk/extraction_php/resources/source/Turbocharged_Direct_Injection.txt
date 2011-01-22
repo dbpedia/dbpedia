@@ -1,0 +1,89 @@
+[[Image:TDIBLOCK.JPG|275px|right|thumb|TDI embossed on the engine cowl]]
+'''Turbocharged Direct Injection''' (acronym: '''TDI''') is the technology used to describe and name modern [[turbodiesel|turbocharged]] [[fuel injection#direct injection|direct injection]] [[diesel engine]]s produced by [[Volkswagen Group]],<ref name=VWAG>{{cite web|title=Volkswagen AG - TDI Technical Glossary|url=http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/experience/innovation/technical_glossary/tdi.index.html|work=[[Volkswagen Group|Volkswagen Aktiengesellschaft]]|publisher=Volkswagen.com|accessdate=5 November 2009}}</ref> and widely used in all [[marque]]s of [[automobile|passenger cars]] and light [[commercial vehicle]]s produced by the company (particularly those sold in [[Europe]]).
+
+'''TDI''' is a registered trademark of Volkswagen Aktiengesellschaft.<ref name=VWAG/>
+
+==Overview==
+[[Image:TDIBADGE.JPG|right|thumb|[[Volkswagen Group]] products which feature a TDI engine display a TDI badge]]
+The engine uses [[fuel injection#direct injection|direct injection]],<ref name=VWAG/> where a [[fuel injector]] sprays atomised fuel directly into the main combustion chamber of each cylinder,<ref name=VWAG/> rather than the pre-combustion chamber prevalent in older diesels which used [[indirect injection]].  The engine is coupled with a [[turbocharger]]<ref name=VWAG/> to increase the amount of air going into the engine cylinders,<ref name=VWAG/> and an [[intercooler]] to lower the temperature (and therefore increase the [[density]]) of the air from the turbo, thereby increasing the amount of fuel that can be injected and combusted.  These, in combination, allow for greater engine performance<ref name=VWAG/> (from a more complete combustion process compared to indirect injection), while also decreasing emissions and providing more torque<ref name=VWAG/> than its [[petrol engine]]d counterpart.  
+
+Similar technology has been used by other companies but "TDI" refers to these [[Volkswagen Group]] engines.  Naturally-aspirated engines (those without a turbocharger) made by Volkswagen Group use the label [[Suction Diesel Injection]] (SDI).
+
+The reduced material volume of the direct injection diesel engine reduces heat losses, and thereby increases engine [[fuel efficiency|efficiency]], at the expense of increased combustion noise.  A direct injection engine is also easier to start when cold, due to more efficient placing and usage of [[glowplug]]s.
+
+==History==
+The first Volkswagen Group TDI engine was an [[Audi]]-developed 2.5&nbsp;[[litre]] [[straight-five engine|inline five-cylinder]], introduced in the [[Audi 100]] in 1989.  The TDI arrangement has been enhanced by improving the efficiency of the turbocharger, increasing the pressure at which fuel can be injected, and more precisely timing when the injection of fuel takes place.  There have been a few major generations, starting with what are known as "VE" engines.  In 2000, the [[Unit Injector|Pumpe Düse]] (PD, variously translated "pump nozzle", "unit injector", "pump injector") engine began to appear in [[Europe]], eventually coming to [[North America]] a few years later.
+
+The PD design was a reaction to the development of [[common rail]] fuel injection by competitors - an attempt by Volkswagen Group to create an in-house technology of comparable performance that would not require any royalties to be paid.{{Citation needed|date=April 2008}}  While Pumpe Düse engines had a significantly higher injection pressure than older engines, they are slightly less refined when compared to the very latest common rail,{{Citation needed|date=April 2008}} and weren't able to control injection timing as precisely (a major factor in improving emissions).{{Citation needed|date=April 2008}}  New engines appearing in 2009 model year Volkswagens are using the common rail technique with [[piezoelectric]] injectors.
+
+==Motor racing==
+[[Image:Audi R10 1.JPG|225px|right|thumb|[[Audi R10 TDI]] LMP race car]]
+A [[auto racing|motor racing]] version of the common rail TDI engine made an impact in 2006 when it was used in the [[Audi R10 TDI]], which won the [[12 Hours of Sebring]] and [[24 Hours of Le Mans]], becoming the first diesel-powered car to win either of those races.  Fuel economy was a significant factor, as the car did not have to refuel as often as others in the race.  The car used a special synthetic diesel from Shell as fuel.
+
+In 2007, [[SEAT]] - with the [[SEAT León|León Mk2 TDI]] at the Oschersleben Motorsport Arena in Germany - became the first manufacturer to win a round of the [[World Touring Car Championship]] (WTCC) series in a diesel car, only a month after announcing it will enter the [[Fédération Internationale de l'Automobile|FIA]] World Touring Car Championship with the León TDI.  SEAT's success with the León TDI was continued, and resulted in winning consecutively [[2008 World Touring Car Championship season|2008 World Touring Car Championship]] and [[2009 World Touring Car Championship season|2009 World Touring Car Championship]] both titles (for drivers as well as for manufacturers).
+
+Direct injection turbodiesel engines are frequent winners of various prizes in the [[International Engine of the Year]] Awards.  In 1999 in particular, six out of twelve categories were won by direct injection engines: three were Volkswagen, two were [[BMW]], and one [[Audi]].  Notably that year, the [[list of discontinued Volkswagen Group diesel engines#1.2 PD TDI 3L|Volkswagen 1.2&nbsp;L TDI 3L]] beat the [[Toyota Prius]] to win "Best Fuel Economy" in its class.
+
+==Fuel==
+{{multiple image|direction=vertical|width=210|image1=Audi Q7 TDI 5160 DC 03 2009.jpg|image2=Audi Q7 TDI 5165 DC 03 2009.jpg|footer=Front and rear views of an [[Audi Q7]] TDI demonstration vehicle at [[Washington, D.C.]]}}
+TDI engines  run on [[diesel fuel]] (called petrodiesel in North America), or B5, B20, or B99 [[biodiesel]] subject to manufacturers' prior approval.
+
+In fuel efficiency, and clean emissions when run on biodiesel or when converted [[vegetable oil used as fuel|vegetable oil]] (which should NOT be used on the later PD engines without prior conversion, since irreparable damage will result), TDI engines are among the best on the market.{{Citation needed|date=May 2008}}  A 2007 [[Volkswagen Jetta]] 1.9 TDI with 5-speed manual, for example, achieves 5.2 L/100&nbsp;km (54 mpg UK or 45 mpg US) on the European combined-cycle test, while a [[Direct-Shift Gearbox]] (DSG) automatic reaches 5.9 L/100&nbsp;km (48 mpg UK or 40 mpg US).<ref>{{cite web|url=http://www.volkswagen.co.uk/new_cars/jetta/engines|title=Jetta engines|publisher=[[Volkswagen|Volkswagen Passenger Cars]]|accessdate=2007-06-04}} {{Dead link|date=November 2009}}</ref>
+
+Newer TDI engines, with higher injection pressures, are less forgiving about poor-quality fuel than their 1980s ancestors.  Volkswagen's warranty does not cover damage due to bad fuel (petrol or bio), and has in the past recommended that only mixtures up to 5% biodiesel (B5) be used.  Volkswagen has recently permitted mixes up to B20, and has recommended B5 be used in place of 100% petroleum-based diesel because of biodiesel's improved lubricating properties.<ref>{{cite web|url=http://forums.tdiclub.com/showthread.php?t=82466|title=Biodiesel FAQ|accessdate=2008-01-28}}</ref>
+
+[[fuel oil|No. 2]] [[diesel fuel]] is recommended since it has a higher [[cetane number]] than No. 1 fuel, and has lower [[viscosity]] (better ability to flow) than heavier fuel oils.  Some owners in [[North America]], where cetane levels are generally poor (as low as 40), use additives or premium diesel to get cetane numbers closer to the standard levels found in the European market (at least 51) where the engine is designed.  Improved cetane reduces emissions while improving performance and may increase fuel economy.
+
+New [[ultra-low sulfur diesel|ultra low-sulfur petroleum-only diesel]] recipes cause seals to shrink<ref>{{cite web|url=http://www.chevron.com/products/ourfuels/prodserv/fuels/documents/elastomer_chevron_tb_2005Aug.pdf|publisher=Chevron|title=Technical bulletin: Fuel leaks from seals of vehicles using ultra low sulfur diesel|format=PDF|accessdate=2008-01-28}}</ref> and can cause fuel pump failures in TDI engines; biodiesel blends are reported to prevent that failure.<ref>{{cite web|url=http://www.hrccc.org/images/Fuel_Quality_BMP_FINAL.pdf|publisher=Virginia Clean Cities|month=June | year=2007|title=Biodiesel Best Management Practices|accessdate=2008-01-28|format=PDF}}</ref>
+
+==Lubricants==
+For all [[Volkswagen Group]] diesel engines Volkswagen AG requires that lubricants must meet VW505.00, 505.01, 506.00, 506.01, or 507.00 standards.
+
+A number of brands of [[motor oil]]s are now "VW Approved" to the above standards; there do exist, however, a few off brands not approved by VW that print the VW number on the label and hide in small type the word "recommended".  Volkswagen AG only carries out in-house testing on motor oils to grant the necessary approvals; if Volkswagen AG, therefore, has not carried out such tests (or if a submitted oil has failed their tests), Volkswagen AG will not grant approval.  Volkswagen Germany and Volkswagen of America freely publish up-to-date lists of currently approved oils on their respective websites, along with the technical resource, erWin.<ref>[https://erwin.volkswagen.de/erwin/showApprovedOils.do Approved oils] from erWin</ref>  Volkswagen AG does not permit any independent testing facility to grant their own standards.
+
+European models with "LongLife Servicing", "Extended Service Intervals", "ESI", or "WIV", must be run on official VW LongLife lubricants, namely 506.00 (for non-PD), 506.01 (for PD), or the very latest 507.00.  [[Volkswagen of America]], however, warranties require frequent oil changes even if ESI hardware is installed.  Finally, the very latest TDIs with [[Diesel Particulate Filter]] (DPF) must ONLY use 507.00 oils.
+
+(Useful references: TDIClub.com [http://www.tdiclub.com/TDIFAQ/TDiFAQ-4.html 1] [http://forums.tdiclub.com/showthread.php?t=126932 2] [http://forums.tdiclub.com/showthread.php?t=126932 3])
+
+==See also==
+{{Commons category|Volkswagen engines}}
+*[[list of Volkswagen Group petrol engines]]
+*[[list of Volkswagen Group diesel engines]]
+*[[list of discontinued Volkswagen Group petrol engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+*[[list of North American Volkswagen engines]]
+*[[Diesel automobile racing ]]
+*[[Suction Diesel Injection]] (SDI)
+*[[BlueMotion]]
+*[[diesel engine]]
+*[[turbodiesel]]
+*[[common rail]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.VolkswagenAG.com VolkswagenAG.com] - Volkswagen Group corporate website
+*[http://www.mobility-and-sustainability.com/buster/buster.asp?i=_content/standorte_398.asp Polkowice (Poland) Plant Sustainability site - engine plant]
+*[http://www.myturbodiesel.com myTurboDiesel.com] - a turbodiesel technical forum and "how to" page for Volkswagens
+*[http://tdiclub.com TDI Club] - A comprehensive source for all TDI information
+*[http://www.tdicurious.ca/ TDI Curious] - a Volkswagen Canada official blog exclusively dedicated to the TDI technology
+*[http://www.transmitmedia.com/golfTDI/ VW Golf TDI] - review of Volkswagen Golf TDI automobile
+
+{{Volkswagen Group brands}}
+
+[[Category:Volkswagen]]
+[[Category:Volkswagen engines]]
+[[Category:Engine fuel system technology]]
+[[Category:Diesel engines| ]]
+
+[[bg:TDI]]
+[[da:TDI (motor)]]
+[[de:TDI-Motor]]
+[[es:Turbo inyección directa]]
+[[it:Turbocharged Direct Injection]]
+[[nl:Turbocharged Direct Injection]]
+[[pl:Turbo Direct Injection]]
+[[pt:Bomba injetora]]
+[[sv:TDI]]
+[[tr:TDI]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = developer
+|rdfs:domain = Software
+|rdfs:range = Person
+}}

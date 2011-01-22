@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = executive producer
+|rdfs:domain = TelevisionEpisode
+|rdfs:range = Person
+}}

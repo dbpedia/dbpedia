@@ -1,0 +1,36 @@
+{{Infobox Automobile
+| image        = [[Image:Bertone Birusa 2003 1.jpg|250px]]
+| name         = Bertone Birusa
+| manufacturer = [[Bertone]], [[BMW]]
+| production   = 
+| predecessor  = 
+| successor    = 
+| class        = [[Concept car]]
+| platform     =  
+| body_style   = [[Coupe]]
+| engine       = V8
+| transmission = 6 speed manual
+| wheelbase    = 
+| length       = 440 cm (173 in)
+| width        = 190 cm (75 in)
+| height       = 
+| weight       = 
+| aka          = 
+| fuel_economy =
+| fuel_capacity=
+| related      = [[BMW Z8]]
+| similar      = 
+| designer     = 
+}}
+
+The '''Bertone Birusa''' is a design study based on the [[BMW Z8]]. The Birusa features a 5.0-liter V8 with {{convert|400|bhp|kW PS|0|abbr=on}}, and also has 11 [[Bose Corporation|Bose]] speakers.
+
+[[Category:Concept automobiles]]
+[[Category:Cars of Italy]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+{{Modern-auto-stub}}
+
+[[es:Bertone Birusa]]
+[[nl:Bertone Birusa]]
+[[no:Bertone Birusa]]

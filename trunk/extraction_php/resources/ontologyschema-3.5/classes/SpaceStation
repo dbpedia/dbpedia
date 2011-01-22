@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Space Station
+| rdfs:subClassOf = MeanOfTransportation
+| specificProperties = {{SpecificProperty | ontologyProperty = volume | unit = cubicMetre }}
+}}

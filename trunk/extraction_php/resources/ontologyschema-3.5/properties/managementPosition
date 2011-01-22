@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = management position
+| rdfs:range = geo:SpatialThing
+}}

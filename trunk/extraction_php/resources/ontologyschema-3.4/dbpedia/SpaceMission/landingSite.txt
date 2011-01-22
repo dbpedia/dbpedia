@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = landing site
+|rdfs:domain = SpaceMission
+|rdfs:range = xsd:string
+}}

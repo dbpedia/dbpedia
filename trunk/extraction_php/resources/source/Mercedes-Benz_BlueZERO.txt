@@ -1,0 +1,27 @@
+'''Mercedez-Benz BlueZERO''' are [[near-series]] [[Mercedez-Benz]] cars that uses electric propulsion ([[electro-mobility]]).
+
+The [[aerodynamics]] and [[bionic]] structure are accentuated and employs [[ALU-BEAM]] colors for the paint finishes.
+
+== Architecture ==
+They are based in a single architecture, a [[sandwich floor|sandwich-floor architecture]], that include the positive effect to obtain a low [[center of gravity]].
+
+Design and vehicle dimensions are identical, 4.22 meters in length, a [[payload]] of 450 kg and a [[luggage compartment]] of over 500 liters.
+
+== Variants ==
+BlueZERO F-CELL is the [[fuel cell]] version.
+
+=== Battery electric vehicles ===
+BlueZERO E-CELL is the [[all-electric vehicle]], with 35 kWh battery capacity (that gives an only-electric range), a compact [[electric motor]] of 100 kW (continuous output 70 kW) that is going to be produced in 2010.
+
+BlueZERO E-CELL PLUS is a series [[plug-in hybrid vehicle]] ([[extended range electric vehicle]]), that includes an optional use gasoline engine, with a 600 range on a single tank and 100 only-electric range.
+
+They both uses cooled [[lithium-ion]] batteries.
+
+== Sources==
+* [http://www.daimler.com/dccom/0-5-7153-1-1160703-1-0-0-0-0-0-9293-7145-0-0-0-0-0-0-0.html Mercedez-Benz BlueZERO official page].
+
+{{electric-vehicle-stub}}
+{{renewable-energy-stub}}
+
+[[Category:Mercedes-Benz vehicles|BlueZERO]]
+[[Category:Electric vehicles]]

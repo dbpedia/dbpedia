@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = based on
+| rdfs:domain = Work
+| rdfs:range = Work
+}}

@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Software
+| rdfs:subClassOf = Work
+| specificProperties = {{SpecificProperty | ontologyProperty = size | unit = megabyte }}
+}}

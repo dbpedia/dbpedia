@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Protein
+|rdfs:subClassOf = owl:Thing
+}}

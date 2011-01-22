@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = resides
+|rdfs:domain = Wrestler
+|rdfs:range = PopulatedPlace
+}}

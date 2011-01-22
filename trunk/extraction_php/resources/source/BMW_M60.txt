@@ -1,0 +1,85 @@
+{{Infobox Automobile
+|name=BMW M60 engine
+|manufacturer=[[BMW]]
+|production=[[1992]]&ndash;[[1995]]
+|predecessor=[[BMW OHV V8 engine|BMW OHV V8]]
+|successor=[[BMW M62]]
+|class=[[DOHC]] [[V8 engine|V8]]
+|engine=3.0 L (2997&nbsp;cc/182&nbsp;in³)<br>4.0 L (3982&nbsp;cc/242&nbsp;in³)<br>4.6 L (4619&nbsp;cc/282&nbsp;in³)
+|similar=[[Mercedes-Benz M119 engine|Mercedes-Benz M119]]
+}}
+The '''M60''' is the internal code for the [[V8]] [[engine]] manufactured by [[BMW]] from April 1992 to 1995. It largely replaced the [[BMW M30]] [[inline-6|inline six]].
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#M60B30|M60B30]]||3.0&nbsp;L ({{convert|2997|cc|cuin|1|abbr=on}})||{{convert|160|kW|PS hp|0|abbr=on}} @ 5800||{{convert|290|Nm|lbft|0|abbr=on}}) @ 4500||6500||1992
+|-
+|[[#M60B40|M60B40]]||4.0&nbsp;L ({{convert|3982|cc|cuin|1|abbr=on}})||{{convert|210|kW|PS hp|0|abbr=on}} @ 5800||{{convert|400|Nm|lbft|0|abbr=on}}) @ 4500||6500||1992
+|-
+|[[#M60B46|M60B46]]||4.6&nbsp;L ({{convert|4619|cc|cuin|1|abbr=on}})||{{convert|245|kW|PS hp|0|abbr=on}} @ 5800||{{convert|470|Nm|lbft|0|abbr=on}}) @ 4500||6500||1992
+|}
+
+==Development==
+
+Development of the V8 engine began in 1984, and the engine was committed to production in 1986. Some 560 test engines were built throughout the development program.
+
+Design made extensive use of [[computer-aided design|CAD]] to minimize size and weight. It had a closed-deck [[cylinder block]] for maximum rigidity, and used [[aluminum]] [[alloy]] for both block and [[cylinder head]]. The valve covers were [[magnesium]], and the [[Manifold (automotive engineering)|intake manifold]] was nylon. [[Nikasil]] plating was used rather than iron for the [[cylinder (engine)|cylinder liners]] (although this proved problematic, as described below). The [[sintering|sintered]] [[connecting rod]]s were made as a single piece and then fractured in order to ensure a closer fit. The block weighed {{convert|25|kg|lb|0|abbr=on}}, and the heads {{convert|30|kg|lb|0|abbr=on}} each. Total dry weight was {{convert|203|kg|lb|0|abbr=on}}.
+
+The M60 engine had four [[poppet valve|valves]] per cylinder, with  duplex-chain-driven [[Double overhead cam|dual overhead camshafts]]. Valves had [[hydraulic]] lash adjustment to reduce maintenance, and the camshaft chain drive was self-adjusting. There was no [[distributor]], each cylinder having its own [[ignition coil]]. [[Fuel injection]] and [[Ignition system|ignition]] were managed by a DME (Digital Motor Electronics) from [[Robert Bosch GmbH|Bosch]] the MOTRONIC 3.3 computer system.
+
+The M60 was offered in two sizes: the 3.0 L M60B30 and the 4.0 L M60B40. The two had very similar design, but neither block, heads, nor [[crankshaft]] were interchangeable.
+
+===M60B30===
+The M60B30 had a bore of 84&nbsp;mm (3.31 in) and a stroke of 67.6&nbsp;mm (2.66 in), for a displacement of {{convert|2997|cc|cuin|1|abbr=on}}. [[Compression ratio]] was 10.5:1, giving an output of {{convert|160|kW|PS hp|0|abbr=on}} at 5800 rpm and {{convert|290|Nm|lbft|0|abbr=on}} at 4500 rpm.
+
+Cars with this engine:
+* [[1993]]-[[1995]] [[BMW E34|E34]] [[BMW 5-Series|530i]]
+* [[1992]]-[[1994]] [[BMW E32|E32]] [[BMW 7-Series|730i]]
+* [[1994]]-[[1996]] [[BMW E38|E38]] [[BMW 7-Series|730i]]
+
+===M60B40===
+The M60B40 had a bore of 89&nbsp;mm (3.50 in) and a stroke of 80&nbsp;mm (3.15 in), for a total displacement of {{convert|3982|cc|cuin|1|abbr=on}}. Compression was 10.0:1, giving {{convert|210|kW|PS hp|0|abbr=on}} at 5800 rpm and {{convert|400|Nm|lbft|0|abbr=on}} at 4500 rpm. It had a [[forging|forged]] crankshaft rather than the M60B30's cast piece.
+
+Cars with this engine:
+* 1993-1995 [[BMW E34|E34]] [[BMW 5-Series|540i]]
+* 1992-1994 [[BMW E32|E32]] [[BMW 7-Series|740i]]
+* 1994-1996 [[BMW E38|E38]] [[BMW 7-Series|740i]]
+* 1992-1996 [[BMW E31|E31]] [[BMW 8-Series|840i]]
+* 1993-1998 [[De Tomaso]] [[De Tomaso Guara|Guara]]
+
+The M60 was the #1 engine worldwide on the [[Ward's 10 Best Engines]] list for 1995 and 1996.
+
+In 1996 the M60 was replaced with the [[BMW M62|M62 series engines]].
+
+==The Nikasil problem==
+{{Unreferenced section|date=April 2009}}
+BMW used [[Nikasil]], an [[aluminium]], [[nickel]], and [[silicon]] alloy, to line the cylinders of the M60 engines. The cross-hatched Nikasil linings react with the high [[sulfur]] content found in lower-quality [[gasoline]], such as that used in parts of the [[United States]]. This reaction causes damage to the very top of the cylinder bore, where there is the most contact of the burning mixture and the cylinder lining.  The damage prevents a good seal from forming between the [[piston]] and the cylinder wall, causing a loss of compression in the combustion chamber. This "leak down" will cause M60s with worn linings to exhibit a rough idle, and if the problem continues unchecked, the engine will not start.
+
+The only permanent fix for this problem is the replacement of the short block with the equivalent block composed of [[Alusil]], which do not exhibit this corrosion problem. After the problem was found, BMW issued an extended six-year, 100,000-mile (160,000&nbsp;km) [[warranty]] to cover these engines at no cost to the owner.
+
+The composition of the engine can be found by checking the serial number stamped into the engine block:
+
+M60B30:
+*1 725 970 - Nikasil
+*1 741 212 - Nikasil
+*1 745 871 - Alusil
+M60B40:
+*1 725 963 - Nikasil
+*1 742 998 - Nikasil
+*1 745 872 - Alusil
+
+==See also==
+* [[List of BMW engines]]
+
+==External links==
+
+[[Category:BMW engines|M60]]
+
+[[de:BMW M60]]
+[[it:BMW M60]]
+[[no:BMW M60]]
+[[pl:BMW M60]]
+[[sl:BMW M60]]

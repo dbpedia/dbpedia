@@ -1,0 +1,38 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Building
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = address | ontologyProperty = Building/address }}
+	{{ DBpediaPropertyMapping | templateProperty = architect | ontologyProperty = Building/architect }}
+	{{ DBpediaPropertyMapping | templateProperty = architecturalBureau | ontologyProperty = Building/architectualBureau }}
+	{{ DBpediaPropertyMapping | templateProperty = buildingStartDate | ontologyProperty = Building/buildingStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = buildingEndDate | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = openingDate | ontologyProperty = Building/openingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = closingDate | ontologyProperty = Building/closingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = rebuildingDate | ontologyProperty = Building/rebuildingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Building/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = owningOrganisation | ontologyProperty = Building/owningOrganisation }}
+	{{ DBpediaPropertyMapping | templateProperty = visitorsTotal | ontologyProperty = Building/visitorsTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = visitorsPerYear | ontologyProperty = Building/visitorsPerYear }}
+	{{ DBpediaPropertyMapping | templateProperty = former_names | ontologyProperty = Building/formerName }}
+	{{ DBpediaPropertyMapping | templateProperty = architectural_style | ontologyProperty = Building/architecturalStyle }}
+	{{ DBpediaPropertyMapping | templateProperty = structural_system | ontologyProperty = Building/structuralSystem }}
+	{{ DBpediaPropertyMapping | templateProperty = cost | ontologyProperty = Building/cost | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = current_tenants | ontologyProperty = Building/tenant }}
+	{{ DBpediaPropertyMapping | templateProperty = start_date | ontologyProperty = Building/buildingStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = completion_date | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = inauguration_date | ontologyProperty = Building/openingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = demolition_date | ontologyProperty = Building/demolitionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = destruction_date | ontologyProperty = Building/destructionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = floor_count | ontologyProperty = Building/floorCount }}
+	{{ DBpediaPropertyMapping | templateProperty = floor_area | ontologyProperty = Building/floorArea | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Building/awards }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = elevationInFoot | ontologyProperty = Place/elevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = elevationInMeters | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Place/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = building_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = native_building_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = building_type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+}}

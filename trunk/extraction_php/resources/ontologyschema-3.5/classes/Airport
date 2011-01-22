@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Airport
+| rdfs:subClassOf = Building
+}}

@@ -1,0 +1,9 @@
+{{TemplateMapping
+| mapToClass = Continent
+| mappings = 
+	{{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = Area }}
+	{{PropertyMapping | templateProperty = population | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = density | ontologyProperty = populationDensity | unit = PopulationDensity }}
+	{{PropertyMapping | templateProperty = demonym | ontologyProperty = demonym }}
+	{{PropertyMapping | templateProperty = languages | ontologyProperty = language }}
+}}

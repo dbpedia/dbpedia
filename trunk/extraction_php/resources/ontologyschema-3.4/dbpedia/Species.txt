@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Species
+|rdfs:subClassOf = owl:Thing
+}}

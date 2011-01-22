@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Area
+| rdfs:subClassOf = PopulatedPlace
+}}

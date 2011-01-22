@@ -1,0 +1,180 @@
+{{Infobox Automobile
+| image         = [[Image:Mercedes Benz 220 W187.jpg|250px|W187 220 cabriolet]]
+| name          = Mercedes-Benz W187<br>220
+| manufacturer  = [[Mercedes-Benz]]
+| production    = 1951&ndash;1955 <br/> 18,514 built<ref>Werner Oswald: ''Deutsche Autos 1945-1990,'' vol.5, Motorbuch Verlag, Stuttgart 2001, ISBN 3-613-02131-5, p. 16.</ref> <br/> Saloon: 16,154 <br/> Cabr. A: 1,278 <br/> Cabr. B: 997 <br/> Coupé: 85
+| predecessor   = 
+| successor     = [[Mercedes-Benz W105]]<br>[[Mercedes-Benz W180]]<br>[[Mercedes-Benz W128]]
+| class         = [[Full-size car|full-size]]
+| platform      = 
+| layout        = 
+| body_style    = [[sedan (car)|sedan]]<br>[[coupe]]<br>[[Cabriolet (automobile)|cabriolet]]
+| engine        = 
+| transmission  = 
+| wheelbase     = 
+| length        = 
+| width         = 
+| height        = 
+| weight        = 
+| aka           = 
+| fuel_economy  = 
+| fuel_capacity = 
+| related       = 
+| similar       = 
+| designer      = 
+}}
+{{commonscat|Mercedes-Benz W187}}
+The '''W187''' was [[Mercedes-Benz]]'s line of six-cylinder [[luxury car]]s in the early-1950s. It was sold as a [[sedan (car)|sedan]], [[coupe]], and [[Cabriolet (automobile)|cabriolet]], all with the '''220''' model name. Introduced at the [[Frankfurt Motor Show]] in 1951, the 220 sedan was replaced by the [[Mercedes-Benz W105|W105]]/[[Mercedes-Benz W180|W180]] line in 1953. The coupe and cabriolet lasted until August 1955.
+
+All 220s used a 2.2&nbsp;L (2195&nbsp;cc/133&nbsp;in³) [[straight-6]] engine producing 80&nbsp;hp DIN (86 SAE) (60&nbsp;kW).  The styling was similar to the [[Mercedes-Benz W136|170 S]] except that the headlights were integrated into the fenders for a slightly more modern look. Two different cabriolet models were built, but they only sold 1,278 and 997 for the "A" (two-door) and "B" (four-door) versions, respectively.
+
+The saloon went out of production in May, 1954; the Cabriolet models soldiered on for another 15 months, now equipped with the new [[Mercedes-Benz W180|W180]] 220a's engine. Also, a Cabriolet A-based Coupé became available at that time.
+
+Models:
+* 1951&ndash;1954 220 sedan
+* 1951&ndash;1955 220 cabriolet (A and B models)
+* 1954&ndash;1955 220 coupe
+
+<br style="clear:both" />
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data Mercedes-Benz 220 (W187) <ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="20%"|Mercedes-Benz
+! width="40%"|220
+! width="40%"|220 Cabriolet/Coupé
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1951 - 1954 || align="center" |1951 - 1955
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="2" align="center" |[[I-6|6-cylinder-inline engine]] ([[four-stroke]]), front-mounted
+|- bgcolor="#EEEEEE"
+| Bore x Stroke:&nbsp; || colspan="2" align="center" | 80&nbsp;mm x 72.8&nbsp;mm
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || colspan="2" align="center" | 2195 cc
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp; || colspan="2" align="center" | {{convert|80|PS|kW hp|abbr=on}} @ 4850
+|- bgcolor="#EEEEEE"
+| Max. Torque @ rpm:&nbsp; || colspan="2" align="center" | {{convert|142|Nm|lbft|abbr=on}} @ 2500
+|- bgcolor="#EEEEEE"
+| Compression Ratio:&nbsp; || colspan="2" align="center" |6.5: 1
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || colspan="2" align="center" | Two-barrel downdraft carburetter Solex 30PAAJ
+|- bgcolor="#EEEEEE"
+| Fuel tank capacity:&nbsp; || colspan="2" align="center" |  {{Convert|47|L|usgal impgal|1|abbr=on}}, from late 1951 {{Convert|65|L|usgal impgal|1|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Valvetrain:&nbsp; || colspan="2" align="center" | [[SOHC]], duplex chain 
+|- bgcolor="#EEEEEE"
+|  Cooling:&nbsp; || colspan="2" align="center" |Water
+|- bgcolor="#EEEEEE"
+| Gearbox:&nbsp; || colspan="2" align="center" | 4-speed manual <br/>  rear wheel drive, axle ratio 4.44:1
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || colspan="2" align="center" |  6 volt
+|- bgcolor="#EEEEEE"
+| Front suspension:&nbsp; || colspan="2" align="center" | Double wishbones, coil springs, stabilising bar
+|- bgcolor="#EEEEEE"
+| Rear suspension::&nbsp; || align="center" | High-pivot swing axle, coil springs || align="center" | High-pivot swing axle, coil springs
+|- bgcolor="#EEEEEE"
+| Brakes:&nbsp; || colspan="2" align="center" | Drum brakes (Ø 240&nbsp;mm)
+|- bgcolor="#EEEEEE"
+| Steering:&nbsp; || colspan="2" align="center" | Worm-and-sector steering
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; || align="center" | Sheet steel on ovoid steel tube X-frame || align="center" | Sheet steel with wood frame on ovoid steel tube X-frame
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || align="center" |{{convert|1350|kg|lb|abbr=on}} || align="center" |{{convert|1440|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Loaded weight:&nbsp; || align="center" |{{convert|1690|kg|lb|abbr=on}} || align="center" | Cabriolet A {{convert|1680|kg|lb|abbr=on}} <br/> Cabriolet B {{convert|1785|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || colspan="2" align="center" |{{convert|1315|mm|in|abbr=on}} {{convert|1435|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || colspan="2" align="center" | {{convert|2845|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" | {{convert|4507|mm|in|abbr=on}} || align="center" | Cabriolet B: {{convert|4507|mm|in|abbr=on}}<br/> Cabriolet A: {{convert|4538|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || colspan="2" align="center" | {{convert|1685|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" | {{convert|1610|mm|in|abbr=on}} || align="center" | Cabriolet B: {{convert|1610|mm|in|abbr=on}} <br/> Cabriolet A: {{convert|1560|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Tyre/Tire sizes:&nbsp; || colspan="2" align="center" | 6.40-15
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Top speed:&nbsp; || align="center" | {{convert|140|km/h|mph|abbr=on}} || align="center" | {{convert|140|km/h|mph|abbr=on}} <br/> Cabriolet A: {{convert|145|km/h|mph|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Fuel Consumption (estimate):&nbsp; || align="center" |{{convert|14.0|l/100 km|lk=off }} || align="center" |{{convert|14.5|l/100 km|lk=off }}
+|- bgcolor="#EEEEEE"
+| Price (Germany): <br/> Saalon <br/> Saloon w/fabric sunroof <br/> Cabriolet A <br/> Cabriolet B <br/> Coupé <br/> Coupé w/steel sunroof:&nbsp; || align="center" | DM 11,925 <br/> DM 12,525 <br/> <br/> <br/> || align="center" | <br/> <br/> DM 18,860 <br/> DM 15,160 <br/> DM 20,850 <br/> DM 22,000
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+{|
+|-
+| valign="top"|
+[[Image:2007-07-08 Mercedes-Benz 220 S, Cabriolet A (kl).jpg|thumb|260px|left|Mercedes-Benz 220 S – Cabriolet A]]
+| valign="top"|
+[[Image:Mercedes-Benz 220 Cabriolet A 1952.jpg|thumb|260px|left|Mercedes-Benz 220 Cabriolet A 1952]]
+| valign="top"|
+[[Image:220 Coupé.jpg|thumb|260px|left|Mercedes-Benz 220 Coupé]]
+|}
+
+<br style="clear:both;"/>
+
+===Timeline===
+{| style="margin:0 auto;" class="toccolours" align="left"
+|- bgcolor=#F0F0F0
+|align=center width=5%|Chassis||align=center width=5%|Type||align=center width=5%|1951||align=center width=5%|1952||align=center width=5%|1953||align=center width=5%|1954||align=center width=5%|1955
+|- align=center
+|rowspan=4 bgcolor=#C0C0C0|W187
+|bgcolor=#C0C0C0|[[sedan (car)|sedan]]
+|colspan=4 bgcolor=#C0C0C0 |220
+|colspan=1 bgcolor=#E0E0E0|
+|- align=center
+|bgcolor=#C0C0C0|[[coupe]]
+|colspan=3 bgcolor=#E0E0E0|
+|colspan=2 bgcolor=#C0C0C0 |220
+|- align=center
+|bgcolor=#C0C0C0|[[Cabriolet (automobile)|cabriolet]]
+|colspan=5 bgcolor=#C0C0C0 |220
+|}
+<br style="clear:both;"/>
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite web|url=http://home.hiwaay.net/~gbf/mbmodels.html|title= Mercedes-Benz U.S Models|work=Hiwaay.net|accessdate=December 1, 2005}}
+* {{cite web|url=http://www.philseed.com/mb220-w187.html|title=220 (W187)|work=Phil Seed's Virtual Car Museum|accessdate=December 1, 2005}}
+
+==External links==
+{{commons cat|Mercedes-Benz W136}}
+* [http://www.170220.com/ Mercedes Benz 170220 Club Website]
+* [http://www.170220.com/170smf/index.php Mercedes Benz 170220 Club Forum]
+
+{{Classic Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz platforms|W187]]
+[[Category:Vehicles introduced in 1951]]
+
+[[de:Mercedes-Benz W187]]
+[[it:Mercedes-Benz W187]]
+[[sv:Mercedes-Benz W187]]

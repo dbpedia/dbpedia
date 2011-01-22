@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = spacewalk end
+|rdfs:domain = SpaceMission
+|rdfs:range = xsd:date
+}}

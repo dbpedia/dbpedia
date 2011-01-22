@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = mir dockings
+| rdfs:domain = SpaceShuttle
+| rdfs:range = xsd:integer
+}}

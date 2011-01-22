@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = president
+|rdfs:domain = University
+|rdfs:range = Person
+}}

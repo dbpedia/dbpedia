@@ -1,0 +1,46 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Country
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = national_anthem | ontologyProperty = Country/anthem }}
+	{{ DBpediaPropertyMapping | templateProperty = royal_anthem | ontologyProperty = Country/anthem }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnic_groups_year | ontologyProperty = Country/ethnicGroupsInYear }}
+	{{ DBpediaPropertyMapping | templateProperty = government_type | ontologyProperty = Country/governmentType }}
+	{{ DBpediaPropertyMapping | templateProperty = currency | ontologyProperty = Country/currency | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = conventional_long_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = common_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = national_motto | ontologyProperty = PopulatedPlace/motto }}
+	{{ DBpediaPropertyMapping | templateProperty = capital | ontologyProperty = PopulatedPlace/capital }}
+	{{ DBpediaPropertyMapping | templateProperty = largest_city | ontologyProperty = PopulatedPlace/largestCity }}
+	{{ DBpediaPropertyMapping | templateProperty = largest_settlement | ontologyProperty = PopulatedPlace/largestSettlement }}
+	{{ DBpediaPropertyMapping | templateProperty = largest_settlement_type | ontologyProperty = PopulatedPlace/largestSettlementType }}
+	{{ DBpediaPropertyMapping | templateProperty = official_languages | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = regional_languages | ontologyProperty = PopulatedPlace/regionalLanguage }}
+	{{ DBpediaPropertyMapping | templateProperty = languages_type | ontologyProperty = PopulatedPlace/languageType }}
+	{{ DBpediaPropertyMapping | templateProperty = languages | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnic_groups | ontologyProperty = PopulatedPlace/ethnicGroup }}
+	{{ DBpediaPropertyMapping | templateProperty = demonym | ontologyProperty = PopulatedPlace/demonym }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title1 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name1 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title2 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name2 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title3 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name3 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title4 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name4 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title5 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name5 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = established_event1 | ontologyProperty = PopulatedPlace/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date1 | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = established_event2 | ontologyProperty = PopulatedPlace/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date2 | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = established_event9 | ontologyProperty = PopulatedPlace/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date9 | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = area_magnitude | ontologyProperty = PopulatedPlace/areaMagnitude | unit = squareMetre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_km2 | ontologyProperty = PopulatedPlace/areaMetro | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_sq_mi | ontologyProperty = PopulatedPlace/areaMetro | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = percent_water | ontologyProperty = Place/percentageOfAreaWater }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_km2 | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_sq_mi | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareMile }}
+	{{ DBpediaGeocoordinatesMapping | latitudeDegrees = latd  | latitudeMinutes = latm  | latitudeDirection = latNS  | longitudeDegrees = longd  | longitudeMinutes = longm  | longitudeDirection = longEW }}
+}}

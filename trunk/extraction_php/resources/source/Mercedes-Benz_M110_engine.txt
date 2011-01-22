@@ -1,0 +1,170 @@
+{{Infobox Automobile
+|name=Mercedes-Benz M110 engine
+|image=[[Image:M110-a-good-one-not-that-junk-other-one.jpg‎|thumb]]
+|manufacturer=[[Mercedes-Benz]]
+|production=1973&ndash;1986
+|class=[[Straight-6]] [[DOHC]]
+|engine=2.8&nbsp;L (2746&nbsp;cc)
+}}
+
+The '''M110''' engine family is a [[DOHC]] ([[double overhead cam]]) design with 2 valves per cylinder [[straight-6]] automobile engine made by [[Mercedes-Benz]] in the 1970s and 1980s. 
+
+The M110.92x and .93x engines are carburetor engines, with [[Solex]] or [[Pierburg]] [[carburetor]].
+
+The M110.98x and .99x engines are fuel-injected engines, with [[Robert Bosch GmbH|Bosch]] [[Jetronic#D Jetronic|D-Jetronic]] up to the .984 and [[Jetronic#K Jetronic|K-Jetronic]] from the .985.
+
+All '''M110''' engines have a displacement of 2.8&nbsp;L (2746&nbsp;cc) (170.8 cu in) and an 86&nbsp;mm bore and 78.8&nbsp;mm stroke. Firing order is 1-5-3-6-2-4. Amount of coolant in the radiator was 11 litres from 1970s and 12 litres from 1980s and on. Amount of oil (lubricant) in engine was 6 litres. Lubrication system was pressure circulation lubrication system. Number of valves was 1 intake, 1 exhaust with V-shaped overhead configuration. Valve operation was 2 top camshafts and camshaft drive was duplex roller-type chain.
+
+The '''M110''' .92x and .93x carburetor engines were replaced by the [[SOHC]] 2.6L [[Mercedes-Benz M103 engine|M103]] while .98x and .99x fuel-injected engines were replaced by 3.0L [[Mercedes-Benz M103 engine|M103]] starting in 1986.
+
+==M110.921 / M110.931==
+The .931 is the low-compression version of the .921. 
+*Power output of .921: 160&nbsp;hp (118&nbsp;kW) at 5500rpm.
+*Power output of .931: 145&nbsp;hp (107&nbsp;kW) at 5500rpm.
+
+Applications:
+* 1972-1976 [[Mercedes-Benz W114|280]]
+* 1972-1976 [[Mercedes-Benz W114|280C]]
+
+==M110.922 / M110.932==
+
+The .932 is the low-compression version of the .922.
+
+Power output of .922: 160&nbsp;hp (118&nbsp;kW) at 5500rpm.<br />
+Power output of .932: 145&nbsp;hp (107&nbsp;kW) at 5500rpm.
+
+Applications:
+* 1972-1980 [[Mercedes-Benz W116|280S]]
+
+==M110.923==
+Power output: 156&nbsp;hp (115&nbsp;kW) at 5500rpm, or 143&nbsp;hp (105&nbsp;kW) at 5500rpm for the low-compression version.
+
+Applications:
+* 1975-1981 [[Mercedes-Benz W123|280]]
+* 1975-1981 [[Mercedes-Benz W123|280C]]
+
+==M110.924==
+Power output: 156&nbsp;hp (115&nbsp;kW) at 5500rpm, or 143&nbsp;hp (105&nbsp;kW) at 5500rpm for the low-compression version.
+
+Applications:
+* 1979-1985 [[Mercedes-Benz W126|280S]]
+
+==M110.926==
+Power output: 156&nbsp;hp (115&nbsp;kW) at 5500rpm, or 143&nbsp;hp (105&nbsp;kW) at 5500rpm for the low-compression version.
+
+Applications:
+* 1979-1985 [[Mercedes-Benz W126|280S]]
+
+==M110.981 / M110.991==
+The '''M110.981''' uses Bosch D-Jetronic injection. This system senses the ambient temperature, engine temperature, intake manifold underpressure and throttle valve position and ''calculates'' with an [[analog computer]] the pressure fed to the injectors. 
+
+The .991 is the low-compression version of the .981.
+
+Power output of .981: 185&nbsp;hp (136&nbsp;kW) at 6000rpm.<br />
+Power output of .991: 170&nbsp;hp (125&nbsp;kW) at 6000rpm.
+
+Applications:
+* 1972-1976 [[Mercedes-Benz W114|280E]]
+* 1972-1976 [[Mercedes-Benz W114|280CE]]
+
+==M110.982 / M110.992==
+The .992 is the low-compression version of the .982.
+
+Power output of .982: 185&nbsp;hp (136&nbsp;kW) at 6000rpm.<br />
+Power output of .992: 170&nbsp;hp (125&nbsp;kW) at 6000rpm.
+
+Applications:
+* 1973-1976 [[Mercedes-Benz R107|280SL]]
+* 1973-1976 [[Mercedes-Benz SLC-Class|280SLC]]
+
+==M110.983 / M110.993==
+The .993 is the low-compression version of the .983.
+
+Power output of .983: 185&nbsp;hp (136&nbsp;kW) at 6000rpm.<br />
+Power output of .993: 170&nbsp;hp (125&nbsp;kW) at 6000rpm.
+
+Applications:
+* 1972-1975 [[Mercedes-Benz W116|280SE]]
+* 1972-1975 [[Mercedes-Benz W116|280SEL]]
+
+==M110.984==
+The '''M110.984''' was the first engine with the new Bosch K-Jetronic injection. This system is mechanical. The air that is taken in is weighed to the determine the amount of fuel to inject.
+
+Power output: 177&nbsp;hp (130&nbsp;kW) at 6000rpm up to April 1978; 185&nbsp;hp (136&nbsp;kW) at 5800rpm from April 1978.
+
+Applications:
+* 1975-1981 [[Mercedes-Benz W123|280E]]
+* 1975-1981 [[Mercedes-Benz W123|280CE]]
+* 1975-1981 [[Mercedes-Benz W123|280TE]]
+
+==M110.985==
+Power output: 177&nbsp;hp (132&nbsp;kW) at 6000rpm up to April 1978; 185&nbsp;hp (136&nbsp;kW) at 5800rpm from April 1978.
+
+Applications:
+* 1976-1980 [[Mercedes-Benz W116|280SE]]
+* 1976-1980 [[Mercedes-Benz W116|280SEL]]
+
+==M110.986==
+Power output: 177&nbsp;hp (132&nbsp;kW) at 6000rpm up to April 1978; 185&nbsp;hp (136&nbsp;kW) at 5800rpm from April 1978.
+
+Applications:
+* 1976-1985 [[Mercedes-Benz R107|280SL]]
+* 1976-1985 [[Mercedes-Benz SLC-Class|280SLC]]
+
+==M110.987==
+Power output: 185&nbsp;hp (136&nbsp;kW) at 5800rpm.
+Maximum torque: 240 Nm at 4500rpm.
+Compression ratio: 9.0:1
+
+Applications:
+* 1979-1981.9 [[Mercedes-Benz W126|280SE]]
+* 1979-1981.9 [[Mercedes-Benz W126|280SEL]]
+
+==M110.988==
+Maximum output was 185 hp (136&nbsp;kW) at 5800rpm<br />
+Maximum torque was 240 Nm at 4500rpm<br /> 
+The compression ratio was 9.0 : 1. 
+
+Applications:
+* 1978-1986 [[Mercedes-Benz W126|280SE]]
+* 1978-1986 [[Mercedes-Benz W126|280SEL]]
+* 1978-1986 [[Mercedes-Benz W123|280E/CE/TE]]
+
+==M110.989==
+
+Power output: 185&nbsp;hp (136&nbsp;kW) at 5800rpm.<br />
+Maximum torque: 240 Nm at 4500rpm.<br />
+The compression ratio: 9.0 : 1.
+
+Applications:
+* 1981.10-1985 [[Mercedes-Benz W126|280SE]]
+* 1981.10-1985 [[Mercedes-Benz W126|280SEL]]
+
+==M110.990==
+
+Power output: 185&nbsp;hp (136&nbsp;kW) at 5800rpm.
+
+Applications:
+* 1976-1985 [[Mercedes-Benz R107|280SL]]
+* 1976-1985 [[Mercedes-Benz SLC-Class|280SLC]]
+
+==M110.994==
+
+This engine was specifically produced for the G-Class Geländewagen. It has a low compression ratio. It uses K-Jetronic.
+
+Power output: 156&nbsp;hp (115&nbsp;kW) at 5250rpm up to 1984;
+150&nbsp;hp (110&nbsp;kW) at 5250rpm from 1984.
+Torque: 226&nbsp;Nm at 4250rpm.
+
+Applications:
+* 1981-1985 [[Mercedes-Benz G-Class|280GE]]
+
+==See also==
+* [[List of Mercedes-Benz engines]]
+
+{{DEFAULTSORT:Mercedes-Benz M110 Engine}}
+[[Category:Mercedes-Benz engines|M110]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:Mercedes-Benz M110]]
+[[it:Mercedes-Benz M110]]

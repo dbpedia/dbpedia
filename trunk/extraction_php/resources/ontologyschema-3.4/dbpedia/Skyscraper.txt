@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Skyscraper
+|rdfs:subClassOf = Building
+}}

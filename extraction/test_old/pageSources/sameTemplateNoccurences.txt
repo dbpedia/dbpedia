@@ -1,0 +1,17 @@
+{{templatename
+|prop A = a
+|prop B = b
+}}
+
+
+{{templatename
+|prop A = a
+|prop B = b
+}}
+
+
+{{templatename
+|prop A = {{subTpl|a}} 
+|prop B = {{subTpl|b|c}}
+|prop C = c
+}}

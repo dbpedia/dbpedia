@@ -1,0 +1,6 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Award
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Award/country }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+}}

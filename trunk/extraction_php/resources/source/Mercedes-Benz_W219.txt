@@ -1,0 +1,70 @@
+{{Infobox Automobile
+|image          = [[Image:2006-Mercedes-Benz-CLS55-AMG-2.jpg|250px|2006 Mercedes-Benz CLS55 AMG]]
+|name           = Mercedes-Benz W219
+|manufacturer   = [[Mercedes-Benz]]
+|parent_company = [[Daimler AG]]
+|production     = 2004&ndash;present
+|class          = [[Full-size]] [[luxury car]]
+|body_style     = 4-door [[coupé]]/[[fastback]]
+|assembly       = [[Sindelfingen]], [[Germany]]<br /> [[Santiago Tianguistenco]], [[Mexico]]
+|engine         = 3.5&nbsp;L [[V6]]<br />5.0&nbsp;L [[V8]]<br />5.5&nbsp;L V8<br /> [[Mercedes-Benz M156 engine|6.2 L V8]]<br /> 3.0&nbsp;L V6 Diesel
+|length         = {{convert|4910|mm|in|1|abbr=on}}
+|width          = {{convert|1873|mm|in|1|abbr=on}}
+|height         = {{convert|1389|mm|in|1|abbr=on}}
+|layout         = [[FR layout]]
+|wheelbase      = {{convert|2855|mm|in|1|abbr=on}}
+|transmission   = 7-speed [[Automatic transmission|automatic]]
+|related        = [[Mercedes-Benz CLS-Class]]
+}}
+The [[Mercedes-Benz]] '''W219''' [[automobile]]s began production in 2005 (though described as an 04 model). The platform is based on the [[Mercedes-Benz W211|W211]] [[Mercedes-Benz E-Class|E-Class]]. It is sold as the [[Mercedes-Benz CLS-Class|CLS-Class]] "4-door coupe", although the bodystyle is properly termed a 4-door sedan, albeit with [[fastback]] styling.
+
+== Engines ==
+The car has a diesel engine with {{convert|165|kW|PS hp|0|abbr=on}} in Europe and three petrol engines:
+*CLS 350 [[gasoline direct injection|CGI]] (3498 cc; {{convert|215|kW|PS hp|0|abbr=on}} {{convert|365|Nm|lbft||abbr=on}}) ([[gasoline direct injection]])
+*CLS 550 (5561 cc; {{convert|285|kW|PS hp|0|abbr=on}} {{convert|530|Nm|lbft||abbr=on}})
+*CLS 63 AMG (6208 cc; {{convert|378|kW|PS hp|0|abbr=on}} {{convert|630|Nm|lbft||abbr=on}})
+
+Old engines: CLS 350 (3,5l; 200 kW 350 Nm), CLS 500 (5,0l; {{convert|225|kW|PS hp|0|abbr=on}} {{convert|460|Nm|lbft||abbr=on}}), CLS 55 AMG (5,4l; {{convert|350|kW|PS hp|0|abbr=on}} {{convert|700|Nm|lbft||abbr=on}})
+
+New engines: facelift 2008
+Gasoline:
+*CLS 300 - V6 2990 cc - {{convert|170|kW|PS hp|0|abbr=on}} /6000 rpm - {{convert|300|Nm|lb·ft|abbr=on}} /2500-5000 rpm - 0-100 km/h / 7,7s - max speed {{convert|245|km/h|mi/h|0|abbr=on}}
+*CLS 350 CGI - V6 3498 cc - {{convert|215|kW|PS hp|0|abbr=on}} /6400 rpm - {{convert|365|Nm|lb·ft|abbr=on}} /3000–5100 rpm - 0-100 km/h / 6,7s - max speed {{convert|250|km/h|mi/h|0|abbr=on}}*
+*CLS 500 - V8 5461 cc - {{convert|285|kW|PS hp|0|abbr=on}} /6000 rpm - {{convert|530|Nm|lb·ft|abbr=on}} /2800–4800 rpm - 0-100 km/h / 5,4s - max speed 250 km/h*
+*CLS 63 AMG - V8 6208 cc - {{convert|378|kW|PS hp|0|abbr=on}} /6800 rpm - {{convert|630|Nm|lb·ft|abbr=on}} /5200 rpm - 0-100 km/h / 4,5s - max speed 250 km/h*
+
+Diesel:
+*CLS 350 CDI - V6 2987 cc - {{convert|165|kW|PS hp|0|abbr=on}} /3800 rpm - {{convert|540|Nm|lb·ft|abbr=on}} /1600–2400 - 0-100 km/h / 7s - max speed {{convert|246|km/h|mi/h|0|abbr=on}}
+
+==American Sales==
+{| class="wikitable" border="1"
+|-
+! US Calendar Year
+! Sales
+|-
+| 2005<ref>{{cite web|url=http://www.theautochannel.com/news/2007/01/03/032870.html |title=Mercedes-Benz Rings in the New Year with Record 2006 Sales |publisher=Theautochannel.com |date=2004-11-17 |accessdate=2009-07-26}}</ref>
+| 14,835
+|-
+| 2006
+| 10,763
+|-
+| 2007<ref>{{cite web|url=http://www.emercedesbenz.com/Jan09/05_001548_Mercedes_Benz_USA_Sales_Drop_32_Percent_In_December_2008.html |title=Mercedes-Benz USA's Sales Drop 32.1 Percent In December 2008 &#124; eMercedesBenz - The Unofficial Mercedes-Benz Weblog |publisher=eMercedesBenz |date=2009-01-05 |accessdate=2009-07-26}}</ref>
+| 7,906
+|-
+| 2008
+| 5,775
+|}
+
+== References == 
+{{reflist}}
+
+== External links ==
+* [http://www.mbusa.com Mercedes-Benz in the USA]
+* [http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/passenger_cars/home/products/new_cars/cls-class_coupe.html Mercedes-Benz CLS in the UK]
+
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz platforms|W219]]
+[[Category:Vehicles introduced in 2005]]
+
+{{Modern-auto-stub}}

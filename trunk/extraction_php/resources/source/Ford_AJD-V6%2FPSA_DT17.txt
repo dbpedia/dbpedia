@@ -1,0 +1,82 @@
+{{Infobox Automobile
+|name= Lion Diesel Engine Family
+|image=
+|manufacturer=[[Ford of Europe]]
+|production=2004–present
+|class=[[DOHC]] [[Diesel engine|Diesel]]
+|engine=2.7&nbsp;L (2720&nbsp;cc/165&nbsp;in³) [[V6]]<br />3.0&nbsp;L (2993&nbsp;cc/183&nbsp;in³) [[V6]]<br /> 3.6&nbsp;L (3600&nbsp;cc/220&nbsp;in³)&nbsp; [[V8]]
+}}
+
+The Lion engine family was developed and manufactured at Ford's Dagenham Diesel Centre for use in [[PSA Peugeot Citroën]] vehicles (as '''DT17''' as part of joint venture begun in 1999), [[Jaguar Cars]] (as the '''AJD-V6'''), and Land Rover vehicles. The engines share the same bore/stroke ratio, with the [[V6]] displacing 2.7L and the [[V8]] displacing 3.6L. The V6 was launched in 2004, with the 3.6L having just launched in 2006. The V6 engine meets the Euro IV emissions standards. A 3.0L was added in 2009 and is based on the 2.7L.
+
+== Common Construction ==
+The engine family utilizes a high-tech [[DOHC]] with [[multi-valve|24/32 valves]], twin [[turbocharger]]s with an air-to-air [[intercooler]], and an innovative [[compacted graphite iron]] (CGI) block construction that leads to a low weight of 202&nbsp;kg dry. High-pressure [[common rail]] [[direct injection]] completes the picture. Bore is 81&nbsp;mm and stroke is 88&nbsp;mm for the engine.
+
+==Lion V6==
+[[Image:Jaguar XJ (X350) 2.7 liter V6 turbo diesel engine.jpg|thumb|220px|The Jaguar AJD-V6 engine in a 2006 Jaguar XJ.]]
+
+The V6 utilizes a 60° V configuration. Output is 147 to 152&nbsp;kW (200 to 207&nbsp;hp [[ECE]]) and up to 440&nbsp;Nm (325&nbsp;ft.lbf).
+
+[[Land Rover]] version is called 'LR-TDV6 Disesl engine'. It has a single [[turbocharger]], of a larger capacity than the twin-turbo design. This is to improve the engine's low-speed torque range for off-road and towing applications. It is also fitted with a very large, engine driven cooling fan to support low speed, but high load driving such as those that may be encountered in desert conditions. Other changes made to the Land Rover version of the engine over the Jaguar/Peugeot versions include a deeper high-capacity [[sump]] with improved baffles to maintain oil pressure at extreme off-road angles and multi-layered external seals to keep out dust, mud and water.
+
+The engine is a member of the [[Ford Duratorq]] family of engines and is produced in Ford's [[Dagenham]] engine plant. 35,000 were produced from April through the end of [[2004]].
+
+===AJ-V6D 2.7===
+It is a version with {{convert|2720|cc|abbr=on}} displacement and 2 turbochargers. The engine block is made from [[compacted graphite iron]].<ref>[http://www.tupy.com.br/downloads/guesser/compacted_graphite_iron_for_diesel.pdf Compacted Graphite Iron for Diesel Engine Cylinder Blocks]</ref>
+
+The family was superseded by AJ-V6D Gen III engines.
+
+=== Applications ===
+* 2004 [[Jaguar S-Type]]
+* 2005 [[Land Rover]] [[Land Rover Discovery|Discovery]]
+* 2005 [[Land Rover]] [[Range Rover Sport]]
+* 2005 [[Peugeot 607]]
+* 2005 [[Peugeot 407]] coupé
+* 2006 [[Peugeot 407]]
+* 2006 [[Jaguar XJ]]
+* 2006 [[Citroën C6]]
+* 2007 [[Jaguar XF]]
+* 2008 [[Citroën C5]]
+* 2010/11 [[Ford Territory]] (future model)
+
+==AJ-V6D Gen III==
+It is a family of twin turbocharged engines introduced with 2010 model year [[Jaguar Land Rover]] vehicles. The Gen III is produced in a larger capacity than the original version, being a 3-litre design. It uses 'parallel serial' turbocharger system. The block is made from compact graphite iron. The common rail injection system includes 2000bar injectors. Emission is reduced via common rail injection, exhaust gas recirculation, and diesel particulate filters.
+
+The parallel sequential system uses only the larger variable geometry turbocharger when engine is running at low RPMs. Once the engine has reached 2800 rpm, the smaller fixed turbocharger is used to push boosted air to the intake port of the larger turbocharger, before the boosted air from the smaller turbocharger is redirected to intercooler 300 milliseconds later, when the smaller turbocharger is fully operational.
+
+Fuel injector includes a piezo crystal fitted nearer to the tip to reduce engine noise, and a metering mode to reduce oversupplying of fuel that increases unused fuel temperature and energy consumption.
+
+The Gen III is standard fitment in the [[Land Rover Discovery|Land Rover Discovery 4]] and as the smallest diesel available in the [[Range Rover Sport]]. In Land Rover products the engine is badged as the 3.0 TDV6. Jaguar fit the Gen III to the [[Jaguar XF|XF]] and [[Jaguar XJ|XJ]] models. Jaguar tested versions of the [[Jaguar XK|XK]] fitted with the engine but did not carry the project on to production. As with the 2.7-litre engine the Land Rover variants feature a viscous-coupled cooling fan, larger and deeper oil sumps and improved dust and water sealing.
+
+== Lion V8 ==
+:''See also [[Ford 4.4 Turbo Diesel]]''
+The 3.6&nbsp;L [[V8]] is built at [[Dagenham Engine Plant]] by [[Ford of Europe]]. It is a twin-turbocharged Diesel V8 producing 272&nbsp;PS (268&nbsp;hp/200&nbsp;kW) and 640&nbsp;N·m (472&nbsp;ft·lbf). Production began in April 2006.
+
+Much speculation in the United States has focused on this engine as a possible Diesel entrant in the [[Ford F-Series|F-150]] pickup truck and [[Ford Expedition|Expedition]] SUV.<ref>{{cite web|url=http://autoweek.com/apps/pbcs.dll/article?AID=/20060802/FREE/60731013/1024/LATESTNEWS|title=Powertrain Plans|work=[[AutoWeek]]| accessdate = 2006-08-02}}</ref> It was announced that the new F150 engine will be based on this engine and enlarged to 4.4L. The [[Cleveland Engine]] plant recently began small-scale production of the exotic [[compacted graphite iron]] (CGI) used in the block's construction, leading many to expect production of the engine there.
+
+=== Applications ===
+* 2007 [[Land Rover]] [[Range Rover]]
+* 2007 [[Land Rover]] [[Range Rover Sport]]
+
+==See also==
+* [[List of Ford engines]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite web | title=Third phase of Diesel cooperation | work=Ford/PSA/Jaguar, June 2003 | url=http://www.psa-peugeot-citroen.com/document/presse_dossier/PKit_V61054906821.pdf |format=PDF| accessdate=October 9, 2005 }}
+* {{cite web | title=PSA, Ford Unveil Premium Diesel Engine | work=Ward's Auto World | url=http://wardsauto.com/ar/auto_psa_ford_unveil | accessdate = 2005-03-01}}
+* {{cite web | title=Ford, PSA Announce New V6 Diesel | work=Auto Report | url=http://www.auto-report.net/index.html?jagv6d.html | accessdate = 2005-03-01}}
+* {{cite web | title=Jaguar To Premiere New V6 Diesel Engine | work=Carpages | url=http://www.carpages.co.uk/jaguar/jaguar_to_premiere_new_v6_diesel_engine_09_06_03.asp?switched=on&echo=616714617 | accessdate = 2005-03-01}}
+* {{cite web | title=Ford diesel plant adopts clean standards considered critical to modern assembly | work=AutoWeek| url=http://www.autoweek.com/news.cms?newsId=102222 | accessdate = 2005-04-25}}
+* {{cite web | title=Ford Dagenham Designs and Builds New V8 Diesel Engine | work=[[Ford Motor Company]] press release | url=http://media.ford.com/article_display.cfm?article_id=23065 | accessdate = 2006-04-10}}
+
+==External links==
+*[http://www.jaguarperformance.com/engines/ Jaguar Performance]
+
+[[Category:Ford engines|AJD-V6]]
+[[Category:PSA engines|DT17]]
+[[Category:Diesel engines]]
+
+[[it:Ford Lion AJD]]

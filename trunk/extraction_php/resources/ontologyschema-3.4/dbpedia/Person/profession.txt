@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= profession
+|rdfs:domain	= Person
+}}

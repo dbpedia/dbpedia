@@ -1,0 +1,36 @@
+{{Infobox Automobile
+|name=Opel GTC
+|image=
+|manufacturer=[[Opel]]
+|parent_company=[[General Motors]]
+|production=2007
+|predecessor=
+|aka=
+|assembly=
+|class=[[Sports car]]
+|body_style=2-door [[coupé]]
+|successor=
+|engine=2.8&nbsp;L [[V6]] [[turbo]]
+|transmission=6-speed [[Manual transmission|manual]]
+|wheelbase=
+|layout=[[Front-engine design|Front engine]], [[Four-wheel drive|all-wheel drive]]
+|length= {{Auto in|190.2|0}}
+|width= {{Auto in|73.5|0}}
+|height= {{Auto in|56.4|0}}
+|fuel_capacity=
+}}
+The '''Opel Gran Turismo Coupé''', abbreviated as '''Opel GTC''', is an [[Opel]] [[concept car]] which was speculated to be a hypothetical [[Opel Vectra]] [[coupé]].  The GTC premiered at the 77th [[Geneva Motor Show]].  
+
+==Specifications==
+The GTC is powered with a [[turbocharger|turbocharged]] 2.8&nbsp;L (171&nbsp;cid) [[V6 engine]] from the [[GM_High_Feature_engine#LP9_Turbo|High Feature family]], also used in the standard Vectra, but tuned in the GTC to produce {{convert|300|hp|kW}} and 295&nbsp;[[Foot-pound force|ft-lb]] (400&nbsp;Nm) of [[torque]].  The base and [[floorpan]] come from a [[GM_Epsilon_platform#Epsilon_II|General Motors Epsilon II platform]] but modified for [[all-wheel drive]] to apply the power effectively.  The car was capable of 0-{{convert|100|km/h|mph}} in 6.0 seconds and a top speed of {{convert|250|km/h|mph}}.
+
+==Influence==
+[[Image:Vauxhall Insignia.jpg|left|200px|thumb|[[Opel Insignia]]]]
+The Opel Vectra is due to go out of production.  Design cues of the Opel GTC will be used on the [[Opel Insignia]], which is an upmarket replacement for the Vectra.  However, a coupé version of the Insignia will not be available.
+
+==External links==
+*[http://www.leftlanenews.com/opel-gtc-gran-turismo-coupe-concept-revealed.html Opel GTC Concept revealed], retrieved 2 July, 2008
+*[http://www.supercarnews.net/2007-opel-gtc-concept 2007 Opel GTC specs], retrieved 2 July, 2008
+[[Category:Coupes]]
+[[Category:Opel vehicles|GTC]]
+[[Category:Vehicles introduced in 2007]]

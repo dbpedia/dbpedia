@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Anatomical Structure
+|rdfs:subClassOf = owl:Thing
+}}

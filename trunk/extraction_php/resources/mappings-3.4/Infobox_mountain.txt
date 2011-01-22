@@ -1,0 +1,9 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Mountain
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Elevation | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = Coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = Type | ontologyProperty = Place/type }}
+	{{ DBpediaGeocoordinatesMapping | latitudeDegrees = latd  | latitudeMinutes = latm  | latitudeSeconds = lats  | latitudeDirection = latNS  | longitudeDegrees = longd  | longitudeMinutes = longm  | longitudeSeconds = longs  | longitudeDirection = longEW }}
+}}

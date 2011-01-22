@@ -1,0 +1,1011 @@
+{{Dablink|For other uses of "Canada" and "Canadian", see [[Canada (disambiguation)]] and [[Canadian (disambiguation)]].}}
+<!-- *****
+
+Before you edit this article to change the name of the [[country]] to "Dominion of Canada" or "Canadian Federation" or anything else, please read the Talk Page. This issue has been discussed at great length there, and the evidence provided indicates that the country's *legal* name is "Canada" not anything else. If you believe you have arguments or evidence to the contrary, please provide them on the Talk Page. Thank you!
+
+Please use Canadian spelling.
+
+Notice: This overview article is already too long and should serve only as an introduction for Canada. To keep this overview article concise, please consider adding information instead to one of the many "main" articles about Canada linked from this article, e.g. [[Politics of Canada]], [[Geography of Canada]], etc. See the [[List of basic Canada topics]] for the rest of them. Thank you. 
+
+***** -->
+{{pp-semi-protected|small=yes}}
+{{Infobox Country
+|native_name = Canada
+|common_name = Canada
+|image_flag = Flag of Canada.svg
+|image_coat = Coat of arms of Canada.svg
+|symbol_type = Arms
+|national_motto = {{lang|la|''[[A Mari Usque Ad Mare]]''}}{{spaces|2}}<small>([[Latin]])<br />"From Sea to Sea"</small>
+|national_anthem = "[[O Canada]]"
+|royal_anthem = "[[God Save the Queen]]"
+|image_map = Canada (orthographic projection).svg
+|map_width = 220px
+|capital = [[Ottawa]]
+|latd = 45 |latm=24 |latNS=N |longd=75 |longm=40 |longEW=W
+|largest_city = [[Toronto]]
+|ethnic_groups = 32.2% [[Canadian]]<br />21.0% [[English people|English]]<br />15.8% [[French people|French]]<br />15.1% [[Scottish people|Scottish]]<br />13.9% [[Irish people|Irish]]<br />10.2% [[Germans|German]]<br />4.6% [[Italians|Italian]]<br />4.0% [[South Asian]]<br />3.9% [[Chinese people|Chinese]]<br />3.9% [[Ukrainians|Ukrainian]]<br />3.8% [[Aboriginal peoples in Canada|Aboriginal]]<br />3.3% [[Dutch people|Dutch]]<br />3.2% [[Polish people|Polish]]<ref>{{cite web|url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title=Ethnocultural Portrait of Canada Highlight Tables, 2006 Census |publisher=2.statcan.ca |date=2008-04-02 |accessdate=2009-10-10}}</ref>
+|official_languages = [[Canadian English|English]] and [[Canadian French|French]]
+|regional_languages = [[Inuktitut]], [[Inuinnaqtun]], [[Cree language|Cree]], {{nowrap|[[Dene Suline language|Dëne Sųłiné]]}}, [[Gwich’in language|Gwich’in]], [[Inuvialuktun]], [[Slavey language|Slavey]] and {{nowrap|[[Dogrib language|Tłįchǫ Yatiì]]}}<ref>{{cite web|url=http://www.assembly.gov.nt.ca/_live/documents/documentManagerUpload/08-09-02%20Official%20Languages%20Act.pdf|format=PDF|title=Official Languages Act|work=Revised Statutes of NWT, 1988|publisher=Department of Justice, Northwest Territories|accessdate=2009-11-01}}</ref>
+|demonym = [[Demographics of Canada|Canadian]]
+|government_type = [[Federalism|Federal]] [[parliamentary system|parliamentary democracy]] and [[constitutional monarchy]]<ref>{{cite web|url=http://www.royal.gov.uk/MonarchAndCommonwealth/Canada/Canada.aspx|title=Queen and Canada|date=2008|publisher=The Royal Household|accessdate=2009-10-19}}</ref>
+|leader_title1 = [[Monarchy of Canada|Monarch]]
+|leader_name1 = [[Elizabeth II of the United Kingdom|HM Queen Elizabeth II]]
+|leader_title2 = [[Governor General of Canada|Governor General]]
+|leader_name2 = [[Michaëlle Jean]]
+|leader_title3 = [[Prime Minister of Canada|Prime Minister]]
+|leader_name3 = [[Stephen Harper]]
+|legislature = [[Parliament of Canada|Parliament]]
+|upper_house = [[Senate of Canada|Senate]]
+|lower_house = [[Canadian House of Commons|House of Commons]]
+|sovereignty_type = [[Canadian Confederation|Establishment]]
+|established_event1 = [[British North America Acts]]
+|established_date1 = July 1, 1867
+|established_event2 = [[Statute of Westminster 1931|Statute of Westminster]]
+|established_date2 = December 11, 1931
+|established_event3 = [[Canada Act 1982|Canada Act]]
+|established_date3 = April 17, 1982
+|area_km2 = 9,984,670
+|area_sq_mi = 3,854,085 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 2nd
+|area_magnitude = 1 E12
+|percent_water = 8.92 (891,163&nbsp;km²/344,080&nbsp;mi²)
+|population_estimate = {{formatnum:{{CanPopCommas}} }} <ref>{{cite web
+|url = http://www.statcan.gc.ca/edu/clock-horloge/edu06f_0001-eng.htm
+|title = Canada's population clock
+|publisher = Statistics Canada
+<!-- this automatically updates ONCE per day at 00:00 UTC & rounds to nearest hundred—an estimate with any more sig figs can only be either false precision or extremely temporary -- Please do not change formula without discussing on talk page -->
+}}
+</ref>
+|population_estimate_year = {{CURRENTYEAR}}
+|population_estimate_rank = 36th
+|population_census = 31,241,030<ref>{{cite web|url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Table=2&Data=Count&StartRec=1&Sort=3&Display=All/|title=Ethnic origins, 2006 counts, for Canada, provinces and territories - 20% sample data|date=January 4, 2008|publisher=Statistics Canada|accessdate=2009-10-19}}</ref>
+|population_census_year = 2006
+|population_density_km2 = 3.2
+|population_density_sq_mi = 8.3 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 219th
+|GDP_PPP_year = 2008
+|GDP_PPP = $1.300 trillion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?sy=2006&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=156&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=65&pr.y=3 |title=Canada|publisher=International Monetary Fund|accessdate=2009-10-01}}</ref>
+|GDP_PPP_rank = 14th
+|GDP_PPP_per_capita = $39,098<ref name="imf2"/>
+|GDP_PPP_per_capita_rank = 13th
+|GDP_nominal = $1.499 trillion<ref name="imf2"/>
+|GDP_nominal_rank = 9th
+|GDP_nominal_year = 2008
+|GDP_nominal_per_capita = $45,085<ref name="imf2"/>
+|GDP_nominal_per_capita_rank = 18th
+|HDI_year = 2007
+|HDI = {{increase}} 0.966<ref>{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009|date=2009|publisher=United Nations|pages=167|accessdate=2009-10-19}}</ref>
+|HDI_rank = 4th
+|HDI_category = <span style="color:#090;">very&nbsp;high</span>
+|Gini = 32.1 (2005)<ref name="cia_factbook"/>
+|currency = [[Canadian dollar|Dollar]] ($)
+|currency_code = CAD
+|time_zone =
+|utc_offset = −3.5 to −8
+|time_zone_DST =
+|utc_offset_DST = −2.5 to −7
+|date_format = dd-mm-yyyy, mm-dd-yyyy, ''and'' yyyy-mm-dd ([[Common Era|CE]])
+|drives_on = Right
+|cctld = [[.ca]]
+|calling_code = [[Telephone numbers in Canada|+1]]
+|footnotes = <big>'''[[Portal:Canada|Canada portal]]'''</big>
+}}
+
+'''Canada''' ({{pron-en|ˈkænədə}}) is a [[country]] occupying most of northern [[North America]], extending from the [[Atlantic Ocean]] in the east to the [[Pacific Ocean]] in the west and northward into the [[Arctic Ocean]]. It is the world's second largest [[List of countries and outlying territories by total area|country by total area]]<ref name="cia_factbook">{{cite web |author=Central Intelligence Agency |publisher= Central Intelligence Agency |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html|title=The World Factbook: Canada |date=2006-05-16 |accessdate=2009-10-19}}</ref> and its [[Canada–United States border|common border]] with the [[United States]] to the south and northwest is the world's longest.
+
+The land occupied by Canada was inhabited for millennia by various groups of [[Aboriginal peoples in Canada|Aboriginal people]]. Beginning in the late 15th century, [[British colonization of the Americas|British]] and [[French colonization of the Americas|French]] expeditions explored, and later settled along, the Atlantic coast. France ceded nearly all of [[New France|its colonies in North America]] in 1763 after the [[Seven Years' War]]. In 1867, with the union of three [[British North America]]n colonies through [[Canadian Confederation|Confederation]], Canada was formed as a [[federalism|federal]] [[dominion]] of four provinces.<ref name=AoC-dominion>{{cite web| title = Territorial evolution| work = Atlas of Canada | publisher = Natural Resources Canada | url =http://atlas.nrcan.gc.ca/site/english/maps/reference/anniversary_maps/terr_evol | format = html/pdf | accessdate = 2007-10-09| quote = In 1867, the colonies of Canada, Nova Scotia and New Brunswick are united in a federal state, the Dominion of Canada.... }}</ref><ref>{{cite web| title = Canada: History| work = Country Profiles | publisher = Commonwealth Secretariat | url =http://www.thecommonwealth.org/YearbookInternal/145152/history/ | format = html/pdf | accessdate = 2007-10-09| quote = The British North America Act of 1867 brought together four British colonies&nbsp;... in one federal Dominion under the name of Canada.}}</ref><ref>{{cite web| last = Hillmer| first = Norman | authorlink =| coauthors = W. David MacIntyre | title = Commonwealth| work = Canadian Encyclopedia | publisher = Historica Project | url =http://thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0001798 | accessdate = 2007-10-09| quote = With CONFEDERATION in 1867, Canada became the first federation in the British Empire&nbsp;... }}</ref> This began an [[Territorial evolution of Canada|accretion of provinces and territories]] and a process of increasing autonomy from the United Kingdom. This widening autonomy was highlighted by the [[Statute of Westminster 1931|Statute of Westminster]] of 1931 and culminated in the [[Canada Act 1982|Canada Act]] of 1982, which severed the vestiges of legal dependence on the [[Parliament of the United Kingdom|British parliament]].
+
+A [[federation]] comprising [[Provinces and territories of Canada|ten provinces and three territories]], Canada is a [[parliamentary system|parliamentary democracy]] and a [[constitutional monarchy]], with [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] as its [[head of state]]. It is a [[Official bilingualism in Canada|bilingual]] and [[multiculturalism|multicultural]] country, with both [[Canadian English|English]] and [[Canadian French|French]] as official languages both at the federal level and in the province of [[New Brunswick]]. One of the world's [[developed country|highly developed countries]], Canada has a diversified economy that is reliant upon its abundant natural resources and upon trade—particularly with the United States, with which Canada has had a [[Canada–United States relations|long and complex relationship]]. It is a member of the [[G8]], [[G-20 major economies|G-20]], [[NATO]], [[Organisation for Economic Co-operation and Development]], [[World Trade Organisation|WTO]], [[Commonwealth of Nations]], [[Organisation internationale de la Francophonie]], [[Organisation of American States|OAS]], [[Asia-Pacific Economic Cooperation|APEC]], and [[United Nations]].
+
+==Etymology==
+{{Main|Name of Canada}}<!--Please see the talk page before editing or reverting this to specify which (of several) languages produced the word Canada. There are differences of opinion, which may be best discussed at the main article Name of Canada-->
+[[File:Cartier.png|thumb|upright|left|alt=A bearded explorer dressed in dark velvet with a sheathed sword and a hat. He is on a ship and looks out towards the sea|[[Jacques Cartier]]]]
+The name ''Canada'' comes from a [[St. Lawrence Iroquoians|St. Lawrence Iroquoian]] word, ''kanata'', meaning "village" or "settlement". In 1535, indigenous inhabitants of the present-day [[Quebec City]] region used the word to direct French explorer [[Jacques Cartier]] towards the village of [[Stadacona]].<ref name="Maura577–603">aura, Juan Francisco, 2009, (p.577–603).</ref><ref>{{cite book| first=Bruce G.| last=Trigger| coauthors=Pendergast, James F.| year=1978| chapter=Saint-Lawrence Iroquoians| title=Handbook of North American Indians Volume 15| location=Washington| publisher=Smithsonian Institution |pages=357–361 |id=OCLC 58762737}}</ref> Cartier later used the word ''Canada'' to refer not only to that particular village, but also the entire area subject to [[Donnacona]] (the chief at Stadacona); by 1545, European books and maps had begun referring to this region as ''Canada''.<ref name="Maura577–603">aura, Juan Francisco, 2009, (p.603).</ref><ref>{{cite web| url=http://www.gutenberg.org/files/12356/12356-h/12356-h.htm| title=Relation originale de Jacques Cartier| publisher=Tross (1863 edition)| author=Jacques Cartier| year=1545| accessdate=2007-02-23}}</ref>
+
+From the early 17th century onwards, that part of [[New France]] that lay along the [[Saint Lawrence River]] and the northern shores of the [[Great Lakes]] was named ''Canada'', an area that was later split into two British colonies, [[Upper Canada]] and [[Lower Canada]], until their re-unification as the [[Province of Canada]] in 1841.<ref name=Rayburn>Rayburn, Alan (2001) (p.1-22).</ref> Upon [[Canadian Confederation|Confederation]] in 1867, the name ''Canada'' was adopted as the legal name for the new country,<ref name="Martin">{{cite journal| last=Martin| first=Robert| title=1993 Eugene Forsey Memorial Lecture: A Lament for British North America| journal=The Machray Review| publisher=Prayer Book Society of Canada| year=1993| url=http://www.prayerbook.ca/library/machray/issue5/machray5d.htm| accessdate=2008-11-05| quote=Strictly speaking, the official name of the new country was, simply, "Canada," but usage sanctioned "Dominion of Canada".}}</ref> and ''[[Dominion]]'' (a term from Psalm 72:8)<ref>{{cite book| last=Clarke| first=Michael| title=Canada: Portraits of the Faith| year=1998| page=60}}</ref> was conferred as the country's title;<ref>{{cite book| first=J. E.| last=Hodgetts| coauthors=Gerald Hallowell| year=2004| chapter=Dominion| title=Oxford Companion to Canadian History| location=Toronto| publisher=Oxford University Press| isbn=0195415590| quote=The title conferred on Canada by the preamble to the Constitution Act, 1867, whereby the provinces declare 'their desire to be federally united into one Dominion under the Crown of the United Kingdom.'| page=183}}</ref> combined, the term ''Dominion of Canada'' was in common usage until the 1950s. Thereafter, as Canada asserted its political autonomy from the [[United Kingdom]], the federal government increasingly used simply ''Canada'' on state documents and treaties, a change that was reflected in the renaming of the national holiday from [[Dominion Day]] to [[Canada Day]] in 1982.<ref>{{cite web| title=Government of Canada Events 2009 Canada Site| publisher=Her Majesty the Queen in Right of Canada|work=Minister of Public Works and Government Services Canada|date= 2009-10-19| accessdate=2009-10-19| url=http://canada.gc.ca/whats-quoi/nel_fg-eng.html#July| quote=Canada Day was established in 1879 under the name "Dominion Day" and became known by its current name in 1982.}}</ref>
+
+==History==
+{{Main|History of Canada|Aboriginal peoples in Canada|Timeline of Canadian history}}
+[[Aboriginal peoples in Canada|Aboriginal Canadian]] traditions maintain that the indigenous people have resided on their lands since the [[Creation myth#North America|beginning of time]], while archaeological studies support a human presence in the northern [[Yukon]] from 26,500 years ago, and in southern [[Ontario]] from 9,500 years ago.<ref>{{cite journal| last=Cinq-Mars| first=J.| year=2001| title=On the significance of modified mammoth bones from eastern Beringia| journal=The World of Elephants - International Congress, Rome| url=http://www.palanth.com/forum/upload_download/articles/cinqmars_elefanti_01.pdf|format=PDF| accessdate=2009-10-19}}</ref><ref>{{cite web| author=Wright, J.V| publisher=Canadian Museum of Civilization Corporation| url=http://www.civilization.ca/cmc/exhibitions/archeo/hnpc/npvol04e.shtml| title=A History of the Native People of Canada: Early and Middle Archaic Complexes| date=September 27, 2001| accessdate=2009-10-19}}</ref> It is estimated that, when Europeans began settling what is now Canada, there were about 200,000 Aboriginal people.<ref>"[http://www.britannica.com/EBchecked/topic/91513/Canada/237196/Native-peoples Canada — Native peoples]" Encyclopædia Britannica.</ref> The repeated outbreaks of influenza, measles and smallpox probably resulted in a decline of between one-half and two-thirds of the Aboriginal population of eastern North America during the first 100 years of European contact.<ref>"[http://atlas.nrcan.gc.ca/sitefrancais/english/maps/historical/aboriginalpeoples/circa1740/2/maptext_view#distribution_1653 Aboriginal Distributions 1630 to 1653]". [[Natural Resources Canada]].</ref>
+
+===European colonization===
+{{Main|Territorial evolution of Canada}}
+[[File:Voyageur canoe.jpg|left|thumb|alt=A group of ten plainly-dressed men rowing a canoe beside a large rock face. A furled red flag is in the back of the canoe, and there are blankets beside the men.|The [[fur trade]] was Canada's most important industry until the 19th century.]]
+[[European colonization of the Americas|Europeans first arrived]] when the [[Viking]]s settled briefly at [[L'Anse aux Meadows]] around AD 1000; after the failure of that colony, there was no further attempt at North American exploration until 1497, when [[John Cabot]] explored Canada's Atlantic coast for [[England]],<ref>{{cite encyclopedia| title=John Cabot| encyclopedia=Encyclopædia Britannica Online| publisher=Encyclopædia Britannica| url=http://www.britannica.com/EBchecked/topic/87681/John-Cabot|accessdate=2009-10-19}}</ref> followed by [[Jacques Cartier]] in 1534 for [[France]].<ref name=Morton> Morton, Desmond (2001) (p.9-17)</ref><ref>{{cite encyclopedia| encyclopedia=World book Encyclopedia| title=Cartier, Jacques| accessdate=2007-09-01| publisher=World Book, Inc.| isbn=071660101X}}</ref>
+
+French explorer [[Samuel de Champlain]] arrived in 1603 and established the first permanent European settlements at [[Port Royal, Nova Scotia|Port Royal]] in 1605 and [[Quebec City]] in 1608.<ref name=Morton>Morton, Desmond (2001) (p.17-19)</ref><ref name="legal11">{{cite web|url=http://www.parl.gc.ca/37/2/parlbus/commbus/senate/Com-e/lega-e/11eva-e.htm?Language=E&Parl=37&Ses=2&comm_id=11|title=Proceedings of the Standing Senate Committee on Legal and Constitutional Affairs|date=May 28, 2003|work=Issue 11 - Evidence for May 28, 2003|publisher=Government of Canada|accessdate=2009-09-18}}</ref><ref name="armstrong">{{cite book|last=Armstrong|first=Joe|title=Samuel de Champlain|publisher=Macmillan of Canada|location=Toronto|date=1987|isbn=9780771595011|accessdate=2009-10-19}}</ref> Among [[French colonization of the Americas|French colonists]] of New France, ''Canadiens'' extensively settled the [[Saint Lawrence River]] valley and [[Acadians]] settled the present-day [[Maritimes]], while [[Coureur des bois|French fur traders]] and [[René-Robert Cavelier, Sieur de La Salle|Catholic missionaries]] explored the Great Lakes, [[Hudson Bay]], and the [[Mississippi River#Watershed|Mississippi watershed]] to [[Louisiana (New France)|Louisiana]]. The [[French and Iroquois Wars]] broke out over control of the [[fur trade]].<ref name=Morton> Morton, Desmond (2001) (p.33)</ref>
+
+The English established fishing outposts in [[Newfoundland (island)|Newfoundland]] around 1610<ref name="mun">{{cite web|url=http://www.heritage.nf.ca/govhouse/governorship/proprietary.html|title=Proprietary Governors, 1610-1728|date=August 2000|work=Newfoundland and Labrador Heritage Web Site Project|publisher=Memorial University of Newfoundland|accessdate=2009-09-18}}</ref> and colonized the [[Thirteen Colonies]] to the south. A series of four [[French and Indian Wars|Intercolonial Wars]] erupted between 1689 and 1763.<ref name=Morton>Morton, Desmond (2001) (p.89-104)</ref> Mainland [[Nova Scotia]] came under British rule with the [[Treaty of Utrecht]] (1713);<ref name="novascotia">{{cite book
+|last= Orser
+|first= Charles E.
+|title=Encyclopedia of historical archaeology
+|url=http://books.google.ca/books?id=lqvnthcE19cC&pg=PA1&lpg=PA1&dq=nova+scotia+treaty+of+utrecht+government+of+Canada&source=bl&ots=bRqTRdDxzZ&sig=GY0W4t1pb2eXbhBukevAEit498k&hl=en&ei=Cg_dSrTwEIzuMau0_fcN&sa=X&oi=book_result&ct=result&resnum=6&ved=0CBkQ6AEwBQ#v=onepage&q=nova%20scotia%20treaty%20of%20utrecht%20government%20of%20Canada&f=false
+|format=Digitised online by Google Books
+|accessdate=2009-10-19
+|date=2002
+|publisher=Routledge
+|isbn=0415215447, 9780415215442
+|pages=1
+}}
+</ref> the [[Treaty of Paris (1763)]] ceded Canada and most of [[New France]] to [[British Empire|Britain]] after the [[French and Indian War|Seven Years' War]].<ref name="marianopolis">{{cite web|url=http://faculty.marianopolis.edu/c.belanger/QuebecHistory/encyclopedia/TreatyofParis1763-QuebecHistory.htm|title=Treaty of Paris|date=2005|work=The Quebec History Encyclopedia|publisher=Marianopolis College|accessdate=2009-09-18}}</ref>
+
+[[File:Benjamin West 005.jpg|thumb|alt=A group of men in military uniforms crowded around a dying red-coated man. Three men crouch beside him, and a native man looks on. The background is large groups of men with guns|[[Benjamin West]]'s  ''[[The Death of General Wolfe]]'' (1771) dramatizes [[James Wolfe|Wolfe]]'s death during the [[Battle of the Plains of Abraham]] at [[Quebec City|Quebec]] in 1759. The battle was part of the [[French and Indian War|Seven Years' War]].]]
+
+The [[Royal Proclamation of 1763|Royal Proclamation (1763)]] carved the [[Province of Quebec (1763–1791)|Province of Quebec]] out of New France and annexed [[Cape Breton Island]] to Nova Scotia.<ref>{{cite web|url=http://www.historicalatlas.ca/website/hacolp/national_perspectives/boundaries/UNIT_17/excel/Boundary_Changes_1670_2001.xls|title=Territorial Evolution, 1670-2001|publisher=Historical Atlas of Canada Online Learning Project|accessdate=2009-10-19}}</ref> In 1769, St. John's Island (now [[Prince Edward Island]]) became a separate colony.<ref name="peigov">{{cite web|url=http://www.gov.pe.ca/photos/original/arm_bearings.pdf|title=The Armorial Bearings of the Province of Prince Edward Island|publisher=Government of Prince Edward Island|accessdate=2009-09-18}}</ref> To avert conflict in Quebec, the [[Quebec Act]] of 1774 expanded Quebec's territory to the Great Lakes and [[Ohio River|Ohio Valley]] and re-established the French language, Catholic faith, and French civil law in Quebec; it angered many residents of the Thirteen Colonies, helping to fuel the [[American Revolution]].<ref>{{cite web | author= |publisher= Canadian War Museum |title= From Conquest to Revolution |accessdate=2009-10-19 |url=http://www.warmuseum.ca/cwm/exhibitions/permanent-exhibitions/battleground/clash-of-empires/from-conquest-to-revolution}}</ref>
+
+The [[Treaty of Paris (1783)]] recognized American independence and ceded territories south of the Great Lakes to the United States. Approximately 50,000 [[United Empire Loyalist]]s fled the United States to Canada.<ref name="moore">{{cite book |first= Christopher |last=Moore |year=1994 |title=The Loyalist: Revolution Exile Settlement |publisher=McClelland & Stewart |location= Toronto |isbn=0-7710-6093-9|accessdate=2009-10-19}}</ref> [[New Brunswick]] was split from Nova Scotia as part of a reorganization of Loyalist settlements in the [[Maritimes]].<ref name="nb225">{{cite web|url=http://www.gnb.ca/0131/PDF/H/HW/NewBrunswick225.pdf|title=New Brunswick at 225|last=Andrews|first=Ian|date=2009|publisher=Government of New Brunswick|page=1|accessdate=2009-09-18}}</ref> To accommodate English-speaking Loyalists in [[Province of Quebec (1763–1791)|Quebec]], the [[Constitutional Act of 1791]] divided the province into French-speaking [[Lower Canada]] and English-speaking [[Upper Canada]], granting each their own elected Legislative Assembly.<ref name="act1791">{{cite web|url=http://www.collectionscanada.gc.ca/confederation/023001-2088-e.html|title=The Constitutional Act, 1791|date=2001|publisher=Library and Archives Canada|accessdate=2009-09-18}}</ref>
+
+Canada (Upper and Lower) was the main front in the [[War of 1812]] between the United States and the British Empire. The defence of Canada contributed to a sense of unity among British North Americans.<ref name="wallace">{{cite journal|last=Wallace|first=W.S.|date=1920|title=The Growth of Canadian National Feeling|journal=Canadian Historical Review|publisher=University of Toronto Press|location=Toronto|volume=1|issue=2|pages=136-165|issn=0008-3755}}</ref> Large-scale immigration to Canada began in 1815 from Britain and [[Ireland]].<ref name="haines">{{cite book|last=Haines|first=Michael|coauthors=Richard Hall Steckel|title=A population history of North America|publisher=Cambridge University Press|date=2000}}</ref> The [[logging|timber industry]] surpassed the fur trade in importance in the early nineteenth century.
+
+[[File:Fathers of Confederation LAC c001855.jpg|left|thumb|alt=A group of stern-looking older men in suits sit around a table, upon which there are several pieces of paper|[[Robert Harris (painter)|Robert Harris]]'s [[Canadian Confederation#Fathers of Confederation|''Fathers of Confederation'']]<ref>This is a photograph taken in 1885 of the now-destroyed 1884 painting.</ref> is an amalgamation of scenes from the [[Charlottetown Conference|Charlottetown]] and [[Quebec Conference, 1864|Quebec conference]]s.]]
+
+The desire for [[responsible government]] resulted in the aborted [[Rebellions of 1837]]. [[Report on the Affairs of British North America|The Durham Report]] subsequently recommended responsible government and the assimilation of French Canadians into British culture.<ref name="ce_durhamreport">{{cite web |author=David Mills |publisher= Historica Foundation of Canada |url=http://www.canadianencyclopedia.ca/index.cfm?PgNm=TCE&Params=A1ARTA0002473 |title=Durham Report |accessdate=2006-05-18}}</ref> The [[Act of Union 1840]] merged [[The Canadas]] into a united [[Province of Canada]]. French and English Canadians worked together in the Assembly to reinstate French rights. Responsible government was established for all British North American provinces by 1849.<ref>{{cite web|title=''The Canadian Encyclopedia'': Responsible Government|publisher=Historica Foundation of Canada|url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0006792|quote=This key principle of responsibility, whereby a government needed the confidence of Parliament, originated in established British practice. But its transfer to British N America gave the colonists control of their domestic affairs, since a governor would simply follow the advice (i.e., policies) of responsible colonial ministers|accessdate=2009-10-19}}</ref><ref>{{cite web|title=Canadian Cofederation: Responsible Government|publisher=Library and Archives Canada|url=http://www.collectionscanada.gc.ca/confederation/023001-2974-e.html|quote=The Executive Council would be governed by the leader of the political party that held an elected majority in the Legislative Assembly. That same leader would also appoint the members of the Executive Council. The governor would therefore be forced to accept these "ministers" and if the majority of the members of the Legislative Assembly voted against them, they would have to resign. The governor would also be obliged to ratify laws concerning the internal affairs of the colony once these laws had been passed to the Legislative Assembly|accessdate=2009-10-19}}</ref>
+
+The signing of the [[Oregon Treaty]] by Britain and the United States in 1846 ended the [[Oregon boundary dispute]], extending the border westward along the [[49th parallel north|49th parallel]] and paving the way for British colonies on [[Colony of Vancouver Island|Vancouver Island (1849)]] and in [[Colony of British Columbia|British Columbia (1858)]].<ref name="parallel">{{cite web|url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=ArchivedFeatures&Params=a224|title=Forty-ninth parallel|date=2009|work=Canadian Encyclopedia|publisher=Historica-Dominion|accessdate=2009-09-18}}</ref> Canada launched a series of western exploratory expeditions to claim [[Rupert's Land]] and the [[Arctic]] region. The Canadian population grew rapidly because of high birth rates; British immigration was offset by emigration to the United States, especially by French Canadians' moving to [[New England]].
+
+===Canadian Confederation===
+{{Main|Canadian Confederation}}
+[[File:Canada provinces evolution 2.gif|thumb|right|alt=When Canada was formed in 1867 its provinces were a relatively narrow strip in the southeast, with vast territories in the interior. It grew by adding British Columbia in 1871, P.E.I. in 1873, the British Arctic Islands in 1880, and Newfoundland in 1949; meanwhile, its provinces grew both in size and number at the expense of its territories.|An animated map, exhibiting [[Territorial evolution of Canada|the growth and change of Canada's provinces and territories since Confederation]].]]
+
+Following several constitutional conferences, the [[Constitution Act, 1867]] brought about Confederation, creating "one Dominion under the name of [[Name of Canada#Adoption of Dominion|Canada]]" on July 1, 1867, with four provinces: [[Ontario]], [[Quebec]], [[Nova Scotia]], and [[New Brunswick]].<ref name=Bothwell>Bothwell, Robert (1996) (p.207-310).</ref><ref>{{cite book | last=Farthing |first= John |title= Freedom Wears a Crown |location= Toronto |publisher=Kingswood House |year=1957 |id = ASIN B0007JC4G2}}</ref><ref name=AoC-dominion /> Canada assumed control of Rupert's Land and the [[North-Western Territory]] to form the [[Northwest Territories]], where [[Métis people (Canada)|the Métis']] grievances ignited the [[Red River Rebellion]] and the creation of the province of [[Manitoba]] in July 1870.<ref name="bumsted">{{cite book|last=Bumsted|first=J.M|title=The Red River Rebellion|publisher=Watson & Dwyer|location=Winnipeg|date=1996|isbn=0920486231}}</ref> British Columbia and Vancouver Island (which had [[United Colonies of Vancouver Island and British Columbia|united in 1866]]) and the colony of [[Prince Edward Island]] joined the Confederation in 1871 and 1873, respectively.<ref name="canatlas">{{cite web|url=http://www.canadiangeographic.ca/Atlas/themes.aspx?id=building&sub=building_basics_confederation&lang=En|title=Building a nation|publisher=The Canadian Atlas|accessdate=2009-09-18}}</ref>
+
+[[Prime Minister of Canada|Prime Minister]] [[John A. Macdonald|John A. Macdonald's]] [[Conservative Party of Canada (historical)|Conservative]] government established a [[national policy]] of [[tariff]]s to protect nascent Canadian manufacturing industries.<ref name=Bothwell>Bothwell, Robert (1996) (p.31).</ref><ref name="bélanger-np">{{cite web|url=http://faculty.marianopolis.edu/c.belanger/QuebecHistory/federal/npolicy.htm|title=The National Pllicy and Canadian Federalism|last=Bélanger|first=Claude|date=April 2005|work=Studies on the Canadian Constitution and Canadian Federalism|publisher=Marianopolis College|accessdate=2009-09-18}}</ref> To open the West, the government sponsored construction of three trans-continental railways (most notably the [[Canadian Pacific Railway]]), opened the prairies to settlement with the [[Dominion Lands Act]], and established the [[Royal Canadian Mounted Police|North-West Mounted Police]] to assert its authority over this territory.<ref name="johna">{{cite web|url=http://www.collectionscanada.gc.ca/sir-john-a-macdonald/023013-5000-e.html|title=Sir John A. Macdonald|date=2008|publisher=Library and Archives Canada|accessdate=2009-09-18}}</ref><ref name="cook">{{cite web|url=http://www.collectionscanada.gc.ca/publications/archivist-magazine/015002-2230-e.html|title=The Canadian West: An Archival Odyssey through the Records of the Department of the Interior|last=Cook|first=Terry|date=2000|work=The Archivist|publisher=Library and Archives Canada|accessdate=2009-09-18}}</ref> In 1898, after the [[Klondike Gold Rush]] in the Northwest Territories, the Canadian government created the [[Yukon]] territory. Under [[Liberal Party of Canada|Liberal]] [[Prime Minister of Canada|Prime Minister]] [[Wilfrid Laurier]], continental European immigrants settled the prairies, and [[Alberta]] and [[Saskatchewan]] became provinces in 1905.<ref name="canatlas" />
+[[File:Canadian tank and soldiers Vimy 1917.jpg|thumb|left|alt=A group of soldiers with guns march on uneven ground past a wrecked tank and the body of another soldier|Canadian soldiers won the [[Battle of Vimy Ridge]] in 1917.]]
+
+Canada automatically entered [[World War I]] in 1914 with Britain's declaration of war, sending volunteers to the Western Front,<ref name="supplyservices">{{cite web|url=http://www.vac-acc.gc.ca/remembers/sub.cfm?source=history/firstwar/canada/Canada3|title=Canada Enters the War|date=1982|work=Canada and the First World War|publisher=Minister of Supply and Services Canada|accessdate=2009-09-18}}</ref> who later became part of the [[Canadian Corps]].<ref name=Cook>Cook, Tim (2005) (p.503-506)</ref> The Corps played a substantial role in the [[Battle of Vimy Ridge]] and other major battles of the war.<ref name="vimy">{{cite web|url=http://www.vac-acc.gc.ca/remembers/sub.cfm?source=history/firstwar/canada/Canada9|title=The Battle of Vimy Ridge|date=2009|work=Canada and the First World War|publisher=Veterans Affairs Canada|accessdate=2009-09-18}}</ref> Out of approximately 625,000 who served, about 60,000 were killed and another 173,000 were wounded.<ref>"[http://www.britannica.com/EBchecked/topic/91513/Canada/43004/World-War-I Canada — World War I]". Encyclopædia Britannica.</ref> The [[Conscription Crisis of 1917]] erupted when conservative Prime Minister [[Robert Borden]] brought in compulsory military service over the objection of French-speaking Quebecers.<ref name="Cook"/><ref name="cbc2001">{{cite web|url=http://history.cbc.ca/history/?MIval=EpisContent.html&series_id=1&episode_id=12&chapter_id=2&page_id=3&lang=E|title=The Conscription Crisis|date=2001|publisher=CBC|accessdate=2009-09-18}}</ref>  In 1919, Canada joined the [[League of Nations]] independently of Britain;<ref>Soward, F.H. "League of Nations". In Wallacem W.S. ''The Encyclopedia of Canada'', vol 4. Toronto: University Associates of Canada, 1948, pp 48-53.</ref> in 1931, the [[Statute of Westminster 1931|Statute of Westminster]] affirmed Canada's independence.<ref name="westminster">{{cite web|url=http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&page=hist&sub=westminster&doc=westminster-eng.htm|title=The Statute of Westminster, 1931|date=2008|publisher=Government of Canada Privy Council Office|accessdate=2009-09-18}}</ref>
+[[File:British Columbia Regiment 1940.jpg|thumb|right|150px|alt=A line of uniformed soldiers march through town. One reaches towards a young boy running beside the column, pursued by a woman|The [[The British Columbia Regiment (Duke of Connaught's Own) (RCAC)|BC Regiment, DCO]], marching in [[New Westminster]], 1940. 1.1 million Canadians served in WWII. Of these more than 45,000 lost their lives.]]
+The [[Great Depression]] brought economic hardship to all of Canada. In response, the [[Co-operative Commonwealth Federation]] (CCF) in Alberta and Saskatchewan enacted many measures of a [[welfare state]] as pioneered by [[Tommy Douglas]] in the 1940s and 1950s.<ref name="ccf">{{cite web|url=http://history.cbc.ca/history/?MIval=EpisContent.html&lang=E&series_id=1&episode_id=13&chapter_id=3&page_id=1|title=Co-operative Commonwealth Federation|date=2001|publisher=CBC|accessdate=2009-09-18}}</ref> Canada [[Military history of Canada during the Second World War|declared war on Germany]] independently during [[World War II]] under Liberal Prime Minister [[William Lyon Mackenzie King]], three days after Britain. The first Canadian Army units arrived in Britain in December 1939.<ref name="stacey">{{cite book | last = Stacey |first= C.P.| authorlink =C.P. Stacey | title=History of the Canadian Army in the Second World War | publisher = Queen's Printer | year= 1948}}</ref>
+
+Canadian troops played important roles in the [[Battle of the Atlantic (1939–1945)|Battle of the Atlantic]], the failed 1942 [[Dieppe Raid]] in France, the [[Allied invasion of Italy]], the [[D-Day]] landings, the [[Operation Overlord|Battle of Normandy]], and the [[Battle of the Scheldt]] in 1944. Canada is credited by the [[Netherlands]] for having provided asylum and protection for its [[monarchy]] during the war after the country was occupied, and for its leadership and major contribution to the liberation of the Netherlands from [[Nazi Germany]].<ref name="ncgv">{{cite web|url=http://www.cgvancouver.org/article.asp?articleref=AR00002876EN|title=Celebrate the 65th anniversary of the liberation of the Netherlands (2010)|date=2009|publisher=Netherlands Consulate-General Vancouver|accessdate=2009-09-18}}</ref> The Canadian economy boomed as industry manufactured military [[materiel]]<!--This is not a misspelling. Follow the link to find out the difference between material and materiel--> for Canada, Britain, China, and the [[Soviet Union]]. Despite another [[Conscription Crisis of 1944|Conscription Crisis]] in Quebec, Canada finished the war with one of the largest armed forces in the world.<ref name="stacey"/> In 1945, during the war, Canada became one of the founding members of the [[United Nations]].<ref name="peace01">{{cite web|url=https://acc-vac.gc.ca/general/sub.cfm?source=feature/week2001/natnews/nov601|title=In the Service of Peace|date=2001|publisher=Veterans Affairs Canada|accessdate=2009-09-18}}</ref>
+
+This growth, combined with the policies of successive Liberal governments, led to the emergence of a new [[Canadian identity]], marked by the adoption of the current [[Flag of Canada|Maple Leaf Flag]] in 1965,<ref name="flag">{{cite web|last=Smith|first=Whitney|url=http://www.britannica.com/EBchecked/topic/1355119/flag-of-Canada|work= Encyclopædia Britannica|title=Canada, Flag of|date=2008|publisher=Encyclopædia Britannica Online|accessdate=2009-09-18}}</ref> the implementation of [[official bilingualism]] ([[English language|English]] and [[French language|French]]) in 1969,<ref name="biling">{{cite web|url=http://www.ocol-clo.gc.ca/html/fr_canada_e.php|title=French: A Truly Official Language|work=History of Official Languages|date=2008-09-08|publisher=Office of the Commissioner of Official Languages|accessdate=2009-10-18}}</ref> and [[Multiculturalism#Origins in Canada|official multiculturalism]] in 1971.<ref name="multiculti">{{cite web|url=http://www.acs-aec.ca/oldsite/Polls/Poll2.pdf|title=Thirty Years of Multiculturalism in Canada, 1971-2001|last=Jedwab|first=Jack|date=2001|publisher=Association for Canadian Studies|accessdate=2009-09-18}}</ref> There was also the founding of [[Social democracy|Socially democratic]] programmes, such as [[Medicare (Canada)|universal health care]], the [[Canada Pension Plan]], and [[Student loans in Canada|Canada Student Loans]],<ref name="sodemo">{{cite web|author=Whitehorn, Alan| url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0007520|title=Social Democracy|date=2009|work=[[The Canadian Encyclopedia]]| publisher=Historica-Dominion|accessdate=2009-11-07}}</ref> though provincial governments, particularly Quebec and Alberta, opposed many of these as incursions into their jurisdictions.<ref name="cmaj">{{cite journal|date=February 28, 2006|title=Medicare: Ready for a perfect storm of reform? |journal=[[Canadian Medical Association Journal]]|volume=174|issue=5|url=http://www.cmaj.ca/cgi/content/full/174/5/597|doi=10.1503/cmaj.060162|accessdate=2009-09-18}}</ref> Finally, another series of constitutional conferences resulted in the [[patriation]] of Canada's constitution from the United Kingdom, concurrent with the creation of the [[Canadian Charter of Rights and Freedoms|Charter of Rights and Freedoms]].<ref name="bickerton">{{cite book| author=Bickerton, James & Gagnon, Alain (eds.)| title=Canadian Politics| publisher=Broadview Press| edition=4th| location=Orchard Park, NY| isbn=1-55111-595-6| year=2004}}</ref>
+
+At the same time, Quebec was undergoing profound social and economic changes through the [[Quiet Revolution]], giving birth to a [[Quebec nationalism|nationalist]] movement in the province<ref name="QR">{{cite web| last=Bélanger| first=Claude |publisher=Marionopolis College, Montreal| url= http://faculty.marianopolis.edu/c.belanger/quebechistory/events/quiet.htm| title= Quiet Revolution| work=Quebec History| date=August 3, 2000| accessdate=2009-10-19}}</ref> and the more radical [[Front de libération du Québec]] (FLQ), whose actions ignited the [[October Crisis]] in 1970.<ref name="cbcflq">{{cite web|url=http://archives.cbc.ca/politics/civil_unrest/topics/101/|title=The October Crisis|date=2009|publisher=CBC|accessdate=2009-09-18}}</ref> A decade later, an unsuccessful [[referendum]] on [[Quebec sovereignty movement|sovereignty-association]] was held in 1980,<ref name="cbc80">{{cite web|url=http://archives.cbc.ca/politics/federal_politics/topics/1938/|title=À la prochaine fois|date=2009|publisher=CBC|accessdate=2009-09-18}}</ref> after which [[Meech Lake Accord|attempts at constitutional amendment]] failed in 1989.<ref name="dunsmuir">{{cite web|url=http://www.parl.gc.ca/information/library/prbpubs/bp406-e.htm#A.%20The%20Meech|title=Constitutional Activity From Patriation To Charlottetown (1980–1992)|last=Dunsmuir|first=Mollie|date=November 1995|publisher=[[Library of Parliament]]|accessdate=2009-09-18}}</ref> A [[Quebec referendum, 1995|second referendum]] followed in 1995, in which sovereignty was rejected by a slimmer margin of just 50.6% to 49.4%.<ref name="dickinson">{{cite book| first=John Alexander| last=Dickinson| coauthors=Young, Brian| year=2003| title=A Short History of Quebec| publisher=McGill-Queen's University Press| edition=3rd| location=Montreal| isbn=0-7735-2450-9}}</ref> In 1997, the [[Supreme Court of Canada|Supreme Court]] ruled that [[Reference re Secession of Quebec|unilateral secession]] by a province would be unconstitutional, and the [[Clarity Act]] was passed by parliament, outlining the terms of a negotiated departure from Confederation.<ref name="dickinson" />
+
+==Government and politics==
+{{Main|Government of Canada|Politics of Canada|Monarchy of Canada|List of Canadian political parties}}
+[[File:Canada Parliament2.jpg|thumb|right|alt=A building in neo-Gothic style, with a central clocktower rising from a block stretching east and west|[[Parliament Hill]], [[Ottawa]]]]
+Canada has a [[parliamentary government]] with strong democratic traditions. [[Parliament of Canada|Parliament]] is made up of [[the Crown]], an elected [[House of Commons of Canada|House of Commons]], and an appointed [[Senate of Canada|Senate]].<ref>{{cite web|title=Constitution Act, 1867; IV|publisher=Queen's Printer for Canada|url=http://laws.justice.gc.ca/en/showdoc/cs/C-0//20091019/en?command=searchadvanced&caller=AD&fragment=There%20shall%20be%20One%20Parliament%20for%20Canada,%20consisting%20of%20the%20Queen,%20an%20Upper%20House%20styled%20the%20Senate,%20and%20the%20House%20of%20Commons&search_type=bool&day=19&month=10&year=2009&search_domain=cs&showall=L&statuteyear=all&lengthannual=50&length=50|quote=There shall be One Parliament for Canada, consisting of the Queen, an Upper House styled the Senate, and the House of Commons.|accessdate=2009-10-19}} Cookies required</ref><ref>{{cite web|title=Parliament of Canada: About the Governor General of Canada|publisher=Queen's Printer for Canada|url=http://www2.parl.gc.ca/Parlinfo/pages/govgeneral.aspx?Language=E&Menu=GG|quote=Parliament is the legislative branch of Government, composed of the Sovereign (represented by the Governor General), the Senate and the House of Commons.|accessdate=2009-10-19}}
+</ref>
+Each [[Member of Parliament]] in the House of Commons is elected by simple [[plurality (voting)|plurality]] in an [[Canadian electoral district|electoral district]] or riding.<ref name="elect">{{cite web|url=http://www.elections.ca/content.asp?section=gen&document=ec90556&dir=bkg&lang=e|title=Elections in Canada: An Overview|date=June 2007|publisher=Elections Canada|accessdate=2009-09-19}}</ref> General elections must be called by the [[Prime Minister of Canada|prime minister]] within five years of the previous election, or may be triggered by the government's losing a [[confidence vote]] in the House.<ref>Forsey, Eugene A. (2005) (p.13)</ref>
+
+Members of the Senate, whose seats are apportioned on a regional basis, are chosen by the prime minister and formally appointed by the [[Governor General of Canada|Governor General]] and serve until age 75.<ref name="senate">{{cite web|url=http://www.parl.gc.ca/information/about/process/senate/legisfocus/focus-e.htm|title=The Canadian Senate In Focus|date=May 2001|publisher=Committees and Private Legislation Directorate|accessdate=2009-09-19}}</ref> Four parties had representatives elected to the federal parliament in the 2008 elections: the [[Conservative Party of Canada]] (governing party), the [[Liberal Party of Canada]] (the [[Official Opposition (Canada)|Official Opposition]]), the [[New Democratic Party]] (NDP), and the [[Bloc Québécois]]. The list of [[List of political parties in Canada#Historical parties that have won seats in Parliament|historical parties]] with elected representation is substantial.
+
+[[Canadian federalism|Canada's federalist structure]] divides government responsibilities between the federal government and the ten [[Provinces and territories of Canada|provinces]]. [[Unicameralism|Unicameral]] [[Legislative Assemblies of Canadian provinces and territories|provincial legislatures]] operate in parliamentary fashion similar to the [[Canadian House of Commons|House of Commons]]. Canada's three [[Provinces and territories of Canada|territories]] also have legislatures, but with fewer constitutional responsibilities than the provinces and with some structural differences (for example, the [[Legislative Assembly of Nunavut]] has no parties and operates on consensus).<ref name="iga">{{cite web|url=http://www.pco-bcp.gc.ca/aia/index.asp?lang=eng&page=provterr&sub=difference&doc=difference-eng.htm|title=Difference between Canadian Provinces and Territories|date=2009|publisher=Intergovernment Affairs Canada|accessdate=2009-09-19}}</ref><ref name="la-nu">{{cite web|url=http://www.assembly.nu.ca/english/about/FAQ.htm#18|title=Frequently Asked Questions|date=2008|publisher=Legislative Assembly of Nunavut|accessdate=2009-09-19}}</ref>
+
+[[File:parliament2.jpg|thumb|left|alt=A green-carpeted neo-Gothic-style room with stained-glass windows. There are two banks of chairs facing each other, with three desks in the middle and a gallery off to the side|The chamber of the [[Canadian House of Commons|House of Commons]]]]
+
+Canada is also a [[constitutional monarchy]], with [[The Crown]] acting as a symbolic or ceremonial [[executive branch|executive]].<ref name="stewart1">{{cite web|first= David | last = Stewart |title= Introduction: Principles of the Westminster Model of Parliamentary Democracy|work= Module on Parliamentary Democracy|publisher= Commonwealth Parliamentary Association |date=2008-11-02 |accessdate=2008-11-02|url=http://www.athabascau.ca/govn/parliamentary_democracy/chapters/index.html |quote= Parliamentary government is also associated with the presence of a dual executive. There is a ceremonial executive, which possesses some constitutional powers as well as performing symbolic functions, and a political executive, which performs the basic governing functions (see Magstadt and Schotten, 1999; O'Neill, 1999). In the British model, the Crown now serves as the ceremonial executive (or head of state) while the prime minister is head of government. }}</ref><ref name="heard1">{{cite web|first=Andrew| last = Heard |title= The Executive I: Crown and Cabinet |work= Canadian Government (Course notes) |publisher= Simon Fraser University |year= 2008 |accessdate=2008-11-02|url=http://www.sfu.ca/~aheard/221/221_class_sched.html |quote= o symbolic executive: Queen (de jure head of state) ... Governor General (de facto head of state); o political executive: Canada: Privy Council, including cabinet; prime minister (head of government) primus inter pares; cabinet/ministry membership (32 members including the PM); o permanent executive (bureaucracy): departments, agencies, & civil service}}</ref>
+The Crown consists of [[Queen Elizabeth II]] (legal head of state) and her appointed [[viceroys]], the governor general (acting head of state), and provincial [[Lieutenant Governor (Canada)|lieutenant-governor]]s, who perform most of the monarch's ceremonial roles.<ref name="nelson1">{{cite web|author= Nelson Education Ltd.|title= The Executive |work= Introduction to Canadian Government and Politics |publisher= Nelson Education Ltd. |date= |accessdate=2008-11-02|url= http://polisci.nelson.com/executive.html|quote= The symbolic executive is composed of the Queen, who is the legal head of state of Canada, and her representatives, who fulfill the monarch's
+daily duties in Canada.}}</ref><ref>{{cite web |author=Governor General of Canada |authorlink=Governor General of Canada |publisher= Governor General of Canada|url=http://www.gg.ca/document.aspx?id=13288 |title=Role and Responsibilities of the Governor General|date=2005-12-06|accessdate=2009-10-19}}</ref><ref name="cwlth1">{{cite web|author=Commonwealth Secretariat |title= Women in Politics |work= |publisher=Commonwealth Secretariat |year= 1999|accessdate=2008-11-02|url=http://books.google.ca/books?id=3_7kSP6mH7QC&pg=PA38&lpg=PA38&dq=%22symbolic+executive%22++%2BCanada&source=web&ots=pe65csjNt2&sig=hEbdDbCSi5weSi2BjBkbf5M-ZCw&hl=en |quote= However, the British monarch continues to serve as Canada's symbolic executive, appointing a representative, the Governor-General, on the advice of the Canadian prime minister.}}</ref><ref>{{cite web|author=Ray T. Donahue|title=Diplomatic Discourse: International Conflict at the United Nations|accessdate=2009-10-19|publisher=Greenwood Publishing Group|url=http://books.google.ca/books?id=zolqhgKCQ5IC&pg=PA204&lpg=PA204&dq=%22symbolic+power%22+monarch+canada&source=web&ots=IXqQnZ7Hg8&sig=afyqd8EUlF4YUlhr5kNKqkYHAtM&hl=en| quote=As Head of State ... Elizabeth II has no political power, only symbolic power}}</ref>
+The political executive consists of the prime minister (head of government) and the [[Cabinet of Canada|Cabinet]] and carries out the day-to-day decisions of government.<ref name="DJC">{{cite web|title=Canada's System of Justice: The Canadian Constitution|publisher=Department of Justice Canada|url=http://www.justice.gc.ca/eng/dept-min/pub/just/05.html|quote=The executive power in Canada is vested in the Queen. In this democratic society, this is only a constitutional convention, as the real executive power rests with the Cabinet.|accessdate=2009-10-19}}</ref><ref name="mahler1">{{cite web|first= Gregory | last = Mahler |title= Parliament and Congress: Is the Grass Greener on the Other Side? |work= Canadian Parliamentary Review|publisher= |year= 1985 |accessdate= 2009-10-19|url=http://www2.parl.gc.ca/Sites/LOP/Infoparl/english/issue.asp?param=115&art=643 |quote= In Canada (and indeed most parliamentary democracies in the world today), the majority of challenges to legislative power which develop no longer come from the ceremonial executive (the Crown), but from the political executive, the government of the day. }}</ref><ref name="CSPS">{{cite book|title=Responsible Government: Clarifying Essentials, Dispelling Myths and Exploring Change|publisher=Canada School of Public Service|first=Peter|last=Aucoin|coauthors=Jennifer Smith, Geoff Dinsdale|date=2004|quote=Under the constitutional convention of responsible government, the powers of the Crown are exercised by Ministers, both individually and collectively.}}</ref><ref>{{cite web|author= Joseph Magnet|title= Separation of Powers in Canada|work=Constitutional Law of Canada|publisher=University of Ottawa Faculty of Law|accessdate=2009-10-19| url=http://www.uottawa.ca/constitutional-law/Division%20of%20Powers%20Topics%20-%20Separation%20of%20Powers.htm|quote= ... democratic principles dictate that the bulk of the governor general's powers be exercised in accordance with the wishes of the leadership of that government, namely the Cabinet. So the true executive power lies in the Cabinet.}}</ref> The Cabinet is made up of ministers usually selected from the House of Commons and headed by the prime minister,<ref>{{cite web|title=''By Executive Decree'': The Cabinet|publisher=Library and Archives Canada|accessdate=2009-10-19|url=http://www.collectionscanada.gc.ca/executive-decree/023004-2040-e.html|quote=The Cabinet as selected and directed by the prime minister constitutes the active seat of executive power in Canada.}}</ref><ref>{{cite web|author= W.A. Matheson|title=Prime Minister|work= The Canadian Encyclopedia |publisher=Historica-Dominion|accessdate=2009-10-19|url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0006474|quote=The prime minister is the chief minister and effective head of the executive in a parliamentary system ...}}</ref>
+who is normally the leader of the party that holds the confidence of the House of Commons.
+
+The [[Office of the Prime Minister (Canada)|Prime Minister's Office]] (PMO) is one of the most powerful institutions in government,<ref>{{cite web|author=|title=The Prime Minister|work=By Executive Decree|publisher=National Archives of Canada|accessdate=2009-10-19|url=http://www.collectionscanada.gc.ca/executive-decree/023004-2030-e.html|quote=While the modern governor general has only a nominal influence on the operation of the Canadian government, the prime minister's influence is decisive.}}</ref> initiating most legislation for parliamentary approval and selecting, besides other Cabinet members, senators, federal court judges, heads of Crown corporations and government agencies, and the governor general. The Crown formally approves parliamentary legislation and the prime minister's appointments.<ref>Forsey, Eugene A. (2005) (p.16)</ref><ref>{{cite web|title=''By Executive Decree'': The Governor General|publisher=Library and Archives Canada|accessdate=2009-10-19|url=http://www.collectionscanada.gc.ca/executive-decree/023004-2020-e.html|quote=The governor general holds formal executive power within the Queen's Privy Council for Canada, and signs orders-in-council.}}</ref>
+The leader of the party with the second-most seats usually becomes the [[Leader of the Opposition (Canada)|Leader of the Opposition]], and is part of an adversarial parliamentary system intended to keep the government in check. [[Michaëlle Jean]] has served as Governor General since September 27, 2005;<ref>{{cite web |url=http://www.gg.ca/document.aspx?id=12|title=The Governor General of Canada |quote=Her Excellency the Right Honourable Michaëlle Jean,C.C., C.M.M., C.O.M., C.D., Governor General and Commander-in-Chief, Canada’s 27th governor general. |work=Office of the Secretary to the Governor General|date=2009|accessdate=2009-10-23}}</ref> [[Stephen Harper]], leader of the Conservative Party, has been prime minister since February 6, 2006;<ref>{{cite web |url=http://www.pm.gc.ca/eng/pm.asp?featureId=7 |title=Prime Minister of Canada |work=Office of the Prime Minister|date=2009 |accessdate=2009-10-23|quote=In 2003, Mr. Harper co-founded the Conservative Party of Canada and went on to win the new party’s leadership. He was sworn in as Canada’s 22nd Prime Minister on February 6, 2006.}}</ref> and [[Michael Ignatieff]], leader of the Liberal Party, has been Leader of the Opposition since December 10, 2008.<ref>{{cite web |url=http://www.liberal.ca/en/michael-ignatieff/biography |title=Michael Ignatieff |quote=Michael Ignatieff is the Leader of the Liberal Party of Canada, the Leader of the Official Opposition, and the Member of Parliament for Etobicoke-Lakeshore"|work=Liberal Party of Canada|publisher=Federal Liberal Agency of Canada|date=2009|accessdate=2009-10-23}}</ref>
+
+==Law==
+{{Main|Law of Canada}}
+{{See also|Court system of Canada}}
+[[File:Supreme Court of Canada.jpg|thumb|right|A grey Art Deco-style building|The [[Supreme Court of Canada]] in Ottawa, west of Parliament Hill.]]
+[[Constitution of Canada|The constitution]] is the supreme law of the country,<ref>{{cite web|title=Constitution Acts, 1867 to 1982 | publisher=Department of Justice Canada|accessdate=2009-11-07 |url=http://laws.justice.gc.ca/en/const/9.html |quote=The Constitution of Canada is the supreme law of Canada, and any law that is inconsistent with the provisions of the Constitution is, to the extent of the inconsistency, of no force or effect.}} Subsection 52(1).</ref> and consists of written text and unwritten conventions.<ref>{{cite web |author=Department of Justice |publisher= Department of Justice, Canada |url=http://laws.justice.gc.ca/en/const/index.html |title=Constitution Acts 1867 to 1982|accessdate=2006-05-14}}</ref> The [[Constitution Act, 1867]] (known as the [[British North America Acts|British North America Act]] prior to 1982), affirmed governance based on parliamentary precedent "similar in principle to that of the United Kingdom" and divided powers between the federal and provincial governments;<ref name=con1867>The Constitution Act, 1867 (U.K.), 30 & 31 Victoria, c. 3.</ref> the [[Statute of Westminster 1931|Statute of Westminster, 1931]], granted full autonomy;<ref name="westminster"/> and the [[Constitution Act, 1982]], added the [[Canadian Charter of Rights and Freedoms]], which guarantees basic rights and freedoms that usually cannot be overridden by any level of government—though a ''[[Section Thirty-three of the Canadian Charter of Rights and Freedoms|notwithstanding clause]]'' allows the federal parliament and provincial legislatures to override certain sections of the Charter for a period of five years—and added a constitutional amending formula.<ref>{{cite web|title=The Constitution Act, 1982|publisher=Department of Justice Canada|url=http://laws.justice.gc.ca/en/const/index.html|accessdate=2009-10-19}}</ref>
+
+Canada's [[judiciary]] plays an important role in interpreting laws and has the power to strike down laws that violate the Constitution.<ref name="richard">{{cite web|url=http://www.fca-caf.gc.ca/bulletins/speeches/role_judiciary_e.shtml|title=The Role of the Judiciary in Canada|last=Richard|first=John D.|date=2000|publisher=Federal Court of Appeal|accessdate=2009-09-19}}</ref> The [[Supreme Court of Canada]] is the highest court and final arbiter and has been led by the Right Honourable Madam Chief Justice [[Beverley McLachlin]], P.C. since 2000.<ref name="mclachlin">{{cite web|url=http://www.scc-csc.gc.ca/court-cour/ju/mclachlin/index-eng.asp|title=Beverley McLachlin|publisher=Supreme Court of Canada|accessdate=2009-09-19}}</ref> Its nine members are appointed by the [[Governor General of Canada|governor general]] on the advice of the Prime Minister and Minister of Justice. All judges at the superior and appellate levels are appointed after consultation with nongovernmental legal bodies. The federal cabinet also appoints justices to superior courts at the provincial and territorial levels. Judicial posts at the lower provincial and territorial levels are filled by their respective governments.<ref name="aboutcourt">{{cite web|url=http://www.scc-csc.gc.ca/court-cour/sys/index-eng.asp|title=About the Court|date=2009|publisher=Supreme Court of Canada|accessdate=2009-09-20}}</ref>
+
+[[Common law]] prevails everywhere except in Quebec, where [[civil law (legal system)|civil law]] predominates.<ref name="comcivlaw">{{cite web|url=http://www.canadiana.org/citm/specifique/lois_e.pdf|title=Common Law and Civil Law|publisher=Canadiana Online|accessdate=2009-09-20}}</ref> [[Criminal law in Canada|Criminal law]] is solely a federal responsibility and is uniform throughout Canada. Law enforcement, including criminal courts, is a provincial responsibility, but in rural areas of all provinces except Ontario and Quebec, policing is contracted to the federal [[Royal Canadian Mounted Police]].<ref name="rcmp">{{cite web|url=http://www.rcmp-grc.gc.ca/about-ausujet/safe-secur-secur-eng.htm#neighbourhood|title=Keeping Canada and Our Communities Safe and Secure|publisher=RCMP|accessdate=2009-09-20}}</ref>
+
+==Foreign relations and military==
+{{Main|Foreign relations of Canada|Canadian Forces|Military history of Canada}}
+[[Image:Tupolev Tu 95 USAF.jpg|right|thumb|alt=A long propeller-powered plane flies above a small fighter jet|A Soviet Tu-95 Bear H aircraft being escorted by a Canadian Air Force McDonnell Douglas CF-188 Hornet fighter in 1987.]]
+[[File:HMCS Vancouver (FFH 331) 2.jpg|thumb|right|alt=A harbor with two large grey warships side-by-side parallel to land, and two small black destroyers facing out to sea|Two warships of the [[Canadian Forces Maritime Command|Canadian Navy]]—the [[Halifax class frigate|''Halifax''-class frigate]] [[HMCS Vancouver (FFH 331)|HMCS ''Vancouver'' (FFH 331)]] (centre) and the [[Iroquois class destroyer|''Iroquois''-class destroyer]] [[HMCS Algonquin (DDG 283)|HMCS ''Algonquin'' (DDG 283)]]—at [[Pearl Harbor]] upon departing to participate in [[RIMPAC]], the world's largest international maritime exercise.]]
+[[Image:MVC-252F.JPG|right|thumb|Two tanks and five soldiers on uneven ground. The soldiers are crouching between the two tanks|Two Canadian [[LAV III]] at [[CFB Gagetown]].]]
+
+[[Canada–United States relations|Canada and the United States]] share the world's longest undefended [[border]], co-operate on military campaigns and exercises, and are each other's largest trading partner.<ref name="wilson">{{cite web|url=http://www.canadainternational.gc.ca/washington/offices-bureaux/amb/080418.aspx?lang=eng|title=The World's Longest Undefended Border|last=Wilson|first=Michael|date=April 2008|publisher=Government of Canada|accessdate=2009-09-20}}</ref> Canada has nevertheless maintained an independent foreign policy, most notably maintaining full relations with [[Cuba]] and declining to participate in the [[Iraq War]].<ref name="cuba">{{cite web|url=http://www.canadainternational.gc.ca/cuba/bilateral_relations_bilaterales/canada_cuba.aspx?menu_id=7&menu=L|title=Canada - Cuba Relations|date=2009|publisher=Government of Canada|accessdate=2009-09-20}}</ref><ref name="delvoie">{{cite web|url=http://www.journal.forces.gc.ca/vo4/no4/views-vues-eng.asp|title=The Iraq War: Why Canada Was Right Not To Participate |last=Delvoie|first=Louis|date=2008|work=Canadian Military Journal|publisher=Department of National Defence|accessdate=2009-09-20}}</ref> Canada also maintains historic ties to the United Kingdom and France and to other former British and French colonies through Canada's membership in the [[Commonwealth of Nations]] and the [[Francophonie]]. Canada is noted for having a strong and positive relationship with the [[Netherlands]] (which Canada helped liberate during [[World War II]]), and the Dutch government traditionally gives tulips, a symbol of the Netherlands, to Canada each year in remembrance of Canada's contribution to its liberation.<ref name="tulips">{{cite web|url=http://www.canadascapital.gc.ca/bins/ncc_web_content_page.asp?cid=16297-16298-10118-10120&lang=1&bhcp=1|title=The Gift of Tulips|date=April 2008|publisher=National Capital Commission|accessdate=2009-09-20}}</ref>
+
+Canada currently employs a professional, volunteer military force of about 67,000 regular and 26,000 reserve personnel.<ref>{{cite web |author=Department of National Defence |authorlink=Department of National Defence (Canada) |publisher= Department of National Defence |url=http://www.forces.gc.ca/site/acf-apfc/index-eng.asp |title=About the Canadian Forces|accessdate=2009-10-19}}</ref> The unified [[Canadian Forces]] (CF) comprise the [[Canadian Forces Land Force Command|army]], [[Canadian Forces Maritime Command|navy]], and [[Canadian Forces Air Command|air force]]. <!-- Uncited due to broken link: Major CF equipment deployed includes 1,400 armoured fighting vehicles, 33 combat vessels, and 861 aircraft.<ref name="cf_equipment">{{cite web |author=Assistant Deputy Minister (Public Affairs) |authorlink=Department of National Defence (Canada) |publisher=Department of National Defence |url=http://www.forces.gc.ca/site/Reports/cds_report/anxd_e.asp |title=Canadian Forces Equipment |accessdate=2006-05-14}}</ref> -->
+
+Strong attachment to the [[British Empire]] and Commonwealth in [[English Canada]] led to major participation in British military efforts in the [[Second Boer War]], the First World War, and the Second World War. Since then, Canada has been an advocate for [[multilateralism]], making efforts to resolve global issues in collaboration with other nations.<ref>Eayrs, James (1980) (p.332)</ref><ref name="canada_policy">
+{{cite book | author = Government of Canada| title = Canada's international policy statement: a role of pride and influence in the world| publisher = Government of Canada | location = Ottawa |url=http://geo.international.gc.ca/cip-pic/current_discussions/ips-archive-en.aspx | year = 2005 | isbn = 0-662-68608-X|format=PDF}}</ref><ref name="middle_powers">{{cite book | first = Andrew Fenton |last = Cooper |coauthors= Higgot, Richard A.; Nossal, Kim R. | title = Relocating Middle Powers: Australia and Canada in a Changing World Order| publisher = UBC Press | location = Vancouver |url=http://books.google.com/books?id=Hw3laaTpOiIC&pg=PP1&lpg=PP1&vq=reaching+out&dq=Canada+middle+power&psp=s&sig=0009fdoEDuy42hFgXuCmmymun6c | year = 1993 | isbn = 0-7748-0450-5 }}</ref> Canada was a founding member of the [[United Nations]] in 1945 and of [[NATO]] in 1949. During the [[Canada in the Cold War|Cold War]], Canada was a major contributor to UN forces in the [[Korean War]] and founded the [[North American Aerospace Defense Command]] (NORAD) in cooperation with the United States to defend against aerial attacks from the Soviet Union.<ref name="cbc-korea">{{cite web|url=http://archives.cbc.ca/war_conflict/korean_war/topics/112/|title=Forgotten Heroes|date=2009|publisher=CBC|accessdate=2009-09-20}}</ref><ref name="cbc-norad">{{cite web|url=http://archives.cbc.ca/war_conflict/defence/clips/10469/|title=Norad's goals|date=2008|publisher=CBC|accessdate=2009-09-20}}</ref>
+
+During the [[Suez Crisis]] of 1956, future Prime Minister [[Lester B. Pearson]] eased tensions by proposing the inception of the [[peacekeeping|United Nations Peacekeeping Force]].<ref name="lester">{{cite web|author=Canadian Broadcasting Corporation |authorlink= Canadian Broadcasting Corporation | title= Top Ten Greatest Canadians: Lester B. Pearson | work= [[The Greatest Canadian]] | publisher=[[CBC.ca]] | url=http://www.cbc.ca/greatest/top_ten/nominee/pearson-lester.html | accessdate=2009-11-07}}</ref> Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989,<ref>{{cite book| first = Desmond | last = Morton | authorlink = Desmond Morton (historian)| title = A Military History of Canada| publisher = McClelland & Stewart | location = Toronto | year = 1999 | isbn = 0-7710-6514-0 | page = 258}}</ref> and has since maintained forces in international missions in [[Rwanda]], the former [[Yugoslavia]], and elsewhere. The number of Canadian military personnel participating in peacekeeping missions has decreased greatly in the 21st Century. As of June 30, 2006, 133 Canadians served on United Nations peacekeeping missions worldwide, including 55 Canadian military personnel, compared with 1149 military personnel as of August 31, 1991 and 1044 military personnel as of December 31, 1996.<ref name="una-peacekeeping2">{{cite web|url=http://www.unac.org/peacekeeping/en/un-peacekeeping/current-operations/|title=UN Peacekeeping Current Operations|publisher=United Nations Association Canada|accessdate=2009-10-15}}</ref><ref name="coc-peacekeeping">{{cite web|url=http://www.canadians.org/peace/issues/Marching_Orders/numbers.html|title=Peacekeeping by the numbers|date=September 19, 2007|publisher=The Council of Canadians|accessdate=2009-10-15}}</ref><ref name="una-peacekeeping1">{{cite web|url=http://www.unac.org/en/link_learn/fact_sheets/peacekeeping.asp|title=The UN and peacekeeping|publisher=United Nations Association Canada|accessdate=2009-10-15}}</ref>
+
+Canada joined the [[Organization of American States]] (OAS) in 1990; Canada hosted the OAS General Assembly in [[Windsor, Ontario|Windsor]], [[Ontario]], in June 2000 and the third Summit of the Americas in [[Quebec City]] in April 2001.<ref name="oas">{{cite web|url=http://www.pch.gc.ca/pgm/ai-ia/rir-iro/am-as/oea-oas-eng.cfm|title=Canada and the Organization of American States (OAS)|date=2008|publisher=Canadian Heritage|accessdate=2009-09-20}}</ref> Canada seeks to expand its ties to [[Pacific Rim]] economies through membership in the [[Asia-Pacific Economic Cooperation]] forum (APEC).<ref name="fait-asia">{{cite web|url=http://www.international.gc.ca/trade-agreements-accords-commerciaux/cimar-rcami/2009/06_apec.aspx|title=Opening Doors to Asia|date=2009|publisher=Foreign Affairs and International Trade Canada|accessdate=2009-09-20}}</ref>
+
+Since 2001, Canada has had troops deployed in [[Afghanistan]] as part of the [[War in Afghanistan (2001–present)|U.S. stabilization force]] and the UN-authorized, NATO-commanded [[International Security Assistance Force]]. Canada has committed to withdraw from [[Kandahar Province]] by 2011,<ref>{{cite news|author= Colin Freeze|title= A question of protection in Afghanistan|work= |publisher= Globe and Mail|date= 2009-05-29 |accessdate=2009-06-20|url= http://www.theglobeandmail.com/news/world/a-question-of-protection-in-afghanistan/article1156778/|quote= }} Registration required</ref> by which time it will have spent an estimated total of $11.3 billion on the mission.<ref>{{cite web|author= |title=Cost of the Afghanistan mission 2001-2011 |work= Canada's Engagement in Afghanistan |publisher= Government of Canada|date= 2009-02-25|accessdate=2009-05-13|url=http://www.afghanistan.gc.ca/canada-afghanistan/news-nouvelles/2009/2009_02_25a.aspx?lang=eng |quote=The incremental cost of the mission to the Government of Canada (GoC) in Afghanistan from 2001 to 2011 is currently estimated at approximately $11.3 billion, excluding post-2011 disability and health care costs for veterans. }}</ref>
+
+Canada and the U.S. continue to integrate state and provincial agencies to strengthen security along the [[Canada-United States border]] through the [[Western Hemisphere Travel Initiative]].<ref>{{cite web|url=http://cbsa-asfc.gc.ca/whti-ivho/menu-eng.html|title=Western Hemisphere Travel Initiative|date=2009-06-19|publisher=Canada Border Services Agency|accessdate=2009-10-19}}</ref> Canada's [[Disaster Assistance Response Team]] (DART) has participated in three major relief efforts in recent years; the two-hundred-member team has been deployed in relief operations after the [[2004 Indian Ocean earthquake]] in South Asia, [[Hurricane Katrina]] in 2005, and the [[2005 Kashmir earthquake|Kashmir earthquake]] in October 2005.
+
+In February 2007, Canada, Italy, Britain, [[Norway]], and Russia announced their funding commitments to launch a $1.5&nbsp;billion project to help develop vaccines they said could save millions of lives in poor nations, and called on others to join them.<ref>{{cite web|url=http://archive.newsmax.com/archives/articles/2007/2/9/152255.shtml|title=Rich Nations Launch Vaccine Pact|date=2007-02-10|publisher=Newsmax|accessdate=2009-10-19}}</ref> In August 2007, Canadian sovereignty in [[Territorial claims in the Arctic|Arctic waters]] was challenged after a [[Arktika 2007|Russian expedition]] that planted a Russian flag at the seabed at the [[North Pole]]. Canada has considered that area to be sovereign territory since 1925.<ref>{{cite web | last = Blomfield | first = Adrian| url = http://www.telegraph.co.uk/news/worldnews/1559165/Russia-claims-North-Pole-with-Arctic-flag-stunt.html | publisher = Telegraph | title = Russia claims North Pole with Arctic flag stunt | date = 2007-08-03 | accessdate = 2009-10-19}}</ref>
+
+==Provinces and territories==
+{{Main|Provinces and territories of Canada|Canadian federalism}}
+
+Canada is a [[federation]] composed of ten [[province]]s and three [[territory (administrative division)|territories]].  In turn, these may be [[List of regions of Canada|grouped into regions]]: [[Western Canada]], [[Central Canada]], [[Atlantic Canada]], and [[Northern Canada]] (the latter made up of the three territories [[Yukon]], [[Northwest Territories]], and [[Nunavut]]).  [[Eastern Canada]] refers to Central Canada and Atlantic Canada together.  Provinces have [[Canadian federalism|more autonomy]] than territories. Each has its own [[List of Canadian provincial and territorial symbols|provincial or territorial symbols]].
+
+The provinces are responsible for most of Canada's social programs (such as [[Health care in Canada|health care]], [[Education in Canada|education]], and [[welfare (financial aid)|welfare]]) and together collect more revenue than the federal government, an almost unique structure among federations in the world. Using its spending powers, the federal government can initiate national policies in provincial areas, such as the [[Canada Health Act]]; the provinces can opt out of these, but rarely do so in practice. [[Equalization payments]] are made by the federal government to ensure that reasonably uniform standards of services and taxation are kept between the richer and poorer provinces.<ref>Leacy, F. H. (ed.) (1983) [http://www.statcan.gc.ca/pub/11-516-x/sectionh/4057752-eng.htm#H209_220 H209-220]</ref>
+
+{{Canada image map}}
+
+{{clearleft}}
+
+==Geography and climate==
+{{Main|Geography of Canada|Temperature in Canada}}
+{{See also|List of countries and outlying territories by total area}}
+[[File:Canada-satellite.jpg|thumb|left|A satellite composite image of Canada. [[taiga|Boreal forests]] prevail on the rocky [[Canadian Shield]]. Ice and [[tundra]] are prominent in the [[Canadian Arctic|Arctic]]. [[Glacier]]s are visible in the [[Canadian Rockies]] and [[Coast Mountains]]. Flat and fertile [[prairie]]s facilitate agriculture. The [[Great Lakes]] feed the [[Saint Lawrence River]] in the southeast, where lowlands host much of Canada's population.]]
+
+Canada occupies a major northern portion of [[North America]], sharing land borders with the [[contiguous United States]] to the south and the U.S. state of [[Alaska]] to the northwest, stretching from the [[Atlantic Ocean]] in the east to the [[Pacific Ocean]] in the west; to the north lies the [[Arctic Ocean]]. By total area (including its waters), Canada is the second-largest country in the world—after Russia—and the largest on the continent. By land area, it also ranks second.<ref>{{cite web|url=http://www.worldatlas.com/aatlas/populations/ctyareal.htm|title=All countries of the world listed largest to smallest land area|publisher=Worldatlas|accessdate=2009-10-19}}</ref>
+
+Since 1925, Canada has claimed the portion of the Arctic between 60°W and 141°W [[longitude]],<ref name="territorial_evolution">{{cite web |author=National Resources Canada |publisher= National Resources Canada |url=http://atlas.nrcan.gc.ca/site/english/maps/historical/territorialevolution/1927/1|title=Territorial Evolution, 1927|date=2004-04-06|accessdate=2006-05-14}}</ref> but this claim is not universally recognized. The northernmost settlement in Canada (and in the world) is [[CFS Alert|Canadian Forces Station Alert]] on the northern tip of [[Ellesmere Island]]—latitude 82.5°N—just 817&nbsp;kilometres (450&nbsp;[[nautical mile]]s, 508&nbsp;miles) from the North Pole.<ref name="alert">{{cite web | publisher = Government of Canada|last=Susic|first=Stela| work = National Defence Canada | date = 2006-08-15 | accessdate=2006-10-03 | title =Air Force becomes command authority for CFS Alert|journal=The Maple Leaf|volume=12 no. 17| url =http://www.forces.gc.ca/site/Commun/ml-fe/article-eng.asp?id=5317|accessdate=2009-10-19}}</ref> Canada has the longest coastline in the world: {{convert|243000|km|mi|abbr=off}}.<ref name="coastweb">{{cite web |author=Natural Resources Canada |publisher= Natural Resources Canada |url=http://gsc.nrcan.gc.ca/coast/facts_e.php |title=CoastWeb: Facts about Canada's coastline |date=2006-12-19 |accessdate=2007-07-13}}</ref>
+
+[[File:Map Canada political-geo.png|thumb|220px|A geopolitical map of Canada including its [[Provinces and territories of Canada|provinces and territories]], international boundary, prominent cities, and the surrounding region]]
+The [[population density]], {{Pop density km2 to sq mi|3.5|precision=1|spell=UK|wiki=yes}}, is among the lowest in the world.<ref name="population_density">{{cite web |author=WorldAtlas.com |publisher= WorldAtlas.com |url=http://worldatlas.com/aatlas/populations/ctydensityl.htm |title=Countries of the World (by lowest population density) |date=2006-02 |accessdate=2006-05-16}}</ref> The most densely populated part of the country is the [[Quebec City – Windsor Corridor]], (situated in Southern Quebec and [[Southern Ontario]]) along the [[Great Lakes]] and the [[Saint Lawrence River]] in the southeast.<ref>{{cite web|url=http://www.reviewcta-examenltc.gc.ca/Submissions-Soumissions/txt/via%20rail%20canada%281%29.txt|title=VIA Submission: CTA Review Panel|date=December 2000|publisher=Canada Transport Act Review|accessdate=2009-10-20}}</ref>
+
+Canada has an extensive coastline on its north, east, and west, and since the last [[ice age]] it has consisted of eight distinct forest regions.<ref name=natural>Natural Resources Canada (2005) (p.1)</ref> The vastness and variety of Canada's geography, ecology, vegetation and landforms have given rise to a wide variety of climates throughout the country.<ref>{{cite book |title=The Times Books world weather guide: a city-by-city guide|page= 116|author=E A Pearce; C G Smith|date=1984 |publisher=New York, N.Y. Times Books|isbn=0812911237}}</ref> Also because of its vast size, Canada has more lakes than any other country. These lakes contain much of the world's fresh water.<ref name="altas_lakes">{{cite web |author=The Atlas of Canada |publisher=National Resources Canada|url=http://atlas.nrcan.gc.ca/site/english/maps/freshwater/distribution/drainage/1 |title= Drainage patterns |date=2004-04-02 |accessdate=2006-05-18}}</ref><ref>{{cite encyclopedia | author = Encarta| title = Canada | publisher = Microsoft Corporation | accessdate = 2006-06-12| year = 2006 | url = http://encarta.msn.com/encyclopedia_761563379/Canada.html|archiveurl=http://www.webcitation.org/5kwQYzRab|archivedate=2009-10-31|deadurl=yes}}</ref>
+[[Image:Moraine Lake 17092005.jpg|thumb|left|alt=A lake in the foreground reflects the image of the snowy mountain-tops in the background. There is an outcrop of forested land between the two|[[Moraine Lake]] in Alberta's [[Banff National Park]]—the country's oldest [[National Parks of Canada|national park]]]]
+Average winter and summer high temperatures across Canada vary according to the location. Winters can be harsh in many regions of the country, particularly in the interior and Prairie provinces, which experience a [[continental climate]], where daily average temperatures are near −15&nbsp;°[[Celsius|C]] (5&nbsp;°[[Fahrenheit|F]]) but can drop below {{convert|-40|°C|°F|abbr=on}} with severe [[wind chill]]s.<ref name="twn_regina">{{cite web |author=The Weather Network |authorlink=The Weather Network |publisher=The Weather Network |url=http://www.theweathernetwork.ca/weather/stats/pages/C02072.htm?CASK0261 |title=Statistics, Regina SK |accessdate=2006-05-18}}</ref> In noncoastal regions, snow can cover the ground almost six months of the year (more in the north). Coastal British Columbia is an exception; it enjoys a temperate climate, with a mild and rainy winter.
+[[File:Peggys Cove Harbour 01.jpg|thumb|alt=A pier and some houses on the edge of a body of water. There are rolled pieces of fabric on the pier in the foreground, and more houses in the background|A maritime scene at [[Peggys Cove, Nova Scotia|Peggys Cove]], Nova Scotia; the province has long been sustained by the Atlantic fishery]]
+On the east and west coasts, average high temperatures are generally in the low 20s °C (70s °F), while between the coasts, the average summer high temperature ranges from {{convert|25|to|30|C|F}}, with occasional extreme heat in some interior locations exceeding {{convert|40|°C|°F|abbr=on}}.<ref name="twn_vancouver">{{cite web |author=The Weather Network |authorlink=The Weather Network |publisher=The Weather Network |url=http://www.theweathernetwork.ca/weather/stats/pages/C02096.htm?CABC0308 |title=Statistics: Vancouver Int'l, BC |accessdate=2006-05-18}}</ref><ref name="twn_toronto">{{cite web |author=The Weather Network |authorlink=The Weather Network |publisher=The Weather Network |url=http://www.theweathernetwork.ca/weather/stats/pages/C02017.htm?CAON0696 |title=Statistics: Toronto Pearson Int'l |accessdate=2006-05-18}}</ref> For a more complete description of climate across Canada, see Environment Canada's Website.<ref>{{cite web |author=Environment Canada |authorlink=Environment Canada |publisher= Environment Canada |url=http://www.climate.weatheroffice.ec.gc.ca/climate_normals/index_e.html |title=Canadian Climate Normals or Averages 1971–2000|date=2004-02-25|accessdate=2006-05-18}}</ref>{{clearright}}
+
+Canada is also geologically active, having many [[earthquake]]s and potentially active [[volcano]]es, notably [[Mount Meager]], [[Mount Garibaldi]], [[Mount Cayley]], and the [[Mount Edziza volcanic complex]].<ref> {{cite book | last = Etkin | first = David | coauthors = Haque, C.E. and Brooks, Gregory R. | title = An Assessment of Natural Hazards and Disasters in Canada | publisher = Springer | date = 2003-04-30 | location = | pages =569, 582, 583 | url = http://books.google.com/books?id=kaJz_SNNuKMC&pg=PA569&lpg=PA569&dq=wells+%22gray+clearwater%22+volcanic+field+earthquakes&source=web&ots=3-cpYxu0uM&sig=OsW3GQ5BQLaHN3HzRdzQfObnx6A
+| isbn = 978-1402011795}}</ref> The volcanic eruption of [[Tseax Cone]] in 1775 caused a catastrophic disaster, killing 2,000 [[Nisga'a]] people and the destruction of their village in the [[Nass River]] valley of northern [[British Columbia]]; the eruption produced a {{convert|22.5|km|adj=on}} lava flow, and according to legend of the Nisga'a people, it blocked the flow of the Nass River.<ref>
+{{cite web | title = Tseax Cone | work = Catalogue of Canadian volcanoes | publisher = [[Geological Survey of Canada]] | date = 2005-08-19 | url = http://gsc.nrcan.gc.ca/volcanoes/cat/volcano_e.php?id=svb_tsx_107 | accessdate = 2008-07-29}}</ref>
+
+==Economy==
+{{Main|Economy of Canada|Economic history of Canada|Agriculture in Canada}}
+[[File:Canadian bills2.jpg|right|thumb|alt=A vertical set of specimen banknotes, with $5 (blue) on top, followed by $10 (purple), $20 (green), $50 (red), and $100 (brown)|Current [[Banknotes of the Canadian dollar|Canadian banknotes]], depicting (top to bottom) [[Wilfrid Laurier]], [[John A. Macdonald]], [[Monarchy of Canada|Queen of Canada (Queen Elizabeth II)]], [[William Lyon Mackenzie King]], and [[Robert Borden]].]]
+
+Canada is one of the world's [[List of countries by GDP (nominal)|wealthiest nations]], with a high per-capita income, and it is a member of the [[Organisation for Economic Co-operation and Development]] (OECD) and the [[G8]]. It is one of the world's top ten trading nations.<ref name="WTO 2008 Press Release">{{cite web | author=WTO|authorlink= WTO|publisher= WTO|url=http://www.wto.org/english/news_e/pres08_e/pr520_e.htm|title=Latest release |date=2008-04-17 |accessdate=2008-07-03}}</ref> Canada is a [[mixed economy|mixed market]],<ref name="PBS, commanding heights, map of the world's economic systems">{{cite web|url=http://www.pbs.org/wgbh/commandingheights/hi/timemap/ti.html|title=Commanding Heights, map of the world's economic systems|publisher=PBS|accessdate=2008-01-31}}</ref> ranking lower than the U.S. on the [[Heritage Foundation|Heritage Foundation's]] index of economic freedom but higher than most western European nations.<ref>{{cite web | accessdate = 2009-01-09 | year = 2009 | publisher = The Heritage Foundation and the Wall Street Journal| author = The Heritage Foundation | title = Index of Economic Freedom | url = http://www.heritage.org/Index/}}</ref><ref>{{cite web | accessdate = 2009-01-09 | year = 2009 | publisher = The Heritage Foundation and the Wall Street Journal | author = The Heritage Foundation | title = Index of Economic Freedom - Canada| url = http://www.heritage.org/Index/Country/Canada}}</ref>
+
+As of October 2009, Canada's national [[unemployment]] rate was 8.6%. Provincial unemployment rates vary from a low of 5.8% in Manitoba to a high of 17% in Newfoundland and Labrador.<ref name="statcan_labour">{{cite web | author=Statistics Canada |authorlink= Statistics Canada |publisher= Government of Canada |url=http://www.statcan.gc.ca/subjects-sujets/labour-travail/lfs-epa/lfs-epa-eng.htm|title=Latest release from Labour Force Survey |date=2009-11-06|accessdate=2009-11-18}}</ref> Canada was home to 69 of the 2000 corporations in the 2008 [[Forbes Global 2000]] compilation of the world's largest companies, ranking the nation 5th globally.<ref name="2008 [[Forbes]] Global 2000">{{cite web | author=forbes|authorlink= forbes|publisher= forbes|url=http://www.forbes.com/lists/2008/18/biz_2000global08_The-Global-2000-Canada_10Rank.html|title=Latest release |date=2008-04-02 |accessdate=2006-07-01}}</ref>
+
+As of 2008, Canada’s total [[government debt]] burden is the lowest among the G8. The OECD projects that Canada's [[debt-to-GDP ratio]] will decline to 19.5% in 2009, which is less than half of the projected average of 51.9% for all G8 countries. According to these projections, Canada's debt burden will have fallen by more than 50 percentage points from its peak in 1995, when it was the second-highest in the G8.<ref>{{cite web|url=http://www.budget.gc.ca/2008/plan/ann1-eng.asp|title=Budget 2008: Budget Plan—Annex 1|publisher=Department of Finance|accessdate=2009-10-19}}</ref>
+
+In the past century, the growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy to a more industrial and urban one. Like other [[First World]] nations, the Canadian economy is dominated by the [[Tertiary sector of the economy|service industry]], which employs about three quarters of Canadians.<ref>{{cite web|url=http://www40.statcan.gc.ca/l01/cst01/econ40-eng.htm|publisher=Statistics Canada|title=Employment by Industry|date=2009-01-08 |accessdate=2009-10-19}}</ref> Canada is unusual among [[developed countries]] in the importance of its [[primary sector of the economy|primary sector]], with the [[logging]] and [[petroleum industry|petroleum industries]] being two of Canada's most important.
+
+Canada is one of the few developed nations that are net exporters of [[energy]].<ref name="cia_factbook" /> Atlantic Canada has vast [[Offshore drilling|offshore]] deposits of [[natural gas]], and large oil and gas resources are centred in Alberta. The immense [[Athabasca Oil Sands]] give Canada the world's second-largest [[oil reserves]], behind [[Saudi Arabia]].<ref name="athabasca">{{cite web |author=Clarke, Tony; Campbell, Bruce; Laxer, Gordon |publisher= Parkland Institute |url=http://www.ualberta.ca/PARKLAND/research/perspectives/LaxerClarkeCampbellMar06OpEd.htm |title=US oil addiction could make us sick |date=2006-03-10|accessdate=2006-05-18}}</ref> In Quebec, British Columbia, Newfoundland & Labrador, New Brunswick, Ontario, Manitoba, and Yukon, [[hydroelectricity]] is a cheap and clean source of [[renewable energy]].
+
+Canada is one of the world's most important suppliers of agricultural products, with the Canadian Prairies being one of the most important suppliers of [[wheat]], [[canola]], and other grains.<ref>Leacy, F. H. (ed.) (1983) [http://www.statcan.gc.ca/pub/11-516-x/sectionm/4057754-eng.htm#M301_309 M301-309]</ref><ref>Leacy, F. H. (ed.) (1983 [http://www.statcan.gc.ca/pub/11-516-x/sectionh/4057752-eng.htm#H304_316 H304-357]</ref><ref name="ce_agriculture">{{cite web |last=Veeman|first=Michele|coauthor=Terrence Veeman|work=The Canadian Encyclopedia |publisher= Historical Foundation of Canada |url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=a1ARTA0000075#SEC917392|title=Agriculture and Food|year=2006|accessdate=2009-10-19}}</ref> Canada is the largest producer of [[zinc]] and [[uranium]], and is an important global producer of many other natural resources, such as [[gold]], [[nickel]], [[aluminium]], and [[lead]].<ref name="ce_minig">{{cite web |last=Patching|first=T.H.|work=The Canadian Encyclopedia |publisher= Historica Foundation of Canada |url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0005318|title=Mining |year=2006|accessdate=2009-10-19}}</ref> Many towns in the northern part of the country, where agriculture is difficult, are sustainable because of nearby mines or sources of timber. Canada also has a sizable manufacturing sector centred in southern Ontario and Quebec, with [[automobile]]s and [[aeronautics]] representing particularly important industries.<ref> Leacy, F. H. (ed.) (1983) [http://www.statcan.gc.ca/pub/11-516-x/sectionv/4057758-eng.htm#V332_350 Vl-12]</ref>
+
+[[File:Nafta.jpg|thumb|left|alt=Two men and one women sit at a table and sign a piece of paper, while three men in suits stand behind them, in front of a set of limp flags|Representatives of the Canadian, Mexican, and United States governments sign the [[North American Free Trade Agreement]] in 1992.]]
+
+Economic integration with the United States has increased significantly since World War II. This has drawn the attention of  [[Canadian nationalism|Canadian nationalists]], who are concerned about cultural and economic autonomy in an age of [[globalization]], as American goods and media products have become ubiquitous.<ref name="granatstein">{{cite book |first= J.L. |last=Granatstein |year=1997 |title=Yankee Go Home: Canadians and Anti-Americanism |publisher=HarperCollins |location= Toronto |isbn=0-00-638541-9}}</ref> The [[Automotive Products Trade Agreement]] of 1965 opened the borders to trade in the auto manufacturing industry. In the 1970s, concerns over energy self-sufficiency and foreign ownership in the manufacturing sectors prompted Prime Minister [[Pierre Trudeau]]'s Liberal government to enact the [[National Energy Program]] (NEP) and the [[Investment Canada|Foreign Investment Review Agency]] (FIRA).<ref>{{cite web|author= Norman Hillmer|title=Foreign Investment Review Agency|work= The Canadian Encyclopedia |publisher=Historica Foundation|accessdate=2009-10-19|url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0002896}}</ref>
+
+In the 1980s, Prime Minister [[Brian Mulroney]]'s Progressive Conservatives abolished the NEP and changed the name of FIRA to "[[Investment Canada]]" in order to encourage foreign investment. The [[Canada – United States Free Trade Agreement]] (FTA) of 1988 eliminated [[tariff]]s between the two countries, while the [[North American Free Trade Agreement]] (NAFTA) expanded the free-trade zone to include [[Mexico]] in the 1990s.
+
+In the mid-1990s, the Liberal government under [[Jean Chrétien]] began to post annual budgetary surpluses and steadily paid down the national debt.<ref>{{cite web|url=http://www.cbc.ca/canada/story/2009/07/13/f-jean-chretien.html|title=Jean Chrétien|date=2009-07-13|publisher=CBC|accessdate=2009-10-20}}</ref> Since 2001, Canada has maintained the best overall economic performance in the G8.<ref>Baird, John. Press Conference. Ottawa, ON. 2009-08-31.</ref> The 2008 [[global financial crisis of 2008|global financial crisis]] caused a [[recession of 2008|recession]], which could boost the country's unemployment rate to 10%.<ref>{{cite web|url=http://www.nationalpost.com/related/topics/story.html?id=1383376|title=Jobless rate to peak at 10%: TD|last=Sturgeon|first=Jamie|date=2009-03-13|publisher=National Post|accessdate=2009-10-20}}</ref> Despite the global recession, Canada's labour market is in need of hundreds of thousands of foreign workers according to the Canadian Minister of Citizenship, Immigration and Multiculturalism.<ref>{{cite web|url=http://www.muchmormagazine.com/2009/01/canada-to-maintain-immigration-levels-in-2009/|title=Canada to maintain immigration levels in 2009|date=2009-01-19|publisher=Muchmor Magazine|accessdate=2009-10-20}}</ref>
+
+==Demographics==
+{{Main|Demographics of Canada|List of cities in Canada|Ethnic groups in Canada|Immigration to Canada|Religion in Canada}}
+
+{{Largest Metropolitan Areas of Canada}}
+<!-- This is here from before. It could be removed with consensus. -->
+
+Canada's [[Canada 2006 Census|2006 census]] counted a total population of 31,612,897, an increase of 5.4% since 2001.<ref name="statcan_population_clock">{{cite web |author= Beauchesne, Eric |publisher=National Post |url=http://www.canada.com/nationalpost/financialpost/story.html?id=73b94aac-08f0-477f-a72a-b8b640f6658f&k=90795 |title=We are 31,612,897|date=2007-03-13|accessdate=2007-03-13}}</ref> Population growth is from [[Immigration to Canada|immigration]] and, to a lesser extent, natural growth. About three-quarters of Canada's population live within {{convert|150|km|mi|abbr=off}} of the United States border.<ref>{{cite web |date = 2005-01-25 | accessdate =2006-10-03 | title = Canada World View&nbsp;– Issue 24 | first =Norman | last = Hillmer |publisher = Foreign Affairs and International Trade Canada | url = http://ecalib.uneca.org/ipac20/ipac.jsp?session=1F4L7859644R7.561749&profile=ecal&uri=link=3100006@!90415@!3100001@!3100002&aspect=power&menu=search&ri=1&source=157.150.130.29@!horizon&term=World+view&index=ALLTITL|format=Journal available from the Online Catalogue of the ECA Library, UN Economic Commission for Africa}}</ref> A similar proportion live in [[urban area]]s concentrated in the [[Quebec City – Windsor Corridor]] (notably the [[Golden Horseshoe|Greater Golden Horseshoe]], including [[Toronto]] and area, [[Montreal]], and [[National Capital Region (Canada)|Ottawa]]), the BC [[Lower Mainland]] (consisting of the region surrounding [[Vancouver]]), and the [[Calgary–Edmonton Corridor]] in Alberta.<ref>{{cite web | url = http://www.statcan.gc.ca/pub/82-221-x/00503/t/th/4062283-eng.htm | title = Urban-rural population as a proportion of total population, Canada, provinces, territories and health regions | year = 2001 | publisher = Statistics Canada | author = Statistics Canada | accessdate = 2009-04-23}}</ref>
+
+According to the 2006 census, there are 43 ethnicities claimed by at least 100,000 people in Canada.<ref>{{cite web|url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000|title=Ethnocultural Portrait of Canada Highlight Tables, 2006 Census|date=2008-02-04|publisher=Statistics Canada|accessdate=2009-10-20}}</ref>
+
+The largest ethnic group is [[English Canadian|English]] (21%), followed by [[French Canadian|French]] (15.8%), [[Scottish Canadian|Scottish]] (15.2%), [[Irish Canadian|Irish]] (13.9%), [[Canadians of German ethnicity|German]] (10.2%), [[Italian Canadians|Italian]] (5%), [[Chinese Canadian|Chinese]] (3.9%), [[Ukrainian Canadian|Ukrainian]] (3.6%), and [[First Nations]] (3.5%). Approximately one third of respondents identified their ethnicity as "Canadian".<ref>{{cite web|url = http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title = Ethnocultural Portrait of Canada Highlight Tables, 2006 Census |publisher=Statistics Canada|accessdate = 2008-06-30}}</ref> Canada's [[Aboriginal peoples in Canada|aboriginal]] population is growing at almost twice the national average, and 3.8% of Canada's population claimed aboriginal identity in 2006. Another 16.2% of the population belonged to non-aboriginal [[visible minority|visible minorities]].<ref>{{cite web|url=http://www.cbc.ca/canada/story/2008/04/02/stats-immigration.html|title=One in 6 Canadians is a visible minority|date=2008-04-02|publisher=CBC|accessdate=2009-10-20}}</ref> The largest visible minority groups in Canada are [[South Asia]]n (4%), [[Chinese Canadian|Chinese]] (3.9%) and [[Black Canadians|Black]] (2.5%).<ref>{{cite web|url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Table=1&Data=Count&StartRec=1&Sort=11&Display=Page&CSDFilter=5000|title=Visible minority groups, 2006 counts, for Canada, provinces and territories|date=2008-04-02|publisher=Statistics Canada|accessdate=2009-10-20}}</ref>
+
+In 2006, 51.0% of Vancouver's population and 46.9% of Toronto's population were [[visible minority|visible minorities]].<ref>{{cite web|url=http://www12.statcan.ca/census-recensement/2006/dp-pd/prof/92-591/Details/Page.cfm?Lang=E&Geo1=CSD&Code1=5915022&Geo2=PR&Code2=59&Data=Count&SearchText=Vancouver&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=&GeoCode=5915022|title=Vancouver|date=2009-07-24|publisher=Statistics Canada|accessdate=2009-10-20}}</ref><ref>{{cite web|url=http://www12.statcan.ca/census-recensement/2006/dp-pd/prof/92-591/Details/Page.cfm?Lang=E&Geo1=CSD&Code1=3520005&Geo2=PR&Code2=35&Data=Count&SearchText=Toronto&SearchType=Begins&SearchPR=01&B1=All&GeoLevel=&GeoCode=3520005|title=Toronto|date=2009-07-24|publisher=Statistics Canada|accessdate=2009-10-20}}</ref> In March 2005, Between 2001 and 2006, the visible minority population rose by 27.2%.<ref>{{cite web|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080402/main_census_080402/20080402?hub=Canada&s_name=|title=Visible minorities pass 5-million mark for first time|publisher=CTV|accessdate=2009-10-19}}</ref><ref>{{cite web|url=http://www.statcan.gc.ca/daily-quotidien/080402/dq080402a-eng.htm|title=The Daily, Wednesday, April 2, 2008. 2006&nbsp;Census: Ethnic origin, visible minorities, place of work and mode of transportation
+|work=Statistics Canada|publisher=Government of Canada|date=2009-04-02|accessdate=2009-10-19}}</ref>
+[[Statistics Canada]] projected that people of non-European origins will constitute a majority in both Toronto and Vancouver by 2012.<ref>{{cite web|url=http://www.canadastatistics.info/canadian-people.html|title=Canadian People—Learn About Canada's People|publisher=CanadaStatistics|accessdate=2009-10-19}}</ref> According to a 2005 forecast by Statistics Canada, the proportion of visible minorities in Canada could rise as high as 23% by 2017. A survey released in 2007 reveals that almost one in five Canadians (19.8%) are foreign born.<ref name = "statcan-Census">{{cite web
+ | title = The Daily, Tuesday, December 4, 2007. 2006&nbsp;Census: Immigration, citizenship, language, mobility and migration
+ | work = Statistics Canada
+ | publisher = Government of Canada
+ | date = 2007-12-04
+ | url = http://www.statcan.gc.ca/daily-quotidien/071204/dq071204a-eng.htm
+ | accessdate =2009-10-19}}
+</ref> Nearly 60% of new immigrants hail from Asia (including the Middle East).<ref name = "statcan-Census"/>
+
+{{bar box
+|title=Religion in Canada <small>(2001 Census)<ref>{{cite web|url=http://www40.statcan.gc.ca/l01/cst01/demo30a-eng.htm|title=Population by religion, by province and territory (2001 Census)|date=2005-01-25|publisher=Statistics Canada|accessdate=2009-10-20}}</ref><small>
+|titlebar=#ddd
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|[[Christianity]]|#9955BB|77.0}}
+{{bar percent|No religion|black|16.2}}
+{{bar percent|[[Islam]]|#009000|2.0}}
+{{bar percent|[[Judaism]]|#0000CD|1.1}}
+{{bar percent|[[Buddhism]]|Yellow|1.0}}
+{{bar percent|[[Hinduism]]|red|1.0}}
+{{bar percent|[[Sikhism]]|#FFBF00|0.9}}
+}}
+
+Canada has the [[Immigration to Canada#Immigration rate|highest per-capita immigration rate in the world]], driven by [[Economic impact of immigration to Canada|economic policy]] and [[Immigration to Canada#Immigration categories|family reunification]]. Canada also accepts large numbers of [[refugee]]s. In 2009, approximately 265,000 migrants are expected to arrive in Canada.<ref>{{cite web|url=http://www.migrationbureau.de/canada/news.php?newsid=9|title=Canadian Government to Grant 265,000 Residents Visas in 2009|publisher=Canada Migration Bureau|accessdate=2009-10-20}}</ref> Newcomers settle mostly in the major urban areas of Montreal, Toronto, and Vancouver. 
+
+In common with many other developed countries, Canada is experiencing a demographic shift towards an older population, with more retirees and fewer people of working age. In 2006, the average age of the population was 39.5 years.<ref>{{cite web | last = Martel | first = Laurent | coauthors = Éric Caron Malenfant | title = 2006 Census: Portrait of the Canadian Population in 2006, by Age and Sex | work = Demography Division, Statistics Canada | publisher = Government of Canada | date = 2009-09-22 | url = http://www12.statcan.ca/census-recensement/2006/as-sa/97-551/index-eng.cfm?CFID=3347169&CFTOKEN=19485112 | accessdate =2009-10-18 }}</ref> The census results also indicate that despite an increase in immigration since 2001 (which gave Canada a higher rate of population growth than in the previous intercensal period), the aging of Canada's population did not slow during the period.
+
+Support for [[religious pluralism]] is an important part of [[Political culture of Canada|Canada's political culture]]. According to the 2001 census,<ref name="statcan_religion">{{cite web |author=Statistics Canada |authorlink=Statistics Canada |publisher= Statistics Canada |url=http://www40.statcan.ca/l01/cst01/demo30a.htm |title=Population by religion, by provinces, and territories|date=2005-01-25|accessdate=2006-05-14}}</ref> 77.1% of Canadians identify as being [[Christianity|Christians]]; of this, [[Catholicism|Catholics]] make up the largest group (43.6% of Canadians). The largest [[Protestantism|Protestant]] denomination is the [[United Church of Canada]] (9.5% of Canadians), followed by the [[Anglicans]] (6.8%), [[Baptists]] (2.4%), [[Lutherans]] (2%), and other Christians (4.4%).<ref>''CIA Factbook, 2009''</ref> About 16.5% of Canadians declare no religious affiliation, and the remaining 6.3% are affiliated with non-Christian religions, the largest of which is [[Islam]] (1.9%), followed by [[Judaism]] (1.1%).
+
+Canadian provinces and territories are responsible for education. Each system is similar, while reflecting regional history, culture and geography.<ref name="education">{{cite web | author =Council of Ministers of Education, Canada | publisher = Council of Ministers of Education, Canada | title = Overview of Education in Canada | url= http://www.educationau-incanada.ca/index.aspx?action=educationsystem-systemeeducation&lang=eng | accessdate = 2009-10-20 }}</ref> The mandatory school age ranges between 5–7 to 16–18 years,<ref name="education" /> contributing to an adult literacy rate of 99%.<ref name="cia_factbook" /> Post-secondary education is also administered by provincial and territorial governments, which provide most of the funding; the federal government administers additional research grants, student loans, and scholarships. In 2002, 43% of Canadians aged 25 to 64 possessed a post-secondary education; for those aged 25 to 34, the rate of post-secondary education reached 51%.<ref>{{cite web | author = Department of Finance | publisher = Department of Finance Canada | title = Creating Opportunities for All Canadians | url= http://www.fin.gc.ca/ec2005/agenda/agc4e.html| date = 2005-11-14 | accessdate = 2006-05-22}}</ref>
+
+==Culture==
+{{Main|Culture of Canada|National symbols of Canada|Sport in Canada|Music of Canada}}
+[[File:Wawadit'la(Mungo Martin House) a Kwakwaka'wakw big house.jpg|thumb|left|alt=A colorful post of wood sculpted into animal faces stands in front of a wide lodge with a painted face on it|A [[Kwakwaka'wakw]] [[totem pole]] and traditional "big house" in [[Victoria, British Columbia|Victoria]], British Columbia]]
+
+Canadian culture has historically been influenced by [[British culture|British]], [[French culture|French]], and [[Aboriginal peoples in Canada|Aboriginal]] cultures and traditions. It has also been heavily influenced by [[Culture of the United States|American culture]] because of its proximity and the high rate of migration between the two countries. The great majority of English-speaking immigrants to Canada between 1755 and 1815 were Americans from the Thirteen Colonies. During the [[American Revolutionary War|War of Independence]], 46,000 Americans came to Canada, exiled because of their loyalty to Britain. Between 1785 and 1812, another 30,000 moved to Canada—the so-called Late Loyalists—in response to promises of land, provided that they agreed to swear allegiance to the Crown.
+
+American media and entertainment are popular, if not dominant, in English Canada; conversely, many Canadian cultural products and entertainers are successful in the United States and worldwide.<ref>{{cite web |first=John D. |last=Blackwell |url=http://www.iccs-ciec.ca/blackwell.html#culture |title=Culture High and Low |year=2005 |accessdate=2006-03-15 |publisher=International Council for Canadian Studies World Wide Web Service}}</ref> Many cultural products are marketed toward a unified "North American" or global market.
+
+The creation and preservation of distinctly Canadian culture are supported by federal government programs, laws, and institutions such as the [[Canadian Broadcasting Corporation]] (CBC), the [[National Film Board of Canada]], and the [[Canadian Radio-television and Telecommunications Commission]].<ref>{{cite web |author=National Film Board of Canada |work= |url=http://www.onf.ca/medias/download/documents/pdf/NFB_STRATEGIC_PLAN.pdf |format=pdf |title=Mandate of the National Film Board |year=2005|accessdate=2009-10-20}}</ref>
+
+Canada is a geographically vast and ethnically diverse country. Canadian culture has also been greatly influenced by immigration from all over the world. Many Canadians value [[multiculturalism]] and see Canadian culture as being inherently multicultural.<ref name="bickerton" /> Multicultural heritage is the basis of [[Section Twenty-seven of the Canadian Charter of Rights and Freedoms|Section 27 of the Canadian Charter of Rights and Freedoms]].
+
+[[File:McGill hockey match.jpg|right|thumb|A group of men skate on ice in two groups, each trying to hit a small rubber disc with curved sticks|A [[Ice hockey|hockey]] game at [[McGill University]] in Montreal, Quebec (1901)]]
+
+Canada's [[National symbols of Canada|National symbols]] are influenced by natural, historical, and [[First Nations]] sources. The use of the [[maple leaf]] as a Canadian symbol dates to the early 18th century. The maple leaf is depicted on Canada's [[Flag of Canada|current]] and [[Canadian Red Ensign|previous flags]], on the [[penny (Canadian coin)|penny]], and on the [[Coat of arms of Canada|Coat of Arms]].<ref name="symbol1">{{cite book | author=Canadian Heritage | title=Symbols of Canada | year=2002 | location=Ottawa, ON | isbn=0-660-18615-2 | publisher=Canadian Government Publishing}}</ref> Other prominent symbols include the [[beaver]], [[Canada Goose]], [[Great Northern Loon|Common Loon]], [[Monarchy of Canada|the Crown]], the [[Royal Canadian Mounted Police]],<ref name="symbol1"/> and more recently, the [[totem pole]] and [[Inukshuk]].
+
+Canada's official national [[Sport in Canada|sports]] are [[ice hockey|hockey]] in the winter and [[lacrosse]] in the summer.<ref name="National Sports of Canada Act">{{cite web | url= http://lois.justice.gc.ca/en/ShowDoc/cs/N-16.7//20091020/en?page=1 | title= National Sports of Canada Act (1994) | work = Consolidated Statutes and Regulations | publisher= [[Department of Justice (Canada)|Department of Justice]]|accessdate=2009-10-19}}</ref> Hockey is a [[national sport|national pastime]] and the most popular spectator sport in the country. It is also the sport most played by Canadians, with 1.65&nbsp;million participants in 2004.<ref name = "sports">{{cite web | author = Conference Board of Canada| authorlink = Conference Board of Canada | year = 2004 | month = December | url = http://www.pch.gc.ca/progs/sc/pubs/socio-eco/tab2_tab_e.cfm | title = Survey: Most Popular Sports, by Type of Participation, Adult Population | publisher = Sport Canada | work = Strengthening Canada: The Socio-economic Benefits of Sport Participation in Canada—Report August 2005 | accessdate = 2006-07-01}}</ref> Canada's six largest metropolitan areas—Toronto, Montreal, Vancouver, Ottawa, Calgary, and Edmonton—have franchises in the [[National Hockey League]] (NHL), and there are more Canadian players in the NHL than from all other countries combined. Other popular spectator sports include [[curling]] and [[Canadian football|football]]; the latter is played professionally in the [[Canadian Football League]] (CFL). [[Golf]], [[baseball]], [[skiing]], [[Soccer in Canada|soccer]], [[volleyball]], and [[basketball]] are widely played at youth and amateur levels,<ref name = "sports"/> but professional leagues and franchises are not widespread.
+
+Canada has hosted several high-profile international sporting events, including the [[1976 Summer Olympics]] in Montreal, the [[1988 Winter Olympics]] in Calgary, and the [[2007 FIFA U-20 World Cup]]. Canada is the host nation for the [[2010 Winter Olympics]] in [[Vancouver]] and [[Whistler, British Columbia|Whistler]], British Columbia.<ref>{{cite web | author= The Vancouver Organizing Committee for the 2010 Olympic and Paralympic Winter Games | publisher =www.vancouver2010.com | url = http://www.vancouver2010.com/ | title = Vancouver 2010 | year = 2009 | accessdate = 2009-10-20}}</ref>
+
+==Language==
+{{Main|Spoken languages of Canada|Official bilingualism in Canada|Canadian English|Canadian French}}
+[[File:Ville de Québec01.jpg|thumb|left|A large neo-Gothic building sits on a hill, overlooking a large group of smaller modern buildings|The population of [[Quebec City]], [[Quebec]] is mainly [[French-speaking Quebecer|French-speaking]], with a small [[English-speaking Quebecer|English-speaking]] population.]]
+
+Canada's two official languages are [[English language|English]] and [[French language|French]]. [[Official bilingualism in Canada|Official bilingualism]] is defined in the [[Canadian Charter of Rights and Freedoms]], the [[Official Languages Act (Canada)|Official Languages Act]], and ''Official Language Regulations''; it is applied by the [[Office of the Commissioner of Official Languages|Commissioner of Official Languages]]. English and French have equal status in federal courts, Parliament, and in all federal institutions. Citizens have the right, where there is sufficient demand, to receive federal government services in either English or French, and official-language minorities are guaranteed their own schools in all provinces and territories.<ref>{{cite web|title=Federal Legislation on Official Languages|publisher=Office of the Commissioner of Official Languages|date=2007|url=http://www.parl.gc.ca/information/library/prbpubs/938-e.htm|accessdate=2009-10-20}}</ref>
+
+English and French are the [[first language|mother tongues]] of 59.7% and 23.2% of the population respectively,<ref name="statcan_language">{{cite web |author=Statistics Canada |authorlink=Statistics Canada |publisher= Statistics Canada |url=http://www40.statcan.ca/l01/cst01/demo11a.htm |title=Population by mother tongue, by province and territory|date=2005-01-27|accessdate=2006-05-14}}</ref> and the languages most spoken at home by 68.3% and 22.3% of the population respectively.<ref name="home_language_2001">{{cite web| url=http://www12.statcan.ca/english/census01/products/standard/themes/RetrieveProductTable.cfm?Temporal=2001&PID=55535&APATH=3&GID=431515&METH=1&PTYPE=55440&THEME=41&FOCUS=0&AID=0&PLACENAME=0&PROVINCE=0&SEARCH=0&GC=0&GK=0&VID=0&VNAMEE=&VNAMEF=&FL=0&RL=0&FREE=0|title= First Official Language Spoken (7) and Sex (3) for Population, for Canada, Provinces, Territories and Census Metropolitan Areas 1 , 2001 Census&nbsp;– 20% Sample Data| work=[[Statistics Canada]], 2001 Census of Population| accessdate=2007-03-23}}</ref> 98.5% of Canadians speak English or French (67.5% speak English only, 13.3% speak French only, and 17.7% speak both).<ref name="statcan_language2">{{cite web |author=Statistics Canada |authorlink=Statistics Canada |publisher= Statistics Canada |url=http://www40.statcan.ca/l01/cst01/demo15-eng.htm |title=Population by knowledge of official language, by province and territory|date=2005-01-27|accessdate=2009-10-20}}</ref> English and French Official Language Communities, defined by First Official Language Spoken, constitute 73.0% and 23.6% of the population respectively.<ref name="statcan_language2"/>
+
+Although more than 85% of French-speaking Canadians live in Quebec, there are substantial Francophone populations in [[Franco-Ontarian|Ontario]], [[Franco-Albertan|Alberta]], and southern [[Franco-Manitoban|Manitoba]].<ref name="lachapelle">{{cite web|url=http://www.statcan.gc.ca/about-apercu/diversity-franco-diversite-eng.htm|title=The Diversity of the Canadian Francophonie|last=Lachapelle|first=R|date=March 2009|publisher=Statistics Canada|accessdate=2009-09-24}}</ref> New Brunswick, the only officially bilingual province, has an [[Acadians|Acadian]] population in the northern and southeastern parts of that province, constituting 33% of the population.<ref name="acadia">{{cite web|url=http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0009091|title=Acadia, Contemporary|date=2009|publisher=Historica-Dominion|accessdate=2009-09-24}}</ref> There are also clusters of Acadians in southwestern Nova Scotia, on [[Cape Breton Island]], and through central and western [[Prince Edward Island]]. Ontario has the largest French-speaking population outside Quebec. The [[Charter of the French Language]] makes French the official language in Quebec.<ref>{{cite web|title=The Charter of the French language|publisher=Gouvernement du Québe|date= 2002|url=http://www.oqlf.gouv.qc.ca/english/charter/preamble.html|accessdate=2009-10-29}}</ref>
+
+Other provinces have no official languages as such, but French is used as a language of instruction, in courts, and for other government services in addition to English. Manitoba, Ontario, and Quebec allow for both English and French to be spoken in the provincial legislatures, and laws are enacted in both languages. In Ontario, French has some legal status but is not fully co-official.<ref name="flsc-ON">{{cite web|url=http://www.flsc.gov.on.ca/en/node/4|title=French Language Services Act|date=2008|publisher=French Language Services Commissioner|accessdate=2009-09-24}}</ref> Several aboriginal languages have official status in the Northwest Territories.<ref name="lang-NWT">{{cite web|url=http://www.gov.nt.ca/langcom/english/general-information/what-is-official-lang-act.html|title=General Information|publisher=Languages Commissioner of the NWT|accessdate=2009-09-24}}</ref> [[Inuktitut]] is the majority language in Nunavut, and one of three official languages in the territory.<ref name="lang-NV">{{cite web|url=http://langcom.nu.ca/languages/en_inuktitut.html|title=Inuktitut / Inuinnaqtun |date=2004|publisher=Office of the Languages Commissioner of Nunavut|accessdate=2009-09-24}}</ref><ref name="lang-NV2">{{cite web|url=http://www.langcom.nu.ca/rights/en_yourrights.html|title=Your Language Rights in Nunavut|date=2004|publisher=Office of the Languages Commissioner of Nunavut|accessdate=2009-09-24}}</ref>
+
+Languages other than the two official languages are significant in Canada, with over six million people listing one as a first language. Some of the most common non-official first languages include [[Chinese language|Chinese]] (mainly [[Yue Chinese|Cantonese]]; 1,012,065 first-language speakers), [[Italian language|Italian]] (455,040), [[German language|German]] (450,570), [[Punjabi language|Punjabi]] (367,505) and [[Spanish language|Spanish]] (345,345).<ref name="statcan language"/>
+
+==International rankings==
+{| class="wikitable"|}
+|- "
+! Organization
+! Survey
+! Ranking
+|-
+| [[State of World Liberty Index|State of World Liberty Project]]
+| [[State of World Liberty Index]]<ref>{{cite web |url=http://www.stateofworldliberty.org/report/rankings.html |title=The 2006 State of World Liberty Index |publisher=www.stateofworldliberty.org |accessdate=2007-12-07}}</ref>
+| 3 out of 159
+|- style="background:#efefef; color:black"
+| [[United Nations Development Programme]]
+| [[Human Development Index]]
+| 4 out of 180
+|-
+| [[A.T. Kearney]]/[[Foreign Policy|''Foreign Policy'' magazine]]
+| [http://globalization.kof.ethz.ch/ Globalization Index 2007]
+| 8 out of 72
+|- style="background:#efefef; color:black"
+| [[International Institute for Management Development|IMD International]]
+| [http://www.atkearney.com/index.php/Publications/globalization-index.html World Competitiveness Yearbook 2008]
+| 8 out of 55
+|-
+| [[World Bank Group|World Bank]]
+| [http://www.doingbusiness.org/ExploreEconomies/?economyid=35 Ease of Doing Business 2009]
+| 8 out of 181
+|- style="background:#efefef; color:black"
+| ''[[The Economist]]''
+| [http://www.economist.com/theworldin/international/displayStory.cfm?story_id=3372495&d=2005 The World in 2005 – Worldwide quality-of-life index, 2005]
+| 14 out of 111
+|-
+| [[Yale University]]/[[Columbia University]]
+| [http://www.yale.edu/esi/ESI2005_Main_Report.pdf Environmental Sustainability Index, 2005 (PDF)]
+| 6 out of 146
+|- style="background:#efefef; color:black"
+| [[Reporters Without Borders]]
+| [http://www.rsf.org Press Freedom Index 2008]
+| 13 out of 173
+|-
+| [[Transparency International]]
+| [http://www.transparency.org/policy_research/surveys_indices/cpi/2008 Corruption Perceptions Index 2008]
+| 9 out of 180
+|- style="background:#efefef; color:black"
+| [[Heritage Foundation]]/''[[The Wall Street Journal]]''
+| [http://www.cubasindical.org/docs/Indexofeconomicfreedom2008.pdf Index of Economic Freedom, 2008 (PDF)]
+| 7 out of 157
+|-
+| ''The Economist''
+| [[Global Peace Index]]
+| 11 out of 140
+|- style="background:#efefef; color:black"
+| [[Fund for Peace]]/[http://www.foreignpolicy.com/ ForeignPolicy.com ]
+| [http://www.fundforpeace.org/web/index.php?option=com_content&task=view&id=229&Itemid=366 Failed States Index, 2007]
+| 168 out of 177<ref>larger number indicates [[sustainability]]</ref>
+|-
+| [[World Economic Forum]]
+| [http://www.weforum.org/en/initiatives/gcp/Global%20Competitiveness%20Report/index.htm Soundness of banks (2008-2009)]
+| 1 out of 134<ref name=Canada>[http://www.canada.com/topics/news/story.html?id=c3a67e3b-1aef-4daf-a768-a54eedb80185 Canada's banks ranked the soundest], [[World Economic Forum]], In the 2009 report Canada is ranked 1st. Retrieved October 10, 2008.</ref>
+|- style="background:#efefef; color:black"
+| ''The Economist''
+| [[Democracy Index]]
+| 11 out of 167
+|}
+
+==See also==
+{{portal|Canada|Flag of Canada.svg}}
+* [[Outline of Canada]]
+* [[Index of Canada-related articles]]
+<!--Please place links to all topics directly related to Canada in [[Index of Canada-related articles]].-->
+
+==References==
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <references /> tags-->
+{{reflist|colwidth=30em}}
+<!-- No longer referenced: #{{note|WSM}} [http://www.worldstatesmen.org/Canada.html Canada from WorldStatesmen]-->
+<!-- No longer referenced: #{{note|WWT}} [http://people-press.org/reports/display.php3?ReportID=165 What the World Thinks]-->
+
+==Further reading==
+<!-- Please use the following templates when adding references:
+* {{cite book
+|first = | last =
+|authorlink =
+|title =
+|edition =
+|publisher =
+|location =
+|year =
+|id =
+|url =
+ }}
+* {{cite journal
+|first = | last =
+|authorlink =
+|coauthors =
+|year =
+|month =
+|title = '''Required'''
+|journal =
+|volume =
+|issue =
+|pages =
+|doi =
+|id =
+|url =
+|accessdate =
+ }}
+-->
+<div class="references-small">
+{{col-begin}}
+{{col-break|width=50%}}
+
+;Origin and history of the name
+* Maura, Juan Francisco, “Nuevas aportaciones al estudio de la toponimia ibérica en la América Septentrional en el siglo XVI”. ''Bulletin of Spanish Studies'' 86. 5 (2009): 577–603.
+* {{cite book
+|title = Naming Canada: Stories of Canadian Place Names
+|edition = 2nd
+|first = Alan | last = Rayburn
+|publisher = University of Toronto Press
+|location = Toronto
+|year = 2001
+|isbn = 0-8020-8293-9
+ }}
+
+;History
+* {{cite book
+|title = History of Canada Since 1867
+|first = Robert | last = Bothwell
+|publisher = Michigan State University Press
+|year = 1996
+|location = East Lansing, MI
+|isbn = 0-87013-399-3
+ }}
+* {{cite book
+|title = History of the Canadian Peoples
+|first = J. | last = Bumsted
+|publisher = Oxford University Press
+|location = Oxford, UK
+|year = 2004
+|isbn = 0-19-541688-0
+ }}
+* {{cite book
+|title = Canada: A National History
+|first = Margarat | last= Conrad
+|coauthors= Finkel, Alvin
+|publisher = Longman
+|location = Toronto
+|year = 2003
+|isbn = 0-201-73060-X
+ }}
+* {{cite book
+|title = A Short History of Canada
+|first = Desmond | last= Morton
+|authorlink = Desmond Morton (historian)
+|publisher = M & S
+|location = Toronto
+|year = 2001
+|edition = 6th
+|isbn = 0-7710-6509-4
+ }}
+* {{cite book
+|title = History of Canada Before 1867
+|first = Gordon T. | last = Stewart
+|publisher = Michigan State University Press
+|year = 1996
+|location = East Lansing, MI
+|isbn = 0-87013-398-5
+ }}
+
+;Government and law
+* {{cite book
+ |author=Bickerton, James & Gagnon, Alain (eds.)
+ |title=Canadian Politics
+ |publisher=Broadview Press
+ |edition=4th
+ |location=Orchard Park, NY
+ |isbn=1-55111-595-6
+ |year=2004
+ }}
+* {{cite book
+ |first=Stephen | last=Brooks
+ |title=Canadian Democracy: An Introduction
+ |publisher=Oxford University Press Canada
+ |edition=3rd
+ |location=Don Mills, ON
+ |isbn=0-19-541503-5
+ |year=2000
+ }}
+* {{cite book
+|first = Eugene A. | last = Forsey
+|authorlink = Eugene Forsey
+|title = How Canadians Govern Themselves
+|edition = 6th
+|publisher = Canada
+|location = Ottawa
+|year = 2005
+|isbn = 0-662-39689-8
+|accessdate=2009-10-20
+|url = http://www.parl.gc.ca/information/library/idb/forsey/PDFs/How_Canadians_Govern_Themselves-6ed.pdf
+ |format=PDF}}
+* {{cite book
+|title = Secession and international law: conflict avoidance&nbsp;– regional appraisals
+|first = Julie | last = Dahlitz
+|publisher = T.M.C. Asser Press
+|year = 2003
+|location = The Hague
+|isbn = 90-6704-142-4
+ }}
+
+;Foreign relations and military
+* {{cite book
+|first = James| last = Eayrs
+|title = In Defence of Canada
+|publisher = University of Toronto Press
+|location = Toronto
+|year = 1980
+|isbn = 0-8020-2345-2
+ }}
+* {{cite book
+|first = Annette Baker| last = Fox
+|authorlink =
+|title = Canada in World Affairs
+|edition =
+|publisher = Michigan State University Press
+|location = East Lansing
+|year = 1996
+|isbn = 0-87013-391-8
+|url =
+ }}
+* {{cite book
+|first = Desmond | last = Morton
+|coauthors = Granatstein, J.L.
+|title = Marching to Armageddon: Canadians and the Great War 1914–1919
+|edition =
+|publisher = Lester & Orpen Dennys
+|location = Toronto
+|year = 1989
+|isbn = 0-88619-209-9
+|url =
+ }}
+* {{cite book
+|first = Desmond | last = Morton
+|title = A Military History of Canada
+|edition =
+|publisher = McClelland & Stewart
+|location = Toronto
+|year = 1999
+|isbn = 0-7710-6514-0
+|url =
+ }}
+
+{{col-break|width=50%}}
+
+;Geography and climate
+* {{cite book
+|last = Natural Resources Canada
+|title = National Atlas of Canada
+|publisher = Information Canada
+|location = Ottawa
+|year = 2005
+|isbn = 0-7705-1198-8
+ }}
+* {{cite book
+|title = Canadian Oxford World Atlas
+|author = Stanford, Quentin H. (ed.)
+|edition = 5th
+|location = Toronto
+|publisher = Oxford University Press (Canada)
+|isbn = 0-19-541897-2
+|year = 2003
+ }}
+
+;Economy
+* {{cite book
+ |author=Central Intelligence Agency
+ |authorlink=Central Intelligence Agency
+ |title=The World Factbook
+ |publisher=National Foreign Assessment Center
+ |location=Washington, DC
+ |id=ISSN 1553-8133
+ |year=2005
+ |url=https://www.cia.gov/library/publications/the-world-factbook/
+ |isbn=0585012865
+|accessdate=2009-10-20
+ }}
+* {{cite book
+ |first=Iain | last=Wallace
+ |title=A Geography of the Canadian Economy
+ |publisher=Oxford University Press
+ |location=Don Mills, ON
+ |isbn=0-19-540773-3
+ |year=2002
+ }}
+* {{cite book
+ |first = William L. | last=Marr
+ |coauthor= Paterson, Donald G.
+ |title= Canada: An Economic History
+ |publisher= Gage
+ |location=Toronto
+ |isbn = 0-7715-5684-5
+ |year=1980
+ }}
+* {{cite book
+ |first = Mary Quayle | last=Innis
+ |title=An Economic History of Canada
+ |publisher=Ryerson Press
+ |location=Toronto
+ |id = ASIN B0007JFHBQ
+ |year = 1943
+ |isbn = 0802040292
+ }}
+
+;Demography and statistics
+* {{cite book
+|last = Statistics Canada
+|title = Canada Year Book
+|publisher = Queen of Canada
+|location = Ottawa
+|year = 2001
+|isbn = 0-660-18360-9
+ }}
+* {{cite book
+|title = Historical statistics of Canada
+|author = Leacy, F. H. (ed.)
+|publisher = Statistics Canada
+|location = Ottawa
+|id =
+|url = http://www.statcan.gc.ca/pub/11-516-x/11-516-x1983001-eng.htm
+|year = 1983
+|accessdate=2009-10-20
+ }}
+
+;Language
+* {{cite web
+|author=Office of the Commissioner of Official Languages
+|authorlink= Commissioner of Official Languages
+|publisher= Office of the Commissioner of Official Languages
+|url=http://www.ocol-clo.gc.ca/docs/e/2004_05_e.pdf
+|title=Annual Report - Special Edition
+|date=2005
+|accessdate=2009-10-19
+ }}
+* {{cite web
+|author=Statistics Canada
+|authorlink=Statistics Canada
+|publisher= Statistics Canada
+|url=http://www40.statcan.ca/l01/cst01/demo11a.htm
+|title=Population by mother tongue, by province and territory
+|date=2005-01-27
+|accessdate=2006-05-14
+ }}
+* {{cite web
+|author=Statistics Canada
+|publisher= Statistics Canada
+|url=http://www40.statcan.gc.ca/l01/cst01/demo15-eng.htm
+|title=Population by knowledge of official language, by province and territory
+|date=2005-01-27
+|accessdate=2009-10-19}}
+
+;Culture
+* {{cite web
+ |first=John D. |last=Blackwell
+ |url=http://www.iccs-ciec.ca/blackwell.html#culture
+ |title=Culture High and Low
+ |year=2005
+ |accessdate=2006-03-15
+ |publisher=International Council for Canadian Studies World Wide Web Service
+}}
+* {{cite book
+|author=Canadian Heritage
+|title=Symbols of Canada
+|year=2002
+|location=Ottawa, ON
+|isbn=0-660-18615-2
+|publisher=Canadian Government Publishing
+ }} Similar publication online [http://www.pch.gc.ca/progs/cpsc-ccsp/sc-cs/index_e.cfm here].
+* {{cite book
+ |first=Philip |last=Resnick
+ |title=The European Roots Of Canadian Identity
+ |publisher=Broadview Press
+ |location=Peterborough, Ont.
+ |isbn=1-55111-705-3
+ |year=2005
+ }}
+{{col-end}}
+</div>
+
+==External links==
+{{Spoken Wikipedia|En-Canada.ogg|2008-01-04}}
+{{Sisterlinks|Canada}}
+; Government
+* [http://atlas.gc.ca/site/index.html Official Government of Canada online Atlas of Canada]
+* [http://www.gc.ca Official website of the Government of Canada]
+* [http://www.gg.ca Official website of the Governor General of Canada]
+* [http://www.pm.gc.ca Official website of the Prime Minister of Canada]
+* [http://www.international.gc.ca/canada_un/new_york/ Permanent Mission of Canada to the United Nations]
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-c/canada.html Chief of State and Cabinet Members]
+
+;Crown corporations
+* [http://www.canadapost.ca/ Canada Post]
+* [http://www.cbc.ca/ Canadian Broadcasting Corporation]
+
+;Other
+* {{CIA World Factbook link|ca|Canada}}
+* [http://ucblibraries.colorado.edu/govpubs/for/canada.htm Canada] at ''UCB Libraries GovPubs''
+* {{dmoz|Regional/North_America/Canada}}
+* [http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0001216 Canada from ''The Canadian Encyclopedia'']
+* [http://www.iccs-ciec.ca/blackwell.html Canadian Studies: A Guide to the Sources]
+* {{wikitravel}}
+* [http://tonto.eia.doe.gov/country/country_energy_data.cfm?fips=CA Energy Information Administration] – Official Energy Statistics for Canada from the U.S. Government
+* [http://statcan.ca/english/edu/clock/population.htm Statistics Canada with Canada's population clock]
+* [http://www.canadiangeographic.ca/atlas/ The Canadian Atlas Online]
+<br />
+{{Navboxes
+|title=Articles Related to Canada
+|list1={{Canada topics|state=expanded}}
+{{Provinces and territories of Canada}}
+{{Template group
+|title = [[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+|list =
+'''[[Geographic coordinate system|Lat. <small>and</small> Long.]] {{coord|45|24|N|75|40|W|display=inline}} <font color="darkblue">(Ottawa)</font>'''
+{{Countries of North America}}
+}}
+{{Template group
+|title = International membership, relationships and history
+|list =
+{{North Atlantic Treaty Organisation (NATO)}}
+{{Commonwealth of Nations}}
+{{Territories of the British Empire}}
+{{G8 nations}}
+{{Monarchies|state=collapsed}}
+{{La Francophonie|state=collapsed}}
+{{APEC|state=collapsed}}
+{{NAFTA|state=collapsed}}
+}}
+{{National personifications}}
+{{English dialects by continent}}
+{{English official language clickable map}}
+}}
+
+<!--Please do not remove the space. Please do not move this article from its position at the top of its own category, which is the standard location for a lead article.-->
+
+{{featured article}}
+
+[[Category:Canada| ]]
+[[Category:Northern American countries]]
+[[Category:Countries bordering the Atlantic Ocean]]
+[[Category:Countries bordering the Pacific Ocean]]
+[[Category:Countries bordering the Arctic Ocean]]
+[[Category:Constitutional monarchies]]
+[[Category:English-speaking countries and territories]]
+[[Category:Former British colonies]]
+[[Category:Federal countries]]
+[[Category:French-speaking countries]]
+[[Category:G8 nations]]
+[[Category:G20 nations]]
+[[Category:Liberal democracies]]
+[[Category:Members of the Commonwealth of Nations]]
+[[Category:Member states of La Francophonie]]
+[[Category:States and territories established in 1867]]
+
+{{Link FA|af}}
+{{Link FA|de}}
+{{Link FA|eo}}
+{{Link FA|fi}}
+{{Link FA|gv}}
+{{Link FA|mk}}
+{{Link FA|sr}}
+
+[[ace:Kanada]]
+[[af:Kanada]]
+[[als:Kanada]]
+[[am:ካናዳ]]
+[[ang:Canada]]
+[[ar:كندا]]
+[[an:Canadá]]
+[[arc:ܩܢܕܐ]]
+[[roa-rup:Canada]]
+[[frp:Canada]]
+[[ast:Canadá]]
+[[gn:Kanatã]]
+[[az:Kanada]]
+[[bm:Kanada]]
+[[bn:কানাডা]]
+[[zh-min-nan:Canada]]
+[[ba:Канада]]
+[[be:Канада]]
+[[be-x-old:Канада]]
+[[bcl:Kanada]]
+[[bi:Kanada]]
+[[bar:Kanada]]
+[[bo:ཁ་ན་ཌ།]]
+[[bs:Kanada]]
+[[br:Kanada]]
+[[bg:Канада]]
+[[ca:Canadà]]
+[[cv:Канада]]
+[[ceb:Canada]]
+[[cs:Kanada]]
+[[co:Canadà]]
+[[cy:Canada]]
+[[da:Canada]]
+[[pdc:Kanadaa]]
+[[de:Kanada]]
+[[dv:ކެނެޑާ]]
+[[nv:Deetéél Bikéyah]]
+[[dsb:Kanada]]
+[[dz:ཀེ་ན་ཌ་]]
+[[et:Kanada]]
+[[el:Καναδάς]]
+[[es:Canadá]]
+[[eo:Kanado]]
+[[ext:Canadá]]
+[[eu:Kanada]]
+[[ee:Canada]]
+[[fa:کانادا]]
+[[hif:Canada]]
+[[fo:Kanada]]
+[[fr:Canada]]
+[[fy:Kanada]]
+[[ga:Ceanada]]
+[[gv:Yn Chanadey]]
+[[gd:Canada]]
+[[gl:Canadá - Canada]]
+[[gan:加拿大]]
+[[hak:Kâ-nâ-thai]]
+[[ko:캐나다]]
+[[haw:Kanakā]]
+[[hy:Կանադա]]
+[[hi:कनाडा]]
+[[hsb:Kanada]]
+[[hr:Kanada]]
+[[io:Kanada]]
+[[ig:Canada]]
+[[ilo:Canada]]
+[[bpy:কানাডা]]
+[[id:Kanada]]
+[[ia:Canada]]
+[[ie:Canada]]
+[[iu:ᑲᓇᑕ/kanata]]
+[[ik:Canada]]
+[[os:Канадæ]]
+[[zu:IKhanada]]
+[[is:Kanada]]
+[[it:Canada]]
+[[he:קנדה]]
+[[jv:Kanada]]
+[[kl:Canada]]
+[[kn:ಕೆನಡಾ]]
+[[pam:Canada]]
+[[ka:კანადა]]
+[[csb:Kanada]]
+[[kk:Канада]]
+[[kw:Kanada]]
+[[ky:Канада]]
+[[sw:Kanada]]
+[[kv:Канада]]
+[[ht:Kanada]]
+[[ku:Kanada]]
+[[la:Canada]]
+[[lv:Kanāda]]
+[[lb:Kanada]]
+[[lt:Kanada]]
+[[lij:Canada]]
+[[li:Canada]]
+[[ln:Kanadá]]
+[[jbo:kadnygu'e]]
+[[lmo:Canada]]
+[[hu:Kanada]]
+[[mk:Канада]]
+[[mg:Kanada]]
+[[ml:കാനഡ]]
+[[mr:कॅनडा]]
+[[arz:كندا]]
+[[mzn:کانادا]]
+[[ms:Kanada]]
+[[mn:Канад]]
+[[my:ကနေဒါနိုင်ငံ]]
+[[nah:Canada]]
+[[na:Canada]]
+[[nl:Canada]]
+[[nds-nl:Kannede]]
+[[cr:ᑳᓇᑕ]]
+[[ne:क्यानाडा]]
+[[ja:カナダ]]
+[[nap:Canadà]]
+[[pih:Kaneda]]
+[[no:Canada]]
+[[nn:Canada]]
+[[nrm:Cannada]]
+[[nov:Kanada]]
+[[oc:Canadà]]
+[[om:Canada]]
+[[uz:Kanada]]
+[[pa:ਕੈਨੇਡਾ]]
+[[pap:Canada]]
+[[ps:کاناډا]]
+[[pms:Canadà]]
+[[tpi:Kanada]]
+[[nds:Kanada]]
+[[pl:Kanada]]
+[[pt:Canadá]]
+[[crh:Kanada]]
+[[ty:Tanata]]
+[[ro:Canada]]
+[[rmy:Kanada]]
+[[qu:Kanada]]
+[[ru:Канада]]
+[[sah:Канаада]]
+[[se:Kanáda]]
+[[sa:केनडा]]
+[[sc:Canada]]
+[[sco:Canadae]]
+[[stq:Kanada]]
+[[sq:Kanadaja]]
+[[scn:Canadà]]
+[[simple:Canada]]
+[[sk:Kanada]]
+[[cu:Канада]]
+[[sl:Kanada]]
+[[szl:Kanada]]
+[[so:Canada]]
+[[sr:Канада]]
+[[sh:Kanada]]
+[[fi:Kanada]]
+[[sv:Kanada]]
+[[tl:Kanada]]
+[[ta:கனடா]]
+[[kab:Kanada]]
+[[tt:Канада]]
+[[te:కెనడా]]
+[[tet:Kanadá]]
+[[th:ประเทศแคนาดา]]
+[[tg:Канада]]
+[[to:Kānata]]
+[[tr:Kanada]]
+[[uk:Канада]]
+[[ur:کینیڈا]]
+[[ug:Kanada]]
+[[vec:Canada]]
+[[vi:Canada]]
+[[vo:Kanadän]]
+[[fiu-vro:Kanada]]
+[[wa:Canada (payis)]]
+[[zh-classical:加拿大]]
+[[vls:Canada]]
+[[war:Kanada]]
+[[wo:Kanadaa]]
+[[wuu:加拿大]]
+[[ts:Canada]]
+[[yi:קאנאדע]]
+[[yo:Kánádà]]
+[[zh-yue:加拿大]]
+[[diq:Kanada]]
+[[bat-smg:Kanada]]
+[[zh:加拿大]]

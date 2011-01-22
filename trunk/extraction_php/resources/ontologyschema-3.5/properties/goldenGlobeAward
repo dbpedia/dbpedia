@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = Golden Globe Award
+| rdfs:domain = Artist
+| rdfs:range = Award
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = honours
+|rdfs:domain = SoccerClub
+|rdfs:range = owl:Thing
+}}

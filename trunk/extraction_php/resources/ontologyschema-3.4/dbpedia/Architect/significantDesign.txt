@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = significant design
+|rdfs:domain = Architect
+|rdfs:range = owl:Thing
+}}

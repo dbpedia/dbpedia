@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = photographer
+|rdfs:domain = TelevisionEpisode
+|rdfs:range = Person
+}}

@@ -1,0 +1,9 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Grape
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = origin | ontologyProperty = Grape/origin }}
+	{{ DBpediaPropertyMapping | templateProperty = regions | ontologyProperty = Grape/wineRegion }}
+	{{ DBpediaPropertyMapping | templateProperty = notable_wines | ontologyProperty = Grape/notableWine }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = species | ontologyProperty = Species/species }}
+}}

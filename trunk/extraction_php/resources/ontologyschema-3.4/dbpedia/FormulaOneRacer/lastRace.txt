@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = last race
+|rdfs:domain = FormulaOneRacer
+|rdfs:range = GrandPrix
+}}

@@ -1,0 +1,218 @@
+{{Infobox Automobile generation
+|name          = Volkswagen Golf Mk6
+|image         = [[File:VW Golf VI 20090905 front-1.JPG|250px]]<br>''Volkswagen Golf Mk6''
+|manufacturer  = [[Volkswagen]]
+|aka           = Volkswagen Golf VI
+|production    = 2008 – present
+|assembly      = [[Wolfsburg]], [[Germany]]<br>[[Changchun]], [[China]]
+|predecessor   = [[Volkswagen Golf Mk5]]
+|class         = [[Compact car|Compact]]<br>[[Small family car]]
+|body_style    = 3-door [[hatchback]]<br>5-door hatchback<br>5-door [[station wagon|estate/wagon]]<br>2-door [[convertible]]
+|layout        = [[front-engine design|Front engine]],<br>[[front-wheel drive]],<br>[[4motion]] [[four-wheel drive]]
+|platform      = [[Volkswagen Group A platform#A5|Volkswagen Group A5 (PQ35) platform]]
+|engine        = 1.2 [[straight-4|I4]] [[multi-valve|8v]] TSI<br>1.4L I4 16v<br>1.4L I4 16v TSI ([[Turbocharged]] and [[Twincharged]])<br>1.6L I4 8v<br>1.6L I4 16v [[Turbocharged Direct Injection|TDI]]<br>2.0L I4 16v TDI<br>2.5L [[Straight-5|I5]]
+|transmission  = 6-speed [[manual transmission|manual]],<br>6-speed [[Direct Shift Gearbox|DSG]],<br>7-speed DSG
+|wheelbase     = {{convert|2578|mm|in|1|abbr=on|lk=on}}
+|length        = {{convert|4199|mm|in|1|abbr=on}}<br>GTI: {{convert|4213|mm|in|1|abbr=on}}
+|width         = {{convert|1779|mm|in|1|abbr=on}}
+|height        = {{convert|1479|mm|in|1|abbr=on}}<br>GTI: {{convert|1469|mm|in|1|abbr=on}}
+|weight        =
+|fuel_capacity = {{convert|55|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi A3]] Mk2,<br>[[Audi TT]] Mk2,<br>[[Volkswagen Golf Mk5]],<br>[[Volkswagen Touran]],<br>[[Volkswagen Jetta]],<br>[[Volkswagen Golf Plus]],<br>[[Volkswagen Eos]],<br>[[Volkswagen Passat]],<br>[[Volkswagen Tiguan]],<br>[[SEAT León]] Mk2,<br>[[SEAT Toledo]] Mk3,<br>[[SEAT Altea]],<br>[[Škoda Octavia]] Mk2
+|sp            = uk
+}}
+
+The '''[[Volkswagen Golf]] Mk6''' (or VW ''Typ 5K'') is the successor to the [[Volkswagen Golf Mk5|Mk5]], and was unveiled at the [[Paris Auto Show]] in October 2008.  [[Volkswagen]] released pictures and information on 6 August 2008, prior to the official unveiling.  The vehicle was released to the [[Europe]]an market in the winter of 2008.  Major investments have been made in production efficiency, with a claimed productivity improvement at launch of nearly 20% in comparison with the previous model, and further gains planned for the next twelve months.<ref name=AutoMotoruSport2008 >{{cite book |last= |first= |authorlink= |coauthors=Alexander Bloch u. Hans-Dieter Seufert (Bilder) |title= Auto Motor und Sport Heft 20 Seite 26|year= 2008 |publisher= |location= Stuttgart |id=}}</ref>
+
+==Design==
+Like its predecessor, the Mk6 Golf is based on the [[Volkswagen Group A platform#A5|Volkswagen Group A5 (PQ35) platform]].  Because the car's architecture and suspension is identical to its predecessor, including the door frames, side glasshouse, roof and wheelbase, there have been questions as to whether the Mk6 is an all-new car, or just a Mk5 facelift.
+
+==Specifications==
+===Equipment===
+Improvements in equipment level on the domestic market Golfs include, for the first time in a Golf, the inclusion of air conditioning as standard.<ref>(2008) Auto Motor und Sport Heft 20 Seite 26</ref>
+
+===Engines===
+{|class="wikitable" style="text-align: center; font-size: 88%;"
+|-
+!colspan=6|Petrol engine
+|-
+! Model !! Engine type/code !! Power@rpm !! Torque@rpm !! 0-100&nbsp;km/h acceleration !! Top speed
+|-
+|'''1.4'''||{{convert|1390|cc|L cuin|0|abbr=on}} I4 (CGGA)||{{convert|80|PS|kW hp|0|abbr=on}} @5000||{{convert|132|Nm|lbft|0|abbr=on}} @3800||13.9s||{{convert|172|km/h|mph|0|abbr=on}}
+|-
+|'''1.6'''||{{convert|1595|cc|L cuin|0|abbr=on}} I4 (BSE/BSF/CCSA)||{{convert|102|PS|kW hp|0|abbr=on}} @5600||{{convert|148|Nm|lbft|0|abbr=on}} @3800||11.3s||{{convert|188|km/h|mph|0|abbr=on}}
+|-
+|'''1.2 TSI'''||{{convert|1197|cc|L cuin|0|abbr=on}} I4 ||{{convert|105|PS|kW hp|0|abbr=on}} @5000||{{convert|175|Nm|lbft|0|abbr=on}} @1500–3500||10.6s||
+{{convert|190|km/h|mph|0|abbr=on}}
+|-
+|'''1.4 TSI'''||{{convert|1390|cc|L cuin|0|abbr=on}} I4 (CAXA)||{{convert|122|PS|kW hp|0|abbr=on}} @5000||{{convert|200|Nm|lbft|0|abbr=on}} @1500–4000||9.5s||{{convert|200|km/h|mph|0|abbr=on}}
+|-
+|'''1.4 TSI'''||{{convert|1390|cc|L cuin|0|abbr=on}} I4 (CAVD)||{{convert|160|PS|kW hp|0|abbr=on}} @5800||{{convert|240|Nm|lbft|0|abbr=on}} @1500–4500||8.0s||{{convert|220|km/h|mph|0|abbr=on}}
+|-
+|'''1.8 TSI'''||{{convert|1798|cc|L cuin|0|abbr=on}} I4 (CDAA)||{{convert|160|PS|kW hp|0|abbr=on}} @4500-6200||{{convert|250|Nm|lbft|0|abbr=on}} @1500-4500||8.0s||{{convert|220|km/h|mph|0|abbr=on}}
+|-
+|'''GTI'''||{{convert|1984|cc|L cuin|0|abbr=on}} I4 (CCZB)||{{convert|211|PS|kW hp|0|abbr=on}} @5300-6200||{{convert|280|Nm|lbft|0|abbr=on}} @1700-5200||6.9s||{{convert|240|km/h|mph|0|abbr=on}}
+|-
+|'''2.5'''||{{convert|2480|cc|L cuin|0|abbr=on}} I5 (BGQ)||{{convert|170|PS|kW hp|0|abbr=on}} @5700||{{convert|240|Nm|lbft|0|abbr=on}} @4250||7.8s||{{convert|201|km/h|mph|0|abbr=on}}
+|-
+|'''R'''||{{convert|1984|cc|L cuin|0|abbr=on}} I4 ||{{convert|270|PS|kW hp|0|abbr=on}} @6000||{{convert|350|Nm|lbft|0|abbr=on}} @2500-5000||5.7s||{{convert|250|km/h|mph|0|abbr=on}}
+|-
+!colspan=6|Liquefied petroleum gas engine
+|-
+! Model !! Engine type/code !! Power@rpm !! Torque@rpm !! 0-100&nbsp;km/h acceleration !! Top speed
+|-
+|'''1.6 LPG'''||{{convert|1595|cc|L cuin|0|abbr=on}} I4 (CHGA)||{{convert|98|PS|kW hp|0|abbr=on}} (LPG)<br>{{convert|102|PS|kW hp|0|abbr=on}} @5600||{{convert|144|Nm|lbft|0|abbr=on}} (LPG)<br>{{convert|148|Nm|lbft|0|abbr=on}} @3800||11.9s/12.1s (LPG)||{{convert|169|km/h|mph|0|abbr=on}}<br>{{convert|149|km/h|mph|0|abbr=on}} (LPG)
+|-
+!colspan=6|Diesel engine
+|-
+! Model !! Engine type/code !! Power@rpm !! Torque@rpm !! 0-100&nbsp;km/h acceleration !! Top speed
+|-
+|'''1.6 TDI BlueMotion'''||{{convert|1598|cc|L cuin|0|abbr=on}} I4 turbo (CAYA)||{{convert|105|PS|kW hp|0|abbr=on}} @4100||{{convert|250|Nm|lbft|0|abbr=on}} @2000||11.3s||{{convert|191|km/h|mph|0|abbr=on}}
+|-
+|'''2.0 TDI'''||{{convert|1968|cc|L cuin|0|abbr=on}} I4 turbo (CBDC)||{{convert|110|PS|kW hp|0|abbr=on}} @4200||{{convert|250|Nm|lbft|0|abbr=on}} @1500–2500||10.7s||{{convert|193|km/h|mph|0|abbr=on}}
+|-
+|'''2.0 TDI'''||{{convert|1968|cc|L cuin|0|abbr=on}} I4 turbo (CBAA/CBAB)||{{convert|140|PS|kW hp|0|abbr=on}} @4200||{{convert|320|Nm|lbft|0|abbr=on}} @1750–2500||9.3s||{{convert|209|km/h|mph|0|abbr=on}}
+|-
+|'''2.0 TDI 4Motion'''||{{convert|1968|cc|L cuin|0|abbr=on}} I4 turbo (CBAA/CBAB)||{{convert|140|PS|kW hp|0|abbr=on}} @4200||{{convert|320|Nm|lbft|0|abbr=on}} @1750–2500||9.4s||{{convert|206|km/h|mph|0|abbr=on}}
+|-
+|'''GTD'''||{{convert|1968|cc|L cuin|0|abbr=on}} I4 turbo (CBBB)||{{convert|170|PS|kW hp|0|abbr=on}} @4200||{{convert|350|Nm|lbft|0|abbr=on}} @1750–2500||8.1s||{{convert|222|km/h|mph|0|abbr=on}}
+|}
+
+The company is talking confidently about launching in [[Germany]] during 2009 a [[BlueMotion]] low emissions Golf and, in more general terms of possible alternative fuel versions later.<ref>ADAC motorwelt Heft 9 (September 2008) Seite 20</ref>
+
+Available engines for North American Golf include the 2.5L I5 engine from the current Mk5 Rabbit and Mk5 Jetta and 2L [[Turbocharged Direct Injection|TDI]]. GTI versions include [[list of Volkswagen Group petrol engines#2.0 TFSI 132-155kW|2.0-litre TSI]], and 2L [[Turbocharged Direct Injection|TDI]].
+
+===Transmissions===
+[[File:VW Golf VI TSI am 2008-10-11 (Cockpit).jpg|thumb|Cockpit of VW Golf Mk6 with Direct-Shift Gearbox]]
+
+{|class="wikitable" style="text-align: center; font-size: 88%;"
+|-
+!colspan=4|Petrol engine
+|-
+! Model !! Years!!Standard!!Optional
+|-
+!1.4
+|2008-||5-speed manual||-
+|-
+!1.6
+|2008-||5-speed manual||7-speed [[Direct shift gearbox|DSG]]
+|-
+!1.2 TSI
+|2009-||6-speed manual||7-speed DSG
+|-
+!1.4 TSI
+|2008-||6-speed manual||7-speed DSG
+|-
+!1.8 TSI
+|2009||6-speed manual||7-speed DSG
+|-
+!GTI
+|2009-||6-speed manual||6-speed DSG
+|-
+!2.5
+|2009-||5-speed manual||6-speed DSG
+|-
+!colspan=4|Liquefied petroleum gas engine
+|-
+! Model !! Years!!Standard!!Optional
+|-
+!1.6 LPG
+|2009-||5-speed manual||-
+|-
+!colspan=4|Diesel engine
+|-
+! Model !! Years!!Standard!!Optional
+|-
+!1.6 TDI
+|2009-||5-speed manual||7-speed DSG
+|-
+!1.6 TDI BlueMotion
+|2009-||5-speed manual||-
+|-
+!2.0 TDI (CBDC engine)
+|2008-||5-speed manual||6-speed DSG
+|-
+!2.0 TDI (CBAA/CBAB engine)
+|2008-||6-speed manual||6-speed DSG
+|-
+!2.0 TDI 4Motion
+|2008-||6-speed manual||-
+|-
+!GTD
+|2008-||6-speed manual||6-speed DSG
+|}
+
+===Safety===
+With safety features such as seven [[airbag]]s and standard [[electronic stability control|Electronic Stability Programme]] (ESP), the Golf Mk6 has been awarded a five-star rating by the [[EuroNCAP|Euro NCAP]] crash test agency.<ref>[http://www.ausmotive.com/2008/11/04/volkswagen-earns-five-star-crash-rating.html AUSmotive.com - Volkswagen Golf VI earns five-star crash rating]</ref>
+
+==Cabriolet==
+{{Main|Volkswagen Golf Cabriolet}}
+A Golf Mk6 Cabriolet is planned for 2010 but this is unlikely due to the poor sales for the recently launched [[Audi A3|Audi A3 Cabriolet]].{{Citation needed|date=April 2009}}
+
+==Twin Drive==
+Volkswagen CEO [[Martin Winterkorn]] announced Golf Twin Drive plug-in hybrid concept based on Mk5 Golf, which uses 2.0L 122&nbsp;hp [[Straight-4|I4]] turbodiesel and 82-hp electric motor with lithium-ion batteries.  The car can run about 50 kilometres on battery power.<ref>[http://www.autoblog.com/2008/06/26/vw-to-fleet-test-twin-drive-golf-plug-in-hybrid-concept-in-2010/ VW to fleet test Twin Drive Golf plug-in hybrid concept in 2010]</ref>  The combined power is {{convert|174|PS|kW|0|abbr=on}}.<ref>[http://jalopnik.com/397242/vw-golf-twin-drive-plug+in-hybrid-diesel-makes-prius-look-thirsty VW Golf Twin Drive Plug-In Hybrid Diesel Makes Prius Look Thirsty]</ref>
+
+Volkswagen developed the Twin Drive system with eight German partners, and is planning a trial fleet of 20 Golfs outfitted with the system in 2010.
+
+The production version was expected to be based on new Mk6 Golf, featuring a 1.5&nbsp;L turbodiesel engine and electric motor, with estimated arrival date of 2015.<ref>[http://www.motorauthority.com/volkswagen-twin-drive-plug-in-hybrids-not-due-until-2015.html VW Twin Drive plug-in hybrids not due until 2015]</ref>
+
+==Golf GTI "Wörthersee 09" (2009)==
+It is a concept car based on Golf GTI. 2.0-liter TSI engine is rated {{convert|211|PS|kW hp|0|abbr=on}} with top speed of {{convert|238|km/h|mph|0|abbr=on}} and 0-100&nbsp;km/h acceleration of 6.9s. It includes Firespark Metallic red body with GTI stripes, high-gloss black 19-inch alloy spoke wheels, smoked [[LED]] taillight, lowered sport chassis, new sport exhaust. Interior includes aluminum tread plates, brushed aluminum trim and glossy black painted frames around the air vents, red borders floor mats, sport seats with outer black nappa and side flash red nappa with light "Berry White" leather piping.
+
+The vehicle was unveiled at GTI Meet at Wörthersee.<ref>[http://www.autoblog.com/2009/05/20/seeing-red-vw-unveils-gti-and-polo-worthersee-09-concepts/ Seeing Red: VW unveils GTI and Polo Wörthersee '09 concepts]</ref>
+
+==Volkswagen Golf R (2009-)==
+There was much speculation about this vehicle, with uncertainly surrounding its name. Golf R20 was the most common name used prior to the Frankfurt Motor Show.<ref>[http://www.autoblog.com/2009/09/14/frankfurt-preview-volkswagen-r20-hits-the-web-early/ Frankfurt Preview: Volkswagen R20 hits the web early]</ref> Once finally unveiled by Volkswagen at the Frankfurt IAA, on 15 September 2009, it was confirmed the R32 replacement would simply be called the Golf R.<ref name="ausmotive.com">[http://www.ausmotive.com/2009/09/15/volkswagen-golf-r.html AUSmotive.com - Frankfurt: Volkswagen Golf R]</ref>
+
+The Golf R is powered by a 2.0 liter FSI turbocharged engine that produces 199kW and 350Nm of torque. VW claims the car can get from 0-100km/h in 5.5 seconds for DSG equipped models, or 5.7 seconds for cars fitted with a manual gearbox.<ref name="ausmotive.com"/>
+
+The top of the line Golf employs a familiar, but revised Haldex 4motion all-wheel drive system.
+
+The Golf R has many similar styling traits to its Scirocco R sibling and is the first Golf to have LED rear tail lights factory fitted.
+
+==International markets==
+In the [[United States]] and [[Canada]], the car is sold as the Volkswagen Golf when it arrived in showrooms in October 2009, dropping the "Rabbit" badge that was used for the Golf Mk5.<ref>[http://www.marketwire.com/press-release/Volkswagen-Canada-1049426.html Volkswagen Canada]</ref>  The Golf wagon, a restyled version of the Mk5 Jetta, will also be sold in Canada, but not in the United States (the only "Golf" model made in Mexico). North American Golf's will carry over the same engines as the Mk5 (the same 2.5L [[Straight-5|5-cylinder]] from the Mk5, the 2.0TDI and the 2.0T) and, while the GTI and TDI continue to offer the 6-spd [[manual transmission]]: the 2.5L will re-use the 5-spd manual ([[Automatic transmission|automatic]] [[Direct shift gearbox|DSGs]] will be a 6-spd tiptronic). The new Golf is also available in Mexico but for the time being only in the wagon configuration that is marketed as Golf Sportwagen that became available in early October replacing the Bora Sportwagen with the new Golf´s front end.
+
+The [[Australia]]n public got get their first taste of the new Mk6 at the [[Melbourne International Motor Show]], which began on 27 February 2009.<ref>[http://www.ausmotive.com/2009/01/22/golf-vi-to-be-launched-at-melbourne-international-motor-show.html AUSmotive.com - Golf VI to be launched at Melbourne International Motor Show]</ref>  The new Golf was launched around the country at the same time.  The Mk6 GTI will be launched on Oct 12, 2009.<ref>[http://www.golfgti.com.au/ Golf GTI Australia]</ref>
+
+In [[South Africa]] the new Mk6 Golf went on sale in April 2009.  The [[South African]] version of the [[GTI]] went on sale in July 2009.
+
+==See also==
+{{commons category|VW Golf VI}}
+{{commons category|VW Golf Plus}}
+{{commons category|VW Golf GTI}}
+*[[Volkswagen Golf]]
+*[[Volkswagen]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.autocar.co.uk/News/NewsArticle/Volkswagen-Golf/234341/ Autocar]—Full details: VW Golf Mk6
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:2000s automobiles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Compact cars]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Flexible-fuel vehicles]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:Hot Hatch]]
+[[Category:Station wagons]]
+[[Category:Vehicles introduced in 2008]]
+[[Category:Volkswagen vehicles|Golf 6]]
+
+[[da:Volkswagen Golf VI]]
+[[de:VW Golf VI]]
+[[es:Volkswagen Golf VI]]
+[[fr:Volkswagen Golf VI]]
+[[it:Volkswagen Golf (2008)]]
+[[nah:Volkswagen Golf VI]]
+[[pl:Volkswagen Golf VI]]
+[[ru:Volkswagen Golf VI]]
+[[fi:Volkswagen Golf VI]]
+[[uk:Volkswagen Golf 6]]

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- skins/ApplyButtonStatesSkin.mxml -->
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" 
+	xmlns:local="*" xmlns:components="com.hillelcoren.components.*">
+	
+	<mx:Style>				
+		.customSkin
+		{
+			over-skin: ClassReference("CustomSkin");
+			up-skin: ClassReference("CustomSkin");
+			down-skin: ClassReference("CustomSkin");
+			selected-over-skin : ClassReference("CustomSkin");
+			selected-up-skin : ClassReference("CustomSkin");
+			selected-down-skin : ClassReference("CustomSkin");
+			padding-top: 0;
+			padding-bottom: 0;
+			padding-left: 10;
+			padding-right: 10;
+			font-weight: normal;
+		}				
+	</mx:Style>
+
+    <mx:Script>
+        <![CDATA[
+        
+        	import mx.collections.ArrayCollection;
+			
+			[Bindable]
+			public var ac:ArrayCollection = new ArrayCollection( [ "one", "two", "three" ] );
+			
+        ]]>
+    </mx:Script>
+
+	<components:AutoComplete dataProvider="{ ac }" selectedItemStyleName="customSkin"/>
+
+</mx:Application>

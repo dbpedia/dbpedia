@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = source region
+|rdfs:domain = Island
+|rdfs:range = PopulatedPlace
+}}

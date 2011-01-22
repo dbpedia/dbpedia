@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= related mean of transportation
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= MeanOfTransportation
+}}

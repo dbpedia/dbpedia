@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = previous editor
+| rdfs:domain = Magazine
+| rdfs:range = Person
+}}

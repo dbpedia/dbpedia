@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Poker Player
+|rdfs:subClassOf = Athlete
+}}

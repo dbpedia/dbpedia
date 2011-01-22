@@ -1,0 +1,22 @@
+{{TemplateMapping
+| mapToClass = MilitaryConflict
+| mappings = 
+	{{PropertyMapping | templateProperty = partof | ontologyProperty = partOf }}
+	{{PropertyMapping | templateProperty = place | ontologyProperty = place }}
+	{{PropertyMapping | templateProperty = territory | ontologyProperty = territory }}
+	{{PropertyMapping | templateProperty = result | ontologyProperty = result }}
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = combatant1 | ontologyProperty = combatant }}
+	{{PropertyMapping | templateProperty = combatant2 | ontologyProperty = combatant }}
+	{{PropertyMapping | templateProperty = combatant3 | ontologyProperty = combatant }}
+	{{PropertyMapping | templateProperty = commander1 | ontologyProperty = commander }}
+	{{PropertyMapping | templateProperty = commander2 | ontologyProperty = commander }}
+	{{PropertyMapping | templateProperty = commander3 | ontologyProperty = commander }}
+	{{PropertyMapping | templateProperty = strength1 | ontologyProperty = strength }}
+	{{PropertyMapping | templateProperty = strength2 | ontologyProperty = strength }}
+	{{PropertyMapping | templateProperty = strength3 | ontologyProperty = strength }}
+	{{PropertyMapping | templateProperty = casualties1 | ontologyProperty = causalties }}
+	{{PropertyMapping | templateProperty = notes | ontologyProperty = notes }}
+	{{PropertyMapping | templateProperty = conflict | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = date | ontologyProperty = date }}
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = lunar sample mass
+|rdfs:domain = SpaceMission
+|rdfs:range = kilogram
+}}

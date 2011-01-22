@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = episode number
+|rdfs:domain = TelevisionEpisode
+|rdfs:range = xsd:integer
+}}

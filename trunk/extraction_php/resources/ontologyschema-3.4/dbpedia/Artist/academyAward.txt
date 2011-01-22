@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = Academy Award
+|rdfs:domain = Artist
+|rdfs:range = Award
+}}

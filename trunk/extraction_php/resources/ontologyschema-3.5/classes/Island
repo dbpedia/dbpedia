@@ -1,0 +1,18 @@
+{{Class
+| rdfs:label = Island
+| rdfs:subClassOf = PopulatedPlace
+| specificProperties = {{SpecificProperty | ontologyProperty = minimumDischarge | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = capitalElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = managementElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = dischargeAverage | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = prominence | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = highestElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = discharge | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = governmentElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = weight | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = sourceConfluenceElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = mouthElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = sourceElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = lowestElevation | unit = metre }}
+}}

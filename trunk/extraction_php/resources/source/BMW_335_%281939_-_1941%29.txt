@@ -1,0 +1,61 @@
+{{Infobox Automobile
+| image = [[Image:BMW 335 Cabriolet, Bj. 1939.jpg|250px|BMW 335 4-door cabriolet]]
+| name = BMW 335
+| manufacturer = [[BMW|Bayerische Motoren Werke AG (BMW)]]
+| production = 1939  – 1941 <br>410 built (estimated) 
+| predecessor = 
+| successor = [[BMW 501|BMW 501]]
+| body_style = [[sedan (car)|4-door saloon]], [[Cabriolet (automobile)|2 & 4-door cabriolets]]
+| engine = 3485&nbsp;cc [[Overhead valve|OHV]] [[I-6|Straight 6]]
+| layout=[[FR layout]]
+| transmission = 4 speed manual<ref name="conceptcarzBMW335.com">{{Cite web|url=http://www.conceptcarz.com/vehicle/z5939/BMW_335.aspx|title=1939 BMW 335|accessdate=2008-02-11|work=conceptcarz.com}}</ref><br>all- synchromesh
+| length = {{convert|4840|mm|in||abbr=on}}
+| width = {{convert|1700|mm|in||abbr=on}}
+| height = {{convert|1690|mm|in||abbr=on}}
+| weight = {{convert|1300|kg|lb||abbr=on}} <br>(measurements approximate)
+| wheelbase =  {{convert|2980|mm|in||abbr=on}}
+| track = 
+|fuel_capacity= 
+| related = [[BMW 326]]
+| similar = 
+| designer = [[Fritz Fiedler]]
+}}
+
+The '''BMW 335''' is six cylinder sports sedan produced by [[BMW|the Bavarian firm]] between 1939 and 1941.
+
+==The Market==
+Commercial success for the [[BMW 326]], introduced in 1936, encouraged a move upmarket. This would involve BMW in challenging the dominance then enjoyed by [[Mercedes-Benz]] over a lucrative sector, with their 320 and 340 models.
+
+==The Approach==
+BMW were producing, in their [[Automobilwerk Eisenach|Eisenach plant]], the model that would form the basis for the larger car. The 326 had already spawned successful sporting derivatives. The 335 was also to be based on the 326, but with the wheel-base and chassis extended to accommodate a 3485 cc [[I-6|six cylinder in-line]] engine. Despite clearly reflecting the approach taken with existing BMW units, this was an entirely new design. Claimed maximum power output of {{convert|90|bhp|abbr=on}} was lower than the values advertised for comparably sized and powered [[Jaguar SS100|Jaguars]] of the period, but the BMW unit reportedly provided better than average torque: it achieved full power at only 3500 rpm, which implied longevity and would have made the car particularly suitable as a rapid [[German Autobahns|Autobahn]] cruiser. The engine was fed by a single [[Solex]] [[carburettor]]: had the 335 remained in production for longer it would have been possible to follow the Jaguar route of boosting power by fitting twin carburettors. With {{convert|90|bhp|abbr=on}}, the car had top speed of {{convert|145|km/h|mi/h}}.<ref name="carfolio.com">{{Cite web|url=http://www.carfolio.com/specifications/models/car/?car=56529|title=Technical specifications of 1939 BMW 335|accessdate=2008-02-12|work=carfolio.com}}</ref>
+
+The engine’s additional weight prompted the fitting of larger brake drums and wheels than on the 326. The 335 sustained BMW’s reputation for innovation, being the first car to offer a four speed gear box with full [[synchromesh]] on all ratios.
+
+The car was sold as a four door sedan and as a two or (more unusually) four door cabriolet.
+
+==The Launch==
+A prototype 335 was first presented at London in 1938. The car was branded for these purposes as a [[Frazer-Nash]]. There had been close relations between BMW and England ever since BMW had established themselves in the small car market by building a version of the English [[BMW Dixi|Austin 7]]. Frazer-Nash had been BMW’s English importers since 1934, and after the war BMW design chief [[Fritz Fiedler]], the man primarily responsible for designing and developing the 335, would for several years work with Frazer-Nash’s successor company in [[London]].
+
+The production version was launched on the German market as the BMW 335 in 1939.
+
+==A Short Life==
+The German invasion of Poland in September 1939 triggered a military conflagration between Europe’s major states which, following the December 1941 Japanese [[Attack on Pearl Harbor|attack]] on the US Pacific Fleet at [[Pearl Harbor]], burgeoned into the [[Second World War]]. Initially, aspects of the peace time economy persisted in Germany and BMW were able to produce 335s at their [[Eisenach]] facility. Perfect production records are thought not to survive, but it appears that by the time passenger car production ceased in 1941, more than 400 had been produced.
+
+==References==
+{{reflist}}
+
+*{{Italian|BMW 335|[[2008-02-11]]}}
+
+{{BMW pre war}}
+
+[[Category:BMW vehicles|335]]
+[[Category:Executive cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1930s automobiles]]
+[[Category:1940s automobiles]]
+[[Category:Vehicles introduced in 1939]]
+[[Category:Convertibles]]
+[[Category:Sedans]]
+
+[[de:BMW 335]]
+[[it:BMW 335]]

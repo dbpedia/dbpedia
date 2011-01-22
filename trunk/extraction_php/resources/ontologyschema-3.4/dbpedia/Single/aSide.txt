@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = a side
+|rdfs:domain = Single
+|rdfs:range = xsd:string
+}}

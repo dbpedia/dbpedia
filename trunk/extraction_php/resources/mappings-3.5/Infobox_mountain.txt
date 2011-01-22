@@ -1,0 +1,9 @@
+{{TemplateMapping
+| mapToClass = Mountain
+| mappings = 
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Elevation | ontologyProperty = elevation | unit = metre }}
+	{{GeocoordinatesMapping | coordinates = Coordinates }}
+	{{PropertyMapping | templateProperty = Type | ontologyProperty = type }}
+	{{GeocoordinatesMapping | latitudeDegrees = latd  | latitudeMinutes = latm  | latitudeSeconds = lats  | latitudeDirection = latNS  | longitudeDegrees = longd  | longitudeMinutes = longm  | longitudeSeconds = longs  | longitudeDirection = longEW }}
+}}

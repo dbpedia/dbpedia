@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jetty Servlet API"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jena.jar" sourcepath="/Jena-2.4/src"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/iri.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/arq.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/junit.jar"/>
+	<classpathentry kind="output" path="webapp/WEB-INF/classes"/>
+</classpath>

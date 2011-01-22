@@ -1,0 +1,105 @@
+{{Infobox Automobile
+|name=BMW X5
+|image=[[Image:BMW-X5.jpg|250px|2004-2006 BMW X5 I6]]
+|manufacturer=[[BMW]]
+|class=[[Mid-size]] [[crossover SUV]]
+|assembly=[[Spartanburg, South Carolina]], United States
+|body_style=5-door [[Sport utility vehicle|SUV]]
+|production=1999–2006
+|layout=[[Front-engine design|Front engine]], [[four wheel drive]]
+}}
+
+The '''BMW X5''' is a [[mid-size]] [[crossover SUV]] sold by [[BMW]] since 1999, making it BMW's first SUV. It features [[all-wheel drive]] and is available with a range of [[gasoline]] [[List of BMW engines#Straight-6s|inline-6s]], [[List of BMW engines#V8|V8s]] and a [[BMW M57|diesel]] powertrain is also available.  All X5s worldwide are manufactured in [[Spartanburg, South Carolina]]. BMW described it as a [[BMW Sports Activity Series|Sport Activity Vehicle (SAV)]] rather than an SUV (Sport Utility Vehicle), to emphasize its on-road ability despite its size.  Like the [[Lexus RX|Lexus RX 300]] and [[Mercedes-Benz M-Class|Mercedes M-Class]], the X5 heralded the shift from truck-based body-on-frame SUVs to sedan-based crossovers that would come to fruition in the late 2000s.
+
+Four years later, the [[BMW X3]] was released, which used the "X" prefix applied to the BMW [[BMW Sports Activity Series|SAVs]] which were derivatives of the BMW number-series models.
+
+==E70==
+{{Infobox Automobile generation
+| name = Second generation
+| image=[[File:Wiki edit x5.jpg|250px|2008 BMW X5.]]
+| model_years = 2006–present
+| engine = 3.0 L 260&nbsp;hp [[I6]]<br />3.0 L 265&nbsp;hp [[Diesel engine|Diesel TT]] [[I6]]<br />4.8 L 355&nbsp;hp [[V8]]
+| transmission = 6-speed automatic
+|wheelbase={{convert|2933|mm|in|1|abbr=on}}
+|length={{convert|4854|mm|in|1|abbr=on}}
+|width={{convert|1933|mm|in|1|abbr=on}}
+|height=2006–2008: {{convert|1766|mm|in|1|abbr=on}}<br />2009–: {{convert|1776|mm|in|1|abbr=on}}
+|platform = [[BMW E70]]
+| related = [[BMW X6]]
+}}
+
+{{main|BMW X5 (E70)}}
+
+The '''BMW E70''
+
+==Sales==
+{|class="wikitable"
+|-
+! Calendar year
+! U.S. sales
+|-
+| 1999
+| 1,312
+|-
+| 2000
+| 26,720
+|-
+| 2001<ref>{{cite web|url=http://www.cars.com/go/crp/research.jsp?makeid=5&modelid=3197&year=2003&section=reviews |title=2003 BMW X5 Reviews by Cars.com Experts and Consumers |publisher=Cars.com |date= |accessdate=2009-09-25}}</ref>
+| 40,622
+|-
+| 2002<ref>{{cite web|url=http://autos.aol.com/cars-BMW-X5-2003/overview |title=2003 BMW X5 Overview |publisher=Autos.aol.com |date= |accessdate=2009-09-25}}</ref>
+| 42,742
+|-
+| 2003<ref>{{cite web|url=http://www.theautochannel.com/news/2005/01/04/313805.html |title=BMW Group Shatters All Past Annual Sales Records in 2004 |publisher=Theautochannel.com |date= |accessdate=2009-09-25}}</ref>
+| 40,715
+|-
+| 2004<ref>{{cite web|url=http://www.theautochannel.com/news/2006/01/04/204975.html |title=BMW Group Sets All-Time Annual Sales Record, Highest Sales Month Ever in 2005 |publisher=Theautochannel.com |date=2006-01-04 |accessdate=2009-09-25}}</ref>
+| 35,225
+|-
+| 2005
+| 37,598
+|-
+| 2006<ref>{{cite web|url=http://www.theautochannel.com/news/2007/01/03/032847.html |title=BMW Group Reports 2006 - Strongest Year Ever |publisher=Theautochannel.com |date= |accessdate=2009-09-25}}</ref>
+| 26,798
+|-
+| 2007<ref>{{cite web|url=http://www.reuters.com/article/pressRelease/idUS171307+05-Jan-2009+PRN20090105 |title=BMW Group U.S. Division Reports December Sales |publisher=Reuters |date=2009-01-05 |accessdate=2009-09-25}}</ref>
+| 35,202
+|-
+| 2008
+| 31,858
+|}
+
+==See also==
+* [[BMW Manufacturing Co. Spartanburg]] - BMW X5 plant
+* [[BMW Sports Activity Series]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+* {{Official|http://www.bmw.com/x5/}}
+* [http://www.edmunds.com/new/research/bmw/x5.html BMW X5 Review] on [[Edmunds.com]]
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw X5}}
+[[Category:BMW vehicles|X5]]
+[[Category:Crossover SUVs]]
+[[Category:All wheel drive vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1999]]
+
+[[ar:بي إم دبليو إكس5 (BMW X5)]]
+[[cs:BMW X5]]
+[[et:BMW X5]]
+[[es:BMW X5]]
+[[fr:BMW X5]]
+[[hr:BMW X5]]
+[[it:BMW X5]]
+[[nl:BMW X5]]
+[[ja:BMW・X5]]
+[[no:BMW X5]]
+[[pl:BMW X5]]
+[[sv:BMW X5]]
+[[zh:BMW X5]]

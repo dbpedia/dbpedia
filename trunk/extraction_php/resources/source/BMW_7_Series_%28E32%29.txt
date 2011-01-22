@@ -1,0 +1,143 @@
+{{Infobox Automobile
+| image = [[Image:BMW E32 front 20070928.jpg|250px|BMW 7-Series E32]]
+| name = BMW 7-Series (E32)
+| manufacturer = [[BMW]]
+| production = 1986 - 1994 <br/> 311,068 built<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref><ref name=DeAutosab90Kittler>{{cite book |last=Kittler |first=Eberhard |authorlink= |coauthors= |title= Deutsche Autos seit 1990, Band 5|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02128-5}}</ref>
+| predecessor = [[BMW E23]]
+| successor = [[BMW E38]]
+| body_style = [[saloon (car)|4-door saloon]]
+| engine = 3.0–3.4&nbsp;L [[straight-6|I-6]] <br/> 3.0–4.0&nbsp;L [[V8 engine|V-8]] <br/> 5.0&nbsp;L [[V12 engine|V-12]]
+| layout=[[FR layout]]
+| transmission = 5-speed manual<br/> 4- or 5-speed automatic
+| length = {{convert|4910|mm|in||abbr=on}}−{{convert|5024|mm|in||abbr=on}}
+| width = {{convert|1845|mm|in||abbr=on}}
+| height = {{convert|1400|mm|in||abbr=on}}−{{convert|1435|mm|in||abbr=on}}
+| weight = {{convert|1720|kg|lb||abbr=on}}−{{convert|1930|kg|lb||abbr=on}}
+| wheelbase =  {{convert|2833|mm|in||abbr=on}}−{{convert|2947|mm|in||abbr=on}}
+}}
+
+In July 1986<ref name="bimmerboard.com">{{cite web|author=shogun |url=http://www.bimmerboard.com/forums/posts/597901 |title=E32 7 series series buying guide |publisher=Bimmerboard.com |date= |accessdate=2009-09-26}}</ref>, [[BMW]] introduced the second generation of the [[BMW 7 Series|7 series]], known internally as the '''E32'''. Aimed at the high end of the luxury market, the car offered some of the latest innovations in automotive technology, and a new, top-of-the-line [[V12 engine]]. Some luxury options featured on the E32 included integrated [[telephone]] and [[fax]] machines, a [[Wine accessory#Wine coolers|wine cooler]], [[Insulated glazing|double glazing]], electronic stability control, and a system that automatically increased spring pressure on the windshield wipers, to keep them firmly pressed on the glass at [[Autobahn]] speeds. Incidentally, the E32 was the first car adhering to BMW's self-imposed speed limit of 250&nbsp;km/h (155.37 mph). According to the official American brochure in 1987, the ungoverned 750iL could reach 300&nbsp;km/h (186.4 mph){{Fact|date=February 2008}} with a side note that the terminal speed was electronically restricted.
+
+The car was also available in a stretched version (indicated by an 'L' after the model number), in which case an extra {{convert|11.4|cm|in}} of leg room was available to the rear passengers by stretching the rear doors, and the body at this point. It was in all years 88-94 in the U.S.
+
+The [[BMW]] 750iL ''Highline'' was the top-of-the-line model of the E32, with lots of added luxury for the rear passengers like full leather, dual [[radio]] controls, dual climate control with coolbox mounted in the center console, electrically heated and adjustable ''rear'' seats, walnut veneer folding tables, two crystal glasses neatly placed in the coolbox, legrests, and sun shade all around the rear/side windows. Complete with independent heating and ventillation, it also added a second [[car battery|battery]] in the trunk and a second [[alternator (auto)|alternator]] to provide power for all these luxuries. The 'Highline' option package cost more than €10,000, and was only available on the 750iL, bringing the total price to well over twice that of a 'basic' 730i ('basic' to be taken in context). <ref>{{cite web|url=http://www.7-forum.com/modelle/e32/sonderausstattung.php |title=BMW 7er, Modell E32, Sonder-Ausstattungsdetails inkl. Preisen |publisher=www.7-forum.com |date=2006-06-03 |accessdate=2009-09-26}}</ref>
+
+==Engines==
+The E32 was offered with several different engines, all petrol.
+At the car's introduction, the 730 and 735 used the [[straight-6]] [[BMW M30|M30]] engine, while the 750 featured the all-new [[BMW M70|M70]] [[V12 engine]] which produced 300 bhp.
+In 1992, a new 32-valve [[V8]] engine was introduced, the [[BMW M60|M60]]. The 730i got this engine in a 3-liter version, while the new 740i got the 4-liter version. Both versions were coupled to a new, 5 speed [[automatic transmission]] made by [[ZF Friedrichshafen AG|ZF]].
+In some countries, there were serious problems with the M60 engine because of sulfur corrosion problems in its [[nikasil]] [[cylinder (engine)|cylinder block]]. The cylinder lining would quickly wear, causing the engine to lose compression, which caused rough idling and eventually the engine would fail to start. Many engines were replaced under warranty; the problem was corrected by using a different material, Alusil.
+
+BMW continued to offer the 730 with the [[straight-6]] [[BMW M30|M30]] engine (as well as the V8) in [[Europe]] until 1994, when the [[BMW E38|E38]] was introduced.
+
+Externally, the BMW 'kidney' grille indicated which engine was present under the hood: all 6-cylinder models had a narrow grille, and all 8- and 12-cylinder models had the wider version. This feature was not seen on later models (the E38 used a wide grille for all models).
+
+The 740i was electronically limited at 240&nbsp;km/h to distinguish it from the flagship vehicle 750i. The 740i [[BMW E38#Models using the E38 platform|E38]] which has first used the same engine was electronically limited at 250&nbsp;km/h.
+
+===Engine specifications and performance by model number===
+{| class="wikitable" cellpadding="5"
+|-
+! Model
+! Engine Code
+! Engine Type
+! Displacement ([[Cubic centimetre|cc]])
+! Bore/Stroke (mm)
+! [[Compression ratio|Comp. Ratio]]
+! Power
+! Torque
+! 0-100&nbsp;km/h ([[Second|s]])
+! Top Speed ([[km/h]])
+! Years made
+|- style="text-align:center;"  
+||730i
+||[[BMW M30|M30]]
+||[[straight-6|L6]] 12V
+|| 2986
+||89/80
+||9.0:1
+||{{convert|188|PS|kW hp||abbr=on}} <br/> @ 5800
+||{{convert|260|Nm|lbft||abbr=on}} <br/> @ 4000
+||9.3 ([[manual transmission|man]]) / 10.6 ([[Automatic transmission|aut]])
+||223 ([[manual transmission|man]]) 
+||1986–1994
+|- style="text-align:center;"  
+||735i
+||[[BMW M30|M30]]
+||[[straight-6|L6]] 12V
+||3430
+||92/86
+||9.0:1
+||{{convert|211|PS|kW hp||abbr=on}} <br/> @ 5700
+||{{convert|305|Nm|lbft||abbr=on}} <br/> @ 4000
+||8.3 ([[manual transmission|man]]) / 9.1 ([[Automatic transmission|aut]])
+||231 ([[manual transmission|man]]) / 228 ([[Automatic transmission|aut]])
+||1986–1992
+|- style="text-align:center;" 
+||730i V8
+||[[BMW M60|M60]]
+||[[V8 engine|V8]] 32V
+||2997
+||84/67.6
+||10.5:1
+||{{convert|218|PS|kW hp||abbr=on}} <br/> @ 5800
+||{{convert|290|Nm|lbft||abbr=on}} <br/> @ 4500
+||8.5 ([[manual transmission|man]]) / 9.3 ([[Automatic transmission|aut]])
+||224
+||1992–1994
+|- style="text-align:center;"  
+||740i
+||[[BMW M60|M60]]
+||[[V8 engine|V8]] 32V
+||3982
+||89/80
+||10.0:1
+||{{convert|286|PS|kW hp||abbr=on}} <br/>@ 5800
+||{{convert|400|Nm|lbft||abbr=on}} <br/>@ 4500
+||7.4 ([[Automatic transmission|aut]])
+||240* ([[Automatic transmission|aut]])
+||1992–1994
+|- style="text-align:center;"  
+||750i
+||[[BMW M70|M70]]
+||[[V12 engine|V12]] 48V
+||4988
+||84/75
+||8.8:1
+||{{convert|300|PS|kW hp||abbr=on}} <br/>@ 5200
+||{{convert|450|Nm|lbft||abbr=on}} <br/>@ 4100
+||7.4 ([[Automatic transmission|aut]])
+||250* ([[Automatic transmission|aut]])
+||1987–1994
+|-
+|colspan=11|* = electronically limited &nbsp; &nbsp; &nbsp; &nbsp; ''Figures may differ slightly for stretched versions and gearing''
+|}
+
+==Related cars==
+The E32 replaced the first generation 7 series, the [[BMW E23|E23]]. The E32 itself was replaced by the [[BMW E38|E38]] in March 1994<ref name="bimmerboard.com"/>, although the engines developed for the E32 continued to be used in updated form.
+The [[BMW E34|E34]] 5 series, introduced in 1987, is externally very similar to the E32, and many parts are shared between the two cars. The two-door 8 series [[BMW E31|E31]] features the same engines (the [[BMW M60|M60]] V8 and the [[BMW M70|M70]] V12).
+
+==References==
+{{More footnotes|date=March 2009}}
+{{reflist}}
+
+==External links==
+*{{dmoz|/Recreation/Autos/Makes_and_Models/BMW/7_Series/|BMW 7 Series}}
+
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 7 Series (E32)}}
+[[Category:BMW platforms|E32]]
+[[Category:Vehicles introduced in 1986]]
+
+[[de:BMW E32]]
+[[et:BMW E32]]
+[[es:BMW E32]]
+[[it:BMW E32]]
+[[nl:BMW E32]]
+[[no:BMW E32]]
+[[pl:BMW E32]]
+[[pt:BMW E32]]
+[[ru:BMW E32]]
+[[fi:BMW 7-sarja E32]]
+[[uk:BMW E32]]

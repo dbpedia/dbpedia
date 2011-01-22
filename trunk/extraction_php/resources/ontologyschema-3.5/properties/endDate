@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = end date
+| rdfs:domain = Event
+| rdfs:range = xsd:date
+}}

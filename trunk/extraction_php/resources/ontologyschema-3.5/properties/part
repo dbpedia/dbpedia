@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = part
+| rdfs:range = Place
+}}

@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Airport
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Building/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Building/owningOrganisation }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaPropertyMapping | templateProperty = built | ontologyProperty = Building/buildingStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = built | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation-f | ontologyProperty = Place/elevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation-m | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:name }}
+}}

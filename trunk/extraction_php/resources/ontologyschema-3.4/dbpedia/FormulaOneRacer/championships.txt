@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = championships
+|rdfs:domain = FormulaOneRacer
+|rdfs:range = xsd:integer
+}}

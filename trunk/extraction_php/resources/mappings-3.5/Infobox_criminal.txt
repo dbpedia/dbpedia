@@ -1,0 +1,15 @@
+{{TemplateMapping
+| mapToClass = Criminal
+| mappings = 
+	{{PropertyMapping | templateProperty = subject_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = date_of_birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = place_of_birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = date_of_death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = place_of_death | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = alias | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = parents | ontologyProperty = father }}
+	{{PropertyMapping | templateProperty = parents | ontologyProperty = mother }}
+	{{PropertyMapping | templateProperty = children | ontologyProperty = child }}
+}}

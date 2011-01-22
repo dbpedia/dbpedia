@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = area of search
+|rdfs:domain = SiteOfSpecialScientificInterest
+|rdfs:range = PopulatedPlace
+}}

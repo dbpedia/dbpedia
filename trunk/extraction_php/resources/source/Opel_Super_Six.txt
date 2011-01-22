@@ -1,0 +1,47 @@
+{{Infobox Automobile
+|image=[[Image:Opel-Super6-Cabrio-1938.jpg|250px]]
+|name=Opel Super Six
+|manufacturer=[[Opel]]
+|production=1937&ndash;1938
+|predecessor=
+|successor=[[Opel Kapitän]]
+|class=[[luxury car]]
+|body_style=4-door [[sedan (car)|sedan]]<br>2-door [[Cabriolet (automobile)|cabriolet]]<br>2-door [[coupé]]
+|platform=
+|layout=[[FR layout]]
+|related=
+|similar=
+| engine        =2,5 litre [[straight-6]]
+| transmission  =
+| length        = {{convert|4370|mm|in|1|abbr=on}}
+| width         = {{convert|1565|mm|in|1|abbr=on}}
+| height        = {{convert|1600|mm|in|1|abbr=on}}
+| weight        = {{convert|1145|kg|lb|0|abbr=on}}
+| wheelbase     = 
+| fuel economy  =13 l/100km
+}} 
+The '''Opel Super Six''' was an automobile built by the German car manufacturer [[Opel]] between 1937 and 1938. The car was equipped with a 2,5 litre [[straight-6]] with a top speed of {{convert|115|km/h|mph|0|abbr=on}}. It was available in three different versions, a 4-door [[sedan (car)|sedan]], a 2-door [[coupé]] and a 2-door [[Cabriolet (automobile)|cabriolet]].
+
+==Gallery==
+<gallery>
+Image:Opel Super De Luxe 1938.jpg|Opel Super Six De Luxe 4-Door Limousine 1938
+Image:Opel Super Six 4-Door Sedan 1938.jpg|Opel Super Six 4-Door Limousine 1938
+</gallery>
+<gallery>
+Image:Opel Super Six 4-Door Sedan 193X.jpg|Opel Super Six 4-Door Limousine
+Image:Opel Super Six De Luxe 4-Door Sedan 1938.jpg|Opel Super Six De Luxe 4-Door Limousine 1938
+</gallery>
+
+==Sources==
+[http://www.redline-hannover.de:8080/kad/kad_historie/] KAD Historie
+
+{{Opel}}
+
+[[Category:Opel vehicles|Super Six]]
+[[Category:1930s automobiles]]
+[[Category:Vehicles introduced in 1937]]
+
+[[de:Opel Super 6]]
+[[it:Opel Super 6]]
+[[pl:Opel Super Six]]
+[[pt:Opel Super Six]]

@@ -1,0 +1,24 @@
+{{TemplateMapping
+| mapToClass = TelevisionEpisode
+| mappings = 
+	{{PropertyMapping | templateProperty = Series | ontologyProperty = series }}
+	{{PropertyMapping | templateProperty = Season | ontologyProperty = seasonNumber }}
+	{{PropertyMapping | templateProperty = Episode | ontologyProperty = episodeNumber }}
+	{{PropertyMapping | templateProperty = Writer | ontologyProperty = writer }}
+	{{PropertyMapping | templateProperty = Director | ontologyProperty = director }}
+	{{PropertyMapping | templateProperty = Music | ontologyProperty = music }}
+	{{PropertyMapping | templateProperty = Photographer | ontologyProperty = photographer }}
+	{{PropertyMapping | templateProperty = Guests | ontologyProperty = guest }}
+	{{PropertyMapping | templateProperty = show | ontologyProperty = show }}
+	{{PropertyMapping | templateProperty = executive_producer | ontologyProperty = executiveProducer }}
+	{{PropertyMapping | templateProperty = Title | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Airdate | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = Prev | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = Next | ontologyProperty = subsequentWork }}
+	{{PropertyMapping | templateProperty = serial_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = length | ontologyProperty = runtime | unit = Time }}
+	{{PropertyMapping | templateProperty = date | ontologyProperty = publishDate }}
+	{{PropertyMapping | templateProperty = preceding | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = following | ontologyProperty = subsequentWork }}
+}}

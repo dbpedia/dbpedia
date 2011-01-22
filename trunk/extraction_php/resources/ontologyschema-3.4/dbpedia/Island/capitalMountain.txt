@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = capital mountain
+|rdfs:domain = Island
+|rdfs:range = Mountain
+}}

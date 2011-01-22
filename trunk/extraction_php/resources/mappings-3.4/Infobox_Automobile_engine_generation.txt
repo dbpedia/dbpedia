@@ -1,0 +1,103 @@
+{{DBpediaTemplateMapping
+|mapToClass = AutomobileEngine
+|mappings = 
+	{{DBpediaPropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{DBpediaPropertyMapping | templateProperty = aka | ontologyProperty = 
+	foaf:name}}
+	
+	{{DBpediaDateIntervalMapping | templateProperty = production | 
+	startDateOntologyProperty = Device/productionStartDate|
+	endDateOntologyProperty = Device/productionEndDate}}
+		
+	{{DBpediaDateIntervalMapping | templateProperty = production |
+	startDateOntologyProperty = Device/productionStartYear|
+	endDateOntologyProperty = Device/productionEndYear}}
+
+	{{DBpediaPropertyMapping | templateProperty = predecessor | ontologyProperty = 
+	Device/predecessor}}
+	
+	{{DBpediaPropertyMapping | templateProperty = successor | ontologyProperty = 
+	Device/successor}}
+	
+		{{DBpediaPropertyMapping | templateProperty = displacement | ontologyProperty = 
+	AutomobileEngine/displacement | unit = Volume }}
+	
+	{{DBpediaPropertyMapping | templateProperty = bore | ontologyProperty = 
+	AutomobileEngine/cylinderBore | unit = Length }}
+		
+	{{DBpediaPropertyMapping | templateProperty = stroke | ontologyProperty = 
+	AutomobileEngine/pistonStroke | unit = Length}}
+	
+	{{DBpediaPropertyMapping | templateProperty = length | ontologyProperty = 
+	AutomobileEngine/length | unit = Length}}
+		
+	{{DBpediaPropertyMapping | templateProperty = width | ontologyProperty = 
+	AutomobileEngine/width | unit = Length}}
+	
+	{{DBpediaPropertyMapping | templateProperty = height | ontologyProperty = 
+	AutomobileEngine/height | unit = Length}}
+	
+	{{DBpediaPropertyMapping | templateProperty = diameter | ontologyProperty = 
+	AutomobileEngine/diameter | unit = Length}}
+	
+	{{DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = 
+	AutomobileEngine/weight | unit = Mass}}
+	
+	{{DBpediaPropertyMapping | templateProperty = block | ontologyProperty = 
+	AutomobileEngine/blockAlloy}}
+	
+	{{DBpediaPropertyMapping | templateProperty = head | ontologyProperty = 
+	AutomobileEngine/headAlloy}}
+	
+	{{DBpediaPropertyMapping | templateProperty = valvetrain | ontologyProperty = 
+	AutomobileEngine/valvetrain}}
+	
+	{{DBpediaPropertyMapping | templateProperty = fuelsystem | ontologyProperty = 
+	AutomobileEngine/fuelSystem}}
+	
+	{{DBpediaPropertyMapping | templateProperty = fueltype | ontologyProperty = 
+	AutomobileEngine/fuelType}}
+	
+	{{DBpediaPropertyMapping | templateProperty = oilsystem | ontologyProperty = 
+	AutomobileEngine/oilSystem}}
+	
+	{{DBpediaPropertyMapping | templateProperty = coolingsystem | ontologyProperty = 
+	AutomobileEngine/coolingSystem}}
+	
+	{{DBpediaPropertyMapping | templateProperty = power | ontologyProperty = 
+	AutomobileEngine/powerOutput | unit = Power}}
+	
+	<!-- 
+	specific power has a very special dimension: power per volume.
+	We don't have that dimension yet.
+	{{DBpediaPropertyMapping | templateProperty = specpower | ontologyProperty = 
+	AutomobileEngine/specificPower}}
+	-->
+	
+	{{DBpediaPropertyMapping | templateProperty = torque  | ontologyProperty = 
+	AutomobileEngine/torqueOutput | unit = Torque}}
+	
+	{{DBpediaPropertyMapping | templateProperty = compression | ontologyProperty = 
+	AutomobileEngine/compressionRatio}}
+	
+	{{DBpediaPropertyMapping | templateProperty = fuelcon | ontologyProperty = 
+	AutomobileEngine/fuelConsumption}}
+	
+	<!-- supercharger too few entries 	-->
+	<!-- turbocharger too few entries 	-->
+	<!-- management too few entries  	-->
+	<!-- specfuelcon too few entries 	-->
+	<!-- oilcon too few entries			-->
+	
+}}
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = creative director
+|rdfs:domain = TelevisionShow
+|rdfs:range = Person
+}}

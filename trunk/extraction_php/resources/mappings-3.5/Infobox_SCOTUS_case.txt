@@ -1,0 +1,15 @@
+{{TemplateMapping
+| mapToClass = SupremeCourtOfTheUnitedStatesCase
+| mappings = 
+	{{PropertyMapping | templateProperty = ArgueDate | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ArgueDateA | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ArgueDateB | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ReargueDate | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ReargueDate2 | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ReargueDateA | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ReargueDateB | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ReargueDateA2 | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = ReargueDateB2 | ontologyProperty = argueDate }}
+	{{PropertyMapping | templateProperty = DecideDate | ontologyProperty = decideDate }}
+	{{PropertyMapping | templateProperty = FullName | ontologyProperty = foaf:name }}
+}}

@@ -1,0 +1,50 @@
+[[Image:Mercedes-Benz M156 Engine 02.JPG|250px|thumb|M156]]
+The '''M156''' is the first [[V8]] [[automobile]] engine designed autonomously by [[Mercedes-Benz]] subsidiary [[Mercedes-AMG]], as previous AMG engines have always been based on original Mercedes engines.  The engine was designed to be a [[naturally-aspirated]] racing unit, and will also be used in a number of high-performance "AMG"-badged Mercedes-Benz models.
+
+The M156 displaces {{convert|6208|cc|L cuin||abbr=on}} and shares very little with other Mercedes-Benz engine families like the [[Mercedes-Benz M155 engine|M155]]. The bore spacing, block design, and other features are unique to the AMG engine.
+
+Although it displaces 6.208&nbsp;liters, the engine will be marketed as the "6.3" to commemorate the famed M100 used in the 300SEL 6.3.
+
+The engine uses a {{convert|102.2|mm|in||abbr=on}} bore and {{convert|94.6|mm|in||abbr=on}} stroke. Output is {{Convert|375|kW|hp|0|abbr=on}} at 6800&nbsp;rpm with {{convert|630|Nm|lbft|1|abbr=on}} of torque at 5200&nbsp;rpm.
+
+The engine, however, has been uprated to produce {{Convert|525|hp|kW|0|abbr=on}} (and {{Auto lbft|465}} of torque) in the late 2007 S 63 and CL 63 models[http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/passenger_cars/home/products/AMG_showroom/S_63_AMG/technical_data.html].
+
+Mercedes has claimed it is the world's most powerful naturally-aspirated V8 engine.
+
+Applications:
+* 2006 [[Mercedes-Benz E-Class|E 63 AMG]]
+* 2006 [[Mercedes-Benz M-Class|ML 63 AMG]]
+* 2006 [[Mercedes-Benz R-Class|R 63 AMG]]
+* 2006 [[Mercedes-Benz S-Class|S 63 AMG]]
+* 2006 [[Mercedes-Benz CL-Class|CL 63 AMG]]
+* 2007 [[Mercedes-Benz CLK-Class|CLK 63 AMG]]
+* 2007 [[Mercedes-Benz CLS-Class|CLS 63 AMG]]
+* 2008 [[Mercedes-Benz C-Class|C 63 AMG]]
+* 2008 [[Mercedes-Benz SL-Class|SL 63 AMG]]
+
+==M159==
+It is a version used in [[Mercedes-Benz SLS AMG]]. Compared to the standard AMG engine, the SLS's engine includes an all-new intake system, reworked valve train and camshafts, the use of flow-optimised tubular steel headers and dethrottling of the exhaust system. The engine also utilizes a [[dry-sump lubrication]] system to lower the center of gravity of the car.<ref>[http://media.daimler.com/dcmedia/0-921-1188339-1-1235126-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html?TS=1252609203958 Mercedes-Benz SLS AMG: fascination and high tech: The new 'Gullwing' from Mercedes-Benz]</ref>
+
+{| class="wikitable"
+|-
+!Engine code!!Years!!Displacement (bore x stroke)!!Compression (:1)!!Power@rpm!!torque@rpm!!Redline (rpm)
+|-
+|M159||2010-||{{convert|6208|cc|L cuin||abbr=on}} ({{convert|102.2|mm|in||abbr=on}} x {{convert|94.6|mm|in||abbr=on}}||11.3||{{convert|571|PS|kW hp||abbr=on}}@6800||{{convert|650|Nm|lbft||abbr=on}}@4750||?
+|-
+|}
+
+==References==
+{{Reflist}}
+* {{cite web|url=http://www.germancarfans.com/news.cfm/NewsID/2050713.001/bmw/1.html|title=New AMG 6.3 Liter V8 Engine -In Detail|work=GermanCarFans|accessdate=January 16, 2006}}
+
+==See also==
+
+* [[List of Mercedes-Benz engines]]
+* [http://www.eitechnologygroup.com/gallery/image_full/1135/ Beautiful 3-D Animation of M156 Engine]
+
+[[Category:Mercedes-Benz engines|M156]]
+
+[[de:Mercedes-Benz M156]]
+[[es:AMG M156]]
+[[it:Mercedes-Benz M156]]
+[[nl:Mercedes-Benz M156]]

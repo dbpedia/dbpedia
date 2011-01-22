@@ -1,0 +1,176 @@
+{{Infobox Automobile
+| name           = Audi Q5
+| image          = [[Image:2009 Audi Q5 -- 08-17-2009.jpg|250px|2009 Audi Q5 (US)]] 
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen Group]]
+| aka            =
+| production     = 2008-
+| predecessor    =
+| successor      =
+| class          = [[compact SUV|Compact]] [[crossover (automobile)|crossover SUV]]
+| body_style     = 5-door [[station wagon|estate/wagon]]
+| layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br />[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] 
+| platform       = [[Volkswagen B platform#MLB|MLB/MLP]]
+| engine         = 2.0L [[turbocharger|turbocharged]] [[Straight-4|I4]]<br />2.0L [[Turbocharged Direct Injection|TDI]] [[diesel engine|diesel]] [[Straight-4|I4]]<br />3.0L [[Turbocharged Direct Injection|TDI]] [[diesel engine|diesel]] [[V6 engine|V6]]<br />3.2L V6
+| transmission   = 6-speed manual<br />
+6-speed [[Tiptronic]]<br />
+7-speed [[Direct shift gearbox|DSG]]
+| assembly       = [[Ingolstadt]], [[Germany]];<br />[[Changchun]], [[People's Republic of China|China]]
+| wheelbase      = {{convert|2810|mm|in|1|abbr=on}}
+| length         = {{convert|4630|mm|in|1|abbr=on}}
+| width          = {{convert|1880|mm|in|1|abbr=on}}
+| height         = {{convert|1650|mm|in|1|abbr=on}}
+| weight         =
+| fuel_capacity  =
+| related        = [[Audi A4]]<br />[[Audi S4]]<br />[[Audi A5]]<br />[[Audi S5]]
+| designer       =
+| sp             = uk
+}}
+
+The '''Audi Q5''' is a [[compact SUV|compact]] [[crossover (automobile)|crossover SUV]] which was released by [[Germany|German]] automaker [[Audi]] for the 2009 model year.<ref>{{cite web|url=http://microsites.audi.com/q5onlinespecial/html/popup.html?locale=en_US |title=Audi Q5 Online Special |publisher=Microsites.audi.com |date= |accessdate=2009-10-17}}</ref>  It is built using the new [[Audi MLP]] platform (Modular Longitudinal Platform) which debuted in the 2007 [[Audi A5]] [[coupé]].  The Q5 is the second Audi model in the "Q" range, after the [[full-size]] [[Audi Q7|Q7]].  The Q5 slots above the future [[Audi Q3|Q3]], which will be based on the [[Volkswagen Tiguan]].
+
+==First generation==
+===Vehicle models===
+Initial vehicle models for US and Canada include 3.2 FSI.
+
+The vehicle was unveiled in 2008 Beijing Auto Show.<ref>[http://blogs.insideline.com/straightline/2008/04/2009-audi-q5-2008-beijing-auto-show.html 2009 Audi Q5: 2008 Beijing Auto Show]</ref>
+
+The Q5 commenced shipments in October 2008 for [[Europe]], and the first quarter of 2009 in [[North America]].
+
+US model went on sale in 2009-03 as 2009 model year vehicle. Early models include 3.2 FSI.<ref>[http://green.autoblog.com/2009/01/29/audi-claims-best-in-class-mileage-for-q5-still-cant-touch-the/ Audi claims best in class mileage for Q5, still can't touch the TDI]</ref>
+
+Indian models went on sale in 2009-06, and were built from Audi's Ingolstadt facility. Launch models include 3.0 TDI, 2.0 TFSI (211PS).<ref>[http://www.dancewithshadows.com/autoindia/audi-q5-india-launch-in-june-2009/ Audi Q5 India launch in June 2009]</ref><ref>[http://www.headlinesindia.com/business-news/pr-wire/audi-introduces-the-audi-q5-in-india-13390.html Audi introduces the Audi Q5 in India]</ref>
+
+Middle East models went on sale in 2009 Q2. Launch models include 2.0 TFSI (211PS), 3.2 FSI.<ref>[http://ae.zawya.com/story.cfm/sidZAWYA20080424125918 The new Audi Q5 unveiled in Bejing: Middle East arrival in Q2 2009]</ref>
+
+===Engines===
+{| class="wikitable"
+|-
+!colspan=4|Petrol engines
+|-
+!Model!!Year!!Engine type!!Power, torque@rpm
+|-
+|2.0 TFSI||2009-||{{convert|1984|cc|L cuin|abbr=on}} I4 turbo||{{convert|180|PS|kW hp|0|abbr=on}}@4000-6000, {{convert|320|Nm|0|abbr=on}}@1500-4200
+|-
+|2.0 TFSI||2008-||{{convert|1984|cc|L cuin|abbr=on}} I4 turbo||{{convert|211|PS|kW hp|abbr=on}}@4300-6000, {{convert|350|Nm|0|abbr=on}}@1500-4200
+|-
+|3.2 FSI||2009-||{{convert|3197|cc|L cuin|abbr=on}} V6||{{convert|270|PS|kW hp|0|abbr=on}}@6500, {{convert|330|Nm|0|abbr=on}}@3000-5000
+|-
+!colspan=4|Diesel engines
+|-
+!Model!!Year!!Engine type!!Power, torque@rpm
+|-
+|2.0 TDI||2009-||{{convert|1968|cc|L cuin|abbr=on}} I4 turbo common rail||{{convert|143|PS|kW hp|0|abbr=on}}@4200, {{convert|320|Nm|0|abbr=on}}@1750-2500
+|-
+|2.0 TDI||2008-||{{convert|1968|cc|L cuin|abbr=on}} I4 turbo common rail||{{convert|170|PS|kW hp|0|abbr=on}}@4200, {{convert|350|Nm|0|abbr=on}}@1750-2500
+|-
+|3.0 TDI||2008-||{{convert|2967|cc|L cuin|abbr=on}} V6 turbo common rail||{{convert|240|PS|kW hp|0|abbr=on}}@4000-4400, {{convert|500|Nm|0|abbr=on}}@1500-3000
+|}
+
+180PS 2.0 TFSI and 143PS 2.0 TDI engines were introduced in Europe beginning in 2009.<ref>[http://green.autoblog.com/2009/07/10/audi-adds-to-entry-level-engines-to-euro-q5-and-a4-allroad/ Audi adds to entry level engines to Euro Q5 and A4 allroad]</ref>
+
+===Transmissions===
+{| class="wikitable"
+|-
+!colspan=4|Petrol engines
+|-
+!Model!!Year!!Standard!!Optional
+|-
+|2.0 TFSI (180PS)||2009-||6-speed manual||-
+|-
+|2.0 TFSI (211PS)||2008-||6-speed manual||7-speed S tronic
+|-
+|3.2 FSI||2009-||6-speed Tiptronic, 7-speed S tronic||-
+|-
+!colspan=4|Diesel engines
+|-
+!Model!!Year!!Standard!!Optional
+|-
+|2.0 TDI (143PS)||2009-||6-speed manual||-
+|-
+|2.0 TDI (170PS)||2008-||6-speed manual||7-speed S tronic
+|-
+|3.0 TDI||2008-||7-speed S tronic||-
+|}
+
+German models include standard 7-speed S tronic transmission for all V6 models.
+
+US and Canadian Q5 3.2 FSI models include 6-speed Tiptronic as standard transmission.<ref>[http://microsites.audicanada.ca/my09/pdf/ca/2009_Audi_Q5.pdf Audi Q5 eBrochure (Canada)]</ref><ref>{{cite web|url=http://www.automoblog.net/2009/01/29/all-new-2009-audi-q5/|title=Audi's All-New Q5 SUV|publisher=Automoblog.net}}</ref>
+
+All models include quattro AWD.
+
+===Equipment===
+[[Harman International Industries|Harmon/Becker Automotive Systems]] produced Audi's new updated [[Multi Media Interface]] (MMI) technology for Q5.  The new system includes navigation, communication, and wide-screen entertainment. An embedded [[Nvidia]] [[graphics processor]] based on a stable previous generation GPU core will be used in the new MMI system.{{Citation needed|date=July 2009}} A three-dimensional orientation view with true-to-scale terrain and photorealistic depictions of key landmarks will also be generated.  Included features in this new system are [[Universal Serial Bus|USB]] storage media ([[iPod]] or [[MP3]]), [[satellite radio]], and an integral four-band [[GSM]] [[mobile phone|mobile/cell phone]] (SIM card ready) with [[Bluetooth]] connectivity. 
+
+S line package includes 20-inch S line wheels, headlight washers, sport steering wheels with shift paddles, brushed aluminium inlays, S line aluminium door sills, black headliner. The Offroad exterior package includes front and rear underbody protection panels, along with flared fender and door sill protection for a more capable look.
+
+===Carrying and towing capabilities===
+A sensor informs the ESP system if a roof rack has been mounted, which will cause the Audi Q5's centre of gravity to be shifted higher in keeping with the roof load of up to {{convert|100|kg|lb|abbr=on}}.  If a roof rack is present, the ESP engages earlier in the handling limit.  Without a roof load, the driver is free to tap the full dynamic potential of the Audi Q5.
+
+The Audi Q5 is capable of towing up to 2.0 tonnes; the standard hill descent control system makes it safe to navigate down steep inclines by regulating the preselected speed when driving at under {{convert|30|km/h|mph|abbr=on}}.  The Q5 is also fitted with an advanced [[Trailer Stability Program]] designed to combat any unwanted snaking when towing a large trailer or caravan.
+
+===Audi Cross Cabriolet quattro concept (2007)===
+It is a concept vehicle for the then upcoming Q5. It is a 2-door convertible with 3.0 TDI engine rated {{convert|240|PS|kW hp|0|abbr=on}} and {{convert|500|Nm|0|abbr=on}}, quattro permanent four-wheel drive, 8-speed automatic transmission, Copper Sunset body, LED headlights, 21-inch wheels with 265/35R21 tyres, seats with White Stone leather upholstery, MMI, 505W Bang & Olufsen sound system and internet radio, CDC (continuous damping control) shock absorbers, electric ride height adjustment (40mm), 380/356mm front/rear ceramic brake discs with 6-piston monobloc aluminium front, and floating rear callipers, Audi drive select.<ref>[http://www.audiworld.com/news/07/audi-cross-cab-quattro-concept/ In Depth: Audi Cross Cabriolet quattro Concept]</ref>
+
+The vehicle was unveiled in 2007 Los Angeles Auto Show.<ref>[http://green.autoblog.com/2007/11/15/2007-la-auto-show-videos-audi-cross-cabriolet-quattro-honda-fc/ 2007 LA Auto Show videos: Audi Cross Cabriolet Quattro, Honda FCX Clarity, Katie Couric]</ref>
+
+===Audi Q5 custom concept (2009)===
+It is a concept vehicle that includes a enhanced engine, 7-speed S tronic transmission. The 3.0 TFSI V6 engine was rated {{convert|408|PS|kW hp|abbr=on}}@6000-7000rpm and {{convert|500|Nm|lbft|abbr=on}}@3000-5500rpm. Other features include ceramic brakes, active sound exhaust system, 90 millimeter wider track, 60 millimeter lower ride height, 21-inch wheels of 7 twin-spoke design, modified air intake, cooling water strut brace in engine compartment, stainless steel-plated pedals, S line sport seats, panorama roof system, "Wörthersee 09" adhesive film, textile floor mats with "Wörthersee 09" print application, Audi drive select vehicle dynamics system, parking aid with rearview camera, voice control, Audi lane assist lane change assistant, headlight range control with cornering lights.
+
+The vehicle was unveiled in Wörthersee Tour 2009.<ref>[http://www.autoblog.com/2009/05/19/worthersee-2009-audi-q5-custom-concept/ Wörthersee 2009: 408-hp Audi Q5 Custom Concept]</ref>
+
+===Audi Q5 hybrid===
+Audi was originally reported that it would offer Q5 hybrid as launch model,<ref>[http://green.autoblog.com/2008/02/13/us-audi-dealers-learn-that-q7-tdi-q5-hybrid-on-the-way/ US Audi dealers learn that Q7 TDI, Q5 hybrid are on the way]</ref> but it was later reported that Audi suspended the plan because of unsatisfying crash test result for the nickel metal hydride batteries.<ref>[http://green.autoblog.com/2008/12/16/audi-q5-hybrid-doa/ Audi Q5 Hybrid DOA]</ref> In 2009, Audi announced it would resume the Q5 hybrid development.<ref>[http://green.autoblog.com/2009/02/02/on-again-off-again-audi-q5-hybrid-is-apparently-back-on-again-f/ On again, off again Audi Q5 Hybrid is apparently back on again for 2010]</ref>
+
+Production version would be on sale in 2012 for Japanese market.<ref>[http://www.greencarcongress.com/2008/11/report-audi-tar.html Report: Audi Targeting Hybrid for Japan in 2012]</ref>
+
+===Production===
+The new vehicle will be built in Audi's home town of [[Ingolstadt]].  It will need an investment of about US$400 million in production tooling and expansion.{{Citation needed|Euros please|date=May 2008}}  
+
+Audi announced Q5 assembly would begin in 2010-03 in [[India]] to avoid import taxes and compete with BMW AG, Daimler AG and Porsche AG in the world's second-fastest growing major economy.<ref>[http://cartrends.wordpress.com/2009/09/03/audi-to-build-q5-in-india/ Audi to Build Q5 in India]</ref>
+
+The Q5 will also be produced in [[Changchun]], [[People's Republic of China|China]] for the Chinese market.{{Citation needed|Euros please|date=September 2009}} The first public introduction of the Audi Q5 was at the 2008 [[Beijing Auto Show]] on 19 April 2008 (alongside the similarly-competitive [[Mercedes-Benz GLK-Class]].
+
+==See also==
+*[[Audi]]
+*[[SUV]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commonscat}}
+* [http://www.zigwheels.com/Reviews/First-Drive:-Audi-Q5/Audi1212_20080730-1-2 Audi Q5 Driven!]
+* [http://microsites.audi.com/q5onlinespecial/html/popup.html?locale=en_US Audi Q5 Microsite]
+* [http://jalopnik.com/381765/2009-audi-q5-revealed-officially 2009 Audi Q5 Revealed, Officially]
+* [http://www.autobloggreen.com/2008/02/13/us-audi-dealers-learn-that-q7-tdi-q5-hybrid-on-the-way/ US Audi dealers learn that Q5 hybrid is on the way]
+* [http://www.ausmotive.com/2008/11/16/audi-q5-s-line-image-gallery.html Image gallery: Audi Q5 with S line exterior packge]
+* [http://www.thefasters.ru/2008/12/auto-audi-q5-staroe-mini-q7-ili-novoe/ New Audi Q5 in Russian ]
+* [http://www.q5-audi.info Audi Q5 Wallpapers]
+<br />
+{{Audi}}
+
+[[Category:Audi vehicles|Q5]]
+[[Category:Crossover SUVs]]
+[[Category:Compact SUVs]]
+[[Category:All wheel drive vehicles]]
+[[Category:Hybrid electric vehicles]]
+[[Category:Vehicles introduced in 2008]]
+
+[[cs:Audi Q5]]
+[[da:Audi Q5]]
+[[de:Audi Q5]]
+[[es:Audi Q5]]
+[[fr:Audi Q5]]
+[[hr:Audi Q5]]
+[[it:Audi Q5]]
+[[nl:Audi Q5]]
+[[no:Audi Q5]]
+[[pl:Audi Q5]]
+[[pt:Audi Q5]]
+[[ro:Audi Q5]]
+[[ru:Audi Q5]]
+[[sk:Audi Q5]]
+[[fi:Audi Q5]]
+[[sv:Audi Q5]]
+[[uk:Audi Q5]]

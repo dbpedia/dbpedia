@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = transmission
+| rdfs:domain = Automobile
+| rdfs:range = xsd:string
+}}

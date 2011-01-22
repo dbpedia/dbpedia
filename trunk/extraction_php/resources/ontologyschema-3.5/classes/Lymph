@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Lymph
+| rdfs:subClassOf = AnatomicalStructure
+}}

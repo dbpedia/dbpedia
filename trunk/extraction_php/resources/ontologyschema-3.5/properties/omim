@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = OMIM
+| rdfs:range = xsd:string
+}}

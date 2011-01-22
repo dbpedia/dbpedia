@@ -1,0 +1,21 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Album
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Longtype | ontologyProperty = Album/longtype }}
+	{{ DBpediaPropertyMapping | templateProperty = Director | ontologyProperty = Album/director }}
+	{{ DBpediaPropertyMapping | templateProperty = Producer | ontologyProperty = Album/producer }}
+	{{ DBpediaPropertyMapping | templateProperty = Reviews | ontologyProperty = Album/review }}
+	{{ DBpediaPropertyMapping | templateProperty = Compiler | ontologyProperty = Album/compiler }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Type | ontologyProperty = Work/type }}
+	{{ DBpediaPropertyMapping | templateProperty = Artist | ontologyProperty = MusicalWork/artist }}
+	{{ DBpediaPropertyMapping | templateProperty = Released | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Recorded | ontologyProperty = MusicalWork/recordDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Recorded | ontologyProperty = MusicalWork/recordPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = Genre | ontologyProperty = Work/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = Length | ontologyProperty = Work/runtime | unit = minute }}
+	{{ DBpediaPropertyMapping | templateProperty = Language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = Label | ontologyProperty = MusicalWork/label }}
+	{{ DBpediaPropertyMapping | templateProperty = Last album | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = Next album | ontologyProperty = Work/subsequentWork }}
+}}

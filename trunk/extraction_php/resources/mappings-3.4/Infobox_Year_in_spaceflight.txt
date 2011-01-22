@@ -1,0 +1,20 @@
+{{ DBpediaTemplateMapping
+| mapToClass = YearInSpaceflight
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = first | ontologyProperty = YearInSpaceflight/firstLaunch }}
+	{{ DBpediaPropertyMapping | templateProperty = last | ontologyProperty = YearInSpaceflight/lastLaunch }}
+	{{ DBpediaPropertyMapping | templateProperty = total | ontologyProperty = YearInSpaceflight/totalLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = success | ontologyProperty = YearInSpaceflight/successfulLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = failed | ontologyProperty = YearInSpaceflight/failedLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = partial | ontologyProperty = YearInSpaceflight/partialFailedLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = catalogued | ontologyProperty = YearInSpaceflight/cosparId }}
+	{{ DBpediaPropertyMapping | templateProperty = firstflight | ontologyProperty = YearInSpaceflight/countryWithFirstSpaceflight }}
+	{{ DBpediaPropertyMapping | templateProperty = firstsat | ontologyProperty = YearInSpaceflight/countryWithFirstSatellite }}
+	{{ DBpediaPropertyMapping | templateProperty = firstlaunch | ontologyProperty = YearInSpaceflight/countryWithFirstSatelliteLaunched }}
+	{{ DBpediaPropertyMapping | templateProperty = firsttrav | ontologyProperty = YearInSpaceflight/countryWithFirstAstronaut }}
+	{{ DBpediaPropertyMapping | templateProperty = maidens | ontologyProperty = YearInSpaceflight/maidenFlightRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = retired | ontologyProperty = YearInSpaceflight/retiredRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = orbital | ontologyProperty = YearInSpaceflight/orbitalFlights }}
+	{{ DBpediaPropertyMapping | templateProperty = suborbital | ontologyProperty = YearInSpaceflight/suborbitalFlights }}
+	{{ DBpediaPropertyMapping | templateProperty = totalcrew | ontologyProperty = YearInSpaceflight/totalTravellers }}
+}}

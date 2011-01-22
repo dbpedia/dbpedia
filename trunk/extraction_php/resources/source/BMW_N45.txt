@@ -1,0 +1,44 @@
+{{Infobox Automobile
+|name=BMW N45 engine
+|manufacturer=[[BMW]]
+|production=[[2004]]&ndash;
+|predecessor=[[BMW N42]]
+|class=[[Straight-4]]
+|engine=
+}}
+The '''N45''' is a compact [[straight-4]] [[automobile]] [[piston engine]] from [[BMW]]. The series debuted with the [[BMW E87|E87]] 116i in [[2004]]. The engine does not have [[Valvetronic]].
+__NOTOC__
+==Models==
+<br>
+<br>
+{| class=wikitable
+|-
+!Engine!!Displacement!!Stroke/Bore!!Power!!Torque!!Redline!!Year
+|-
+|[[#N45B16|N45B16]]||1.6&nbsp;L (1596&nbsp;cc / 97&nbsp;in³)||72 mm / 84 mm||85&nbsp;kW (115&nbsp;PS) @ 6000||150&nbsp;N·m (110&nbsp;ft·lbf) @ 4300|| ||2004
+|-
+|[[#N45B20S|N45B20S]]||2.0&nbsp;L (1997&nbsp;cc / 121&nbsp;in³)||88 mm / 85 mm||126&nbsp;kW (173&nbsp;PS) @ 7000||200&nbsp;N·m (147&nbsp;ft·lbf) @ 4250||7300||2009
+|}
+
+The facelift version of the N45B16 engine was introduced in 2007.  This engine contains BMW's Efficient Dynamics technology and Valvetronic.  From March 2009, the 116i contains the [[N43B20|N43B20]].
+
+==Usage==
+===N45B16===
+*2004-present [[BMW E87]] 116i
+
+===N45B20S===
+*2006 [[BMW E90]] 320si (Limited production model)
+
+==See also==
+* [[List of BMW engines]]
+* [[BMW N46]]
+
+[[Category:BMW engines|N45]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:BMW N45]]
+[[es:BMW N45]]
+[[it:BMW N45]]
+[[ja:BMW・N45エンジン]]
+[[no:BMW N45]]
+[[pl:BMW N45]]

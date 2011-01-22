@@ -1,0 +1,174 @@
+{{refimprove|date=July 2009}}
+{{Infobox Automobile engine
+|name          = Volkswagen G60 engine<br>Volkswagen G40 engine
+|image         = 
+|aka           = 
+|manufacturer  = [[Volkswagen Group]] (VWAG)
+|production    = '''''G60''''': August 1988&ndash;July 1993<br>'''''G40''''': August 1986&ndash;July 1994
+|predecessor   = 
+|successor     = 2005 [[list of Volkswagen Group petrol engines#1.4 TSI 90-133kW|1.4&nbsp;litre 'Twincharger']]
+|configuration = [[inline-four engine|inline-four]] [[automobile]] [[petrol engine]]
+|displacement  = '''''G60''''': {{convert|1781|cc|1|abbr=on|lk=on}}<br>'''''G40''''': {{convert|1272|cc|1|abbr=on}}
+|bore          = '''''G60''''': {{convert|81.0|mm|3|abbr=on|lk=on}}<br>'''''G40''''': {{convert|75.0|mm|3|abbr=on}}
+|stroke        = '''''G60''''': {{convert|86.4|mm|3|abbr=on}}<br>'''''G40''''': {{convert|72.0|mm|3|abbr=on}}
+|length        = 
+|diameter      = 
+|width         = 
+|height        = 
+|weight        = 
+|block         = [[gray iron|grey]] [[cast iron]]
+|head          = [[casting|cast]] [[aluminium alloy]]
+|valvetrain    = 2 [[poppet valve#internal combustion engine|valves]] per [[cylinder (engine)|cylinder]], [[hydraulics|hydraulic]] [[hydraulic tappet|valve lifters]], [[timing belt|belt]]-driven [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC)
+|supercharger  = [[G-Lader]], with [[intercooler]]
+|fuelsystem    = [[common rail]] electronic [[fuel injection#multi-point fuel injection|multi-point]] [[fuel injection]]
+|management    = [[Robert Bosch GmbH|Bosch]] [[Digifant Engine Management system|Digifant]]
+|fueltype      = unleaded [[gasoline|petrol (gasoline)]]
+|oilsystem     = [[wet sump]]
+|coolingsystem = [[water cooling|water cooled]]
+|power         = '''''G60''''': {{convert|118|kW|PS bhp|0|abbr=on|lk=on}}<br>'''''G40''''': {{convert|85|kW|PS bhp|0|abbr=on}}
+|specpower     = 
+|torque        = '''''G60''''': {{convert|225|Nm|0|abbr=on|lk=on}}<br>'''''G40''''': {{convert|150|Nm|0|abbr=on}}
+|compression   =  8.0:1
+|fuelcon       = 
+|specfuelcon   = 
+|oilcon        = 
+}}
+[[Image:Polo G40.jpg|thumb|left|200px|The original user of the [[G-Lader]] [[supercharger]] - in a 1987 [[Volkswagen Polo G40|Mk2 Volkswagen Polo Coupé G40]]]]
+[[Image:VW Corrado G60 red vl 1991 TCE.jpg|thumb|left|200px|One of the users of the G60 engine, the [[Volkswagen Corrado]] 2-door coupé]]
+[[Image:Golf2 g60ltd front.JPG|thumb|left|200px|A rare [[Volkswagen Golf Mk2]] G60 Limited [[hot hatch]] - one of only 71 produced]]
+'''G60''' refers to an [[inline-four engine|inline-four]] [[cylinder (engine)|cylinder]] [[automobile]] [[petrol engine]], which uses a specific method of [[forced induction]] - by way of a specific type of [[supercharger]].  The G60 engine was formerly manufactured by the [[Germany|German]] [[automotive industry|carmaker]] [[Volkswagen Group]], and was installed in a limited number and range of '[[hot hatch]]' cars from their [[Volkswagen|Volkswagen Passenger Cars]] [[marque]] from August 1988 to July 1993.<ref>[[ETKA]]</ref>
+
+A smaller '''G40''' engine of identical design had earlier been installed in the [[Volkswagen Polo Mk2|Mk2 Volkswagen Polo]] [[Volkswagen Polo G40|Coupé GT G40]] from August 1986 to July 1994.
+__TOC__
+
+==Design and specifications==
+The '''G60''' is a 1.8&nbsp;[[litre]] [[internal combustion engine]], which [[engine displacement|displaces]] {{convert|1781|cc|1|lk=on}} from a [[bore (engine)|cylinder bore]] of {{convert|81.0|mm|3|lk=on}}, and a [[stroke (engine)|piston stroke]] of {{convert|86.4|mm|3}}.  Its [[cylinder block]] is constructed from [[gray iron|grey]] [[cast iron]], and its [[cylinder head]] is [[casting|cast]] [[aluminium alloy]], with additional post-production heat treatment.  The [[crankcase]] contains a [[forge]]d [[steel]] [[crankshaft]] which runs in five [[main bearing]]s, and cast [[piston]]s with increased size [[gudgeon pin]]s.  It has two [[poppet valve#internal combustion engine|valves]] per cylinder (eight valves of WIN), which are operated by a [[timing belt|toothed belt]]-driven forged steel [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC) via [[hydraulics|hydraulic]] [[hydraulic tappet|valve lifters]], with the valves being closed by two [[concentric]] valve [[spring (device)|springs]].  Charged air is cooled via an [[intercooler]], and the operation and control of the engine is managed by a [[Robert Bosch GmbH|Bosch]] [[Digifant Engine Management system|Digifant]] [[engine control unit]], which includes [[common rail]] electronic [[fuel injection#multi-point fuel injection|multi-point]] [[fuel injection]] and a [[engine knocking|knock]] sensor.  It produced a maximum rated [[motive power|motive]] [[power (physics)|power]] output of {{convert|118|kW|PS bhp|0|lk=on}} at 5,800&nbsp;[[revolutions per minute]] (rpm), and could generate a turning force [[torque]] of {{convert|225|Nm|0|lk=on}} at 4,000&nbsp;rpm.
+
+Although it was based on an existing [[Volkswagen Group]] (VWAG) engine from their EA111 series, it underwent so many modifications, it is usually regarded as a separate powerplant from others which VWAG produced.  It was named after the intricate "[[G-Lader]]" [[magnesium]]-cased supercharger that it was mated to - this supercharger having a {{convert|60|mm|in|2|lk=on}} diameter inlet, hence the "G60" moniker.  It utilised a side mounted intercooler (SMIC), positioned in front of the left front wheel, to lower the temperature of the compressed charged engine intake air.
+
+The G60 engine was developed from the earlier, smaller version, called the '''G40''' 1.3&nbsp;litre engine.  This displaced {{convert|1272|cc|1|abbr=on}} from a bore of {{convert|75.0|mm|3}}, and a stroke of {{convert|72.0|mm|3}}.  The G40s supercharger had an inlet diameter of {{convert|40|mm|in|2|abbr=on}}, hence the "G40" name.  This G40 engine produced a maximum power of {{convert|85|kW|PS bhp|0}} at 5,500&nbsp;rpm, and torque of {{convert|150|Nm|0}} at 3,500&nbsp;rpm.
+
+==Applications==
+The original "[[G-Lader]]" engine, the smaller version of the G60 engine, called the '''G40''', was previously used in the [[Volkswagen Polo Mk2|Mk2 Volkswagen Polo]] [[Volkswagen Polo G40|Coupé GT G40]] supermini.  The G40 engine could propel this nervous little car to a top speed of {{convert|196|km/h|1|abbr=on}}.
+
+The larger '''G60''' engine debuted in August 1988 in the [[Volkswagen Passat#B3|B3 Volkswagen Passat G60]] [[sedan (automobile)|saloon]], and the [[Volkswagen Golf Mk2|Mk2 Volkswagen Golf G60]] [[hatchback]].  In the Golf G60, it was capable of propelling the car from standstill to {{convert|100|km/h|1|lk=on}} in 7.8&nbsp;[[second]]s, reaching a top speed of {{convert|216|km/h|1|abbr=on}}.
+
+A month later, in September 1988, the [[Volkswagen Corrado|Volkswagen Corrado G60]] was released.  Performance figures for the Corrado G60 indicate that the standard discipline of sprinting from rest to {{convert|100|km/h|1|abbr=on}} took 8.3&nbsp;seconds, and had a maximum speed of {{convert|225|km/h|1|abbr=on}}.
+
+In the [[United States]], the G60 engine was used only in the Corrado, and this was dropped in 1992 in favour of the newer, more powerful [[VR6 engine]].
+
+A limited-production, [[four-wheel drive]] (4WD) '[[4motion|Synchro]]' variant of the Golf G60, called the 'Golf Rallye' was also powered by the eight-valve G60, but the engine was reduced to {{convert|1763|cc|1|lk=on}} for sports [[homologation]] purposes.  It included a larger intercooler, which is mounted across the full width of the radiator.  Power remained {{convert|118|kW|PS bhp|0|abbr=on}}.
+
+A [[multi-valve|16-valve]] G60 engine was used in the ultra-rare 'Golf Limited', of which only 71 were produced, all with [[four-wheel drive]].  Power was raised to {{convert|154|kW|PS bhp|0|abbr=on}}, and the car could now accelerate to {{convert|100|km/h|1|abbr=on}} in 6.4&nbsp;seconds, an could go on to reach an impressive top speed of {{convert|247|km/h|1|abbr=on}}.
+
+The G60 engine, like any supercharged or [[turbocharger|turbocharged]] engine, was sensitive to high air temperatures, so engine performance very much depended on the weather conditions.  Some models, like the Corrado, or even some variants of the Golf Rallye, had a bigger, better-placed [[intercooler]], resulting in increased, and more consistent performance compared to the standard placed intercooler.
+
+Although there is no recommendation from Volkswagen, the supercharger compressor should be serviced every {{convert|100000|km|-4|lk=on}}, otherwise an expensive repair could be likely.
+
+==VW engine ID codes==
+{|class="wikitable" style="text-align: center; font-size: 96%;"
+|colspan="6" align="center"  bgcolor=#C0C0C0|<big>all Volkswagen [[G-Lader]] [[internal combustion engine]]s are [[inline-four engine|inline four cylinder]] [[overhead camshaft#single overhead camshaft|SOHC]] designs</big><br>operate on the [[four-stroke engine|four-stroke cycle]] with electronic [[fuel injection#multi-point fuel injection|multi-point]] [[fuel injection]], are [[water cooling|water cooled]], and use a G-Lader [[supercharger]]
+|-
+!engine<br>ID code!![[engine displacement|displacement]], [[valvetrain]],<br>engine management!!max. [[motive power|power]]<br>@ [[revolutions per minute|rpm]]!!max. [[torque]]<br>@ rpm!!applications!!years<br>installed
+|-
+|colspan="6" align="center" bgcolor=#C0C0C0|<big>''[[petrol engine]]s''</big>
+|-
+|align="left"|'''G40 [[list of discontinued Volkswagen Group petrol engines#1.3 G40 85kW|PY]]'''
+|1272&nbsp;[[cubic centimetre|cc]], 8v [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC),<br>[[Robert Bosch GmbH|Bosch]] [[Digifant Engine Management system|Digifant]] electronic [[engine control unit]]
+|{{convert|85|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 5,500
+|{{convert|150|Nm|0|abbr=on|lk=on}}<br>@ 3,500
+|[[Volkswagen Polo Mk2|VW Polo Mk2]] [[Volkswagen Polo G40|GT G40]]
+|08/86-07/94
+|-
+|align="left"|'''G60 [[list of discontinued Volkswagen Group petrol engines#1.8 G60 118-154kW|1H]]'''
+|1763&nbsp;cc, 8v single overhead camshaft (SOHC),<br>Bosch Digifant electronic engine control unit
+|{{convert|118|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 5,800
+|{{convert|225|Nm|0|abbr=on|lk=on}}<br>@ 4,000
+|[[Volkswagen Golf Mk2|VW Golf Mk2 G60]]
+|08/88-07/89
+|-
+|align="left"|'''G60 [[list of discontinued Volkswagen Group petrol engines#1.8 G60 118-154kW|PG]]'''
+|1781&nbsp;cc, 8v single overhead camshaft (SOHC),<br>Bosch Digifant electronic engine control unit
+|{{convert|110|kW|PS bhp|0|abbr=on|lk=on}}
+|
+|[[Volkswagen Passat#B3|VW Passat (B3) G60]]
+|08/88-07/89
+|-
+|align="left"|'''G60 [[list of discontinued Volkswagen Group petrol engines#1.8 G60 118-154kW|PG]]'''
+|1781&nbsp;cc, 8v single overhead camshaft (SOHC),<br>Bosch Digifant electronic engine control unit
+|{{convert|118|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 5,800
+|{{convert|225|Nm|0|abbr=on|lk=on}}<br>@ 4,000
+|VW Golf Mk2 G60<br>VW Passat (B3) G60<br>[[Volkswagen Corrado|VW Corrado G60]]
+|08/88-07/91<br>08/88-07/93<br>09/88-07/93
+|-
+|align="left"|'''G60 [[list of discontinued Volkswagen Group petrol engines#1.8 G60 118-154kW|??]]'''
+|1781&nbsp;cc, [[multi-valve|16v]] single overhead camshaft (SOHC),<br>Bosch Digifant electronic engine control unit
+|{{convert|154|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 6,300
+|
+|[[Volkswagen Golf Mk2|VW Golf Mk2 Limited]]<br>[[4motion|Synchro 4WD]]
+|????
+|}
+
+==Future use of technology==
+Whilst it may seem a long period of time since the last [[Volkswagen]] engine with the [[G-Lader]] [[supercharger]] was installed in a Polo in 1994, [[Volkswagen Group]] have been thoroughly utilising the [[forced induction]] knowledge learned from these G40 and G60 engines.
+
+===Diesel engines===
+Volkswagen Group now have a long-established 'knowledge base' from both forms of [[forced induction]].  They first utilised this technology with [[turbocharger]]s in their [[turbodiesel|TurboDiesel]] 'TD' engines.  This then evolved into their highly regarded range of [[Turbocharged Direct Injection]] 'TDI' [[diesel engine]]s, which are now available throughout virtally every car and [[light commercial vehicle]] in the Volkswagen Group.
+
+Variants of their TDI engine have recently been used by [[Audi]] to great success in long-endurance prototype [[sports car racing]], including the first diesel-powered victory at the [[24 Hours of Le Mans]] in their [[Audi R10 TDI|R10 TDI]], at the cars first attempt.  [[SEAT]] have also tasted sucess in [[touring car racing]], winning both the Drivers' and Manufacturers' categories of the 2008 and 2009 [[World Touring Car Championship]]s, with their [[SEAT León#SEAT León in motorsport|SEAT León TDI]] racing [[hatchback]].
+
+Turbochargers on diesel engines are now seen as the norm, from ''all'' automotive manufacturers, and it is rare to find an automotive diesel engine without turbocharged forced induction, which was so successfully pioneered by Volkswagen Group.
+
+===Petrol engines===
+=====Turbochargers=====
+Turbochargers have also been of great benefit to recent [[petrol engine]]s in the Volkswagen Group.  Probably their most famous and widely used engine is their highly popular [[Audi]]-developed {{nowrap|[[list of Volkswagen Group petrol engines#1.8 20vT 110-176kW|1.8 litre 20-valve Turbo]]}} [[inline-four engine]].  This has been used in many of their mainstream, and [[high performance vehicle|high performance cars]]; such as the original [[Audi S3]] and [[Audi TT]], the [[Volkswagen Golf Mk4#GTI|Mk4 VW Golf GTI]], the original [[Škoda Octavia#1U|Škoda Octavia vRS]], and the original [[SEAT León]] Cupra R.  This strong, and highly tuneable engine has won many prestigious awards, and is highly regarded by professional engine tuners and [[auto racing|motorsports]] teams.  Furthermore, this same engine is used in a very high state of tune in the one-make [[Formula Palmer Audi]] (FPA) [[open wheel car|open-wheeled]] racing series.
+
+Volkswagen Groups' current range of Audi-developed [[gasoline direct injection|Fuel Stratified Injection]] engines, again award winning, and again winning at Le Mans - continue to champion the turbocharger in petrol engines, and also include [[cylinder (engine)|cylinder]]-direct [[fuel injection]], making them not only powerful, but now also very fuel efficient.
+
+Audi-developed [[straight-five engine|straight-fives]] (including the [[list of discontinued Volkswagen Group petrol engines#2.2 T RS2 232kW|232&nbsp;kW 2.2 Turbo]] from the [[Audi RS2 Avant]]), [[V6 engine]]s (the [[Audi RS4#B5|B5 Audi RS4]] [[list of discontinued Volkswagen Group petrol engines#2.7 T V6 280kW RS4|280&nbsp;kW 2.7 T V6]]), and even [[V8 engine]]s (the [[Audi RS6#C5|C5 Audi RS6]] {{nowrap|[[list of discontinued Volkswagen Group petrol engines#4.2 V8 biturbo 331-353kW (RS6)|331-353 kW 4.2 V8]]}}), have successfully used turbos, the latter two [[V engine]]s as '[[twin-turbo|biturbo]]'s.  Current 'large capacity' Volkswagen Group users of turbos include [[Lamborghini]]-derrived [[list of Volkswagen Group petrol engines#5.0 TFSI V10 427kW (Audi C6 RS6 - BUH)|Audi C6 RS6 5.0 TFSI V10]] biturbo engine, and the [[Bugatti Automobiles|Bugatti]] [[Bugatti Veyron|Veyron EB16.4]] [[list of Volkswagen Group petrol engines#8.0 W16 736kW|8.0&nbsp;litre 736&nbsp;kW sixteen cylinder]] 'quad-turbo' engine, which can achieve an astonishing (for a road-legal car) top speed of {{convert|406|km/h|1|lk=on}}!
+
+=====Superchargers=====
+The [[supercharger]] has also seen a recent return in a [[petrol engine]].  First announced at the 2005 [[Frankfurt Motor Show]], Volkswagen released the [[list of Volkswagen Group petrol engines#1.4 TSI 90-133kW|1.4&nbsp;litre TSI 'Twincharger']] engine - which uses both a turbocharger, ''and'' an [[Eaton Corporation|Eaton]] fifth-generation [[Roots type supercharger|Roots]]-type positive displacement supercharger.  Dependent on the state of tune, power output from this relatively diminutive engine ranges from {{convert|90|kW|PS bhp|0|lk=on}}, and can rise to {{convert|133|kW|PS bhp|0}} - which puts it on a par with a conventionally aspirated 2.3&nbsp;litre engine.  And once again, another Volkswagen Group engine winning a highly prestigious award, this time the "[[International Engine of the Year]]".<ref>{{cite web|first=Jim|last=Parks|title=Eaton Supercharger Boosts VW Green Engine Of The Year|url=http://www.eaton.com/EatonCom/OurCompany/NewsandEvents/NewsList/NewsArticle/CT_236646 |work=Eaton Corporation|publisher=Eaton.com|date=2009-07-10|accessdate=2009-07-24|quote=''The highly regarded engine was named International Engine of the Year, Best Engine in the 1-litre to 1.4-litre category, and Green Engine of the Year, ahead of state-of-the-art hybrid and twin-turbo diesel competition.''}}</ref>
+
+And for larger displacement engines, the supercharger has been fitted to an all-new [[aluminium alloy]] 90° [[V6 engine]],<ref>{{cite web|first=Jim|last=Parks|title=Audi Selects Eaton TVS™ Supercharger To Power Fuel Efficient V6|url=http://www.eaton.com/EatonCom/SearchResults/CT_167907 |work=Eaton Corporation|publisher=Eaton.com|date=2008-07-17|accessdate=2009-07-24|quote=''when paired with direct injection and enhanced transmission ratio, the TVS supercharger helps the engine achieve 290 hp with an average fuel economy of nearly 24 miles per gallon''}}</ref> which [[engine displacement|displaces]] {{convert|2995|cc|1|lk=on}}.  Now used in all current Audi four-[[car door|door]] [[sedan (automobile)|saloons]] and five-door Avants (Audi's name for an [[station wagon|estate car]]) - from the [[Audi A4]] upwards, along with the two-door [[Audi A5]] coupé - it uses an all-new Eaton [[TVS Supercharger|'Twin Vortices Series' (TVS)]] Roots-type positive displacement compressor.  This new blower features twin four-lobe rotors which are twisted 160-degrees.  It is mounted on top of the engine within the 'Vee', pumping air directly into the inlet manifold.  This new design of supercharger is said to reduce the [[noise, vibration, and harshness]] (NVH) of the engine.  In 'standard' tune, this engine produces {{convert|213|kW|PS bhp|0}} at 4,850-6,500&nbsp;rpm, and {{convert|420|Nm|0}} at 2,500-4,800&nbsp;rpm.  However, a higher performance variant is fitted to the latest [[Audi S4#B8|B8 Audi S4]],<ref>{{cite web|first=Jim|last=Parks|title=Eaton TVS™ Supercharger Featured On 2010 Audi S4/S4 Avant|url=http://www.eaton.com/EatonCom/SearchResults/CT_193399 |work=Eaton Corporation|publisher=Eaton.com|date=2008-11-06|accessdate=2009-07-24|quote=''When combined with direct injection, the TVS surpasses twin turbochargers in packaging, starting performance and responsiveness''}}</ref> and in this car, produces {{convert|245|kW|PS bhp|0}} at 5,500-7,000&nbsp;rpm, and {{convert|440|Nm|0}} at 2,500-5,000&nbsp;rpm - which makes this new S4 more potent than its immediate predecessor, with its 4.2&nbsp;litre V8.  This engine is also scheduled to be fitted to a new [[hybrid vehicle|hybrid]] version of the [[Volkswagen Touareg]].<ref>{{cite web|first=Jim|last=Parks|title=First Hybrid Application Of TVS® Supercharger To Appear On 2010 Volkswagen Touareg; Fuel Economy Improved 17- 25 Percent|url=http://www.eaton.com/EatonCom/SearchResults/CT_205709 |work=Eaton Corporation|publisher=Eaton.com|date=2009-03-04|accessdate=2009-07-24}}</ref>
+
+==See also==
+{{commons category|Volkswagen Group engines}}
+*[[list of Volkswagen Group petrol engines]]
+*[[list of Volkswagen Group diesel engines]]
+*[[list of discontinued Volkswagen Group petrol engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+*[[list of North American Volkswagen engines]]
+*[[Wasserboxer]]
+*[[VR6 engine]]
+*[[Turbocharged Direct Injection]] (TDI)
+*[[Suction Diesel Injection]] (SDI)
+*[[BlueMotion]]
+*[[list of Volkswagen Group platforms]]
+
+==References==
+{{refbegin}}
+*{{cite journal|last=Sly|first=James|date=January/February 1990|title=Development of the G-60|journal=VW & Porsche magazine|pages=pg.52/53|accessdate=2009-07-23}}
+{{refend}}
+{{reflist}}
+
+==External links==
+*[http://www.VolkswagenAG.com Volkswagen Group corporate website]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Chemnitz.html Chemnitz (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Kassel.html Kassel (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Salzgitter.html Salzgitter (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Polkowice.html Polkowice (Poland) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/amerika/Sao_Carlos.html São Carlos (Brazil) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Asien/Shanghai.html Shanghai (China) - engine plant Mobility and Sustainability]
+**[http://www.audi.com/com/brand/en/company/investor_relations/audi_at_a_glance.html Audi at a glance - includes information on the Győr engine plant]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen Group brands}}
+
+[[Category:Volkswagen engines]]
+[[Category:Superchargers]]
+[[Category:Lists of engines]]
+
+[[de:G-Lader]]
+[[es:G60]]

@@ -1,0 +1,46 @@
+{{Infobox Automobile
+| name              = Volkswagen Concept BlueSport 
+| image             = [[File:Volkswagen Bluesport--DC.jpg|250px|Volkswagen Bluesport Concept]]
+| manufacturer      = [[Volkswagen]]
+| parent_company    = 
+| aka               = 
+| model_years       = 
+| production        = 2009
+| production_start  = 
+| production_end    = 
+| assembly          = 
+| predecessor       = 
+| successor         = 
+| class             = 
+| body_style        = [[roadster]]
+| layout            = [[MR layout]]
+| platform          = 
+| engine            = {{convert|2.0|L|cuin|abbr=on}} [[TDI]] [[Straight-4|I4]]
+| transmission      = 6-speed [[Direct shift gearbox|DSG]]
+| wheelbase         = {{convert|2430|mm|in|1|abbr=on}} 
+| length            = {{convert|3990|mm|in|1|abbr=on}}
+| width             = {{convert|1745|mm|in|1|abbr=on}}
+| height            = {{convert|1260|mm|in|1|abbr=on}}
+| weight            = {{convert|2600|lb|kg|abbr=on}}
+| related           = 
+| designer          = [[Klaus Bischoff]]<br>[[Thomas Ingenlath]]
+| sp                = us
+}}
+
+The '''Volkswagen Concept BlueSport''' is a [[Mid-engine design|mid-engined]] [[roadster]] [[concept car]] produced by [[Volkswagen]].<ref>[http://www.autoblog.com/2009/01/11/detroit-2009-volkswagen-bluesport-concept-turbodiesel-done-rig/ Detroit 2009: Volkswagen BlueSport concept, turbodiesel done right]</ref><ref>[http://jalopnik.com/5128550/vw-bluesport-roadster-the-mid+engined-diesel-sportscar VW Bluesport Roadster: The Mid-Engined Diesel Sportscar]</ref> It was introduced at the 2009 [[North American International Auto Show]] in [[Detroit]]. The Concept BlueSport follows on from a previous roadster concept car, the [[Volkswagen Concept R]], shown at the 2003 [[Frankfurt Motor Show]].
+
+The Concept BlueSport is powered by a {{convert|2.0|L|cuin|abbr=on}} [[TDI]] [[Straight-4|I4]] producing around {{convert|180|hp|kW|abbr=on}} and {{convert|260|lbft|Nm|abbr=on}}. A six-speed dual-clutch [[Direct shift gearbox|DSG gearbox]] helps give it an estimated 0-{{convert|60|mph|km/h|abbr=on}} time of 6.2&nbsp;sec and a top speed of {{convert|140|mph|km/h|abbr=on}}.
+
+The vehicle is proposed to be built and assembled at Volkswagen's [[AutoEuropa]] plant in [[Palmela]], Portugal.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.volkswagen.co.uk/volkswagen-world/news/item/122 Volkswagen News: Volkswagen reveals mid-engined roadster concept in Detroit]
+
+{{VW}}
+
+{{Modern-auto-stub}}
+
+[[Category:Volkswagen vehicles]]

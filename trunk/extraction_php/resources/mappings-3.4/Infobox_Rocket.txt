@@ -1,0 +1,25 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Rocket
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = function | ontologyProperty = Rocket/function }}
+	{{ DBpediaPropertyMapping | templateProperty = country-origin | ontologyProperty = Rocket/countryOrigin }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = MeanOfTransportation/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = diameter | ontologyProperty = MeanOfTransportation/diameter | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = mass | ontologyProperty = MeanOfTransportation/mass | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = stages | ontologyProperty = Rocket/stages }}
+	{{ DBpediaPropertyMapping | templateProperty = LEO-payload | ontologyProperty = Rocket/lowerEarthOrbitPayload | unit = kilogram }}
+	{{ DBpediaPropertyMapping | templateProperty = alt-LEO | ontologyProperty = Rocket/lowerEarthOrbitPayload | unit = pound }}
+	{{ DBpediaPropertyMapping | templateProperty = comparable | ontologyProperty = Rocket/comparable }}
+	{{ DBpediaPropertyMapping | templateProperty = status | ontologyProperty = Rocket/status }}
+	{{ DBpediaPropertyMapping | templateProperty = sites | ontologyProperty = Rocket/launchSite }}
+	{{ DBpediaPropertyMapping | templateProperty = launches | ontologyProperty = Rocket/totalLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = success | ontologyProperty = Rocket/successfulLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = fail | ontologyProperty = Rocket/failedLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = partial | ontologyProperty = Rocket/partialFailedLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = other_outcome | ontologyProperty = Rocket/unknownOutcomes }}
+	{{ DBpediaPropertyMapping | templateProperty = first | ontologyProperty = Rocket/maidenFlight }}
+	{{ DBpediaPropertyMapping | templateProperty = last | ontologyProperty = Rocket/finalFlight }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = manufacturer | ontologyProperty = MeanOfTransportation/manufacturer }}
+	{{ DBpediaPropertyMapping | templateProperty = derivatives | ontologyProperty = MeanOfTransportation/successor }}
+}}

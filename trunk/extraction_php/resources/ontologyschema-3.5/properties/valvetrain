@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = valvetrain
+| rdfs:domain = AutomobileEngine
+| rdfs:range = valvetrain
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= prominence
+|rdfs:domain 	= Mountain
+|rdfs:range		= metre
+}}

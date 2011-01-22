@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= slogan
+|rdfs:domain	= Organisation
+|rdfs:range		= xsd:string
+}}

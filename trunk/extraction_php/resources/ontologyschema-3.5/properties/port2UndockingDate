@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = port2 undocking date
+| rdfs:domain = Spacecraft
+| rdfs:range = xsd:date
+}}

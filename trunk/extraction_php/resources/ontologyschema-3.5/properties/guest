@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = guest
+| rdfs:domain = TelevisionEpisode
+| rdfs:range = Person
+}}

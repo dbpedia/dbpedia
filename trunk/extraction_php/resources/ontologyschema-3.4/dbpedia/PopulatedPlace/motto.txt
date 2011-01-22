@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = motto
+|rdfs:domain = PopulatedPlace
+|rdfs:range = xsd:string
+}}

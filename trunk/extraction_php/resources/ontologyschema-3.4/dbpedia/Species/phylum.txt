@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = phylum
+|rdfs:domain = Species
+|rdfs:range = owl:Thing
+}}

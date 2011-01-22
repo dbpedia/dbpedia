@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= geology
+|rdfs:domain 	= ProtectedArea
+|rdfs:range		= xsd:string
+}}

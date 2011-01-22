@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eFlexComponents:CustomToolTip xmlns:mx="http://www.adobe.com/2006/mxml"
+       xmlns:eFlexComponents="com.everythingFlex.components.*"
+       backgroundColor="{myBackgroundColor}" 
+       backgroundAlpha="{myBackgroundAlpha}"
+       borderColor="{myBorderColor}" 
+       borderThickness="{myBorderThickness}" 
+       borderStyle="{myBorderStyle}" 
+       alpha="{myAlpha}" 
+       dropShadowEnabled="{myDropShadowEnabled}" 
+       dropShadowColor="{myDropShadowColor}" >
+       
+       <mx:Script>
+       	<![CDATA[
+       		[Bindable]
+       		public var myImage:String;
+       		[Bindable]
+       		public var myBackgroundColor:uint=0xFFFFFF;
+       		[Bindable]
+       		public var myBackgroundAlpha:Number=1;
+       		[Bindable]
+       		public var myBorderColor:uint=0x000000;
+       		[Bindable]
+       		public var myBorderThickness:Number=1;
+       		[Bindable]
+       		public var myBorderStyle:String="solid";
+       		[Bindable]
+       		public var myDropShadowEnabled:Boolean=true;
+       		[Bindable]
+       		public var myDropShadowColor:uint=0x000000;
+       		[Bindable]
+       		public var myAlpha:Number=1;
+       		
+       		[Bindable]
+       		public var adjustHeightFromBottom:Boolean = false;
+       		
+       		[Bindable]
+       		public var adjustWidthFromRight:Boolean = false;
+       		
+       		private var _origImageWidth:int = 0; 
+       		private var _origImageHeight:int = 0; 
+       		      		
+       		 
+       		/**
+       		 * Since we won't know the size of a new image until it loads, we will need to adjust it's position when it does
+       		 * bearing in mind that it will need to be kept on screen ...
+       		 */
+       		private function adjustPosition(event:Event):void
+       		{
+       			if (adjustHeightFromBottom)
+       			{
+	       			var heightAdjust:int = img.height - _origImageHeight;
+	       			this.y = this.y - heightAdjust;
+       			}
+       			
+       			if (adjustWidthFromRight)
+       			{
+	       			var widthAdjust:int = img.width - _origImageWidth;
+	       			this.x = this.x - widthAdjust;
+       			}
+       			
+       			_origImageHeight = img.height;
+       			_origImageWidth =img.width;
+       			
+       			var screen:Rectangle = systemManager.screen;
+				var screenTop:Number = screen.y 
+				if (this.y < screenTop)
+				{
+					this.y = screenTop;
+				}
+				
+				var screenBottom:Number = screen.y + screen.height;
+				var thisBottom:Number = this.y + this.height;
+				
+				if (thisBottom > screenBottom)
+				{
+					this.y -= thisBottom - screenBottom;
+				}
+				
+				var screenLeft:Number = screen.x  
+				if (this.x < screenLeft)
+				{
+					this.x = screenLeft;
+				}
+				
+				var screenRight:Number = screen.x + screen.width;
+				var thisRight:Number = this.x + this.width;
+				
+				if (thisRight > screenRight)
+				{
+					this.x -= thisRight - screenRight;
+				}
+				
+       		}
+       		
+       	]]>
+       </mx:Script>
+  	<mx:Image id="img" resize="adjustPosition(event)" source="{myImage}" />
+</eFlexComponents:CustomToolTip>

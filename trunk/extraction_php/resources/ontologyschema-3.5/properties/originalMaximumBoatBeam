@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = original maximum boat beam
+| rdfs:domain = Canal
+| rdfs:range = Length
+}}

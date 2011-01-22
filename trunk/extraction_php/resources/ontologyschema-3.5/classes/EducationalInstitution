@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Educational Institution
+| rdfs:subClassOf = Organisation
+}}

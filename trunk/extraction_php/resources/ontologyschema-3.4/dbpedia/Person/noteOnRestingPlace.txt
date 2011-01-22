@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= note on resting place
+|rdfs:domain	= Person
+|rdfs:range		= xsd:string
+}}

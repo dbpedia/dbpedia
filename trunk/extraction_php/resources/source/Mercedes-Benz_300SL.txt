@@ -1,0 +1,194 @@
+{{about|the 300SL produced from 1952 to 1963|other models with the same name|Mercedes-Benz SL-Class}}
+
+{{Infobox Automobile
+| image =[[Image:Mercedes 300SL Coupe vr silver EMS.jpg|250px]]
+| name = Mercedes-Benz 300SL
+| manufacturer = [[Mercedes-Benz]]
+| parent_company = Daimler-Benz AG
+| aka =
+| production = 1952-1953 (racing car)<br />1955-1963 (production car) <br/> 3,258 built<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref> <br/> Coupé: 1,400 <br/> Roadster: 1,858
+| assembly =
+| predecessor = none
+| successor = production car:<br />[[Mercedes-Benz W113|Mercedes-Benz 230SL]]<br />racing car:<br />[[Mercedes-Benz 300 SLR]]
+| class = [[sports car]]
+| body_style = 2 door [[coupé]], [[roadster]]
+| layout = [[FR layout]]
+| platform = Mercedes-Benz W198
+| engine = Mercedes 2995 cc, [[SOHC]]
+| transmission = 4-speed manual
+| wheelbase = 2400 mm (94.5 in)
+| length = 4520 mm (178 in)
+| width = 1790 mm (70.5 in)
+| height = 1300 mm (51.1 in)
+| weight =1093 kg (2351 lb)
+| fuel_capacity =
+| related = Mercedes-Benz 190SL
+| similar_cars = [[Aston Martin DB 3]]<br>[[Jaguar E-type]]
+| designer =
+}}
+
+The '''Mercedes-Benz 300SL''' was introduced in 1954 as a two-seat, closed [[sports car]] with distinctive [[gull-wing door]]s. Later it was offered as an open [[roadster]]. It was the fastest production car of its day.
+
+Built by [[Daimler-Benz]] AG and internally numbered W198, the fuel-injected road version was based (somewhat loosely) on the company's highly successful competition-only sports car of 1952, the somewhat less powerful carbureted Mercedes-Benz 300SL (W194).
+
+The road model was suggested by [[Max Hoffman]]. Being intended for customers in the booming post-war American market it was introduced at the 1954 [[New York Auto Show]], unlike previous models introduced at either the [[Frankfurt Motor Show|Frankfurt]] or [[Geneva Motor Show|Geneva]] shows. In Mercedes-Benz fashion, the "300" referred to the engine's three liter cylinder displacement. The "SL" stood for ''"Sport Leicht"'' (Sport Light).
+
+The 300SL was best known for both its distinctive ''gull wing'' doors and being the first-ever [[four-stroke cycle|gasoline-powered car]] equipped with [[fuel injection]] directly into the combustion chamber. The gull wing version was available from March 1955 to 1957. Production of the roadster ended in 1963 with the introduction of the 230SL.
+
+==A race car for the street==
+New York Mercedes distributor Max Hoffman, Daimler-Benz's official importer in the USA, suggested to DBAG management in Stuttgart that a street version of the 300SL would be a commercial success, especially in America.
+
+The racing W194 300SL was built around a tubular chassis to offset its relatively underpowered carbureted engine. Designed by DBAG's chief developing engineer, [[Rudolf Uhlenhaut]], the metal skeleton saved weight while still providing a high level of strength. Its unique architecture gave birth to the model's distinctive gull wing doors, as part of the chassis passed through what would be the lower half of a standard door.
+Even with the upward opening doors, the 300SL had an unusually high sill, making entry and exit from the car's cockpit problematic. A steering wheel with a tilt-away column was added to improve driver access.
+
+The 300SL's body was mainly steel, except for the aluminum hood, doors and trunk lid. It could also be ordered with an all-aluminium outer skin at tremendous added cost, saving 80&nbsp;kg (176 lb).
+
+More than 80% of the vehicle's total production of approximately 1400 units were sold in the US, making the Gull wing the first Mercedes-Benz which sold in bulk outside its home market and confirming the validity of Hoffman's suggestion. The 300SL is credited for changing the company's image in America from a manufacturer of solid, but staid, automobiles to that of a producer of sporty cars.
+
+==First direct injection==
+[[Image:1955 Mercedes-Benz 300SL Gullwing Coupe 34.jpg|right|thumb|250px|1955 Mercedes-Benz 300SL Gull wing Coupe from the [[Ralph Lauren]] collection]]
+[[Image:300sl-roadster.jpg|right|thumb|250px|1957 Mercedes-Benz 300SL Roadster.]]
+The 300SL's engine, canted at a fifty-degree angle to the left to allow for a lower hoodline, was the same 3.0 litre [[straight-6]] as the regular four-door 300. Fitted with a [[Robert Bosch GmbH|Bosch]] mechanical direct [[fuel injection]] system it had almost double the power of the original 86&nbsp;kW (115 hp) carbureted version.
+
+While not the first fuel-injected car - Mercedes engineers who had developed the principle for the [[DB 601]] fighter aircraft engine had used fuel injection in the tiny [[2-stroke]] [[Gutbrod]] they had designed after the War - it was the first to inject fuel directly into the cylinders. This innovation allowed a top speed of up to 260&nbsp;km/h (161 mph) depending on [[gear ratio]] and drag, making the 300SL the fastest production car of its time.
+
+The engine's maintenance requirements were high. Unlike the current electrically-powered fuel injection systems, the mechanical fuel pump would continue to inject gasoline into the engine during the interval between shutting off the ignition and the engine's coming to a stop; this gasoline was of course not burned, and washed the oil from the cylinder walls and ended up diluting the engine's [[lubricating oil]], particularly if the engine was not driven hard enough nor long enough to reach a temperature high enough to evaporate it out of the oil.
+
+Exacerbating the problem were the large oil cooler as well as the large volume of oil (10 liters), both oriented more to racing than to street driving, which virtually guaranteed that the oil would not reach a high enough temperature. In practice, many street drivers would block off airflow through the oil cooler, and the recommended oil change interval was {{convert|1000|mi|km|-2}}. Operation of the clutch was initially very heavy, later roadster having an improved clutch arm helper spring which reduced the pedal force. From March 1963 to the end of production, a light alloy crankcase was used on a total of 209 vehicles.<ref name="Kompass"> {{cite book |title=Typenkompass Mercedes-Benz |last=Rohde |first=Michael |coauthors=Koch, Detlev |year=2000 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02019-X |pages=41}} </ref>
+
+[[Aerodynamics]] played an important role in the car's speed, Mercedes-Benz engineers even placing horizontal "eyebrows" over the wheel openings to reduce drag. Unlike many cars of the 1950s, the steering was relatively precise and the four-wheel independent suspension allowed for a reasonably comfortable ride and markedly better overall handling. However, the rear [[swing axle]], jointed only at the [[Differential (mechanics)|differential]], not at the wheels themselves, could be treacherous at high speeds or on imperfect roads due to extreme changes in [[Camber angle|camber]].
+
+==Racing history==
+===Original racing history===
+In 1952, the original 300SL (model '''Mercedes-Benz W194''') <ref>[http://emercedesbenz.com/Jul08/03_001238_eMercedesBenz_Feature_The_1952_Mercedes_Benz_300_SL_Racing_Sport_Coupe.html the original 300SL] (model '''Mercedes-Benz W194''')</ref> scored overall wins at the [[24 Hours of Le Mans]], in [[Berne]]-[[Bremgarten bei Bern|Bremgarten]], in the sportscar race of the [[Eifelrennen]] at the [[Nürburgring]], and in Mexico's [[Carrera Panamericana]]. It also managed second and fourth places at its first outing, the [[Mille Miglia]] in 1952.
+
+These successes, especially those on the high speed open road races, were rather surprising as the engine then was fitted only with carburetors, producing {{Convert|175|hp|kW|0|abbr=on}}, which was not only less than the competing cars by [[Ferrari]] and [[Jaguar (car)|Jaguar]], but also less than the road car of 1954. Low weight and low aerodynamic drag made the 300SL fast enough to be competitive in endurance races.
+
+===Fitch land speed record attempt===
+In 2005, a 300SL coupe driven by 87 year old [[John Fitch (driver)|John Fitch]], who had been a Mercedes-Benz factory racing driver in 1955, attempted to set a new [[land speed record]] for the F/GT class at [[Bonneville Speedway]], but was thwarted by a balky [[fuel pump]] that limited top speed to {{convert|150|mi/h|km/h|-1|abbr=on}}. After the run, the team vowed to return for a second attempt the next year. Fitch noted that he had driven these cars faster than that at night, in the rain, on the road with 60 other cars. The attempt is documented in the film ''Gull wing at Twilight: The Bonneville Ride of John Fitch'', which was aired on [[PBS]] <ref>[http://szwedo.com/gullwing.htm ''Gull wing at Twilight: The Bonneville Ride of John Fitch'']</ref>.
+
+==The 300SL today==
+[[Image:56 300SL Gullwing opened up.JPG|right|thumb|250px|1956 "Gull wing" opened up.]]
+Today, the 300SL with its unique doors, technological firsts, and low production numbers is considered one of the most collectible Mercedes-Benz models of all time, with prices reaching well past the US$700,000 mark. ''[[Sports Car International Top Sports Cars|Sports Car International]]'' magazine ranked the 300SL as the number 5 sports car of all time. A [http://www.mercedesbenz300sl.com pair of 300SLs] for sale in 2009 were offered at over $1.3M USD from the [http://www.foxwoodcollection.org Foxwood Collection], demonstrating that the price of and demand for this classic remains strong.
+
+The [[Mercedes-Benz SLS AMG]] is described by Mercedes as a spiritual successor to the 300SL Gullwing.
+
+Mercedes-Benz still supplies parts for every car they built. The factory also provides some of the best restoration services along with a handful of top-notch independent outfits such as Mercedes-Benz trained 300SL guru Rudiger Koniczek of [http://www.rudikoniczek.com Rudi & Company] in British Columbia, Canada (Since 1971), [http://www.paulrussell.com/ Paul Russell & Company] in Essex, MA, [http://www.scottgrundfor.com/ Scott Grundfor] in California in the USA & [http://www.hk-engineering.com/ HK Engineering] in Germany.
+
+==Technical data==
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data Mercedes-Benz 300SL <ref name=DeAutos45bis90Oswald/>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="20%"|Mercedes-Benz
+! width="40%"|300SL "Gullwing" (W198 I)
+! width="40%"|300SL Roadster (W198 II)
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1954 - 1957 || align="center" |1957 - 1963
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="2" align="center" |[[I-6|6-cylinder-inline engine]] ([[four-stroke]]), front-mounted
+|- bgcolor="#EEEEEE"
+| Bore x Stroke:&nbsp; || colspan="2" align="center" |85&nbsp;mm x 88&nbsp;mm
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || colspan="2" align="center" |2996 cc
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp; ||  align="center" | {{convert|215|PS|kW hp|abbr=on}} @ 5800 ||  align="center" | {{convert|215|PS|kW hp|abbr=on}} @ 5800 <br/> or {{convert|225|PS|kW hp|abbr=on}} @ 5800
+|- bgcolor="#EEEEEE"
+| Max. Torque @ rpm:&nbsp; || colspan="2" align="center" | {{convert|274|Nm|lbft|abbr=on}} @ 4600
+|- bgcolor="#EEEEEE"
+| Compression Ratio:&nbsp; || align="center" |8.55: 1 || align="center" |8.55: 1 <br/> or 9.5:1
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || colspan="2" align="center" | Direct fuel injection, [[Robert Bosch GmbH|Bosch]] injection pump
+|- bgcolor="#EEEEEE"
+| Fuel tank capacity:&nbsp; || align="center" |  {{Convert|130|L|usgal impgal|1|abbr=on}} || align="center" |  {{Convert|100|L|usgal impgal|1|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Valvetrain:&nbsp; || colspan="2" align="center" | [[SOHC]], duplex chain 
+|- bgcolor="#EEEEEE"
+|  Cooling:&nbsp; || colspan="2" align="center" |Water
+|- bgcolor="#EEEEEE"
+| Gearbox:&nbsp; || colspan="2" align="center" | 4-speed manual <br/>  rear wheel drive, standard axle ratio 3.64:1 (on request 3.25:1, 3.42:1, 3.89:1 or 4.11:1)
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || colspan="2" align="center" |  12 volt
+|- bgcolor="#EEEEEE"
+| Front suspension:&nbsp; || colspan="2" align="center" | Double wishbones, coil springs, stabilising bar
+|- bgcolor="#EEEEEE"
+| Rear suspension::&nbsp; || align="center" | High-pivot swing axle, radius arms, coil springs || align="center" | Low-pivot swing axle, transverse compensating spring, coil springs
+|- bgcolor="#EEEEEE"
+| Brakes:&nbsp; || align="center" | Drum brakes (Ø 260&nbsp;mm), power assisted || align="center" | Drum brakes (Ø 260&nbsp;mm), power assisted <br/> from March 1961: disc brakes front and rear (Ø 290&nbsp;mm), power assisted
+|- bgcolor="#EEEEEE"
+| Steering:&nbsp; || colspan="2" align="center" | Recirculating ball steering
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; || align="center" | Sheet steel/aluminum or aluminum (29 cars built) on steel tube space frame || align="center" | Sheet steel/aluminum on steel tube space frame
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || align="center" |{{convert|1310|kg|lb|abbr=on}} || align="center" |{{convert|1420|kg|lb|abbr=on}} (hardtop + {{convert|40|kg|lb|abbr=on}})
+|- bgcolor="#EEEEEE"
+| Loaded weight:&nbsp; || align="center" |{{convert|1555|kg|lb|abbr=on}} || align="center" |{{convert|1560|kg|lb|abbr=on}}, from 1961 {{convert|1660|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || align="center" |{{convert|1385|mm|in|abbr=on}} {{convert|1435|mm|in|abbr=on}} || align="center" |{{convert|1398|mm|in|abbr=on}} {{convert|1448|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || colspan="2" align="center" | {{convert|2400|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" | {{convert|4520|mm|in|abbr=on}} || align="center" | {{convert|4570|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || align="center" | {{convert|1790|mm|in|abbr=on}} || align="center" | {{convert|1790|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" | {{convert|1300|mm|in|abbr=on}} || align="center" | {{convert|1300|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Tyre/Tire sizes:&nbsp; || align="center" | 6.50-15 Supersport || align="center" | 6.70-15 Supersport 
+|- bgcolor="#EEEEEE"
+| Top speed:&nbsp; || align="center" |{{convert|235|km/h|mph|abbr=on}} (3.64:1) <br/> {{convert|250|km/h|mph|abbr=on}} (3.42:1) <br/> {{convert|260|km/h|mph|abbr=on}} (3.25:1) || align="center" | "according to axle ratio"
+|- bgcolor="#EEEEEE"
+| Fuel Consumption (estimate):&nbsp; || colspan="2" align="center" |{{convert|17.0|l/100 km|lk=off }}
+|- bgcolor="#EEEEEE"
+| Price Germany <br/> USA:&nbsp; || align="center" | DM 29,000 <br/> $ 11,000, later 7,295<ref>US prices: Mike Covello: Standard Catalog of Imported Cars 1946-2002, Krause Publication, Iola 2002, ISBN 0-87341-605-8, p. 527-31</ref> || align="center" | DM 32,500 (Hardtop: + DM 1,500) <br/> $  10,928, later 10,950 (Hardtop: + $ 178)
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+==References==
+{{commonscat|Mercedes-Benz W198}}
+{{commonscat|1955 Mercedes-Benz 300SL Gullwing Coupe}}
+{{reflist|1}}
+
+* Mercedes Benz 300 SL Coupe / Gullwing Register [http://www.mercedes300slregister.com www.mercedes300slregister.com]
+* ''Mercedes Momentum'' magazine, Fall 2004 edition
+* ''Sports and Classic Cars'', Bonanza Books, New York. 1955, Borgeson G. and Jaderquist E.
+* [http://www.mercedes-benz.com/mbcom/international/international_website/en/com/international_home/home/heritage/history.html#mainnav Mercedes-Benz.com]
+* [http://emercedesbenz.com/Jul08/03_001238_eMercedesBenz_Feature_The_1952_Mercedes_Benz_300_SL_Racing_Sport_Coupe.html eMercedesBenz | The 1952 Mercedes-Benz 300 SL Racing Sport Coupe]
+* [http://www.ritzsite.net/300SL/01_300SL.htm Ritz Site: Pictures and information from an enthusiast's angle]
+* [http://www.slmarket.com SL Market: Mercedes-Benz SL dedicated website for enthusiasts; 300SL price trends, newsletter]
+* [http://www.best-classics.de/mb History, Pictures, Videos, Brochures etc.]
+
+{{start box}}
+{{succession box|title=[[Fastest production car|Fastest street-legal production car]]|before=[[Pegaso Z-102]]|after=[[Ferrari America]]|years=250 km/h}}
+{{end box}}
+{{Classic Mercedes-Benz vehicles}}
+
+{{DEFAULTSORT:Mercedes-Benz 300sl}}
+[[Category:Mercedes-Benz vehicles|300SL]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sports cars]]
+[[Category:Sports racing cars]]
+[[Category:Roadsters]]
+[[Category:Automobiles with gull-wing doors]]
+[[Category:24 Hours of Le Mans race cars]]
+
+[[cs:Mercedes-Benz 300 SL]]
+[[de:Mercedes-Benz W198]]
+[[es:Mercedes-Benz 300 SL]]
+[[fr:Mercedes-Benz 300 SL]]
+[[it:Mercedes-Benz W198]]
+[[nl:Mercedes-Benz 300SL]]
+[[ja:メルセデス・ベンツ 300SL]]
+[[no:Mercedes-Benz 300SL]]
+[[pl:Mercedes-Benz 300 SL]]
+[[ru:Mercedes-Benz W198]]
+[[sk:Mercedes-Benz 300SL]]
+[[sv:Mercedes-Benz 300 SL]]
+[[tr:Mercedes-Benz 300 SL]]

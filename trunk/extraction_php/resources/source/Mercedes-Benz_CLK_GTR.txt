@@ -1,0 +1,137 @@
+{{Refimprove|date=November 2009}}
+{{Infobox Automobile
+| image = [[Image:Mercedes CLK GTR Crop.jpg|250px]]
+| name = Mercedes-Benz CLK GTR
+| manufacturer = [[Mercedes-Benz]]<br/>([[Mercedes-AMG]] with HWA)
+| parent_company =
+| aka =
+| production = 1998&ndash;2002 (35 produced)<br/>2 prototypes<br/>7 racing variant coupes<br/>20 road variant coupes<ref>{{cite web|url=http://www.thecarexperience.com/clk.htm |title=2002 Mercedes Benz CLK GTR roadster |publisher=Thecarexperience.com |date= |accessdate=2009-08-07}}</ref><br/>6 road variant roadsters<ref>{{cite web|url=http://www.anamera.com/en/detail/car/6896/index.html?no_cache=1&ret=251 |title=2002 Mercedes-Benz CLK-GTR Roadster for sale |publisher=Anamera |date= |accessdate=2009-08-07}}</ref>
+| assembly = [[Germany]]
+| predecessor =
+| successor = 
+| class = [[Homologation|Homologated]] [[grand tourer]]
+| body_style = 2-door [[Coupé|coupe]]<br/>2-door [[convertible]]
+| layout = [[RMR layout]]
+| platform =
+| engine = 6.9 L {{convert|612|bhp|kW|0|abbr=on}} [[V12 engine|V12]]
+| transmission = 6-speed [[Manual transmission|manual]]
+| wheelbase =
+| length =
+| width =
+| height =
+| weight =
+| fuel_capacity =
+| related =
+| designer =
+}}
+The '''Mercedes-Benz CLK GTR''' is a [[grand tourer]] and [[race car]] that was built by [[Mercedes-AMG]], performance and motorsports arm of [[Mercedes-Benz]].  Intended for racing in the new [[FIA GT Championship]] series in 1997, the CLK GTR was designed primarily as a race car, with the road cars necessary in order to meet [[homologation]] standards being secondary in the car's design.  Thus the limited production road-going cars were considered racing cars for the road.
+
+After competing successfully in 1997, the race car was upgraded in 1998 for the [[24 Hours of Le Mans]] and renamed the '''CLK LM'''.  Following the construction of the CLK LMs and the CLK GTR road cars, the project would end in 1999 by being replaced by the [[Mercedes-Benz CLR]] [[Le Mans prototype]].
+
+== Racing car ==
+{{Racing car |
+  Car_name         = &nbsp; |
+  Image            = [[Image:Mercedes-Benz CLK GTR 10.jpg|250px]] |
+  Category         = [[FIA]] [[Grand Tourer]] 1 (GT1) |
+  Constructor      = [[AMG-Mercedes]] |
+  Designer         =  |
+  Team             = {{flagicon|DEU}} [[AMG-Mercedes]]<br />{{flagicon|DEU}} Team Persson Motorsport |
+  Drivers          =  |
+  Chassis          = [[Carbon fibre]] and [[aluminium]] honeycomb monocoque |
+  Front suspension = [[Double wishbone suspension]] |
+  Rear suspension  = [[Double wishbone suspension]] |
+  Wheelbase        =  |
+  Track            =  |
+  Engine name      = '''GTR:''' [[Mercedes-Benz]] [[Mercedes-Benz M120 engine|LS600]] |
+  Capacity         = {{convert|5987|cc|cuin|abbr=on}} |
+  Configuration    = [[V12 engine|V12]]<br />'''LM:''' [[Mercedes-Benz]] [[Mercedes-Benz M119 engine|M119]] {{convert|6000|cc|cuin|abbr=on}} [[V8 engine|V8]] |
+  Turbo/NA         =  |
+  Engine position  =  |
+  Gearbox name     =  |
+  Gears            = 6-speed |
+  Type             = [[Manual transmission|sequential manual]] |
+  Differential     =  |
+  Weight           =  |
+  Fuel             = [[Mobil 1]] |
+  Tyres            = [[Bridgestone]] |
+  Debut            = [[1997 FIA GT Hockenheim 4 Hours]] |
+  Races            = 22 |
+  Wins             = 17 |
+  Poles            = 17 |
+  Fastest_laps     = 14 |
+  Teams_champ      = 2 <small>([[1997 FIA GT Championship season|1997 FIA GT]], [[1998 FIA GT Championship season|1998 FIA GT]])</small> |
+  Cons_champ       =  |
+  Drivers_champ    = 2 <small>([[1997 FIA GT Championship season|1997 FIA GT]], [[1998 FIA GT Championship season|1998 FIA GT]])</small> |
+  Last_season   = 1998 |
+}}
+=== CLK GTR ===
+As the [[Deutsche Tourenwagen Meisterschaft]]/[[ITC]] had folded in late 1996, with both remaining competitors [[Opel]] and [[Alfa Romeo in motorsport|Alfa Romeo]] leaving due to the high costs of their [[4WD]] designs, Mercedes-Benz had no top series to compete in.  With the success of the [[BPR Global GT Series]] leading to the FIA taking over and turning it into an international series known as the [[FIA GT Championship]], Mercedes-Benz saw an opportunity to go against manufacturers like [[Porsche]] and [[Ferrari]].  
+
+Following the design that Porsche had laid out with their [[Porsche 911 GT1|911]] homologation special, [[Mercedes-AMG]] was tasked by [[Mercedes-Benz]] with creating an extreme racing car that still maintained some elements of a normal street legal car.   AMG's designers created a car which shared some design elements with the [[Mercedes-Benz W208|Mercedes-Benz CLK]], yet had all the standard features of a racing car underneath.  A [[Mercedes-Benz M120 engine|Mercedes-Benz M120]][[V12 engine]] would be at the heart of the car, mounted behind the cockpit.  The bodywork would be made entirely of [[carbon fiber]], and would feature many aerodynamic design elements and cooling openings in order to survive on the race track.
+
+To test the CLK GTR before the first chassis were built, Mercedes-AMG actually took an unusual measure.  Through secrecy, Mercedes-AMG was able to purchase a disused [[McLaren F1 GTR]], the defending BPR GT series champion, from [[Larbre Compétition]].  This purchase first allowed Mercedes-AMG to see the kind of lap times that their competitors could run, to serve as a measurement of the CLK GTRs abilities.  However, more importantly, Mercedes-AMG set about modifying this F1 GTR by attaching bodywork that was meant to go on the CLK GTRs.  This allowed Mercedes-AMG to be able to perfect the aerodynamics of the car before it had even been built.
+
+Upon completion of the first two prototypes a mere 128 days after the initial drawings had been made, the CLK GTRs were entered into the [[1997 FIA GT Championship season]], debuting at the season-opener at one of Mercedes-Benz's home tracks, the [[Hockenheimring]].  Unfortunately the new cars were not able to shine, as brake problems eliminated one car after five laps, and the other finished over 20 laps behind the winning McLaren.  However by the next round at Silverstone, the CLK GTR began to show its pace, finishing less than a second behind the winning McLaren.  By the fourth round, returning to Germany for the [[Nürburgring]], a third CLK GTR was added to the team.  In this race, Mercedes-Benz successfully outperformed the fleet of McLarens, taking first and second places.  The team would finish out the season with five more wins, at [[A1-Ring]], [[Suzuka Circuit|Suzuka]], [[Donington Park|Donington]], [[Sebring International Raceway|Sebring]], and [[Mazda Raceway Laguna Seca|Laguna Seca]], allowing them to secure the team championship as well as the drivers championship for [[Bernd Schneider (racecar driver)|Bernd Schneider]].
+[[Image:Mercedes-Benz CLK GTR 11.jpg|thumb|left|150px|A CLK GTR en route to victory at the [[1997 FIA GT Donington 4 Hours]]]]
+Mercedes-Benz would use the CLK GTR for the first two rounds of the [[1998 FIA GT Championship season|1998]] season before upgrading to the CLK LM.  However privateer team Persson Motorsport would campaign two CLK GTRs throughout the entire season, taking a best finish of second at [[Motorsport Arena Oschersleben|Oschersleben]] before finishing the year third in the teams championship.
+
+Initially the CLK-GTR's V12 engine produced approximately {{Convert|600|hp|kW|-1|abbr=on}} before developments during the 1997 season increased this to {{Convert|630|hp|kW|0|abbr=on}}.  Persson Motorsport's CLK GTRs remained at this power output as Mercedes-AMG had moved to development of the V8 in the CLK LM.{{Fact|date=May 2008}}
+
+===CLK LM===
+After conquering the FIA GT Championship, Mercedes-Benz set its sights on competing at the [[24 Hours of Le Mans]] in {{24hLM|1998}}, which it had not been at since {{24hLM|1991}}.  However, Le Mans presented a different challenge from that offered in FIA GT, in that the race distances were nearly one tenth the distance covered at Le Mans.  Therefore [[Mercedes-AMG]] set about altering the CLK GTR in order to meet the new demands required at Le Mans.
+
+First and foremost, Mercedes-AMG decided that the M120 V12 would not be up to the task of running for 24 hours.  It was decided instead that Mercedes would actually return to an engine they had used in [[Group C]] in the late 1980s, the [[Mercedes-Benz M119 engine|M119]] [[V8 engine|V8]].  Abandoning the [[turbocharger]]s that the M119 had used in Group C and enlarging the displacement, Mercedes-AMG felt that the M119 would have better reliability at speeds while still performing the same amount of power as the M120 due to air restrictor regulations.
+
+Satisfied with the engine, Mercedes-AMG also set about altering the bodywork to better cope with the high speeds of Le Mans.  The nose was lowered, with the large front brake cooling ducts on the sides of the nose being removed and replaced by a single, large opening in the front of the car.  The roof of the car was also lowered and a new engine air intake designed.  Various other mechanical tweaks were also performed.  This new car would become known as CLK LM, standing for Le Mans.
+
+Debuting at Le Mans, the CLK LMs were immediately quick.  The two car team took the pole, ahead of custom built open cockpit [[Le Mans prototype]]s.  However, Mercedes-AMG's belief that the M119 V8s would be better suited to Le Mans was proven wrong as both cars suffered engine failures within the first few hours of the race, leaving Mercedes-Benz dejected.
+
+Returning to FIA GT, Mercedes-Benz replaced their older CLK GTRs with the new CLK LMs and saw greater success.  The two cars easily won every remaining race, including six 1-2 finishes.  This handed Mercedes-Benz the teams championship again, while [[Klaus Ludwig]] and [[Ricardo Zonta]] would share the drivers championship.
+
+For the 1999 season, no competitor attempted to enter the GT1 class in FIA GT except for Mercedes-Benz, forcing the FIA to cancel the class, similar to the DTM/ITC two years early.  Mercedes-Benz thus turned to constructing an all-new car to overcome their failure at Le Mans.  No longer forced to build a racing car that could also be a road car, Mercedes-AMG set about creating the [[Mercedes-Benz CLR]].
+
+The CLK LM's V8 engine produced approximately {{Convert|600|hp|kW|-1|abbr=on}}, allowing it to reach speeds up to {{convert|330|km/h|mph|0|abbr=on}} in testing for the 1998 24 Hours of Le Mans.  Mercedes-AMG claimed a virtual top speed of {{convert|335|km/h|mph|0|abbr=on}}.{{Fact|www.ultimatecarpage.com/car/1082/Mercedes-Benz-CLK-LM.html|date=February 2008}}  In total, four racing variant CLK-LMs were constructed and one road-going version was built to comply with the 1998 FIA regulations.
+
+== Road car ==
+Even though the FIA GT1 class was cancelled for 1999, Mercedes was obliged to finally deliver the required 25 road cars they had promised.  An initial road car was built in 1997 in order to meet initial FIA requirements, but this car was retained by Mercedes.  For the other 25 road cars, each was built by [[Mercedes-AMG|AMG]] at the [[Affalterbach]] factory between winter of 1998 and summer of 1999 and differed only slightly from the race car. All of the 25 CLK GTRs ever built were left hand drive except for one which was specially built for Sultan [[Hassanal Bolkiah]] of [[Brunei]]. Driver comfort and refinements were at a minimum in the construction of the road cars as Mercedes-Benz wished to not only offer customers a true race car, but also to attempt to keep the price low.  Leather was used in the interior and an air conditioning system was offered.  Two small storage lockers were also built underneath each upward swinging door.  Traction control was also added for driver safety.
+
+The car retained much of the design of the original CLK GTR instead of the CLK LM, including the V12 and many stylistic elements.  One key difference was the rear wing, which used a hoop-style integrated wing in place of the separate racing wing.  From the otherwise unrelated standard production [[Mercedes-Benz CLK-Class|Mercedes-Benz CLK]], only the instrumentation, front grille and the four headlamps were used.
+
+[[Ilmor Engineering]] provided enhancements to the engine, increasing displacement from 5.9 liters to 6.8.  This increase in displacement coupled with the removal of a racing air restrictor allowed for {{convert|720|bhp|kW|0|abbr=on}} and torque to {{Auto ftlbf|572|0}}.  Mercedes-AMG claimed a 0-60 mph acceleration time of 3.4 seconds and a top speed of {{convert|200|mph|km/h|0|abbr=on}}.
+
+The [[Guinness Book of World Records]] recorded the CLK GTR as the most expensive production car ever built at the time, with a price of $1,547,620(USD).
+
+=== Variants ===
+[[Image:Mercedes-Benz CLK-GTR AMG.jpg|thumb|250px|right|The third Mercedes-Benz CLK GTR Roadster built, on display.]]
+After the completion of the 20 original CLK GTRs, AMG's specialist group H.W.A., who had assisted in the construction of the CLK GTRs, began construction of a roadster version of the CLK GTR.  Built either by modifying an existing CLK GTR or by building a new car from spare chassis and parts, these cars were modified with the removal of their roofs as well as a reconstruction of their engine covers. Also the rearwing was replaced by a separate black wing, close to the one on the race CLK-GTR. Further the Roadster can be recognized by its different grille, which had a large star in it instead of a small version above it. Two rollbars integrating the cockpit headrests were used not only for structural integrity, but also rollover protection.  A total of six CLK GTR Roadsters were built by the company.
+
+H.W.A. also constructed a second variant, known as the CLK GTR Super Sport.  These cars were similar to CLK GTRs, yet were powered instead by the newer [[Mercedes-AMG]] 7.3L V12 which had been in use in the [[Pagani Zonda]] and [[Mercedes-Benz SL-Class|Mercedes-Benz SL73 AMG]].  The car also gained an additional front splitter for better stability at high speeds. Only five were built with the 7.3L engine: prototype #2, chassis #01, #03, #13, and #17.  Only one of them was badged as the SuperSport (#17).
+
+In total, 26 CLK-GTR production road versions were constructed.  Of these 26, 20 are coupes and six are roadsters.  Two of these were equipped with RHD steering: one coupe (silver exterior/tartan interior) and one roadster (dark silver exterior/magenta interior).<ref>{{cite web|url=http://ss-united-trading.org/41367.html |title=Ss United Trading Ltd |publisher=Ss-united-trading.org |date= |accessdate=2009-08-07}}</ref>  These were constructed for [[Hassanal Bolkiah]], the [[Sultan of Brunei]].<ref>{{cite web|author=Posted: 8:45 pm February 13, 2009 |url=http://www.carsuk.net/mercedes-benz-clk-gtr-the-unique-rhd-versions/ |title=Mercedes Benz CLK-GTR - the Unique RHD versions &#124; Cars UK &#124; UK Car News |publisher=Cars UK |date=2009-02-13 |accessdate=2009-08-07}}</ref> Both RHD cars were auctioned on 28 October 2009 by RM Auctions in London.<ref>{{cite web|author=Posted: 8:38 pm September 24, 2009 |url=http://www.pistonheads.com/gassing/topic.asp?f=23&t=751371 |title=Two CLK GTRs Fall Under The Hammer &#124; PistonHeads |publisher=Haymarket |date=2009-09-24 |accessdate=2009-09-24}}</ref>  The roadster fetched £616,000 and the coupe £522,500.<ref>{{cite web|url=http://www.rmauctions.com/auction-results-overview.cfm?SaleCode=LF09 |title=RM AUCTIONS ROUNDS OUT 2009 WITH IMPRESSIVE RESULTS IN LONDON |publisher=RM Auctions |date= |accessdate=2009-11-12}}</ref>
+
+==See also==
+* [[Mercedes-Benz in motorsport]]
+
+==References==
+{{reflist}}
+
+== External links ==
+{{commonscat|Mercedes-Benz CLK GTR}}
+* [http://www.hwaag.com/showroom_clk_gtr0.html HWA] - CLK GTR Coupe & Roadster
+* [http://www.hwaag.com/clk_gtr0.html?&0= HWA] - CLK GTR data sheets
+
+[[Category:Mercedes-Benz vehicles|CLK-GTR]]
+[[Category:Sports cars]]
+[[Category:Grand tourer racing cars]]
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+[[Category:1990s automobiles]]
+[[Category:Vehicles introduced in 1998]]
+
+[[de:Mercedes-Benz CLK GTR]]
+[[es:Mercedes-Benz CLK GTR]]
+[[fr:Mercedes-Benz CLK GTR]]
+[[it:Mercedes-Benz CLK GTR]]
+[[ja:メルセデスベンツ・CLK-GTR]]
+[[pl:Mercedes-Benz CLK GTR]]
+[[ru:Mercedes-Benz CLK GTR]]
+[[sv:Mercedes-Benz CLK GTR]]

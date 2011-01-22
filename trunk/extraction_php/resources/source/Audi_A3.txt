@@ -1,0 +1,315 @@
+{{Refimprove|date=June 2008}} <!-- two references are not "inline" refs, and don't refer to any specific area of the article -->
+{{Mergefrom|Audi A3 TDI clubsport quattro concept|date=February 2009}}
+{{Infobox Automobile
+|name           = Audi A3
+|image          = [[Image:Audi A3 Sportback front 20090714.jpg|250px]] ''<br>2008 Audi A3 Sportback
+|manufacturer   = [[Audi]]
+|parent_company = [[Volkswagen Group]]
+|production     = 1996—present
+|predecessor    = 
+|class          = [[Compact car]]
+|layout         = [[transverse engine|transverse]] [[front-engine design|front engine]],<br>[[front-wheel drive]] or [[quattro (four wheel drive system)|quattro]] on-demand [[four-wheel drive]]
+|platform       = [[Volkswagen Group A platform]] series
+|transmission   = 
+|sp             = uk
+}}
+
+The '''Audi A3''' is a [[compact car]] produced by the [[Germany|German]] automaker [[Audi]] since 1996.  Two generations of A3 exist, both based on the [[Volkswagen Group A platform]], which they share with several other models such as the [[Audi TT]], [[Volkswagen Golf]], [[Volkswagen Caddy|Caddy]] and [[Volkswagen Touran|Touran]] as well as [[SEAT León]], [[SEAT Toledo]] and [[Škoda Octavia]].
+
+==First generation (''Typ'' 8L, 1996–2003){{anchor|8L}}==
+{{Infobox Automobile generation
+|name          = Audi A3 (8L)
+|image         = [[File:Audi A3 front 20080326.jpg|250px]] ''<br>Audi A3 5-Door (post-facelift)
+|aka           = 
+|production    = 1996–2003
+|assembly      = [[Ingolstadt]], [[Germany]];<br>[[Curitiba]], [[Brazil]]
+|body_style    = 3-door [[hatchback]]<Br>5-door [[hatchback]]
+|platform      = [[Volkswagen Group A platform#A4 (PQ34)|Volkswagen Group A4 (PQ34) platform]]
+|engine        = 1.6&nbsp;L [[straight-4|I4]]<br>1.8L I4 [[multi-valve|20v]]<br>1.8L I4 20v Turbo<br/>1.9L [[Turbocharged Direct Injection|TDI]] I4
+|transmission  = 5-speed [[Manual transmission|manual]]<br>6-speed [[Manual transmission|manual]]<br>4-speed [[Automatic transmission|automatic]]<br>5-speed [[Automatic transmission|automatic]]
+|wheelbase     = {{convert|2513|mm|in|1|abbr=on}}<br>quattro: {{convert|2518|mm|in|1|abbr=on}}
+|length        = {{convert|4152|mm|in|1|abbr=on}}
+|width         = {{convert|1735|mm|in|1|abbr=on}}
+|height        = {{convert|1423|mm|in|1|abbr=on}}
+|related       = [[Audi TT#8N|Audi TT (8N)]] Mk1<br/>[[SEAT León]] Mk1<br/>[[SEAT Toledo]] Mk2<br/>[[Volkswagen Golf Mk4|VW Golf Mk4]]<br>[[Volkswagen Jetta#Mark 4|VW Jetta Mk4]]<br>[[Volkswagen New Beetle|VW New Beetle]]<br>[[%C5%A0koda Octavia#First generation .281996-2004.29|Škoda Octavia Mk1]]
+|sp             = uk
+}}
+
+The original A3 (or ''Typ'' 8L) was introduced in the [[Europe]]an market in 1996, marking Audi's return to the lower market segments since the demise of the [[Audi 50]].  This was the first [[Volkswagen Group]] model to use the "PQ34" or "A4" platform, bearing a natural close resemblance to its contemporary, the [[Volkswagen Golf Mk4]].  The car was initially available only with a three-door [[hatchback]] body, in order to present a more sporty image than the Golf, in both [[front-wheel drive|front-]] and [[four-wheel drive]].  All engines were an [[straight-4|inline four-cylinder]] configuration, and were [[transverse engine|transversely mounted]].  After the A4, the Audi A3 was the second model in the Audi lineup to use five valves per cylinder.
+
+In 1999, Audi expanded the range with the introduction of more powerful versions:  a 1.8 Turbo rated {{convert|180|PS|kW hp|0|abbr=on}}, and a 1.9 [[Turbocharged Direct Injection|TDI]] [[diesel engine]] with [[Unit Injector]] "Pumpe Düse" (PD) technology and [[variable geometry turbocharger]].  The four-wheel-drive A3 1.8T [[quattro (four wheel drive system)|quattro]] used either the {{convert|150|PS|kW hp|0|abbr=on}} or {{convert|180|PS|kW hp|abbr=on}} engine, and the same [[Haldex Traction]]-based on-demand four-wheel drive system as the [[Audi S3]] and the [[Audi TT]].  1999 was also the year Audi was forced to bow to market demands and introduced a hastily-conceived five-door body that the company had not previously intended to produce.{{Citation needed|date=March 2009}}
+
+In late 2000, the A3 range was revised with new headlights and rear light clusters, other minor cosmetic changes, an improved interior, and the introduction of a six-speed [[manual transmission|manual]] gearbox, on the {{convert|180|PS|kW hp|0|abbr=on}} 1.8 Turbo and the brand new {{convert|130|PS|kW hp|0|abbr=on}} 1.9 TDI.
+
+Audi's [[electronic stability control|Electronic Stability Programme]] (ESP), traction-control and brake force distribution computer became standard equipment in some countries.
+
+Although the Audi A3 was replaced in Europe during 2003, the first generation model continues to be sold in undeveloped countries.  After production of the first generation model stopped in [[Brazil]], the retail price increased from R$60,000(US$30,000) to R$100,000 (US$50,000).{{Citation needed|date=February 2007}}
+
+===Engines===
+The engines used are the same as for many other cars in the [[Volkswagen Group]].
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 88%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+! Name!! Type!! Engine code!! Output@rpm!! Torque@rpm!! 0-100&nbsp;km/h,s!! Top speed!! Years
+|-
+!colspan=8|Petrol engines
+|-
+|align="left"|'''1.6 8v'''||{{convert|1595|cc|cuin|0|abbr=on}} I4||AEH/AKL/APF||{{convert|101|PS|kW hp|0|abbr=on}} @5600 rpm||{{convert|145|Nm|lbft|0|abbr=on}} @3800 rpm||12.0 s||{{convert|188|km/h|mph|0|abbr=on}}||1996–2000
+|-
+|align="left"|'''1.6 8v'''||{{convert|1595|cc|cuin|0|abbr=on}} I4||AVU/BFQ||{{convert|102|PS|kW hp|0|abbr=on}} @5600 rpm||{{convert|148|Nm|lbft|0|abbr=on}} @3800 rpm||11.9 s||{{convert|189|km/h|mph|0|abbr=on}}||2000–2003
+|-
+|align="left"|'''1.8 20v'''||{{convert|1781|cc|cuin|0|abbr=on}} I4||AGN/APG||{{convert|125|PS|kW hp|0|abbr=on}} @6000||{{convert|170|Nm|lbft|0|abbr=on}} @4200||9.6 s||{{convert|202|km/h|mph|0|abbr=on}}||1996–2003
+|-
+|align="left"|'''1.8 20vT'''||{{convert|1781|cc|cuin|0|abbr=on}} I4 turbo||AGU/ARZ/ARX/AUM||{{convert|150|PS|kW hp|0|abbr=on}} @5700||{{convert|210|Nm|lbft|0|abbr=on}} @1750–4600||8.2 s||{{convert|217|km/h|mph|0|abbr=on}}||1996–2003
+|-
+|align="left"|'''1.8 20vT'''||{{convert|1781|cc|L cuin|abbr=on}} I4 turbo||AJQ/APP/ARY/AUQ||{{convert|180|PS|kW hp|0|abbr=on}} @5500||{{convert|235|Nm|lbft|0|abbr=on}} @1950–5000||7.5 s||{{convert|228|km/h|mph|abbr=on}}||1999–2003
+|-
+|align="left"|'''1.8 20vT [[Audi S3|(S3)]]'''||{{convert|1781|cc|cuin|0|abbr=on}} I4 turbo||AMK||{{convert|210|PS|kW hp|0|abbr=on}} @5800||{{convert|270|Nm|lbft|0|abbr=on}} @2100||6.8 s||{{convert|238|km/h|mph|0|abbr=on}}||1999–2001
+|-
+|align="left"|'''1.8 20vT [[Audi S3|(S3)]]'''||{{convert|1781|cc|cuin|0|abbr=on}}||BAM I4 turbo||{{convert|225|PS|kW hp|0|abbr=on}} @5900||{{convert|280|Nm|lbft|0|abbr=on}} @2200||6.6 s||{{convert|243|km/h|mph|0|abbr=on}}||2001–2003
+|-
+!colspan=8|Diesel engines
+|-
+|align="left"|'''1.9 8v TDI'''||{{convert|1896|cc|cuin|0|abbr=on}} I4 turbo||AGR/ALH||{{convert|90|PS|kW hp|0|abbr=on}} @4000||{{convert|210|Nm|lbft|0|abbr=on}} @1900||12.4 s||{{convert|181|km/h|mph|0|abbr=on}}||1996–2001
+|-
+|align="left"|'''1.9 8v TDI'''||{{convert|1896|cc|cuin|0|abbr=on}} I4 turbo||ATD/AXR||{{convert|100|PS|kW hp|0|abbr=on}} @4000||{{convert|240|Nm|lbft|0|abbr=on}} @1800–2400||11.0 s||{{convert|188|km/h|mph|0|abbr=on}}||2001–2003
+|-
+|align="left"|'''1.9 8v TDI'''||{{convert|1896|cc|cuin|0|abbr=on}} I4 turbo||AHF/ASV||{{convert|110|PS|kW hp|0|abbr=on}} @4150||{{convert|235|Nm|lbft|0|abbr=on}} @1900||10.5 s||{{convert|194|km/h|mph|0|abbr=on}}||1997–2000
+|-
+|align="left"|'''1.9 8v TDI'''||{{convert|1896|cc|cuin|0|abbr=on}} I4 turbo||ASZ||{{convert|130|PS|kW hp|0|abbr=on}} @4000||{{convert|310|Nm|lbft|0|abbr=on}} @1900||9.2 s||{{convert|205|km/h|mph|0|abbr=on}}||2000–2003
+|}
+
+===Gallery===
+<gallery>
+File:Audi A3 1.6 3-door 1997 UK.jpg|Audi A3 3-door (pre-facelift)
+File:Audi A3 rear 20080326.jpg|Audi A3 5-door (post-facelift)
+</gallery>
+
+==Second generation (''Typ'' 8P/8PA, 2003–present){{anchor|8P}}==
+{{Infobox Automobile generation
+|name          = Audi A3 (8P)
+|image         = [[Image:Audi A3 2.0T.jpg|250px]] ''<br>Audi A3 2.0T 5-door (US)
+|aka           = 
+|production    = 2003–present
+|assembly      = [[Ingolstadt]], [[Germany]] <ref>[http://www.audi.co.uk/audi/uk/en2/about_audi_ag/production_location/germany.html Audi UK - production info]</ref><br> [[Brussels]], [[Belgium]] (2004-2005; 2007 onwards)
+|body_style    = 3-door [[hatchback]]<br>5-door [[station wagon|estate]]<br>2-door [[convertible]]
+|platform      = [[Volkswagen Group A platform#A5 (PQ35)|Volkswagen Group A5 (PQ35) platform]]
+|engine        = ''[[Petrol engine]]s:''<br>1.6&nbsp;L [[Straight-4|I4]],<br>2.0&nbsp;L I4,<br>1.8&nbsp;L I4 Turbo,<br>2.0&nbsp;L I4 Turbo<br>3.2&nbsp;L [[VR6 engine|VR6]];<br>''[[Diesel engine]]s:''<br>1.9&nbsp;L [[Straight-4|I4]] [[Turbocharged Direct Injection|TDI]]<br>2.0&nbsp;L I4 TDI
+|transmission  = 5-speed [[Manual transmission|manual]]<br>6-speed [[Manual transmission|manual]]<br>6-speed [[Automatic transmission|automatic]]<br>6-speed [[Direct-Shift Gearbox|automatic S-Tronic]]<br>7-speed [[Direct-Shift Gearbox|automatic S-Tronic]]
+|wheelbase     = {{convert|2578|mm|1|abbr=on}}
+|length        = 3-door: {{convert|4215|mm|1|abbr=on}}<br>5-door: {{convert|4285|mm|1|abbr=on}}
+|width         = {{convert|1765|mm|1|abbr=on}}
+|height        = {{convert|1420|mm|1|abbr=on}}
+|fuel_capacity = {{convert|55|L|impgal usgal|1|abbr=on}}
+|related       = [[Audi TT#8J|Audi TT (8J)]] Mk2<br>[[Volkswagen Golf Mk5|VW Golf/Rabbit Mk5]]<br>[[SEAT Le%C3%B3n#Le.C3.B3n Mk2 .282005-present.29|SEAT León II]]<br>[[SEAT Toledo]] Mk3<br>[[SEAT Altea]]<br>[[Volkswagen Jetta#Mk5|VW Jetta Mk5]]<br>[[%C5%A0koda Octavia#2nd generation .282004-present.29|Škoda Octavia II]]
+|sp             = uk
+}}
+In the 2003 [[Geneva Motor Show]], Audi launched the second-generation of the A3, the ''Typ'' 8P, designed by [[Walter de'Silva]].  Originally launched only as a three-door [[hatchback]] with four cylinder engines, it featured a new [[automobile platform]] (the [[Volkswagen A platform#A5 (PQ35)|PQ35]] platform), a redesigned and more spacious interior, new [[petrol engine]]s with [[gasoline direct injection|Fuel Stratified Injection]] (FSI), and standard six-speed manual gearboxes (except on the base 1.6).
+
+In mid 2003, the line was updated with two sports-orientated models, a 2.0 Turbo-FSI version rated {{convert|200|PS|kW hp|0|abbr=on}}, and a 3.2 [[VR6 engine]] (for the first time) with {{convert|250|PS|kW hp|0|abbr=on}}.  [[Haldex Traction]]-based [[quattro (four wheel drive system)|quattro]] on-demand four wheel drive, and the [[Direct-Shift Gearbox|S-Tronic]] [[semi-automatic transmission|semi-auto gearbox]] were introduced as options (quattro is standard on the VR6) on every model with engine over {{convert|140|PS|kW hp|0|abbr=on}}.
+
+===Body styles===
+{| class="wikitable"
+|-
+! Chassis codes!!8P1!!8PA!!8P?
+|-
+|Body type||3-door hatchback||5-door Sportback||Cabriolet
+|-
+|Years||2003-||2004-||2008-
+|}
+
+The five-door A3 Sportback model was introduced in June 2004. The A3 Sportback is {{convert|80|mm|in|0|abbr=on}} longer than the base three-door body, and includes improved rear cabin space and a larger luggage compartment (370 litres). It also received the new "single frame" front grille originally introduced in the [[Audi A8|A8 W12]], which was later adopted across the whole A3 range.
+
+===North American launch===
+In 2005, the "S line" trim level, with new sporty decorative elements, became available in certain models, and the 3-door received the same frontend as the Sportback.  For the first time, the A3 became available in the [[North America]]n market, exclusively with the Sportback body, with the base 2.0 [[straight-4]] TFSI introduced in 2005 as a 2006 model, and the 3.2 [[VR6]] quattro following in 2006.  
+
+===2008 revisions===
+In 2008, Audi introduced a number of changes to the A3 and S3. These include revised nose and tail styling, with a modified grille and the new "trademark" daytime running lights, [[common rail]] 2.0 TDI engines, 7-speed S tronic [[dual clutch transmission]] availability for the smaller non-U.S. engines, and optional "magnetic ride" adaptive [[shock absorber]]s.  In addition, the range now includes an S3 Sportback model.<ref>{{cite web
+|url=http://www.audi.co.uk/audi/uk/en2/about_audi_ag/news/The_new_generation_Audi_A3.html
+|title=The new generation Audi A3
+|date=2008-04-27
+|work=www.audi.co.uk
+|accessdate=2008-07-14
+}}</ref>
+
+===Audi S3 (2006-)===
+{{Main|Audi S3}}
+In August 2006, Audi announced the arrival of the [[Audi S3|S3]].  The 2.0 TFSI engine was rated {{convert|265|PS|kW hp|0|abbr=on}}, and is available with standard quattro and a 6-speed [[manual transmission]]. It is to accelerate from 0-{{convert|100|km/h|mph|0|abbr=on}} in 5.7 seconds. The springs and dampers were tuned for a harder setting, and ride height lowered by {{convert|25|mm|in|0|abbr=on}}. 225/40 ZR18 [[tire|tyres]] are standard.
+
+===Audi A3 2.0 TDI clean diesel (2010-)===
+The A3 2.0 TDI clean diesel is a version of Audi A3 2.0 TDI for North American market, making it is the second Audi TDI vehicle sold in North America, following the [[Audi Q7]] TDI in 2008.
+
+It is a FWD vehicle with S tronic transmission with Hill-hold assist, Sirius satellite radio, Leather seats and steering wheel, Auxiliary audio input, Dual-zone climate control, {{auto in|17}} alloy wheels.
+
+The vehicle was unveiled in [[North American International Auto Show#2009|2009 North American International Auto Show]]. US model would begin sale in first quarter of 2010 as a 2010 model year vehicle.<ref>[http://green.autoblog.com/2009/01/12/detroit-2009-a3-tdi-coming-to-us-audi-dealers-late-this-year/ Detroit 2009: A3 TDI coming to US Audi dealers late this year]</ref>
+
+===Audi RS3{{anchor|RS3}}===
+
+In 2009 the motoring press reported that Audi are developing a high-performance [[Audi S and RS models|RS]] variant of the A3.  The RS3 is purported to offer {{convert|340|PS|kW bhp|0|abbr=on}} from its turbocharged 5 cylinder engine, as seen in the [[Audi TT]] RS, and feature Audi's [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] system.<ref name="Car Magazine">[http://www.carmagazine.co.uk/Secret-new-cars/Search-Results/Spyshots/Audi-RS3-2010-spy-photos/ Audi RS3 (2010): CAR's new spy photos]</ref> 
+
+===Engines===
+The engines used are the same as for many other cars in the [[Volkswagen Group]].
+{|class="wikitable" style="font-size: 90%;"
+|- 
+!Model !!Engine displacement !!Engine type !!Engine code !!Power@rpm !!Torque@rpm !!Years
+|-
+!colspan=7| [[Petrol engine]]s
+|-
+! 1.4 TFSI
+|{{convert|1390|cc|cuin|0|abbr=on}} ||[[Straight-4|I4]] [[DOHC]] [[Multi-valve|16V]] [[Gasoline direct injection|FSI]] [[Turbocharger|turbo]]
+|CAXC ||{{convert|125|PS|kW hp|0|abbr=on}} @5000 ||{{convert|200|Nm|lbft|0|abbr=on}} @1500-4000 ||2007-present
+|-
+! 1.6
+|{{convert|1595|cc|cuin|0|abbr=on}} ||I4 [[SOHC]] 8V
+|BGU / BSE / BSF / CCS ||{{convert|102|PS|kW hp|0|abbr=on}} @5600 ||{{convert|148|Nm|lbft|0|abbr=on}} @3800 ||2003-present
+|-
+! 1.6 FSI
+|{{convert|1598|cc|cuin|0|abbr=on}} ||I4 DOHC 16V FSI
+|BAG / BLF / BLP ||{{convert|115|PS|kW hp|0|abbr=on}} @6000 ||{{convert|155|Nm|lbft|0|abbr=on}} @4000 ||2003-2007
+|-
+!rowspan=2| 1.8 TFSI
+|rowspan=2| {{convert|1798|cc|cuin|0|abbr=on}} ||rowspan=2|I4 DOHC 16V FSI turbo
+|BYT / BZB ||{{convert|160|PS|kW hp|0|abbr=on}} @5000-6200 ||{{convert|250|Nm|lbft|0|abbr=on}} @1500-4200 ||2007-2008
+|-
+|CDAA ||{{convert|160|PS|kW hp|0|abbr=on}} @4500-6200 ||{{convert|250|Nm|lbft|0|abbr=on}} @1500-4500 ||2009-present
+|-
+! 2.0 FSI
+|rowspan=4|{{convert|1984|cc|cuin|0|abbr=on}} ||I4 DOHC 16V FSI
+|AXW / BLR / BLX / BLY<br />BVY / BVX / BVZ ||{{convert|150|PS|kW hp|0|abbr=on}} @6000 ||{{convert|200|Nm|lbft|0|abbr=on}} @3250–4250 ||2003-2007
+|-
+!rowspan=3| 2.0 TFSI
+|rowspan=3|I4 DOHC 16V FSI turbo
+|AXX / BPY / BWA / CAWB ||rowspan=2| {{convert|200|PS|kW hp|0|abbr=on}} @5100–6000 ||{{convert|280|Nm|lbft|0|abbr=on}} @1800–5000 ||2004-2008
+|-
+|CCZA ||{{convert|280|Nm|lbft|0|abbr=on}} @1700–5000 ||2009-
+|-
+|BHZ ||{{convert|265|PS|kW hp|0|abbr=on}} @6000 ||{{convert|350|Nm|lbft|0|abbr=on}} @2500–5000 ||2006-present
+|-
+!rowspan=2| 3.2 FSI
+|rowspan=2| {{convert|3189|cc|cuin|0|abbr=on}} ||rowspan=2| [[VR6 engine|VR6]] DOHC 24V FSI 
+|AXZ / BDB / BMJ / BUB ||rowspan=2| {{convert|250|PS|kW hp|0|abbr=on}} @6300 ||{{convert|320|Nm|lbft|0|abbr=on}} @2500–3000 ||2003-2009
+|-
+|AXZ?(Canada)<ref>[http://microsites.audicanada.ca/my09/pdf/ca/2009_Audi_A3.pdf 2009 Audi A3 eBrochure]</ref> ||{{convert|320|Nm|lbft|0|abbr=on}} @2800–3200 ||2003-2009
+|-
+!colspan=7| [[Diesel engine]]s
+|-
+!rowspan=2| 1.6 TDI
+|rowspan=2| {{convert|1598|cc|cuin|0|abbr=on}} ||rowspan=2|I4 16V common rail [[Turbocharged Direct Injection|turbo]]<br />with [[diesel particulate filter|DPF]] 
+|CAYB ||{{convert|90|PS|kW hp|0|abbr=on}} @4200 ||{{convert|230|Nm|lbft|0|abbr=on}} @1500-2500 ||2009-present
+|-
+|CAYA ||{{convert|105|PS|kW hp|0|abbr=on}} @4400 ||{{convert|250|Nm|lbft|0|abbr=on}} @1500-2500 ||2009-present
+|-
+! 1.9 TDI
+|{{convert|1896|cc|cuin|0|abbr=on}} ||I4 SOHC 8V [[Turbocharged Direct Injection|TDI]]<br />with [[Unit Injector|unit injectors]]
+|BJB / BKC / BXE / BLS ||{{convert|105|PS|kW hp|0|abbr=on}} @4000 ||{{convert|250|Nm|lbft|0|abbr=on}} @1900 ||2003-2009
+|-
+!rowspan=6| 2.0 TDI
+|rowspan=6| {{convert|1968|cc|cuin|0|abbr=on}} ||I4 DOHC 16V turbo<br />with unit injectors
+|BKD ||{{convert|140|PS|kW hp|0|abbr=on}} @4000<ref name="136 TDI">{{subst:Auto PS|136}} in some countries</ref> ||{{convert|320|Nm|lbft|0|abbr=on}} @1750–2500 ||2003-2008
+|-
+|I4 SOHC 8V turbo<br />with unit injectors and DPF
+|BMM ||{{convert|140|PS|kW hp|0|abbr=on}} @4000<ref name="136 TDI" /> ||{{convert|320|Nm|lbft|0|abbr=on}} @1750–2500 ||2006-2008
+|-
+|I4 DOHC 16V turbo<br />with unit injectors and DPF
+|BMN ||{{convert|170|PS|kW hp|0|abbr=on}} @4200 ||{{convert|350|Nm|lbft|0|abbr=on}} @1750–2500 ||2006-2008
+|-
+|rowspan=2|I4 DOHC 16V common rail turbo<br />with DPF
+|CBAB ||{{convert|140|PS|kW hp|0|abbr=on}} @4200 ||{{convert|320|Nm|lbft|0|abbr=on}} @1750–2500 ||2008-present
+|-
+|CBBB ||{{convert|170|PS|kW hp|0|abbr=on}} @4200 ||{{convert|350|Nm|lbft|0|abbr=on}} @1750–2500 ||2008-present
+|-valign="top"
+|I4 DOHC 16V common rail turbo<br />with piezo element injectors and DPF
+|CBEA ||{{convert|140|PS|kW hp|0|abbr=on}} @4200<ref>{{cite web|url=http://www.myturbodiesel.com/1000q_how_to/8p/audiA3tdi_checklist.htm|title=Audi A3 TDI FAQ and reviews}}</ref> ||{{convert|320|Nm|lbft|0|abbr=on}} @1750–2500 ||2010-present
+|}
+
+In April 2006, the line-up was expanded with the introduction of a more powerful 2.0 [[Turbocharged Direct Injection|TDI]] with {{convert|170|PS|kW hp|0|abbr=on}}.  
+
+In January 2007, the normally aspirated (non-turbo) 2.0 FSI was replaced by a new turbocharged 1.8 TFSI engine rated {{convert|160|PS|kW hp|0|abbr=on}}. It is available in front-wheel drive only.
+
+In late 2007, Audi introduced a new {{convert|125|PS|kW hp|0|abbr=on}} 1.4L TFSI engine for the A3, replacing the 1.6 FSI engine, and a new diesel "e"-model.  The "e"-model, Audi's equivalent of Volkswagen's [[BlueMotion]], is available with the 1.9L TDI engine, and offers a more ecological car, with a [[carbon dioxide|CO<sub>2</sub>]] emission below 120 g/km.
+
+In June 2009, Audi announced the release of two models of A3 1.6 [[Turbocharged Direct Injection|TDI]] for European market. The first uses Audi's start/stop and energy recovery system, and will produce {{convert|105|PS|kW hp|0|abbr=on}}. This engine will achieve approximately {{convert|4.1|L/100 km|abbr=on}}.{{Clarify|what kind of driving?|date=October 2009}} The second engine does not use the same efficiency systems and will produce {{convert|90|PS|kW hp|0|abbr=on}} will get {{convert|4.5|L/100 km|abbr=on}}. They went on sale in June 2009.<ref>{{cite web|url=http://www.audi.com/com/brand/en/company/news/models_and_services.detail.2009~06~further_efficient.html|title=engines added to the Audi A3 range|work=www.audi.com|date=2009-06-02}}</ref>
+
+===Marketing===
+In the Spring of 2005, Audi began a massive [[alternate reality game]] to advertise for the A3, known as ''[[The Art of the Heist]]''.
+
+===Gallery===
+<gallery>
+Image:Audi A3 S-Line silver.JPG|A3 (3-door) S-line (pre-facelift)
+File:Audi A3 8P 1.9TDI 2.Facelift rear.jpg| A3 (3-door) 1.9TDI (post-facelift)
+File:Audi A3 Sportback 20090218 rear.jpg|A3 Sportback
+File:A3 Cabrio hl white.jpg|A3 Cabriolet
+</gallery>
+
+==Awards and accolades==
+* (2008) [[Insurance Institute for Highway Safety]] (IIHS) Top Safety Pick in midsize cars
+* (2007) Audi 2.0T FSI named [[International Engine of the Year]] (1.8L - 2.0L category)
+* (2006) ''[[International Car of the Year]]'' Entry-Level Car of the Year – “Most Spirited”
+* (2006) Auto Interior of the Year in popular-priced category
+* (2006) Named overall best New England Winter Vehicle by the New England Motor Press Association
+* (2006) Best Luxury Small Car Pick by ''[[BusinessWeek]]'' Magazine
+* (2006) South African Car of the Year
+* (2005) Insurance Institute for Highway Safety (IIHS) Double Best Pick for frontal-offset and side-impact tests
+* (2000) Brazilian Car of the Year
+* (1998) Federal German Prize for Product Design
+* (1997, 1999, 2000) ''Auto Motor und Sport'' readers' poll Best Car award
+* (1997) ''Autozeitung'' "Auto Trophy" award
+* (1996) ''Bild am Sonntag'' "Golden Steering Wheel" award
+
+==See also==
+*[[Audi A3 TDI clubsport quattro concept]]
+*[[Audi S3]]
+
+==References==
+{{reflist}}
+# "A7, A5, and A3 Joins Even Numbers", an article in the "News" section on page thirty-eight of the June, 2004 issue of ''[[Motor Trend]]''
+# Audi A3 Owner's Manual ([[England|English]]/[[United Kingdom|UK]] edition) (2000 Audi AG)
+
+==External links==
+{{Commons category}}
+*[http://new-cars.audi.co.uk/audi-a3/ Official Audi UK A3 microsite]
+*[http://www.audiusa.com/audi/us/en2/new_cars/Audi_A3.html Official Audi USA A3 microsite]
+*[http://www.audi.ca/audi/ca/en2/new_cars/Audi_A3.html Official Audi Canada A3 microsite]
+*[http://cars.about.com/od/audi/fr/ag_07AudiA3.htm 2007 Audi A3 S-line review at About.com]
+*[http://www.autoexpress.co.uk/carreviews/driver_power_2007/207873/audi_a3.html Auto Express Driver Power 2007 survey] (UK)
+*[http://www.roadandtrack.com/article.asp?section_id=4&article_id=5529 Road & Track 2006 Audi A3 2.0 T DSG Long Term Test]
+*[http://a3clube.com/ Unofficial Brazilian Audi A3 Forum]
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+{{Modern North American Audi vehicles}}
+
+[[Category:Audi vehicles|A3]]
+[[Category:Compact cars]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Hatchbacks]]
+[[Category:Station wagons]]
+[[Category:All wheel drive vehicles]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles introduced in 1996]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles with VR engines]]
+
+[[bg:Ауди A3]]
+[[cs:Audi A3]]
+[[da:Audi A3]]
+[[de:Audi A3]]
+[[et:Audi A3]]
+[[es:Audi A3]]
+[[fr:Audi A3]]
+[[hr:Audi A3]]
+[[it:Audi A3]]
+[[lv:Audi A3]]
+[[hu:Audi A3]]
+[[nl:Audi A3]]
+[[ja:アウディ・A3]]
+[[no:Audi A3]]
+[[pl:Audi A3]]
+[[pt:Audi A3]]
+[[ro:Audi A3]]
+[[ru:Audi A3]]
+[[sk:Audi A3]]
+[[fi:Audi A3]]
+[[sv:Audi A3]]
+[[tr:Audi A3]]
+[[uk:Audi A3]]

@@ -1,0 +1,10 @@
+This Script creates the Wikicode for DBpedia Download Page.
+
+Config Variables are at top of the Script
+
+Pereq:
+- All the Files in the "Files Arrays"(see config Variables) in Directories (bz2, nt, csv)
+-path example:
+	/var/www/dbpediadownload.org/
+									en/articles_en.nt ... articles_en.csv ... articles_en.nt.bz2 ... articles_en.csv.bz2
+									de/articles_de.nt ...

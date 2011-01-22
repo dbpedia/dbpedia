@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = lunar landing site
+|rdfs:domain = SpaceMission
+|rdfs:range = xsd:string
+}}

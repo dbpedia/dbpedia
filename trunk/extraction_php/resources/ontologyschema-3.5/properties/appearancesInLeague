@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = appearances in league
+| rdfs:domain = SoccerPlayer
+| rdfs:range = xsd:integer
+}}

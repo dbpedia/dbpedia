@@ -1,0 +1,27 @@
+==Guidelines==
+These guidelines are open for discussion. Please discuss here: [[Talk:DBpedia/guidelines]]
+__TOC__
+
+===Naming Convention===
+Please use '''only''' lowercase and no CamelCase for anything. Also do '''not''' use any underscores _ .
+
+'''Exeptions''': Classes should start with a Capital letter.
+
+Reason for this is simple. property and Class names are for machines and not for humans. To achieve convergence of semantics for machines, the same String is necessary.
+So for a Human ''birthPlace'', ''birthplace'', ''birth_place'', ''birthPLACE'' has the same meaning, but for a machine not, as they are 4 different strings. Besides it is quite critical to decide how to CamelCase a word as the standard rule is to capitalize each separate word. For example: ''background'', ''percentageOfAWaterArea'' or ''percentageOfaWaterArea'', ''XMLId'' or ''XmlId''  or ''xmlId''. Writing everything small will save everybody a lot of nerves. Programmers, people who write SPARQL queries, people who try to find words that use the wrong CamelCase. The list of reasons is actually endless. Wikipedia has quite some problems with that, see below for an example what problems could arise.
+
+If you find something misspelled, please correct it (move pages and set redirects). Thank you.
+
+===Modelling===
+no guidelines, yet...
+
+
+=== Challenge the naming convention ===
+
+In case you want to try: find the following template pages on Wikipedia. Normally Template pages are spelled with a big letter directly after Template:
+*http://en.wikipedia.org/wiki/Template:Infobox_music_genre
+The following are converted to lower case, try to guess the correct form:
+* http://en.wikipedia.org/wiki/Template:Fb_team_victory_sc
+* http://en.wikipedia.org/wiki/Template:Fb_team_tochigi_sc_b
+* http://en.wikipedia.org/wiki/Template:User_soccer_usa_and_canada
+* http://en.wikipedia.org/wiki/Template:User_wikiproject_football_(soccer)_in_australia

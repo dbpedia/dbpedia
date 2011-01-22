@@ -1,0 +1,50 @@
+{{Infobox Automobile
+|name=BMW N42 engine
+|manufacturer=[[BMW]]
+|production=2001&ndash;2003
+|predecessor=[[BMW M43]]
+|successor=[[BMW N45]]<br>[[BMW N46]]
+|class=[[Straight-4]]
+|engine=
+}}
+The '''N42''' is a series of [[Straight-4|I4]] [[automobile]] [[piston engine]]s from [[BMW]].  The series debuted with the [[BMW E46|E46]] cars in 2001.  Displacement ranges from 1.8&nbsp;L to 2.0&nbsp;L.
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#N42B18|N42B18]]||1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)||85&nbsp;kW (115&nbsp;hp) @ 5500||175&nbsp;N·m (129&nbsp;ft·lbf) @ 3750||6500||2001
+|-
+|[[#N42B20|N42B20]]||2.0&nbsp;L (1995&nbsp;cc/121&nbsp;in³)||105&nbsp;kW (143&nbsp;hp) @ 6000||200&nbsp;N·m (147&nbsp;ft·lbf) @ 3750||6500||2001
+|}
+
+==N42B18==
+
+The '''N42B18''' is a 1.8&nbsp;L (1796&nbsp;cc) version producing 85&nbsp;kW (115&nbsp;hp) and 175&nbsp;N·m (129&nbsp;ft·lbf).  It uses [[Robert Bosch GmbH|Bosch]] DME ME9.2 [[fuel injection]].
+It has twin-balancing shafts.  The N42B18 won the 1.4-1.8&nbsp;L category of the [[International Engine of the Year]] competition for 2001.
+
+Applications:
+* 2001-2003 [[BMW E46|E46]] [[BMW 3-Series|316i/316ti]]
+
+==N42B20==
+
+The '''N42B20''' is a larger 2.0&nbsp;L (1995&nbsp;cc) version.  It produces 105&nbsp;kW (143&nbsp;hp) and 200&nbsp;N·m (148&nbsp;ft·lbf) with the same [[Robert Bosch GmbH|Bosch]] DME ME9.2 [[fuel injection]].  It has twin [[balance shaft]]s[http://www.bimmerportal.com/newsPage.aspx .]
+
+Applications:
+* 2001-2003 [[BMW E46|E46]] [[BMW 3-Series|318i/318Ci/318ti]]
+
+<gallery>
+<!-- Unsourced image removed: Image:3e42 27.jpg|N42B20 engine on a 2002 318i -->
+</gallery>
+
+==See also==
+* [[List of BMW engines]]
+* [[BMW M44]]
+
+[[Category:BMW engines|N42]]
+
+[[de:BMW N42]]
+[[it:BMW N42]]
+[[no:BMW N42]]
+[[pl:BMW N42]]

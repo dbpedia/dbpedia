@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = draft pick
+| rdfs:domain = FootballPlayer
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = National Olympic Committee
+|rdfs:domain = OlympicResult
+|rdfs:range = owl:Thing
+}}

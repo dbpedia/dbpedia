@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Pope
+|rdfs:subClassOf = Cleric
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = growing grape
+| rdfs:domain = WineRegion
+| rdfs:range = Grape
+}}

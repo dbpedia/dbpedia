@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = region1
+| rdfs:domain = City
+| rdfs:range = PopulatedPlace
+}}

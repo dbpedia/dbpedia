@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = time in space
+|rdfs:domain = SpaceShuttle
+|rdfs:range = day
+}}

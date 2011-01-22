@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = national ranking
+| rdfs:domain = School
+| rdfs:range = xsd:integer
+}}

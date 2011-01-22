@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Historic Building
+|rdfs:subClassOf = Building
+}}

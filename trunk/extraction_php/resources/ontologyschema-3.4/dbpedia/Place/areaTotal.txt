@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = area total
+|rdfs:domain = Place
+|rdfs:range = squareKilometre
+}}

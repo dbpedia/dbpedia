@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= product
+|rdfs:domain	= Company
+}}

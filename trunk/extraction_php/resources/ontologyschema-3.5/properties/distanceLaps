@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = distance laps
+| rdfs:domain = GrandPrix
+| rdfs:range = xsd:integer
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = lunar sample mass
+| rdfs:domain = SpaceMission
+| rdfs:range = Mass
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = variant of
+| rdfs:domain = Automobile
+}}

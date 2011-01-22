@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = established title
+| rdfs:range = xsd:string
+}}

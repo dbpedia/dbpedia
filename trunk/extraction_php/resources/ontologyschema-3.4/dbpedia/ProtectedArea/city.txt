@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = city
+|rdfs:domain = ProtectedArea
+|rdfs:range = City
+}}

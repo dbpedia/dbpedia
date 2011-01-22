@@ -1,0 +1,79 @@
+{{Infobox Automobile engine
+| image = 
+| name = BMW N57
+| aka =
+| manufacturer = [[BMW]]
+| type = [[Straight-6]] [[Diesel]]
+| production = 2008-present
+| predecessor = [[BMW M57]]
+| successor =
+| bore =
+| stroke =
+| displacement = {{convert|2993|cc|L cuin||abbr=on}}
+| length =
+| diameter =
+| width =
+| height =
+| weight =
+| block =
+| head =
+| valvetrain =
+| supercharger =
+| turbocharger =
+| fuelsystem =
+| fueltype =
+| oilsystem =
+| coolingsystem =
+| power =
+| specpower =
+| torque =
+| compression =
+| fuelcon =
+| specfuelcon =
+| oilcon =
+}}
+
+The '''[[BMW]] N57''' is a family of aluminium, turbocharged [[straight-6]] common rail [[diesel engine]]s. The engines utilize [[variable geometry turbocharger]]s. Engines use [[Siemens|SIEMENS]] Piezo Injector.<ref>[http://engine.kaist.ac.kr/research3.html Direct Injection Sprak Ignition Engine Combustion]</ref>
+
+==Summary==
+{| class=wikitable
+|+Models
+|-
+!Engine code!!Displacement!!Power, Torque@rpm!!Redline (rpm)!!Year
+|-
+|N57D30UL||{{convert|2993|cc|L cuin||abbr=on}}||{{convert|204|PS|kW hp||abbr=on}}@4000, {{convert|450|Nm|lbft||abbr=on}}@1750-2500||5000||2010
+|-
+|N57D30OL||{{convert|2993|cc|L cuin||abbr=on}}||{{convert|245|PS|kW hp||abbr=on}}@4000, {{convert|540|Nm|lbft||abbr=on}}@1750-3000||5000||2008
+|-
+|N57D30TOP||{{convert|2993|cc|L cuin||abbr=on}}||{{convert|306|PS|kW hp||abbr=on}}@4400, {{convert|600|Nm|lbft||abbr=on}}@1500-2500||5000||2009
+|}
+
+==N57D30==
+N57D30OL has 1800 bar pressure, while N57D30TOP has 2000 bar pressure.
+N57D30OL uses single turbocharger, while N57D30TOP uses 2 turbochargers.
+*Bore x stroke: {{convert|84|mm|in||abbr=on}} x {{convert|90|mm|in||abbr=on}}
+
+Applications:
+*N57D30UL
+**2010- [[BMW 5 series|F10/F11]] [[BMW 5 series|525d]]<ref>http://f10.5post.com/forums/showthread.php?t=325034</ref>
+*N57D30OL
+**2008- [[BMW F01]] [[BMW 7-Series|730d]]
+**2008- [[BMW E90|E90/E91/E92/E93]] [[BMW 3-Series|330d/330xd]]
+**2010- [[BMW 5 series|F10/F11]] [[BMW 5 series|530d]]
+*N57D30TOP
+**2009- [[BMW F01]] [[BMW 7-Series|740d]]
+
+==References==
+{{reflist}}
+
+==See also==
+* [[List of BMW engines]]
+
+==External links==
+*[http://www.zimbio.com/M3/articles/54/BME+e90+facelift BME e90 facelift]
+
+[[Category:BMW engines|M57]]
+
+[[de:BMW N57]]
+[[it:BMW N57]]
+[[pl:BMW N57]]

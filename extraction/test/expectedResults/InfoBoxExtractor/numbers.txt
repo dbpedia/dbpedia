@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/numbers.txt> <http://dbpedia.org/property/integer> "1270000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/numbers.txt> <http://dbpedia.org/property/thousandsComma> "23000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/numbers.txt> <http://dbpedia.org/property/floatingPoint> "134.34"^^<http://www.w3.org/2001/XMLSchema#decimal> .
+<http://dbpedia.org/resource/numbers.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .

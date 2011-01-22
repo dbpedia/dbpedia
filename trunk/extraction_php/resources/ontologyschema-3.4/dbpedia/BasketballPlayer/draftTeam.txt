@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = draft team
+|rdfs:domain = BasketballPlayer
+|rdfs:range = SportsTeam
+}}

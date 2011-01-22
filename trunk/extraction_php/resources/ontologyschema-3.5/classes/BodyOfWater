@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Body Of Water
+| rdfs:subClassOf = Place
+}}

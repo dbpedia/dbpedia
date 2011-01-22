@@ -1,0 +1,13 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Beverage
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = manufacturer | ontologyProperty = Beverage/manufacturer }}
+	{{ DBpediaPropertyMapping | templateProperty = distributor | ontologyProperty = Beverage/distributor }}
+	{{ DBpediaPropertyMapping | templateProperty = origin | ontologyProperty = Beverage/origin }}
+	{{ DBpediaPropertyMapping | templateProperty = introduced | ontologyProperty = Beverage/introduced }}
+	{{ DBpediaPropertyMapping | templateProperty = discontinued | ontologyProperty = Beverage/discontinued }}
+	{{ DBpediaPropertyMapping | templateProperty = variants | ontologyProperty = Beverage/variant }}
+	{{ DBpediaPropertyMapping | templateProperty = related | ontologyProperty = Beverage/related }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

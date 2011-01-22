@@ -1,0 +1,8 @@
+{{TemplateMapping
+| mapToClass = Language
+| mappings = 
+	{{PropertyMapping | templateProperty = states | ontologyProperty = states }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nativename | ontologyProperty = foaf:name }}
+}}

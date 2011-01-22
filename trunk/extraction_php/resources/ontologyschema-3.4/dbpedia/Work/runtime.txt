@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = runtime
+|rdfs:domain = Work
+|rdfs:range = minute
+}}

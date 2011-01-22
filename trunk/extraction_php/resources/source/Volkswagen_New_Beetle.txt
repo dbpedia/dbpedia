@@ -1,0 +1,243 @@
+{{Refimprove|date=May 2008}}
+{{Globalize/US}}
+{{Infobox Automobile
+|image          = [[Image:VWNewBeetle-01.jpg|250px|2006-2008 Volkswagen New Beetle]]
+|Image_capt     = Volkswagen New Beetle Convertible
+|name           = Volkswagen New Beetle
+|manufacturer   = [[Volkswagen]]
+|parent_company = [[Volkswagen Group]]
+|production     = 1998&ndash;present
+|assembly       = 1998 - 1999: Germany<br>2000 - present: [[Puebla, Puebla]], [[Mexico]]
+|predecessor    = [[Volkswagen Beetle]]
+|successor      = None
+|class          = [[Compact car|Small family car]]
+|body_style     = 3-door [[hatchback]]<br />2-door [[convertible]]
+|layout         = [[Front-engine design|front engine]], [[front-wheel drive]]
+|platform       = [[Volkswagen Group A platform#A4 (PQ34)|Volkswagen Group A4 (PQ34) platform]]
+|engine         = ''[[petrol engine]]s:''<br />1.4L [[Straight-4|I4]] [[Multi-valve|16 valve]]<br/>1.6L I4<br/>1.8L I4 [[Turbocharger|Turbocharged]]<br/>2.0L I4<br/>2.3L [[VR5 engine|VR5]] 20 valve<br/>2.5L [[Straight-5|I5]] 20 valve<br/>3.2L [[VR6 engine|VR6]] 32 valve (RSI)<br/>1.9L I4 [[Turbocharged Direct Injection|TDI]]
+|transmission   = 5-speed [[manual transmission|manual]]<br />6-speed [[manual transmission|manual]]<br />4-speed [[automatic transmission|automatic]]<br />6-speed automatic [[tiptronic]]
+|wheelbase      = {{convert|2515|mm|in|0|abbr=on}}
+|length         = {{convert|4129|mm|in|0|abbr=on}}
+|width          = {{convert|1721|mm|in|0|abbr=on}}
+|height         = {{Auto in|59.5|0}} (1998-2000),<br />{{convert|1498|mm|in|0|abbr=on}} (hatch 2003-present),<br />{{Auto in|59.1|0}} (convertible)
+|related        = [[Audi A3]] Mk1<br />[[Audi TT]] Mk1<br/>[[SEAT León]] Mk1<br />[[SEAT Toledo]] Mk2<br/>[[Škoda Octavia]] Mk1<br/>[[Volkswagen Golf Mk4]]<br/>[[Volkswagen Jetta#Fourth generation|Volkswagen Jetta/Bora]]
+|designer       = [[J Mays]], and<br />[[Freeman Thomas]]
+}}
+The '''Volkswagen New Beetle''' was introduced by [[Volkswagen]] in 1998, drawing heavy inspiration from the exterior design of the original [[Volkswagen Beetle|Beetle]]. Unlike the Beetle, the New Beetle has its [[Front-engine design|engine in the front]] driving the [[front-wheel drive|front wheels]] and luggage storage in the rear.
+
+==Concept 1==
+At the 1994 [[North American International Auto Show]], Volkswagen unveiled the [[J Mays]]-penned "Concept 1" with lines heavily influenced by the original Beetle.  It was equipped with "large diameter" 17 inch wheels (with the VW logo, just like the original Beetle hub cap) with low-profile tires.  Also, in the concept car, there was a "zero emission" hybrid design.
+
+==First generation==
+[[Image:Volkswagen-New-Beetle-Convertible.jpg|thumb|left|2003-2005 New Beetle convertible]]
+
+Strong public reaction persuaded the company to move the car into production, {{citation needed|date=March 2008}} and in 1998 Volkswagen launched the New Beetle, designed by [[J Mays]] and [[Freeman Thomas]] at the company's [[California]] design studio.  The New Beetle is related to the original only in name and appearance (including the absence of a car emblem script with the exception of the VW logo): under the hood, it is a modern car in every way, based on the [[Volkswagen A platform#A4 (PQ34)|Volkswagen Group A4 platform]] ([[Volkswagen Golf Mk4]]).
+
+Still, it carried many design features related to the old Beetle: separate wings, vestigial running boards, sloping headlamps and large round tail lights, as well as a high rounded roofline that provides enough headroom for tall drivers.
+
+===Specifications===
+These specifications relate to the 2.0L [[petrol engine]] ([[gasoline]]). While the non engine-related specifications generally apply to other motorizations as well, variations may occur with engine type.
+* Engine: Transverse-mounted water cooled I4; 1984&nbsp;cc; fuel injection (available in both petrol and diesel version)
+** Max power: {{convert|115|PS|kW hp|0|abbr=on}} at 5,200&nbsp;[[rpm]]
+** Max torque: {{convert|165|Nm|lbft|0|abbr=on}} at 2,600&nbsp;rpm
+*[[Transmission (mechanics)|Transmission]]: 5-speed [[Manual transmission|manual]] or 6-speed [[Automatic transmission|automatic]]
+*Brakes: [[disc brake]]s on all four wheels
+*Dimension:
+**Length: {{convert|4129|mm|in|1|abbr=on}}
+**Width: {{convert|1721|mm|in|1|abbr=on}}
+**Height: {{convert|1498|mm|in|1|abbr=on}}
+**[[Wheelbase]]: {{convert|2515|mm|in|1|abbr=on}}
+**[[Curb weight]]: {{convert|1230|kg|lb|0|abbr=on}}
+*Max speed: {{convert|177|km/h|mph|0|abbr=on}}
+*Acceleration (0–96&nbsp;km/h | 0-60&nbsp;mph): 13.2 s
+
+====Body styles====
+{| class="wikitable"
+|-
+!Chassis code!!Typ 1C!!Typ 9C!!Typ 1Y
+|-
+|Body type||coupe||coupe||convertible
+|-
+|Region(s)||North America||Europe and others||World
+|-
+|Years||1998-||1998-||2003-
+|-
+|}
+
+====Engine choices====
+{|class="wikitable" style="font-size: 90%;"
+|-
+!Model!!engine code(s)!!engine type!!max power@rpm!!max torque@rpm!!years
+|-
+|colspan=6 align="center" bgcolor=#C0C0C0| '''[[Petrol engine]]s'''
+|-
+|'''1.4'''||BCA||{{convert|1390|cc|L cuin||abbr=on}} [[Straight-4|I4]] [[DOHC]] [[Multi-valve|16V]]||{{convert|75|PS|kW hp||abbr=on}} @5000||{{convert|126|Nm|lbft||abbr=on}} @3800||2001-
+|-
+|'''1.6'''||AWH||{{convert|1595|cc|L cuin||abbr=on}} I4 [[SOHC]] 8V||{{convert|101|PS|kW hp||abbr=on}} @5600||{{convert|145|Nm|lbft||abbr=on}} @3800||1999-2000
+|-
+|'''1.6'''||AYD / BFS||{{convert|1595|cc|L cuin||abbr=on}} I4 SOHC 8V||{{convert|102|PS|kW hp||abbr=on}} @5600||{{convert|148|Nm|lbft||abbr=on}} @3800||2000-
+|-
+|'''1.8 T'''||AGU||{{convert|1781|cc|L cuin||abbr=on}} I4 DOHC 20V turbo||{{convert|150|PS|kW hp||abbr=on}} @5700||{{convert|210|Nm|lbft||abbr=on}} @1750-4600||1998-2000
+|-
+|'''1.8 T'''||APH /AVC /AWC /AWU /AWV /BKF||{{convert|1781|cc|L cuin||abbr=on}} I4 DOHC 20V turbo||{{convert|150|PS|kW hp||abbr=on}} @5800||{{convert|220|Nm|lbft||abbr=on}} @2000-4200||1999-
+|-
+|'''1.8 T'''||AUQ||{{convert|1781|cc|L cuin||abbr=on}} I4 DOHC 20V turbo||{{convert|180|PS|kW hp||abbr=on}}||{{convert|235|Nm|lbft||abbr=on}}||2001-?
+|-
+|'''1.8 T'''||AWP||{{convert|1781|cc|L cuin||abbr=on}} I4 DOHC 20V turbo||{{convert|180|PS|kW hp||abbr=on}} @5500||{{convert|235|Nm|lbft||abbr=on}} @1950-5000||2002-2004
+|-
+|'''2.0'''||AEG||{{convert|1984|cc|L cuin||abbr=on}} I4 SOHC 8V||{{convert|116|PS|kW hp||abbr=on}} @5400||{{convert|165|Nm|lbft||abbr=on}} @2800||1998-2001
+|-
+|'''2.0'''||APK / AQY||{{convert|1984|cc|L cuin||abbr=on}} I4 SOHC 8V||{{convert|116|PS|kW hp||abbr=on}} @5200||{{convert|170|Nm|lbft||abbr=on}} @2400||1998-2001
+|-
+|'''2.0'''||AZJ /BDC /BEJ /BER /BEV /BGD /BHP||{{convert|1984|cc|L cuin||abbr=on}} I4 SOHC 8V||{{convert|116|PS|kW hp||abbr=on}} @5200||{{convert|172|Nm|lbft||abbr=on}} @3200||2001-
+|-
+|'''2.3 V5'''||AQN||{{convert|2324|cc|L cuin||abbr=on}} [[VR5 engine|VR5]] DOHC 20V||{{convert|170|PS|kW hp||abbr=on}} @6200||{{convert|220|Nm|lbft||abbr=on}} @3300||2000-2005
+|-
+|'''2.5'''||BGP||{{convert|2480|cc|L cuin||abbr=on}} [[Straight-5|I5]] DOHC 20V||{{convert|150|PS|kW hp||abbr=on}}||{{convert|209|Nm|lbft||abbr=on}}||2006-
+|-
+|'''2.5'''||BPR /BPS||{{convert|2480|cc|L cuin||abbr=on}} [[Straight-5|I5]] DOHC 20V||{{convert|150|PS|kW hp||abbr=on}} @5000||{{convert|228|Nm|lbft||abbr=on}} @3750||2006-
+|-
+|'''3.2 RSI'''||AXJ||{{convert|3189|cc|L cuin||abbr=on}} [[VR6 engine|VR6]] DOHC 24V||{{convert|225|PS|kW hp||abbr=on}}||{{convert|320|Nm|lbft||abbr=on}}||2000-2003
+|-
+|colspan=6 align="center" bgcolor=#C0C0C0| '''[[Diesel engine]]s'''
+|-
+|'''1.9 [[Turbocharged Direct Injection|TDI]]'''||AGR / ALH||{{convert|1896|cc|L cuin||abbr=on}} I4 SOHC 8V turbo (Injection pump)||{{convert|90|PS|kW hp||abbr=on}} @4000||{{convert|210|Nm|lbft||abbr=on}} @1900||1998-2004
+|-
+|'''1.9 TDI'''||ATD /AXR /BEW||{{convert|1896|cc|L cuin||abbr=on}} I4 SOHC 8V turbo ([[Pumpe-Düse]])||{{convert|101|PS|kW hp||abbr=on}} @4000||{{convert|240|Nm|lbft||abbr=on}} @1800-2400||2000-2005
+|-
+|'''1.9 TDI'''||BJB / BKC / BXE / BLS||{{convert|1896|cc|L cuin||abbr=on}} I4 SOHC 8V turbo||{{convert|105|PS|kW hp||abbr=on}} @4000||{{convert|240|Nm|lbft||abbr=on}} @1800||2003-
+|-
+|'''1.9 TDI'''||BSW||{{convert|1896|cc|L cuin||abbr=on}} I4 SOHC 8V turbo ([[Pumpe-Düse]])||{{convert|105|PS|kW hp||abbr=on}} @4000||{{convert|240|Nm|lbft||abbr=on}} @1800-2200||2005-
+|}
+
+====Safety====
+The car achieved 4 stars in the [[Euro NCAP]] tests scoring 25 points out of 33.
+
+The [[IIHS]] gave the New Beetle a ''Good'' overall score in their frontal crash test.  2004 models come standard with side airbags, however the IIHS rated the Beetle ''Poor'' in their side impact test.<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=246 |title=IIHS-HLDI: Volkswagen New Beetle |publisher=Iihs.org |date=2008-09-25 |accessdate=2009-08-07}}</ref>
+
+====US models====
+Engines choices include the 2.0L [[Straight-4|inline-4]] for the base model, the 1.9L [[Turbocharged Direct Injection|TDI]], turbodiesel inline-4 (discontinued after the 2006 model year due to more stringent emissions requirements), and the 1.8L Turbo inline-4 for the "Sport" model, which included a sport suspension, and bigger wheels and tires.
+[[File:Vw-diesel-engine.jpg|thumb|left|TDI diesel engine in 2006 New Beetle]]
+
+[[Image:2006-2007 Volkswagen New Beetle.jpg|thumb|left|2006-2007 Volkswagen New Beetle]]
+For the 2006 model, the exterior was slightly redesigned with bigger bumpers, and fitted with a 150&nbsp;hp 2.5L [[Straight-5|I5]] 20V base engine, as seen on the A5 [[Volkswagen Jetta|Jetta V]] and [[Volkswagen Golf Mk5|Rabbit V]].
+
+===Dune===
+It is a concept vehicle inspired by the [[Baja Bug]], which was an Volkswagen Beetle modified for use in the [[Baja 1000]] race. It includes a 2.3-liter V5 engine rated 150&nbsp;bhp, 6-speed manual transmission, 4Motion AWD, variable height air suspension, 18-inch alloy wheels with 235/60R18 tires, integrated navigation system.<ref>[http://www.channel4.com/4car/ft/feature/concept+car/1292/1 Concept Car: Volkswagen Beetle Dune]</ref>
+
+The vehicle was unveiled in 2000 Los Angeles Auto Show.<ref>[http://www.seriouswheels.com/cars/top-Volkswagen-New-Beetle-Dune-Concept.htm Volkswagen New Beetle Dune Concept]</ref>
+
+===Beetle RSi{{anchor|RSi}} (2001-2003)===
+[[Image:Volkswagen New Beetle RSi.jpg|thumb|VW New Beetle RSi]]
+It is a limited (250 units) version of New Beetle. It included a 225&nbsp;hp 3.2 liter [[VR6 engine]], a 6-speed gearbox, and Volkswagen's [[four-wheel drive]] system [[4motion]], [[Remus]] twin-pipe exhaust. [[Porsche]]-tuned suspension  featuring a greatly altered rear suspension geometry more geared to the race track and a rear cross brace behind the rear seats, {{convert|80|mm|in|1|abbr=on}} wider fenders, unique front and rear bumpers, a rear diffuser, large rear wing, and 18x9 OZ Superturismo wheels with 235/40ZR-18 tyres. Inside, it was trimmed in [[carbon fiber]], billet aluminum, and bright orange leather. The front seats were [[Recaro]] racing buckets.  Notable disadvantages found were loud cabin noise and low rear tire life.
+
+Curiously, in Mexico, although being a country very attached to Volkswagen, there are RSis that have not been sold since 2001.  This is probably due to its [[United States dollar|US$]]58,000 price tag, and because Mexico is the country where most Beetle RSis stayed (20 cars).
+
+The Beetle RSi was designed by Riaz Sherazee, a UK national and graduate of [[Coventry Automotive Design School]].{{citation needed|date=November 2007}}
+
+===Dark Flint edition (2005)===
+It is a limited (250 units) version of New Beetle convertible. It included anthracite coloured body, garnet red hydraulically-operated top, Bordeaux red leather interior trim, 17-inch alloy wheels with colour-coordinated trims, air-conditioning, parkpilot, winter package (incl. heated front seats and fog lights), 'gamma' radio with CD player and 10 speakers, windbreak and the Highline package.
+
+The vehicles had MSRPs of €26,300 (1.6 75kW (102PS) 5-speed), €27,550 (2.0 85kW (115PS) 5-speed), €29,450 (2.0 85kW (115PS) 6-speed automatic), €28,125 (1.9 TDI 74kW (100PS) 5-speed).<ref>[http://www.vwvortex.com/cgi-bin/artman/exec/view.cgi?archive=6&num=1129 UPDATED: The New Beetle Cabriolet “Dark Flint”]</ref>
+
+===Ragster concept===
+[[Image:PictureRagster 164.jpg|thumb|The VW New Beetle Ragster Concept at the 2005 [[Chicago Auto Show]]]]
+At the 2005 North American International Auto Show, the '''Volkswagen New Beetle Ragster''' [[concept car]] was introduced.  It was supposed to be a preview of the future design of the New Beetle.{{citation needed|date=May 2008}}  The base of the Ragster (a ragster is the cross between a ragtop and a speedster) was a regular New Beetle Convertible.  They made some changes, such as chopping the top, penning a new U-shaped roof, and creating a unique paint job with silver double stripes.  The interior differs from the original New Beetle, being a [[2+2 (car body style)|2+2]], and having distinctive control dials.  Another item of interest is that the Ragster's rear-view mirror is mounted on its dashboard, a retro feature, reminiscent of the first Type 1s.  The Ragster's profile{{Clarify me|date=February 2009}} is lower than that of the prior New Beetle.
+
+===Anniversary Edition (2008)===
+[[Image:New Beetle Anniversary Edition 2008.jpg|thumb|New Beetle Anniversary Edition at the 2008 Adelaide Motor Show]]‎ 
+It is a version for Australian market commemorating 10 years of New Beetle, based on Volkswagen Beetle Miami. It included the 1.6 engine rated {{convert|102|PS|kW hp}}, 17in Versus alloy wheels, front fog lights, front sports seats and cruise control, black and white interior leatherette upholstery, Campenella White body, black roof, sport suspension.
+
+The vehicles have MSRPs of $27,990 (1.6 Litre 5 Speed Manual), $30,290 (1.6 Litre 6 Speed Automatic).<ref>[http://germancarscene.com/2008/02/02/volkswagen-beetle-10th-anniversary-edition/ VOLKSWAGEN BEETLE 10TH ANNIVERSARY EDITION]</ref><ref>[http://www.adelaidemotorshow.com.au/pdfs/BeetleAnniversary_PressText.pdf New Beetle Anniversary Edition Celebrating the 10th Anniversary of the New Beetle]</ref>
+
+The vehicle was unveiled in 2008 Adelaide Motor Show.<ref>[http://www.adelaidemotorshow.com.au/mediareleases.php AMS 2008 Media Releases]</ref>
+
+===Triple White (Convertible)===
+Only 3,000 Triple White New Beetles were manufactured. This version was actually a throw-back to a special edition package of the same name once offered on the [[Super Beetle]] convertible. The Triple White New Beetle convertible features a unique Campanella white exterior, a white interior, and white convertible roof cover. The Triple White New Beetle convertible takes its colour palette from the original Triple White Super Beetle convertible of the late 1970s. This modern day rendition includes 17-inch 'Oktopus' alloy wheels, a three-spoke leather wrapped steering wheel, white leatherette seats and center armrest. Also included are black carpeting, floor mats and door panels along with [[Sirius XM]] Satellite Radio. Another distinctive feature of the Triple White New Beetle convertible is the special front seat headrests ingrained with the New Beetle convertible icon. With the standard automatic transmission, the Triple White New Beetle convertible is priced at $25,990. Two were given to each of 1500 dealers.
+
+===Barbie version (2009)===
+It is a version of New Beetle Convertible commemorating 50th anniversary of [[Barbie]], customized by ABD Racing Werks, Katzkin Leather and Interiors and FoamMolders. It included white custom leather interior upholstery, pink quilted leather lined door pockets and arm rests, lipstick-coloured dipstick, in-trunk motorized vanity with rhinestone accents and vanity mirrors.
+
+The vehicle was unveiled at Barbie celebration at Malibu Dream House in [[Malibu, California]].<ref>[http://www.autoblog.com/2009/03/10/barbie-gets-em-another-em-car-for-birthday-pink-vw-new-beetl/ Barbie gets another car for birthday: Pink VW New Beetle Convertible]</ref>
+
+==="Blush" edition (2009)===
+It is a limited edition of 2009 New Beetle convertible 2.5 for US market. It included metallic White Gold body, red leather interior upholstery, red convertible top, red boot, 17-inch alloy wheels, 6-speed automatic transmission.
+
+The vehicle has MSRP of $26,990.<ref>[http://www.autoblog.com/2009/02/13/red-faced-rag-top-volkswagen-unveils-new-beetle-blush/ Red-faced rag top: Volkswagen unveils New Beetle "Blush"]</ref>
+
+===Other concepts===
+Other designs on the New Beetle include:
+* [[EDAG Biwak]] — an estate ([[station wagon]]) Beetle.
+
+===Awards===
+The Volkswagen New Beetle was ''[[Motor Trend]]'''s "Import Car of the Year"<ref>[http://www.motortrend.com/oftheyear/car/import_car_of_the_year_winners/index.html Motor Trend Import Car of the Year Complete Winners List]</ref> for 1999.
+
+===Production===
+The New Beetle is assembled currently in VW [[Puebla, Puebla|Puebla]] factory in [[Mexico]]. [[Houston, Texas]] and Wilmington, Delaware are their points of entry to the United States.
+
+==Second generation==
+
+According to the Channel4, Volkswagen is planning to launch the successor of new Beetle by 2011. Possible variants included two-seat Beetle roadster, SUV-type Beetle, and the standard hard top.<ref>[http://www.channel4.com/4car/news/news-story.jsp?news_id=17680 New Models: Volkswagen Beetle to get more bodystyles]</ref>
+
+MotorTrend reported Volkswagen would build the next generation of Beetle based on [[Volkswagen Golf Mk6]] and [[Volkswagen Scirocco]] platform. It would be styled in California and engineered in Germany. The cutesy bug-eye look, rounded shape, and bulbous roofline would be replaced by a more aggressive style with a sportier stance and coupe-style roof. The vehicle would be released in 2010 as 2011 model.<ref>[http://www.motortrend.com/future/112_0707_2010_volkswagen_new_beetle/index.html So much for Herbie: 2010 Volkswagen Beetle going full modern]</ref>
+
+Car Magazine reported there would be two Beetles, with a smaller version based on the 2007 [[Volkswagen up!]] concept, and the bigger version based on the Volkswagen Golf. The exterior would be based on the Beetle Ragster concept.<ref>[http://www.worldcarfans.com/9081219.019/2011-vw-beetle-details-surface 2011 VW Beetle Details Surface]</ref>
+
+[[Image:06-07 Volkswagen Beetle GeekSquad.jpg|thumb|right|Best Buy [[Geek Squad]] 2006-2007 Volkswagen New Beetle]]
+
+==See also==
+*[[Baja bug]]
+*[[Cal Look]]
+*[[Punch buggy]]
+*[[Steyr 50]]
+*[[Tata Nano]]
+*[[Volksrod]]
+*[[Volkswagen]]
+*[[Volkswagen Beetle]]
+*[[Volkswagen Kübelwagen]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat}}
+* [http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/models/new_beetle_6.html Volkswagen.com official New Beetle website]
+* [http://www.newbeetleclub.cz Newbeetleclub.cz - Czech New Beetle Club]
+*{{dmoz|/Recreation/Autos/Makes_and_Models/Volkswagen/New_Beetle/|New Beetle}}
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Beetle, New]]
+[[Category:Compact cars]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Hatchbacks]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Partial zero-emissions vehicles]]
+[[Category:Convertibles]]
+[[Category:Retro style automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1998]]
+[[Category:Vehicles with VR engines]]
+[[Category:Upcoming automobiles]]
+
+[[cs:Volkswagen New Beetle]]
+[[da:Volkswagen New Beetle]]
+[[de:VW New Beetle]]
+[[es:Volkswagen New Beetle]]
+[[fr:Volkswagen New Beetle]]
+[[hr:Volkswagen New Beetle]]
+[[it:Volkswagen New Beetle]]
+[[he:החיפושית החדשה]]
+[[lv:Volkswagen New Beetle]]
+[[nl:Volkswagen New Beetle]]
+[[ja:フォルクスワーゲン・ニュービートル]]
+[[pl:Volkswagen New Beetle]]
+[[pt:Volkswagen New Beetle]]
+[[ru:Volkswagen New Beetle]]
+[[fi:Volkswagen New Beetle]]
+[[sv:Volkswagen New Beetle]]
+[[tr:Volkswagen New Beetle]]
+[[zh:大众新甲壳虫]]

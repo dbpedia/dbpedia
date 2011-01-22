@@ -1,0 +1,16 @@
+{{Class
+| rdfs:label = Planet
+| specificProperties = {{SpecificProperty | ontologyProperty = temperature | unit = kelvin }}
+                       {{SpecificProperty | ontologyProperty = orbitalPeriod | unit = day }}
+                       {{SpecificProperty | ontologyProperty = density | unit = kilogramPerCubicMetre }}
+                       {{SpecificProperty | ontologyProperty = mass | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = apoapsis | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = maximumTemperature | unit = kelvin }}
+                       {{SpecificProperty | ontologyProperty = averageSpeed | unit = kilometrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = volume | unit = cubicKilometre }}
+                       {{SpecificProperty | ontologyProperty = surfaceArea | unit = squareKilometre }}
+                       {{SpecificProperty | ontologyProperty = meanTemperature | unit = kelvin }}
+                       {{SpecificProperty | ontologyProperty = minimumTemperature | unit = kelvin }}
+                       {{SpecificProperty | ontologyProperty = periapsis | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = meanRadius | unit = kilometre }}
+}}

@@ -1,0 +1,9 @@
+{{TemplateMapping
+| mapToClass = SiteOfSpecialScientificInterest
+| mappings = 
+	{{PropertyMapping | templateProperty = aos | ontologyProperty = areaOfSearch }}
+	{{PropertyMapping | templateProperty = interest | ontologyProperty = interest }}
+	{{PropertyMapping | templateProperty = notifyDate | ontologyProperty = notifyDate }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = Area }}
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = management place
+| rdfs:range = PopulatedPlace
+}}

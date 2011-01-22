@@ -1,0 +1,27 @@
+<http://dbpedia.org/resource/London> <http://xmlns.com/foaf/0.1/name> "London" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Greater_London_Authority> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderTitle> "Regional assembly" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/London_Assembly> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderTitle> "Mayor of London" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Boris_Johnson> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderTitle> "Headquarters" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/City_Hall_%28London%29> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderTitle> "UK Parliament" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderTitle> "London Assembly" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderTitle> "European Parliament" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/List_of_Parliamentary_constituencies_in_Greater_London> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/London_Assembly_constituencies> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/London_%28European_Parliament_constituency%29> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/establishedTitle> "Settled by Romans" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/areaTotal> "659"^^<http://dbpedia.org/ontology/squareMile> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/total_type> "London" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/populationTotal> "7556900" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/populationDensity> "4761"^^<http://dbpedia.org/ontology/inhabitantsPerSquareKilometre> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/populationDensity> "12331"^^<http://dbpedia.org/ontology/inhabitantsPerSquareMile> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/populationMetro> "12300000" .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/populationUrbanTotal> "8278251" .
+<http://dbpedia.org/resource/London> <http://www.georss.org/georss/point> "51.50777778 -0.12805556" .
+<http://dbpedia.org/resource/London> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.50777778"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/London> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-0.12805556"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/elevation> "24"^^<http://dbpedia.org/ontology/metre> .
+<http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/areaCode> "020" .

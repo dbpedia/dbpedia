@@ -1,0 +1,664 @@
+{{ DBpediaConditionalMapping
+| cases =
+ {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value = River
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = River
+                }}
+ }}
+
+  {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value = Bridge
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = Bridge
+                }}
+ }}
+ 
+ 
+  {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value =  City
+    | mapping = {{ DBpediaTemplateMapping
+                  | mapToClass = City
+	              | mappings =
+	
+                    {{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+                    {{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+                    {{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+                    {{ DBpediaPropertyMapping | templateProperty = category | ontologyProperty = Place/type }}
+                    {{ DBpediaPropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+                    {{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Place/nickname }}
+                    {{ DBpediaPropertyMapping | templateProperty = motto | ontologyProperty = PopulatedPlace/motto }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = City/country }}
+                    {{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = City/state }}
+                    {{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = City/region }}
+                    {{ DBpediaPropertyMapping | templateProperty = district | ontologyProperty = City/district }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = part | ontologyProperty = City/part }}
+                    {{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = Area}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_imperial | ontologyProperty = Place/areaTotal | unit = Area}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_land | ontologyProperty = Place/areaLand | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water | ontologyProperty = Place/areaWater | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_land_imperial | ontologyProperty = Place/areaLand | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water_imperial | ontologyProperty = Place/areaWater | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_urban | ontologyProperty = PopulatedPlace/areaUrban | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_urban_imperial | ontologyProperty = PopulatedPlace/areaUrban | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_metro | ontologyProperty = PopulatedPlace/areaMetro | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_metro_imperial | ontologyProperty = PopulatedPlace/areaMetro | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water_percentage | ontologyProperty = Place/percentageOfAreaWater }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water_percentage_round | ontologyProperty = Place/percentageOfAreaWaterRound }}
+                    {{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	
+                    {{ DBpediaGeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}	
+                    {{ DBpediaPropertyMapping | templateProperty = elevation_imperial | ontologyProperty = Place/elevation | unit = foot }}	
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = highest_name | ontologyProperty = City/highest }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_location | ontologyProperty = City/highestMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_location | ontologyProperty = City/highestPlace }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = City/highestPosition | latitudeDegrees = highest_lat_d  | latitudeMinutes = highest_lat_m  | latitudeSeconds = highest_lat_s  | latitudeDirection = highest_lat_NS  | longitudeDegrees = highest_long_d  | longitudeMinutes = highest_long_m  | longitudeSeconds = highest_long_s  | longitudeDirection = highest_long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_elevation | ontologyProperty = City/highestElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_elevation_imperial| ontologyProperty = City/highestElevation | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_name | ontologyProperty = City/lowest }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_location | ontologyProperty = City/lowestMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_location | ontologyProperty = City/lowestPlace }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = City/lowestPosition | latitudeDegrees = lowest_lat_d  | latitudeMinutes = lowest_lat_m  | latitudeSeconds = lowest_lat_s  | latitudeDirection = lowest_lat_NS  | longitudeDegrees = lowest_long_d  | longitudeMinutes = lowest_long_m  | longitudeSeconds = lowest_long_s  | longitudeDirection = lowest_long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_elevation | ontologyProperty = City/lowestElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_elevation_imperial| ontologyProperty = City/lowestElevation | unit = foot }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = Area}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_imperial | ontologyProperty = Place/areaTotal | unit = Area}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_land | ontologyProperty = Place/areaLand | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water | ontologyProperty = Place/areaWater | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_land_imperial | ontologyProperty = Place/areaLand | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water_imperial | ontologyProperty = Place/areaWater | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_urban | ontologyProperty = PopulatedPlace/areaUrban | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_urban_imperial | ontologyProperty = PopulatedPlace/areaUrban | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_metro | ontologyProperty = PopulatedPlace/areaMetro | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_metro_imperial | ontologyProperty = PopulatedPlace/areaMetro | unit = Area }}
+                        
+                    {{ DBpediaPropertyMapping | templateProperty = population | ontologyProperty = PopulatedPlace/populationTotal }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_as_of | ontologyProperty = PopulatedPlace/populationAsOf }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_metro | ontologyProperty = PopulatedPlace/populationMetro }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_urban | ontologyProperty = PopulatedPlace/populationUrban }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density | ontologyProperty = PopulatedPlace/populationDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_imperial | ontologyProperty = PopulatedPlace/populationDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_urban_imperial | ontologyProperty = PopulatedPlace/populationUrbanDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_urban | ontologyProperty = PopulatedPlace/populationUrbanDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_metro | ontologyProperty = PopulatedPlace/populationMetroDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_metro_imperial | ontologyProperty = PopulatedPlace/populationMetroDensity | unit = PopulationDensity }}
+
+
+                    {{ DBpediaPropertyMapping | templateProperty = established | ontologyProperty = City/established }}
+                    {{ DBpediaPropertyMapping | templateProperty = established1 | ontologyProperty = City/established }}
+                    {{ DBpediaPropertyMapping | templateProperty = established2 | ontologyProperty = City/established }}
+                    {{ DBpediaPropertyMapping | templateProperty = leader | ontologyProperty = City/leader }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = postal_code | ontologyProperty =  PopulatedPlace/postalCode}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_code | ontologyProperty =  PopulatedPlace/areaCode}}
+                    {{ DBpediaPropertyMapping | templateProperty = code | ontologyProperty =  City/code}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_code | ontologyProperty =  City/timezone}}
+                }}
+   }}
+ 
+   {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value =  Lake
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = Lake
+                }}
+   }} 
+ 
+    {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value =  River
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = River
+	               | mappings = 	
+	
+                        {{ DBpediaPropertyMapping | templateProperty = category | ontologyProperty = Place/type }}
+                        {{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Place/nickname }}
+                        {{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length }}
+                        {{ DBpediaPropertyMapping | templateProperty = length_imperial | ontologyProperty = Place/length | unit = mile }}
+                        {{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = Length }}
+                        {{ DBpediaPropertyMapping | templateProperty = width_imperial | ontologyProperty = Place/width | unit = Length }}
+                        {{ DBpediaPropertyMapping | templateProperty = depth | ontologyProperty = Place/depth | unit = Length }}
+                        {{ DBpediaPropertyMapping | templateProperty = depth_imperial  | ontologyProperty = Place/depth | unit = Length }}
+                        {{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	
+	
+                        {{ DBpediaPropertyMapping | templateProperty = watershed_imperial | ontologyProperty = River/watershed | unit = squareMile }}
+                        {{ DBpediaPropertyMapping | templateProperty = watershed | ontologyProperty = River/watershed | unit = Area }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge_imperial | ontologyProperty = River/maximumDischarge | unit = cubicFeetPerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge_average | ontologyProperty = River/dischargeAverage | unit = cubicMetrePerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge_average_imperial | ontologyProperty = River/dischargeAverage | unit = cubicFeetPerSecond }}
+                        
+                        {{ DBpediaPropertyMapping | templateProperty = discharge | ontologyProperty = River/maximumDischarge | unit = cubicMetrePerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge | ontologyProperty = River/discharge | unit = cubicMetrePerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge_max_imperial | ontologyProperty = River/maximumDischarge | unit = cubicFeetPerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge_max | ontologyProperty = River/maximumDischarge | unit = cubicMetrePerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge_min_imperial | ontologyProperty = River/minimumDischarge | unit = cubicFeetPerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = discharge_min | ontologyProperty = River/minimumDischarge | unit = cubicMetrePerSecond }}
+                        {{ DBpediaPropertyMapping | templateProperty = parent | ontologyProperty = River/parent}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left | ontologyProperty = River/leftTributary}}	
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right | ontologyProperty = River/rightTributary}}	
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left1 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left2 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left3 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left4 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left5 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left6 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left7 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left8 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left9 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left10 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left11 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left12 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left13 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left14 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_left15 | ontologyProperty = River/leftTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right1 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right2 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right3 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right4 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right5 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right6 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right7 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right8 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right9 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right10 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right11 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right12 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right13 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right14 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = tributary_right15 | ontologyProperty = River/rightTributary}}
+                        {{ DBpediaPropertyMapping | templateProperty = volume | ontologyProperty = BodyOfWater/volume | unit = Volume }}
+                        {{ DBpediaPropertyMapping | templateProperty = volume_imperial | ontologyProperty = BodyOfWater/volume | unit = Volume }}
+                        {{ DBpediaPropertyMapping | templateProperty = municipality | ontologyProperty = BodyOfWater/municipality }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_region | ontologyProperty = River/sourceRegion }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_country | ontologyProperty = River/sourceCountry }}
+                        {{ DBpediaPropertyMapping | templateProperty = source1_region | ontologyProperty = River/sourceRegion }}
+                        {{ DBpediaPropertyMapping | templateProperty = source1_country | ontologyProperty = River/sourceCountry }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_confluence_region | ontologyProperty = River/sourceConfluenceRegion }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_confluence_country | ontologyProperty = River/sourceConfluenceCountry }}
+                        {{ DBpediaPropertyMapping | templateProperty = mouth_region | ontologyProperty = River/mouthRegion }}
+                        {{ DBpediaPropertyMapping | templateProperty = mouth_country | ontologyProperty = River/mouthCountry }}
+                        {{ DBpediaPropertyMapping | templateProperty = mouth | ontologyProperty = River/mouth }}
+                        {{ DBpediaPropertyMapping | templateProperty = mouth_name | ontologyProperty = River/mouth }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_name | ontologyProperty = River/source }}
+
+                        {{ DBpediaPropertyMapping | templateProperty = source | ontologyProperty = River/source }}
+                        {{ DBpediaPropertyMapping | templateProperty = source1 | ontologyProperty = River/source }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_confluence | ontologyProperty = River/sourceConfluence }}
+                        {{ DBpediaPropertyMapping | templateProperty = mouth_elevation | ontologyProperty = River/mouthElevation | unit = metre }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_elevation | ontologyProperty = River/sourceElevation | unit = metre }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_elevation_imperial| ontologyProperty = River/sourceElevation | unit = foot }}
+                        {{ DBpediaPropertyMapping | templateProperty = source1_elevation | ontologyProperty = River/sourceElevation | unit = metre }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_confluence_elevation | ontologyProperty = River/sourceConfluenceElevation | unit = metre }}
+                        {{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+                        {{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+                        {{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+                        {{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country1 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country2 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country3 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country4 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country5 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country6 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country7 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country8 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country9 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country10 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country11 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country12 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country13 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country14 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country15 | ontologyProperty = BodyOfWater/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state1 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state2 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state3 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state4 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state5 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state6 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state7 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state8 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state9 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state10 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state11 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state12 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state13 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state14 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state15 | ontologyProperty = BodyOfWater/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = BodyOfWater/region }}
+                        {{ DBpediaPropertyMapping | templateProperty = district | ontologyProperty = BodyOfWater/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = region1 | ontologyProperty = BodyOfWater/region }}
+                        {{ DBpediaPropertyMapping | templateProperty = district1 | ontologyProperty = BodyOfWater/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city1 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city2 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city3 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city4 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city5 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city6 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city7 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city8 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city9 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city10 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city11 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city12 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city13 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city14 | ontologyProperty = BodyOfWater/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city15 | ontologyProperty = BodyOfWater/city }}
+
+                        {{ DBpediaPropertyMapping | templateProperty = source_location | ontologyProperty = River/sourceMountain }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_location | ontologyProperty = River/sourcePlace }}
+                        {{ DBpediaPropertyMapping | templateProperty = source1_location | ontologyProperty = River/sourceMountain }}
+                        {{ DBpediaPropertyMapping | templateProperty = source1_location | ontologyProperty = River/sourcePlace }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_confluence_location | ontologyProperty = River/sourceConfluenceMountain }}
+                        {{ DBpediaPropertyMapping | templateProperty = source_confluence_location | ontologyProperty = River/sourceConfluencePlace }}
+                        {{ DBpediaPropertyMapping | templateProperty = mouth_location | ontologyProperty = River/mouthMountain }}
+                        {{ DBpediaPropertyMapping | templateProperty = mouth_location | ontologyProperty = River/mouthPlace }}
+                        {{ DBpediaPropertyMapping | templateProperty = river | ontologyProperty = foaf:name }}
+                        {{ DBpediaGeocoordinatesMapping | ontologyProperty = River/sourcePosition | latitudeDegrees = source_lat_d  | latitudeMinutes = source_lat_m  | latitudeSeconds = source_lat_s  | latitudeDirection = source_lat_NS  | longitudeDegrees = source_long_d  | longitudeMinutes = source_long_m  | longitudeSeconds = source_long_s  | longitudeDirection = source_long_EW }}
+                        {{ DBpediaGeocoordinatesMapping | ontologyProperty = River/sourcePosition | latitudeDegrees = source1_lat_d  | latitudeMinutes = source1_lat_m  | latitudeSeconds = source1_lat_s  | latitudeDirection = source1_lat_NS  | longitudeDegrees = source1_long_d  | longitudeMinutes = source1_long_m  | longitudeSeconds = source1_long_s  | longitudeDirection = source1_long_EW }}
+                        {{ DBpediaGeocoordinatesMapping | ontologyProperty = River/sourceConfluencePosition | latitudeDegrees = source_confluence_lat_d  | latitudeMinutes = source_confluence_lat_m  | latitudeSeconds = source_confluence_lat_s  | latitudeDirection = source_confluence_lat_NS  | longitudeDegrees = source_confluence_long_d  | longitudeMinutes = source_confluence_long_m  | longitudeSeconds = source_confluence_long_s  | longitudeDirection = source_confluence_long_EW }}
+                        {{ DBpediaGeocoordinatesMapping | ontologyProperty = River/mouthPosition | latitudeDegrees = mouth_lat_d  | latitudeMinutes = mouth_lat_m  | latitudeSeconds = mouth_lat_s  | latitudeDirection = mouth_lat_NS  | longitudeDegrees = mouth_long_d  | longitudeMinutes = mouth_long_m  | longitudeSeconds = mouth_long_s  | longitudeDirection = mouth_long_EW }}
+                }}
+    }} 
+ 
+  {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value =  Water
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = BodyOfWater
+                }} 
+  }}
+ 
+ {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value = Mountain
+    | mapping = {{ DBpediaTemplateMapping
+                  | mapToClass = Mountain
+	              | mappings =
+	
+                    {{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+                    {{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+                    {{ DBpediaPropertyMapping | templateProperty = category | ontologyProperty = Place/type }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Mountain/country }}
+                    {{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = Mountain/state }}
+                    {{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = Mountain/region }}
+                    {{ DBpediaPropertyMapping | templateProperty = district | ontologyProperty = Mountain/district }}
+                    {{ DBpediaPropertyMapping | templateProperty = municipality | ontologyProperty = Mountain/municipality }}
+                    {{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+                    {{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = elevation_imperial | ontologyProperty = Place/elevation | unit = Length }}	
+                    {{ DBpediaGeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+
+                    {{ DBpediaPropertyMapping | templateProperty = range | ontologyProperty = Mountain/range }}
+                    {{ DBpediaPropertyMapping | templateProperty = prominence | ontologyProperty = Mountain/prominence | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = geology | ontologyProperty = Mountain/geology }}
+                    {{ DBpediaPropertyMapping | templateProperty = orogeny | ontologyProperty = Mountain/orogeny }}
+                    {{ DBpediaPropertyMapping | templateProperty = period | ontologyProperty = Mountain/period }}
+                    {{ DBpediaPropertyMapping | templateProperty = biome | ontologyProperty = Mountain/biome }}
+                    {{ DBpediaPropertyMapping | templateProperty = plant | ontologyProperty = Mountain/plant }}
+                    {{ DBpediaPropertyMapping | templateProperty = animal | ontologyProperty = Mountain/animal }}
+                    {{ DBpediaPropertyMapping | templateProperty = public | ontologyProperty = Mountain/public }}
+                    {{ DBpediaPropertyMapping | templateProperty = access | ontologyProperty = Mountain/access }}
+                    {{ DBpediaPropertyMapping | templateProperty = ascent | ontologyProperty = Mountain/ascent}}
+                    {{ DBpediaPropertyMapping | templateProperty = ascent_date | ontologyProperty = Mountain/ascentDate}}
+                    {{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+                }}
+ }}
+ 
+  {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value = Building
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = Building
+                }}
+ }}
+
+  {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value = Protected area
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = ProtectedArea
+	               | mappings =
+	
+                        {{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+                        {{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+                        {{ DBpediaPropertyMapping | templateProperty = other_name1 | ontologyProperty = Place/otherName }}
+                        {{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+                        {{ DBpediaPropertyMapping | templateProperty = category_local | ontologyProperty = Place/type }}
+                        {{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = ProtectedArea/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = country1 | ontologyProperty = ProtectedArea/country }}
+                        {{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = ProtectedArea/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = state1 | ontologyProperty = ProtectedArea/state }}
+                        {{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = ProtectedArea/region }}
+                        {{ DBpediaPropertyMapping | templateProperty = region_type | ontologyProperty = ProtectedArea/regionType }}
+                        {{ DBpediaPropertyMapping | templateProperty = district | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district1 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district2 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district3 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district4 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district5 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district6 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district7 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district8 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district9 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = district10 | ontologyProperty = ProtectedArea/district }}
+                        {{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city_type | ontologyProperty = ProtectedArea/cityType }}
+                        {{ DBpediaPropertyMapping | templateProperty = city1 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city2 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city3 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city4 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city5 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city6 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city7 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city8 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city9 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = city10 | ontologyProperty = ProtectedArea/city }}
+                        {{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+                        {{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}	
+                        {{ DBpediaGeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+                        {{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length}}
+                        {{ DBpediaPropertyMapping | templateProperty = length_imperial | ontologyProperty = Place/length | unit = mile}}
+                        {{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = kilometre}}
+                        {{ DBpediaPropertyMapping | templateProperty = width_imperial | ontologyProperty = Place/width | unit = mile }}
+	
+                        {{ DBpediaPropertyMapping | templateProperty = highest | ontologyProperty = ProtectedArea/highest }}
+                        {{ DBpediaPropertyMapping | templateProperty = highest_location | ontologyProperty = ProtectedArea/highestMountain }}
+                        {{ DBpediaPropertyMapping | templateProperty = highest_location | ontologyProperty = ProtectedArea/highestPlace }}
+                        {{ DBpediaGeocoordinatesMapping | ontologyProperty = ProtectedArea/highestPosition | latitudeDegrees = highest_lat_d  | latitudeMinutes = highest_lat_m  | latitudeSeconds = highest_lat_s  | latitudeDirection = highest_lat_NS  | longitudeDegrees = highest_long_d  | longitudeMinutes = highest_long_m  | longitudeSeconds = highest_long_s  | longitudeDirection = highest_long_EW }}
+                        {{ DBpediaPropertyMapping | templateProperty = highest_elevation | ontologyProperty = ProtectedArea/highestElevation | unit = metre }}
+                        {{ DBpediaPropertyMapping | templateProperty = highest_elevation_imperial| ontologyProperty = ProtectedArea/highestElevation | unit = foot }}
+                        {{ DBpediaPropertyMapping | templateProperty = lowest | ontologyProperty = ProtectedArea/lowest }}
+                        {{ DBpediaPropertyMapping | templateProperty = lowest_location | ontologyProperty = ProtectedArea/lowestMountain }}
+                        {{ DBpediaPropertyMapping | templateProperty = lowest_location | ontologyProperty = ProtectedArea/lowestPlace }}
+                        {{ DBpediaGeocoordinatesMapping | ontologyProperty = ProtectedArea/lowestPosition | latitudeDegrees = lowest_lat_d  | latitudeMinutes = lowest_lat_m  | latitudeSeconds = lowest_lat_s  | latitudeDirection = lowest_lat_NS  | longitudeDegrees = lowest_long_d  | longitudeMinutes = lowest_long_m  | longitudeSeconds = lowest_long_s  | longitudeDirection = lowest_long_EW }}
+                        {{ DBpediaPropertyMapping | templateProperty = lowest_elevation | ontologyProperty = ProtectedArea/lowestElevation | unit = metre }}
+                        {{ DBpediaPropertyMapping | templateProperty = lowest_elevation_imperial| ontologyProperty = ProtectedArea/lowestElevation | unit = foot }}
+
+                        {{ DBpediaPropertyMapping | templateProperty = geology | ontologyProperty = ProtectedArea/geology }}
+                        {{ DBpediaPropertyMapping | templateProperty = geology1 | ontologyProperty = ProtectedArea/geology }}
+                        {{ DBpediaPropertyMapping | templateProperty = geology2 | ontologyProperty = ProtectedArea/geology }}
+                        {{ DBpediaPropertyMapping | templateProperty = geology3 | ontologyProperty = ProtectedArea/geology }}
+                        {{ DBpediaPropertyMapping | templateProperty = geology4 | ontologyProperty = ProtectedArea/geology }}
+                        {{ DBpediaPropertyMapping | templateProperty = geology5 | ontologyProperty = ProtectedArea/geology }}
+                        {{ DBpediaPropertyMapping | templateProperty = geology6 | ontologyProperty = ProtectedArea/geology }}
+                        {{ DBpediaPropertyMapping | templateProperty = biome | ontologyProperty = ProtectedArea/biome }}
+                        {{ DBpediaPropertyMapping | templateProperty = biome1 | ontologyProperty = ProtectedArea/biome }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant1 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal1 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant2 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal2 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant3 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal3 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant4 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal4 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant5 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal5 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant6 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal6 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant7 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal7 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant8 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal8 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant9 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal9 | ontologyProperty = ProtectedArea/animal }}
+                        {{ DBpediaPropertyMapping | templateProperty = plant10 | ontologyProperty = ProtectedArea/plant }}
+                        {{ DBpediaPropertyMapping | templateProperty = animal10 | ontologyProperty = ProtectedArea/animal }}
+	
+                        {{ DBpediaPropertyMapping | templateProperty = established | ontologyProperty = ProtectedArea/established }}
+                        {{ DBpediaPropertyMapping | templateProperty = management_body | ontologyProperty = ProtectedArea/management }}
+                        {{ DBpediaPropertyMapping | templateProperty = management_location | ontologyProperty = ProtectedArea/managementMountain }}
+                        {{ DBpediaPropertyMapping | templateProperty = management_location | ontologyProperty = ProtectedArea/managementPlace }}
+                        {{ DBpediaGeocoordinatesMapping | ontologyProperty = ProtectedArea/managementPosition | latitudeDegrees = management_lat_d  | latitudeMinutes = management_lat_m  | latitudeSeconds = management_lat_s  | latitudeDirection = management_lat_NS  | longitudeDegrees = management_long_d  | longitudeMinutes = management_long_m  | longitudeSeconds = management_long_s  | longitudeDirection = management_long_EW }}
+                        {{ DBpediaPropertyMapping | templateProperty = management_elevation | ontologyProperty = ProtectedArea/managementElevation | unit = metre }}
+                        {{ DBpediaPropertyMapping | templateProperty = management_elevation_imperial| ontologyProperty = ProtectedArea/managementElevation | unit = foot }}
+
+                        {{ DBpediaPropertyMapping | templateProperty = visitation | ontologyProperty = ProtectedArea/visitation}}
+                        {{ DBpediaPropertyMapping | templateProperty = visitation_Year | ontologyProperty = ProtectedArea/visitationYear}}
+	
+                }}
+   }}
+ 
+  {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value = Island
+    | mapping = {{ DBpediaTemplateMapping
+                  | mapToClass = Island
+	              | mappings =
+	
+                    {{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+                    {{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+                    {{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+                    {{ DBpediaPropertyMapping | templateProperty = category | ontologyProperty = Place/type }}
+                    {{ DBpediaPropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+                    {{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Place/nickname }}
+                    {{ DBpediaPropertyMapping | templateProperty = motto | ontologyProperty = PopulatedPlace/motto }}
+                    {{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Island/country }}
+                    {{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = Island/state }}
+                    {{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = Island/region }}
+                    {{ DBpediaPropertyMapping | templateProperty = district | ontologyProperty = Island/district }}
+                    {{ DBpediaPropertyMapping | templateProperty = municipality | ontologyProperty = Island/municipality }}
+                    {{ DBpediaPropertyMapping | templateProperty = parent | ontologyProperty = Island/parent }}
+                    {{ DBpediaPropertyMapping | templateProperty = range | ontologyProperty = Island/range }}
+                    {{ DBpediaPropertyMapping | templateProperty = border | ontologyProperty = Island/border }}
+                    {{ DBpediaPropertyMapping | templateProperty = part | ontologyProperty = Island/part }}
+                    {{ DBpediaPropertyMapping | templateProperty = tributary_left | ontologyProperty = Island/leftTributary }}
+                    {{ DBpediaPropertyMapping | templateProperty = tributary_right | ontologyProperty = Island/rightTributary }}
+                    {{ DBpediaPropertyMapping | templateProperty = child_left | ontologyProperty = Island/leftChild }}
+                    {{ DBpediaPropertyMapping | templateProperty = child_right | ontologyProperty = Island/rightChild }}
+                    {{ DBpediaPropertyMapping | templateProperty = building | ontologyProperty = Island/building }}
+                    {{ DBpediaPropertyMapping | templateProperty = river | ontologyProperty = Island/river }}
+                    {{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = Island/city }}
+                    
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+                    {{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}	
+                    {{ DBpediaPropertyMapping | templateProperty = prominence | ontologyProperty = Island/prominence | unit = metre }}
+                    {{ DBpediaGeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = capital_location | ontologyProperty = Island/capitalMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = capital_location | ontologyProperty = Island/capitalPlace }}
+                    {{ DBpediaPropertyMapping | templateProperty = capital | ontologyProperty = PopulatedPlace/capital }}
+                    {{ DBpediaPropertyMapping | templateProperty = capital_elevation | ontologyProperty = Island/capitalElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = capital_elevation_imperial | ontologyProperty = Island/capitalElevation | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = capital_region | ontologyProperty = Island/capitalRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = capital_country | ontologyProperty = Island/capitalCountry }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/capitalPosition | latitudeDegrees = capital_lat_d  | latitudeMinutes = capital_lat_m  | latitudeSeconds = capital_lat_s  | latitudeDirection = capital_lat_NS  | longitudeDegrees = capital_long_d  | longitudeMinutes = capital_long_m  | longitudeSeconds = capital_long_s  | longitudeDirection = capital_long_EW }}
+
+                    {{ DBpediaPropertyMapping | templateProperty = source_location | ontologyProperty = Island/sourceMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_location | ontologyProperty = Island/sourcePlace }}
+                    {{ DBpediaPropertyMapping | templateProperty = source1_location | ontologyProperty = Island/sourceMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = source1_location | ontologyProperty = Island/sourcePlace }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_confluence_location | ontologyProperty = Island/sourceConfluenceMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_confluence_location | ontologyProperty = Island/sourceConfluencePlace }}
+                    {{ DBpediaPropertyMapping | templateProperty = mouth_location | ontologyProperty = Island/mouthMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = mouth_location | ontologyProperty = Island/mouthPlace }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_region | ontologyProperty = Island/sourceRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_country | ontologyProperty = Island/sourceCountry }}
+                    {{ DBpediaPropertyMapping | templateProperty = source1_region | ontologyProperty = Island/sourceRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = source1_country | ontologyProperty = Island/sourceCountry }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_confluence_region | ontologyProperty = Island/sourceConfluenceRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_confluence_state | ontologyProperty = Island/sourceConfluenceState }}
+                    {{ DBpediaPropertyMapping | templateProperty = mouth_region | ontologyProperty = Island/mouthRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = mouth_country | ontologyProperty = Island/mouthCountry }}
+                    {{ DBpediaPropertyMapping | templateProperty = mouth | ontologyProperty = Island/mouth }}
+                    {{ DBpediaPropertyMapping | templateProperty = source | ontologyProperty = Island/source }}
+                    {{ DBpediaPropertyMapping | templateProperty = source1 | ontologyProperty = Island/source }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_confluence | ontologyProperty = Island/sourceConfluence }}
+                    {{ DBpediaPropertyMapping | templateProperty = mouth_elevation | ontologyProperty = Island/mouthElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = mouth_elevation_imperial| ontologyProperty = Island/mouthElevation | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_elevation | ontologyProperty = Island/sourceElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_elevation_imperial| ontologyProperty = Island/sourceElevation | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = source1_elevation_imperial| ontologyProperty = Island/sourceConfluenceElevation | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_confluence_elevation_imperial| ontologyProperty = Island/sourceElevation | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = source1_elevation | ontologyProperty = Island/sourceElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = source_confluence_elevation | ontologyProperty = Island/sourceConfluenceElevation | unit = metre }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/sourcePosition | latitudeDegrees = source_lat_d  | latitudeMinutes = source_lat_m  | latitudeSeconds = source_lat_s  | latitudeDirection = source_lat_NS  | longitudeDegrees = source_long_d  | longitudeMinutes = source_long_m  | longitudeSeconds = source_long_s  | longitudeDirection = source_long_EW }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/sourcePosition | latitudeDegrees = source1_lat_d  | latitudeMinutes = source1_lat_m  | latitudeSeconds = source1_lat_s  | latitudeDirection = source1_lat_NS  | longitudeDegrees = source1_long_d  | longitudeMinutes = source1_long_m  | longitudeSeconds = source1_long_s  | longitudeDirection = source1_long_EW }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/sourceConfluencePosition | latitudeDegrees = source_confluence_lat_d  | latitudeMinutes = source_confluence_lat_m  | latitudeSeconds = source_confluence_lat_s  | latitudeDirection = source_confluence_lat_NS  | longitudeDegrees = source_confluence_long_d  | longitudeMinutes = source_confluence_long_m  | longitudeSeconds = source_confluence_long_s  | longitudeDirection = source_confluence_long_EW }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/mouthPosition | latitudeDegrees = mouth_lat_d  | latitudeMinutes = mouth_lat_m  | latitudeSeconds = mouth_lat_s  | latitudeDirection = mouth_lat_NS  | longitudeDegrees = mouth_long_d  | longitudeMinutes = mouth_long_m  | longitudeSeconds = mouth_long_s  | longitudeDirection = mouth_long_EW }}
+
+                    {{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length}}
+                    {{ DBpediaPropertyMapping | templateProperty = length_imperial | ontologyProperty = Place/length | unit = mile}}
+                    {{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = kilometre}}
+                    {{ DBpediaPropertyMapping | templateProperty = width_imperial | ontologyProperty = Place/width | unit = mile }}
+                    {{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Place/height | unit = Length }}
+                    {{ DBpediaPropertyMapping | templateProperty = height_imperial | ontologyProperty = Place/height | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = depth | ontologyProperty = Place/depth | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = depth_imperial | ontologyProperty = Place/depth | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = volume | ontologyProperty = Island/volume | unit = Volume }}
+                    {{ DBpediaPropertyMapping | templateProperty = volume_imperial | ontologyProperty = Island/volume | unit = Volume }}
+                    {{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Island/weight | unit = kilogram }}
+                    {{ DBpediaPropertyMapping | templateProperty = weight_imperial | ontologyProperty = Island/weight | unit = pound }}
+                    {{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = Area}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_imperial | ontologyProperty = Place/areaTotal | unit = Area}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_land | ontologyProperty = Place/areaLand | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water | ontologyProperty = Place/areaWater | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_land_imperial | ontologyProperty = Place/areaLand | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_water_imperial | ontologyProperty = Place/areaWater | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_urban | ontologyProperty = PopulatedPlace/areaUrban | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_urban_imperial | ontologyProperty = PopulatedPlace/areaUrban | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_metro | ontologyProperty = PopulatedPlace/areaMetro | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = area_metro_imperial | ontologyProperty = PopulatedPlace/areaMetro | unit = Area }}
+                    {{ DBpediaPropertyMapping | templateProperty = discharge_imperial | ontologyProperty = Island/maximumDischarge | unit = cubicFeetPerSecond }}
+                    {{ DBpediaPropertyMapping | templateProperty = discharge | ontologyProperty = Island/maximumDischarge | unit = cubicMetrePerSecond }}
+                    {{ DBpediaPropertyMapping | templateProperty = discharge | ontologyProperty = Island/discharge | unit = cubicMetrePerSecond }}
+                    {{ DBpediaPropertyMapping | templateProperty = discharge_max_imperial | ontologyProperty = Island/maximumDischarge | unit = cubicFeetPerSecond }}
+                    {{ DBpediaPropertyMapping | templateProperty = discharge_max | ontologyProperty = Island/maximumDischarge | unit = cubicMetrePerSecond }}
+                    {{ DBpediaPropertyMapping | templateProperty = discharge_min_imperial | ontologyProperty = Island/minimumDischarge | unit = cubicFeetPerSecond }}
+                    {{ DBpediaPropertyMapping | templateProperty = discharge_min | ontologyProperty = Island/minimumDischarge | unit = cubicMetrePerSecond }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest | ontologyProperty = Island/highest }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_region | ontologyProperty = Island/highestRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_state | ontologyProperty = Island/highestState }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_location | ontologyProperty = Island/highestMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_location | ontologyProperty = Island/highestPlace }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/highestPosition | latitudeDegrees = highest_lat_d  | latitudeMinutes = highest_lat_m  | latitudeSeconds = highest_lat_s  | latitudeDirection = highest_lat_NS  | longitudeDegrees = highest_long_d  | longitudeMinutes = highest_long_m  | longitudeSeconds = highest_long_s  | longitudeDirection = highest_long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_elevation | ontologyProperty = Island/highestElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = highest_elevation_imperial| ontologyProperty = Island/highestElevation | unit = foot }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest | ontologyProperty = Island/lowest }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_region | ontologyProperty = Island/lowestRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_state | ontologyProperty = Island/lowestState }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_location | ontologyProperty = Island/lowestMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_location | ontologyProperty = Island/lowestPlace }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/lowestPosition | latitudeDegrees = lowest_lat_d  | latitudeMinutes = lowest_lat_m  | latitudeSeconds = lowest_lat_s  | latitudeDirection = lowest_lat_NS  | longitudeDegrees = lowest_long_d  | longitudeMinutes = lowest_long_m  | longitudeSeconds = lowest_long_s  | longitudeDirection = lowest_long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_elevation | ontologyProperty = Island/lowestElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = lowest_elevation_imperial| ontologyProperty = Island/lowestElevation | unit = foot }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = population | ontologyProperty = PopulatedPlace/populationTotal }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_date | ontologyProperty = PopulatedPlace/populationAsOf }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_metro | ontologyProperty = PopulatedPlace/populationMetro }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_urban | ontologyProperty = PopulatedPlace/populationUrban }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density | ontologyProperty = PopulatedPlace/populationDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_imperial | ontologyProperty = PopulatedPlace/populationDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_urban_imperial | ontologyProperty = PopulatedPlace/populationUrbanDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_urban | ontologyProperty = PopulatedPlace/populationUrbanDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_metro | ontologyProperty = PopulatedPlace/populationMetroDensity | unit = PopulationDensity }}
+                    {{ DBpediaPropertyMapping | templateProperty = population_density_metro_imperial | ontologyProperty = PopulatedPlace/populationMetroDensity | unit = PopulationDensity }}
+
+                    {{ DBpediaPropertyMapping | templateProperty = geology | ontologyProperty = Island/geology }}
+                    {{ DBpediaPropertyMapping | templateProperty = orogeny | ontologyProperty = Island/orogeny }}
+                    {{ DBpediaPropertyMapping | templateProperty = period | ontologyProperty = Island/period }}
+                    {{ DBpediaPropertyMapping | templateProperty = biome | ontologyProperty = Island/biome }}
+                    {{ DBpediaPropertyMapping | templateProperty = plant | ontologyProperty = Island/plant }}
+                    {{ DBpediaPropertyMapping | templateProperty = animal | ontologyProperty = Island/animal }}
+                    {{ DBpediaPropertyMapping | templateProperty = style | ontologyProperty = Island/style }}
+                    {{ DBpediaPropertyMapping | templateProperty = material | ontologyProperty = Island/material }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = established | ontologyProperty = Island/established }}
+                    {{ DBpediaPropertyMapping | templateProperty = date | ontologyProperty = Island/date }}
+                    {{ DBpediaPropertyMapping | templateProperty = management | ontologyProperty = Island/management }}
+                    {{ DBpediaPropertyMapping | templateProperty = management_region | ontologyProperty = Island/managementRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = management_country | ontologyProperty = Island/managementCountry }}
+                    {{ DBpediaPropertyMapping | templateProperty = management_location | ontologyProperty = Island/managementMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = management_location | ontologyProperty = Island/managementPlace }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/managementPosition | latitudeDegrees = management_lat_d  | latitudeMinutes = management_lat_m  | latitudeSeconds = management_lat_s  | latitudeDirection = management_lat_NS  | longitudeDegrees = management_long_d  | longitudeMinutes = management_long_m  | longitudeSeconds = management_long_s  | longitudeDirection = management_long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = management_elevation | ontologyProperty = Island/managementElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = management_elevation_imperial| ontologyProperty = Island/managementElevation | unit = foot }}
+
+                    {{ DBpediaPropertyMapping | templateProperty = government | ontologyProperty = Island/government }}
+                    {{ DBpediaPropertyMapping | templateProperty = government_region | ontologyProperty = Island/governmentRegion }}
+                    {{ DBpediaPropertyMapping | templateProperty = government_country | ontologyProperty = Island/governmentCountry }}
+                    {{ DBpediaPropertyMapping | templateProperty = government_location | ontologyProperty = Island/governmentMountain }}
+                    {{ DBpediaPropertyMapping | templateProperty = government_location | ontologyProperty = Island/governmentPlace }}
+                    {{ DBpediaGeocoordinatesMapping | ontologyProperty = Island/governmentPosition | latitudeDegrees = government_lat_d  | latitudeMinutes = government_lat_m  | latitudeSeconds = government_lat_s  | latitudeDirection = government_lat_NS  | longitudeDegrees = government_long_d  | longitudeMinutes = government_long_m  | longitudeSeconds = government_long_s  | longitudeDirection = government_long_EW }}
+                    {{ DBpediaPropertyMapping | templateProperty = government_elevation | ontologyProperty = Island/governmentElevation | unit = metre }}
+                    {{ DBpediaPropertyMapping | templateProperty = government_elevation_imperial| ontologyProperty = Island/governmentElevation | unit = foot }}
+
+                    {{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Island/owner }}
+                    {{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Island/owningOrganisation }}
+                    {{ DBpediaPropertyMapping | templateProperty = mayor | ontologyProperty = Island/mayor }}
+                    {{ DBpediaPropertyMapping | templateProperty = leader | ontologyProperty = Island/leader }}
+                    
+                    {{ DBpediaPropertyMapping | templateProperty = public | ontologyProperty = Island/public }}
+                    {{ DBpediaPropertyMapping | templateProperty = access | ontologyProperty = Island/access }}
+                    {{ DBpediaPropertyMapping | templateProperty = ascent | ontologyProperty = Island/ascent}}
+                    {{ DBpediaPropertyMapping | templateProperty = visitation | ontologyProperty = Island/visitation}}
+                    {{ DBpediaPropertyMapping | templateProperty = visitation_date | ontologyProperty = Island/visitationDate}}
+                    {{ DBpediaPropertyMapping | templateProperty = postal_code | ontologyProperty = PopulatedPlace/postalCode}}
+                    {{ DBpediaPropertyMapping | templateProperty = area_code | ontologyProperty = PopulatedPlace/areaCode}}
+            }}
+ }}
+
+ 
+  {{ DBpediaCondition
+    | templateProperty = 1
+    | operator = equals
+    | value = Cave
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = Cave
+                }}
+  }}
+ 
+ {{ DBpediaCondition
+    | otherwise
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = Place
+                }}
+ }}
+
+ | defaultMappings = 
+ 
+	{{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Place/nickname }}
+	{{ DBpediaPropertyMapping | templateProperty = areaTotal | ontologyProperty = Place/areaTotal | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = areaLand | ontologyProperty = Place/areaLand | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = areaWater | ontologyProperty = Place/areaWater | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = areaWaterPercentage | ontologyProperty = Place/percentageOfAreaWater }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = maximumElevation | ontologyProperty = Place/maximumElevation | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = minimumElevation | ontologyProperty = Place/minimumElevation | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Place/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = depth | ontologyProperty = Place/depth | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = maximumDepth | ontologyProperty = Place/maximumDepth | unit = Length }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaPropertyMapping | templateProperty = nearestCity | ontologyProperty = Place/nearestCity }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = officialName | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

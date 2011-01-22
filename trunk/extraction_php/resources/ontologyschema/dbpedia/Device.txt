@@ -1,0 +1,4 @@
+{{DBpediaClass
+|rdfs:label = Device
+|rdfs:subClassOf = owl:Thing
+}}

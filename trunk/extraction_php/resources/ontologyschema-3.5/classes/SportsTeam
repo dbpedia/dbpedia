@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Sports Team
+| rdfs:subClassOf = Organisation
+}}

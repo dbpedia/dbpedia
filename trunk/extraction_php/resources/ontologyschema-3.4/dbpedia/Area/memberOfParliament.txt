@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = Member of Parliament
+|rdfs:domain = Area
+|rdfs:range = Person
+}}

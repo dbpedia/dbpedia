@@ -1,0 +1,86 @@
+{{Refimprove|date=March 2009}}
+{{Infobox Automobile
+|image          = [[Image:1986-CoupeGT5E.jpg|250px]]
+|name           = Audi Coupé quattro
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|aka            = 
+|production     = 1985–1988
+|assembly       = [[Ingolstadt]]
+|predecessor    =
+|successor      =
+|class          = [[Coupé]], [[rallying|rally car]]
+|body_style     = 2-door [[coupé]]
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|platform       = [[Volkswagen B platform#B2|Volkswagen B2 platform]]
+|engine         = 2.2&nbsp;L [[straight-5|I5]]
+|transmission   = 5-speed [[manual transmission|manual]]
+|wheelbase      = {{convert|2542|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4349|mm|1|abbr=on}}
+|width          = {{convert|1682|mm|1|abbr=on}}
+|height         = {{convert|1350|mm|1|abbr=on}}
+|weight         = {{convert|1212|kg|0|abbr=on|lk=on}}
+|fuel_capacity  = {{convert|70|L|impgal usgal|1|abbr=on|lk=on}}
+|related        = [[Audi 80#B2 (1978–86)|Audi 80 (B2)]],<br>[[Audi Coupé GT]],<br>[[Audi Quattro]]
+|designer       = [[Giorgetto Giugiaro]]
+|sp             = uk
+}}
+The '''Audi Coupé quattro''' (''Typ'' 85) was introduced in very late 1984, and was based on the updated [[Audi Coupé GT]], introduced in the Autumn of 1984.
+__TOC__
+
+The updated GT was given a new sloped radiator grille and [[headlamp|headlights]], large wrap-around [[bumper (automobile)|bumpers]] with integrated spotlights and turn signals, plastic sill covers, and the large rear [[spoiler (automotive)|spoiler]] from the [[Audi Quattro]].  These changes brought the [[drag coefficient]] down to 0.36.  The [[internal combustion engine|engine]] given to the Coupé quattro (CQ) was the {{convert|2226|cc|abbr=on|lk=on}} {{convert|136|bhp|kW PS|0|abbr=on}} KV series.  A new [[dashboard]] was introduced, along with a new interior.
+
+Both the GT and CQ models would appear to be almost identical from the outside except for a few minor "quattro" specific.  The GT had "COUPE GT" on the rear side windows, the CQ had the "quattro" decal from the Ur-Quattro.  Similarly at the rear, the badging was "GT" and "quattro" respectively.  The CQ also had twin [[exhaust system|exhaust]] tips, the Ur-Quattro rear windscreen with "quattro" written into the heater elements (very obviously so on a cold and frosty morning).  The front grille was also adorned with the "quattro" badge from the Ur.  Inside the cabin was identical, except the [[center console (automobile)|centre console]] received the [[differential (mechanical device)|differential]] lock switch, and [[light-emitting diode|LED]] [[bar chart|bargraph]] displays in place of the GT's three analogue-style gauges.
+
+Mechanically, the CQ took components from the GT and the previous [[Audi 80]] quattro.  The [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] [[powertrain|drivetrain]] was similar, almost identical to that used on the Ur-Quattro - the main differences being the use of the GT front struts, smaller diameter front [[disc brake|brake disks]] at {{convert|256|mm|0|abbr=on|lk=on}}, and lower [[gear ratio|ratios]] in the gearbox and rear differential.  The [[shock absorber|damper]] and [[spring (device)|spring]] rates were also different from the Ur.
+
+The CQ was mechanically identical to the Audi 90 quattro, and shared many components with the 80 quattro.  There was also a high degree of commonality with the [[North America]]n Audi 4000 quattro.  [[wheel|Roadwheels]] were 6.0Jx14", with steel or [[aluminium alloy]] rims being standard, dependent on the market.  7.0Jx15" Ronals, almost identical to the Ur wheel were also available.  The CQ/90Q/4000Q also received their own exhaust manifold and downpipe (5-3-1, the GT's was 5-2-1).
+
+Production ran from late 1984 to 1988, and was in the total region of 8000 cars.
+
+{| class="wikitable"
+|+ Specifications<ref>AutoCar, 1 January 1986</ref>
+<tr><th>Engine type</th><td>[[straight-5|Inline 5 cylinder]]</td></tr>
+<tr><th>Displacement</th><td>{{convert|2226|cc|abbr=on|lk=on}} (2.2&nbsp;litre)</td></tr>
+<tr><th>Max. Power</th><td>{{convert|100|kW|PS bhp|0|abbr=on|lk=on}} at 5700 rpm</td></tr>
+<tr><th>Max. Torque</th><td>186 Nm (137 ft·lbf) at 3500 rpm</td></tr>
+<tr><th>Compression ratio</th><td>10.0</td></tr>
+<tr><th>Fuel system</th><td>Mechanical [[Robert Bosch GmbH|Bosch]] KE-Jetronic [[fuel injection]] with warm up regulator,<br>overrun fuel shut-off and idle-speed mixture stabilising</td></tr>
+<tr><th>Gearbox</th><td>5-speed [[manual gearbox]]</td></tr>
+<tr><th>Service interval</th><td>15000&nbsp;km or 10000&nbsp;miles</td></tr>
+<tr><th>Transmission</th><td>Permanent [[four-wheel drive|4WD]] via 5 speed gearbox with locakable centre and rear [[differential (mechanical device)|differentials]]</td></tr>
+<tr><th>Wheel and tyre size</th><td>6.0Jx14" / 195/60 HR14</td></tr>
+<tr><th>Top speed</th><td>{{convert|202|km/h|1|abbr=on|lk=on}}</td></tr>
+<tr><th>Acceleration</th><td>0-{{convert|80|km/h|1|abbr=on}} 6.0 s<br>0-{{convert|100|km/h|1|abbr=on}} 9.0 s</td></tr>
+<tr><th>Fuel consumption</th><td>constant 56&nbsp;mph = 38.7&nbsp;mpg{{Clarify me|us or imp gallons|date=February 2009}}<br>constant 75&nbsp;mph = 31.0&nbsp;mpg<br>urban cycle = 21.9&nbsp;mpg</td></tr>
+<tr><th>Luggage capacity</th><td>{{convert|15.6|cuft|L|abbr=on}}</td></tr>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Audi Coupé}}
+*KVquattro.com [http://www.kvquattro.com   detailed information on the Audi Coupé quattro, and other Audi's of the mid-1980s] 
+*'''Group A rally history'''. A page to record the rally history of the Coupe quattro has been set up at  [http://www.kvquattro.com/groupArally.html CQ GrA Rally History]
+
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+{{Modern North American Audi vehicles}}
+
+[[Category:Audi vehicles|Coupe quattro]]
+[[Category:Coupes]]
+[[Category:Rally cars]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles introduced in 1984]]
+[[Category:1980s automobiles]]
+
+[[de:Audi Coupe quattro]]
+[[it:Audi Coupe quattro]]
+[[lv:Audi Coupe quattro]]
+[[nl:Audi Coupe quattro]]
+[[no:Audi Coupe quattro]]
+[[pt:Audi Coupe quattro]]
+[[fi:Audi Coupe quattro]]
+[[sv:Audi Coupe quattro]]

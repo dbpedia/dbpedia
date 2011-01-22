@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Vein
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = DrainsFrom | ontologyProperty = Vein/drainsFrom }}
+	{{ DBpediaPropertyMapping | templateProperty = DrainsTo | ontologyProperty = Vein/drainsTo }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Latin | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = GraySubject | ontologyProperty = AnatomicalStructure/graySubject }}
+	{{ DBpediaPropertyMapping | templateProperty = GrayPage | ontologyProperty = AnatomicalStructure/grayPage }}
+	{{ DBpediaPropertyMapping | templateProperty = Artery | ontologyProperty = AnatomicalStructure/artery }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshName | ontologyProperty = AnatomicalStructure/meshName }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshNumber | ontologyProperty = AnatomicalStructure/meshNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsPre | ontologyProperty = AnatomicalStructure/dorlandsPrefix }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsSuf | ontologyProperty = AnatomicalStructure/dorlandsSuffix }}
+}}

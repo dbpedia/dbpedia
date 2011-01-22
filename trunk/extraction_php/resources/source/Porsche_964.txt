@@ -1,0 +1,216 @@
+{{Infobox Automobile
+|image=[[File:Porsche 964 front 20080515.jpg|250px]]
+|name=Porsche 964
+|aka=Porsche 911<br>[[Porsche Carrera]]
+|manufacturer=[[Porsche]]
+|class=[[Sports car]]
+|layout=[[RR layout]]
+|production=1989&ndash;1994 <br/> 62,172 built
+|predecessor=[[Porsche 911]]
+|successor=[[Porsche 993]]
+|body_style=2-door [[coupe]]<br>2-door [[convertible]]<br>2-door [[targa]]
+|engine=3.6 L [[flat-6|H6]]<br>3.8 L [[flat-6|H6]]
+|wheelbase={{Auto in|89.4|0}}
+|length={{Auto in|168.3|0}}
+|width={{Auto in|65.0|0}}<br>American Roadster: {{Auto in|69.9|0}}
+|height=1989-1991: {{Auto in|52.0|0}}<br>1992-93: {{Auto in|51.6|0}}
+|transmission=4-speed [[Automatic transmission|automatic]]<br>5-speed [[Manual transmission|manual]]
+|assembly=[[Stuttgart]], [[Baden-Württemberg]], [[Germany]]
+}}
+
+The '''Porsche 964''' is the company's internal name for the version of the [[Porsche 911]] model manufactured and sold between 1989 and 1994. It featured significant styling revisions over previous versions of the 911, most prominently the more integrated [[Bumper (automobile)|bumper]]s (fenders), although it was still obviously a 911. It was the first generation of 911 to be offered with Porsche's optional [[Tiptronic]] [[automatic transmission]] as well as the first generation to be offered with [[all wheel drive]].
+
+==Name==
+"Type" 964 (nine-sixty-four) or simply 964 (nine-six-four) is in fact the internal code name for the car; the vehicle was badged simply as Carrera 2 or Carrera 4. The official name for the model, as printed on the front of the Owner's Manual, is "Porsche 911 Carrera 2" or "Porsche 911 Carrera 4". The 964 name is now often used to distinguish this car from other generations of the Carrera, especially among Porsche enthusiasts.
+
+==Carrera 2 and 4==
+[[Image:Porsche-964.jpg|thumb|225px|right|Porsche 964 Carrera]]
+The 964 was considered over 85% new as compared over its predecessor, the Carrera 3.2. The first 964s available in 1989 were AWD equipped "Carrera 4" models; Porsche added the [[rear wheel drive]] Carrera 2 variant to the range in 1990. Both variants were available as a [[coupe]], [[Targa]] or [[Cabriolet (automobile)|Cabriolet]]. The 964 Carrera was the last generation sold with the traditional removable Targa roof. Later evolutions of the Targa, starting with the 993 generation, replaced that setup with a complex glass-roof "greenhouse" system. A new [[Naturally-aspirated engine|naturally-aspirated]] [[internal-combustion engine|engine]] called the M64 was used for 964 models, with a [[flat-6]] [[engine displacement|displacement]] of 3.6 litres.
+Porsche largely revised the suspension replacing the rear torsion bars with coil springs and shock absorbers. <ref name=Leffingwell>{{cite book|last=Leffingwell|first=Randy |title=Porsche 911 Buyer's Guide|url=http://books.google.com/books?id=4-ByjhODBukC&pg=PA188|publisher=MotorBooks/MBI Publishing Company|year=2002|pages=188|isbn=9780760309476}}</ref> Power steering and ABS brakes arrive to the 911 for the first time and they were both made standard. The exterior bumpers and fog lamps became flush into the car, allowing for better aerodynamics. A new electric rear spoiler raised as speeds above 50 MPH and lowered down flush with the rear engine lid at lower speeds or when stopped. A  revised interior featured standard dual airbags beginning in 1990 for all North American production cars. A new automatic climate control system provided superior heating and cooling. Revised instrumentation housed a large set of warning lights that were tied into the car's central warning system which alerted the driver to a possible problem or malfunction.
+===Engine===
+Engine design: Air/oil cooled, horizontally-opposed, dry-sump lubrication, rear-mounted <br />
+Engine displacement: 3600 cc (220 cu in) <br />
+Cylinders: Six, light alloy head <br />
+Bore and stroke: 3.94 x 3.01 <br />
+[[Compression ratio]]: 11.3 : 1 <br />
+Fuel/ignition: Electronic fuel injection, DME controller, with twin-spark with knock regulation <br />
+Crankshaft: Forged, 8 main bearings, enclosed in light alloy case <br />
+Valve Train: Overhead cam, one per bank, double chain drive <br />
+Power: 184&nbsp;kW/247 hp (SAE net)/250 PS (DIN) @ 6100 rpm <br />
+[[Torque]]: 310 N·m/228 ft·lbf @ 4800 rpm <br />
+Engine speed limitation: 6700 ±20 rpm
+
+===Performance===
+Top speed: 163 mph (261&nbsp;km/h), 159 mph (256&nbsp;km/h) (Tiptronic) <br />
+0-60 mph: 5.5 s ([[manual transmission]]), 6.2 s (Tiptronic) <br />
+1/4 mile: 13.6 s (C2), 14.0 s (Tiptronic), 14.1 s (C4) <br />
+[[Coefficient of drag]]: 0.32 <br />
+Fuel consumption approx 24 mpg{{Vague|U.S. gallons? imperial gallons?shit car|date=March 2008}}
+
+===Selected dimensions/capacities===
+Curb weight (to DIN 70020): 3,031 lb/1,375&nbsp;kg (C2); 3,100 lb/1,406&nbsp;kg ([[Tiptronic]]), 3,252 lb (1,475&nbsp;kg) (C4) <br />
+Wheelbase: {{convert|89.4|in|mm|abbr=on}} <br />
+Overall Length: {{convert|168.3|in|mm|abbr=on}} <br />
+Width {{convert|65.0|in|mm|abbr=on}} <br />
+Height: {{convert|52.0|in|mm|abbr=on}} <br />
+Front Track: {{convert|54.3|in|mm|abbr=on}} <br />
+Rear Track: {{convert|54.1|in|mm|abbr=on}} <br />
+Ground Clearance: 4.7 in (US) <br />
+Fuel Tank: 20.3 gal (US) <br />
+Engine Oil: 11.5 L (12.1 qt US), oil change volume: 9 L (9.5 qt US) <br />
+Transmission Fluid: 3.6 L (3.8 qt US) (C2), 9 L (9.5 qt US (Tiptronic), 3.8 L (4.0 qt US) (C4)
+
+==Carrera RS variants==
+In 1992, Porsche produced a super-[[lightweight]], [[rear-wheel-drive]] only version of the 964 dubbed Carrera RS for the [[Europe]]an market. It was based on Porsche's 911 "Carrera Cup" race car and harkened back to the 2.7 and 3.0 RS and RSR models. It featured a revised version of the standard engine, titled M64/03 internally, with an increased power output of {{convert|260|bhp|kW PS|0|abbr=on}} and lightweight flywheel coupled to the G50/10 transmission with closer ratios, asymmetrical Limited Slip Differential and steel syncromesh. A track-oriented [[suspension (vehicle)|suspension]] system with {{convert|40|mm|in|1|abbr=on}} lower ride height, stiffer springs, shocks and adjustable stabilizer bars without [[power steering]] (RHD UK cars did have power steering). A stripped-out interior devoid of [[power windows]] or seats, rear seats, [[air conditioning]], [[cruise control]], sound deadening or a stereo system (optionally fitted) and new racing-bucket front seats were part of the package. The trunk hood was made of [[aluminum]], the [[chassis]] was seam welded and sound deadening was deleted. Wheels were made of [[magnesium]] and the glass was thinner in the doors and rear window. The Carrera RS is approximately 345 pounds (155&nbsp;kg) lighter than the US version Carrera 2 model. Also available were a heavier Touring variant (with sound deadening, power seats (optional), undercarriage protection and power windows) and an N/GT racing variant with a stripped, blank metal interior and a roll cage.  They also came with optional lights on the visors.
+
+A later ultra-limited production version, the Carrera RS 3.8 featuring the Turbo body and a {{convert|300|bhp|kW PS|0|abbr=on}} 3.8 litre version of the M64 motor was sold briefly in Europe.
+
+The Carrera RS was not sold in the [[USA]] because Porsche Cars North America felt the car's aggressive [[tuning]] was not suited to the American market. In 1992, 45 USA-legal cars that were very similar to the Carrera RS were imported to the USA for a proposed "Porsche Carrera Cup" racing series. This Carrera Cup series was to function as a support race for the American CART racing series just as European Carrera Cup has supported [[Formula One]].
+
+These 45 cars were identical to a Carrera RS other than having [[airbag]]s (with required electric windows), alarm system, American lighting, American [[bumper]]s, [[aluminum]] wheels, and standard seats. The cars otherwise had the lightweight seam welded chassis, lightweight interior trim, aluminum hood, lightweight door glass, suspension, brakes, G50/10 [[Transmission (mechanics)|transmission]] and M64/03 engine etc. of the Carrera RS. These cars were approximately 200 pounds (90&nbsp;kg) lighter than a normal USA Carrera 2 model.
+
+The plan was for Andial, the then equivalent of what is now Porsche Motorsport USA, to convert these cars to full racing specification, however, due to lack of sponsor support for the Carrera Cup series, it was canceled before it began. The 45 cars imported to the USA for this series were then sold, quietly without any advertising so as not to compete with the new RS America, through normal dealer channels. These cars were supplied with a dash plaque which indicated that they were the "Carrera Cup USA Edition".
+
+In order to please devoted [[United States|American]] 911 enthusiasts who wanted an RS model, Porsche produced the '''RS America'''. The RS America was produced as a [[model year]] 1993 and 1994 car based on the USA Carrera 2. The RS America featured a distinctive [[Whale tail#Rear spoilers|"whale tail" spoiler]], a partially stripped interior with flat door panels (from the European RS) and carpeting along with a luggage shelf replacing the rear seats. Cloth covered sports seats, 17 inch wheels and M030 Sports Suspension were fitted as standard. The logo "RS America" was written on the deck lid along with an "RS" logo in front of the rear wheels. Deleted to save weight were power steering, cruise control, powered side mirrors, air-conditioning, sunroof and radio, although the air-conditioning, sunroof and radio as well as a limited slip differential could be ordered as options. The RS America was listed by Porsche as weighing 2,954 pounds (1,340&nbsp;kg), 77 pounds (35&nbsp;kg) lighter than the weight listed for a stock Carrera 2. The standard USA Carrera 2 brakes, engine and gearbox were used. [[North America]]n engine.
+
+===Engine===
+Engine Design: [[Air-cooled|Air-]] or oil cooled, horizontally-opposed, dry-sump lubrication, rear-mounted Engine <br />
+Displacement: 3600 cc (220 cu in) <br />
+Cylinders: Six, light alloy head<br />
+Bore and Stroke: 3.94 x 3.01 in (100.0 x 76.5&nbsp;mm)<br />
+[[Compression ratio]]: 11.3 : 1 <br />
+Fuel/Ignition: Electronic [[fuel injection]], DME controller, twin-spark with knock regulation <br />
+Crankshaft: Forged, 8 main bearings, enclosed in light alloy case <br />
+Valve Train: Overhead cam, one per bank, double chain drive <br />
+Power: 191&nbsp;kW/260 hp (SAE net) @ 6100 rpm <br />
+[[Torque]]: 312 N·m/230 ft·lbf @ 4800 rpm engine
+
+==Turbo==
+[[Image:Porsche 964 Turbo.jpg|thumb|left|225px|Porsche 964 Turbo]]
+Porsche introduced the 964 Turbo model in March, 1990<ref name="Kittler">{{cite book |title=Deutsche Autos seit 1990, vol.6 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02052-1 |pages=352}} </ref> as the successor to the [[Porsche 930|930]]. Unfortunately, they hadn't had the necessary time to develop a [[turbocharger|turbocharged]] version of the 3.6 litre M64 engine, and choose to re-use the 3.3 litre engine from the 930, with several minor revisions that made the engine smoother, less prone to [[turbo lag]] and more powerful, with a total output of {{convert|320|PS|kW hp||abbr=on}} @ 5750 rpm. A total of 3,660 of the 964 Turbos were built.
+
+In 1992, the 3.3 litre Turbo S was introduced. With a power of {{convert|381|PS|kW hp||abbr=on}} and with a lightweight interior and limited "creature comforts" the Turbo S was one of the fastest cars on the road.  With lowered [[suspension (vehicle)|suspension]], a front strut brace and manual steering, the Turbo S was all about performance. About 80 cars were produced during the only year of production.
+
+Porsche released the 964 Turbo 3.6 in January, 1993<ref name="Kittler"/>, now featuring a turbocharged version of the 3.6 litre M64 engine and producing {{convert|360|PS|kW hp||abbr=on}} @ 5500 rpm, the 3.6 litre powered Turbo was produced only for [[model year]] 1993/1994, with fewer than 1,500 of them produced in total, making it one of the rarest and most sought after Porsches produced since the [[Porsche 959|959]].
+
+At the end of 964 production in 1994 the Porsche factory had some 90 Turbo chassis left.  These were all transferred to ''Porsche Exclusiv'' and built as the very special Turbo 3.6S. The Turbo 3.6S was available either with the traditional 964 Turbo 3.6 body, or with the exclusive Flatnose ({{lang-de|Flachbau}}) aka Slantnose option.
+
+Option X83 (Japan), X84 (ROW) and X85 (USA), the Turbo S Flatnose, was available in the US as a $60,179 USD option on top of the base price $99,000 USD Turbo 3.6. The "Flatnose" option was available when ordering the no charge '36S' option '1994 Turbo "S" Model'. In addition to the Flatnose fenders, it also included the 'X88' option or the 'Turbo S' motor, the 'X92' Exclusive front spoiler, 'X93' Exclusive rear spoiler and 'X99' Exclusive rear fender vents. The flatnose option was designed around the model 968 front end for the ROW and USA versions and the 930 style Turbo S front end for Japan (right down to the sill covers on the fenders). 39 Models were made for US markets, 27 for the Rest of the world, and 10 for Japan all in Polar Silver.
+
+====Specifications====
+{{colbegin}}
+turbo 3.3<ref>All data according to: {{cite book |title=Deutsche Autos seit 1990, vol.6 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02052-1 |pages=357–57}} </ref>: <br/>
+Bore and stroke: 97&nbsp;mm x 74.4&nbsp;mm (3.82 in x 2.93 in)<br />
+[[engine displacement|Displacement]] 3,299 cc<br />
+[[Compression ratio]] 7.0:1<br />
+Net [[Horsepower]] {{convert|320|PS|kW hp||abbr=on}} @ 5750 rpm<br />
+Net [[Torque]] {{convert|450|Nm|lbft|0|abbr=on}} @ 4500 rpm
+
+turbo S: <br/>
+Bore and stroke: 97&nbsp;mm x 74.4&nbsp;mm (3.82 in x 2.93 in)<br />
+Displacement 3,299 cc<br />
+Compression Ratio 7.0:1<br />
+Net Horsepower {{convert|355|PS|kW hp||abbr=on}} @ 5750 rpm / {{convert|381|PS|kW hp||abbr=on}} @ 6000 rpm <br />
+Net Torque {{convert|471|Nm|lbft|0|abbr=on}} @5000 rpm / {{convert|490|Nm|lbft|0|abbr=on}} @ 4800 rpm
+
+
+turbo 3.6:<br/>
+Bore and stroke: 100&nbsp;mm x 76.4&nbsp;mm (3.94 in x 3.01 in)<br />
+Displacement 3,600 cc<br />
+Compression Ratio 7.5:1<br />
+Net Horsepower {{convert|360|PS|kW hp||abbr=on}} @ 5500 rpm<br />
+Net Torque {{convert|520|Nm|lbft|0|abbr=on}} @ 4200 rpm
+
+turbo 3.6S:<br/>
+Bore and stroke: 100&nbsp;mm x 76.4&nbsp;mm (3.94 in x 3.01 in)<br />
+Displacement 3,600 cc<br />
+Compression Ratio 7.5:1<br />
+Net Horsepower {{convert|385|PS|kW hp||abbr=on}} @ 5750 rpm<br />
+Net Torque {{convert|520|Nm|lbft|0|abbr=on}} @ 5000 rpm
+
+ZF [[Clutch]] type limited slip<br />
+20% lock under [[acceleration]]
+100% lock under [[deceleration]]
+{{colend}}
+
+==Turbo S LM-GT==
+In 1993, Porsche developed a highly [[tuning|tuned]] 964 Turbo S [[prototype]] for use in international motorsport.  The car, known as the '''Turbo S Le Mans GT''' (or simply '''Turbo S LM-GT'''), was based on the standard road-legal Turbo S, but stripped down and modified for circuit use.  A deep chin spoiler was added to the front, while two air inlets were added just above the rear wheel fenders.  An adjustable racing rear wing was added on top of the standard Turbo's wing.  Wider fenders were used to house {{convert|12|in|mm|sing=on}} wide racing slicks.  The interior was completely stripped, a rollcage added, and the windows replaced with plastic.  The engine used was not the standard road-car unit, but a smaller twin-turbocharged 3.2 liter unit which produced 475 [[horsepower|hp]].<ref>{{cite web | url = http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1993-911turbos-lemansgt/ | title = 1993 Porsche 911 Turbo S Le Mans GT | publisher = Dr. Ing. h.c. F. Porsche AG | accessdate = 2007-09-28}}</ref>
+
+The Turbo S LM-GT made its debut at the 1993 [[12 Hours of Sebring]] where the car finished seventh overall and first in its class with the Brumos Porsche racing team.  From there, the car was entered in the [[1993 24 Hours of Le Mans|24 Hours of Le Mans]], running under the guise of the Porsche factory team.  The car would however fail to finish after the engine was damaged early in the race.  For 1994, the Turbo S LM-GT would be moved to the hands of [[Larbre Compétition]], where a new 3.6 liter engine based on the [[Porsche 993|993]] unit would be used in place of the 3.2 liter engine.  The team opened the year with a second place finish at the [[24 Hours of Daytona]], before moving on to select rounds of the [[BPR Global GT Series]].  The car would win all four races in which it competed, including the [[1000 km Suzuka]].  The Turbo S LM-GT would make a few select appearances in 1995 with Obermaier Racing before being retired.
+
+The development work from the Turbo S LM-GT helped Porsche in creating the [[Porsche 993|993]]-generation [[Porsche 911 GT2|911 GT2]] in 1995, which would be mass produced and sold to racing customers.  Some teams, unable to buy new 911 GT2s, developed their own twin-turbo racing versions of the 964 Turbo to mimic the Turbo S LM-GT, but lacked the success of the factory project.
+
+==Speedster==
+The Speedster, a low-roof [[convertible]] version, returned in October 1992. Based on the Carrera 2, the Speedster was available either in standard or in [[lightweight]] version, Clubsport trim.
+Unlike its predecessor, the 911 Speedster, the 964 Speedster was initially not available with the "Turbo-Look" wider rear arches. As a result, the sales of the 964 edition were disappointing: only 925 units were built in two years, vs 2065 for the previous generation.  In late 1993 (Model Year 1994), 20 (14 in right hand drive) very exclusive "Turbo-Look" units were made as special orders and carried special 5 digit option codes in their production records.  These "Turbo-Look" Speedsters were some of the last 964's produced by the Porsche factory.
+
+==America Roadster==
+A turbo bodied cabriolet version was released in 1992. This had the standard electric spoiler and turbo guards.  Mechanically it was the same as the standard model apart from 17" cup wheels and the [[brake]]s and [[suspension (vehicle)|suspension]] which were 'Turbo' specification. Only 250 of this variant were produced in total during the 1992 and 1993 [[model year]]s.
+
+==Production figures==
+{| class="wikitable"
+!Porsche
+!Total
+!Subtotal
+!Grand total
+|-
+|964 C2 Coupé || 18,219 || rowspan="5" align="center" | 34,398 || rowspan="12" align="center" | 62,172<ref>All figures from: Eberhard Kittler: ''Deutsche Autos seit 1990'', vol. 6. Motorbuch Verlag, Stuttgart 2001, ISBN 3-613-02052-1, p. 353.</ref>
+|-
+|964 C2 Cabrio || 11,013
+|-
+|964 C2 Targa || align="right" | 3,534
+|-
+|964 C2 Cabrio turbo-look || align="right" | 702
+|-
+|964 C2 Speedster || align="right" | 930
+|-
+|964 C4 Coupé || 13,353 || rowspan="4" align="center" | 20,395
+|-
+|964 C4 Cabrio || align="right" | 4,802
+|-
+|964 C4 Targa || align="right" | 1,329
+|-
+|964 C4 Jubilee Coupé || align="right" | 911
+|-
+|964 turbo 3.3 || align="right" | 3,660 || rowspan="2" align="center" |5,097
+|-
+|964 turbo 3.6 || align="right" | 1,437
+|-
+|964 Carrera RS 3.6 Coupé || align="right" | 2,282 || align="center" | 2,282
+|-
+|}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commonscat|Porsche 964}}
+* [http://www.porsche.com/usa/accessoriesandservices/classic/world/models/roadvehicles/1989-911/ Porsche] - 1989 Porsche 911 Carrera Coupé, Cabriolet, Targa, Speedster, and 4 Coupé
+* [http://www.porsche.com/usa/accessoriesandservices/classic/world/models/roadvehicles/1989-911tu/ Porsche] - 1989 Porsche Turbo 911 Coupé, Cabriolet, and Targa
+*[http://www.911uk.com 964 Owners and information]
+Porsche - 1989-1994 Porsche 911 Coupé, Cabriolet, Targa, Speedster, Turbo
+*[http://www.964uk.com 964 Enthusiasts information]
+Carrera Cup USA Edition PCA Registry
+*[http://www.carreracupusa.org Carrera Cup USA Registry]
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|964]]
+[[Category:Sports cars]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:Liftbacks]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles with boxer engines]]
+[[Category:Vehicles introduced in 1988]]
+
+[[de:Porsche 964]]
+[[fr:Porsche 911 (964)]]
+[[it:Porsche 964]]
+[[nah:Porsche 964 Carrera]]
+[[pl:Porsche 911 (964)]]
+[[pt:Porsche 964]]
+[[fi:Porsche 964]]
+[[sv:Porsche 964]]
+[[tr:Porsche 964]]
+[[zh:保时捷964]]

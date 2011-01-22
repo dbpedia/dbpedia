@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = hometown
+|rdfs:domain = PokerPlayer
+|rdfs:range = PopulatedPlace
+}}

@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= death cause
+|rdfs:domain	= Person
+}}

@@ -1,0 +1,5 @@
+{{TemplateMapping
+| mapToClass = Cardinal
+| mappings = 
+	{{PropertyMapping | templateProperty = cardinal name | ontologyProperty = foaf:name }}
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = lunar rover
+| rdfs:domain = SpaceMission
+| rdfs:range = MeanOfTransportation
+}}

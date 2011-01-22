@@ -1,0 +1,10 @@
+{{Class
+| rdfs:label = Populated Place
+| rdfs:subClassOf = Place
+| specificProperties = {{SpecificProperty | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+                       {{SpecificProperty | ontologyProperty = areaMagnitude | unit = squareMetre }}
+                       {{SpecificProperty | ontologyProperty = populationUrbanDensity | unit = inhabitantsPerSquareKilometre }}
+                       {{SpecificProperty | ontologyProperty = areaUrban | unit = squareKilometre }}
+                       {{SpecificProperty | ontologyProperty = areaMetro | unit = squareKilometre }}
+                       {{SpecificProperty | ontologyProperty = populationMetroDensity | unit = inhabitantsPerSquareKilometre }}
+}}

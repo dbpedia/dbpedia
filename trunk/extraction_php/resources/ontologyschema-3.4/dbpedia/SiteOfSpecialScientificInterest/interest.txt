@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = interest
+|rdfs:domain = SiteOfSpecialScientificInterest
+|rdfs:range = xsd:string
+}}

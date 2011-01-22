@@ -1,0 +1,228 @@
+{{Article issues|or=March 2009|tone=March 2009|cleanup=March 2009}}
+
+{| border="0" align="right"
+|-
+|{{Infobox Automobile
+| image = [[Image:MHV VW-Porsche 914-6.jpg|250px|Porsche 914]]
+| name = Porsche 914
+| manufacturer = [[Porsche]]
+| parent_company =
+| aka = VW-Porsche 914
+| production = 1969&ndash;1976<br/>118,978 produced<ref>{{cite book |title=Deutsche Autos 1945-1990, vol.4 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5 |pages=362}}</ref><br/>914/4: 115,646<br/>914/6: 3,332
+| assembly = [[Stuttgart]]-[[Zuffenhausen]], [[Germany]]
+| predecessor = [[Porsche 912]]
+| successor = [[Porsche 924]]
+| class = [[Sports car]]
+| body_style = [[targa top|Targa]]<br/>[[Coupe]]
+| layout = [[Rear mid-engine, rear-wheel drive layout|Rear mid-engine, rear-wheel drive]]
+| platform =
+| engine = 1.7 L [[flat-4|H4]]<br/>1.8 L [[flat-4|H4]]<br/>2.0 L [[flat-4|H4]]<br/>2.0 L [[flat-6|H6]]
+| transmission =
+| wheelbase = {{convert|2450|mm|in|1|abbr=on}}
+| length = {{convert|3985|mm|in|1|abbr=on}}
+| width = {{convert|1650|mm|in|1|abbr=on}}
+| height = {{convert|1230|mm|in|1|abbr=on}}
+| weight = {{convert|940|kg|lb||abbr=on}}−{{convert|995|kg|lb||abbr=on}}
+|fuel_capacity={{Convert|62|L|usgal impgal|1|abbr=on}}<ref name=RoadTest1970>{{cite journal|journal=Road Test |volume = | authorlink = |title = Porsche 914-914/6 | publisher= |location= |pages = | date = [[January]] [[1970]]}}</ref><ref name=MotorTrend1970>{{cite journal|journal=Motor Trend |volume = | authorlink = |title = Motor Trend's 1970 Import Car of the Year: Porsche 914-914/6 | publisher= |location= |pages = | date = June [[1970]]}}</ref> 
+| related =
+| designer =
+}}
+|}
+The '''Porsche 914''' was a [[Mid-engine design|mid-engined]] [[sports car]] built and sold collaboratively by [[Volkswagen]] and [[Porsche]] from 1969 through 1976.
+
+== History ==
+=== Development ===
+By the late 1960s, both Volkswagen and Porsche were in need of new models; Porsche was looking for a replacement for their entry-level [[Porsche 912|912]], and Volkswagen wanted a new range-topping sports [[coupe]] to replace the [[Volkswagen Karmann Ghia|Karmann Ghia]]. At the time, the majority of Volkswagen's developmental work was handled by Porsche, part of a setup that dated back to Porsche's founding; Volkswagen needed to contract out one last project to Porsche to fulfill the contract, and decided to make this that project. [[Ferdinand Piëch]], who was in charge of research and development at Porsche, was put in charge of the 914 project.
+[[Image:Porsche 914 and VW Type 34 Karmann Ghia.jpg|thumb|left|Porsche 914 and the car it replaced at the top of VW's line, the Type 34 Karmann Ghia]]
+
+Originally intending to sell the vehicle with a [[flat-4|flat four-cylinder]] engine as a Volkswagen and with a [[flat-6|flat six-cylinder]] engine as a Porsche, Porsche decided during development that having Volkswagen and Porsche models sharing the same body would be risky for business in the [[United States|American]] market, and convinced Volkswagen to allow them to sell both versions as Porsches in North America.
+
+It appeared to be a perfect win-win situation. On March 1, 1968, the first 914 prototype was presented. However, development became complicated after the death of Volkswagen's chairman, [[Heinz Nordhoff]], on April 12, 1968. His successor, [[Kurt Lotz]], was not connected with the Porsche dynasty and the verbal agreement between Volkswagen and Porsche fell apart.
+
+In Lotz's opinion, Volkswagen had all rights to the model, and no incentive to share it with Porsche if they would not share in tooling expenses. With this decision, the price and marketing concept for the 914 had failed before series production had even begun. As a result, the price of the chassis went up considerably, and the 914/6 ended up costing only a bit less than the [[Porsche 911|911T]], Porsche's next lowest price car.  This had a serious effect on sales, and the 914/6 sold quite poorly.  In contrast, the much less expensive 914-4 became Porsche's top seller during its model run, outselling the 911 by a wide margin, with over 118,000 units sold worldwide.
+
+[[Image:DSCN1450.JPG|thumb|left|The unique rear of the Porsche 914]]
+
+=== Design evolution ===
+Volkswagen versions originally came with an {{Convert|80|hp|kW|0|abbr=on}} [[fuel injection|fuel-injected]] 1.7 L [[flat-4]] [[engine]] based on the [[Volkswagen air cooled engine]].  Porsche's 914/6 variant came with a carbureted {{Convert|110|hp|kW|0|abbr=on}} 2.0 L [[flat-6]] engine, taken from the 1969 911T.  The engine was placed amidships, in front of a version of the 1969 911's "901" gearbox set up for mid-engine operation. [[Karmann]] manufactured the rolling chassis at their own plant, then either sent them to Porsche for fitment of the Porsche suspension and flat-six engine or kept them in house for Volkswagen hardware. 914/6 models used a similar suspension and brakes to the 911, giving the car handling and braking superiority over the 4-cylinder Volkswagen models in addition to higher power output. A Volkswagen-Porsche joint venture, [[Volkswagen of America]], handled export to the U.S., where both versions were badged and sold as Porsches.  In Europe, the four-cylinder cars were sold as Volkswagen-Porsches, at Volkswagen dealerships.  This "tainted" the car in the opinion of many automotive critics of that era, and a little of that attitude persists to this day.
+
+Slow sales and rising costs prompted Porsche to discontinue the 914/6 variant in 1972 after producing 3,351 of them; its place in the lineup was filled by a variant powered by a new {{Convert|95|hp|kW|0|abbr=on}} 2.0 L, fuel-injected version of Volkswagen's Type 4 engine in 1973. For 1974, the 1.7 L engine was replaced by a {{Convert|76|hp|kW|0|abbr=on}} 1.8 L, and the new [[Robert Bosch GmbH|Bosch]] [[Jetronic|L-Jetronic]] fuel injection system was added to American units to help with emissions control.  914 production ended in 1976.  The 2.0 L flat-4 engine continued to be used in the [[Porsche 912|912E]], which provided an entry-level model until the [[Porsche 924|924]] was introduced.
+
+The 914 was [[Motor Trend]]'s [[Motor Trend Car of the Year#Import Car of the Year|Import Car of the Year]] for 1970<ref>{{cite web | url=http://www.motortrend.com/classic/features/c12_0601_1970_porsche_914/index.html | title=1970 Porsche 914 - Motor Trend Import Car of the Year - Motor Trend Classic | year=2007 | publisher=Motor Trend | accessdate=2007-03-25}}</ref> and a 914/6 piloted by Frenchmen [[Claude Ballot-Lena]] and [[Guy Chasseuil]] won the GTS class and finished sixth overall at the [[1970 24 Hours of Le Mans]]<ref>{{cite web | url=http://histoire.lemans.org/ACO/Year/searchclassfin.php3?lg=eng&s=d&recherche=1970 | title=Le Mans 24 Hours 1970 -  Final Standings | year=2007 | publisher= | accessdate=2007-03-25}}</ref>.
+
+==== Chart of 914 development ====
+<br clear="all"/>
+{| cellspacing=1 cellpadding=0 class="toccolours" align="center"
+|align="center" colspan="52"|'''Porsche 914 road vehicle history of 1969 to 1976'''
+|-
+|align=center colspan=1 rowspan=2 bgcolor=#F0F0F0|'''Model'''
+|align=center colspan=1 rowspan=2 bgcolor=#F0F0F0|'''Power'''
+|align=center colspan=10 width=15% bgcolor=#F0F0F0|1960s
+|align=center colspan=10 width=15% bgcolor=#F0F0F0|1970s
+|- bgcolor=#F0F0F0
+|0||1||2||3||4
+|5||6||7||8||9
+|0||1||2||3||4
+|5||6||7||8||9
+|- align=center
+|colspan=1 bgcolor=#D0D0D0|'''914'''
+|colspan=31 bgcolor=#D0D0D0|
+|- align=center
+|colspan=1 bgcolor=#F0F0F0|914/4
+|colspan=1 bgcolor=#F0F0F0|59&nbsp;kW/80 PS
+|colspan=9 bgcolor=#F0F0F0|
+|colspan=4 bgcolor=#00FF00|
+|colspan=7 bgcolor=#F0F0F0|
+|- align=center
+|colspan=1 bgcolor=#F0F0F0|914/6
+|colspan=1 bgcolor=#F0F0F0|81&nbsp;kW/110 PS
+|colspan=9 bgcolor=#F0F0F0|
+|colspan=4 bgcolor=#00FF00|
+|colspan=7 bgcolor=#F0F0F0|
+|- align=center
+|colspan=1 bgcolor=#F0F0F0|914 1.7
+|colspan=1 bgcolor=#F0F0F0|59&nbsp;kW/80 PS
+|rowspan=2 colspan=10 bgcolor=#F0F0F0|
+|colspan=3 bgcolor=#F0F0F0|
+|colspan=1 bgcolor=#00FF00|
+|colspan=6 bgcolor=#F0F0F0|
+|- align=center
+|colspan=1 bgcolor=#F0F0F0|914 1.8
+|colspan=1 bgcolor=#F0F0F0|56&nbsp;kW/76 PS (USA); 63&nbsp;kW/85 PS (RoW)
+|colspan=4 bgcolor=#F0F0F0|
+|colspan=2 bgcolor=#00FF00|
+|colspan=4 bgcolor=#F0F0F0|
+|- align=center
+|colspan=1 bgcolor=#F0F0F0|914 2.0
+|colspan=1 bgcolor=#F0F0F0|70&nbsp;kW/95 PS (USA); 74&nbsp;kW/100 PS (RoW)
+|rowspan=2 colspan=10 bgcolor=#F0F0F0|
+|colspan=3 bgcolor=#F0F0F0|
+|colspan=3 bgcolor=#00FF00|
+|colspan=4 bgcolor=#F0F0F0|
+|- align=center
+|colspan=1 bgcolor=#F0F0F0|914 2.0 ''(only in US)''
+|colspan=1 bgcolor=#F0F0F0|65&nbsp;kW/88 PS
+|colspan=6 bgcolor=#F0F0F0|
+|colspan=1 bgcolor=#00FF00|
+|colspan=3 bgcolor=#F0F0F0|
+|}
+
+=== Follow on prototypes ===
+Planned for the early 1970s, a version known as the Porsche 916 was cancelled after only eleven prototypes.  The 916 was to have either the 2.4 engine from the 911S, or the 2.7 from the [[Porsche 911#911 Carrera RS (1973 and 1974)|Carrera]]. They were also to have a fixed steel roof, wider wheels and flared fenders as styled from the [[Porsche 914-6 GT|914-6 GT]] cars<ref>{{cite web | url=http://www.vw-porsche-914-club-westfalen.de/porsche916.htm | title=Porsche 916 | year=2007 | publisher=Volkswagen Porsche 914 club Westphalia | accessdate=2007-03-25}}</ref>. Ventilated disc brakes were fitted to all four wheels, and also a "mid-engined" version of the then-new 915 transmission, giving a conventional shift pattern with 1 to 4 in an H and fifth out on a limb. One 916 was built to US specs and on delivery to the USA was  fitted with air conditioning by the dealer (Brumos). One fact that may make 914/6 purists wince is that at least one of the 916s proves, on close examination, to have been built using a 4-cylinder VW-engined 914 as a base. {{Citation needed|date=October 2007}}
+
+Two prototype 914s, dubbed '''914/8''', were built during 1969.  The orange 914/8 was the first constructed, at the instigation of [[Ferdinand Piëch]] (then head of the Racing Dept), to prove the concept.  Powered by the full-blown, 310 hp (222&nbsp;kW) 908 [flat-8] racing engine, it was based on a surplus 914 handbuilt development prototype bodyshell (chassis no. 914111), hence the many differences from the standard vehicle (eg, the quad headlights).  The second, silver, road-registered car, powered by a carburetted and detuned 908 race engine making 260 hp (194&nbsp;kW) was then prepared as a gift to [[Ferry Porsche]] on his 60th birthday. Also based on a spare prototype shell (chassis no. 914006), it was much closer to the standard car in detail. By all accounts Ferry didn't like the car very much and it sits in the Porsche Museum.  Neither car saw a racetrack except for the purposes of testing.  The 914/8 was not considered for production as a regular model.  Another factory prototype, a 914/6 (chassis no. 914114) surfaced in the US in 2001.  Together with a surviving prototype Sportomatic 914/6 (chassis no. 914120), reputedly in Southern Germany, they form a unique and fascinating piece of Porsche history.
+
+== Technical information ==
+=== Chassis numbers ===
+{| cellspacing=3 cellpadding=3 class="toccolours" align="center"
+|align="center" colspan="4"|'''Porsche 914 chassis numbers from 1970 to 1976'''
+|-
+|align=center colspan=1 rowspan=1 bgcolor=#F0F0F0|'''Year'''
+|align=center colspan=1 rowspan=1 bgcolor=#F0F0F0|'''914/4'''
+|align=center colspan=1 rowspan=1 bgcolor=#F0F0F0|'''914/6'''
+|align=center colspan=1 rowspan=1 bgcolor=#F0F0F0|'''916'''
+|-
+|1970
+|4702900001 – 4702913312
+|9140430001 – 9140432668
+|-
+|1971
+|4712900001 – 4712916231
+|9141430001 – 9141430443
+|-
+|1972
+|4722900001 – 4722921580
+|9142430001 – 9142430240
+|9142330011 – 9142330022
+|-
+|1973
+|4732900001 – 4732927660
+|-
+|1974
+|4742900001 – 4742921370
+|-
+|1975
+|4752900001 – 4752911368
+|-
+|1976
+|4762900001 – 4762904100
+|-
+|}
+
+=== Distinguishing marks ===
+During the evolution of the model, certain characteristics of the car changed.  An observer can use those traits to determine in which year a particular 914 model was made.  The most distinguishable trait is the bumpers.  Between 1970 and 1972, both front and rear bumpers were flat across and available in either chrome or painted metal.  In 1973, bumper stops were added to the front of the car.  And in 1974, bumper stops were also added to the rear of the car. In 1975 and 1976, the big black bumper years, the bumpers were rubber covered and heavy.  Some people like the smooth look of the later bumpers, but most prefer the lighter weight chrome ones.  Many people have backdated their bumpers, so this is not always a tell all, but certainly a good starting point for identity.
+
+Another way to distinguish 914's is by the plastic piece that goes around the headlight. White ones are from the first 914s to mid-production of 73. After that, it was a black plastic. The passenger seat is another feature used to distinguish the year of the car.  1971 and earlier had a fixed passenger seat, while 1972 and later featured a movable passenger seat.
+
+=== State of the 914 fleet today ===
+
+[[Image:VW Porsche 914.jpg|thumb|left|A well-preserved 914 on public display]]
+
+Estimates of the number of surviving 914s vary wildly.  Because of the cost and availability of repair parts compared to the inexpensive cost of a new chassis, many cars with serious but repairable damage were salvaged over the years.  In fact many cars were cut up over the years with the purpose of saving other cars.  The increasing scarcity of clean cars is driving up the value of the model.
+
+While the 914 has been out of production for over 30 years, many repair parts are still available. In large part this is due to small companies which specialize in 914 parts, as well as many active car clubs. While a few parts are considered scarce and expensive, (such as US-spec rear turn signal lenses and D-Jetronic Manifold Pressure Sensors), most are available from a variety of mail-order sources while still others are tooled and manufactured. Due to its nimble handling and the low cost of a basic 914, the "poor man's" Porsche of the 1970s has become the poor man's weekend racing car on amateur racing circuits. 
+
+Many enthusiasts see the 914 as a blank canvas upon which to create their own automotive dreams. Owners have modified the original four cylinder motors to upwards of {{Convert|170|hp|kW|0|abbr=on}}. Many owners instead choose to swap different engines into the 914's sizeable engine bay. These swaps range from Volkswagen [[turbodiesel]]s, to 911 engines (following in the footsteps of the much sought after 914/6) or [[Chevrolet Corvair engine|Corvair]] air-cooled sixes, to a [[Chevrolet Small-Block engine|small-block Chevy V8]]. Recently, swaps of [[Subaru]] engines have gained popularity among the non-Porsche purists. The 914 is also the base for an [[Battery electric vehicle|electric]] vehicle [[Electric vehicle conversion|conversion]] kit.
+
+Body modifications are another popular way to personalize a 914.  Some of these are simple, such as bolting on fiberglass bumpers that aid the 914 into morphing into a look of the 916 prototype. Some are more extensive, such as installing steel or fiberglass fender flares a la the super-rare 914/6 GT.  Some involve completely changing the appearance of the car, often to resemble some other mid-engine car, such as the [[Porsche 904]] or the [[Ferrari Testarossa]]. Others produce a style all their own such as the Mitcom Chalon, which marries the slant nose appearance of the [[Porsche 935]] with flared fenders that maintain the distinctive 914 rear end. A fiberglass kit was offered in the 1990s dubbed the 9014 was designed as a way to save a derelict 914 too expensive to repair by conventional methods. The 9014's design was inspired by the famous Porsche 904 yet heavily modified to fit the 914 chassis. Over 100 kits were sold before the market changed, and increased 914 values made many more 914s practical to restore.  Several suppliers still offer the kit to this day.
+
+== Limited editions ==
+
+Over its years of existence, the 914 had a few special edition units produced. The appeal of these cars was their looks. The use of extreme color contrasts and decals set them apart from stock cars.
+
+The Creamsicle - A cream color exterior with red decal, skirt, bumpers, and wheels. The corresponding paint number is U2V9.  Phoenix Red is actually a reddish-orange color. This Light Ivory-based color scheme concept is a carry-over from the 1973 911 Carrera RS series car design precedent.  
+
+The Bumblebee - Black exterior with yellow decal, skirts, bumpers, and wheels. This was a Black (L041) body / Sunflower Yellow (L13K) accent.  The corresponding paint number is U1V9.  Black body paint color was always an additional cost special option on standard 914 Porsche cars, but was included as a standard component on the black 914 LE cars. It is worth noting that all but one photo of the 914 Porsche Can Am prototype cars are Bumblebee cars. The Black based 914 LE color scheme is unique to the 914 LE cars and has no precedent with the Can Am race cars or the 1973 911 Carrera RS series cars.  The majority of 914 Limited Editions are Bumblebees, which also seem to be the most sought-after 914 LE color scheme.
+
+It is estimated that about 1000 of these units were produced, about 50% Bumblebee and 50% Creamsicle.
+
+There is one other limited edition car, whose existence is still debated.
+
+Grasshopper - Light Ivory (L80E) body / Green accent.  This color scheme is controversial at best. In spite of the reported sightings, no actual car or even a photo has been located in this color scheme. Aftermarket green stripes were available from Porsche-Audi Dealers, and it may be that 914 cars in this color scheme were simply made by the dealers or owners. This Light Ivory-based color scheme concept may be a carry-over from the 1973 911 Carrera RS series car design precedent, but so far, factory records do not indicate that it was ever manufactured. After much research including contact with Porsche Archives (PAG) in Germany, Factory records verify that the color scheme was never produced, at least within the known VIN range of the other 914 LE cars. Until authenticated proof of the car surfaces, all evidence to date supports that the car is only a myth. An authentic Grasshopper 914 LE may surface, but until that time, we can only assume that it never existed. 
+
+A letter concerning the existence of the car was sent to Porsche, the reply was that no such limited edition car was produced by the factory. <ref>[http://members.rennlist.com/914_canam/914LE.htm The 1974 Porsche 914 Limited Edition<!-- Bot generated title -->]</ref>
+
+== See also==
+*[[Porsche 914-6 GT]] -- a race car variant
+
+== References ==
+{{reflist}}
+
+== External links ==
+<!--===========================({{NoMoreLinks}})===============================-->
+<!--| DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF |-->
+<!--| LINKS. If you think that your link might be useful, do not add it here, |-->
+<!--| but put it on this article's discussion page first or submit your link  |-->
+<!--| to the appropriate category at the Open Directory Project (www.dmoz.org)|-->
+<!--| and link back to that category using the {{dmoz}} template.             |-->
+<!--|                                                                         |-->
+<!--|           Links that have not been verified WILL BE DELETED.            |-->
+<!--|  See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details    |-->
+<!--===========================({{NoMoreLinks}})===============================-->
+{{Commons category|Porsche 914}}
+* {{dmoz|Recreation/Autos/Makes_and_Models/Porsche/914/}}
+
+{{Porsche}}
+
+[[Category:Coupes]]
+[[Category:Mid-engined vehicles]]
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+[[Category:Porsche vehicles|914]]
+[[Category:Volkswagen vehicles]]
+[[Category:Sports cars]]
+[[Category:Roadsters]]
+[[Category:Vehicles with boxer engines]]
+[[Category:Vehicles introduced in 1969]]
+[[Category:1960s automobiles]]
+[[Category:1970s automobiles]]
+
+[[de:Porsche 914]]
+[[es:Porsche 914]]
+[[fr:Porsche 914]]
+[[it:Volkswagen-Porsche 914]]
+[[ja:ポルシェ・914]]
+[[no:Porsche 914]]
+[[pl:Porsche 914]]
+[[pt:Porsche 914]]
+[[sv:Porsche 914]]
+[[tr:Porsche 914]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = latest release version
+| rdfs:domain = Software
+| rdfs:range = xsd:string
+}}

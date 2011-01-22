@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = ratio
+| rdfs:domain = School
+| rdfs:range = xsd:string
+}}

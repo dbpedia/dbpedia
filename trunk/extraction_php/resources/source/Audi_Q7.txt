@@ -1,0 +1,206 @@
+<span class="plainlinks"></span>{{Refimprove|date=May 2008}}
+
+{{Infobox Automobile
+|image          = [[Image:2007-Audi-Q7.jpg|250px|2007 Audi Q7 (US)]]
+|name           = Audi Q7
+|manufacturer   = [[Audi]]
+|parent_company = [[Volkswagen Group]]
+|production     = 2006—present
+|class          = [[Full-size]] [[crossover SUV]]
+|body_style     = 5-door [[SUV]]
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br />[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|related        = [[Porsche Cayenne]]<br />[[Volkswagen Touareg]]
+|wheelbase      = 118.2&nbsp;in (3002&nbsp;mm)
+|length         = 200.2&nbsp;in (5085&nbsp;mm)
+|width          = 78.1&nbsp;in (1984&nbsp;mm)
+|platform       = [[Volkswagen Group PL71 platform]]
+|height         = 68.3&nbsp;in (1735&nbsp;mm)
+|assembly       = [[Bratislava]], [[Slovakia]] |weight         = 4850-5730&nbsp;lb (2205-2605&nbsp;kg)
+|transmission   = 6-speed [[automatic transmission|automatic]]
+|engine         = 4.2L [[V8 engine|V8]] [[Fuel Stratified Injection|FSI]]<br />3.6L [[V6 engine|V6]] FSI<br />4.2L V8 [[Turbocharged Direct Injection|TDI]]<br />3.0L V6 TDI<br /> 6.0L [[V12 engine|V12]] TDI
+|sp             = uk
+}}
+
+The '''Audi Q7''' is a [[full-size]] [[crossover SUV|luxury crossover SUV]] produced by [[Germany|German]] automaker [[Audi]] since its unveiling at the [[Los Angeles Auto Show]] in January 2006.
+
+In its name '''Q7''', the "'''Q'''" denotes a new family of vehicles for Audi, and the designation "'''7'''" marks its placement between the [[Audi A6|A6]] and [[Audi A8|A8]] in Audi's model range.
+
+==Overview==
+The Q7 (internally designated ''Typ 4L'') utilises a modified version of the [[Volkswagen Group PL71 platform]].  Based on the [[Audi Pikes Peak quattro]] [[concept car]], the Q7 is designed more for on-road use, and was not meant for serious off-road use where a [[transfer case]] is needed.  In an off road test through the Australian outback it fared well for a "soft roader",{{citation needed|date=September 2008}} but in a test published in The Sunday Times it was described as "an absolutely useless off-roader".<ref>[http://www.timesonline.co.uk/tol/driving/article687697.ece Times Online]</ref>  Although it lacks a low-range transfer case, it has [[quattro (four wheel drive system)|quattro]] permanent four wheel drive system with a central differential lock, and an adjustable-height air suspension which helps in off road situations.
+
+==First generation (2005-)==
+===Features===
+*Q7 offers a feature marketed as AMI, or Audi Music Interface, to allow user manipulation of an iPod or similar MP3-style player, which can play through the main sound system.
+*Q7 was the first Audi model to offer Side Assist, a type of blind-spot detection and warning system.
+
+===Engines===
+{| class="wikitable"
+|-
+!colspan=4|Petrol engines
+|-
+!Model!!Year!!Engine type!!Power, torque@rpm
+|-
+|3.6 FSI||2006-2009||{{convert|3597|cc|L cuin||abbr=on}} VR6 FSI||{{convert|280|PS|kW hp||abbr=on}}@6200, {{convert|360|Nm|lbft||abbr=on}}@2500-5000
+|-
+|4.2 FSI||2005-2009||{{convert|4163|cc|L cuin||abbr=on}} V8 FSI||{{convert|350|PS|kW hp||abbr=on}}@6800, {{convert|440|Nm|lbft||abbr=on}}@3500
+|-
+!colspan=4|Diesel engines
+|-
+!Model!!Year!!Engine type!!Power, torque@rpm
+|-
+|3.0 TDI||2005-2007||{{convert|2967|cc|L cuin||abbr=on}} V6 turbo||{{convert|233|PS|kW hp|0|abbr=on}}@4000, {{convert|500|Nm|lbft|0|abbr=on}}@1750-2750
+|-
+|3.0 TDI||2007-2009||{{convert|2967|cc|L cuin||abbr=on}} V6 turbo||{{convert|240|PS|kW hp|0|abbr=on}}@4000-4400, {{convert|550|Nm|lbft|0|abbr=on}}@2000-2250
+|-
+|3.0 TDI clean diesel||2009-||{{convert|2967|cc|L cuin||abbr=on}} V6 turbo||{{convert|240|PS|kW hp|0|abbr=on}}@4000-4400, {{convert|550|Nm|lbft|0|abbr=on}}@2000-2250
+|-
+|4.2 TDI||2007-2009||{{convert|4134|cc|L cuin||abbr=on}} V8 turbo||{{convert|326|PS|kW hp|0|abbr=on}}@3750, {{convert|760|Nm|lbft|0|abbr=on}}@1800-2500
+|-
+|V12 TDI||2008-||{{convert|5934|cc|L cuin||abbr=on}} V12 twin turbo||{{convert|500|PS|kW hp|0|abbr=on}}@3750, {{convert|1000|Nm|lbft|0|abbr=on}}@1750-3250
+|}
+
+0-100 KM/h performance for Q7 3.6 V6 FSI is 8.5s, and for 4.2 V8 FSI is 7.4S.
+
+===Safety===
+Despite its multiple airbags and safety electronics, such as [[electronic stability control|Electronic Stability Programme]] (ESP), the Q7 scored only four stars out of five ({{rating|4|5}}) in the [[Euro NCAP]] crash test for adult occupant protection.<ref name="carautoportal">{{cite web|url=http://www.carautoportal.com/audi/audi-q7.php|title=Audi A7 Reference|accessdate=2009-06-26|work=carautoportal.com}}</ref>  According to Audi, this was caused by a design error, and has since been fixed in cars manufactured after the test which should allegedly lead to five stars.  Official tests to prove this remain to be done as of March 2009.
+
+However in the [[United States|USA]], the Q7 received five out of five stars ({{rating|5|5}}) from the [[NHTSA]] safety test for both front and side impacts.  The [[IIHS]] awarded the Q7 its Top Safety Pick, with ''Good'' ratings in all 14 measured categories of the front and side impact test.<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=1007 |title=IIHS-HLDI: Audi Q7 |publisher=Iihs.org |date=2008-11-25 |accessdate=2009-09-06}}</ref>
+
+===North American models===
+It was first released as 2007 model, with Q7 4.2 quattro available at launch.<ref>[http://www.audiworld.com/news/06/010406/content.shtml 2007 Audi Q7 4.2 quattro Featuring Uncompromised SUV Performance, Luxury and Technology Priced at $49,900]</ref>
+
+===Q7 hybrid (2005)===
+It was a concept vehicle based on Q7. It uses the engine from 4.2 FSI with electric motor to provide {{convert|200|Nm|lbft||abbr=on}} extra torque, and nickel-metal hydride battery. It has 0-100&nbsp;km/h acceleration of 6.8s. The vehicle weighs {{convert|2410|kg|lb||abbr=on}}, {{convert|140|kg|lb||abbr=on}} heavier than the petrol counterpart.
+
+The vehicle was unveiled in 2005 [[Frankfurt Motor Show]].<ref>[http://fourtitude.rely.net/cgi-bin/artman/exec/view.cgi/6/1662 Frankfurt IAA - Audi Q7 Hybrid Concept]</ref>
+
+Audi is reportedly going to introduce a hybrid version of the Q7 sometime in the future.<ref>[http://www.autobloggreen.com/2006/10/12/audi-says-hybrid-future-depends-u-s-growth/ Audi says hybrid future depends U.S. growth]</ref> However, low US dollar caused Audi to cease future offering of Q7 hybrid to US market, but stated limited quantities would be available for the commercial market.<ref>[http://www.motorauthority.com/audi-cancels-us-q7-hybrid-plans.html Low dollar forces Audi to cancel U.S. Q7 hybrid plans]</ref> Audi's research and development chief, Michael Dick, later announced Q7 hybrid would be produced in limited numbers for test purposes only and that development work would focus on a more advanced lithium-ion battery-based hybrid system for the Q5.<ref>[http://wardsauto.com/home/audi_pulls_plug/ Audi Pulls Plug on Q7 Hybrid]</ref>
+
+===Q7 3.0 TDI clean diesel (2009)===
+It is a version of 3.0 TDI with [[selective catalytic reduction]]. The engine was later used in next generation of Q7 for European market.
+
+US models of 2009 Audi Q7 TDI Premium went on sale in 2009-04 with base MSRP of $50,900 (excluding a destination charge of $825, taxes, title or dealer charges).<ref>[http://www.autoblog.com/2009/04/09/2009-audi-q7-tdi-priced-at-50-900/ 2009 Audi Q7 TDI priced at $50,900]</ref>
+
+===Q7 4.2 TDI (2007-2009)===
+The vehicle was unveiled in 2007 Geneva Motor Show.
+
+Production version went on sale in early summer 2007.<ref>[http://www.audiworld.com/news/07/audi-q7-42-tdi/ The Audi Q7 4.2 TDI]</ref>
+
+===Q7 V12 TDI (2008-)===
+The engine was based on the diesel technology from [[Audi R10 TDI]] race car, but with larger displacement. The engine was rated at {{convert|500|PS|kW hp||abbr=on}} and {{convert|1000|Nm|lbft||abbr=on}}, making it the most powerful diesel engine, and also the only twelve-cylinder diesel engine, used in any passenger car. It has 0-100&nbsp;km/h acceleration of 5.5 seconds.<ref>[http://www.audiworld.com/news/06/q7-v12-tdi/ The World’s Most Powerful Diesel Passenger Car]</ref>
+
+The concept vehicle originally appeared at the [[2006 Paris Motor Show]].
+
+Originally, Audi announced to built a version for US market using diesel engines jointly developed with Volkswagen and Mercedes under the label "Bluetec".<ref>[http://www.autoblog.com/2007/03/01/audi-q7-v12-tdi-coming-to-america-maybe/ Audi Q7 V12 TDI coming to America (maybe)!]</ref> Audi was later reported to not be bringing the Q7 V12 TDI to the US market.<ref>[http://www.motorauthority.com/audi-shows-q7-v12-tdi-quattro-ahead-of-geneva.html Report: Audi will not sell the Q7 V12 TDI in U.S.]</ref>
+
+===Audi Q7 coastline (2008)===
+It is a concept version of Q7 V12 TDI with Inuit white interior with wood decoration. The design theme was inspired by luxury yachts.<ref>[http://www.audiworld.com/news/08/design-miami/content.shtml 2008: Spectacular Venue for the Audi Q7 Coastline to “Drop Anchor”]</ref>
+
+The vehicle was unveiled in 2008 Geneva Motor Show.<ref>[http://www.worldcarfans.com/10803022045/audi-q7-coastline-concept-at-geneva Audi Q7 Coastline Concept at Geneva]</ref>
+
+===Lawsuit on the use of the letter Q===
+In early 2005, [[Nissan]] North America Inc. filed a lawsuit against Audi over the use of the letter "Q" as a model name.<ref>[http://www.audiworld.com/news/05/q_name/content.shtml Audi Sued by Nissan Over Q]</ref>
+
+Audi is using the "Q" for the designation of their [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] system, used in production cars for over twenty-five years (Audi's '''quattro''' trademark is actually an umbrella term for several types of four wheel drive systems developed by [[Torsen]], [[Haldex Traction]] AB, and [[Borg-Warner]], the latter being used in the Q7).  Nissan's [[Infiniti]] marque had been using Q as the name for sedans (the [[Infiniti Q45|Q45]]) and [[SUV]]s (the [[Infiniti QX4|QX4]] and [[Infiniti QX56|QX56]]) since 1989.
+
+A settlement between Audi AG and Nissan was reached in late 2006.  The agreement stipulates that Audi will only use the Q-prefix for two models, the [[Audi Q5|Q5]] and the Q7.
+
+==Facelift (2009-)==
+The vehicle was unveiled in 2009 Pebble Beach Concours d'Elegance.<ref>[http://www.autoblog.com/2009/08/26/audi-slaps-monroney-on-updated-2010-q7/ Audi slaps Monroney on updated 2010 Q7]</ref>
+
+Exterior changes include new front and rear lights which better incorporate [[LED]] lighting with optional LED turn signals and daytime running lights, new wheel designs, chrome accents, four new paint colors, and updated body styling in the front and rear.
+
+A redesigned interior includes a new instrument cluster, new leather seating, ambient door lighting, new interior color choices, new trim, and the third generation [[Multi Media Interface|MMI]] control system.<ref>{{cite web|url=http://www.automoblog.net/2009/04/15/new-generation-audi-q7/|title=New Generation Audi Q7|publisher=Automoblog.net}}</ref>
+
+===Q7 3.0 TDI clean diesel quattro (2009-)===
+{{multiple image| direction=vertical| width=210| image1= Audi Q7 TDI 5160 DC 03 2009.jpg
+| image2=Audi Q7 TDI 5165 DC 03 2009.jpg| footer=Front and rear views of an Audi Q7 TDI demonstration vehicle at [[Washington, D.C.]]}}
+It is a version of 3.0 TDI with [[selective catalytic reduction]]. CO2 emission was reduced to 234 g/km with [[Euro 6]] certification, but the vehicle is {{convert|50|kg|lb||abbr=on}} heavier.  It's been reported that at 72.5MPH the Audi Q7 TDI will get 29+ miles per gallon (diesel).
+
+===US models===
+The vehicles were introduced in 2009 as 2010 models. Available models include 3.6 FSI quattro, 4.2 FSI quattro, 3.0 TDI clean diesel quattro.
+
+Changes include standard LED taillights with available LED turn signals and daytime running lights, SIRIUS traffic system.
+
+Production version went on sale in September 2009.<ref>[http://www.audiworld.com/news/09/q7-2010pricing/ Audi sets 2010 MY availability and pricing for its redesigned Q7 models]</ref>
+
+===Engines===
+{| class="wikitable"
+|-
+!colspan=4|Petrol engines
+|-
+!Model!!Year!!Engine type!!Power, torque@rpm
+|-
+|3.6 FSI quattro||2009-||{{convert|3597|cc|L cuin||abbr=on}} VR6 FSI||{{convert|280|PS|kW hp|0|abbr=on}}@6200, {{convert|360|Nm|lbft|0|abbr=on} It has 0-100&nbsp;km/h accelerao||2009-||{{convert|4163|cc|L cuin||abbr=on}} V8 FSI||{{convert|350|PS|kW hp|0|abbr=on}}@6800, {{convert|440|Nm|lbft|0|abbr=on}}@3500
+|-
+!colspan=4|Diesel engines
+|-
+!Model!!Year!!Engine type!!Power, torque@rpm
+|-
+|3.0announced to built a version for967|cc|L cuin||abbr=on}} V6 turbo||{{convert|240|PS|kW hp|0|abbr=on}}@4000-4400, {{convert|550|Nm|lbft|0|abbr=on}}@2000-2250
+|-
+|3.0 TDI clean diesel quattro||2009-||{{convert|2967|cc|L cuin||abbr=on}} V6 turbo||{{convert|240|PS|kW hp|0|abbr=on}}@4000-4400, {{convert|550|Nm|lbft|0|abbr=on}}@2000-2250
+|-
+|4.2 TDI quattro||2009-||{{convert|4134|cc|L cuin||abbr=on}} V8 turbo||{{convert|340|PS|kW hp|0|abbr=on}}@4000, {{convert|760|Nm|lbft|0|abbr=on}}@1750-3000
+|-
+|V12 TDI quattro||2008-2009||{{convert|5934|cc|L cuin||abbr=on}} V12 twin turbo||{{convert|500|PS|kW hp|0|abbr=on}}@3750, {{convert|1000|Nm|lbft|0|abbr=on}}@1750-3250
+|}
+
+===Transmission===
+All models include 6-speed Tiptronic transmission as standard.
+
+===Marketing===
+Audi Q7 3.0 TDI clean diesel quattro appeared in a [[How It's Made]] segment premiered in [[Science Channel]].<ref>[http://www.autoblog.com/2009/09/17/tivo-alert-audi-tdi-clean-diesels-to-be-featured-on-how-it-s-m/ TiVo Alert: Audi TDI clean diesels to be featured on "How It's Made"]</ref>
+
+==See also==
+* [[Audi Duo]]
+
+==References==
+{{reflist}}
+* {{cite journal|title=Preview: Audi Q7|journal=[[Car and Driver]]|issue=March 2006|author=Juergen Zoellter|page=55}}
+
+==External links==
+{{commonscat}}
+*[http://www.audi.com/com/brand/en/models/q7.html Audi Q7 microsite]
+* [http://www.audi.co.uk/audi/uk/en2/new_cars/q7.html Audi UK Q7 page]
+* [http://carsguide.news.com.au/story/0,20384,20411308-5003140,00.html carsguide.news.com.au]
+* [http://driving.timesonline.co.uk/tol/life_and_style/driving/article687727.ece TimesOnline article]
+* [http://q7forums.com Q7Forums.com - First Community dedicated to the Audi SUV]
+* http://www.overlander.com.au/vehicle_tests/index/full/279/Q-Ship
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+{{Modern North American Audi vehicles}}
+
+[[Category:Audi vehicles|Q7]]
+[[Category:SUVs]]
+[[Category:Crossover SUVs]]
+[[Category:Executive cars]]
+[[Category:All wheel drive vehicles]]
+[[Category:Hybrid electric vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2007]]
+
+[[bg:Ауди Q7]]
+[[cs:Audi Q7]]
+[[da:Audi Q7]]
+[[de:Audi Q7]]
+[[et:Audi Q7]]
+[[es:Audi Q7]]
+[[fa:آئودی کیو۷]]
+[[fr:Audi Q7]]
+[[hr:Audi Q7]]
+[[it:Audi Q7]]
+[[lv:Audi Q7]]
+[[nl:Audi Q7]]
+[[ja:アウディ・Q7]]
+[[no:Audi Q7]]
+[[pl:Audi Q7]]
+[[pt:Audi Q7]]
+[[ru:Audi Q7]]
+[[sk:Audi Q7]]
+[[sl:Audi Q7]]
+[[fi:Audi Q7]]
+[[sv:Audi Q7]]
+[[uk:Audi Q7]]
+[[zh:奥迪Q7]]

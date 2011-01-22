@@ -1,0 +1,23 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Song
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Album | ontologyProperty = Song/album }}
+	{{ DBpediaPropertyMapping | templateProperty = track_no | ontologyProperty = Song/trackNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = Writer | ontologyProperty = Song/writer }}
+	{{ DBpediaPropertyMapping | templateProperty = Composer | ontologyProperty = Song/composer }}
+	{{ DBpediaPropertyMapping | templateProperty = Producer | ontologyProperty = Song/producer }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Type | ontologyProperty = Work/type }}
+	{{ DBpediaPropertyMapping | templateProperty = Artist | ontologyProperty = MusicalWork/artist }}
+	{{ DBpediaPropertyMapping | templateProperty = altArtist | ontologyProperty = MusicalWork/artist }}
+	{{ DBpediaPropertyMapping | templateProperty = Published | ontologyProperty = Work/publishDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Released | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Recorded | ontologyProperty = MusicalWork/recordDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Recorded | ontologyProperty = MusicalWork/recordPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = Genre | ontologyProperty = Work/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = Language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = Length | ontologyProperty = Work/runtime | unit = minute }}
+	{{ DBpediaPropertyMapping | templateProperty = Label | ontologyProperty = MusicalWork/label }}
+	{{ DBpediaPropertyMapping | templateProperty = prev | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = next | ontologyProperty = Work/subsequentWork }}
+}}

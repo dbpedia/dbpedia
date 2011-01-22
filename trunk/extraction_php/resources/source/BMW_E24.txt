@@ -1,0 +1,209 @@
+{{refimprove|date=February 2008}}
+{{Infobox Automobile| image = [[Image:1985 BMW M635CSi.JPG|250px|BMW 6-Series E24]]
+| name = BMW 6-series (E24)
+| manufacturer = [[BMW]]
+| production = 1976 - 1989 <br/> 86,216 built<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref>
+| predecessor = [[BMW E9]]
+| successor = [[BMW E31]]
+| body_style = [[coupé|2-door coupé]]
+| engine = 2.8L−3.5L [[straight-6|I-6]]
+| layout=[[FR layout]]
+| transmission = 4 or 5 speed manual, 3 or 4 speed automatic
+| length = {{convert|4755|mm|in|abbr=on}}
+| width = {{convert|1725|mm|in|abbr=on}}
+| height = {{convert|1365|mm|in|abbr=on}}
+| weight = {{convert|1450|kg|lb|abbr=on}}−{{convert|1520|kg|lb|abbr=on}}
+| wheelbase =  {{convert|2626|mm|in|abbr=on}}
+| track f/r = {{convert|1422|mm|in|abbr=on}} / {{convert|1487|mm|in|abbr=on}}
+|fuel_capacity= 
+| related = 
+| similar = 
+| designer = [[Paul Bracq]]
+}}
+
+The '''BMW E24''' series was the first [[BMW 6 Series]] [[coupé]], produced by the German automaker [[BMW]] between the 1976 and 1989 model years.  Replaced by the E31 chassis 8 Series coupés, the 6 Series name reappeared with the [[BMW E63]] chassis beginning in the 2004 model year. The E24 borrowed heavily from contemporary 5-series cars (E12, later E28).
+
+== Model history ==
+The E24 was a replacement for the [[BMW E9|CS and CSL]] coupés first produced in 1965. The CS 3.0 was almost changed by adding a few inches in height to make it easier for wealthier customers to get into the car. However, [[Robert Lutz|Bob Lutz]] rebelled against the decision and rough drafted an alternative version that soon became the 6 series<ref>Guts: Robert A. Lutz, Wriley and Sons, Pub. Copyright 2003</ref>. Production started in March 1976 with two models: the 630CS and 633CSi. Originally the bodies were manufactured by [[Karmann]], but production was later taken in-house to BMW.
+
+In July 1978 a more powerful variant, the 635CSi, was introduced (for the time being not available in North America and Japan) that featured as standard a special close-ratio 5-speed gearbox and a black rear spoiler.
+
+In 1979 the carburetted 630CS was replaced with the 628CSi; this car had a fuel injected 2.8L engine taken from the BMW 528i.
+
+In 1982 (Europe) and 1983 (US), the E24 changed slightly, with an improved interior and slightly modified exterior. At the same time, the 635CSi received a new engine, a slightly smaller-bored and longer-stroked 3430 cc six to replace the former 3453 cc engine and became available with a wide-ratio 5-speed or an automatic.
+
+E24s produced after June 1987 came with ellipsoid [[headlamp]]s instead of the halogen lamps of earlier models.  The sleeker European bumpers were also discontinued.  Previous cars had either a European-standard bumper or a larger, reinforced bumper to meet the [[National Highway Traffic Safety Administration|US standard]] requiring bumpers to withstand impact at {{convert|5|mi/h|km/h|0|abbr=on}} without damage to safety-related components.  1989 was the last year for the E24 with production stopping in April. The E24 was supplanted by the considerably heavier, more complex, and more exclusive [[BMW 8 Series|E31]].
+
+==M Version==
+The M635CSi was introduced in [[Europe]] at the Frankfurt Motor Show in 1983.  It is essentially an E24 powered by the powerplant of the [[BMW M1]]  (the [[BMW M88|M88]], now putting out {{convert|286|PS|kW hp|abbr=on}}). Most M635csi's were equipped with special metric 415&nbsp;mm diameter wheels requiring Michelin TRX tires.  A catalyzed, lower compression ratio version of the car with the [[BMW S38|S38]] engine putting out {{convert|260|PS|kW hp|abbr=on}} was introduced in the U.S. in 1987.  All M635/M6s came standard with a 25% rear differential.  U.S. models included additional comforts such as [[Nappa leather]] power seats and a dedicated rear A/C unit with a center beverage chiller.   [[Car and Driver]] tested a [[U.S.]] M6 in July 1987 and achieved a 0-60 time of 6.1 seconds, better than the BMW published 6.4 and 6.8 second times for the European and U.S. versions respectively.  4,088 M635CSis were built between 1983 and 1988 with 1,767 U.S. M6s built.<ref>http://www.bmwmregistry.com/model_faq.php?id=5</ref> 
+
+== North America and Japan ==
+While in most markets several E24 versions were usually available, markets with strict [[Automobile emissions control|emission control]] regulations received only a single model (except for the M6 that was later offered additionally). This meant that in North America and Japan, BMW offered the following models <ref> Mike Covello: ''Standard Catalog of Imported Cars 1945-2002''. Krause Publications, Iola 2002, ISBN 0-87341-605-8.</ref>:
+[[Image:1986 BMW M6.jpg|thumb|1988 BMW M6]]
+* 630CSi (MY 1977 through 1978½)
+* 633CSi (MY 1978½ through 1984)
+* 635CSi (MY 1985 through 1989)
+* L6 (MY 1987 - Luxury Edition 635CSi NA-only)
+* M6 (MY 1987 through 1989)
+
+In 1977, the 6er was released in the US as the '''630CSi'''. This was a [[Fuel injection|fuel-injected]] version of the [[Carburetor|carburetted]] 630CS available elsewhere. Its 3-litre engine developed {{convert|176|hp}} and {{convert|185|ft.lbf|abbr=on}} of torque.
+
+In mid-model year 1978 the 630CSi was replaced by the 633CSi. US/Japan specification 633CSi cars had the M30 3.2 litre {{Convert|181|hp|kW|0|abbr=on}} engine until 1984. In 1985 the car was renamed 635CSi, displacement was increased to 3.4 litres and horsepower increased slightly to {{Convert|182|hp|kW|0|abbr=on}}.  The big difference, however, was torque.  Whereas the 3.2 litre had {{convert|195|ft.lbf|abbr=on}} at 4,000 rpm, the 3.4 litre powerplant managed {{convert|214|ft.lbf|abbr=on}} at 4,000 rpm.
+
+From model year 1983, North American and Japanese versions benefitted from the technical revisions and changes to the interior introduced elsewhere in spring or summer 1982. Its chassis was now based on the E28 and no longer on the E12. The front and rear suspension was also revised. Later a self-levelling rear suspension was added to the 635 CSi and M6 features list in 1988.
+
+The US received its own M series E24 in 1987 called the M6.  The S38 powerplant found in the US model had several modifications from the M88 powerplant in the European model, most notably: a double row timing chain, modified cam tray, different valve lengths, a slightly different cam profile, less elaborate exhaust manifold (rather than full headers), Bosch X5DC copper spark plugs (instead of Bosch Silver plugs on the M88) and the introduction of an oxygen sensor for the EFI.  These changes coupled with the introduction of a catalytic converter for emission regulations reduced the output to {{Convert|256|hp|kW|0|abbr=on}}.  The US model also included a variety of options not found on the earlier European models, to include: heated power seats, sport tuned self-levelling rear suspension, A/C cooled ice box between the rear seats, A/C vents for rear seat occupants, sunshade for rear occupants and an 8 speaker "premium" sound system.
+
+In 1988, the US E24 was now available with the newest version of the M30, the 3.4L (first used in the E32 735i). Even though the intake manifold states 3.5 it's technically a 3.4 (3430cc) like the previous 3.4.  This engine had an increased compression ratio, and updated Motronics/DME.  The result was {{Convert|208|hp|kW|0|abbr=on}} and {{convert|225|ft.lbf|abbr=on}} torque. In effect, this engine was identical to the catalyzed version newly available in Germany and other markets.
+
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data BMW 628CSi-M 635CSi (E24) (except North America and Japan) <ref name=DeAutos45bis90Oswald/>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="16%"|BMW
+! width="14%"|628CSi
+! width="14%"|630CS
+! width="14%"|633CSi
+! width="14%"|635CSi
+! width="14%"|635CSi
+! width="14%"|M635CSi
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1979–1987 || align="center" |1976–1979 || align="center" |1976–1982 || align="center" |1978–1981 || align="center" |1982–1989 || align="center" |1983–1989
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="6" align="center" |[[I-6|6-cylinder-inline engine]] ([[four-stroke]]), front-mounted
+|- bgcolor="#EEEEEE"
+| Bore × Stroke:&nbsp; || align="center" |86&nbsp;mm × 80&nbsp;mm || align="center" |89&nbsp;mm × 80&nbsp;mm || align="center" |89&nbsp;mm x 86&nbsp;mm || align="center" |93.4&nbsp;mm x 84&nbsp;mm || align="center" |92&nbsp;mm × 86&nbsp;mm || align="center" |93.4&nbsp;mm × 84&nbsp;mm
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || align="center" |2788 cc || align="center" |2985 cc || align="center" |3210 cc || align="center" |3453 cc || align="center" |3430 cc || align="center" |3453 cc
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp;
+| align="center" | {{convert|184|PS|kW hp|abbr=on}} @ 5800
+| align="center" | {{convert|185|PS|kW hp|abbr=on}} @ 5800
+| align="center" | {{convert|197|PS|kW hp|abbr=on}} @ 5500
+| align="center" | {{convert|218|PS|kW hp|abbr=on}} @ 5200
+| align="center" | {{convert|218|PS|kW hp|abbr=on}} @ 5200
+| align="center" | {{convert|286|PS|kW hp|abbr=on}} @ 6500 
+|- bgcolor="#EEEEEE"
+| Max. Torque @ rpm:&nbsp;
+| align="center" | {{convert|235|Nm|lbft|abbr=on}} @ 4200
+| align="center" |{{convert|255|Nm|lbft|abbr=on}} @ 3500
+| align="center" | {{convert|284|Nm|lbft|abbr=on}} @ 4300
+| align="center" |{{convert|304|Nm|lbft|abbr=on}} @ 4000
+| align="center" | {{convert|304|Nm|lbft|abbr=on}} @ 4000
+| align="center" |{{convert|333|Nm|lbft|abbr=on}} @ 4500 
+|- bgcolor="#EEEEEE"
+| Compression Ratio:&nbsp; || align="center" |9.3: 1 || align="center" |9.0 : 1 || align="center" |9.3 : 1 || align="center" |9.3 : 1 || align="center" |10.0 : 1 || align="center" |10.5 : 1
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || align="center" |  fuel injection <br/> Bosch L-Jetronic || align="center" |  single downdraft carburetor <br/> Pierburg 4A1 || colspan="2" align="center" |  fuel injection <br/> Bosch L-Jetronic|| colspan="2" align="center" |  fuel injection <br/> Bosch Motronic
+|- bgcolor="#EEEEEE"
+| Fuel tank capacity:&nbsp; || colspan="6" align="center" | {{Convert|70|L|usgal impgal|1|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Valvetrain:&nbsp; || colspan="5" align="center" |  12 valves, [[SOHC]], duplex chain  || align="center" |  24 valves, [[DOHC]], duplex chain  
+|- bgcolor="#EEEEEE"
+|  Cooling:&nbsp; || colspan="6" align="center" |Water
+|- bgcolor="#EEEEEE"
+| Gearbox:&nbsp; || colspan="5" align="center" | 4-speed manual, from 1979 5-speed manual (wide- or close-ratio) <br/> on request 3-speed automatic, from 1983 4-speed automatic <br/>  rear wheel drive || align="center" | 5-speed manual <br/> rear wheel drive
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || colspan="6" align="center" | 12 volt
+|- bgcolor="#EEEEEE"
+| Front suspension:&nbsp; || colspan="6" align="center" | McPherson axle, coil springs, stabilising bar
+|- bgcolor="#EEEEEE"
+| Rear suspension::&nbsp; || colspan="6" align="center" | Trailing arms, struts, coil springs, stabilising bar
+|- bgcolor="#EEEEEE"
+| Brakes:&nbsp; || colspan="6" align="center" | disc brakes (Ø front 280&nbsp;mm, rear 272&nbsp;mm), power assisted, from MY 1984: ABS 
+|- bgcolor="#EEEEEE"
+| Steering:&nbsp; || colspan="6" align="center" | [[ZF Friedrichshafen|ZF]] recirculating ball steering, power assisted
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; || colspan="6" align="center" | Sheet steel, unibody construction
+|- bgcolor="#EEEEEE"
+| &nbsp; || colspan="6" align="center" | &nbsp;
+|- bgcolor="#EEEEEE"
+| &nbsp; || colspan="6" align="center" | &nbsp;
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp;
+| align="center" |{{convert|1450|kg|lb|abbr=on}}
+| align="center" |{{convert|1475|kg|lb|abbr=on}}
+| align="center" |{{convert|1495|kg|lb|abbr=on}}
+| align="center" |{{convert|1520|kg|lb|abbr=on}}
+| align="center" |{{convert|1470|kg|lb|abbr=on}}
+| align="center" |{{convert|1510|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Loaded weight:&nbsp;
+| align="center" |{{convert|1830|kg|lb|abbr=on}}
+| align="center" |{{convert|1830|kg|lb|abbr=on}}
+| align="center" |{{convert|1830|kg|lb|abbr=on}}
+| align="center" |{{convert|1860|kg|lb|abbr=on}}
+| align="center" |{{convert|1850|kg|lb|abbr=on}}
+| align="center" |{{convert|1850|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+| &nbsp; || colspan="6" align="center" | &nbsp;
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp;
+| align="center" |{{convert|1422|mm|in|abbr=on}} {{convert|1487|mm|in|abbr=on}} || align="center" |{{convert|1422|mm|in|abbr=on}} {{convert|1487|mm|in|abbr=on}} || align="center" |{{convert|1422|mm|in|abbr=on}} {{convert|1487|mm|in|abbr=on}} || align="center" |{{convert|1430|mm|in|abbr=on}} {{convert|1460|mm|in|abbr=on}} || align="center" |{{convert|1430|mm|in|abbr=on}} {{convert|1460|mm|in|abbr=on}} || align="center" |{{convert|1430|mm|in|abbr=on}} {{convert|1464|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp;
+| align="center" |{{convert|2626|mm|in|abbr=on}} || align="center" |{{convert|2626|mm|in|abbr=on}} || align="center" |{{convert|2626|mm|in|abbr=on}} || align="center" |{{convert|2626|mm|in|abbr=on}} || align="center" |{{convert|2626|mm|in|abbr=on}} || align="center" | {{convert|2626|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| &nbsp; || colspan="6" align="center" | &nbsp;
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" | {{convert|4755|mm|in|abbr=on}} || align="center" |{{convert|4755|mm|in|abbr=on}}|| align="center" |{{convert|4755|mm|in|abbr=on}}|| align="center" |{{convert|4755|mm|in|abbr=on}}|| align="center" |{{convert|4755|mm|in|abbr=on}}|| align="center" | {{convert|4755|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || align="center" | {{convert|1725|mm|in|abbr=on}} || align="center" |{{convert|1725|mm|in|abbr=on}}|| align="center" |{{convert|1725|mm|in|abbr=on}}|| align="center" |{{convert|1725|mm|in|abbr=on}}|| align="center" |{{convert|1725|mm|in|abbr=on}}|| align="center" | {{convert|1725|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" | {{convert|1365|mm|in|abbr=on}} || align="center" |{{convert|1365|mm|in|abbr=on}}|| align="center" |{{convert|1365|mm|in|abbr=on}}|| align="center" |{{convert|1365|mm|in|abbr=on}}|| align="center" |{{convert|1365|mm|in|abbr=on}}|| align="center" | {{convert|1354|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| &nbsp; || colspan="6" align="center" | &nbsp;
+|- bgcolor="#EEEEEE"
+| &nbsp; || colspan="6" align="center" | &nbsp;
+|- bgcolor="#EEEEEE"
+| Tyre/Tire sizes:&nbsp; || align="center" | 195/70VR14 || align="center" |195/70VR14|| align="center" |195/70VR14|| align="center" |195/70VR14|| align="center" |205/70VR14|| align="center" | 220/55VR390 <br/> or 240/45VR415
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Top speed:&nbsp;
+| align="center" |{{convert|215|km/h|mph|abbr=on}}
+| align="center" |{{convert|210|km/h|mph|abbr=on}}
+| align="center" |{{convert|215|km/h|mph|abbr=on}}
+| align="center" |{{convert|222|km/h|mph|abbr=on}}
+| align="center" |{{convert|225|km/h|mph|abbr=on}}
+| align="center" |{{convert|255|km/h|mph|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Fuel Consumption (estimates):&nbsp;
+| align="center" |{{convert|15.5|l/100 km|lk=off }}
+| align="center" |{{convert|16.5|l/100 km|lk=off }}
+| align="center" |{{convert|16.5|l/100 km|lk=off }}
+| align="center" |{{convert|17.0|l/100 km|lk=off }}
+| align="center" |{{convert|15.0|l/100 km|lk=off }}
+| align="center" |{{convert|18.0|l/100 km|lk=off }}
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+==Sources and further reading==
+{{reflist}}
+
+== External links==
+{{commonscat}}
+
+{{BMW early cars}}
+
+{{DEFAULTSORT:Bmw E24}}
+[[Category:BMW platforms|E24]]
+[[Category:Vehicles introduced in 1976]]
+
+[[bs:BMW E24]]
+[[de:BMW E24]]
+[[fr:BMW série 6]]
+[[no:BMW E24]]
+[[pl:BMW E24]]
+[[pt:BMW E24]]
+[[ru:BMW E24]]
+[[uk:BMW E24]]

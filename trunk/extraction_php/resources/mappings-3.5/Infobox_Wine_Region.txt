@@ -1,0 +1,20 @@
+{{TemplateMapping
+| mapToClass = WineRegion
+| mappings = 
+	{{PropertyMapping | templateProperty = wine years | ontologyProperty = wineYear }}
+	{{PropertyMapping | templateProperty = part of | ontologyProperty = partOfWineRegion }}
+	{{PropertyMapping | templateProperty = similar | ontologyProperty = similar }}
+	{{PropertyMapping | templateProperty = sub regions | ontologyProperty = subregion }}
+	{{PropertyMapping | templateProperty = vineyards | ontologyProperty = numberOfVineyards }}
+	{{PropertyMapping | templateProperty = grapes | ontologyProperty = growingGrape }}
+	{{PropertyMapping | templateProperty = varietals | ontologyProperty = varietals }}
+	{{PropertyMapping | templateProperty = wineries | ontologyProperty = numberOfWineries }}
+	{{PropertyMapping | templateProperty = wine produced | ontologyProperty = wineProduced }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = official name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = other name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = total size | ontologyProperty = areaTotal | unit = Area }}
+	{{PropertyMapping | templateProperty = planted | ontologyProperty = areaTotal | unit = Area }}
+}}

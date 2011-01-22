@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Year In Spaceflight
+| rdfs:subClassOf = Event
+}}

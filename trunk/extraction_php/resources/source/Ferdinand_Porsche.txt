@@ -1,0 +1,158 @@
+{{Refimprove|date=December 2006}}
+<!---If one wishes to edit this page, but needs reliable information, it can be found at the "Ferry Porsche" article about his son--->
+{{Infobox engineer
+|image                = Ferdinand Porsche.jpg
+|image_size           = 180px
+|name                 = Ferdinand Porsche
+|nationality          = [[Austro-Hungarians|Austro-Hungarian]]
+|birth_date           = {{birth date|1875|9|3|df=y}}
+|birth_place          = [[Vratislavice nad Nisou|Maffersdorf]] near [[Liberec|Reichenberg]], [[Austria-Hungary]] <br><sup>''(now Czech Republic)''</sup>
+|death_date           = {{death date and age|1951|1|30|1875|9|3|df=y}}
+|death_place          = 
+|education            =
+|spouse               =
+|parents              =
+|children             =[[Ferry Porsche]] and [[Louise Piëch|Louisa Porsche]]
+|discipline           =
+|institutions         =
+|practice_name        =  
+|significant_projects = [[Tiger I]], [[Tiger II]], the [[Elefant]], and the [[Volkswagen Beetle]]
+|significant_design   = 
+|significant_advance  =
+|significant_awards   =  [[German National Prize for Art and Science]]
+}}
+Prof. [[Doctor of Engineering|Dr. Ing]] [[honoris causa|h.c.]] '''Ferdinand Porsche'''<ref>The name Porsche is pronounced {{IPA-de|ˈpɔʁʃə|}} in German and {{IPA-en|ˈpɔrʃə|}}, {{Respell|POR|shə}} in English, with an audible "e".</ref> (3 September 1875 – 30 January 1951) was an [[Austro-Hungarians|Austro-Hungarian]] [[automotive engineering|automotive engineer]]. He is best known for creating the  [[Volkswagen Beetle|Volkswagen (Beetle)]] as well as the first of many [[Porsche]] automobiles, and for his contributions to advanced German tank designs: [[Tiger I]], [[Tiger II]] and the [[Elefant]].
+Porsche was awarded in 1937 the [[German National Prize for Art and Science]], one of the rarest decorations in [[Nazi Germany]].
+
+Porsche's son, [[Ferry Porsche]], is the [[eponym]] for [[Porsche]] [[automobiles]], initially based to a large extent on the [[Volkswagen Beetle]] design. 
+
+==Early years==
+Ferdinand  Porsche was born to German-speaking parents in [[Vratislavice nad Nisou]] (''Maffersdorf'' in German) near [[Liberec]] (''Reichenberg'' in German), then northern [[Bohemia]], [[Austro-Hungarian Empire]] (today Liberec, [[Czech Republic]]). 
+He showed high aptitude for mechanical work at a very young age. He managed to attend classes at the Imperial Technical School in Reichenberg  at night while helping his father in his mechanical shop by day. Thanks to a referral, Porsche landed a job with the Béla Egger Electrical company in [[Vienna]] when he turned 18<ref>{{cite web|title=Ferdinand Porsche, a 'Bogár' atyja|url=http://www.geographic.hu/index.php?act=napi&id=3027|language=Hungarian|work=[[National Geographic]] Hungarian edition|date=2004-09-03|accessdate=2008-12-10}}</ref>. In Vienna he would sneak into the local university whenever he could after work. Beyond auditing classes there, Porsche had never received any higher engineering education. During his five years with [[Béla Egger]], Porsche first developed the [[Hub motor|electric hub motor]].
+
+In 1898, Porsche joined the [[Vienna]]-based factory Jakob Lohner & Co, that produced coaches for Emperor [[Franz Joseph I of Austria]], as well as for the kings of [[England]], [[Sweden]], and [[Kingdom of Romania|Romania]]{{Citation needed|date=December 2008}}. Jakob Lohner had begun construction of automobiles in 1896 under [[Ludwig Lohner]] in the trans-[[Danube|Danubian]] suburb of [[Floridsdorf]]. 
+
+Their first design, unveiled in 1898, was the "System Lohner-Porsche", a carriage-like car driven by two [[electric motor]]s, directly fitted within the front wheel hubs, and powered by batteries. This drive train construction was easily expanded to [[four-wheel drive]], by simply mounting two more electric motors to the rear wheels as well, and indeed such a specimen was ordered by the Englishman E. W. Hart in 1900. In December that year, the car was presented at the [[Exposition Universelle (1900)|Paris World Exhibition]] under the name Toujours-Contente. Even though this one-off vehicle [http://www.carkeys.co.uk/features/classichistoric/2938.asp] had been commissioned for the purposes of racing and record-breaking, the 1,800&nbsp;kg of [[lead acid]] batteries it required graphically illustrated the limits of this powertrain concept. Though it "showed wonderful speed when it was allowed to sprint",{{Citation needed|date=October 2007}} the weight of its huge battery pack meant that it was singularly reluctant to climb hills and suffered from limited range due to limited battery life. 
+
+[[Image:Lohner Porsche.jpg|thumb|right|The Lohner-Porsche Mixte Hybrid]]
+Still employed by Lohner, Porsche reached the logical conclusion and in 1901 introduced the '[[Lohner-Porsche Mixte Hybrid|Mixte]]' vehicle/transmission concept: instead of a massive battery-pack, an [[internal combustion engine]] built by the German firm, Daimler, was fitted to a generator to drive the electric [[hub motor]]s and (for vehicle reliability) a small battery pack. This way Porsche had created the first [[petroleum electric hybrid vehicle]] on record, although since sufficiently reliable gears and couplings weren't available at the time, he chose to make it a [[Hybrid vehicle|series-hybrid]], an arrangement currently more common in [[Diesel-electric transmission|diesel-electric]] or [[turbo-electric]] railway locomotives than automobiles.
+
+Though over 300 Lohner-Porsche chassis were sold up to 1906, most of them were two-wheel drive&mdash;either front- or rear-wheel driven trucks, buses and fire-engines. No further four-wheel-drive passenger cars were manufactured, however some buses were fitted with it.
+
+The up to 56&nbsp;km/h (35&nbsp;mph) fast carriages broke several Austrian speed records, and also won the Exelberg Rally in 1901 with Porsche himself piloting a front-wheel drive hybrid specimen. It was later upgraded with more powerful engines from [[Daimler]]{{dn}} and [[Panhard]], which proved to be enough to post more speed records.  In 1905, Porsche was recognized with the ''[[Poetting]] prize'' as Austria's most outstanding automotive engineer.
+
+In 1902, he was drafted into military service. He served as a chauffeur to [[Archduke Franz Ferdinand of Austria]], the crown prince of Austria whose assassination sparked [[World War I]] a mere decade later.
+
+==Austro-Daimler==
+In 1906, [[Austro-Daimler]] recruited Porsche as their chief designer.  Porsche's best known Austro-Daimler car was designed for the [[Prinz-Heinrich-Fahrt|Prince Henry Trial]] in 1910, named after [[William II, German Emperor|Wilhelm II]]'s younger brother [[Prince Heinrich of Prussia]]. Examples of this streamlined, 85 [[horsepower]] (63&nbsp;kW) car won the first three places, and the car is still better known by the nickname "Prince Henry" than by its model name "Modell 27/80".
+
+Porsche had advanced to Managing Director by 1916 and received the honorary [[doctorate]] degree, "Dr. techn h.c." from the [[Vienna University of Technology]] in 1917 (hence the "Dr. Ing h.c" in his name, meaning "''Doktor Ingenieur [[Honoris Causa]]''"). Porsche successfully continued to construct racing cars, winning 43 out of 53 races with his 1922 design. In 1923, Porsche left Austro-Daimler after differences ensued about the future direction of car development.
+
+Only a few months later Porsche landed a new job as [[Daimler Motoren Gesellschaft]]'s Technical Director in [[Stuttgart]], [[Weimar Republic|Weimar Germany]], which was already then a major hub for the German automotive industry. He received another honorary doctorate from the [[University of Stuttgart|Stuttgart Technical University]] for his work at Daimler Motoren Gesellschaft in Stuttgart and later the honorary title Professor. While at Daimler Motoren Gesellschaft, he came up with several very successful race car designs. The heavy series of models equipped with superchargers that later culminated in the [[Mercedes-Benz SSK]] dominated its class of motor racing in the 1920s. 
+
+In 1926, Daimler Motoren Gesellschaft and [[Karl Benz|Benz & Cie]] merged into [[Daimler-Benz]], with their joint products beginning to be called, [[Mercedes-Benz]]. Porsche's concept of a small, light-weight Mercedes-Benz car was not popular with Daimler-Benz's board, however. He left in 1929 for [[Steyr Automobile]], but the [[Great Depression]] brought about Steyr's economic collapse and Porsche ended up being unemployed.
+
+==Founding of Porsche==
+{{Main|Porsche}}
+In April 1931 Porsche founded his consulting firm, ''Dr. req. h.c. F. Porsche GmbH, Konstruktionen und Beratungen für Motoren und Fahrzeugbau'', in Stuttgart, where he returned. With financial backing from [[Adolf Rosenberger]], Porsche successfully recruited several old co-workers he befriended at his former places of employment including [[Karl Rabe]], [[Erwin Komenda]], [[Franz Xaver Reimspiess]], and his son, [[Ferry Porsche]].
+
+Their first project was the design of a middle class car for [[Wanderer (car)|Wanderer]]. Other commissioned designs followed. As the business grew, Porsche decided to work on his own design as well, which happened to be a reincarnation of the small car concept from his days at Daimler-Benz in Stuttgart. He financed the project with a loan on his life insurance. Later [[Zündapp]] decided to help sponsor the project, but lost interest after their success with motorcycles. [[NSU Motorenwerke AG|NSU]] then took over the sponsorship, but also lost interest due to the high tooling costs.
+
+With car commissions low in the depressed economic climate, Porsche founded a subsidiary company ''Hochleistungs Motor GmbH (High Efficiency Engines Ltd.)'' in 1932 to develop a [[racing car]], for which he had no customer. Based on [[Max Wagner (automotive designer)|Max Wagner's]] [[mid-engined]] layout ''[[Karl_Benz#Benz_S.C3.B6hne_.281906_to_1923.29|1923 Benz Tropfenwagen]]'', or "Teardrop" aerodynamic design; the experimental [[P-Wagen project]] racing car (P stood for Porsche), was designed according to the regulations of the 750&nbsp;kg formula. The main regulation of this formula meant that the weight of the car without driver, fuel, oil, water and tire was not allowed to exceed 750&nbsp;kg.
+
+In 1932 [[Auto Union|Auto Union Gmbh]] was formed, comprising struggling auto manufacturers [[Audi]], [[DKW]], [[Horch]] and [[Wanderer]]. The Chairman of the Board of Directors, Baron [[Klaus von Oertzen]] wanted a show piece project, so at fellow director's Adolf Rosenberger insistence, von Oertzen met with Porsche, who had done work for him before. At the 1933 Berlin Motor Show, [[German Chancellor]] [[Adolf Hitler]] announced two new programs:
+*The people's car: Hitler made it his political agenda to motorize the nation, and that every German should own either a car or a [[tractor]] in the future. 
+*A state-sponsored motor racing programme: to develop a "high speed German automotive industry," the foundation of which would be an annual sum of 500,000 [[Reichmark]]s to [[Mercedes-Benz]]
+
+The announcement lead to two projects for Porsche, and set a precedent for the rest of the decade with Porsche accepting further projects from [[Nazi Germany]], latterly including military vehicles from the ''[[Panzer]]'', [[Tiger Tank]] and the [[Elefant]] tank destroyer.
+
+===Volkswagen Beetle===
+{{Main|Volkswagen Beetle}}
+In June 1934, Porsche received a contract from Hitler to build three prototypes from designs Porsche already had, such as Porsche's 1931 Type 12 car. The three cars were completed in winter 1936. However, the original car designs follow from the innovative ideas of [[Hans Ledwinka]], which resulted in a lawsuit by [[Tatra (car)|Tatra]], against Porsche and his collaborators; settled by [[Volkswagen]] only several years after WWII. [[Daimler-Benz]] was contracted to build an additional 30 prototypes. A new city, "Stadt des KdF-Wagens", near [[Fallersleben]] was founded for the factory. The city is named [[Wolfsburg]] today and is still the seat of [[Volkswagen]].
+
+===Auto Union racing car===
+{{Main|Auto Union racing car}}
+German racing driver [[Hans Stuck]] had met Hitler before he became Chancellor, and not being able to gain a seat at Mercedes, accepted the invitation of Rosenberger to join him, von Oertzen and Porsche in approaching the Chancellor. In a meeting in the [[Reich Chancellery]], Hitler agreed with Porsche that for the glory of Germany, it would be better for two companies to develop the project, resulting in Hitler agreeing to split the money between Mercedes and Auto Union with 250,000 ''[[Reichsmark]]'' to each company. This highly annoyed Mercedes, who had already developed their [[Mercedes-Benz W125]], and resulted in a heated exchange both on and off the racing track between the two companies for the period until World War Two.
+
+Having garnered state funds, Auto Union bought ''Hochleistungs Motor GmbH'' and hence the P-Wagen Project for 75,000 ''Reichsmark'', relocating the company to [[Chemnitz]]. As Porsche became more involved with the construction of the Wolfsburg factory, he handed over his racing projects to his son, Ferry. The dominance of the ''[[Silver Arrows]]'' of both brands was only stopped by the outbreak of [[World War II]] in 1939.
+
+==Post war==
+In November 1945 after the war, Porsche was asked to continue the design of the Volkswagen in [[France]] and to move the factory equipment there as part of [[war reparations]]. Differences within the French government and objections from the French automotive industry put a halt to this project before it had even begun. On 15 December 1945, French authorities arrested Porsche, [[Anton Piëch]], and [[Ferry Porsche]] as [[war criminal]]s. While Ferry was set free soon, Ferdinand and Anton were held in a [[Dijon]] prison for 20 months without trial. 
+
+While his father was in captivity, Ferry tried to keep the company in business, and they also repaired cars, water pumps, and [[winch]]es. A contract with [[Piero Dusio]] was completed for a [[Grand Prix motor racing]] car, the ''[[Porsche 360|Type 360]] [[Cisitalia]]''. The innovative 4WD design never went into races, but the money it raised for Porsche was used to redeem Ferdinand Porsche from French prison. 
+
+The company also started work on a new design, the [[Porsche 356]], the first car to carry the Porsche brand. The company was located in [[Gmünd]] in [[Carinthia (state)|Carinthia]] at the time, to which they had evacuated from Stuttgart to avoid Allied bomb raids. The company started manufacturing the Porsche 356 in an old saw mill in Gmünd. They manufactured 49 cars, which were built entirely by manual labor.
+
+The Porsche family returned to Stuttgart in 1949 not knowing how to restart their business. The banks would not give them credit, as the company's plant was still under American embargo and could not serve as collateral. So Ferry Porsche took one of the limited series 356 models from Gmünd and visited Volkswagen dealers to raise some orders. He asked the dealers to pay for the ordered cars in advance.<ref>[http://auto.howstuffworks.com/porsche-356-history3.htm Howstuffworks "Porsche Takes Root"<!-- Bot generated title -->]</ref> He even wrote a letter to the bank's director to thank him for refusing. {{Citation needed|date=September 2007}}
+
+The serial version made in Stuttgart had a [[steel]] body welded to the central-tube platform chassis instead of the [[aluminum]] body used in the small Gmünd-made series. When Ferry Porsche resurrected the company he counted on series production figures of about 1,500. More than 78,000 Porsche 356's were manufactured in the following 17 years.
+
+Porsche was later contracted by Volkswagen for additional consulting work and received a [[royalties|royalty]] on every Volkswagen Type I (Beetle) car manufactured. This provided Porsche with a comfortable financial situation as more than 20 million Type I were built.
+
+In November 1950, Porsche visited the Wolfsburg Volkswagen factory for the first time since the end of [[World War II]]. Porsche spent his visit chatting with Volkswagen president [[Heinrich Nordhoff]] about the future of [[VW Beetle]], which were already being produced in large numbers. 
+
+A few weeks later, Porsche suffered a [[stroke]]. He did not fully recover, and died on January 30, 1951.
+
+In 1996, Porsche was inducted into the [[International Motorsports Hall of Fame]] and in 1999 posthumously won the award of [[Car Engineer of the Century]].
+
+==References==
+{{Reflist}}
+{{Commons category|Ferdinand Porsche}}
+
+== External links ==
+* [http://mysite.wanadoo-members.co.uk/tramways/Articles/Cedes.htm West Ham's Cedes Stoll Trolleybus] Porsche design
+* [http://www.porscheee.com Porsche facts website] 
+* [http://www.autohistory.org/feature_6.html Website of the Society of Automotive Historians about him]
+
+{{Porsche}}
+{{Silver Arrows}}
+
+{{DEFAULTSORT:Porsche, Ferdinand}}
+[[Category:People from Liberec District]]
+[[Category:Austrian engineers]]
+[[Category:Sudeten Germans]]
+[[Category:Automotive pioneers]]
+[[Category:German founders of automobile manufacturers]]
+[[Category:German inventors]]
+[[Category:International Motorsports Hall of Fame]]
+[[Category:German automobile designers]]
+[[Category:Austrians of Bohemian German descent]]
+[[Category:Germans of Bohemian German descent]]
+[[Category:Porsche family|Ferdinand]]
+[[Category:1875 births]]
+[[Category:1951 deaths]]
+
+[[ar:فارديناند بورشيه]]
+[[bg:Фердинанд Порше]]
+[[cs:Ferdinand Porsche]]
+[[da:Ferdinand Porsche]]
+[[de:Ferdinand Porsche]]
+[[el:Φέρντιναντ Πόρσε]]
+[[es:Ferdinand Porsche]]
+[[eo:Ferdinand Porsche]]
+[[fa:فردیناند پورشه]]
+[[fr:Ferdinand Porsche]]
+[[ko:페르디난트 포르셰]]
+[[hr:Ferdinand Porsche]]
+[[io:Ferdinand Porsche]]
+[[is:Ferdinand Porsche]]
+[[it:Ferdinand Porsche]]
+[[he:פרדיננד פורשה]]
+[[lv:Ferdinands Porše]]
+[[lt:Ferdinandas Porsche]]
+[[hu:Ferdinand Porsche]]
+[[nl:Ferdinand Porsche]]
+[[ja:フェルディナント・ポルシェ]]
+[[no:Ferdinand Porsche]]
+[[pl:Ferdinand Porsche]]
+[[pt:Ferdinand Porsche]]
+[[ro:Ferdinand Porsche]]
+[[ru:Порше, Фердинанд]]
+[[sk:Ferdinand Porsche]]
+[[sl:Ferdinand Porsche]]
+[[sr:Фердинанд Порше]]
+[[fi:Ferdinand Porsche]]
+[[sv:Ferdinand Porsche]]
+[[tr:Ferdinand Porsche]]
+[[uk:Порше Фердинанд]]
+[[zh:斐迪南·保時捷]]

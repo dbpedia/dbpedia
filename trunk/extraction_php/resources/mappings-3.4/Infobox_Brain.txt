@@ -1,0 +1,18 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Brain
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = IsPartOf | ontologyProperty = Brain/isPartOf }}
+	{{ DBpediaPropertyMapping | templateProperty = Components | ontologyProperty = Brain/component }}
+	{{ DBpediaPropertyMapping | templateProperty = BrainInfoType | ontologyProperty = Brain/brainInfoType }}
+	{{ DBpediaPropertyMapping | templateProperty = BrainInfoNumber | ontologyProperty = Brain/brainInfoNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Latin | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = GraySubject | ontologyProperty = AnatomicalStructure/graySubject }}
+	{{ DBpediaPropertyMapping | templateProperty = GrayPage | ontologyProperty = AnatomicalStructure/grayPage }}
+	{{ DBpediaPropertyMapping | templateProperty = Artery | ontologyProperty = AnatomicalStructure/artery }}
+	{{ DBpediaPropertyMapping | templateProperty = Vein | ontologyProperty = AnatomicalStructure/vein }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshName | ontologyProperty = AnatomicalStructure/meshName }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshNumber | ontologyProperty = AnatomicalStructure/meshNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsPre | ontologyProperty = AnatomicalStructure/dorlandsPrefix }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsSuf | ontologyProperty = AnatomicalStructure/dorlandsSuffix }}
+}}

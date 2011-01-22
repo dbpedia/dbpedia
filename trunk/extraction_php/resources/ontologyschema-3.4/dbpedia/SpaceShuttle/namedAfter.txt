@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = named after
+|rdfs:domain = SpaceShuttle
+|rdfs:range = owl:Thing
+}}

@@ -1,0 +1,36 @@
+{{TemplateMapping
+| mapToClass = LaunchPad
+| mappings = 
+	{{PropertyMapping | templateProperty = site | ontologyProperty = launchSite }}
+	{{PropertyMapping | templateProperty = operator | ontologyProperty = operator }}
+	{{PropertyMapping | templateProperty = tlaunches | ontologyProperty = totalLaunches }}
+	{{PropertyMapping | templateProperty = pads | ontologyProperty = numberOfPads }}
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = launches | ontologyProperty = launches }}
+	{{PropertyMapping | templateProperty = rockets | ontologyProperty = associatedRocket }}
+	{{PropertyMapping | templateProperty = status2 | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = launches2 | ontologyProperty = launches }}
+	{{PropertyMapping | templateProperty = rockets2 | ontologyProperty = associatedRocket }}
+	{{PropertyMapping | templateProperty = status3 | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = launches3 | ontologyProperty = launches }}
+	{{PropertyMapping | templateProperty = rockets3 | ontologyProperty = associatedRocket }}
+	{{PropertyMapping | templateProperty = minimumInclination | ontologyProperty = minimumInclination }}
+	{{PropertyMapping | templateProperty = maximumInclination | ontologyProperty = maximumInclination }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = short | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = pad1 | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = first | ontologyProperty = firstLaunchRocket }}
+	{{PropertyMapping | templateProperty = first | ontologyProperty = firstLaunchDate }}
+	{{PropertyMapping | templateProperty = last | ontologyProperty = lastLaunchRocket }}
+	{{PropertyMapping | templateProperty = last | ontologyProperty = lastLaunchDate }}
+	{{PropertyMapping | templateProperty = pad2 | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = first2 | ontologyProperty = firstLaunchRocket }}
+	{{PropertyMapping | templateProperty = first2 | ontologyProperty = firstLaunchDate }}
+	{{PropertyMapping | templateProperty = last2 | ontologyProperty = lastLaunchRocket }}
+	{{PropertyMapping | templateProperty = last2 | ontologyProperty = lastLaunchDate }}
+	{{PropertyMapping | templateProperty = pad3 | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = first3 | ontologyProperty = firstLaunchRocket }}
+	{{PropertyMapping | templateProperty = first3 | ontologyProperty = firstLaunchDate }}
+	{{PropertyMapping | templateProperty = last3 | ontologyProperty = lastLaunchRocket }}
+	{{PropertyMapping | templateProperty = last3 | ontologyProperty = lastLaunchDate }}
+}}

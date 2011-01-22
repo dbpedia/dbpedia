@@ -1,0 +1,8 @@
+{{TemplateMapping
+| mapToClass = PokerPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = hometown | ontologyProperty = hometown }}
+	{{PropertyMapping | templateProperty = firstname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = lastname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+}}

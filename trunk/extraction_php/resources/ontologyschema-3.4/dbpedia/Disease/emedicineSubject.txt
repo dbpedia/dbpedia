@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = eMedicine subject
+|rdfs:domain = Disease
+|rdfs:range = xsd:string
+}}

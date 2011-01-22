@@ -1,0 +1,27 @@
+# Example configuration which loads some static RDF files
+# (my personal FOAF file) and re-publishes them. 
+# Assumes Pubby is running at http://localhost:8080/
+
+@prefix conf: <http://richard.cyganiak.de/2007/pubby/config.rdf#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<> a conf:Configuration;
+    conf:projectName "Richard Cyganiak's Homepage";
+    conf:projectHomepage <http://richard.cyganiak.de/>;
+    conf:webBase <http://localhost:8080/>;
+
+	conf:dataset [
+	    conf:datasetBase <http://richard.cyganiak.de/>;
+	    conf:addSameAsStatements "true";
+	    
+	    conf:loadRDF <http://richard.cyganiak.de/foaf.rdf>;
+	    conf:loadRDF <http://richard.cyganiak.de/cygri.rdf>;
+	];
+	
+    conf:usePrefixesFrom <http://richard.cyganiak.de/foaf.rdf>;
+    conf:usePrefixesFrom <http://richard.cyganiak.de/cygri.rdf>;
+    conf:labelProperty rdfs:label, dc:title, foaf:name;
+    conf:indexResource <http://richard.cyganiak.de/foaf.rdf#cygri>;
+    .

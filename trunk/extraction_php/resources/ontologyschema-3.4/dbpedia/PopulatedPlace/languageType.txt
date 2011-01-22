@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = language type
+|rdfs:domain = PopulatedPlace
+|rdfs:range = owl:Thing
+}}

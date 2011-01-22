@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = mouth region
+| rdfs:range = PopulatedPlace
+}}

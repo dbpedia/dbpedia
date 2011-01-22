@@ -1,0 +1,279 @@
+{{Refimprove|date=August 2008}}
+
+<!-- specifications are for the "first" Volkswagen engine, not the 985cc KdF engine -->
+{{Infobox Automobile engine
+| image         = [[Image:Volkswagen motor cut 1945.JPG|250px]]
+| name          = E-motor
+| aka           =
+| manufacturer  = [[Volkswagen]]
+| type          = [[Flat-4]]
+| bore          = 75 mm
+| stroke        = 64 mm
+| displacement  = {{convert|1131|cc|L cuin||abbr=on}}
+| length        =
+| diameter      =
+| width         =
+| height        =
+| weight        =
+| block         =
+| head          = [[Aluminum]]
+| valvetrain    = [[Overhead valve|OHV]]
+| supercharger  =
+| turbocharger  =
+| fuelsystem    = [[Naturally-aspirated engine|Normally aspirated]]
+| fueltype      = [[Petrol]]
+| oilsystem     =
+| coolingsystem = [[Air-cooled engine|Air-cooled]]
+| power         = {{Convert|25|PS|kW|0|abbr=on}} @ 3300 [[Revolutions per minute|RPM]]
+| specpower     = 17 [[kilowatt|kW]]/[[Litre|L]]
+| torque        = {{convert|68|Nm|lbft||abbr=on}} @ 2000 [[Revolutions per minute|RPM]]
+| compression   = 5.8:1
+| fuelcon       =
+| specfuelcon   =
+| oilcon        =
+| power/weight  =
+}}
+The '''Volkswagen air cooled engine''' is one of the most widely used and versatile [[internal combustion engine]]s in the world.  Variations of this engine were produced by [[Volkswagen]] plants around the world from 1936 until 2006.
+
+==Development==
+Cast iron cylinders, forged crankshaft and connecting rods, and cast aluminum heads and pistons were hallmarks of the design.
+
+===Type 1===
+{{Infobox Automobile engine generation
+| image         =
+| name          = Type 1
+| aka           =
+| type          = [[Flat-4]]
+| production    =
+| predecessor   =
+| successor     = Type 4
+| bore          =
+| stroke        =
+| displacement  =
+| length        =
+| diameter      =
+| width         =
+| height        =
+| weight        =
+| block         = [[Aluminum]] / [[Magnesium]]
+| head          =
+| valvetrain    = Pushrod OHV
+| supercharger  =
+| turbocharger  =
+| fuelsystem    = Carburetor
+| fueltype      =
+| oilsystem     =
+| coolingsystem =
+| power         =
+| specpower     =
+| torque        =
+| compression   =
+| fuelcon       =
+| specfuelcon   =
+| oilcon        =
+| similar       =
+}}
+
+Like the Beetle, the first Transporters (bus) used the Volkswagen air cooled engine, a 1.1&nbsp;L, {{convert|25|PS|kW hp|0|abbr=on}}, air-cooled four-cylinder [[boxer engine]] mounted in the rear.  The {{convert|29|PS|kW hp|0|abbr=on}} version became standard in 1955 while an unusual early version of the {{convert|33|PS|kW hp|0|abbr=on}} engine debuted exclusively on the Type 2 in 1959.  This engine proved to be so uncharacteristically troublesome that Volkswagen recalled all 1959 Transporters and replaced the engines with an updated version.  Any examples that retain that early engine today are true survivors - since the 1959 engine was totally discontinued at the outset, no parts were ever made available.
+
+This second-generation Type 2 lost its distinctive split front window and was slightly larger and considerably heavier than its predecessor.  Its common nicknames are Breadloaf and Bay-window, or Loaf and Bay for short. At 1.6&nbsp;L and {{convert|48|PS|kW hp|0|abbr=on}}, the engine was also slightly larger.
+
+The T2b was introduced by way of gradual change over three years.  The 1971 Type 2 featured a new, 1.6&nbsp;L engine with dual intake ports on each cylinder head and was rated at {{convert|50|PS|kW hp|0|abbr=on}}.  An important change came with the introduction of front disc brakes and new wheels with brake ventilation holes and flatter hubcaps.
+
+The Type 3 (sedan, notchback, fastback) was initially equipped with a 1.5&nbsp;L (1493&nbsp;cc) engine based on the air-cooled [[flat-4]] found in the Type 1.  While the [[long block]] remained the same as the Type 1, the engine cooling was drastically changed to allow for a much lower engine profile.  This resulted in increased area for cargo stowage with the so-called "Pancake" or "Suitcase" engine. This engine's displacement would later increase to 1600&nbsp;cc.
+
+Originally a single- or dual-carburetted 1.5&nbsp;L engine, (1500N, {{convert|45|PS|kW hp|0|abbr=on}} or 1500S, {{convert|54|PS|kW hp|0|abbr=on}}) the Type 3 engine received a larger displacement (1.6&nbsp;L) and modified in 1968 to include [[Robert Bosch GmbH|Bosch]] [[Jetronic|D-Jetronic]] electronic fuel injection as an option, making it one of the first mass production consumer cars with such a feature (the first was the [[Volkswagen Type 4|Type 4 VW 411]]).
+
+====1100====
+* 1945 - 1953 [[Volkswagen Beetle]]
+* 1950 - 1953 [[Volkswagen Type 2]]
+
+====1200====
+{{Infobox Automobile engine generation
+| image         =
+| name          = 1200
+| aka           =40 horse
+| type          =
+| production    = 1953 - 1965
+| predecessor   = 1100
+| successor     = 1300
+| bore          = {{convert|77|mm|in|4|abbr=on}}
+| stroke        = {{convert|64|mm|in|4|abbr=on}}
+| displacement  = {{convert|1192|cc|L cuin||abbr=on}}
+| length        =
+| diameter      =
+| width         =
+| height        =
+| weight        =
+| block         =
+| head          =
+| valvetrain    =
+| supercharger  =
+| turbocharger  =
+| fuelsystem    =
+| fueltype      =
+| oilsystem     =
+| coolingsystem =
+| power         = {{Convert|30|PS|kW|0|abbr=on}} - {{Convert|34|PS|kW|0|abbr=on}}
+| specpower     =
+| torque        =
+| compression   = 6.1:1 - 7.0:1
+| fuelcon       =
+| specfuelcon   =
+| oilcon        =
+| similar       =
+}}
+The 40hp 1200cc can be modified by the addition of a big bore kit, which allows bigger cylinders and pistons from the stock 77mm to 83mm while keeping the stock crankshaft, cam, head, etc and providing to a 25% power output increase.{{Citation needed|date=October 2009}}
+
+====1300====
+Europe 1966-1995 dual port version of 1300cc 1966 only
+
+====1500====
+1967 - 1971
+
+====1600====
+1972 on
+
+=====Single Port=====
+In the US, the 1600 single port was used on the following models:
+* 1966 - 1970 [[Volkswagen Type 3|Type 3]]
+* 1968 - 1970 [[Volkswagen Type 2|Type 2]]
+* 1970 [[Volkswagen Beetle|Beetle]]
+* 1970 [[Volkswagen Karmann Ghia|Karmann Ghia]]
+
+=====Dual Port=====
+In the US, the 1600 dual port was used on the following models:
+* 1971 [[Volkswagen Type 2|Type 2]]
+* 1971 - 1979 [[Volkswagen Beetle|Beetle]]
+* 1971 - 1974 [[Volkswagen Karmann Ghia|Karmann Ghia]]
+
+===Type 4===
+{{Infobox Automobile engine generation
+| image         =
+| name          = Type 4
+| aka           =
+| type          = [[flat-4]]
+| production    = 1968 - 1983
+| predecessor   = Type 1
+| successor     = [[Wasserboxer]]
+| bore          =
+| stroke        =
+| displacement  =
+| length        =
+| diameter      =
+| width         =
+| height        =
+| weight        =
+| block         =
+| head          =
+| valvetrain    =
+| supercharger  =
+| turbocharger  =
+| fuelsystem    =
+| fueltype      =
+| oilsystem     =
+| coolingsystem =
+| power         =
+| specpower     =
+| torque        =
+| compression   =
+| fuelcon       =
+| specfuelcon   =
+| oilcon        =
+| similar       =
+}}
+
+In 1968, Volkswagen introduced a new vehicle, the [[Volkswagen Type 4|Type 4]].  The model 411, and later the model 412, offered many new features to the Volkswagen lineup.
+
+While the Type 4 was discontinued in 1974 when sales dropped, its engine became the power plant for [[Volkswagen Type 2]]s ("Kombis") produced from 1972 to 1979: it continued in modified form in the later "Vanagon" which was air-cooled from 1980 until mid-1983.  The engine that superseded the Type 4 engine in late 1983 retained Volkswagen Type 1 architecture, yet featured water-cooled cylinder heads and cylinder jackets. The [[Wasserboxer]], VW speak for a water-cooled, opposed-cylinder (flat or [[boxer engine]]), did not enjoy the reputation for longevity that the original air-cooled design had forged.  From the very start, the engine suffered cylinder-to-head sealing problems, mostly due to [[galvanic corrosion]], often a result of slack maintenance schedules.  Volkswagen discontinued the engine in 1992, upon the introduction of the Eurovan.
+
+The Type 4 engine was also used on the Volkswagen version of the [[Porsche 914]]. Volkswagen versions originally came with an 80 hp fuel-injected 1.7&nbsp;L flat-4 engine based on the Volkswagen air cooled engine.  In Europe, the four-cylinder cars were sold as Volkswagen-Porsches, at VW dealerships.  This "tainted" the car in the opinion of many automotive critics of that era, and a little of that attitude persists to this day.
+
+Slow sales and rising costs prompted Porsche to discontinue the 914/6 variant in 1972 after producing 3,351 of them; its place in the lineup was filled by a variant powered by a new {{convert|95|PS|kW hp|0|abbr=on}} 2.0&nbsp;L, fuel-injected version of Volkswagen's Type 4 engine in 1973.  For 1974, the 1.7 L engine was replaced by a {{convert|76|PS|kW hp|0|abbr=on}} 1.8&nbsp;L, and the new Bosch L-Jetronic fuel injection system was added to American units to help with emissions control. 914 production ended in 1976.  The 2.0&nbsp;L engine continued to be used in the [[Porsche 912|Porsche 912E]], which provided an entry-level model until the [[Porsche 924]] was introduced.
+
+For the [[Volkswagen Type 2]], 1972's most prominent change was a bigger engine compartment to fit the larger 1.7 to 2.0&nbsp;L engines from the VW Type 4, and a redesigned rear end which eliminated the removable rear apron.  The air inlets were also enlarged to accommodate the increased cooling air needs of the larger engines.
+
+This all-new, larger engine is commonly called the Type 4 engine as opposed to the previous Type 1 engine first introduced in the Type 1 Beetle.  This engine was called "Type 4" because it was originally designed for the Type 4 (411 and 412) automobiles.  There is no "Type 2 engine" or "Type 3 engine", because those vehicles did not feature new engine designs when introduced.  They used the "Type 1" engine from the Beetle with minor modifications such as rear mount provisions and different cooling shroud arrangements.
+
+In the Type 2, the VW Type 4 engine was an option from 1972.  This engine was standard in models destined for the US and Canada.  Only with the Type 4 engine did an automatic transmission become available for the first time in 1973.  Both engines displaced 1.7&nbsp;L, rated at {{convert|66|PS|kW hp|0|abbr=on}} with the manual transmission and {{convert|62|PS|kW hp|0|abbr=on}} with the automatic. The Type 4 engine was enlarged to 1.8&nbsp;L and {{convert|68|PS|kW hp|0|abbr=on}} in 1974 and again to 2.0&nbsp;L and {{convert|70|PS|kW hp|0|abbr=on}} in 1976.  As with all Transporter engines, the focus in development was not on power, but on low-end torque.  The Type 4 engines were considerably more robust and durable than the Type 1 engines, particularly in transporter service.
+
+The T2c, so called since it got a slightly raised roof — by about 10&nbsp;cm — in the early 1990s, was built for the South American and Central American markets.  The T2c was produced in Mexico until 1991* with the 1.6&nbsp;L air-cooled Type 1 engine, and from 1991 until 1996 with water-cooled engines from the VW Golf (a VW/Audi 1.4&nbsp;L).  Since 1997, the T2c has been built in Brazil with air-cooled engines for the Brazilian market and with water-cooled engines for the Mexican market, the latter easily identified by their large, black-coloured, front-mounted radiators.
+
+Since production of the original Beetle was halted in late 2003, the T2 remained the only Volkswagen model with the traditional air-cooled, rear-mounted boxer engine when the Brazilian model shifted to water-cooled on December 23, 2005. Previously, the watercooled T2c was sold in Mexico between 1991-2002.
+
+====1.7 L====
+{{Infobox Automobile engine generation
+| image         =
+| name          = 1700
+| aka           =
+| type          =
+| production    =
+| predecessor   =
+| successor     =
+| bore          =
+| stroke        =
+| displacement  = {{convert|1679|cc|L cuin||abbr=on}}
+| length        =
+| diameter      =
+| width         =
+| height        =
+| weight        =
+| block         =
+| head          =
+| valvetrain    =
+| supercharger  =
+| turbocharger  =
+| fuelsystem    =
+| fueltype      =
+| oilsystem     =
+| coolingsystem =
+| power         = {{Convert|76|PS|kW|0|abbr=on}} @ 5000 [[Revolutions per minute|RPM]]
+| specpower     =
+| torque        = {{convert|127|Nm|lbft||abbr=on}} @ 3500 [[Revolutions per minute|RPM]]
+| compression   = 7.8:1
+| fuelcon       =
+| specfuelcon   =
+| oilcon        =
+| similar       =
+}}
+
+==Usage==
+The aircooled 4-cylinder opposed cylinder Beetle engines have been used for other purposes as well.  Especially interesting is its use as an experimental aircraft engine.  This type of Beetle engine deployment started in the sixties.  A number of companies still produce aero engines that are VW Beetle engine derivatives:  Limbach, Hapi, Revmaster and others.  Kitplanes or plans built experimental aircraft were specifically designed to utilize these engines.
+
+During the 1970s, in Brazil, Volkswagen made available the 1700&nbsp;cc engine for its regular production car SP-2. The 1700&nbsp;cc engine was identical to the 1600&nbsp;cc version, but with enlarged cylinder bores.
+
+Up until 2001, Beetle engines were also used to run several of the ski lifts at the [[Thredbo]] ski resort in NSW, Australia, and were maintained to a high standard by expert VW mechanics.
+
+Also in Australia, in remote opal-mining communities VW motors were modified to air compressors for jack hammers etc.  They used 2 cylinders on one side as a motor and modified the head on the other side to produce a flow of compressed air.  The opal fields are very dry and hot, so an air-cooled compressor has an advantage over liquid cooled.
+
+===Aircraft===
+[[Image:Volkswagen engine Volksplane.JPG|thumb|right|a Volkswagen engine installed in an [[Evans VP-1 Volksplane]]]]
+
+* [[Aerosport Quail]]
+* [[Druine Turbulent]]
+* [[Evans VP-1 Volksplane]]
+* [[Fisher Youngster]]
+* [[Mini-MAX|JDT V-MAX]]
+* [[Monnett Sonerai]]
+* [[Thatcher CX4]]
+
+===Industrial===
+
+In 1967-68, portable sawmill maker, Mighty Mite of Portland, Oregon, used VW gasoline engines to power the circular saw blades of light sawmills. Later as the US market for VW Beetles declined, the sawmill was modified for other power{{Fact|date=May 2009}}.
+
+Beginning in 1987 [[Dunn-Right Incorporated]] of Anderson, South Carolina has used a VW engine as a gasoline-powered air compressor combination. Two cylinders are used as the drive engine while the other two cylinders are modified to produce a flow of compressed air.  A kit to perform the conversion is available.<ref name="Dunn"> {{cite web|url = http://www.dunnrightinc.com/|title = Dunn-Right Incorporated|accessdate = 2009-04-20|last = Dunn-Right Incorporated|authorlink = |year = undated}}</ref>
+
+==References==
+{{reflist}}
+* [[Aeroengine Conversions]] from [http://en.wiki.org/Wiki]
+* [http://beetle.cabriolets.online.fr/tech/evolution.html]
+
+{{Volkswagen Group brands}}
+{{VW}}
+{{Volkswagen Commercial Vehicles}}
+
+[[Category:Volkswagen engines|Air cooled]]
+[[Category:Aircraft piston engines]]
+[[Category:Boxer engines]]
+
+[[de:Boxermotor#Verwendung von Boxermotoren bei Volkswagen]]

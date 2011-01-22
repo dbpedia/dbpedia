@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = area
+|rdfs:domain = RadioStation
+|rdfs:range = PopulatedPlace
+}}

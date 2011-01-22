@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = relative
+| rdfs:domain = Person
+| rdfs:range = Person
+}}

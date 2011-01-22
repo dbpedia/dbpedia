@@ -1,0 +1,14 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Hospital
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Region | ontologyProperty = Hospital/region }}
+	{{ DBpediaPropertyMapping | templateProperty = State | ontologyProperty = Hospital/state }}
+	{{ DBpediaPropertyMapping | templateProperty = Country | ontologyProperty = Hospital/country }}
+	{{ DBpediaPropertyMapping | templateProperty = Beds | ontologyProperty = Hospital/bedCount }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Location | ontologyProperty = Place/location }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = Coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = Affiliation | ontologyProperty = Organisation/affiliation }}
+	{{ DBpediaPropertyMapping | templateProperty = Closed | ontologyProperty = Building/closingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Website | ontologyProperty = foaf:homepage }}
+}}

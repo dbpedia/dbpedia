@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = mouth state
+| rdfs:domain = River
+| rdfs:range = PopulatedPlace
+}}

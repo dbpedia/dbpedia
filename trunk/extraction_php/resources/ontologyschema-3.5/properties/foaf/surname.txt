@@ -1,0 +1,5 @@
+{{DatatypeProperty
+|rdfs:label		= surname
+|rdfs:domain	= owl:Thing
+|rdfs:range		= xsd:string
+}}

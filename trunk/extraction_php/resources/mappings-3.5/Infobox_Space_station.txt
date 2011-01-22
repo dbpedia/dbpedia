@@ -1,0 +1,13 @@
+{{TemplateMapping
+| mapToClass = SpaceStation
+| mappings = 
+	{{PropertyMapping | templateProperty = NSSDC_ID | ontologyProperty = nssdcId }}
+	{{PropertyMapping | templateProperty = sign | ontologyProperty = callSign }}
+	{{PropertyMapping | templateProperty = mass | ontologyProperty = mass | unit = Mass }}
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length }}
+	{{PropertyMapping | templateProperty = width | ontologyProperty = width | unit = Length }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = diameter | ontologyProperty = diameter | unit = kilometre }}
+	{{PropertyMapping | templateProperty = volume | ontologyProperty = volume | unit = cubicMetre }}
+	{{PropertyMapping | templateProperty = station | ontologyProperty = foaf:name }}
+}}

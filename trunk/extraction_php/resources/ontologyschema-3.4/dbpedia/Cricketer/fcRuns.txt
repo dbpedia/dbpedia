@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = FC runs
+|rdfs:domain = Cricketer
+|rdfs:range = xsd:integer
+}}

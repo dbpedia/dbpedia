@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = border
+|rdfs:domain = Island
+|rdfs:range = PopulatedPlace
+}}

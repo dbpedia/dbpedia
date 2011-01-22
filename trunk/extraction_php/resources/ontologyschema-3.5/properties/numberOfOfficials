@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = number of officials
+| rdfs:domain = OlympicResult
+| rdfs:range = xsd:integer
+}}

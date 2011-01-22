@@ -1,0 +1,43 @@
+{{ DBpediaTemplateMapping
+| mapToClass = RugbyPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = school | ontologyProperty = RugbyPlayer/school }}
+	{{ DBpediaPropertyMapping | templateProperty = university | ontologyProperty = RugbyPlayer/university }}
+	{{ DBpediaPropertyMapping | templateProperty = playername | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = dateofbirth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = countryofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = dateofdeath | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = countryofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = height(ft) | ontologyProperty = Person/height | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = height(in) | ontologyProperty = Person/height | unit = inch }}
+	{{ DBpediaPropertyMapping | templateProperty = height(m) | ontologyProperty = Person/height | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = weight(kg) | ontologyProperty = Person/weight | unit = kilogram }}
+	{{ DBpediaPropertyMapping | templateProperty = weight(lb) | ontologyProperty = Person/weight | unit = pound }}
+	{{ DBpediaPropertyMapping | templateProperty = weight(st) | ontologyProperty = Person/weight | unit = stone }}
+	{{ DBpediaPropertyMapping | templateProperty = position | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = club1 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club2 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club3 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club4 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club5 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club6 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club7 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club8 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club9 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = club10 | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = coachyear1start | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = coachyear1end | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birthname | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Person/weight | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = relatives | ontologyProperty = Person/relative }}
+	{{ DBpediaPropertyMapping | templateProperty = url | ontologyProperty = foaf:homepage }}
+}}

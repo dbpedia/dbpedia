@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = date extended
+|rdfs:domain = Canal
+|rdfs:range = xsd:date
+}}

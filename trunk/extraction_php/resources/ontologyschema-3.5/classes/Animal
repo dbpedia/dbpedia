@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Animal
+| rdfs:subClassOf = Eukaryote
+}}

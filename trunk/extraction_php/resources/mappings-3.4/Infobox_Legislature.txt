@@ -1,0 +1,11 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Legislature
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = houses | ontologyProperty = Legislature/house }}
+	{{ DBpediaPropertyMapping | templateProperty = leader1 | ontologyProperty = Legislature/leader }}
+	{{ DBpediaPropertyMapping | templateProperty = members | ontologyProperty = Legislature/numberOfMembers }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = meeting_place | ontologyProperty = Legislature/meetingBuilding }}
+	{{ DBpediaPropertyMapping | templateProperty = meeting_place | ontologyProperty = Legislature/meetingCity }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

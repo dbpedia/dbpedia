@@ -1,0 +1,56 @@
+{{Infobox Automobile
+| image = [[Image:BMW321.jpg|250px]]
+| name = BMW 321
+| manufacturer = [[BMW|Bayerische Motoren Werke AG (BMW)]]<br> Sowjetische AG Maschinenbau Awtowelo
+| production = 1938  – 1941, 7,851 built<br>1945 - 1950, 8,996 built 
+| predecessor = [[BMW 320]]
+| successor = [[BMW New Class]]
+| body_style = 2-door [[sedan (car)|saloon]]<br>2-door [[Cabriolet (automobile)|cabriolet]]
+| engine = {{convert|1971|cc|CID|1|abbr=on}} [[Overhead valve|OHV]] [[straight-6]]
+| layout= [[Automobile layout#Rear wheel drive layouts|FR layout]]
+| transmission = 4 speed manual<ref name="conceptcarz.com">{{Cite web|url=http://www.conceptcarz.com/vehicle/z5931/BMW_326.aspx|title=1936 BMW 326|accessdate=2008-02-10|work=conceptcarz.com}}</ref> 
+| length = {{convert|4500|mm|in||abbr=on}} 
+| width = {{convert|1540|mm|in||abbr=on}} 
+| height = {{convert|1580|mm|in||abbr=on}} 
+| weight = {{convert|1000|kg|lb||abbr=on}} <br>(measurements approximate)
+| wheelbase =  {{convert|1750|mm|in||abbr=on}} 
+| track = 
+|fuel_capacity= 
+| related = [[BMW 326]]<br>[[BMW 340]]
+| similar = 
+| designer = 
+}}
+The '''BMW 321''' is a compact six cylinder sedan sedan produced by [[BMW|the Bavarian firm]] between 1938 and 1941. After 1945, production resumed at the [[Automobilwerk Eisenach|Eisenach]] plant: 321s were built again between approximately 1945 and 1950, probably in greater numbers than before the war.
+
+==The launch==
+The 321 was introduced during the second half of 1938 as a successor to the BMW 320. It sat on a shortened version of the [[BMW 326]] chassis. The 321 was similar to the 320, though it featured a few changes including a modified from bumper / fender. The new model also incorporated suspension changes.
+
+==Body options==
+The car was available both as a two door sedan and as a two door cabriolet. In addition, BMW offered a chassis only option suitable for a coach built body.
+
+==Engine and transmission==
+The 1971 cc [[I-6|straight 6]] engine, fed by twin [[Solex]] [[carburettors]] came from the BMW 326. In this application, however, an output of only {{convert|45|bhp|abbr=on}} was claimed, giving a maximum speed of 115 km/h (71 mph). The fours speed manual gear box was also the one already seen on the 326.
+
+==Commercial==
+Two years after the introduction of the 321, in 1941, automobile production at the Eisenach plant was suspended in favour of war production. By then, it appears, 7,851 had been built.
+
+==Second life==
+In 1945, Eisenach was liberated from German control by American forces, but by then it had already been [[Potsdam Agreement|agreed]] between the allies that the whole of [[Thuringen]] would fall within the [[Soviet occupation zone]]: transfer of the region to the Soviets took place in July 1945. It seemed likely that BMW’s manufacturing facility would be crated up and taken by rail to the [[Soviet Union]] as part of the substantial post war reparations package. In the meantime, surviving workers returning from the war recommenced automobile production, on a very small scale, using prewar designs. Albert Seidler, the man in charge of Eisenach motor bike production, demonstrated the 321 to [[Georgy Zhukov|Marshall Zhukov]] and secured from him an order for five new cars. The Russians were evidently impressed, and the plant passed under the control of “Sowjetische AG Maschinenbau Awtowelo”, a Soviet directed holding company focused on vehicle production. A further 8,996 BMW 321s are thought to have been built between 1945 and 1950. Most appear to have remained to the east of the [[iron curtain]], many being taken to the [[Soviet Union]] as part of a reparations package in respect of the [[Second World War]]. Evidence also exists for exports to the west: the car was advertised in Switzerland in 1949 with a retail price of CHF 10,300.<ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 978-3-613-02808-1}}</ref>
+
+==References==
+*{{Italian|BMW 321|[[2008-02-22]]}}
+{{reflist}}
+
+{{BMW pre war}}
+
+[[Category:BMW vehicles|321]]
+[[Category:Executive cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1930s automobiles]]
+[[Category:1940s automobiles]]
+[[Category:Vehicles introduced in 1938]]
+[[Category:Compact executive cars]]
+[[Category:Convertibles]]
+[[Category:Sedans]]
+
+[[it: BMW 321]]

@@ -1,0 +1,87 @@
+{{TOC left}}{{refimprove|date=November 2009}}
+{{Infobox company
+|company_name     = IAV GmbH<br>Ingenieurgesellschaft Auto und Verkehr
+|company_logo     = [[Image:iav logo blau weiss.png|185px]]
+|company_type     = [[Limited liability company]]:<br>[[Gesellschaft mit beschränkter Haftung|GmbH]]<ref name=IAV_figures>{{cite web|url=http://www.iav.com/en/3_about_iav/iav_in_figures.php|title=IAV in Figures|work=IAV GmbH|publisher=IAV.com|month=January|year=2009|accessdate=10 November 2009}}</ref>
+|foundation       = [[Berlin]], [[Germany]] (1983)<ref name=IAV_figures/>
+|founder          = Prof. Dr. [[Hermann Appel]]
+|location         = [[Berlin]], [[Germany]]
+|locations        = 11 operations across Germany, several Subsidiaries
+|area_served      = Worldwide
+|key_people       = [[Kurt Blumenröder]],<br><small>[[President]], [[chief executive officer|CEO]]</small>;<ref name=IAV_Management>{{cite web|url=http://www.iav.com/en/3_about_iav/management.php|title=IAV Management|work=IAV GmbH|publisher=IAV.com|month=January|year=2009|accessdate=10 November 2009}}</ref><br>[[Michael Schubert]],<br><small>President, [[chief financial officer|CFO]]</small><ref name=IAV_Management/>
+|industry         = [[Automotive industry]]<ref name=IAV_figures/>
+|products         = <!-- what do you make -->
+|services         = Powertrain, Electronics and Vehicle Development
+|revenue          = 380 million [[Euro]] (2008)<ref name=IAV_figures/>
+|operating_income = 
+|net_income       = 
+|assets           = 
+|equity           = 
+|owner            = 
+|num_employees    = 3,850 worldwide (2008)<ref name=IAV_figures/>
+|parent           = 
+|divisions        = 
+|subsid           = 
+|homepage         = [http://www.IAV.com IAV.com]
+|footnotes        = 
+|intl             = yes
+}}
+'''IAV GmbH''', ({{lang-de|'''Ingenieurgesellschaft Auto und Verkehr'''}}), abbreviated to '''IAV''', is one of the leading [[engineering]] providers to the [[automotive industry]].
+
+IAV provides production-ready automotive solutions in all fields of [[powertrain]], [[electronics]] and [[vehicle development]].  Founded in [[Berlin]] in 1983 by Prof. Dr. Hermann Appel as a university-affiliated research institute, the company presently employs over 3,000 members of staff, and works for all the world's prominent [[automotive industry|automobile manufacturers]], and [[component suppliers]].  In addition to development centres in Berlin, [[Chemnitz]] and [[Gifhorn]], IAV operates at a further 15 sites in [[Europe]] ([[France]], [[United Kingdom]]), [[Asia]] ([[China]], [[India]], [[Japan]], [[Korea]]) and the [[Americas]] ([[Brazil]], [[USA]]).
+
+Clients include major vehicle manufacturers, including all [[marque]]s of the [[Volkswagen Group]], [[BMW]], [[PSA Peugeot Citroën]], [[Fiat]], [[Ford Motor Company]], [[General Motors]], [[Porsche]] and [[Toyota]].  Component manufacturer clients include [[ArvinMeritor]], [[Behr GmbH & Co. KG|BEHR]], [[Robert Bosch GmbH]], [[Delphi (auto parts)|Delphi]], [[General Electric]], [[Siemens VDO]], [[Continental AG]] and [[ZF Friedrichshafen|ZF Group]].
+
+==Shareholders==
+As of 2009, the [[shareholder]] distribution of IAV GmbH consists of the following:<ref name=IAV_figures/>
+*[[Volkswagen Group]] - 50%
+*[[Continental Automotive GmbH]] - 20%
+*[[ArvinMeritor]] GmbH - 10%
+*[[Freudenberg & Co. KG]] - 10%
+*[[SABIC]] Innovative Plastics B.V. - 10%
+
+==Subsidiaries==
+IAV has the following worldwide subsidiary companies:<ref name=IAV_figures/>
+;Europe
+*Consulting4Drive GmbH, Berlin
+*IAV France S.A.S.U.
+*IAV Products GmbH, Berlin und Dresden
+*IAV Rus, LLC
+*IAV U.K. Ltd.
+*IMF Fahrzeugsicherheit GmbH & Co. KG, Gifhorn
+*TEA GmbH, Berlin
+*TR Engineering powered by IAV GmbH, Neustadt/Weinstraße
+
+;Asia
+*IAV Automotive Engineering (Shanghai) Co. Ltd.
+*IAV India Private Ltd.
+*IAV Japan Co. Ltd.
+*IAV Korea Co. Ltd.
+
+;North / South America
+*IAV Automotive Engineering Inc. (USA)
+*IAV do Brasil Ltda. 
+
+== In-Road Electric Vehicle Charger ==
+A recharger for vehicles that is built right into the road is the subject of IAV. Their technology would allow electric vehicles to be charged as they drive over any road (including [[solar roadway]]s) embedded with a [[recessed]] wireless recharging strip, using [[inductive charging|electromagnetic induction]].  <ref>http://www.technovelgy.com/ct/Science-Fiction-News.asp?NewsNum=2591</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.IAV.com IAV.com] official international portal
+
+
+{{auto-company-stub}}
+
+{{Volkswagen Group brands}}
+
+[[Category:Automotive companies of Germany]]
+[[Category:Automotive engineering]]
+[[Category:Automotive industry]]
+[[Category:Motor vehicle companies]]
+[[Category:Companies established in 1983]]
+[[Category:Volkswagen]]
+
+[[de:IAV GmbH]]
+[[pt:IAV do Brasil]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = league
+|rdfs:domain = IceHockeyPlayer
+|rdfs:range = owl:Thing
+}}

@@ -1,0 +1,109 @@
+{{Infobox Automobile| image = [[Image:DKW Meisterklasse 1952.JPG|250px|DKW F89 / Meisterklasse.]] 
+| name = DKW Meisterklasse<br>DKW F89
+| manufacturer = [[Auto Union|Auto Union AG]]
+| production =  1950 – April 1954 
+| predecessor = [[DKW F8]]
+| successor = [[DKW F91]]
+| body_style = 2-door [[sedan (car)|saloon]]<br> 3-door [[Station wagon|’Universal’ Estate]]<br> 2-door [[Cabriolet (automobile)|cabriolet]]
+| engine = 684&nbsp;cc [[two stroke]] [[straight-2]] <ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 978-3-613-02808-1}}</ref>
+| layout=[[FF layout]]
+| transmission = 3 or (from 1953) 4 speed manual 
+| length = {{convert|4200|mm|in||abbr=on}}<br> saloon
+| width = 
+| height = 
+| weight = {{convert|860|kg|lb||abbr=on}}- {{convert|900|kg|lb||abbr=on}} (empty) 
+| wheelbase =  {{convert|2350|mm|in||abbr=on}} (2-door)<br> {{convert|2450|mm|in||abbr=on}} (Estate)
+| track = 
+|fuel_capacity=
+| related = [[DKW van|DKW-Schnelllaster]]<br>[[IFA F9]]
+| similar = 
+| designer = 
+}}
+[[Image:IFA F9 front 20040924.jpg|250px|thumb|right|The half brother. While Auto Union built the F89, in [[West Germany]] the Zwickau plant that had passed to the [[Soviet Union|Soviets]] was producing the [[IFA F9]]. 30,000 or More IFA F9s had been produced initially at Zwickau and subsequently at Eisneach by 1956. Both western and eastern cars were closely based on the DKW F9 prototype first exhibited in 1939.]]
+ 
+The '''DKW Meisterklasse''' (English: "Master Class") also known as the '''DKW F89''' was a [[compact car|compact]] [[front wheel drive]] [[automobile|saloon]] manufactured by [[Auto Union|Auto Union AG]] between 1950 and 1954. It was the first passenger car to be manufactured by the [[Auto Union]] company in West Germany following the re-establishment of the business in the west in 1949.
+
+==The Factory==
+Auto Union’s manufacturing plant had been located in [[Zwickau]] when [[Second World War|war]] had put an end to passenger vehicle production in 1942. After the war, with Zwickau in the [[Soviet occupation zone]], the company was no longer able to access its former production facilities. The first post war DKWs were therefore built in a refurbished plant of [[Rheinmetall|Rheinmetall-Borsig]] in [[Düsseldorf]].
+
+==The Origins==
+The F89 shared its underpinnings with the [[DKW F8|DKW F8 / 'Meisterklasse']] which had been available between 1939 and 1942, but the F89 has a steel body based on that of the [[DKW F9]], a prototype which would have directly replaced the F8 on the Zwickau production lines had the war not intervened. Although many of the machine tools at that plant were crated up and shipped to the [[Soviet Union]] in 1945, Zwickau’s new controllers also built their own version of the DKW F9 prototype, and indeed the eastern version was put into production as the [[IFA F9]], probably shortly before the Düsseldorf built F89. It is interesting to compare these two heirs to the original DKW prototype, and the ways in which their respective successor models evolved.
+
+The F89 was not the first vehicle built by Auto Union after the war. That honor goes to the [[DKW van|DKW F89L Schnelllaster / Quick truck]], a curiously modern light van built on the same chassis and using the same engine / transmission package, introduced in 1949.
+
+==The Body ==
+The form of the saloon’s body closely followed that of the prewar [[DKW F9]]. However, extensive ‘streamling’ had been applied to the earlier design, and impressive claims were made for the F89’s lowered wind resistance.
+
+In 1951 a two seater hardtop coupe version, built by coach builders [[Hebmüller]] of [[Wuppertal]] became available, and the range was completed in 1953 with the addition of a three door estate version, employing a body conversion that made extensive use of timber. The F89 estate, like its steel bodied, successors, was branded as the ‘Universal’.
+
+[[Image:DKW F89 Universal Meisterklasse Heck 1951.jpg|250px|thumb|left|The estate conversion, offered from 1953, made extensive use of timber.]]
+==Technical==
+The F89 featured a two cylinder [[two stroke]] engine of 684 cc with a stated output, at launch, of 23 bhp. A maximum speed of 100 km/h (62 mph) was claimed for the saloon (95 km/h / 59 mph for the 'Universal' estate). The engine was water cooled, but there was no water pump. Cooling used a gravity powered ‘Thermosyphon’ system. The front wheels were connected to the engine by means of a three speed manual gear box controlled via a dash-board mounted ‘Krückstockschaltung’ lever similar to that familiar to later generations from its application in the [[Citroen 2CV]] and [[Renault 4]]. Towards the end of the production run a four speed manual box was offered on the Meisterklasse.
+
+==Data==
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data DKW F89 / Meisterklasse  <ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 3-613-02131-5}}</ref>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="18%"|
+! width="21%"|F89 2-door saloon
+! width="21%"|F89 3-door estate
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1950 - 1954 || align="center" |1953 -   
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="6" align="center" |[[straight-2|2-cylinder-inline engine]] ([[two-stroke]]), transversely front-mounted
+|- bgcolor="#EEEEEE"
+| Bore x Stroke:&nbsp; || colspan="2" align="center" |76 mm x 76 mm
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || colspan="2" align="center" |684 cc
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp; || colspan="2" align="center" |{{Convert|23|hp|kW|0|abbr=on}} @ 4500 
+|- bgcolor="#EEEEEE"
+| Cooling:&nbsp; || colspan="2" align="center" |  Water cooling ‘Thermosyphon’ gravity powered
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || colspan="2" align="center" |  single Solex carburetor 
+|- bgcolor="#EEEEEE"
+| Transmission:&nbsp; || colspan="2" align="center" |  3 speed manual driving front wheels: 4 speed optional after 1953. Facia mounted control lever
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; ||colspan="2" align="center" | Separate steel body on box-frame chassis
+|- bgcolor="#EEEEEE"
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || align="center" | {{convert|2350|mm|in||abbr=on}} || align="center" |{{convert|2450|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || align="center" |{{convert|1190|mm|in||abbr=on}} {{convert|1250|mm|in||abbr=on}} || align="center" |{{convert|1190|mm|in||abbr=on}} {{convert|1250|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+|- bgcolor="#EEEEEE"
+|- bgcolor="#EEEEEE"
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" | {{convert|4200|mm|in||abbr=on}} || align="center" |{{convert|4055|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || align="center" | {{convert|1600|mm|in||abbr=on}} || align="center" |{{convert|1520|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" | {{convert|1450|mm|in||abbr=on}} || align="center" |{{convert|1555|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+|- bgcolor="#EEEEEE"
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || align="center" |{{convert|860|kg|lb||abbr=on}}|| align="center" |{{convert|900|kg|lb||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Tyre/Tire sizes:&nbsp; || colspan="2" align="center" | 5.50–16“ 1950 – 1953<br>5.60–15“ 1953 – 1954
+|}
+</div>
+</div>
+</div>
+
+==Sources and further reading==
+{{reflist}}
+
+*{{De| DKW F89}}
+
+[[Category:DKW vehicles|F89]]
+[[Category:Compact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:1950s automobiles]]
+[[Category:Vehicles introduced in 1950]]
+
+[[de:DKW F89]]

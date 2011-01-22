@@ -1,0 +1,86 @@
+[[Image:BMW H2R IAA 2005.jpg|thumb|BMW H2R]]
+The '''BMW H2R''' ("Hydrogen Record Car") is one of the first of a new breed of racecars adapted to run on [[liquid hydrogen]] fuel. Conceived and developed in the relatively short time of 10 months, it has set nine international speed records at the [[Miramas]] Proving Grounds in [[France]].
+
+The H2R’s 6.0-liter V-12 engine, which draws on [[BMW]]'s [[Valvetronic]] and [[VANOS|Double-VANOS]] technology, is based on the 760i’s gasoline-fueled powerplant. This H2-powered high performer generates {{convert|232|hp}}, helping it to achieve a top speed of over {{convert|187.62|mph|km/h||abbr=on}}.
+
+==Technical data==
+On the high-speed track at Miramas the BMW H2R set nine international and [[FIA]]-ratified records with hydrogen combustion engines.
+[[Image:BMWH2R.jpg|thumb|BMW H2R|thumb|290px|BMW H2R, BMW Museum, [[Munchen]], [[Germany]].]]
+
+* Maximum speed: {{convert|300.175|km/h|mph|3|abbr=on}}
+* Engine: twelve-cylinder hydrogen concept engine
+* Nominal engine power: {{convert|982|bhp|abbr=on}}
+* Bodyshell: [[aluminium]] [[space frame]] structure
+* Outer shell: [[carbon fibre|carbon-fibre-reinforced]] plastic
+* Vehicle dimensions: {{Convert|5.40|m|in|1}} long, {{Convert|2.01|m|in|1}} wide, {{Convert|1.34|m|in|1}} high
+* Vehicle weight including driver: {{convert|1560|kg|lb||abbr=on}}
+* [[Drag coefficient]] (cw): 0.21
+
+==BMW Art Car Project: Your Mobile Expectations==
+In 2007, [[Olafur Eliasson]] was commissioned by [[BMW]] to create the sixteenth art car for the [[BMW Art Car Project]] based on the H2R. Eliasson and his team removed the automobile's alloy body and instead replaced it with a new interlocking framework of reflective steel bars and mesh. Layers of ice were created by spraying approximately 530 gallons of water during a period of several days upon the structure. On display, the frozen sculpture is glowing from within. Called ''Your Mobile Expectations'', the vehicle was on special display in a temperature controlled room at the [[San Francisco Museum of Modern Art]] from September 8, 2007 to January 13, 2008.<ref>http://www.sfmoma.org/exhibitions/316</ref>
+
+==Records==
+{| class="toccolours" border="1" cellpadding="4" style="border-collapse:collapse"
+|- bgcolor="#dedede"
+|'''Record'''
+|'''Time (s)'''
+|'''Speed '''
+|- valign="top"
+|Flying-start kilometre 
+| 11.99
+| {{convert|187.62|mph|km/h|2|abbr=on}}
+|-
+|Flying-start mile             
+| 19.91
+| {{convert|181.85|mph|km/h|2|abbr=on}}
+|-
+|Standing-start 1/8 kilometre
+| 9.92
+| {{convert|45.62|mph|km/h|2|abbr=on}}
+|-
+|Standing-start 1/4 kilometre
+|14.93  
+|{{convert|60.62|mph|km/h|2|abbr=on}}
+|-
+|Standing-start 1/2 mile            
+| 17.27
+|{{convert|65.15|mph|km/h|2|abbr=on}}
+|-
+|Standing-start mile
+|36.73 
+|{{convert|98.60|mph|km/h|2|abbr=on}}
+|-
+|Standing-start {{convert|10|mi|km}}
+|221.05
+|{{convert|163.81|mph|km/h|2|abbr=on}}
+|-
+|Standing-start kilometre
+|26.56 
+|{{convert|84.72|mph|km/h|2|abbr=on}}
+|-
+|Standing-start 10 kilometre
+|146.41 
+|{{convert|153.90|mph|km/h|2|abbr=on}}
+|-)
+</table>
+
+==See also==
+*[[List of hydrogen internal combustion engine vehicles]]
+
+==External links==
+* [http://www.bmwtransact.com/hydrogen/cars_h2r.htm BMW Hydrogen power program]
+* [http://www.racegarden.com/video-show.html?video_id=72 BMW H2R World Record Attempt Video Footage]
+
+==References==
+<references/>
+
+[[Category:BMW vehicles|H2R]]
+[[Category:Hydrogen cars]]
+
+[[de:BMW H2R]]
+[[it:BMW H2R]]
+[[hu:BMW H2R]]
+[[nl:BMW H2R]]
+[[no:BMW H2R]]
+[[pt:BMW H2R]]
+[[tr:BMW H2R]]

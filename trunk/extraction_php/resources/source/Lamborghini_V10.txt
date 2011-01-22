@@ -1,0 +1,89 @@
+{{Infobox Automobile engine
+|name          = Lamborghini V10
+|image         = [[Image:SC06 2005 Lamborghini Gallardo engine.jpg|250px]]<br>''The [[Lamborghini]] V10 engine in a [[Lamborghini Gallardo]]''
+|aka           = 
+|manufacturer  = [[Audi Hungaria Motor Kft.]] &<br>[[Lamborghini|Automobili Lamborghini S.p.A.]]
+|configuration = 90° [[V10 engine|V10]] [[petrol engine]]
+|production    = 
+|predecessor   = 
+|successor     = 
+|bore          = {{convert|82.5|mm|2|abbr=on|lk=on}},<br>{{convert|84.5|mm|2|abbr=on}}
+|stroke        = {{convert|92.8|mm|2|abbr=on}}
+|displacement  = {{convert|4961|cc|1|abbr=on|lk=on}},<br>{{convert|5204|cc|1|abbr=on}}
+|length        = 
+|diameter      = 
+|width         = 
+|height        = 
+|weight        = 
+|block         = [[casting|Cast]] [[aluminium alloy]]
+|head          = Cast aluminium alloy
+|valvetrain    = [[multi-valve|4-valves per cyliner]],<br>2x [[overhead camshaft#double overhead camshaft|double overhead camshaft]] (2xDOHC - 'quad cam')
+|supercharger  = 
+|turbocharger  = 
+|fuelsystem    = Electronic [[fuel injection#multi-point fuel injection|multi-point]] sequential [[fuel injection]]
+|fueltype      = [[gasoline|Petrol/Gasoline]]
+|oilsystem     = [[Dry sump]]
+|coolingsystem = [[water cooling|Water cooled]]
+|power         = 
+|specpower     = 
+|torque        = 
+|compression   = 
+|fuelcon       = 
+|specfuelcon   = 
+|oilcon        = 
+}}
+The '''Lamborghini V10''' is a [[petrol engine]] which was developed for the [[Lamborghini Gallardo]] automobile, first sold in 2003.
+
+This is only the third engine developed by [[Lamborghini|Automobili Lamborghini S.p.A.]], for use in the Gallardo, and the first engine developed by the company after they were acquired by [[Audi|Audi AG]] - part of the [[Volkswagen Group]].  As such, it shares components and technology from other members of the group, specifically Audi.
+
+Its block is built at the [[Audi Hungaria Motor Kft.]] factory in [[Győr#industry|Győr]],<ref>{{cite web|url=http://www.lambocars.com/archive/newl140.htm|title=Lamborghini Cars full specifications - First spyshots of the Lamborghini L140 model|work=LamboCars.com|accessdate=30 August 2009}}</ref> whilst final assembly is at [[Sant'Agata]].<ref>{{cite web|url=http://www.edmunds.com/insideline/do/Features/articleId=119574|title=Conversation: Lamborghini CEO Stephan Winkelmann - Italian style, German quality|work=edmunds - Inside Line|publisher=Edmunds.com|date=27 February 2007|accessdate=30 August 2009}}</ref>  It is a 90° [[V10 engine]], which is unusual for this particular configuration of cylinders.  It was chosen to keep the [[center of gravity]] of the engine low.  For the same reason, a [[dry sump]] lubrication system was also used.
+
+There is speculation that this engine will also be fitted to a planned [[Audi RSR]] sports car, based on the [[Audi Rosemeyer]] concept.{{citation needed|date=April 2008}}
+
+There was also some speculation that the engine block of the original 5.0&nbsp;[[litre]] V10 is closely based on the 4.2&nbsp;litre V8, which Audi produces for their luxury cars.  However, this was denied by Audi AG, in their official documentation for their 5.2 V10 FSI engine, as used in the [[Audi S6]] and [[Audi S8]].<ref>{{citation|date=June 2006|title=Audi 5.2 litre V10 FSI engine|edition=SSP 376|series=Service Training - Self-Study Programme|publication-place=D-74172 Neckarsulm, Germany|publisher=AUDI AG|quote=''The (Audi) V10 belongs to the next generation of Audi V-engines, all of which have a 90-degree included angle and a spacing of 90 millimetres between cylinder centres.  Compared to the engine in the Lamborghini Gallardo, which has a spacing of 88 millimetres between cylinder centres, the Audi engine has several new features in key areas.''}}</ref>  The [[cylinder head]]s are unique to Lamborghini, using the four valves per cylinder layout favoured by the Italian firm, rather than the five valve per cylinder variation used by the German members of Volkswagen Group - including Audi and [[Volkswagen]].{{citation needed|date=April 2008}}  However, it was later confirmed by Stefan Reil of Audi's [[quattro GmbH]] subsidiary that the new 5.2&nbsp;litre Lamborghini V10 does share technologes with the Audi V10 engine, as is evident by the usage of Audi's [[gasoline direct injection|Fuel Stratified Injection]], and 90&nbsp;mm cylinder spacing.
+
+==Specifications==
+;[[engine configuration]]: 90° [[V10 engine]]; [[dry sump]] [[motor oil|lubrication]] system<ref name="evo">{{cite web|url=http://www.evo.co.uk/news/evonews/218484/lamborghini_gallardo_lp5604.html|title=Lamborghini Gallardo LP560-4 - New Gallardo V10 bends design rules - Secrets behind Lamborghini's latest projectile, the LP560-4|work=evo News|publisher=evo.co.uk|date=7 March 2008|accessdate=30 August 2009}}</ref>
+;[[engine displacement]] etc
+:'''5.0''' &mdash; {{convert|4961|cc|1|lk=on}}; [[bore (engine)|bore]]: {{convert|82.5|mm|2|abbr=on|lk=on}}, [[stroke (engine)|stroke]]: {{convert|92.8|mm|2|abbr=on}} ([[stroke ratio]]: 0.89:1 - undersquare/long-stroke), 496.0&nbsp;cc per [[cylinder (engine)|cylinder]]; [[compression ratio]]: 11.5:1<ref name="evo"/>
+:'''5.2''' &mdash; {{convert|5204|cc|1}}; bore: {{convert|84.5|mm|2|abbr=on}}, stroke: {{convert|92.8|mm|2|abbr=on}} (stroke ratio: 0.91:1 - undersquare/long-stroke), 520.4&nbsp;cc per cylinder; compression ratio: 12.5:1<ref name="evo"/>
+;[[cylinder block]] and [[crankcase]]
+:'''5.0''' &mdash; [[casting|cast]] [[aluminium alloy]] with integrated liners with eutectic alloy; {{convert|88|mm|2|abbr=on}} cylinder bore spacing<ref>{{cite web|url=http://www.autoweek.com/apps/pbcs.dll/article?AID=/20080226/FREE/451382952/1611/FREE|title=Lamborghini gives Gallardo bigger engine, new name|work=AutoWeek Magazine|publisher=AutoWeek.com|date=26 February 2008|accessdate=30 August 2009}}</ref>; [[forge]]d steel [[crankshaft]] with split [[crankpin]]s (to create even 72deg firing interval with the 90deg vee-angle)<ref name="evo"/>
+:'''5.2''' &mdash; cast aluminium alloy; 90&nbsp;mm cylinder bore spacing; forged steel crankshaft with shared crankpins (creating an uneven firing interval of either 58deg or 90deg separation)<ref name="evo"/>
+;[[cylinder head]]s and [[valvetrain]]: cast aluminium alloy, [[multi-valve|four valves]] per cylinder, 40 [[poppet valve#internal combustion engine|valves]] total, low-friction roller [[tappet|cam followers]] with automatic [[hydraulics|hydraulic]] [[hydraulic tappet|valve clearance]] compensation, 2x [[roller chain|chain]] driven [[overhead camshaft#double overhead camshaft|double overhead camshafts]] (2xDOHC - two [[overhead camshaft]]s per [[cylinder bank]] - 'quad cam'), continuously [[variable valve timing]] system both for intake and exhaust
+;aspiration: two air filters, two hot-film [[mass flow sensor|air mass meters]], two cast alloy [[throttle body|throttle bodies]] each with [[electronic throttle control|electronically controlled]] '[[drive by wire]]' [[throttle]] [[butterfly valve]]s, cast [[magnesium]] [[alloy]] [[variable length intake manifold|variable geometry and resonance intake manifold]]
+;fuel system
+:'''5.0''' &mdash; two linked [[common rail]] fuel distributor rails, electronic sequential [[fuel injection#multi-point fuel injection|multi-point]] [[indirect injection|indirect]] [[fuel injection]] with 10 [[manifold (automotive)#intake manifold|intake manifold]]-sited fuel injectors
+:'''5.2''' &mdash; fully demand-controlled and returnless; fuel tank mounted low pressure [[fuel pump]], [[gasoline direct injection|Fuel Stratified Injection]] (FSI): two inlet camshaft double-cam driven single-piston high-pressure injection pumps maintaining pressure in the two stainless steel [[common rail]] fuel distributor rails, ten [[combustion chamber]] sited [[direct injection]] solenoid-controlled sequential fuel injectors<ref name="evo"/>
+;[[ignition system]] and engine management: mapped direct ignition with centrally mounted [[spark plug]]s and ten individual direct-acting [[ignition coil|single spark coils]]; Lamborghini LIE electronic [[engine control unit]] (ECU)
+;[[exhaust system]]
+:'''5.0''' &mdash; five-into-one [[exhaust manifold]]s for each cylinder bank
+:'''5.2''' &mdash; 2-1-2 branch exhaust manifold per cylinder bank<ref name="evo"/> to minimise reverse pulsation of expelled exhaust gasses
+;5.0 DIN rated [[motive power|motive]] [[power (physics)|power]] and [[torque]] outputs
+: {{convert|368|kW|PS bhp|0|lk=on}} @ 7,800&nbsp;rpm; {{convert|510|Nm|0|lk=on}} @ 4,500&nbsp;rpm (80% available from 1,500&nbsp;rpm) &mdash; 2003-2005
+: {{convert|382|kW|PS bhp|0|lk=on}} @ 8,000&nbsp;rpm; {{convert|510|Nm|0|lk=on}} @ 4,250&nbsp;rpm &mdash; SE, Spyder, and 2006-on
+: {{convert|390|kW|PS bhp|0|lk=on}} @ 8,000&nbsp;rpm; {{convert|510|Nm|0|lk=on}} @ 4,250&nbsp;rpm &mdash; Superleggera
+;5.2 DIN rated [[motive power|motive]] [[power (physics)|power]] and [[torque]] outputs<ref>''Automobil Revue'', catalogue edition 2008, p.316 and 2006, p.285</ref>
+: {{convert|412|kW|PS bhp|0|lk=on}} @ 8,000&nbsp;rpm; {{convert|540|Nm|0|lk=on}} @ 6,500&nbsp;rpm &mdash; 2008-on
+
+==See also==
+{{commons|Lamborghini engine}}
+*[[list of Volkswagen Group petrol engines]] article
+**V12 - [[list of Volkswagen Group petrol engines#LamborghiniV12|6.2/6.5 V12 430-471kW]] sub-section of the above article
+**V10 - [[list of Volkswagen Group petrol engines#LP560|5.2 FSI V10 412kW]] sub-section of the above article
+**V10 - [[list of Volkswagen Group petrol engines#368|5.0 V10 368kW]] sub-section of the above article
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.Lamborghini.com Lamborghini.com] official website
+
+{{Lamborghini}}
+
+[[Category:Lamborghini engines|V10]]
+[[Category:Volkswagen engines]]
+
+[[es:Lamborghini V10]]
+[[it:Lamborghini V10]]
+[[no:Lamborghini V10]]

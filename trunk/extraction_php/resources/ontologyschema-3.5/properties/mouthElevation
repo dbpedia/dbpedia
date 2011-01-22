@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = mouth elevation
+| rdfs:range = Length
+}}

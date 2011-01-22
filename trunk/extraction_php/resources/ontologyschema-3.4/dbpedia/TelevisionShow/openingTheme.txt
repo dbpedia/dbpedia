@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = opening theme
+|rdfs:domain = TelevisionShow
+|rdfs:range = Work
+}}

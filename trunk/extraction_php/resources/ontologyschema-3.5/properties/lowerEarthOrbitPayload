@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = lower earth orbit payload
+| rdfs:domain = Rocket
+| rdfs:range = Mass
+}}

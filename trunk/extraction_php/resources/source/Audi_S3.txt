@@ -1,0 +1,121 @@
+{{Refimprove|date=January 2008}}
+{{Infobox Automobile
+|name           = Audi S3
+|image          = [[Image:Audi S3 Sprintblau.JPG|250px]]<br>''<br>Audi S3 (8P)''
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|production     = 1999—present
+|assembly       = [[Ingolstadt]], [[Germany]]
+|class          = [[Hot hatch]]
+|layout         = [[transverse engine|transverse]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] on-demand [[four-wheel drive]]
+|platform       = [[Volkswagen A platform]]
+|predecessor    = 
+|transmission   = 6-speed [[manual transmission|manual]] or [[Direct-Shift_Gearbox|S-Tronic]]
+|related        = [[Audi A3]]
+|sp             = uk
+}}
+The '''Audi S3''' is a [[hot hatch]] version of the [[Audi A3]] [[small family car]], produced by [[Germany|German]] automaker [[Audi]] since 1999.  S3 variants of both the first- and second-generation Audi A3 have been produced.
+
+Like all [[Audi S and RS models#S models|Audi S models]], it is only available with [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] system.
+__TOC__
+
+==First generation (''Typ'' 8L, 1999-2003){{anchor|8L}}==
+{{Infobox Automobile generation
+|name           = Audi S3 (8L)
+|image          = [[Image:Audi S3 2003 dolphingray.jpg|250px]] 
+|production     = 1999—2004
+|body_style     = 3-door [[hatchback]]
+|platform       = [[Volkswagen A platform#A4 (PQ34)|Volkswagen A4 (PQ34)]]
+|engine         = 1.8L [[straight-4|I4]] [[multi-valve|20v]] [[turbocharger|turbo]]
+|related        = [[Audi TT]],<br>[[Volkswagen Golf Mk4|VW Golf Mk4]],<br>[[Škoda Octavia]],<br>[[SEAT León]]
+|sp             = uk
+}}
+===Overview===
+The first generation S3 is built on the same [[Volkswagen A platform|A platform]] of the [[Audi A3]], [[Volkswagen Golf Mk4]], [[Audi TT]], [[SEAT León]] and [[Škoda Octavia]].
+
+The [[straight-4]] [[multi-valve|20v]] 1.8&nbsp;L [[turbocharger|turbocharged]] [[petrol engine]] comes in two versions of power output: {{convert|210|PS|kW hp|0|abbr=on}} and {{convert|225|PS|kW hp|0|abbr=on}}.  Early models (1999-2001) had {{convert|210|PS|kW hp|0|abbr=on}} which is said to be a de-tuned [[Audi TT]] engine, and was said to be reduced to lessen brand competition with the more powerful TT.  Later models (2001-2003) had [[variable valve timing]] and {{convert|225|PS|kW hp|0|abbr=on}}.  The engine provides a maximum {{convert|280|Nm|ftlbf|abbr=on|lk=on}} of [[torque]], most of which is available from 2200 through to 5500&nbsp;rpm.  This is the first time a small [[five-valve]] engine has been used in an [[Audi S and RS models#S models|Audi S-series]] car.
+
+Although dubbed [[quattro (four wheel drive system)|"quattro"]], the S3 uses a different "on-demand" [[four-wheel drive]] system<ref name="autoportal">{{Cite web|url=http://www.carautoportal.com/audi/audi-s3.php|title=Audi S3|accessdate=2009-06-28|work=carautoportal.com}}</ref>.  The [[Haldex Traction]] coupling adjusts the bias of torque distribution from the front to rear axle as grip requirements change - most of the time it operates as a front-wheel drive.
+
+The S3 was sold in the [[United Kingdom]], [[Europe]], [[Mexico]], [[Australia]] and [[New Zealand]], but was not officially marketed in the [[United States]].
+
+The S3 was facelifted in 2000, where it was given one-piece [[headlights]]/indicator units, different front wings, rear lights clusters, and some minor upgrades to interior trim.  There had been minor changes to the design previous to this, including digital clock on the dash.
+
+===Equipment===
+Standard features include [[xenon HID headlamp]]s with high pressure washers and auto levelers, front fog lamps, 17" "Avus" [[alloy wheel]]s with 225/45R17 [[tire|tyres]], electrically adjustable [[Recaro]] leather seats, climate control, alarm and [[electronic stability control|Electronic Stability Programme]] (ESP) with [[traction control system|traction control]] (ASR).
+
+Options include a [[Bose Corporation|Bose]] sound system, boot/trunk mounted 6 disc [[CD changer]], [[metallic paint]], 18 inch 9-spoke RSTT wheels, glass [[sunroof]], centre arm rest, privacy glass (B-pillar backwards), auto dipping rear view mirror, parking assist, luggage net, heated front seats, [[cruise control]], aluminium door mirror casings and part leather/[[Alcantara]] (blue/silver/yellow) combination seat coverings.
+{{clr}}
+
+==Second generation (''Typ'' 8P, 2006-present){{anchor|8P}}==
+{{Infobox Automobile generation
+|name           = Audi S3 (8P)
+|image          = [[Image:AudiS3 8P front.jpg|250px]] 
+|production     = 2006—present
+|body_style     = 3-door [[hatchback]],<br>5-door [[hatchback]] (2008-on)
+|platform       = [[Volkswagen A platform#A5 (PQ35)|Volkswagen A5 (PQ35)]]
+|engine         = 2.0L [[straight-4|I4]] [[gasoline direct injection|FSI]] [[turbocharger|turbo]]
+|related        = [[Audi TT]],<br>[[Volkswagen Golf Mk5|VW Golf Mk5]],<br>[[Volkswagen Jetta#Fifth generation|VW Jetta]]
+|sp             = uk
+}}
+[[Image:AudiS3 8P rear.jpg|thumb|left|Audi S3 (8P) in Imola Yellow]]
+The second generation Audi S3 - '''''Typ'' 8P''', is powered by a modified and uprated [[Volkswagen Group]]-sourced 2.0L Turbocharged [[gasoline direct injection|FSI]] [[petrol engine]], with a maximum output of {{convert|195|kW|PS bhp|0|abbr=on|lk=on}}.  As with all [[Audi S and RS models|Audi S models]], the design was done in-house by [[quattro GmbH]].  The engine features uprated high performance [[piston]]s, revised boost/fuel mapping, increased turbocharger size (KKK K04) and larger [[intercooler]].  The most powerful form of this widely used engine, and [[quattro (four wheel drive system)|quattro]] four-wheel drive, makes for a {{convert|0|-|100|km/h|0|abbr=on|lk=on}} time of 5.5&nbsp;s, and an electronically limited top speed of {{convert|250|km/h|0|abbr=on}}.
+
+The chassis has had the spring rating and dampers revised, along with the body kit.  Like its predecessor, although badged a "quattro" model, the S3 does not employ a [[Torsen]] centre differential (as in other common quattro models), but instead uses the Swedish [[Haldex Traction]] system in its on-demand [[four-wheel drive]] transmission, due to the [[transverse engine]] layout.
+
+In the [[United Kingdom]], the S3 is priced notably higher than many of its rivals.  [[BMW 1 Series|BMW's 130i]] M Sport offers {{convert|265|bhp|kW PS|0|abbr=on}}, but is slower to {{convert|100|km/h|0|abbr=on}} at 6.0 seconds.  Other cars of similar power are a good deal cheaper; the [[Volkswagen Golf Mk5]] R32 sports {{convert|184|kW|PS bhp|0|abbr=on}}, with {{convert|0|-|100|km/h|0|abbr=on}} achieved in 6.5 seconds.  The [[Vauxhall Astra]] VXR comes with less power - {{convert|240|bhp|kW PS|0|abbr=on}} - but manages {{convert|0|-|100|km/h}} in 6.5 seconds, whilst the [[SEAT León]] Cupra (2.0 T-FSI with {{convert|177|kW|PS bhp|0|abbr=on}}), [[Volvo C30]] ({{convert|225|bhp|kW PS|0|abbr=on}} 2.5-litre inline-5 turbo), and [[Mazdaspeed3]] (2.3-litre turbocharged engine with {{convert|256|bhp|kW PS|0|abbr=on}}) also provide competition.  Only the S3 and R32 are four-wheel drive, however, though the 130i M Sport is rear-wheel drive.
+
+Audi has stated the S3 will not be sold in North/South America, although it is available in Mexico.  Reasons range from pricing and competition with the Volkswagen Golf R32, and/or stealing sales from the new [[Audi TT]] and due to cost effectiveness in the North American market.  Audi has announced a 2.0T quattro model for the North/South American market due out in 2009/2010 to coincide with the A3 body upgrade.
+
+===Audi S3 Sportback{{anchor|Sportback}}===
+In April 2008, Audi announced a five-door S3 variant based on the A3 Sportback (''Typ'' 8PA), with the same engine and transmission as the existing 8P S3.<ref>
+{{cite web
+|url=http://www.carmagazine.co.uk/News/Search-Results/First-Official-Pictures/Audi-S3-Sportback-and-A3-facelift/
+|title=Audi S3 Sportback and A3 facelift
+|work=[[Car Magazine]]
+|date=2008-04-28
+|accessdate=2008-10-14}}</ref>
+
+At the same time a minor facelift of the 3-door S3 (in common with the A3) was also announced.<ref>{{cite web
+|url=http://www.audi.co.uk/audi/uk/en2/about_audi_ag/news/The_new_generation_Audi_A3.html
+|title=The new generation Audi A3
+|date=2008-04-27
+|work=www.audi.co.uk
+|accessdate=2008-07-14
+}}</ref>
+
+==See also==
+* [[Audi S and RS models]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat}}
+* [http://www.audi.com Audi corporate website]
+* [http://www.audi.co.uk/audi/uk/en2/new_cars/a3/S3.html Audi UK S3]
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+
+[[Category:Audi vehicles|S3]]
+[[Category:Sports cars]]
+[[Category:Sport compact cars]]
+[[Category:All wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:Hot Hatch]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1999]]
+
+[[bg:Ауди S3]]
+[[da:Audi S3]]
+[[de:Audi S3]]
+[[fr:Audi S3]]
+[[hr:Audi S3]]
+[[it:Audi A3#L'Audi S3]]
+[[hu:Audi S3]]
+[[nl:Audi S3]]
+[[pt:Audi S3]]
+[[ru:Audi S3]]
+[[sk:Audi S3]]

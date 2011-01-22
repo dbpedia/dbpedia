@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = Ariel Award
+|rdfs:domain = Actor
+|rdfs:range = Award
+}}

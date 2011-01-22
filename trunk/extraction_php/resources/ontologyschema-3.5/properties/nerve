@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = nerve
+| rdfs:domain = AnatomicalStructure
+| rdfs:range = Nerve
+}}

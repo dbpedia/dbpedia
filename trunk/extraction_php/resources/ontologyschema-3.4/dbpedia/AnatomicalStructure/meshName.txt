@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = MeSH name
+|rdfs:domain = AnatomicalStructure
+|rdfs:range = xsd:string
+}}

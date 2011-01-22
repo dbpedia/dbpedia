@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = United States National Bridge ID
+|rdfs:domain = Bridge
+|rdfs:range = xsd:string
+}}

@@ -1,0 +1,432 @@
+{{Infobox Automobile
+|name         = Opel Omega
+|image         = [[File:Opelopelvauxhomega.JPG|250px|Last Opel Omega]]
+|manufacturer = [[Adam Opel AG]]
+|production   = 1986-2003
+|class        = [[Executive car]]
+|predecessor  = [[Opel Rekord]]
+|successor    = [[Opel Insignia]]
+|body_style   = 4-door [[sedan (car)|sedan]]<br>5-door [[station wagon|estate]]
+|layout       = [[FR layout]]
+|platform     = [[GM V platform (RWD)|GM V platform]]
+|similar      = [[Ford Scorpio]]<br>[[Rover 800]]
+|related      = [[Opel Senator]] <br/>[[Holden Commodore]] <br/>[[Vauxhall Carlton]] <br/>[[Cadillac Catera]]
+}}
+:''There was also an [[Oldsmobile Omega]], an unrelated vehicle that was produced during the 1970s and 1980s''
+
+Add test The '''Opel Omega'''dd1 was an [[executive car]] produced by the [[Germany|German]] [[automaker]] [[Opel]] between 1986 and 2003. Replacing the [[Opel Rekord]], it was voted [[European Car of the Year]] for 1987. Like the Rekord, the Omega was produced at [[Rüsselsheim]] in [[Germany]]. There were two generations of the model, the latter (Omega B) debuted in 1993.  
+The Omega A was available in [[sedan (car)|saloon]] and [[estate car|estate]] (Caravan) bodystyles as a competitor for the likes of the [[Ford Scorpio]] and [[Rover 800]].
+
+In the [[United Kingdom]], the [[Benelux]] countries, [[Germany]] and [[Italy]], the Omega was widely used as a [[police car]] and was once commonly used as a security vehicle to transport politicians etc. The car has also been converted into [[limousine]]s and [[hearse]]s.
+
+Production of the Omega ceased in 2003. There was no direct replacement for it, as executive models from "non-prestige" manufacturers were proving less popular by the early 2000s; rival manufacturer [[Ford Motor Company|Ford]] had pulled out of this sector in 1998 on the demise of its [[Ford Scorpio|Scorpio]]. In 2009 Opel introduced [[Opel Insignia]], (Vectra successor), which can be also considered as a Omega Successor (as it's the only comparable car since Omega production ending).
+
+==Opel Omega A==
+
+{{Infobox Automobile generation
+| image        = [[Image:Opel Omega A.jpg|250px|Opel Omega A]]]
+|name           = Omega A
+| aka          = [[Vauxhall Carlton]]<br>[[Chevrolet Omega]]<br>[[Chevrolet Omega|Chevrolet Suprema]]
+|manufacturer   = [[Adam Opel AG]]
+|parent_company = [[GM]]
+| production   = 1986&ndash;1993
+|assembly       = [[Germany]], [[UK]], [[Brazil]]
+|predecessor    = [[Opel Rekord]]
+|successor      = [[Opel Omega#Opel Omega B|Opel Omega B]]
+|class          = [[Full-size]] [[Luxury vehicle|luxury car]]
+|body_style     = [[sedan (automobile)|saloon/sedan]]<br>[[station wagon|estate]]
+|layout         = [[FR layout]]
+|engine         = '''Petrol'''<br />'''[[Straight-4]]'''<br />1.8 L [[18NV]]<br />1.8 L [[18SV]]<br />1.8S L [[E18NVR]]<br />1.8 L [[18SEH]]<br />2.0i L [[C20NEJ]]<br />2.0i L [[C20NEF]]<br />2.0i L [[C20NE]]<br />2.0i L [[C20SE]]<br />2.4i L [[C24NE]] <br />'''[[Straight-6]]'''<br />2.6i L [[C26NE]]<br />3.0i L [[C30LE]]<br />3.0i L [[30NE]]<br />3.0Si L [[C30NE]]<br />3.0i L [[C30SEJ]]<br />3.0 L [[C30SE]]<br />'''[[Irmscher]] [[Straight-6]]'''<br />3.0 Evo 500 [[C30XEI]]<br />3.6i L [[C36NE]]<br />3.6i L [[C36NE]]<br />4.0i L [[C40SE]]<br />'''[[Lotus Omega]]<br />'''3.6i L [[C36GET]]<br />'''Diesel'''<br />'''[[Straight-4]]'''<br />2.3 L D [[23YD]]<br />2.3 L TD [[23YDT]]<br />2.3 L TD [[23DTR]]
+|transmission   = 4-speed automatic<br />5-speed manual<br />6-speed manual ([[Lotus Omega]])
+|wheelbase      = {{convert|2730|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4687|mm|1|abbr=on}}<br />{{convert|4730|mm|1|abbr=on}} (estate)
+|width          = {{convert|1772|mm|1|abbr=on}}
+|height         = {{convert|1445|mm|1|abbr=on}},<br />{{convert|1480|mm|1|abbr=on}} (estate
+|weight         = {{convert|1150|kg|0|abbr=on}}
+|sp             = us7
+}}
+
+=== Development ===
+
+The original Omega went into production in September 1986 as a replacement for the [[Opel Rekord]], which had been in production since 1978. Sales began in November. The body was designed as an evolution of the previous Opel design theme engineered more towards aerodynamics in view of higher fuel prices and the general drive towards more fuel efficiency. The result was a remarkable [[drag coefficient]] of 0.28 (0.32 for the Caravan). The whole development program cost 2 Billion [[German mark|Deutschmark]].
+
+Compared to the Rekord, the Omega featured many modern technological advances, which were new to Opel in general, if not to the volume segment European automotive market. These included electronic engine management, ABS, on-board computer (which displayed parameters such as momentary fuel consumption or average speed), air-conditioned glove compartment and even the then-fashionable LCD instrument cluster (available in some version from 1987 but dropped in 1991). More importantly, the Omega came with a self-diagnose system (which is now a standard feature in present-day cars), whose output could be read by appropriately equipped authorized service stations.
+
+=== Engines ===
+
+All Omegas used a longitudinally-mounted engine with a [[rear-wheel drive]] setup, with a five-speed [[manual transmission]] or four-speed [[automatic transmission]]. The engine range consisted of 1.8&nbsp;L, 2.0&nbsp;L and 2.4&nbsp;L four-cylinder units (2.0&nbsp;L and 2.3&nbsp;L [[Diesel engine|Diesel]], 2.3&nbsp;L [[turbodiesel]]) to 2.6&nbsp;L, 3.0&nbsp;L, 3.0&nbsp;L-24v six-cylinder units. In Brazil, the Chevrolet Omega/Suprema was powered to 2.0/2.2 four cylinders and 3.0 straight-6 Opel engine until 1994. Since the Omega A (and its 3.0 straight-six engine) was discontinued in Germany, the Brazilian GM factory needed a new engine for 1995. The cheapest (but not the best) solution was to fit the old 4100cc (250 cid), [[Chevrolet Straight-6 engine]], a heavy and lazy engine compared to the original high-winding 3000 cc Opel unit.
+
+{| class="wikitable" style="text-align: left"
+|-
+|colspan=5|<center>'''Petrol'''</center>
+|-
+! Engine || Cyl. || Power  || Torque || Notes<ref>{{cite web|url=http://www.club-opel.com/model_detail.php?id=21&lang=eng |title=Opel CLUB - Opel Omega |publisher=Opel Club |date= |accessdate=2009-05-17}}</ref>
+|-
+| [[18NV]] 1.8i 8V || [[I4]] || {{convert|83|PS|kW hp|0|abbr=on}} || {{convert|135|Nm|lbft|0|abbr=on}} || MY 1986-1987
+|-
+| [[18SV]] 1.8 || [[I4]] || {{convert|90|PS|kW hp|0|abbr=on}} || {{convert|148|Nm|lbft|0|abbr=on}} || MY 1986-1987
+|-
+| [[E18NVR]] 1.8S || [[I4]] || {{convert|88|PS|kW hp|0|abbr=on}} || {{convert|143|Nm|lbft|0|abbr=on}}  ||MY 1987-1990
+|-
+| [[18SEH]] 1.8i || [[I4]] || {{convert|116|PS|kW hp|0|abbr=on}} || {{convert|160|Nm|lbft|0|abbr=on}} || MY 1986-1992
+|-
+| [[C20NEJ]] 2.0i || [[I4]] || {{convert|99|PS|kW hp|0|abbr=on}} || {{convert|170|Nm|lbft|0|abbr=on}} || MY 1990-1993
+|-
+| [[C20NEF]] 2.0i || [[I4]] || {{convert|101|PS|kW hp|0|abbr=on}} || {{convert|158|Nm|lbft|0|abbr=on}} || 
+|-
+| [[C20NE]] 2.0i || [[I4]] || {{convert|116|PS|kW hp|0|abbr=on}} || {{convert|170|Nm|lbft|0|abbr=on}} || MY 1986-1993
+|-
+| [[20SE]] 2.0i || [[I4]] || {{convert|122|PS|kW hp|0|abbr=on}} || {{convert|175|Nm|lbft|0|abbr=on}} || MY 1986-1987
+|-
+| [[C24NE]] 2.4i || [[I4]] || {{convert|125|PS|kW hp|0|abbr=on}} || {{convert|195|Nm|lbft|0|abbr=on}} || MY 1988-1993
+|-
+| [[C26NE]] 2.6i || [[I6]] || {{convert|150|PS|kW hp|0|abbr=on}} || {{convert|220|Nm|lbft|0|abbr=on}} ||MY 1990-1993
+|-
+| [[C30LE]] 3.0i || [[I6]] || {{convert|156|PS|kW hp|0|abbr=on}} || {{convert|230|Nm|lbft|0|abbr=on}} || MY 1986-1988
+|-
+| [[30NE]] 3.0i || [[I6]] || {{convert|177|PS|kW hp|0|abbr=on}} || {{convert|240|Nm|lbft|0|abbr=on}} ||MY 1986-1990
+|-
+| [[C30NE]] 3.0Si || [[I6]] || {{convert|177|PS|kW hp|0|abbr=on}} || {{convert|240|Nm|lbft|0|abbr=on}} || MY 1990-1993
+|-
+| [[C30SEJ]] 3.0i 24V || [[I6]] || {{convert|200|PS|kW hp|0|abbr=on}} || {{convert|265|Nm|lbft|0|abbr=on}} ||MY 1990-1993
+|-
+| [[C30SE]] 3000 24V || [[I6]] || {{convert|240|PS|kW hp|0|abbr=on}} || {{convert|270|Nm|lbft|0|abbr=on}} || MY 1989-1993 (Omega 3000)
+|-
+| [[C30XEI]] 3.0 Evo 500 || [[I6]] || {{convert|230|PS|kW hp|0|abbr=on}} || {{convert|280|Nm|lbft|0|abbr=on}} ||MY 1991-1993 ([[Irmscher]] for Omega Evo 500)
+|-
+| [[C36NEI]] 3.6i 24V || [[I6]] || {{convert|210|PS|kW hp|0|abbr=on}} ||  || ([[Irmscher]])
+|-
+| [[C36NE]] 3.6i 24V || [[I6]] || {{convert|199|PS|kW hp|0|abbr=on}} ||  || ([[Irmscher]])
+|-
+| [[C40SE]] 4.0i 24V || [[I6]] || {{convert|272|PS|kW hp|0|abbr=on}} || {{convert|395|Nm|lbft|0|abbr=on}} || MY 1991-1992  ([[Irmscher]])
+|-
+| [[C36GET]] 3.6i 24V || [[I6]] || {{convert|377|PS|kW hp|0|abbr=on}} || {{convert|557|Nm|lbft|0|abbr=on}} || MY 1991-1992 (Omega Lotus)
+|-
+|colspan=5|<center>'''Diesel'''</center>
+|-
+! Engine || Cyl. || Power  || Torque || Notes<ref>{{cite web|url=http://www.club-opel.com/model_detail.php?id=21&lang=eng |title=Opel CLUB - Opel Omega |publisher=Opel Club |date= |accessdate=2009-05-17}}</ref>
+|-
+| [[23YD]] 2.3 D || [[I4]] || {{convert|73|PS|kW hp|0|abbr=on}} || {{convert|138|Nm|lbft|0|abbr=on}} ||MY 1986-1993
+|-
+| [[23YDT]] 2.3 TD || [[I4]] || {{convert|90|PS|kW hp|0|abbr=on}} || {{convert|190|Nm|lbft|0|abbr=on}} || MY 1986-1988
+|-
+| [[23DTR]] 2.3 TD || [[I4]] || {{convert|101|PS|kW hp|0|abbr=on}} || {{convert|218|Nm|lbft|0|abbr=on}} || MY 1988-1993
+|-
+|}
+
+===Notable trim levels and special variants===
+
+The four basic trim levels were LS, GL, GLS and CD (from least to most expensive). The base LS was clearly intended for the fleet market, with the sedan not available to individual customers in some markets. The LS Caravan was also available as a panel van with rear side windows covered with body-colored foil rather than replaced by solid panels.
+
+For the 1991 year, the Omega A was afforded a [[facelift (product)|facelift]], which encompassed slight alterations to front and rear fascias, as well as interior materials and additional sound dampening. The until-then base 1.8&nbsp;L engine was dropped. The LS and GLS trim levels were also dropped, while the CD was joined by Club and CD Diamant.
+
+====Omega Diamant====
+
+This options package was introduced in 1988 and could be added onto the GLS, LS and CD trim version. It included alloy wheels, metallic paint, tinted windows, stereo with cassette player, various leather trim in the interior, as well as a painted grille and door mirrors. It sold well and the package was kept after the facelift and a similar system with the same name was used for the Omega B.<ref name="Senatorman"/> 
+
+====Omega 3000 / Carlton GSi====
+
+The Omega 3000 was the sports version of the Omega. It featured a [[straight-6]], 3.0 litre, 12-valve engine, which produced {{convert|177|bhp|kW PS|0|abbr=on}} . Other modifications from the base model included a lowered [[Suspension (vehicle)|suspension]] and [[limited slip differential]], as well as different fascias and a rear spoiler. The car had a top speed of {{convert|222|km/h|mi/h|0|abbr=on}}, and accelerated from 0-100&nbsp;km/h in 8.8 seconds.
+
+In 1989, the Omega 3000 was upgraded. The engine now had 24 valves, two overhead [[camshaft]]s, and a variable [[intake manifold]] (Opel ''Dual Ram'' system). It also used a more advanced [[engine control unit]]. Power increased to {{convert|204|bhp|kW PS|0|abbr=on}} , which increased top speed to {{convert|240|km/h|mi/h|0|abbr=on}}, and 0-100&nbsp;km/h time dropped to 7.6 seconds.
+In countries where the car was sold as a [[Vauxhall Motors|Vauxhall]], the 3000 was called the Carlton GSi.
+
+====Omega Evolution 500====
+[[Image:Omegaevo500-1.JPG|thumb|right|150px|Opel Omega 500]]
+
+This was limited series model produced together with [[Irmscher]]. It was built so Opel could compete in the [[Deutsche Tourenwagen Meisterschaft|DTM]]. The car had a 3 litre [[straight-6]] producing {{convert|230|bhp|kW PS|0|abbr=on}} . The car accelerated from 0-100&nbsp;km/h in 7.5 seconds and had a top speed of {{convert|249|km/h|mi/h|0|abbr=on}}.
+The racing version used on the track had {{convert|380|bhp|kW PS|0|abbr=on}}, accelerated to {{convert|100|km/h|mi/h|0|abbr=on}} in about 5 seconds, and could reach nearly {{convert|300|km/h|mi/h|0|abbr=on}} . It did not achieve great success however.<ref name="Senatorman"> 
+{{cite web
+|url = http://www.senatorman.de/opel_omega_a.htm
+|title = Senatorman website, Opel Omega A page (German)
+|accessdate = 2007-09-11}}
+</ref>
+
+====Lotus Omega/Carlton====
+[[Image:OpelopelvauxhomegaAlotus.JPG|thumb|left|150px|Opel Omega with Lotus Engine]]
+
+{{main|Lotus Carlton}}
+
+In 1989, a high performance version built in cooperation with [[Lotus Cars|Lotus]] was introduced. The car was named the Lotus Omega or Lotus Carlton, depending on whether the base car was sold as an Opel Omega or Vauxhall Carlton respectively.
+The car was built using a great variety of parts from other GM suppliers and car manufacturers. The engine was a 3,0 litre 24 valve item, and this was handed to Lotus for the tuneup. Lotus added a hardened and larger crankshaft, giving the engine its total size of 3,6 litres. Two [[Garrett Systems|Garrett]] T25 turbochargers were installed, along with a watercooled [[intercooler]]. The engine management was also changed and the ignition changed to an AC Delco type (same system as the Lotus Esprit uses). The result was a {{convert|377|bhp|kW PS|0|abbr=on}} performance engine. The Omega also got a bigger differential from a Holden car with a 45% LSD, and the gearbox was changed to the 6-speed manual ZF gearbox from the [[Chevrolet Corvette|Corvette ZR1]]. The tyres where custom made by Goodyear and can be recognized by the small Greek letter Ω ([[Omega]]) on the side. This was required as this car could reach 280 to {{convert|300|km/h|mi/h|0|abbr=on}}. This was a fact not popular at the time, as most of the other German car manufacturers that produced fast and powerful cars had already begun putting in speed limiters to limit their cars to {{convert|250|km/h|mi/h|0|abbr=on}}. The {{convert|1663|kg|lb|0|abbr=on}} car accelerated from 0 to 100&nbsp;km/h (0 to 60 mph) in 5.3 seconds, 0 to 160&nbsp;km/h (0 to 100 mph) in 11.5 seconds.<ref>
+{{cite web
+|url = http://www.home.zonnet.nl/patver/Tech/techn_lotus_omega.htm
+|title = Specifications for engine and gearbox (Dutch)
+|accessdate = 2007-09-11}}
+</ref><ref>
+{{cite web
+|url = http://www.carsplusplus.com/specs1990/opel_lotus_omega.php
+|title = Cars++ Specifications for Lotus Omega
+|accessdate = 2007-09-11}}
+</ref>
+
+==Opel Omega B==
+
+{{Infobox Automobile generation
+| image        = [[Image:Opel Omega Sedan 1997.jpg|250px|Opel Omega B sedan]]
+|name           = Omega B
+|aka          = Vauxhall Omega<br>[[Cadillac Catera]]
+|manufacturer   = [[Adam Opel AG]]
+|parent_company = [[GM]]
+|production     = 1994&ndash;1999
+|assembly       = [[Germany]]
+|predecessor    = [[Opel Omega#Opel Omega A|Opel Omega A]]
+|successor      = [[Opel Omega#Opel Omega B FL|Opel Omega B FL]]
+|class          = [[Full-size]] [[Luxury vehicle|luxury car]]
+|body_style     = [[sedan (automobile)|saloon/sedan]]<br>[[station wagon|estate]]
+|layout         = [[FR layout]]
+|engine         = '''Petrol'''<br />'''[[Straight-4]]'''<br />2.0i L [[X20SE]]<br />2.0i L [[X20XEV]]<br />'''[[V6]]'''<br />2.5i L [[X25XE]]<br />3.0i L [[X30XE]]<br />'''Diesel'''<br />'''[[Straight-4]]'''<br />2.0 L DTI [[X20DTH]]<br />'''[[Straight-6]]'''<br />2.5 L TD [[25TD]]<br />2.5 L TD [[X25TD]]<br />
+|transmission   = 4-speed automatic<br />5-speed manual
+|wheelbase      = {{convert|2730|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4790|mm|1|abbr=on}},<br />{{convert|4820|mm|1|abbr=on}} (estate)
+|width          = {{convert|1785|mm|1|abbr=on}}
+|height         = {{convert|1455|mm|1|abbr=on}},<br />{{convert|1500|mm|1|abbr=on}} (estate
+|weight         = {{convert|1400|kg|0|abbr=on}}
+|sp             = us7
+}}
+
+The 1994 '''Omega B''' was an all-new car with a modern exterior design but a traditional rear-wheel drive chassis. The engine range was all-new:
+
+===Engines===
+
+{| class="wikitable" style="text-align: left"
+|-
+|colspan=5|<center>'''Petrol'''</center>
+|-
+! Engine || Cyl. || Power  || Torque || Notes<ref>{{cite web|url=http://www.club-opel.com/model_detail.php?id=21&lang=eng |title=Opel CLUB - Opel Omega |publisher=Opel Club |date= |accessdate=2009-05-17}}</ref>
+|-
+| [[X20SE]] 2.0i 8V || [[I4]] || {{convert|116|PS|kW hp|0|abbr=on}} || {{convert|172|Nm|lbft|0|abbr=on}} || MY 1994-1999
+|-
+| [[X20XEV]] 2.0i 16V || [[I4]] || {{convert|136|PS|kW hp|0|abbr=on}} || {{convert|185|Nm|lbft|0|abbr=on}} || MY 1994-1999
+|-
+| [[X25XE]] 2.5i 24V || [[V6]] || {{convert|170|PS|kW hp|0|abbr=on}} || {{convert|227|Nm|lbft|0|abbr=on}} ||MY 1994-2000
+|-
+| [[X30XE]] 3.0i 24V || [[V6]] || {{convert|211|PS|kW hp|0|abbr=on}} || {{convert|270|Nm|lbft|0|abbr=on}} || MY 1994-2000
+|-
+|colspan=5|<center>'''Diesel'''</center>
+|-
+! Engine || Cyl. || Power  || Torque || Notes<ref>{{cite web|url=http://www.club-opel.com/model_detail.php?id=21&lang=eng |title=Opel CLUB - Opel Omega |publisher=Opel Club |date= |accessdate=2009-05-17}}</ref>
+|-
+| [[X20DTH]] 2.0 DTI 16V || [[I4]] || {{convert|101|PS|kW hp|0|abbr=on}} || {{convert|205|Nm|lbft|0|abbr=on}} || MY 1998-2000
+|-
+| [[25TD]] 2.5 TD || [[I6]] || {{convert|132|PS|kW hp|0|abbr=on}} ||  ||MY 1994-2000
+|-
+| [[X25TD]] 2.5 TD || [[I6]] || {{convert|133|PS|kW hp|0|abbr=on}} ||  || MY 1996-2000
+|-
+|}
+
+V6 powered versions (2.5l and 3.0l) had "'''MV6'''" badge.
+
+<ref>
+{{cite web
+|url = http://www.senatorman.de/opel_omega_b.htm
+|title = Senatorman website, Opel Omega B page (German)
+|accessdate = 2007-09-11}}
+</ref>
+
+'''Common Faults'''
+
+The V6 engine is prone to cambelt failure, the initial {{convert|80000|mi|km|sing=on}} service interval for toothed belt replacement was revised down to {{convert|40000|mi|km}} early in the model's life. Due to the fact that the engine is an interference design, failure of this component can result in serious engine damage. The service interval was revised to 100,000 miles for model year 2000 and later units when upgraded tensioner pulley were introduced.{{Fact|date=May 2009}}
+
+[[File:Opel Omega rear 20071109.jpg|thumb|left|250px|Opel Omega B - rear]]
+
+{{clear}}
+
+==Opel Omega B FL==
+
+{{Infobox Automobile generation
+| image        = [[File:Opelopelvauxhomega.JPG|250px|Last Opel Omega]]
+|name           = Omega B FL
+|aka          = Vauxhall Omega<br>[[Cadillac Catera]]
+|manufacturer   = [[Adam Opel AG]]
+|parent_company = [[GM]]
+|production     = 1999&ndash;2003
+|assembly       = [[Germany]]
+|predecessor    = [[Opel Omega#Opel Omega B|Opel Omega B]]
+|class          = [[Full-size]] [[Luxury vehicle|luxury car]]
+|body_style     = [[sedan (automobile)|saloon/sedan]]<br>[[station wagon|estate]]
+|layout         = [[FR layout]]
+|engine         = '''Petrol'''<br />'''[[Straight-4]]'''<br />2.0i L [[X20XEV]]<br />2.2i L [[Y22XEV]]<br />2.2i L [[Z22XEV]] <br />'''[[V6]]'''<br />2.5i L [[X25XE]]<br />2.6i L [[Y26SE]]<br />3.0 L [[X30XE]]<br />3.2 L [[Y32SE]]<br />'''Diesel'''<br />'''[[Straight-4]]'''<br />2.0 L DTI [[X20DTH]]<br />2.2 L DTI [[Y22DTH]]<br />'''[[Straight-6]]'''<br />2.5 L TD [[X25DT]]<br />2.5 L DTI [[Y25DT]]<br />
+|transmission   = 4-speed automatic<br />5-speed automatic<br />5-speed manual
+|wheelbase      = {{convert|2730|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4898|mm|1|abbr=on}}
+|width          = {{convert|1776|mm|1|abbr=on}}
+|height         = {{convert|1455|mm|1|abbr=on}},<br />{{convert|1540|mm|1|abbr=on}} (estate
+|weight         = {{convert|1530|kg|0|abbr=on}}
+|sp             = us7
+}}
+
+Omega B FL replaced previous model in Autumn [[1999]]. There weren't any significant changes into bodywork, however lots of details have been reviewed.
+
+'''Changes outside:'''
+*hood (grill now integrated with hood)
+*tail lights
+*mirrors
+*new design of alloy wheels
+
+'''Changes inside:'''
+*brand new central console with gps, air conditioning controls
+*ESP
+*brake assistance system
+
+===Engines===
+
+Late in 1999, the Omega received a facelift and a 2.2&nbsp;L 16-valve engine was added to the range as an eventual replacement for the 2.0&nbsp;L. 
+
+The following year, a 3.2&nbsp;L V6 engine replaced the 3.0&nbsp;L V6 unit, and a 2.6&nbsp;L V6 engine replaced the 2.5&nbsp;L V6 unit.
+
+Year 2001 brought brand new diesel 2.5 DTI engine from BMW, with Common rail system. 
+
+{| class="wikitable" style="text-align: left"
+|-
+|colspan=5|<center>'''Petrol'''</center>
+|-
+! Engine || Cyl. || Power  || Torque || Notes<ref>{{cite web|url=http://www.club-opel.com/model_detail.php?id=21&lang=eng |title=Opel CLUB - Opel Omega |publisher=Opel Club |date= |accessdate=2009-05-17}}</ref>
+|-
+| [[X20XEV]] 2.0i 16V || [[I4]] || {{convert|136|PS|kW hp|0|abbr=on}} || {{convert|185|Nm|lbft|0|abbr=on}} || MY 1994-1999
+|-
+| [[Y22XEV]] 2.2i 16V || [[I4]] || {{convert|145|PS|kW hp|0|abbr=on}} ||  || Until MY 2000
+|-
+| [[Z22XEV]] 2.2i 16V || [[I4]] || {{convert|145|PS|kW hp|0|abbr=on}} ||  ||MY 2001-2003
+|-
+| [[X25XE]] 2.5 24V || [[V6]] || {{convert|170|PS|kW hp|0|abbr=on}} || {{convert|227|Nm|lbft|0|abbr=on}} || MY 1994-2000
+|-
+| [[Y26SE]] 2.6 24V || [[V6]] || {{convert|180|PS|kW hp|0|abbr=on}} || {{convert|240|Nm|lbft|0|abbr=on}} || MY 2001-2003
+|-
+| [[X30XE]] 3.0 24V || [[V6]] || {{convert|211|PS|kW hp|0|abbr=on}} || {{convert|270|Nm|lbft|0|abbr=on}} ||MY 1994-2000
+|-
+| [[Y32SE]] 3.2 24V || [[V6]] || {{convert|218|PS|kW hp|0|abbr=on}} || {{convert|290|Nm|lbft|0|abbr=on}} || MY 2001-2003
+|-
+|colspan=5|<center>'''Diesel'''</center>
+|-
+! Engine || Cyl. || Power  || Torque || Notes<ref>{{cite web|url=http://www.club-opel.com/model_detail.php?id=21&lang=eng |title=Opel CLUB - Opel Omega |publisher=Opel Club |date= |accessdate=2009-05-17}}</ref>
+|-
+| [[X20DTH]] 2.0 DTI 16V || [[I4]] || {{convert|101|PS|kW hp|0|abbr=on}} || {{convert|205|Nm|lbft|0|abbr=on}} || MY 1998-2000
+|-
+| [[Y22DTH]] 2.2 DTI 16V || [[I4]] || {{convert|120|PS|kW hp|0|abbr=on}} || {{convert|280|Nm|lbft|0|abbr=on}} || MY 2000-2003
+|-
+| [[X25DT]] 2.5 TD || [[I6]] || {{convert|131|PS|kW hp|0|abbr=on}} || {{convert|250|Nm|lbft|0|abbr=on}} ||MY 1994-2000
+|-
+| [[Y25DT]] 2.5 DTI || [[I6]] || {{convert|150|PS|kW hp|0|abbr=on}} || {{convert|300|Nm|lbft|0|abbr=on}} || MY 2001-2003
+|-
+|}
+
+[[File:Opel Omega B rear 20081218.jpg|thumb|left|250px|Opel Omega B FL - rear]]
+
+{{clear}}
+
+==Opel Omega V8 (prototypes)==
+
+{{Infobox Automobile generation
+| image        = 
+|name           = Omega V8.com / V8
+|aka          = 
+|manufacturer   = [[Adam Opel AG]]
+|parent_company = [[GM]]
+|production     = 1999&ndash;2001 ([[prototype|prototypes only]])
+|assembly       = [[Germany]]
+|predecessor    = [[Opel Omega#Opel Omega B|Opel Omega B]]
+|class          = [[Full-size]] [[Luxury vehicle|luxury car]]
+|body_style     = [[sedan (automobile)|saloon/sedan]]<br>[[station wagon|estate]]
+|layout         = [[FR layout]]
+|engine         = '''Petrol'''<br />'''[[V8]]'''<br />5.7 L [[GM LS engine|LS1]]<br />
+|transmission   = 5-speed automatic
+|wheelbase      = {{convert|2730|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4898|mm|1|abbr=on}}
+|width          = {{convert|1775|mm|1|abbr=on}}
+|height         = {{convert|1455|mm|1|abbr=on}}
+|weight         = {{convert|2195|kg|0|abbr=on}}
+|sp             = us7
+}}
+
+Opel was aiming to compete with [[BMW 5]] and [[Mercedes-Benz E-Class|Mercedes E class]], deciding of putting the [[V8 engine]] into at the time flagship model Opel Omega. There were [[prototype|prototypes]] of sedan and station wagon version (equipped with multimedia systems, and named V8.com).
+
+===Omega V8.com===
+
+The V8.com [[concept car]] project was meant to be a "mobile office" it was built on Omega station wagon which was elongated by 130mm, to provide more space for the passengers and additional equipment; containing separate 9.5 inch LCD screens for all passengers, internet access and integrated video conference mobile phone system with separate cameras and microphones providing passengers hands-free operation. Additionally the car was equipped with Xenon headlights, and Advanced Frontlighting System (AFS), automatically adjuststable to the road conditions.
+
+Hence the name it was powered by a [[GM LS engine|GM LS1]] V8 engine.
+
+The car debuted at [[Frankfurt Motor Show]] in [[1999]].<ref>{{cite web|url=http://media.gm.com/eur/gm/en/GME/press/1999/99091409-14-99_IAA-99-Omega-V8-com.asp.htm |title="Omega V8.com" - Tomorrow's Multi-Media-Mobile |publisher=GM |date= |accessdate=2009-05-15}}</ref>
+
+===Omega V8===
+
+Opel was planning to upgrade its flagship Omega model with powerful [[GM LS engine|GM LS1 V8]] engine used in Chevrolet Corvette. 
+
+Unlike V8.com which was the [[concept car]], this model was intended to go into [[serial production]].
+
+Omega V8 was showed publicly for the first time at 70th [[Geneva Motor Show]] (March 2 - 12, 2000). A V8-engined version was to be put on sale autumn [[2000]].<ref>{{cite web|url=http://www.carenthusiast.co.uk/2000/shows/geneva2000/vauxhall/articles/omega_1.html |title="OMEGA V8 PROMISES STUNNING PERFORMANCE AND PREMIUM QUALITY |publisher=Car Enthusiast |date= |accessdate=2009-05-15}}</ref>
+
+'''Cancelling'''
+
+The reasons for cancelling production plans were concerns about whether the engine was ''vollgasfest'' ([[German language|German]], "Full throttle resistant") - the engine might overheat and be damaged if driven flat out on the [[Autobahn]] for long periods of time.<ref>{{cite web
+|url = http://www.senatorman.de/opel_omega_b.htm
+|title = Senatorman website, Opel Omega B page, section "Die Motoren" (German)
+|accessdate = 2009-09-03}}
+</ref>
+==Omega for different markets==
+
+===Great Britain===
+
+==== Vauxhall Carlton ====
+:''See main article: [[Vauxhall Carlton]]''
+In the United Kingdom, the [[Opel Omega#Opel Omega A|Omega A]] was marketed as the second generation [[Vauxhall Carlton]] (the first generation Vauxhall Carlton having been a rebadged [[Opel Rekord]]) E2, and the Omega B generation as Vauxhall Omega.  This generation introduced Vauxhall's corporate "V" chrome grille which would be seen in the forthcoming [[Vauxhall Vectra|Vectra]] and facelifted [[Vauxhall Astra|Astra]] the following year.  This grille design would remain a feature of all subsequent Vauxhall models until the [[2009]] [[Opel Insignia|Insignia]].
+
+===America===
+
+==== Chevrolet Omega ====
+:''See main article: [[Chevrolet Omega]]''
+The Omega was built and sold in [[Brazil]] badged as a [[Chevrolet Omega]] and [[Chevrolet Omega|Suprema]] (Caravan), but this name is now used for imported [[Holden Commodore]]s.
+
+==== Cadillac Catera ====
+{{main|Cadillac Catera}}
+
+A [[badge engineering|badge engineered]] version of the [[Opel Omega#Opel Omega B|Omega B]] MV6 was sold in North America under the name of [[Cadillac Catera]].
+
+===Australia===
+
+==== Holden Commodore ====
+:''See main article: [[Holden Commodore]]''
+The Omega B platform is the base, enlarged and modified, of the [[Holden VT Commodore]] and [[Holden VX Commodore]], assembled in Australia and sold solely in the Australian and New Zealander markets.
+
+==End of the Omega==
+
+Opel Omega proved to be a successful car, being reliable and durable, after latest facelifting it was also very modern looking car, nevertheless, after 4 years since introduction of [[Opel Omega#Opel Omega B FL|Omega B FL]], Opel ended production of this model, not showing successor. On [[25 June]] [[2003]] the factory left Omega B FL number 797,011. A silver 3.2-liter V6, was the last vehicle of this model built in Rüsselsheim.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+{{linkfarm}}
+*[http://www.pbase.com/elvin315/the_cadillac_catera_4&page=6 Opel Omega V8.com concept car pictures]
+*[http://www.autobahnstormers.org/ Autobahnstormers - V-platform Vauxhall/Opel enthusiasts' site]
+*[http://www.omegaowners.com Omega Owners - Omega B Vauxhall/Opel enthusiasts' site]
+*[http://www.senatorman.de/opel_omega_b.htm Senatorman's page describing the full history of the Omega B (German)]
+*[http://www.classicopelparts.com/ Classic Opel Parts database]
+*[http://www.omegaowners.com/forum/YaBB.pl Omega owners forum]
+*[http://www.totalcarlton.com/ Total Carlton - Vauxhall Carlton/Opel Omega A Enthusiasts' site]
+{{Opel timeline}}
+
+[[Category:Opel vehicles|Omega]]
+[[Category:Euro NCAP executive cars]]
+[[Category:Executive cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+[[Category:Vehicles introduced in 1986]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+
+[[da:Opel Omega]]
+[[de:Opel Omega]]
+[[es:Opel Omega]]
+[[fr:Opel Omega]]
+[[it:Opel Omega]]
+[[nl:Opel Omega]]
+[[ja:オペル・オメガ]]
+[[no:Opel Omega]]
+[[pl:Opel Omega]]
+[[ru:Opel Omega]]
+[[fi:Opel Omega]]
+[[sv:Opel Omega]]

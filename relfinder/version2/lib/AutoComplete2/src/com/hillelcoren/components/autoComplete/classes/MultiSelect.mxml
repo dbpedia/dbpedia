@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:GridRow xmlns:mx="http://www.adobe.com/2006/mxml" width="100%">
+	
+	<mx:Metadata>
+		[Event(name="change", type="flash.events.Event")]
+	</mx:Metadata>
+
+	<mx:Script>
+		<![CDATA[
+			import com.hillelcoren.utils.ArrayCollectionUtils;
+			import mx.collections.IList;
+			import mx.events.DragEvent;
+			import mx.utils.ObjectUtil;
+			import mx.events.ListEvent;
+			import mx.collections.ArrayCollection;
+						
+			[Bindable]
+			private var _dataProvider:ArrayCollection;
+			private var _dataProviderChanged:Boolean;
+			
+			[Bindable]
+			private var _labelFunction:Function;
+			
+			[Bindable]
+			private var _isOrderable:Boolean;
+			private var _isOrderableChanged:Boolean;
+			
+			[Bindable]
+			private var _removeLabel:String;
+			
+			public function set dataProvider( value:ArrayCollection ):void
+			{
+				_dataProvider = value;
+				_dataProviderChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			public function set labelFunction( value:Function ):void
+			{
+				_labelFunction = value;
+			}
+			
+			public function set isOrderable( value:Boolean ):void
+			{
+				_isOrderable = value;
+				_isOrderableChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			override protected function commitProperties():void
+			{
+				super.commitProperties();
+				
+				if (_dataProviderChanged)
+				{
+					_dataProviderChanged = false;
+					list.dataProvider = _dataProvider;
+				}
+				
+				if (_isOrderableChanged)
+				{
+					_isOrderableChanged = false;
+					orderingButtons.visible = _isOrderable;
+					orderingButtons.includeInLayout = _isOrderable;
+				}
+			}
+			
+			private function handleRemoveClick():void
+			{
+				if (list.selectedIndices.length == 0)
+				{
+					return;
+				}
+				
+				for each (var item:Object in list.selectedItems)
+				{
+					_dataProvider.removeItemAt( _dataProvider.getItemIndex( item ) );
+				}
+				
+				callLater( selectFirstItem );
+				
+				dispatchEvent( new Event( Event.CHANGE ) );
+			}
+			
+			private function selectFirstItem():void
+			{
+				if (_dataProvider.length > 0)
+				{
+					list.selectedIndex = 0;
+				}
+			}
+			
+			private function moveItems( moveTo:String ):void
+			{
+				if (list.selectedIndex == -1)
+				{
+					return;
+				}
+				
+				var tmp:Array = list.selectedItems;				
+				ArrayCollectionUtils.moveItems( _dataProvider, list.selectedIndices, moveTo );
+				list.selectedItems = tmp;
+				
+				dispatchEvent( new Event( Event.CHANGE ) );
+			}
+			
+			private function handleDragDrop( event:DragEvent ):void
+			{
+				// only allow drag/drop to reorder elements in list
+				// also, check if they're trying to do a copy-move
+				if (event.dragInitiator != list || event.ctrlKey)
+				{
+					event.preventDefault();
+					event.currentTarget.hideDropFeedback(event);
+					
+					return;
+				}
+				
+				// we need to let the app reorder the items before we notify
+				// that the order has been changed
+				callLater( dipsatchChangeEvent );
+			}
+			
+			private function dipsatchChangeEvent():void
+			{
+				dispatchEvent( new Event( Event.CHANGE ) );
+			}
+			
+			public function set removeLabel( value:String ):void
+			{
+				_removeLabel = value;
+			}
+					
+		]]>		
+	</mx:Script>
+	
+	
+	<mx:GridItem width="100%">
+		<mx:List id="list" dataProvider="{ _dataProvider }" rowCount="10" width="100%" allowMultipleSelection="true" labelFunction="{ _labelFunction }"
+			variableRowHeight="true" dragEnabled="{ _isOrderable }" dragMoveEnabled="{ _isOrderable }" dropEnabled="{ _isOrderable }" dragDrop="handleDragDrop(event)"/>
+	</mx:GridItem>
+	
+	<mx:GridItem>
+		<mx:VBox height="100%">
+			<mx:Button id="removeButton" label="{ _removeLabel }" click="handleRemoveClick()" width="{ Consts.BUTTON_WIDTH }"/>
+			<mx:Spacer height="100%"/>
+			<mx:VBox id="orderingButtons">
+				<mx:Button icon="@Embed(source='/com/hillelcoren/assets/top.png')" width="50" click="{ moveItems( ArrayCollectionUtils.MOVE_TOP ) }" toolTip="Move to top"/>
+				<mx:Button icon="@Embed(source='/com/hillelcoren/assets/up.png')" width="50" click="{ moveItems( ArrayCollectionUtils.MOVE_UP ) }" toolTip="Move up"/>
+				<mx:Button icon="@Embed(source='/com/hillelcoren/assets/down.png')" width="50" click="{ moveItems( ArrayCollectionUtils.MOVE_DOWN ) }" toolTip="Move down"/>
+				<mx:Button icon="@Embed(source='/com/hillelcoren/assets/bottom.png')" width="50" click="{ moveItems( ArrayCollectionUtils.MOVE_BOTTOM ) }" toolTip="Move to bottom"/>	
+			</mx:VBox>				
+		</mx:VBox>
+	</mx:GridItem>
+	
+		
+</mx:GridRow>

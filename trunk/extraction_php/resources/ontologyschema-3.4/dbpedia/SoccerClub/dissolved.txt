@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = dissolved
+|rdfs:domain = SoccerClub
+|rdfs:range = xsd:date
+}}

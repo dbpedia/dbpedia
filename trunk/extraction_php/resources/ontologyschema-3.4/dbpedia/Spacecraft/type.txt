@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = type
+|rdfs:domain = Spacecraft
+|rdfs:range = owl:Thing
+}}

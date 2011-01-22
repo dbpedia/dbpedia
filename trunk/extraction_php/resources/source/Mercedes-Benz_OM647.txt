@@ -1,0 +1,48 @@
+{{Orphan|date=February 2009}}
+{{Infobox Automobile engine
+| image         = 
+| name          = Mercedes-Benz OM647 engine
+| aka           = 
+| manufacturer  = [[Mercedes-Benz]]
+| type          = OM647
+| production    = [[2004]]–[[2006]]
+| predecessor   = [[Mercedes-Benz OM612 engine]]
+| successor     = 
+| bore          = 
+| stroke        = 
+| displacement  = 2.7 L (2687 cc)
+| length        = 
+| diameter      = 
+| width         = 
+| height        = 
+| weight        = 
+| block         = 
+| head          = 
+| valvetrain    = DOHC
+| supercharger  = 
+| turbocharger  = Yes
+| fuelsystem    = [[Common rail]] direct injection
+| fueltype      = [[Diesel fuel|Diesel]]
+| oilsystem     = 
+| coolingsystem = 
+| power         = 
+| specpower     = 
+| torque        = 
+| compression   = 
+| fuelcon       = 
+| specfuelcon   = 
+| oilcon        = 
+}}
+The '''[[Mercedes-Benz]] OM647 [[Internal combustion engine|engine]]''' is a [[straight-5]] [[diesel engine]] produced by [[Mercedes-Benz]].
+
+This engine utilizes a cast iron cylinder block and an aluminum cylinder head. The engine is turbocharged and intercooled. This engine also has four valves per cylinder and dual overhead camshafts. 
+
+A very distinguishable aspect of the OM647 from the very similar [[Mercedes-Benz_OM612_engine|OM612]] predecessor is its intake manifold.
+
+== Sources ==
+*http://sprinter-source.com/wiki/index.php/OM647
+*
+*
+*
+
+[[Category:Mercedes-Benz engines|OM647]]

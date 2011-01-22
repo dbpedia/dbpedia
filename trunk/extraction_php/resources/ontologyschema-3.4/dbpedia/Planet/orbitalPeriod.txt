@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = orbital period
+|rdfs:domain = Planet
+|rdfs:range = day
+}}

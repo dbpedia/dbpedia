@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Company
+| rdfs:subClassOf = Organisation
+}}

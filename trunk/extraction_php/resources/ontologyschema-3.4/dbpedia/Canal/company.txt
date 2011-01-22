@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = company
+|rdfs:domain = Canal
+|rdfs:range = Organisation
+}}

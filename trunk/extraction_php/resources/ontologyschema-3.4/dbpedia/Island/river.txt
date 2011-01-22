@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = river
+|rdfs:domain = Island
+|rdfs:range = River
+}}

@@ -1,0 +1,66 @@
+{{otherpeople}}
+{{Infobox Celebrity
+| name = Steven Gregory Woods
+| image =
+| caption =
+| birth_date = {{birth date and age|1965|06|16}}
+| birth_place = [[Melfort, Saskatchewan]]
+| death_date =
+| death_place =
+| occupation = Currently [[Google]] site director in [[Waterloo, Ontario|Waterloo]], [[Canada]]. Former [[Quack.com]] [[Entrepreneur|Co-founder]] and [[NeoEdge]] [[Entrepreneur|Co-founder]] & [[executive director|Director]].
+| salary =
+| networth =
+| spouse =
+| children =
+| website =
+| footnotes =
+}}
+
+'''Steven Gregory Woods''' (born [[June 16]], [[1965]], [[Melfort, Saskatchewan]], is a [[Canadian]] entrepreneur. He is best known for co-founding ''[[Quack.com]]'', the first popular [[Voice portal]] platform, in 1998.
+
+== Career ==
+Motivated by Woods' desire to pull together a highly talented group of friends in one place to do something interesting for a year, [[Quack.com]] was born in 1998, funded September 1, 1999, and acquired August 31, 2000 by [[America Online]].<ref>{{cite web|url=
+http://www.accessmylibrary.com/coms2/summary_0286-9357905_ITM|title=Voice: The Killer App|accessdate=2008-03-13|year=2008}}</ref>
+
+Woods is currently Site Director for [[Google]] in its [[Waterloo, Ontario|Waterloo]], [[Canada]] facility.
+<ref>{{cite web|url=http://www.linkedin.com/in/stevenwoods
+|title=Steven Woods's public LinkedIn profile|accessdate=2008-09-24|year=2008}}</ref> Previously, he served as Chief Technology Officer of [[NeoEdge Networks]], in [[Palo Alto]], [[California]].<ref>{{cite web
+ | title =NeoEdge | Company
+ | publisher =NeoEdge Networks
+ | date =2008
+ | url =http://neoedge.com/company/mt.htm#steven
+ | format =
+ | doi =
+ | accessdate = 2008-03-13 }}</ref> He founded NeoEdge in 2002 under the name [[Kinitos]]<ref>{{cite web|url=http://www.cs.usask.ca/research/seminars/pgs_dg.shtml|title=Steven Woods - P.G. Sorenson Distinguished Graduate Lecture|accessdate=2008-03-13|year=2008}}</ref> along with former [[America Online]], [[Netscape]], and [[Quack.com]] colleagues including [[Jeromy Carriere]]. Prior to NeoEdge, Woods was Vice President of Voice Services for [[America Online]] and [[Netscape]] - joining America Online through the acquisition of [[Quack.com]] in September, 2000<ref>{{cite web|url=http://findarticles.com/p/articles/mi_hb5559/is_200009/ai_n22589166
+|title=Jefferson Partners' Investment in Quack.com Pays Off, as Voice-to-Web Innovator is Acquired by AOL|accessdate=2008-03-13|year=2008}}</ref>. Quack.com was notable as the first [[Voice Portal]], and held a number of key patents around interactive voice applications, including the definitive [[Voice Portal]] patent - "System and method for voice access to internet-based information"<ref>{{cite web|url=
+http://www.google.com/patents?id=Z1kOAAAAEBAJ&dq=Steven+Woods|title=System and method for voice access to internet-based information
+ |accessdate=2008-03-13|year=2008}}</ref>. In 1998 Woods co-founded Pittsburgh-based voice-portal infrastructure company [[Quackware]] with [[Jeromy Carriere]] and [[Alex Quilici]]. Quackware became [[Quack.com]] in 1999 and moved headquarters to [[Silicon Valley]]<ref>{{cite web|url=http://www.digitalmooselounge.com/press/press_5.htm
+|title=Risking it all for dot-com gold in California|accessdate=2008-03-13|year=2008}}</ref>.
+
+Before the founding of [[Quack.com]], Woods was Technical Staff Member at [[Carnegie Mellon]]'s [[Software Engineering Institute]]<ref>{{cite web|url=http://www.sei.cmu.edu/library/abstracts/news-at-sei/feature11q02.cfm
+|title=SEI Architecture Practices Propel Successful Startup|accessdate=2008-03-13|year=2008}}</ref> working on technical efforts there in product line development and practical software architectural reconstruction and analysis. He holds a Ph.D and M.Math from the [[David R. Cheriton School of Computer Science]] at the [[University of Waterloo]]<ref>{{cite web|url=http://uw.cheerweb.net/index.php?secid=17&pageid=55&PHPSESSID=d899682e021826bda04e16e8607013d2
+|title=University of Waterloo - notable companies started by alumni|accessdate=2008-03-13|year=2008}}</ref> in [[Canada]] and a B.Sc. from the [[University of Saskatchewan]]<ref>{{cite web|url=http://en.wikipedia.org/wiki/University_of_Saskatchewan#Notable_companies_started_by_alumni_and_spin-offs
+|title=Steven Woods - University of Saskatchewan Alumni|accessdate=2008-03-13|year=2008}}</ref>.
+
+Woods' Ph.D was published in 1997 as a book co-written with [[Alex Quilici]] and Qiang Yang entitled "Constraint-Based Design Recovery for Software Reengineering: Theory and Experiments"<ref>{{cite web|url=http://www.amazon.com/Constraint-Based-Design-Recovery-Software-Reengineering/dp/B000TB8BKG/ref=sr_1_2?ie=UTF8&s=books&qid=1205539108&sr=8-2
+|title=Constraint-Based Design Recovery for Software Reengineering: Theory and Experiments|accessdate=2008-03-13|year=2008}}</ref>
+
+==Trivia==
+* While at the University of Waterloo, Woods captained the varsity [[Waterloo Warriors]] golf team and in 1995 was co-winner of the [[Ontario University Athletics]] "Len Shore Trophy" for top individual performance<ref>{{cite web|url=http://oua.ca/sports/golf/awards/#LEN%20SHORE%20TROPHY
+|title=OUA Golf Len Shore Trophy|accessdate=2008-03-13|year=2008}}</ref>.
+* During 1991-1992 Woods was a member of the [[Canberra Knights]] semi-professional ice hockey in the [[Australian Ice Hockey League]].
+
+==Notes==
+<div class='references-small'><references /></div>
+
+==External links==
+* [http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Woods:Steven.html Research Publications by Steven Woods]
+
+{{DEFAULTSORT:Woods, Steven}}
+[[Category:University of Waterloo alumni]]
+[[Category:University of Saskatchewan alumni]]
+[[Category:Canadian businesspeople]]
+[[Category:Software engineering researchers]]
+[[Category:People from Melfort, Saskatchewan]]
+[[Category:Living people]]
+[[Category:1965 births]]

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = opening film
+| rdfs:domain = FilmFestival
+| rdfs:range = Film
+}}

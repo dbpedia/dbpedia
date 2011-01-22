@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Figure Skater
+|rdfs:subClassOf = Athlete
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= designer company
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= Company
+}}

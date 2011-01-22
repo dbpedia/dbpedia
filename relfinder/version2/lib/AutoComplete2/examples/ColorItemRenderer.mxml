@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox 
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="100%" height="100%" updateComplete="handleUpdate()"
+	verticalGap="0" horizontalGap="0"
+	verticalScrollPolicy="off" horizontalScrollPolicy="off" 
+	verticalAlign="middle">
+	<mx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+			import com.hillelcoren.utils.StringUtils;
+			import mx.utils.StringUtil;
+			import mx.events.FlexEvent;
+			import mx.controls.List;
+			
+			[Bindable]
+			private var _list:List;
+			
+			private var _selectedItems:ArrayCollection;
+			
+			public function set selectedItems( value:ArrayCollection ):void
+			{
+				_selectedItems = value;
+			}
+			
+			override public function set data( value:Object ):void
+			{
+				super.data = value;
+				
+				if (!value)
+				{
+					return;
+				}
+				
+				_list = owner as List;
+				
+				nameLabel.htmlText = _list.labelFunction( value );
+				hexLabel.htmlText = "Hex: " + value.hex;								
+				colorBox.setStyle( "backgroundColor", value.hex );
+				
+				if (_selectedItems && _selectedItems.getItemIndex( value ) >= 0)
+				{
+					this.setStyle( "color", Consts.COLOR_TEXT_DISABLED );
+				}
+				else
+				{
+					this.clearStyle( "color" );
+				}
+			}
+			
+			private function handleUpdate():void
+			{
+				// There must be a better way to draw a line between each 
+				// of the items in the list
+				graphics.clear();
+				graphics.lineStyle( 1, 0x858585, 0.5 );
+				graphics.moveTo( -2, height + 2);
+				graphics.lineTo( width, height + 2 );
+			}			
+			
+		]]>
+	</mx:Script>
+	
+	<mx:VBox width="80%" verticalGap="0">
+		<mx:Label id="nameLabel" fontSize="12"/>
+		<mx:HBox>
+			<mx:Label id="hexLabel" fontSize="10"/>
+		</mx:HBox>		
+	</mx:VBox>	
+	<mx:Box id="colorBox" borderStyle="solid" width="50" height="25"/>
+	<mx:Spacer width="15"/>
+		
+</mx:HBox>

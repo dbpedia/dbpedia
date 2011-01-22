@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Cleric
+| rdfs:subClassOf = Person
+}}

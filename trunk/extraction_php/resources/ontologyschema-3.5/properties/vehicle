@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = vehicle
+| rdfs:domain = Automobile
+| rdfs:range = Automobile
+}}

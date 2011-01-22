@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = lunar module
+|rdfs:domain = SpaceMission
+|rdfs:range = xsd:string
+}}

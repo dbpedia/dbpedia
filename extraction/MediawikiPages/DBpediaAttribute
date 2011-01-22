@@ -1,0 +1,9 @@
+<includeonly>
+{{!}}-
+{{!}} {{{1}}}
+{{!}} [http://meta.wikimedia.org/wiki/DBpedia/ontology/{{1x|1={{{2|{{{1|}}}}}}}} {{{2|{{{1|}}}}}}]
+{{!}} {{{3|{{{parseHint|}}}}}}
+</includeonly>
+<noinclude>
+{{documentation}}
+</noinclude>

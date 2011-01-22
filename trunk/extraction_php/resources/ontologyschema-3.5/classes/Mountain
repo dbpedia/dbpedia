@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Mountain
+| rdfs:subClassOf = Place
+| specificProperties = {{SpecificProperty | ontologyProperty = prominence | unit = metre }}
+}}

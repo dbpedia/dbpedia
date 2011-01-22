@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = lower age
+|rdfs:domain = School
+|rdfs:range = xsd:integer
+}}

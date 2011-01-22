@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = average speed
+| rdfs:domain = Planet
+| rdfs:range = Speed
+}}

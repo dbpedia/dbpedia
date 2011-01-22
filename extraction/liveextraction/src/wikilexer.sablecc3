@@ -1,0 +1,29 @@
+Package wikiparser;
+
+Helpers
+  any = [0x0000 .. 0xffff];
+
+  l_brace = '{';
+  r_brace = '}';
+  //l_box_bracket = '[';
+  //r_box_bracket = ']';
+  //l_chevron = '<';
+  //r_chevron = '>';
+
+  //special_char    = [[[l_brace + r_brace] + [l_box_bracket + r_box_bracket]] + [[l_chevron + r_chevron] + eof]];
+  //special_char    = [[[l_brace + r_brace] + [l_chevron + r_chevron]] + eof];
+  special_char    = [l_brace + r_brace];
+  text_char       = [any - special_char]+;
+
+Tokens
+	r_brace_seq = r_brace+;
+	l_brace_seq = l_brace+;
+	
+	//l_box_bracket_seq = l_box_bracket+;
+	//r_box_bracket_seq = r_box_bracket+;
+
+    //l_chevron_seq = l_chevron+;
+    //r_chevron_seq = r_chevron+;
+
+    text = text_char+;
+ 

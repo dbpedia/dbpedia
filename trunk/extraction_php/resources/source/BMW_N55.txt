@@ -1,0 +1,35 @@
+{{Infobox Automobile
+|name=BMW N55 engine
+|manufacturer=[[BMW|BMW, Bayerische Motoren Werke AG]]
+|production=2009&ndash;
+|predecessor=
+|successor=
+|class=[[Straight-6]]
+|3.0&nbsp;L (2979&nbsp;cc/181&nbsp;in³)
+}}
+The '''N55''' is a [[turbocharged]] [[straight-6]] [[automobile]] engine from [[BMW]].  It was launched in early 2009 in the new BMW 5-Series Gran Turismo in the BMW 535i GT model.<ref>[http://paultan.org/archives/2009/05/24/the-new-bmw-5-series-gran-turismo/ The New BMW 5-Series Gran Turismo]</ref> It is BMW's first production single turbocharged gasoline engine that combines the use of Valvetronic, turbocharger technology and [[gasoline direct injection|direct injection]] technology.
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#N55B30|N55B30]]||3.0&nbsp;L (2979&nbsp;cc/181&nbsp;in³)||225&nbsp;kW (306&nbsp;hp) @ 5800||400&nbsp;N·m (295&nbsp;ft·lbf) @ 1200-5000||7000 rpm||2009
+|}
+
+Despite the BMW TwinPower Turbo brand name used for the N55, it uses a single turbocharger with twin scroll technology, taking in exhaust pulses from two groups of 3 cylinders. Valvetronic is used to help reduce throttle losses. By contrast, other engines carrying the TwinPower Turbo moniker have twin turbochargers. The preceding [[BMW N54|N54]] was a twin-turbocharged [[straight-6]] that did not use Valvetronic.
+
+Applications:
+* 2010&ndash; [[BMW 5 Series Gran Turismo|BMW 535i GT]], [[BMW F10|BMW 535i]]
+ 
+
+==References==
+{{reflist}}
+
+==See also==
+* [[List of BMW engines]]
+
+[[Category:BMW engines|N55]]
+
+[[pl:BMW N55]]

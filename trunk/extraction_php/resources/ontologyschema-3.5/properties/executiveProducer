@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = executive producer
+| rdfs:range = Person
+}}

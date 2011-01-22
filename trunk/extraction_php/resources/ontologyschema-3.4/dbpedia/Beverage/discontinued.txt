@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = discontinued
+|rdfs:domain = Beverage
+|rdfs:range = xsd:date
+}}

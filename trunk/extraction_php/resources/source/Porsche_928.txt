@@ -1,0 +1,649 @@
+{{Nofootnotes|article|date=February 2008}}
+{| border="0" align="right"
+|-
+|{{Infobox Automobile
+| image = [[File:Porsche928 S4 1990.jpg|250px|Porsche 928]]
+| name = Porsche 928
+| manufacturer = [[Porsche]]
+| parent_company =
+| aka =
+| production = 1977&ndash;1995
+| assembly =
+| predecessor =
+| successor =
+| class = [[Grand tourer]]
+| body_style = 2-door [[Coupé|coupe]]
+| layout = [[Front-engine, rear-wheel drive layout|Front-engine, rear-wheel drive]]
+| platform =
+| engine = 4.5 L [[V8 engine|V8]]<br/>4.7 L [[V8 engine|V8]]<br/>5.0 L [[V8 engine|V8]]<br/>5.4 L [[V8 engine|V8]]
+| transmission = 5-speed [[Manual transmission|manual]]<br/>3-speed [[Automatic transmission|automatic]]<br/>4-speed [[Automatic transmission|automatic]]
+| length = {{convert|4520|mm|in||abbr=on}}
+| width = {{convert|1890|mm|in||abbr=on}}
+| height = {{convert|1282|mm|in||abbr=on}}
+| weight = {{convert|1450|kg|lb||abbr=on}} - {{convert|1620|kg|lb||abbr=on}} (approx)
+| wheelbase =  {{convert|2500|mm|in||abbr=on}}
+| fuel_capacity ={{Convert|19|impgal|L usgal|0|abbr=on}}<ref name=Autocar1977>{{cite journal| authorlink = Stuart Bladon| title = Porsche 928: Aluminium V8 ohc engine with water cooling and twin-plate clutch. Five speed gearbox in transaxle unit with rigid connection to engine by properllor shaft tunnel, and battery used as counter-balance weight.  Ingenious toe-in compensation in rear suspension, called Weissach axle| journal = [[Autocar]]| volume = vol 146 (nbr 4192)| pages = pages 32 - 37 |date = date 12 March 1977}}</ref> 
+| related =
+| designer =
+}}
+|}
+The '''Porsche 928''' is a [[grand tourer]] [[automobile]] sold by [[Porsche]] [[Aktiengesellschaft|AG]] of [[Germany]] from 1978-1995, designed as a more luxurious yet still high performance alternative to the firm's sporting mainstay, the durable [[Porsche 911|911]] [[sports car]].
+
+In 1983 the 928S with a 4.7 litre 16 valve M28/19 engine and 5-speed manual transmission was the fastest car sold in North America, at 146 mph. Its appearance in the film [[Risky Business]] attempted to capitalise on this fact.
+
+==Conception==
+By the late 1960s, Porsche had changed significantly as a company, and executives including owner [[Ferdinand Anton Ernst Porsche|Ferdinand Porsche]] were playing with the idea of adding a luxury [[grand tourer|touring car]] to the line-up. Managing Director [[Ernst Fuhrmann]] was also pressuring Ferdinand to approve development of the new model in light of concerns that the current flagship model at the time, the [[Porsche 911|911]], was quickly reaching its maximum potential where it could soon no longer be improved upon. Slumping sales of the 911 seemed to confirm that the model was approaching the end of its economic life cycle. Fuhrmann envisioned the new range-topping model as being the best possible combination of a sports coupe and a luxury sedan, something well equipped and comfortable enough to be easily driven over long distances that also had the power, poise and handling prowess necessary to be driven like a sports car. This set it apart from the 911, which was a pure sports car. 
+
+Ordered by Ferry Porsche to come up with a production-feasible concept for his new model, Fuhrmann initiated a design study in 1971, eventually taking from the process the final specs for the 928. Several drivetrain layouts were considered during early development, including rear and [[Mid-engine design|mid-engined]] designs, but most were dismissed because of technical and/or legislative difficulties. Having the engine, [[Transmission (mechanics)|transmission]], [[catalytic converter]](s) and exhaust all cramped into a small rear engine bay made emission and noise control more difficult, something Porsche was already facing problems with on the 911 and wanted to avoid. After deciding that the mid-engine layout didn't allow enough room in the passenger compartment, a front engine/rear wheel drive layout was chosen. Porsche also may have feared that the [[United States|U.S.]] government would soon ban the sale of rear-engined cars in response to the consumer concern over safety problems with the rear-engined [[Chevrolet Corvair]]. The Corvair's safety issues were famously detailed in the book ''[[Unsafe at Any Speed]]'' by consumer advocate [[Ralph Nader]].
+
+Porsche engineers wanted a large-displacement motor to power the 928, and prototype units were built with a 5.0 L [[V8]] producing close to {{convert|300|hp|abbr=on}}. Very early units used one four-barrel [[carburetor]], which was eventually rejected in favor of [[Robert Bosch GmbH|Bosch's]] K-Jetronic [[fuel injection]] system. When increasing concern within the company over the pricing and availability of fuel during the [[energy crisis|oil crisis]] of the 1970s became an issue of contention, smaller engines were considered in the interest of [[Fuel economy in automobiles|fuel economy]]. A push began for the development of a 3.3 L {{convert|180|hp|abbr=on}} powerplant they had drawn up specs for, but company engineers balked at this suggestion. Both sides finally settled on a 4.5 L, SOHC 16-valve V8 producing {{convert|240|PS|kW hp||abbr=on}} ({{convert|219|hp|abbr=on}} in North America), which they considered to have an acceptable compromise of performance and fuel economy.
+
+The finished car debuted at the 1977 [[Geneva Motor Show]] before going on sale later that year as a 1978 model. Although it won early acclaim for its comfort and power, sales were slow. Base prices were much higher than that of the previous range-topping 911 model and the 928's front-engined, water-cooled design put off many Porsche purists.
+
+Fuhrmann's replacement, Peter Schutz, decided that the models should be sold side by side, feeling that the 911 still had potential in the company's line-up. Legislation against rear-engined vehicles also did not materialize. Although the 928 developed an avid fan following, it never sold in the numbers Fuhrmann had originally predicted and was discontinued in 1995.
+
+==Design==
+[[Image:Porsche 928 GTS hl blue.jpg|thumb|right|Porsche 928 rear quarter view]]
+The 928 featured a large, front-mounted and water-cooled [[V8]] engine driving the [[rear wheel drive|rear wheels]]. Originally [[Engine displacement|displacing]] 4.5 L and featuring a [[single overhead camshaft]] design, it produced 219 [[horsepower|hp]] (163 kW/222 PS) for the [[North America]]n market and 240 [[horsepower#PS|PS]] (176 kW/237 hp) in other markets. Porsche upgraded the engine from mechanical to electronic [[fuel injection]] in 1980 for US models, although power remained the same. This design marked a major change in direction for Porsche (started with the introduction of the 924 in 1976), whose cars had until then used only rear- or mid-mounted [[air-cooled]] [[flat engine|flat]] engines with four or six cylinders. 
+
+Porsche utilized a [[transaxle]] in the 928 to help achieve 50/50 front/rear weight distribution, aiding the car's balance. Although it weighed more than the difficult-to-handle 911, its more neutral weight balance and higher power output gave it similar performance on the track. The 928 was regarded as the more relaxing car to drive at the time. It came with either a five-speed dog leg [[manual transmission]], or a [[Mercedes-Benz]]-derived [[automatic transmission]], originally with three speeds, with four speed from 1983 in North America and 1984 in other markets. More than half of production had the automatic transmission. Exact percentage of manual gearbox cars for entire production run is not known but its believed to be between 25 and 30%.
+
+The body, styled by Wolfgang Möbius under guidance of Anatole Lapine, was mainly galvanized [[steel]], but the doors, front fenders, hood, and roof were [[aluminum]] in order to make the car more lightweight. It had a substantial [[luggage]] area accessed via a large [[hatchback]]. The new [[polyurethane]] elastic [[Bumper (automobile)|bumpers]] were integrated into the nose and tail and covered in body-coloured [[plastic]]; an unusual feature for the time that aided the car visually and reduced its [[Drag (physics)|drag]]. Porsche opted not to offer a [[convertible]] variant but some aftermarket modifiers offer convertible conversions.
+
+The 928 qualified as a 2+2, having two small seats in the rear. Both rear seats could be folded down to enlarge the luggage area, and both the front and rear seats had sun visors for occupants. The 928 was also the first vehicle in which the instrument cluster moved along with the adjustable [[steering wheel]] in order to maintain maximum instrument visibility.
+
+The 928 included several other innovations such as the "[[Weissach Axle]]", an early all-wheel steering system that provides passive rear-wheel steering while cornering, and an unsleeved, silicon alloy engine block made of aluminum, which reduced weight and provided a highly durable cylinder bore.
+
+Porsche's design and development efforts paid off during the 1978 [[European Car of the Year|European Car of the Year competition]] where the 928 won ahead of the [[BMW E23|BMW 7-series]] and the [[Ford Granada (Europe)|Ford Granada]]. The 928 is the only [[sports car]] so far to have won this competition, where the usual winners are mainstream [[hatchback]]s and [[Sedan (car)|sedans/saloons]] from major [[Europe]]an manufacturers. This is regarded as proof of how advanced the 928 was compared to its contemporaries.
+
+==Later variants==
+Porsche introduced a refreshed 928 S into the European market in 1979 model year, although it was summer of 1982 and [[model year|MY]] 1983 before the model reached [[North America]]. Externally, the S wore new front and rear [[Spoiler (aeronautics)|spoilers]] and sported wider wheels and [[tire]]s than the older variant, but the main change for the 928 S was under the hood, where a revised 4.7 L engine was used. European versions debuted with 300 PS (221 kW/297 hp), and were upgraded to 310 PS (228 kW/306 hp) for 1984 model year. From 1984 to 1986, the ROW (Rest Of the World) S model was  officially called S2 in [[UK]]. North American spec 1983 and 1984 S models used, among other differences, smaller valves, milder camshafts and additional equipment to obey emissions regulations, and were limited to 239 hp (174 kW/242 PS) as a result.
+
+As the faster S model was not available in the [[United States]] and [[Canada]] during the first three years of its existence, a "Competition Group" option was created to allow North American customers to have an S model lookalike with spoilers, 16" flat disc wheels, sport seats, sport springs and [[Bilstein]] shocks. Customers could specify paint and interior colors the same way as on a normal 928. The package was available in 1981 and 1982 model years and was canceled in 1983 when the S model became available for these markets. Many cars have had S model features added by subsequent owners, making original "Competition Group" cars difficult to distinguish without checking option codes.
+
+In 1982 model year, two special models were available for different markets. 205 "Weissach Edition" cars were sold in North America. Unusual features were champagne gold metallic paint, matching brushed gold flat disc wheels, two-tone leather interior, a plaque containing the production number on the [[dash]] and the extremely collectible three-piece Porsche luggage set. It's believed these cars were not made with S spoilers even though these were available in U.S. during this time period as part of the "Competition Group" option. The "Weissach Edition" option was also available for the US market 911 in 1980 model year and 924 in 1981 model year.
+
+140 special "50th Jubilee" 928 S models were available outside the U.S. and Canada to celebrate the company's 50 year existence as a car manufacturer. This model is also sometimes referred to as the "Ferry Porsche Edition" because his signature was embroidered into the front seats. It was painted meteor metallic and fitted with flat disc wheels, wine red leather and special striped fabric seat centers. Similar 911 and 924 specials were also made for ROW markets.
+
+Porsche updated the North American 928 S for 1985, replacing the 4.7 L, SOHC engine with a new 5.0 L, [[DOHC]] unit sporting four [[valve]]s per cylinder and producing 288 hp (215 kW/292 PS). Seats were also updated to a new style. These cars are sometimes unofficially called S3 to distinguish them from 16-valve S models. European models kept a 4.7 L engine, which was slightly more powerful, as standard; a little detuned 32-valve engine together with catalytic converters became an option in some European countries and Australia for 1986. That same year, revised suspension settings, larger brakes with 4-piston calipers and modified exhaust was installed on the 928 S, marking the final changes to old body style cars. ROW models received these changes at the beginning of the model year while North American cars got them only after close to 900 cars were made, starting from VIN 1001. North American version of this late 1986 model is sometimes referred as S3.5 or S3½ because of these changes. The name is a little misleading as more than 2/3 of the 1986 North American model production had these updates.
+
+The 928 S4 variant debuted in the second half of 1986 as a 1987 model, an updated version of the 5.0 L V8 for all markets producing 320 PS (235 kW/316 hp), sporting a new single-disc [[clutch]] in [[manual transmission|manual]] [[gearbox]] cars, larger [[torque]] converter in automatics and fairly significant styling updates which gave the car a cleaner, sleeker look. S4 was much closer to being a truly world car than previous models as only major differences between ROW and US models were instrumentation in either kilometers or miles, lighting, front and rear bumper shocks and the availability of catalytic converters in many ROW markets. Australian market version was only one with different horsepower rating at 300 PS (221 kW/296 hp) due to preparation for possible low grade fuel. Even this was achieved without engine changes.
+
+A Club Sport variant which was up to {{convert|100|kg|lb|abbr=on}} lighter became available to continental Europe and U.S. in 1988. This model was watered down version of 1987 factory prototype which had lightened body and 10.9:1 [[compression ratio]] engine. Also in 1987 the factory made four white lightened manual gearbox S4 models for [[racecar]] drivers who were on their payroll at the time. These were close to same as later actual Club Sport models and can also be considered prototypes for it. An SE (sometimes called the S4 Sport due to model designation on rear bumper), a sort of halfway point between a normally equipped S4 and the more race-oriented Club Sport, became available to the UK. It's generally believed these Porsche Motorsport engined cars have more hp than the S4. They utilize parts which later became known as GT [[piston]]s, [[cam]]s, engine ECU programs and a stronger, short geared manual gearbox. The [[automatic gearbox]] was not available.
+
+For 1989 model year visible change inside was [[trip computer|digital trip computer]] in [[dashboard]]. At the same time Australian models received the same 320 PS (235 kW/316 hp) engine management setup as other markets. Porsche debuted the 928 GT in the late winter 1988/89 after dropping the slowly selling CS and SE. In terms of equipment, the GT was like the 928 SE, having more equipment than a Club Sport model but less than a 928 S4 to keep the weight down somewhat. It had the [[ZF Friedrichshafen AG|ZF]] 40% [[Limited slip differential|limited-slip differential]] as standard like the Club Sport and SE before it. Also like the CS and SE, the GT was only available with a manual gearbox. ROW 1989 CS and GT wheels had an RDK tire pressure monitoring system as standard. This was also optional for the same year ROW S4. For 1990 model year Porsche made RDK and a 0-100% variable ratio limited-slip called PSD (Porsche SperrDifferential) standard in both GT and S4 models for all markets. This system is much like the one from the [[Porsche 959|959]] and gives the vehicle even more grip. In 1990 the S4 was no longer available with a manual gearbox.
+
+The S4 and GT variants were both cut at the end of 1991 model year, making way for the final version of the 928. The 928 GTS came for sale in late 1991 as a 1992 model in Europe and in spring of 1992 as an early 1993 model in North America. Changed [[bodywork]], larger front brakes and a new, more powerful 5.4 L, 350 PS (257 kW/345 hp) engine were the big advertised changes; what Porsche wasn't advertising was the price. Loaded GTS models could eclipse $100,000 USD in 1995, making them among the most expensive cars on the road at the time. This severely hampered sales despite the model's high competency and long standard equipment list. Porsche discontinued the GTS model that year after shipping only 77 of them to the [[United States]]. Total worldwide production for all years was a little over 61,000 cars.
+
+Second-hand models' value decreased as a result of generally high maintenance costs due largely to spare parts that are expensive to manufacture. The earliest versions, however, especially those models with the Bosch K-Jetronic (CIS) injection system, have few electronic components and therefore can be repaired more easily provided spare parts can be found. Parts suppliers supported by various enthusiasts exist especially in the United States.  
+
+The GTS model has retained a high value however, and as of 2006 the price for all variants is apparently starting to creep upwards (Classic Motorsports, March, 2006 issue, p. 38). A great community dedicated to the 928 exists online even today, and the car has won a huge fan base. The 928 was such a powerful vehicle in its day that even models 25+ years old are able to outperform current sport/grand-touring models of various manufacture{{Fact|date=February 2008}}. 
+
+With the release of the [[Porsche Cayenne|Cayenne]] [[sports utility vehicle|SUV]], Porsche has met with renewed success with a front-engined, V8-powered model. The company's 2005 announcement that a new V8-powered 4-door grand tourer model called [[Porsche Panamera|Panamera]] would be launched in 2009 fueled rumors and fan speculation of a reborn 928. Although the Panamera will be a 4-door model, [[Road and Track]] magazine published a speculative piece in their April 2006 issue in regards to the possibility of a new, 928-esque coupe that may debut on a shortened version of the Panamera's platform sometime around 2011 or 2012 model year. Although feasible, this is pure speculation as of 2006. The article seemed to indicate a re-use of the 928 nameplate although Porsche's recent tendency to give non-numerical names to their vehicles and a desire to separate the vehicle from past models may preclude the possibility of calling the vehicle 928.
+
+Also noteworthy is that there are several manufacturers of supercharger and turbo [[kit]]s specifically for the 928. The stock engine for any year is capable of handling significant power increases without part failure. More owners have opted for supercharging their vehicles as the conversion is reasonably straight forward whereas the fitting of two turbo chargers on each of the exhaust [[manifold]]s has caused problems because of the lack of space.
+
+==Styling changes==
+Styling was the same from 1978 through 1979 and the body lacked both front and rear spoilers. From 1980 (1983 in North America) through 1986, front and rear spoilers were present on "S" models, rear spoilers were integrated into the hatch. From 1987 through 1995, the front spoiler is integrated into the nose and the rear spoiler became a separated wing rather than an integrated piece, and side skirts were added. The rear tail-light configuration was also different from previous versions. GTS model had wider rear fenders added to give more room for 9" wide wheels.
+
+Another easily noticeable visual difference between versions is the style of the rims. Early 928s had 15" or 16" "phone dial"-style rims, while most 1980s 928s had 16" slotted "flat discs", CSs, SEs and 1989 GTs had 16" "Club Sport", later GTs had 16" "Design 90" style which were also option on same period S4s, the GTS used two variations of the 17" "CUP" rims.
+
+==928 evolution==
+{{Prose|section|date=November 2008}}
+The evolution of the 928 during its 18 years of production was quite subtle. The tables below show the major differences, which were made to the nose, tail, interior, engine, and rims.
+
+'''1978'''
+
+*Model designation: 928
+*Engine displacement: 4.5 L
+*Valves: 16
+*Bosch [[Jetronic#K-Jetronic_.281974-c.1988.29|K-Jetronic]] injection
+*Power: 219 hp (163 kW) North America / 240 PS (177 kW) ROW
+*Torque: 37 kgm /268 ft-lb /363 Nm ROW
+----
+'''1979'''
+
+*Model designation: 928 North America/928 ROW
+*Engine displacement: 4.5 L
+*Valves: 16
+*Bosch K-Jetronic injection
+*Power: 219 hp (163 kW) North America / 240 PS (177 kW) ROW
+*Changes:
+**Battery box integrated as part of the body, was previously mounted to gearbox. Gearbox shocks deleted.
+----
+'''1980'''
+
+*Model designation: 928 North America/928 and 928 S ROW
+*Engine displacement: 4.5 L/4.7 L (S)
+*Valves: 16
+*Power: 229 hp (167 kW) North America / 240 PS (177 kW) (4.5) and 300 PS (221 kW) (4.7 S) ROW
+*Changes:
+**Bosch L-Jetronic injection to North America.
+**Addition of (S) model in most ROW markets (not available in North America until 1983)
+**Front & rear spoilers on S model.
+**Manual gearbox changed during model year requiring shorter torque tube.
+**"S" brakes into use during model year in all ROW cars.
+----	
+'''1981'''
+
+*Model designation: 928 North America/928 and 928 S ROW
+*Engine displacement: 4.5 L/4.7 L (S)
+*Valves: 16
+*Power: 229 hp (167 kW) North America / 240 PS (177 kW) (4.5) and 300 PS (221 kW) (4.7 S) ROW
+*Changes:
+**"Competition Group" option available in US.
+----
+'''1982'''
+
+*Model designation: 928 North America/928 and 928 S ROW
+*Engine displacement: 4.5 L/4.7 L (S)
+*Valves: 16
+*Power: 229 hp (167 kW) North America / 240 PS (177 kW) (4.5) and 300 PS (221 kW) (4.7 S) ROW
+*Changes:
+**Vibration damper added into torque tube between 2nd and 3rd support bearing on manual gearbox cars and behind 2nd bearing on automatics. Reverse gear lock added to manual gearbox.
+**"S" brakes into use in US models.
+**205 "Weissach Edition" made for US market.
+**140 "50th Jubilee" 928 S made for ROW markets.
+**4.5 L ROW model and US "Competition Group" option dropped from production at end of 1982 model year.
+----
+'''1983'''
+
+*Model designation: 928 S
+*Weight: 3300 lb/1500&nbsp;kg
+*Engine displacement: 4.7 L
+*Valves: 16
+*Power: 239 hp (174 kW) @ 5200 rpm North America / 300 PS (221 kW) ROW
+*Changes:
+**New style hydraulic motor mounts. Engine shocks deleted at same time.
+**4-speed automatic transmission for North America. Cars body and torque tube changed to accommodate longer gearbox.
+**North American introduction of "S" model.
+----
+'''1984'''
+
+*Model designation: 928 S/928 S2 UK
+*Weight: 3300 lb/1500&nbsp;kg
+*Engine displacement: 4.7 L
+*Valves: 16
+*Power: 239 hp (174 kW) @ 5200 rpm North America / 310 PS (228 kW) ROW
+*Changes:
+**S model renamed S2 in UK market.
+**Bosch LH-Jetronic injection and 4-speed automatic transmission added to the ROW model. Torque tube shortened like on US model in previous year.
+**EZF ignition system using dual distributors makes debut on ROW cars. This allows higher 10.4:1 compression and increased torque. Compression change done in middle of model year once 10.0:1 compression ratio resulting piston stock were used up in production.
+**ABS brakes optional for the first time in Porsche, standard on German model.
+**At 146 mph (235&nbsp;km/h) US model top speed, Porsche boldly claims the 928 S to be "the fastest street legal production car sold in the US". 
+**Important safety related change to front suspension lower ball joints on all cars in September 1983.
+----
+'''1985'''
+
+*Model designation: 928 S/928 S2 UK
+*Weight: 3300 lb/1500&nbsp;kg
+*Engine displacement: 5.0 L North America/4.7 L ROW
+*Valves: 32 North America/16 ROW
+*Power: 288 hp/292 PS (215 kW) North America / 275 PS/272 hp (202 kW) (4.7) Sweden and Switzerland / 310 PS/306 hp (228 kW) ROW 
+*Changes:
+**New 5.0 liter 32-valve LH-Jetronic injection and EZF ignition 288 hp engine for US market. Top speed is now in excess of 155 mph (250&nbsp;km/h) for US models also.
+** Lower compression (9.3:1 vs 10.4:1 for normal ROW version) 16-valve engine for Sweden and Switzerland. Compression change was done with different shape piston tops. Only together with automatic transmission. Engine number is same M28/22 as in high compression 16V engines. Only outside indication for different pistons is option code M151.
+**LH-Jetronic control box design changed in ROW cars.
+**New style front seats. Redesigned more modern looking door panels when multi speaker stereo was ordered. Gearbox synchromesh changed to Borg Warner design and shorter gear lever, improving driveability on manual transmission cars. Shims left out from front end of torque tube drive plate in automatic cars, this sometimes cause engine thrust bearing failures.
+**Radio antenna moved to embedded windshield wire.
+----
+'''1986'''
+
+*Model designation: 928 S/928 S2 UK
+*Weight: 3300 lb/1500&nbsp;kg
+*Engine displacement: 5.0 L North America/4.7 or 5.0 L ROW
+*Valves: 32 North America/16 or 32 ROW
+*Power: 288 hp/292 PS (215 kW) North America / 275 PS/272 hp (202 kW) (4.7) Sweden and Switzerland/ 310 PS/306 hp (231 kW) (4.7) or 288 PS/284 hp (215 kW) (5.0) ROW 
+*Changes:
+**Lower compression (9.3:1 vs 10.0:1 for US version) 32-valve engine optional for some ROW markets with catalytic converter, standard in Australia. Compression change was done with different shape piston tops.
+** Lower compression (9.3:1 vs 10.4:1 for normal ROW version) 16-valve engine for Sweden and Switzerland. Compression change was done with different shape piston tops. Only together with automatic transmission. Engine number is same M28/22 as in high compression 16V engines. Only outside indication for different pistons is option code M151.
+**So called "S4" suspension and Brembo brakes in all 1986 ROW cars, from VIN 1001 and November 1985 forward in North America. No US models made with VIN ending between 0938 and 1000 due to parts change.
+**ABS brakes became standard for all markets during model year production.
+----
+'''1987'''
+
+*Model designation: 928 S4
+*Weight: 3500 lb/1590&nbsp;kg
+*Engine displacement: 5.0 L
+*Valves: 32
+*Power: 316 hp/320 PS (236 kW) North America and ROW / 300 PS/296 hp (221 kW) Australia
+*Changes:
+**Different style pistons, cylinder heads, camshafts, intake and larger intake valves compared to earlier 5.0 L engines. Nominal compression ratio 10.0:1, true ratio between 9.4:1 and 10.0:1 depending on parts used. Cylinder head studs used in all earlier engines replaces with bolts making it easier to remove heads while engine is in engine bay.
+**Updated LH-Jetronic injection and ignition changed to EZK system, two knock sensors added to engine. Single disk clutch on manual transmission cars, larger torque converter on automatics.
+**Modified front brake calipers into use with 2&nbsp;mm diameter increase for large piston. Cars sold to U.S., Canada, Australia and Arabic countries got new parts once remaining old design caliper stock was used up.
+**New style front & rear bumpers and rear wing spoiler. Redesigned front and rear bumper light assemblies. Body changed compared to earlier models to accommodate larger rear lamps, rear sears area modified to give room for new torque converter.
+**Upwards folding rear spoiler and piston oil squirters in engine block on early cars only.
+**Different horsepower rating for Australia due to different ignition map used because of  possible low grade fuel.
+----
+'''1988'''
+
+*Model designation: 928 S4 and 928 CS North America/928 S4 and 928 CS ROW/928 S4 and 928 SE UK
+*Engine displacement: 5.0 L
+*Valves: 32
+*Power: 316 hp/320 PS (236 kW) (S4, CS and SE) ROW and North America / 300 PS/296 hp (221 kW) (S4) Australia
+*Changes:
+**Lighter 928 CS (Club Sport) version available in Continental Europe and US, 928 SE (S4 Sport) in UK. Only model year for US CS and UK SE. ROW CS use different VIN sequence than normal ROW S4.
+**Stronger torque tube with 3&nbsp;mm thicker center shaft for automatics.
+**Pistons with strengthened skirt into use in February 1988. Oil drainage improved in piston skirts.
+----
+'''1989'''
+
+*Model designation: 928 S4 and 928 GT North America/928 S4, CS and GT ROW/ 928 S4 and GT UK
+*Engine displacement: 5.0 L
+*Valves: 32
+*Power: 316 hp/320 PS (236 kW) (S4) / 326 hp/330 PS (243 kW) (GT)
+*Changes:
+**Digital [[trip computer]]/warning system added to dashboard, ignition circuit monitor system added.
+**For Australian cars same ignition maps resulting same horsepower rating as in other markets.
+**Shorter final drive on North American manual transmission S4, same ratio as used in ROW 5-speed cars to simplify production.
+**RDK tyre pressure monitoring system optional on ROW S4, standard on ROW CS and GT.
+**Thicker cylinder head casting taken into use early in model year to strengthen head against cracking. Longer head bolts needed because of the change.
+**Modified front brake calipers with improved seals taken into use early in model year.
+**ROW 928 CS into same VIN sequence as ROW S4. Model dropped from production during the model year at the end of 1988.
+**February 1989, manual transmission only GT debuts as a more sporting version on all markets.
+----
+'''1990'''
+
+*Model designation: 928 S4/928 GT
+*Engine displacement: 5.0 L
+*Valves: 32
+*Power: 316 hp/320 PS (236 kW) (S4) / 326 hp/330 PS (243 kW) (GT)
+*Changes:
+**GT pistons into use in S4 also resulting true 10.0:1 compression ratio for all engines.
+**RDK tyre pressure monitoring system standard on all cars. Computer controlled 0-100% PSD locking differential added to both models.
+**S4 no longer available with manual gearbox.
+**Dual airbags now standard across all Porsche models in U.S. Driver and front passenger airbag optional in LHD ROW cars, only drivers side bag available in RHD markets.
+----
+'''1991'''
+
+*Model designation: 928 S4/928 GT
+*Engine displacement: 5.0 L
+*Valves: 32
+*Power: 316 hp/320 PS (236 kW) (S4) / 326 hp/330 PS (243 kW) (GT)
+*Changes:
+**Improvements to cooling in exhaust side at cylinder heads, steering rack, power steering pump, soundproofing, front cooling flaps deleted, new style shift knob with integrated leather booth in manual gearbox cars, etc. Temperature sensors for ignition circuit monitor system moved from #4 and #8 cylinders to #3 and #7 cylinders to improve their efficiency.
+**Check engine warning light added to all US models due to California regulatory demands.
+**Two airbags as standard in ROW LHD models during model year production, at same time drivers side airbag standard in RHD models while passenger side bag still not available.
+----
+'''1992'''
+
+*Model designation: 928 GTS
+*Engine displacement: 5.4 L
+*Valves: 32
+*Power: 345 hp/350 PS (257 kW)
+*Changes:
+**Engine grows to 5.4 L due to longer stroke crankshaft and different compression height and 10.4:1 ratio pistons, milder camshafts for emission purposes, bodywork updated with flared rear fenders and so called cup mirrors. So called "big black" front brakes, significantly larger than "S4" version. Stronger manual gearbox with differential driven oil pump and front mounted oil cooler.
+**GTS became available in North America at January 1992 as early 1993 model with later model year VIN. These cars use same parts as 1992 ROW models and can be differentiated from true 1993 US models with separate VIN sequence and option code M718.
+----
+'''1993'''
+
+*Model designation: 928 GTS
+*Engine displacement: 5.4 L
+*Valves: 32
+*Power: 345 hp/350 PS (257 kW)
+*Changes:
+**Cylinder block lower half studs replaced with bolts. Engine piston rings changed to limit oil consumption and pistons changed to strengthen skirt area. Minor update to clutch. Air conditioner refrigerant changed to R134.
+**Passenger side airbag added to RHD cars.
+----
+'''1994'''
+
+*Model designation: 928 GTS
+*Engine displacement: 5.4 L
+*Valves: 32
+*Power: 345 hp/350 PS (257 kW)
+*Changes:
+**Cabin pollen filter added. Dynamic kickdown to automatics. Wheel design changed to Cup II, RDK deleted at same time.
+**First 19 US models were made already in spring of 1993, months before when normal model year change occurs in July/August. These M718 option cars still used previous model year parts like Cup I wheels and do not have 1994 model year updates despite using same 1994 VIN sequence.
+**Connecting rods changed to stronger design part in middle of model year.
+----
+'''1995'''
+
+*Model designation: 928 GTS
+*Engine displacement: 5.4 L
+*Valves: 32
+*Power: 345 hp/350 PS (257 kW)
+*Torque: 369 ft-lb (500 Nm) 
+*Changes:
+**Special model available in some ROW markets containing wider front fenders made out of steel and 8" wide front wheels. Only available with automatic gearbox, Iris blue metallic and Amazon green metallic color with Classic grey leather interior.
+**Manual gearbox car production ended some months before last automatic cars were made.
+
+==Versions ==
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align:center; font-size:91%;"
+|- align=center bgcolor=#F0F0F0
+|align=left colspan=2 rowspan=2 width=12%|&nbsp;
+|colspan=2 width=8%|1970s
+|colspan=11 width=44%|1980s
+|colspan=6 width=24%|1990s
+|- align=center bgcolor=#F0F0F0
+|width=4%|8
+|width=4%|9
+|width=4%|0
+|width=4%|1
+|width=4%|2
+|width=4%|3
+|width=4%|4
+|width=4%|5
+|width=4%|6
+|width=4%|7
+|width=4%|8
+|colspan=2 width=4%|9
+|width=4%|0
+|width=4%|1
+|width=4%|2
+|width=4%|3
+|width=4%|4
+|width=4%|5
+|- align=center
+|width=6% colspan=1 rowspan=3 bgcolor=#F0F0F0|'''ROW'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928
+|width=20% colspan=5 bgcolor=#C0C0C0|4.5L 16V 240 PS
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 S
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=16% colspan=4 bgcolor=#C0C0C0|4.7L 16V 300 PS
+|width=12% colspan=3 bgcolor=#C0C0C0|4.7L 16V<br />310 PS
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 S 50th Jubilee M406
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=4% colspan=1 bgcolor=#C0C0C0|4.7L 16V 300 PS
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''UK'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 S2
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|width=12% colspan=3 bgcolor=#C0C0C0|4.7L 16V<br />310 PS
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''Sweden<br />Switzerland'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 S M151
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=20% colspan=5 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#C0C0C0|4.7L 16V 275 PS
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''Germany<br />Austria<br />Australia'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 S M298/M299
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|width=4% colspan=1 bgcolor=#C0C0C0|5.0L 32V 288 PS
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''ROW'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 S4
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=28% colspan=7 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#C0C0C0|5.0L 32V 320 PS
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''Australia'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 S4
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=28% colspan=7 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#C0C0C0|5.0L 32V 300 PS
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''ROW'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 CS
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=6% colspan=2 bgcolor=#C0C0C0|5.0L 32V<br />320 PS
+|width=4% colspan=1 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''UK'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 SE
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=4% colspan=1 bgcolor=#C0C0C0|5.0L 32V 320 PS
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''ROW'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 GT
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=40% colspan=10 bgcolor=#E0E0E0|&nbsp;
+|width=10% colspan=3 bgcolor=#C0C0C0|5.0L 32V<br />330 PS
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 rowspan=1 bgcolor=#F0F0F0|'''ROW'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928 GTS
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=44% colspan=11 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=16% colspan=4 bgcolor=#C0C0C0|5.4L 32V 350 PS
+|- align=center bgcolor=#F0F0F0
+|width=12% colspan=2 rowspan=2|&nbsp;
+|width=8% colspan=2|1970s
+|width=44% colspan=11|1980s
+|width=24% colspan=6|1990s
+|- align=center bgcolor=#F0F0F0
+|width=4%|8
+|width=4%|9
+|width=4%|0
+|width=4%|1
+|width=4%|2
+|width=4%|3
+|width=4%|4
+|width=4%|5
+|width=4%|6
+|width=4%|7
+|width=4%|8
+|colspan=2 width=4%|9
+|width=4%|0
+|width=4%|1
+|width=4%|2
+|width=4%|3
+|width=4%|4
+|width=4%|5
+|- align=center
+|width=6% colspan=1 rowspan=9 bgcolor=#F0F0F0|'''U.S.<br />Canada'''
+|width=4% colspan=1 align=left bgcolor=#F0F0F0|928
+|width=8% colspan=2 bgcolor=#C0C0C0|4.5L 16V 219 hp
+|width=12% colspan=3 bgcolor=#C0C0C0|4.5L 16V 228 hp
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 Competition Group
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=4% colspan=1 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#C0C0C0|4.5L 16V 228 hp
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 Weissach Edition M462
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=4% colspan=1 bgcolor=#C0C0C0|4.5L 16V 228 hp
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 S
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=12% colspan=3 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#C0C0C0|4.7L 16V<br />239 hp
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 S
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=20% colspan=5 bgcolor=#E0E0E0|&nbsp;
+|width=8% colspan=2 bgcolor=#C0C0C0|5.0L 32V<br />288 hp
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 S4
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=28% colspan=7 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#C0C0C0|5.0L 32V 316 hp
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 CS
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=32% colspan=8 bgcolor=#E0E0E0|&nbsp;
+|width=4% colspan=1 bgcolor=#C0C0C0|5.0L 32V 316 hp
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=24% colspan=6 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 GT
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=40% colspan=10 bgcolor=#E0E0E0|&nbsp;
+|width=10% colspan=3 bgcolor=#C0C0C0|5.0L 32V<br />326 hp
+|width=16% colspan=4 bgcolor=#E0E0E0|&nbsp;
+|- align=center
+|width=6% colspan=1 align=left bgcolor=#F0F0F0|928 GTS
+|width=8% colspan=2 bgcolor=#E0E0E0|&nbsp;
+|width=44% colspan=11 bgcolor=#E0E0E0|&nbsp;
+|width=12% colspan=3 bgcolor=#E0E0E0|&nbsp;
+|width=12% colspan=3 bgcolor=#C0C0C0|5.4L 32V<br />345 hp
+|- align=center bgcolor=#F0F0F0
+|width=12% colspan=2 rowspan=2|&nbsp;
+|width=4%|8
+|width=4%|9
+|width=4%|0
+|width=4%|1
+|width=4%|2
+|width=4%|3
+|width=4%|4
+|width=4%|5
+|width=4%|6
+|width=4%|7
+|width=4%|8
+|colspan=2 width=8%|9
+|width=4%|0
+|width=4%|1
+|width=4%|2
+|width=4%|3
+|width=4%|4
+|width=4%|5
+|- align=center bgcolor=#F0F0F0
+|width=8% colspan=2|1970s
+|width=44% colspan=11|1980s
+|width=24% colspan=6|1990s
+|}
+
+==Worldwide production numbers==
+All production numbers are approximates collected from several sources. Porsche hasn't published actual numbers.
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align:center; font-size:91%;"
+| align=left bgcolor=#F0F0F0 | '''Model'''
+| align=left bgcolor=#F0F0F0 | '''Model years'''
+| align=left bgcolor=#F0F0F0 | '''Numbers made'''
+|- 
+| align=left bgcolor=#F0F0F0 | 928 <sup>(1, 2</sup>
+| align=left bgcolor=#E0E0E0 | 1978-82
+| align=right bgcolor=#E0E0E0 | 17669
+|-
+| align=left bgcolor=#F0F0F0 | 928 S <sup>(3</sup>
+| align=left bgcolor=#E0E0E0 | 1980-83
+| align=right bgcolor=#E0E0E0 | 8315
+|-
+| align=left bgcolor=#F0F0F0 | 928 S/S2 <sup>(4, 5, 6</sup>
+| align=left bgcolor=#E0E0E0 | 1984-86
+| align=right bgcolor=#E0E0E0 | 14347
+|-
+| align=left bgcolor=#F0F0F0 | 928 S4 <sup>(7</sup>
+| align=left bgcolor=#E0E0E0 | 1987-91
+| align=right bgcolor=#E0E0E0 | 16157
+|-
+| align=left bgcolor=#F0F0F0 | 928 CS <sup>(8</sup>
+| align=left bgcolor=#E0E0E0 | 1988-89½
+| align=right bgcolor=#E0E0E0 | 19
+|-
+| align=left bgcolor=#F0F0F0 | 928 SE
+| align=left bgcolor=#E0E0E0 | 1988
+| align=right bgcolor=#E0E0E0 | 42
+|-
+| align=left bgcolor=#F0F0F0 | 928 GT <sup>(9</sup>
+| align=left bgcolor=#E0E0E0 | 1989½-91
+| align=right bgcolor=#E0E0E0 | 1620
+|-
+| align=left bgcolor=#F0F0F0 | 928 GTS <sup>(10, 11</sup>
+| align=left bgcolor=#E0E0E0 | 1992-95
+| align=right bgcolor=#E0E0E0 | 2887
+|-
+| align=left bgcolor=#F0F0F0 | '''Total'''
+| align=left bgcolor=#F0F0F0 | '''1978-95'''
+| align=right bgcolor=#F0F0F0 | '''61056'''
+|}
+
+<sup>1) Count contains unknown number of US "Competition Group" models made in 1981 and 1982 model years.</sup><br>
+<sup>2) Count contains at least 205 US "Weissach edition" models made in 1982 model year. 205 is official number which might not be correct. There are indications 217 or more were actually made.</sup><br>
+<sup>3) Count contains 140 ROW "50th Jubilee" models made in 1982 model year.</sup><br>
+<sup>4) Count contains 2219 so called S3 US models made in 1985 model year and 877 1986 models made in early part of 1986 model year up to November 1985.</sup><br>
+<sup>5) Count contains unknown number of 1986 ROW 32 valve S models.</sup><br>
+<sup>6) Count contains 2071 so called S3.5 US models made in later part of 1986 model year starting from November 1985.</sup><br>
+<sup>7) Count contains 6 Club Sport prototypes made in 1987 model year.</sup><br>
+<sup>8) Count contains 10 ROW models and 2 US models made in 1988 model year and 7 ROW models made in early part of 1989 model year. Last Club Sport cars were made in early winter 1988/89.</sup><br>
+<sup>9) GT production started in around February 1989. Some sources list 1626 cars made. Neither available number might not include 109 US models and estimated 320-400 ROW models made in 1989 model year. Actual total of GT's made worldwide can be up to 2100 cars. If this is the case, additional cars are included in 1987-91 S4 total and do not add up into total production quantity. US model production was 142 GT's made in 1990 MY and 145 made in 1991 MY resulting 396 GT's made for U.S. and Canada over two and half year time period.</sup><br>
+<sup>10) Count contains 955 1992, 621 1993, 506 1994 and 399 1995 ROW models resulting 2481 cars made.</sup><br>
+<sup>11) Count contains 88 early VIN 1993, 102 late VIN 1993, 19 + 120 1994 and 77 1995 VIN US models resulting 406 US cars made.</sup>
+
+==The 928 versus the 911 ==
+Some sources, including the Porsche factory and "Project 928" book by Julius Weitmann and Rico Steinemann, maintain that the 928 was designed to be Porsche's [[flagship]] model, intended to replace the 911 like the 911 had replaced the 356. As such, they feel that the 911 was a better [[sports car]] than the 928. In fact, the 928 was marketed to a different customer base, neither competitive with the 911 nor totally capable of supplanting it.
+
+While a similar vintage 911 in the hands of very skilled driver could match the 928 on a track, the 928's more predictable handling, more even dynamics, balanced 50/50 weight distribution, and more powerful engine proved it a competent on-track match for the 911.  It was easily capable of out-accelerating all but the [[Porsche 964|964 generation 911 Turbo]], which is notoriously difficult to drive at the limit. This performance, combined with the 928's more luxurious standard features, more compliant highway ride, and an overall comfort level allowing it to be driven for hours on end without fatigue made staked its claim as Porsche's best all-around vehicle, if not its most sporty.
+
+==Porsche 942==
+The '''Porsche 942''' was a special edition 928 given as a gift to [[Ferdinand Anton Ernst Porsche|Ferry Porsche]] on his 75th [[birthday]] in 1984. Its also known by name 928-4, 928S<ref name=FPP>[http://www.motortrend.com/future/concept_cars/112_0510_2010_porsche_panamera/index.html Future: Porsche Panamera]</ref>. It featured {{auto in|10}} longer wheelbase than normal 928 production model, including an extended roof above the rear seats to better accommodate tall passengers, at the time very advanced projector headlights, the 5 liter 32 valve engine before it was introduced in US market, and S4 front and rear bumpers  two years before they entered production.
+
+In 1986 Porsche together with tuning company [[Mercedes-AMG|AMG]] made few long wheelbase 928 specials. Unlike 942, these had normal 928 headlights. One was presented to American Sunroof Corporation (ASC) founder and CEO [[Heinz Prechter]]. ASC was later partly responsible of making [[Porsche 944|Porsche 944 S2 cabriolets]].
+
+==The Max Moritz 'Semi Works' 928 GTR==
+Porsche's Racing Department never officially entered or prepared a racing 928 for a pure works entry.Only once Porsche decided to make it obvious to the 911 enthusiasts that they usually tended to underrate the racing genes of the 928. Porsche then "arranged" this 928GTR to compete against the then dominant 911(993GTR) on the race track. In order not to offend sensibilities of their traditional 911/993GTR customers by officially challenging them with an outright Works - 928GTR, Porsche asked Max Moritz Racing, their long time private racing partner from next door Reutlingen to enter this 928GTR Cup as a 'semi-works' car.            
+
+It didn't come as a surprise that the drivers were: [[Bernd Mayländer]], [[Manuel Reuter]] (Porsche Works Pilots), also [[Harm Lagaay]] (then Head of Porsche's Design Studio).<br />[[Vittorio Strosek]] sponsored MM with his Lightweight-Body-Parts and racing exhaust.<br />The car was officially entered by Porsche-Club-Schwaben. <br />Homologation minimum weight had to be, and actually is {{convert|1370|kg|lb|abbr=on}}.<br /> 
+
+Lagaaij reports, that the car was very competitive and able to hold most 993GTR down, although the engine was no more than fine-tuned after chosen from a set of high power output specimen in [[Weissach]].In the last race of the season at [[Hockenheimring|Hockenheim]] a crank-bearing ran dry. As the car was supposed to race in 1995 as well, she was made ready to continue her successful competition in the 1995 season. A fresh engine was installed, selected from the same lot of high output engines and tuned as before. In 1995 Porsche's 928 production came to an end, and the car consequently was not raced in the new season.
+
+The late [[Max Moritz]] himself then had her join his collection of historic cars.  She was not put on the road again until after his death, when the family sold the car in October 2004 - with only 24500&nbsp;km on the clock (Porsche-Weissach is the only documented owner).
+
+==Rumored New 928==
+In some automotive magazines and web sites, such as ''[[Road & Track]]'', ''[[Car and Driver]]'', and ''TopSpeed.com'', there have been endless rumors about a quite possible rebirth to a classic model that has been set aside, but not forgotten, in the Porsche archives - the 928. It has been reported that Porsche is planning a new sports coupe derived from the 928, and the recently announced [[Porsche Panamera|Panamera]], whose details can be better examined at the cited web sites following this article<ref>{{cite web|title=2012 Porsche 928 Car news|publisher=''Car and Driver''|url=http://www.caranddriver.com/carnews/11785/2012-porsche-928.html|month=November | year=2006}}</ref><ref>{{cite web|title=Seven Models? Porsche Ponders New 928 and Mini-Cayenne|publisher=''Edmunds.com''|url=http://www.edmunds.com/insideline/do/News/articleId=109760|accessdate=2008-02-01}}</ref><ref>{{cite web|title=2012 Porsche 928 (GT Coupe) Preview|publisher=''TopSpeed.com''|url=http://www.topspeed.com/cars/porsche/2012-porsche-928-gt-coupe-ar33482.html|date=Posted on 05.7.2007 14:30 by Simona Alina}}</ref>.
+
+==References==
+{{reflist}}
+*Bowler, M & Wood, J (1997). ''The Fastest Cars From Around the World.'' Parragon. ISBN.
+*Wood, J (1997). ''Porsche: The Legend.'' Parragon. ISBN.
+*Hogsten, Dag E. "Jättetest Alla modeller Porsche". Teknikens Värld issue #13, June 17, 1981.
+*http://www.flat-6.net/forum/showcargroup.php?do=model&cat=18
+*Porsch Scene - Germany (12/2006) "Frisch aufgelegt: Stroseks Design Klassiker“
+*911&PORSCHE WORLD - GB (May/June 1994)  "928 Cup Racer“
+
+==External links==
+{{commonscat|Porsche 928}}
+* [http://www.porsche.com/international/accessoriesandservice/classic/world/models/roadvehicles/ Porsche Classic Road Vehicles]
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|928]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Grand tourers]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:Vehicles introduced in 1977]]
+
+[[cs:Porsche 928]]
+[[de:Porsche 928]]
+[[et:Porsche 928]]
+[[fr:Porsche 928]]
+[[it:Porsche 928]]
+[[nl:Porsche 928]]
+[[ja:ポルシェ・928]]
+[[no:Porsche 928]]
+[[pl:Porsche 928]]
+[[pt:Porsche 928]]
+[[ru:Porsche 928]]
+[[fi:Porsche 928]]
+[[sv:Porsche 928]]
+[[tr:Porsche 928]]

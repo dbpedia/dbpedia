@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = coast line
+| rdfs:domain = City
+| rdfs:range = Length
+}}

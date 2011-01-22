@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = aircraft interceptor
+|rdfs:domain = MilitaryUnit
+|rdfs:range = MeanOfTransportation
+}}

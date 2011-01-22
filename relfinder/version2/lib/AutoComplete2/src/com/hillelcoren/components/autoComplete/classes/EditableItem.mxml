@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:TextArea 
+	implements="com.hillelcoren.components.autoComplete.interfaces.iComboItem"
+	xmlns:mx="http://www.adobe.com/2006/mxml" paddingLeft="0"
+	initialize="init()" tabChildren="false" tabEnabled="false"
+	borderStyle="none" focusThickness="0">
+	
+	<mx:Script>
+		<![CDATA[
+			import com.hillelcoren.utils.StringUtils;
+			
+			private var _item:Object;
+			private var _allowMultipleSelection:Boolean;
+			
+			private function init():void
+			{
+				addEventListener( Event.CHANGE, handleChange );
+				addEventListener( FocusEvent.FOCUS_IN, handleFocusIn );
+				addEventListener( FocusEvent.FOCUS_OUT, handleFocusOut );
+			}
+			
+			private function handleChange( event:Event ):void
+			{
+				width = measureText( text ).width + 10;
+			}
+			
+			override public function get minWidth():Number
+			{
+				return measureText( text ).width + 10;
+			}
+			
+			public function setTextFocus():void
+			{
+				setSelection( 0, 0 );
+				setFocus();
+			}
+			
+			public function isTextSelected():Boolean
+			{
+				return selectionBeginIndex == 0 && selectionEndIndex == text.length;
+			}
+			
+			private function handleFocusIn( event:Event ):void
+			{
+				drawFocus( false );
+				
+				text = StringUtils.trimCommas( text );
+			}
+			
+			private function handleFocusOut( event:Event ):void
+			{
+				if (_allowMultipleSelection)
+				{
+					text = StringUtils.trimCommas( text ) + ",";
+				}	
+			}
+			
+			public function setSelectionBeginning():void
+			{
+				setSelection( 0, 0 );
+			}
+			
+			public function setSelectionEnd():void
+			{	
+				setSelection( text.length, text.length );				
+			}
+			
+			public function isCursorAtBeginning():Boolean
+			{
+				return selectionBeginIndex == 0;
+			}		
+			
+			public function isCursorAtEnd():Boolean
+			{
+				return selectionBeginIndex == text.length;
+			}
+			
+			public function set allowMultipleSelection( value:Boolean ):void
+			{
+				_allowMultipleSelection = value;
+			}
+			
+			public function set item( value:Object ):void
+			{
+				_item = value;
+			}		
+			
+			public function get item():Object
+			{
+				return _item;
+			}
+			
+			public function isEditable():Boolean
+			{
+				return true;
+			}			
+		]]>
+	</mx:Script>
+	
+</mx:TextArea>

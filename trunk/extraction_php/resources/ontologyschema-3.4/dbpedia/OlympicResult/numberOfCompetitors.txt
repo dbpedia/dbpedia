@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = number of competitors
+|rdfs:domain = OlympicResult
+|rdfs:range = xsd:integer
+}}

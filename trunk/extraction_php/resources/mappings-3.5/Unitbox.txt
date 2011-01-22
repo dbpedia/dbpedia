@@ -1,0 +1,48 @@
+{{TemplateMapping
+| mapToClass = MilitaryUnit
+| mappings = 
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = branch | ontologyProperty = branch }}
+	{{PropertyMapping | templateProperty = role | ontologyProperty = role }}
+	{{PropertyMapping | templateProperty = size | ontologyProperty = size }}
+	{{PropertyMapping | templateProperty = command_structure | ontologyProperty = commandStructure }}
+	{{PropertyMapping | templateProperty = garrison | ontologyProperty = garrison }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = nickname }}
+	{{PropertyMapping | templateProperty = patron | ontologyProperty = patron }}
+	{{PropertyMapping | templateProperty = colors | ontologyProperty = color }}
+	{{PropertyMapping | templateProperty = march | ontologyProperty = march }}
+	{{PropertyMapping | templateProperty = mascot | ontologyProperty = mascot }}
+	{{PropertyMapping | templateProperty = battles | ontologyProperty = battle }}
+	{{PropertyMapping | templateProperty = anniversaries | ontologyProperty = anniversary }}
+	{{PropertyMapping | templateProperty = battle_honours | ontologyProperty = battleHonours }}
+	{{PropertyMapping | templateProperty = disbanded | ontologyProperty = disbanded }}
+	{{PropertyMapping | templateProperty = commander1 | ontologyProperty = commander }}
+	{{PropertyMapping | templateProperty = commander2 | ontologyProperty = secondCommander }}
+	{{PropertyMapping | templateProperty = commander3 | ontologyProperty = thirdCommander }}
+	{{PropertyMapping | templateProperty = notable_commanders | ontologyProperty = notableCommander }}
+	{{PropertyMapping | templateProperty = identification_symbol | ontologyProperty = identificationSymbol }}
+	{{PropertyMapping | templateProperty = identification_symbol_2 | ontologyProperty = identificationSymbol }}
+	{{PropertyMapping | templateProperty = identification_symbol_3 | ontologyProperty = identificationSymbol }}
+	{{PropertyMapping | templateProperty = identification_symbol_4 | ontologyProperty = identificationSymbol }}
+	{{PropertyMapping | templateProperty = aircraft_attack | ontologyProperty = aircraftAttack }}
+	{{PropertyMapping | templateProperty = aircraft_bomber | ontologyProperty = aircraftBomber }}
+	{{PropertyMapping | templateProperty = aircraft_electronic | ontologyProperty = aircraftElectronic }}
+	{{PropertyMapping | templateProperty = aircraft_fighter | ontologyProperty = aircraftFigther }}
+	{{PropertyMapping | templateProperty = aircraft_helicopter | ontologyProperty = aircraftHelicopter }}
+	{{PropertyMapping | templateProperty = aircraft_helicopter_attack | ontologyProperty = aircraftHelicopterAttack }}
+	{{PropertyMapping | templateProperty = aircraft_helicopter_cargo | ontologyProperty = aircraftHelicopterCargo }}
+	{{PropertyMapping | templateProperty = aircraft_helicopter_multirole | ontologyProperty = aircraftHelicopterMultirole }}
+	{{PropertyMapping | templateProperty = aircraft_helicopter_observation | ontologyProperty = aircraftHelicopterObservation }}
+	{{PropertyMapping | templateProperty = aircraft_helicopter_transport | ontologyProperty = aircraftHelicopterTransport }}
+	{{PropertyMapping | templateProperty = aircraft_helicopter_utility | ontologyProperty = aircraftHelicopterUtility }}
+	{{PropertyMapping | templateProperty = aircraft_interceptor | ontologyProperty = aircraftInterceptor }}
+	{{PropertyMapping | templateProperty = aircraft_patrol | ontologyProperty = aircraftPatrol }}
+	{{PropertyMapping | templateProperty = aircraft_recon | ontologyProperty = aircraftRecon }}
+	{{PropertyMapping | templateProperty = aircraft_trainer | ontologyProperty = aircraftTrainer }}
+	{{PropertyMapping | templateProperty = aircraft_transport | ontologyProperty = aircraftTransport }}
+	{{PropertyMapping | templateProperty = unit_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = dates | ontologyProperty = activeYearsStartDate }}
+	{{PropertyMapping | templateProperty = dates | ontologyProperty = activeYearsEndDate }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = motto | ontologyProperty = motto }}
+}}

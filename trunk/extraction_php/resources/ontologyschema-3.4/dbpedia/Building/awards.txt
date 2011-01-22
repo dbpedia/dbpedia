@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = awards
+|rdfs:domain = Building
+|rdfs:range = owl:Thing
+}}

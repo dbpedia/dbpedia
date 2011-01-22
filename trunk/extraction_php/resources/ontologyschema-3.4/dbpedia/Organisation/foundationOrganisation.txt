@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = foundation organisation
+|rdfs:domain = Organisation
+|rdfs:range = Organisation
+}}

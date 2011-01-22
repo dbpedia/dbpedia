@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/unicodeProperties.txt> <http://dbpedia.org/property/_percent_C3_percent_BC_percent_C3_percent_9F_percent_C3_percent_A5_percent_E2_percent_82_percent_AC_percent_C2_percent_A5_percent_26_percent_24_percent_C2_percent_A7_percent_C2_percent_A1_percent_21> "\u00E4\u00A5\u20AC"@en .
+<http://dbpedia.org/resource/unicodeProperties.txt> <http://dbpedia.org/property/_percent_C3_percent_B6ld_percent_40_percent_40_percent_2534bc> "&%&$&%$\u00A7?\u00DF\u00DF\u00DF"@en .
+<http://dbpedia.org/resource/unicodeProperties.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .

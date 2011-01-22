@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = StationVisitLength
+|rdfs:domain = SpaceMission
+|rdfs:range = hour
+}}

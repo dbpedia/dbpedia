@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = abbreviation
+| rdfs:domain = Organisation
+| rdfs:range = xsd:string
+}}

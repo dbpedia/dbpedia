@@ -1,0 +1,163 @@
+﻿DBpedia: EXTRACTION DATABASE
+============================
+Date  : 2008-11-30
+Author: Anja Jentzsch <mail@anjajentzsch.de>
+
+
+The DBpedia extraction database is structured as follows:
+
+dbpedia_extraction, Tables:
+* class
+* class_property
+* class_property_range
+* parser_type_rule
+* rule_property
+* rule_uri
+* template_class
+* template_parser_type_rule
+* template_property
+* template_property_class_property
+* template_property_merge_rule
+* template_uri
+
+The tables and their fields are described below.
+For fields NOT NULL means mandatory, NULL optional.
+
+TABLE STRUCTURE class
+	The class table stores ontology classes, their names, labels and hierarchy.
+	
+	FIELDS:
+  id									int(11) NOT NULL auto_increment	
+  	id is the primary key
+	name								varchar(50) NOT NULL
+		name has to be unique
+	parent_id						int(11) NULL
+		use only other class ids as parent_id 
+  description					varchar(255) NULL
+  	optional 
+  label								varchar(255) NULL
+
+
+TABLE STRUCTURE class_property
+	The class_property table stores ontology class properties, their names, types and labels.
+
+	FIELDS:
+  id									int(11) NOT NULL auto_increment
+  	primary key
+  name								varchar(255) NOT NULL
+  	name has to be unique
+  class_id						int(11) NULL
+  type								enum('object','datatype') NOT NULL
+  	either object or datatype, default is object
+  description					varchar(255) NULL
+  datatype_range			varchar(100) NULL
+  	if type == datatype, range has to be defined here
+  uri									varchar(100) NULL
+  	for external properties provide URI
+  label								varchar(255) NULL
+
+
+TABLE STRUCTURE class_property_range
+	The class_property_range table links object property ranges to the corresponding classes.
+	
+	FIELDS:
+  property_id					int(11) NOT NULL
+  	primary key
+  range_class_id			int(11) NOT NULL
+
+
+TABLE STRUCTURE parser_type_rule
+	The parser_type_rule table defines the parsers which are to be applied to class properties.
+
+	FIELDS:
+  class_property_id		int(11) NOT NULL
+  	primary key
+  parser_type					enum('date','geocoordinates','unit','currency','url','merge') NOT NULL
+  unit_type						enum('Length','Area','Volume','Speed','Force','Energy','Temperature','Mass','Pressure','Torque','Fuel efficiency','Power','Currency','Population density','Weight') NULL
+  	if parser_type == unit
+
+
+TABLE STRUCTURE rule_property
+	The rule_property table covers mapping exceptions for template property values.
+	You can define a new mapping class for a template/infobox of either a template property is set or contains a certain value.
+
+	FIELDS:
+  class_id							int(11) NOT NULL
+  template_property_id	int(11) NOT NULL
+  type 									enum('value','set') NOT NULL default 'value'
+  value									varchar(255) NULL
+  	if tpye == value
+  new_class_id					int(11) NOT NULL
+
+
+TABLE STRUCTURE rule_uri
+	The rule_uri table stores for which template URIs exceptional class mappings 
+	are to be made.
+	This should cover cases where several templates have the same properties and
+	you don't want to map each property for each template, but you still want to
+	use seperate classes.
+	E.g. there are at least 20 office holder templates, but the URI determines 
+	whether it is a senator or mayor.
+
+	FIELDS:
+  template_uri				varchar(255) NOT NULL
+  	http://dbpedia.org/resource/Template:...
+  new_class_id				int(11) NOT NULL
+
+
+TABLE STRUCTURE template_class
+	The template_class table links template URIs to ontology classes.
+
+	FIELDS:
+  template_id						int(11) NOT NULL auto_increment,
+  class_id							int(11) NOT NULL
+  	has to be unique
+
+
+TABLE STRUCTURE template_parser_type_rule
+	The template_parser_type_rule table defines exact unit types which should be
+	expected for a certain template property.
+	
+	FIELDS:
+  template_property_id	int(11) NOT NULL
+  unit_exact_type				varchar(255) NOT NULL
+
+
+TABLE STRUCTURE template_property
+	The template_property table stores the properties for each Wikipedia template.
+
+	FIELDS:
+  id										int(11) NOT NULL auto_increment
+  name									varchar(255) NOT NULL
+  	use the same notation like Wikipedia does
+  template_id						int(11) NOT NULL
+   (name, template_id) has to be unique
+
+
+TABLE STRUCTURE template_property_class_property
+	The template_property_class_property table links template properties to ontology properties (n:1).
+
+	FIELDS:
+  template_property_id			int(11) NOT NULL
+  class_property_id					int(11) NOT NULL
+
+
+TABLE STRUCTURE template_property_merge_rule
+	The template_property_merge_rule table stores information on which template properties have to be merged in which order to map them to an ontology property.
+
+	FIELDS:
+  ordered_template_property_ids		varchar(255) NOT NULL
+  	has to be unique
+  	use template property ids, comma seperated
+  class_property_id								int(11) NOT NULL
+  template_id											int(11) NOT NULL
+
+
+TABLE STRUCTURE template_uri
+	The template_uri table stores all the template URIs known and their IDs.
+
+	FIELDS:
+  template_id					int(11) NOT NULL
+  uri									varchar(255) NOT NULL
+  	http://dbpedia.org/resource/Template:...
+  	has to be unique

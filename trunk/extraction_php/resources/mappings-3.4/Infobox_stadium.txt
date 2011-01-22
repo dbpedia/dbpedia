@@ -1,0 +1,18 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Stadium
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = built | ontologyProperty = Building/buildingStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = built | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = opened | ontologyProperty = Building/openingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = renovated | ontologyProperty = Building/rebuildingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = closed | ontologyProperty = Building/closingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = demolished | ontologyProperty = Building/demolitionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Building/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = architect | ontologyProperty = Building/architect }}
+	{{ DBpediaPropertyMapping | templateProperty = tenants | ontologyProperty = Building/tenant }}
+}}

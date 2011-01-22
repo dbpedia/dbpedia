@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = country origin
+| rdfs:domain = Rocket
+| rdfs:range = Country
+}}

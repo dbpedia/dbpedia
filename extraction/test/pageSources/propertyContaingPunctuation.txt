@@ -1,0 +1,6 @@
+{{ Dummy Template |
+property:a = abc |
+property,b = def |
+property.c = ghi |
+property;d = jkl
+}}

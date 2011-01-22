@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = coached team
+| rdfs:domain = CollegeCoach
+| rdfs:range = SportsTeam
+}}

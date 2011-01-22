@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = resting place position
+| rdfs:domain = Person
+| rdfs:range = geo:SpatialThing
+}}

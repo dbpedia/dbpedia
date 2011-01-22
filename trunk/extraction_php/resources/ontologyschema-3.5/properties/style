@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = style
+| rdfs:domain = Island
+}}

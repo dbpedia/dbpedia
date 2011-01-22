@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Website
+|rdfs:subClassOf = owl:Thing
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = management region
+|rdfs:domain = Island
+|rdfs:range = PopulatedPlace
+}}

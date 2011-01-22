@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = iss dockings
+| rdfs:domain = SpaceShuttle
+| rdfs:range = xsd:integer
+}}

@@ -1,0 +1,57 @@
+{{Infobox Automobile
+| image = [[Image:BMW 3200 CS.jpg|250px|BMW 3200 CS]]
+| name = BMW 3200 CS
+| manufacturer = [[BMW|Bayerische Motoren Werke AG (BMW)]]
+| production = February 1962  – September 1965 <br> ca. 600 built 
+| predecessor = [[BMW 503]]
+| successor = ([[BMW-Glas V8]])
+| body_style = [[coupé|2-door coupé]]
+| layout=[[FR layout]]
+| transmission = 4 speed manual 
+| length = {{convert|4850|mm|in||abbr=on}}
+| width = {{convert|1760|mm|in||abbr=on}}
+| height = {{convert|1470|mm|in||abbr=on}}
+| weight = {{convert|1500|kg|lb||abbr=on}} <br>(measurements approximate)
+| wheelbase =  {{convert|2840|mm|in||abbr=on}}
+| track = 
+|fuel_capacity= 
+| related = [[BMW 501|BMW 502]]
+| similar = 
+| designer = [[Bertone]]
+}}
+The '''BMW 3200 CS''' is a sports touring car first presented by [[BMW]] at the 1961 [[Frankfurt Motor Show]], and assembled at [[Munich]] in collaboration with [[Bertone]] between February 1962 and September 1965.
+It was BMW’s  top range model and a final variation on the [[BMW 501|big BMW]] models first introduced in 1951.  The 3200 CS was also the last [[V8]] engined automobile developed by BMW until the introduction of the [[BMW E32|BMW 740i]] in 1992.
+== Commercialisation ==
+The car was a natural successor to the elegant [[BMW 503]].    However, its arrival coincided with the launch of the [[BMW New Class|BMW 1500]].   Before this, BMW’s postwar offerings had been restricted to large cars that sold in low volumes and very small cars which also tended to sell only in modest numbers.   The new 1500 marked a successful entry into an aspirational niche within the middle market segment that would enable BMW to combine reasonable margins with reasonable volumes, thereby giving the business a robust financial footing for the first time in two decades.   The introduction of the 3200 CS was a relatively low profile affair, therefore.   Both during and after its period in production, attention has tended to focus on other aspects of BMW’s progress.   Sources differ concerning numbers produced, but the early 1960s were years of strong economic growth: with approximately 600 produced, the car appears moderately to have outperformed [[BMW 503|its predecessor]] in the market place.
+
+== Technical ==
+Based on the underpinnings of the [[BMW 501|502 sedan]] model, the 3200 CS shared that car’s 3168 cc [[BMW OHV V8 engine|V8 engine]].   Fed by twin [[Zenith Carburetters|Zenith]] carburettors, claimed power in this application was now {{convert|160|bhp|abbr=on}}, power delivered to the rear wheels via a four speed manual gear box.
+
+A maximum speed of 200&nbsp;km/h (125 mph) was advertised.   This was the first BMW to be fitted with front disc brakes.   For the rear wheels traditional drum brakes were specified.
+
+The body, of a thoroughly modern design, was designed and constructed by [[Bertone]] in Italy before being shipped to [[Bavaria]] for mounting on the chassis.   The car’s side profile shared with its new [[Michelotti]] styled siblings a ‘Hofmeister kink’ on the lower front edge of the C-pillar, a styling cue, named for BMW designer Wilhelm Hofmeister, that has remained a BMW feature ever since, as well as having been a distinguishing aspect of the first [[Volkswagen Golf]] and Kaiser Henry J .
+
+== The End ==
+The success of the [[BMW New Class|BMW 1500]] and of its two door derivatives left BMW in the happy position of being unable to produce all the cars it could (otherwise) have sold.   A small volume exclusive GT seems not to have fitted too well with the market place profile that the firm was now carving for itself, and production ended after the 1965 summer holiday.
+
+The styling of the 3200 CS was nevertheless closely echoed in the [[Karmann]] built 2000 CS (Type 121) introduced in 1965.   Using the platform of the new [[BMW New Class|middle class sedans]], the 2000 CS would sell in much greater numbers than the 3200 CS had managed.
+
+There is a sense, too, in which the 3200 CS had a V8 successor:  this was the Glas 2600 / BMW-Glas 3000 sports tourer which came into the BMW family on the acquisition, in 1966, of [[Hans Glas GmbH]], a small specialist manufacturer based in [[Dingolfing]].   However, it appeared that BMW were more interested in the Dingolfing site – which was developed and grew to manufacture more BMWs annually than any other factory location in the world – than in the Glas automobile range.   Only 389 of the 3000 V8 tourers had been sold when in 1968 this model, too, was withdrawn.
+
+*{{De|BMW 3200 CS}}
+*{{Italian|BMW 3200 CS|[[2008-02-18]]}}
+
+{{BMW early cars}}
+
+[[Category:BMW vehicles|3200 CS]]
+[[Category:Roadsters]]
+[[Category:Sports cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1960s automobiles]]
+[[Category:Vehicles introduced in 1961]]
+
+[[de:BMW 3200 CS]]
+[[it:BMW 3200 CS]]
+[[ja:BMW・3200CS]]
+[[no:BMW 3200 CS]]
+[[ru:BMW 3200 CS]]

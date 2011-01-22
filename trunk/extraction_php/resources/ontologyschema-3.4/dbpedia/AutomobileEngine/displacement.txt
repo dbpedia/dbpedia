@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= displacement
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= cubicCentimetre
+|rdf:type	= owl:FunctionalProperty
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = latest preview date
+| rdfs:domain = Software
+| rdfs:range = xsd:date
+}}

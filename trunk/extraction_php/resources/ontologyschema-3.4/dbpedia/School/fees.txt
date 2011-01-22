@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = fees
+|rdfs:domain = School
+|rdfs:range = Currency
+}}

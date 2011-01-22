@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Playboy Playmate
+|rdfs:subClassOf = Person
+}}

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Trade Union
+| rdfs:subClassOf = Organisation
+}}

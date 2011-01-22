@@ -1,0 +1,62 @@
+{{Infobox Automobile
+| image = [[Image:Wartburg Kolin 4716.JPG|250px|Wartburg 353 (pre-1985 model)]]<br>''Wartburg 353 (pre-1985 model)''
+| name = Wartburg 353
+| manufacturer = [[Wartburg (car)|Wartburg]]
+| assembly=[[Automobilwerk Eisenach|VEB Automobilwerk Eisenach]], [[Eisenach]], [[East Germany]]
+| production = 1965 – 1988 
+| predecessor = [[Wartburg 311]]
+| successor = [[Wartburg 1.3]]
+| body_style = 4-door [[sedan (car)|saloon]]<br>5-door [[station wagon|estate]]<br>[[Pickup truck|pick up]]
+| engine = 993 &nbsp;cc [[two stroke]] [[straight-3]] (37 kW)<ref name="carfolio.com">{{Cite web|url=http://www.carfolio.com/specifications/models/car/?car=40139|title=Technical specifications of 1967 Wartburg 353 W|accessdate=2008-03-03|work=carfolio.com}}</ref>
+| layout=[[FF layout]]
+| transmission = 4 speed manual <ref name="carfolio.com"/>
+| length = {{convert|4220|mm|in|1|abbr=on}}<ref name="carfolio.com"/>
+| width = {{convert|1640|mm|in|1|abbr=on}}<ref name="carfolio.com"/>
+| height = {{convert|	1490|mm|in|1|abbr=on}}<ref name="carfolio.com"/>
+| weight = {{convert|920|kg|lb|0|abbr=on}}<ref name="carfolio.com"/>
+| wheelbase =  {{convert|2450|mm|in|1|abbr=on}}<ref name="carfolio.com"/>
+| track = 
+| fuel_capacity={{Convert|44.1|L|usgal impgal|0|abbr=on|lk=on}}<ref name="carfolio.com"/>
+| related = [[FSO Warszawa|Warszawa 210]]
+| designer = 
+}}
+The '''Wartburg 353''', known in some export markets as the '''Wartburg Knight''', is a medium-sized family car, produced by [[East Germany|East German]] car producer [[Wartburg (car)|Wartburg]]. It was the successor of the [[Wartburg 311]] and was itself succeeded by the [[Wartburg 1.3]].
+
+The Wartburg 353 was produced from 1965 to 1988, becoming the longest-produced Wartburg model ever. During its lifetime it saw several changes and improvements, the most notable of these coming in 1985 with a slight front facelift and a new one-step carburetor.
+
+The Wartburg 353 was the creation of the former German [[BMW]] production facilities (called [[Automobilwerk Eisenach#After the War: EMW/BMW|EMW]] under [[Soviet Union|Soviet]] occupation).  It was based on a 1938 chassis and powertrain, and used a two stroke engine with very few moving parts.
+
+Internally it was used for government transportation; sometimes as a police car, consumer product often taking ten to fifteen years to deliver.
+
+As an export it was popular in the [[United Kingdom]] (UK) in the 1960s: like other [[Eastern Europe]]an cars it was known for its cheap price, and, by comparison, well-equipped design and mid-rank size.  The Wartburg had an unusual approach to road handling, often displaying understeering in the clear, and a disarming disinclination to make turns in the wet.{{fact|date=December 2008}} Wartburgs were exported to the UK, [[Cyprus]], [[Malta]], and [[South Africa]] (possible partly because [[right-hand drive]] models were already in production for the UK.)
+
+Famous, though, for its remarkable reliability and mere maintenance. Even today referred to by its owners as "Trustworthy Hans" or "Farty Hans" after his durability, and after the immense emissions exhausted by it when cold or overoiled. Nicknames are due to its simplified design, dependability, presence of chassis, forward wheel drive, rear ABS and a front placed two-stroke engine, huge 525 litre trunk, not to mention innovative electronic gauges (after 1982), thus the well-known saying "Maintaining a motorcycle, you drive a car.". 
+
+It had surprisingly agile engine. Most of the 353s were equipped with a 993cc displacement 3-cylinder two-stroke engine yelding at about 50 - 55BHP, capable of a very decent acceleration, even to nowadays standards. Transmission was equipped with a "freewheel", meaning you don't need a clutch in between gears, except the first one. That was designed as a fuel efficiency tend, but turned out to be a very handy contraption, since the car was coasting whenever the driver released the throttle. It is notable that even now these cars are capable, and are being tuned for reaching speeds of well over 150&nbsp;km/h whereas their original design wouldn't imagine more than 135&nbsp;km/h. 
+
+Over one million of these were produced overall.
+
+<gallery>
+Image:Wartburg 353 Jaslo.JPG|Early Wartburg 353
+Image:Wartburg 353 by Hobson's Conduit 1988.jpg|Wartburg 353, with the post-1985 front
+Image:Wartburg 353w tourist.jpg|Wartburg 353W "Tourist"
+</gallery>
+
+== References ==
+{{reflist}}
+
+{{Commonscat|Wartburg 353}}
+
+[[Category:Cars of Germany]]
+[[Category:1960s automobiles]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:Vehicles introduced in 1965]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+
+[[de:Wartburg (Pkw)#Geschichte_des_Wartburg_353_.281965.E2.80.931988.29]]
+[[pl:Wartburg (samochód)#Wartburg_353]]
+[[ru:Wartburg]]
+[[fi:Wartburg 353]]

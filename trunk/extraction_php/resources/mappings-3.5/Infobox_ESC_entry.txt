@@ -1,0 +1,11 @@
+{{TemplateMapping
+| mapToClass = EurovisionSongContestEntry
+| mappings = 
+	{{PropertyMapping | templateProperty = song | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = year | ontologyProperty = publishDate }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = languages | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = prev_link | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = next_link | ontologyProperty = subsequentWork }}
+}}

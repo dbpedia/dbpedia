@@ -1,0 +1,142 @@
+{{Infobox Automobile
+|name=Porsche 356
+|manufacturer=[[Porsche]]
+|production=1948-1965
+|predecessor=none
+|successor=[[Porsche 911]][[Porsche 912|/912]]
+|image=[[Image:Porsche 356 in red.jpg|250px|Porsche 356]]<br /> ''Porsche 356''
+|class=[[Sports car]]
+|platform=
+|layout=[[RR layout]]
+|body_style=2-door [[Coupe]]<br />2-door [[Convertible]]
+|engine=1.1&nbsp;L [[Flat-4|B4]], 40 [[Metric horsepower#Metric horsepower|PS]] <br />1.3&nbsp;L [[Flat-4|B4]], 44-60 PS <br />1.5&nbsp;L [[Flat-4|B4]], 55-70 PS <br /> 1.5 L [[DOHC]]-[[Flat-4|B4]], 100-110 PS <br />1.6&nbsp;L [[Flat-4|B4]], 60-95 PS <br /> 1.6 L [[DOHC]]-[[Flat-4|B4]], 105-115 PS <br />2.0&nbsp;L [[DOHC]]-[[Flat-4|B4]], 130 PS
+|designer=[[Erwin Komenda]]
+|wheelbase={{convert|82.7|in|mm|abbr=on|lk=off}}
+|length={{convert|152.4|-|157.9|in|mm|abbr=on}}
+|width={{convert|65.4|in|mm|abbr=on|lk=on}}
+|height={{convert|48.0|-|51.8|in|mm|abbr=on}}
+|weight={{convert|1700|-|2296|lb|kg|abbr=on}}
+}}
+
+The '''Porsche 356''' was the company's first production automobile. It was a lightweight and nimble handling rear-engine rear-wheel-drive 2 door [[sports car]] available in hardtop and convertible configurations. Design innovations continued during the years of manufacture, contributing to its motorsports success and popularity. Production started in [[1948]] at [[Gmünd]], [[Austria]] where approximately 50 cars were built. In 1950 the factory relocated to [[Zuffenhausen]], [[Germany]] and general production of the 356 continued until April 1965, well after the replacement model [[Porsche 911|911]] made its autumn 1963 debut. It is estimated approximately half of the total production of 76,000 356s still survive.<ref name="Timeline"/>
+
+==History==
+[[Image:PorscheNo1.jpg|thumb|left|Porsche No. 1 Type 356 (mid-engine prototype)]]
+[[Image:Porsche 356 Pre-A 1948.JPG|thumb|left|''Porsche 356 Pre-A 1948 Coupe Porsche-Museum'']]
+Prior to [[World War II]] Porsche designed and built three [[Porsche 64|Type 64]] cars for a 1939 Berlin to Rome race that was cancelled. In 1948 the mid-engine tubular chassis 356 prototype called [[Porsche 356/1|"No. 1"]] was completed. This has led to some debate as to the "first" Porsche automobile, but the 356 is considered by Porsche to be its first production model.<ref name="Timeline"/><ref>{{cite web|title=Porsche History - Milestones   |url=http://www.porsche.com/usa/aboutporsche/porschehistory/milestones/ | accessdate=2006-11-08}}</ref>
+
+The 356 was created by [[Ferry Porsche|Ferdinand "Ferry" Porsche]] (son of Dr. Ing. Ferdinand Porsche, founder of the company). Like its cousin, the [[Volkswagen Beetle]] (which [[Ferdinand Porsche]] Senior had designed), the 356 was a four-cylinder, air-cooled, rear-engine, rear-wheel-drive car utilizing unitized pan and body construction. While the 356's body was an original design by Porsche employee [[Erwin Komenda]], its mechanicals (including engine, suspension and chassis) were derived from the Volkswagen. The first 356, was roadcertified in Austria on June 8, 1948, and used many Volkswagen parts for manufacturing economy. Porsche quickly re-engineered and refined the car with a focus on performance. By the late '50s many fewer parts were shared in common between Volkswagen and Porsche. The early 356 automobile bodies produced at Gmünd, Austria were handcrafted in aluminum, but when production moved to Zuffenhausen, Germany in 1950, models produced there were steel-bodied.
+
+Little noticed at its inception, the first 356s sold primarily in Austria and Germany. From the first prototype in 1948, it took Porsche about two years to manufacture the first 50 automobiles. By the early 1950s the 356 had gained some renown among enthusiasts on both sides of the Atlantic for its aerodynamics, handling, and excellent build quality. It was common for owners to race the car as well as drive it on the street. Increasing success with its racing and road cars brought Porsche orders for over 10,000 units in 1964, and when 356 production ended in 1965 approximately 76,000 had been produced.<ref name="Timeline">{{cite web|url=http://www.356registry.org/History/index.html|title=356 Timeline|author=356 Registry|accessdate=2006-11-08}}</ref>
+
+==Variants==
+[[Image:Porsche Speedster.jpg|thumb|left|''Porsche 356 Speedster'']]
+{| class="toccolours"  cellpadding="4" cellspacing="0" style="float:right; margin:0 0 1em 1em; font-size:95%;"
+|-
+! colspan=2 bgcolor="#ccccff" align="center"| Porsche 356 production<ref>{{cite book |title=Porsche 356 |last=Long |first=Brian |year=2008 |publisher=Veloce Publishing |location=Dorchester |isbn=978-1-84584-035-8 |pages=188 }}</ref>
+|-
+! align="center"| Type !! align="right"| Quantity
+|-
+| colspan=2|<hr>
+|-
+| align="center"| 356  (1948-55) || align="right" | 7,627
+|-
+| align="center"| 356A (1955-59) || align="right" | 21,045
+|-
+| align="center"| 356B (1959-63) || align="right" | 30,963
+|-
+| align="center"| 356C (1963-65/66)|| align="right" | 16,678
+|-
+| colspan=2|<hr>
+|-
+| align="center"| Total || align="right" | 76,313
+|}
+
+The basic design of the 356 remained the same throughout its lifespan, with evolutionary, functional improvements rather than yearly superficial styling changes. Nevertheless a variety of models in both coupe and convertible forms were produced from 1948 through 1965.
+
+Cabriolets (convertibles) were offered from the start, and in the early 1950s sometimes comprised over 50% of total production. One of the most desirable collector models is the 356 "Speedster", introduced in late 1954 after [[Max Hoffman]], the sole US importer of Porsches, advised the company that a lower-cost, open-top version could sell well in the American market. With its low, raked windshield (which could be removed for weekend racing), bucket seats and minimal folding top, the Speedster was an instant hit, especially in Southern California. Production of the Speedster peaked at 1,171 cars in 1957 and then started to decline. It was replaced in late 1958 by the "Convertible D" model. It featured a taller, more practical windshield, glass side windows and more comfortable seats. The following year the 356B "Roadster" convertible replaced the D model but the sports car market's love affair with top-down motoring was fading; soft-top 356 model sales declined significantly in the early 60s.
+
+To distinguish among the major revisions of the model, 356's are generally classified into a few major groups. 356 coupes and "cabriolets" (soft-top) built through 1954 are readily identifiable by their split (1948 to 1952) or bent (center-creased, 1953 to 1954) windshields. In 1955, with numerous small but significant changes, the 356A was introduced. Its internal factory designation, "Type 1," gave rise to its nickname "T1" among enthusiasts. In early 1957 a second revision of the 356A was produced, known as Type 2 (or T2). In late 1959 more significant styling and technical refinements gave rise to the 356B (a T5 body type)[[Image:Porsche 356B T6 1600 Super Coupe red hl2.jpg|thumb|right|''Porsche 1963 356B T6 1600 Super Coupe'']]The mid 1962 356B model was changed to the T6 body type (twin deck lid grilles, an external fuel filler in the right front fender and larger windows). A unique "Karmann Hardtop" or "Notchback" 356B model (1961 to 1962) was essentially a cabriolet body with the optional steel cabriolet hardtop welded in place.<ref>{{cite web|url=http://www.356registry.org/Tech/Guide/index.html |title=356 Registry's spotter's guide|author=356 Registry|accessdate=2007-12-09}}</ref>
+
+The last revision of the 356 was the 356C which was introduced for the 1964 model year. It featured disc brakes as well as an option for the most powerful pushrod engine Porsche had ever produced, the {{convert|95|hp|abbr=on}} "SC." 356 production peaked at 14,151 cars in 1964, the year that its successor, the new [[Porsche 911|911]], was introduced to the US market (it was introduced slightly earlier in Europe). The company continued to sell the 356C in North America through 1965 as demand for the model remained quite strong in the early days of the 911. The last ten 356's (cabriolets) were assembled for the Dutch police force in March 1966 as 1965 models.<ref>{{cite book |title=Porsche 356 |last=Long |first=Brian |year=2008 |publisher=Veloce Publishing |location=Dorchester |isbn=978-1-84584-035-8 |pages=162}}</ref>
+
+The 356's four-cylinder pushrod engine was later re-introduced in Porsche's "entry-level" [[Porsche 912|912]] model, offered between 1965 and 1969 in response to customer complaints that the new 911 (at nearly twice the price of the 356) was too expensive. Although in some ways the 912 did reprise the 356's specifications, it would not be accurate to say the 912 was successor to the 356; when the decision was made to replace the 356, the 911 was the only car intended to carry the Porsche name forward. Rather the 912 was an afterthought intended to supply the lower-priced end of the market, which the faster and heavier 911 could not do.
+
+==Legacy==
+The 356 has always been popular with the motor press. In 2004, ''[[Sports Car International]]'' ranked the 356C tenth on their list of [[Sports Car International Top Sports Cars|Top Sports Cars of the 1960s]]. Today, the Porsche 356 is a highly-regarded collector car. The Porsche 356 Carrera (with its special four-cam racing engine), Super 90 and Speedster models are today among the most desirable 356 models. Few 356 Carreras were produced and these often bring well over $250,000 at auction. A fully-restored [[356 Carrera]] Speedster (of which only about 140 were ever made) will sell for around $300,000 at auction.
+
+The original selling price of a late 1950s Porsche was around USD$4,000, which was also the price of a new [[Cadillac]]; today they regularly bring between USD$20,000 to well over USD$100,000 at auction.
+
+Thousands of owners worldwide maintain the 356 tradition, preserving their cars and driving them regularly. The US-based 356 Registry is the largest American club.{{Citation needed|date=October 2009}}
+
+According to ''[[Autozeitung]]'' magazine, a new generation of Porsche 356 will be produced in 2013.<ref>{{cite web|url=http://www.4wheelsnews.com/porsche-356-speedster-planning-a-big-comeback/ |title=Porsche 356 Speedster planning a big comeback |publisher=4wheelsnews.com |date=2009-03-24 |accessdate=2009-08-07}}</ref>
+
+[[Crutchfield|Bill Crutchfield]] started his eponymous aftermarket car stereo business after he was unable to find help upgrading the car stereo on a 356.
+
+==356 in racing==
+The Porsche 356, close to stock or highly modified, has enjoyed much success in rallying, the [[24 hours of Le Mans]], the [[1000 km Buenos Aires]], the [[Mille Miglia]], the [[Targa Florio]], the [[Carrera Panamericana]], as well as many other important car racing events.
+
+Several Porsche 356s were stripped down in weight, and were modified in order to have better performance and handling for these races. A few notable examples include the Porsche 356 SL, and the Porsche 356A Carrera GT.
+
+In the early 1960s Porsche collaborated with [[Abarth]] and built the Porsche 356B Carrera GTL Abarth coupé, which enjoyed some success in motor sports.
+
+<gallery>
+Image:1959 Porsche 356A.JPG|Race-prepared 1959 356A
+Image:Porsche Carrera Abarth am 15.08.1981.jpg|Porsche 356B Carrera GTL-Abarth
+Image:1964-05-31 Günter Klass - Porsche.jpg|Porsche 356B 1600 GS-GT (''Dreikantschaber'') [[Günter Klass]]/[[Sepp Greger]], [[1000 km Nürburgring|Nürburgring '64]]
+</gallery>
+
+==Gallery==
+<gallery>
+Image:Porsche 356 Speedster AU VIC PARRIS.jpg
+Image:1958-Porsche-Convertible-D.jpg
+Image:1960-Porsche-Roadster.jpg
+</gallery>
+
+==See also==
+*[[Porsche 550 Spyder]]
+*[[Lake Underwood]] - an American race driver who helped popularise the model
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Wood, J (1997). ''Porsche: The Legend''. Paragon. ISBN 0-7525-2072-5.
+
+==External links==
+{{Commons category|Porsche 356}}
+*[http://vista.pca.org/stl/356.htm General 356 information]
+*[http://www.oldtimer-doctor.com/projekte/porsche_356.htm Complete Porsche 356 Restoration]
+*[http://web.me.com/mjrickard/index.html  Porsche 356 Replica Conversion to Electric Drive]
+{{Porsche}}
+
+[[Category:Vehicles introduced in 1948]]
+[[Category:Porsche vehicles|356]]
+[[Category:Rear-engined vehicles]]
+[[Category:Sports cars]]
+[[Category:Coupes]]
+[[Category:Roadsters]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1940s automobiles]]
+[[Category:1950s automobiles]]
+[[Category:1960s automobiles]]
+[[Category:Industrial design examples]]
+[[Category:Vehicles with boxer engines]]
+[[Category:24 Hours of Le Mans race cars]]
+
+[[cs:Porsche 356]]
+[[de:Porsche 356]]
+[[es:Porsche 356]]
+[[fa:پورشه ۳۵۶]]
+[[fr:Porsche 356]]
+[[it:Porsche 356]]
+[[he:פורשה 356]]
+[[nl:Porsche 356]]
+[[ja:ポルシェ・356]]
+[[no:Porsche 356]]
+[[pl:Porsche 356]]
+[[pt:Porsche 356]]
+[[ru:Porsche 356]]
+[[sv:Porsche 356]]
+[[tr:Porsche 356]]
+[[zh:保时捷356]]

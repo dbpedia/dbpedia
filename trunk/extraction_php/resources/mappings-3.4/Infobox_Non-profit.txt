@@ -1,0 +1,37 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Non-ProfitOrganisation
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Non-profit_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = founded_date | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = founder | ontologyProperty = Organisation/foundationPerson }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Organisation/location }}
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/person}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/title}} 
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/personName}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/title}} 
+	
+	}}
+	{{ DBpediaPropertyMapping | templateProperty = product | ontologyProperty = Organisation/product }}
+	{{ DBpediaPropertyMapping | templateProperty = revenue | ontologyProperty = Organisation/revenue | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = endowment | ontologyProperty = Organisation/endowment | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = num_employees | ontologyProperty = Organisation/numberOfEmployees }}
+	{{ DBpediaPropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = organization_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = organization_motto | ontologyProperty = Organisation/motto }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/foundationPerson }}
+}}

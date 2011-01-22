@@ -1,0 +1,13 @@
+{{TemplateMapping
+| mapToClass = VideoGame
+| mappings = 
+	{{PropertyMapping | templateProperty = developer | ontologyProperty = developer }}
+	{{PropertyMapping | templateProperty = platforms | ontologyProperty = platform }}
+	{{PropertyMapping | templateProperty = writer | ontologyProperty = writer }}
+	{{PropertyMapping | templateProperty = artist | ontologyProperty = artist }}
+	{{PropertyMapping | templateProperty = composer | ontologyProperty = composer }}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = publisher | ontologyProperty = publisher }}
+	{{PropertyMapping | templateProperty = released | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = government elevation
+| rdfs:domain = Island
+| rdfs:range = Length
+}}

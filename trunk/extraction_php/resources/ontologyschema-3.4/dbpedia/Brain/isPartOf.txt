@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = is part of
+|rdfs:domain = Brain
+|rdfs:range = AnatomicalStructure
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = crew size
+| rdfs:domain = SpaceMission
+| rdfs:range = xsd:integer
+}}

@@ -1,0 +1,99 @@
+{{Unreferenced|date=June 2008}}
+{| border="0" align="right"
+|-
+|{{Infobox Automobile
+| image = [[Image:Porsche 911 GT1 '98 -25.jpg|250px|A Porsche 911 GT1 '98 on display]]
+| name = Porsche 911 GT1
+| manufacturer = [[Porsche]]
+| parent_company =
+| aka =
+| production =
+| assembly =
+| predecessor = [[Porsche 961]], [[Porsche 959]]
+| successor = [[Porsche Carrera GT]] (road car only)
+| class = GT1 racecar, race homologation [[Sports Car]], road car
+| body_style =
+| layout = [[Rear mid-engine, rear-wheel drive layout|Rear mid-engine, rear-wheel drive]]
+| platform =
+| engine = 3.2&nbsp;L [[dual overhead cam|DOHC]] [[twin-turbo]] [[Flat-6]]
+| transmission = Type, 6-Speed [[Manual transmission|manual]]
+| wheelbase =
+| length = {{convert|4890|mm|in|1|abbr=on}}
+| width = {{convert|1990|mm|in|1|abbr=on}}
+| height = {{convert|1140|mm|in|1|abbr=on}}
+| weight = {{convert|950|kg|lb|0|abbr=on}} - {{convert|1250|kg|lb|0|abbr=on}}
+| fuel_capacity =
+| electric_range =
+| related =
+| designer =
+}}
+|}
+The '''Porsche 911 GT1''' was a racing car designed for competition in the GT1 class at the [[24 Hours of Le Mans]] and sold as a road car for [[homologation]] purposes. The limited-production street-legal version was labeled the '''911 GT1 ''Straßenversion''''' (''Street version'').
+
+== History ==
+Porsche debuted the 911 GT1 in 1996, announcing that it would compete at that year Le Mans 24 Hours [[24 Hours of Le Mans]]. In spite of its name, the car actually has very little in common with the [[Porsche 911|911]], however it frontal chassis was shared with the then production 993, as were the doors. The GT1 featured a [[water-cooled]], twin-[[turbocharger|turbocharged]] and [[intercooler|intercooled]], [[multivalve|four valve]] per cylinder flat-six in a [[MR layout|mid-mounted]] position and making about {{Convert|600|hp|kW|-1|abbr=on}}. In comparison, the [[Porsche 993|993]] generation [[Porsche 911 GT2|911 GT2]], which was otherwise the company's highest-performance vehicle, used an [[air-cooled]] engine with only two [[valves]] per [[Cylinder (engine)|cylinder]] and mounted in the rear, which was the traditional layout for the 911. 
+
+=== 1996 ===
+[[Image:Porsche 911 gt1 96.jpg|thumb|left|200px|The 1996 version of the 911 GT1]]
+The new vehicle was an outright success at Le Mans, winning the GT1 class at its debut race, although it lost the overall victory to [[Joest Racing]]'s [[Porsche WSC-95]] prototype, still a success in that this vehicle used a Porsche powerplant.
+
+The 911 GT1 made its debut in the [[BPR Global GT Series]] (the FIA championship's predecessor) at the Brands Hatch 4 hours, where [[Hans-Joachim Stuck]] and [[Thierry Boutsen]] won comfortably, although they were racing as an invited entry and where thus inelidgable for points. They followed up by winning at Spa and [[Ralph Kelleners]] and [[Emmanuel Collard]] triumphed for the factory team at Zhuhai.
+
+The '96 GT1 had around {{Convert|600|hp|kW|-1|abbr=on}} - according to some rumors, the real power of the flat-6 was {{Convert|640|hp|kW|-1|abbr=on}} - and was clocked at a top speed of exactly {{convert|330|km/h|mph|0|abbr=on}} on the legendary Mulsanne Straight in the practice sessions of the 1996 Le Mans 24 Hours Race (presumably on a low downforce setup).
+
+=== 1997 ===
+[[File:Porsche AG Porsche 911 GT1.jpg|thumb|right|200px|A 911 GT1 Evo competing during the [[1997 FIA GT Championship season]]]]
+In 1997, the new [[Mercedes-Benz CLK-GTR]] was successful in the new [[FIA GT Championship]] that replaced the BPR, as it was developed for racing. Mercedes did not enter [[24 hours of Le Mans|Le Mans]] yet with their new car, though. The Porsche did not prove to be as fast in the FIA series, and failed to win a single race, first against the [[McLaren F1 GTR]], and then against the new CLK-GTR. 
+
+Porsche made minor revisions to the car for the 1997 Le Mans, including restyling the front end to incorporate "kidney shaped" headlamps like what would appear a year later on the [[Porsche 996|996]] generation 911s, and [[Porsche Boxster|Boxsters]]; this version is known as the '''911 GT1 Evo''' (or Evolution). As far as performance goes, the car had the same {{Convert|600|hp|kW|-1|abbr=on}} turbo-charged engine, but new aerodynamics on the car allowed the '97 car to be considerably faster than the 1996 model - acceleration was better, although the top speed was still around {{convert|330|km/h|mph|0|abbr=on}} on the La Sarthe Circuit (in the race, the GT1-Evo reached 326&nbsp;km/h). However, the works cars suffered from reliability problems and did not last the full race distance; a privately entered 1996 specification GT1 managed 5th overall and third in its class, but was beaten by the [[BMW]]-backed and powered [[McLaren F1 GTR]]s.
+
+=== 1998 ===<!-- This section is linked from [[Porsche 911]] -->
+Porsche committed themselves to a full blown re-thinking of the vehicle for the 1998 race, as the FIA and ACO abandoned the rule that GT1 cars must be based on a production vehicle. Designed to match the [[Toyota GT-One]] and Mercedes CLK-GTR, the '''911 GT1 '98''' featured radical changes to the bodywork and a new [[semi-automatic transmission|sequential gearbox]]. In 1998, in spite of improvements to the car, the privately entered Porsches proved to be no match for the works CLKs which also were improved. This was also due to the air-restrictor rules being regarded as unfavourable to the turbo engine. The [[Michelin]] tyres of the factory team and especially the [[Pirelli]] of [[Zakspeed]] were considered inferior to the Bridgestone of Mercedes, which also would dominate in F1 for many years.
+[[Image:911 GT1 Front.jpg|thumb|left|200px|The front end of a 911 GT1 '98, showing the headlights inspired by the [[Porsche 996|996]]-generation 911.]]
+At Le Mans, it was a different story. The new [[BMW V12 LM]] retired with wheel bearing trouble, and the [[Mercedes-Benz CLK GTR|Mercedes CLK-LM]] vehicles had oil pump troubles in the new V8 engines that replaced the former V12. The [[Toyota GT-One]] was very fast but also suffered gearbox reliability problems.
+
+The revised 1998 model, despite being slower than the Toyota or the Mercedes, fulfilled Porsche's slim hopes, taking both first and second place overall thanks to reliability, giving Porsche its record-breaking 16th overall win at Le Mans, more than any other manufacturer in history.
+
+At [[Petit Le Mans]] race in [[Road Atlanta]], the 911 GT1 '98 of [[Yannick Dalmas]] made a spectacular backward flip and landed rear first before hitting the side barriers, as did the [[BMW V12 LMR]] at the same race in 2000, and most infamously the [[Mercedes-Benz CLR]] at Le Mans in 1999.
+
+The GT1 '98 was set up with higher downforce in the race than the previous two years, which reduced its race maximum speed to {{convert|310|km/h|mph|0|abbr=on}}. However, in the 1998 Le Mans 24 Hours test days, the car hit {{convert|330|km/h|mph|0|abbr=on}} on the Mulsanne Straight on a lower downforce setup.
+
+=== 1999 ===
+With [[Mercedes-Benz|Mercedes]] dominating [[FIA]] GT1 in 1998, all other entries including Porsche withdrew for 1999. The GT1 class was cancelled, and the FIA GT Championship was contested with GT2 cars. Porsche could have entered at [[24 Hours of Le Mans|Le Mans]], but chose not to try to defend the lucky win of '98 against new machines from other factories.
+
+[[Champion Racing]] brought a 911 GT1 Evo to America to race in the [[American Le Mans Series]], but was only allowed to do so as an LMP (Le Mans Prototypes) class entry, where it proved uncompetitive against actual prototypes such as the [[BMW V12 LMR]].
+
+=== Gunnar G-99 ===
+Following Champion's purchase of a 911 GT1 Evo for 1999, Gunnar Racing offered a custom race car to the team with intentions to race in 2000.  The car, known as the Gunnar G-99, was a custom-built 911 GT1 with an open cockpit.  The chassis was made from scratch yet remained nearly identical to the 911 GT1 mechanically, even using the bulk of the bodyparts.  A large rollbar was put over the open cockpit to help protect the driver.  A 3.6 litre flat-6 from a [[Porsche 911 GT3]] was used in place of the standard 911 GT1 unit.
+
+However, Champion would instead turn to buying a [[Lola B2K/10]], so the Gunnar G-99 was temporarily abandoned.  The car would resurface in the [[Rolex Sports Car Series]] in 2002, yet would not be allowed to race until it had a roof again.  Therefore Gunnar Racing rebuilt the car with a near identical GT1 roof, and briefly competed in 2003.  The car would take a best finish of second in class twice before being retired due to lack of funding.
+
+== Street-legal version ==
+
+Regulations for the GT1 category stipulated that to be eligible, a total of 25 cars must be built for road use. Porsche developed a fully road-legal version, dubbed "911 GT1 ''Strassenversion''," and delivered one in early 1996 to the [[German government]] for compliance testing, which it passed. The engine had to be slightly de-tuned to meet [[Europe]]an emissions laws, although its 700&bhp;PS (400&nbsp;kW) and dry weight of {{convert|1100|kg|lb|0|abbr=on}} proved to be more than adequate; the vehicle could accelerate to 100&nbsp;km/h (62&nbsp;mph) from a standstill in 3.3 seconds on its way to a top speed of 378&nbsp;km/h (235&nbsp;mph).{{Fact|date=April 2009}}
+
+== External links ==
+{{commonscat|Porsche 911 GT1}}
+*[http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/ Official Porsche History of Racing Cars website]
+*[http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1996-911gt1/ 1996 Porsche 911 GT1 at official Porsche website]
+*[http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1997-911gt1evo/ 1997 Porsche 911 GT1 Evo at official Porsche website]
+*[http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1998-911gt198/ 1998 Porsche 911 GT1 '98 at official Porsche website]
+*[http://www.bigporsche.com/gt1.htm]
+
+{{Porsche}}
+
+[[Category:Grand tourer racing cars]]
+[[Category:Le Mans Prototypes]]
+[[Category:Porsche vehicles|911 GT1]]
+[[Category:24 Hours of Le Mans race cars]]
+
+[[cs:Porsche 911 GT1]]
+[[de:Porsche 911 GT1]]
+[[fr:Porsche 911 GT1]]
+[[it:Porsche 911 GT1]]
+[[ja:ポルシェ・911 GT1]]
+[[no:Porsche 911 GT1]]
+[[pl:Porsche 911 GT1]]
+[[fi:Porsche 911 GT1]]
+[[sv:Porsche 911 GT1]]
+[[tr:Porsche 911 GT1]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = dry cargo
+| rdfs:domain = Spacecraft
+| rdfs:range = Mass
+}}

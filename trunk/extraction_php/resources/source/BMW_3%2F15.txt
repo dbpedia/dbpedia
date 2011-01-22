@@ -1,0 +1,86 @@
+The '''BMW 3/15''' was [[BMW]]'s first car, produced in four versions from December 1927 to early 1932. 18,976 BMW 3/15s were manufactured between 1929 and 1932.<ref name=Norbye249>Norbye, p.249</ref>
+
+== 3/15 DA-1 ==
+{{main|BMW Dixi}}
+{{Infobox Automobile
+| name              = BMW Dixi 3/15 DA-1
+| image             = [[Image:Dixi 3-15 DA (1929).jpg|250px|BMW 326 sedan]]
+| manufacturer      = [[Automobilwerk Eisenach|Fahrzeugfabrik Eisenach]]<br />[[BMW|Bayerische Motoren Werke AG (BMW)]]
+| parent_company    = [[Gothaer Waggonfabrik]]<br />[[BMW|Bayerische Motoren Werke AG (BMW)]]
+| aka               = Dixi 3/15 PS DA-1
+| model_years       = 
+| production        = 
+| production_start  = 1927
+| production_end    = 1929
+| assembly          = 
+| predecessor       = 
+| successor         = BMW 3/15 DA-2
+| class             = 
+| body_style        = 
+| layout            = [[Automobile layout#Rear wheel drive layouts|FR layout]]
+| platform          = 
+| engine            = 747 cc [[side valve]] [[straight-4]], {{Convert|15|hp|kW|0|abbr=on}}
+| transmission      = 3-speed manual
+| wheelbase         = {{convert|75|in|mm|0|abbr=on}}
+| length            = 
+| width             = 
+| height            = 
+| weight            = approx. {{convert|400|kg|lb|0|abbr=on}}
+| related           = [[Austin 7]]
+| designer          = 
+| sp                = uk
+}}
+
+In 1927, [[Automobilwerk Eisenach|Fahrzeugfabrik Eisenach]], which manufactured automobiles under the Dixi marque, entered a contract with the [[Austin Motor Company]] to manufacture the [[Austin 7|Austin Seven]] under licence.  The first fifty Eisenach-built Sevens were right-hand-drive cars assembled in September 1927 from parts provided by Austin's factory in [[Longbridge]].  By December 1927, Dixi had begun building their version of the Seven, the left-hand-drive Dixi 3/15 PS DA-1, built from parts made by Dixi.  The 3/15 designation was derived from a taxable horsepower rating of 3 PS with an actual power output of approximately {{convert|15|PS|kW hp||abbr=on}}  The DA-1 designation stood for ''Erste Deutsche Ausführung'' (First German Version)
+
+BMW bought Fahrzeugfabrik Eisenach from parent company [[Gothaer Waggonfabrik]] in October 1928.  As a result, the Dixi 3/15 PS DA-1 became the '''[[BMW Dixi]] 3/15 DA-1'''.
+
+The main differences between the BMW Dixi 3/15 DA-1 and the contemporary Austin Seven were the addition of [[Robert Bosch GmbH|Bosch]] shock absorbers, the placement of the driver's controls on the left side of the vehicle, and the use of metric fasteners.
+
+*Top speed: 75&nbsp;km/h (45&nbsp;mph)
+*Acceleration 8 to 40&nbsp;km/h (5 to 25&nbsp;mph): 10 seconds
+*Fuel consumption: appr. {{convert|5.5|L/100 km|abbr=on}}
+
+== 3/15 DA-2 ==
+[[Image:BMW Dixi 1930.JPG|thumb|left|BMW 3/15 DA2 (1929)]]
+The '''3/15 DA-2''' replaced the DA-1 in April 1929.  The main change from the DA-1 was the operation of the brakes on all four wheels by the foot pedal, which had operated only the rear brakes on the DA-1. Other changes included larger tyres and a lower [[Gear ratio|final drive ratio]].  Available body styles included a steel-bodied two-door saloon, a two-seat convertible, and a delivery van.<ref name=Norbye2829>Norbye, pp.28-29</ref>
+<div style="clear: both"></div>
+== 3/15 DA-3 Wartburg ==
+The '''3/15 DA-3 Wartburg''' was a [[sports car|sports]] [[roadster]] version of the 3/15, and was consequently BMW's first sports car. A drop-centre front axle was used to lower the frame for a lower centre of gravity.  The compression ratio of the engine was raised to 7.0:1,<ref name=Norbye2829 /> raising power output to {{convert|18|bhp|kW PS|0|abbr=on}} at 3500 rpm.<ref name=Norbye2829 /><ref name=bmwccn.no_315_1>BMW 3/15 PS, 315/1 and 319/1 - early roadsters</ref><ref name=Motorsport3_15>BMW Motorsport - BMW 3/15</ref>
+
+The Wartburg was introduced in 1930, and the [[Great Depression]] had drastically reduced the market for sports cars.<ref name=Norbye2829 />  It was discontinued in 1931, with 150 sold.<ref name=Motorsport3_15 />
+
+== 3/15 DA-4 ==
+The '''3/15 DA-4''' replaced the DA-2 in mid-February 1931.
+
+While the engine, gearing, and chassis of the DA-4 were unchanged from the original Dixi 3/15 PS DA-1, the DA-4 was a step away from the original Austin design. The DA-4 was the first BMW automobile with [[independent front suspension]], which used the ends of the transverse leaf spring to act as lower control arms, with further wheel location performed by two diagonal leading arms.
+
+The DA-4 was heavier than the DA-2, and a larger wheel diameter was used to compensate for this.<ref name=Norbye2829 />
+
+The Austin-based 3/15 series was discontinued before the March 1932 expiration of BMW's licence to manufacture Austin Sevens.<ref name=Norbye30>Norbye, p.30</ref>
+
+== BMW 3/20 ==
+{{main|BMW 3/20}}
+[[Image:BMW AM 4 1933 red vl closed top.jpg|left|thumb|BMW 3/20 type AM 4 (1933)]]
+The '''BMW 3/20 PS''' was 3/15 successor produced between 1932 and 1934, it was made larger with an {{convert|84.6|in|mm|0|abbr=on}} wheelbase and a body {{convert|3|in|mm|0|abbr=on}} lower than the 3/15.<ref name="unixnerd.demon.co.uk">Unixnerd: BMW's Early History</ref> The new engine was based on the Austin Seven engine used in the 3/15, but its crankshaft ran in plain bearings instead of roller bearings and had an {{convert|80|mm|in|1|abbr=on}} stroke, generating a displacement of {{convert|788|cc|CID|1|abbr=on}}.<ref name=Norbye30 />  The new engine design also had a water pump and an [[overhead valve]] [[cylinder head]]. These design changes caused the engine to generate 20 hp, thereby causing the change in model designation. <ref name="unixnerd.demon.co.uk" />  A [[swing axle]] [[independent rear suspension]] with a transverse leaf spring was used along with the DA-4's front suspension to give the 3/20 four wheel independent suspension.<ref name=Norbye30 /> Four versions of the 3/20 were built: AM 1, AM 2, AM 3 and AM 4, where AM denoted ''Automobil München''.<ref name=Norbye30 />
+
+{{-}}
+
+== Notes ==
+{{reflist}}
+
+== References ==
+*{{cite book |last=Norbye |first=Jan P. |authorlink= |coauthors= |title=BMW - Bavaria's Driving Machines|year=1984 |publisher=Publications International |location=Skokie, IL |isbn=0-517-42464-9}}
+*{{cite web| url         =http://www.bmwccn.no/eng/chapter2/index.htm|title=  	BMW 3/15 PS, 315/1 and 319/1 - early roadsters|accessdate=2009-01-18|work=http://www.bmwccn.no}}
+*{{Cite web|url=http://www.unixnerd.demon.co.uk/history.html|title=BMW's Early History|accessdate=2008-02-18|work=unixnerd.demon.co.uk}}
+*{{cite web| url         = http://bmw-motorsport.com/ms/en/fascination/history/early_days/cars/index.html| title       = BMW Motorsport - The Early Days - Cars - BMW 3/15| accessdate  = 2008-01-19| work        = [http://bmw-motorsport.com/ms/en/home.html BMW Motorsport Home (English)]}}
+
+{{BMW pre war}}
+
+{{DEFAULTSORT:Bmw 3/15}}
+[[Category:BMW vehicles|3/15]]
+
+[[de:BMW 3/15]]
+[[it:BMW 3/15]]
+[[no:BMW 3/15]]
+[[pl:BMW 3/15]]

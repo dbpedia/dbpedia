@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = source confluence country
+|rdfs:domain = River
+|rdfs:range = Country
+}}

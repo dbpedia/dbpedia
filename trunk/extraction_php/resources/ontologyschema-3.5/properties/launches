@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = launches
+| rdfs:domain = LaunchPad
+| rdfs:range = xsd:integer
+}}

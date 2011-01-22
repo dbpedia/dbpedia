@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = number of visitors
+| rdfs:range = xsd:integer
+}}

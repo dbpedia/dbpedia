@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = surface area
+|rdfs:domain = Planet
+|rdfs:range = squareKilometre
+}}

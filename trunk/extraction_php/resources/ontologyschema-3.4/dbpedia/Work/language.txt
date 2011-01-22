@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = language
+|rdfs:domain = Work
+|rdfs:range = Language
+}}

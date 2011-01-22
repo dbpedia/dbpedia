@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = architectural style
+|rdfs:domain = Building
+|rdfs:range = owl:Thing
+}}

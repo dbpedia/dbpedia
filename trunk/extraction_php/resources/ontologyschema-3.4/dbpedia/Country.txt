@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Country
+|rdfs:subClassOf = PopulatedPlace
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = leader party
+|rdfs:domain = PopulatedPlace
+|rdfs:range = owl:Thing
+}}

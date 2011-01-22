@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = winter appearances
+| rdfs:domain = OlympicResult
+| rdfs:range = OlympicResult
+}}

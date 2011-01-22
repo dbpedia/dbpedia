@@ -1,0 +1,25 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Planet
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = discoverer | ontologyProperty = Planet/discoverer }}
+	{{ DBpediaPropertyMapping | templateProperty = discovered | ontologyProperty = Planet/discovered }}
+	{{ DBpediaPropertyMapping | templateProperty = periapsis | ontologyProperty = Planet/periapsis | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = apoapsis | ontologyProperty = Planet/apoapsis | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = perihelion | ontologyProperty = Planet/periapsis | unit = astronomicalUnit }}
+	{{ DBpediaPropertyMapping | templateProperty = aphelion | ontologyProperty = Planet/apoapsis | unit = astronomicalUnit }}
+	{{ DBpediaPropertyMapping | templateProperty = avg_speed | ontologyProperty = Planet/averageSpeed | unit = Speed }}
+	{{ DBpediaPropertyMapping | templateProperty = period | ontologyProperty = Planet/orbitalPeriod | unit = day }}
+	{{ DBpediaPropertyMapping | templateProperty = mean_radius | ontologyProperty = Planet/meanRadius | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = surface_area | ontologyProperty = Planet/surfaceArea | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = volume | ontologyProperty = Planet/volume | unit = cubicMetre }}
+	{{ DBpediaPropertyMapping | templateProperty = density | ontologyProperty = Planet/density | unit = Density }}
+	{{ DBpediaPropertyMapping | templateProperty = mass | ontologyProperty = Planet/mass | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = min_temp_1 | ontologyProperty = Planet/minimumTemperature | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = mean_temp_1 | ontologyProperty = Planet/meanTemperature | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = max_temp_1 | ontologyProperty = Planet/maximumTemperature | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = min_temp_2 | ontologyProperty = Planet/minimumTemperature | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = mean_temp_2 | ontologyProperty = Planet/meanTemperature | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = max_temp_2 | ontologyProperty = Planet/maximumTemperature | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = single_temperature | ontologyProperty = Planet/temperature | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+}}

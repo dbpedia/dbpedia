@@ -1,0 +1,254 @@
+{{Infobox Automobile
+|name           = Audi TT
+|image          = [[Image:2007 Audi TT Coupe.JPG|250px]]<br>''Audi TT - latest model''
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|production     = 1998&ndash;present
+|assembly       = [[Győr]], [[Hungary]]
+|class          = [[Sports car]]
+|body_style     = 2-door [[coupé]],<br>2-door [[roadster]]
+|layout         = [[transverse engine|Transverse]] [[front-engine design|front engine]],<br>[[front-wheel drive]] or<br>[[quattro (four wheel drive system)|quattro]] [[four-wheel drive]]
+|platform       = [[Volkswagen Group A platform]] series
+|related        = [[Volkswagen Golf]],<br>[[Audi A3]],<br>[[SEAT León]],<br>[[Škoda Octavia]]
+|sp             = uk
+}}
+The '''Audi TT''' is a [[sports car]] manufactured by [[Germany|German]] [[automotive industry|automaker]] [[Audi|Audi AG]] since 1998 in [[Győr]], [[Hungary]].  It is now in its second generation &mdash; and available as a [[2+2 (car body style)|2+2]] [[coupé]] or two-seater [[roadster]].
+
+==Origins==
+The development of the Audi TT began in September 1994 at the Audi Design Center in [[California]].{{Fact|date=May 2009}}  The TT was first shown as a [[concept car]] at the 1995 [[Frankfurt Motor Show]].  The design is credited to [[J Mays]] and [[Freeman Thomas]],<ref>[http://www.carautoportal.com/audi/audi-tt.php Audi TT Unveiled<!-- Bot generated title -->]</ref> with [[Martin Smith (designer)|Martin Smith]] and Romulus Rost contributing to the award winning interior design.  A previously unused [[laser welding]] adaptation which enabled seamless design features on the first-generation TT also delayed its introduction.
+
+Audi did not initially offer an [[automatic transmission]] option for the TT.  A [[Direct-Shift Gearbox]] (DSG) became available, the first for a production car, in 2003.
+
+==Name==
+The Audi TT takes its name from the successful racing tradition of [[NSU Motorenwerke AG|NSU]] in the [[United Kingdom|British]] [[Isle of Man TT]] [[motorcycle sport|motorcycle race]].  NSU began competing in the TT in 1911, and later merged into the company now known as Audi.<ref>
+{{cite web|url=http://www.autoblog.com/2008/04/25/audi-tt-s-to-be-official-car-of-the-tourist-trophy-races/|title=Audi TT-S to be official car of the Tourist Trophy races|date=2008-04-25|work= AutoBlog.com|accessdate=2008-10-06}}</ref>
+
+The Audi TT also follows the [[NSU Prinz|NSU 1000TT, 1200TT and TTS]] cars of the 1960s in being named for the race.
+
+The [http://www.audi-tt-roadster.ru Audi TT Roadster] was presented in Detroit in 1999 under the name Audi TTS.{{Fact|date=January 2009}}
+
+==First generation (''Typ'' 8N, 1998-2006){{anchor|8N}}==
+{{Infobox Automobile generation
+|name             = Audi TT (8N)
+|image            = [[Image:Audi tt.jpg|250px]]
+|aka              = 
+|production_start = October 1998
+|production_end   = June 2006
+|successor        = 
+|platform         = [[Volkswagen Group A platform#A4 (PQ34)|Volkswagen Group A4 (PQ34) platform]]
+|engine           = 1.8L [[straight-4|I4]] [[multi-valve|20v]] [[turbocharger|Turbo]],<br>3.2L [[VR6 engine|VR6]]
+|transmission     = 5-speed [[manual transmission|manual]],<br>6-speed manual,<br>6-speed [[automatic transmission|automatic]],<br>6-speed [[Direct-Shift Gearbox|DSG]]
+|wheelbase        = {{convert|2422|mm|1|abbr=on|lk=on}}<br>quattro: {{convert|2428|mm|1|abbr=on}}
+|length           = {{convert|4041|mm|1|abbr=on}}
+|width            = {{convert|1764|mm|1|abbr=on}}
+|height           = {{convert|1346|mm|1|abbr=on}}
+|weight           = 
+|fuel_capacity    = {{convert|55|L|impgal usgal|1|abbr=on|lk=on}}
+|related          = [[Audi A3]] Mk1<br>[[Volkswagen Golf Mk4|VW Golf Mk4]]<br>[[Volkswagen New Beetle]]<br>[[Volkswagen Jetta]]<br>[[VW Bora]]<br>[[SEAT León]] Mk1<br>[[SEAT Toledo]] Mk2<br>[[Škoda Octavia]] Mk1
+|designer         = 
+|sp               = uk
+}}
+{{Refimprovesect|date=May 2009}}
+The production model (internal designation '''''Typ'' 8N''') was launched as a [[Coupé]] (TT-C) in September 1998, followed by a [[Roadster]] (TT-R) in August 1999, based on the [[Volkswagen Group A platform#A4 (PQ34)|Volkswagen Group A4 (PQ34) platform]] used for the [[Volkswagen Golf Mk4]], the original [[Audi A3]], the [[Škoda Octavia]] and others.  The styling differed little from the concept, except for slightly reprofiled bumpers, and the addition of a rear quarterlight windows behind the doors.  Factory production commenced October 1998.
+
+Mechanically, the TT uses a [[transverse engine|transverse]]ly mounted [[internal combustion engine]] with [[front-wheel drive|front]] or ''[[quattro (four wheel drive system)|quattro]]'' [[four-wheel drive]].  It was first available with a 1.8&nbsp;[[litre]] [[straight-4|inline four cylinder]] [[multi-valve|20-valve]] [[turbocharger|turbocharged]] engine, with either {{convert|180|PS|kW bhp|0|abbr=on|lk=on}} or {{convert|225|PS|kW bhp|0|abbr=on}}.  The engines share the same basic design but the 225&nbsp;PS version features a larger turbocharger, an additional [[intercooler]] on the driver's side, forged connecting rods, a dual exhaust, and a few other internals designed to accommodate the increase in turbo boost from roughly 10&nbsp;psi peak to 15.  [[Haldex Traction]] enabled [[four wheel drive]], 'branded' as "quattro" was optional on the {{convert|180|PS|kW bhp|0|abbr=on}} engine, and standard on the more powerful version.
+[[Image:1st Audi TT convertible.jpg|thumb|left|200px|Audi TT Roadster (US)]]
+
+Early TT models gained press coverage for a series of high-speed accidents in Europe.  Reported crashes and related fatalities occurred at speeds in excess of {{convert|180|km/h|mph|0|abbr=on|lk=on}}, during abrupt lane changes or sharp turns.  Both the coupé and roadster models were [[product recall|recalled]] in late 1999/early 2000, to improve predictability of the car's [[car handling|handling]] at very high-speeds.  Audi's [[electronic stability control|Electronic Stability Programme]], and rear [[spoiler (automotive)|spoiler]] were added, along with suspension modifications.  All changes were subsequently incorporated into future versions of the car.
+
+The original four cylinder engine range was complemented with a {{convert|250|PS|kW bhp|0|abbr=on}} 3.2&nbsp;litre [[VR6 engine]] in early 2003, which comes as standard with the quattro four-wheel drive system.  In July 2004, a new [[Direct-Shift Gearbox]] (DSG) (dual-clutch) gearbox, which improves acceleration through drastically reduced [[shift time]]s, was offered, along with a stiffer suspension.
+
+Factory production of this generation ended in June 2006.
+
+===TT quattro Sport===
+In 2005, Audi released the limited edition (800 sold in the UKs not the 1000 originally planned) '''TT quattro Sport''' (known as the '''TT Club Sport''' in Europe).  It had increased power from its 1.8&nbsp;litre turbocharged engine - rising to {{convert|240|PS|kW bhp|0|abbr=on}} and {{convert|236|lb|abbr=on}} ft of torque - and a reduction in weight of {{convert|49|kg|lb|0|lk=on}} to {{convert|1416|kg|lb|0|abbr=on}}, which gave an electronically limited top speed of {{convert|250|km/h|mph|0|lk=on}}.  This was also assisted by deleting the spare wheel, and by taking out the rear parcel shelf and rear seats.  Lightweight fixed-back [[Recaro]] bucket seats graced the interior.  Distinguishable from other TT coupés by its two-tone paint scheme (black painted roof, pillars and mirror housings, in combination with either Avus Silver, Phantom Black, Mauritius Blue or Misano Red body colour), and unique 18" 15-spoke aluminium alloy wheels, plus the same body kit as fitted to the TT 3.2 V6, it also had uprated suspension settings, V6-spec brakes fitted, and the new wheels were wider at the rear for improved grip.
+
+===8N engines===
+The 8N [[powertrain]] options comprise of the following [[internal combustion engine]]s and drivelines:
+{| class="wikitable" cellspacing="0" style="text-align: center; font-size: 96%"
+|-
+![[internal combustion engine|engine]]!![[engine displacement|displacement]]!![[engine configuration|type]]!![[motive power|max. power]]!![[torque|max. torque]]!!years!!drive
+|-
+!colspan=7|[[petrol engine]]s
+|-
+|'''1.8 T||{{convert|1781|cc|cuin|0|abbr=on}}||[[straight-4|I4]] [[multi-valve|20v]] [[turbocharger|Turbo]]||{{convert|150|PS|kW hp|0|abbr=on}}||{{convert|210|Nm|lbft|0|abbr=on}}||2002-2006||[[front-wheel drive|FWD]]
+|-
+|'''1.8 T||{{convert|1781|cc|cuin|0|abbr=on}}||I4 20v Turbo||{{convert|163|PS|kW hp|0|abbr=on}}||{{convert|225|Nm|lbft|0|abbr=on}}||2006||FWD
+|-
+|'''1.8 T||{{convert|1781|cc|cuin|0|abbr=on}}||I4 20v Turbo||{{convert|180|PS|kW hp|0|abbr=on}}||{{convert|235|Nm|lbft|0|abbr=on}}||1998-2006||FWD, [[four-wheel drive|4WD]]
+|-
+|'''1.8 T||{{convert|1781|cc|cuin|0|abbr=on}}||I4 20v Turbo||{{convert|190|PS|kW hp|0|abbr=on}}||{{convert|250|Nm|lbft|0|abbr=on}}||2006||FWD, 4WD
+|-
+|'''1.8 T [[quattro (four wheel drive system)|quattro]]||{{convert|1781|cc|cuin|0|abbr=on}}||I4 20v Turbo||{{convert|225|PS|kW hp|0|abbr=on}}||{{convert|280|Nm|lbft|0|abbr=on}}||1998-2005||4WD
+|-
+|'''1.8 T quattro Sport||{{convert|1781|cc|cuin|0|abbr=on}}||I4 20v Turbo||{{convert|240|PS|kW hp|0|abbr=on}}||{{convert|320|Nm|lbft|0|abbr=on}}||2005-2006||4WD
+|-
+|'''3.2 quattro||{{convert|3183|cc|cuin|0|abbr=on}}||[[VR6 engine|VR6]] 24v||{{convert|250|PS|kW hp|0|abbr=on}}||{{convert|320|Nm|lbft|0|abbr=on}}||2003-2006||4WD
+|}
+
+===Lawsuits===
+There are two class action lawsuits affecting specific model years of the first generation TT.
+
+On 22 June 2007, Pearson, Simon, Soter, Warshaw & Penny, LLP and the Law Office of Robert L. Starr filed a [[class action]] lawsuit against [[Volkswagen Group of America]], alleging that the [[timing belt]]s for [[model year]] 1999-2003 Audi and Volkswagen vehicles equipped with a 1.8&nbsp;litre turbo-charged engine fail prematurely.<ref>[http://www.timingbeltsettlement.com/pdfs/Settlement.pdf TimingBeltSettlement.com]</ref>  The vehicles included are the Audi TT, [[Audi A4]] and [[Volkswagen Passat]].  The complaint alleges that the timing belts fail prior to the service interval, as stated in the owner's manual.  The parties have reached a class-wide settlement, and preliminary approval of the settlement was granted by the court on 19 May 2008.  Claim forms, class notice, and other documentation will be mailed on or about 1 August 2008.  Details regarding the terms of the settlement will be in the notice sent to owners of the class vehicles.<ref>[http://www.psswplaw.com/CM/ClassActions/Volkswagen.asp Pearson, Simon, Soter, Warshaw & Penny, LLP: Audi and Volkswagen Timing Belt Failures]</ref>
+
+On 22 January 2008, the U.S. District Court, Northern District of California, entered an order preliminarily approving a nationwide settlement of a class action lawsuit brought by Green Welling LLP, on behalf of all current and prior owners and lessees of 2000-2004, and 2005 model year Audi TTs.  The lawsuit and settlement relate to allegedly defective instrument clusters, and Audi TT owners are entitled to submit claims for repairs, replacement and/or cash reimbursement for out-of-pocket expenses, and all TT owners covered by the suit will receive a 2-year extension of their existing 4-year warranty (limited to the instrument cluster).<ref>[http://www.classcounsel.com/news/audi.html Green Welling LLP: Audi TT Instrument Cluster Settlement]</ref>
+
+===8N awards===
+The original generation Audi TT was nominated for the ''[[North American Car of the Year]]'' award for 2000.  It was also on ''[[Car and Driver]]'' magazine's [[Car and Driver Ten Best|Ten Best list]] for 2000 and 2001.
+{{clr}}
+
+==Second generation (''Typ'' 8J, 2006-){{anchor|8J}}==
+{{Infobox Automobile generation
+|name           = Audi TT (8J)
+|image          = [[Image:2007-Audi-TT.jpg|250px]]<br>''2008 Audi TT (US)''
+|aka            = 
+|production     = 2006-present
+|predecessor    = 
+|platform       = [[Volkswagen Group A platform#A5 (PQ35)|Volkswagen Group A5 (PQ35) platform]]
+|engine         = 1.8L [[straight-4|I4]] [[gasoline direct injection|FSI]] [[turbocharger|Turbo]],<br>2.0L I4 FSI Turbo,<br>2.5L [[straight-5|I5]] FSI Turbo,<br>3.2L [[VR6 engine|VR6]],<br>2.0 I4 [[Turbocharged Direct Injection|TDI]] [[common rail|CR]]
+|transmission   = 6-speed [[manual transmission|manual]],<br>6-speed [[Direct-Shift Gearbox|S tronic]]
+|wheelbase      = {{convert|2468|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4178|mm|1|abbr=on}},<br>TTS & TT RS: {{convert|4198|mm|1|abbr=on}}
+|width          = {{convert|1842|mm|1|abbr=on}}
+|height         = {{convert|1352|mm|1|abbr=on}},<br>TTS: {{convert|1345|mm|1|abbr=on}},<br>TT RS: {{convert|1342|mm|1|abbr=on}}
+|weight         = {{convert|1260|kg|0|abbr=on|lk=on}} to<br>{{convert|1490|kg|0|abbr=on}}
+|fuel_capacity  = 2WD: {{convert|55|L|impgal usgal|1|abbr=on|lk=on}},<br>4WD: {{convert|60|L|impgal usgal|1|abbr=on}}
+|related        = [[Audi A3]] Mk2,<br>[[Volkswagen Golf Mk5|VW Golf Mk5]],<Br>[[Volkswagen Jetta]],<br>[[SEAT León]] Mk2,<br>[[SEAT Toledo]] Mk3,<br>[[SEAT Altea]],<br>[[Škoda Octavia]] Mk2
+|designer       = 
+|sp             = uk
+}}
+A preview of the second-generation TT was provided in the form of the [[Audi Shooting Brake]] [[concept car]], shown at the [[Tokyo Motor Show]] in 2005.  This concept was an insight into the new TT, but featured angular styling, and a "[[shooting brake]]" 2-door hatchback body style.<ref>{{cite web|url=http://www.autoblog.com/2005/10/11/audi-tt-shooting-brake-to-debut-at-tokyo/|title=Audi TT Shooting Brake to debut at Tokyo|date=2005-10-11|work=Autoblog.com|accessdate=2008-10-06}}</ref>
+
+Audi revealed the second-generation TT, internal designation '''''Typ'' 8J''', on 6 April 2006.  It is constructed of [[aluminium]] in the front, and steel in the rear, to enhance its balance, and is available in front- or four-wheel drive layout.  Factory production commenced during August 2006.
+
+===8J powertrain===
+The [[powertrain]] options initially only included [[petrol engine]]s, which consist of either one of two [[straight-4|inline four cylinder engines]] - the 1.8&nbsp;[[litre]] [[turbocharger|Turbocharged]] [[gasoline direct injection|Fuel Stratified Injection]] (TFSI) (available in Germany), or the more common 2.0&nbsp;litre&nbsp;TFSI.  The Fuel Stratified Injection (FSI) technology was derived from the Audi [[Le Mans]] endurance race cars, and offers improved fuel efficiency as well as an increased power output and cleaner emissions.  The 3.2&nbsp;litre [[VR6 engine]] is carried over from the previous generation, and this engine was also available in the Canadian model.<ref>[http://microsites.audicanada.ca/my09/pdf/ca/2009_Audi_TT_TTS.pdf 2009 Audi TT / TTS]</ref>
+
+A six-speed [[manual transmission]] is standard, with the [[Direct-Shift Gearbox]] (now called "S tronic" on all Audi models) as an option for all but 1.8&nbsp;litre engine.  [[quattro (four wheel drive system)|quattro]] four-wheel drive, again using the [[Haldex Traction]] clutch is standard on V6 models, but was not available on 1.8&nbsp;TFSI.  2.0&nbsp;TFSI quattro models began available in 2009 model year.<ref>{{cite web|url=http://www.audi.co.uk/audi/uk/en2/about_audi_ag/news/Audi_TT_range_gathers_momentum_for_2009.html|title=Audi TT range gathers momentum for 2009|date=2008-12-22|work=www.Audi.co.uk|publisher=Audi UK|accessdate=2009-01-31}}</ref>
+
+===8J suspension & other features===
+Audi's new active suspension, "Audi Magnetic Ride", is available as an option, and is based on [[Delphi Corporation|Delphi]]'s [[MagneRide]], which uses [[magneto rheological damper]]s (this means that the suspension will automatically adjust its damping properties depending on the current road conditions and driving manner).
+
+The new TT also features an improved rear spoiler which automatically extends at speeds greater than {{convert|120|km/h|mph|abbr=on}}, and retracts again at {{convert|80|km/h|mph|abbr=on}}. The spoiler can also be manually controlled by the driver via a switch on the dash.<ref>{{cite web|url=http://www.cargurus.com/Cars/Overview-c8186-2008-TT.html|title=2008 Audi TT|work=CarGurus.com|date=7 October 2007|accessdate=2008-04-30}}</ref>  It is again offered as a 2+2 coupé, and as a roadster.
+
+===2.0 TDI quattro{{anchor|TT TDI}}===
+In 2008, Audi offered the first [[diesel engine]]d version of Audi TT as a quattro model, available in Coupé and Roadster versions, in the [[Europe]]an market.<ref>[http://www.autobloggreen.com/2008/04/28/audis-new-tt-tdi-is-going-on-sale-this-spring-in-europe/ Audi's new TT TDI is going on sale this spring in Europe]</ref>  Audi claim average fuel consumption on the engine is {{convert|5.3|L/100 km|mph|0|abbr=on|lk=on}} in the [[coupé]] variant.<ref>{{cite web|author=Lienert, Anita|url=http://www.edmunds.com/insideline/do/News/articleId=125972|title=Audi TT TDIs Debut - but Not in U.S.|work=[[Edmunds.com|Edmunds]]|date=[[April 29]] [[2008]]|accessdate=2008-04-30}}</ref>  It includes a six-speed manual transmission.
+
+===TTS quattro{{anchor|TTS}}===
+At the 2008 [[North American International Auto Show]] in [[Detroit]], Audi released the '''Audi TTS quattro'''. The [[cylinder block]], [[cylinder head]] and the fuel injectors have all been modified from the base 2.0 TFSI engine. The engine is rated {{convert|272|PS|kW hp|0|abbr=on}} and {{convert|350|Nm|lbft|0|abbr=on}} of [[torque]] from 2,500 to 5,000rpm.<ref>Audi UK [http://www.audi.co.uk/audi/uk/en2/new_cars/tt/tts/engine.html The nerve centre of the Audi TTS quattro]</ref>
+
+It is available with a choice of either a six-speed, short shift [[manual transmission]] or 6-speed [[Direct-Shift Gearbox|S tronic]] transmission.  In the United States, only the S tronic gearbox will be available. Like all [[Audi S and RS models|"S" models]], it is only available with [[quattro (four wheel drive system)|quattro]] four-wheel drive as standard.
+
+The suspension is lowered by {{convert|10|mm|in|1|abbr=on}} over the entry models, and includes a new two-stage sports-biased [[electronic stability control|Electronic Stability Programme]] (ESP).<ref>Audi UK [http://www.audi.co.uk/audi/uk/en2/new_cars/tt/tts/technology.html The technological highlights of the TTS quattro]</ref>  Radially ventilated front [[disc brake]]s are clamped by a single-piston gloss black caliper emblazened with a bold ''TTS'' [[logo]], and a lap timer is prominent in the centre of the instrument cluster.<ref>Audi UK [http://www.audi.co.uk/audi/uk/en2/new_cars/tt/tts/equipment.html The equipment of the Audi TTS quattro]</ref>  9Jx18" '5-parallel-spoke' design alloy roadwheels are standard, with 245/40 ZR18 tyres. 19" wheels and tyres are optional.  The exterior has some changes over the standard model with a TTS Body Styling with redesigned front, with larger air intakes, redesigned rear bumper and side sill extensions.
+
+The car went on sale in the USA at November 2008.<ref>Wheels.ca [http://www.wheels.ca/article/124299 Audi TTS due in November]</ref>
+
+===TT RS{{anchor|TTRS}}===
+Developed by Audi's high performance subsidiary [[quattro GmbH]] at [[Neckarsulm]],<ref>Audi UK [http://www.audi.co.uk/audi/uk/en2/new_cars/tt/ttrs.html The Audi TT RS: Reduced to performance]</ref> the '''Audi TT RS''' (available in Coupé and Roadster), it includes an all-new 2.5 litre [[straight-5|inline five-cylinder]] [[turbocharger|Turbocharged]] [[gasoline direct injection|Fuel Stratified Injection]] (TFSI) [[petrol engine]] rated at {{convert|340|PS|kW hp|0|abbr=on}} and {{convert|450|Nm|lbft|0|abbr=on}}  @1,600-5,300 rpm.<ref>Audi UK [http://www.audi.co.uk/audi/uk/en2/new_cars/tt/ttrs/engine.html The heart of the TT RS]</ref>
+
+It has a 6-speed [[manual gearbox]], and like all [[Audi S and RS models|"RS" models]], is only available with Audi's 'trademark' [[quattro (four wheel drive system)|quattro]] four-wheel drive system, with the TT RS using a specially adapted version of the latest generation multi-plate clutch from [[Haldex Traction]].<ref>Audi UK [http://www.audi.co.uk/audi/uk/en2/new_cars/tt/ttrs/technology.html Driving with unimagined intensity]</ref>  Additions to the quattro system include a constant velocity joint before the propeller shaft, and a compact rear-axle differential – uprated to cope with increased torque.
+
+Like the TTS, the TT RS has a {{convert|10|mm|in|abbr=on}} lower ride height, optional "Audi Magnetic Ride", and rides on standard 18-inch [[wheel|roadwheels]] with 245/45 ZR tyres (optional 19" rims are also available). The [[brake]]s are uprated to include two-piece cross-drilled and radially vented front [[disc brake|discs]], sized at {{convert|370|mm|in|abbr=on}} in diameter.  The front discs are clamped by gloss black painted four-piston calipers, adorned with the ''RS'' [[logo]].
+
+It includes a fixed rear spoiler (retractable optional), and has black interior with heated Alcantara/leather sports seats (Silk Nappa, Fine Nappa leather optional). The [[Recaro]] "RS bucket" seats, first seen in the [[Audi RS4#B7|Audi B7 RS4]] are also available as an option.
+
+Official performance figures indicate the TT RS Coupé will accelerate from standstill to {{convert|100|km/h|mph|0|abbr=on}} in 4.6 [[seconds]] (4.7s for the Roadster), with an electronically limited top speed of {{convert|250|km/h|mph|0|abbr=on}}.  There is a factory option to de-restrict the top speed to {{convert|280|km/h|mph|0|abbr=on}}.
+The Coupé has a kerb weight of {{convert|1450|kg|lb|0|lk=on}}, and the Roadster weighs in at {{convert|1510|kg|0|abbr=on}}.
+
+The car began sale in March 2009, with delivery beginning in summer.<ref>{{cite web|url=http://www.autoblog.com/2009/03/03/geneva-2009-2010-audi-tt-rs/|title=Geneva 2009: 2010 Audi TT RS|publisher=Autoblog.com}}</ref>
+
+===8J engines===
+The 8J [[powertrain]] options comprise of the following [[internal combustion engine]]s and drivelines:<ref>Audi UK [http://www.audi.co.uk/etc/medialib/cms4imp/audi2/uk/Products/tt/pdf.Par.0035.File.pdf The TT Coupé and Roadster - Pricing and Specification Guide, Valid from May 2009]</ref><ref>Audi Canada [http://www.audi.ca/audi/ca/en2/Company/news/THE_NEW_AUDI_TT_COUPE.html The New Audi TT Coupe]</ref><ref>Audi UK [http://www.audi.co.uk/audi/uk/en2/about_audi_ag/news/50_MPG-Plus_Audi_Diesel_Sports_Car.html 50 mpg-plus Audi diesel sports car cleans up in Geneva]</ref>
+{| class="wikitable" cellspacing="0" style="text-align: center; font-size: 96%"
+|-
+![[internal combustion engine|engine]]!![[engine displacement|displacement]]!![[engine configuration|type]]!![[motive power|max. power]] at [[revolutions per minute|rpm]]<br><small>(Directive<br>80/1269/EEC)</small>!![[torque|max. torque]]<br>at rpm!!years!!drive!!notes
+|-
+!colspan=8|[[petrol engine]]s
+|-
+|'''1.8 TFSI||{{convert|1798|cc|cuin|0|abbr=on}} ||[[straight-4|Inline-4]] [[multi-valve|16v]] [[overhead camshaft#double overhead camshaft|DOHC]] (EA888)<br>[[gasoline direct injection|Fuel Stratified Injection]] [[turbocharger|Turbo]]||{{convert|160|PS|kW hp|0|abbr=on}}@ 4500-6200||{{convert|165|Nm|lbft|0|abbr=on}}@ 1500-4500||2007-||[[front-wheel drive|FWD]]||<small>Roadster<br>only</small>
+|-
+|'''2.0 TFSI||{{convert|1984|cc|cuin|0|abbr=on}}||Inline-4 16v DOHC (AXX, BWA, BPY)<br>Fuel Stratified Injection Turbo||{{convert|200|PS|kW hp|0|abbr=on}}@ 5100-6000||{{convert|280|Nm|lbft|0|abbr=on}}@ 1800-5000||2006-||FWD, [[four-wheel drive|4WD]]||
+|-
+|-
+|'''2.0 TFSI||{{convert|1984|cc|cuin|0|abbr=on}}||Inline-4 16v DOHC (EAA888)<br>Fuel Stratified Injection Turbo||{{convert|210|PS|kW hp|0|abbr=on}}@ 5300-6000||{{convert|280|Nm|lbft|0|abbr=on}}@ 1700-5000||2008-||FWD, [[four-wheel drive|4WD]]||
+|-
+|'''3.2 [[quattro (four wheel drive system)|quattro]]||{{convert|3189|cc|cuin|0|abbr=on}}||[[VR6 engine|VR6]] 24v DOHC||{{convert|250|PS|kW hp|0|abbr=on}}@ 6300||{{convert|320|Nm|lbft|0|abbr=on}}@ 2500-3000||2006-||4WD||
+|-
+|'''2.0 TFSI<br>(TTS quattro)||{{convert|1984|cc|cuin|0|abbr=on}}||Inline-4 16v DOHC<br>Fuel Stratified Injection Turbo||{{convert|272|PS|kW hp|0|abbr=on}}@ 6000||{{convert|320|Nm|lbft|0|abbr=on}}<br>@ 2500-5000||2008-||4WD||
+|-
+|'''2.5 TFSI<br>(TT RS)||{{convert|2480|cc|cuin|0|abbr=on}}||[[straight-5|Inline-5]] 20v DOHC<br>Fuel Stratified Injection Turbo||{{convert|340|PS|kW hp|0|abbr=on}}||{{convert|450|Nm|lbft|0|abbr=on}}@ 1600-5300||2009-||4WD||
+|-
+!colspan=8|[[diesel engine]]s
+|-
+|'''2.0 TDI [[quattro (four wheel drive system)|quattro]]||{{convert|1968|cc|cuin|0|abbr=on}}||[[straight-4|Inline-4]] 16v [[overhead camshaft#double overhead camshaft|DOHC]]<br>[[Turbocharged Direct Injection]] (TDI) [[common rail|CR]]||{{convert|170|PS|kW hp|0|abbr=on}}@ 4200||{{convert|350|Nm|lbft|0|abbr=on}}@ 1750-2500||2008-||[[four-wheel drive|4WD]]||
+|}
+
+Audi was reported to stop offering 3.2L V6 models in 2010 model year.<ref>[http://www.autoblog.com/2009/04/22/audi-dropping-3-2-liter-v6-from-2010-a3-a4-and-tt/ Audi dropping 3.2-liter V6 from 2010 A3, A4 and TT]</ref>
+
+===8J awards===
+The second generation TT has been honoured with many awards, including the inaugural Drive Car of the Year, [[Top Gear (magazine)|Top Gear]] Coupé of the Year 2006, [[Fifth Gear]] Car of the Year 2006, Autobild 'Most Beautiful Car', and World Design Car of the Year 2007, as well as being a finalist for World Car of the Year.
+
+===Production===
+Historically, all [[Audi S and RS models|"RS" models]] have some aspect of their assembly carried out at the factory in [[Neckarsulm]], Germany.  The TT RS will be the first RS vehicle that will not have any of its assembly performed in Neckarsulm, and will be completely assembled in the Audi factory in Gyor, Hungary.{{Fact|date=March 2009}}
+{{clr}}
+
+==Motorsport==
+In [[auto racing]], the Istook's Motorsports team has currently entered a Revo Technik-sponsored Audi TT in the Grand-Am [[KONI Sports Car Challenge]] Street Tuner (ST) class.<ref>Grand-Am.com [http://grand-am.com/schedule/entrylist.cfm?series=k&eid=877 Fresh From Florida 200, entry list]</ref>
+
+An Audi TT RS was used in 2009 [[24 Hours of Le Mans]] race as safety car.<ref>[http://www.paddocktalk.com/news/html/modules.php?op=modload&name=News&file=article&sid=111824&newlang=&topic=22&catid=10 Le Mans 24: News From The Audi Team]</ref>
+
+==See also==
+*[[Audi S and RS models]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*[http://microsites.audi.com/auditt-lounge/phase1/html/index.php?CampaignID=TTmicrosite Official Audi TT microsite]
+*[http://www.audi.co.za/tt/microsite/ South African Audi TT microsite]
+*[http://www.audiworld.com/news/06/ttindepth/ In Depth: The New Audi TT Coupé], from AudiWorld.com
+*[http://www.ttoc.co.uk TTOC], Audi TT owners Club
+*[http://www.audittclub.nl Official dutch TT Club website]
+*[http://auditt-2001.blogspot.com/ 2001 Model Audi TT website]
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+{{Audi vehicles timeline (North America)}}
+
+{{DEFAULTSORT:Audi Tt}}
+[[Category:Audi vehicles|TT]]
+[[Category:Sports cars]]
+[[Category:Roadsters]]
+[[Category:Euro NCAP roadster sports cars]]
+[[Category:Front wheel drive sports cars]]
+[[Category:Coupes]]
+[[Category:All wheel drive vehicles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1998]]
+[[Category:Vehicles with VR engines]]
+
+[[bg:Ауди ТТ]]
+[[cs:Audi TT]]
+[[da:Audi TT]]
+[[de:Audi TT]]
+[[es:Audi TT]]
+[[fr:Audi TT]]
+[[hr:Audi TT]]
+[[it:Audi TT]]
+[[hu:Audi TT]]
+[[mr:ऑडी टीटी]]
+[[nl:Audi TT]]
+[[ja:アウディ・TT]]
+[[no:Audi TT]]
+[[pl:Audi TT]]
+[[pt:Audi TT]]
+[[ro:Audi TT]]
+[[ru:Audi TT]]
+[[sk:Audi TT]]
+[[fi:Audi TT]]
+[[sv:Audi TT]]
+[[tr:Audi TT]]
+[[uk:Audi TT]]
+[[zh:奥迪TT]]

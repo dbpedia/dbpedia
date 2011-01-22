@@ -1,0 +1,49 @@
+{{Infobox Automobile
+|image=[[File:Porsche 597 Jagdwagen (1).jpg|300px|thumb|Porsche 597:  prototype military vehicle, 1953 model; front view]]
+|name=Porsche 597 Jagdwagen
+|manufacturer=[[Porsche]]
+|class=[[Off-road vehicle]]
+|production=Prototype 1953<br>Production 1955 &ndash; 1958
+| layout =[[Rear engine]]
+|body_style=[[Cabriolet (automobile)|Cabriolet]]
+|engine=Aircooled 1.5 L boxer <br>Aircooled 1.6 L boxer <small>from 1955</small>
+|transmission=
+| wheelbase    = 
+| length       = {{convert|3.7|m|in|1|abbr=on}}
+| width        = 
+| height       = 
+| weight       = {{convert|990|kg|lb|0|abbr=on}}-{{convert|1090|kg|lb|0|abbr=on}} 
+| related      = 
+| similar      = 
+| designer     = 
+}}
+
+The '''Porsche 597''' '''''Jagdwagen''''' (roughly translated as "hunting car") was a light military vehicle, designed to cover approximately the same remit as the [[Jeep]], ''[[Kübelwagen]]'' and [[Land-Rover]]. 
+
+Originally developed as a prototype for a tender to the German Army after World War II, the car never reached mass production after the [[DKW Munga]] was chosen over it for reasons of economics.
+
+The car was propelled by an induced air-cooled flat-four taken from the Porsche 356, sited in the rear of the vehicle like the [[VW]]s and [[Porsche]]s of the period; first in an amended version of the 1.5 litre, with a later bump to 1.6 in the l-model. This engine had an output of around 37 kW (50 HP). Together with a vehicle weight of 990 kilograms a maximum speed of around 100 kilometers per hour could be achieved. For transmission, a 5-speed manual box with additional on-the-fly two/four wheel drive shifter was provided. With its short wheelbase of 2,060 mm, the vehicle had the ability to climb steep grades of up to 65%.
+
+The prototype body of the car was manufactured by Porsche's own Stuttgart Body Works with later versions (stabilized with torsion bars) coming from [[Karmann]] coachworks. The [[monocoque]] shell came with no doors and high sills, meaning passengers needed to climb over them to enter and exit the vehicle; The upside of this design being that the body was buoyant and amphibious. Later versions of the body came with rigid doors and exhibit a more steeply dropping angle to the front wings/fenders and bonnet–hood. 
+
+[[File:Porsche_597_1953_backleft_2009-03-14_A.JPG|thumb|left|300px|1953 Porsche 597 prototype military vehicle (same as above); rear]]
+
+The Porsche 597 'Hunting Car', alongside the [[Goliath Type 31]] (by the German Federal Armed Forces) were never commissioned for mass production, since, (in the case of the 597), the production costs were too high and the company could not easily supply the sheer numbers of units needed in proposed timescale. Instead the [[Auto-Union]]-built [[DKW Munga]] model won out for its relative simplicty, lower cost and Auto Union's ability to meet the Army's demand.
+
+A total of 71 Porsche 597s were manufactured, between 1955 and 1958, 49 of which were built for the civilian market (chassis numbers starting from 597-000101). Development costs for the vehicle amounted to approximately 1.8 million [[Deutsche Mark|DM]]. In August 1959 there were still hopes within the Porsche company to produce an updated vehicle based on the 597 platform with a strengthened chassis, extended wheel base of 2,400mm that could be made available in five different body-styles.  However, the project was eventually cancelled, and the new vehicle never saw the light of day.
+
+==See also==
+
+{{commons category|Porsche 597}}
+*[[FMC XR311]]
+*[[FN Herstal AS 24]]
+*[[M151 MUTT]]
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|597]]
+[[Category:Vehicles with boxer engines]]
+
+[[de:Porsche 597]]
+[[ru:Porsche 597 Jagdwagen]]
+[[sv:Porsche 597]]

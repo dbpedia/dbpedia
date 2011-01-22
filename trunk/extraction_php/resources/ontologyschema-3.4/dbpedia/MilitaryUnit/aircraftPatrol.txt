@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = aircraft patrol
+|rdfs:domain = MilitaryUnit
+|rdfs:range = MeanOfTransportation
+}}

@@ -1,0 +1,46 @@
+{{TemplateMapping
+| mapToClass = Country
+| mappings = 
+	{{PropertyMapping | templateProperty = national_anthem | ontologyProperty = anthem }}
+	{{PropertyMapping | templateProperty = royal_anthem | ontologyProperty = anthem }}
+	{{PropertyMapping | templateProperty = ethnic_groups_year | ontologyProperty = ethnicGroupsInYear }}
+	{{PropertyMapping | templateProperty = government_type | ontologyProperty = governmentType }}
+	{{PropertyMapping | templateProperty = currency | ontologyProperty = currency | unit = Currency }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = conventional_long_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = common_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = national_motto | ontologyProperty = motto }}
+	{{PropertyMapping | templateProperty = capital | ontologyProperty = capital }}
+	{{PropertyMapping | templateProperty = largest_city | ontologyProperty = largestCity }}
+	{{PropertyMapping | templateProperty = largest_settlement | ontologyProperty = largestSettlement }}
+	{{PropertyMapping | templateProperty = largest_settlement_type | ontologyProperty = largestSettlementType }}
+	{{PropertyMapping | templateProperty = official_languages | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = regional_languages | ontologyProperty = regionalLanguage }}
+	{{PropertyMapping | templateProperty = languages_type | ontologyProperty = languageType }}
+	{{PropertyMapping | templateProperty = languages | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = ethnic_groups | ontologyProperty = ethnicGroup }}
+	{{PropertyMapping | templateProperty = demonym | ontologyProperty = demonym }}
+	{{PropertyMapping | templateProperty = leader_title1 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name1 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title2 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name2 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title3 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name3 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title4 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name4 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title5 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name5 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = established_event1 | ontologyProperty = establishedTitle }}
+	{{PropertyMapping | templateProperty = established_date1 | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = established_event2 | ontologyProperty = establishedTitle }}
+	{{PropertyMapping | templateProperty = established_date2 | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = established_event9 | ontologyProperty = establishedTitle }}
+	{{PropertyMapping | templateProperty = established_date9 | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = area_magnitude | ontologyProperty = areaMagnitude | unit = squareMetre }}
+	{{PropertyMapping | templateProperty = area_km2 | ontologyProperty = areaMetro | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_sq_mi | ontologyProperty = areaMetro | unit = squareMile }}
+	{{PropertyMapping | templateProperty = percent_water | ontologyProperty = percentageOfAreaWater }}
+	{{PropertyMapping | templateProperty = population_density_km2 | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{PropertyMapping | templateProperty = population_density_sq_mi | ontologyProperty = populationDensity | unit = inhabitantsPerSquareMile }}
+	{{GeocoordinatesMapping | latitudeDegrees = latd  | latitudeMinutes = latm  | latitudeDirection = latNS  | longitudeDegrees = longd  | longitudeMinutes = longm  | longitudeDirection = longEW }}
+}}

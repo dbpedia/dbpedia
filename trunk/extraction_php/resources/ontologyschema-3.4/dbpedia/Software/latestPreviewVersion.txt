@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = latest preview version
+|rdfs:domain = Software
+|rdfs:range = xsd:string
+}}

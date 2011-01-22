@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Music Genre
+|rdfs:subClassOf = owl:Thing
+}}

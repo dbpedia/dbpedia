@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = Cesar Award
+|rdfs:domain = Artist
+|rdfs:range = Award
+}}

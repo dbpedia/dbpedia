@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = highest
+| rdfs:range = xsd:string
+}}

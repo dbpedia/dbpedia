@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = owner
+| rdfs:range = Person
+}}

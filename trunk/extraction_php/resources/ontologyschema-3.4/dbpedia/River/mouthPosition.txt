@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = mouth position
+|rdfs:domain = River
+|rdfs:range = geo:SpatialThing
+}}

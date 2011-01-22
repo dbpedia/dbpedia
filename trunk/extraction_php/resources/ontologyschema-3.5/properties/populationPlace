@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = population place
+| rdfs:domain = EthnicGroup
+| rdfs:range = PopulatedPlace
+}}

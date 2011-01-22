@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = cost
+|rdfs:domain = Building
+|rdfs:range = Currency
+}}

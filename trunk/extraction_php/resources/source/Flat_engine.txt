@@ -1,0 +1,106 @@
+{{Refimprove|date=September 2007}}
+[[Image:Boxerengineanimation.gif|thumb|300px|The Boxer engine was first patented by German engineer Karl Benz]]
+A '''flat engine''' is an [[internal combustion engine]] with multiple pistons that all move in the horizontal plane. The most popular and significant layout has [[cylinder (engine)|cylinder]]s arranged in two banks on either side of a single [[crankshaft]], generally known as "boxers". There is a widely-used but technologically less significant form consisting of a [[straight engine]] with two, three, four or more cylinders canted 90&nbsp;degrees into the horizontal plane.
+
+The concept of the boxer was [[patent]]ed in 1896 by engineer [[Karl Benz]], eight years after he started producing the world's first successful [[car]]s. Other forms of flat engines include [[two stroke]] diesel employing two crankshafts and pairs of [[opposed piston engine|opposing pistons]]. 
+
+==Configuration==
+{{Unreferencedsection|date=May 2009}}
+[[Image:R68-opposed-cylinders.jpg|thumb|right|<center>1954 [[History of BMW motorcycles|BMW "Boxer" motorcycle]] engine. The two cylinders cannot be directly opposite each other.]]
+[[Image:Volkswagen motor cut 1945.JPG|thumb|Famous [[Flat-4]] [[VW Beetle]] engine is also air-cooled, this time by fan.]]
+[[Image:ULPower UL260i.jpg|thumb|[[ULPower UL260i|UL260i]] [[Flat-4]] aircraft engine]] 
+Flat engines have a lower [[center of gravity]] than any other common configuration, so vehicles using them should benefit from better stability and control. They are, however, also wider than more traditional configurations and the extra width causes problems fitting the engine into the engine bay of a front-engined car. Some well-known forms of flat engines tend to restrict lean and cornering in motorcycles. Flat engines lend themselves well to [[aircraft engine]]s, where any extra building expense is of minor importance.
+
+The flat configuration lends itself very well to [[air cooling]] designs such as the [[flat-4]] in the [[VW Beetle]], [[Porsche 356]] and [[Porsche 912|912]]. The [[Chevrolet Corvair]] used [[Chevrolet Corvair engine|an air-cooled flat-6]], though this is something of a rarity in American designs. Both the older and newer models of the [[Porsche 911]] use a [[flat-6]], at first air cooled but since the introduction of the [[ Porsche 996 ]] models are water-cooled. These automobiles situate the engine in the rear rather than the front, where its width does not interfere with the steering of the front wheels. 
+
+Front-mounted air-cooled [[flat-twin]] engines were used by [[Citroën]] in their model [[Citroën 2CV|2CV]] and its derivatives, while the [[Citroën GS|GS]], [[Citroën GSA|GSA]], [[Oltcit]] used a flat-4, and a flat-6 was proposed for the [[Citroën DS|DS]], but rejected. [[BMW]] used an air-cooled flat-twin in almost all of its [[motorcycle]]s from 1921 until 1980, and still depends heavily on this layout, using it in many models including its most popular bike, the [[BMW R1200GS|R1200GS]]
+
+All versions of the [[Subaru Impreza]], [[Subaru Forester|Forester]], [[Subaru Tribeca|Tribeca]], [[Subaru Legacy|Legacy]] and [[Subaru Alcyone SVX|SVX]] use either a flat-4 or flat-6 engine.
+
+"Boxers" can be subdivided, since true boxers have each crankpin controlling only one piston/cylinder, and [[flat engine#180° V-engines|180° engines]] share crankpins.
+
+* The boxer engine (the true horizontally opposed engine) has corresponding pistons reaching [[dead center|top dead center]] (TDC) simultaneously.
+
+* The 180° [[V engine]] has corresponding pistons sharing a [[crank pin]] on the crankshaft and reaching top dead center half a crankshaft revolution apart. They may use regular [[connecting rod]]s side by side, or use a master/slave system, or a fork-and-blade system. Flat engines with more than eight cylinders are most commonly V engines.
+
+Boxer engines must not be confused with [[opposed piston engine]]s, which are based on a quite different concept using two crankshafts. These can be used in vehicles such as tanks.
+
+===Boxer engines===
+{{Unreferencedsection|date=May 2009}} 
+[[File:Diesel Engine Type DS140 2C Hino.jpg|thumb|1969 [[Hino Motors]] DS140 12 cylinder boxer diesel engine]] 
+Boxer engines got their name because each pair of pistons moves simultaneously in and out rather than alternately, like boxers showing they're ready by clashing their gloved fists against each other before a fight. Boxer engines of up to eight cylinders have proved highly successful in [[automobiles]] and up to six cylinders in motorcycles, and continue to be popular for [[light aircraft]] engines. 
+
+Boxers are one of only three cylinder layouts that have a natural dynamic balance; the others being the [[straight-6]] and the [[V12 engine|V12]]. These engines can run very smoothly and free of unbalanced forces with a [[four-stroke cycle]] and do not require a [[balance shaft]] or counterweights on the [[crankshaft]] to balance the weight of the reciprocating parts, which are required in other engine configurations. Note that this is generally true of boxer engines regardless of the number of cylinders (assumed to be even), but not true for all V or inline engines. However, in the case of boxer engines with fewer than six cylinders, unbalanced moments (a reciprocating torque also known as a "rocking couple") are unavoidable when the output is a crankshaft due to the "opposite" cylinders being not exactly opposite but offset slightly.
+
+Boxer engines (and flat engines in general) tend to be noisier than other common engines for both intrinsic and other reasons, eg in cars, valve clatter from under the bonnet is not damped by large air-filters and other components. Boxers use a lighter crankshaft without need of balance weights, so should be able to accelerate faster - but in practice (eg in cars) they would suffer excessive torsional vibrations at low speeds so are fitted with a larger flywheel that negates the advantage. They have a characteristic smoothness throughout the rev range and, when combined with a mounting position immediately ahead of the rear axle, offer a low center of gravity and largely neutral handling.
+
+==Notable flat engines==
+[[File:Subaru Boxer Diesel engine for 2008 Legacy in Eco-Products 2008.jpg|thumb|right|Subaru Boxer Turbodiesel engine cutaway display]]
+* In 1896, [[Karl Benz]] invented the first [[internal combustion engine]] with horizontally opposed pistons 
+* In 1923 Max Friz designed the first [[BMW motorcycles]], choosing a 500&nbsp;cc boxer engine and unit transmission with shaft drive. This engine type is still in production today. The [[BMW 247 engine]], known as an [[Airhead (motorcycle)|airhead]] due to its air cooling, was produced until 1995. BMW replaced it with the [[oilhead]] engine with partial oil cooling and four valves per cylinder, but still retaining the same boxer twin configuration.
+* In 1948 Preston Tucker modified a helicopter flat-6 to be rear mounted in his [[1948 Tucker Sedan|Tucker Torpedo]] 
+* The [[Volkswagen air cooled engine|Volkswagen air-cooled flat-4 engine]] used in the [[Volkswagen Beetle]], [[Volkswagen SP2|SP2]] and [[Karmann Ghia]], and later developed further for the [[Volkswagen Type 2]] (Bus) transporters and [[Volkswagen Type 3]] cars 
+* The [[Citroën 2CV]] and Panhard air-cooled flat-2 engines, both influenced by the flat-2s of BMW
+* The air-cooled [[Chevrolet Corvair]] [[OHV]] flat-6
+* In 1960 Lancia's flat-4 water-cooled engine debuted for the [[Lancia Flavia]] model, first Italian front-wheel drive car, like 1500&nbsp;cc {{convert|90|PS|abbr=on}} coupé version and during the years become a 2000&nbsp;cc with {{convert|142|bhp|abbr=on}}  when was mounted the first electronic Injection by Bosch in 1970 in a flat four engine, Lancia also rebuild a new big flat-4 engine in 1976, 2484&nbsp;cc, for his upper size model [[Lancia Gamma]]. It was produced until 1984 and was Lancia's last flat-4 engine.
+* The flat-4 engines in Alfa Romeo's [[Alfasud]], [[Alfa Romeo Sprint|Sprint]], [[Alfa Romeo 33 Series|33]] and early versions of the [[Alfa Romeo 145|145]]. The last of the line was a 1712&nbsp;cc flat-4, 16 valves, producing up to {{convert|137|PS|kW|abbr=on}}.
+* The water-cooled front-mounted flat-4 and flat-6 engines used by [[Subaru]] in all of its mid-sized cars; Subaru refers to these as boxer engines in publicity commentary, and include a variety of naturally aspirated and turbo driven engines; in their turbo engines from 1983 to current, both closed and semi-closed short blocks have been used. Subaru also offers a boxer turbodiesel,<ref>{{cite web | title=Greencarcongress| work=Legacy Diesel Announcement | url=http://www.greencarcongress.com/2008/01/subarus-first-b.html | accessdate=2008-01-23}}</ref>, called the Subaru EE series, the world's first to be fitted into a passenger car.
+* Since its introduction in 1975, the [[Honda Goldwing]] has utilized a boxer engine, a 4-cylinder until 1987, and 6-cylinders since. The water-cooled SOHC 1832&nbsp;cc flat-6 is fitted to the [[Honda Goldwing]] from 2001 on.
+* The air-cooled flat-4, flat-6 and flat-8 engines were used for many years in early [[Porsche#Models|Porsches]]. The flat-12 in the [[Porsche 917|917]] model is a 180° V-engine and not a boxer.
+* The water-cooled flat-6 engines in the [[Porsche Boxster]], [[Porsche Cayman|Cayman]] and later [[Porsche 911|911]] models
+* [[General aviation]] aircraft often use air-cooled flat-4 and flat-6 engines made by companies such as [[Lycoming Engines|Lycoming]], [[Teledyne Continental Motors|Continental]]. [[Ultralight aviation|Ultralight and microlight]] aircraft often use engines such as the [[Rotax 912]] or [[Jabiru 2200]]. 
+
+===Flat engine designs===
+
+* [[Flat-twin]]
+* [[Flat-4]]
+* [[Flat-6]]
+* [[Flat-8]]
+* [[Flat-10]]
+* [[Flat-12]]
+* [[Flat-16]]
+* [[H engine]]
+* [[Controlled Combustion Engine]]
+
+===Other engine designs===
+* [[X engine]]
+* [[V engine]]
+* [[W engine]]
+* [[Straight engine]]
+* [[Rotary engine]]
+
+{{Piston engine configurations}}
+
+== See also ==
+* [[History of the internal combustion engine]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{No footnotes|date=February 2008}}
+*[http://www.animatedpiston.com/BMW.htm Detailed Flat Twin Engine Animations]
+
+[[Category:Piston engine configurations]]
+[[Category:Boxer engines]]
+
+[[bg:Боксерен двигател]]
+[[cs:Boxer (motor)]]
+[[da:Boksermotor]]
+[[de:Boxermotor]]
+[[es:Motor bóxer]]
+[[fa:موتور بوکسوری]]
+[[fr:Boxer (moteur)]]
+[[is:Gagnstrokka hreyfill]]
+[[it:Motore a cilindri contrapposti]]
+[[he:מנוע בוקסר]]
+[[nl:Boxermotor]]
+[[ja:水平対向エンジン]]
+[[no:Boksermotor]]
+[[pl:Silnik o przeciwległych cylindrach]]
+[[pt:Motor boxer]]
+[[ru:Оппозитный двигатель]]
+[[sk:Boxer (motor)]]
+[[fi:Bokserimoottori]]
+[[sv:Boxermotor]]
+[[tr:Boksör tipi motor]]

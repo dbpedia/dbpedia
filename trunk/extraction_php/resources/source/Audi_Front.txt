@@ -1,0 +1,42 @@
+{{Infobox Automobile|name           = Audi Front UW 220<br> Audi Front UW 225
+|image          = [[File:Audi Front UW 220 exhibited at Autostadt in Wolfsburg.JPG|250px|Audi Front UW 220]]<br>[[File:Audi Front 225.JPG|250px|Audi Front UW 225]]
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Auto Union]]
+|production     = 1933 – 1934 (UW 220)<br>1935 – 1938 (UW 225)
+|assembly       = [[Zwickau]], [[Germany]] ([[Horch]] plant)
+|predecessor    = 
+|successor      = [[Audi 920]]
+|class          = 
+|layout         = [[longitudinal engine|longitudinal]]  [[front-wheel drive]] 
+|platform       = 
+|related        = [[:de:Wanderer W22|Wanderer W22]]
+|sp             = uk
+}}
+
+Initially presented early in 1933, the '''Audi Front UW 220''' was Europe’s first car to combine front-wheel drive with a six cylinder engine.   It remained in production for slightly under two years before being replaced by the the '''Audi Front UW 225''' featuring a larger 2.25 litre engine.   The larger engined car introduced in 1935 continued to be offered until 1939.
+
+At launch the Front UW 220 featured a straight-six cylinder [[ohv]] engine of 1,950 cc.   Claimed maximum power output was 40 ps (29 kW) at 3,500 rpm.   The two litre engine was shared with the [[Auto Union]] group’s [[:de:Wanderer W22|Wanderer W22]] introduced at the same time.   The letters "UW" in the car's name stood for "Umgekehrter Wanderer" and referred to the fact that it featured a Wanderer engine that had been "umgekehrt" ''(turned around)'' through 180 degrees in order to drive wheels which, on this application, were actually ahead of the engine.   
+
+In common with many performance cars of the period, the Front UW 220 provided a claimed top speed of 100 km/h (63 mph): presumably actual performance data would have varied according to the weight and wind-cheating qualities of each individual car body.    Various body styles were offered including four door sports limousines and two door cabriolets / roadsters<ref name=OldtimerKatalogNr23/>.
+
+For the UW 225 produced from 1935, engine size was increased to 2,257 cc and reported maximum power rose to 50 ps (36 kW)) or 55 ps (40 kW), respectively at 3,300 or 3,800 rpm:  increased power was reflected by a modest increase in the claimed top speed to 105 km/h (65 mph)<ref name=OldtimerKatalogNr23/>.   The [[ohv]] engine came, again, from fellow Auto Union group member Wanderer, being shared with the [[:de:Wanderer W245|Wanderer W245]] and its successor models.
+
+Despite the relative novelty of the front-wheel drive configuration, the manufacturers quoted the car's turning circle as 12.5 meters which was not strikingly above the norm for cars of this size. 
+
+The car was assembled at the plant of [[Horch]], which by this time was also a [[Auto Union]] group company.
+
+Approximately 4,500 Audi Fronts were produced, including 1,817 of the earlier UW 220 model built between April 1933 and November 1934.   By 1938 when the car was replaced by the Audi 920, 2,591 of the successor UW 225 model had been produced<ref name=OldtimerKatalogNr23>{{cite journal| authorlink = Günther Zink  (verantwortlich)| title =Oldtimer Katalog| journal = | volume = Nr. 23| pages = Seite 42|date = 2009|isbn = 978-3-86852-067-52009|publisher=HEEL Verlag GmbH|location=Königswinter }}</ref>.
+
+==Sources and further reading==
+
+{{reflist}}
+
+[[Category:Audi vehicles|Front]]
+[[Category:Executive cars]]
+[[Category:Auto Union]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles introduced in 1933]]
+[[Category:1930s automobiles]]
+
+[[bg:Ауди Фронт]]
+[[de: Audi Front]]

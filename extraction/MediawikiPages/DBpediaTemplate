@@ -1,0 +1,17 @@
+{{tfd|DBpedia Template}}
+<includeonly>
+The information in this section used by [[DBpedia]] which is a community project for extracting structured information from Wikipedia and make it freely available on the Web. Please see the [http://meta.wikimedia.org/wiki/DBpedia/ontology overview of the DBpedia ontology].
+
+Related class: {{#if:{{{relatesToClass|}}}|[http://meta.wikimedia.org/wiki/DBpedia/ontology/{{{relatesToClass}}} {{{relatesToClass}}}]|(none)}}
+{|class="wikitable"
+! argument
+! property
+! parseHint
+! rowspan="7" | [[Image:DBpediaLogo.svg|200px|DBpedia logo]]
+{{{mapping|}}}
+|}
+The table above lists all mappings to DBpedia properties which are defined for this template. See [[Template:DBpedia_Template/doc]]
+</includeonly>
+<noinclude>
+{{documentation}}
+</noinclude>

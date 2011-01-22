@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = highest place
+| rdfs:range = PopulatedPlace
+}}

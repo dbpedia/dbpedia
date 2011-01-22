@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = source country
+| rdfs:range = Country
+}}

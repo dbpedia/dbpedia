@@ -1,0 +1,22 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Lake
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = inflow | ontologyProperty = Lake/inflow }}
+	{{ DBpediaPropertyMapping | templateProperty = outflow | ontologyProperty = Lake/outflow }}
+	{{ DBpediaPropertyMapping | templateProperty = catchment | ontologyProperty = Lake/areaOfCatchment | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = volume | ontologyProperty = Lake/volume | unit = cubicMetre }}
+	{{ DBpediaPropertyMapping | templateProperty = shore | ontologyProperty = Lake/shoreLength | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = islands | ontologyProperty = Lake/island }}
+	{{ DBpediaPropertyMapping | templateProperty = frozen | ontologyProperty = Lake/frozen }}
+	{{ DBpediaPropertyMapping | templateProperty = lake_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coords }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = basin_countries | ontologyProperty = BodyOfWater/country }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = depth | ontologyProperty = Place/depth | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = cities | ontologyProperty = BodyOfWater/city }}
+}}

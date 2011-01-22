@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = torch bearer
+|rdfs:domain = Olympics
+|rdfs:range = Person
+}}

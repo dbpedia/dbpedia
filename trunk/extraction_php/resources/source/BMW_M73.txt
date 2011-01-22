@@ -1,0 +1,38 @@
+The [[BMW]] '''M73''' is a [[V12 engine|V12]] [[piston engine]] built in [[Munich, Germany]].  It has an Alusil aluminum engine block and aluminum SOHC cylinder heads.  While most other engines in the BMW had switched to four valves per cylinder, the M73 used 2-valve [[SOHC]] heads and featured fracture-split forged steel connecting rods.
+
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#M73B54|M73B54]]||rowspan=2|5.4&nbsp;L (5379&nbsp;cc/328&nbsp;in³)||240&nbsp;kW (326&nbsp;hp) @ 5000||490&nbsp;N·m (361&nbsp;ft·lbf) @ 3900||6000||1994
+|-
+|[[#M73TUB54|M73TUB54]]||240&nbsp;kW (326&nbsp;hp) @ 5000||490&nbsp;N·m (361&nbsp;ft·lbf) @ 3900||6000||1998
+|}
+
+
+The M73 won the "Above 4&nbsp;L" category of the [[International Engine of the Year]] awards for 1999.  Some versions of the engine have two separate [[Robert Bosch GmbH|Bosch]] Motronic electronic [[fuel injection]] systems left and right, while others have an integrated system.
+
+The [[BMW_N73|N73B60]] is a 6.0&nbsp;L (5972&nbsp;cc) version, now switching to four valves per cylinder and the Valvetronic [[variable valve timing]] system.  Its bore is 89&nbsp;mm and stroke is 80&nbsp;mm.  It is used in the 760i and 760Li.  Output is 445&nbsp;[[horsepower#PS|PS]] (438&nbsp;hp [[horsepower#hp (SAE)|SAE]]/327&nbsp;kW) at 6000&nbsp;rpm with 600 N·m (443&nbsp;ft·lbf) of torque at 3950&nbsp;rpm.
+
+Applications:
+* 1993-2001 [[BMW E38|E38]] [[BMW 7-Series|7-Series]]
+* 1994-1999 [[BMW E31|E31]] [[BMW 8-Series|8-Series]]
+* 1997-2001 [[BMW E38|E38]] [[BMW 7-Series|7-Series]] (M73TU)
+* 1999-2002 [[Rolls-Royce Silver Seraph]]
+
+==See also==
+
+* [[List of BMW engines]]
+
+[[Category:BMW engines|M73]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+{{automotive-part-stub}}
+
+[[de:BMW M73]]
+[[it:BMW M73]]
+[[no:BMW M73]]
+[[pl:BMW M73]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = anthem
+|rdfs:domain = Country
+|rdfs:range = owl:Thing
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = associated rocket
+| rdfs:domain = LaunchPad
+| rdfs:range = Rocket
+}}

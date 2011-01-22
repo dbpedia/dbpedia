@@ -1,0 +1,13 @@
+{{TemplateMapping
+| mapToClass = Weapon
+| mappings = 
+	{{PropertyMapping | templateProperty = origin | ontologyProperty = placeOfOrigin }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = wars | ontologyProperty = wars }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass }}
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length }}
+	{{PropertyMapping | templateProperty = width | ontologyProperty = width | unit = Length }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = diameter | ontologyProperty = diameter | unit = kilometre }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+}}

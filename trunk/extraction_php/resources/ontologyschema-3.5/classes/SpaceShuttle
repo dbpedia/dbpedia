@@ -1,0 +1,6 @@
+{{Class
+| rdfs:label = Space Shuttle
+| rdfs:subClassOf = MeanOfTransportation
+| specificProperties = {{SpecificProperty | ontologyProperty = timeInSpace | unit = day }}
+                       {{SpecificProperty | ontologyProperty = distance | unit = kilometre }}
+}}

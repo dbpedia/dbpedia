@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = region
+|rdfs:domain = Hospital
+|rdfs:range = PopulatedPlace
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= registration
+|rdfs:domain	= Company
+|rdfs:range		= xsd:string
+}}

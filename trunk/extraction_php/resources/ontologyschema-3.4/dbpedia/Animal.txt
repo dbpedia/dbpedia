@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Animal
+|rdfs:subClassOf = Eukaryote
+}}

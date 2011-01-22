@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = voice type
+|rdfs:domain = Artist
+|rdfs:range = owl:Thing
+}}

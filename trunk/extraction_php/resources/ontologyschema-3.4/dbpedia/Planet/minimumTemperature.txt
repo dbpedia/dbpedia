@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = minimum temperature
+|rdfs:domain = Planet
+|rdfs:range = kelvin
+}}

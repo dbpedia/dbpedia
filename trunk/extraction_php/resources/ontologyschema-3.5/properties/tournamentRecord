@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = tournament record
+| rdfs:domain = CollegeCoach
+| rdfs:range = xsd:string
+}}

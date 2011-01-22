@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Historic Place
+| rdfs:subClassOf = Place
+}}

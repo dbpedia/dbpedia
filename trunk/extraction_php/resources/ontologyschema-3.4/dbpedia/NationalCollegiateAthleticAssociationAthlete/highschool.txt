@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = highschool
+|rdfs:domain = NationalCollegiateAthleticAssociationAthlete
+|rdfs:range = EducationalInstitution
+}}

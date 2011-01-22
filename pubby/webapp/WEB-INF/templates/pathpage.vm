@@ -1,0 +1,13 @@
+#parse("header.vm")
+
+#foreach ($resource in $resources)
+#if ($resource.Label)
+    <h2>$resource.Label</h2>
+#else
+    <h2>Anonymous Resource #$velocityCount</h2>
+#end
+#set ($properties = $resource.Properties)
+#parse("proptable.vm")
+#end
+
+#parse("footer.vm")

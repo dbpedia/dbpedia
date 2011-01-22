@@ -1,0 +1,121 @@
+{{see also|Suzuki Splash}}
+{{Infobox Automobile
+| image          = [[File:Opel Agila B front-2.jpg|250px]]
+| name           = Opel Agila
+| aka            = Vauxhall Agila<br>[[Suzuki Wagon R+]]<br>Chevrolet MW
+| manufacturer   = [[Opel]]
+| parent_company = [[General Motors]]
+| production     = 2000-present
+| class          = [[City car]]
+| body_style     = 5-door [[hatchback]]
+| similar        = [[Chevrolet Matiz]]<br>[[Daihatsu Charade]]<br>[[Fiat Panda]]<br>[[Ford Ka]]<br>[[Peugeot 1007]]<br>[[Renault Twingo]]
+}}
+{{Infobox Automobile
+| image        = [[Image:Opel Agila VR blue.jpg|250px|First-generation Agila]]
+| name         = First generation
+| also_called  = [[Chevrolet MW]]<br>[[Suzuki Wagon R+]] ([[Europe]])<br>[[Suzuki Solio]] ([[Japan]])<br>[[Vauxhall Agila]]
+| assembly    = [[Gliwice]],[[Poland]]
+| manufacturer = [[Opel]]
+| production   = 2000-2007
+| wheelbase    = 2360&nbsp;mm (92.9&nbsp;mm)
+| length       = 3535&nbsp;mm (139.2&nbsp;mm)
+| width        = 1620&nbsp;mm (63.8&nbsp;mm)
+| height       = 1660&nbsp;mm (65.4&nbsp;mm)
+| weight       = 993&nbsp;kg (2189.2&nbsp;lb)
+}}
+{{Infobox Automobile
+| image        = [[Image:Opel Agila B 1.2 Edition Zitronengras.JPG|250px|Second-generation Agila]]
+| name         = Second generation
+| manufacturer = [[Opel]]
+| assembly      = [[Esztergom]],[[Hungary]]
+| also_called  = Vauxhall Agila<br>[[Suzuki Splash]]
+| production   = 2008-present
+| length       = {{convert|3740|mm|in|1|abbr=on}}
+| width        = {{convert|1680|mm|in|1|abbr=on}}
+| height       = {{convert|1590|mm|in|1|abbr=on}}
+| engine         = 1.0L [[Straight-3|I3]]<Br>1.2L [[Straight-4|I4]]<Br>1.3L [[Diesel engine|Diesel]]
+}}
+
+The '''Opel Agila''' is a [[city car]], a badge-engineered version of the [[Suzuki Wagon-R]] and [[Suzuki Splash]] manufactured by [[Magyar Suzuki]] and sold by [[Germany|German]] automarker [[Opel]]. It is badged as a [[Vauxhall Motors|Vauxhall]] in the [[United Kingdom]].
+
+==First generation (2000-2007)==
+The first-generation Agila was a [[badge engineering|rebadged]] version of the [[Suzuki Wagon R+]], which was produced in [[Japan]]. The Agila's Opel-sourced 1.0 and 1.2-litre [[petrol engine]]s were smaller than the European-market 1.3-litre found in the European-market Wagon R+, but were more powerful and refined. Equipment levels, low asking prices and running costs also contributed towards the Agila's success. {{Citation needed|date=May 2007}}
+
+The Agila was built at Opel's factory in [[Gliwice]], [[Poland]]. The Suzuki Wagon R+ was built at the Suzuki plant in [[Esztergom]], [[Hungary]] until 2004, and since January 2005 has also been built in Poland.
+
+While many city cars such as the [[Ford Ka]], [[Volkswagen Lupo]], [[Fiat Seicento]] and [[Renault Twingo]] come with just three doors, the Agila came with five. It was as tall as [[Korea]]n city cars such as the [[Hyundai Atos]] and [[Kia Picanto]]. The high roof-line and boxy image suited Japanese tastes of getting the most from a car of the smallest size. This however seriously affects the handling and ride of the car. If taken into a corner too quickly, it has serious amounts of body roll and wobbles side to side when driven next to large trucks or in cross-winds. But the car was not made for the circuit or motorways, but for city use, like Tokyo. The vehicle is ideal for the budget family motorist or for transporting tall people.
+
+==Second generation (2008-present)==
+The second-generation Agila was officially announced on May 15, 2007, and was presented at the 2007 [[Frankfurt Motor Show]].<ref>[http://media.gm.com/servlet/GatewayServlet?target=http://image.emerald.gm.com/gmnews/viewpressreldetail.do?domain=81&docid=36169  Flex in the City: The New Opel Agila Generation] - official press release</ref> [[Suzuki]] sells this model as the [[Suzuki Splash|Splash]]. The car is {{convert|200|mm|in|1|abbr=on}} longer than its predecessor, that is bigger than traditional city cars and similar to small [[supermini car|superminis]] and [[mini MPV]]s like the [[Peugeot 1007]], [[Toyota Yaris]], [[Renault Modus]] and [[Nissan Micra]].
+
+Petrol engines are a three cylinder 1.0-litre, {{convert|65|PS|kW bhp|0|abbr=on|lk=on}} and a four cylinder 1.2-litre {{Convert|86|PS|kW bhp|0|abbr=on}}, and the diesel unit a four cylinder 1.3-litre {{Convert|75|PS|kW bhp|0|abbr=on}} with [[common rail]] technology.
+
+The Agila comes in two different trim levels: Base/Essentia and Edition/Enjoy.
+
+===Engines===
+==== Petrol ====
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 90%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+!Model
+!Engine
+!Displacement
+!Power
+!Torque
+!Note
+|- bgcolor=#ffffff
+|'''1.0 Ecotec'''||[[straight-4|I4]]||996 cc||{{convert|65|PS|kW hp||abbr=on}} @6000 rpm||{{convert|90|Nm|lbft||abbr=on}} @4800 rpm|| 
+|- bgcolor=#ffffff
+|'''1.2 Ecotec'''||I4||1242 cc||{{convert|86|PS|kW hp||abbr=on}} @5500 rpm||{{convert|114|Nm|lbft||abbr=on}} @4400 rpm||
+|}
+
+==== Diesel ====
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 90%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+!Model
+!Engine
+!Displacement
+!Power
+!Torque
+!Note
+|- bgcolor=#ffffff
+|'''1.3 CDTI Ecotec'''||[[straight-4|I4]]||1248 cc||{{convert|75|PS|kW hp||abbr=on}} @4000 rpm||{{convert|190|Nm|lbft||abbr=on}} @1750 rpm|| 
+|}
+
+==See also==
+*[[Chevrolet Celta|Chevrolet Celta/Suzuki Fun]], the Latin-American-market equivalents
+
+{{-}}
+==References==
+<references/>
+* [http://www.vauxhall.co.uk/vaux/home.do?referrer=#vehicleTabs:Agila  Vauxhall's Agila Main Information Page]
+
+==External links==
+{{commonscat}}
+* [http://www.vauxhall.co.uk/vaux/home.do?referrer=#vehicleTabs:Agila  Vauxhall Agila Page]
+* [http://www.Opel.com Opel international site]
+
+{{Opel timeline}}
+
+[[Category:Opel vehicles|Agila]]
+[[Category:City cars]]
+[[Category:Mini MPVs]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2000]]
+
+[[de:Opel Agila]]
+[[es:Opel Agila]]
+[[fr:Opel Agila]]
+[[it:Opel Agila]]
+[[lv:Opel Agila]]
+[[nl:Opel Agila]]
+[[ja:オペル・アギーラ]]
+[[pl:Opel Agila]]
+[[pt:Opel Agila]]
+[[ru:Opel Agila]]
+[[simple:Opel Agila]]
+[[fi:Opel Agila]]
+[[sv:Opel Agila]]
+[[tr:Opel Agila]]
+[[uk:Opel Agila]]

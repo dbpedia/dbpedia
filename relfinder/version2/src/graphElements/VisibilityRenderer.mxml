@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml" creationComplete="setup()" 
+    horizontalAlign="center">
+	
+		
+	<mx:Script>
+    <![CDATA[
+			import flash.events.Event;
+			import graphElements.Element;
+			import graphElements.Concept;
+			import graphElements.MyNode;
+			import mx.core.Application;
+			
+			[Bindable]
+			[Embed(source="../../assets/img/hide.gif")]
+			private var Hide:Class;
+			
+			[Bindable]
+			[Embed(source="../../assets/img/hide_inactive.gif")]
+			private var HideInactive:Class;
+			
+			[Bindable]
+			[Embed(source="../../assets/img/show.gif")]
+			private var Show:Class;
+			
+			[Bindable]
+			[Embed(source="../../assets/img/show_inactive.gif")]
+			private var ShowInactive:Class;
+
+			
+			private function setup():void {
+				img.source = Hide;	//initial
+				//(data as Concept).addEventListener(Concept.VCHANGE, conceptVChangeHandler);
+				//trace("registered: " + data.id);
+			}
+            
+			private function handleImageClick(event:Event):void {
+				//trace("clicked: " + data.isVisible+" c: "+data.id);
+				app().delayedDrawing = false;	//!!
+				//TODO: Unterscheiden, ob Element Instance oder Predicate!!!
+				
+				if (data.canBeChanged) {
+					if (data.isVisible) {
+						data.isVisible = false;	//nicht hier! // warum nicht?
+						//app().hideNode(app().getInstanceNode(data.id, data as Element));
+					}else {
+						data.isVisible = true;	//nicht hier! // warum nicht?
+						//app().showNode(app().getInstanceNode(data.id, data as Element));
+					}
+				}
+				
+			}
+			
+			private function setImages():void {
+				if (data.isVisible) {
+					if (data.canBeChanged) {
+						img.source = Hide;
+					}else {
+						img.source = HideInactive;
+					}
+				}else {
+					if (data.canBeChanged) {
+						img.source = Show;
+					}else {
+						img.source = ShowInactive;
+					}
+				}
+				
+				//img.updateDisplayList();
+			}
+			
+			/*private function getSource(isV:Boolean):Class {
+				trace("isV: " + isV);
+				if (isV) {
+					return Hide;
+				}else {
+					return Show;
+				}
+			}*/
+			
+			protected function app():Main {
+				return Application.application as Main;
+			}
+
+        ]]>
+    </mx:Script>
+	
+    <mx:Image id="img" useHandCursor="true" buttonMode="true" click="handleImageClick(event)"  render="setImages()" />  <!-- source="{getSource((data as Concept).isVisible)}" -->  
+</mx:VBox> 

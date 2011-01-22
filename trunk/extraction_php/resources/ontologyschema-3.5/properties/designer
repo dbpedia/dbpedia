@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = designer
+| rdfs:domain = MeanOfTransportation
+| rdfs:range = Person
+}}

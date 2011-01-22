@@ -1,0 +1,11 @@
+{{TemplateMapping
+| mapToClass = Philosopher
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = influences | ontologyProperty = influencedBy }}
+	{{PropertyMapping | templateProperty = influenced | ontologyProperty = influenced }}
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = current position
+|rdfs:domain = Athlete
+|rdfs:range = xsd:string
+}}

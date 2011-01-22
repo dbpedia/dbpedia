@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = music by
+|rdfs:domain = Musical
+|rdfs:range = Person
+}}

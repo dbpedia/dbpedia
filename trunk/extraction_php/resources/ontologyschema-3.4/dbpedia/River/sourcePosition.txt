@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = source position
+|rdfs:domain = River
+|rdfs:range = geo:SpatialThing
+}}

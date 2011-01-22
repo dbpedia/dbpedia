@@ -1,0 +1,602 @@
+%%%%%%%%%%%%%%%%%%%% author.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Vernetzte Daten und Semantische Mashups
+%
+% Christian Bizer, Soeren Auer, Jens Lehmann
+%
+% $Id$
+% Encoding: ISO-8859-1
+%
+%%%%%%%%%%%%%%%% Springer %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[graybox]{svmult}
+
+% Von Chris für Deutsch einfefügt
+\usepackage[latin1]{inputenc} 
+\usepackage{german}
+\usepackage[T1]{fontenc} 
+
+% choose options for [] as required from the list
+% in the Reference Guide
+
+\usepackage{mathptmx}       % selects Times Roman as basic font
+\usepackage{helvet}         % selects Helvetica as sans-serif font
+\usepackage{courier}        % selects Courier as typewriter font
+\usepackage{type1cm}        % activate if the above 3 fonts are 
+                            % not available on your system
+
+\usepackage{makeidx}         % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+
+% see the list of further useful packages
+% in the Reference Guide
+
+\makeindex             % used for the subject index
+                       % please use the style svind.ist with
+                       % your makeindex program
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% weitere Pakete
+\usepackage{url}
+%\usepackage{listings}
+
+%%%%%%%%%%%%%%%%%%%%
+%% EIGENE BEFEHLE %%
+%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\ALC}{\ensuremath{\mathcal{ALC}} }
+\newcommand{\todo}[1]{\emph{\color{red}[ToDo: #1]}}
+
+% Formatierung von Rollen, Konzepten und Objekten
+\newcommand{\role}[1]{\texttt{#1}}
+\newcommand{\concept}[1]{\texttt{\MakeUppercase #1}}
+\newcommand{\object}[1]{\texttt{\MakeUppercase{#1}}}
+
+\begin{document}
+
+\title*{Semantische Mashups auf Basis Vernetzter Daten}
+% Use \titlerunning{Short Title} for an abbreviated version of
+% your contribution title if the original one is too long
+\author{Sören Auer, Jens Lehmann und Christian Bizer}
+% Use \authorrunning{Short Title} for an abbreviated version of
+% your contribution title if the original one is too long
+\institute{Sören Auer \at Institut für Informatik (IfI), Universität Leipzig, Postfach 100920, 04009 Leipzig, \email{auer@informatik.uni-leipzig.de}
+\and Jens Lehmann \at Institut für Informatik (IfI), Universität Leipzig, Postfach 100920, 04009 Leipzig, \email{lehmann@informatik.uni-leipzig.de}
+\and Christian Bizer \at Web-based Systems Group, Freie Universität Berlin, Garystraße 21, D-14195 Berlin, \email{chris@bizer.de}}
+%
+% Use the package "url.sty" to avoid
+% problems with special characters
+% used in your e-mail or web address
+%
+\maketitle
+
+\abstract{Semantische Mashups sind Anwendungen, die vernetzte Daten aus mehreren Web-Datenquellen mittels standardisierter Datenformate und Zugriffsmechanismen nutzen. Der Artikel gibt einen Überblick über die Idee und Motivation der Vernetzung von Daten. Es werden verschiedene Architekturen und Ansätze zur Generierung von RDF-Daten aus bestehenden Web 2.0 Datenquellen, zur Vernetzung der extrahierten Daten sowie zur Veröffentlichung der Daten im Web anhand konkreter Beispiele diskutiert. Hierbei wird insbesondere auf Datenquellen, die aus sozialen Interaktionen hervorgegangen sind eingegangen. Anschließend wird ein Überblick über verschiedene, im Web frei zugängliche semantische Mashups gegeben und auf leichtgewichtige Inferenzansätze eingegangen, mittels derer sich die Funktionalität von semantischen Mashups weiter verbessern lässt.}
+
+\section{Einleitung}
+\label{sec:intro}
+
+Das Web wandelt sich zunehmend von einem Medium zur Veröffentlichung von Texten, hin zu einem Medium zur Veröffentlichung von strukturierten Daten. Ein Beispiel für diese Entwicklung ist die zunehmende Verbreitung von Inhaltsformaten wie RSS, ATOM und Microformats, sowie Web-APIs, die Anfragen gegen Datenquellen wie Google, Yahoo! und Amazon ermöglichen. %Im September 2007 zählte das Portal Programmable Web\footnote{http://www.programmableweb.com/apis} so z.B. 515 öffentliche Web APIs. 
+
+Aufgrund der diversen Schnittstellen und Ergebnisformate, die derzeit von Web-APIs angeboten werden, ist die Integration von Daten aus mehreren Datenquellen nach wie vor mit einem relativ hohem Programmieraufwand verbunden. 
+
+In diesem Beitrag stellen wir das Konzept semantischer Mashups als Ansatz zur Integration von Daten aus unterschiedlichen Quellen vor. Semantische Mashups sind dabei Anwendungen, die vernetzte RDF-Daten aus mehreren Web-Datenquellen nutzen. Das Spektrum Semantischer Mashups ist groß. Es reicht von generischen Daten-Browser, über themen-spezifische Portale, bis hin zu Suchmaschinen, die expressive Anfragen gegen Web-Daten aus unterschiedlichen Quellen ermöglichen.
+
+Im Konzept Semantischer Mashups im Social Semantic Web spielen drei Elemente eine zentrale Rolle: Vernetzte Daten (engl. Linked Data~\cite{linkedData}) als Rahmenwerk für die Repräsentation und den Zugriff auf semantische Daten im Web, DBpedia als ein Kristallisationskern für die Vernetzung von Daten aus unterschiedlichen Quellen, sowie leichtgewichtige Inferenzstrategien für die Integration und Strukturierung der Daten.
+
+Im Gegensatz zu den diversen Schnittstellen und Ergebnisformaten, die derzeit von Web-APIs angeboten werden, bieten Vernetzte Daten den Vorteil eines flexiblen, standardisierten Datenformats (RDF), eines standardisierten Zugriffsmechanismus (HTTP), sowie die Möglichkeit Verweise zwischen Daten in unterschiedlichen Datenquellen zu setzen. Anhand dieser Links und eines generischer Daten-Browsers können Nutzer von Datensätzen in einer Datenquelle zu Datensätzen in einer anderen Datenquelle navigieren. Verweise können auch von Suchmaschinen verwendet werden, um die Inhalte vernetzter Web-Datenquellen zu sammeln (mittels Web-Crawler) sowie expressive Abfrage- und Suchfunktionalitäten über die gesammelten Daten anzubieten.
+
+Die Enzyklopädie Wikipedia beinhaltet Informationen zu einer sehr breiten Palette unterschiedlicher Themen. Das Projekt DBpedia extrahiert strukturierte Informationen aus Wikipedia und veröffentlicht diese Informationen als Vernetzte Daten im Web. DBpedia bietet derzeit Informationen zu mehr als 1,95 Millionen "`Dingen"', inklusive 80.000 Personen, 70.000 Orte, 35.000 Musik-Alben, 12.000 Filme. Durch die breite thematische Abdeckung lassen sich DBpedia-Daten mit Daten aus einer Vielzahl anderer Datenquellen verknüpfen. Hierdurch und durch die Vernetzung anderer Datenquellen untereinander entwickelt sich derzeit ein dezentrales Daten-Web. Dieses Daten-Web wuchs im laufe des letzten Jahres sehr schnell und umfasste im Oktober 2007 mehr als 2 Milliarden Informationen (RDF Triple).
+
+Dieser Beitrag gliedert sich wie folgt: Wir stellen zunächst die Basis-Prinzipien Vernetzter Daten vor (Abschnitt \ref{sec:linkeddata}), beschreiben am Beispiel von DBpedia, wie eine Fülle strukturierter Daten mittels sozialer Interaktionen gewonnen werden kann (Abschnitt \ref{subsec:DBpedia}). Anschließend wird ein Überblick über verschiedene, im Web frei zugängliche semantische Mashups gegeben sowie auf Inferenzansätze eingegangen, mittels derer sich die Funktionalität der semantischen Mashups weiter verbessern lässt.
+
+
+\section{Vernetzte Daten im Web}
+\label{sec:linkeddata}
+
+Dieser Abschnitt erklärt die technischen Grundlagen vernetzter Daten und gibt einen Überblick über Werkzeuge zur Veröffentlichung vernetzter Daten im Web. Anschließend werden verschiedene, existierende Quellen vernetzter Daten vorgestellt.
+
+\subsection{Die Prinzipien Vernetzter Daten}
+\label{sec:principles}
+
+Das Konzept Vernetzter Daten greift verschiedene Entwicklungen aus dem Bereich Web-basierte Datenintegration auf und versucht die unterschiedlichen Entwicklungstendenzen auf einer gemeinsamen technologischen Basis zusammenzuführen. Das Konzept zielt darauf ab, es Informationsanbietern genau so einfach zu machen strukturierte Daten im Web zu veröffentlichen und Datensätzen in unterschiedlichen Datenquellen zu verknüpfen, wie sie heute klassische HTML-Dokumente im Web veröffentlichen und Verweise zwischen verschiedenen Dokumenten setzen.
+
+Der Begriff {\em Vernetzte Daten} (engl. Linked Data) wurde von Tim Berners-Lee in \cite{linkedData} geprägt. Der Begriff bezieht sich auf eine Menge von Best-Practices zur Veröffentlichung und Verknüpfung von strukturierten Daten im Web. Grundannahme von Linked Data ist, dass der Wert und die Nützlichkeit von Daten steigt, je stärker sie mit Daten aus anderen Datenquellen verknüpft sind.
+
+Die technischen Grundprinzipien Vernetzter Daten bestehen darin, 
+\begin{enumerate}
+	\item das Resource Description Framework (RDF)~\cite{rdf-concepts} als universelles Datenmodell zur Veröffentlichung von strukturierten Daten im Web zu verwenden,
+	\item alle URIs, die in RDF-Graphen verwendet werden, über das Web dereferenzierbar zu machen, sowie
+	\item RDF-Verweise zwischen Daten in verschiedenen Datenquellen zu setzen. 
+\end{enumerate}
+
+Die Anwendung dieser beiden Prinzipien führt zur Entstehung eines Daten-Webs, eines offenen Informationsraums mit ähnlichen Eigenschaften wie denen des klassischen World Wide Webs.
+
+Auf diesen Informationsraum lässt sich mittels generischer Daten-Browser zugreifen, ähnlich wie auf das klassische Web mittels HTML-Browsern zugegriffen wird. Nutzer können sich Daten aus einer Quelle anzeigen lassen und anschließend anhand von RDF-Verweisen zu Daten in einer anderen Quelle navigieren. Ähnlich wie Suchmaschinen das klassische Web anhand von HTML-Verweisen crawlen, lassen sich anhand von RDF-Verweise Daten aus verschiedenen Quellen zusammenführen.
+ 
+RDF-Verweise~\cite{linkedDataHowto} verknüpfen Datensätze aus unterschiedlichen Datenquellen. Sie repräsentieren typisierte Beziehungen zwischen den Datensätzen. So lässt sich beispielsweise mittels RDF-Verweise ausdrücken, dass mehrere Datensätze in unterschiedlichen Datenquellen die gleiche Person beschreiben. Oder es lässt sich ausdrücken das eine Person, die in einer Datenquelle beschrieben wird, sich für ein Thema interessiert, über das es in einer anderen Datenquelle weitere Informationen gibt.
+
+Der folgende RDF Graph besteht aus zwei RDF-Verweisen. Das Beispiel verwenden die Turtle Syntax~\cite{turtle}.
+
+\begin{figure}
+\begin{verbatim}
+1. # RDF link taken from Tim Berners-Lee's FOAF profile
+2. <http://www.w3.org/People/Berners-Lee/card#i>
+3. owl:sameAs 
+4. <http://www4.wiwiss.fu-berlin.de/dblp/resource/person/100007> .
+5.
+6. # RDF link taken from Richard Cyganiaks's FOAF profile
+7. <http://richard.cyganiak.de/foaf.rdf#cygri>
+8. foaf:based_near 
+9. <http://dbpedia.org/resource/Berlin> .
+
+\end{verbatim}
+\caption{Beispiele für RDF-Verweise.}
+\label{fig:RDFLinks}
+\end{figure}
+
+Der erste RDF-Verweis (Zeile 2-4) drückt aus, dass die URI \url{http://www.w3.org/People/Berners-Lee/card#i} die gleiche Ressource identifiziert wie die URI \url{http://www4.wiwiss.fu-berlin.de/dblp/resource/person/100007}.  Der zweite RDF-Verweis (Zeile 7-9) drückt aus, das die URI \url{http://richard.cyganiak.de/foaf.rdf#cygri} eine Ressource identifiziert, die in der Nähe einer anderen Ressource wohnt, welche mittels der URI \url{http://dbpedia.org/resource/Berlin} identifiziert wird.
+
+Gemäß der Prinzipien vernetzter Daten sollen alle URIs, die in RDF-Graphen verwendet werden, dereferenzierbar sein. Dies bedeutet, dass Web-Clients zu jeder URI mittels der HTTP-Operation GET weitere Informationen abrufen können. Sendet ein Web-Client zusammen mit der seiner Anfrage den HTTP-Accept-Header \url{text/html}, sendet ihm der Server eine Repräsentation der Ressource im HTML-Format. Fragt der Client mittels des HTTP-Accept-Headers \url{application/rdf+xml} nach RDF-Daten, sendet ihm der Server Informationen über die Ressource im RDF/XML Format.
+
+\begin{figure}[tbp]
+\begin{minipage}[b]{.50\linewidth} 
+\centering
+\includegraphics[width=\textwidth]{RDFlinks1.pdf}
+\end{minipage}
+%\hspace{.03\linewidth}
+\begin{minipage}[b]{.50\linewidth}
+\centering
+\includegraphics[width=\textwidth]{RDFlinks2.pdf}
+\end{minipage}
+\begin{minipage}[b]{.50\linewidth} 
+\centering
+\includegraphics[width=\textwidth]{RDFlinks3.pdf}
+\end{minipage}
+%\hspace{.03\linewidth}
+\begin{minipage}[b]{.50\linewidth}
+\centering
+\includegraphics[width=\textwidth]{RDFlinks4.pdf}
+\end{minipage}
+\caption{Dereferenzierung von HTTP URIs.}
+\label{fig:template}
+\end{figure}
+
+Das folgende Beispiel illustriert, wie Web-Clients mittels URI-Dereferenzierung durch das Daten-Web navigieren.
+Interessiert sich der Benutzer eines Daten-Browsers beispielsweise dafür, was für eine Ressource mit der URI \url{http://richard.cyganiak.de/foaf.rdf#cygri} identifiziert wird, weist er seinen Browser an, diese Ressource zu dereferenzieren. Als Antwort erhält er vom Server \url{http://richard.cyganiak.de} beispielsweise den in Abbildung \ref{sec:publishing} links oben dargestellten RDF Graphen. Der Graph enthält die Information, das es sich bei der Ressource um eine Person handelt, die Richard Cyganiak heißt. Interessiert sich der Benutzer darüber hinaus für den Ort in dem Richard wohnt, dereferenziert er die URI \url{http://dbpedia.org/resource/Berlin} und bekommt vom Server \url{http://dbpedia.org} einen RDF-Graphen der die Stadt Berlin beschreibt. Da sowohl der Graph über Richard als auch der Graph über Berlin die gleiche URI zur Identifikation der Stadt Berlin verwenden, fügen sich beide Graphen natürlich zusammen (Abbildung \ref{sec:publishing} rechts oben und links unten). Der Graph der Berlin beschreibt beinhaltet die Information, das Berlin zur Gruppe der deutschen Städte gehört. Interessiert sich der Nutzer für weitere deutsche Städte, dereferenziert er die URI \url{http://dbpedia.org/resource/Cities_in_Germany} und erhält eine Liste deutscher Städte, von der aus er zu weiteren Städten navigieren kann (Abbildung \ref{sec:publishing} rechts unten).
+
+\subsection{Veröffentlichung vernetzter Daten im Web}
+\label{sec:publishing}
+
+Vernetzte Daten lassen sich im Web in Form RDF/XML-Dateien, die auf einem Webserver abgelegt werden, veröffentlichen. Im Laufe des letzten Jahres wurden zusätzlich verschiedene Werkzeuge zur Veröffentlichung Vernetzter Daten entwickelt, mit Hilfe derer sich Sichten auf die Inhalte relationalen Datenbanken und RDF-Stores im Web publizieren lassen. Beispiele derartiger Veröffentlichungs-Werkzeuge für relationale Datenbanken sind D2R-Server~\cite{D2rserverpage} und OpenLink Virtuoso~\cite{aksw.org/cssw07/paper/5_erling.pdf}. Ein Tool mit dem sich die Inhalte von RDF-Datenbanken publizieren lassen ist Pubby~\cite{Pubby}.
+
+Ein weiterer Ansatz zur Veröffentlichung vernetzter Daten besteht in der Implementierung von Wrappern um existierende Anwendungen oder Web-APIs. Beispiele für Wrapper auf Anwendungsebene sind die SIOC-Exporters für WordPress, Drupal und phpBB~\cite{SIOCexporters}. Ein Beispiel eines Wrappers um Web-APIs ist das RDF Book Mashup, das auf die Amazon und Google Base API zugreift, um RDF-Daten über Bücher bereitzustellen~\cite{bookMashup}.  
+
+Ein detaillierte Beschreibung der verschiedenen Techniken zum Publizieren vernetzter Daten im Web findet sich in~\cite{linkedDataHowto}.
+
+\subsection{Quellen vernetzter Daten im Web}
+\label{sec:quellen}
+
+Die Menge der im Oktober 2007 als vernetzte Daten im Web veröffentlichten Informationen wird auf über 2 Milliarden RDF-Triple geschätzt. Dieser Datenbestand ist mittels circa 3 Millionen RDF-Verweisen zwischen unterschiedlichen Datenquellen vernetzt. 
+
+Unterschiedliche Datenquellen veröffentlichen Informationen über Länder, Städte, Personen, Firmen, Bücher, Filme, Musik, wissenschaftliche Veröffentlichungen, Konferenzen, Projekte und Arbeitsgruppen, sowie statistische Daten über die Europäische Gemeinschaft und die Vereinigten Staaten.
+
+Das Linking Open Data Projekt~\cite{LODpage} der Semantic Web Education and Outreach Arbeitsgruppe des Word Wide Web Konsortiums führt ein Verzeichnis aller bekannten Quellen vernetzter Daten, die ihre Inhalte unter einer offenen Lizenz bereitstellen. Abbildung \ref{fig:lod-datasets} gibt einen Überblick über einen Teil der vom Linking Open Data Projekt erfassten Datenquellen sowie über die Verknüpfungen zwischen Datensätzen in unterschiedlichen Datenquellen. 
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=0.90\textwidth]{lod-datasets_2007-10-08.png}
+	\caption{Überblick über Quellen vernetzter Daten.}
+	\label{fig:lod-datasets}
+\end{figure}
+
+Die Datenquellen, die im Oktober 2007 neu in das Verzeichnis aufgenommen worden sind, sind in der Abbildung mit "`NEW"' gekennzeichnet. Die Datenquelle Wiki-Company bietet beispielsweise Informationen über circa 20000 Firmen an. Der flickr wrappr ermöglicht den Zugriff auf die Fotodatenbank von flickr\footnote{www.flickr.com/} und generiert Bildersammlungen zu Dingen, die in DBpedia beschrieben sind. Die Datenquelle Open-Cyc veröffentlicht einen Teil der Cyc Ontologie\footnote{http://www.opencyc.org/} als vernetzte Daten.
+
+Anhand von RDF-Verweisen können Nutzer zwischen Datensätzen in unterschiedlichen Datenquellen des Netzwerks navigieren. So ist es beispielsweise möglich von Informationen über eine Person in einer FOAF-Datei zu Informationen über die Stadt, in der die Person wohnt, in DBpedia und anschließend zu weiteren Informationen über diese Stadt in der Geonames- sowie der US-Census-Datenbank zu navigieren. Alternativ lässt sich in DBpedia beispielsweise von der Stadt zu einer Liste von Musikgruppen, die aus dieser Stadt stammen, und anschließend zu detaillierten Informationen über die Alben dieser Bands in der MusicBrainz-Datenbank navigieren.
+
+
+\section{DBpedia als Kristallisationskern für die Vernetzung von Datenquellen}
+\label{subsec:DBpedia}
+
+Um Daten aus thematisch unterschiedlichen Datenquellen miteinander verknüpfen zu können, ist es sehr wichtig über Datensätze zu verfügen, die ein sehr breites Themenspektrum abdecken, sowie Dinge aus unterschiedliche Domänen miteinander in Beziehung setzen. Einer der größten Datensätze dieser Art wird zur Zeit vom DBpedia Projekt bereitgestellt. Die Bedeutung dieses Datensatzes für die Verknüpfung anderer Datenquellen verdeutlicht die zentrale Stellung von DBpedia in Abbildung \ref{fig:lod-datasets}.
+
+Die DBpedia Daten werden aus den Inhalten der Enzyklopädie Wikipedia extrahiert. Seit dem Beginn des Wikipedia Projektes im Jahr 2001 hat sich Wikipedia zur umfassendsten Enzyklopädie und dem erfolgreichsten kollaborativen Gemeinschaftsprojekt im Internet entwickelt. Inzwischen gibt es Wikipedia-Versionen in mehr als 250 Sprachen. Im September 2004 überschritt der Umfang des Gesamtprojekts die Grenze von einer Million Artikel, mittlerweile sind es über 7,5 Millionen. Die deutschsprachige Wikipedia ist dabei eines der aktivsten und bestkoordiniertesten Teilprojekte. Sie enthält derzeit mehr als 655.000 Artikel, die englische Ausgabe umfasst über 2,07 Millionen (Stand: November 2007). Inzwischen ist Wikipedia eine der 10 am meisten besuchten Informationsangebote im Internet (vgl. alexa.com).
+
+Eines der Wikipedia-Grundprinzipien ist die gemeinschaftliche Erstellung der Artikel. Dies resultiert in einer Reihe von Vor- und Nachteilen. Zu den Vorteilen gehört, dass Artikel oft einen Konsens repräsentieren, die Mitarbeit und Beteiligung angeregt wird und eine große Bandbreite von Themen umfassend und oft enorm aktuell abgedeckt wird. Folgende Nachteile des kollektiven Editierens haben sich ergeben: Manche (Rand-)Themen sind ungenau oder unvollständig dargestellt und dies ist für Leser nicht immer ersichtlich, einige Nutzer versuchen in Wikipedia einseitige oder werbende Darstellungen zu platzieren, die Inhalte sind sind nicht einheitlich strukturiert. % Dies resultiert auch in sehr eingeschränkten Such- und Recherchemöglichkeiten. (Stimmt so nicht, da wir ja auch nur vorhandene Strukturen Nutzen) 
+Diese Nachteile wurden von der Wikipedia Gemeinschaft inzwischen erkannt und es wird versucht Lösungsmöglichkeiten zu entwickeln: Stabile Artikelversionen sollen vor Vandalismus schützen, Artikel werden zunehmend kategorisiert und (z.B. mit Infoboxen) strukturiert, es gibt Wettbewerbe für die besten Beiträge und schlecht geschriebene Artikel und solche mit fehlenden Informationen werden entsprechend gekennzeichnet.
+
+Das DBpedia-Projekt versucht nun strukturierte Informationen aus Wikipedia-Inhalten (z.B. Infoboxen) zu extrahieren. In diesen strukturierten Informationen liegt ein sehr großes Potential, das heute noch nicht genutzt wird. Durch die Extraktion von Informationen aus Wikipedia und deren Repräsentation mittels eines strukturierten Datenmodells, lassen sich z.B. folgende Anwendungen realisieren:
+\begin{itemize}
+	\item	Es lassen sich komplexe Anfragen an Wikipedia stellen. Beispiele sind: "`Welche deutschen Komponisten wurden im 18. Jahrhunderts in Berlin geboren?"', "`In welchen Filmen tritt Quentin Tarantino als Schauspieler auf?"' oder "`Wer sind die Bürgermeister von Städten in den USA, die höher als 1000m gelegen sind?"'. Diese erweiterten Anfragemöglichkeiten revolutionieren den Zugriff auf Wikipedia-Inhalte für den Endnutzer und ermöglichen eine wesentlich spezifischere Nutzung dieser Wissensbasis.
+	\item	Über die gewonnenen strukturierten Informationen lässt sich die Konsistenz von Wikipedia, insbesondere auch die Konsistenz zwischen den verschiedenen Sprachversionen, überprüfen. Hiermit lässt sich der Qualität von Wikipedia und damit ihr Wert als eine der zentralen Wissensressourcen der Menschheit insgesamt verbessern.
+	\item	Aus Sicht der Wissensrepräsentation stellen die gewonnenen Daten eine der größten Ontologien dar. Diese Ontologie unterscheidet sich von bisherigen Ontologien darin, dass die in Ihr definierten Konzepte ein tatsächliches "`Community Agreement"' darstellen und von der Gemeinschaft permanent aktualisiert werden.
+\end{itemize}
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=0.6\textwidth]{architecture}
+	\caption{Überblick über die einzelnen DBpedia-Komponenten.}
+	\label{fig:architecture}
+\end{figure}
+
+Einen Überblick über die Struktur des DBpedia-Projektes gibt Abbildung \ref{fig:architecture}. Die DBpedia-Extraktion arbeitet auf der Basis der von Wikipedia veröffentlichten Datenexporte. 
+%Die extrahierten Daten werden sowohl als RDF-Dateien zum Download angeboten, als auch mittels verschiedener Applikationen im Web veröffentlicht (Wiederholung, kommt hinten doch auch). Die zentralen DBpedia-Anwendungen bauen dabei auf Virtuoso~\cite{aksw.org/cssw07/paper/5_erling.pdf} und MySQL als Datenbanken und Triplestores auf (Finde ich zu Detailliert für ein Paper wo es laut Titel Hauptsächlich um Linked Data geht). 
+In den folgenden Abschnitten stellen wir die DBpedia-Extraktion, die resultierenden Datenpakete als auch Beispiele von bestehenden DBpedia-Anwendungen vor. Detaillierte Informationen zu DBpedia finden sich in \cite{iswcDbpedia} und \cite{DBLP:conf/esws/AuerL07}.
+
+\subsection{Extraktion}
+\label{subsec:Extraktion}
+
+Wikipedia-Artikel bestehen zum größten Teil aus Freitext, enhalten aber auch verschiedene Arten strukturierter Informationen, wie z.B. Infobox-Templates, Kategorisierungen, Bilder, Geo-Koordinaten, Verweise zu externen Webseiten und zu Wikipedia-Editionen in anderen Sprachen.
+
+Die Software hinter der Wikipedia-Webseite ist dabei Mediawiki\footnote{\url{http://www.mediawiki.org}}. In der Natur dieses Wiki-Systems liegt es dabei auch, daß alle Bearbeitungen, Verknüpfungen, Annotationen mit Meta-Daten innerhalb der Artikeltexte mit speziellen syntaktischen Konstrukten realisiert werden. Strukturierte Informationen können daher mittels einer Analyse und Verarbeitung der Artikel und der darin enthaltenen syntaktischen Konstrukte erreicht werden.
+
+Da MediaWiki einige dieser Informationen intern selbst zur Erstellung der Benutzerschnittstelle nutzt, liegen einige extrahierte Informationen bereits in relationalen Datenbanktabellen vor. Exporte der zentralen Datenbank-Tabellen (inklusive der, welche den Artikelvolltext enthält) werden monatlich von Wikipedia im Netz bereitgestellt\footnote{\url{http://download.wikimedia.org/}}. Basierend auf diesen Datenbankexporten, nutzt DBpedia im Moment zwei Arten der Extraktion semantischer Beziehungen: (1) Wir bilden relationale Beziehungen, die bereits in Form von Datenbank-Tabellen vorliegen, in RDF ab und (2) wir extrahieren zusätzliche Informationen direkt aus den Artikel-Texten und den Infobox-Vorlagen innerhalb dieser Texte.
+
+\begin{figure}[tbp]
+\begin{minipage}[b]{.57\linewidth} 
+\centering
+\includegraphics[width=\textwidth]{busan_infobox2}
+\end{minipage}
+%\hspace{.03\linewidth}
+\begin{minipage}[b]{.42\linewidth}
+\centering
+\includegraphics[width=\textwidth]{busan}
+\end{minipage}
+\caption{Beispiel einer Wikipedia-Infobox-Vorlage und der erstellten Web-Ausgabe (Ausschnitt).}
+\label{fig:template}
+\end{figure}
+
+Wir illustrieren die Extraktion von Semantik aus dem Artikel-Text anhand einer Wikipedia-Infobox-Vorlage. Abbildung \ref{fig:template} zeigt die Infobox-Vorlage (die im Quelltext eines Wikipedia-Artikels zu finden ist) und die daraus erstellte Ausgabe auf der Wikipedia-Seite zu der süd-koreanischen Stadt Busan. Der Infobox-Extraktions-Algorithmus entdeckt solche Vorlagen und erkennt deren Struktur mit Hilfe von Techniken der Mustererkennung. Er wählt signifikante Vorlagen aus, die dann verarbeitet und in RDF-Tripel konvertiert werden. Der Algorithmus bearbeitet die so extrahierten Daten nach, um die Qualität der Extraktion zu erhöhen. Beispielsweise werden Verweise zu anderen Artikeln erkannt und in passende URIs übersetzt, Maßeinheiten werden als entsprechende Datentypen zu RDF-Literalen hinzugefügt. Darüberhinaus erkennt der Algorithmus Listen von Objekten, die als RDF-Listen repräsentiert werden. Ein Auszug der aus der Wikipedia-Seite über Busan extrahierten RDF-Tripel ist in Abbildung \ref{fig:n3} dargestellt. Details zur Infobox-Extraktion (inklusive Angaben zur Datentypen-Erkennung, Heuristiken zur Datensäuberung und Generierung von URIs) enthält die Publikation \cite{DBLP:conf/esws/AuerL07}. Alle Extraktionsalgorithmen sind in der Skriptsprache PHP implementiert und unter einer Open-Source-Lizenz veröffentlicht\footnote{\url{http://sf.net/projects/dbpedia}}.
+
+
+\begin{figure}
+\begin{verbatim}
+Busan  full_name   "Busan Metropolitan City"
+Busan  image       Haeundaebeachbusan.jpg
+Busan  rr          "Busan Gwangyeoksi"
+Busan  mr          "Pusan KwangyÅksi"
+Busan  short_name  "Busan (Pusan; ...)"
+Busan  population  "3,657,840 ..."
+Busan  area        "763.46 km2"
+Busan  government  Metropolitan_cities_of_South_Korea
+Busan  divisions   "15 wards (Gu), 1 county (Gun)"
+Busan  region      Yeongnam
+Busan  dialect     Gyeongsang_Dialect
+Busan  map         Busan_map.png
+\end{verbatim}
+\caption{Auszug der aus der Wikipedia-Seite über Busan extrahierten RDF-Tripel.}
+\label{fig:n3}
+\end{figure}
+
+\subsection{Die DBpedia Wissensbasis}
+\label{subsec:Datenpakete}
+
+Die DBpedia Wissensbasis umfassen derzeit Informationen über mehr als 1,95 Millionen "`Dinge"', inklusive 80.000 Personen, 70.000 Orte, 35.000 Musik-Alben, 12.000 Filme. Es enthält 657.000 Verweise zu Bildern, 1.600.000 Verweise zu relevanten externen Webseiten, 180.000 Verweise zu anderen RDF-Daten, 207.000 Wikipedia-Kategorien und 75.000 YAGO-Kategorien (siehe ~\cite{suchanek2007WWW}). DBpedia-Konzepte sind darüberhinaus durch Kurz- und Langzusammenfassungen in 13 Sprachen beschrieben. Insgesamt besteht die DBpedia-Wissensbasis aus ca. 103 Millionen RDF-Tripeln. 
+
+% (Die Tabelle ist nicht übersetzt und nicht ordentlich formatiert. Insgesamt geht es im Artikel um Linked Data. Daher finde ich die Strukturierung der Downloads nicht so wichtig, wenn nicht sogar fehl am Platz, da DBpedia Informationen im Web basierend auf der URI quer durch alle Downloads angeboten werden)Die Wissensbasis wird in Form einer Reihe kleinerer RDF-Dateien zum Download angeboten. Tabelle \ref{tab:DBpediaDatasets} gibt einen Überblick über diese Datenpakete. 
+
+%\begin{table} [h]
+%\vspace{-10pt}
+%\begin{minipage}{\textwidth}
+%	\centering
+%		\begin{tabular}{p{2.4cm}p{8.1cm}r}
+%			\textbf{Datenpaket} & \textbf{Beschreibung} & \textbf{Tripel}\\
+%			\hline
+%\textit{Artikel} & Descriptions of all 1.95 million concepts within the English Wikipedia including titles, short abstracts, thumbnails and links to the corresponding articles. & 7.6M  \\
+%\textit{Erweiterte Zusammenfassungen} & Additional, extended English abstracts. & 2.1M \\
+%\textit{Sprachen} & Additional titles, short abstracts and Wikipedia article links in German, French, Spanish, Italian, Portuguese, Polish, Swedish, Dutch, Japanese, Chinese, Russian, Finnish and Norwegian. & 5.7M \\
+%\textit{Multilinguale Zusammenfassungen} & Extended abstracts in 13 languages. & 1.9M \\
+%\textit{Infoboxen} & Data attributes for concepts that have been extracted from Wikipedia infoboxes. & 15.5M \\
+%\textit{Externe Verweise} & Links to external web pages about a concept. & 1.6M \\
+%\textit{Artikel Kategorien} & Links from concepts to categories using SKOS. & 5.2M  \\
+%\textit{Kategorien} & Information which concept is a category and how categories are related. & 1M \\
+%\textit{Yago Types} & Dataset containing rdf:type Statements for all DBpedia instances using classification from YAGO~\cite{suchanek2007WWW}. & 1.9 M \\ 
+%\textit{Personen} & Information about 80,000 persons (date and place of birth etc.) represented using the FOAF vocabulary. & 0.5M\\
+%\textit{Seitenverweise} & Internal links between DBpedia instances derived from the internal pagelinks between Wikipedia articles. & 62M \\
+%\textit{RDF-Verweise} & Links between DBpedia and Geonames, US Census, Musicbrainz, Project Gutenberg, the DBLP bibliography and the RDF Book Mashup.%\footnote{\url{http://sites.wiwiss.fu-berlin.de/suhl/bizer/bookmashup/}}. 
+%& 180K \\
+%		\end{tabular}\end{minipage}
+%\vspace{0pt}
+%	\caption{Die DBpedia-Datenpakete.}
+%	\label{tab:DBpediaDatasets}
+%\vspace{-15pt}
+%\end{table}
+
+%Einige Datenpakete (wie z.B. die \textit{Personen-} oder \textit{Infobox}-Datenpakete) sind semantisch sehr reich, in Bezug darauf, dass sie sehr konkrete und spezifische Informationen enthalten. Andere (wie z.B. das \textit{Seitenverweise}-Datenpaket) enthalten vor allem Meta-Daten (wie z.B. die Verweise zwischen Artikeln) ohne spezifische Semantik. Trotzdem können diese Daten sehr nützlich sein, wenn es z.B. darum geht Metriken für die Distanz zwischen Konzepten zu entwickeln oder die Relevanz von Suchergebnissen zu bewerten.
+
+%\paragraph{Resource Identification.} 
+Jede der 1,95 Millionen Ressourcen in den DBpedia-Datenpaketen ist durch einen eindeutigen URI-Bezeichner der Form \texttt{http://dbpedia.org/resource/\emph{Name}} identifiziert. \emph{Name} ist dabei vom Titel des jeweiligen Wikipedia-Artikels abgeleitet, der sich auch in den Web-Adressen der Wikipedia-Artikel widerspiegelt (z.B. \texttt{http://en.wikipedia.org/wiki/\emph{Name}}). Damit is jede DBpedia-Resource direkt mit dem entsprechenden englischsprachigen Wikipedia-Artikel verküpft. Dies resultiert in einer Reihe von vorteilhaften Eigenschaften der DBpedia-URI-Bezeichner:
+
+\begin{itemize}
+\item Es wird ein breites Spektrum enzyklopädischer Themen abgedeckt.
+\item Die Bezeichner sind Ergebnis eines Gemeinschaftskonsens.
+\item Es existieren klare Regeln für deren Management.
+\item Es existiert eine umfassende textuelle Beschreibung der Konzepte und Verweis zu einer maßgeblichen Webseite (der entsprechenden Wikipedia-Seite).
+\end{itemize}
+
+Die DBpedia Wissensbasis wird in drei verschiedenen Formen über das Web zugänglich gemacht:
+
+\begin{itemize}
+\item Vernetzte Daten: Die Wissensbasis wird in Form vernetzter Daten veröffentlicht. Dies bedeutet, das jede DBpedia URI über das HTTP-Protokoll dereferenzierbar ist.
+\item SPARQL-Endpoint: Der DBpedia SPARQL-Endpoint ermöglicht es Client-Anwendungen, Anfragen an DBpedia über das SPARQL-Protokoll zu stellen. Zusätzlich zur standard-konformen SPARQL-Funktionalität, werden einige Funktionen bereitgestellt, die sich als besonders nützlich zur Generierung spezifischer Benutzerschnittstellen erwiesen haben. Dazu gehört eine Volltext-Suche über RDF-Literale, Aggregat-Funktionen zur statistischen Auswertung insbesondere zum Zählen von Anfrageergebnissen. Der SPARQL-Endpunkt wird durch einen Virtuoso Universal Server\footnote{\url{http://virtuoso.openlinksw.com}} bereitgestellt.
+\item RDF-Datenpakete: Zusätzlich wird die DBpedia Wissenbasis auch in Form mehrerer Datenpakete, die jeweils zwischen einer und 60 Million RDF-Triple enthalten, zum Download angeboten.
+\end{itemize}
+
+% (Verstehe ich nicht, wie hilft der Endpoint Datei Daten zu verknüpfen?)sowie in Form eines SPARQL-Endpunkt bereitgestellt. Die Verfügbarkeit als SPARQL-Endpunkt ermöglicht es Anwendungen dynamisch auf die DBpedia-Daten zu zugreifen und mit anderen Daten zu verknüpfen. Client-Anwendungen senden dabei Anfragen mittels dem SPARQL-Protokoll an den Endpunkt unter der Adresse \url{http://dbpedia.org/sparql}. 
+
+% (Finde ich im Zusammenhang des Papers nicht so wichtig, da es ja ehr um LInked Data als um den SPARQL Endpoint geht)Um den Dienst vor Überlastung zu schützen können Grenzwerte für die Verarbeitungszeiten von Anfragen und die Menge zurückzusendender Ergebnisse spezifiziert werden. So kann z.B. eine Anfrage, die die kompletten Daten des Endpunkts anfragt, zurückgewiesen werden. Die Menge der Anfrageergebnisse von SPARQL-SELECT-Anfragen ist auf 1000 Ergebnisse begrenzt. 
+
+\subsection{DBpedia Benutzerschnittstellen}
+
+Im Folgenden werden verschiedene Benutzerschnittstellen vorgestellt, über die sich die DBpedia Wissensbasis erforschen und abfragen lässt.
+
+% Dieser Abschnit gehört hier in das DBpedia Kapitel, da keine der Anwendungen vernetzte Daten aus unterschiedlichen Quellen nutzt und es sich nach unserer Definition somit nicht um Semantische Mashups handelt.
+
+\subsubsection{Graph-Pattern-Builder}
+
+Verglichen mit anderen Semantic Web Wissensbasen, die derzeit verfügbar sind, haben die DBpedia-Datenpakete eine andere Struktur. DBpedia enthält eine Fülle von relativ ungenau definierten Schema-Elementen, insbesondere RDF-Properties. Darüberhinaus beinhalten die DBpedia-Daten eine enorme Menge an Informationen zu diesem relativ vagen Informationsschema. Für einen Anwender ist es daher sehr schwer zu erkennen, welche Objekte und Properties in Anfragen verwendet werden können. Bestehende Werkzeuge fokussieren zudem meist auf große Mengen in nur einer der beiden Informationskategorien - Daten- oder Schemainformationen. Um Anwender trotz dessen zu befähigen, diese Fülle an Informationen zu erschliessen müssen neue, alternative Benutzerschnittstellen entwickelt werden.
+
+Eine solche neue Benutzerschnittstelle für große und inhomogen strukturierte Daten ist der Graph-Pattern-Builder. Anwender können mit ihm die Wissensbasis mittels Graph-Pattern bestehend aus mehreren Triple-Pattern anfragen. Ein Web-Formular erlaubt die Eingabe der Triple-Pattern. Für jedes Triple-Pattern existieren 3 Formularfelder, in welche Variablen, Objektbezeichner oder Filteroperatoren für Subjekte, Predikate oder Objekte eines Triples eingetragen werden können. Während Nutzer Objektbezeichner in die entsprechenden Formularfelder eintragen wird im Hintergrund (per AJAX-Autovervollständigung) in der Wissensbasis nach passenden Objekten gesucht und diese werden dem Nutzer zur Auswahl angeboten. Die passenden Objekte sind dabei nicht beliebige, in denen der eingegebene Suchbegriff auftritt, sondern die komplette Suchanfrage wird mit dem entsprechenden Suchbegriff ausgeführt und nur solche passenden Resultate werden angeboten, für die letztendlich auch Suchergebnisse für den kompletten Graph-Pattern existieren. Dies ermöglicht den Benutzern Suchanfragen zu stellen, ohne die genaue Stuktur der Wissensbasis zu kennen und welche fast immer Ergebnisse liefern. Abbildung \ref{fig:querybuilder} zeigt den Graph-Pattern-Builder.
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=0.80\columnwidth]{querybuilder}
+	\caption{Formularbasierter Graph-Pattern-Builder für inhomogen strukturierte Wissensbasen wie z.B. DBpedia.}
+	\label{fig:querybuilder}
+\end{figure}
+
+
+\subsubsection{DBpedia Relationship Finder}
+
+Der DBpedia Relationship Finder (Abbildung \ref{fig:relfinder} ist ein Werkzeug um Verbindungen zwischen Objekten in Semantic Web Ontologien aufzudecken. Das bedeutet, dass zwischen zwei gegebenen Objekten, die einen Nutzer interessieren, mehrere mögliche Pfade über verschiedene in der betrachteten Wissensbasis vorhandene Objekteigenschaften präsentiert werden. Momentan wird der Relationship Finder speziell für DBpedia eingesetzt, aber kann mit leichten Änderungen auch für andere RDF-basierte Wissensbasen eingesetzt werden. Im Bereich Social Semantic Web könnten dies zum Beispiel die Analyse von Verbindungen zwischen Personen, Ereignissen und Plätzen sein. Für viele große Wissensbasen wären andere Darstellungsformen wie RDF-Graphen zu unübersichtlich.
+
+\begin{figure}
+\includegraphics[width=\textwidth]{relfinder-action}
+\caption{DBpedia Relationship Finder im Einsatz.}
+\label{fig:relfinder}
+\end{figure}
+
+Auf die Funktionsweise des DBpedia Relationship Finder soll hier nur kurz eingegangen werden: In einem ersten Vorverarbeitungsschritt zerlegt er den vorgegebenen RDF-Graphen in Komponenten, d.h. nicht zusammenhängende Knotenmengen, und speichert einige Zusatzinformationen zu den Objekten in den einzelnen Komponenten. Mit diesen Zusatzinformationen ist der Relationship Finder schnell in der Lage eine Verbindung zwischen zwei Objekten zu ermitteln. Um dann - wie in vielen Fällen gewünscht - auch die kürzesten Verbindungen zwischen Objekten zu errechnen werden entsprechende Abfragen an den zugrundeliegenden Triple Store generiert.
+
+%Im Kontext von Semantischen Mashups ist hier die Aufbereitung der Daten interessant. 
+Jedes Objekt wird als Link zu der entsprechenden Wikipedia-Seite dargestellt. Durch klicken eines Icons erhält man in DBpedia enthaltene Zusatzinformationen zu jedem Objekt. Diese Informationen werden, falls notwendig, als Grafiken, Listen, Links usw. dargestellt.
+
+\section{Semantische Mashups}
+\label{sec:mashups}
+
+Dieser Abschnitt gibt einen Überblick über verschiedene Mashups, die vernetzte Daten nutzen. Es werden sowohl generische Mashups, wie Browser und Suchmaschinen für vernetzte Daten vorgestellt, als auch anwendungsspezifische Portale, wie z.B. der DOAP Store.
+% Würde ich hier lieber nicht aufführen, da die Anwendungen wenig mit Linked Data zu tun haben. Ein umfangreicher Überblick über Semantic Web Anwendungen findet sich darüberhinaus in \url{http://www.activerdf.org/survey/}.
+
+
+%\begin{tabular}{lp{5cm}p{5cm}}
+%                             & Anwendungsspezifisch & Generisch \\
+%vordefinierte Inhaltsquellen & Portale auf basis Verlinkter Daten & Graph-Pattern-Builder, Relationship Finder \\
+%freie Inhaltsquellen         & SMILE Exhibit                     & Semantische Suchmaschinen und Semantic Web Browser \\
+%\end{tabular}
+
+
+\subsection{Generische Browser für Vernetzte Daten}
+\label{subsec:browser}
+
+Generische Browser für Vernetzte Daten ermöglichen die integrierte Darstellung von Daten aus verschiedenen Datenquellen und sowie die Navigation zwischen Datenquellen anhand von RDF-Verweisen. Browser für Vernetzte Daten unterscheiden sich von allgemeinen RDF-Browsern darin, das sie nicht davon ausgehen, dass die zu visualisierenden RDF-Daten bereits lokal in einem Repositorium vorliegen, sondern das sie Daten, je nach Navigationspfad des Nutzers, dynamisch aus dem Web nachladen. Beispiele generischer Browser für Vernetzte Daten sind:
+
+\begin{itemize}
+	\item Tabulator~\cite{tabulator} war der erste verfügbare Browser für Vernetzte Daten. Der Browser wurde von der Arbeitsgruppe um Tim Berners-Lee am Massachusetts Institute of Technology entwickelt. Tabulator visualisiert Vernetzte Daten in Form eines Baums in dem jeder Knoten einer Ressource entspricht. Durch Ausklappen einzelner Ressourcen navigiert der Benutzer zwischen Datenquellen. Zusätzlich zur Baumansicht bietet Tabulator auch die Möglichkeit Abfragen gegen geladene Daten zu stellen und geladene Daten auf einer Landkarte zu visualisieren.
+	\item Der OpenLink RDF Browser\footnote{http://demo.openlinksw.com/DAV/JS/rdfbrowser/index.html} ermöglicht es Vernetzte Daten mittels unterschiedlicher AJAX-Komponenten in Tabellenform, als Graph, als Zeitreihe sowie als Fotoalbum oder auf einer Landkarte darzustellen. Der Browser unterstützt die RDF-Stylesheet-Sprache Fresnel~\cite{Fresnel}.
+	\item Der Zitgist-Browser\footnote{http://browser.zitgist.com/} bietet unterschiedliche Vorlagen zur benutzerfreundlichen Visualisierung bekannter Typen von Daten, wie Personen, Musikern oder Musikalben.
+	\item Der DISCO Browser\footnote{http://sites.wiwiss.fu-berlin.de/suhl/bizer/ng4j/disco/} wurde an der Freien Universität Berlin entwickelt. Ziel war es, einen Browser mit einer minimalistischen Benutzerschnittstelle zu entwerfen, welche die Herkunft von Daten aus unterschiedlichen Quellen klar hervorhebt. Abbildung \ref{fig:BrowserUI} zeigt die Benutzerschnittstelle des DISCO Browsers. Unterhalb der Navigationsbox, werden alle Informationen, die der Browser in unterschiedlichen Datenquellen zu einer Ressource gefunden hat, gemeinsam angezeigt. Am Ende jeder Zeile werden die Datenquellen aufgeführt, aus denen die jeweilige Information stammt.  
+\end{itemize}
+
+\begin{figure}[h]
+	\centering
+		\includegraphics[width=0.95\textwidth]{BrowserUI.png}
+	\caption{Benutzerschnittstelle des DISCO Browsers}
+	\label{fig:BrowserUI}
+\end{figure}
+
+\subsection{Suchmaschinen und Verzeichnisdienste für Vernetzte Daten}
+\label{subsec:suchmaschienen}
+
+Suchmaschinen für Vernetzte Daten verwenden Crawler, die Verknüpfungen zwischen Datensätzen folgen, um Daten aus verschiedenen Web-Datenquellen zu einer lokalen Datenbasis zusammenzufassen. Die Suchmaschinen indizieren diese Datenbasis und ermöglichen es Anfragen gegen die indizierten Inhalte zu stellen.
+
+Beispiele derartiger Suchmaschinen sind:
+
+\begin{itemize}
+	\item Swoogle\footnote{\url{http://swoogle.umbc.edu}} ist einer der ersten Verteter semantischer Suchmaschinen.  Swoogle sucht stichwortbasiert und nutzt damit die Möglichkeiten semantischer Auszeichung nur sehr begrenzt. Technisch basiert Swoogle auf der Lucene Text-Suchmaschine des Apache-Projekts.
+\item Die Semantic Web Search Engine (SWSE)\footnote{http://swse.deri.org} geht einen Schritt weiter, indem zusätzlich zu einem Volltextindex über den Inhalten von Wissensbasen der jeweilige Inhaltstyp indiziert wird. Eine SWSE-Suche kann also auf in den Ergebnissdokumenten gefundene Typen (wie z.B. Personen, Orte etc.) eingeschränkt werden. Diese Typen müssen dabei nicht im Voraus festgelegt werden, sondern werden aus entsprechenden \verb|rdf:type|-Properties (zu Objekten aus den RDF-Dokumenten) gewonnen. Swoogle indiziert derzeit etwa 2,3 Millionen RDF Dokumente.
+\item Die Sindice\footnote{http://www.sindice.com/} Suchmaschine indiziert derzeit etwa 11 Millionen RDF Document. Die Suchmaschine ermöglicht es Semantischen Mashups alle bekannten Dokumente, in der eine spezielle URI verwendet wird, zu finden. 
+\item Falcons\footnote{http://iws.seu.edu.cn/services/falcons/} indiziert derzeit cirka 2 Millionen RDF Documente. Neben der eigentlichen Suchfunktionalität bietet Falcons auch einen Daten-Browser mittels dessen sich die Suchergebnisse analysieren lassen.  
+\end{itemize}
+
+Ein Beispiel eines Verzeichnisdienstes für Verlinkte Daten ist PingtheSemanticWeb.com (PTSW). PingtheSemanticWeb ist ein Web Service, der Aufschluss darüber gibt, welche RDF-Dokumente kürzlich im Web erstellt oder aktualisiert wurden. Autoren und Editoren von solchen Dokumenten benachrichtigen PTSW darüber, indem sie die URL des erstellten oder geänderten Dokuments übermitteln. PTSW ist also eine Art Basiskomponente einer semantischen Suchmaschine, da sie von Crawlern und anderen Software-Agenten genutzt werden kann um herauszufinden, wo zuletzt aktualisierte RDF-Dokumente gefunden werden können.
+
+\subsection{Portale auf Basis Vernetzte Daten}
+\label{subsec:portale}
+
+Portale sind Einstiegspunkte im Web zu bestimmten Themen. Portale greifen dazu auf mehrere Inhaltsquellen zu und aggregieren und präsentieren diese in einer anwendungsdomänenspezifischen Weise. %Vernetzte Daten eignen sich besonders als Informationsquellen für Portale, da sie im Gegensatz zu den klassischen Inhaltssyndikationsmechanismen wie RSS und Atom nicht auf einen bestimmten Inhaltstyp beschränkt sind.
+
+Ein Portal auf der Basis Vernetzter Daten ist zum Beispiel Revyu \footnote{\url{http://revyu.com}}. Revyu ermöglicht es, Dinge beliebiger Art zu bewerten und mit (persönlichen Kommentaren zu versehen). Revyu nutzt nicht nur Vernetzte Daten zum Annotieren von Bewertungen sondern stellt Vernetzte Daten für alle Dinge in der Revyu-Wissensbasis für Dritte bereit. Generell überwiegt bei Revyu der Anteil anwendergenerierter Daten im Gegensatz zur Nutzung bestehender Quellen Vernetzter Daten.
+
+Ein weiteres Beispiel eines semantischen Portals ist DOAP-Store\footnote{\url{http://doapstore.org}}, der Informationen über Forschungs- sowie Open-Source Softwareentwicklungsprojekte bereitstellt. Die Funktionsweise von DOAP-Store unterscheidet sich stark von Revyu. DOAP-Store nutzt keinerlei direkt anwendergenerierten Inhalte, sondern sucht RDF-Dokumente im Web die Informationen enthalten, die mittels des DOAP-Vokabulars\footnote{Description Of A Project: \url{http://usefulinc.com/doap}} ausgedrückt sind. Um entsprechende Dokumente  zu finden nutzt DOAP-Store den Service Ping-The-Semantic-Web Verzeichnisdienst.
+
+\section{Reasoning im Social Semantic Web}
+\label{sec:reasoning}
+
+%Das Modellieren von Wissen ist zentraler Bestandteil des Semantic Webs. (Schön und gut, aber was hat das mit Semantischen Mashups und Vernetzten Daten zu tun? Vieleicht ist folgendes Anwendungsbezogener?).
+
+Mittels in Form von Ontologien repräsentiertem Wissen lässt sich die Funktionalität von Semantischen Mashups weiter verbessern. Dabei wird auf Erkenntnisse innerhalb der Wissensrepräsentation zurückgegriffen, die sich über Jahrzehnte entwickelt haben. Neben der reinen Modellierung von Wissen, das heisst dem Festlegen einer Terminologie und den Beziehungen zwischen diessen Termen, wird dabei auch das ziehen von Schlussfolgerungen (englisch Reasoning) aus dem vorhanden Wissen ermöglicht. Am häufigsten wird dabei sogenanntes deduktives Reasoning betrachtet. Es bedeutet, dass aus explizit gespeicherten Fakten weiteres implizit vorhandenes Wissen ermittelt werden kann. Wir betrachten hier zusätzlich das induktive Reasoning (eine Teildisziplin des maschinellen Lernens), bei dem aus dem vorhandenen Wissen allgemeinere Behauptungen aufgestellt werden. Im Gegensatz zu anderen Bereichen der Wissensrepräsentation sind Wissensmodelle im Social Web oft weniger formalisierbar, sehr groß, unvollständig und oft sogar widersprüchlich. Wir werden beschreiben wie auf diese spezifischen Anforderungen eingegangen werden kann.
+
+\subsection{Überblick über Reasoning}
+
+Das Modellieren von Wissen in Form von Ontologien ist zentraler Bestandteil des Semantic Webs. Ausgehend von frühen Formen der Wissensrepräsentation wie Frames und Semantischen Netzen haben sich seit Ende der 80er Jahre Beschreibungslogiken entwickelt. Aus einer Reihe verschiedener Gründe %\todo{Verweis auf anderes Buchkapitel mit OWL-Semantik-Grundlagen} 
+wurden Beschreibungslogiken als Basis der Ontologiesprache OWL gewählt, die das formale Rückgrat des Semantic Web bildet. Dank dieser logischen Basis haben OWL-Ontologien eine klare Semantik, das heisst neben der rein syntaktischen Repräsentation einer Ontologie kann man ihr auch eine Bedeutung zuweisen. Eine wohldefinierte Semantik bietet die Möglichkeit Schlüsse aus dem gespeicherten Wissen zu ziehen. Mit dem Ziehen solcher Schlüsse speziell im Kontext eines Social Semantic Web befasst sich diese Kapitel.
+
+Die häufigste Form des Reasoning ist dabei das deduktive Reasoning, das heisst aus den explizit gespeicherten Fakten wird implizites Wissen geschlossen. Ein einfaches Beispiel ist folgendes:
+
+%(Könnte man das Beispiel nicht irgendwie auf die LOD Cloud oder zumindestens auf DBpedia beziehen, sonst hörtes sich etwas nach AI EInführungsbuch an.)
+
+\begin{example}[einfaches Reasoning-Beispiel]
+Nehmen wir an unsere Ontologie enthält das Wissen, dass Anna eine Frau ist und jede Mutter auch eine Frau ist:
+\begin{verbatim}
+Anna    rdf:type         Mutter
+Mutter  rdfs:subClassOf  Frau
+\end{verbatim}
+Daraus lässt sich schlussfolgern, dass Anna eine Frau ist.
+\end{example}
+
+Durch die vielfältigen Sprachkonstrukte, die OWL besitzt, kann das ziehen von Schlüssen ein komplexer Prozess sein. Es haben sich unterschiedliche Algorithmen und Programme entwickelt, von denen ein Ansatz in Abschnitt \ref{sec:deduktiv} vorgestellt wird.
+
+Neben dem deduktiven Reasoning möchten wir hier auch auf induktives Reasoning eingehen. Induktives Reasoning ist der Lernprozess bei dem aus vorhandenem Faktenwissen allgemeinere Behauptungen aufgestellt werden. Dies sei wieder an einem kurzen Beispiel illustriert:
+
+\begin{example}[einfaches Lernbeispiel]
+Nehmen wir wieder an es sei eine Ontologie mit folgendem Wissen gegeben:
+
+%(Könnte man das Beispiel nicht irgendwie auf die LOD Cloud oder zumindestens auf DBpedia beziehen, sonst hörtes sich etwas nach AI EInführungsbuch an.)
+
+\begin{verbatim}
+Anna   rdf:type  Frau
+Anna   hasChild  Franz
+Beate  rdf:type  Frau
+\end{verbatim}
+
+Beim induktiven Reasoning wird eine bisher nicht existierende Klasse aus dem Faktenwissen gelernt. Man wählt dazu positive und negative Beispiele für eine Klasse aus. Nehmen wir an ein bisher nicht definiertes Konzept Mutter soll gelernt werden und Anna wird als positives, sowie Beate als negatives Beispiel ausgewählt. Dann kann ein Lernprogramm die Klassendefinition $\concept{Frau} \sqcap \exists \role{hasChild}$ (``Frau mit Kind'' in üblicher Beschreibungslogiksyntax ausgedruckt) aufstellen.
+\end{example}
+
+Im Gegensatz zum deduktiven Reasoning werden beim induktiven Reasoning keine sich aus der Ontologie ergebenden Erkenntnisse gefunden, sondern Behauptungen aufgestellt, die zu dem vorhandenen Wissen passen. Insbesondere kann es mehrere oder keine mögliche Lösungen für ein bestimmtes Lernproblem geben. Wie das induktive Reasoning funktioniert, wird in Kapitel \ref{sec:induktiv} beschrieben. Zuerst soll auf einige Spezifika von Reasoning im Social Semantic Web eingegangen werden.
+
+% fällt weg, da kein eigenes Kapitel mehr
+%Das Buchkapitel ist wie folgt gegliedert: Im Kapitel \ref{sec:anwendung} wird erklärt wozu Reasoning eingesetzt werden kann und im darauf folgenden Kapitel die spezifischen Anforderungen, die sich im Bereich des Social Semantic Web ergeben. Kapitel \ref{sec:deduktiv} und \ref{sec:induktiv} beschreiben dann deduktives beziehungsweise induktives Reasoning genauer. \todo{Sollten wir vielleicht besser erst induktives und deduktives Reasoning beschreibung und dann auf Anwendungen und Spezifika eingehen?}. Kapitel \ref{sec:benchmark} gibt einen Überblick zur Bewertung von Reasoningverfahren. Das Kapitel wird mit einer Zusammenfassung des aktuellen Standes von Reasoning im Social Semantic Web und einem Ausblick in die Zukunft beendet.
+
+% bereits im Text vorhanden
+% Das modellieren von Wissen ist zentraler Bestandteil des Semantic Webs. Dabei wird auf Erkenntnisse innerhalb der Wissensrepräsentation zurückgegriffen, die sich über Jahrzehnte entwickelt haben. Neben der reinen Modellierung von Wissen, das heisst dem Festlegen einer Terminologie und den Beziehungen zwischen diesen Termen, wird dabei auch das ziehen von Schlussfolgerungen (englisch Reasoning) aus dem vorhanden Wissen ermöglicht. Am häufigsten wird dabei sogenanntes deduktives Reasoning betrachtet. Es bedeutet, dass aus explizit gespeicherten Fakten weiteres implizit vorhandenes Wissen ermittelt werden kann. [kurzes Beispiel einfügen] Wir betrachten hier zusätzlich das induktive Reasoning (auch als Lernen bezeichnet) bei dem aus dem vorhandenen Wissen allgemeinere Behauptungen aufgestellt werden. [kurzes Beispiel einfügen]
+%Wissensmodelle im Social Web sind oft weniger formalisierbar, sehr groß, unvollständig und oft sogar widersprüchlich. Daher müssen gängige Verfahren des Reasonings für das Social Semantic Web adaptiert werden. [weiter auf Spezifika eingehen]
+
+% solche Details würde ich hier weglassen, da das den Rahmen sprengt
+% Regelbasiertes Schließen
+% Tableaux Reasoning
+
+
+\subsection{Social Semantic Web Anforderungen}
+\label{sec:spezifisch}
+
+Wissensmodelle im Social Web sind oft weniger formalisierbar, sehr groß, unvollständig und oft sogar widersprüchlich. Daher müssen gängige Verfahren des Reasoning für das Social Semantic Web adaptiert werden. Beispiele für häufig auftretende Reasoningprobleme sind:
+
+%\todo{foaf:knows ist nicht als symmetrisch definiert. Welche Erweiterungen genau?}
+
+\paragraph{Symmetrie.} Eines der meist verwendeten Vokabulare im Social Semantic Web ist das Friend-of-a-Friend Vokabular. Es erlaubt z.B. Aussagen der Form:
+\begin{verbatim}
+Klaus  foaf:knows  Petra .
+\end{verbatim}
+Erweiterungen zum FOAF-Vokabular (z.B. \cite{foafext}) schlagen vor diese Beziehung weiter zu spezialisieren wie z.B. mit Eigenschaften \verb|friendOf|, \verb|spouseOf| oder \verb|siblingOf|. Diese Beziehungen sollten dabei in einer Social Semantic Web Applikation als symmetrische Beziehung interpretiert werden und folglich soll aus der Aussage:
+\begin{verbatim}
+Petra  spouseOf  Klaus .
+\end{verbatim}
+die Aussage
+\begin{verbatim}
+Klaus  spouseOf  Petra .
+\end{verbatim}
+geschlussfolgert werden können. Auch DBpedia enthält eine Reihe solcher symmetrischer RDF-Properties.
+
+\paragraph{Klassenhierarchie.} Wissensbasen im Social Semantic Web enthalten oft eine Form von Kategorien oder Klassenhierarchie. DBpedia z.B. enthält über 200.000 Kategorien. Kategorien sind z.B. ''Städte in Europa``, ''Städte in Deutschland`` und ''Städte in Sachsen``, die erste und zweite, sowie die zweite und dritte sind durch eine Sub-Kategorienbeziehung miteinander verknüpft, nicht jedoch ''Städte in Europa`` und ''Städte in Sachsen``. Eine Social Semantic Web Applikation soll nun in der Lage sein dieses implizite Wissen der transitiven Sub-Klassenbeziehung zu nutzen.
+
+\paragraph{Klassifikation.} Das Inferenzproblem Klassifikation tritt auf, wenn zu einer gegebenen Klasse (oder Kategorie) alle durch diese Klasse umfassten alle Instanzen ermittelt werden sollen. Nicht immer sind diese Klassen-Instanzen-Beziehungen explizit (mittels der RDF-Property \verb|rdf:type|) gegeben. So sind Artikel über Städte in Sachsen zwar der Kategorie ''Städte in Sachsen`` zugeordnet, nicht jedoch den Kategorien ''Städte in Deutschland`` oder ''Städte in Europa``. Eine Social Semantic Web Applikation wie der im vorangegangenen Abschnitt vorgestellte Graph-Pattern-Builder sollte solche impliziten Informationen jedoch berücksichtigen.
+
+Wie der Anwendungsfall DBpedia zeigt ist eine der wichtigsten Anforderungen von Social Semantic Web Anwendungen an Reasoningalgorithmen Skalierbarkeit. Im folgenden Abschnitt stellen wir eine Strategie vor, wie skalierbares Reasoning auf der Basis relationaler Datenbanken, wie sie für die Implementierung von Semantischen Mashups und Social Semantic Web Anwendungen eingesetzt werden, realisiert werden kann.
+
+\subsection{Skalierbares Reasoning auf Basis relationaler Datenbanken}
+\label{sec:deduktiv}
+
+%(Dieser Abschnitt irgoriert komplett die Arbeit zu Deduktiven Datenbanken)
+
+In Semantic Web Anwendungen werden meist entweder relationale Datenbanken oder spezialisierte Triple-Stores zur persistenten Speicherung eingesetzt. Vertreter spezialisierter Triple-Stores sind Sesame \cite{oai:CiteSeerPSU:450748} oder Redland \cite{oai:CiteSeerPSU:434800}, auf relationaler Datenbankbasis arbeitet z.B. RAP \cite{rap}. %und Virtuoso \cite{aksw.org/cssw07/paper/5_erling.pdf}. (Anmerkung: Virtuoso hat einen Objektrelationalen-Kern macht aber alle RDF Operationen über eine generische RDF Datenbank)
+Reasoner arbeiten dagegen meist im Hauptspeicher und mit Datenstrukturen, die mit relationalen Datenbanken inkompatibel sind. Die Serialisierung, Übertragung und Verarbeitung von Wissensbasen zwischen Datenbank oder Triple-Store und Reasoner ist sehr zeitaufwendig daher für Semantic Web Anwendungen mit großen Wissensbasen oft nicht praktikabel.
+
+Eine Alternative sind regelbasierte Inferenzsysteme, die direkt auf dem Tripel-Datenmodel arbeiten. In der Arbeit von Royer und Quantz~\cite{Royer93} werden Beschreibungslogiken analysiert und ein System (für bestimmte Reasoningaufgaben) vollständiger Inferenzregeln aufgestellt. Diese Inferenzregeln lassen sich direkt in Anfragen auf dem Triple-Datenmodel übersetzen, deren Anfrageergebnisse können als inferierte Aussagen direkt wieder zur Wissensbasis hinzugefügt werden.
+
+Wir illustrieren das mit SPARQL-Anfragen für die drei erwähnten Reasoningaufgaben Symmetrie, Klassenhierarchie und Klassifikation:
+
+%(Das war kein korrekte SPARQL da variablen falsch verwendet, habe es korrigiert)
+
+\begin{verbatim}
+CONSTRUCT {?i2 ?p ?i1} WHERE {
+	?p   <rdf:type>  <owl:SymmetricProperty> .
+	?i1  ?p           ?i2
+}
+
+CONSTRUCT {?c1 <rdfs:subClassOf> ?c3} WHERE {
+  ?c1  <rdfs:subClassOf>  ?c2 .
+  ?c2  <rdfs:subClassOf>  ?c3
+}
+
+CONSTRUCT {?i <rdfs:type> ?c2} WHERE {
+  ?i   <rdf:type>         ?c1 .
+  ?c1  <rdfs:subClassOf>  ?c2
+}
+\end{verbatim}
+
+Diese drei SPARQL-Anfragen liefern exakt die für Inferenzaufgaben notwendigen Triple. Die Ergebnisse der Anfragen können also zur Wissensbasis hinzugefügt werden und die impliziten Informationen sind damit für weitere Anfragen verfügbar. Die dargestellten Beispiele stellen allerdings nur einen kleinen Teil der Inferenzregeln dar, die aus der OWL-Semantik abgeleitet werden können. Für eine detailliertere und umfassendere Darstellung verweisen wir auf \cite{Royer93} und \cite{owldb}.
+Einige Inferenzregeln lassen sich bislang auch nicht mittels SPARQL-Anfragen ausdrücken, da SPARQL z.B. Funktionen zum Zählen und Aggregregieren von Ergebnissen fehlt. Mit SQL-Anfragen, die auf einem Datenbankschema zur Speicherung von Triple ausgeführt werden, sind entsprechende Inferenzen jedoch möglich. Da die inferierten Aussagen einer Inferenzregel (oder SPARQL/SQL-Anfrage) die Ergebnisse weiterer Inferenzregeln beeinflussen ist eine mehrfache Ausführung der Abfragen bis zum Erreichen eines Fixpunktes notwendig.
+
+Die in diesem Abschnitt beispielhaft umrissene Vorgehensweise zur Implementierung skalierbaren Reasonings auf Basis relationaler Datenbanken hat einige entscheidende Vorteile: Die Algorithmen arbeiten direkt mit der nativen Datenhaltung der Wissensbasen in Semantischen Web Anwendungen, das Serialisieren, Übertragen, De-Serialisieren etc., dass bei Verwendung verschiedener Repräsentationsformen, wie z.B. Datenbank und tableaubasierter Reasoner auftritt, entfällt. Es kann sehr spezifisch festgelegt werden welche Inferenzregeln berücksichtigt werden sollen und welche nicht und es können dadurch wesentliche Geschwindigkeitsverbeserungen für spezifische Reasoningaufgaben erreicht werden.
+
+\subsection{Induktives Reasoning im Social Semantic Web}
+\label{sec:induktiv}
+% \todo{Jens}
+
+Das in der Einleitung des Reasoning-Abschnitts kurz eingeführte induktive Reasoning soll hier kurz dargestellt werden. Das sogenannte Lernproblem (genauer gesagt eine mögliche Variante des Lernproblems) besteht daraus bei gegebenem Hintergrundwissen und positiven und negativen Beispielen eine Konzeptdefinition zu finden, so dass alle positiven Beispiele aus dieser Definition (und dem bereits vorhandenen Hintergrundwissen) folgen, die negativen Beispiele jedoch nicht. Das Problem lässt sich auch für andere Wissensrepräsentationssprachen außer OWL betrachten und wird hauptsächlich im Bereich Induktive Logikprogrammierung \cite{ilp_foundations} erforscht. In der Literatur wurden verschiedene Ansätze zur Lösung des Lernproblems vorgestellt \cite{bari04_copy,bari05,bari07,cheng00}.
+
+\begin{figure}
+{ \center
+\includegraphics[width=0.7\textwidth]{architecture_german}
+}
+\caption{Lernansatz ``generate and test''.}
+\label{fig:learn}
+\end{figure}
+
+Eines der existierenden Lernsysteme ist DL-Learner\footnote{\url{http://dl-learner.org}}, welches als Open Source verfügbar ist\footnote{\url{http://sf.net/projects/dl-learner}}. Eine schematische Darstellung der groben Funktionsweise des DL-Learner und anderer Ansätze findet sich in Abbildung \ref{fig:learn}. Die Funktionsweise beruht darauf, dass ein intelligenter Algorithmus mögliche Konzeptdefinitionen vorschlägt. Diese werden durch einen Reasoner getestet und das dadurch erhaltene Feedback fließt wieder in den Kernalgorithmus ein. Konkrete Beschreibungen der verwendeten Algorithmen im DL-Learner finden sich in \cite{mldm07,property_analysis,alc_learning_algorithm}. Induktives Reasoning beruht in diesem Fall also auf einer potentiell großen Anzahl an deduktiven Reasoninganfragen.
+
+Im Social Semantic Web hat man häufig sehr große verteilte Wissensbasen, so dass sich die Frage stellt ob solche Lernsysteme geeignet sind um in diesem Kontext angewandt werden zu können. Oft sind diese Wissensbasen, wie im Beispiel DBpedia, als vernetzte Daten vorhanden, über die man mit Hilfe eines SPARQL-Endpunkts Anfragen stellen kann. Aus diesem Grund unterstützt das DL-Learner-Tool direkt SPARQL-Endpunkte als Hintergrundwissen. Um eine Skalierbarkeit der Ansätze zu gewähren, wählt der DL-Learner dabei durch mehrere SPARQL-Anfragen einen Teil des im SPARQL-Endpunkt vorhandenen Wissens aus und schickt dieses an den Reasoner. Somit wird beim Lernen nicht das komplette Wissen berücksichtigt, sondern nur ein für das konkrete Problem möglichst relevanter Teil ausgewählt.
+
+Als Beispiel für ein solches Problem kehren wir wieder zu DBpedia als eine der größten Wissensbasen zurück. Nehmen wir an jemand stellt eine Anfrage mit den positiven Beispielen ``Pythagoras'', ``Philolaus'' und ``Archytas'' und den negativen Beispielen ``Socrates'', ``Plato'', ``Zeno of Elea'' und ``Democritus'' mit DBpedia als Hintergrundwissen. Das kann zum Beispiel für eine Internetrecherche relevant sein, bei der jemand Wissen über bestimmte Personen (die positiven Beispiele) und zu ihnen semantisch verbunden Personen gewinnen möchte, aber andere Personen, die nicht Teile seiner Recherche sind (die negativen Beispiele) ausschließt. Das DL-Learner-SPARQL-Modul setzt dann zuerst Anfragen an den DBpedia SPARQL-Endpunkt ab um relevante Informationen zu erhalten. Das gewonnene Wissen in OWL-Form wird dem Reasoner mitgeteilt und der Kernalgorithmus gestartet. Dieser ermittelt in diesem Fall $\concept{mathematician} \sqcap (\concept{physicist} \sqcup \concept{vegetarian})$ (Mathematiker, die zusätzlich entweder Vegetarier oder Physiker sind) als eine mögliche Lösung. Alle positiven und keines der negativen Beispiele folgen aus dieser Definition. Mit diesen Techniken könnten in Zukunft auch für das Social Semantic Web typische große Wissensbasen, die über einen SPARQL-Endpoint oder als vernetzte Daten (siehe Abschnitt \ref{sec:linkeddata}) publiziert worden, analysiert werden oder neue Klassen in diesen Wissensbasen gelernt werden insbesondere um das Anfragen großer heterogener Datenbestände zu unterstützen.
+
+% würde ich alles weglassen um Reasoning nicht zu sehr in den Mittelpunkt zu stellen
+%\subsubsection{Lernen von Ontologie-Konzepten}
+%\subsubsection{Kurzbeispiele zur Analyse und Konstruktion von Ontologien}
+%\subsection{Benchmarking von Reasoningansätzen}
+%\label{sec:benchmark}
+%\todo{Sören, Jens}
+%LUMB, ELUMB
+
+\section{Zusammenfassung und Ausblick}
+\label{sec:conclusion}
+
+Dieses Kapitel stellte mit dem Web-Datenintegrations-Rahmenwerk Vernetzte Daten, dem DBpedia-Projekt zur Extraktion strukturierter Informationen aus Wikipedia und Ansätzen zur Lösung spezifischer Inferenzprobleme drei zentrale Elemente semantischer Mashups vor. Wir haben einen Überblick über erste Beispiele semantischer Mashups gegeben. Die vorgestellten Ansätze und Beispiele sind jedoch nur der Beginn einer Entwicklung, die einerseits weitere technologische Felder erfassen und andererseits die bestehenden Ansätze weiter vertiefen muss um eine nachhaltigen Einfluss auf das Web zu entfalten.
+
+%Die Repräsentation von Daten mittels RDF sowie die Vernetzung von Daten aus verschiedenen Quellen ist nur ein erster, wenn auch sehr wichtiger Schritt zur sauberen Integration von Web-Datenquellen mittels semantischer Technologien. Dieser Abschnitt diskutiert Ansätze zur weitergehenden Integration von Daten aus verschiedenen Quellen im Web. 
+
+
+Herausforderungen, denen wir gegenüberstehen sind zum Beispiel: 
+\begin{itemize}
+	\item Semantische Mashups, die Daten aus einer Vielzahl an Quellen nutzen, sind mit verschiedenen Informationsqualitätsproblemen%Zitate fehlen: ~\cite{chrisDiss,diss-naumann}
+	konfrontiert. Eine Analyse der DBpedia-Datenpakete z.B. zeigt, Informationen oft noch nicht auf eine Weise repräsentiert sind, die die einfache Integration und Querying ermöglichen.
+	\item Wenn es um die Integration personenbezogener Daten im Web geht ist der Schutz der Privatsphäre sowie die klare Auszeichnung der Daten mit Lizenzinformationen, die bestimmen wofür Daten verwendet werden dürfen, essenziell. Erste Ansätze in dieser Hinsicht ist die Abbildung von Privacy-Präferenzen z.B. mittels P3P oder das Lizenzieren von Semantic Web Inhalten mittels Creative Commons.
+	\item Projekte wie CyC oder SUMO habe relativ umfassende Upper-Level-Ontologien, Klassifikationssysteme und Informations-Taxonomien hevorgebracht. Im Rahmen von DBpedia wurden vor allem Instanz-Daten aus Wikipedia extrahiert. Wir sind zuversichtlich, dass eine stärkere Integration von Upper-Level-Ontologien und DBpedia ein enormes Potential zur Erleichterung von Informationsintegration im Web birgt.
+	\item Die erwähnte Integration von Upper-Level-Ontologien und Instanzdaten kann andererseits dazu beitragen Inkonsistenzen und Lücken in Informationsquellen und Wissensbasen des sozialen Webs (wie z.B. Wikipedia) aufzudecken und zu schließen.
+	\item Das semantisch reichste DBpedia-Datenpacket resultiert aus der Infobox-Extraktion. Dies wurde bislang nur für die englische Wikipedia-Version erstellt. Die Erstellung von Infobox-Extraktionen für weitere Sprachversionen birgt das Potential die DBpedia-Wissensbasis wesentlich zu vergrößern, stellt uns aber andererseits vor die Herausforderungen diese verschiedenen Sprachversionen sinnvoll zu integrieren.
+%Moving beyond the DBpedia extraction methods, e.g. for knowledge from semi-structured content / cleansing methods to distinguish important from irrelevant information (e.g. about formatting), and possibly-correct from provably incorrect information.
+%Exploitation of synergies between Wikipedia versions in different languages (e.g. quality assurance tools to the Wikipedia community). Methods for (semi-) automatic consistency checks for Wikipedia content.
+%Develop methods to interlink DBpedia with a other open data-sources and knowledge bases (e.g. OpenCyc, SUMO, Freebase).
+%Tighter integration with Wikipedia, e.g. live updates of the Dbpedia data
+\end{itemize}
+
+Viele dieser Probleme können gelöst werden, indem bestehende Ansätze und Technologien sinnvoll kombiniert und erweitert werden. Wir sind überzeugt, dass eine solche iterative Weiterentwicklung und Konsolidierung des Konzeptes semantischer Mashups letztendlich einen entscheidenden Beitrag leisten wird das Potential semantischer Repräsentationen für Suchfunktionen und Informationsaustausch im Netz zu realisieren.
+
+\bibliographystyle{plain}
+\bibliography{SoerenAuer,New,chris}
+
+\end{document}

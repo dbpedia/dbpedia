@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = displacement
+| rdfs:domain = AutomobileEngine
+| rdfs:range = Volume
+| rdf:type = owl:FunctionalProperty
+}}

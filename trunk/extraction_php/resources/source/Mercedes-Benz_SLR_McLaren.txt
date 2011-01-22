@@ -1,0 +1,195 @@
+{{Infobox Automobile
+| image = [[Image:Mercedes-Benz SLR McLaren 2 cropped.jpg|250px|A silver SLR McLaren on display at the 2006 European Motor Show in Brussels.]]
+| name = Mercedes-Benz SLR McLaren
+| manufacturer = [[McLaren Automotive]]
+| parent_company = [[Daimler AG]]
+| aka =
+| production = 2003–2009
+| assembly = [[Woking]], [[Surrey]], [[England]]
+| predecessor =
+| successor = [[Mercedes-Benz SLS AMG]]
+| class = [[Grand tourer]]
+| body_style = 2-door [[coupé]]<br />2-door [[roadster]]
+| layout = [[Front mid-engine, rear-wheel drive layout|Front mid-engine, rear-wheel drive]]
+| platform =
+| engine = 5.4 L [[supercharger|supercharged]] [[V8 engine|V8]] ([[Mercedes-Benz M113 engine#M155 ML55|M115 ML55]])
+| transmission = 5-speed [[automatic transmission|automatic]]
+| wheelbase = {{convert|2700|mm|in|abbr=on}}
+| length = {{convert|4656|mm|in|abbr=on}}
+| width = {{convert|1908|mm|in|abbr=on}}
+| height = {{convert|1261|mm|in|abbr=on}}<br />2006–08: {{convert|1252|mm|in|abbr=on}}
+| weight = {{convert|1768|kg|lb|abbr=on}}
+| related =
+| designer =
+}}
+The '''Mercedes-Benz SLR McLaren''' is an [[United Kingdom|Anglo]]-[[Germany|German]] [[supercar]] jointly developed by [[Mercedes-Benz]] and [[McLaren Automotive]], built in [[Portsmouth]] and the [[McLaren Technology Centre]] in [[Woking]], [[Surrey]], [[England]]. At the time Mercedes-Benz owned 40% of the [[McLaren Group]].
+
+Due to the presence of the automatic gear box, [[front mid-engine, rear-wheel drive layout|front mid-engine]]d arrangement and its driving characteristics lead some commentators to classify the SLR McLaren as a [[grand tourer|GT]] whose rivals can be considered to be vehicles like the [[Aston Martin]] [[DBS V12]] and [[Ferrari 599 GTB Fiorano]]. Mercedes decided to drop the SLR due to lack of sales in late 2007.
+
+SLR stands for "Sport, Leicht, Rennsport" (sport, light, racing). Mercedes-Benz has stated that they will build 3500 SLRs in a span of 7 years, with an annual production of 500 cars.<ref name="motoring.co.za">{{cite web |url=http://www.motoring.co.za/index.php?fArticleId=3115731 |title=1000th 'modern Silver Arrow' from McLaren |accessdate=2007-07-10 |publisher=motoring.co.za }}</ref> The car's base price is [[Pound sterling|GB£]]300,000 (approx. [[US$]]495,000 or [[Euro|€]]346,000, c. 2009).<ref>[http://www.mercedes-benz.ca/index.cfm?ID=4152 Mercedes-Benz Canada<!-- Bot generated title -->]</ref> However as demand was insufficient to meet targeted sales numbers, production came to an end in 2009 as planned.<ref name="worldcarfans.com">{{cite web|url=http://www.worldcarfans.com/9080402.010/mercedes-ends-slr-production-in-2009 |title=Mercedes Ends SLR Production in 2009 |publisher=Worldcarfans.com |date= |accessdate=2009-11-10}}</ref>
+
+==History==
+The Mercedes-Benz SLR McLaren is inspired by the [[Mercedes-Benz 300 SLR]] of 1955, based on the W196 F1 car, yet named after the road-going [[300SL Gullwing]]. On [[4 April]] [[2008]], Mercedes announced they will cease production of the SLR. The last of the coupes rolled off the production line at the end of 2007 and the roadster version is due to be discontinued in early 2009.
+
+==Technical Highlights==
+===Brakes===
+The SLR features [[Sensotronic]], a type of [[brake-by-wire]] system.<ref>[http://www.mclarenautomotive.com/features/racingline/2003-10Mercedes-BenzSLRMcLaren-The%20Road%20to%20Perfection.pdf ]{{Dead link|date=November 2009}}</ref> The [[disc brake|brake disc]]s are carbon-ceramic (in the front only) and provide better stopping power and fade resistance than steel discs when operating under ideal working temperature. Mercedes-Benz claims these discs are fade resistant to {{convert|1200|°C|°F|sigfig=2}}. The front discs are internally vented and {{convert|370|mm|in|abbr=on}} in diameter. 8 piston [[Disc brake#Calipers|calipers]] are used. Rear discs are {{convert|360|mm|in|abbr=on}} in diameter with 4 piston calipers. During wet conditions the calipers automatically skim the surface of the discs to keep them dry.
+[[Image:Mercedes SLR McLaren 2008.JPG|right|thumb|Rear view of the SLR McLaren Roadster]]
+To improve braking performance there is an automatic air brake, when engaged the rear elevation angle of the rear spoiler is set to 65 degrees. The additional rear downforce in addition to the markedly increased aerodynamic drag increases peak deceleration ~90%.
+
+===Aerodynamics===
+The SLR features active aerodynamics; there is a spoiler mounted on the rear integral air brake flap. The spoiler increases downforce depending on its angle of elevation (angle of attack). At speeds above {{convert|95|km/h|mph|abbr=on}} the spoiler/brake automatically raises to 10 degrees (15 in 722 edition), when demanded via the driver's switch, the elevation can be increased to 30 degrees (35 in 722 version) for increased rear downforce, at the cost of increased steady state drag.
+
+===Engine===
+[[Image:Mercedes Benz SLR McLaren4.jpg|thumb|right|The SLR McLaren sports a hand-built 5.4-litre, supercharged V8 engine.]]
+The SLR sports a {{convert|232|kg|lb|abbr=on}} hand-built {{convert|5439|cc|L cuin|abbr=on}}, supercharged, all-aluminium, [[SOHC]] [[V8]] engine. The cylinders are angled at 90 degrees with three valves per cylinder and lubricated via a dry sump system. The compression ratio is 8.8:1 and the bore and stroke is 97 millimetre (3.82&nbsp;in) and 92 millimeters (3.62&nbsp;in), respectively. The Lysholm-type twin-screw supercharger rotates at 23000 revolutions per minute and produces 0.9 bar (13 psi) of boost. The compressed air is then cooled via two intercoolers. The engine generates a maximum power of {{convert|626|PS|kW hp|abbr=on}}@6500rpm and maximum torque of {{convert|780|Nm|lbft|abbr=on}}@3250-5000rpm.<ref>{{cite web|url=http://www.slr-uk.com/range_performance.php?model=slr |title=Mercedes SLR McLaren - Model Range - Performance |publisher=Slr-uk.com |date= |accessdate=2009-11-10}}</ref>
+
+Unlike most of its contemporaries, its engine is front-mid mounted. McLaren took the original concept car designed by Mercedes and moved the engine {{convert|1|m|in|1}} behind the front bumper, and around {{convert|50|cm|in|1}} behind the front axle. They also optimized the design of the center firewall.
+
+===Transmission===
+The SLR uses [[5G-TRONIC|AMG SPEEDSHIFT R]] 5-speed automatic transmission with 3 manual modes. For durability Mercedes selected a 5-speed transmission rather than their 7-speed gearbox which was more complex and used more parts.
+
+===Performance===
+[[Image:Mercedes SLR C199 2007 amk.jpg|thumb|A Mercedes-Benz SLR in motion]]
+{{Listen|filename=Mercedes-Benz SLR McLaren 722.ogg|title=Mercedes-Benz SLR McLaren 722|description=Mercedes-Benz SLR McLaren 722 at Goodwood Festival of Speed 2009}}
+
+The car uses carbon fibre for its entire body construction in an attempt to keep the weight low. Despite CFRP materials the total curb weight is {{convert|1768|kg|lb|0|abbr=on}}. The following tests have proven that the SLR can achieve a 0-{{convert|100|km/h|mi/h|0|abbr=on}} in times less than the claimed 3.7 seconds and reach a top speed of {{convert|334|km/h|mi/h|0|abbr=on}}<ref>[http://www.mclarenautomotive.com/cars/slr_specifications.htm ]{{Dead link|date=November 2009}}</ref>.
+
+''Car and Driver'' achieved a 0-{{convert|60|mi/h|km/h|-1|abbr=on}} time of 3.6 seconds, and a quarter-mile time of 11.6 seconds at {{convert|125|mi/h|km/h|0|abbr=on}}  C&D suggests the times may be even lower if temperatures were lower. Motor Trend tested the SLR and achieved a 0-60&nbsp;mph time of 3.6 seconds in April 2006. ''Car and Driver'' achieved top gear acceleration 30-50&nbsp;mph and 50-70&nbsp;mph times of 1.7 and 2.4 seconds, which are the fastest ever recorded by the magazine in a production car. The SLR also pulled 0.97 g on the skidpad.[http://www.caranddriver.com/content/download/99780/1294937/version/1/file/CD01_SLR.pdf January 2005]
+
+''Road and Track'' tested the car in their [http://www.roadandtrack.com/assets/download/0507_slr_data_panel.pdf July 2005 Road Test] and reached {{convert|60|mi/h|km/h|0|abbr=on}} from a standstill in 3.5 seconds. The 0 - {{convert|100|mph|km/h|abbr=on}} sprint was achieved in 7.5 seconds and a quarter mile run was completed in 11.5 seconds at {{convert|126|mph|km/h|abbr=on}}.
+
+In June 2004 the SLR was tested at Nardo and performed the 0-{{convert|100|km/h|mph|abbr=on}} exercise in 3.8 seconds, 0-{{convert|200|km/h|mi/h|0|abbr=on}} in 10.3 seconds and 0-{{convert|300|km/h|mph|abbr=on}} in 30.4 seconds.{{Citation needed|date=June 2008}} Their 400 metre and kilometre times were 11.4 seconds at {{convert|128|mph|km/h|abbr=on}} and 20.6 seconds at {{convert|270|km/h|mph|abbr=on}} respectively. They also reached its claimed topspeed {{convert|334|km/h|mph|abbr=on}}.
+
+==Comparison==
+<!-- Deleted image removed: [[Image:Mercedes-Benz-SLR-McLaren in Kyiv Ukraine.JPG|thumb|right|A Mercedes-Benz SLR McLaren on [[Kiev]] streets, [[Ukraine]]]] -->
+Despite its near 2-ton weight, the fuel economy is generally better than the lighter [[Lamborghini Murciélago]], and even its lighter, less expensive, less powerful sibling, [[Lamborghini Gallardo|Gallardo]].<ref name="yahooautos-sidebyside">{{cite web |url=http://autos.yahoo.com/newcars/comparison/results.html;_ylt=AisWMU40I0.iNW3Qrc5YwC0dc78F?carid0=17369&carid1=18929&carid2=18931&pagetitle=specifications/ |title=Yahoo Autos: Side by Side Comparison |accessdate=2007-07-10 |publisher=Yahoo! Autos }}</ref> Still, on the Episode 1 from Season 11 of ''[[BBC]]'' car show ''[[Top Gear (current format)|Top Gear]]'' the Lamborghini Murciélago SV performed as well as the SLR McLaren 722 Edition during a race special in Abu Dhabi. Also, the same show put the SLR and the [[Porsche Carrera GT]] on its track, and after multiple attempts, the [[Porsche]] beat the SLR-McLaren by just over a second (1:19.8 vs. 1:20.9<ref>{{cite web|url=http://www.bbc.co.uk/topgear/show/powerlaps.shtml |title=Top Gear - Power Laps |publisher=BBC |date=2008-10-20 |accessdate=2009-11-10}}</ref>). However, on a separate race around their short track, the SLR was fractionally quicker than the Carrera GT. In a straight line, the SLR is quicker after around 150 miles per hour.
+
+==Variants==
+===722 Edition===
+<!-- Image with inadequate rationale removed: [[Image:Mercedes-Benz 300 SLR.jpg|thumb|left|150px|The [[Mercedes-Benz 300 SLR]] with number "722" at the 1955 Mille Miglia.]] -->
+[[Image:Mercedes SLR C199 722Edition.jpg|thumb|right|The Mercedes-Benz 722 Edition features some upgraded styling.]]
+[[Image:TO722Roadster09.JPG|thumb|right|SLR McLaren 722 Roadster Variant.]]
+
+A new version was introduced in 2006 called the '''Mercedes-Benz SLR McLaren 722 Edition'''. The "722" refers to the victory by [[Stirling Moss]] and his co-driver [[Denis Jenkinson]] in a Mercedes-Benz 300 SLR with the starting number 722 (indicating a start time of 7:22 a.m.) at the [[Mille Miglia]] in 1955.
+
+The "722 Edition" includes an engine rated {{convert|650|PS|kW hp|abbr=on}}@6500rpm and {{convert|820|Nm|lbft|abbr=on}}@4000rpm, with top speed of {{convert|337|km/h|mph|abbr=on}} ({{convert|3|km/h|mph|abbr=on}} faster than the standard SLR). 19-inch light-alloy wheels were used to reduce unsprung weight, while modifications were also made to the suspension, with a stiffer [[shock absorber|damper]] setup and {{convert|10|mm|in|abbr=on}} lower ride height introduced for improved handling. Larger {{convert|390|mm|in|abbr=on}} diameter front brakes and a revised front air dam and rear [[diffuser (automotive)|diffuser]] were fitted.<ref name="autoblog">{{cite web |url=http://www.autoblog.com/2006/07/10/mercedes-benz-slr-722-boosts-performance-honors-past/ |title=Mercedes-Benz SLR 722 boosts performance, honors past |first=Alex |last=Nunez |date=2006-07-10 |accessdate=2007-07-10 |publisher=Autoblog }}</ref>
+
+Exterior changes, other than the larger {{convert|19|in|mm|sing=on}} black light-alloy wheels, include red "722" badging, hearkening back to the original 722 racer, and slightly different taillights and headlamps.
+
+The SLR 722 can go from 0 to {{convert|100|km/h|mph|abbr=on}} in 3.6 seconds, {{convert|200|km/h|mph|abbr=on}} in 10.2 seconds and {{convert|300|km/h|mph|abbr=on}} in 21.4 seconds and can reach a top speed of {{convert|337|km/h|mph|abbr=on}}.
+
+===Roadster===
+[[Image:2008 SLR McLaren Roadster.JPG|thumb|right|2008 Mercedes-Benz SLR McLaren roadster]]
+A roadster version of the SLR went on sale in September 2007 for £350,000 ($711,065 U.S.). It uses the same supercharged V8 AMG power plant as its coupé siblings, developing {{convert|626|PS|kW hp|abbr=on}}, to propel it to a top speed of {{convert|332|km/h|mph|abbr=on}} and enable 0-{{convert|100|km/h|mph|abbr=on}} acceleration time of 3.8 seconds.
+
+However, being a convertible the roadster will have to be burdened with extra weight and this will affect performance and handling. The Roadster's roof, however, is made from a "newly developed material" and hence will not take the form of a folding metal arrangement, as is now common on many modern cars. Following a manual unlatching, it takes a mere 10 seconds to fold away electrically. According to an official document from Mercedes, the cabin of the roadster is capable of allowing conversation between driver and passenger up to a speed of {{convert|200|km/h|mph|abbr=on}} with the roof retracted. This roadster is aimed to compete against other [[sports cars]] such as the [[Pagani Zonda]] F Roadster.<ref name="edmunds-roadster">{{cite web |url=http://www.edmunds.com/insideline/do/News/articleId=121333 |title=Goodwood Goodies: SLR McLaren Roadster |date=2007-06-20 |accessdate=2007-06-25 |publisher=Edmunds }}</ref>
+
+===Roadster 722 S (2009-)===
+It is a limited (150 unit) version of 722 coupe. It can reach {{convert|100|km/h|mph|abbr=on}} from standstill in 3.7 seconds and has top speed of {{convert|335|km/h|mph|abbr=on}}.
+
+The model went on sale on 2009-01-01.<ref>[http://www.autoblog.com/2008/09/29/mercedes-benz-reveals-slr-mclaren-roadster-722-s/ Mercedes-Benz reveals SLR McLaren Roadster 722 S]</ref>
+
+===722 GT (2007-)===
+[[Image:Mercedes SLR 722 GT.jpg|thumb|right|One of 21 SLR 722 GTs at the [[Goodwood Festival of Speed]].]]
+The 722 GT is a tuned version of the SLR 722 which is developed for a one-make racing series.  The cars are built by [[Ray Mallock Ltd.]] with approval from Mercedes-Benz.  The car features new wider bodywork to accommodate {{auto in|19}} OZ racing wheels. The front grill vents are removed and larger, free flowing air extractors sit on the hood and flank the side of the car. The rear now has a racing wing and diffuser.
+
+Under the body, the car has shed {{convert|398|kg|lb|abbr=on}} and reduced its dry weight to {{convert|1300|kg|lb|abbr=on}} . The engine remains in relatively stock specification but now produces {{convert|680|PS|kW hp|abbr=on}} and {{convert|830|Nm|lbft|abbr=on}} at 1.75 bar (175 kPa) boost. Inside, the car is stripped out with only the essential functions being controlled from a carbon fiber binnacle. New carbon fiber door panels and full roll cage complete the transformation.
+
+Renntech announced 21 SLR McLaren 722 GT would be available to the North American market exclusively through [[RENNtech]], for €795,000 (1.2 million USD).<ref>[http://www.autoblog.com/2007/12/20/coming-to-america-mercedes-slr-mclaren-722-gt/ Coming to America: Mercedes SLR McLaren 722 GT]</ref>
+
+===Stirling Moss (2009-)===
+The SLR Stirling Moss is a limited (75 vehicles) edition of the series, which uses a speedster styling that does not include roof or windscreen. The design is based on the [[Mercedes-Benz 300 SLR]] race car. It is the last series of the McLaren SLR built under the partnership between Mercedes-Benz and McLaren.
+
+The supercharged V8 engine is rated {{convert|650|PS|kW hp|abbr=on}}. The car's top speed is {{convert|350|km/h|mph|abbr=on}} with acceleration from 0–100&nbsp;km/h under 3.5 seconds. The car is approximately {{convert|200|kg|lb|abbr=on}} lighter than the regular model.<ref>{{cite web |url=http://www.auto-motor-und-sport.de/news/auto_-_produkte/hxcms_article_513580_13987.hbs |title=Mercedes baut 75 SLR McLaren Speedster |publisher=Auto Motor & Sport |accessdate=2008-10-17}}</ref>
+
+The SLR Stirling Moss was set to begin in June 2009, after SLR Roadster's production ended in May 2009. By December 2009 all 75 cars will be produced. SLR Stirling Moss has MSRP of €750,000 and will be available only to current SLR owners.<ref>[http://www.autoblog.com/2008/12/18/officially-official-mclaren-slr-stirling-moss-to-bow-in-detroit/ Officially Official: McLaren SLR Stirling Moss to bow in Detroit]</ref>
+
+The vehicle was unveiled in 2009 [[North American International Auto Show|NAIAS]].<ref>[http://www.autoblog.com/2009/01/10/detroit-2009-mercedes-benz-unveils-mclaren-slr-stirling-moss-ea/ Detroit 2009: Mercedes-Benz unveils McLaren SLR Stirling Moss early]</ref>
+
+===Mansory Renovatio===
+
+===Hamman Volcano===
+
+==Sales==
+{| class="wikitable"
+|-
+! Calendar Year
+! Total
+! United States 
+|-
+| 2003 || ||n/a<ref>{{cite web|url=http://www.theautochannel.com/news/2005/01/04/313903.html |title=2004 Highest Year on Record for Mercedes-Benz USA |publisher=Theautochannel.com |date= |accessdate=2009-11-10}}</ref>
+|-
+| 2004 || ||45
+|-
+| 2005 ||615{{Citation needed|date=November 2009}} ||200<ref>{{cite web|url=http://www.theautochannel.com/news/2007/01/03/032870.html |title=Mercedes-Benz Rings in the New Year with Record 2006 Sales |publisher=Theautochannel.com |date= |accessdate=2009-11-10}}</ref>
+|-
+| 2006 ||261 ||141
+|-
+| 2007 ||275 ||104<ref>{{cite web|url=http://www.emercedesbenz.com/Jan09/05_001548_Mercedes_Benz_USA_Sales_Drop_32_Percent_In_December_2008.html |title=Mercedes-Benz USA's Sales Drop 32.1 Percent In December 2008 &#124; eMercedesBenz - The Unofficial Mercedes-Benz Weblog |publisher=eMercedesBenz |date=2009-01-05 |accessdate=2009-11-10}}</ref>
+|-
+| 2008 || ||106
+|}
+
+Total sales were 615 units in 2005, 261 units in 2006, and 275 units in 2007, falling well below Mercedes-McLaren's goal of selling 500 units annually.<ref name="worldcarfans.com"/>
+
+==Motorsports==
+
+[[Spencer Pumpelly]] has entered an SLR McLaren in the [[Speed World Challenge]] GT class, driving for [[TRG Motorsports]].<ref>{{cite web|url=http://www.world-challenge.com/drivers/ |title=SCCA Pro Racing SPEED World Challenge - Drivers |publisher=World-challenge.com |date= |accessdate=2009-11-10}}</ref>
+
+==References==
+{{refbegin}}
+*{{cite web |url=http://www.mclarenautomotive.com/cars/slr.htm |title=McLaren Automotive: Mercedes-Benz SLR McLaren |accessdate=2007-06-25 }}
+*{{cite web |url=http://auto.howstuffworks.com/mercedes-slr.htm |title=Howstuffworks "How the Mercedes SLR Works" |first=Ed |last=Grabianowski |accessdate=2007-06-25 }}
+{{refend}}
+
+===Notes===
+{{reflist}}
+
+==External links==
+{{Commons category|Mercedes-Benz SLR McLaren}}
+
+<span class="plainlinks">
+*[http://www.mbusa.com/mercedes/#/slr/ SLR on Mercedes-Benz website]
+*McLaren Mercedes-Benz SLR pages: [http://web.archive.org/web/20080202054024/www.mclarenautomotive.com/cars/slr.htm SLR coupe], [http://web.archive.org/web/20080204080403/http://www.mclarenautomotive.com/cars/slr_roadster_specifications.htm SLR Roadster], [http://web.archive.org/web/20080202054029/www.mclarenautomotive.com/cars/slr_722.htm SLR 722 coupe], [http://www.mclarenautomotive.com/slr/slr-roadster-introduction.php Roadster 722 S]
+*[http://www.renntechmercedes.com/722gt/index.html RENNtech SLR McLaren 722 GT]
+</span>
+
+{{Mercedes-Benz vehicles}}
+
+{{DEFAULTSORT:Mercedes-Benz Slr Mclaren}}
+[[Category:Mercedes-Benz vehicles|SLR McLaren]]
+[[Category:McLaren vehicles]]
+[[Category:Grand tourers]]
+[[Category:Sports cars]]
+[[Category:Roadsters]]
+[[Category:Road vehicles manufactured in the United Kingdom]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2003]]
+[[Category:Hardtop convertibles]]
+
+[[bs:Mercedes-Benz SLR McLaren]]
+[[da:Mercedes-Benz SLR McLaren]]
+[[de:Mercedes-Benz SLR McLaren]]
+[[et:Mercedes-Benz SLR McLaren]]
+[[el:Mercedes-Benz SLR McLaren]]
+[[es:Mercedes-Benz SLR McLaren]]
+[[fr:Mercedes-Benz SLR McLaren]]
+[[hr:Mercedes-Benz SLR McLaren]]
+[[id:Mercedes-Benz SLR McLaren]]
+[[it:Mercedes-Benz SLR McLaren]]
+[[ms:Mercedes-Benz SLR McLaren]]
+[[nl:Mercedes-Benz SLR McLaren]]
+[[ja:メルセデス・ベンツ SLRマクラーレン]]
+[[no:Mercedes-Benz SLR McLaren]]
+[[pl:Mercedes-Benz SLR McLaren]]
+[[pt:Mercedes-Benz SLR McLaren]]
+[[ru:Mercedes-Benz SLR McLaren]]
+[[sq:Mercedes-Benz SLR McLaren]]
+[[sr:Mercedes-Benc SLR Maklaren]]
+[[sh:Mercedes-Benz SLR McLaren]]
+[[fi:Mercedes-Benz SLR McLaren]]
+[[sv:Mercedes-Benz SLR McLaren]]
+[[tr:Mercedes-Benz SLR McLaren]]
+[[uk:Mercedes-Benz SLR McLaren]]
+[[zh:SLR McLaren]]

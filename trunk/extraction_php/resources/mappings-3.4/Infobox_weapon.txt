@@ -1,0 +1,13 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Weapon
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = origin | ontologyProperty = Weapon/placeOfOrigin }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Weapon/type }}
+	{{ DBpediaPropertyMapping | templateProperty = wars | ontologyProperty = Weapon/wars }}
+	{{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Weapon/weight | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Weapon/length | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Weapon/width | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Weapon/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = diameter | ontologyProperty = Weapon/diameter | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = branch
+| rdfs:range = Canal
+}}

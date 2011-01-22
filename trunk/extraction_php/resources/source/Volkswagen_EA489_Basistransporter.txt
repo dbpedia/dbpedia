@@ -1,0 +1,61 @@
+{{Infobox Automobile
+|name          = Volkswagen EA489 Basistransporter
+|image         = [[Image:VW Hormiga front left.jpg|250px]]
+|manufacturer  = [[Volkswagen Group|Volkswagen AG]]
+|aka           = Volkswagen Hormiga,<br>Volkswagen EA489,<br>Volkswagen Mitra
+|production    = 1975 - 1979
+|assembly      = [[Hanover]], [[Germany]];<br>[[Puebla]], [[Mexico]]
+|predecessor   = 
+|successor     = 
+|class         = [[Commercial vehicle]]
+|body_style    = 2-[[vehicle door|door]] platform [[truck]]
+|layout        = [[front-engine design|Front engine]], [[front-wheel drive]]
+|platform      = 
+|engine        = 1.6&nbsp;[[litre|L]] [[Volkswagen air cooled engine|Volkswagen air cooled]]
+|transmission  = 4-speed [[manual transmission|manual]]
+|wheelbase     = {{convert|2395|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4064|mm|1|abbr=on}}
+|width         = {{convert|1684|mm|1|abbr=on}} <small>at [[cabin (truck)|cab]]</small>
+|height        = {{convert|1988|mm|1|abbr=on}}
+|weight        = {{convert|1290|kg|0|abbr=on|lk=on}}
+|fuel_capacity =
+|related       = 
+|designer      = 
+|sp            = uk
+}}
+
+The '''Volkswagen EA489 Basistransporter''' was a small [[front-wheel drive]] platform [[truck]] with a [[front-engine design|front-mounted]] [[Volkswagen air cooled engine]]. Created by [[Volkswagen AG]], It was about the size of a modern day [[Volkswagen Polo]] and is perhaps one of the rarest [[Volkswagen]]'s in the world due to the fact it was never sold in a developed country.
+
+It was built between 1975-79, with only 2,600 units produced in completely [[complete knock down|knocked down kits]] in [[Hanover]], [[Germany]]; and 3,600 units were produced in [[Puebla, Puebla|Puebla]], [[Mexico]], between 1976 and 1977 for Mexican market. 
+
+It was evaluated for production in the following countries: [[Australia]], [[New Zealand]], [[Papua New Guinea]], [[Philippines]], [[Pakistan]], [[Indonesia]], [[Turkey]] and [[Mexico]].  It was built in and sold as: Turkey as the EA489, Indonesia as the Mitra and Mexico as the Hormiga (meaning Ant in Spanish). 
+
+
+==Specifications<ref>Information sourced from book (Volkswagens of the World) by Simon Glen.</ref>==
+
+'''[[Chassis]]''': simple [[frame (vehicle)#Ladder Frame|ladder frame]].<br />
+'''[[engine configuration|Engine Configuration]]''': [[air cooling|air-cooled]] [[flat-4|flat four cylinder 'boxer']], [[overhead valve]] (OHV) with pushrods.<br />
+'''[[engine displacement|Engine Displacement]]''': {{convert|1584|cc|1|lk=on}}.<br />
+'''[[motive power|Motive]] [[Deutsches Institut für Normung|DIN]] [[power (physics)|Power]]''': {{convert|33|kW|PS bhp|0|lk=on}} @ 4,000&nbsp;[[revolutions per minute]], ''{{convert|37|kW|PS bhp|0|abbr=on}}''.<br />
+'''[[powertrain|Powertrain Layout]]''': [[front-engine design|front mounted engine]] (under the [[cabin (truck)|cab]]), [[front-wheel drive]].<br />
+'''[[suspension (vehicle)|Suspension]]''': FRONT - [[independent suspension|independent]], longitudinal [[torsion bar suspension|torsion bars]] & [[wishbone]]s. REAR - rigid unpowered solid [[axle]] with [[leaf spring]]s.<br />
+'''[[wheel|Roadwheels]]''': 4.5J&nbsp;x&nbsp;14[[inch|"]]<br />
+'''Maximum Speed''': {{convert|85|km/h|1|lk=on}}.<br />
+'''[[Payload]]''': ''{{convert|1000|kg|0|lk=on}}''.<br />
+
+''Italics'' = Mexican specified Hormiga
+
+==References==
+{{reflist}}
+
+
+{{Volkswagen Commercial Vehicles}}
+
+{{DEFAULTSORT:Volkswagen Ea489 Basistransporter}}
+[[Category:Volkswagen vehicles|Basistransporter]]
+[[Category:Vehicles with boxer engines]]
+
+[[de:VW Hormiga]]
+[[es:Volkswagen Hormiga]]
+[[fi:Volkswagen Basistransporter]]
+[[tr:Volkswagen EA489]]

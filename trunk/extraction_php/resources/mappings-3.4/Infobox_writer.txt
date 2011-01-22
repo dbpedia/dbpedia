@@ -1,0 +1,28 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Writer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = notableworks | ontologyProperty = Writer/notableWork }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = pseudonym | ontologyProperty = Person/pseudonym }}
+	{{ DBpediaPropertyMapping | templateProperty = birthname | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birthplace | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = deathdate | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnicity | ontologyProperty = Person/ethnicity }}
+	{{ DBpediaPropertyMapping | templateProperty = citizenship | ontologyProperty = Person/citizenship }}
+	{{ DBpediaPropertyMapping | templateProperty = period | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = period | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Artist/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = movement | ontologyProperty = Artist/movement }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = partner | ontologyProperty = Person/partner }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = relatives | ontologyProperty = Person/relative }}
+	{{ DBpediaPropertyMapping | templateProperty = influences | ontologyProperty = Person/influencedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = influenced | ontologyProperty = Person/influenced }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

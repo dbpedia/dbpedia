@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = winter temperature
+| rdfs:domain = City
+| rdfs:range = Temperature
+}}

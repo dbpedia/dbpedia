@@ -1,0 +1,20 @@
+RewriteEngine on
+
+# Call flickrwrappr.php for document URIs
+RewriteRule ^photos/(.*) /flickrwrappr/flickrwrappr.php?item=$1 [L,QSA]
+
+# doc/photos is now /photos
+RewriteRule ^doc/photos/(.*) /flickrwrappr/photos/$1 [R=301,L,QSA]
+
+# location w/ RDF => /data/photosDepictingLocation
+RewriteCond %{HTTP_ACCEPT} .*application/rdf\+xml.*
+RewriteRule ^location/(.*)/(.*)/(.*) /flickrwrappr/data/photosDepictingLocation/$1/$2/$3 [R=303,L,QSA]
+
+# /data/photosDepictingLocation => format=rdf
+RewriteRule ^data/photosDepictingLocation/(.*)/(.*)/(.*) /flickrwrappr/flickrwrappr.php?lat=$1&long=$2&radius=$3&format=rdf [L,QSA]
+
+# location w/o RDF => /page/photosDepictingLocation
+RewriteRule ^location/(.*)/(.*)/(.*) /flickrwrappr/page/photosDepictingLocation/$1/$2/$3 [R=303,L,QSA]
+
+# /page/photosDepictingLocation => format=xhtml
+RewriteRule ^page/photosDepictingLocation/(.*)/(.*)/(.*) /flickrwrappr/flickrwrappr.php?lat=$1&long=$2&radius=$3&format=xhtml [L,QSA]

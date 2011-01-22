@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= predecessor
+|rdfs:domain	= Person
+|rdfs:range		= Person
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = source position
+| rdfs:range = geo:SpatialThing
+}}

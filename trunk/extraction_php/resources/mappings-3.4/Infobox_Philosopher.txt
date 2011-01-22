@@ -1,0 +1,11 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Philosopher
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = influences | ontologyProperty = Person/influencedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = influenced | ontologyProperty = Person/influenced }}
+}}

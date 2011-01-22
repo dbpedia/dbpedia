@@ -1,0 +1,13 @@
+{{ DBpediaTemplateMapping
+| mapToClass = HistoricPlace
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = architect | ontologyProperty = HistoricPlace/architect }}
+	{{ DBpediaPropertyMapping | templateProperty = added | ontologyProperty = HistoricPlace/added }}
+	{{ DBpediaPropertyMapping | templateProperty = visitation_num | ontologyProperty = HistoricPlace/numberOfVisitors }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nrhp_type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaPropertyMapping | templateProperty = nearest_city | ontologyProperty = Place/nearestCity }}
+	{{ DBpediaPropertyMapping | templateProperty = established | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaGeocoordinatesMapping | latitudeDegrees = lat_degrees  | latitudeMinutes = lat_minutes  | latitudeSeconds = lat_seconds  | latitudeDirection = lat_direction  | longitudeDegrees = long_degrees  | longitudeMinutes = long_minutes  | longitudeSeconds = long_seconds  | longitudeDirection = long_direction }}
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = record place
+|rdfs:domain = MusicalWork
+|rdfs:range = PopulatedPlace
+}}

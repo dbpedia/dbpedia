@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = service start date
+| rdfs:domain = MilitaryPerson
+| rdfs:range = xsd:date
+}}

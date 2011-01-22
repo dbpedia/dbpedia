@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Chemical Compound
+|rdfs:subClassOf = owl:Thing
+}}
