@@ -1,0 +1,5 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = ComicsCharacter
+</textarea>

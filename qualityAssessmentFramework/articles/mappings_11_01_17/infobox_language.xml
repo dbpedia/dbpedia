@@ -1,0 +1,8 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Language
+| mappings =
+	{{PropertyMapping | templateProperty = states | ontologyProperty = spokenIn }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = spokenIn }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nativename | ontologyProperty = foaf:name }}
+</textarea>

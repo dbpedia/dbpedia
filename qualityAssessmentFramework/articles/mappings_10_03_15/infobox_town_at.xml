@@ -1,0 +1,169 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{ConditionalMapping
+ | cases =
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = City
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = Statutarstadt
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = Statutory city
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = Town
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = Stadt
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = Stadtgemeinde
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = village
+    | mapping = {{TemplateMapping
+                   | mapToClass = Village
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = village
+    | mapping = {{TemplateMapping
+                   | mapToClass = Village
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = City
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = Statutarstadt
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = Statutory city
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = Town
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = Stadt
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = Stadtgemeinde
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = village
+    | mapping = {{TemplateMapping
+                   | mapToClass = Village
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = village
+    | mapping = {{TemplateMapping
+                   | mapToClass = Village
+                }}
+  }}
+
+  {{Condition
+    | otherwise
+    | mapping = {{TemplateMapping
+                   | mapToClass = Settlement
+                }}
+  }}
+
+ | defaultMappings =
+	{{PropertyMapping | templateProperty = neighboring_municipalities | ontologyProperty = neighboringMunicipality }}
+	{{PropertyMapping | templateProperty = postal_code | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = municipality_code | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = highest_m | ontologyProperty = maximumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = lowest_m | ontologyProperty = minimumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = population | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = populationof | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = demonym | ontologyProperty = demonym }}
+	{{GeocoordinatesMapping | longitudeMinutes = long_m  | longitudeDirection = long_NS  | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeDirection = lat_EW }}
+</textarea>

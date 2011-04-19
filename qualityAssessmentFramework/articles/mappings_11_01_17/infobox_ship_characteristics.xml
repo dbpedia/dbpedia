@@ -1,0 +1,9 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Ship
+| mappings = 
+  {{PropertyMapping | templateProperty = Ship length | ontologyProperty = length | unit = Length}} 
+  {{PropertyMapping | templateProperty = Ship beam | ontologyProperty = shipBeam | unit = Length}} 
+  {{PropertyMapping | templateProperty = Ship speed | ontologyProperty = topSpeed | unit = Speed}}
+  {{PropertyMapping | templateProperty = Ship draft | ontologyProperty = shipDraft | unit = Length}} 
+  {{PropertyMapping | templateProperty = Ship displacement | ontologyProperty = shipDisplacement | unit = Mass}} 
+</textarea>

@@ -1,0 +1,177 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Settlement
+| mappings =
+	{{PropertyMapping | templateProperty = twin1 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin2 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin3 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin4 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin5 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin6 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin7 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin1_country | ontologyProperty = twinCountry }}
+	{{PropertyMapping | templateProperty = Bundesland | ontologyProperty = federalState }}
+	{{PropertyMapping | templateProperty = Landkreis | ontologyProperty = administrativeDistrict }}
+	{{PropertyMapping | templateProperty = Kreis | ontologyProperty = administrativeDistrict }}
+	{{PropertyMapping | templateProperty = Amt | ontologyProperty = department }}
+	{{PropertyMapping | templateProperty = Gemeindeverwaltungsverband | ontologyProperty = associationOfLocalGovernment }}
+	{{PropertyMapping | templateProperty = Samtgemeinde | ontologyProperty = jointCommunity }}
+	{{PropertyMapping | templateProperty = Verbandsgemeinde | ontologyProperty = associationOfLocalGovernment }}
+	{{PropertyMapping | templateProperty = Verwaltungsgemeinschaft | ontologyProperty = administrativeCollectivity }}
+	{{PropertyMapping | templateProperty = Verwaltungsverband | ontologyProperty = administrativeCollectivity }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = province | ontologyProperty = province }}
+	{{PropertyMapping | templateProperty = frazioni | ontologyProperty = frazioni }}
+	{{PropertyMapping | templateProperty = saint | ontologyProperty = saint }}
+	{{PropertyMapping | templateProperty = day | ontologyProperty = day }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = crown_dependency | ontologyProperty = crownDependency }}
+	{{PropertyMapping | templateProperty = region1 | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = belfast_distance_mi | ontologyProperty = distanceToBelfast | unit = mile }}
+	{{PropertyMapping | templateProperty = cardiff_distance_mi | ontologyProperty = distanceToCardiff | unit = mile }}
+	{{PropertyMapping | templateProperty = edinburgh_distance_mi | ontologyProperty = distanceToEdinburgh | unit = mile }}
+	{{PropertyMapping | templateProperty = london_distance_mi | ontologyProperty = distanceToLondon | unit = mile }}
+	{{PropertyMapping | templateProperty = douglas_distance_mi | ontologyProperty = distanceToDouglas | unit = mile }}
+	{{PropertyMapping | templateProperty = belfast_distance_km | ontologyProperty = distanceToBelfast | unit = kilometre }}
+	{{PropertyMapping | templateProperty = cardiff_distance_km | ontologyProperty = distanceToCardiff | unit = kilometre }}
+	{{PropertyMapping | templateProperty = edinburgh_distance_km | ontologyProperty = distanceToEdinburgh | unit = kilometre }}
+	{{PropertyMapping | templateProperty = london_distance_km | ontologyProperty = distanceToLondon | unit = kilometre }}
+	{{PropertyMapping | templateProperty = douglas_distance_km | ontologyProperty = distanceToDouglas | unit = kilometre }}
+	{{PropertyMapping | templateProperty = gaelic_name | ontologyProperty = gaelicName }}
+	{{PropertyMapping | templateProperty = scots_name | ontologyProperty = scottishName }}
+	{{PropertyMapping | templateProperty = welsh_name | ontologyProperty = welshName }}
+	{{PropertyMapping | templateProperty = irish_name | ontologyProperty = irishName }}
+	{{PropertyMapping | templateProperty = manx_name | ontologyProperty = manxName }}
+	{{PropertyMapping | templateProperty = cornish_name | ontologyProperty = cornishName }}
+	{{PropertyMapping | templateProperty = coastline | ontologyProperty = coastLine | unit = kilometre }}
+	{{PropertyMapping | templateProperty = temp_annual | ontologyProperty = annualTemperature | unit = degreeCelsius }}
+	{{PropertyMapping | templateProperty = temp_winter | ontologyProperty = winterTemperature | unit = degreeCelsius }}
+	{{PropertyMapping | templateProperty = temp_summer | ontologyProperty = summerTemperature | unit = degreeCelsius }}
+	{{PropertyMapping | templateProperty = largest_metro | ontologyProperty = largestMetro }}
+	{{PropertyMapping | templateProperty = meaning | ontologyProperty = meaning }}
+	{{PropertyMapping | templateProperty = destroyed | ontologyProperty = destructionDate }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = other_name | ontologyProperty = synonym }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = settlement_type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = total_type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = foaf:nick}}
+	{{PropertyMapping | templateProperty = motto | ontologyProperty = motto }}
+	{{PropertyMapping | templateProperty = leader_title | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title1 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name1 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title2 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name2 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title3 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name3 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title4 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name4 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = established_date | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = established_date1 | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = established_date2 | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = established_date3 | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = founder | ontologyProperty = foundingPerson }}
+	{{PropertyMapping | templateProperty = area_total_km2 | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_land_km2 | ontologyProperty = areaLand | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_water_km2 | ontologyProperty = areaWater | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_total_sq_mi | ontologyProperty = areaTotal | unit = squareMile }}
+	{{PropertyMapping | templateProperty = area_land_sq_mi | ontologyProperty = areaLand | unit = squareMile }}
+	{{PropertyMapping | templateProperty = area_water_sq_mi | ontologyProperty = areaWater | unit = squareMile }}
+	{{PropertyMapping | templateProperty = area_water_percent | ontologyProperty = percentageOfAreaWater }}
+	{{PropertyMapping | templateProperty = area_urban_km2 | ontologyProperty = areaUrban | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_urban_sq_mi | ontologyProperty = areaUrban | unit = squareMile }}
+	{{PropertyMapping | templateProperty = area_metro_km2 | ontologyProperty = areaMetro | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_metro_sq_mi | ontologyProperty = areaMetro | unit = squareMile }}
+	{{PropertyMapping | templateProperty = elevation_m | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_ft | ontologyProperty = elevation | unit = foot }}
+	{{PropertyMapping | templateProperty = elevation_max_m | ontologyProperty = maximumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_max_ft | ontologyProperty = maximumElevation | unit = foot }}
+	{{PropertyMapping | templateProperty = elevation_min_m | ontologyProperty = minimumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_min_ft | ontologyProperty = minimumElevation | unit = foot }}
+	{{PropertyMapping | templateProperty = population_as_of | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = population_total | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = population_density_km2 | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{PropertyMapping | templateProperty = population_density_sq_mi | ontologyProperty = populationDensity | unit = inhabitantsPerSquareMile }}
+	{{PropertyMapping | templateProperty = population_metro | ontologyProperty = populationMetro }}
+	{{PropertyMapping | templateProperty = population_density_metro_km2 | ontologyProperty = populationMetroDensity | unit = inhabitantsPerSquareKilometre }}
+	{{PropertyMapping | templateProperty = population_density_metro_sq_mi | ontologyProperty = populationMetroDensity | unit = inhabitantsPerSquareMile }}
+	{{PropertyMapping | templateProperty = population_urban | ontologyProperty = populationUrban }}
+	{{PropertyMapping | templateProperty = population_density_urban_km2 | ontologyProperty = populationUrbanDensity | unit = inhabitantsPerSquareKilometre }}
+	{{PropertyMapping | templateProperty = population_density_urban_sq_mi | ontologyProperty = populationUrbanDensity | unit = inhabitantsPerSquareMile }}
+	{{PropertyMapping | templateProperty = population_blank1 | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = population_density_blank1_km2 | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{PropertyMapping | templateProperty = population_density_blank1_sq_mi | ontologyProperty = populationDensity | unit = inhabitantsPerSquareMile }}
+	{{PropertyMapping | templateProperty = population_blank2 | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = population_density_blank2_km2 | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{PropertyMapping | templateProperty = population_density_blank2_sq_mi | ontologyProperty = populationDensity | unit = inhabitantsPerSquareMile }}
+	{{PropertyMapping | templateProperty = population_demonym | ontologyProperty = demonym }}
+	{{PropertyMapping | templateProperty = postal_code | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = area_code | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = German_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Art | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = Regierungsbezirk | ontologyProperty = administrativeDistrict }}
+	{{PropertyMapping | templateProperty = Höhe | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevationmax | ontologyProperty = maximumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = Fläche | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_metro | ontologyProperty = areaMetro | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = Einwohner | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = pop_metro | ontologyProperty = populationMetro }}
+	{{PropertyMapping | templateProperty = Stand | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = Vorwahl | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = Bürgermeister | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = Bürgermeistertitel | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = Partei | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = ruling_party1 | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = ruling_party2 | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = ruling_party3 | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = mayor | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = mayor_party | ontologyProperty = leaderParty }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = gentilic | ontologyProperty = demonym }}
+	{{PropertyMapping | templateProperty = telephone | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = postalcode | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = local_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = population | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = population_density | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{PropertyMapping | templateProperty = postcode_area | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = postcode_area1 | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = postcode_area2 | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = dial_code | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = dial_code1 | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = dial_code2 | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = other_language_name | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = other_language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = language1 | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = language2 | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = area_total | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = altitude | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = capital | ontologyProperty = capital }}
+	{{PropertyMapping | templateProperty = largest_city | ontologyProperty = largestCity }}
+	{{PropertyMapping | templateProperty = nearest_city | ontologyProperty = nearestCity }}
+	{{PropertyMapping | templateProperty = official_languages | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = leader_title_1 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name_1 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title_2 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name_2 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = leader_title_3 | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = leader_name_3 | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = area_telephone | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = pop_urban | ontologyProperty = populationUrban }}
+	{{PropertyMapping | templateProperty = pop_date | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = PLZ | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = hebname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = arname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = typefrom | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = stbHeb | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = altOffSp | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = altUnoSp | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = popyear | ontologyProperty = censusYear }}
+	{{GeocoordinatesMapping | latitude = latitude  | longitude = longitude  | latitudeSeconds = lat_sec  | longitudeDegrees = lon_deg  | longitudeMinutes = lon_min  | longitudeSeconds = lon_sec  | longitudeSeconds = longs  | longitudeDirection = longEW }}
+</textarea>

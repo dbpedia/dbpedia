@@ -1,0 +1,23 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Scientist
+| mappings =
+	{{PropertyMapping | templateProperty = doctoral_advisor | ontologyProperty = doctoralAdvisor }}
+	{{PropertyMapping | templateProperty = academic_advisors | ontologyProperty = academicAdvisor }}
+	{{PropertyMapping | templateProperty = doctoral_students | ontologyProperty = doctoralStudent }}
+	{{PropertyMapping | templateProperty = notable_students | ontologyProperty = notableStudent }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = residence | ontologyProperty = residence }}
+	{{PropertyMapping | templateProperty = citizenship | ontologyProperty = citizenship }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = ethnicity | ontologyProperty = ethnicity }}
+	{{PropertyMapping | templateProperty = alma_mater | ontologyProperty = almaMater }}
+	{{PropertyMapping | templateProperty = known_for | ontologyProperty = knownFor }}
+	{{PropertyMapping | templateProperty = influences | ontologyProperty = influencedBy }}
+	{{PropertyMapping | templateProperty = influenced | ontologyProperty = influenced }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{PropertyMapping | templateProperty = religion | ontologyProperty = religion }}
+</textarea>

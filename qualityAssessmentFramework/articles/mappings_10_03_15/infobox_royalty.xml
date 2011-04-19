@@ -1,0 +1,26 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = BritishRoyalty
+| mappings =
+	{{PropertyMapping | templateProperty = royal anthem | ontologyProperty = royalAnthem }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = title }}
+        {{DateIntervalMapping
+          | templateProperty          = reign 
+          | startDateOntologyProperty = activeYearsStartYear
+          | endDateOntologyProperty   = activeYearsEndYear
+        }}
+	{{PropertyMapping | templateProperty = predecessor | ontologyProperty = predecessor }}
+	{{PropertyMapping | templateProperty = successor | ontologyProperty = successor }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = full name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = father | ontologyProperty = father }}
+	{{PropertyMapping | templateProperty = mother | ontologyProperty = mother }}
+	{{PropertyMapping | templateProperty = date of birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = place of birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = date of death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = place of death | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = place of burial | ontologyProperty = restingPlace }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+</textarea>

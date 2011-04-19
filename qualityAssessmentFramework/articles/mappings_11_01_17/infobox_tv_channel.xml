@@ -1,0 +1,47 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Broadcast
+| mappings =
+	{{PropertyMapping | templateProperty = airdate | ontologyProperty = airDate }}
+	{{PropertyMapping | templateProperty = sister_stations | ontologyProperty = sisterStation }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = broadcast_area | ontologyProperty = broadcastArea }}
+	{{PropertyMapping | templateProperty = closed date | ontologyProperty = closingDate }}
+	{{PropertyMapping | templateProperty = network | ontologyProperty = network }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = locationCountry }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = broadcast area | ontologyProperty = broadcastArea }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = city | ontologyProperty = locationCity }}
+	{{PropertyMapping | templateProperty = affiliations | ontologyProperty = affiliation }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owningCompany }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = formationDate }}
+	{{PropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = founder | ontologyProperty = foundationPerson }}
+	{{PropertyMapping | templateProperty = slogan | ontologyProperty = slogan }}
+	{{PropertyMapping | templateProperty = motto | ontologyProperty = motto }}
+
+        {{PropertyMapping | templateProperty = key_people | ontologyProperty = keyPerson}}
+
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = person}}
+
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = title}}
+	}}
+
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = personName}}
+
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = title}}
+
+	}}
+	{{PropertyMapping | templateProperty = affiliation | ontologyProperty = affiliation }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = web | ontologyProperty = foaf:homepage }}
+</textarea>

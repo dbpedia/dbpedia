@@ -1,0 +1,31 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Airport
+| mappings =
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nativename | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nativename-a | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nativename-r | ontologyProperty = foaf:name }}
+&lt;!-- Airportidentifier -->
+        {{PropertyMapping | templateProperty = IATA | ontologyProperty = iataLocationIdentifier }}
+        {{PropertyMapping | templateProperty = ICAO | ontologyProperty = icaoLocationIdentifier }}
+        {{PropertyMapping | templateProperty = FAA | ontologyProperty = faaLocationIdentifier }}
+        {{PropertyMapping | templateProperty = LID | ontologyProperty = locationIdentifier }}
+&lt;!-- Airport summary -->
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owningOrganisation }}
+	{{PropertyMapping | templateProperty = operator | ontologyProperty = operator }}
+	{{PropertyMapping | templateProperty = owner-oper | ontologyProperty = owner }}	
+	{{PropertyMapping | templateProperty = owner-oper | ontologyProperty = owningOrganisation }}
+	{{PropertyMapping | templateProperty = owner-oper | ontologyProperty = operator }}
+	{{PropertyMapping | templateProperty = city-served | ontologyProperty = city }}
+        {{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = elevation-f | ontologyProperty = elevation | unit = foot }}
+	{{PropertyMapping | templateProperty = elevation-m | ontologyProperty = elevation | unit = metre }}
+	{{DateIntervalMapping | templateProperty = built | startDateOntologyProperty = buildingStartDate | endDateOntologyProperty = buildingEndDate }}
+        {{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+&lt;!-- Military airports -->
+        {{PropertyMapping | templateProperty = commander | ontologyProperty = commander }}
+        {{DateIntervalMapping | templateProperty = used | startDateOntologyProperty = openingDate | endDateOntologyProperty = dateOfAbandonment }}
+</textarea>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = River
+| mappings =
+	{{PropertyMapping | templateProperty = watershed_imperial | ontologyProperty = watershed | unit = squareMile }}
+	{{PropertyMapping | templateProperty = watershed | ontologyProperty = watershed | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = discharge_imperial | ontologyProperty = maximumDischarge | unit = cubicFeetPerSecond }}
+	{{PropertyMapping | templateProperty = discharge | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+	{{PropertyMapping | templateProperty = discharge | ontologyProperty = discharge | unit = cubicMetrePerSecond }}
+	{{PropertyMapping | templateProperty = discharge_max_imperial | ontologyProperty = maximumDischarge | unit = cubicFeetPerSecond }}
+	{{PropertyMapping | templateProperty = discharge_max | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+	{{PropertyMapping | templateProperty = discharge_min_imperial | ontologyProperty = minimumDischarge | unit = cubicFeetPerSecond }}
+	{{PropertyMapping | templateProperty = discharge_min | ontologyProperty = minimumDischarge | unit = cubicMetrePerSecond }}
+	{{PropertyMapping | templateProperty = source_district | ontologyProperty = sourceDistrict }}
+	{{PropertyMapping | templateProperty = source_region | ontologyProperty = sourceRegion }}
+	{{PropertyMapping | templateProperty = source_state | ontologyProperty = sourceState }}
+	{{PropertyMapping | templateProperty = source_country | ontologyProperty = sourceCountry }}
+	{{PropertyMapping | templateProperty = mouth_district | ontologyProperty = mouthDistrict }}
+	{{PropertyMapping | templateProperty = mouth_region | ontologyProperty = mouthRegion }}
+	{{PropertyMapping | templateProperty = mouth_state | ontologyProperty = mouthState }}
+	{{PropertyMapping | templateProperty = mouth_country | ontologyProperty = mouthCountry }}
+	{{PropertyMapping | templateProperty = mouth | ontologyProperty = riverMouth }}
+	{{PropertyMapping | templateProperty = mouth_elevation_m | ontologyProperty = mouthElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = mouth_elevation_ft | ontologyProperty = mouthElevation | unit = foot }}
+	{{PropertyMapping | templateProperty = mouth_elevation | ontologyProperty = mouthElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = discharge_m3/s | ontologyProperty = discharge | unit = cubicMetrePerSecond }}
+	{{PropertyMapping | templateProperty = discharge_cuft/s | ontologyProperty = discharge | unit = cubicFeetPerSecond }}
+	{{PropertyMapping | templateProperty = watershed_km2 | ontologyProperty = watershed | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = watershed_sqmi | ontologyProperty = watershed | unit = squareMile }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = other_name | ontologyProperty = synonym }}
+	{{PropertyMapping | templateProperty = other_name1 | ontologyProperty = synonym }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = country1 | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+	{{PropertyMapping | templateProperty = state1 | ontologyProperty = state }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = region1 | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = district | ontologyProperty = district }}
+	{{PropertyMapping | templateProperty = district1 | ontologyProperty = district }}
+	{{PropertyMapping | templateProperty = city | ontologyProperty = city }}
+	{{PropertyMapping | templateProperty = city1 | ontologyProperty = city }}
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length }}
+	{{PropertyMapping | templateProperty = source_location | ontologyProperty = sourceMountain }}
+	{{PropertyMapping | templateProperty = source_location | ontologyProperty = sourcePlace }}
+	{{PropertyMapping | templateProperty = mouth_location | ontologyProperty = mouthMountain }}
+	{{PropertyMapping | templateProperty = mouth_location | ontologyProperty = mouthPlace }}
+	{{PropertyMapping | templateProperty = river_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = length_km | ontologyProperty = length | unit = kilometre }}
+	{{PropertyMapping | templateProperty = length_mi | ontologyProperty = length | unit = mile }}
+	{{PropertyMapping | templateProperty = elevation_m | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_ft | ontologyProperty = elevation | unit = foot }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = metre }}
+	{{GeocoordinatesMapping | ontologyProperty = sourcePosition | latitudeDegrees = source_lat_d  | latitudeMinutes = source_lat_m  | latitudeSeconds = source_lat_s  | latitudeDirection = source_lat_NS  | longitudeDegrees = source_long_d  | longitudeMinutes = source_long_m  | longitudeSeconds = source_long_s  | longitudeDirection = source_long_EW }}
+	{{GeocoordinatesMapping | ontologyProperty = mouthPosition | latitudeDegrees = mouth_lat_d  | latitudeMinutes = mouth_lat_m  | latitudeSeconds = mouth_lat_s  | latitudeDirection = mouth_lat_NS  | longitudeDegrees = mouth_long_d  | longitudeMinutes = mouth_long_m  | longitudeSeconds = mouth_long_s  | longitudeDirection = mouth_long_EW }}
+</textarea>

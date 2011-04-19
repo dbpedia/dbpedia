@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><article><name>Bobby_Charlton</name><snippet><id>0</id><patternClass>PlainProperty</patternClass><source>| playername     = Bobby Charlton</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Bobby Charlton&quot;@en .</triple></snippet><snippet><id>1</id><patternClass>PlainProperty</patternClass><source>| fullname       = Sir Robert Charlton [[Order of the British Empire|CBE]]</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Sir Robert Charlton CBE&quot;@en .</triple></snippet><snippet><id>2</id><patternClass>PlainProperty</patternClass><source>| dateofbirth    = {{birth date and age|1937|10|11|df=y}}</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/birthDate&gt; &quot;1937-10-11&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><id>3</id><patternClass>PlainProperty</patternClass><source>| cityofbirth    = [[Ashington]]</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/Ashington&gt; .</triple></snippet><snippet><id>4</id><patternClass>PlainProperty</patternClass><source>| countryofbirth = [[England]]</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/England&gt; .</triple></snippet><snippet><id>5</id><patternClass>NumberUnit</patternClass><source>| height         = {{convert|5|ft|8|in|m|2|abbr=on}}</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/height&gt; &quot;1.7272&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><id>6</id><patternClass>List</patternClass><source>| position       = [[Midfielder]]&lt;br /&gt;[[Forward (association football)|Forward]]</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/position&gt; &quot;Midfielder&quot;@en .
+&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/position&gt; &quot;Forward&quot;@en .</triple></snippet><snippet><id>7</id><patternClass>MultiPropertyTable</patternClass><source>| youthyears2    = 1953–1954
+|youthclubs2 = [[Manchester United F.C.|Manchester United]]</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/youthCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__youthCareer_1&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__youthCareer_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Manchester_United_F.C.&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__youthCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1953&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__youthCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1954&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>8</id><patternClass>MultiPropertyTable</patternClass><source>| years1         = 1954–1973
+|clubs1 = [[Manchester United F.C.|Manchester United]]
+|caps1 = 606
+|goals1 = 199</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_1&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Manchester_United_F.C.&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1954&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1973&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;606&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;199&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>9</id><patternClass>MultiPropertyTable</patternClass><source>| years2         = 1973–1975 
+|clubs2 = [[Preston North End F.C.|Preston North End]] 
+|caps2 = 38  
+|goals2 = 8</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_2&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Preston_North_End_F.C.&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1973&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1975&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;38&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;8&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><comment>new prop activeYear</comment><id>10</id><patternClass>MultiPropertyTable</patternClass><source>| years3         = 1976      
+|clubs3 = [[Waterford United F.C.|Waterford]]          
+|caps3 = 4   
+|goals3 = 1</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_3&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_3&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Waterford_United_F.C.&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_3&gt; &lt;http://dbpedia.org/ontology/activeYear&gt; &quot;1976&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_3&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;4&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_3&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>11</id><patternClass>MultiPropertyTable</patternClass><source>| years4         = 1976      
+|clubs4 = [[Arcadia Shepherds FC|Arcadia Shepherds]]  
+|caps4 = 1   
+|goals4 = 0</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_4&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_4&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Arcadia_Shepherds_FC&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_4&gt; &lt;http://dbpedia.org/ontology/activeYear&gt; &quot;1976&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_4&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_4&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>12</id><patternClass>MultiPropertyTable</patternClass><source>| years5         = 1978      
+|clubs5 = [[Bangor City F.C.|Bangor City]]             
+|caps5 = 1  
+|goals5 = 1</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_5&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_5&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Bangor_City_F.C.&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_5&gt; &lt;http://dbpedia.org/ontology/activeYear&gt; &quot;1978&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_5&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_5&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>13</id><patternClass>MultiPropertyTable</patternClass><source>| years6         = 1978      
+|clubs6 = [[Newcastle KB United]]                      
+|caps6 = 1   
+|goals6 = 0</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_6&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_6&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Newcastle_KB_United&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_6&gt; &lt;http://dbpedia.org/ontology/activeYear&gt; &quot;1978&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_6&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_6&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>14</id><patternClass>MultiPropertyTable</patternClass><source>| years7         = 1980      
+|clubs7 = [[Blacktown City Demons|Blacktown City]]    
+|caps7 = 1   
+|goals7 = 1</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_7&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_7&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Blacktown_City_Demons&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_7&gt; &lt;http://dbpedia.org/ontology/activeYear&gt; &quot;1980&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_7&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__seniorCareer_7&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>15</id><patternClass>MultiPropertyTable</patternClass><source>| nationalyears4 = 1958–1970
+|nationalteam4 = [[England national football team|England]] 
+|nationalcaps4 = 106 
+|nationalgoals4 = 49</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/nationalTeamCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_1&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/England_national_football_team&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1958&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1970&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_1&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;106&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_1&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;49&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>16</id><patternClass>MultiPropertyTable</patternClass><source>| nationalyears5 = 1961–1968
+|nationalteam5 = [[The Football League]]                   
+|nationalcaps5 = 8 
+|nationalgoals5 = 0</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/nationalTeamCareer&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_2&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_2&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/The_Football_League&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1961&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1968&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_2&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;8&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__nationalTeamCareer_2&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><comment></comment><id>17</id><patternClass>MultiPropertyTable</patternClass><source>| manageryears1  = 1973–1975
+|managerclubs1 = [[Preston North End F.C.|Preston North End]] (player-manager)</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/managedTeam&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__managedTeam_1&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__managedTeam_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Preston_North_End_F.C.&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__managedTeam_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1973&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__managedTeam_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1975&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>18</id><patternClass>MultiPropertyTable</patternClass><source>| manageryears2  = 1983      
+|managerclubs2 = [[Wigan Athletic F.C.|Wigan Athletic]] (caretaker manager)</source><triple>&lt;http://dbpedia.org/resource/Bobby_Charlton&gt; &lt;http://dbpedia.org/ontology/managedTeam&gt; &lt;http://dbpedia.org/resource/Bobby_Charlton__managedTeam_2&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__managedTeam_2&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Wigan_Athletic_F.C.&gt; .
+&lt;http://dbpedia.org/resource/Bobby_Charlton__managedTeam_2&gt; &lt;http://dbpedia.org/ontology/activeYear&gt; &quot;1983&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet></article>

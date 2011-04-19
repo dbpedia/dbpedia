@@ -1,0 +1,15 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = HistoricPlace
+| mappings =
+	{{PropertyMapping | templateProperty = architect | ontologyProperty = architect }}
+	{{PropertyMapping | templateProperty = added | ontologyProperty = added }}
+	{{PropertyMapping | templateProperty = visitation_num | ontologyProperty = numberOfVisitors }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nrhp_type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = nearest_city | ontologyProperty = nearestCity }}
+	{{PropertyMapping | templateProperty = established | ontologyProperty = foundingDate }}
+	{{GeocoordinatesMapping | latitudeDegrees = lat_degrees  | latitudeMinutes = lat_minutes  | latitudeSeconds = lat_seconds  | latitudeDirection = lat_direction  | longitudeDegrees = long_degrees  | longitudeMinutes = long_minutes  | longitudeSeconds = long_seconds  | longitudeDirection = long_direction }}
+</textarea>

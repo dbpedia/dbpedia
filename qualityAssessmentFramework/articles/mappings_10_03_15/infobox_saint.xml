@@ -1,0 +1,22 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Saint
+| mappings =
+	{{PropertyMapping | templateProperty = feast_day | ontologyProperty = feastDay }}
+	{{PropertyMapping | templateProperty = venerated_in | ontologyProperty = veneratedIn }}
+	{{PropertyMapping | templateProperty = beatified_date | ontologyProperty = beatifiedDate }}
+	{{PropertyMapping | templateProperty = beatified_place | ontologyProperty = beatifiedPlace }}
+	{{PropertyMapping | templateProperty = beatified_by | ontologyProperty = beatifiedBy }}
+	{{PropertyMapping | templateProperty = canonized_date | ontologyProperty = canonizedDate }}
+	{{PropertyMapping | templateProperty = canonized_place | ontologyProperty = canonizedPlace }}
+	{{PropertyMapping | templateProperty = canonized_by | ontologyProperty = canonizedBy }}
+	{{PropertyMapping | templateProperty = major_shrine | ontologyProperty = majorShrine }}
+	{{PropertyMapping | templateProperty = suppressed_date | ontologyProperty = suppreddedDate }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = titles | ontologyProperty = title }}
+</textarea>

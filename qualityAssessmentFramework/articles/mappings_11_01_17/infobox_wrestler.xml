@@ -1,0 +1,20 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Wrestler
+| mappings =
+	{{PropertyMapping | templateProperty = resides | ontologyProperty = residence }}
+	{{PropertyMapping | templateProperty = billed | ontologyProperty = billed }}
+	{{PropertyMapping | templateProperty = trainer | ontologyProperty = trainer }}
+	{{PropertyMapping | templateProperty = debut | ontologyProperty = debut }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = names | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass }}
+	{{PropertyMapping | templateProperty = real_height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = real_weight | ontologyProperty = weight | unit = Mass }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = retired | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+</textarea>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = SoccerClub
+| mappings =
+	{{PropertyMapping | templateProperty = clubname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = foaf:nick }}	
+	{{PropertyMapping | templateProperty = shortname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = formationDate }}
+        {{PropertyMapping | templateProperty = dissolved | ontologyProperty = dissolved }}
+        {{PropertyMapping | templateProperty = ground | ontologyProperty = ground }}
+        {{PropertyMapping | templateProperty = capacity | ontologyProperty = capacity }}
+        {{PropertyMapping | templateProperty = owntitle | ontologyProperty = title }}	
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+        {{PropertyMapping | templateProperty = chrtitle | ontologyProperty = chairmanTitle }}
+	{{PropertyMapping | templateProperty = chairman | ontologyProperty = chairman }}
+	{{PropertyMapping | templateProperty = ceo | ontologyProperty = ceo }}
+	{{PropertyMapping | templateProperty = mgrtitle | ontologyProperty = managerTitle }}
+	{{PropertyMapping | templateProperty = manager | ontologyProperty = manager }}
+        {{PropertyMapping | templateProperty = league | ontologyProperty = league }}   
+	{{PropertyMapping | templateProperty = season | ontologyProperty = season }}    
+        {{PropertyMapping | templateProperty = position | ontologyProperty = position }}
+	{{PropertyMapping | templateProperty = firstgame | ontologyProperty = firstGame }}
+	{{PropertyMapping | templateProperty = largestwin | ontologyProperty = largestWin }}
+	{{PropertyMapping | templateProperty = worstdefeat | ontologyProperty = worstDefeat }}
+	{{PropertyMapping | templateProperty = topscorer | ontologyProperty = clubsRecordGoalscorer }}
+	{{PropertyMapping | templateProperty = fansgroup | ontologyProperty = fansgroup }}
+	{{PropertyMapping | templateProperty = honours | ontologyProperty = honours }}
+
+</textarea>

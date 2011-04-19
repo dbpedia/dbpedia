@@ -1,0 +1,43 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = RugbyPlayer
+| mappings =
+	{{PropertyMapping | templateProperty = school | ontologyProperty = school }}
+	{{PropertyMapping | templateProperty = university | ontologyProperty = university }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name}}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = foaf:nick }}
+	{{PropertyMapping | templateProperty = dateofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = placeofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = countryofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dateofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = placeofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = countryofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = height(ft) | ontologyProperty = height | unit = foot }}
+	{{PropertyMapping | templateProperty = height(in) | ontologyProperty = height | unit = inch }}
+	{{PropertyMapping | templateProperty = height(m) | ontologyProperty = height | unit = metre }}
+	{{PropertyMapping | templateProperty = weight(kg) | ontologyProperty = weight | unit = kilogram }}
+	{{PropertyMapping | templateProperty = weight(lb) | ontologyProperty = weight | unit = pound }}
+	{{PropertyMapping | templateProperty = weight(st) | ontologyProperty = weight | unit = stone }}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = position }}
+	{{PropertyMapping | templateProperty = club1 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club2 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club3 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club4 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club5 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club6 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club7 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club8 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club9 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = club10 | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = coachyear1start | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = coachyear1end | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birthname | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = children | ontologyProperty = child }}
+	{{PropertyMapping | templateProperty = relatives | ontologyProperty = relative }}
+	{{PropertyMapping | templateProperty = url | ontologyProperty = foaf:homepage }}
+</textarea>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Skyscraper
+| mappings =
+	{{PropertyMapping | templateProperty = year_highest | ontologyProperty = highestBuildingInYear }}
+	{{PropertyMapping | templateProperty = engineer | ontologyProperty = engineer }}
+	{{PropertyMapping | templateProperty = contractor | ontologyProperty = contractor }}
+	{{PropertyMapping | templateProperty = developer | ontologyProperty = developer }}
+	{{PropertyMapping | templateProperty = management | ontologyProperty = management }}
+	{{PropertyMapping | templateProperty = building_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = constructed | ontologyProperty = buildingStartDate }}
+	{{PropertyMapping | templateProperty = constructed | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = est_completion | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = opening | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = demolished | ontologyProperty = demolitionDate }}
+	{{PropertyMapping | templateProperty = destroyed | ontologyProperty = destructionDate }}
+	{{PropertyMapping | templateProperty = floor_count | ontologyProperty = floorCount }}
+	{{PropertyMapping | templateProperty = cost | ontologyProperty = cost | unit = Currency }}
+	{{PropertyMapping | templateProperty = floor_area | ontologyProperty = floorArea | unit = Area }}
+	{{PropertyMapping | templateProperty = architect | ontologyProperty = architect }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+</textarea>

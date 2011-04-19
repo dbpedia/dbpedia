@@ -1,0 +1,13 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Election
+| mappings =
+	{{PropertyMapping | templateProperty = election_name | ontologyProperty = title }}
+	{{PropertyMapping | templateProperty = country       | ontologyProperty = country}}
+        {{PropertyMapping | templateProperty = election_date | ontologyProperty = startDate}}
+        {{PropertyMapping | templateProperty = leader1       | ontologyProperty = foaf:name}}
+        {{PropertyMapping | templateProperty = leader2       | ontologyProperty = foaf:name}}
+        {{PropertyMapping | templateProperty = party1        | ontologyProperty = affiliation}}
+        {{PropertyMapping | templateProperty = party2        | ontologyProperty = affiliation}}
+        {{PropertyMapping | templateProperty = popular_vote1 | ontologyProperty = popularVote}}
+        {{PropertyMapping | templateProperty = popular_vote2 | ontologyProperty = popularVote}}
+</textarea>

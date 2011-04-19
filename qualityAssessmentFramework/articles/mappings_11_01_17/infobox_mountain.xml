@@ -1,0 +1,23 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Mountain
+| mappings =
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+        {{PropertyMapping | templateProperty = other_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = Length }}
+	{{PropertyMapping | templateProperty = elevation_m | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_ft | ontologyProperty = elevation | unit = foot }}
+	{{PropertyMapping | templateProperty = range | ontologyProperty = mountainRange }}
+	{{PropertyMapping | templateProperty = prominence | ontologyProperty = prominence | unit = Length }}
+	{{PropertyMapping | templateProperty = prominence_m | ontologyProperty = prominence | unit = metre }}
+	{{PropertyMapping | templateProperty = prominence_ft | ontologyProperty = prominence | unit = foot }}
+	{{PropertyMapping | templateProperty = parent_peak | ontologyProperty = parentMountainPeak }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = locatedInArea }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{GeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+        {{PropertyMapping | templateProperty = topo | ontologyProperty = nationalTopographicSystemMapNumber}}
+        {{PropertyMapping | templateProperty = last_eruption | ontologyProperty = eruptionYear }}
+        {{PropertyMapping | templateProperty = first_ascent | ontologyProperty = firstAscentYear }}
+        {{PropertyMapping | templateProperty = first_ascent | ontologyProperty = firstAscentPerson }}
+</textarea>

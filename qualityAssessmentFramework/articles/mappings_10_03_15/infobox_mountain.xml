@@ -1,0 +1,11 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Mountain
+| mappings =
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Elevation | ontologyProperty = elevation | unit = metre }}
+	{{GeocoordinatesMapping | coordinates = Coordinates }}
+	{{PropertyMapping | templateProperty = Type | ontologyProperty = type }}
+	{{GeocoordinatesMapping | latitudeDegrees = latd  | latitudeMinutes = latm  | latitudeSeconds = lats  | latitudeDirection = latNS  | longitudeDegrees = longd  | longitudeMinutes = longm  | longitudeSeconds = longs  | longitudeDirection = longEW }}
+</textarea>

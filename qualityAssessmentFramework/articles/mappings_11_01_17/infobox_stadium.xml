@@ -1,0 +1,18 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Stadium
+| mappings =
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = foaf:nick}}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = built | ontologyProperty = buildingStartDate }}
+	{{PropertyMapping | templateProperty = built | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = opened | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = renovated | ontologyProperty = rebuildingDate }}
+	{{PropertyMapping | templateProperty = closed | ontologyProperty = dateOfAbandonment }}
+	{{PropertyMapping | templateProperty = demolished | ontologyProperty = demolitionDate }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = architect | ontologyProperty = architect }}
+	{{PropertyMapping | templateProperty = tenants | ontologyProperty = tenant }}
+</textarea>

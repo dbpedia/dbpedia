@@ -1,0 +1,41 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Actor
+| mappings =
+	{{PropertyMapping | templateProperty = arielaward | ontologyProperty = arielAward }}
+	{{PropertyMapping | templateProperty = geminiawards | ontologyProperty = geminiAward }}
+	{{PropertyMapping | templateProperty = goldencalfawards | ontologyProperty = goldenCalfAward }}
+	{{PropertyMapping | templateProperty = goldenraspberryawards | ontologyProperty = goldenRaspberryAward }}
+	{{PropertyMapping | templateProperty = iftaawards | ontologyProperty = iftaAward }}
+	{{PropertyMapping | templateProperty = laurenceolivierawards | ontologyProperty = laurenceOlivierAward }}
+	{{PropertyMapping | templateProperty = naacpimageawards | ontologyProperty = naacpImageAward }}
+	{{PropertyMapping | templateProperty = nationalfilmawards | ontologyProperty = nationalFilmAward }}
+	{{PropertyMapping | templateProperty = sagawards | ontologyProperty = screenActorsGuildAward }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birthdate | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birthplace | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+        {{PropertyMapping | templateProperty = deathdate | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = deathplace | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = othername | ontologyProperty = alias }}
+	{{PropertyMapping | templateProperty = alias | ontologyProperty = alias }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	{{DateIntervalMapping | templateProperty = yearsactive | startDateOntologyProperty = activeYearsStartYear | endDateOntologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = domesticpartner | ontologyProperty = partner }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = academyawards | ontologyProperty = academyAward }}
+	{{PropertyMapping | templateProperty = afiawards | ontologyProperty = afiAward }}
+	{{PropertyMapping | templateProperty = baftaawards | ontologyProperty = baftaAward }}
+	{{PropertyMapping | templateProperty = cesarawards | ontologyProperty = cesarAward }}
+	{{PropertyMapping | templateProperty = emmyawards | ontologyProperty = emmyAward }}
+	{{PropertyMapping | templateProperty = filmfareawards | ontologyProperty = filmFareAward }}
+	{{PropertyMapping | templateProperty = goldenglobeawards | ontologyProperty = goldenGlobeAward }}
+	{{PropertyMapping | templateProperty = goyaawards | ontologyProperty = goyaAward }}
+	{{PropertyMapping | templateProperty = grammyawards | ontologyProperty = grammyAward }}
+	{{PropertyMapping | templateProperty = tonyawards | ontologyProperty = tonyAward }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+</textarea>

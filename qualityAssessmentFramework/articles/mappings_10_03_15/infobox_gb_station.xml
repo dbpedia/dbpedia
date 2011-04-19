@@ -1,0 +1,19 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Station
+| mappings =
+	{{PropertyMapping | templateProperty = platform | ontologyProperty = railwayPlatforms }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = address | ontologyProperty = address }}
+	{{PropertyMapping | templateProperty = depth | ontologyProperty = depth }}
+	{{PropertyMapping | templateProperty = opened | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = closed | ontologyProperty = dateOfAbandonment }}
+	{{PropertyMapping | templateProperty = rebuilt | ontologyProperty = rebuildingDate }}
+	{{PropertyMapping | templateProperty = owned | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = owned | ontologyProperty = owningOrganisation }}
+	{{PropertyMapping | templateProperty = passengers | ontologyProperty = visitorsTotal }}
+	{{PropertyMapping | templateProperty = pass_year | ontologyProperty = visitorsPerYear }}
+        {{GeocoordinatesMapping | latitude = latitude | longitude = longitude }}
+</textarea>

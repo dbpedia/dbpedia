@@ -1,0 +1,27 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Cricketer
+| mappings =
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = debut date | ontologyProperty = activeYearsStartDate }}
+	{{PropertyMapping | templateProperty = debut year | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = last date | ontologyProperty = activeYearsEndDate }}
+	{{PropertyMapping | templateProperty = last year | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = FCs | ontologyProperty = fc }}
+	{{PropertyMapping | templateProperty = FC runs | ontologyProperty = fcRuns }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = foaf:nick }}
+	{{PropertyMapping | templateProperty = dayofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = monthofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = yearofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = placeofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = countryofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dayofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = monthofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = yearofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = placeofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = countryofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = cricket team | ontologyProperty = team }}
+</textarea>

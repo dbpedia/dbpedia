@@ -1,0 +1,40 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Building
+| mappings =
+	{{PropertyMapping | templateProperty = address | ontologyProperty = address }}
+	{{PropertyMapping | templateProperty = architect | ontologyProperty = architect }}
+	{{PropertyMapping | templateProperty = architecturalBureau | ontologyProperty = architectualBureau }}
+	{{PropertyMapping | templateProperty = buildingStartDate | ontologyProperty = buildingStartDate }}
+	{{PropertyMapping | templateProperty = buildingEndDate | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = openingDate | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = closingDate | ontologyProperty = dateOfAbandonment }}
+	{{PropertyMapping | templateProperty = rebuildingDate | ontologyProperty = rebuildingDate }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = owningOrganisation | ontologyProperty = owningOrganisation }}
+	{{PropertyMapping | templateProperty = visitorsTotal | ontologyProperty = visitorsTotal }}
+	{{PropertyMapping | templateProperty = visitorsPerYear | ontologyProperty = visitorsPerYear }}
+	{{PropertyMapping | templateProperty = former_names | ontologyProperty = formerName }}
+	{{PropertyMapping | templateProperty = architectural_style | ontologyProperty = architecturalStyle }}
+	{{PropertyMapping | templateProperty = structural_system | ontologyProperty = structuralSystem }}
+	{{PropertyMapping | templateProperty = cost | ontologyProperty = cost | unit = Currency }}
+	{{PropertyMapping | templateProperty = current_tenants | ontologyProperty = tenant }}
+	{{PropertyMapping | templateProperty = start_date | ontologyProperty = buildingStartDate }}
+	{{PropertyMapping | templateProperty = completion_date | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = inauguration_date | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = demolition_date | ontologyProperty = demolitionDate }}
+	{{PropertyMapping | templateProperty = destruction_date | ontologyProperty = destructionDate }}
+	{{PropertyMapping | templateProperty = floor_count | ontologyProperty = floorCount }}
+	{{PropertyMapping | templateProperty = floor_area | ontologyProperty = floorArea | unit = Area }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = awards }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = elevationInFoot | ontologyProperty = elevation | unit = foot }}
+	{{PropertyMapping | templateProperty = elevationInMeters | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = width | ontologyProperty = width | unit = Length }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = building_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = native_building_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = building_type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+</textarea>

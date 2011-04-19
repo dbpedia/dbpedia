@@ -1,0 +1,32 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Planet
+| mappings =
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = discoverer | ontologyProperty = discoverer }}
+	{{PropertyMapping | templateProperty = discovery_site | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = discovered | ontologyProperty = discovered }}
+	{{PropertyMapping | templateProperty = discovery_method | ontologyProperty = detectionMethod }}
+	{{PropertyMapping | templateProperty = periapsis | ontologyProperty = periapsis | unit = Length }}
+	{{PropertyMapping | templateProperty = apoapsis | ontologyProperty = apoapsis | unit = Length }}
+	{{PropertyMapping | templateProperty = perihelion | ontologyProperty = periapsis | unit = astronomicalUnit }}
+	{{PropertyMapping | templateProperty = aphelion | ontologyProperty = apoapsis | unit = astronomicalUnit }}
+	{{PropertyMapping | templateProperty = periastron | ontologyProperty = periapsis | unit = astronomicalUnit }}
+	{{PropertyMapping | templateProperty = apoastron | ontologyProperty = apoapsis | unit = astronomicalUnit }}
+	{{PropertyMapping | templateProperty = avg_speed | ontologyProperty = averageSpeed | unit = Speed }}
+	{{PropertyMapping | templateProperty = period | ontologyProperty = orbitalPeriod | unit = day }}
+	{{PropertyMapping | templateProperty = mean_radius | ontologyProperty = meanRadius | unit = Length }}
+	{{PropertyMapping | templateProperty = surface_area | ontologyProperty = surfaceArea | unit = Area }}
+	{{PropertyMapping | templateProperty = volume | ontologyProperty = volume | unit = cubicMetre }}
+	{{PropertyMapping | templateProperty = density | ontologyProperty = density | unit = Density }}
+	{{PropertyMapping | templateProperty = mass | ontologyProperty = mass | unit = Mass }}
+	{{PropertyMapping | templateProperty = single_temperature | ontologyProperty = temperature | unit = Temperature }}
+	{{PropertyMapping | templateProperty = min_temp_1 | ontologyProperty = minimumTemperature | unit = Temperature }}
+	{{PropertyMapping | templateProperty = mean_temp_1 | ontologyProperty = meanTemperature | unit = Temperature }}
+	{{PropertyMapping | templateProperty = max_temp_1 | ontologyProperty = maximumTemperature | unit = Temperature }}
+	{{PropertyMapping | templateProperty = min_temp_2 | ontologyProperty = minimumTemperature | unit = Temperature }}
+	{{PropertyMapping | templateProperty = mean_temp_2 | ontologyProperty = meanTemperature | unit = Temperature }}
+	{{PropertyMapping | templateProperty = max_temp_2 | ontologyProperty = maximumTemperature | unit = Temperature }}
+
+</textarea>

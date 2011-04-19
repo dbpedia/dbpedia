@@ -1,0 +1,24 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Software
+| mappings =
+	{{PropertyMapping | templateProperty = developer | ontologyProperty = developer }}
+	{{PropertyMapping | templateProperty = latestreleaseversion | ontologyProperty = latestReleaseVersion }}
+	{{PropertyMapping | templateProperty = latestreleasedate | ontologyProperty = latestReleaseDate }}
+	{{PropertyMapping | templateProperty = latestpreviewversion | ontologyProperty = latestPreviewVersion }}
+	{{PropertyMapping | templateProperty = latestpreviewdate | ontologyProperty = latestPreviewDate }}
+	{{PropertyMapping | templateProperty = frequentlyupdated | ontologyProperty = frequentlyUpdated }}
+	{{PropertyMapping | templateProperty = programminglanguage | ontologyProperty = programmingLanguage }}
+	{{PropertyMapping | templateProperty = operatingsystem | ontologyProperty = operatingSystem }}
+	{{PropertyMapping | templateProperty = platform | ontologyProperty = computingPlatform }}
+	{{PropertyMapping | templateProperty = size | ontologyProperty = fileSize | unit = megabyte }}
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = license | ontologyProperty = license }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = author | ontologyProperty = author }}
+	{{PropertyMapping | templateProperty = released | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+</textarea>

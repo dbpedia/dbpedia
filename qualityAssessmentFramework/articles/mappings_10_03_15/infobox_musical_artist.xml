@@ -1,0 +1,78 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{ConditionalMapping
+| cases =
+ {{Condition
+    | templateProperty = Current_members
+    | operator = isSet
+    | mapping = {{TemplateMapping
+                | mapToClass = Band
+                }}
+ }}
+
+ {{Condition
+    | templateProperty = Past_members
+    | operator = isSet
+    | mapping = {{TemplateMapping
+                | mapToClass = Band
+                }}
+ }}
+
+ {{Condition
+    | templateProperty = Background
+    | operator = equals
+    | value = group_or_band
+    | mapping = {{TemplateMapping
+                | mapToClass = Band
+                }}
+ }}
+
+ {{Condition
+    | templateProperty = Background
+    | operator = equals
+    | value = cover_band
+    | mapping = {{TemplateMapping
+                | mapToClass = Band
+                }}
+ }}
+
+ {{Condition
+    | templateProperty = Background
+    | operator = equals
+    | value = classical_ensemble
+    | mapping = {{TemplateMapping
+                | mapToClass = Band
+                }}
+ }}
+
+ {{Condition
+    | otherwise
+    | mapping = {{TemplateMapping
+                | mapToClass = MusicalArtist
+                }}
+ }}
+
+| defaultMappings =
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Background | ontologyProperty = background }}
+	{{PropertyMapping | templateProperty = Birth_name | ontologyProperty = foaf:givenName }}
+	{{PropertyMapping | templateProperty = Alias | ontologyProperty = alias }}
+	{{PropertyMapping | templateProperty = Born | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = Born | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = Died | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = Died | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = Origin | ontologyProperty = hometown }}
+	{{PropertyMapping | templateProperty = Instrument | ontologyProperty = instrument }}
+	{{PropertyMapping | templateProperty = Genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = Occupation | ontologyProperty = occupation }}
+        {{DateIntervalMapping
+          | templateProperty          = Years_active
+          | startDateOntologyProperty = activeYearsStartYear
+          | endDateOntologyProperty   = activeYearsEndYear
+        }}
+	{{PropertyMapping | templateProperty = Label | ontologyProperty = recordLabel}}
+	{{PropertyMapping | templateProperty = Associated_acts | ontologyProperty = associatedBand }}
+	{{PropertyMapping | templateProperty = Associated_acts | ontologyProperty = associatedMusicalArtist }}
+	{{PropertyMapping | templateProperty = URL | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = Notable_instruments | ontologyProperty = instrument }}
+</textarea>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{ConditionalMapping
+ | cases =
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = Town
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = Stadt
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = type
+    | operator = equals
+    | value = City
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = Town
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = Stadt
+    | mapping = {{TemplateMapping
+                   | mapToClass = Town
+                }}
+  }}
+
+  {{Condition
+    | templateProperty = Art
+    | operator = equals
+    | value = City
+    | mapping = {{TemplateMapping
+                   | mapToClass = City
+                }}
+  }}
+
+  {{Condition
+    | operator = otherwise
+    | mapping = {{TemplateMapping
+                   | mapToClass = Settlement
+                }}
+  }}
+
+  | defaultMappings =
+&lt;!-- german properties -->
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}	
+	{{PropertyMapping | templateProperty = German_name | ontologyProperty = foaf:name }}
+        {{GeocoordinatesMapping | latitudeDegrees = lat_deg | latitudeMinutes = lat_min | latitudeSeconds = lat_sec  | longitudeDegrees = lon_deg  | longitudeMinutes = lon_min  | longitudeSeconds = lon_sec }}
+	{{PropertyMapping | templateProperty = Bundesland | ontologyProperty = federalState }}
+	{{PropertyMapping | templateProperty = Regierungsbezirk | ontologyProperty = administrativeDistrict }}
+	{{PropertyMapping | templateProperty = Landkreis | ontologyProperty = administrativeDistrict }}
+	{{PropertyMapping | templateProperty = Kreis | ontologyProperty = administrativeDistrict }}
+	{{PropertyMapping | templateProperty = Amt | ontologyProperty = department }}
+	{{PropertyMapping | templateProperty = Gemeindeverwaltungsverband | ontologyProperty = associationOfLocalGovernment }}
+	{{PropertyMapping | templateProperty = Samtgemeinde | ontologyProperty = jointCommunity }}
+	{{PropertyMapping | templateProperty = Verbandsgemeinde | ontologyProperty = associationOfLocalGovernment }}
+	{{PropertyMapping | templateProperty = Verwaltungsgemeinschaft | ontologyProperty = administrativeCollectivity }}
+	{{PropertyMapping | templateProperty = Verwaltungsverband | ontologyProperty = administrativeCollectivity }}
+	{{PropertyMapping | templateProperty = Höhe | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevationmax | ontologyProperty = maximumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = Fläche | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = area_metro | ontologyProperty = areaMetro | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = Einwohner | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = pop_metro | ontologyProperty = populationMetro }}
+	{{PropertyMapping | templateProperty = Stand | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = PLZ | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = Vorwahl | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = KFZ | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = Website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = Bürgermeister | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = Bürgermeistertitel | ontologyProperty = leaderTitle }}
+	{{PropertyMapping | templateProperty = Partei | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = ruling_party1 | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = ruling_party2 | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = ruling_party3 | ontologyProperty = leaderParty }}
+&lt;!-- english properties -->
+	{{PropertyMapping | templateProperty = name_local | ontologyProperty = foaf:name }}
+        {{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = state | ontologyProperty = federalState }}
+	{{PropertyMapping | templateProperty = district | ontologyProperty = district }}
+	{{PropertyMapping | templateProperty = borough | ontologyProperty = administrativeDistrict }}
+        {{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = population | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = population_as_of | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = postal_code | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = area_code | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = mayor | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+</textarea>

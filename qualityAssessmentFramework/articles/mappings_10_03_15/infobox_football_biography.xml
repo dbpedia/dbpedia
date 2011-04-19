@@ -1,0 +1,69 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{ConditionalMapping
+| cases =
+ {{Condition
+    | templateProperty = manageryears
+    | operator = isSet
+    | mapping = {{TemplateMapping
+                | mapToClass = SoccerManager
+                }}
+ }}
+
+ {{Condition
+    | templateProperty = managerclubs
+    | operator = isSet
+    | mapping = {{TemplateMapping
+                | mapToClass = SoccerManager
+                }}
+ }}
+
+ {{Condition
+    | otherwise
+    | mapping = {{TemplateMapping
+                | mapToClass = SoccerPlayer
+                }}
+ }}
+
+| defaultMappings =
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}	
+        {{PropertyMapping | templateProperty = dateofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = cityofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = countryofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dateofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = cityofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = countryofdeath | ontologyProperty = deathPlace }}
+        {{PropertyMapping | templateProperty = currentclub | ontologyProperty = team }}	
+        {{PropertyMapping | templateProperty = clubnumber | ontologyProperty = number }}     
+        {{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length}}
+        {{PropertyMapping | templateProperty = position | ontologyProperty = position }}        
+	   
+        {{DateIntervalMapping
+          | templateProperty          = youthyears
+          | startDateOntologyProperty = activeYearsStartYear
+          | endDateOntologyProperty   = activeYearsEndYear
+        }}
+        {{PropertyMapping | templateProperty = youthclubs | ontologyProperty = team }}
+        {{DateIntervalMapping
+          | templateProperty          = years
+          | startDateOntologyProperty = activeYearsStartYear
+          | endDateOntologyProperty   = activeYearsEndYear
+        }}
+        {{PropertyMapping | templateProperty = clubs | ontologyProperty = team }}        
+&lt;!--    {{PropertyMapping | templateProperty = caps(goals) | ontologyProperty = team }}
+Needs to been changed into an Intermediate Node
+-->        
+        {{DateIntervalMapping
+          | templateProperty          = nationalyears
+          | startDateOntologyProperty = activeYearsStartYear
+          | endDateOntologyProperty   = activeYearsEndYear
+        }}
+        {{PropertyMapping | templateProperty = nationalteam | ontologyProperty = team }}
+&lt;!--    {{PropertyMapping | templateProperty = nationalcaps(goals) | ontologyProperty = team }}
+Needs to been changed into an Intermediate Node
+-->    
+
+
+	
+</textarea>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><article><name>Arthur_Beetson</name><snippet><id>0</id><patternClass>PlainProperty</patternClass><source>| playername = Arthur Beetson</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Arthur Beetson&quot;@en .</triple></snippet><snippet><id>1</id><patternClass>PlainProperty</patternClass><source>| fullname = Arthur Beetson</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Arthur Beetson&quot;@en .</triple></snippet><snippet><id>2</id><patternClass>PlainProperty</patternClass><source>| nickname = Big Artie</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/alias&gt; &quot;Big Artie&quot;@en .</triple></snippet><snippet><id>3</id><patternClass>PlainProperty</patternClass><source>| dateofbirth = {{birth date and age|df=yes|1945|1|22}}</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/birthDate&gt; &quot;1945-01-22&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><id>4</id><patternClass>PlainProperty</patternClass><source>| placeofbirth = [[Roma, Queensland]]</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/Roma,_Queensland&gt; .</triple></snippet><snippet><id>5</id><patternClass>PlainProperty</patternClass><source>| countryofbirth = [[Australia]]</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/Australia&gt; .</triple></snippet><snippet><comment></comment><id>6</id><patternClass>InternalTemplate</patternClass><source>| position = {{Rlp|PR}}</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/position&gt; &quot;Prop&quot;@en .</triple></snippet><snippet><id>7</id><patternClass>NumberUnit</patternClass><source>| height = {{convert|6|ft|2|in|cm|0|abbr=on}}&lt;ref name=&quot;Rugby League Week&quot;&gt;{{cite journal | author =  | title = World Series | journal = [[Rugby League Week]] | issue =1975&amp;ndash;1976 |pages = pg 85 | publisher = Rugby League Week Pty Ltd | location = Rushcutters Bay, NSW | accessdate = }}&lt;/ref&gt;</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/height&gt; &quot;1.8796&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><id>8</id><patternClass>NumberUnit</patternClass><source>| weight = {{convert|16|st|8|lb|kg|abbr=on}}&lt;ref name=&quot;Rugby League Week&quot;/&gt;</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/weight&gt; &quot;105.23342984&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><comment>it should be possible to interpret 65 as 1965 in this case</comment><id>9</id><patternClass>MultiPropertyTable</patternClass><source>| club1 =  [[Redcliffe Dolphins|Redcliffe]]
+| year1start = 1964
+| year1end = 65</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/seniorCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_1&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Redcliffe_Dolphins&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1964&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1965&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>10</id><patternClass>MultiPropertyTable</patternClass><source>| club2 =  [[Balmain Tigers]]
+| year2start = 1966
+| year2end = 70
+| appearances2 = 74
+| tries2 = 6
+| goals2 = 0
+| fieldgoals2 = 1
+| points2 = 20</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/seniorCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Balmain_Tigers&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1966&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1970&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;74&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/tries&gt; &quot;6&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/fieldGoals&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_2&gt; &lt;http://dbpedia.org/ontology/points&gt; &quot;20&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>11</id><patternClass>MultiPropertyTable</patternClass><source>| club3 =  [[Sydney Roosters|Eastern Suburbs]]
+| year3start = 1971
+| year3end = 78
+| appearances3 = 131
+| tries3 = 17
+| goals3 = 0
+| fieldgoals3 = 0
+| points3 = 51</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/seniorCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Sydney_Roosters&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1971&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1978&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;131&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/tries&gt; &quot;17&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/fieldGoals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_3&gt; &lt;http://dbpedia.org/ontology/points&gt; &quot;51&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>12</id><patternClass>MultiPropertyTable</patternClass><source>| club4 =  [[Parramatta Eels]]
+| year4start = 1979
+| year4end = 80
+| appearances4 = 16
+| tries4 = 1
+| goals4 = 0
+| fieldgoals4 = 0
+| points4 = 3</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/seniorCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Parramatta_Eels&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1979&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1980&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;16&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/tries&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/fieldGoals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_4&gt; &lt;http://dbpedia.org/ontology/points&gt; &quot;3&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>13</id><patternClass>MultiPropertyTable</patternClass><source>| club5 =  [[Redcliffe Dolphins|Redcliffe]]
+| year5start = 1981
+| year5end = </source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/seniorCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_5&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_5&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Redcliffe_Dolphins&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__seniorCarrer_5&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1981&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>14</id><patternClass>MultiPropertyTable</patternClass><source>| teamA = [[New South Wales state rugby league team|New South Wales]]
+| yearAstart = 1966
+| yearAend = 77
+| appearancesA = 18
+| triesA = 3
+| goalsA = 0
+| fieldgoalsA = 0
+| pointsA = 9</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/representativeTeamCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/New_South_Wales_state_rugby_league_team&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1966&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1977&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;18&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/tries&gt; &quot;3&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/fieldGoals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_1&gt; &lt;http://dbpedia.org/ontology/points&gt; &quot;9&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>15</id><patternClass>MultiPropertyTable</patternClass><source>| teamB =  [[Queensland state rugby league team|Queensland]]
+| yearBstart = 1980
+| yearBend = 81
+| appearancesB = 3
+| triesB = 0
+| goalsB = 0
+| fieldgoalsB = 0
+| pointsB = 0</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/representativeTeamCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Queensland_state_rugby_league_team&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1980&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1981&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;3&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/tries&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/fieldGoals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_2&gt; &lt;http://dbpedia.org/ontology/points&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>16</id><patternClass>MultiPropertyTable</patternClass><source>| teamC = [[Australia national rugby league team|Australia]]
+| yearCstart = 1966
+| yearCend = 77
+| appearancesC = 14
+| triesC = 0
+| goalsC = 0
+| fieldgoalsC = 0
+| pointsC = 0</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/representativeTeamCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Australia_national_rugby_league_team&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1966&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1977&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/appearances&gt; &quot;14&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/tries&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/goals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/fieldGoals&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__representativeTeamCarrer_3&gt; &lt;http://dbpedia.org/ontology/points&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>17</id><patternClass>MultiPropertyTable</patternClass><source>| coachyear1start = 1977
+| coachyear1end = 78
+| coachteam1 = [[Sydney Roosters|Eastern Suburbs]]
+| coachgames1 = 45
+| coachwins1 = 29
+| coachdraws1 = 1
+| coachlosses1 = 17</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Sydney_Roosters&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1977&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1978&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; &lt;http://dbpedia.org/ontology/games&gt; &quot;45&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; &lt;http://dbpedia.org/ontology/wins&gt; &quot;29&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; &lt;http://dbpedia.org/ontology/draws&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_1&gt; &lt;http://dbpedia.org/ontology/losses&gt; &quot;17&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>18</id><patternClass>MultiPropertyTable</patternClass><source>| coachyear2start = 1981
+| coachyear2end = 82
+| coachteam2 = [[Redcliffe Dolphins|Redcliffe]]</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_2&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_2&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Redcliffe_Dolphins&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1981&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1982&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>19</id><patternClass>MultiPropertyTable</patternClass><source>| coachyear3start = 1985
+| coachyear3end = 88
+| coachteam3 = [[Sydney Roosters|Eastern Suburbs]]
+| coachgames3 = 97
+| coachwins3 = 42
+| coachdraws3 = 9
+| coachlosses3 = 48</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Sydney_Roosters&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1985&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1988&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; &lt;http://dbpedia.org/ontology/games&gt; &quot;97&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; &lt;http://dbpedia.org/ontology/wins&gt; &quot;42&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; &lt;http://dbpedia.org/ontology/draws&gt; &quot;9&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_3&gt; &lt;http://dbpedia.org/ontology/losses&gt; &quot;48&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>20</id><patternClass>MultiPropertyTable</patternClass><source>| coachyear4start = 1992
+| coachyear4end = 93
+| coachteam4 = [[Cronulla-Sutherland Sharks|Cronulla-Sutherland]]
+| coachgames4 = 44
+| coachwins4 = 17
+| coachdraws4 = 0
+| coachlosses4 = 27</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Cronulla-Sutherland_Sharks&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1992&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1993&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; &lt;http://dbpedia.org/ontology/games&gt; &quot;44&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; &lt;http://dbpedia.org/ontology/wins&gt; &quot;17&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; &lt;http://dbpedia.org/ontology/draws&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_4&gt; &lt;http://dbpedia.org/ontology/losses&gt; &quot;27&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>21</id><patternClass>MultiPropertyTable</patternClass><source>| coachyear5start = 1994
+| coachyear5end = 
+| coachteam5 = [[Sydney Roosters|Eastern Suburbs]]
+| coachgames5 = 22
+| coachwins5 = 6
+| coachdraws5 = 1
+| coachlosses5 = 15</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_5&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_5&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Sydney_Roosters&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_5&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1994&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_5&gt; &lt;http://dbpedia.org/ontology/games&gt; &quot;22&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_5&gt; &lt;http://dbpedia.org/ontology/wins&gt; &quot;6&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_5&gt; &lt;http://dbpedia.org/ontology/draws&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_5&gt; &lt;http://dbpedia.org/ontology/losses&gt; &quot;15&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>22</id><patternClass>MultiPropertyTable</patternClass><source>| coachyearAstart = 1981
+| coachyearAend = 84
+| coachteamA = [[Queensland state rugby league team|Queensland]]
+| coachgamesA = 10
+| coachwinsA = 7
+| coachdrawsA = 0
+| coachlossesA = 3</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Queensland_state_rugby_league_team&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1981&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1984&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; &lt;http://dbpedia.org/ontology/games&gt; &quot;10&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; &lt;http://dbpedia.org/ontology/wins&gt; &quot;7&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; &lt;http://dbpedia.org/ontology/draws&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_6&gt; &lt;http://dbpedia.org/ontology/losses&gt; &quot;3&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>23</id><patternClass>MultiPropertyTable</patternClass><source>| coachyearBstart = 1983
+| coachyearBend = 
+| coachteamB = [[Australia national rugby league team|Australia]]
+| coachgamesB = 1
+| coachwinsB = 0
+| coachdrawsB = 0
+| coachlossesB = 1</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_7&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_7&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Australia_national_rugby_league_team&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_7&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1983&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_7&gt; &lt;http://dbpedia.org/ontology/games&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_7&gt; &lt;http://dbpedia.org/ontology/wins&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_7&gt; &lt;http://dbpedia.org/ontology/draws&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_7&gt; &lt;http://dbpedia.org/ontology/losses&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>24</id><patternClass>MultiPropertyTable</patternClass><source>| coachyearCstart = 1989
+| coachyearCend = 90
+| coachteamC = [[Queensland state rugby league team|Queensland]]
+| coachgamesC = 6
+| coachwinsC = 4
+| coachdrawsC = 0
+| coachlossesC = 2</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/coachingCarrer&gt; &lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Queensland_state_rugby_league_team&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1989&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1990&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; &lt;http://dbpedia.org/ontology/games&gt; &quot;6&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; &lt;http://dbpedia.org/ontology/wins&gt; &quot;4&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; &lt;http://dbpedia.org/ontology/draws&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Arthur_Beetson__coachingCarrer_8&gt; &lt;http://dbpedia.org/ontology/losses&gt; &quot;2&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>25</id><patternClass>PlainProperty</patternClass><source>| updated = 9 August 2008</source><triple>&lt;http://dbpedia.org/resource/Arthur_Beetson&gt; &lt;http://dbpedia.org/ontology/statisticsAsOf&gt; &quot;2008-08-09&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet></article>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><article><name>Clement_Attlee</name><snippet><id>0</id><patternClass>PlainProperty</patternClass><source>| honorific-prefix = &lt;small&gt;[[The Right Honourable]]&lt;/small&gt;&lt;br&gt;</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/honorificPrefix&gt; &lt;http://dbpedia.org/resource/The_Right_Honourable&gt; .</triple></snippet><snippet><id>1</id><patternClass>PlainProperty</patternClass><source>| name = The Earl Attlee</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;The Earl Attlee&quot;@en .</triple></snippet><snippet><id>2</id><patternClass>List</patternClass><source>|honorific-suffix = &lt;br&gt;&lt;small&gt;[[Order of the Garter|KG]] [[Order of Merit|OM]] [[Order of the Companions of Honour|CH]] [[Fellow of the Royal Society|FRS]] [[Her Majesty's Most Honourable Privy Council|PC]]&lt;/small&gt; </source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/honorificSuffix&gt; &lt;http://dbpedia.org/resource/Order_of_the_Garter&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/honorificSuffix&gt; &lt;http://dbpedia.org/resource/Order_of_Merit&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/honorificSuffix&gt; &lt;http://dbpedia.org/resource/Order_of_the_Companions_of_Honour&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/honorificSuffix&gt; &lt;http://dbpedia.org/resource/Royal_Society&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/honorificSuffix&gt; &lt;http://dbpedia.org/resource/Her_Majesty%27s_Most_Honourable_Privy_Council &gt; .</triple></snippet><snippet><comment></comment><id>3</id><patternClass>MultiPropertyTable</patternClass><source> | order           = [[Prime Minister of the United Kingdom]]
+ | term_start      = 26 July 1945
+ | term_end        = 26 October 1951
+ | deputy          = [[Herbert Morrison]]
+ | monarch         = [[George VI of the United Kingdom|George VI]]
+ | predecessor     = [[Winston Churchill]]
+ | successor       = [[Winston Churchill]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Prime Minister of the United Kingdom&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1945-07-26&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1951-10-26&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; &lt;http://dbpedia.org/ontology/deputy&gt; &lt;http://dbpedia.org/resource/Herbert_Morrison&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; &lt;http://dbpedia.org/ontology/monarch&gt; &lt;http://dbpedia.org/resource/George_VI_of_the_United_Kingdom&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_1&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .</triple></snippet><snippet><id>4</id><patternClass>MultiPropertyTable</patternClass><source> | order2          = [[Deputy Prime Minister of the United Kingdom|Deputy Prime Minister]]
+ | term_start2     = 19 February 1942
+ | term_end2       = 23 May 1945
+ | primeminister2  = [[Winston Churchill]]
+ | predecessor2    = [[Deputy Prime Minister of the United Kingdom|Office Created]]
+ | successor2      = [[Herbert Morrison]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_2&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_2&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Deputy Prime Minister of the United Kingdom&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_2&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1942-02-19&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_2&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1945-05-23&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_2&gt; &lt;http://dbpedia.org/ontology/primeMinister&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_2&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Herbert_Morrison&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_2&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/Deputy_Prime_Minister_of_the_United_Kingdom&gt; .</triple></snippet><snippet><id>5</id><patternClass>MultiPropertyTable</patternClass><source> | order3          = [[Leader of the Opposition (United Kingdom)|Leader of the Opposition]]
+ | term_start3     = 25 October 1935
+ | term_end3       = 22 May 1940
+ | monarch3        = [[George VI of the United Kingdom|George VI]]
+ | primeminister3  = [[Stanley Baldwin]]&lt;br&gt;[[Neville Chamberlain]]&lt;br&gt;[[Winston Churchill]]
+ | predecessor3    = [[George Lansbury]]
+ | successor3      = [[Hastings Lees-Smith]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Leader of the Opposition&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1935-10-25&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1940-05-22&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/monarch&gt; &lt;http://dbpedia.org/resource/George_VI_of_the_United_Kingdom&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/primeMinister&gt; &lt;http://dbpedia.org/resource/Stanley_Baldwin&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/primeMinister&gt; &lt;http://dbpedia.org/resource/Neville_Chamberlain&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/primeMinister&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Hastings_Lees-Smith&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_3&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/George_Lansbury&gt; .</triple></snippet><snippet><id>6</id><patternClass>MultiPropertyTable</patternClass><source> | term_start4     = 23 May 1945
+ | term_end4       = 26 July 1945
+ | monarch4        = [[George VI of the United Kingdom|George VI]]
+ | primeminister4  = [[Winston Churchill]]
+ | predecessor4    = [[Arthur Greenwood]]
+ | successor4      = [[Winston Churchill]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Leader of the Opposition&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1945-05-23&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1940-07-26&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; &lt;http://dbpedia.org/ontology/monarch&gt; &lt;http://dbpedia.org/resource/George_VI_of_the_United_Kingdom&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; &lt;http://dbpedia.org/ontology/primeMinister&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_4&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/Arthur_Greenwood&gt; .</triple></snippet><snippet><comment></comment><id>7</id><patternClass>MultiPropertyTable</patternClass><source> | term_start5     = 26 October 1951
+ | term_end5       = November 1955
+ | monarch5        = [[George VI of the United Kingdom|George VI]]&lt;Br&gt;[[Elizabeth II of the United Kingdom|Elizabeth II]]
+ | primeminister5  = [[Winston Churchill]]&lt;br&gt;[[Anthony Eden]]
+ | predecessor5    = [[Winston Churchill]]
+ | successor5      = [[Hugh Gaitskell]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Leader of the Opposition&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1951-10-26&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1955-11&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYearMonth&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/monarch&gt; &lt;http://dbpedia.org/resource/George_VI_of_the_United_Kingdom&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/monarch&gt; &lt;http://dbpedia.org/resource/Elizabeth_II_of_the_United_Kingdom&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/primeMinister&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/primeMinister&gt; &lt;http://dbpedia.org/resource/Anthony_Eden&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Hugh_Gaitskell&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_5&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/Winston_Churchill&gt; .</triple></snippet><snippet><id>8</id><patternClass>MultiPropertyTable</patternClass><source> | order6          = [[Secretary of State for Dominion Affairs]]
+ | term_start6     = 15 February 1942
+ | term_end6       = 24 September 1943
+ | predecessor6    = [[Robert Gascoyne-Cecil, 5th Marquess of Salisbury|Viscount Cranborne]]
+ | successor6      = [[Robert Gascoyne-Cecil, 5th Marquess of Salisbury|Viscount Cranborne]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_6&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_6&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Secretary of State for Dominion Affairs&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_6&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1942-02-15&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_6&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1943-09-24&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_6&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury &gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_6&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury &gt; .</triple></snippet><snippet><id>9</id><patternClass>MultiPropertyTable</patternClass><source> | order7          = [[Lord President of the Council]]
+ | term_start7     = 24 September 1943
+ | term_end7       = 23 May 1945
+ | predecessor7    = [[John Anderson, 1st Viscount Waverley|Sir John Anderson]]
+ | successor7      = [[Frederick Marquis, 1st Earl of Woolton|The Lord Woolton]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_7&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_7&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Lord President of the Council&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_7&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1943-09-24&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_7&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1945-05-23&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_7&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Frederick_Marquis,_1st_Earl_of_Woolton&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_7&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley&gt; .</triple></snippet><snippet><id>10</id><patternClass>MultiPropertyTable</patternClass><source> | order8          = [[Lord Privy Seal]]
+ | term_start8     = 24 September 1943
+ | term_end8       = 23 May 1945
+ | predecessor8    = [[Kingsley Wood|Sir Kingsley Wood]]
+ | successor8      = [[Stafford Cripps|Sir Stafford Cripps]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_8&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_8&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Lord Privy Seal&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_8&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1943-09-24&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_8&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1945-05-23&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_8&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Stafford_Cripps&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_8&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/Kingsley_Wood&gt; .</triple></snippet><snippet><id>11</id><patternClass>MultiPropertyTable</patternClass><source> | order9          = [[Chancellor of the Duchy of Lancaster]]
+ | term_start9     = 23 May 1930
+ | term_end9       = 13 March 1931
+ | predecessor9    = [[Oswald Mosley|Sir Oswald Mosley]]
+ | successor9      = [[Arthur Ponsonby, 1st Baron Ponsonby of Shulbrede|The Lord Ponsonby of Shulbrede]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/officeTerm&gt; &lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_9&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_9&gt; &lt;http://dbpedia.org/ontology/orderInOffice&gt; &quot;Chancellor of the Duchy of Lancaster&quot;@en .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_9&gt; &lt;http://dbpedia.org/ontology/activeYearsStartDate&gt; &quot;1930-05-23&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_9&gt; &lt;http://dbpedia.org/ontology/activeYearsEndDate&gt; &quot;1931-03-13&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_9&gt; &lt;http://dbpedia.org/ontology/successor&gt; &lt;http://dbpedia.org/resource/Arthur_Ponsonby,_1st_Baron_Ponsonby_of_Shulbrede&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee__officeTerm_9&gt; &lt;http://dbpedia.org/ontology/predecessor&gt; &lt;http://dbpedia.org/resource/Oswald_Mosley&gt; .</triple></snippet><snippet><id>12</id><patternClass>PlainProperty</patternClass><source>| birth_date    ={{birth date|df=yes|1883|1|3|}}</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/birthDate&gt; &quot;1883-01-03&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><id>13</id><patternClass>List</patternClass><source> | birth_place   =[[London]], [[England]], [[UK]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/London&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/England&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/United_Kingdom&gt; .</triple></snippet><snippet><id>14</id><patternClass>PlainProperty</patternClass><source> | death_date    ={{death date and age |df=yes|1967|10|8|1883|1|3}}</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/deathDate&gt; &quot;1967-10-08&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><id>15</id><patternClass>List</patternClass><source> | death_place   = [[London]], [[England]], [[UK]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/deathPlace&gt; &lt;http://dbpedia.org/resource/London&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/deathPlace&gt; &lt;http://dbpedia.org/resource/England&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/deathPlace&gt; &lt;http://dbpedia.org/resource/United_Kingdom&gt; .</triple></snippet><snippet><id>16</id><patternClass>PlainProperty</patternClass><source> | nationality   = [[United Kingdom|British]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/nationality&gt; &lt;http://dbpedia.org/resource/United_Kingdom&gt; .</triple></snippet><snippet><id>17</id><patternClass>PlainProperty</patternClass><source> | party         =[[Labour Party (UK)|Labour]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/party&gt; &lt;http://dbpedia.org/resource/Labour_Party_%28UK%29&gt; .</triple></snippet><snippet><id>18</id><patternClass>PlainProperty</patternClass><source> | spouse        =[[Violet Attlee]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/spouse&gt; &lt;http://dbpedia.org/resource/Violet_Attlee&gt; .</triple></snippet><snippet><id>19</id><patternClass>List</patternClass><source> | alma_mater    =[[University College, Oxford|University College]], [[University of Oxford|Oxford]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/almaMater&gt; &lt;http://dbpedia.org/resource/University_College,_Oxford&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/almaMater&gt; &lt;http://dbpedia.org/resource/University_of_Oxford&gt; .</triple></snippet><snippet><id>20</id><patternClass>List</patternClass><source> | profession    =[[Lawyer]], [[Soldier]] (served in [[World War I]] as a [[Major]])</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/profession&gt; &lt;http://dbpedia.org/resource/Lawyer&gt; .
+&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/profession&gt; &lt;http://dbpedia.org/resource/Soldier&gt; .</triple></snippet><snippet><id>21</id><patternClass>PlainProperty</patternClass><source> | religion      =[[Agnostic]]</source><triple>&lt;http://dbpedia.org/resource/Clement_Attlee&gt; &lt;http://dbpedia.org/ontology/religion&gt; &lt;http://dbpedia.org/resource/Agnostic&gt; .</triple></snippet></article>
