@@ -87,11 +87,22 @@ public class Evaluator
 
                 if (actualDBpediaModel.contains(statement))
                 {
-                    if (Config.isPresentTriplesAreMarkedAsMapped())
+                    if (Config.isRelativeMappings())
                     {
                         datastore.getMapStatementHasMapping().put(statement.hashCode(), true);
+                        resultSet.tripleTEC.present.add(statement, datastore);
                     }
-                    resultSet.tripleTEC.present.add(statement, datastore);
+                    else
+                    {
+                        if (datastore.hasMapping(statement))
+                        {
+                            resultSet.tripleTEC.present.add(statement, datastore);
+                        }
+                        else
+                        {
+                            resultSet.tripleTEC.missing.add(statement, datastore);
+                        }
+                    }
                 }
                 else
                 {
@@ -161,7 +172,8 @@ public class Evaluator
                     }
                     if (present)
                     {
-                        if (Config.isPresentTriplesAreMarkedAsMapped())
+                        // no need for a additional handling of false relativeMappings, because only mapped statements ar considered here: see first IF in method
+                        if (Config.isRelativeMappings())
                         {
                             datastore.getMapStatementHasMapping().put(missingStmt.hashCode(), true);
                         }
@@ -223,66 +235,74 @@ public class Evaluator
         for (StmtIterator missingSOStmtItr = resultSet.triplePNC.getMissingTriples().listStatements(); missingSOStmtItr.hasNext();)
         {
             Statement missingSOStmt = (Statement) missingSOStmtItr.nextStatement();
-            //RDFNode missingObject = missingSOStmt.getObject();
 
-            // TODO: DONE! similarity comparison - collect the wrong extracted data
-            // TODO: DONE! solve problem with multiple added statements.
-            // ex. two properties like : <name> <award> <?>
-            // for each property, two statements would added, so four all in all
-            if (actualDBpediaSubSubModel.contains(missingSOStmt.getSubject(), missingSOStmt.getPredicate()))
+            if (datastore.hasMapping(missingSOStmt) == false && Config.isRelativeMappings() == false)
             {
-                SimpleSelector selector = new SimpleSelector(missingSOStmt.getSubject(), missingSOStmt.getPredicate(), (Object) null);
-                for (StmtIterator actualStmtItr = actualDBpediaSubSubModel.listStatements(selector); actualStmtItr.hasNext();)
-                {
-                    Statement actualStmt = (Statement) actualStmtItr.nextStatement();
-                    sortStatementsByObjectSimilarity(missingSOStmt, actualStmt, Config.isPrintDeviations());
-                }
+                resultSet.tripleOSC.missing.add(missingSOStmt, datastore);
             }
             else
             {
-                if (!resultSet.tripleOSC.getMissingTriples().contains(missingSOStmt))
+                //RDFNode missingObject = missingSOStmt.getObject();
+
+                // TODO: DONE! similarity comparison - collect the wrong extracted data
+                // TODO: DONE! solve problem with multiple added statements.
+                // ex. two properties like : <name> <award> <?>
+                // for each property, two statements would added, so four all in all
+                if (actualDBpediaSubSubModel.contains(missingSOStmt.getSubject(), missingSOStmt.getPredicate()))
                 {
-                    resultSet.tripleOSC.missing.add(missingSOStmt, datastore);
-                }
-            }
-
-            /**
-             * TODO: DONE! check all missing stmts for intermediate nodes with other uris as i prefer.
-             * the uri creation of my gold standard differs from that used in the framework.
-             * So, they woulden't match against each other.
-             *
-             * if missing triple is intermediate node
-             */
-            if (datastore.getListOfIntermediateNodeSubjects().contains(missingSOStmt.getSubject()))
-            {
-                //get all triples with the same predicate as the missing gold triple
-                SimpleSelector selector = new SimpleSelector(null, missingSOStmt.getPredicate(), (Object) null);
-                for (StmtIterator actualStmtItr = actualDBpediaSubSubModel.listStatements(selector); actualStmtItr.hasNext();)
-                {
-                    Statement actualStmt = (Statement) actualStmtItr.nextStatement();
-
-                    String dbPediaNameSpace = "http://dbpedia.org/resource/";
-                    String missingSubjectName = missingSOStmt.getSubject().getURI().replace(dbPediaNameSpace, "");
-                    String actualSubjectName = actualStmt.getSubject().getURI().replace(dbPediaNameSpace, "");
-
-                    if (actualSubjectName.contains("__"))
+                    SimpleSelector selector = new SimpleSelector(missingSOStmt.getSubject(), missingSOStmt.getPredicate(), (Object) null);
+                    for (StmtIterator actualStmtItr = actualDBpediaSubSubModel.listStatements(selector); actualStmtItr.hasNext();)
                     {
-                        String[] split = missingSubjectName.split("__");
-                        if (split[0].length() > 1)
+                        Statement actualStmt = (Statement) actualStmtItr.nextStatement();
+                        sortStatementsByObjectSimilarity(missingSOStmt, actualStmt, Config.isPrintDeviations());
+                    }
+                }
+                else
+                {
+                    if (!resultSet.tripleOSC.getMissingTriples().contains(missingSOStmt))
+                    {
+                        resultSet.tripleOSC.missing.add(missingSOStmt, datastore);
+                    }
+                }
+
+                /**
+                 * TODO: DONE! check all missing stmts for intermediate nodes with other uris as i prefer.
+                 * the uri creation of my gold standard differs from that used in the framework.
+                 * So, they woulden't match against each other.
+                 *
+                 * if missing triple is intermediate node
+                 */
+                if (datastore.getListOfIntermediateNodeSubjects().contains(missingSOStmt.getSubject()))
+                {
+                    //get all triples with the same predicate as the missing gold triple
+                    SimpleSelector selector = new SimpleSelector(null, missingSOStmt.getPredicate(), (Object) null);
+                    for (StmtIterator actualStmtItr = actualDBpediaSubSubModel.listStatements(selector); actualStmtItr.hasNext();)
+                    {
+                        Statement actualStmt = (Statement) actualStmtItr.nextStatement();
+
+                        String dbPediaNameSpace = "http://dbpedia.org/resource/";
+                        String missingSubjectName = missingSOStmt.getSubject().getURI().replace(dbPediaNameSpace, "");
+                        String actualSubjectName = actualStmt.getSubject().getURI().replace(dbPediaNameSpace, "");
+
+                        if (actualSubjectName.contains("__"))
                         {
-                            // if intermediate node belongs the the missing gold subject
-                            if (actualSubjectName.startsWith(split[0]))
+                            String[] split = missingSubjectName.split("__");
+                            if (split[0].length() > 1)
                             {
-//                                System.out.println("############################");
-//                                System.out.println("gold subject start:" + missingSubjectName);
-//                                System.out.println("actual Subject start:" + actualSubjectName);
-//                                printStatement(actualStmt, "actual statement");
-//                                printStatement(missingSOStmt, "gold statement");
-//                                System.out.println("############################");
+                                // if intermediate node belongs the the missing gold subject
+                                if (actualSubjectName.startsWith(split[0]))
+                                {
+    //                                System.out.println("############################");
+    //                                System.out.println("gold subject start:" + missingSubjectName);
+    //                                System.out.println("actual Subject start:" + actualSubjectName);
+    //                                printStatement(actualStmt, "actual statement");
+    //                                printStatement(missingSOStmt, "gold statement");
+    //                                System.out.println("############################");
 
 
-                                // subject fits and predicate is the same, so compare the object:
-                                sortStatementsByObjectSimilarity(missingSOStmt, actualStmt, Config.isPrintDeviations());
+                                    // subject fits and predicate is the same, so compare the object:
+                                    sortStatementsByObjectSimilarity(missingSOStmt, actualStmt, Config.isPrintDeviations());
+                                }
                             }
                         }
                     }
@@ -509,7 +529,7 @@ public class Evaluator
                 int intValueB = actualObject.asLiteral().getInt();
                 if (isNumberInRange(intValueA, intValueB, 0.1))
                 {
-                    if (Config.isPresentTriplesAreMarkedAsMapped())
+                    if (Config.isRelativeMappings())
                     {
                         datastore.getMapStatementHasMapping().put(missingStmt.hashCode(), true);
                     }
@@ -585,7 +605,7 @@ public class Evaluator
                 double dblValueA = missingObject.asLiteral().getDouble();
                 if (isNumberInRange(dblValueA, dblValueM, 0.1))
                 {
-                    if (Config.isPresentTriplesAreMarkedAsMapped())
+                    if (Config.isRelativeMappings())
                     {
                         datastore.getMapStatementHasMapping().put(missingStmt.hashCode(), true);
                     }
@@ -660,7 +680,7 @@ public class Evaluator
                 Float ld = LevenshteinDistance.getSimilarity(valueMO, valueAO);
                 if (ld > 0.8)
                 {
-                    if (Config.isPresentTriplesAreMarkedAsMapped())
+                    if (Config.isRelativeMappings())
                     {
                         datastore.getMapStatementHasMapping().put(missingStmt.hashCode(), true);
                     }
@@ -737,7 +757,7 @@ public class Evaluator
             Float ld = LevenshteinDistance.getSimilarity(valueMO, valueAO);
             if (ld > 0.8)
             {
-                if (Config.isPresentTriplesAreMarkedAsMapped())
+                if (Config.isRelativeMappings())
                 {
                     datastore.getMapStatementHasMapping().put(missingStmt.hashCode(), true);
                 }

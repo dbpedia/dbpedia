@@ -9,6 +9,7 @@ import com.hp.hpl.jena.rdf.model.*;
 import com.hp.hpl.jena.util.FileManager;
 import java.io.*;
 import java.net.URL;
+import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.*;
 import org.w3c.dom.*;
@@ -281,6 +282,7 @@ public class Preprocessor
             {
                 x++;
                 boolean finder = false;
+                boolean encodedFinder = false;
                 fstream = new FileInputStream(Config.getDbpediaReleasePath());
                 BufferedReader in = new BufferedReader(new InputStreamReader(fstream));
                 // replace %3A to :
@@ -301,6 +303,12 @@ public class Preprocessor
                         buffer.newLine();
                         finder = true;
                     }
+                    else if (inputLine.contains(URLDecoder.decode(articleUri, "UTF-8")))
+                    {
+                        buffer.write(inputLine);
+                        buffer.newLine();
+                        encodedFinder = true;
+                    }
                 }
                 if (!finder)
                 {
@@ -309,6 +317,10 @@ public class Preprocessor
                 else
                 {
                     System.out.println("done");
+                }
+                if (encodedFinder)
+                {
+                    System.out.println("check encoding!");
                 }
                 System.out.println();
             }
@@ -481,7 +493,7 @@ public class Preprocessor
         try
         {
             root = ArticleItemCol.load(articleListfile);
-            out = new BufferedWriter(new FileWriter(Config.getProjectPath() + "/relevant36Triples.n3"));
+            out = new BufferedWriter(new FileWriter(Config.getRelevantDBpediaTriplesPath()));
         }
         catch (IOException ex)
         {
@@ -518,6 +530,7 @@ public class Preprocessor
         {
             System.out.println("Msg: " + ex.getMessage());
         }
+        cleanUpRelevantTriples();
     }
 
     /**

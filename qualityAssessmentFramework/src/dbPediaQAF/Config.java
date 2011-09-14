@@ -20,24 +20,31 @@ public class Config
     private static final String urlToLocalWikipedia = "http://localhost/wikipedia_local/";
 
     private static final int dumpYear = 2011;
-    private static final int dumpMonth = 01;
-    private static final int dumpDay = 17;
+    private static final int dumpMonth = 8;
+    private static final int dumpDay = 9;
     private static final String projectPath = "C:/Users/Paul/Documents/Projects/Diplomarbeit/DBpediaQAF";
-    private static final String dbpediaReleasePath = projectPath + "/DBpedia_release/mappingbased_properties_en.nt";
+    private static final String dbpediaReleasePath = projectPath + "/DBpedia_release/mappingbased_properties_en_37.nt";
     private static final String dataPath = projectPath + "/articles/data/";
-    private static final String mappingPath = projectPath + "/articles/mappings_10_03_15/";
-    //private static final String mappingPath = projectPath + "/articles/mappings_11_01_17/";
+    //private static final String mappingPath = projectPath + "/articles/mappings_10_03_15/";
+    private static final String mappingPath = projectPath + "/articles/mappings_11_01_17/";
+    //private static final String mappingPath = projectPath + "/articles/mappings_11_08_09/";
     private static final String articleListPath = projectPath + "/articles/articles.xml";
     private static final String articleBufferPath = projectPath + "/articleBuffer.n3";
-    private static final String relevantDBpediaTriplesPath = projectPath + "/relevant351Triples.n3";
-    //private static final String relevantDBpediaTriplesPath = projectPath + "/relevant36Triples.n3";
+    //private static final String relevantDBpediaTriplesPath = projectPath + "/relevant351Triples.n3";
+    private static final String relevantDBpediaTriplesPath = projectPath + "/relevant36Triples.n3";
+    //private static final String relevantDBpediaTriplesPath = projectPath + "/relevant37Triples.n3";
     private static final Calendar cal = Calendar.getInstance();
     private static final String date = cal.get(1) + "-" + (cal.get(2) + 1) + "-" + cal.get(5) + "_" + cal.get(11) + "-" + cal.get(12);
     private static final String csvOutputPath = projectPath + "/results/result_" + date + ".csv";
-    private static final String excelFileOutputPath = projectPath + "/results/evaluationResult.xls";
-    private static final Boolean presentTriplesAreMarkedAsMapped = true;
+    private static final String excelFileOutputPath = projectPath + "/results/evaluationResult_36.xls";
+    /**
+     * relativeMappings flag
+     * If true: present mappings are marked as mapped.
+     * If false: triples without mapping are marked as missing.
+     */
+    private static final Boolean relativeMappings = false;
     private static final Boolean printDeviations = false;
-    private static final Boolean exportToExcel = false;
+    private static final Boolean exportToExcel = true;
     private static final Boolean printResult = true;
 
     public static String getLocalDatabase()
@@ -76,9 +83,9 @@ public class Config
         return printDeviations;
     }
 
-    public static Boolean isPresentTriplesAreMarkedAsMapped()
+    public static Boolean isRelativeMappings()
     {
-        return presentTriplesAreMarkedAsMapped;
+        return relativeMappings;
     }
 
     public static String getExcelFileOutputPath()
