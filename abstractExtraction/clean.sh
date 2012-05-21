@@ -44,12 +44,14 @@ fi
 
 for WPLANG in $(echo $WPLANGS | sed -e 's/-/_/g')
 do
+    PLANG="${WPLANG}"
+    WPLANG="${WPLANG}wiki"
     LANGWITHDASH=$(echo $WPLANG | sed -e 's/_/-/g')
 	RECENTDATE=$(ls $DATADIR/$LANGWITHDASH \
                     | grep "[0-9]*" --line-regexp \
                     | sort \
                     | tail -n1)  # get most recent date
-	WPLANGDIR=$DATADIR/$LANGWITHDASH/$RECENTDATE        #e.g. /dumps/en/20100412
+	WPLANGDIR=$DATADIR/${LANGWITHDASH}/$RECENTDATE        #e.g. /dumps/en/20100412
 
     if [[ ! -d "$WPLANGDIR" ]]
 	then
@@ -59,29 +61,22 @@ do
 	
 	for TABLE in image imagelinks langlinks templatelinks categorylinks
 	do
-		SQLFILE=$WPLANGDIR/${WPLANG}wiki-$RECENTDATE-$TABLE.sql
-		CLEANSQLFILE=$WPLANGDIR/clean.${WPLANG}wiki-$RECENTDATE-$TABLE.sql
+		SQLFILE=$WPLANGDIR/${WPLANG}-$RECENTDATE-$TABLE.sql
+		CLEANSQLFILE=$WPLANGDIR/clean.${WPLANG}-$RECENTDATE-$TABLE.sql
         echo "cleaning $SQLFILE..."
         time sed -r '/^DROP TABLE IF EXISTS `'$TABLE'`;$/ d; /^CREATE TABLE `'$TABLE'` \($/,/^\) (ENGINE|TYPE)=InnoDB( DEFAULT CHARSET=binary)?;$/ d' "$SQLFILE" >"$CLEANSQLFILE"
 	done
 
     echo --------------------------------------------------------------------
-	echo "cleaned $WPLANG"
+	echo "cleaned $PLANG"
 	echo --------------------------------------------------------------------
 	
 done
 
 
-# ------------ new for DBpedia 3.6 ------------
-# delete these three columns, because they are not in categorylinks.sql files
-# (check in categorylinks how many columns get inserted!)
-grep -P '(?:cl_sortkey_prefix|cl_collation|cl_type)' $DATADIR/tables.sql --invert-match \
-     | sed -e 's/cl_timestamp timestamp NOT NULL,/cl_timestamp timestamp NOT NULL/' \
-     >$DATADIR/clean.tables.sql
-
 echo "splitting tables.sql into tables-no-indexes.sql and tables-only-indexes.sql..."
-grep 'CREATE .*INDEX' $DATADIR/clean.tables.sql                >$DATADIR/tables-only-indexes.sql
-grep 'CREATE .*INDEX' $DATADIR/clean.tables.sql --invert-match >$DATADIR/tables-no-indexes.sql
+grep 'CREATE .*INDEX' $DATADIR/tables.sql                >$DATADIR/tables-only-indexes.sql
+grep 'CREATE .*INDEX' $DATADIR/tables.sql --invert-match >$DATADIR/tables-no-indexes.sql
 
 
 echo --------------------------------------------------------------------

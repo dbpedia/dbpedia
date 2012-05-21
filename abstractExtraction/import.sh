@@ -101,6 +101,7 @@ echo
 
 for WPLANG in $(echo $WPLANGS | sed -e 's/-/_/g')
 do
+    WPLANG="${WPLANG}wiki"
     LANGWITHDASH=$(echo $WPLANG | sed -e 's/_/-/g')
 	RECENTDATE=$(ls $DATADIR/$LANGWITHDASH \
                     | grep "[0-9]*" --line-regexp \
@@ -127,7 +128,7 @@ do
 	time create-database
 	echo
 	
-	XMLFILE=$WPLANGDIR/${WPLANG}wiki-$RECENTDATE-pages-articles.xml
+	XMLFILE=$WPLANGDIR/${WPLANG}-$RECENTDATE-pages-articles.xml
 	
 	check-data $XMLFILE page revision text
 	
@@ -141,7 +142,7 @@ do
 	for TABLE in image imagelinks langlinks templatelinks categorylinks
 	do
 
-		CLEANSQLFILE=$WPLANGDIR/clean.${WPLANG}wiki-$RECENTDATE-$TABLE.sql
+		CLEANSQLFILE=$WPLANGDIR/clean.${WPLANG}-$RECENTDATE-$TABLE.sql
 		if [[ ! -f "$CLEANSQLFILE" ]]
 		then
             echo "missing $CLEANSQLFILE; (was SQL file downloaded? did you run clean.sh? did it finish?)"
