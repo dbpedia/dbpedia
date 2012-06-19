@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Silk>
+  <Prefixes>
+    <Prefix id="rdf" namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" />
+    <Prefix id="rdfs" namespace="http://www.w3.org/2000/01/rdf-schema#" />
+    <Prefix id="owl" namespace="http://www.w3.org/2002/07/owl#" />
+    <Prefix id="dbpedia-owl" namespace="http://dbpedia.org/ontology/" />
+    <Prefix id="dbpedia-prop" namespace="http://dbpedia.org/property/" />
+    <Prefix id="dc" namespace="http://purl.org/dc/terms/" />
+    <Prefix id="linkedmdb" namespace="http://data.linkedmdb.org/resource/movie/" />
+    <Prefix id="foaf" namespace="http://xmlns.com/foaf/0.1/" />
+
+  </Prefixes>
+
+  <DataSources>
+    <DataSource id="dbpedia" type="sparqlEndpoint">
+      <Param value="http://160.45.137.69:3030/dbpedia/query" name="endpointURI"></Param>
+	  <!-- <Param value="http://dbpedia.org/sparql" name="endpointURI"></Param>  -->
+      <!-- <Param value="http://dbpedia.org" name="graph"></Param> -->
+      <Param name="retryCount" value="1000" />
+      <Param name="retryPause" value="10000" />
+      <Param name="pauseTime" value="100" />
+    </DataSource>
+
+    <DataSource id="linkedmdb" type="sparqlEndpoint">
+      <Param name="endpointURI" value="http://data.linkedmdb.org/sparql" />
+      <Param name="retryCount" value="500" />
+      <Param name="retryPause" value="10000" />
+    </DataSource>
+  </DataSources>
+
+  <Blocking />
+
+  <Interlinks>
+    <Interlink id="dbpedia-linkedmdb-actor">
+      <LinkType>owl:sameAs</LinkType>
+
+      <SourceDataset dataSource="dbpedia" var="a">
+        <RestrictTo>
+          ?a rdf:type dbpedia-owl:Person
+        </RestrictTo>
+      </SourceDataset>
+
+      <TargetDataset dataSource="linkedmdb" var="b">
+        <RestrictTo>
+          ?b rdf:type linkedmdb:actor
+        </RestrictTo>
+      </TargetDataset>
+
+      <LinkCondition>
+        <Aggregate type="average">
+          <Compare metric="levenshtein">
+            <TransformInput function="regexReplace">
+                <TransformInput function="lowerCase">
+                <Input path="?a/rdfs:label" />
+              </TransformInput>
+              <Param name="regex" value="\s?\(actor\)$"/>
+              <Param name="replace" value=""/>
+            </TransformInput>
+          <TransformInput function="regexReplace">
+            <TransformInput function="lowerCase">
+              <TransformInput function="convertCharset">
+                <Input path="?b/rdfs:label" />
+              </TransformInput>
+            </TransformInput>
+            <Param name="regex" value="\s?\(actor\)$"/>
+            <Param name="replace" value=""/>
+          </TransformInput>
+        </Compare>
+          <!-- <Compare metric="levenshtein">
+            <TransformInput function="regexReplace">
+              <TransformInput function="lowerCase">
+                <Input path="?a\dbpedia-owl:starring/rdfs:label" />
+              </TransformInput>
+              <Param name="regex" value="\s?\(film\)$"/>
+              <Param name="replace" value=""/>
+            </TransformInput>
+            <TransformInput function="regexReplace">
+              <TransformInput function="lowerCase">
+                <TransformInput function="convertCharset">
+                  <Input path="?b\linkedmdb:actor/rdfs:label" />
+                </TransformInput>
+              </TransformInput>
+              <Param name="regex" value="\s?\(film\)$"/>
+              <Param name="replace" value=""/>
+            </TransformInput>
+          </Compare> -->
+        </Aggregate>
+      </LinkCondition>
+
+      <Filter threshold="0.95" />
+
+      <Outputs>
+        <Output maxConfidence="0.98" type="file" >
+          <Param name="file" value="dbpedia_linkedmdb_actors_verify.xml"/>
+          <Param name="format" value="alignment"/>
+        </Output>
+        <Output minConfidence="0.98" type="file">
+          <Param name="file" value="dbpedia_linkedmdb_actors.nt"/>
+          <Param name="format" value="ntriples"/>
+        </Output>
+      </Outputs>
+    </Interlink>
+  </Interlinks>
+</Silk>

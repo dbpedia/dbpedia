@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
+    xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+    xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
+    xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
+<Alignment>
+<map>
+      <Cell>
+          <entity1 rdf:resource="http://dbpedia.org/resource/Samsun-%C3%87ar%C5%9Famba_Airport"></entity1>
+          <entity2 rdf:resource="http://sws.geonames.org/7700046"></entity2>
+        <relation>
+          =
+        </relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
+          0.1878701603948009
+        </measure>
+      </Cell>
+    </map>
+</Alignment>
+</rdf:RDF>

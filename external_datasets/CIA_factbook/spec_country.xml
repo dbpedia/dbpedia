@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Silk>
+  <Prefixes>
+    <Prefix id="rdf" namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix id="owl" namespace="http://www.w3.org/2002/07/owl#"/>
+    <Prefix id="dbpedia-owl" namespace="http://dbpedia.org/ontology/"/>
+    <Prefix id="rdfs" namespace="http://www.w3.org/2000/01/rdf-schema#"/>
+   <Prefix id="factbook" namespace="http://www4.wiwiss.fu-berlin.de/factbook/ns#"/>
+  </Prefixes>
+  <DataSources>
+  <DataSource id="dbpedia" type="sparqlEndpoint">
+      <Param name="endpointURI" value="http://dbpedia.org/sparql/"/>
+      <Param name="retryCount" value="3"/>
+      <Param name="retryPause" value="1000"/>
+    </DataSource>
+    <DataSource id="factbook" type="sparqlEndpoint">
+      <Param name="endpointURI" value="http://www4.wiwiss.fu-berlin.de/factbook/sparql"/>
+      <Param name="retryCount" value="3"/>
+      <Param name="retryPause" value="1000"/>
+    </DataSource>
+  </DataSources>
+  <Interlinks>
+    <Interlink id="factbooklang">
+      <LinkType>dbpedia-owl:spokenIn</LinkType>
+      <SourceDataset dataSource="dbpedia" var="a">
+        <RestrictTo>?a rdf:type dbpedia-owl:Country</RestrictTo>
+      </SourceDataset>
+      <TargetDataset dataSource="factbook" var="b">
+        <RestrictTo>?b rdf:type factbook:Country</RestrictTo>
+      </TargetDataset>
+      <LinkCondition>
+ <Aggregate required="true" type="max" weight="1">
+          <Compare metric="jaro" required="false" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/rdfs:label[@lang = 'en']"/>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/rdfs:label"/>
+            </TransformInput>
+          </Compare>
+   </Aggregate>
+
+ </LinkCondition>
+      <Filter threshold="0.90"/>
+      <Outputs> 
+  <Output minConfidence="0.90" type="file">
+                    <Param name="file" value="factbook_country.nt"/>
+                    <Param name="format" value="ntriples"/>
+                </Output>
+                <Output maxConfidence="0.95" type="file">
+                    <Param name="file" value="factbooklang_links_verify.nt"/>
+                    <Param name="format" value="alignment"/>
+                </Output>
+</Outputs>
+    </Interlink>
+  </Interlinks>
+</Silk>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Silk>
+	<Prefixes>
+		<Prefix id="rdf" namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" />
+		<Prefix id="owl" namespace="http://www.w3.org/2002/07/owl#" />
+		<Prefix id="rdfs" namespace="http://www.w3.org/2000/01/rdf-schema#" />
+		<Prefix id="dc" namespace="http://purl.org/dc/elements/1.1/" />
+		<Prefix id="swc" namespace="http://data.semanticweb.org/ns/swc/ontology#" />
+		<Prefix id="swrc" namespace="http://swrc.ontoware.org/ontology#" />
+		<Prefix id="akt" namespace="http://www.aktors.org/ontology/portal#" />
+		<Prefix id="dbpedia-owl" namespace="http://dbpedia.org/ontology/"/>
+		<Prefix id="foaf" namespace="http://xmlns.com/foaf/0.1/" />
+		<Prefix id="owl" namespace="http://www.w3.org/2002/07/owl#"/>
+		<Prefix id="yago" namespace="http://dbpedia.org/class/yago/"/>
+	</Prefixes>
+
+	<DataSources>
+		<DataSource id="dblp" type="sparqlEndpoint">
+			<Param name="endpointURI" value="http://www4.wiwiss.fu-berlin.de/dblp/sparql/" />
+		</DataSource>
+		<DataSource id="DBpedia" type="sparqlEndpoint">
+			<Param name="endpointURI" value="http://sparql.sindice.com/sparql/" />
+		</DataSource>
+	</DataSources>
+
+	<Interlinks>
+		<Interlink id="links">
+
+			<LinkType>owl:sameAs</LinkType>
+
+			<SourceDataset dataSource="source_a" var="a">
+				<RestrictTo>
+					?a rdf:type foaf:Person
+				</RestrictTo>
+			</SourceDataset>
+
+			<TargetDataset dataSource="DBpedia" var="b">
+				<RestrictTo>
+					{?b rdf:type dbpedia-owl:Person}
+					UNION
+					{?b rdf:type yago:Person100007846}
+					UNION
+					{?b rdf:type foaf:Person}
+				</RestrictTo>
+			</TargetDataset>
+
+			<LinkCondition>
+				<Aggregate required="true" type="average" weight="1">
+					<Compare metric="levenshtein" required="true" weight="1">
+						<TransformInput function="lowerCase">
+							<Input path="?a/foaf:name" />
+						</TransformInput>
+						<TransformInput function="lowerCase">
+							<Input path="?b/akt:full-name" />
+						</TransformInput>
+					</Compare>
+				</Aggregate>
+			</LinkCondition>
+
+			<Filter threshold="0.8" limit="1" />
+
+			<Outputs>
+				<Output maxConfidence="0.9" type="file">
+					<Param name="file" value="verify.xml" />
+					<Param name="format" value="alignment" />
+				</Output>
+				<Output minConfidence="0.9" type="file">
+					<Param name="file" value="links.nt" />
+					<Param name="format" value="ntriples" />
+				</Output>
+			</Outputs>
+		</Interlink>
+	</Interlinks>
+</Silk>

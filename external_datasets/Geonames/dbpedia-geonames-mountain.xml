@@ -1,0 +1,166 @@
+<Silk>
+  <Prefixes>
+    <Prefix namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="rdf"></Prefix>
+    <Prefix namespace="http://umbel.org/umbel/sc/" id="umbel-sc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/property/" id="dbpedia-prop"></Prefix>
+    <Prefix namespace="http://purl.org/uF/hCard/terms/" id="hcterms"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/triplify/" id="linkedgeodata"></Prefix>
+    <Prefix namespace="http://purl.org/dc/dcmitype/" id="dctype"></Prefix>
+    <Prefix namespace="http://purl.org/dc/terms/" id="dc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia"></Prefix>
+    <Prefix namespace="http://www.geonames.org/ontology#" id="geonames"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="geo"></Prefix>
+    <Prefix namespace="http://www.w3.org/2002/07/owl#" id="owl"></Prefix>
+    <Prefix namespace="http://dbpedia.org/class/yago/" id="yago"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="wgs84"></Prefix>
+    <Prefix namespace="http://www.w3.org/2004/02/skos/core#" id="skos"></Prefix>
+    <Prefix namespace="http://www.w3.org/2006/vcard/ns#" id="v"></Prefix>
+    <Prefix namespace="http://xmlns.com/foaf/0.1/" id="foaf"></Prefix>
+    <Prefix namespace="http://www.w3.org/2000/01/rdf-schema#" id="rdfs"></Prefix>
+    <Prefix namespace="http://purl.org/ontology/mo/" id="mo"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/ontology/" id="lgdo"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia-owl"></Prefix>
+    <Prefix namespace="http://data.linkedmdb.org/resource/movie/" id="linkedmdb"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/property/" id="lgdp"></Prefix>
+  </Prefixes>
+  <DataSources>
+    <DataSource type="sparqlEndpoint" id="dbpedia">
+      <Param value="http://160.45.137.69:3030/query" name="endpointURI"></Param>
+      <!-- <Param value="http://dbpedia.org/sparql" name="endpointURI"></Param> -->
+	  <Param value="http://dbpedia.org" name="graph"></Param>
+      <Param value="100" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+    <DataSource type="sparqlEndpoint" id="geonames">
+      <Param value="http://160.45.137.69:8890/sparql" name="endpointURI"></Param>
+      <Param value="3" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+      <Param value="http://geonames.org" name="graph"></Param>
+    </DataSource>
+  </DataSources>
+  <Interlinks>
+    <Interlink id="dbpedia-geonames-mountain">
+      <LinkType>owl:sameAs</LinkType>
+      <SourceDataset var="a" dataSource="dbpedia">
+        <RestrictTo>
+          {?a rdf:type dbpedia-owl:Mountain} UNION {?a rdf:type yago:Mountain109359803}.
+        </RestrictTo>
+      </SourceDataset>
+      <TargetDataset var="b" dataSource="geonames">
+        <RestrictTo>
+          {?b geonames:featureCode geonames:HLL} UNION {?b geonames:featureCode geonames:MT}.
+        </RestrictTo>
+      </TargetDataset>
+      <LinkCondition>
+	  <Aggregate type="average" required="false" weight="1">
+        <Aggregate type="max" required="false" weight="1">
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/foaf:name"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:alternateName"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/foaf:name"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:name"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/dbpedia-prop:name"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:name"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/dbpedia-prop:name"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:alternateName"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/rdfs:label"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:name"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/rdfs:label"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:alternateName"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+			<TransformInput function="stripUriPrefix">
+              <TransformInput function="replace">
+                <Input path="?a\dbpedia:wikiPageRedirects"></Input>
+                <Param value="_" name="search"></Param>
+                <Param value=" " name="replace"></Param>
+			  </TransformInput>
+            </TransformInput>
+			</TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:name"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+			<TransformInput function="stripUriPrefix">
+              <TransformInput function="replace">
+                <Input path="?a\dbpedia:wikiPageRedirects"></Input>
+                <Param value="_" name="search"></Param>
+                <Param value=" " name="replace"></Param>
+              </TransformInput>
+			</TransformInput>
+			</TransformInput>
+            <TransformInput function="lowerCase">
+              <Input path="?b/geonames:alternateName"></Input>
+            </TransformInput>
+          </Compare>
+        </Aggregate>
+				<Aggregate type="max" required="false" weight="1">
+		 <Compare metric="wgs84" required="true">
+  <TransformInput function="concat">
+   <Input path="?a/wgs84:lat" />
+   <Input path="?a/wgs84:long" />
+   <Param name="glue" value=" " />
+  </TransformInput>
+  <TransformInput function="concat">
+   <Input path="?b/wgs84:lat" />
+   <Input path="?b/wgs84:long" />
+   <Param name="glue" value=" " />
+  </TransformInput>
+  <Param name="unit" value="km" />
+  <Param name="threshold" value="40" />
+  <Param name="curveStyle" value="linear" />
+ </Compare>
+ </Aggregate>
+ </Aggregate>
+      </LinkCondition>
+      <Filter threshold="0.90"></Filter>
+      <Outputs>
+		<Output maxConfidence="0.92" type="file" >
+          <Param name="file" value="dbpedia-geonames-mountain-verify.xml"/>
+          <Param name="format" value="alignment"/>
+        </Output>
+        <Output minConfidence="0.92" type="file">
+          <Param name="file" value="dbpedia-geonames-mountain.nt"/>
+          <Param name="format" value="ntriples"/>
+        </Output>
+		</Outputs>
+    </Interlink>
+  </Interlinks>
+</Silk>
