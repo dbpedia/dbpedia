@@ -1,0 +1,112 @@
+<Silk>
+  <Prefixes>
+    <Prefix namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="rdf"></Prefix>
+    <Prefix namespace="http://umbel.org/umbel/sc/" id="umbel-sc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/property/" id="dbpedia-prop"></Prefix>
+    <Prefix namespace="http://purl.org/uF/hCard/terms/" id="hcterms"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/triplify/" id="linkedgeodata"></Prefix>
+    <Prefix namespace="http://purl.org/dc/dcmitype/" id="dctype"></Prefix>
+    <Prefix namespace="http://purl.org/dc/terms/" id="dc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia"></Prefix>
+    <Prefix namespace="http://www.geonames.org/ontology#" id="geonames"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="geo"></Prefix>
+    <Prefix namespace="http://data.linkedct.org/vocab/" id="linkedct"></Prefix>
+    <Prefix namespace="http://www.w3.org/2002/07/owl#" id="owl"></Prefix>
+    <Prefix namespace="http://dbpedia.org/class/yago/" id="yago"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="wgs84"></Prefix>
+    <Prefix namespace="http://www.w3.org/2004/02/skos/core#" id="skos"></Prefix>
+    <Prefix namespace="http://www.w3.org/2006/vcard/ns#" id="v"></Prefix>
+    <Prefix namespace="http://xmlns.com/foaf/0.1/" id="foaf"></Prefix>
+    <Prefix namespace="http://www.w3.org/2000/01/rdf-schema#" id="rdfs"></Prefix>
+    <Prefix namespace="http://purl.org/ontology/mo/" id="mo"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/ontology/" id="lgdo"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia-owl"></Prefix>
+    <Prefix namespace="http://data.linkedmdb.org/resource/movie/" id="linkedmdb"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/property/" id="lgdp"></Prefix>
+    <Prefix namespace="http://openei.org/resources/" id="openei"></Prefix>
+  </Prefixes>
+  <DataSources>
+    <DataSource type="sparqlEndpoint" id="dbpedia">
+	  <Param value="http://160.45.137.69:3030/dbpedia/query" name="endpointURI"></Param>
+	  <!-- <Param value="http://dbpedia.org/sparql" name="endpointURI"></Param>  -->
+      <!-- <Param value="http://dbpedia.org/" name="graph"></Param> --><Param name="retryCount" value="1000" />
+      <Param value="100" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+    <DataSource type="sparqlEndpoint" id="linkedct">
+      <!-- <Param value="http://data.linkedct.org/sparql/" name="endpointURI"></Param> -->
+	  <Param value="http://160.45.137.68:3030/uli/query" name="endpointURI"></Param>
+	  <!-- <Param name="graph" value="http://linkedct.org" /> -->
+      <Param value="3" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+  </DataSources>
+  <Interlinks>
+    <Interlink id="dbpedia-linkedct-sponsor">
+      <LinkType>owl:sameAs</LinkType>
+      <SourceDataset var="a" dataSource="dbpedia">
+        <RestrictTo>?a rdf:type dbpedia-owl:Organisation .</RestrictTo>
+      </SourceDataset>
+      <TargetDataset var="b" dataSource="linkedct">
+        <RestrictTo>?b rdf:type linkedct:sponsor .</RestrictTo>
+      </TargetDataset>
+      <LinkCondition>
+        <Aggregate type="max" required="false" weight="1">
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+			<TransformInput function="stripUriPrefix">
+              <TransformInput function="replace">
+                <Input path="?a\dbpedia:wikiPageRedirects"></Input>
+                <Param value="_" name="search"></Param>
+                <Param value=" " name="replace"></Param>
+              </TransformInput>
+			  </TransformInput>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+			 <TransformInput function="replace">
+				<Input path="?b/rdfs:label"></Input>
+				<Param value=" (Sponsor)" name="search"></Param>
+				<Param value="" name="replace"></Param>
+			 </TransformInput>
+            </TransformInput>
+          </Compare>
+          <!-- <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/foaf:name"></Input>
+            </TransformInput>
+             <TransformInput function="lowerCase">
+			  <TransformInput function="replace">
+				<Input path="?b/rdfs:label"></Input>
+				<Param value=" (Sponsor)" name="search"></Param>
+				<Param value="" name="replace"></Param>
+			 </TransformInput>
+            </TransformInput>
+          </Compare> -->
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/rdfs:label"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+			 <TransformInput function="replace">
+				<Input path="?b/rdfs:label"></Input>
+				<Param value=" (Sponsor)" name="search"></Param>
+				<Param value="" name="replace"></Param>
+			 </TransformInput>
+            </TransformInput>
+          </Compare>
+		</Aggregate>
+	  </LinkCondition>
+      <Filter threshold="0.93"></Filter>
+		<Outputs> 
+	     <Output maxConfidence="0.96" type="file" >
+          <Param name="file" value="dbpedia-linkedct-sponsor.xml"/>
+          <Param name="format" value="alignment"/>
+         </Output>
+        <Output minConfidence="0.96" type="file">
+          <Param name="file" value="dbpedia-linkedct-sponsor.nt"/>
+          <Param name="format" value="ntriples"/>
+        </Output>
+	  </Outputs>
+    </Interlink>
+  </Interlinks>
+</Silk>

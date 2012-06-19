@@ -1,0 +1,185 @@
+<Silk>
+  <Prefixes>
+    <Prefix namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="rdf"></Prefix>
+    <Prefix namespace="http://umbel.org/umbel/sc/" id="umbel-sc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/property/" id="dbpedia-prop"></Prefix>
+    <Prefix namespace="http://purl.org/uF/hCard/terms/" id="hcterms"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/triplify/" id="linkedgeodata"></Prefix>
+    <Prefix namespace="http://purl.org/dc/dcmitype/" id="dctype"></Prefix>
+    <Prefix namespace="http://purl.org/dc/terms/" id="dc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="geo"></Prefix>
+    <Prefix namespace="http://www.w3.org/2002/07/owl#" id="owl"></Prefix>
+    <Prefix namespace="http://dbpedia.org/class/yago/" id="yago"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="wgs84"></Prefix>
+    <Prefix namespace="http://www.w3.org/2004/02/skos/core#" id="skos"></Prefix>
+    <Prefix namespace="http://www.w3.org/2006/vcard/ns#" id="v"></Prefix>
+    <Prefix namespace="http://xmlns.com/foaf/0.1/" id="foaf"></Prefix>
+    <Prefix namespace="http://www.w3.org/2000/01/rdf-schema#" id="rdfs"></Prefix>
+    <Prefix namespace="http://purl.org/ontology/mo/" id="mo"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/ontology/" id="lgdo"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia-owl"></Prefix>
+    <Prefix namespace="http://data.linkedmdb.org/resource/movie/" id="linkedmdb"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/property/" id="lgdp"></Prefix>
+  </Prefixes>
+  <DataSources>
+    <DataSource type="sparqlEndpoint" id="dbpedia">
+      <Param value="http://160.45.137.69:3030/dbpedia/query" name="endpointURI"></Param>
+	  <!-- <Param value="http://dbpedia.org/sparql" name="endpointURI"></Param>-->
+      <!-- <Param value="http://dbpedia.org/" name="graph"></Param> -->
+      <Param value="100" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+    <DataSource type="sparqlEndpoint" id="gutendata">
+      <Param value="http://www4.wiwiss.fu-berlin.de/gutendata/sparql" name="endpointURI"></Param>
+      <Param value="100" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+  </DataSources>
+  <Interlinks>
+    <Interlink id="dbpedia_gutendata_person">
+      <LinkType>owl:sameAs</LinkType>
+      <SourceDataset var="a" dataSource="dbpedia">
+        <RestrictTo>{?a rdf:type dbpedia-owl:Person} UNION {?a rdf:type foaf:Person}.</RestrictTo>
+      </SourceDataset>
+      <TargetDataset var="b" dataSource="gutendata">
+        <RestrictTo>?b rdf:type foaf:Person.</RestrictTo>
+      </TargetDataset>
+      <LinkCondition>
+        <Aggregate type="average" required="false" weight="1">
+          <Aggregate type="max" required="false" weight="1">
+            <Compare required="false" metric="levenshtein" weight="1">
+              <TransformInput function="lowerCase">
+                <Input path="?a/dbpedia-prop:name"></Input>
+              </TransformInput>
+              <TransformInput function="lowerCase">
+                <TransformInput function="replace">
+                  <TransformInput function="regexReplace">
+                    <TransformInput function="regexReplace">
+                      <Input path="?b/foaf:name"></Input>
+                      <Param value=",\s[0-9]*[?]?-[0-9]*" name="regex"></Param>
+                      <Param value="" name="replace"></Param>
+                    </TransformInput>
+                    <Param value="\s[A-Z]*.\s[A-Z]*.\s[(]" name="regex"></Param>
+                    <Param value="" name="replace"></Param>
+                  </TransformInput>
+                  <Param value=")" name="search"></Param>
+                  <Param value="" name="replace"></Param>
+                </TransformInput>
+              </TransformInput>
+            </Compare>
+          </Aggregate>
+          <Aggregate type="max" required="false" weight="1">
+            <Compare required="false" metric="levenshtein" weight="1">
+              <TransformInput function="regexReplace">
+                <Input path="?a/dbpedia:birthDate"></Input>
+                <Param value="-[^-]*-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+              <TransformInput function="regexReplace">
+                <TransformInput function="regexReplace">
+                  <Input path="?b/foaf:name"></Input>
+                  <Param value=".*,\s" name="regex"></Param>
+                  <Param value="" name="replace"></Param>
+                </TransformInput>
+                <Param value="-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+            </Compare>
+            <Compare required="false" metric="levenshtein" weight="1">
+              <TransformInput function="regexReplace">
+                <Input path="?a/dbpedia-prop:born"></Input>
+                <Param value="-[^-]*-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+              <TransformInput function="regexReplace">
+                <TransformInput function="regexReplace">
+                  <Input path="?b/foaf:name"></Input>
+                  <Param value=".*,\s" name="regex"></Param>
+                  <Param value="" name="replace"></Param>
+                </TransformInput>
+                <Param value="-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+            </Compare>
+            <Compare required="false" metric="levenshtein" weight="1">
+              <TransformInput function="regexReplace">
+                <Input path="?a/dbpedia-prop:dateOfBirth"></Input>
+                <Param value="-[^-]*-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+              <TransformInput function="regexReplace">
+                <TransformInput function="regexReplace">
+                  <Input path="?b/foaf:name"></Input>
+                  <Param value=".*,\s" name="regex"></Param>
+                  <Param value="" name="replace"></Param>
+                </TransformInput>
+                <Param value="-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+            </Compare>
+            <Compare required="false" metric="levenshtein" weight="1">
+              <TransformInput function="regexReplace">
+                <Input path="?a/dbpedia:deathDate"></Input>
+                <Param value="-[^-]*-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+              <TransformInput function="regexReplace">
+                <TransformInput function="regexReplace">
+                  <Input path="?b/foaf:name"></Input>
+                  <Param value="^[A-Z]*,\s[^,]*,?\s?" name="regex"></Param>
+                  <Param value="" name="replace"></Param>
+                </TransformInput>
+                <Param value="^[^-]*-" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+            </Compare>
+            <Compare required="false" metric="levenshtein" weight="1">
+              <TransformInput function="regexReplace">
+                <Input path="?a/dbpedia-prop:dateOfDeath"></Input>
+                <Param value="-[^-]*-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+              <TransformInput function="regexReplace">
+                <TransformInput function="regexReplace">
+                  <Input path="?b/foaf:name"></Input>
+                  <Param value="^[A-Z]*,\s[^,]*,?\s?" name="regex"></Param>
+                  <Param value="" name="replace"></Param>
+                </TransformInput>
+                <Param value="^[^-]*-" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+            </Compare>
+            <Compare required="false" metric="levenshtein" weight="1">
+              <TransformInput function="regexReplace">
+                <Input path="?a/dbpedia-prop:died"></Input>
+                <Param value="-[^-]*-[^-]*$" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+              <TransformInput function="regexReplace">
+                <TransformInput function="regexReplace">
+                  <Input path="?b/foaf:name"></Input>
+                  <Param value="^[A-Z]*,\s[^,]*,?\s?" name="regex"></Param>
+                  <Param value="" name="replace"></Param>
+                </TransformInput>
+                <Param value="^[^-]*-" name="regex"></Param>
+                <Param value="" name="replace"></Param>
+              </TransformInput>
+            </Compare>
+          </Aggregate>
+        </Aggregate>
+      </LinkCondition>
+      <Filter threshold="0.90"></Filter>
+      <Outputs>
+        <Output maxConfidence="0.95" type="file" >
+          <Param name="file" value="dbpedia-gutendata-person-verify.xml"/>
+          <Param name="format" value="alignment"/>
+        </Output>
+        <Output minConfidence="0.95" type="file">
+          <Param name="file" value="dbpedia-gutendata-person.nt"/>
+          <Param name="format" value="ntriples"/>
+        </Output>
+	  </Outputs>
+    </Interlink>
+  </Interlinks>
+</Silk>
