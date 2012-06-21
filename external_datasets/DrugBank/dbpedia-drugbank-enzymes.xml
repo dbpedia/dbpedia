@@ -1,0 +1,132 @@
+<Silk>
+  <Prefixes>
+    <Prefix namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="rdf"></Prefix>
+    <Prefix namespace="http://umbel.org/umbel/sc/" id="umbel-sc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/property/" id="dbpedia-prop"></Prefix>
+    <Prefix namespace="http://purl.org/uF/hCard/terms/" id="hcterms"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/triplify/" id="linkedgeodata"></Prefix>
+    <Prefix namespace="http://purl.org/dc/dcmitype/" id="dctype"></Prefix>
+    <Prefix namespace="http://purl.org/dc/terms/" id="dc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia"></Prefix>
+    <Prefix namespace="http://www.geonames.org/ontology#" id="geonames"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="geo"></Prefix>
+    <Prefix namespace="http://www.w3.org/2002/07/owl#" id="owl"></Prefix>
+    <Prefix namespace="http://dbpedia.org/class/yago/" id="yago"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="wgs84"></Prefix>
+    <Prefix namespace="http://www.w3.org/2004/02/skos/core#" id="skos"></Prefix>
+    <Prefix namespace="http://www.w3.org/2006/vcard/ns#" id="v"></Prefix>
+    <Prefix namespace="http://xmlns.com/foaf/0.1/" id="foaf"></Prefix>
+    <Prefix namespace="http://www.w3.org/2000/01/rdf-schema#" id="rdfs"></Prefix>
+    <Prefix namespace="http://purl.org/ontology/mo/" id="mo"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/ontology/" id="lgdo"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia-owl"></Prefix>
+    <Prefix namespace="http://data.linkedmdb.org/resource/movie/" id="linkedmdb"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/property/" id="lgdp"></Prefix>
+	<Prefix namespace="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/" id="diseasome"></Prefix>
+		<Prefix namespace="http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/" id="drugbank"></Prefix>
+  </Prefixes>
+  <DataSources>
+    <DataSource type="sparqlEndpoint" id="dbpedia">
+      <!-- <Param value="http://160.45.137.69:3030/dbpedia/query" name="endpointURI"></Param> -->
+      <Param value="http://dbpedia.org/sparql" name="endpointURI"></Param>
+	  <Param value="http://dbpedia.org" name="graph"></Param>
+      <Param value="100" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+    <DataSource type="sparqlEndpoint" id="drugbank">
+      <Param value="http://www4.wiwiss.fu-berlin.de/drugbank/sparql" name="endpointURI"></Param>
+      <Param value="3" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+  </DataSources>
+  <Interlinks>
+    <Interlink id="dbpedia-drugbank-enzymes">
+      <LinkType>owl:sameAs</LinkType>
+      <SourceDataset var="a" dataSource="dbpedia">
+        <RestrictTo>
+          {?a dbpedia-prop:wikiPageUsesTemplate &lt;http://dbpedia.org/resource/Template:PBB_Controls&gt;} UNION {?a dbpedia-prop:wikiPageUsesTemplate &lt;http://dbpedia.org/resource/Template:PBB_Summary&gt;} UNION {?a dbpedia-prop:wikiPageUsesTemplate &lt;http://dbpedia.org/resource/Template:Enzyme&gt;}.
+        </RestrictTo>
+      </SourceDataset>
+      <TargetDataset var="b" dataSource="drugbank">
+        <RestrictTo>
+          {?b rdf:type drugbank:enzymes}.
+        </RestrictTo>
+      </TargetDataset>
+      <LinkCondition>
+        <Aggregate type="max" required="false" weight="1">
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+			<TransformInput function="stripUriPrefix">
+              <TransformInput function="replace">
+                <Input path="?a\dbpedia:wikiPageRedirects"></Input>
+                <Param value="_" name="search"></Param>
+                <Param value=" " name="replace"></Param>
+              </TransformInput>
+			  </TransformInput>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+				<Input path="?b/rdfs:label"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/foaf:name"></Input>
+            </TransformInput>
+             <TransformInput function="lowerCase">
+				<Input path="?b/rdfs:label"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/rdfs:label"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+				<Input path="?b/rdfs:label"></Input>
+            </TransformInput>
+          </Compare>
+		  <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+			<TransformInput function="stripUriPrefix">
+              <TransformInput function="replace">
+                <Input path="?a\dbpedia:wikiPageRedirects"></Input>
+                <Param value="_" name="search"></Param>
+                <Param value=" " name="replace"></Param>
+              </TransformInput>
+			  </TransformInput>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+				<Input path="?b/drugbank:geneName"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/foaf:name"></Input>
+            </TransformInput>
+             <TransformInput function="lowerCase">
+				<Input path="?b/drugbank:geneName"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/rdfs:label"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+				<Input path="?b/drugbank:geneName"></Input>
+            </TransformInput>
+          </Compare>
+		</Aggregate>
+      </LinkCondition>
+      <Filter threshold="0.90"></Filter>
+      <Outputs>
+        <Output maxConfidence="0.92" type="file" >
+          <Param name="file" value="dbpedia-drugbank-enzyme-verify.xml"/>
+          <Param name="format" value="alignment"/>
+        </Output>
+        <Output minConfidence="0.92" type="file">
+          <Param name="file" value="dbpedia-drugbank-enzyme.nt"/>
+          <Param name="format" value="ntriples"/>
+        </Output>
+	   </Outputs>
+    </Interlink>
+  </Interlinks>
+</Silk>
