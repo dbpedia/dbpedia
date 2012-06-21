@@ -1,500 +1,101 @@
-<?xml version='1.0' encoding='utf-8' standalone='no'?>
-<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'
-    xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
-    xmlns:xsd='http://www.w3.org/2001/XMLSchema#'
-    xmlns:align='http://knowledgeweb.semanticweb.org/heterogeneity/alignment#'>
-<Alignment>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Neurofibromatosis_type_II"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3353"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Acute_pancreatitis"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/894"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Polycythemia_vera"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/378"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.09090909090909072
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hypoalphalipoproteinemia"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/532"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hunter_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3208"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hunter_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3207"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Atrial_septal_defect"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1529"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.09090909090909072
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Maroteaux%E2%80%93Lamy_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3208"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Maroteaux%E2%80%93Lamy_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3207"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Short-chain_acyl-coenzyme_A_dehydrogenase_deficiency"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1322"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Very_long-chain_acyl-coenzyme_A_dehydrogenase_deficiency"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1322"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.07407407407407396
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Morquio_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3211"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hurler_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3211"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hurler_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3208"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hurler_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3207"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hurler_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/778"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.13043478260869545
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Sanfilippo_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3208"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Sanfilippo_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3207"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_A"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2369"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.13043478260869545
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_A"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2368"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.13043478260869545
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_A"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2367"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.09090909090909072
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hay%E2%80%93Wells_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/107"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Pseudohyperaldosteronism"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/967"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Strabismus"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/510"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Neurofibromatosis_type_4"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3353"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Neurofibromatosis_type_3"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3353"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.19999999999999984
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Retinitis_pigmentosa"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3750"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.09090909090909072
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Tyrosinemia_type_II"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4106"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.04761904761904745
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/D-bifunctional_protein_deficiency"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1150"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.09090909090909072
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Hay%E2%80%93Wells_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/352"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Mitochondrial_trifunctional_protein_deficiency"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/302"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.09090909090909072
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Factor_XIII_deficiency"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2363"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.09090909090909072
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Pica_%28disorder%29"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/926"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_C"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2575"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_C"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2574"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_B"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2574"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_A"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2575"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Macrocephaly"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/760"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Combined_hyperlipidemia"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1226"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.13043478260869545
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/Haemophilia_C"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2363"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.04761904761904745
-        </measure>
-      </Cell>
-    </map>
-<map>
-      <Cell>
-          <entity1 rdf:resource="http://dbpedia.org/resource/EEM_syndrome"></entity1>
-          <entity2 rdf:resource="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/352"></entity2>
-        <relation>
-          =
-        </relation>
-        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">
-          0.16666666666666652
-        </measure>
-      </Cell>
-    </map>
-</Alignment>
-</rdf:RDF>
+<Silk>
+  <Prefixes>
+    <Prefix namespace="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="rdf"></Prefix>
+    <Prefix namespace="http://umbel.org/umbel/sc/" id="umbel-sc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/property/" id="dbpedia-prop"></Prefix>
+    <Prefix namespace="http://purl.org/uF/hCard/terms/" id="hcterms"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/triplify/" id="linkedgeodata"></Prefix>
+    <Prefix namespace="http://purl.org/dc/dcmitype/" id="dctype"></Prefix>
+    <Prefix namespace="http://purl.org/dc/terms/" id="dc"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia"></Prefix>
+    <Prefix namespace="http://www.geonames.org/ontology#" id="geonames"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="geo"></Prefix>
+    <Prefix namespace="http://www.w3.org/2002/07/owl#" id="owl"></Prefix>
+    <Prefix namespace="http://dbpedia.org/class/yago/" id="yago"></Prefix>
+    <Prefix namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" id="wgs84"></Prefix>
+    <Prefix namespace="http://www.w3.org/2004/02/skos/core#" id="skos"></Prefix>
+    <Prefix namespace="http://www.w3.org/2006/vcard/ns#" id="v"></Prefix>
+    <Prefix namespace="http://xmlns.com/foaf/0.1/" id="foaf"></Prefix>
+    <Prefix namespace="http://www.w3.org/2000/01/rdf-schema#" id="rdfs"></Prefix>
+    <Prefix namespace="http://purl.org/ontology/mo/" id="mo"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/ontology/" id="lgdo"></Prefix>
+    <Prefix namespace="http://dbpedia.org/ontology/" id="dbpedia-owl"></Prefix>
+    <Prefix namespace="http://data.linkedmdb.org/resource/movie/" id="linkedmdb"></Prefix>
+    <Prefix namespace="http://linkedgeodata.org/property/" id="lgdp"></Prefix>
+	<Prefix namespace="http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/" id="diseasome"></Prefix>
+  </Prefixes>
+  <DataSources>
+    <DataSource type="sparqlEndpoint" id="dbpedia">
+      <Param value="http://160.45.137.69:3030/dbpedia/query" name="endpointURI"></Param>
+	  <!-- <Param value="http://dbpedia.org/sparql" name="endpointURI"></Param> 
+      <Param value="http://dbpedia.org" name="graph"></Param> -->
+      <Param value="100" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+    <DataSource type="sparqlEndpoint" id="diseasome">
+      <Param value="http://www4.wiwiss.fu-berlin.de/diseasome/sparql" name="endpointURI"></Param>
+      <Param value="3" name="retryCount"></Param>
+      <Param value="1000" name="retryPause"></Param>
+    </DataSource>
+  </DataSources>
+  <Interlinks>
+    <Interlink id="dbpedia-diseasome-diseases">
+      <LinkType>owl:sameAs</LinkType>
+      <SourceDataset var="a" dataSource="dbpedia">
+        <RestrictTo>
+          {?a rdf:type dbpedia-owl:Disease}.
+        </RestrictTo>
+      </SourceDataset>
+      <TargetDataset var="b" dataSource="diseasome">
+        <RestrictTo>
+          {?b rdf:type diseasome:diseases}.
+        </RestrictTo>
+      </TargetDataset>
+      <LinkCondition>
+        <Aggregate type="max" required="false" weight="1">
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+			<TransformInput function="stripUriPrefix">
+              <TransformInput function="replace">
+                <Input path="?a\dbpedia:wikiPageRedirects"></Input>
+                <Param value="_" name="search"></Param>
+                <Param value=" " name="replace"></Param>
+              </TransformInput>
+			  </TransformInput>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+				<Input path="?b/rdfs:label"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/foaf:name"></Input>
+            </TransformInput>
+             <TransformInput function="lowerCase">
+				<Input path="?b/rdfs:label"></Input>
+            </TransformInput>
+          </Compare>
+          <Compare required="false" metric="levenshtein" weight="1">
+            <TransformInput function="lowerCase">
+              <Input path="?a/rdfs:label"></Input>
+            </TransformInput>
+            <TransformInput function="lowerCase">
+				<Input path="?b/rdfs:label"></Input>
+            </TransformInput>
+          </Compare>
+		</Aggregate>
+      </LinkCondition>
+      <Filter threshold="0.90"></Filter>
+      <Outputs>
+        <Output maxConfidence="0.92" type="file" >
+          <Param name="file" value="dbpedia-diseasome-diseases.xml"/>
+          <Param name="format" value="alignment"/>
+        </Output>
+        <Output minConfidence="0.92" type="file">
+          <Param name="file" value="dbpedia-diseasome-diseases.nt"/>
+          <Param name="format" value="ntriples"/>
+        </Output>
+	   </Outputs>
+    </Interlink>
+  </Interlinks>
+</Silk>
