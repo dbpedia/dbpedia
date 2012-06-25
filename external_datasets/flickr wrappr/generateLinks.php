@@ -7,6 +7,11 @@ include ("common.php");
  * @author   Christian Becker
  */
 
+/**
+ * OUTDATED - DO NOT USE THIS SCRIPT - use the Scala version instead:
+ * http://dbpedia.hg.sourceforge.net/hgweb/dbpedia/extraction_framework/file/default/core/src/main/scala/org/dbpedia/extraction/mappings/FlickrWrapprLinkExtractor.scala
+ */
+
 $fhandle = fopen("photoCollections.nt", "w");
 
 $conn = mysql_connect(MYSQL_HOST, MYSQL_USER, MYSQL_PASS, true);
