@@ -27,15 +27,25 @@
 						echo "<input type=\"radio\" name=\"endpoint\" value=\"$one\" ".(($first)?'checked="checked"':'')."  > $one <br>";
 						$first = false;
 						}
-   				?>	<br><	br>
-   					search word(s):<br>
-				<input type='text' name='field' value='<?=$s?>'><br>
-				limit:<br>
+						
+   				?>
+   				<br>	
+   				<strong>Description:<strong/>
+   				<br>
+   				<p>
+					In this page you can create SPARQL queries either by typing the key words or by using pre-made examples. The generated SPARQL query will
+					be displayed according to different perspectives and the results will be shown in a tabular form where some results are ranked too.
+   				</p>
+   				<hr size="2">
+   					Search word(s):<br>
+				<input type='text' name='field' value='<?=$s?>'><br><br>
+				Limit:<br>
 				<input type='text' name='limit' value='<?=$limit?>' size = '4'><br>
 				<input type='submit' name='search'>
    
  				</p>
-	
+				
+				You can use these examples:<br>
 				<a href='demo_query_virtuoso.php?endpoint=http://dbpedia.org/sparql?query=&field=Germa'>Germa</a><br>
 				<a href='demo_query_virtuoso.php?endpoint=http://dbpedia.org/sparql?query=&field=Germany'>Germany</a><br>
 				<a href='demo_query_virtuoso.php?endpoint=http://dbpedia.org/sparql?query=&field=German Bee'>German Bee</a><br>
@@ -194,25 +204,29 @@
 				}
 
 				///////////////////////////////////////////////
-				$queries['exact']="SELECT DISTINCT ?s 
+				$queries['exact']=
+				"SELECT DISTINCT ?s 
 				WHERE { 
 					?s ".RDFS_LABEL." '$full'@en .
 					FILTER (!regex(str(?s), '^http://dbpedia.org/resource/Category:')).
 					FILTER (!regex(str(?s), '^http://sw.opencyc.org/')). 
 				}";
-
+				//$strtmp=str_replace(" W","\nW",$strtmp);
+				//$strtmp=str_replace(" F","\nF",$strtmp);
+				/*$sttrtmp=preg_replace('!\s+!', ' ', $sttrtmp);
+				$sttrtmp=preg_replace("/[[:blank:]]+/"," ", $sttrtmp);
+				$queries['exact']=$strtmp+".......";*/
 				$queries['test']="SELECT * WHERE {?s ?p ?o} Limit 1";		
 
 				foreach ($queries as $key=>$sparqlQueryString){
 					echo "<h2>$key</h2>";
 					//echo "<xmp>***************************\n".$sparqlQueryString."</xmp>";
-					
-					echo "<textarea cols=\"80\" rows=\"15\" readonly=\"yes\" wrap=\"off\"><$sparqlQueryString></textarea> <br>";
+					echo "<textarea cols=\"80\" rows=\"15\" readonly=\"yes\" wrap=\"on\"><$sparqlQueryString></textarea> <br>";
 				//	echo "<div style=\"border: blue 4px solid; border-bottom: blue 4px solid; border-top-style: ridge;\">$sparqlQueryString</div>";
 					
 					if($ep==DBPEDIA)$defaultgraphURI='http://dbpedia.org';
 					else {$defaultgraphURI='';}
-						echo executeSparqlQuery($ep, $defaultgraphURI, $sparqlQueryString);
+						echo executeSparqlQuery($ep, $defaultgraphURI, $sparqlQueryString); // here the function implements the query then dsiplay the result
 					}
 
 			?>
