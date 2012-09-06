@@ -24,6 +24,12 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 ?>
 <html>
 <head>
+	<script type="text/javascript">
+	function submitform()
+	{
+	  document.myform.submit();
+	}
+	</script>
 </head>
 	<body>
 	<?php
@@ -32,7 +38,7 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 		$endpoints[]=DBPEDIA;
 		$endpoints[]=LMDB;
 	?>
-	<form action="" >
+	<form action="" name="myForm">
 		<!-- Writing description of page functionality-->
 		<p>
 		<h2><u>Description:</u></h2>  
@@ -44,17 +50,38 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 		</p>
 		
 		   <hr size="2">
-			Enter keyword(s): <input type='text' name='field' value='<?=$s?>'> <input type='submit' name='search' value="Submit"><br>
+			Enter keyword(s): <input type='text' name='field' value='<?=$s?>'> <input type='submit' name='search' value="Submit"> <br>
 			Limit: 	<input type='text' name='limit' value='<?=$limit?>' size = '4'><br>
-			
-				<fieldset>
+			List of query types:<br>
+			 <select name="querytypes[]" id="Select1" size="4" multiple="multiple">
+					
+					<option value="a" selected>All</option>
+					
+					<option value="single word, complete, in the start  " >single word, complete as single token, in the start</option>
+
+					<option value="single keyword, incomplete word, in the start  ">single keyword, incomplete word part of token, in the start </option>
+
+					<option value="multiple words, incomplete phrase,in start of phrase">multiple words, incomplete phrase, in start of phrase</option>
+
+					<option value="multiple words, complete phrase,in start of phrase">multiple words, complete phrase,in start of phrase</option>
+					
+					<option value="multiple words,in start of phrase,with n word regex">multiple words,in start of phrase,with n word regex</option>
+					
+					<option value="multiple complete keywords,outdeg counted">multiple complete keywords,outdeg counted</option>
+					
+					<option value="multiple words, exact match, count indegree">multiple words, exact match, count indegree</option>
+			 </select>
+			 <br>
+				<fieldset>	
 				<legend>Select different SPARQL endpoint:<br></legend>
 				<?php
+				
 				//$first is a flag which is used to set the first Option in the Radiobutton list selected in case that no previous selection was made
 				// which is the case for the first time loading the page
 				$first = false;  
 				$selectedendpoint =$_REQUEST['lstendpoint'];// get the vaue of the selected radiobutton into variable "selectedendpoint"
 				$selected_button = $_REQUEST['lstendpoint'];// the same as previous statement but for variable "selected_button"
+				
 				if($selected_button ==null) // there is no selected endpoint so set the first one to be default selection
 				   $first=true;
 				//According to number of defined endpoints in the array create radio buttons
@@ -64,6 +91,7 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 				
 					}
 			   ?>
+			  
 				</fieldset>
 				<?php
 				//This flag aywa to check every time the page is refreshed if the Display Query only checkbox was 
@@ -71,15 +99,22 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 				$aywa=$_GET['dspQuery'];
 				
 				echo "<input type=\"checkbox\" name=\"dspQuery\" value=\"Display\" ".(($aywa!=null)?'checked="checked"':'')." /> Display queries only(not valid for examples) <br />"
+				//echo "<input type=\"checkbox\" name=\"dspQuery\" value=".(($aywa!=null)?"Display":"")." ".(($aywa!=null)?'checked="checked"':'')." /> Display queries only(not valid for examples) <br />";
 				?>
 		
 		</p>
-		<!--Here list of examples to be used-->
+		
 		You can use these examples:<br>
 		
 		<?php 
+				
+	  //Here this array will receive  list of selected items in the list box they are always sorted by the same order they exist in the listbox relative to each other
+		  $Qselectedtypes=array();
+		  $Qselectedtypes = $_REQUEST['querytypes'];
+      
 		//Display only checbox: setting flag to false and checking the value of the checkbox, so if it is checked 
 		//the flag will be set to true; that will lead to just displaying the query only not to be exectuted
+		
 		    $onlydisplayflag=false;
 			if(isset($_REQUEST["dspQuery"]) &&   $_REQUEST['dspQuery'] == "Display")
 				$onlydisplayflag=true;
@@ -87,10 +122,16 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 			$keywordexamples = array("Germa", "Germany", "German Bee", "German beer", "German Beer", 
 									  "Einstein Alber", "Albert Einstein Insti", "Albert Einstein Institution", "Einstein Albert",
 									  "goethe", "Johann Goethe" );
+		//Loop for displaying the list of examples (combobox)
+	/*	echo "<select name=\"dropdown\" id=\"dropdown\" onchange=\"this.form.submit()\">";
+		foreach($keywordexamples as $k ){
+			echo "<option value=\""  .$k.  "\">" .$k."</option>";
+		}
+		echo "</select>";*/
 		//Loop for displaying the list of examples							  
 			foreach($keywordexamples as $keyword)
 			 {
-				 echo "<a href='demo.php?lstendpoint=http://dbpedia.org/sparql?query=&field=".$keyword."'>".$keyword."</a><br>";
+				 echo "<a href='demo.php?lstendpoint=http://dbpedia.org/sparql?query=&field=".$keyword."&dspQuery=\"hello\"' >".$keyword." </a><br>";
 			 }		
 		?>
 	</form>
@@ -104,14 +145,14 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 		$swords=array();
         if(empty($s)){//empty textbox
 			die('Enter search word');
-		} else if(strpos($s,' ')!==false){
-			while (($pos = strpos($s,' '))!==false){
+		} else if(strpos($s,' ')!==false){ //This means it is multiple words strings
+			while (($pos = strpos($s,' '))!==false){// this loop to spit the string to its words
 				$swords[] = trim(substr($s,0,$pos));
 				$s = substr($s,$pos+1);
 			}
-			$swords[] = trim($s);
+			$swords[] = trim($s);  //now array words contains list of multiple words
 			}else{
-				$swords[] = $s;
+				$swords[] = $s;   //in this case array words contains the single entered words
 			}
 
 		if(count($swords)==0){//no keyword entered
@@ -124,10 +165,10 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 "SELECT DISTINCT ?s ?o	WHERE { 
 	?s  ".RDFS_LABEL." ?o . 
 	?o bif:contains \"$current\".	
-	FILTER (regex(str(?o), '^$current')) . 
+	FILTER (regex(str(?o), '^$current')) .  
 	$globalfilter 	
 }	
-Limit 10";
+Limit 10";  //'^word' this means strings starts with this word
 			$queries['single keyword, incomplete word, in the start  '] =
 "SELECT DISTINCT ?s ?o	WHERE { 
 	?s  ".RDFS_LABEL." ?o . 
@@ -255,49 +296,93 @@ Limit $limit";
 		$queries['test']="SELECT * WHERE {?s ?p ?o} Limit 1";		
 		//Array of texts that will desccribe each type of the queries
 		$description_of_keys=array();
-		$description_of_keys['multiple words, exact match, count indegree']="Query has multiple keywords and is sorted by in degree of subject. Keywords must be exact match. " ;
-        $description_of_keys['single word, complete, in the start  '] = "Query has single keyword. The returned phrases start with it.";
-		$description_of_keys['single keyword, incomplete word, in the start  ']= "Query has single keyword. that represents the head of a word which The returned phrases start with it.";
-		$description_of_keys['multiple words, incomplete phrase,in start of phrase'] ="Select distinct values of subjects and objects, where subjects have labels thta start with the searched keywords. The subject is not from:
+		$description_of_keys['multiple words, exact match, count indegree']="Query has multiple keywords and is sorted by in-degree of the triples' subject. Keywords must be exact match." ;
+        $description_of_keys['single word, complete, in the start  '] = "This query displays the (subjects) and their (objects) ,that represent their labels. The object's value must contain the searched keyword as a complete token in its beginning and they must be in English language. The triples producing the subjects must not from the following source URI's: http://dbpedia.org/resource/Category, http://dbpedia.org/resource/List, http://sw.opencyc.org/.";
+		$description_of_keys['single keyword, incomplete word, in the start  ']= "This query displays the (subjects) and their (objects) ,that represent their labels. The object's value must contain the searched keyword as part of another token in its beginning and they must be in English language. The triples producing the subjects must not from the following source URI's: http://dbpedia.org/resource/Category, http://dbpedia.org/resource/List, http://sw.opencyc.org/";
+		$description_of_keys['multiple words, incomplete phrase,in start of phrase'] ="Select distinct values of subjects and objects, where subjects have labels that start with the searched keywords. The subject is not from the following sources URI's:
 http://dbpedia.org/resource/Category
 http://dbpedia.org/resource/List
 http://sw.opencyc.org/ 
-which are in Englich lanuage."; "Query has multiple keywords. The returned phrases are not complete and start with the specified keywords. ";
+which are in English language. Query has multiple keywords. The returned phrases are not complete and start with the specified keywords. ";
 		$description_of_keys['multiple words, complete phrase,in start of phrase'] ="Select distinct values of subjects and objects, where subjects have labels that start with the exact searched keywords. The subject is not from:
 http://dbpedia.org/resource/Category
 http://dbpedia.org/resource/List
 http://sw.opencyc.org/ 
-which are in Englich lanuage.";// "Query has multiple keywords. The returned phrases are complete and start with the specified keywords. ";
+which are in English language.";// "Query has multiple keywords. The returned phrases are complete and start with the specified keywords. ";
 		$description_of_keys['multiple words,in start of phrase,with n word regex'] = "Select distinct values of subjects and objects, where subjects have labels that start with or contain the searched keywords. The subject is not from:
 http://dbpedia.org/resource/Category
 http://dbpedia.org/resource/List
 http://sw.opencyc.org/ 
-which are in Englich lanuage.
+which are in English language.
 ";//"Query has multiple keywords."; 
-		$description_of_keys['multiple complete keywords,outdeg counted'] ="Select distinct values of subjects and objects where objects are URIs and msatche the searched keywords and in addition counting the number of retrieved triples for each subject. The subject is not from:
+		$description_of_keys['multiple complete keywords,outdeg counted'] ="Select distinct values of subjects and objects where objects are URIs and match the searched keywords and in addition counting the number of retrieved triples for each subject. The subject is not from:
 http://dbpedia.org/resource/Category
 http://dbpedia.org/resource/List
 http://sw.opencyc.org/ 
-which are in Englich. Sorted decendingly by outdgree"; "Query  has multiple keywords and is sorted by out degree of subject. keywords must be exact match. ";
+which are in English. Sorted descending by outdgree"; "Query  has multiple keywords and is sorted by out degree of subject. keywords must be exact match.";
 		//$description_of_keys['multiple words, exact match, count indegree'] = 
-		$description_of_keys['exact']="Query matches the exact keyword";
+		$description_of_keys['exact']="This query retrieves subjects that have the searched keyword as label. The triples produce these subjects must not from the following source URI's: http://dbpedia.org/resource/Category: and http://sw.opencyc.org/";
 		$description_of_keys['test']= "This query for testing that the ENDPOINT works well. ";
 		$separator="-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------";
-//Loop for displaying each query's short title, query description, the quesry itself inside a text area
-// and based on the flag value the function for exectuting the query and displaying the restult will be called		
-		foreach ($queries as $key=>$sparqlQueryString){
-			echo "<h2>".$key."</h2>";
-			echo $description_of_keys[$key]."<br>";
-			echo "<textarea cols=\"90\" rows=\"15\" readonly=\"yes\" wrap=\"on\">$sparqlQueryString</textarea> <br>";
-			if($ep==DBPEDIA)$defaultgraphURI='http://dbpedia.org';
-			else {$defaultgraphURI='';}
-			if(!$onlydisplayflag)
+	
+			if($Qselectedtypes[0]=="a") //This means that i selected "All" as it will be always if selected in position 0 in array is selected values
+			{   //1-Loop for displaying each query's short title, query description, the quesry itself inside a text area
+				//2-in the foreach control in $queries bring the key in $key and value in $sparqlQueryString
+				foreach ($queries as $key=>$sparqlQueryString)
 				{
+					echo "<h2>".$key."</h2>";
+					echo $description_of_keys[$key]."<br>";
+					echo "<textarea cols=\"90\" rows=\"15\" readonly=\"yes\" wrap=\"on\">$sparqlQueryString</textarea> <br>";
+					if($ep==DBPEDIA)$defaultgraphURI='http://dbpedia.org';
+					else {$defaultgraphURI='';}
+					//if the Display only flag is checked the function for exectuting the query is called and retrieved results will be displayed	
+					if(!$onlydisplayflag)
+						{
 
-					echo executeSparqlQuery($ep, $defaultgraphURI, $sparqlQueryString); // here the function implements the query then dsiplay the result
+							echo executeSparqlQuery($ep, $defaultgraphURI, $sparqlQueryString); // here the function implements the query then dsiplay the result
+						}
 				}
 			}
-	?>	
+			else
+			{// Only the selected queries will be displayed Note they may have mixed types of queries for "single" or "multiple" words which is need to be checked specifically later
+				foreach ($Qselectedtypes as $key)
+				{	// this check returns null if required query is out of selection, for example you choose from the list multiple words query while 
+					// the entered search keyword is single word, so you need to skip this query from the selected list
+					//here we do that by depending on the retrieved $queries[$key] will empty for the case of multiple words key
+					$sparqlQueryString=$queries[$key];
+					if($sparqlQueryString != null)
+					{
+						echo "<h2>".$key."</h2>";
+						echo $description_of_keys[$key]."<br>";
+						echo "<textarea cols=\"90\" rows=\"15\" readonly=\"yes\" wrap=\"on\">$sparqlQueryString</textarea> <br>";
+						if($ep==DBPEDIA)$defaultgraphURI='http://dbpedia.org';
+						else {$defaultgraphURI='';}
+						if(!$onlydisplayflag)
+						{
+
+							echo executeSparqlQuery($ep, $defaultgraphURI, $sparqlQueryString); // here the function implements the query then dsiplay the result
+						}
+					}
+				}
+				// Dispplay the "test query" that tests the endpoint
+				    echo "<h2> test </h2>";
+					echo $description_of_keys["test"]."<br>";
+					$sparqlQueryString=$queries["test"];
+					echo "<textarea cols=\"90\" rows=\"15\" readonly=\"yes\" wrap=\"on\">$sparqlQueryString</textarea> <br>";
+					if($ep==DBPEDIA)$defaultgraphURI='http://dbpedia.org';
+					else {$defaultgraphURI='';}
+					if(!$onlydisplayflag)
+					{
+
+						echo executeSparqlQuery($ep, $defaultgraphURI, $sparqlQueryString); // here the function implements the query then dsiplay the result
+					}
+			
+			}
+	?>
+	<br>
+	<h2>	
+	<a href="http://dbpedia.org/snorql/?query=SELECT+*+WHERE+{%0D%0A%3Fs+%3Fp+%3Fo%0D%0A}limit+10" target='blank' >Edit Query</a> 
+	</h2>
 </body>
 </html>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
