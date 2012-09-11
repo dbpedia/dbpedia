@@ -45,7 +45,10 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 		<p>
 			
 			In this page you can create SPARQL queries either by typing the key words or by using pre-made examples. The generated SPARQL query will
-			be displayed according to different perspectives and the results will be shown in a tabular form where some results are ranked too.
+			be displayed according to different perspectives and the results will be shown in a tabular form where some results are ranked too. These 
+			ranked results include multiple word queries with in-degree and out-degree ranking. in-degree rank shows how many retrieved subjects act 
+			as objects of another triples with predicate other than the rdf:label predicate. of another triples in the same repositories.  out-degree
+			rank shows how many retrieved subjects act as subjects of another triples with predicate other than the rdf:label predicate. 	
 			
 		</p>
 		
@@ -114,8 +117,8 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
       
 		//Display only checbox: setting flag to false and checking the value of the checkbox, so if it is checked 
 		//the flag will be set to true; that will lead to just displaying the query only not to be exectuted
-		
-		    $onlydisplayflag=false;
+			$onlydisplayflag=$_REQUEST['onlydisplayflag'];
+//		    $onlydisplayflag=false;
 			if(isset($_REQUEST["dspQuery"]) &&   $_REQUEST['dspQuery'] == "Display")
 				$onlydisplayflag=true;
 		//Defining a list of search keywords examples
@@ -123,16 +126,13 @@ Copyright (C) 2012 Mofeed Hassan (mounir@informatik.uni-leipzig.de)
 									  "Einstein Alber", "Albert Einstein Insti", "Albert Einstein Institution", "Einstein Albert",
 									  "goethe", "Johann Goethe" );
 		//Loop for displaying the list of examples (combobox)
-	/*	echo "<select name=\"dropdown\" id=\"dropdown\" onchange=\"this.form.submit()\">";
+		//the onchange part is to set the textbox with the selected item automatically
+		echo "<select name=\"dropdown\" id=\"dropdown\" onchange=\"document.myForm.field.value=this.value\">";
+		$prev_selection= $_REQUEST['field'];
 		foreach($keywordexamples as $k ){
-			echo "<option value=\""  .$k.  "\">" .$k."</option>";
+			echo "<option value=\"".$k."\" ".(($prev_selection==$k)?'selected="selected"':'')." >" .$k."</option>";//the check to keep th previous selected item
 		}
-		echo "</select>";*/
-		//Loop for displaying the list of examples							  
-			foreach($keywordexamples as $keyword)
-			 {
-				 echo "<a href='demo.php?lstendpoint=http://dbpedia.org/sparql?query=&field=".$keyword."&dspQuery=\"hello\"' >".$keyword." </a><br>";
-			 }		
+		echo "</select>";
 		?>
 	</form>
 	<?php 
