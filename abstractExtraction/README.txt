@@ -1,6 +1,18 @@
 ===================================
+
+OUTDATED! EVERYTHING IN THIS DIRECTORY,
+INCLUDING THE INSTRUCTIONS BELOW,
+IS OUTDATED. THE CURRENT CODE IS IN
+dbpedia/extraction-framework/dump
+
+Christopher Sahnwaldt 2013-03-07
+
+===================================
+
+===================================
     DBPEDIA ABSTRACT EXTRACTION
 ===================================
+
 Author: Max Jakob <max.jakob@fu-berlin.de>
 Date: 2010-12-28
 
