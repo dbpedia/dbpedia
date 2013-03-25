@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 ===================================
 
 OUTDATED! EVERYTHING IN THIS DIRECTORY,
@@ -8,6 +15,28 @@ dbpedia/extraction-framework/dump
 Christopher Sahnwaldt 2013-03-07
 
 ===================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ===================================
     DBPEDIA ABSTRACT EXTRACTION
