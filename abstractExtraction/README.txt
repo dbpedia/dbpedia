@@ -4,13 +4,14 @@
 
 
 
-
 ===================================
 
 OUTDATED! EVERYTHING IN THIS DIRECTORY,
 INCLUDING THE INSTRUCTIONS BELOW,
 IS OUTDATED. THE CURRENT CODE IS IN
 dbpedia/extraction-framework/dump
+ALSO SEE
+https://github.com/dbpedia/extraction-framework/wiki/Dbpedia-Abstract-Extraction--Step-by-step
 
 Christopher Sahnwaldt 2013-03-07
 
