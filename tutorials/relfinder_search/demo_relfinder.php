@@ -1,8 +1,4 @@
-<!--
-Copyright (C) 2012
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
--->
+
 <html>
 <body style="font-size:10pt;" >
 <a href = "demo_relfinder.php?first=Angela_Merkel&second=Hillary_Rodham_Clinton"> Angie und Hillary</a><br>
