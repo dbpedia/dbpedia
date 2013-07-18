@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = lowest position
+|rdfs:domain = ProtectedArea
+|rdfs:range = geo:SpatialThing
+}}

@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = debut year
+| rdfs:range = xsd:date
+}}

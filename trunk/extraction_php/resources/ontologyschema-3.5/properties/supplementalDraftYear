@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = supplemental draft year
+| rdfs:domain = FootballPlayer
+| rdfs:range = xsd:integer
+}}

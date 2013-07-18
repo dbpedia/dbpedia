@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = port1 docked time
+| rdfs:domain = Spacecraft
+| rdfs:range = Time
+}}

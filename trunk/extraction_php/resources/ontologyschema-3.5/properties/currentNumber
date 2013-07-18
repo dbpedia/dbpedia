@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = current number
+| rdfs:domain = Athlete
+| rdfs:range = xsd:integer
+}}

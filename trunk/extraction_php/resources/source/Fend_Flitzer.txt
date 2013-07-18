@@ -1,0 +1,29 @@
+The '''Fend Flitzer''' was a [[three-wheeled vehicle|three-wheeled]] [[invalid carriage]] designed and built by [[Fritz Fend]]. The Flitzer established many of the basic concepts on which Fend's later [[Messerschmitt Kabinenroller]] [[microcars]] were developed.
+
+In 1948, Fend, a former [[aircraft]] designer and technical officer in the ''[[Luftwaffe]]'', began production of a [[tricycle]] [[invalid carriage]] in his workshop in [[Rosenheim]], [[Germany]].  The tricycle had a front wheel that was steered by handlebars and powered by a mechanism actuated by pushing back and forth on the handlebars. Shortly afterward, it was offered with a {{convert|38|cc|CID|1|abbr=on}} [[Victoria (motorcycle)|Victoria]] [[two-stroke engine|two-stroke]] proprietary engine normally used for motorizing bicycles.
+
+Fend then designed the Flitzer, a larger, better-enclosed invalid carriage. It was designed from the start to be powered by a gasoline engine. Whereas the earlier tricycle was both steered and powered by a single front wheel, the Flitzer had a pair of front wheels linked to the steering mechanism and a powered rear wheel.
+
+The Flitzer was initially powered by a {{convert|98|cc|CID|1|abbr=on}} [[ZF Sachs|Fichtel & Sachs]] [[two-stroke engine]], but the engine was later changed to a {{convert|100|cc|CID|1|abbr=on}} Reidel/[[Imme]] engine.
+
+The Flitzer was made with aluminium panels over a steel frame and was enclosed at the front, sides, and back. It had a hatch at the top that was hinged at the front and tilted forward for the operator to get in. The first version of the Flitzer was open, with a hole and a windshield in the hatch for the operator's head and shoulders to stick through and be protected from the wind. A closed version was later offered that included an enclosure on the hatch to enclose the operator fully. The enclosure included the windshield and side windows.
+
+About 250 Flitzers had been built when production stopped in 1951. Many of these invalid carriages had been bought by able-bodied individuals seeking basic personal transport. This led Fend to believe that there would be a mass-market for a larger, transport-oriented version of the Flitzer. Fend began to design and develop a two-seat vehicle similar in concept to the Flitzer. He also began looking for a manufacturer to mass-produce this vehicle. He came to an agreement with aircraft designer [[Willy Messerschmitt]] for Fend's company to build Fend vehicles in the Messerschmitt factory at Regensburg. Part of the agreement was that the cars carried the Messerschmitt name, with Fend's new design being designated the [[Messerschmitt KR175]].
+
+==References==
+*{{cite journal | quotes = no | last = Wagner | first = Carl | authorlink = | coauthors = | date = Second Quarter 1973 | year = 1973 | month = | title = "Ist das nicht ein Kabinenroller?" "Ja! das ist ein Kabinenroller!" Carl Wagner takes off on Messerschmitt | journal = Automobile Quarterly | volume = 11 | issue = 2 | pages = 162–171 | publisher = Automobile Quarterly Inc. | location = 40 East 49th Street, New York, NY 10017 USA | issn = | pmid = | pmc = | doi = | bibcode = | oclc = | id = Library of Congress Catalog Card Number 62-4005 | url = | language = US English | format = | accessdate = | laysummary = | laysource = | laydate = | quote = }}
+*{{cite web | url = http://www.promotex.ca/articles/cawthon/2004/2004-03-01_article.html | title = Fritz Fend's Marvelous Micro-cars | accessdate = 23 August 2008 | dateformat= mdy author = | last = Cawthon | first = Bill | authorlink = | coauthors = | date = 2008-03-01 | year = | month = | format = HTML | work = http://www.promotex.ca/index.php | publisher = Cadabra Corp. | pages = | language = | doi = | archiveurl = | archivedate = | quote = }}
+*{{cite web | url = http://www.3wheelers.com/fend.html | title = 3-Wheelers.com - Fend | accessdate = 24 August 2008 | dateformat = mdy author = | last = Payne | first = Elvis | authorlink = | coauthors = | date = 2004-05-31 |year = | month = | format = HTML | work = http://www.3wheelers.com/enter.html | publisher = 
+|pages= | language = | doi = | archiveurl = | archivedate = | quote = }}
+
+==External links==
+*[http://www.microcarmuseum.com/tour/fend-flitzer-101.html Bruce Weiner Microcar Museum - 1950 Fend Flitzer 101]
+
+{{Messerschmitt Kabinenroller}}
+
+[[Category:Microcars]]
+[[Category:Three-wheeled motor vehicles]]
+[[Category:Defunct motor vehicle manufacturers of Germany]]
+[[Category:Cars of Germany]]
+
+[[de:Fritz Fend]]

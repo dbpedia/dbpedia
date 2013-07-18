@@ -1,0 +1,24 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Road
+| mappings =
+	{{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+	{{PropertyMapping | templateProperty = highway_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = route | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = alternate_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = beltway_city | ontologyProperty = beltwayCity }}
+	{{PropertyMapping | templateProperty = counties | ontologyProperty = county }}
+	{{PropertyMapping | templateProperty = rural_municipalities | ontologyProperty = ruralMunicipality }}
+	{{PropertyMapping | templateProperty = cities | ontologyProperty = city }}
+	{{PropertyMapping | templateProperty = system | ontologyProperty = highwaySystem }}
+	{{PropertyMapping | templateProperty = spur_type | ontologyProperty = spurType }}
+	{{PropertyMapping | templateProperty = spur_of | ontologyProperty = spurOf }}
+	{{PropertyMapping | templateProperty = length_mi | ontologyProperty = length | unit = mile }}
+	{{PropertyMapping | templateProperty = length_km | ontologyProperty = length | unit = kilometre }}
+	{{PropertyMapping | templateProperty = established | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = decommissioned | ontologyProperty = dateOfAbandonment }}
+	{{PropertyMapping | templateProperty = previous_route | ontologyProperty = previousInfrastructure }}
+	{{PropertyMapping | templateProperty = previous_type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = next_route | ontologyProperty = subsequentInfrastructure }}
+	{{PropertyMapping | templateProperty = next_type | ontologyProperty = type }}
+</textarea>

@@ -1,0 +1,181 @@
+{{ DBpediaTemplateMapping
+| mapToClass = City
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = twin1 | ontologyProperty = City/twinCity }}
+	{{ DBpediaPropertyMapping | templateProperty = twin2 | ontologyProperty = City/twinCity }}
+	{{ DBpediaPropertyMapping | templateProperty = twin3 | ontologyProperty = City/twinCity }}
+	{{ DBpediaPropertyMapping | templateProperty = twin4 | ontologyProperty = City/twinCity }}
+	{{ DBpediaPropertyMapping | templateProperty = twin5 | ontologyProperty = City/twinCity }}
+	{{ DBpediaPropertyMapping | templateProperty = twin6 | ontologyProperty = City/twinCity }}
+	{{ DBpediaPropertyMapping | templateProperty = twin7 | ontologyProperty = City/twinCity }}
+	{{ DBpediaPropertyMapping | templateProperty = twin1_country | ontologyProperty = City/twinCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = Bundesland | ontologyProperty = City/federalState }}
+	{{ DBpediaPropertyMapping | templateProperty = Landkreis | ontologyProperty = City/administrativeDistrict }}
+	{{ DBpediaPropertyMapping | templateProperty = Kreis | ontologyProperty = City/administrativeDistrict }}
+	{{ DBpediaPropertyMapping | templateProperty = Amt | ontologyProperty = City/department }}
+	{{ DBpediaPropertyMapping | templateProperty = Gemeindeverwaltungsverband | ontologyProperty = City/associationOfLocalGovernment }}
+	{{ DBpediaPropertyMapping | templateProperty = Samtgemeinde | ontologyProperty = City/jointCommunity }}
+	{{ DBpediaPropertyMapping | templateProperty = Verbandsgemeinde | ontologyProperty = City/associationOfLocalGovernment }}
+	{{ DBpediaPropertyMapping | templateProperty = Verwaltungsgemeinschaft | ontologyProperty = City/administrativeCollectivity }}
+	{{ DBpediaPropertyMapping | templateProperty = Verwaltungsverband | ontologyProperty = City/administrativeCollectivity }}
+	{{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = City/region }}
+	{{ DBpediaPropertyMapping | templateProperty = province | ontologyProperty = City/province }}
+	{{ DBpediaPropertyMapping | templateProperty = frazioni | ontologyProperty = City/frazioni }}
+	{{ DBpediaPropertyMapping | templateProperty = saint | ontologyProperty = City/saint }}
+	{{ DBpediaPropertyMapping | templateProperty = day | ontologyProperty = City/day }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = City/country }}
+	{{ DBpediaPropertyMapping | templateProperty = crown_dependency | ontologyProperty = City/crownDependency }}
+	{{ DBpediaPropertyMapping | templateProperty = region1 | ontologyProperty = City/region1 }}
+	{{ DBpediaPropertyMapping | templateProperty = belfast_distance_mi | ontologyProperty = City/distanceToBelfast | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = cardiff_distance_mi | ontologyProperty = City/distanceToCardiff | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = edinburgh_distance_mi | ontologyProperty = City/distanceToEdinburgh | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = london_distance_mi | ontologyProperty = City/distanceToLondon | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = douglas_distance_mi | ontologyProperty = City/distanceToDouglas | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = belfast_distance_km | ontologyProperty = City/distanceToBelfast | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = cardiff_distance_km | ontologyProperty = City/distanceToCardiff | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = edinburgh_distance_km | ontologyProperty = City/distanceToEdinburgh | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = london_distance_km | ontologyProperty = City/distanceToLondon | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = douglas_distance_km | ontologyProperty = City/distanceToDouglas | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = gaelic_name | ontologyProperty = City/gaelicName }}
+	{{ DBpediaPropertyMapping | templateProperty = scots_name | ontologyProperty = City/scottishName }}
+	{{ DBpediaPropertyMapping | templateProperty = welsh_name | ontologyProperty = City/welshName }}
+	{{ DBpediaPropertyMapping | templateProperty = irish_name | ontologyProperty = City/irishName }}
+	{{ DBpediaPropertyMapping | templateProperty = manx_name | ontologyProperty = City/manxName }}
+	{{ DBpediaPropertyMapping | templateProperty = cornish_name | ontologyProperty = City/cornishName }}
+	{{ DBpediaPropertyMapping | templateProperty = coastline | ontologyProperty = City/coastLine | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = temp_annual | ontologyProperty = City/annualTemperature | unit = degreeCelsius }}
+	{{ DBpediaPropertyMapping | templateProperty = temp_winter | ontologyProperty = City/winterTemperature | unit = degreeCelsius }}
+	{{ DBpediaPropertyMapping | templateProperty = temp_summer | ontologyProperty = City/summerTemperature | unit = degreeCelsius }}
+	{{ DBpediaPropertyMapping | templateProperty = largest_metro | ontologyProperty = City/largestMetro }}
+	{{ DBpediaPropertyMapping | templateProperty = meaning | ontologyProperty = City/meaning }}
+	{{ DBpediaPropertyMapping | templateProperty = destroyed | ontologyProperty = City/destructionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = other_name | ontologyProperty = Place/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = Place/nativeName }}
+	{{ DBpediaPropertyMapping | templateProperty = settlement_type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = total_type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Place/nickname }}
+	{{ DBpediaPropertyMapping | templateProperty = motto | ontologyProperty = PopulatedPlace/motto }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title1 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name1 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title2 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name2 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title3 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name3 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title4 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name4 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = established_title | ontologyProperty = PopulatedPlace/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = established_title1 | ontologyProperty = PopulatedPlace/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date1 | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = established_title2 | ontologyProperty = PopulatedPlace/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date2 | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = established_title3 | ontologyProperty = PopulatedPlace/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date3 | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = founder | ontologyProperty = PopulatedPlace/foundingPerson }}
+	{{ DBpediaPropertyMapping | templateProperty = area_total_km2 | ontologyProperty = Place/areaTotal | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_land_km2 | ontologyProperty = Place/areaLand | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_water_km2 | ontologyProperty = Place/areaWater | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_total_sq_mi | ontologyProperty = Place/areaTotal | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = area_land_sq_mi | ontologyProperty = Place/areaLand | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = area_water_sq_mi | ontologyProperty = Place/areaWater | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = area_water_percent | ontologyProperty = Place/percentageOfAreaWater }}
+	{{ DBpediaPropertyMapping | templateProperty = area_urban_km2 | ontologyProperty = PopulatedPlace/areaUrban | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_urban_sq_mi | ontologyProperty = PopulatedPlace/areaUrban | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = area_metro_km2 | ontologyProperty = PopulatedPlace/areaMetro | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_metro_sq_mi | ontologyProperty = PopulatedPlace/areaMetro | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_m | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_ft | ontologyProperty = Place/elevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_max_m | ontologyProperty = Place/maximumElevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_max_ft | ontologyProperty = Place/maximumElevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_min_m | ontologyProperty = Place/minimumElevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_min_ft | ontologyProperty = Place/minimumElevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = population_as_of | ontologyProperty = PopulatedPlace/populationAsOf }}
+	{{ DBpediaPropertyMapping | templateProperty = population_total | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_km2 | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_sq_mi | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = population_metro | ontologyProperty = PopulatedPlace/populationMetro }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_metro_km2 | ontologyProperty = PopulatedPlace/populationMetroDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_metro_sq_mi | ontologyProperty = PopulatedPlace/populationMetroDensity | unit = inhabitantsPerSquareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = population_urban | ontologyProperty = PopulatedPlace/populationUrban }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_urban_km2 | ontologyProperty = PopulatedPlace/populationUrbanDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_urban_sq_mi | ontologyProperty = PopulatedPlace/populationUrbanDensity | unit = inhabitantsPerSquareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = population_blank1 | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_blank1_km2 | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_blank1_sq_mi | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = population_blank2 | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_blank2_km2 | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_blank2_sq_mi | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = population_demonym | ontologyProperty = PopulatedPlace/demonym }}
+	{{ DBpediaPropertyMapping | templateProperty = postal_code | ontologyProperty = PopulatedPlace/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = area_code | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = German_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Art | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = Regierungsbezirk | ontologyProperty = City/administrativeDistrict }}
+	{{ DBpediaPropertyMapping | templateProperty = Höhe | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevationmax | ontologyProperty = Place/maximumElevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = Fläche | ontologyProperty = Place/areaTotal | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_metro | ontologyProperty = PopulatedPlace/areaMetro | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = Einwohner | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = pop_metro | ontologyProperty = PopulatedPlace/populationMetro }}
+	{{ DBpediaPropertyMapping | templateProperty = Stand | ontologyProperty = PopulatedPlace/populationAsOf }}
+	{{ DBpediaPropertyMapping | templateProperty = Vorwahl | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = Bürgermeister | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = Bürgermeistertitel | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = Partei | ontologyProperty = PopulatedPlace/leaderParty }}
+	{{ DBpediaPropertyMapping | templateProperty = ruling_party1 | ontologyProperty = PopulatedPlace/leaderParty }}
+	{{ DBpediaPropertyMapping | templateProperty = ruling_party2 | ontologyProperty = PopulatedPlace/leaderParty }}
+	{{ DBpediaPropertyMapping | templateProperty = ruling_party3 | ontologyProperty = PopulatedPlace/leaderParty }}
+	{{ DBpediaPropertyMapping | templateProperty = mayor | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = mayor_party | ontologyProperty = PopulatedPlace/leaderParty }}
+	{{ DBpediaPropertyMapping | templateProperty = gentilic | ontologyProperty = PopulatedPlace/demonym }}
+	{{ DBpediaPropertyMapping | templateProperty = telephone | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = postalcode | ontologyProperty = PopulatedPlace/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = local_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = population | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density | ontologyProperty = PopulatedPlace/populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = postcode_area | ontologyProperty = PopulatedPlace/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = postcode_area1 | ontologyProperty = PopulatedPlace/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = postcode_area2 | ontologyProperty = PopulatedPlace/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = dial_code | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = dial_code1 | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = dial_code2 | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = other_language_name | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = other_language | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = language1 | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = language2 | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = area_total | ontologyProperty = Place/areaTotal | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_magnitude | ontologyProperty = PopulatedPlace/areaMagnitude | unit = squareMetre }}
+	{{ DBpediaPropertyMapping | templateProperty = altitude | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = capital | ontologyProperty = PopulatedPlace/capital }}
+	{{ DBpediaPropertyMapping | templateProperty = largest_city | ontologyProperty = PopulatedPlace/largestCity }}
+	{{ DBpediaPropertyMapping | templateProperty = nearest_city | ontologyProperty = Place/nearestCity }}
+	{{ DBpediaPropertyMapping | templateProperty = official_languages | ontologyProperty = PopulatedPlace/language }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title_1 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name_1 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title_2 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name_2 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_title_3 | ontologyProperty = PopulatedPlace/leaderTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = leader_name_3 | ontologyProperty = PopulatedPlace/leaderName }}
+	{{ DBpediaPropertyMapping | templateProperty = area_telephone | ontologyProperty = PopulatedPlace/areaCode }}
+	{{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = pop_urban | ontologyProperty = PopulatedPlace/populationUrban }}
+	{{ DBpediaPropertyMapping | templateProperty = pop_date | ontologyProperty = PopulatedPlace/populationAsOf }}
+	{{ DBpediaPropertyMapping | templateProperty = PLZ | ontologyProperty = PopulatedPlace/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = hebname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = arname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = typefrom | ontologyProperty = PopulatedPlace/foundingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = stbHeb | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = altOffSp | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = altUnoSp | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = popyear | ontologyProperty = PopulatedPlace/censusYear }}
+	{{ DBpediaGeocoordinatesMapping | latitudeDegrees = lat_deg | latitudeMinutes = lat_min | latitudeSeconds = lat_sec  | longitudeDegrees = lon_deg  | longitudeMinutes = lon_min  | longitudeSeconds = lon_sec }}
+}}

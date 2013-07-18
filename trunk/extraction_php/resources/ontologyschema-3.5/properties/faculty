@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = faculty
+| rdfs:range = xsd:integer
+}}

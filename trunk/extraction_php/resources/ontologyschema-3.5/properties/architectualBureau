@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = architectual bureau
+| rdfs:domain = Building
+| rdfs:range = Company
+}}

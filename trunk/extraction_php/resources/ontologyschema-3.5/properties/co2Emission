@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = CO2 emission
+| rdfs:domain = AutomobileEngine
+| rdfs:range = LinearMassDensity
+| rdf:type = owl:FunctionalProperty
+}}

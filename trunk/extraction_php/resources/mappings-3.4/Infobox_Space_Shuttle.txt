@@ -1,0 +1,24 @@
+{{ DBpediaTemplateMapping
+| mapToClass = SpaceShuttle
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = number | ontologyProperty = SpaceShuttle/number }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = SpaceShuttle/country }}
+	{{ DBpediaPropertyMapping | templateProperty = contract | ontologyProperty = SpaceShuttle/contractAward }}
+	{{ DBpediaPropertyMapping | templateProperty = named_after | ontologyProperty = SpaceShuttle/namedAfter }}
+	{{ DBpediaPropertyMapping | templateProperty = first_flight | ontologyProperty = SpaceShuttle/firstFlight }}
+	{{ DBpediaPropertyMapping | templateProperty = last_flight | ontologyProperty = SpaceShuttle/lastFlight }}
+	{{ DBpediaPropertyMapping | templateProperty = missions | ontologyProperty = SpaceShuttle/missions }}
+	{{ DBpediaPropertyMapping | templateProperty = crews | ontologyProperty = SpaceShuttle/crews }}
+	{{ DBpediaPropertyMapping | templateProperty = time | ontologyProperty = SpaceShuttle/timeInSpace | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = orbits | ontologyProperty = SpaceShuttle/orbits }}
+	{{ DBpediaPropertyMapping | templateProperty = distance | ontologyProperty = SpaceShuttle/distance | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = deployed | ontologyProperty = SpaceShuttle/satellitesDeployed }}
+	{{ DBpediaPropertyMapping | templateProperty = dockings_mir | ontologyProperty = SpaceShuttle/mirDockings }}
+	{{ DBpediaPropertyMapping | templateProperty = dockings_iss | ontologyProperty = SpaceShuttle/issDockings }}
+	{{ DBpediaPropertyMapping | templateProperty = status | ontologyProperty = SpaceShuttle/status }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = first_date | ontologyProperty = SpaceShuttle/firstFlightStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = first_date | ontologyProperty = SpaceShuttle/firstFlightEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last_date | ontologyProperty = SpaceShuttle/lastFlightStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last_date | ontologyProperty = SpaceShuttle/lastFlightEndDate }}
+}}

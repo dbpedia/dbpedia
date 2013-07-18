@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = coordinates
+|rdfs:domain = RadioStation
+|rdfs:range = xsd:string
+}}

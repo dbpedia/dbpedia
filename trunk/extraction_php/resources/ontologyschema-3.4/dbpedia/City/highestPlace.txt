@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = highest place
+|rdfs:domain = City
+|rdfs:range = PopulatedPlace
+}}

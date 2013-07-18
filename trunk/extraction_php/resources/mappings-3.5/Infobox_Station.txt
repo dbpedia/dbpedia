@@ -1,0 +1,17 @@
+{{TemplateMapping
+| mapToClass = Station
+| mappings = 
+	{{PropertyMapping | templateProperty = platform | ontologyProperty = platform }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = address | ontologyProperty = address }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = depth | ontologyProperty = depth | unit = Length }}
+	{{PropertyMapping | templateProperty = opened | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = closed | ontologyProperty = closingDate }}
+	{{PropertyMapping | templateProperty = rebuilt | ontologyProperty = rebuildingDate }}
+	{{PropertyMapping | templateProperty = owned | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = owned | ontologyProperty = owningOrganisation }}
+	{{PropertyMapping | templateProperty = passengers | ontologyProperty = visitorsTotal }}
+	{{PropertyMapping | templateProperty = pass_year | ontologyProperty = visitorsPerYear }}
+}}

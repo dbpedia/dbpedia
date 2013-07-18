@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = worst defeat
+|rdfs:domain = SoccerClub
+|rdfs:range = xsd:string
+}}

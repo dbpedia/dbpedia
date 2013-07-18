@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = major shrine
+| rdfs:domain = Saint
+}}

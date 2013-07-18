@@ -1,0 +1,67 @@
+{{Infobox Automobile
+| name           = Volkswagen Iltis
+| image          = [[Image:VW Iltis 001.jpg|250px|Volkswagen Iltis]]
+| manufacturer   = [[Volkswagen]]
+| production     = 1978–1988 <br/> 9,547 built<ref>{{cite book |title=Deutsche Autos 1945-1990, vol.3 |last=Oswald |first=Werner |year=2003 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02116-1 |page=102}}</ref> <br/> 8,800 for German forces <br/> 747 other
+| class          = Military vehicle
+| predecessor    = [[DKW Munga]]<br />[[Volkswagen Type 181|VW Type 181]]
+| body_style     = Various, mostly [[Cabriolet (automobile)|Cabriolet]]
+| layout         = [[Front-engine design|Front engine]], [[Four wheel drive]]
+| engine         = 1.7&nbsp;L [[Straight-4|I4]]<br>1.6&nbsp;L [[Diesel engine|diesel]] [[Straight-4|I4]]
+}}
+
+The '''Volkswagen Type 183''', more commonly known as the '''Iltis''' (German for the [[European Polecat]]), is a military vehicle built by [[Volkswagen]] for use by the [[Germany|German]] military and under licence by [[Bombardier Inc.|Bombardier]] for the [[Canadian Forces]] and [[Belgian Army]]. Although the two vehicles were briefly offered simultaneously, the Type 183 effectively replaced the Type 181.
+
+==History==
+The German military had been part of a cooperative effort beginning in the late 1960s to create what was dubbed the [[Europa Jeep]], an amphibious [[four wheel drive]] vehicle that could replace the small all-terrain transport vehicles being used by several of the participating governments. With development taking longer than expected, the German military requested that something inexpensive be built in small quantities to fill their need for additional small transport vehicles while the Europa Jeep project was still undergoing design research.
+
+Volkswagen responded to the request, designing an updated version of their [[Volkswagen Kubelwagen|Kübelwagen]] and designating it the [[Volkswagen type 181|Type 181]]. But by 1976 the Europa Jeep project had fallen apart completely, the victim of skyrocketing costs and a difficult development. Needing a suitable four wheel drive vehicle to take over the spots that had been designated for the Europa Jeep, the German government issued requests to several manufacturers to design and build prototype vehicles to be considered for military use.
+
+Prior to the advent of the Type 181, the German military had purchased several thousand vehicles of the [[DKW Munga|Munga]], a light jeep manufactured by [[DKW]], but production of the Munga ended in 1968. VW consolidated the former [[Auto Union]] marques into a single company, re-using the [[Audi]] name to designate vehicles manufactured by the company rather than continuing to manufacture vehicles under the names of the various brands that had made up the original Auto Union.
+
+[[Image:VW Iltis 002.jpg|thumb|left|Rear view of the Iltis]]Wanting to begin immediately making use of the technologies they had acquired in the Auto Union purchase, VW chose to participate in the competition to provide the next new German military vehicle by creating an evolution of the Munga jeep, which had been out of production for several years by this time. The resultant prototype combined old technologies with new, and executives decided to badge the product as a VW rather than as an Audi in the hopes that this would help promote positive linking to the existing VW military designs and give them a "leg up" over the competition.
+
+[[Image:OASISILTIS.jpg|thumb|[[Dakar Rally]] winner of 1980]]
+The vehicle featured a variation of the Munga's platform with newly modified suspension components, a four wheel drive system based around components from the [[Audi 100]] and a 1.7 litre four cylinder Audi engine producing 75 horsepower. The design of this four wheel drive system provided the basis for Audi's [[Quattro]] system, which debuted four years later in 1980 on the original [[Audi Quattro]]. Earlier that year, [[Freddy Kottulinsky]] and Gerd Löffelmann had won the Paris-[[Dakar Rally]] in an Audi-prepared Iltis.
+
+The '''Iltis''', as VW was now calling it, passed the German government's tests with ease, and was chosen over the equally competent but more expensive [[Mercedes-Benz]] [[Mercedes-Benz G-Class|G-Wagen]]. Production began in the summer of 1978 and the first 200 units were delivered in November; by late 1979 approximately 2,000 units had been delivered with 310 units sent to the [[Luftwaffe]] and 20 sent to the German Navy. Although most of the units produced were four-doored with open tops, ambulance, anti-tank, artillery survey, command and field communications units with varying bodystyles were produced in small numbers. A civilian model was also offered in Germany, but found even fewer takers than the 181 had, largely due to price.
+
+==Operators==
+*{{ARG}}: [[Argentine Army]]
+*{{BEL}}: [[Belgian Land Component]]
+*{{CAN}}: [[Canadian Forces]] (replaced by the [[G-Wagen]]) 
+*{{EST}}: [[Estonian Army]]  (replaced by the [[G-Wagen]])
+*{{GER}}: [[German Army]] (replaced by the [[G-Wagen]])
+*{{MKD}}: [[Military of the Republic of Macedonia]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat|Volkswagen Iltis}}
+*[http://www.iltis4x4.com/ Iltis Parts Dealer]
+*[http://www.geocities.com/spoelstra.geo/vw183/index.htm Detailed History]
+*[http://www.geocities.com/spoelstra.geo/vw183/183tech.htm Technological]
+*[http://www.volkswagen-media-services.com/medias_publish/ms/content/en/pressemitteilungen/2003/12/09/the_volkswagen_iltis.standard.gid-oeffentlichkeit.html Official VW PR]
+
+==See also==
+*[[FMC XR311]]
+*[[HMMWV]]
+*[[FN Herstal AS 24]]
+*[[M151 MUTT]]
+
+{{VW}}
+
+[[Category:Military trucks]]
+[[Category:Volkswagen vehicles|Iltis]]
+[[Category:Military vehicles of Canada]]
+[[Category:Military Light Utility Vehicle]]
+[[Category:German military vehicles]]
+
+[[cs:Volkswagen Iltis]]
+[[de:VW Iltis]]
+[[fr:Volkswagen Iltis]]
+[[it:Volkswagen Iltis]]
+[[pl:Volkswagen Iltis]]
+[[pt:Volkswagen Iltis]]
+[[sv:Volkswagen Iltis]]

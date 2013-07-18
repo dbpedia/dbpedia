@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = engineer
+|rdfs:domain = Canal
+|rdfs:range = Person
+}}

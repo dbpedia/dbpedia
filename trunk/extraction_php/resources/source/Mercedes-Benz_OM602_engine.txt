@@ -1,0 +1,77 @@
+{{Infobox Automobile engine
+|
+|name=Mercedes-Benz OM602 Diesel Engine
+|manufacturer=[[Daimler-Benz]]
+|production=1980 to 2002
+|successor = [[Mercedes-Benz OM612 engine|OM612]]
+}} 
+
+The successor of the '''[[Mercedes-Benz OM617 engine|OM617]]''' engine family was the newly developed [[straight-5]] [[Diesel engine|Diesel]] automobile engine '''OM602''' from [[Mercedes-Benz]] used from 1980s up to 2002. With some Mercedes-Benz 250D/E250D diesels exceeding 500,000 or 1,000,000 miles, it's considered to be the one of the most reliable engines ever produced, a success which is only comparable with the famous OM617 engine. 
+
+The 5-cylinder OM602 was succeeded by the four valve engine OM605 (E250D 20V) and later the OM612 and OM647 with turbo charger and Common Rail Direct Injection (C/E/ML 270CDI).
+
+==The engine==
+The '''Mercedes OM602''' engine is a 5 cylinder diesel engine of 2497cc. The engine was also increased in capacity to 2874cc (2.9L) and used in the Phase 1 Mercedes Sprinter vans, the Ssangyong Musso and Korando range and even in the 1996-1999 models of the E-class. 
+It was available in either naturally aspirated or turbocharged variants with two valves per cylinder.
+
+The camshafts and injection pump are driven by duplex chain from the crankshaft. A separate single row chain drives the oil pump. The camshaft operated the valves via hydraulic bucket tappets; valve clearance adjustment is automatic.
+
+On earlier models of 2497cc Fuel injection is indirect. A Bosch PES in-line injection pump is used, with a mechanical governor and vacuum-operated stop control. The pump is lubricated by a connection to the engine oil circulation and the fuel lift pump is mounted on the side of the injection pump. 
+
+The later, 2.9L capacity unit uses a Bosch VE style rotary distributor injection pump with electronic control. This larger capacity version uses direct injection.
+
+Preheating is by glow plugs with automatic control of preheating time.
+
+==Versions of OM602 Mercedes 5-cylinder diesel engine==
+{| class="wikitable" 
+ | style="background:#CCCCCC;text-align:center" | '''Model indication'''
+ | style="background:#CCCCCC;text-align:center" | '''Year'''
+ | style="background:#CCCCCC;text-align:center" | '''Engine no OM602...'''
+ | style="background:#CCCCCC;text-align:center" | '''Power in kW (HP)'''
+ |- 
+ | style="background:#EEEEEE;text-align:center" colspan=4 | '''OM 602.xxx (5-cylinder diesel)'''
+ |- 
+ |[[Mercedes-Benz W201|W201]] 190 2.5 D & [[Mercedes-Benz W124|W124]] 250 D 
+ | rowspan="2"|04/1985 - 06/1993
+ |.911 & .912 & .930 & .931
+ |rowspan="2"|'''66 (90)''' (<'89) or '''69 (94)''' (>'89)
+ |-
+ |[[Mercedes-Benz G-Class|G-Class]] 250 GD 4x4 
+ |.938 & .939 
+ |-
+ |210 & 310 & 410 2,9 D. 
+ | rowspan="2"|10/1988 -> ?
+ |.940 & .942
+ |rowspan="2"|'''72 (98)''' or '''75 (102)''' 
+ |-
+ |[[Mercedes-Benz G-Class|G-Class]] 290 GD 4x4 
+ |.946 & .947
+ |-
+ |[[Mercedes-Benz W201|W201]] 190 2.5 turbodiesel & [[Mercedes-Benz W124|W124]] 250D Turbo / 300D 2.5 Turbo  
+ | rowspan="2"|01/1987 -> 1993
+ |A.961 & A.962
+ |rowspan="2"|'''90 (122)''' (<'88) or '''92 (126)''' (>'88)
+ |-
+ |Sprinter 2,5 Turbo-D. 
+ |A.963 
+ |-
+ |212D & 312D & 412D & Sprinter 2,9 TD.
+ |02/1995 -> 04/2000
+ |A.980 & A.986
+ |'''90 (122)'''
+ |-
+ |[[Mercedes-Benz G-Class|G-Class]] 290 GD turbodiesel 4x4 
+ |07/1997 -> 09/2000
+ |A.983
+ |'''88 (120)'''
+ |-
+ |[[Mercedes-Benz W210|W210]] E290 turbodiesel
+ |03/1996 -> 07/1999
+ |A.982 
+ |'''95 (129)'''
+ |-
+ |}
+
+
+[[Category:Mercedes-Benz engines|OM602]]
+[[de: Mercedes-Benz OM602]]

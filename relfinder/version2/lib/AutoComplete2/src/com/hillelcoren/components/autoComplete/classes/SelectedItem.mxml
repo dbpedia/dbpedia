@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:classes="com.hillelcoren.components.autoComplete.classes.*"
+	implements="mx.managers.IFocusManagerComponent,com.hillelcoren.components.autoComplete.interfaces.iComboItem"
+	verticalGap="0" horizontalGap="0" tabChildren="false" tabEnabled="false" 
+	height="{ textInput.height }"
+	verticalScrollPolicy="off" horizontalScrollPolicy="off"
+	creationComplete="init()">
+	
+	<mx:Metadata>
+		[Event(name="change")]
+		[Event(name="removeItem")]
+	</mx:Metadata>
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.core.UITextField;
+			import com.hillelcoren.components.AutoComplete;
+			import mx.events.FlexEvent;
+			import mx.controls.Label;
+			import mx.core.UIComponent;
+			import mx.controls.TextInput;
+			
+			private static const COLOR_MAC_MAIL_NORMAL:uint 	= 0xDEE7FB;
+			private static const COLOR_MAC_MAIL_BORDER:uint 	= 0xA4BDEC;
+			private static const COLOR_MAC_MAIL_OVER:uint 		= 0xBBCEF1;
+			private static const COLOR_MAC_MAIL_SELECTED:uint 	= 0x598BEC;
+			
+			private static const COLOR_FACEBOOK_NORMAL:uint 	= 0xEFF2F7;
+			private static const COLOR_FACEBOOK_BORDER:uint 	= 0xCCD5E4;
+			private static const COLOR_FACEBOOK_OVER:uint 		= 0xD8DFEA;
+			private static const COLOR_FACEBOOK_SELECTED:uint 	= 0x5670A6;
+			private static const COLOR_FACEBOOK_SELECTED_BORDER:uint = 0x3B5998;
+			
+			private var _style:String;
+			private var _styleChanged:Boolean = true;
+			
+			private var _shape:UIComponent;
+			private var _item:Object;
+			private var _text:String;
+			private var _isMouseOver:Boolean;		
+			private var _isMultiSelect:Boolean;
+			
+			[Bindable]			
+			private var _enableRemoveIcon:Boolean = true;
+			public static const REMOVE_ITEM:String = "removeItem";
+			
+			override protected function commitProperties():void
+			{
+				super.commitProperties();
+				
+				if (_styleChanged)
+				{
+					_styleChanged = false;
+					
+					redraw();
+				}
+			}
+			
+			public function set style( value:String ):void
+			{
+				_style = value;
+				_styleChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			private function redraw():void
+			{
+				var label:String;
+				var padding:uint;
+				
+				if (_style == AutoComplete.STYLE_UNDERLINE)
+				{
+					label = "<u>" + _text + "</u>";
+					
+					if (focusManager && focusManager.getFocus() == this)
+					{
+						label = "<b>" + label + "</b>";
+					}
+				}
+				else
+				{
+					label = _text;
+				}
+				
+				if (_style == AutoComplete.STYLE_UNDERLINE)
+				{
+					label += _isMultiSelect ? "," : "";
+					padding = 0;					
+				}
+				else
+				{
+					padding = _style == AutoComplete.STYLE_MAC_MAIL ? 10 : 4;
+					
+					if (focusManager && focusManager.getFocus() == this)
+					{
+						itemLabel.setStyle( "color", 0xFFFFFF );
+					}
+					else
+					{
+						itemLabel.clearStyle( "color" );
+					}
+				}
+				
+				itemLabel.htmlText = label;
+				itemLabel.setStyle( "paddingLeft", padding );
+				spacer.width = padding;
+				
+				redrawShape();
+			}
+				
+			private function redrawShape():void
+			{
+				if (!_shape)
+				{
+					return;
+				}
+				
+				_shape.graphics.clear();
+					
+				if (_style == AutoComplete.STYLE_MAC_MAIL || _style == AutoComplete.STYLE_FACEBOOK)
+				{
+					var width:uint = itemLabel.width + spacer.width;
+					var height:uint = itemLabel.height;
+					
+					if (_enableRemoveIcon)
+					{
+						width += removeIcon.width;
+					}
+					
+					
+					var color:uint;
+					var border:uint;
+					
+					if (focusManager && focusManager.getFocus() == this)
+					{
+						color = _style == AutoComplete.STYLE_MAC_MAIL ? COLOR_MAC_MAIL_SELECTED : COLOR_FACEBOOK_SELECTED;
+						border = _style == AutoComplete.STYLE_MAC_MAIL ? COLOR_MAC_MAIL_SELECTED : COLOR_FACEBOOK_SELECTED_BORDER;
+					}
+					else if (_isMouseOver)
+					{
+						color = _style == AutoComplete.STYLE_MAC_MAIL ? COLOR_MAC_MAIL_OVER : COLOR_FACEBOOK_OVER;
+						border = _style == AutoComplete.STYLE_MAC_MAIL ? COLOR_MAC_MAIL_BORDER : COLOR_FACEBOOK_BORDER;
+					}
+					else
+					{
+						color = _style == AutoComplete.STYLE_MAC_MAIL ? COLOR_MAC_MAIL_NORMAL : COLOR_FACEBOOK_NORMAL;
+						border = _style == AutoComplete.STYLE_MAC_MAIL ? COLOR_MAC_MAIL_BORDER : COLOR_FACEBOOK_BORDER;
+					}
+					
+					var radius:uint = _style == AutoComplete.STYLE_MAC_MAIL ? 20 : 10;
+					var x:int = itemLabel.x;
+					var y:int = 0;
+					
+					_shape.graphics.beginFill( color );
+					_shape.graphics.lineStyle( 1, border );
+					_shape.graphics.drawRoundRect( x, y+1, width, textInput.height-2, radius );
+					_shape.graphics.endFill();
+				}
+			}
+			
+			private function init():void
+			{
+				_shape = new UIComponent();
+				_shape.focusEnabled = true;
+					
+				addEventListener( MouseEvent.MOUSE_OVER, handleMouseOver );
+				addEventListener( MouseEvent.MOUSE_OUT, handleMouseOut );
+				addEventListener( MouseEvent.MOUSE_DOWN, handleMouseDown );
+				
+				addEventListener( FocusEvent.FOCUS_IN, handleFocusIn );
+				addEventListener( FocusEvent.FOCUS_OUT, handleFocusOut );			
+								
+				addChildAt( _shape, 0 );
+				redrawShape();								
+			}
+			
+			private function handleMouseOver( event:Event ):void
+			{
+				if (textInput.contains( event.target as DisplayObject ))
+				{
+					return;
+				}
+				
+				_isMouseOver = true;
+				redraw();	
+			}
+			
+			private function handleMouseOut( event:Event ):void
+			{
+				if (textInput.contains( event.target as DisplayObject ))
+				{
+					return;
+				}
+				
+				_isMouseOver = false;
+				redraw();	
+			}
+			
+			private function handleMouseDown( event:Event ):void
+			{
+				if (textInput.contains( event.target as DisplayObject ))
+				{
+					return;
+				}
+				
+				_shape.setFocus();
+			}
+			
+			private function handleFocusIn( event:Event ):void
+			{
+				drawFocus( false );
+				redraw();				
+			}
+			
+			private function handleFocusOut( event:Event ):void
+			{
+				redraw();
+			}
+			
+			private function handleTextInput( event:TextEvent ):void
+			{
+				textInput.text = "";
+				textInput.validateNow();
+				
+				dispatchEvent( event );
+			}
+			
+			public function set item( value:Object ):void
+			{
+				_item = value;				
+			}
+			
+			public function get item():Object
+			{
+				return _item;
+			}
+			
+			public function get newText():String
+			{
+				return textInput.text;
+			}
+			
+			public function setTextFocus():void
+			{
+				textInput.setFocus();
+			}
+			
+			public function isCursorAtBeginning():Boolean
+			{
+				return true;
+			}
+			
+			public function isCursorAtEnd():Boolean
+			{
+				return true;
+			}
+			
+			public function isEditable():Boolean
+			{
+				return false;
+			}			
+			
+			public function set text( value:String ):void
+			{
+				_text = value;
+			}
+			
+			public function get text():String
+			{
+				return _text;
+			}
+					
+			public function set enableRemoveIcon( value:Boolean ):void
+			{
+				_enableRemoveIcon = value;
+			}
+			
+			public function handleRemoveClick():void
+			{
+				var event:Event = new Event( REMOVE_ITEM );
+				dispatchEvent( event );
+			}
+
+			public function set isMultiSelect( value:Boolean ):void
+			{
+				_isMultiSelect = value;
+			}
+						
+		]]>
+	</mx:Script>
+	
+	<classes:ShorterTextInput id="textInput" width="5" borderStyle="none" 
+		focusThickness="0" textInput="handleTextInput(event)"/>
+	<mx:Label id="itemLabel" updateComplete="redrawShape()"/>
+	<mx:Image id="removeIcon" source="@Embed('/com/hillelcoren/assets/remove.png')" height="{ itemLabel.height }" verticalAlign="middle" 
+		visible="{ _enableRemoveIcon }" includeInLayout="{ _enableRemoveIcon }" click="handleRemoveClick()"/>		
+	<mx:Spacer id="spacer"/>
+	
+</mx:HBox>

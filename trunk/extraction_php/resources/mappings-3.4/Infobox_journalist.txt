@@ -1,0 +1,22 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Journalist
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birthname | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = education | ontologyProperty = Person/education }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = alias | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = title | ontologyProperty = Person/title }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = relatives | ontologyProperty = Person/relative }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnic | ontologyProperty = Person/ethnicity }}
+	{{ DBpediaPropertyMapping | templateProperty = religion | ontologyProperty = Person/religion }}
+	{{ DBpediaPropertyMapping | templateProperty = salary | ontologyProperty = Person/salary | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = networth | ontologyProperty = Person/networth | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = URL | ontologyProperty = foaf:homepage }}
+}}

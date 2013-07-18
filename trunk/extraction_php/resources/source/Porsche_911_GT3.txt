@@ -1,0 +1,154 @@
+{{Essay-like|date=December 2007}}
+{{Infobox Automobile
+| image        = [[Image:Porsche-911-GT3-front.jpg|250px|Porsche 997 911 GT3]]
+| name         = Porsche 911 GT3
+| manufacturer = [[Porsche]]
+| production   = 1999-Present
+| assembly     = [[Leipzig]], [[Germany]]
+| body_style   = 2-door [[coupe]]
+| layout       = [[RR layout]]
+| class        = [[Grand tourer]] /<br />[[Sports car]]
+| transmission = 6-speed [[Manual transmission|manual]]
+| wheelbase    = {{Auto in|92.7|0}}
+}}
+{{Infobox Automobile generation
+| name         = 996
+| image        = [[Image:Porsche 996 GT3 RS.jpg|250px|996 GT3 RS]]
+| production   = 1999-2005
+| engine       = 3.6L 380 hp [[Flat-6|H6]]
+| length       = {{Auto in|174.6|0}}
+| width        = {{Auto in|69.7|0}}
+| height       = {{Auto in|50.2|0}}
+}}
+
+{{Infobox Automobile generation
+| name         = 997
+| image        = [[Image:PorscheGT3RS 1.JPG|250px|997 GT3 RS]]
+| production   = 2006-Present
+| engine       = 3.6L 415 hp [[Flat-6|H6]]
+| length       = {{Auto in|174.3|0}}
+| width        = {{Auto in|71.2|0}}
+| height       = {{Auto in|50.4|0}}
+}}
+
+The '''Porsche 911 GT3''' was introduced in 1999 as a high performance version of the first [[water-cooled]] version of the [[Porsche 911]], the [[Porsche 996|996]], to continue the quarter-century tradition of low-weight RS (short for "Rennsport" in [[German language|German]]) models that ended with the [[Porsche 993|993 RS]]. The GT3, named after the FIA GT class it was intended for, did not use the rather simple engine of the regular production versions of the 996, but a [[naturally-aspirated engine|naturally-aspirated]] version of the [[Turbocharger|turbocharged]] [[Porsche 962]] and [[Porsche 911 GT1]] race cars. Later, the turbo-charged [[Porsche 911 GT2]] was added to the maker's lineup, but unlike its predecessor 993 GT2, did not fit into GT racing regulations. The racing versions of the GT3 have won several major 24h races outright, and mainly dominated their class at Le Mans. The 911 GT3 competes with the [[BMW M3 GTR]] and the [[Ferrari F430 GT2]].
+
+== Engine and transmission==
+
+The engine of the GT3 sets it apart from the other [[Porsche 996|996]] models although it shares the same basic 3.6&nbsp;liter displacement of the standard 996 type so-called "integrated dry-sump" flat-six engine. It is actually based on the original [[air-cooled]] 911's versatile, true dry-sump crankcase, with an external [[oil tank]]. The original version of the GT3 had {{convert|360|PS|kW hp|0|abbr=on}}, compared to the {{convert|300|PS|kW hp|0|abbr=on}} of the regular  996.
+
+In GT3 configuration, this so called "split" crankcase (meaning the parting line of crankcase is on the crankshaft centerline) uses, instead of a fan and finned [[Cylinder (engine)|cylinders]], separate water jackets added onto each side of the crankcase to cool banks of three cylinders with water pumped though a radiator. Thus, the GT3 engine is very similar to the completely water cooled 962 racing car's engine, which is also based on this same crankcase. The 962 differs, however, by using 6 individual cylinder heads while the GT1/GT3, like the air and water cooled [[Porsche 959]], uses 2 cylinder heads, each covering a bank of 3 cylinders. The GT3 engine could thus also be thought of as similar to a 959 engine, but with water-cooled cylinders.
+
+Up to early model year 2004 GT3 production, the basic casting used for the crankcase of the GT3 was exactly the same as the air-cooled engine and one could see the "964" casting number on the bottom of the crankcase and areas normally machined in the air-cooled application that are not machined for use in the water-cooled application. The crankcase casting was changed in mid-2004 to a "996" casting number crankcase to eliminate these external air-cooled remnants, but internally it is the same.
+
+This engine gives the GT3 a distinct racing heritage that dates back to the Porsche 904/6 of the mid-60's, up to the Carrera Cup and 997 Super Cup and RSR racing cars of today. 
+
+Because the 911 air-cooled crankcase uses the Porsche 356 engine to transmission mounting flange configuration, the GT3 uses a [[manual gearbox]] also of air-cooled 911 heritage. This gearbox has interchangeable gear ratios and is more durable making it more suitable for racing than the standard 996 type 911 gearbox.
+
+At {{Convert|450|hp|kW|0|abbr=on}}, the 3.8 litre flat-six engine in the 997 GT3 RS is the most powerful naturally aspirated six cylinder engine in any production car with a 118 hp per liter output.
+
+== Racing ==
+[[Image:Tafel 997 GT3-RSR.jpg|250px|thumb|left|A Tafel Racing Porsche 997 GT3-RSR at the [[2007 Generac 500]].]]
+Due to the absence of the official Porsche team in the [[1999 24 Hours of Le Mans]], only privateers with the nearly obsolete [[air-cooled]] 993 GT2 Turbo were expected to represent the marque, with few chances to beat the Chrysler Viper for GTS class honors. Yet, two new race versions of the [[water-cooled]] 996 GT3-R showed up, officially entered in the GT class by private teams, but the drivers involved and Porsche engineers in the pits indicated that it was an effort backed by the company. Even though these were the least powerful cars in the event, being the only entrants in the GT class, the new GT3-R was noticed by fans for its loud exhaust sound when driving in 1st gear through the pitlane, comparable to ex-[[Formula One]] engines of [[Judd (engine)|Judd]]. The better of the two cars, entered by the German [[Manthey Racing]] team, finished 13th overall, beaten by only two of the Vipers with an engine more than twice as big.
+
+The 996 GT3-R were made available to privateer teams. In the [[24 Hours Nürburgring]] of the year 2000, a factory-backed effort of the local Phoenix team managed to beat the [[Zakspeed]] Chrysler Viper that dominated this race from 1999 to 2002. The improved 996 GT3-RS version of 2001 was entered in countless races in the years to follow, scoring not only many class wins, but also overall wins at Daytona and Spa in 2003. In 2004, the 996 GT3-RSR was made available, with numerous improvements to the RS, including a sequential gearbox, which allows for faster gearshifts.
+
+In 2005, the new 997-generation racing vehicles began to debut with the GT3 Cup, and was followed by the launch of the 911 GT3-RSR at the [[2006 Spa 24 Hours]]. In VLN endurance races at the [[Nürburgring]] in 2007, the new car had teething problems, and the wide rear fenders reduced top speed. Yet, the Manthey entry won the last 4h race before the 24h event, and managed to win the big event also.
+
+[[Image:997GT3Cup.jpg|thumb|right|250px|997 GT3 Cup at the 2007 [[24 Hours of Daytona]].]]
+The following race versions were or are offered:
+* 1999 996 GT3-R 
+* 2000 996 GT3 Cup <ref>[http://www.porsche.com/usa/eventsandracing/motorsport/racingcars/996gt3cup/ ]{{dead link|date=July 2009}}</ref>
+* 2001 996 GT3-RS
+* 2004 996 GT3-RSR - with sequential gear box [http://www.porsche.com/usa/eventsandracing/motorsport/racingcars/996gt3rsr/]
+* 2005 997 GT3 Cup <ref>{{cite web|url=http://www.porsche.com/usa/eventsandracing/motorsport/racingcars/911gt3cup-997/ |title=911 GT3 Cup (Type 997) - Racing cars / Racing components - Motorsports - Dr. Ing. h.c. F. Porsche AG |publisher=Porsche.com |date= |accessdate=2009-07-19}}</ref> 
+* 2007 [http://www.racecar-engineering.com/allarticles/184232/porsche-911-gt3-rsr.html 997 GT-3 RSR] [http://www.porsche.com/usa/eventsandracing/motorsport/racingcars/911gt3rsr-997/]
+* 2008 997 GT3 Cup S [http://www.porsche.com/usa/eventsandracing/motorsport/racingcars/911gt3cup-s/]
+* 2010 997 GT3 R<ref>[http://paultan.org/2009/11/20/porsche-911-gt3-r-replaces-the-gt3-cup-s/ Porsche 911 GT3 R replaces the GT3 Cup S]</ref>
+
+[[Image:'09 Porsche 911 GT3 (MIAS).JPG|thumb|left|250px|2009 Porsche 911 GT3 race car (North America)]]
+
+Apart from numerous class wins, the GT3 won major events overall:
+* [[24 Hours Nürburgring]] in  2000, 2006, 2007, 2008, 2009
+* [[24 Hours Spa]] in 2003
+* [[24 Hours of Daytona]] in 2003
+Also, at the [[Nürburgring]], the GT3-RS and modified versions (with 3.9 litre engine) win many [[VLN]] races.
+
+The various national ''Porsche Carrera Cup'' series, and the international [[Porsche Supercup]] which is mainly run at Formula One events, also use the GT3 Cup.
+
+==Road cars==
+===996 GT3===
+[[Image:Porsche 996 GT3 1999 side.jpg|thumb|280px|right|996 GT3]]
+As with Porsche's 911 RS models, the GT3 was devoid of any unnecessary items that would add weight to the car.  Sound deadening was almost completely removed, as were the rear seats, stereo system, sunroof, and [[air conditioning]], although automatic air conditioning and CD/radio became no-cost optional add-ons.  In addition, Porsche offered a no-cost option called the Clubsport package.  This option replaced the standard electrically adjustable [[leather]] front seats with manually adjustable racing buckets finished in fire-retardant fabric, bolt-in half-roll cage, 6-point drivers racing harness, fire extinguisher (mounted in the front passenger footwell) and preparation for a battery master switch.  The Clubsport option was never offered to US customers ostensibly due to the additional DOT crash testing that would have been required to allow US sales.   
+
+To bring the vehicle's track-prowess to the maximum level, Porsche endowed the GT3 with enlarged brakes, a lowered, re-tuned suspension system, lighter-weight wheels and a new front bumper with matched rear spoiler to help increase downforce, thereby increasing grip.
+
+Porsche made significant updates to the GT3 for 2004, the first year the car was offered to US customers.  Horsepower was raised to {{Convert|381|hp|kW|0|abbr=on}} and torque to {{Auto ftlbf|284|0}}, 80% of which was available from a mere 2,000 rpm.  The [[brake|braking]] setup was upgraded, now featuring 6-piston calipers on the front (rears remained 4-piston), and the Porsche Ceramic Composite Brake system was offered as an option.  The new car also was updated to the 2002 911 facelift including headlights that were differentiated from the Boxster.  The engine alone costs over 40,000 GBP as a replacement from Porsche due to the cost of the titanium parts.
+
+In track testing by [[United States|American]] automotive journals, the GT3 managed a 0-60&nbsp;mph time of 4.5&nbsp;seconds and a quarter mile time of 13.0&nbsp;seconds at {{convert|118|mi/h|km/h}}.  During skidpad testing the vehicle posted 1.03g.  Porsche introduced a revised [[Porsche 911 GT3 RS|911 GT3 RS]] to the [[Europe|European market]] in 2003, marking the last revision of the 996 platform car before its discontinuation in 2005.
+
+A total of 1,890 cars were built, about 103 as right-hand drive.
+
+Porsche's official test-driver [[Walter Röhrl]] completed the [[Nürburgring]] Nordschleife with the 996 GT3 in 7&nbsp;minutes 56&nbsp;seconds, a feat which was used by Porsche to promote the car.  Later, with the 996 GT3 RS, he managed 7&nbsp;minutes 43&nbsp;seconds.<ref> Cited in an interview with Mr. Röhrl by Swedish sports car magazine Automobil 5.06.</ref>
+
+===996 GT3 RS===
+[[image:Porsche 996 GT3 RS.jpg|thumb|200px|right|996 GT3 RS]]
+The ''Porsche 911 GT3 RS'' is a high-performance [[sports car]] built by [[Porsche]] since 2003.  It is often confused with the non-roadlegal racecar [[Porsche 911 GT3-RS]] of 2001 and later, which was based on the Porsche 911 GT3-R of 2000.
+
+The RS (short for the [[German language|German]]  '''''R'''enn'''S'''port'', which means "Motorsport" in [[English language|English]]) is mainly a carryover of the [[Porsche 911 GT3]], albeit it is lighter thanks to a [[polycarbonate]] rear window, [[Carbon fiber reinforced plastic|carbon fiber]] hood and rear wing.  Porsche Ceramic Composite Brake (PCCB) [[reinforced carbon-carbon#similar products|Carbon fibre-reinforced Silicon Carbide]] (C/SiC) [[ceramic]] composite [[brake]]s, which are also more heat and [[brake fade|fade resistant]] than the [[cast iron]] units fitted as standard, are optional.  Mechanically the two cars are identical, except that the RS has a revised suspension geometry to compensate for the lowered ride height, a single-mass flywheel and hydraulic clutch instead of the dual-mass one found on the regular GT3.  They share the same [[horsepower]], and 3.6 litre flat-six engine.
+
+The original [[Porsche 996]] GT3 RS had a production run from 2003 to 2005.  The "RS" moniker, and the characteristic blue or red wheels and "GT3 RS" side stickers link the GT3 RS to historically important Porsches such as the Carrera 2.7 RS of the early 1970s.
+
+Automobile magazines claim the GT3 RS can accelerate from 0-60 mph in about 4.3 seconds, maintain over 1.0g on the skidpad, and have a top speed of around {{convert|190|mph|km/h|0|abbr=on}} using the 996 GT3's {{Convert|380|hp|kW|0|abbr=on}} engine.
+
+===997 GT3===
+[[image:2006 SAG - Porsche GT3 -03.JPG.JPG|thumb|right|280px|997 GT3]]
+In February 2006, Porsche revealed the latest street-legal version of the GT3, now built on the new [[Porsche 997|997]] platform.  Prior to that, 997 had already been in active race use for several months.  In addition to a new {{Convert|415|hp|kW|0|abbr=on}} 3.6 litre [[Flat-6|flat-six]] engine, the vehicle features "zero lift" aerodynamics, meaning the car creates only aerodynamic downforce but no "lift", which pulls upwards and away from the road surface and affects overall grip.  The vehicle now makes use of a modified, track oriented version of Porsche's active PASM suspension making this the first of Porsche's RS or GT3 versions to feature an electronically adjustable suspension system.  Also available are a navigation system and Porsche's "sports chrono" gauge package, making this the most "friendly" lightweight track car the company has ever produced.  The car went to sale in summer of 2006 and had a starting price of 106,000&nbsp;USD.  The RS was released in Europe in October 2006 and in North America in spring 2007.
+
+The vehicle has a rated 0-60&nbsp;mph time of 4.1 seconds and has a top speed of {{convert|193|mph|km/h}}.  Road and Track was able to achieve a 0-60&nbsp;mph run in 3.8 seconds.<ref>{{cite journal | last = Elfalan | first = Jonathan
+  | title = 2010 Porsche 911 GT3 | journal = [[Road & Track]] | volume = 61 | issue = 1 | page = 59 | publisher = [[Hachette Filipacchi Media]] | date = September 2009 | url = http://www.roadandtrack.com/article.asp?section_id=10&article_id=8195 | accessdate = August 15, 2009}}</ref>  Porsche's official test-driver Walter Röhrl completed the Nürburgring Nordschleife in 7&nbsp;minutes 42&nbsp;seconds with the 997 GT3.  Cited in an interview with Mr. Röhrl by [[Sweden|Swedish]] sports car magazine Automobil 5.06.
+
+In 2009 Porsche launched the 2nd Generation 997 GT3, boasting an enlarged 3.8 litre engine producing 435 bhp. It also featured a number of new options including dynamic engine mounts and a hydraulically lifting front axle to compensate for the low ground clearance. The rear spoiler was also modified along other parts of the bodywork. Deliveries in Europe commenced in October the same year.
+
+===997 GT3 RS===
+[[image:Porsche GT3 RS at Nuerburgring.jpg|thumb|250px|right|Porsche GT3 RS at the Nordschleife Adenauer Forst]]
+As with earlier models, such as the Carrera RS 2.7 of 1973 and the [[Porsche 964#Carrera RS variants|Type 964 911 RS]] of 1991, Porsche offered an RS version of the 997 GT3.  In common with its predecessors, it provides a homologation model for use in a range of racing series.
+
+Thanks to a close-ratio six-speed transmission with a single-mass flywheel, the engine revs up even more freely, thus enabling the 911 GT3 to sprint from zero to {{convert|100|km/h|mph|0|abbr=on}} in 4.0&nbsp;seconds while reaching {{convert|200|km/h|mph|0|sp=us|abbr=on}} in 13.3&nbsp;seconds.  Maximum speed is 310&nbsp;km/h (193&nbsp;mph).
+
+The RS is {{convert|20|kg|lb|0|abbr=on}} lighter than the GT3, weighing in at {{convert|1375|kg|lb|0|abbr=on}}.  This weight-saving was achieved by the use of an adjustable carbon fiber wing, a plastic engine cover, and a lightweight plastic rear window.  The weight savings gives the RS model corresponding engine power to curb weight ratio of {{convert|300|bhp|kW|-1|abbr=on}} per tonne.
+
+One characteristic of the new RS is the body, which is {{convert|44|mm|in|1|abbr=on}} wider at the rear (a legacy from the Carrera 4 models with which it shares its shell) by comparison with the 911 GT3.  The muscular-looking rear end conceals a wider track that not only improves directional stability but also increases the potential cornering grip of the two-seater coupe.  On the other hand, drag is increased, and top speed reduced.
+
+In addition to the new technology featured in this flat six motor car, the paint scheme and body panels are all designed specially for this car.  For the RS version, the limited edition orange color was mixed specially for this car.
+
+The American version of the RS has a standard rear window (not plexiglas) and the smaller 911 fuel tank to comply with rules of SCCA, Grand-Am, and IMSA.  For Grand-Am races, the central locking wheel nut is replaced with the standard five-lug pattern required under Grand-Am rules.
+
+For 2010, the new 911 GT3 RS received an additional 35 PS due to a new 3.8-liter flat-six, bringing total power output up to 450 PS.  This car will not be raced in the United States as both [[Grand America Road Racing Association|NASCAR Grand-Am]], and [[International Motor Sports Association|IMSA American LeMans]] have not approved the new car for competition.<ref>{{cite web|url=http://jalopnik.com/5340633/2010-porsche-911-gt3-rs-track+ready-street+legal-and-more-power/gallery/ |title=2010 Porsche 911 GT3 RS: Track-Ready, Street-Legal And More Power |publisher=Jalopnik.com |date= |accessdate=2009-08-19}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat|Porsche 911 GT3}}
+*[http://www.porsche.com/uk/models/911/911-gt3/ The Porsche 997 GT3 at the official Porsche website]
+*[http://www.911uk.com GT3 Owners and information]
+*[http://www.racecar-engineering.com/allarticles/184232/porsche-911-gt3-rsr.html Racecar Engineering on the racing versions]
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|911 GT3]]
+[[Category:Sports cars]]
+[[Category:Grand tourer racing cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Vehicles introduced in 1999]]
+
+[[be:Porsche 911 GT3]]
+[[be-x-old:Porsche 911 GT3]]
+[[de:Porsche 911 GT3]]
+[[es:Porsche 911 GT3 RS]]
+[[fr:Porsche 911#GT3 (à partir de février 2006)]]
+[[it:Porsche 997 GT3 RS]]
+[[nl:Porsche 911 GT3]]
+[[pl:Porsche 911 GT3]]
+[[tr:Porsche 911 GT3]]

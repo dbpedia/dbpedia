@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = statistic label
+| rdfs:domain = BaseballPlayer
+}}

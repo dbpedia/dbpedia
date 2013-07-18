@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = director
+|rdfs:domain = Album
+|rdfs:range = Person
+}}

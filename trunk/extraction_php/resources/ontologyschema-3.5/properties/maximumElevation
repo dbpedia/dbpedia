@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = maximum elevation
+| rdfs:domain = Place
+| rdfs:range = Length
+}}

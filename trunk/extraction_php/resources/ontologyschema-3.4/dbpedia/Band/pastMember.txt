@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = past member
+|rdfs:domain = Band
+|rdfs:range = Person
+}}

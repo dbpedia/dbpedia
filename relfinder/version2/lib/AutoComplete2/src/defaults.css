@@ -1,0 +1,85 @@
+AutoComplete
+{
+	selected-item-style-name: macMail;
+}
+
+.none 
+{
+	over-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	up-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	down-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-over-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-up-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-down-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+	font-weight: normal;
+	selected-font-weight: bold;
+	show-comma: yes;
+}
+  
+.underline
+{
+	over-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	up-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	down-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-over-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-up-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-down-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+	text-decoration: underline;
+	font-weight: normal;
+	selected-font-weight: bold;
+	show-comma: yes;
+}
+  
+.macMail 
+{
+	over-skin: ClassReference("com.hillelcoren.assets.skins.MacMailSkin");
+	up-skin: ClassReference("com.hillelcoren.assets.skins.MacMailSkin");
+	down-skin: ClassReference("com.hillelcoren.assets.skins.MacMailSkin");
+	selected-over-skin : ClassReference("com.hillelcoren.assets.skins.MacMailSkin");
+	selected-up-skin: ClassReference("com.hillelcoren.assets.skins.MacMailSkin");
+	selected-down-skin : ClassReference("com.hillelcoren.assets.skins.MacMailSkin");
+	padding-top: 0;
+	padding-bottom: 0;
+	text-selected-color: #FFFFFF;
+	padding-left: 8;
+	padding-right: 8;
+	font-weight: normal; 
+}
+
+.facebook 
+{
+	over-skin: ClassReference("com.hillelcoren.assets.skins.FacebookSkin");
+	up-skin: ClassReference("com.hillelcoren.assets.skins.FacebookSkin");
+	down-skin: ClassReference("com.hillelcoren.assets.skins.FacebookSkin");
+	selected-over-skin : ClassReference("com.hillelcoren.assets.skins.FacebookSkin");
+	selected-up-skin : ClassReference("com.hillelcoren.assets.skins.FacebookSkin");
+	selected-down-skin : ClassReference("com.hillelcoren.assets.skins.FacebookSkin");        
+	padding-top: 0;
+	padding-bottom: 0;
+	text-selected-color: #FFFFFF;
+	padding-left: 2;
+	padding-right: 5;
+	font-weight: normal;                
+}
+
+.actionsMenuButton
+{
+	over-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	up-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	down-skin: ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-over-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-up-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	selected-down-skin : ClassReference("com.hillelcoren.assets.skins.BlankSkin");
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-right: 4;			
+}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = type
+|rdfs:domain = Work
+|rdfs:range = owl:Thing
+}}

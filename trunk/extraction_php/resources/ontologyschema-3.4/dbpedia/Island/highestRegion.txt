@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = highest region
+|rdfs:domain = Island
+|rdfs:range = PopulatedPlace
+}}

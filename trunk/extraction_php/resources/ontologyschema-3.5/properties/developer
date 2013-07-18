@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = developer
+| rdfs:range = Company
+}}

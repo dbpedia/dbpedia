@@ -1,0 +1,217 @@
+{{Infobox Automobile
+|image          = [[Image:Audi S6 C6 front 20080225.jpg|250px]]<br>''Audi C6 S6 saloon (US)''
+|name           = Audi S6
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|production     = [[Audi S6#C4|C4]]: 1994 - 1997,<br>[[Audi S6#C5|C5]]: 1999 - 2003,<br>[[Audi S6#C6|C6]]: 2006 - present
+|assembly       = [[Neckarsulm]], [[Germany]]
+|class          = [[mid-size car|Mid-size]] [[luxury vehicle|luxury]] [[executive car]], [[sports car]]
+|body_style     = 4-door [[sedan (automobile)|saloon/sedan]],<br>5-door Avant ([[station wagon|estate/wagon]])
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|platform       = [[Volkswagen Group C platform]] series
+|related        = [[Audi A6]]<br>[[Audi RS6]]
+|sp             = uk
+}}
+The '''Audi S6''' is a high-performance version of the [[Audi A6]], a [[mid-size car|mid-size]] [[luxury vehicle|luxury]] [[executive car]] produced by [[Germany|German]] [[automotive industry|automaker]] [[Audi]].<ref>AudiWorld.com [http://www.audiworld.com/model/s6/content.shtml North American S6 Model Guide] - historical S6 specifications, prices, and options</ref>  It went on sale in 1994, shortly after the "'''A6'''" designation was introduced, replacing the "'''[[Audi 100|100]]'''" nameplate.  The original S6 (''Ur-S6'') was largely the same car as the outgoing, original [[Audi S4#C4|Audi S4 (C4)]] (''Ur-S4''), with the only visible differences being new body-cladding and badging.
+
+The S6, like all [[Audi S and RS models|Audi "S" models]], is fitted as standard with Audi's trademark [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] (4WD) system, the S6 using the [[Torsen]]-based permanent 4WD.
+__TOC__
+{{clr}}
+
+==C4 (''Typ'' 4A, 1994-1997){{anchor|C4}}==
+{{Infobox Automobile generation
+|image         = [[Image:Audi S6 C4 US.jpg|250px]]<br>''Audi C4 S6 (Ur-S6) saloon (U.S.)<br>with "Avus" alloy wheels''
+|name          = Audi S6 (C4)
+|aka           = Ur-S6
+|production    = 1994-1997
+|assembly      =
+|successor     = 
+|platform      = [[Volkswagen Group C platform#C4|Volkswagen Group C4 platform]]
+|engine        = 2.2&nbsp;L [[straight-5|I5]] [[multi-valve|20v]] [[turbocharger|turbo]],<br>4.2&nbsp;L [[V8 engine|V8]] 32v
+|transmission  = 5-speed [[manual transmission|manual]],<br>6-speed manual,<br>5-speed [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2692|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4892|mm|1|abbr=on}}
+|width         = {{convert|1803|mm|1|abbr=on}}
+|height        = saloon: {{convert|1435|mm|1|abbr=on}}<br>Avant: {{convert|1499|mm|1|abbr=on}}
+|weight        = saloon: {{convert|1730|kg|0|abbr=on|lk=on}},<br>Avant: {{convert|1780|kg|0|abbr=on}}
+|fuel_capacity = {{convert|80|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi 100#C4|Audi 100 (C4)]],<br>[[Audi S4#C4|Audi S4 (C4)]],<br>[[Audi A6#C4|Audi A6 (C4)]]
+|designer      = 
+|sp            = uk
+}}
+[[Image:Audi S6 C4.jpg|thumb|250px|1994 Audi C4 S4 saloon, showing the five arm alloy wheels (U.S.)  This car preceded the S6.  It is distinguished by the black trim moldings.  S6s had body-color moldings.]]
+{{see also|Audi Ur-S4 / Ur-S6|Audi S4#C4}}
+Audi was restructuring their model lineup in early and mid-1990s, and in late 1994, began selling the fifth generation (C4) [[Audi 100]] model, re-badged as the [[Audi A6]].  Wanting to keep a sports-saloon in their lineup, the company made small revisions to what was previously known as the [[Audi S4]], renaming it the '''Audi S6'''; the S4 name would eventually be re-used for a completely different model derived from Audi's smaller [[Volkswagen B platform|Volkswagen Group B platform]]-based [[Audi A4]].  As this was the first S6 model from Audi, it is commonly referred to as the ''[[Audi Ur-S4 / Ur-S6|Ur-S6]]'', derived from the German augmentive, "'''Ur'''sprünglich" (meaning: original).
+
+It was available as both a [[sedan (automobile)|saloon/sedan]] (''typ'' 4A5), and an "Avant" (''typ'' 4A9) ([[station wagon|estate/wagon]]) to [[Europe]]an and [[United States]] customers, but only as a saloon in [[Canada]], [[Asia]] and [[Australia]].  Audi's trademark "[[procon-ten]]" safety system was standard fitment.
+
+===C4 powertrain===
+From its launch in late 1994, the S6 was powered by a {{convert|2226|cc|cuin|1|abbr=on|lk=on}} [[turbocharger|turbocharged]] [[straight-5|inline five-cylinder]] [[petrol engine]] (parts code prefix: 034, identification code: AAN) with a [[Robert Bosch GmbH|Bosch]] [[Motronic]] [[engine control unit]] (ECU) , producing a [[motive power|power output]] of {{convert|169|kW|PS bhp|0|lk=on}} at 5900&nbsp;[[revolutions per minute|rpm]], and {{convert|326|Nm|0|lk=on}} at around 1950&nbsp;rpm, whilst consuming high [[octane rating|octane]] "Super Plus" 98RON unleaded [[petrol]].  This powerful [[internal combustion engine|engine]] gave the S6 surprisingly good performance, it had a top speed of {{convert|235|km/h|1|lk=on}}, and accelerated from 0 to {{convert|100|km/h|1|abbr=on}} in 6.1 [[second]]s; with {{convert|160|km/h|1|abbr=on}} being reached in 17.5 seconds.
+
+The vehicle was available with a standard six-speed [[manual transmission]] (five-speed only in [[North America]]), and Audi's dynamic [[Torsen]] T-1 [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.
+
+Audi made a high-performance, 4.2&nbsp;litre [[V8 engine]] (parts code prefix: 077, identification code: AEC) with a Bosch KE-Motronic ECU available as an option in the original [[Europe]]an S4s, and made the decision to continue to do so with the S6, making a {{convert|213|kW|PS bhp|0|abbr=on}} version of the 4.2 available as an optional upgrade over the 2.2&nbsp;litre inline five-cylinder turbo.  Unlike the 5-cylinder turbocharged version, the V8-powered S6 was supplied with a five-speed [[automatic transmission]] as standard, but kept the quattro four wheel drive.  A six-speed manual gearbox was also available as an option.
+
+===C4 brakes, wheels and tyres===
+C4 [[brake|braking]] system included radially ventilated [[disc brake]]s front and rear; with {{convert|314|mm|1|lk=on}} diameter by {{convert|30|mm|2|abbr=on}} thick discs, with two-piston floating [[Girling]] calipers bearing the interlocking four-ringed [[Audi]] [[logo]], and four individual pads per caliper up front, and {{convert|269|mm|1|lk=on}} by {{convert|20|mm|2|abbr=on}} discs with [[Lucas]] single-piston sliding calipers at the rear.  [[Robert Bosch GmbH|Bosch]] [[anti-lock braking system|Anti-lock Braking System]] (ABS) with EDS was also standard.
+
+Standard [[wheel]]s were 7½Jx16 "Avus" cast aluminium [[alloy wheel]]s with 225/50R16 [[tire|tyres]].  An optional 7½Jx15 five-arm alloy wheel, with 215/60R15 tyres, an 8Jx16 five double-spoke alloy, and an 8Jx17 10-spoke alloy were also available.
+
+===Audi S6 PLUS{{anchor|S6+}}===
+As a [[swan song]] to the C4 platform, an even more powerful, and very limited-production '''Audi S6 PLUS''' was briefly available to [[Europe]]an customers.  The S6 PLUS, developed by Audi's wholly owned high performance subsidiary - '''[[quattro GmbH]]''', was available for sale during the 1997 [[model year]] only (production from June 1996 to October 1997).  A total of 952 cars were produced - 855 Avant, and 97 saloons.
+
+It was powered by another version of the [[multi-valve|32 valve]] (four valves per cylinder) 4.2&nbsp;litre [[V8 engine]] (parts code prefix: 077, identification code: AHK, later to be seen in the [[Audi S8]] as AKH).  Audi's performance division reworked key parts of the [[internal combustion engine|engine]], increasing the [[motive power|power output]] to {{convert|240|kW|PS bhp|0|abbr=on|lk=on}}.  It was only available with a revised six-speed [[manual transmission]] (parts code prefix: 01E, identification code: DGU) ([[gear ratio]]s - 1st: 3.500, 2nd: 1.889, 3rd: 1.320, 4th: 1.034, 5th: 0.857, 6th: 0.730), with a final drive ratio of 4.111.
+
+Further revisions were made to the suspension, [[brake]]s and [[wheel|roadwheels]].  The front [[disc brake|brake discs]] were enlarged to {{convert|323|mm|1|lk=on}} in diameter by {{convert|30|mm|2|abbr=on}} thick.  Standard roadwheels were 8Jx17 "Avus" cast aluminium [[alloy wheel]]s, with an optional 7Jx16 alloy wheel for use with winter tyres was also available.
+
+With so much power on tap, the S6 Plus could reach {{convert|100|km/h|abbr=on|lk=on}} from a standstill in 5.6 (saloon) and 5.7 (Avant) seconds, making it comparable in terms of acceleration to vehicles like the [[Porsche 944 Turbo]].
+
+[[hella (company)|Hella]] [[xenon arc lamp|xenon]] [[high-intensity discharge lamp|high intensity discharge]] (HID) headlamps (still with the C4s triple bulb design) were available as an option.
+{{clr}}
+
+==C5 (''Typ'' 4B, 1999-2003){{anchor|C5}}==
+{{Infobox Automobile generation
+|image         = [[Image:Silver Audi S6 Avant C5 fr.jpg|250px]]<br>''Audi C5 S6 Avant''
+|name          = Audi S6 quattro (C5)
+|aka           =
+|production    = 1999-2003
+|assembly      =
+|predecessor   = 
+|successor     = 
+|platform      = [[Volkswagen Group C platform#C5|Volkswagen Group C5 platform]]
+|engine        = 4.2&nbsp;L [[V8 engine|V8]] 2x[[DOHC]]
+|transmission  = 6-speed [[manual transmission|manual]],<br>5-speed [[ZF Friedrichshafen|ZF]] [[ZF 5HP24 transmission|5HP24]] [[tiptronic]] [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2759|mm|1|abbr=on|lk=on}}
+|length        = 1999-2001: {{convert|4833|mm|1|abbr=on}}<br>2002-2003: {{convert|4912|mm|1|abbr=on}}
+|width         = 1999-2001: {{convert|1850|mm|1|abbr=on}}<br>2002-2003: {{convert|1933|mm|1|abbr=on}}
+|height        = saloon: {{convert|1443|mm|1|abbr=on}},<br>1999-2001 Avant: {{convert|1465|mm|1|abbr=on}}<br>2002-03 Avant: {{convert|1448|mm|1|abbr=on}}
+|weight        = {{convert|1815|kg|lb|0|abbr=on|lk=on}} to<br>{{convert|1825|kg|lb|0|abbr=on}}
+|fuel_capacity = {{convert|82|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi A6#C5|Audi A6 (C5)]],<br>[[Audi RS6#C5|Audi RS6 (C5)]]
+|designer      =
+|sp            = uk
+}}
+In late 1997, [[Audi]] introduced an all-new range of [[Audi A6]] models, based on the [[Volkswagen Group C platform#C5|Volkswagen Group C5 platform]].  A new '''Audi S6''', now officially known as the '''Audi S6 quattro''' appeared in 1999, to complement its A6 [[automobile platform|platform]]-mate.  It was available in a 4-door [[sedan (automobile)|saloon/sedan]] and a 5-door Avant ([[station wagon|estate/wagon]]).  In [[North America]] the Avant bodystyle was the only version available.  The vehicle could accelerate from 0 to {{convert|100|km/h|1|lk=on}} in  6.7 seconds, and from 0 to {{convert|200|km/h|1|abbr=on}} in just 21.7 seconds.  The top speed was electronically governed to {{convert|250|km/h|1|abbr=on}}.
+
+This generation of S6 went out of production in 2003.
+
+===C5 powertrain===
+[[Motive power]] is from a new rubber-hydro mounted all-[[aluminium alloy]] 4.2&nbsp;litre [[multi-valve|40-valve]] (five valves per cylinder) 90° [[V8 engine|V8]] [[petrol engine]], with twin [[overhead camshaft#double overhead camshaft|double overhead camshafts]] (two per [[cylinder bank]]) and [[solenoid]]-operated [[magnesium]] two-stage [[variable length intake manifold|variable intake manifold]] (parts code:&nbsp;077, identification codes:&nbsp;AQJ [Sept 99-May 01], ANK [Sept 00-onwards]). It displaced {{convert|4172|cc|abbr=on|lk=on}}, and was rated at {{convert|250|kW|PS bhp|0|lk=on}} at 6,600&nbsp;[[revolutions per minute|rpm]], producing {{convert|420|Nm|abbr=on|lk=on}} of [[torque]] at 3,400&nbsp;rpm.  It satisfied the [[European Union]] EU3 emissions standard, and engine management was by way of a [[Robert Bosch GmbH|Bosch]] [[Motronic]] ME&nbsp;7.0 [[engine control unit]], with manifold-sited sequential [[fuel injection]], mapped direct ignition with eight individual spark coils, Bosch longlife [[spark plug]]s, four heated [[lambda]] sensors and two [[catalytic converter]]s, cylinder-selective knock control, and a Bosch "E-Gas" [[drive by wire]] throttle.  The engine was now cooled with the aid of two electric [[fan (mechanical)|cooling fans]], replacing the single [[viscosity|viscous]] fan of earlier models.
+
+An oil-cooled six-speed [[manual transmission]] (parts code:&nbsp;01E, identification code:&nbsp;EEY) ([[gear ratio]]s: 1st: 3.500, 2nd: 1.889, 3rd: 1.320, 4th: 1.034, 5th: 0.857, 6th: 0.730; and final drive ratio: 4.111) was standard fitment, and an optional [[ZF Friedrichshafen|ZF]] [[ZF 5HP24 transmission|5HP24]] five-speed [[tiptronic]] [[automatic transmission]] (parts code:&nbsp;01L, identification codes:&nbsp;EFN [Sept 99-May 01], FBD [June 00-onwards]) (gear ratios: 1st: 3.571, 2nd: 2.200, 3rd: 1.508, 4th: 1.000, 5th: 0.803; and final drive ratio: 2.909), with [[steering wheel]]-mounted paddle-shifts, and "Dynamic Shift Programme" (DSP) was available.  [[Torsen]] T-2 based dynamic [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] was also standard.  Both front and rear [[axle]]s utilised "Electronic Differential Lock" (EDL), which is a functuion of the [[Robert Bosch GmbH|Bosch]] ESP&nbsp;5.7 [[electronic stability control|Electronic Stability Programme]].
+
+===C5 suspension and steering===
+Compared to its A6 sibling, the [[suspension (vehicle)|suspension]] on the S6 was stiffened and lowered by {{convert|10|mm|in|2|abbr=on}}, and utilised gas-pressurised [[shock absorber]]s.
+
+[[ZF Friedrichshafen|ZF]] rack and pinion "[[power steering#servotronic|servotronic]]" speed-sensitive [[power steering]] was standard.
+
+===C5 brakes, wheels and tyres===
+[[Brake]]s consisted of radially vented [[disc brake|brake discs]] front and rear.  The fronts are sized at {{convert|321|mm|2|lk=on}} diameter by {{convert|30|mm|2|abbr=on}} thick, and are clamped by [[Lucas Industries|Lucas]] HP2 four-pad [[brake caliper|calipers]].  At the rear, the discs are {{convert|269|mm|2|abbr=on}} by {{convert|22|mm|2|abbr=on}}, and use a Lucas single-piston sliding caliper.
+
+[[Robert Bosch GmbH|Bosch]] ESP&nbsp;5.7 [[electronic stability control|Electronic Stability Programme]], with [[anti-lock braking system|Anti-lock Braking System]] (ABS), [[Brake Assist]], and [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD) completed the brake system.
+
+Wheels are 8Jx17" cast alloy "Avus" 6-spoke [[alloy wheel]]s, with 255/40 ZR17 [[tire|tyres]].
+
+===C5 body and interior===
+The body panels were largely based on the [[Audi A6]] 4.2 model, with slightly flared wheel arches and door sills, with the bonnet (hood) and front wings being constructed from [[aluminium]].  Other features included S6 badging, bolstered seats (optional [[Recaro]] seats), polished aluminium exterior door mirror housings, unique front grille, and rear bootlid/tailgate spoiler.
+
+===Audi RS6 (C5)===
+{{main|Audi RS6}}
+A higher performance '''[[Audi RS6]]''' was also available for a limited timescale.  It was built by [[Audi]]s' high performance private subsidiary company - '''[[quattro GmbH]]'''.  It used a [[twin-turbo]] ("biturbo") version of the 4.2&nbsp;litre [[V8 engine]] (identification code: BCY).  [[motive power|Power]] figures were {{convert|331|kW|PS bhp|0|lk=on}} at 5,700 - 6,400&nbsp;[[revolutions per minute|rpm]], with [[torque]] rated at {{convert|560|Nm|0|lk=on}} from 1,950 - 5,600&nbsp;rpm.  Transmission was a five-speed [[tiptronic]] [[automatic transmission|automatic]].
+
+[[wheel|Roadwheels]] and [[tire|tyres]] were upgraded to 255/40 ZR18 99Y XL, or 255/35 ZR19 96Y XL (5/15 arm design), and there was an optional "Dynamic Ride Control" (DRC) system available for the [[suspension (vehicle)|suspension]], which featured diagonally interlinked shock absorbers, to give better body control during extreme cornering, acceleration and braking.  Compared to standard S6, the suspension was lowered by {{convert|20|mm|2|abbr=on|lk=on}}.  The brake discs were ventilated and upgraded to {{convert|365|mm|2|lk=on}} at the front and {{convert|335|mm|2|abbr=on}} at the rear.
+
+0-{{convert|100|km/h|1|lk=on}} took just 4.6&nbsp;[[second]]s.  0-{{convert|200|km/h|1|abbr=on}} was 16.6 (saloon) and 16.8 (Avant) seconds.
+{{clr}}
+
+==C6 (''Typ'' 4F, 2006-present){{anchor|C6}}==
+{{Infobox Automobile generation
+|image         = [[Image:Audi S6 C6.JPG|250px]]<br>''Audi C6 S6 (North America)''
+|name          = Audi S6 quattro (C6)
+|aka           =
+|production    = June 2006-present
+|assembly      =
+|predecessor   = 
+|successor     = 
+|platform      = [[Volkswagen Group C platform#C6|Volkswagen Group C6 platform]]
+|engine        = 5.2&nbsp;L [[V10 engine|V10]] [[gasoline direct injection|FSI]] 2x[[DOHC]]
+|transmission  = 6-speed [[ZF Friedrichshafen|ZF]] [[ZF 6HP26 transmission|6HP26]] [[tiptronic]] [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2843|mm|in|1|abbr=on|lk=on}}
+|length        = saloon: {{convert|4916|mm|in|1|abbr=on}},<br>Avant: {{convert|4933|mm|in|1|abbr=on}}
+|width         = {{convert|1864|mm|in|1|abbr=on}}
+|height        = saloon: {{convert|1449|mm|in|1|abbr=on}},<br>Avant: {{convert|1453|mm|in|1|abbr=on}}
+|weight        = saloon: {{convert|1910|kg|lb|1|abbr=on|lk=on}},<br>Avant: {{convert|1970|kg|lb|1|abbr=on}}
+|fuel_capacity = {{convert|80|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi A6#C6|Audi A6 (C6)]],<br>[[Audi RS6#C6|Audi RS6 (C6)]]
+|designer      =
+|sp            = uk
+}}
+[[Image:Black S6 Avant.jpg|thumb|250px|Audi C6 S6 Avant]]
+The latest '''Audi S6 quattro''' model (''Typ'' 4F) was introduced at the 2006 [[North American International Auto Show]] in January.  It is based on the current C6 [[Audi A6]], and uses the [[Volkswagen Group C platform#C6|Volkswagen Group C6 platform]], and is available in [[sedan (car)|saloon/sedan]] and Avant ([[station wagon|estate/wagon]]) bodystyles.  Factory production started in June 2006.
+
+===C6 powertrain===
+[[Image:Audi S6 Engine.JPG|thumb|left|250px|Audi C6 S6 [[V10 engine]]]]
+[[Motive power]] in the C6 S6 [[powertrain]] features an all [[aluminium alloy]] {{convert|5204|cc|1|abbr=on|lk=on}} [[gasoline direct injection|Fuel Stratified Injection]] (FSI) [[multi-valve|40-valve]] (four valves per cylinder) 90° [[V10 engine|V10]] [[petrol engine]] (parts code: 07L, identification code: BXA), derived from the [[Lamborghini]] [[Lamborghini Gallardo|Gallardo]] [[Lamborghini V10|5.0&nbsp;litre V10]].  A longer [[stroke (engine)|stroke]] and wider [[bore (engine)|bore]] increases the [[engine displacement|displacement]] of the engine, and produces more [[torque]] at lower revs, making it more suitable for the larger and heavier Audi executive passenger car.  It has been re-tuned to produce {{convert|320|kW|PS bhp|0|lk=on}} at 6,800&nbsp;[[revolutions per minute|rpm]], and {{convert|540|Nm|0|lk=on}} of torque between 3,000-4,000&nbsp;rpm.  It utilises twin chain-driven [[overhead camshaft#double overhead camshaft|double overhead camshafts]] (DOHC), and [[variable valve timing]] for both intake and exhaust valves.  Engine management is by way of [[Robert Bosch GmbH|Bosch]] [[Motronic]] MED&nbsp;9.1 [[engine control unit]], which controls the mapped direct ignition, ten individual spark coils, [[common rail]] cylinder-direct sequential mulit-point [[fuel injection]], and [[drive by wire]] throttle.
+
+The same engine is used in the latest [[Audi S8#D3|Audi S8 (D3)]], in a higher state of tune where it develops {{convert|331|kW|PS bhp|0|abbr=on}}.
+
+A [[ZF Friedrichshafen|ZF]] [[ZF 6HP26 transmission|6HP26]] six-speed [[tiptronic]] [[automatic transmission]] (parts code: 09E, identification codes: JBW, JMS, KHD, JLL) ([[gear ratio]]s - 1st: 4.171, 2nd: 2.340, 3rd: 1.521, 4th: 1.143, 5th: 0.867, 6th: 0.691), with [[steering wheel]]-mounted "paddle-shifters" is the only transmission available.  [[Torsen]]-based [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]], and from 2007 [[model year]] with the latest 40:60 front:rear asymmetric/dynamic Torsen T-3 [[differential (mechanical device)|differential]], are standard.  The final drive ratio is 3.801.  Traction is assisted "Electronic Differential Lock" (EDL) and "Anti-Slip Regulation" (ASR) (commonly known as [[traction control system]]) - both functions of the [[Robert Bosch GmbH|Bosch]] ESP&nbsp;8.0 [[electronic stability control|Electronic Stability Programme]].
+
+For the sprint to {{convert|100|km/h|1|lk=on}}, the S6 saloon takes 5.2&nbsp;seconds, with the quarter mile passing in 13.5&nbsp;seconds.<ref>{{cite web|url=http://www.jbcarpages.com/audi/a6/2007/specs/|title=2007 Audi S6 Specifications|work=JB car pages}}</ref>  Top speed is electronically limited to {{convert|250|km/h|1|abbr=on}}.
+
+===C6 brakes, wheels and tyres===
+The [[brake]]s consist of radially ventilated [[disc brake|discs]] front and rear.  The fronts are sized at {{convert|385|mm|2|lk=on}} in diameter by {{convert|36|mm|3|lk=on}} thick, and are clamped by gloss black painted [[Continental AG|Continental Teves]] two-piston sliding calipers.  The rear discs are {{convert|330|mm|2|abbr=on}} by {{convert|22|mm|3|lk=on}} thick, and use gloss black [[Lucas Industries#girling|Girling]]-[[TRW]] single piston sliding calipers with an integrated electro-mechanical parking brake.
+
+A [[Robert Bosch GmbH|Bosch]] ESP&nbsp;8.0 [[electronic stability control|Electronic Stability Programme]], with [[anti-lock braking system|Anti-lock Braking System]] (ABS), [[Brake Assist]], and [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD) completed the brake system.
+
+Standard [[alloy wheel]]s consist of 9Jx19" cast aluminium alloy "5-arm wing design", shod with [[Continental AG|Continental]] SportContact2 265/35ZR19 [[tire|tyres]].  An optional 8½Jx18" cast alloy "S design" with 255/40ZR18 tyres (either Conti SportContact2 or [[Bridgestone]] Potenza RE050A) are also available.  A direct-acting [[tire pressure monitoring system|tyre pressure monitoring system]] is also standard.
+
+===C6 other features===
+The S6 features two rows of 5 distinctive [[light-emitting diode|LED]] [[daytime running lamp]]s (DRLs) along each side of the front bumper as a point of differentiation from other A6 models.  Bi-[[xenon arc lamp|Xenon]] [[high-intensity discharge lamp|high-intensity discharge]] (HID) [[headlamp#advanced front-lighting system (AFS)|adaptive headlights]] which swivel around corners compliment the LED DRLs.
+
+===Audi RS6 (C6)===
+{{main|Audi RS6}}
+As with the previous generation, this C6 platform has also generated an '''[[Audi RS6#C6|RS6]]''' version, again developed and produced by [[quattro GmbH]].  This latest version of the RS6 now includes a 5.0&nbsp;litre ({{convert|4991|cc|abbr=on|lk=on}}) 90° V10 [[twin-turbo]]charged ("biturbo"), [[gasoline direct injection|Fuel Stratified Injection]] (FSI) [[V10 engine]], which produces {{convert|426|kW|PS bhp|0|lk=on}} and {{convert|650|Nm|0|lk=on}}.  Available in both Avant and saloon bodystyles, it is Audi's single most powerful car ever to be produced by the [[marque]].<ref>Audi UK - The New Audi RS6 - Pricing and Specification Guide, Edition 1. 02/08</ref><ref>Audi UK - Audi RS6 - Pricing and Specification Guide, Edition 2. 05/08</ref>  Official performance figures for the 0-{{convert|100|km/h|1|lk=on}} sprint are 4.6&nbsp;[[second]]s for the Avant, with the saloon one tenth of a second quicker at 4.5&nbsp;seconds.
+{{clr}}
+
+==See also==
+{{commonscat}}
+*[[Audi Ur-S4 / Ur-S6]]
+*[[Audi S and RS models]]
+
+==References==
+{{reflist}}
+
+==External links==
+'''''official sites
+*[http://www.audi.com Audi.com] corporate website
+*[http://www.audi.co.uk/s6 Audi UK S6] official website
+'''''unaffiliated independent sites
+*[http://www.s6plus.de/eIndex.htm S6plus.de] independent site dedicated to the C4 S6 Plus {{en icon}} & {{de icon}}
+*[http://www.derPlus.com derPlus.com] {{de icon}}
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+{{Audi (North America) timeline 1970 to date}}
+
+[[Category:Vehicles introduced in 1994]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Audi vehicles|S6]]
+[[Category:All wheel drive vehicles]]
+[[Category:Euro NCAP executive cars]]
+[[Category:Executive cars]]
+[[Category:Mid-size cars]]
+[[Category:Sports cars]]
+[[Category:Sports sedans]]
+[[Category:Station wagons]]
+
+[[da:Audi S6]]
+[[de:Audi S6]]
+[[fr:Audi A6#Audi S6]]
+[[it:Audi S6]]
+[[hu:Audi S6]]
+[[nl:Audi S6]]
+[[ja:アウディ・S6]]
+[[pt:Audi S6]]
+[[sk:Audi S6]]

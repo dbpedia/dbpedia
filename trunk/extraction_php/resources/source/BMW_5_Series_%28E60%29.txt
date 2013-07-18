@@ -1,0 +1,268 @@
+{{Infobox Automobile platform
+|name=BMW 5-Series (E60)
+|image=[[Image:BMW-5series-E60.jpg|250px|E60 5-Series Sedan]]
+|manufacturer=[[BMW]]
+|production=2003 - present
+|body_style=4-door [[sedan (car)|sedan]]<br />5-door [[station wagon]]
+|predecessor=[[BMW E39]]
+|successor=
+|related=[[BMW E63]]<br />[[BMW E70]]
+|class=[[Mid-size]] [[Vehicle size class|(E)]] [[luxury car|luxury]]  [[sports sedan]]
+|vehicles=[[BMW 5 Series]]
+}}
+{{Infobox Automobile platform
+|name=BMW E61
+|image=[[Image:BPOL-BMW-blau-silber.JPG|250px|A BMW 5 Series E61 patrolcar of the [[German Federal Police]]]]
+|manufacturer=[[BMW]]
+|production=2004&ndash;
+|predecessor=[[BMW E39]]
+|successor=
+|related=
+|class=
+|similar=
+|vehicles=[[BMW 5 Series]]
+}}
+The '''BMW E60''' is the [[BMW 5 Series]] automobile, replacing the [[BMW E39]] in 2003.
+
+The new BMW 5 Series will be introduced in mid-2010.
+
+== Mid-life restyle (2007)==
+Before the mid-life restyling, the models available were the 520i, 520d, 525i, 525d, 530i, 530d, 535d, 545i, and the [[BMW M5|M5]]. The model range received uprated engines as part of the restyling.
+
+*The 523i replaced the 520i as the base model and featured the previous 525i engine, detuned to {{convert|177|bhp|kW PS|0|abbr=on}}.
+*The 525i received a new {{convert|218|bhp|kW PS|0|abbr=on}} engine (up from 192&nbsp;bhp).
+*The 530i [[Straight-6|six-cylinder]] engine output was increased to 272&nbsp;hp (up from 231&nbsp;bhp).
+*The 528i replaced the 525i with {{convert|230|hp|kW|0|abbr=on}} (up from {{convert|218|hp|kW|0|abbr=on}}).
+*The 535i replaced the 530i with {{convert|300|hp|kW|0|abbr=on}} (up from {{convert|258|hp|kW|0|abbr=on}}).
+*The 530d was upgraded to {{convert|231|bhp|kW PS|0|abbr=on}} (up from {{convert|218|bhp|kW PS|0|abbr=on}}).
+*The 535d was upgraded to {{convert|286|bhp|kW PS|0|abbr=on}} (up from {{convert|272|bhp|kW PS|0|abbr=on}}).
+*The 540i was introduced with a [[V8 engine]] producing {{convert|302|bhp|kW PS|0|abbr=on}}.
+*The 550i replaced the 545i in the fall of 2005 with {{convert|362|bhp|kW PS|0|abbr=on}}.
+*The 520d, 525d and the M5 remained the same.
+
+[[Image:BMW 530xi wagon.jpg|thumb|left|BMW 530xi wagon]]
+The E60 is available in both [[Sedan (car)|sedan]] and [[station wagon]] (E61) platforms. The exterior design by Davide Archangeli, Italian designer who came to BMW from Pininfarina, is controversial due to its unusual proportions. The 'eyebrow' of the front headlights was also frowned upon by car magazines for taking away the aggressive look of its predecessors. Its iDrive system has been simplified from the system in the 7 Series. It can be ordered with a full array of options such as [[Adaptive Cruise Control|active cruise control]], [[head-up display]], active steering, and the [[Harman Kardon]] Logic7 stereo system.
+
+The [[BMW M5]] is the high performance version of the range, and is one of the highest performance sedans on the market. Like all BMW 'M' cars, it balances superb handling with power, which is delivered by a naturally aspirated 5.0 L (40-valve) [[V10 engine|V10]] producing 373&nbsp;kW ({{convert|507|PS|kW hp||abbr=on}}). The car has  a 0-100&nbsp;km/h time of 4.1 seconds, 0-200&nbsp;km/h time of 15 seconds, and an electronically governed top speed of 250&nbsp;km/h (155&nbsp;mph). Though given the correct tire ratings and the removal of the governor the M5 is capable of 205&nbsp;mph (329&nbsp;km/h).
+
+A derivative of the E60 is the [[BMW E63/E64|E63/E64]] which forms the current iteration of the [[BMW 6 Series|6 Series coupe]].
+
+A factory-stretched long-wheelbase version of the E60 5-Series was offered in China, as a response to the Audi A6 L. It offered much of the rear legroom of a large executive saloon (e.g. BMW 7-Series or Mercedes-Benz S-Class), but in a cheaper, simpler model. As of 2009, trim levels included the 520Li, 523Li, 525Li, and 530Li.[http://www.bmw.com.cn/cn/en/newvehicles/5series/lwb/2007/allfacts/prices/spec_sheet.html]
+
+==Specifications==
+===Safety===
+{| class="wikitable" border="1"  style="float:left; width:200px;"
+|+[[Euro NCAP]] scores<ref>{{cite web |title=BMW 5-series |work=Tests |publisher=EURO NCAP |url=http://www.euroncap.com/tests/bmw_5_series_2004/208.aspx}}</ref>
+|-
+|Adult Occupant: || {{rating|4|5}}
+|-
+|Child Occupant: || {{rating|4|5}}
+|-
+|Pedestrian: || {{rating|1|4}}
+|}
+
+Initially the 5-series received a three-star rating for adult occupants.<ref>{{cite web|author=24 September 2004 |url=http://www.autocar.co.uk/News/NewsArticle/BMW-5%20Series/210953/ |title=Crash woes for BMW 5-series |publisher=Autocar |date=2004-09-24 |accessdate=2009-06-06}}</ref>  However changes were made to the steering column, footrest, door trims, door latch, airbags and electronic software and the car was retested achieving its four-star rating. BMW claims the modifications improved the car's EuroNCAP score not the vehicles safety, consequently BMW chose not to recall the earlier built cars.<ref>{{cite web|author=Andrew English Published: 12:01AM GMT 11 Dec 2004 |url=http://www.telegraph.co.uk/motoring/news/2732004/BMW-lashes-out-in-crash-test-row.html |title=BMW lashes out in crash-test row |publisher=Telegraph |date=2004-12-11 |accessdate=2009-06-06}}</ref> 
+<br style="clear:both;" \ />
+
+{| class="wikitable" border="1"  style="float:left; width:200px;"
+|+2008 sedan [[NHTSA]] scores<ref>{{cite web
+|title=BMW 5-series
+|work=Tests
+|publisher=Safercar
+|url=http://www.safercar.gov/portal/search?model=4647
+}}</ref>
+|-
+|Frontal Driver: || {{rating|3|5}}
+|-
+|Frontal Passenger: || {{rating|5|5}}
+|-
+|Side Driver: || {{rating|5|5}}
+|-
+|Side Rear Passenger: || {{rating|5|5}}
+|-
+|Rollover: || {{rating|4|5}}
+|}
+The American '''[[IIHS|Insurance Institute of Highways Safety]] (IIHS)''' gives the 5-series a "Good" overall rating in frontal collisions but a "Marginal" overall rating for side impact collisions.<ref>http://www.iihs.org/ratings/rating.aspx?id=199></ref><ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=831 |title=IIHS-HLDI: BMW 5 series |publisher=Iihs.org |date=2008-11-25 |accessdate=2009-06-06}}</ref>  The IIHS reported their side impact test would likely cause driver related rib fractures and/or internal organ injuries.  The IIHS tests were conducted on models built after May 2007, these models had modifications to improve side impact safety.
+{{-}}
+
+=== Model lineup ===
+[[Image:BMW E60 rear 20071004.jpg|right|thumb|250px|The rear side of BMW E60]]
+[[Image:BMW E60 M5 1.JPG|right|thumb|250px|The front side of M5 series]]
+[[Image:BMW E60 M5 2.JPG|right|thumb|250px|The rear side of M5 series]]
+{| class="wikitable" border="1" style="text-align:left"
+|-
+! Model !! Model Year !! Engine !! E60<br />Sedan !! E61<br />Touring
+|-
+! rowspan=2| 520d
+| 2006–2007
+| [[BMW M47|M47TU2D20]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Present
+| [[BMW N47|N47D20-O0]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=2| 520i
+| 2004–2005
+| [[BMW M54|M54B22]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW N43|N43B20-O0]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=2| 523i
+| 2006–2007
+| [[BMW N52|N52B25]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW N53|N53B25-U0]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=2| 525d
+| 2004–2007
+| [[BMW M57|M57TUD25]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW M57|M57D30-U2]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=3| 525i
+| 2004–2005
+| [[BMW M54|M54B25]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2006–2007
+| [[BMW N52|N52B25]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW N53|N53B30-U0]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! 525xd
+| 2007–Current
+| [[BMW M57|M57D30-U2]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=2| 525xi
+| 2004–2005
+| [[BMW M54|M54B25]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2006–2007
+| [[BMW N52|N52B25]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! 525ix
+| 2007–Current
+| [[BMW N53|N53B30-U0]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=2| 530d
+| 2004–2007
+| [[BMW M57|M57TUD30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW M57|M57D30-O2]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=3| 530i
+| 2004–2005
+| [[BMW M54|M54B30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2006–2007
+| [[BMW N52|N52B30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW N53|N53B30-O0]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=2| 530xd
+| 2004–2007
+| [[BMW M57|M57TUD30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW M57|M57D30-T2]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=3| 530xi
+| 2004–2005
+| [[BMW M54|M54B30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2006–2007
+| [[BMW N52|N52B30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW N53|N53B30-O0]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! 535i
+| 2008–Current
+| [[BMW N54|N54B30]]
+| align="center"| {{Y}} || align="center"| {{N}}
+|-
+! 535xi
+| 2008–Current
+| [[BMW N54|N54B30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! rowspan=2| 535d
+| 2004–2007
+| [[BMW M57|M57TUD30]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+| 2007–Current
+| [[BMW M57|M57D30-T2]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! 540i
+| 2006–Current
+| [[BMW N62|N62B40-O1]]
+| align="center"| {{Y}} || align="center"| {{N}}
+|-
+! 545i
+| 2004–2005
+| [[BMW N62|N62B44]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! 550i
+| 2006–Current
+| [[BMW N62|N62B48-O1]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|-
+! M5
+| 2005–Current
+| [[BMW S85|S85B50]]
+| align="center"| {{Y}} || align="center"| {{Y}}
+|}
+
+==References==
+{{Reflist}}
+{{BMW cars}}
+
+{{commonscat}}
+
+[[Category:BMW platforms|E60]]
+[[Category:Euro NCAP executive cars]]
+[[Category:Vehicles introduced in 2003]]
+[[Category:2000s automobiles]]
+
+[[da:BMW E60]]
+[[de:BMW E60]]
+[[et:BMW E60]]
+[[es:BMW E60]]
+[[nl:BMW E60]]
+[[no:BMW E60]]
+[[pl:BMW E60]]
+[[pt:BMW E60]]
+[[ru:BMW E60]]
+[[sv:BMW E60]]

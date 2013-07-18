@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Ship
+|rdfs:subClassOf = MeanOfTransportation
+}}

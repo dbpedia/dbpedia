@@ -1,0 +1,10 @@
+{{TemplateMapping
+| mapToClass = MixedMartialArtsEvent
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = date | ontologyProperty = date }}
+	{{PropertyMapping | templateProperty = venue | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = city | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = previousevent | ontologyProperty = previousEvent }}
+	{{PropertyMapping | templateProperty = followingevent | ontologyProperty = followingEvent }}
+}}

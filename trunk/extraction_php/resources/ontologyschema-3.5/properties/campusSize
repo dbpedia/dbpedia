@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = campus size
+| rdfs:domain = School
+| rdfs:range = Area
+}}

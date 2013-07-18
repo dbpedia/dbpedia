@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = place
+| rdfs:domain = MilitaryConflict
+| rdfs:range = PopulatedPlace
+}}

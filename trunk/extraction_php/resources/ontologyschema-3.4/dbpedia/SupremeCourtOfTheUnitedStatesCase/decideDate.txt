@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = decide date
+|rdfs:domain = SupremeCourtOfTheUnitedStatesCase
+|rdfs:range = xsd:date
+}}

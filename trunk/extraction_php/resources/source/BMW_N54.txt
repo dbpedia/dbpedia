@@ -1,0 +1,60 @@
+{{Infobox Automobile
+|name=BMW N54 engine
+|manufacturer=[[BMW|BMW, Bayerische Motoren Werke AG]]
+|production=2006&ndash;
+|predecessor=[[BMW M54]]
+|successor=
+|class=[[Straight-6]]
+|image=[[Image:JK N54B30.jpg|center|240px]]
+|3.0&nbsp;L (2979&nbsp;cc/181&nbsp;in³)
+}}
+The '''N54''' is a [[Twin-turbo|twin]]-[[turbocharged]] [[straight-6]] [[automobile]] engine from [[BMW]].  It was launched in late 2006 as a high-performance option for the [[BMW 3-Series]], first to be released along with the new [[BMW E92|3-series E92]] Coupé, to be followed closely by other existing [[BMW 3-Series|3-series]] models, then with other [[BMW#Models|BMW series]] as well. It is BMW's first production turbocharged gasoline engine in 26 years since the [[BMW E23#Special Models|745i]] in 1980. The engine won the [[International Engine of the Year]] award in 2007 and 2008.
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#N54B30|N54B30]]||3.0&nbsp;L (2979&nbsp;cc/181&nbsp;in³)||225&nbsp;kW (306&nbsp;hp) @ 5800||400&nbsp;N·m (295&nbsp;ft·lbf) @ 1300-5000||7000 rpm||2006
+|-
+|[[#N54B30|N54B30]]||3.0&nbsp;L (2979&nbsp;cc/181&nbsp;in³)||243&nbsp;kW (326&nbsp;hp) @ 5800<ref name="F01">{{cite web |url=http://paultan.org/archives/2008/07/05/new-bmw-7-series-f01-specifications-and-photos/ |title=New BMW 7-Series F01 Specifications and Photos |accessdate=July 8 2008 |dateformat=mdy |author=Paul Tan |date=July 5, 2008 |work=Paul Tan's Automotive News }}</ref>||450&nbsp;N·m (332&nbsp;ft·lbf) @ 1500-4500||7000 rpm||2008
+|-
+|}
+According to BMW, the N54B30 produces {{Convert|306|hp|kW|0|abbr=on}} and 295&nbsp;ft·lbf/400&nbsp;N·m. Third party testing has revealed the engine is significantly underrated, producing {{Convert|332|hp|kW|0|abbr=on}} and 311&nbsp;ft·lbf/422&nbsp;N·m in one test. [http://www.dinancars.com/assets/File/Press%20Release%20335i%20software%20REV%20A%20EDITED.pdf] The engine uses two small low-pressure turbochargers to remove [[turbo lag]] at low elevations. For this reason, the turbo pressure is only 0.4 bar (5.8 psi), as the engineering goal was to offer the same driving feel as with naturally aspirated engines. [http://www.autozine.org/html/BMW/3er.html#335] The ample torque of the engine combined with the lack of turbo lag provides the same feel as a small V8. The new engine debuted at the 2006 [[Geneva Motor Show]]. 
+
+The advantage of the N54B30 engine is that compared to similar power output 225 kW/390 Nm V8 [[BMW N62#N62B40|4.0L N62B40]] it weighs 70 kg/154 lb less than the V8, which is massive at 265 kg/583 lb. Additionally, the N54 has higher low-end torque than the V8. It is likely for these reasons BMW chose to develop bi-turbo inline [[straight-6]] engines for the 3-series instead of using heavier V8 engines. Only the new [[BMW M3]] will have a V8 engine in the [[BMW 3-series]], weighing in at 202 kg/445 lb. and generating {{Convert|414|hp|kW|0|abbr=on}} and 295&nbsp;ft·lbf/400&nbsp;N·m.  
+
+Surprisingly the engine block of the N54B30 is similar to the older generation BMW [[BMW M54#M54B30|M54B30]] engine - all aluminum with cast iron cylinder liners. This is due to the fact that the newer [[BMW N52|N52]] aluminum-magnesium engine block was not deemed as suitable for turbo-charging with the above-mentioned engineering goals. As a result, the N54B30 is physically heavier (195 kg/429 lb) than the very light (161 kg/354 lb) [[BMW N52|N52]] engine. This also explains why the engine block size is identical to the older [[BMW M54#M54B30|M54B30]] at 2979&nbsp;cc/181&nbsp;in³ instead of the 2996&nbsp;cc/182&nbsp;in³ of the new [[BMW N52|N52B30]] 3.0L engine. There are some differences between the M54 and N54; the M54 is a single-piece block, with the water pump housing cast into the block, and is a closed-deck design, compared to the N54's two-piece block with a separate bedplate, electric water pump, and open deck.
+
+A version of the N54B30 with higher power and torque but across a narrower peak torque band was introduced in the [[BMW F01|F01 2009 BMW 740i]].<ref name="F01"/>
+
+The N54B30 does not use the second generation [[Valvetronic]] technology found in the naturally aspirated [[BMW N52|N52]] and the newer (single) turbocharged straight-6 [[BMW N55|N55]]. The principal advantage of Valvetronic is the reduction of intake vacuum, which is not an issue in the pressurized intake found in a turbocharged engine. The N54 engine is easily modified with aftermarket tuning to produce in excess of 400 hp.[http://www.burgertuning.com/]
+
+In at least the US market, the N54 engine has been characterized by a very large number of High Pressure Fuel Pump (HPFP) failures, leading to many BMW NA vehicle Lemon Law "buy backs" and reduced customer goodwill.  On some engines the HPFP was replaced four times within the first few years of service.  BMW has instituted a 10-year, 120,000 mile warranty on the part, but only for 2007 and 2008 model year vehicles with the N54 engine.  Other model years, to include 2009 models, continue to report HPFP failures.[http://www.bimmerissues.com/]  As of late 2009, the low pressure fuel sensor has become suspected of causing some premature failures of the HPFP by engine tuners such as AMS and CP-E. 
+
+Applications:
+* 2006&ndash; [[BMW E90|E90 Sedan]] [[BMW 3-Series|335i]]
+* 2006&ndash; [[BMW E91|E91 Touring]] [[BMW 3-Series|335i]]
+* 2006&ndash; [[BMW E92|E92 Coupé]] [[BMW 3-Series|335i]]
+* 2007&ndash; [[BMW E93|E93 Convertible]] [[BMW 3-Series|335i]]
+* 2008&ndash; [[BMW E60|E60 Sedan]] [[BMW 5-series|535i]]
+* 2008&ndash; [[BMW E61|E61 Touring]] [[BMW 5-series|535i]]
+* 2008&ndash; [[BMW E82|E82 Coupé]] [[BMW 1-series|135i]]
+* 2008&ndash; [[BMW E88|E88 Convertible]] [[BMW 1-series|135i]]
+* 2009&ndash; [[BMW F01|F01 Sedan]] [[BMW 7-Series|740i]]
+* 2009&ndash; [[BMW X6]] xDrive35i
+* 2010&ndash; [[BMW Z4]] sDrive35i
+
+==References==
+{{reflist}}
+
+==See also==
+* [[List of BMW engines]]
+* [[BMW N52|BMW's current naturally aspirated N52 engine]]
+
+[[Category:BMW engines|N54]]
+
+[[de:BMW N54]]
+[[it:BMW N54]]
+[[no:BMW N54]]
+[[pl:BMW N54]]

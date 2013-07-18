@@ -1,0 +1,169 @@
+{{Infobox Automobile platform
+|name=BMW 7-Series E65/E66/E67/E68
+|manufacturer=[[BMW]]
+|assembly=[[Dingolfing]], [[Germany]]
+|production=2002–2008
+|image=[[File:2006-2008 BMW 7-Series.jpg|250px|2006-2008 BMW 7-Series (US)]]
+|wheelbase= {{convert|2990|mm|1|abbr=on}} (SWB)<br />{{convert|3129|mm|1|abbr=on}} (LWB)
+|length= {{convert|5029|mm|1|abbr=on}} (2002-05 E65)<br />{{convert|5169|mm|1|abbr=on}} (2002-05 E66)<br />{{convert|5039|mm|1|abbr=on}} (2006-present E65)<br />{{convert|5179|mm|1|abbr=on}} (2006-present E66)
+|layout=
+|width= {{convert|1902|mm|1|abbr=on}}
+|height= {{convert|1491|mm|1|abbr=on}}<br />{{convert|1483|mm|1|abbr=on}} (2006-present LWB)<br />{{convert|1476|mm|1|abbr=on}} (Alpina B7)
+|body_style=
+|engine=4.4 L {{convert|325|hp|abbr=on}} [[V8 engine|V8]]<br />4.8 L {{convert|360|hp|abbr=on}} [[V8 engine|V8]]<br />6.0 L {{convert|438|hp|abbr=on}} [[V12 engine|V12]]<br />
+|fuel_capacity=
+|transmission=5-speed [[automatic transmission|automatic]]<br />6-speed automatic
+|vehicles=[[BMW 7-Series]]
+}}
+The '''E65/E66/E67/E68''' model was the basis for the previous [[BMW 7-Series]]. It replaced the [[BMW E38]] for the 2002 model year. The car was unveiled at the [[Frankfurt Motor Show]] in September 2001, and was launched in Europe on November 17, 2001. It first appeared in the USA and other markets in the spring of 2002. E65 was the designation of the short wheel base version of the automobile, E66 of the long wheel base version, E67 of the bullet proof version and E68 of the [[BMW Hydrogen 7|hydrogen version]].
+
+The E65 generated much controversy, due to its radical styling and iDrive user difficulties, so customers rushed to purchase its predecessor, the [[BMW E38|E38]], before it was discontinued. Nonetheless, the E65 broke records to become the best-selling 7-series iteration ever, especially after its 2006 facelift.
+<ref name="nytimes.com">{{Cite web|url=http://www.nytimes.com/2009/03/01/automobiles/autoreviews/01bmw-750.html?_r=1&em|title=Casting Out Devils, BMW’s 7 Becomes More Heavenly|accessdate=2009-09-25|work=nytimes.com}}</ref><ref name="automobilemag.com">{{cite web|url=http://www.automobilemag.com/reviews/driven/0807_2009_bmw_7_series_first_drive/new_7_series_styling.html |title=2009 BMW 750i Styling Review - Bye Bye Bangle Butt - Automobile Magazine |publisher=Automobilemag.com |date= |accessdate=2009-09-24}}</ref>
+
+== Overview ==
+
+The arrival of E65 7-Series heralded a new styling era for [[BMW]] with the work of chief designer [[Chris Bangle]], with its two-level rear end styling that features separate rear fenders with a "bustle-back" trunk (boot) lid, which was derisively known as the "Bangle Butt" by critics.<ref name="nytimes.com"/><ref name="automobilemag.com"/>
+
+Early production E65s were fraught with problems, the vast majority of which were caused by software issues, not least the lack of functionality of [[iDrive]].  BMW repurchased a substantial number of 2002 and 2003 7 series cars in the USA.  Subsequent software updates have largely cured these issues.  Furthermore, BMW of North America extended the factory warranty on all 2002 and 2003 model year 7 series cars sold in the USA to 6 years or {{convert|100000|mi|km}} from the original 4-year or {{convert|50000|mi|km|sing=on}} coverage. The UK however was only covered by the standard 3 yr/unlimited mileage warranty on this model.<ref name="nytimes.com"/><ref name="automobilemag.com"/>
+
+<!-- Deleted image removed: [[Image:BMW 750Li.jpg|BMW 750Li|thumb|right]] -->
+The E65/E66 were the only BMW cars that are available with the top of the line 6.0 litre V12 [[petrol]] and 4.4 liter [[V8]] [[turbodiesel]] engines, respectively the [[BMW N73|BMW N73 760i]] [[V12 engine|V12]] and [[BMW M67|BMW M67D44 745d V8 Turbodiesel]] models.
+
+The 2008 United States [[suggested retail price|MSRP]] for the BMW 7 Series was: $75,800 (750i), $78,900 (750Li), and $122,600 (760Li).
+
+== Model lineup ==
+[[File:BMW E65 front 20070609.jpg|thumb|right|The E65 front side before facelift]]
+[[File:BMW E65 rear 20070609.jpg|thumb|right|The E65 rear side before facelift]]
+[[File:BMW E65 front 20080719.jpg|thumb|right|The E65 front side after facelift]]
+[[File:BMW E65 rear 20080214.JPG|thumb|right|The E65 rear side after facelift]]
+{| class="wikitable" style="text-align:left"
+|-
+! Model !! Model Year !! Engine !! E65<br />Sedan !! E66<br />LWB
+|-
+| 730d
+| 2002–2004
+| style="text-align:center;"| [[BMW M57|M57TUD30]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 730d
+| 2005–2008
+| style="text-align:center;"| [[BMW M57|M57TU2D30]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 730i
+| 2004–2008
+| style="text-align:center;"| [[BMW N52|N52B30]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 730Ld
+| 2002–2004
+| style="text-align:center;"| [[BMW M57|M57TUD30]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|-
+| 730Ld
+| 2005–2008
+| style="text-align:center;"| [[BMW M57|M57TU2D30]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|-
+| 730Li
+| 2004–2008
+| style="text-align:center;"| [[BMW N52|N52B30]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|-
+| 735i
+| 2002–2003
+| style="text-align:center;"| [[BMW N62|N62B36]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 735Li
+| 2002–2003
+| style="text-align:center;"| [[BMW N62|N62B36]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|-
+| 740i
+| 2002-2008
+| style="text-align:center;"| [[BMW N62|N62B40]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 740Li
+| 2002–2008
+| style="text-align:center;"| [[BMW N62|N62B40]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|-
+| 745d
+| 2002–2008
+| style="text-align:center;"| [[BMW M67|M67D44]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 745i
+| 2002–2005
+| style="text-align:center;"| [[BMW N62|N62B44]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 745Li
+| 2002–2005
+| style="text-align:center;"| [[BMW N62|N62B44]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|-
+| 750i
+| 2006–2008
+| style="text-align:center;"| [[BMW N62|N62B48]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 750Li
+| 2006–2008
+| style="text-align:center;"| [[BMW N62|N62B48]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|-
+| 760i
+| 2002–2006
+| style="text-align:center;"| [[BMW N73|N73B60]]
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+| style="text-align:center;"| 
+|-
+| 760Li
+| 2002–2008
+| style="text-align:center;"| [[BMW N73|N73B60]]
+| style="text-align:center;"| 
+| style="text-align:center;"| [[File:Black check.svg|16px]]
+|}
+
+==References==
+
+{{reflist}}
+
+== External links ==
+{{commonscat|BMW E65}}{{commonscat|BMW E66}}
+*{{dmoz|/Recreation/Autos/Makes_and_Models/BMW/7_Series/|BMW 7 Series}}
+{{BMW cars}}
+
+[[Category:BMW platforms|E65/E66]]
+[[Category:Vehicles introduced in 2001]]
+[[Category:2000s automobiles]]
+
+{{Modern-auto-stub}}
+
+[[de:BMW E65]]
+[[et:BMW E65]]
+[[it:BMW E65]]
+[[nl:BMW E65]]
+[[no:BMW E65]]
+[[pl:BMW E65/E66]]
+[[pt:BMW E65/E66]]
+[[ru:BMW E65/E66]]
+[[fi:BMW 7-sarja E65]]

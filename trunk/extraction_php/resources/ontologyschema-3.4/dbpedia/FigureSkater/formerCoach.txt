@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = former coach
+|rdfs:domain = FigureSkater
+|rdfs:range = Person
+}}

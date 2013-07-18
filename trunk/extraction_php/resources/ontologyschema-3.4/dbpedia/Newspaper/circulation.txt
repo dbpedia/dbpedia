@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = circulation
+|rdfs:domain = Newspaper
+|rdfs:range = xsd:integer
+}}

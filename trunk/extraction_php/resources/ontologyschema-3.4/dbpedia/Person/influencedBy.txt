@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= influenced by
+|rdfs:domain	= Person
+|rdfs:range		= Person
+}}

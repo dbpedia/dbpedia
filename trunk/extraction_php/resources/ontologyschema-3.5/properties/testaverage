@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = testaverage
+| rdfs:domain = School
+| rdfs:range = xsd:float
+}}

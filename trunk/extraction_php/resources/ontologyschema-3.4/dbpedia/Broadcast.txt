@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Broadcast
+|rdfs:subClassOf = Organisation
+}}

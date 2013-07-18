@@ -1,0 +1,23 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Song
+| mappings =
+	{{PropertyMapping | templateProperty = Album | ontologyProperty = album }}
+	{{PropertyMapping | templateProperty = track_no | ontologyProperty = trackNumber }}
+	{{PropertyMapping | templateProperty = Writer | ontologyProperty = writer }}
+	{{PropertyMapping | templateProperty = Composer | ontologyProperty = composer }}
+	{{PropertyMapping | templateProperty = Producer | ontologyProperty = producer }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = Artist | ontologyProperty = artist }}
+	{{PropertyMapping | templateProperty = altArtist | ontologyProperty = artist }}
+	{{PropertyMapping | templateProperty = Published | ontologyProperty = publicationDate}}
+	{{PropertyMapping | templateProperty = Released | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = Recorded | ontologyProperty = recordDate }}
+	{{PropertyMapping | templateProperty = Recorded | ontologyProperty = recordedIn }}
+	{{PropertyMapping | templateProperty = Genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = Language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = Length | ontologyProperty = runtime | unit = minute }}
+	{{PropertyMapping | templateProperty = Label | ontologyProperty = recordLabel}}
+	{{PropertyMapping | templateProperty = prev | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = next | ontologyProperty = subsequentWork }}
+</textarea>

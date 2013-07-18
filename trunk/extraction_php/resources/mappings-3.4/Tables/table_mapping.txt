@@ -1,0 +1,144 @@
+{{DBpediaTableMapping
+|mapToClass 			= AutomobileEngine
+|correspondingClass		= Automobile
+|correspondingProperty 	= Automobile/engine
+|header					= name; engine; power, power&kw, power&ps, output; model; production; displacement, displacement&cc, volume, volume&cc; torque; redline; year; note; type; code; stroke; bore; compression; fuel; 0&100&km, 0&60&mph, 0&62&mph; top speed; co2, co2&g/km; valvetrain; cyl
+						    
+|keywords 				= engine, speed; model,power,output
+| mappings =
+
+	{{DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name}}
+    
+	{{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = AutomobileEngine/powerOutput | unit = Power}}
+    {{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = AutomobileEngine/torqueOutput | unit = Torque}}
+    {{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = AutomobileEngine/displacement | unit = Volume}}
+    {{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = AutomobileEngine/configuration}}
+    
+	{{DBpediaPropertyMapping | templateProperty = power | ontologyProperty = 
+	AutomobileEngine/powerOutput | unit = Power }}	   
+
+	{{DBpediaPropertyMapping | templateProperty = power&kw | ontologyProperty = 
+	AutomobileEngine/powerOutput | unit = Power | unit = kilowatt }}	  
+
+	{{DBpediaPropertyMapping | templateProperty = power&ps | ontologyProperty = 
+	AutomobileEngine/powerOutput | unit = Power | unit = pferdestaerke }}	  
+
+	{{DBpediaPropertyMapping | templateProperty = output | ontologyProperty = 
+	AutomobileEngine/powerOutput | unit = Power }}	
+	
+	{{DBpediaPropertyMapping | templateProperty = model | ontologyProperty = 
+	AutomobileEngine/automobileModel}}
+	
+	{{DBpediaDateIntervalMapping | templateProperty = production |
+	startDateOntologyProperty = AutomobileEngine/startYearOfInsertion |
+	endDateOntologyProperty = AutomobileEngine/endYearOfInsertion }}
+	
+	{{DBpediaPropertyMapping | templateProperty = displacement | ontologyProperty = 
+	AutomobileEngine/displacement | unit = Volume }}
+
+	{{DBpediaPropertyMapping | templateProperty = displacement&cc | ontologyProperty = 
+	AutomobileEngine/displacement | unit = cubicCentimetre }}
+	
+	{{DBpediaPropertyMapping | templateProperty = torque | ontologyProperty = 
+	AutomobileEngine/torqueOutput | unit = Torque }}
+
+	{{DBpediaPropertyMapping | templateProperty = redline | ontologyProperty = 
+	AutomobileEngine/redline }}
+	
+	{{DBpediaDateIntervalMapping | templateProperty = year |
+	startDateOntologyProperty = AutomobileEngine/startYearOfInsertion |
+	endDateOntologyProperty = AutomobileEngine/endYearOfInsertion }}
+	
+	{{DBpediaPropertyMapping | templateProperty = note | ontologyProperty = 
+	AutomobileEngine/note }}
+	
+	{{DBpediaPropertyMapping | templateProperty = type | ontologyProperty = 
+	AutomobileEngine/configuration }}
+
+	{{DBpediaPropertyMapping | templateProperty = type | ontologyProperty = 
+	AutomobileEngine/valvetrain }}
+	
+	{{DBpediaPropertyMapping | templateProperty = engine code| ontologyProperty = 
+	AutomobileEngine/code }}
+	
+	{{DBpediaPropertyMapping | templateProperty = stroke  | ontologyProperty = 
+	AutomobileEngine/pistonStroke | unit = Length }}
+	
+	{{DBpediaPropertyMapping | templateProperty = bore  | ontologyProperty = 
+	AutomobileEngine/cylinderBore | unit = Length }}
+	
+	{{DBpediaPropertyMapping | templateProperty = compression  | ontologyProperty = 
+	AutomobileEngine/compressionRatio }}
+	
+	{{DBpediaPropertyMapping | templateProperty = fuel | ontologyProperty = 
+	AutomobileEngine/fuelType }}
+	
+	{{DBpediaPropertyMapping | templateProperty = 0&100&km | ontologyProperty = 
+	AutomobileEngine/acceleration | unit = second}}
+	{{DBpediaPropertyMapping | templateProperty = 0&60&mph | ontologyProperty = 
+	AutomobileEngine/acceleration | unit = second}}
+	{{DBpediaPropertyMapping | templateProperty = 0&62&mph | ontologyProperty = 
+	AutomobileEngine/acceleration | unit = second}}
+	
+	{{DBpediaPropertyMapping | templateProperty = top speed | ontologyProperty = 
+	AutomobileEngine/topSpeed | unit = kilometrePerHour }}
+	
+	{{DBpediaPropertyMapping | templateProperty = co2 | ontologyProperty = 
+	AutomobileEngine/co2Emission | unit = LinearMassDensity }}
+
+	{{DBpediaPropertyMapping | templateProperty = co2&g/km | ontologyProperty = 
+	AutomobileEngine/co2Emission | unit = gramPerKilometre }}
+	
+	{{DBpediaPropertyMapping | templateProperty = volume | ontologyProperty = 
+	AutomobileEngine/displacement | unit = Volume }}
+	
+	{{DBpediaPropertyMapping | templateProperty = volume&cc | ontologyProperty = 
+	AutomobileEngine/displacement | unit = cubicCentimetre }}
+
+	{{DBpediaPropertyMapping | templateProperty = valvetrain | ontologyProperty = 
+	AutomobileEngine/valvetrain }}
+	
+	{{DBpediaPropertyMapping | templateProperty = cyl | ontologyProperty = 
+	AutomobileEngine/configuration }}
+	
+}}
+
+{{DBpediaTableMapping
+|mapToClass 			= Sales
+|correspondingClass		= MeanOfTransportation
+|correspondingProperty 	= MeanOfTransportation/sales
+|header					= built,no.&built, number&built; years, cal. years; model;    
+
+|keywords 				= built;model;years
+| mappings =
+
+    
+    {{DBpediaPropertyMapping | templateProperty = built | ontologyProperty = Sales/sales}}
+	{{DBpediaPropertyMapping | templateProperty = no.&built | ontologyProperty = Sales/sales}}
+	{{DBpediaPropertyMapping | templateProperty = number&built | ontologyProperty = Sales/sales}}
+	{{DBpediaPropertyMapping | templateProperty = model | ontologyProperty = Sales/model}}
+	{{DBpediaDateIntervalMapping | templateProperty = years |
+	startDateOntologyProperty = Sales/startYearOfSales |
+	endDateOntologyProperty = Sales/endYearOfSales }}
+	{{DBpediaDateIntervalMapping | templateProperty = cal. years |
+	startDateOntologyProperty = Sales/startYearOfSales |
+	endDateOntologyProperty = Sales/endYearOfSales }}
+
+}}
+
+{{DBpediaTableMapping
+|mapToClass 			= Sales
+|correspondingClass		= MeanOfTransportation
+|correspondingProperty 	= MeanOfTransportation/sales
+|header					= sales; year; sales&us, sales&u.s., sales&united states, american&sales
+						    
+|keywords 				= sales;year
+| mappings =
+
+	{{DBpediaPropertyMapping | templateProperty = sales | ontologyProperty = Sales/sales}}
+	{{DBpediaPropertyMapping | templateProperty = sales&us | ontologyProperty = Sales/usSales}}
+	{{DBpediaPropertyMapping | templateProperty = sales&u.s. | ontologyProperty = Sales/usSales}}
+	{{DBpediaPropertyMapping | templateProperty = sales&united states | ontologyProperty = Sales/usSales}}
+	{{DBpediaPropertyMapping | templateProperty = american&sales | ontologyProperty = Sales/usSales}}
+	{{DBpediaPropertyMapping | templateProperty = year | ontologyProperty = Sales/year}}
+}}

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Magazine
+| rdfs:subClassOf = Work
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = census year
+| rdfs:domain = PopulatedPlace
+| rdfs:range = xsd:date
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = revenue
+| rdfs:domain = Organisation
+| rdfs:range = Currency
+}}

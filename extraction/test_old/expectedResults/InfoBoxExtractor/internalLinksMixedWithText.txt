@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/keyPeople> <http://dbpedia.org/resource/Max_Muster> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/keyPeople> <http://dbpedia.org/resource/Donald_D._Duck> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/schluesselMenschen> <http://dbpedia.org/resource/Max_Muster> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/schluesselMenschen> <http://dbpedia.org/resource/Tony_Template> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/schluesselMenschen> <http://dbpedia.org/resource/Links> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/schluesselMenschen> <http://dbpedia.org/resource/Wikipedia> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/nextProperty> <http://dbpedia.org/resource/123s5> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/nextProperty> <http://dbpedia.org/resource/1234> .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/lastProperty> "abcd short ghij nextLink but even more more text!"@en .
+<http://dbpedia.org/resource/internalLinksMixedWithText.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .

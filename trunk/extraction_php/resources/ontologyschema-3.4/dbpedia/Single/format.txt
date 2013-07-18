@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = format
+|rdfs:domain = Single
+|rdfs:range = owl:Thing
+}}

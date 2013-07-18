@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= top speed
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= kilometrePerHour
+|rdf:type	= owl:FunctionalProperty
+}}

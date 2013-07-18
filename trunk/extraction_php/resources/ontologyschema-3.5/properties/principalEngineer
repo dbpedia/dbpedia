@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = principal engineer
+| rdfs:domain = Canal
+| rdfs:range = Person
+}}

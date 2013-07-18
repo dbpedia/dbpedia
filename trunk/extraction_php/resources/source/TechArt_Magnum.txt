@@ -1,0 +1,55 @@
+{{Infobox Automobile
+|image=[[File:Techart magnum silver.jpg|250px]]
+|name=TechArt Magnum
+|manufacturer=[[TECHART]] (modified [[Porsche]])
+|class=mid-size [[SUV]]
+|production=2007-present
+|predecessor=
+|successor=
+|body_style=4-door [[SUV]]
+|layout=[[Front-engine design|Front-engine]], [[all wheel drive]]
+|engine=4.5L (274.6 cu in) [[twin-turbo]]charged [[V8]]
+|transmission=6-speed [[automatic transmission|automatic]]
+|wheelbase=
+|length=
+|width=
+|height=
+|weight={{convert|5245|lb|kg|0}}
+|related=[[Porsche Cayenne]]
+|similar=
+|designer=
+}}
+
+The '''TechArt Magnum''' is a high-performance [[luxury vehicle|luxury]] [[SUV]] based on the [[Porsche Cayenne]].  As with other [[TECHART|TechArt]] products, the Magnum has added features such as a bodykit, interior refitment, and engine and suspension upgrades.
+
+==Design and Features==
+To the standard [[Porsche Cayenne]] turbo, TechArt has added a radical bodykit made of PUR-RIM plastic, which includes new high-downforce air dams, side skirts, and aero hood.  Also added are 22 inch (556 mm) TechArt Formula II alloy wheels and ContiCrossContact UHP tires, and interior trim of the customer's choice (with the "de Sede of [[Switzerland]]" being the highest trim level available, built in cooperation with the furniture manufactuer of the same name).  The most significant changes, however, are in the engine and suspension.  The stock 4.5L (274.6 cu in) V8 turbo has been modified with larger turbochargers, stainless steel exhaust, and an upgraded [[Engine Control Unit|ECU]] chip, bringing output to {{convert|600|hp|kW|0}} and {{auto ft.lbf|645|0}} of torque, both at 3440 [[rpm]].  The Magnum is also lowered up to {{convert|30|mm|in|1}} with adjustable performance air-ride suspension, which greatly aids handling for the heavy vehicle.<ref name="www.rsportscars.com">{{Cite web|url=http://www.rsportscars.com/porsche/2008-porsche-techart-magnum/|title=RSportsCars.com 2008 Porsche TechArt Magnum|accessdate=2008-06-04|work=rsportscars.com}}</ref>  With the full set of upgrades, the Magnum costs about $204,000 [[USD]].  
+
+==Specifications==
+*Weight: {{convert|5245|lb|kg|0}}
+*Power: {{Convert|600|hp|kW|0|abbr=on}} @ 3440 rpm
+*Torque: {{Auto ft.lbf|645|0}} @ 3440 rpm
+*Specific output: approx. {{Convert|133.3|hp|kW|0|abbr=on}} per litre
+*Power to weight ratio: approx. {{convert|8.74|lb|kg}} per horsepower
+
+===Performance===
+*0-{{convert|60|mph|km/h|0|abbr=on}}: 4.2 sec
+*0-{{convert|100|mph|km/h|0|abbr=on}}: 10.7 sec
+*Quarter mile: 12.7 sec @ {{convert|108.9|mph|km/h|1|abbr=on}}
+*Top Speed: {{convert|181|mph|km/h|1|abbr=on}}
+*Braking, {{convert|60|mph|km/h|0|abbr=on}}-0: {{convert|128|ft|m|0}}
+*Braking, {{convert|80|mph|km/h|0|abbr=on}}-0: {{convert|222|ft|m|0}}
+*Lateral acceleration: .90g<ref name="www.roadandtrack.com">{{Cite web|url=http://www.roadandtrack.com/article.asp?section_id=7&article_id=5334|title=Road & Track July 2007 "Pumped Up Porsches"|accessdate=2008-06-04|work=roadandtrack.com}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Techart Magnum}}
+*[http://www.techart.de/homee_gesamt.htm TechArt official Magnum page]
+
+[[Category:SUVs]]
+[[Category:All wheel drive vehicles]]
+[[Category:TechArt vehicles]]
+
+{{Modern-auto-stub}}

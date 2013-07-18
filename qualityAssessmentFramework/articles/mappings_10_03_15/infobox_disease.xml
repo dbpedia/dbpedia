@@ -1,0 +1,16 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Disease
+| mappings =
+	{{PropertyMapping | templateProperty = DiseasesDB | ontologyProperty = diseasesdb }}
+	{{PropertyMapping | templateProperty = ICD10 | ontologyProperty = icd10 }}
+	{{PropertyMapping | templateProperty = ICD9 | ontologyProperty = icd9 }}
+	{{PropertyMapping | templateProperty = ICDO | ontologyProperty = icdo }}
+	{{PropertyMapping | templateProperty = OMIM | ontologyProperty = omim }}
+	{{PropertyMapping | templateProperty = MedlinePlus | ontologyProperty = medlineplus }}
+	{{PropertyMapping | templateProperty = eMedicineSubj | ontologyProperty = emedicineSubject }}
+	{{PropertyMapping | templateProperty = eMedicineTopic | ontologyProperty = emedicineTopic }}
+	{{PropertyMapping | templateProperty = MeshID | ontologyProperty = meshId }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+</textarea>

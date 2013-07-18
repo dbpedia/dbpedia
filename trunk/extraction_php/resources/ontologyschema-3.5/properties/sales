@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = sales
+| rdfs:range = Sales
+}}

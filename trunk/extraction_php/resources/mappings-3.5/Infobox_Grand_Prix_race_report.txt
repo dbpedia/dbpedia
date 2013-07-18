@@ -1,0 +1,30 @@
+{{TemplateMapping
+| mapToClass = GrandPrix
+| mappings = 
+	{{PropertyMapping | templateProperty = Type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = Course_mi | ontologyProperty = course | unit = mile }}
+	{{PropertyMapping | templateProperty = Course_km | ontologyProperty = course | unit = kilometre }}
+	{{PropertyMapping | templateProperty = Distance_laps | ontologyProperty = distanceLaps }}
+	{{PropertyMapping | templateProperty = Distance_mi | ontologyProperty = distance | unit = mile }}
+	{{PropertyMapping | templateProperty = Distance_km | ontologyProperty = distance | unit = kilometre }}
+	{{PropertyMapping | templateProperty = Pole_Driver | ontologyProperty = poleDriver }}
+	{{PropertyMapping | templateProperty = Pole_Country | ontologyProperty = poleDriverCountry }}
+	{{PropertyMapping | templateProperty = Pole_Team | ontologyProperty = poleDriverTeam }}
+	{{PropertyMapping | templateProperty = Fast_Driver | ontologyProperty = fastestDriver }}
+	{{PropertyMapping | templateProperty = Fast_Team | ontologyProperty = fastestDriverTeam }}
+	{{PropertyMapping | templateProperty = Fast_Country | ontologyProperty = fastestDriverCountry }}
+	{{PropertyMapping | templateProperty = First_Driver | ontologyProperty = firstDriver }}
+	{{PropertyMapping | templateProperty = First_Country | ontologyProperty = firstDriverCountry }}
+	{{PropertyMapping | templateProperty = First_Team | ontologyProperty = firstDriverTeam }}
+	{{PropertyMapping | templateProperty = Second_Driver | ontologyProperty = secondDriver }}
+	{{PropertyMapping | templateProperty = Second_Country | ontologyProperty = secondDriverCountry }}
+	{{PropertyMapping | templateProperty = Second_Team | ontologyProperty = secondTeam }}
+	{{PropertyMapping | templateProperty = Third_Driver | ontologyProperty = thirdDriver }}
+	{{PropertyMapping | templateProperty = Third_Country | ontologyProperty = thirdDriverCountry }}
+	{{PropertyMapping | templateProperty = Third_Team | ontologyProperty = thirdTeam }}
+	{{PropertyMapping | templateProperty = Country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = Date | ontologyProperty = date }}
+	{{PropertyMapping | templateProperty = Year | ontologyProperty = date }}
+	{{PropertyMapping | templateProperty = Official name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Location | ontologyProperty = location }}
+}}

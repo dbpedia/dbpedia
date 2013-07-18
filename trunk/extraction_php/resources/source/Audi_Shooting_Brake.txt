@@ -1,0 +1,65 @@
+{{Infobox Automobile
+| image          = [[Image:Audi Shooting Brake.jpg|250px]] ''Audi Shooting Brake at the<br>2005 Tokyo Motor Show''
+| name           = Audi Shooting Brake
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen Group]]
+| production     = 
+| predecessor    = 
+| successor      = 
+| class          = [[Concept car]]
+| platform       = [[Volkswagen A platform#A5 (PQ35)|A5 (PQ35)]]
+| body_style     = 2-door compact [[hatchback]]
+| layout         = [[Front-engine design|Front engine]],<br>[[quattro (four wheel drive system)|quattro]] on-demand [[four-wheel drive]]
+| engine         = 3.2 L [[VR6 engine|VR6]]
+| transmission   = 
+| wheelbase      = 
+| length         = 
+| width          = 
+| height         = 
+| weight         = 
+| aka            = TT Shooting Brake
+| fuel_economy   =
+| fuel_capacity  =
+| related        = 
+| similar        = [[Audi TT]], [[Audi S3]]
+| designer       = 
+}}
+The '''Audi Shooting Brake''' is a [[concept car]] developed by the  [[Germany|German]] manufacturer [[Audi]] and officially unveiled at the 2005 [[Tokyo Motor Show]].  It is a study of a sporty two-door compact [[shooting brake]] [[hatchback]].
+<ref>{{cite web
+|url=http://www.autoblog.com/2005/10/11/audi-tt-shooting-brake-to-debut-at-tokyo/
+|title=Audi TT Shooting Brake to debut at Tokyo
+|date=2005-10-11
+|work=Autoblog
+|accessdate=2008-10-06
+}}</ref>
+
+The concept vehicle was based on the second-generation [[Audi TT]] and provided, to some extent, a preview of the new TT, which was yet to be launched. It was powered by a 3.2-litre [[VR6 engine]], developing a maximum output of {{convert|250|PS|kW hp|0|abbr=on}} at 6200 rpm, and torque peaking at {{convert|35.0|kgm|Nm ftlbf|abbr=on}} between 2500 and 3000 rpm.  The engine, already featured in some of the Audi's production models, such as the second generation [[Audi A3]], and the Audi TT sports car, accelerated the Shooting Brake from 0 to 100&nbsp;km/h (62 mph) in 6 seconds, reaching an electronically limited top speed of 250&nbsp;km/h (155 mph).  The vehicle also featured Audi's well-known [[four wheel drive]] system - [[quattro (four wheel drive system)|quattro]].
+
+The exterior appearance is dominated by a massive single frame front grille, characteristic to the newest Audi models, as well as clear-glass headlights with the new [[LED]] technology and 19-inch double-spoke wheels originating from [[quattro GmbH]].  The interior puts the emphasis on sporty design and is dominated by materials like aluminium and leather.  A notable interior feature is an evolutionary version of navigation system with [[touch screen]] monitor and character recognition.
+
+In 2007, it became clear that Audi decided not to take the car through to full-scale production.<ref>{{cite web
+|url=http://www.autoblog.com/2007/01/24/from-the-mouths-of-execs-audi-shooting-brake-wont-be-produced/
+|title=From the mouths of Execs: Audi Shooting Brake won't be produced
+|date=2007-01-24
+|work=Autoblog
+|accessdate=2008-10-06
+}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat|Audi concept vehicles}}
+* [http://www.audi.com Audi corporate website]
+<br>
+{{Audi}}
+<br>
+
+{{DEFAULTSORT:Shooting Brake}}
+[[Category:Audi vehicles]]
+[[Category:Audi concept vehicles]]
+
+[[nl:Audi Shooting Brake]]
+[[no:Audi Shooting Brake]]
+[[pt:Audi Shooting Brake]]
+[[ru:Audi Shooting Brake]]

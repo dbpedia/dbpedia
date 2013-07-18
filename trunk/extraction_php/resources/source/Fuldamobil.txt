@@ -1,0 +1,45 @@
+{{Infobox Automobile
+| image = [[Image:MHV Fuldamobil 01.jpg|250px|1958 Fuldamobil S-7 Coupe.]]
+| name = Fuldamobil
+| manufacturer =Elektromaschinenbau Fulda GmbH and Nordwestdeutscher Fahrzeugbau (NWF) 
+| production =1950-1969
+| assembly =
+| class =[[Microcar]]
+| body_style =2-door [[Coupé]]<br />2-door [[Convertible]]
+| layout =[[RMR layout|RMR]]
+| designer =Norbert Stevenson
+}}
+
+''' Fuldamobil ''' is the name of a series of small [[Automobile|car]]s produced by ''[[Elektromaschinenbau Fulda GmbH]]'' of [[Fulda]], [[Germany]], and ''[[Nordwestdeutscher Fahrzeugbau]]'' (NWF) of [[Wilhelmshaven]] between 1950 and 1969.<ref name="Fuldas">{{cite book |last=Marshall |first=Tony |authorlink= |coauthors= |title=More Microcars|year=2001 |publisher= Sutton Publishing|location= Stroud |isbn=0-7509-2668-6 }}</ref> Though numbers produced were relatively small, the cars attracted sufficient attention to see licensed construction on four [[continent]]s including Europe. In its ultimate configuration it is said to have inspired the term "[[bubble car]]".<ref name="Fuldaquote">{{cite book | last = Rosellen| first = Hanns Peter|title = Deutsche Kleinwagen| publisher = Bleicher Verlag| year = 1983| isbn = 3883501530|quote= Zusätzlich ins Programm nahm Nobel eine offene Version des Fuldamobils, für das er die phantasievolle Bezeichnung "bubble-car" erfand.}}</ref>
+
+==Origins==
+The cars original design was conceived by Norbert Stevenson, a freelance-journalist who had worked for the "[[Rhein-Zeitung]]" newspaper who had completed one term of [[mechanical engineering]] at the [[Technical University of Berlin|Technischen Hochschule]] [[Berlin]].<ref name="Fuldamobil">{{cite book | last = Rosellen| first = Hanns Peter|title = Deutsche Kleinwagen| publisher = Bleicher Verlag| year = 1983| isbn = 3883501530}}</ref> His design concept was for a very simple [[three wheeled car]] with room for two people inside, it would have two wheels at the front for stability, and be driven by a small engine at the rear.<ref name="Fuldamobil"/> After initial financial support for the project from his former employer had ceased, Stevenson took his concept to several companies and in the summer of 1949, it was accepted by Karl Schmitt, a wealthy engineering graduate.<ref name="Fuldamobil"/> 
+
+Schmitt was a [[Robert Bosch GmbH|Bosch]] [[wholesale]]r in the town of Fulda, Germany, who also ran another small company; ''Elektromaschinenbau Fulda GmbH'', which had proved successful providing maintenance and repair of the emergency power generators in widespread use in Germany after the war.<ref name="Fuldamobil"/>
+
+The Fuldamobil was licensed for manufacture to various countries where it was known by varying names, such as the Nobel in Chile and the UK, the Bambi in Argentina, the Bambino in the Netherlands, Fram King Fulda in Sweden, Attica and also Alta in Greece, and Hans Vahaar in India. It was also manufactured in South Africa under the original German name. A pickup version called "Sporty" based on the coupé was also available in Argentina.<ref>[http://www.auto-historia.com.ar/Historias/Bambi%20Historia.htm www.auto-historia.com.ar] Bambi (Spanish)  - accessed [[06 December]] [[2008]]</ref> 
+
+== Gallery ==
+<gallery widths="100px" heights="100px" perrow="6">
+Image:ALTA A200.jpg| [[Alta (vehicles)|Alta A200]]
+Image:Attica.jpg| [[Attica (automobiles)|Attica 200]]
+Image:1957FramKingFulda.jpg| 1957 Fram King Fulda
+Image:MHV Fuldamobil 02.jpg|1957 Fuldamobil 200
+</gallery>
+
+== See also ==
+{{commonscat|Fuldamobil vehicles}}
+*[[List of microcars by country of origin]]
+
+==References==
+{{reflist|2}}
+
+<!-- Categories -->
+[[Category:Car manufacturers]]
+[[Category:Microcars]]
+[[Category:Defunct motor vehicle manufacturers of Germany]]
+[[Category:Three-wheeled motor vehicles]]
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+
+[[de:Fuldamobil]]
+[[sv:Fuldamobil]]

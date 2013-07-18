@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = undrafted year
+| rdfs:domain = FootballPlayer
+| rdfs:range = xsd:date
+}}

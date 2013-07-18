@@ -1,0 +1,277 @@
+{{Infobox Automobile
+|name           = Audi S4
+|image          = [[Image:Audi S4 B8 Kombi front 20090412.jpg|250px]]<br>''2008 Audi S4 Avant (B8)''
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|aka            = S4 quattro
+|production     = 1991–present
+|assembly       = [[Ingolstadt]], [[Germany]]
+|class          = [[Compact executive car]],<br>[[Sports car]]
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|related        = [[Audi A4]], [[Audi RS4]]
+|sp             = uk
+}}
+The '''Audi S4''' name was originally used for the [[high performance vehicle|high performance]] sport version of the [[Audi 100]] [[automobile|car]], and has subsequently been used for similar versions of the [[Audi A4]] series.
+
+[[automotive engineering|Manufactured]] at [[Audi|Audi AG's]] [[Ingolstadt]] plant in [[Germany]], they are, or have been available as a five-[[vehicle door|door]] five-[[automobile seat|seat]] Avant, Audi's name for an [[station wagon|estate car]] (station wagon), a four-door five-seat [[sedan (automobile)|saloon]] (sedan), and a two-door four-seat Cabriolet ([[convertible]]) [[car body style|version]].  Furthermore, their [[internal combustion engine]]s are all [[front-engine design|front-mounted]], and are [[longitudinal engine|longitudinally]] orientated.  Irrespective of the type of [[transmission (mechanics)|transmission]] offered, they are all mounted immediately at the rear of the engine in a longitudinal orentation, in the form of a [[transaxle]].
+
+Like all [[Audi S and RS models#S models|Audi 'S' cars]], the S4 is only available with Audi's [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] (4WD) system, with differing variations of the S4 utilising either the [[Torsen]]-based permanent full-time 4WD, or a [[transfer case|transfer box]] based 4WD.<ref name="ETKA">[[ETKA]] official factory data</ref>  The S4 has a larger more powerful [[internal combustion engine]], larger uprated [[brake]]s, and uprated stiffer [[suspension (vehicle)|suspension systems]] - all of which are not shared with the remainder of the A4 range.<ref>AudiWorld.com [http://www.audiworld.com/model/s4/content.shtml North American S4 Model Guide] - historical S4 specifications, prices, and options</ref>
+__TOC__{{-}}
+
+==C4 (''Typ'' 4A, 1991–1994){{anchors|C4|4A}}==
+{{Infobox Automobile generation
+|name             = Audi C4 S4 (''Typ'' 4A)
+|image            = [[Image:AudiS4.JPG|250px]]<br>''Audi C4 S4 saloon "Ur-S4" (Europe)''
+|aka              = ''"Ur-S4"'', ''Typ'' 4A
+|production_start = August 1991<ref name="ETKA"/>
+|production_end   = July 1994<ref name="ETKA"/>
+|successor        = [[Audi S6#C4|Audi C4 S6]], [[#B5|Audi B5 S4]]
+|body_style       = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]]<br>5-door Avant ([[station wagon|estate/wagon]])
+|platform         = [[Volkswagen Group C platform#C4|Volkswagen Group C4 platform]]
+|engine           = 2.2&nbsp;[[litre|L]] [[straight-five engine|I5]] [[multi-valve|20v]] [[turbocharger|turbo]] <small>(08/91-07/94)</small><ref name="ETKA"/><br>4.2&nbsp;L [[V8 engine|V8]] 32v <small>(10/92-07/94)</small><ref name="ETKA"/>
+|transmission     = 5-speed [[manual transmission|manual]]<br>6-speed [[manual transmission|manual]]<br>4-speed [[automatic transmission|automatic]]<ref name="ETKA"/>
+|wheelbase        = {{convert|2692|mm|1|abbr=on|lk=on}}
+|length           = {{convert|4790|to|4982|mm|1|abbr=on}}
+|width            = {{convert|1803|mm|1|abbr=on}}
+|height           = {{convert|1443|mm|1|abbr=on}}
+|weight           = saloon: {{convert|1730|kg|0|abbr=on|lk=on}},<br>Avant: {{convert|1780|kg|0|abbr=on}}
+|fuel_capacity    = {{convert|80|L|impgal usgal|1|lk=on|abbr=on}}
+|related          = [[Audi 100#C4|Audi 100 (C4)]]<br>[[Audi A6#C4|Audi A6 (C4)]]<br>[[Audi S6#C4|Audi S6 (C4)]]
+|designer         = 
+|sp               = uk
+}}
+{{See also|Audi Ur-S4 / Ur-S6|Audi S6#C4}}
+Audi was reconfiguring its model range during the early 1990s, and introduced the original '''Audi S4''' ('''''Typ'' 4A''') in 1992, as the performance version of the restyled [[Audi 100#C4|Audi 100 (C4)]] four-[[vehicle door|door]], five-[[automobile seat|seat]] saloon.  Despite being based on the [[Volkswagen Group C platform#C4|Volkswagen Group C4 platform]], and sharing its basic structure with the 100, the S4 effectively took the place of the Audi 200 quattro turbo, which had been discontinued the year before.<ref>{{cite journal|title=Preview: Audi S4|author=Stephen L. Thompson|journal=[[Car and Driver]]|issue=March 1992|pages=79&ndash;80}}</ref><ref>{{cite journal|title=Magnum Force|author=rodrigo gato|journal=[[Car and Driver]]|issue=April 1992|pages=47&ndash;56}}</ref>  Being the first S4 model from Audi, it is commonly referred to as the ''[[Audi Ur-S4 / Ur-S6|Ur-S4]]'', derrived from the [[German language]] augmentive word - '''Ur'''sprünglich (meaning: original).
+
+Following Audi's decision in discontinuing the 100 nameplate, it [[badge engineering|re-badged]] the car as the [[Audi A6]] in 1994, and the S4 became the S6, although the only real changes to the model were minor cosmetic updates, and the addition of a more powerful limited edition S6 Plus model using the [[V8 engine]].  After the first generation A6 was replaced in 1997 by an updated version based on C5 chassis, the S4 and S6 became distinctly separate from one another.
+
+===C4 powertrain===
+The [[powertrain]] detail of the C4 S4 featured a [[turbocharger|turbocharged]] version of Audi's 2.2&nbsp;[[litre]] - {{convert|2226|cc|1|lk=on}} - [[multi-valve|20-valve]] [[straight-five engine|inline five cylinder]] [[petrol engine]], (parts code prefix: 034, identification code: AAN), developing {{convert|169|kW|PS bhp|0|lk=on}} and {{convert|350|Nm|0|lk=on}} of torque.<ref name="ETKA"/>  [[Robert Bosch GmbH|Bosch]] [[Motronic]] [[engine control unit]] took care of all functions of the engine management.<ref name="ETKA"/>
+
+Standard [[transmission (mechanics)|transmission]] offerings<ref name="ETKA"/> were a [[manual transmission|manual gearbox]] (parts code prefix: 01E) - five- (identification codes: CBD, CET) and six-speed (identification codes: CBL, CMG) in Europe, five-speed only in [[North America]], although a four-speed [[automatic transmission]] (parts code prefix: 01F, identification code: CBF) was available as an option.  [[Torsen]]-based (T-1) [[quattro (four wheel drive system)|quattro]] permanent four-wheel drive (4wd) was standard on manual transmissions, and a [[transfer case|transfer box]] based 4wd was standard on automatic transmission variants.<ref name="ETKA"/>  Final drive ratio is either 4.111 or 3.889 (dependent on transmission type), and the rear axle uses a driver-selectable electro-pneumatic-mechanical switchable [[locking differential|diff lock]] (parts code prefix: 017, identification codes: AAT, AET).<ref name="ETKA"/>
+
+A {{convert|206|kW|PS bhp|0|abbr=on}} 4.2&nbsp;litre all-[[aluminium alloy]] [[V8 engine]] (parts code prefix: 077, identification code: [[list of discontinued Volkswagen Group petrol engines#4.2 V8 206kW|ABH]]) became available to [[Europe]]an customers as an option from October 1992, only with the manual gearbox.<ref name="ETKA"/>
+
+The configuration of the 2.2&nbsp;litre engine and five-speed manual transmission offered good acceleration for its day, achieving {{convert|100|km/h|1|lk=on}} in just 6.2&nbsp;[[second]]s.
+
+===C4 steering, brakes, wheels & tyres===
+The C4 S4 came equipped with [[power steering|power assisted]] (PAS) rack and pinion [[steering]] as standard.<ref name="ETKA"/>  An electronically controlled variable assisted '[[power steering#servotronic|servotronic]]' version was also available.<ref name="ETKA"/>
+
+There were two different types of high performance [[brake]] systems on offer for the C4 S4.<ref name="ETKA"/>  From its' introduction, it had the unusual 'UFO' styled front [[disc brake]]s.  These were sized at {{convert|310|mm|2|lk=on}} in diameter by {{convert|25|mm|3|abbr=on}} thick, and were radially ventilated, but mounted the [[ATE]] single-piston sliding caliper inside the bell-shaped disc.  With the introduction of the V8 engine, the S4 changed to more conventional front brakes across the range.  Again radially ventilated, the front discs were now sized at {{convert|314|mm|2|abbr=on}} by {{convert|30|mm|3|abbr=on}}, with the [[LucasVarity|Lucas]]-[[Lucas Industries#girling|Girling]] single pot caliper mounted in the conventional external position.  The rears, again radially ventilated, were sized at {{convert|269|mm|2|abbr=on}} by {{convert|20|mm|3|abbr=on}}, and used a Lucas-Girling single-piston sliding caliper, with integrated cable-actuated handbrake mechanism.  A [[Robert Bosch GmbH|Bosch]] three-channel (four-channel sensing) [[anti-lock braking system|Anti-lock Braking System]] (ABS), with mechanical load sensing valve (for the rear brakes) was also standard.
+
+Standard [[wheel|roadwheels]]<ref name="ETKA"/> were 7.5Jx16H2&nbsp;ET37 six-arm 'Avus' forged [[alloy wheel]]s with 225/50&nbsp;R16 [[tire|tyre]]s.  Three optional alloy wheel and tyre packages were available - a 7.5Jx15H2&nbsp;ET40 six-spoke alloy wheel, with 215/60&nbsp;R15 tyres, an 8.0Jx16H2&nbsp;ET40 five double-spoke alloy, or an 8.0Jx17H2&nbsp;ET40 ten-spoke alloy were also available.{{-}}
+
+==B5 (''Typ'' 8D, 1997–2001){{anchors|B5|8D}}==
+{{Infobox Automobile generation
+|name             = Audi S4 quattro (B5)
+|image            = [[Image:B5-8D S4.jpg|250px]]<br>''Audi B5 S4 saloon''
+|aka              = ''Typ'' 8D
+|production_start = October 1997<ref name="ETKA"/>
+|production_end   = September 2001<ref name="ETKA"/>
+|predecessor      = [[#C4|Audi C4 S4]]
+|successor        = [[#B6|Audi B6 S4]]
+|body_style       = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]]<ref name="ETKA"/><br>5-door Avant ([[station wagon|estate/wagon]])<ref name="ETKA"/>
+|platform         = [[Volkswagen Group B platform#B5|Volkswagen Group B5 platform]]
+|engine           = 2.7&nbsp;[[litre|L]] [[multivalve|30v]] [[V6 engine|V6]] [[twin-turbo|biturbo]] 2x[[DOHC]]<ref name="ETKA"/>
+|transmission     = 6-speed [[manual transmission|manual]],<ref name="ETKA"/><br>5-speed [[ZF Friedrichshafen|ZF]] [[ZF 5HP19 transmission#5HP19FLA|5HP19]] [[tiptronic]] [[automatic transmission|automatic]]<ref name="ETKA"/>
+|wheelbase        = {{convert|2615|mm|1|abbr=on|lk=on}}
+|length           = {{convert|4483|mm|1|abbr=on}}
+|width            = 1997-99: {{convert|1733|mm|1|abbr=on}}<br>2000-02: {{convert|1848|mm|1|abbr=on}}
+|height           = saloon: {{convert|1396|mm|1|abbr=on}}<br>Avant: {{convert|1418|mm|1|abbr=on}}
+|weight           = {{convert|1535|kg|0|abbr=on|lk=on}} to<br>{{convert|1680|kg|0|abbr=on}}
+|fuel_capacity    = {{convert|62|L|impgal usgal|1|lk=on|abbr=on}}
+|related          = [[Audi A4]]
+|sp               = uk
+}}
+[[Image:Audis4avant b5.jpg|thumb|left|200px|Audi B5 S4 Avant]]
+The second generation S4 ('''''Typ'' 8D'''), now correctly titled '''Audi S4 quattro''' debuted in 1997, with factory production commencing October 1997,<ref name="ETKA"/> as part of the facelifted [[Volkswagen Group B platform#B5|B5 platform]] [[Audi A4#B5|Audi A4]] line-up, although it wasn't available in [[North America]] until late 1999.
+
+In addition to the [[sedan (automobile)|saloon]] (sedan), an [[station wagon|estate]] version (wagon) - the Audi S4 Avant, was introduced into the lineup from 1998.  Production of the B5 S4 ceased in September 2001,<ref name="ETKA"/> although it was still sold together with the next B6 platform generation through 2002 in North America.
+
+Several years after it was sold new, the B5 S4 remains a potent enthusiast car, and as featured in the December 2007 issue of Sport Compact Car magazine, a Torque Factory tuned S4 won a comparison test against several other extreme performance cars.<ref>Sport Compact Car magazine [http://www.sportcompactcarweb.com/uscc/0712_sccp_2007_ultimate_street_car_challenge/results.html 2007 Ultimate Street Car Challenge] ''"The Audi S4 ... showed its capability with consistently strong finishes in the acceleration, dyno, braking and driveability tests"''</ref>
+
+===B5 powertrain===
+The [[powertrain]] detail<ref name="ETKA"/> of the B5 S4 features a 2.7&nbsp;[[litre]] [[twin-turbo]] ('biturbo') 90° third-generation [[V6 engine]] (parts code prefix: 078, identification codes: AGB, AZB). Detail of the powerplant includes a [[cast iron]] [[cylinder block]] with two lightweight [[aluminium alloy]] [[cylinder head]]s. The [[valvetrain]] includes [[multi-valve|30 valves]] (five valves per [[cylinder (engine)|cylinder]]),<ref>Audi Self-Study Programme SSP198 - The 2.7-litre V6 biturbo</ref><ref>Audi.com - Glossary [http://www.audi.com/audi/com/en2/tools/glossary/engine_driveline/five_valves_per_cylinder.html five valves per cylinder]</ref> twin hybrid-driven ([[timing belt]] and [[chain]]) [[overhead camshaft#double overhead camshaft|double overhead camshafts]] and [[variable valve timing]] for the inlet [[poppet valve#internal combustion engine|valves]]. The charged intake air is cooled with the aid of two side-mounted [[intercooler]]s (SMICs). It [[engine displacement|displaces]] {{convert|2671|cc|1|lk=on}}, and is [[Deutsches Institut für Normung|DIN]] rated to produce a [[motive power|motive]] [[power (physics)|power]] output of {{convert|195|kW|PS bhp|0|lk=on}}, and generates {{convert|400|Nm|0|lk=on}} of [[torque]]. Engine management was by way of a [[Robert Bosch GmbH|Bosch]] [[Motronic]] ME&nbsp;7.1 (7.0 in North America) [[engine control unit]] (ECU), and helped it meet the EU-3D emissions standard. For a short [[time scale]] (08/98-12/98) in the North American market, the engine was slightly detuned to meet US emissions regulations, output was reduced to {{convert|187|kW|PS bhp|0|abbr=on}} and {{convert|258|ftlb|abbr=on}} (identification code: APB).
+
+As in the previous S4, a six-speed C90 [[manual transmission]] (parts code prefix: 01E, identification code: DSY) [[gear ratio]]s- 1st: 3.500, 2nd: 1.889, 3rd: 1.231, 4th: 0.967, 5th: 0.806, 6th: 0.684) was standard equipment, as was the Torsen T-2 [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.  Final drive (parts code prefix: 01H, identification code: DQA) ratio is 4.111.  A five-speed [[ZF Friedrichshafen|ZF]] [[ZF 5HP19 transmission#5HP19FLA|5HP19]] [[tiptronic]] [[automatic transmission]] (parts code prefix:01V) became available for the first time as an option.<ref name="ETKA"/>
+
+The S4 claims acceleration from {{convert|0|to|100|km/h|1|lk=on}} in 5.6&nbsp;[[second]]s, and had an electronically-limited top speed of {{convert|250|km/h|1|abbr=on}}, making it both the quickest saloon/sedan in the Audi model line, and among the quickest saloon/sedans in the world at that time.
+
+===B5 brakes, wheels & tyres===
+The B5 S4 [[brake]] system<ref name="ETKA"/> consisted of radially ventilated discs, {{convert|321|mm|2|lk=on}} in diameter by {{convert|30|mm|2|abbr=on}} thick up front, and {{convert|256|mm|2|abbr=on}} by {{convert|22|mm|2|abbr=on}} at the rear.  Two-piston Lucas HP2 brake calipers at the front (with four pads per caliper), with Lucas single-piston sliding brake calipers at the rear.  A [[Robert Bosch GmbH|Bosch]]  ABS&nbsp;5.3 four-channel [[anti-lock braking system|Anti-lock Braking System]] (with [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD) and Electronic Differential Lock (EDL) - and later with ESP or [[electronic stability control|Electronic Stability Programme]]), coupled with a [[vacuum servo]] completed the system.
+
+Standard [[wheel|roadwheels]]<ref name="ETKA"/> were Audi's [[die casting|die-cast]] [[aluminium alloy]] six-arm 'Avus' 7.5Jx17H2&nbsp;ET45 [[alloy wheel]]s, shod with 225/45&nbsp;ZR17 performance [[tire|tyres]].
+
+===B5 motorsport===
+A [[auto racing|racing]] version of the car achieved great success in the [[SPEED World Challenge|SpeedVision World Challenge]] with Michael Galati taking the 2001 SpeedVision GT title in a [[Champion Racing]] S4, winning four races, and helping Audi to its first Manufacturers' Championship.
+
+The [[Audi#motorsports|Audi Sport]] specification Champion A4 chassis included a [[Audi RS4#B5|B5 RS4]] engine, and [[Alcon Component Limited|Alcon]] racing [[brake caliper]]s - 4-pot fronts and 2-pot rears.{{-}}
+
+==B6 (''Typ'' 8E/8H, 2003–2005){{anchors|B6|8E|8H}}==
+{{Infobox Automobile generation
+|name             = Audi S4 quattro (B6)
+|image            = [[Image:Audi S4 convertible.jpg|250px]]<br>''Audi B6 S4 Cabriolet (US)''
+|aka              = ''Typ'' 8E (saloon & Avant),<br>''Typ'' 8H (Cabrio)
+|production_start = Mar 2003; Cabrio: Feb 2004<ref name="ETKA"/>
+|production_end   = Dec 2004; Cabrio: Dec 2005<ref name="ETKA"/>
+|predecessor      = [[#B5|Audi B5 S4]]
+|successor        = [[#B7|Audi B7 S4]]
+|body_style       = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]],<ref name="ETKA"/><br>5-door Avant ([[station wagon|estate/wagon]]),<ref name="ETKA"/><br>2-door [[convertible|Cabriolet]]<ref name="ETKA"/>
+|platform         = [[Volkswagen Group B platform#B6|Volkswagen Group B6 (PL46) platform]]
+|engine           = 4.2&nbsp;[[litre|L]] [[multi-valve|40-valve]] [[V8 engine|V8]] 2x[[DOHC]]<ref name="ETKA"/>
+|transmission     = 6-speed [[Getrag]] [[manual transmission|manual]],<ref name="ETKA"/><br>6-speed [[ZF Friedrichshafen|ZF]] [[ZF 6HP19 transmission|6HP19]] [[tiptronic]] [[automatic transmission|automatic]]<ref name="ETKA"/>
+|wheelbase        = {{convert|2651|mm|1|abbr=on|lk=on}},<br>Cabrio: {{convert|2654|mm|1|abbr=on}}
+|length           = {{convert|4575|mm|1|abbr=on}},<br>Cabrio: {{convert|4573|mm|1|abbr=on}}
+|width            = {{convert|1781|mm|1|abbr=on}},<br>Cabrio: {{convert|1778|mm|1|abbr=on}}
+|height           = {{convert|1415|mm|1|abbr=on}},<br>Cabrio: {{convert|1391|mm|1|abbr=on}}
+|weight           = saloon: {{convert|1660|kg|0|abbr=on|lk=on}},<br>Avant: {{convert|1720|kg|0|abbr=on}},<br>Cabrio: {{convert|1855|kg|0|abbr=on}}
+|fuel_capacity    = {{convert|66|L|impgal usgal|1|lk=on|abbr=on}}
+|related          = [[Audi A4#B6|Audi A4 (B6)]]
+|designer         = 
+|sp               = uk
+}}
+[[Image:Audis4b6.jpg|200px|thumb|left|B6 S4 saloon]]
+[[Image:Audi s4 red.jpg|200px|thumb|left|Audi B6 S4 Avant]]
+The third generation '''Audi S4 quattro''' ('''''Typ'' 8E''' &mdash; saloon: 8E2, Avant: 8E5, and Cabriolet: 8H7) debuted its saloon and Avant [[car body style|bodystyles]] in [[Europe]] in March 2003,<ref name="ETKA"/> and appeared in [[North America]] slightly later.{{When|date=June 2009}}  This was based on the latest [[Volkswagen Group B platform#B6 (PL46)|Volkswagen Group B6 (PL46) platform]] used by the then current [[Audi A4#B6|Audi (B6) A4]].  Despite having moved to an entirely new platform, one of the S4's most publicised new features was its new [[internal combustion engine]] - a 4.2&nbsp;[[litre]] [[V8 engine]].  Following its initial launch of either a four-[[vehicle door|door]] five-[[car seat|seat]] saloon (sedan), or a five-door five-seat Avant (estate/wagon), it eventually became available in three bodystyles - and for the first time in the [[Audi S and RS models#S models|Audi 'S' car range]], from February 2004, a two-door four-seat Cabriolet ([[convertible]]), '''''Typ'' 8H''', was included in the [[model range]].<ref>Audi Technical Data sheets - 2003 S4 quattro - saloon, Avant, and Cabriolet</ref>
+
+Official performance figures for standard discipline of sprinting from standstill to {{convert|100|km/h|1|lk=on}} in the saloon with manual transmission are 5.6&nbsp;[[second]]s (Avant 5.8&nbsp;s, Cabriolet 5.9&nbsp;s), however, a road test conducted by the American automotive magazine [[Motor Trend]]<ref>[http://www.motortrend.com/roadtests/sedans/112_0308_sports_car_comparison/specs_price.html Sports Car Comparison: 2004 Audi S4 vs. 2003 Mercedes-Benz C32 AMG]</ref> indicated that it could go from a standstill to {{convert|60|mph|1|abbr=on}} in less than 5&nbsp;seconds, and make it to {{convert|200|km/h|1|abbr=on}} in slightly over 20&nbsp;seconds, although doing this led to fuel consumption dipping into single digits, considerably lower than the earlier V6 models, leading to the addition of a $1,700 [[Gas Guzzler Tax|gas guzzler tax]] (combined {{convert|20.2|mpgus|L/100 km mpgimp|lk=on}}) for the six-speed manual sedan in the [[United States]].  Top speed is electronically limited to {{convert|250|km/h|1|abbr=on}}.
+
+The B6 S4 saloon and Avant variants ceased factory production in December 2004, with the Cabriolet ending twelve months later at December 2005.<ref name="ETKA"/>
+
+===B6 powertrain===
+Replacing the 2.7&nbsp;[[litre]] [[twin-turbo|'biturbo']] [[V6 engine]] of the previous generation B5 S4, the new B6 S4 [[powertrain]]<ref name="ETKA"/> gained an all-[[aluminium alloy]] 4.2&nbsp;litre, [[multi-valve|40 valve]] (five [[poppet valve#internal combustion engine|valves]] per [[cylinder (engine)|cylinder]]) [[V8 engine]] (parts code prefix: 079.C, identification code: [[list of Volkswagen Group petrol engines#4.2 V8 40v 246-260kW|BBK]]), with twin [[chain]]-driven (at the rear of the [[internal combustion engine|engine]]) [[overhead camshaft#double overhead camshaft|double overhead camshafts]] (DOHC) (two per [[cylinder bank]] - 'quad cam'), roller [[rocker arm|valve followers]], and included [[variable valve timing|variable inlet camshaft timing]].  It also utilised a strengthened alloy [[crankshaft]] bedplate for the five [[main bearing]]s, and a two-part [[baffle]]d oil [[sump]], and a light-alloy [[variable length intake manifold|variable intake manifold]] (VIM), containing the sequentially fired [[fuel injection|fuel injectors]].  This [[petrol engine]], based on the unit from the [[Audi A8]], [[engine displacement|displaces]] {{convert|4163|cc|1|lk=on}}, and it produces a [[Deutsches Institut für Normung|DIN]] rated [[motive power|motive]] [[power (physics)|power]] output of {{convert|253|kW|PS bhp|0|lk=on}} at 7,000&nbsp;[[revolutions per minute]] (rpm), and generates [[torque]] of {{convert|410|Nm|0|lk=on}} at 3,500&nbsp;rpm, making it more potent than the [[Audi RS2 Avant|RS2 Avant]], and nearly as powerful as the [[Audi RS4#B5|B5 RS4]].  Engine management was by way of a [[Robert Bosch GmbH|Bosch]] [[Motronic]] ME&nbsp;7.1.1 electronic [[engine control unit]], utilising a Bosch 'E-Gas' [[drive by wire]] electronic throttle, and powering eight individual [[ignition coil|spark coils]] with longlife quad-electrode Bosch [[spark plug]]s.  [[Ignition timing]] is a mapped direct [[ignition system|ignition]], with cylinder-selective knock control with the aid of four knock sensors.  The [[exhaust system]] includes [[vacuum]]-operated valves in the twin rear [[muffler|silencers]] (mufflers), finished with [[chrome plating|chrome plated]] tail-pipes.
+
+Like its predecessors, the B6 S4 was standard with a [[Getrag]] six-speed (M6S) manual transmission (parts code prefix: 0A3, identification codes: FVD, HEP) ([[gear ratio]]s - 1st: 3.667, 2nd: 2.050, 3rd: 1.462, 4th: 1.133, 5th: 0.919, 6th: 0.778),<ref name="ETKA"/> with a 240&nbsp;[[millimetre]] single plate dry [[clutch]], and [[Torsen]] T-2 [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.  Final drive (parts code prefix: 01R, identification code: EXZ) ratios are 3.889,<ref name="ETKA"/> giving a top gear road speed to engine revs ratio of 24.4&nbsp;mph per 1000&nbsp;rpm.  From July 2003,<ref name="ETKA"/> the [[ZF Friedrichshafen|ZF]] [[ZF 6HP19 transmission|6HP19]] [[tiptronic]] [[automatic transmission]] (parts code prefix: 09L, identification codes: GUR, HHU) (ratios - 1st: 4.171, 2nd: 2.340, 3rd: 1.521, 4th: 1.143, 5th: 0.867, 6th: 0.691, with a final drive (identification code: GDF) ratio of 3.539) was included as an option.
+
+An unusual sight in the engine compartment was the addition of [[water cooling]] for the 190&nbsp;[[ampere|amp]] [[alternator#automotive alternators|alternator]],<ref name="ETKA"/> along with two additional [[thermostat]]ically-controlled side-mounted [[radiator (engine cooling)|radiators]].<ref name="ETKA"/>
+
+===B6 steering, brakes, wheels & tyres===
+The B6 S4 came equipped with electronically controlled variable assisted '[[power steering#servotronic|servotronic]]' [[power steering|power assisted]] (PAS) rack and pinion [[steering]] as standard.<ref name="ETKA"/>
+
+B6 S4 [[brake]]s<ref name="ETKA"/> consisted of radially ventilated [[disc brake]]s front and rear.  The front discs are sized at {{convert|345|mm|2|lk=on}} in diameter by {{convert|30|mm|3|abbr=on}} thick, and are clamped by [[Continental AG|Continental Teves-ATE]] FNRG-60 single-piston sliding [[disc brake#calipers|brake calipers]].  The rears are {{convert|300|mm|2|abbr=on}} by {{convert|22|mm|3|abbr=on}}, and again use single-piston sliding calipers, with an integrated cable-operated [[hand brake]] mechanism.  A [[Robert Bosch GmbH|Bosch]] ESP&nbsp;5.7 [[electronic stability control|Electronic Stability Programme]] system, complete with [[anti-lock braking system|Anti-lock Braking System]] (ABS), [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD), [[Emergency Brake Assist]] (EBA), Electronic Differential Lock (EDL) and Anti-Slip Regulation (ASR) - also known as [[traction control system]], coupled with a dual-rate tandem [[vacuum servo]] provided the brake actuation.
+
+Standard [[alloy wheel]]s<ref name="ETKA"/> were 'Avus-III' [[die casting|die-cast]] aluminium alloy, 8.0Jx18H2&nbsp;ET45 in size, and shod with 235/40&nbsp;ZR18&nbsp;95Y eXtraLoad high performance [[tire|tyres]], being either [[Continental AG|Continental]] SportContact2 or [[Michelin]] PilotSport PS2.
+
+===B6 body & interior===
+Discrete lower [[vehicle door|door]] trims, along with the now trademark [[Audi S and RS models#S models|Audi 'S' model]] vertical-emphasis line [[grille]], and solid [[aluminium]] (later replaced with mock aluminium plastic) exterior [[wing mirror|door mirrors]], and S4 badging front and rear are all that visually distinguish the S4 from its related A4 brethren.  In the interior, front and rear [[Recaro]] [[automobile seat|seats]] (fronts fully electric), standard [[carbon fiber|carbon fibre]] trims, as well as S4 logos in the instrument panel and door sills complete the detail.{{-}}
+
+==B7 (''Typ'' 8E/8H, 2005–2008){{anchors|B7|8EC|8ED|8HE}}==
+{{Infobox Automobile generation
+|name             = Audi S4 quattro (B7)
+|image            = [[Image:AudiS4 B7 Avant front.jpg|250px]]<br>''Audi B7 S4 Avant in Sprint Blue with Avus-III alloy wheels''
+|aka              = ''Typ'' 8E (saloon & Avant),<br>''Typ'' 8H (Cabrio)
+|production_start = Nov 2004; Cabrio: Jan 2006<ref name="ETKA"/>
+|production_end   = Jun 2008<ref name="ETKA"/>
+|predecessor      = [[#B6|Audi B6 S4]]
+|successor        = [[#B8|Audi B8 S4]]
+|body_style       = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]],<ref name="ETKA"/><br>5-door Avant ([[station wagon|estate/wagon]]),<ref name="ETKA"/><br>2-door [[convertible|Cabriolet]]<ref name="ETKA"/>
+|platform         = [[Volkswagen Group B platform#B7|Volkswagen Group B7 (PL46) platform]]
+|engine           = 4.2&nbsp;[[litre|L]] [[multi-valve|40-valve]] [[V8 engine|V8]]<ref name="ETKA"/>
+|transmission     = 6-speed [[manual transmission|manual]],<ref name="ETKA"/><br>6-speed [[tiptronic]] [[automatic transmission|automatic]]<ref name="ETKA"/>
+|wheelbase        = {{convert|2648|mm|1|abbr=on|lk=on}}<br>Cabrio: {{convert|2654|mm|1|abbr=on}}
+|length           = {{convert|4586|mm|1|abbr=on}}<br>Cabrio: {{convert|4572|mm|1|abbr=on}}
+|width            = {{convert|1781|mm|1|abbr=on}}<br>Cabrio: {{convert|1778|mm|1|abbr=on}}
+|height           = {{convert|1415|mm|1|abbr=on}}<br>Cabrio: {{convert|1392|mm|1|abbr=on}}
+|weight           = 
+|fuel_capacity    = {{convert|66|L|impgal usgal|1|abbr=on|lk=on}}
+|related          = [[Audi A4#B7|Audi A4 (B7)]]<br>[[Audi RS4#B7|Audi RS4 (B7)]]
+|designer         = 
+|sp               = uk
+}}
+[[Image:Audi S4 B7 Sedan.JPG|200px|thumb|left|Audi B7 S4 saloon (North America)]]
+[[Image:Audi S4 Cabriolet.jpg|200px|thumb|left|Audi B7 S4 Cabriolet (US) with optional 7-spoke alloy wheels]]
+[[Image:AudiS4 B7 Avant.jpg|200px|thumb|left|rear view of Audi B7 S4 Avant]]
+The Audi B7 platform '''Audi S4 quattro''', based on the B7 [[Audi A4#B7|Audi A4]], debuted in late 2005.  Although Audi classifies it as a new car, the differences between it and the outgoing B6 S4 casually appear to be primarily cosmetic, and is still classified by the internal designation: '''''Typ'' 8E''' (although with revised sub-designations - saloon: 8EC, Avant: 8ED, and Cabriolet: 8HE).<ref name="ETKA"/>  It has the same 4.2&nbsp;[[litre]] [[V8 engine]] (identification code: [[list of Volkswagen Group petrol engines#4.2 V8 40v 246-260kW|BBK]]) as the B6 S4, producing a [[Deutsches Institut für Normung|DIN]] rated [[motive power|motive]] [[power (physics)|power]] output of {{convert|253|kW|PS bhp|0|lk=on}} at 7,000&nbsp;[[revolutions per minute]] (rpm), and {{convert|410|Nm|0|lk=on}} [[torque]] at 3,500&nbsp;rpm.
+
+There are a few mechanical changes, such as revised [[spring (device)|springs]] and dampers and, from [[model year]] 2007, an updated [[Torsen]] T-3 centre differential, featuring a default asymmetric 40:60 front-rear torque split on manual transmission models, along with the later [[Robert Bosch GmbH|Bosch]] ESP&nbsp;8.0 [[electronic stability control|Electronic Stability Programme]]<ref name="ETKA"/> and gloss black painted [[disc brake#calipers|brake calipers]].<ref name="ETKA"/>  The 'Avus-III' [[wheel|roadwheels]] now became an option, and were replaced by a standard offering 8.0Jx18&nbsp;[[inch]] 'S-design' 7-spoke forged [[alloy wheel]].<ref name="ETKA"/>
+
+[[Bose Corporation|Bose]] sound system is now standard, whereas it was optional on the B6 S4, and an enhanced optional [[DVD|DVD-ROM]]-based RNS-E satellite navigation system replaces the previous [[CD-ROM]]-based RNS-D option.
+
+The new [[trapezoid]]al single-frame [[grille]], Bi-[[xenon arc lamp|Xenon]] [[high-intensity discharge lamp|HID]] headlamps, L-shaped tail-lamps, quad [[exhaust system|exhaust]] tail pipes, and discrete V8 badging below the side repeater indicators help distinguish the B7 from the previous B6 model.
+
+===Audi S4 25quattro{{anchor|25quattro}}===
+[[Image:2006 Audi S4 25quattro.jpg|200px|thumb|left|Audi "S4 25quattro" special edition]]
+In June 2005,<ref name="ETKA"/> Audi announced a limited edition run of 250 special edition S4 saloon cars, celebrating 25 years of [[quattro (four wheel drive system)|quattro]] four wheel drive.  This exclusive model was called the '''Audi S4 25quattro'''.  Available only in the [[United States]], and only in Avus Silver, the exterior has unique front and rear bumpers, a [[carbon fiber|carbon fibre]] boot lip spoiler and lower front splitter.  15-spoke DTM alloys, along with optional dealer-fitted Audi rings decals for the front doors complete the exterior makeover.  Black and grey contrasting interior leathers, along with "quattro" embossed into the [[Recaro]] seats, together with an individually numbered exclusive quattro gear shift knob for the manual-only gearbox define the interior changes.
+
+On the mechanical side, the S4 25quattro was the second Audi, after the [[Audi RS4#B7|B7 RS4]] to be fitted with the latest [[Torsen]] T-3 asymmetric ATB centre differential for its quattro permanent four-wheel drive system.  Under normal grip conditions, this is set with a default rearwards torque distribution bias of 40:60 front to rear, and a maximum of 100% torque can automatically be apportioned to the rear axle (and up to 80% to the front) as conditions warrant.  The final drive ratios are 3.889.{{-}}
+
+==B8 (''Typ'' 8K, 2009-){{anchors|B8|8K}}==
+{{Infobox Automobile generation
+|name             = Audi S4 quattro (B8)
+|image            = [[Image:2010 Audi S4 sedan--DC.jpg|250px]]<br>''Audi B8 S4 saloon (US)''
+|aka              = ''Typ'' 8K
+|production_start = Nov 2008
+|predecessor      = [[#B7|Audi B7 S4]]
+|successor        = 
+|body_style       = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]],<ref name="ETKA"/><br>5-door Avant ([[station wagon|estate/wagon]])<ref name="ETKA"/>
+|platform         = [[Volkswagen Group B platform#MLB|Volkswagen Group MLB/MLP platform]]
+|engine           = 3.0&nbsp;[[litre|L]] [[V6 engine|V6]] [[supercharger|T]][[gasoline direct injection|FSI]]<ref name="ETKA"/>
+|transmission     = 6-speed [[manual transmission|manual]],<ref name="ETKA"/><br>7-speed [[dual clutch transmission|dual clutch]] [[Direct-Shift Gearbox|'S tronic']]<ref name="ETKA"/>
+|wheelbase        = {{convert|2811|mm|1|abbr=on|lk=on}}
+|length           = {{convert|4717|mm|1|abbr=on}}
+|width            = {{convert|1826|mm|1|abbr=on}}
+|height           = saloon: {{convert|1406|mm|1|abbr=on}},<br>Avant: {{convert|1415|mm|1|abbr=on}}
+|weight           = {{convert|1650|kg|0|abbr=on|lk=on}} to<br>{{convert|1735|kg|0|abbr=on}}
+|fuel_capacity    = {{convert|64|L|impgal usgal|1|abbr=on|lk=on}}
+|related          = [[Audi A4 B8|Audi A4 (B8)]]
+|designer         = 
+|sp               = uk
+}}
+[[Image:Audi S4 B8 Kombi rear 20090412.jpg|200px|thumb|left|Audi B8 S4 Avant]]
+From November 2008, the latest generation of the '''Audi S4 quattro'''<ref>Audi.co.uk [http://www.audi.co.uk/audi/uk/en2/new_cars/a4/s4_saloon.html Audi S4]</ref> ('''''Typ'' 8K''') entered factory production.<ref name="ETKA"/>  It is based on the current [[Audi A4#B8|Audi B8 A4]],<ref>AudiWorld.com News [http://www.audiworld.com/news/07/b8-s4-exclusive-preview/ Performance Preview: exclusive look at the B8 S4] 18 November 2007</ref> built on the [[Volkswagen Group B platform#B8|Volkswagen Group MLB/MLP]] platform.  Unlike the previous B6 and B7 models, the new B8 version will only be available as a four-[[vehicle door|door]] five-[[car seat|seat]] saloon (sedan), or a five-door five-seat Avant (estate/wagon).  The sport-performance two-door four-seat [[cabriolet (automobile)|Cabriolet]] ([[convertible]]) mantle is now taken by the current [[Audi A5#S5|Audi S5]].
+
+Compared to the previous B6/B7 S4, this latest B8 S4 utilises a smaller [[engine displacement|displacement]] 3.0&nbsp;[[litre]] TFSI [[V6 engine|V6]] [[internal combustion engine]], but with the addition of [[forced induction]].
+
+Acceleration from standstill to {{convert|100|km/h|1|lk=on}} takes 5.1&nbsp;[[second]]s<ref name="Audi Germany"/> for the saloon with manual gearbox, the Avant one tenth of a second slower at 5.2&nbsp;seconds.  The same dash to 100&nbsp;km/h in the saloon with S tronic takes 5.3&nbsp;seconds, and the Avant at 5.4&nbsp;seconds.  The top speed is electronically limited to {{convert|250|km/h|1|abbr=on}}.  With figures like these, the B8 S4 accelerates more quickly than any of its predecessors.
+
+Audi of America claims the American version of the S4 achieves 28 highway miles per gallon and a 0 to 60&nbsp;mph acceleration time of 4.9 seconds.<ref>{{cite web|title=The 2010 Audi S4 is finally here|url=http://www.audisite.com/912/2010-audi-s4/|publisher=AudiSite.com|date= |accessdate= }}</ref>  Fuel consumption is rated at a combined {{convert|24.2|mpgus|L/100 km mpgimp|lk=on}}<ref name="Audi Germany">[http://www.audi.de/de/brand/de/neuwagen/a4/s4_limousine/technische_daten_und.html Audi Germany]</ref>.  Therefore, the B8 S4, unlike the V8-powered B6/7 models, avoids the US [[Gas Guzzler Tax|gas guzzler tax]].
+
+A new designed [[wheel|roadwheel]] is included on the B8 S4, an 8.5Jx18" '5-double-spoke S' design [[alloy wheel]] with 245/40&nbsp;ZR18 high performance [[tire|tyres]].  Optional 19&nbsp;[[inch]] wheel and tyre packages are also available, sized at 8.5Jx19" alloy wheels with 255/35&nbsp;ZR19 tyres.  LED tail lights are standard fitment, along with Audi's trademark LED daytime running lights at the front.
+
+===B8 powertrain===
+At the heart of the B8 S4 [[powertrain]] is an all-new, all [[aluminium-alloy]] 3.0&nbsp;[[litre]] TFSI [[supercharger|supercharged]] [[V6 engine]] (parts code prefix: ???, identification code: [[list of Volkswagen Group petrol engines#3.0 V6 TFSI 213-245kW|CAK]]),<ref name="ETKA"/> and like the rest of the B8 model range, now with [[gasoline direct injection|Fuel Stratified Injection]] (FSI).  This [[petrol engine]], based on the unit from the facelifted [[Audi A6]], [[engine displacement|displaces]] {{convert|2995|cc|1|lk=on}}, and it produces a [[Deutsches Institut für Normung|DIN]] rated [[motive power|motive]] [[power (physics)|power]] output of {{convert|245|kW|PS bhp|0|lk=on}}.  [[Torque]] is rated at {{convert|440|Nm|0|lk=on}} from 2,900 to 5,300&nbsp;rpm.  This high power output is achieved by utilising [[forced induction]]–and specifically, an all-new [[Eaton Corporation|Eaton]] [[TVS Supercharger|'Twin Vortices Series' (TVS)]] Roots-type positive displacement compressor.<ref>{{cite web|first=Jim|last=Parks|title=Audi Selects Eaton TVS Supercharger To Power Fuel Efficient V6|url=http://www.eaton.com/EatonCom/SearchResults/CT_167907 |work=Eaton Corporation|publisher=Eaton.com|date=2008-07-17|accessdate=2009-07-24|quote=''when paired with direct injection and enhanced transmission ratio, the TVS supercharger helps the engine achieve 290 hp with an average fuel economy of nearly 24 miles per gallon''}}</ref><ref>{{cite web|first=Jim|last=Parks|title=Eaton TVS Supercharger Featured On 2010 Audi S4/S4 Avant|url=http://www.eaton.com/EatonCom/SearchResults/CT_193399 |work=Eaton Corporation|publisher=Eaton.com|date=2008-11-06|accessdate=2009-07-24|quote=''When combined with direct injection, the TVS surpasses twin turbochargers in packaging, starting performance and responsiveness''}}</ref>  This new blower features twin four-lobe rotors, which are twisted 160-degrees.  It is mounted on top of the engine, within the 'Vee', pumping air directly into the inlet manifold.  This new design of supercharger is said to reduce the [[noise, vibration, and harshness]] (NVH) of the engine.
+
+This engine is mated to either a six-speed [[manual transmission]] (identification code: KMR)<ref name="ETKA"/> or a seven-speed '[[Direct-Shift Gearbox|S tronic]]' DL501<ref name=DCTfactsS4>{{cite web|title=Audi S4 Avant On The Road|url=http://www.dctfacts.com/otr_pg4.asp|work=The Lubrizol Corporation|publisher=DCTfacts.com|date=14 July 2009|accessdate=29 October 2009}}</ref> [[dual clutch transmission]]<ref>PaulTan.org blog [http://paultan.org/archives/2008/09/23/b8-audi-s4-sedan-and-avant-unveiled/ B8 Audi S4 Sedan and Avant unveiled!]</ref> (identification code: LHK),<ref name="ETKA"/> the latter with steering wheel mounted paddle-shifters for [[tiptronic]] control.  The 'Audi quattro Sports differential' fitted in the rear axle final drive unit is available as an option.{{-}}
+
+==See also==
+{{commons category}}
+*[[Audi Ur-S4 / Ur-S6]]
+*[[Audi S and RS models]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.audi.com Audi.com] - international corporate portal
+*[http://www.audi.co.uk/audi/uk/en2/new_cars/S_RS_models.html Audi UK - S and RS models]
+*[http://www.audiusa.com/audi/us/en2/new_cars/Audi_A4/S4.html Audi USA - S4]
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+{{Audi vehicles timeline (North America)}}
+
+[[Category:Audi vehicles|S4]]
+[[Category:Euro NCAP large family cars]]
+[[Category:Executive cars]]
+[[Category:Compact executive cars]]
+[[Category:Sports cars]]
+[[Category:Sedans]]
+[[Category:Sports sedans]]
+[[Category:Station wagons]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles introduced in 1991]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+
+[[de:Audi S4]]
+[[el:Audi S4]]
+[[fr:Audi S4]]
+[[hr:Audi S4]]
+[[lt:Audi S4]]
+[[nl:Audi S4]]
+[[ja:アウディ・S4]]
+[[no:Audi S4]]
+[[pt:Audi S4]]
+[[ru:Audi S4]]
+[[sk:Audi S4]]
+[[sv:Audi S4]]

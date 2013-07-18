@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = PDB
+|rdfs:domain = Protein
+|rdfs:range = xsd:string
+}}

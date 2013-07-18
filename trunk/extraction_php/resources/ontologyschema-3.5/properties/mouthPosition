@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = mouth position
+| rdfs:range = geo:SpatialThing
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = previous mission
+|rdfs:domain = SpaceMission
+|rdfs:range = SpaceMission
+}}

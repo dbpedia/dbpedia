@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = most winner
+|rdfs:domain = Race
+|rdfs:range = Person
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = production years
+| rdfs:domain = Aircraft
+| rdfs:range = xsd:date
+}}

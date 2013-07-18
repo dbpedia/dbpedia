@@ -1,0 +1,51 @@
+{{Infobox Automobile
+|name=BMW N73B60 engine
+|image=
+|manufacturer=[[BMW|BMW, Bayerische(Bavarian) Motoren Werke AG]]
+|production=2003-2008;
+|class=[[DOHC]] [[V12 engine|V12]]
+|predecessor=[[BMW M73]]
+|successor=[[N74 (BMW)]]
+|engine=
+}}
+
+The '''N73''' was a [[V12 engine]] from [[BMW]], built in [[Munich, Germany]]. 
+
+The N73 was among the first BMW engines to receive the revolutionary [[Valvetronic]] technology, which surprisingly gives it more economical fuel consumption than older non-Valvetronic V8 BMW engines. It is also more economical than the [[BMW S85|S85B50]] 5.0L [[V10]] engine which powers the [[BMW M5]]/M6.  
+
+However, the N73 was not on par with flagship engines of other marques, resulting in the BMW 760i/760Li (E65/66) being underpowered compared to the [[Mercedes-Benz]] S600 and S65 AMG (both powered by twin-turbo V12s), as well as the [[Audi A8]]L [[W12]] and [[Audi S8]] (V10). 
+
+The N73 was rendered obsolete by the release of the next-generation [[BMW 7 Series (F01)|F01 7 Series]], as the twin-turbo V8 [[BMW N63|N63]] was a close match for the N73. The next V12 engine, the [[BMW N74|N74]], was redesigned as a twin-turbo for the F01 760i/Li in order to maintain its status as the flagship of the range.<ref>[http://www.caranddriver.com/reviews/car/09q3/2010_bmw_760i_760li-first_drive_review]</ref>
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#N73B60|N73B60]]||6.0&nbsp;L (5972&nbsp;cc/364&nbsp;in³)||327&nbsp;kW (445&nbsp;hp) @ 6000||600&nbsp;N·m (442&nbsp;ft·lbf) @ 3950||6500||2003
+|}
+
+==N73B60==
+
+The '''N73B60''' displaces {{convert|5972|cc|L cuin||abbr=on}} and produces {{convert|445|PS|kW hp||abbr=on}} at 6000 rpm and {{convert|600|Nm|lbft||abbr=on}} at 3950 rpm.
+
+Applications:
+* [[BMW E65|E65/E66]] [[BMW 7 Series|760i/760Li]]
+* [[Rolls-Royce Phantom (2003-Present)]]
+
+==See also==
+* [[List of BMW engines]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Bmw N73}}
+[[Category:BMW engines|N73]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:BMW N73]]
+[[it:BMW N73]]
+[[ja:BMW・N73エンジン]]
+[[no:BMW N73]]
+[[pl:BMW N73]]

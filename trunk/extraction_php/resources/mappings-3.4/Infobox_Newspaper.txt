@@ -1,0 +1,17 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Newspaper
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = format | ontologyProperty = Newspaper/format }}
+	{{ DBpediaPropertyMapping | templateProperty = owners | ontologyProperty = Newspaper/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = editor | ontologyProperty = Newspaper/editor }}
+	{{ DBpediaPropertyMapping | templateProperty = chiefeditor | ontologyProperty = Newspaper/chiefEditor }}
+	{{ DBpediaPropertyMapping | templateProperty = assoceditor | ontologyProperty = Newspaper/associateEditor }}
+	{{ DBpediaPropertyMapping | templateProperty = maneditor | ontologyProperty = Newspaper/managingEditor }}
+	{{ DBpediaPropertyMapping | templateProperty = circulation | ontologyProperty = Newspaper/circulation }}
+	{{ DBpediaPropertyMapping | templateProperty = headquarters | ontologyProperty = Newspaper/headquarters }}
+	{{ DBpediaPropertyMapping | templateProperty = sister newspapers | ontologyProperty = Newspaper/sisterNewspaper }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = publisher | ontologyProperty = Work/publisher }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

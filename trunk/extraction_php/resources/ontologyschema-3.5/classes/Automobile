@@ -1,0 +1,6 @@
+{{Class
+| rdfs:label = Automobile
+| rdfs:subClassOf = MeanOfTransportation
+| specificProperties = {{SpecificProperty | ontologyProperty = fuelCapacity | unit = litre }}
+                       {{SpecificProperty | ontologyProperty = wheelbase | unit = millimetre }}
+}}

@@ -1,0 +1,13 @@
+{{TemplateMapping
+| mapToClass = Beverage
+| mappings = 
+	{{PropertyMapping | templateProperty = manufacturer | ontologyProperty = manufacturer }}
+	{{PropertyMapping | templateProperty = distributor | ontologyProperty = distributor }}
+	{{PropertyMapping | templateProperty = origin | ontologyProperty = origin }}
+	{{PropertyMapping | templateProperty = introduced | ontologyProperty = introduced }}
+	{{PropertyMapping | templateProperty = discontinued | ontologyProperty = discontinued }}
+	{{PropertyMapping | templateProperty = variants | ontologyProperty = variant }}
+	{{PropertyMapping | templateProperty = related | ontologyProperty = related }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

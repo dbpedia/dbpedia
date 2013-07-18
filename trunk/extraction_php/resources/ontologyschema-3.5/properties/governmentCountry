@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = government country
+| rdfs:domain = Island
+| rdfs:range = Country
+}}

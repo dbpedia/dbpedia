@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = major island
+|rdfs:domain = Island
+|rdfs:range = Island
+}}

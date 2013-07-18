@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = date of burial
+| rdfs:domain = Monarch
+| rdfs:range = xsd:date
+}}

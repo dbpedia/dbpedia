@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = season number
+|rdfs:domain = TelevisionShow
+|rdfs:range = xsd:integer
+}}

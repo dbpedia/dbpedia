@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = maximum boat length
+|rdfs:domain = Canal
+|rdfs:range = metre
+}}

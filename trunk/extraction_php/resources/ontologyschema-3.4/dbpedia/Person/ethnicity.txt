@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= ethnicity
+|rdfs:domain	= Person
+|rdfs:range		= owl:Thing <!-- EthnicGroup -->
+}}

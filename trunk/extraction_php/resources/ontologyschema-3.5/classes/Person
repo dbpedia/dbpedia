@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Person
+| specificProperties = {{SpecificProperty | ontologyProperty = weight | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = height | unit = centimetre }}
+}}

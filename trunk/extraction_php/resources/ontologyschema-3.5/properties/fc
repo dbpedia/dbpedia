@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = FC
+| rdfs:domain = Cricketer
+| rdfs:range = xsd:integer
+}}

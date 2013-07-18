@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = operating system
+| rdfs:domain = Software
+}}

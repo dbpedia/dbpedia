@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = launch date
+|rdfs:domain = SpaceMission
+|rdfs:range = xsd:date
+}}

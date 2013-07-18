@@ -1,0 +1,22 @@
+{{ DBpediaTemplateMapping
+| mapToClass = MilitaryConflict
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = partof | ontologyProperty = MilitaryConflict/partOf }}
+	{{ DBpediaPropertyMapping | templateProperty = place | ontologyProperty = MilitaryConflict/place }}
+	{{ DBpediaPropertyMapping | templateProperty = territory | ontologyProperty = MilitaryConflict/territory }}
+	{{ DBpediaPropertyMapping | templateProperty = result | ontologyProperty = MilitaryConflict/result }}
+	{{ DBpediaPropertyMapping | templateProperty = status | ontologyProperty = MilitaryConflict/status }}
+	{{ DBpediaPropertyMapping | templateProperty = combatant1 | ontologyProperty = MilitaryConflict/combatant }}
+	{{ DBpediaPropertyMapping | templateProperty = combatant2 | ontologyProperty = MilitaryConflict/combatant }}
+	{{ DBpediaPropertyMapping | templateProperty = combatant3 | ontologyProperty = MilitaryConflict/combatant }}
+	{{ DBpediaPropertyMapping | templateProperty = commander1 | ontologyProperty = MilitaryConflict/commander }}
+	{{ DBpediaPropertyMapping | templateProperty = commander2 | ontologyProperty = MilitaryConflict/commander }}
+	{{ DBpediaPropertyMapping | templateProperty = commander3 | ontologyProperty = MilitaryConflict/commander }}
+	{{ DBpediaPropertyMapping | templateProperty = strength1 | ontologyProperty = MilitaryConflict/strength }}
+	{{ DBpediaPropertyMapping | templateProperty = strength2 | ontologyProperty = MilitaryConflict/strength }}
+	{{ DBpediaPropertyMapping | templateProperty = strength3 | ontologyProperty = MilitaryConflict/strength }}
+	{{ DBpediaPropertyMapping | templateProperty = casualties1 | ontologyProperty = MilitaryConflict/causalties }}
+	{{ DBpediaPropertyMapping | templateProperty = notes | ontologyProperty = MilitaryConflict/notes }}
+	{{ DBpediaPropertyMapping | templateProperty = conflict | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = date | ontologyProperty = Event/date }}
+}}

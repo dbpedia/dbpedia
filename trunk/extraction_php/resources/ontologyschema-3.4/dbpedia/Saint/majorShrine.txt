@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = major shrine
+|rdfs:domain = Saint
+|rdfs:range = owl:Thing
+}}

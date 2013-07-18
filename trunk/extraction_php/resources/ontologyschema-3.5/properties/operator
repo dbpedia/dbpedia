@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = operator
+| rdfs:domain = LaunchPad
+| rdfs:range = Organisation
+}}

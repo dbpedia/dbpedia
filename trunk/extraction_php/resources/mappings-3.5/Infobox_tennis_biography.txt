@@ -1,0 +1,16 @@
+{{TemplateMapping
+| mapToClass = TennisPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = plays | ontologyProperty = plays }}
+	{{PropertyMapping | templateProperty = careerprizemoney | ontologyProperty = careerPrizeMoney }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = residence | ontologyProperty = residence }}
+	{{PropertyMapping | templateProperty = datebirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = placebirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight }}
+	{{PropertyMapping | templateProperty = turnedpro | ontologyProperty = activeYearsStartDate }}
+	{{PropertyMapping | templateProperty = retired | ontologyProperty = activeYearsEndDate }}
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = draft year
+|rdfs:domain = IceHockeyPlayer
+|rdfs:range = xsd:date
+}}

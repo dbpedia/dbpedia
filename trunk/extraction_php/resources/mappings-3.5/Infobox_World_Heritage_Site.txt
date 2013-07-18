@@ -1,0 +1,10 @@
+{{TemplateMapping
+| mapToClass = WorldHeritageSite
+| mappings = 
+	{{PropertyMapping | templateProperty = ID | ontologyProperty = id }}
+	{{PropertyMapping | templateProperty = Region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = Link | ontologyProperty = foaf:homepage }}
+	{{GeocoordinatesMapping | coordinates = Coordinates }}
+}}

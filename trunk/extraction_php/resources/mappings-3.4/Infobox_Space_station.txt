@@ -1,0 +1,13 @@
+{{ DBpediaTemplateMapping
+| mapToClass = SpaceStation
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = NSSDC_ID | ontologyProperty = SpaceStation/nssdcId }}
+	{{ DBpediaPropertyMapping | templateProperty = sign | ontologyProperty = SpaceStation/callSign }}
+	{{ DBpediaPropertyMapping | templateProperty = mass | ontologyProperty = MeanOfTransportation/mass | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = MeanOfTransportation/length | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = MeanOfTransportation/width | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = MeanOfTransportation/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = diameter | ontologyProperty = MeanOfTransportation/diameter | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = volume | ontologyProperty = SpaceStation/volume | unit = cubicMetre }}
+	{{ DBpediaPropertyMapping | templateProperty = station | ontologyProperty = foaf:name }}
+}}

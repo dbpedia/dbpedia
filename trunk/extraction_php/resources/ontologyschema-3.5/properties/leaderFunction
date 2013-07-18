@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = leaderFunction
+| rdfs:domain = Organisation
+| rdfs:range = PersonFunction
+}}

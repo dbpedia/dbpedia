@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = district
+|rdfs:domain = ProtectedArea
+|rdfs:range = PopulatedPlace
+}}

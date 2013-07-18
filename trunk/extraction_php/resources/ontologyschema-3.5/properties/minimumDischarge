@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = minimum discharge
+| rdfs:range = FlowRate
+}}

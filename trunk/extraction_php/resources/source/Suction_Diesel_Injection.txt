@@ -1,0 +1,59 @@
+{{TOC right}}The '''Suction Diesel Injection''' engine, abbreviated to '''SDI'''<ref>{{cite web|url=http://www.sgpetch.co.uk/pages/motability/abbreviations|title=Abbreviations|work=SG Petch Ltd|publisher=SGPetch.co.uk|accessdate=4 November 2009}}</ref> is a design of [[naturally aspirated]] [[diesel engine]] developed and produced by the [[Volkswagen Group]] for use in [[automobile|cars]] and [[van]]s, along with [[marine engine|Marine Motor]]<ref name=VW_Marine>{{cite web|url=http://www.vw-m.de/index.php?id=6&L=1|title=Volkswagen Marine > Engines <|work=[[Volkswagen Group]]|publisher=Volkswagen.de|year=2009|accessdate=4 November 2009}}</ref> and Industrial Motor<ref>{{citation|url=http://www.mi-uk.com/products/engines/downloads/sdi19industrial.pdf|title=The SDI 1.9 Industrial Engine|format=PDF|work=[[Volkswagen Group|Volkswagen AG]]|publisher=mi-uk.com|date=March 2005|accessdate=4 November 2009}}</ref> applications.  These engines are produced in various sizes (from 1.7 to 2.5&nbsp;[[litre]]s) and states of tune, depending on application.
+
+The SDI engine is used in applications where [[reliability engineering|reliability]] and [[fuel economy in automobiles|fuel economy]] are of primary concern.  Because these engines lack any form of [[forced induction]], their power output is low compared to a similar [[turbocharged]] engine.  For example, the 2.0 SDI engine fitted to the [[Volkswagen Golf Mk5]] has a peak power output of {{convert|55|kW|PS bhp|0|lk=on}}; whereas the same engine in turbocharged [[Turbocharged Direct Injection]] (TDI) form is rated at {{convert|103|kW|PS bhp|0}} or {{convert|125|kW|PS bhp|0}}, depending on specification.  However, performance at very low engine speeds and when setting off from stationary is often superior to forced induction engines due to the lack of [[turbo lag]].
+
+The 1.9 SDI engine, fitted to the first generation [[Škoda Octavia]], is particularly popular amongst taxi drivers due to its low fuel consumption and ability to cover large mileages (over {{convert|250000|mi}}) without requiring major mechanical attention.{{citation needed|date=November 2009}}
+
+==SDI engines and applications==
+<ref>{{cite web|url=http://www.alex-original.com/Categories.asp?page=inner&CategoryID=125&TopID=89&CategoryName=VOLKSWAGEN&TopName=Air%20Conditioning%20Units%3CBR%3ERight%20Hand%20Drive|title=Products - VOLKSWAGEN|work=Alex Original ltd|publisher=Alex-Original.com|accessdate=4 November 2009}}</ref><ref>{{cite web|url=http://www.gates.com/europe/file_save_common.cfm?thispath=Europe%2Fdocuments_module&file=TB_020_addendum.pdf|title=TB 20 addendum - Technical Bulletin for Volkswagen Group timing belt renewal intervals|publisher=Gates.com|accessdate=4 November 2009}}</ref>
+
+{|class="wikitable" border="1"
+|-
+!engine<br />ID code(s)!![[engine displacement|displacement]]<br />([[litre]]s)!!{{nowrap|[[Deutsches Institut für Normung|DIN]] peak [[power (physics)|power]]}}!!max. [[torque]]!!notable<br />design features!!application(s)
+|-
+|AHB, AHG, AKU, AKW||1.7||{{convert|44|kW|PS bhp|0|abbr=on|lk=on}}||{{convert|115|Nm|0|abbr=on|lk=on}}|| ||[[Volkswagen Lupo]], [[Volkswagen Polo]] (some markets), [[Volkswagen Caddy]] type 9K
+|-
+|ASY, AEY||1.9||{{convert|47|kW|PS bhp|0|abbr=on}}||{{convert|125|Nm|0|abbr=on}}|| ||[[Volkswagen Polo Mk3]], [[Volkswagen Golf Mk3]], [[Volkswagen Caddy]] types 9U/9K, [[SEAT Inca]], [[Škoda Octavia]] (Mk1), [[Škoda Fabia]], [[Volkswagen Bora]] (some markets)
+|-
+|AGP, AQM||1.9||{{convert|50|kW|PS bhp|0|abbr=on}}||{{convert|133|Nm|0|abbr=on}}|| ||[[Volkswagen Polo Mk3]], [[Volkswagen Golf Mk4]], [[Volkswagen Caddy]] types 9U/9K, [[SEAT Inca]], [[Škoda Octavia]] (Mk1) [[Volkswagen Bora]] (some markets)
+|-
+|BDJ, BST||2.0||{{convert|51|kW|PS bhp|0|abbr=on}}||{{convert|140|Nm|0|abbr=on}}||[[Unit Injector|Pumpe Düse]] technology||[[Volkswagen Caddy]] type 2K
+|-
+|BDK||2.0||{{convert|55|kW|PS bhp|0|abbr=on}}||{{convert|140|Nm|0|abbr=on}}||Pumpe Düse technology||[[Volkswagen Golf Mk5]] 
+|-
+|AGX||2.5||{{convert|55|kW|PS bhp|0|abbr=on}}||{{convert|160|Nm|0|abbr=on}}||[[Straight-five engine]] configuration||[[Volkswagen LT|LT28 and LT35 vans]]
+|-
+|40-4, 50-4, 60-4<ref name=VW_Marine/>||1.9||{{convert|29|kW|PS bhp|0|abbr=on}} /<br />{{convert|37|kW|PS bhp|0|abbr=on}} /<br />{{convert|40|kW|PS bhp|0|abbr=on}}|| ||Optional connection for [[heater core]] or hot water preparation||[[Sailboats]]
+|-
+|55-5, 75-5<ref name=VW_Marine/>||2.5||{{convert|40|kW|PS bhp|0|abbr=on}} /<br />{{convert|55|kW|PS bhp|0|abbr=on}}|| || ||[[Yachts]]
+|}
+
+==See also==
+{{commons category|Volkswagen engines}}
+*[[list of Volkswagen Group petrol engines]]
+*[[list of Volkswagen Group diesel engines]]
+*[[list of discontinued Volkswagen Group petrol engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+*[[list of North American Volkswagen engines]]
+*[[Turbocharged Direct Injection]] (TDI)
+*[[BlueMotion]]
+*[[diesel engine]]
+*[[naturally aspirated]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.VolkswagenAG.com VolkswagenAG.com] Volkswagen Group corporate website
+
+{{Volkswagen Group brands}}
+
+[[Category:Volkswagen]]
+[[Category:Volkswagen engines]]
+[[Category:Engine fuel system technology]]
+[[Category:Diesel engines| ]]
+
+{{engineering-stub}}
+
+[[de:Saugdiesel]]
+[[pl:Suction Diesel Injection]]

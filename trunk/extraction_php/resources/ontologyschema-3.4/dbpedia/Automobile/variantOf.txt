@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label	= variant of
+|rdfs:domain	= Automobile
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = managing editor
+| rdfs:domain = Newspaper
+| rdfs:range = Person
+}}

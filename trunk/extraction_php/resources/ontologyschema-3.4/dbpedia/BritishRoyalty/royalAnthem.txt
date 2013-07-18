@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = royal anthem
+|rdfs:domain = BritishRoyalty
+|rdfs:range = owl:Thing
+}}

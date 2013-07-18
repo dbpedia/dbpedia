@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = ICD9
+|rdfs:domain = Disease
+|rdfs:range = xsd:string
+}}

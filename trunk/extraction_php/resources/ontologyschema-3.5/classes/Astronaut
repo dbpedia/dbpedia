@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Astronaut
+| rdfs:subClassOf = Person
+| specificProperties = {{SpecificProperty | ontologyProperty = timeInSpace | unit = minute }}
+}}

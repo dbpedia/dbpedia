@@ -1,0 +1,157 @@
+{{Infobox Automobile
+|name=BMW M30 engine
+|image=[[Image:Bmw-m30b35-right.jpg|250px]]
+|manufacturer=[[BMW]]
+|production=[[1968]]&ndash;[[1994]]
+|predecessor=
+|successor=[[BMW M60]] [[V8 engine|V8]]
+|class=[[Straight-6]]
+|engine=2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)<br>2.8&nbsp;L (2788&nbsp;cc/170&nbsp;in³)<br>3.0&nbsp;L (2986&nbsp;cc/182&nbsp;in³)<br>3.2&nbsp;L (3210&nbsp;cc/195&nbsp;in³)<br>3.4&nbsp;L (3430&nbsp;cc/209&nbsp;in³)
+}}
+The '''BMW M30''' is an [[inline-6]] cylinder engine built by [[BMW]] and was used in many different models since 1968.  It was originally developed in the late 1960s as an extended 2.5 liter version of the robust inline four cylinder [[BMW M10]] first used in the 'Neue Klasse' [[BMW 1500]], with which it shares a number of design features, including a 30-degree cant to the right for a lower profile, a crossflow head design, and a chain-driven single overhead cam with rocker arm valve actuation.  The 'Big Six,' also known as the 'Senior Six,' got its informal names after the introduction of a smaller [[BMW M20]] belt-driven SOHC six cylinder in the late '70s.
+
+The M30 powered a series of BMW 6-cylinder [[BMW E9|E9]] and [[BMW E24]] coupes to [[European Touring Car Championship]] (ETCC) throughout the '70s and into the middle 1980s, even though a more powerful DOHC 24-valve head had been developed for high performance motorsports and street use.
+
+A production turbo variant of the M30 designated the M102B32 or M106B34 (depending on 3.2 or 3.4 liter displacement) was used in the [[BMW E23]] Seven Series where it was designated "745i", based on a then-current projection that the horsepower produced was roughly equal to that of a 4.5 liter normally-aspirated engine. The 3.5 DOHC M5 and M6 engine was used in the South African 745i from 1984-1986.
+
+Newer M30 engines featured [[Robert Bosch GmbH|Bosch]] L-Jetronic [[Fuel_injection#Multi-point_fuel_injection|multipoint fuel injection]] and Motronic.
+
+BMW's M30 straight six cylinder engines had the longest production run of any BMW engine, dating back to the [[1968]] [[BMW E3|E3]] sedans and [[BMW E9|E9]] coupes.  The last use of the block was the [[1994]] [[BMW E32|E32]] [[BMW 7-Series|730i]].  Displacement ranged from 2.5 to 3.4 liters with a 100&nbsp;mm bore spacing.
+
+The M30 engine's bottom end is virtually 'bulletproof' and a true workhorse. The M30's timing chain is designed to last the life of the engine and it will, if the timing chain tensioner is maintained.  Unfortunately, over time and use, the plastic parts in it can fail but they are easily replaced.  The alloy head is prone to warping if the engine is overheated (especially around the somewhat restricted cooling system passages near the middle), but with regular cooling system maintenance, oil changes, and other routine maintenance, the M30 can routinely run well past 250,000 miles.
+
+== Known Problems <ref>http://www.bmwe34.net/Wiki/tiki-index.php?page=What+will+break</ref> ==
+
+''These problems may not necessarily apply to all versions of the M30 engine.''
+
+* An "oil spray bar" is mounted above the camshaft. This hollow metal tube has perforations on its underside that spray oil over the camshaft and rocker arms, but with time the two [[Banjo fitting|banjo bolts]] that hold the bar in place can loosen. As a result, oil passage through the spray bar will get restricted, and some of the camshaft and rocker arms may not get cooled and/or lubricated properly, leading to fatal wear.
+
+* On some models, the return valve in the oil filter housing fails with time, thus making oil run out after stopping the engine, instead of keeping it in the housing. While not a critical problem, it results in the engine needing up to five seconds to build up proper oil pressure upon engine start. BMW replaced the oil filter housing with a more durable valve around 1991.
+
+* While not a problem by design, the spacing between the valve rocker arms and the valves must be adjusted approximately every 30,000 km (20,000 miles). Failure to adjust might lead to poor running, increased fuel consumption, and engine wear.
+
+* The engine fan is mounted with a viscous coupling that expands when heated. As the engine becomes warm, the coupling gets a better grip on the fan, thus leading to increased rotation of the fan, and more airflow. If this viscous coupling fails, the fan will only rotate relatively slowly (as driven by the engine by a [[V-belt]]), and will not provide sufficient cooling, leading to overheating. Overheating can extremely quickly lead to engine failure, such as a destroyed headgasket or a warped or partly melted [[cylinder head]].
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power: kW (hp:BHP/PS) @ RPM!!Torque!!Redline!!CR!!Year
+|-
+|rowspan=1|[[#M30B25LE|M30B25LE]]||rowspan=1|2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)||110&nbsp;kW (147/150) @ 5500||215&nbsp;N·m (158&nbsp;ft·lbf) @ 4000|| ||9.6||1981
+|-
+|rowspan=1|[[#M30B28LE|M30B28LE]]||rowspan=2|2.8&nbsp;L (2788&nbsp;cc/170&nbsp;in³)||132 kW (174/177) @ 5800||240&nbsp;N·m (177&nbsp;ft·lbf) @ 4000|| ||9.3||1977
+|-
+|rowspan=1|[[#M30B28|M30B28]]||135&nbsp;kW (181/184) @ 5800||240&nbsp;N·m (177&nbsp;ft·lbf) @ 4200||6500 ||9.3||1979
+|-
+|rowspan=2|[[#M30B30|M30B30]]||rowspan=2|3.0&nbsp;L (2986&nbsp;cc/182&nbsp;in³)||135&nbsp;kW (181&nbsp;hp) @ 5800||255&nbsp;N·m (188&nbsp;ft·lbf) @ 3500|| || ||1976
+|-
+|140&nbsp;kW (188&nbsp;hp) @ 5800||260&nbsp;N·m (191&nbsp;ft·lbf) @ 4000||6200||9.0||1986
+|-
+|rowspan=1|[[#M30B32|M30B32]]||rowspan=3|3.2&nbsp;L (3210&nbsp;cc/195&nbsp;in³)||145&nbsp;kW (194&nbsp;hp) @ 5500||285&nbsp;N·m (210&nbsp;ft·lbf) @ 4300|| || ||1979
+|-
+|rowspan=1|[[#M30B32LAE|M30B32LAE]]||185&nbsp;kW (248&nbsp;hp) @ 5200||380&nbsp;N·m (280&nbsp;ft·lbf) @ 2600|| || ||1980
+|-
+|rowspan=1|[[#M30B32LE|M30B32LE]]||145&nbsp;kW (194&nbsp;hp) @ 5500||280&nbsp;N·m (206&nbsp;ft·lbf) @ 4300|| || ||1976
+|-
+|rowspan=1|[[#M30B34|M30B34]]||rowspan=5|3.4&nbsp;L (3430&nbsp;cc/209&nbsp;in³)||155&nbsp;kW (207/211hp) @ 5700||305&nbsp;N·m (224&nbsp;ft·lbf) @ 4000||6200||8.0 ||1986
+|-
+|rowspan=2|[[#M30B34M|M30B34M]]||136&nbsp;kW (182/185) @ 5400||290&nbsp;N·m (213&nbsp;ft·lbf) @ 4000|| ||8.0||1984
+|-
+|160&nbsp;kW (214/218) @ 5500||310&nbsp;N·m (228&nbsp;ft·lbf) @ 4000|| ||10.0||1982
+|-
+|rowspan=1|[[#M30B34MAE|M30B34MAE]]||185&nbsp;kW (248&nbsp;hp) @ 4900||380&nbsp;N·m (280&nbsp;ft·lbf) @ 2200|| || ||1982
+|-
+|rowspan=1|[[#M30B35|M30B35]]||155&nbsp;kW (211PS) @ 5700||305&nbsp;N·m (225&nbsp;ft·lbf) @ 4000||6200|| 9.0||1988
+|}
+
+==M30B25V==
+
+Applications:
+* 1973-1976 [[BMW E12|E12]] 525
+* 1976-1981 E12 525
+
+
+==M30B25==
+
+Applications:
+* 1981-1987 [[BMW E28|E28]] 525i
+
+
+==M30B28==
+
+2.8&nbsp;L (2788&nbsp;cc) 
+Applications:
+* 1979-1987 [[BMW E24|E24]] [[BMW 6-Series|628CSi]]
+* 04/1981-12/1987 [[BMW E28|E28]] [[BMW 5-Series|528i]]
+
+==M30B30==
+
+Introduced in [[1986]] with the [[BMW E32|E32]], the 3.0 L (2986 cc) '''M30B30''' produced 185 hp. The engine continued in production until [[1994]].
+
+Applications:
+* 1986-1994 [[BMW E32|E32]] [[BMW 7-Series|7-Series]]
+* 1988-1993 [[BMW E34|E34]] [[BMW 5-Series|5-Series]]
+
+3.0&nbsp;L (2986&nbsp;cc) Applications:
+* 1976-1979 [[BMW E24|E24]] [[BMW 6-Series|630CS]]
+
+==M30B32==
+3.2&nbsp;L (3210&nbsp;cc) Applications:
+* 1976-1984 [[BMW E24|E24]] [[BMW 6-Series|633CSi]]
+
+
+==M30B34==
+
+3.4&nbsp;L
+* 8.0:1 [[compression ratio]]
+
+Applications:
+* 1985-1988 [[BMW E28|E28]] [[BMW 5-Series|5-Series]]
+* 1985-1987 [[BMW E24|E24]] [[BMW 6-Series|6-Series]]
+* 1985-1987 [[BMW E23|E23]] [[BMW 7-Series|7-Series]]
+
+3.4&nbsp;L (3430&nbsp;cc)
+Applications:
+* 1983-1993 Europe
+* 1985-1993 US
+
+==M30B35==
+
+* 3.4 liter (3430 cc) SOHC inline-6 cylinder
+* 9.0:1 [[compression ratio]]
+* 208 hp @ 5700 rpm
+* 225 ft·lbf torque @ 4000 rpm 
+* 87 AKI / 91 RON octane fuel or better recommended
+
+Applications:
+* 1988-1989 [[BMW E24|E24]] [[BMW 6-Series|635CSi]]
+* 1988-1993 [[BMW E34|E34]] [[BMW 5-Series|535i]]
+* 1988-1992 [[BMW E32|E32]] [[BMW 7-Series|735i]]
+
+3.5&nbsp;L  M90 (3453&nbsp;cc) Applications:
+* 1978-1983 [[BMW E24|E24]] [[BMW 6-Series|635CSi]]
+* 1980-1981 [[BMW E12|E12]] [[BMW 5-Series|M535i]]
+
+==See also==
+
+*[[BMW M10]] - 4-cylinder engine M30 was based on.
+*[[BMW M20]] - 6-cylinder "little six" engine.
+
+==References==
+
+{{reflist}}
+
+== External links ==
+
+*[http://www.bmwinformation.com/engines/straight6_m.html BMW Engines - Straight6_m]
+*[http://www.vrchlabi.cz/e30/ruzne/enginenumber/ BMW Engine Numbers]
+*[http://www.unixnerd.demon.co.uk/enumber.html BMW E Numbers List]
+
+[[Category:BMW engines|M30]]
+
+[[de:BMW M30]]
+[[it:BMW M30]]
+[[no:BMW M30]]
+[[pl:BMW M30]]
+[[ru:BMW M30]]

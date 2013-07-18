@@ -1,0 +1,16 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = ProtectedArea
+| mappings =
+	{{PropertyMapping | templateProperty = iucn_category | ontologyProperty = iucnCategory }}
+	{{PropertyMapping | templateProperty = visitation_num | ontologyProperty = numberOfVisitors }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = nearest_city | ontologyProperty = nearestCity }}
+	{{GeocoordinatesMapping | coordinates = coords }}
+	{{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = Area }}
+	{{PropertyMapping | templateProperty = nearest_town_or_city | ontologyProperty = nearestCity }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = official_site | ontologyProperty = foaf:homepage }}
+	{{GeocoordinatesMapping | latitudeDegrees = lat_degrees  | latitudeMinutes = lat_minutes  | latitudeSeconds = lat_seconds  | latitudeDirection = lat_direction  | longitudeDegrees = long_degrees  | longitudeMinutes = long_minutes  | longitudeSeconds = long_seconds  | longitudeDirection = long_direction }}
+</textarea>

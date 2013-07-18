@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/images.txt> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/en/thumb/4/44/Microsoft_logo.svg/200px-Microsoft_logo.svg.png> .
+<http://dbpedia.org/resource/images.txt> <http://xmlns.com/foaf/0.1/img> <http://upload.wikimedia.org/wikipedia/en/4/44/Microsoft_logo.svg> .

@@ -1,0 +1,7 @@
+{{Class
+| rdfs:label = Protected Area
+| rdfs:subClassOf = Place
+| specificProperties = {{SpecificProperty | ontologyProperty = highestElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = managementElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = lowestElevation | unit = metre }}
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = PubChem
+| rdfs:domain = Drug
+| rdfs:range = xsd:string
+}}

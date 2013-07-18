@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" xmlns:fc="http://www.adobe.com/2006/fc" 
+	layout="absolute" width="100%" height="100%" viewSourceURL="srcview/index.html">
+	
+	<!--
+	////////////////////////////////////////////////////////////////////////////////
+	//
+	//  Copyright (C) 2006 Adobe Macromedia Software LLC and its licensors.
+	//  All Rights Reserved. The following is Source Code and is subject to all
+	//  restrictions on such code as contained in the End User License Agreement
+	//  accompanying this product.
+	//
+	////////////////////////////////////////////////////////////////////////////////
+	-->
+	
+	<!-- SpringGraphDemo.mxml is the main application file. -->
+	
+	<mx:Script>
+		<![CDATA[
+			import com.adobe.flex.extras.controls.springgraph.Item;
+			import com.adobe.flex.extras.controls.springgraph.Graph;
+
+			private var g: Graph = new Graph();
+			private var prevItem: Item;
+			private var itemCount: int = 0;
+
+			private function newItem(): void {
+				var item: Item = new Item(new Number(++itemCount).toString());
+				g.add(item);
+				if(prevItem != null)
+					g.link(item, prevItem);
+				prevItem = item;
+				s.dataProvider = g;
+			}	
+			
+			private function linkItems(fromId: String, toId: String): void {
+				var fromItem: Item = g.find(fromId);
+				var toItem: Item = g.find(toId);
+				g.link(fromItem, toItem);
+				s.dataProvider = g;
+			}		
+			
+			private function unlinkItems(fromId: String, toId: String): void {
+				var fromItem: Item = g.find(fromId);
+				var toItem: Item = g.find(toId);
+				g.unlink(fromItem, toItem);
+				s.dataProvider = g;
+			}		
+		]]>
+	</mx:Script>
+
+	<mx:Text fontSize="9"
+		htmlText="&lt;a href=&quot;http://mark-shepherd.com&quot;&gt;mark-shepherd.com&lt;/a&gt;" y="31" fontWeight="bold" textAlign="right" right="11" width="114"/>
+	<mx:Button click="newItem()" x="29" y="18" label="New item"/>
+	<mx:HSlider id="repulsionSlider" x="462" y="61" value="0.5" minimum="0.02" maximum="1.5" change="s.refresh()" liveDragging="true" width="147"/>
+	<mx:Label x="365" y="65" text="Repulsion"/>
+	<mx:Button x="30" y="51" label="Link item" click="linkItems(linkFrom.text, linkTo.text)"/>
+	<mx:TextInput x="136" y="51" width="42" text="1" id="linkFrom"/>
+	<mx:TextInput x="242" y="51" width="42" text="3" id="linkTo"/>
+	<mx:Label x="181" y="53" text="to item"/>
+	<mx:Button x="30" y="86" label="Unlink item" click="unlinkItems(unlinkFrom.text, unlinkTo.text)"/>
+	<mx:TextInput x="136" y="86" width="42" text="1" id="unlinkFrom"/>
+	<mx:TextInput x="242" y="86" width="42" text="3" id="unlinkTo"/>
+	<mx:Label x="180" y="88" text="from item"/>
+	<mx:Label y="6" text="SpringGraph Component Tester" right="10" fontSize="18"/>
+	<mx:HSlider id="fontSizeSlider" x="462" y="83" value="32" minimum="10" maximum="100" change="s.refresh()" liveDragging="true" width="147"/>
+	<mx:Label x="365" y="87" text="Font Size"/>
+
+	<fc:SpringGraph id="s" backgroundColor="#777777" 
+		lineColor="#6666ff" repulsionFactor="{repulsionSlider.value}" left="10" right="10" top="124" bottom="10">
+		<fc:itemRenderer>
+			<mx:Component>
+				<mx:VBox backgroundAlpha="0.3" backgroundColor="0x444444"
+					paddingBottom="5" paddingLeft="5" paddingRight="5" paddingTop="5">
+					<mx:Label text="{data.id}" fontSize="{outerDocument.fontSizeSlider.value}" color="0xffffff"
+						textAlign="center"/>					
+				</mx:VBox>
+			</mx:Component>
+		</fc:itemRenderer>
+	</fc:SpringGraph>
+</mx:Application>

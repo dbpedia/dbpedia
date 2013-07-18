@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = highest elevation
+| rdfs:range = Length
+}}

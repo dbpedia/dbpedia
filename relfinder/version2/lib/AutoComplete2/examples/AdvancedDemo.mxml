@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:hc="com.hillelcoren.components.*"
+	xmlns:classes="com.hillelcoren.components.autoComplete.classes.*"
+	xmlns:local="*"
+	width="100%" height="100%" color="#000000"
+	verticalAlign="top" horizontalAlign="left" 
+	paddingLeft="20" paddingTop="15" paddingBottom="20" paddingRight="20"
+	initialize="init()">	
+
+	<mx:Script>
+		<![CDATA[
+			import mx.events.MenuEvent;
+			import com.hillelcoren.components.AutoComplete;
+			import mx.core.Application;
+			import mx.core.UIComponent;
+			import mx.collections.ArrayCollection;
+
+			[Bindable]
+			public var colors:ArrayCollection;
+
+			private function init():void
+			{
+				colors = new ArrayCollection(
+				[
+					{ "name":"Almond", "hex":"#EED9C4" },
+					{ "name":"Antique Brass", "hex":"#C88A65" },
+					{ "name":"Apricot", "hex":"#FDD5B1" },
+					{ "name":"Aquamarine", "hex":"#71D9E2" },
+					{ "name":"Asparagus", "hex":"#7BA05B" },
+					{ "name":"Atomic Tangerine", "hex":"#FF9966" },
+					{ "name":"Awesome", "hex":"#FF2052" },
+					{ "name":"Banana Mania", "hex":"#FBE7B2" },
+					{ "name":"Beaver", "hex":"#926F5B" },
+					{ "name":"Bear Hug", "hex":"#6B655A" },
+					{ "name":"Best Friends", "hex":"#D600FF" },
+					{ "name":"Bittersweet", "hex":"#FE6F5E" },
+					{ "name":"Black", "hex":"#000000" },
+					{ "name":"Blizzard Blue", "hex":"#A3E3ED" },
+					{ "name":"Blue", "hex":"#0066FF" },
+					{ "name":"Blue Bell", "hex":"#9999CC" },
+					{ "name":"Blue Gray", "hex":"#333366" },
+					{ "name":"Blue Green", "hex":"#0095B6" },
+					{ "name":"Blue Violet", "hex":"#6456B7" },
+					{ "name":"Brick Red", "hex":"#C62D42" },
+					{ "name":"Brink Pink", "hex":"#FB607F" },
+					{ "name":"Brown", "hex":"#AF593E" },
+					{ "name":"Burnt Orange", "hex":"#FF7034" },
+					{ "name":"Burnt Sienna", "hex":"#E97451" },
+					{ "name":"Cadet Blue", "hex":"#A9B2C3" },
+					{ "name":"Canary", "hex":"#FFFF99" },
+					{ "name":"Caribbean Green", "hex":"#00CC99" },
+					{ "name":"Carnation Pink", "hex":"#FFA6C9" },
+					{ "name":"Cerise", "hex":"#DA3287" },
+					{ "name":"Cerulean", "hex":"#02A4D3" },
+					{ "name":"Chartreuse", "hex":"#7FFF00" },
+					{ "name":"Chestnut", "hex":"#B94E48" },
+					{ "name":"Copper", "hex":"#DA8A67" },
+					{ "name":"Cornflower", "hex":"#93CCEA" },
+					{ "name":"Cotton Candy", "hex":"#FFB7D5" },
+					{ "name":"Cranberry", "hex":"#DB5079" },
+					{ "name":"Dandelion", "hex":"#FED85D" },
+					{ "name":"Denim", "hex":"#1560BD" },
+					{ "name":"Dark Gray", "hex":"#4A4340" },
+					{ "name":"Desert Sand", "hex":"#EDC9AF" },
+					{ "name":"Eggplant", "hex":"#614051" },
+					{ "name":"Electric Lime", "hex":"#CCFF00" },
+					{ "name":"Famous", "hex":"#E72094" },
+					{ "name":"Fern", "hex":"#63B76C" },
+					{ "name":"Flesh", "hex":"#FFCBA4" },
+					{ "name":"Forest Green", "hex":"#5FA777" },
+					{ "name":"Fuchsia", "hex":"#C154C1" },
+					{ "name":"Fun in the Sun", "hex":"#FF5500" },
+					{ "name":"Fuzzy Wuzzy Brown", "hex":"#C45655" },
+					{ "name":"Giving Tree", "hex":"#21E339" },
+					{ "name":"Gold", "hex":"#E6BE8A" },
+					{ "name":"Goldenrod", "hex":"#FCD667" },
+					{ "name":"Granny Smith Apple", "hex":"#9DE093" },
+					{ "name":"Gray", "hex":"#8B8680" },
+					{ "name":"Green", "hex":"#01A368" },
+					{ "name":"Green Yellow", "hex":"#F1E788" },
+					{ "name":"Happy Ever After", "hex":"#218EB5" },
+					{ "name":"Hot Magenta", "hex":"#FF00CC" },
+					{ "name":"Inch Worm", "hex":"#B0E313" },
+					{ "name":"Indian Red", "hex":"#B94E48" },
+					{ "name":"Indigo", "hex":"#4F69C6" },
+					{ "name":"Jazzberry Jam", "hex":"#A50B5E" },
+					{ "name":"Jungle Green", "hex":"#29AB87" },
+					{ "name":"Laser Lemon", "hex":"#FFFF66" },
+					{ "name":"Lavender", "hex":"#FBAED2" },
+					{ "name":"Macaroni and Cheese", "hex":"#FFB97B" },
+					{ "name":"Magenta", "hex":"#F653A6" },
+					{ "name":"Magic Mint", "hex":"#AAF0D1" },
+					{ "name":"Mahogany", "hex":"#CA3435" },
+					{ "name":"Maize", "hex":"#FFCC00" },
+					{ "name":"Manatee", "hex":"#8D90A1" },
+					{ "name":"Mango Tango", "hex":"#E77200" },
+					{ "name":"Maroon", "hex":"#C32148" },
+					{ "name":"Mauvelous", "hex":"#F091A9" },
+					{ "name":"Melon", "hex":"#FEBAAD" },
+					{ "name":"Midnight Blue", "hex":"#003366" },
+					{ "name":"Mountain Meadow", "hex":"#1AB385" },
+					{ "name":"Mulberry", "hex":"#C54B8C" },
+					{ "name":"Navy Blue", "hex":"#0066CC" },
+					{ "name":"Neon Carrot", "hex":"#FF9933" },
+					{ "name":"Olive Green", "hex":"#B5B35C" },
+					{ "name":"Orange", "hex":"#FF681F" },
+					{ "name":"Orchid", "hex":"#E29CD2" },
+					{ "name":"Outer Space", "hex":"#2D383A" },
+					{ "name":"Outrageous Orange", "hex":"#FF6037" },
+					{ "name":"Pacific Blue", "hex":"#009DC4" },
+					{ "name":"Peach", "hex":"#FFCBA4" },
+					{ "name":"Periwinkle", "hex":"#C3CDE6" },
+					{ "name":"Pig Pink", "hex":"#FDD7E4" },
+					{ "name":"Pine Green", "hex":"#01796F" },
+					{ "name":"Pink Flamingo", "hex":"#FF66FF" },
+					{ "name":"Plum", "hex":"#843179" },
+					{ "name":"Prussian Blue", "hex":"#003366" },
+					{ "name":"Purple Heart", "hex":"#652DC1" },
+					{ "name":"Purple Mountain's Majesty", "hex":"#9678B6" },
+					{ "name":"Purple Pizzazz", "hex":"#FF00CC" },
+					{ "name":"Radical Red", "hex":"#FF355E" },
+					{ "name":"Raw Sienna", "hex":"#D27D46" },
+					{ "name":"Raw Goggin", "hex":"#FF355F" },
+					{ "name":"Razzle Dazzle Rose", "hex":"#FF33CC" },
+					{ "name":"Razzmatazz", "hex":"#E30B5C" },
+					{ "name":"Red", "hex":"#ED0A3F" },
+					{ "name":"Red Orange", "hex":"#FF3F34" },
+					{ "name":"Red Violet", "hex":"#BB3385" },
+					{ "name":"Robin's Egg Blue", "hex":"#00CCCC" },
+					{ "name":"Royal Purple", "hex":"#6B3FA0" },
+					{ "name":"Salmon", "hex":"#FF91A4" },
+					{ "name":"Scarlet", "hex":"#FD0E35" },
+					{ "name":"Screamin' Green", "hex":"#66FF66" },
+					{ "name":"Sea Green", "hex":"#93DFB8" },
+					{ "name":"Sepia", "hex":"#9E5B40" },
+					{ "name":"Shadow", "hex":"#837050" },
+					{ "name":"Shamrock", "hex":"#33CC99" },
+					{ "name":"Shocking Pink", "hex":"#FF6FFF" },
+					{ "name":"Silver", "hex":"#C9C0BB" },
+					{ "name":"Sky Blue", "hex":"#76D7EA" },
+					{ "name":"Spring Green", "hex":"#ECEBBD" },
+					{ "name":"Sunglow", "hex":"#FFCC33" },
+					{ "name":"Sunset Orange", "hex":"#FE4C40" },
+					{ "name":"Super Happy", "hex":"#FFFF21" },
+					{ "name":"Tan", "hex":"#FA9D5A" },
+					{ "name":"Tickle Me Pink", "hex":"#FC80A5" },
+					{ "name":"Timberwolf", "hex":"#D9D6CF" },
+					{ "name":"Torch Red", "hex":"#FD0E35" },
+					{ "name":"Tropical Rain Forest", "hex":"#00755E" },
+					{ "name":"Tumbleweed", "hex":"#DEA681" },
+					{ "name":"Turquoise Blue", "hex":"#6CDAE7" },
+					{ "name":"Ultra Green", "hex":"#66FF66" },
+					{ "name":"Ultra Orange", "hex":"#FF6037" },
+					{ "name":"Ultra Pink", "hex":"#FF6FFF" },
+					{ "name":"Ultra Red", "hex":"#FD5B78" },
+					{ "name":"Ultra Yellow", "hex":"#FFFF66" },
+					{ "name":"Unmellow Yellow", "hex":"#FFFF66" },
+					{ "name":"Violet (Purple)", "hex":"#8359A3" },
+					{ "name":"Violet Red", "hex":"#F7468A" },
+					{ "name":"Vivid Tangerine", "hex":"#FF9980" },
+					{ "name":"Vivid Violet", "hex":"#803790" },
+					{ "name":"White", "hex":"#FFFFFF" },
+					{ "name":"Wild Blue Yonder", "hex":"#7A89B8" },
+					{ "name":"Wild Strawberry", "hex":"#FF3399" },
+					{ "name":"Wild Watermelon", "hex":"#FD5B78" },
+					{ "name":"Wisteria", "hex":"#C9A0DC" },
+					{ "name":"Yellow", "hex":"#FBE870" },
+					{ "name":"Yellow Green", "hex":"#C5E17A" },
+					{ "name":"Yellow Orange", "hex":"#FFAE42" }
+				] );
+			}			
+			
+			private function handleAutoCompleteChange():void
+			{
+				var color:Object = autoComplete.selectedItem;
+				
+				if (color != null && color.hasOwnProperty( "hex" ))
+				{
+					Application.application.setStyle( "backgroundColor", color.hex );
+				}
+			}			
+
+			private function handleEnableMenuClick():void
+			{
+				autoComplete.actionsMenuDataProvider = enableMenu.selected ? menuData : null;
+			}
+			
+			private function handleItemClick( event:MenuEvent ):void
+			{
+				switch (String(event.item.@data))
+				{
+					case "browse":
+						autoComplete.showBrowser();
+						break;
+					case "remove":
+						autoComplete.selectedItems.removeAll();
+						break;		
+				}
+			}
+			
+		]]>
+	</mx:Script>
+	
+	<mx:Component id="dropDownItemRenderer">
+		<local:ColorItemRenderer selectedItems="{ outerDocument.autoComplete.selectedItems }" />
+	</mx:Component>
+
+    <mx:XML format="e4x" id="menuData">
+		<root>
+			<menuitem data="browse" label="Browse..."/>
+			<menuitem data="remove" label="Remove All"/>
+		</root>
+	</mx:XML>
+
+	<mx:VBox horizontalAlign="left">
+		<mx:CheckBox id="enableMenu" label="Enable Actions Menu" selected="true" click="handleEnableMenuClick()"/>
+		<mx:CheckBox id="showBrowse" label="Show Browse Button"/>
+		<mx:CheckBox id="showRemove" label="Show Remove Button" selected="true"/>
+		<mx:CheckBox id="showOrder" label="Show Order Buttons"/>
+		<mx:CheckBox id="useListBuilder" label="Use List Builder" enabled="{ showBrowse.selected || enableMenu.selected }"/>
+	</mx:VBox>
+	<mx:Spacer width="100%"/>
+	<hc:AdvancedAutoComplete id="autoComplete" dataProvider="{ colors }" labelField="name"
+		width="300" useListBuilder="{ useListBuilder.selected }" matchType="anyPart"
+		showBrowseButton="{ showBrowse.selected }" showOrderButtons="{ showOrder.selected }"
+		allowMultipleSelection="true" selectionLayout="vertical" change="handleAutoCompleteChange()"
+		dropDownItemRenderer="{ dropDownItemRenderer }" itemClick="handleItemClick(event)"
+		actionsMenuDataProvider="{ menuData }" showRemoveButton="{ showRemove.selected }"/> 
+	<mx:Spacer width="100%"/>
+	
+</mx:HBox>

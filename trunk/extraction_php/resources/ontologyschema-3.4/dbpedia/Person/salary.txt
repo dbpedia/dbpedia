@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= salary
+|rdfs:domain	= Person
+|rdfs:range		= Currency
+}}

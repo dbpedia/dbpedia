@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = house
+| rdfs:domain = Legislature
+| rdfs:range = Legislature
+}}

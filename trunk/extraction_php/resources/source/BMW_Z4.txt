@@ -1,0 +1,123 @@
+{{Infobox Automobile
+|image=[[Image:BMW Z4 2009 NY 2.jpg|250px|2nd-gen BMW Z4 roadster]]
+|name         = BMW Z4
+|manufacturer = [[BMW]]
+|Class = [[Luxury Sports Car]]
+|production   = 2002-present
+|predecessor  = [[BMW Z3]]
+}}
+
+The '''BMW Z4''' is a [[rear-wheel drive]] [[sports car]] by the [[Germany|German]] [[Car maker]] [[BMW]]. If follows a line of past BMW roadsters such as the [[BMW Z1]], [[BMW 507]], and the [[BMW Z3]]. The Z4 replaces the [[BMW Z3|Z3]]. First generation production started in 2002 at BMW's [[Spartanburg, South Carolina]] plant, with production of both roadster and coupe forms. When debuted, it won [[Automobile Magazine]] "Design of the Year Award". Starting with the 2009 model year, the second-generation Z4 is built at BMW's [[Regensburg, Germany]] plant as a retractable hardtop roadster. In 2009, the BMW Z4 won the [[Red Dot Design Award]].
+
+==First generation (E85)==
+{{Infobox Automobile generation
+| name           = BMW Z4 (E85)
+| image          = [[Image:bmwz4.JPG|250px|2003 BMW Z4 roadster]]
+| manufacturer   = [[BMW]]
+| aka            = Land Shark
+| production     = 2002-2008
+| assembly       = [[Spartanburg, South Carolina|Spartanburg]], [[United States]]
+| class          = [[Luxury Car]]-[[Sports Car]]-[[Roadster]]
+| body_style     = 2-door [[roadster]]<br>2-door [[coupé]]
+| layout         = [[FMR layout]]
+| platform       = 
+| engine         = 2.0&nbsp;L [[BMW N46#N46B20|N46B20]] [[Straight-4|I4]]<br>2.2&nbsp;L [[BMW M54#M54B22|M54B22]] [[I6]]<br>2.5&nbsp;L [[BMW M54#M54B25|M54B25]] [[I6]]<br>3.0&nbsp;L [[BMW M54#M54B30|M54B30]] [[I6]]<br>3.0&nbsp;L [[BMW N52#N52B30|N52B30]] [[I6]]<br>
+3.2&nbsp;L [[BMW M50#S54B32|S54B32]] [[I6]]
+| transmission   = 5/6 speed [[manual transmission|manual]]<br>5/6 speed [[automatic transmission|automatic]]
+| wheelbase      = {{convert|2495|mm|in|1|abbr=on}}
+| length         = {{convert|4090|mm|in|1|abbr=on}}
+| width          = {{convert|1780|mm|in|1|abbr=on}}
+| height         = {{convert|1300|mm|in|1|abbr=on}} (roadster)<br>{{convert|1285|mm|in|1|abbr=on}} (coupe)
+| weight         = 
+| fuel_capacity  = {{convert|55|L|USgal impgal|1|abbr=on}}
+| related        = 
+| designer       = 
+| sp             = uk
+}}
+
+{{main|BMW E85}}
+The first-generation BMW Z4 was designated the E85 in [[roadster]] form and E86 in [[coupé]] form. It was designed by [[Denmark|Danish]] BMW-designer [[Anders Warming]].<ref>{{cite web|url=http://www.autofieldguide.com/articles/120201.html|title=Design to Reality: the Z4 Roadster|publisher=AutoFieldGuide}}</ref>
+
+From 2006 the Z4 Roadster is available as a 3.0i (3.0 L I6 with 215&nbsp;hp), a 3.0si available with the new generation 3.0 L I6 with {{convert|255|hp|kW|0|abbr=on}} , a 2.5si with a 2.5 I6 with {{convert|218|bhp|kW PS|0|abbr=on}} or a 2.0i with a  {{convert|150|bhp|kW PS|0|abbr=on}} 2.0 L I4.  The Z4 coupé is available only in the high-performance 3.0si trim powered by the 3.0 L {{convert|255|hp|kW|0|abbr=on}}  I6. The Z4 (E85 Roadster/E86 Coupe) was built at the [[BMW Manufacturing Co. Spartanburg|Spartanburg plant]]. 
+{{-}}
+
+==Second generation (E89)==
+{{Infobox Automobile generation
+| name           = BMW Z4 (E89)
+| image          = [[File:2009 BMW Z4--DC.jpg|250px|2009 BMW Z4 (US)]]
+| manufacturer   = [[BMW]]
+| aka            = 
+| production     = 2009-present
+| assembly       = [[Regensburg]], [[Bavaria]], [[Germany]]
+| class          = [[Luxury car]]
+| body_style     = 2-door [[roadster]]
+| layout         = [[FMR layout]]
+| platform       = 
+| engine         = {{convert|2497|cc|cuin|abbr=on}} [[BMW N52#N52B25|N52B25]] [[straight 6|I6]]<br>{{convert|2996|cc|cuin|abbr=on}} [[BMW N52#N52B30|N52B30]] [[straight 6|I6]]<br>{{convert|2979|cc|cuin|abbr=on}} [[BMW N54|N54B30]] twin-turbocharged [[straight 6|I6]]
+| transmission   = 6 speed manual<br>6 speed automatic<br>7 speed automatic
+| wheelbase      = {{convert|2496|mm|in|1|abbr=on}}
+| length         = {{convert|4239|mm|in|1|abbr=on}}
+| width          = {{convert|1790|mm|in|1|abbr=on}}
+| height         = {{convert|1291|mm|in|1|abbr=on}}
+| weight         = {{convert|1470|kg|lb|0|abbr=on}} (sDrive30i manual)<br>{{convert|1500|kg|lb|0|abbr=on}} (sDrive30i auto)<br>{{convert|1565|kg|lb|0|abbr=on}} (sDrive35i manual)<br>{{convert|1585|kg|lb|0|abbr=on}} (sDrive35i auto)
+| fuel_capacity  = {{convert|55|L|USgal impgal|1|abbr=on}}
+| related        = 
+| designer       = 
+| sp             = us
+}}
+{{Main|BMW E89}}
+The vehicle was originally announced in 2008-12-13.<ref name="2009pressrelease">{{cite web |url=http://www.autospies.com/images/users/Agent001/2009_Z4_Roadster_Release.pdf |title=U.S Press Information: 2009 Z4 Roadster |accessdate=2008-12-14 |date=2008-12-13 |format=PDF |work=BMW |pages=17 }}</ref><ref name="2009AS">{{cite web |url=http://www.autospies.com/news/2009-BMW-Z4-Review-The-New-Landshark-has-landed-38854/ |title=2009 BMW Z4 Review: The New Landshark has landed  |accessdate=2008-12-14 |date=2008-12-14 |work=Autospies.com |publisher= }}</ref><ref name="2009JP">{{cite web |url=http://jalopnik.com/5109485/2009-bmw-z4-hairdressers-rejoice |title=2009 BMW Z4: Hairdressers Rejoice! |accessdate=2008-12-14 |date=2008-12-14 |work=[[Jalopnik]] |publisher=[[Gawker Media]] }}</ref>. The vehicle was unveiled in 2009 [[North American International Auto Show]].<ref>[http://www.autoblog.com/2009/01/11/detroit-2009-bmw-pulls-the-cover-off-the-new-z4/ Detroit 2009: BMW pulls the cover off the new Z4]</ref> This time a coupé-convertible with folding hardtop, the Z4 (E89) will be built in Regensburg alongside the (E93) 3-Series Cabrio.
+
+===Z4M===
+{{main|BMW Z4M}}
+The Z4 M is powered a slightly detuned 3.2-litre BMW M3(E46) straight-six engine. Performance figures are: 3,246 cc displacement, {{convert|330|bhp|kW PS|0|abbr=on}} at 7,900 rpm, {{convert|262|lbft|Nm|abbr=on}} of torque at 4,900 rpm, 8,000 rpm [[redline]].
+Output per litre is {{convert|103|bhp|kW PS|0|abbr=on}} , and power-to-weight ratio is 9.9&nbsp;lb/bhp. Acceleration to {{convert|60|mi/h|km/h|-1|abbr=on}} comes in 4.8 seconds and top speed is limited electronically to {{convert|155|mi/h|km/h|0|abbr=on}}.	
+{{-}}
+
+==References==
+{{reflist|2}}
+{{refbegin}}
+*{{cite web|url=http://www.worldcarfans.com/9081213.013/more-scans-reveal-bmw-z4-from-all-angles|title=More Scans Reveal BMW Z4 from All Angles|publisher=World Car Fans}}
+*{{cite web|url=http://www.motorauthority.com/bmw-unveils-2010-z4-roadster-ahead-of-detroit-auto-show-debut.html|title=BMW unveils 2010 Z4 roadster ahead of Detroit Auto Show debut|publisher=Motor Authority}}
+*{{cite web|url=http://www.jbcarpages.com/bmw/z4/|title=BMW Z4 Reviews & Specs|publisher=JB car pages}}
+*{{cite web|url=http://jalopnik.com/5109314/2010-bmw-z4-brochure-scans-leak|title=2010 BMW Z4 Brochure Scans Leak|publisher=Jalopnik}}
+*{{cite web|url=http://www.autoblog.com/2008/12/13/officially-official-2010-bmw-z4/|title=Officially Official: 2010 BMW Z4|publisher=Autoblog}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+*Official BMW Z4 sites for [http://www.bmw.com/generic/com/en/products/automobiles/showroom/z4/z4/index.html global], [http://www.bmwusa.com/Standard/Content/Vehicles/2008/z4/Z4Roadster30i/default.aspx USA], [http://www.bmw.co.uk/bmwuk/index/0,5140,1156_1531__bs-WjQ%253D%2540bb-RTg1X1JP,00.html UK], and [http://www.bmw.co.za/z4_coupe/index.htm South Africa]
+*[http://www.motorportal.com/BMW%20news/bmw_z4.htm 2009 BMW Z4 Press Release]
+*[http://www.autotrader.co.uk/EDITORIAL/CARS/FEATURES/42489.html BMW Z4 Review]
+{{BMW cars|image=[[Image:BMW Logo.svg|100px|BMW logo]]}}
+*[http://autos.maxabout.com/cvid1405/bmw-z4 BMW Z4 India]
+
+{{DEFAULTSORT:Bmw Z4}}
+[[Category:BMW vehicles|Z4]]
+[[Category:2000s automobiles]]
+[[Category:Convertibles]]
+[[Category:Coupes]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Roadsters]]
+[[Category:Sports cars]]
+[[Category:Vehicles introduced in 2002]]
+[[Category:Euro NCAP roadster sports cars]]
+[[Category:Motor vehicles manufactured in the United States]]
+
+[[ca:BMW Z4]]
+[[de:BMW Z4]]
+[[es:BMW Z4]]
+[[fr:BMW Z4 (E85)]]
+[[hr:BMW Z4]]
+[[id:BMW Z4]]
+[[it:BMW Z4]]
+[[lt:BMW Z4]]
+[[nl:BMW Z4]]
+[[ja:BMW・Z4]]
+[[no:BMW Z4]]
+[[pl:BMW Z4]]
+[[pt:BMW E85]]
+[[fi:BMW Z4]]
+[[sv:BMW Z4]]
+[[uk:BMW Z4]]
+[[zh:宝马Z4]]

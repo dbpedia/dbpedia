@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= production end year
+|rdfs:domain	= Device
+|rdfs:range		= xsd:gYear
+}}

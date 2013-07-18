@@ -1,0 +1,19 @@
+{{TemplateMapping
+| mapToClass = Astronaut
+| mappings = 
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = time | ontologyProperty = timeInSpace | unit = Time }}
+	{{PropertyMapping | templateProperty = selection | ontologyProperty = selection }}
+	{{PropertyMapping | templateProperty = mission | ontologyProperty = mission }}
+	{{PropertyMapping | templateProperty = Dateofret | ontologyProperty = retired }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = date_birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = place_birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = date_death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = place_death | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	{{PropertyMapping | templateProperty = current_occupation | ontologyProperty = occupation }}
+	{{PropertyMapping | templateProperty = previous_occupation | ontologyProperty = occupation }}
+}}

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><article><name>Danish_Kaneria</name><snippet><id>0</id><patternClass>PlainProperty</patternClass><source> |          playername = Danish Kaneria</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Danish Kaneria&quot;@en .</triple></snippet><snippet><id>1</id><patternClass>PlainProperty</patternClass><source> |             country = Pakistan</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/country&gt; &lt;http://dbpedia.org/resource/Pakistan&gt; .</triple></snippet><snippet><id>2</id><patternClass>PlainProperty</patternClass><source> |            fullname = Danish Parabha Shanker Kaneria</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Danish Parabha Shanker Kaneria&quot;@en .</triple></snippet><snippet><id>3</id><patternClass>MergedProperties</patternClass><source> |          dayofbirth = 16
+ |        monthofbirth = 12
+ |         yearofbirth = 1980</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/birthDate&gt; &quot;1980-12-16&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><id>4</id><patternClass>PlainProperty</patternClass><source> |        placeofbirth = [[Karachi]]</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/Karachi&gt; .</triple></snippet><snippet><id>5</id><patternClass>PlainProperty</patternClass><source> |      countryofbirth = [[Pakistan]]</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://dbpedia.org/resource/Pakistan&gt; .</triple></snippet><snippet><id>6</id><patternClass>PlainProperty</patternClass><source> |            nickname = Nani-Danny</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://xmlns.com/foaf/0.1/nick&gt; &quot;Nani-Danny&quot;@en .</triple></snippet><snippet><id>7</id><patternClass>MergedProperties</patternClass><source> |            heightft = 6
+ |          heightinch = 1</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/height&gt; &quot;1.854&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><id>8</id><patternClass>PlainProperty</patternClass><source> |             batting = Right-handed</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/batting&gt; &quot;Right-handed&quot;@en .</triple></snippet><snippet><id>9</id><patternClass>PlainProperty</patternClass><source> |             bowling = Right arm [[leg break]]</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/bowling&gt; &quot;Right arm leg break&quot;@en .</triple></snippet><snippet><comment>new prop testDebutDate</comment><id>10</id><patternClass>MergedProperties</patternClass><source> |       testdebutdate = 29 November
+ |       testdebutyear = 2000</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/testDebutDate&gt; &quot;2000-11-29&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><comment>new prop testDebutAgainst
+entity recognition</comment><id>11</id><patternClass>PlainProperty</patternClass><source> |    testdebutagainst = England</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/testDebutAgainst&gt; &lt;http://dbpedia.org/resource/England&gt; .</triple></snippet><snippet><comment>new prop lastTestDate</comment><id>12</id><patternClass>MergedProperties</patternClass><source> |        lasttestdate = 3 January
+ |        lasttestyear = 2010</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/lastTestDate&gt; &quot;2010-01-03&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><comment>new prop lastTestAgainst
+entity recognition</comment><id>13</id><patternClass>PlainProperty</patternClass><source> |     lasttestagainst = Australia</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/lastTestAgainst&gt; &lt;http://dbpedia.org/resource/Australia&gt; .</triple></snippet><snippet><comment>new prop odiDebutDate</comment><id>14</id><patternClass>MergedProperties</patternClass><source> |        odidebutdate = 31 October
+ |        odidebutyear = 2001</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/odiDebutDate&gt; &quot;2001-10-31&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><comment>new prop odiDebutAgainst
+entity recognition</comment><id>15</id><patternClass>PlainProperty</patternClass><source> |     odidebutagainst = Zimbabwe</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/odiDebutAgainst&gt; &lt;http://dbpedia.org/resource/Zimbabwe&gt; .</triple></snippet><snippet><comment>new prop lastOdiDate</comment><id>16</id><patternClass>MergedProperties</patternClass><source> |         lastodidate = 21 March
+ |         lastodiyear = 2007</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/lastOdiDate&gt; &quot;2007-03-21&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><comment>entity recognition</comment><id>17</id><patternClass>PlainProperty</patternClass><source> |      lastodiagainst = Zimbabwe</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/lastOdiAgainst&gt; &lt;http://dbpedia.org/resource/Zimbabwe&gt; .</triple></snippet><snippet><id>18</id><patternClass>MultiPropertyTable</patternClass><source> |               club1 = [[Pakistan National Shipping Corporation|Pak. Nat. Shipping Corp.]]
+ |               year1 = 1998&amp;ndash;1999</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_1&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Pakistan_National_Shipping_Corporation&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1998&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_1&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;1999&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>19</id><patternClass>MultiPropertyTable</patternClass><source> |               club2 = [[Karachi cricket teams|Karachi Whites]]
+ |               year2 = 1998&amp;ndash;2002</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_2&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Karachi_cricket_teams&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;1998&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_2&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;2002&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>20</id><patternClass>MultiPropertyTable</patternClass><source> |               club4 = [[Habib Bank Limited cricket team|Habib Bank Limited]]
+ |               year4 = 2001&amp;ndash;present</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_3&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_3&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Habib_Bank_Limited_cricket_team&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_3&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;2001&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>21</id><patternClass>MultiPropertyTable</patternClass><source> |               club5 = [[Karachi cricket teams|Karachi]]
+ |               year5 = 2003&amp;ndash;2004</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_4&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_4&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Karachi_cricket_teams&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_4&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;2003&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_4&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;2004&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>22</id><patternClass>MultiPropertyTable</patternClass><source> |               club6 = [[Essex County Cricket Club|Essex]]
+ |               year6 = 2004&amp;ndash;present</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_5&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_5&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Essex_County_Cricket_Club&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_5&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;2004&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>23</id><patternClass>MultiPropertyTable</patternClass><source> |               club7 = [[Karachi cricket teams|Karachi Blues]]
+ |               year7 = 2004&amp;ndash;2005</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_6&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_6&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Karachi_cricket_teams&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_6&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;2004&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_6&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;2005&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>24</id><patternClass>MultiPropertyTable</patternClass><source> |               club8 = [[Karachi cricket teams|Karachi Harbour]]
+ |               year8 = 2006&amp;ndash;2007</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_7&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_7&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Karachi_cricket_teams&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_7&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;2006&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_7&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;2007&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><id>25</id><patternClass>MultiPropertyTable</patternClass><source> |               club9 = [[Sindh cricket team|Sind]]
+ |               year9 = 2007&amp;ndash;2008</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/seniorCareer&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_8&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_8&gt; &lt;http://dbpedia.org/ontology/team&gt; &lt;http://dbpedia.org/resource/Sindh_cricket_team&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_8&gt; &lt;http://dbpedia.org/ontology/activeYearsStartYear&gt; &quot;2007&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__seniorCareer_8&gt; &lt;http://dbpedia.org/ontology/activeYearsEndYear&gt; &quot;2008&quot;^^&lt;http://www.w3.org/2001/XMLSchema#gYear&gt; .</triple></snippet><snippet><comment>new prop matchType and many more</comment><id>26</id><patternClass>MultiPropertyTable</patternClass><source> |             column1 = [[Test cricket|Test]]
+ |            matches1 = 57
+ |               runs1 = 297
+ |            bat avg1 = 6.60
+ |           100s/50s1 = 0/0
+ |          top score1 = 29
+ |         deliveries1 = 16,816
+ |            wickets1 = 250
+ |           bowl avg1 = 33.84
+ |            fivefor1 = 15
+ |             tenfor1 = 2
+ |       best bowling1 = 7/77
+ |  catches/stumpings1 = 18/&amp;ndash;</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/careerStatistics&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/matchType&gt; &lt;http://dbpedia.org/resource/Test_cricket&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/numberOfMatches&gt; &quot;57&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/numberOfRuns&gt; &quot;297&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/battingAverage&gt; &quot;6.6&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/centuries&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/halfCenturies&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/topScore&gt; &quot;29&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/deliveries&gt; &quot;16816&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/wickets&gt; &quot;250&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/bowlingAverage&gt; &quot;33.84&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/fivefor&gt; &quot;15&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/tenfor&gt; &quot;2&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/bestBowling&gt; &quot;7/77&quot;@en .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_1&gt; &lt;http://dbpedia.org/ontology/catches&gt; &quot;18&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>27</id><patternClass>MultiPropertyTable</patternClass><source> |             column2 = [[One Day International|ODI]]
+ |            matches2 = 18
+ |               runs2 = 12
+ |            bat avg2 = 6.00
+ |           100s/50s2 = 0/0
+ |          top score2 = 6[[not out|*]]
+ |         deliveries2 = 854
+ |            wickets2 = 15
+ |           bowl avg2 = 45.53
+ |            fivefor2 = 0
+ |             tenfor2 = n/a
+ |       best bowling2 = 3/31
+ |  catches/stumpings2 = 2/&amp;ndash;</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/careerStatistics&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/matchType&gt; &lt;http://dbpedia.org/resource/One_Day_International&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/numberOfMatches&gt; &quot;18&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/numberOfRuns&gt; &quot;12&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/battingAverage&gt; &quot;6.0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/centuries&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/halfCenturies&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/topScore&gt; &quot;6&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/deliveries&gt; &quot;854&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/wickets&gt; &quot;15&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/bowlingAverage&gt; &quot;45.53&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/fivefor&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/bestBowling&gt; &quot;3/31&quot;@en .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_2&gt; &lt;http://dbpedia.org/ontology/catches&gt; &quot;2&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>28</id><patternClass>MultiPropertyTable</patternClass><source> |             column3 = [[First-class cricket|FC]]
+ |            matches3 = 170
+ |               runs3 = 1,424
+ |            bat avg3 = 10.62
+ |           100s/50s3 = 0/1
+ |          top score3 = 65
+ |         deliveries3 = 45,584
+ |            wickets3 = 851
+ |           bowl avg3 = 25.98
+ |            fivefor3 = 61
+ |             tenfor3 = 10
+ |       best bowling3 = 8/59
+ |  catches/stumpings3 = 59/&amp;ndash;</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/careerStatistics&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/matchType&gt; &lt;http://dbpedia.org/resource/First-class_cricket&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/numberOfMatches&gt; &quot;170&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/numberOfRuns&gt; &quot;1424&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/battingAverage&gt; &quot;10.62&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/centuries&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/halfCenturies&gt; &quot;1&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/topScore&gt; &quot;65&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/deliveries&gt; &quot;45584&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/wickets&gt; &quot;851&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/bowlingAverage&gt; &quot;25.98&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/fivefor&gt; &quot;61&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/tenfor&gt; &quot;10&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/bestBowling&gt; &quot;8/59&quot;@en .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_3&gt; &lt;http://dbpedia.org/ontology/catches&gt; &quot;59&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>29</id><patternClass>MultiPropertyTable</patternClass><source> |             column4 = [[List A cricket|LA]]
+ |            matches4 = 138
+ |               runs4 = 274
+ |            bat avg4 = 8.30
+ |           100s/50s4 = 0/0
+ |          top score4 = 33*
+ |         deliveries4 = 6,790
+ |            wickets4 = 211
+ |           bowl avg4 = 22.90
+ |            fivefor4 = 6
+ |             tenfor4 = n/a
+ |       best bowling4 = 5/21
+ |  catches/stumpings4 = 27/&amp;ndash;</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/careerStatistics&gt; &lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/matchType&gt; &lt;http://dbpedia.org/resource/List_A_cricket&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/numberOfMatches&gt; &quot;138&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/numberOfRuns&gt; &quot;274&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/battingAverage&gt; &quot;8.3&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/centuries&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/halfCenturies&gt; &quot;0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/topScore&gt; &quot;33&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/deliveries&gt; &quot;6790&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/wickets&gt; &quot;211&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/bowlingAverage&gt; &quot;22.9&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/fivefor&gt; &quot;6&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/bestBowling&gt; &quot;5/21&quot;@en .
+&lt;http://dbpedia.org/resource/Danish_Kaneria__careerStatistics_4&gt; &lt;http://dbpedia.org/ontology/catches&gt; &quot;27&quot;^^&lt;http://www.w3.org/2001/XMLSchema#integer&gt; .</triple></snippet><snippet><id>30</id><patternClass>MergedProperties</patternClass><source> |                date = 8 December
+ |                year = 2009</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/statisticsAsOf&gt; &quot;2009-12-08&quot;^^&lt;http://www.w3.org/2001/XMLSchema#date&gt; .</triple></snippet><snippet><id>31</id><patternClass>PlainProperty</patternClass><source> |              source = http://content-aus.cricinfo.com/ci/content/player/40043.html Cricinfo</source><triple>&lt;http://dbpedia.org/resource/Danish_Kaneria&gt; &lt;http://dbpedia.org/ontology/cricinfoPage&gt; &lt;http://www.cricinfo.com/pakistan/content/player/40043.html&gt; .</triple></snippet></article>

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = choreographer
+|rdfs:domain = FigureSkater
+|rdfs:range = Person
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = volume
+|rdfs:domain = Lake
+|rdfs:range = cubicMetre
+}}

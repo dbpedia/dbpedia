@@ -1,0 +1,31 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Cricketer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Cricketer/country }}
+	{{ DBpediaPropertyMapping | templateProperty = debut date | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = debut date | ontologyProperty = Cricketer/debutDate }}
+	{{ DBpediaPropertyMapping | templateProperty = debut year | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = debut year | ontologyProperty = Cricketer/debutYear }}
+	{{ DBpediaPropertyMapping | templateProperty = last date | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = last date | ontologyProperty = Cricketer/lastDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last year | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = last year | ontologyProperty = Cricketer/lastYear }}
+	{{ DBpediaPropertyMapping | templateProperty = FCs | ontologyProperty = Cricketer/fc }}
+	{{ DBpediaPropertyMapping | templateProperty = FC runs | ontologyProperty = Cricketer/fcRuns }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = dayofbirth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = monthofbirth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = yearofbirth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = countryofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = dayofdeath | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = monthofdeath | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = yearofdeath | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = countryofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = cricket team | ontologyProperty = Athlete/currentTeam }}
+}}

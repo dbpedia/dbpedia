@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = height
+| rdfs:range = Length
+| rdf:type = owl:FunctionalProperty
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = beatified by
+|rdfs:domain = Saint
+|rdfs:range = Person
+}}

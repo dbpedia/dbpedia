@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = track number
+|rdfs:domain = Song
+|rdfs:range = xsd:integer
+}}

@@ -1,0 +1,47 @@
+{{Infobox_Defunct_Company
+| company_name = Neue Automobil-Gesellschaft AG
+| company_logo = 
+| foundation = 1901
+| defunct   = 1931
+| fate      = Merged with [[Büssing]] AG 
+| location = [[Berlin]], [[Germany]]
+| industry = [[Automotive]]
+| key_people = [[Emil Rathenau]], founder
+| products = [[Automobiles]] and [[Truck]]s
+| parent = 
+}}
+'''Neue Automobil-Gesellschaft (N.A.G.)''' was an [[Germany|German]] [[automobile]] manufacturer in [[Berlin]].
+[[File:NAG 1908-2.jpg|thumb|NAG car from 1908]]
+In 1902, German electrical company [[AEG]] purchased the [[coachbuilding]] side of [[Kühlstein]] under engineer [[Joseph Vollmer]], renaming it NAG. The company's first two cars were reliable, if unoriginal: the two-[[cylinder (engine)|cylinder]] Typ<!--this isn't a mistake, don't change it--> A and 5.2 [[liter]] (317[[cubic inch|ci]]) four-cylinder Typ B, both with [[chain drive]], which resembled contemporary [[Mercedes (car)|Mercédès]].<ref>Wise, David B., "NAG: Son of the Orient Express", in Northey, Tom, ed. ''World of Automobiles'' (London: Orbis, 1974), Volume 13, p.1479.</ref> Shortly, an enlarged Typ B2, with 40/45[[horsepower|hp]] (30[[watt|kW]]) 7.9 liter (482ci) four, appeared. In 1907, one of these was given to the Empress [[Augusta Viktoria of Schleswig-Holstein|Auguste Viktoria]].<ref name="Wise, p.1480">Wise, p.1480.</ref>
+
+The next year, AEG got out of the car business, but NAG continued alone, introducing a 15 hp (11 kW) 1502 cc (91.7ci) four called Puck, with a remarkable (for the period) ability to rev to 3000 rpm, which may have contributed to its ability to win the [[Gothenburg Cup]] at the [[classic Trials|Swedish Winter Trials]] in 1912, 1913, and 1914.<ref name="Wise, p.1480"/> This sporting reputation was balanced by "aggressively ugly Prince Henry-type bodies".<ref name="Wise, p.1480"/> 
+
+The Puck would later be developed into a model known in Germany as the Darling.<ref name="Wise, p.1480"/> From 1911 to 1914, NAG's standard offering was a 8495 cc (518ci) 60 hp (44.7 kW), joined in 1912-14 by a 1502 cc (91.7ci) 10/12 hp (7.5 kW) K2, 2085 cc (127ci) 14/20 hp (10 kW) K4, 3308 cc (202ci) 20/25 hp (15 kW) K5, and a 5193 cc (317ci) 25/35 hp (19 kW).<ref name="Wise, p.1480"/>
+[[Image:Oberschoeneweide11.jpg|thumb|left|NAG building by [[Peter Behrens]] in Berlin-Oberschöneweide]]
+During the recovery after [[World War I]], NAG produced smaller numbers of 2.5 liter (153ci) C4s, essentially prewar K4s with new vee [[radiator]]s replacing the prewar oval ones.
+
+The economic situation was so serious, NAG partnered with Brennabor, [[Lloyd (car)|Lloyd]], and [[Hansa (car)|Hansa]] to form GDA (what in the U.S would be called a [[trust (19th century)|trust]]), to prevent competition from destroying them all. It proved successful for NAG, which prospered, enough to build the C4b sports variant, designed by chief engineer [[Christian Riecken]] (a [[Minerva automobile|Minerva]] [[racing driver]] prewar).<ref name="Wise, p.1480"/> 
+
+Riecken ran a C4b at the newly-opened<ref name="Wise, p.1480"/>  [[AVUS]] in 1922, winning at 84.3 mph (135.7 km/h), which was greater than the C4's top speed.<ref name="Wise, p.1480"/> It sacrificed nothing to reliability, as NAG went on to place well at the 1923 All-Russian Trials and the ADAC ''Reich'' Trials for 1923-26. In 1924, NAG hit its apex at [[Autodromo Nazionale Monza|Monza]], where Riecken and [[Hans Berthold]] won the [[Gran Premio della Norte]] in a C4b, covering 1656mi (2665km) in 24 hours, an average of 68.99 mph (111.02 km/h), for which the model was renamed ''Monza''.
+
+In 1926, [[Protos]] (which had built the winner of the [[1908 New York to Paris Race|New York-Paris race]]) was acquired from [[Siemens|Siemens-Schuckert]], leading to "a series of dull six-cyliner cars".<ref name="Wise, p.1480"/> The next year, NAG again expanded, taking over [[Presto]], which had just bought [[Dux]], continuing to build the 2.6 liter [[Typ F]] and 3 liter [[Typ G]]. The difficulty was, despite their quality, none of these were distinctly different from other German cars of the period.
+
+In response, NAG created a disastrous [[straight engine|straight]]-eight (abandoned due to [[crankshaft]] whip), which was never built, then hired former [[Impéria]] and [[Steiger (car company)|Steiger]] man [[Paul Henze]], "one of Germany's most gifted car designers", in an effort to remedy this situation with a new top-line car. Henze settled on a 4540 cc (277ci) [[V8 engine|V8]], Germany's first to enter production<ref name="Wise, p.1480"/> which became "one of the outstanding German luxury cars of 1931, the NAG 212."<ref name="Wise, p.1480"/> 
+
+Rather than rely on conventional shaft drive, however, NAG chose to attempt to fit a [[Voran (car company)|Voran]] [[front wheel drive|FWD]] system (designed by [[Richard Bussien]]) to a backbone [[chassis]] with [[independent suspension]], which proved too ambitious, and the development costs disastrous.<ref name="Wise, p.1480"/> 
+
+In 1934, NAG ceased car production, while NAG-[[Büssing]] [[commercial vehicle]]s continued to be produced for a few more years.
+
+During the [[Second World War]], the company produced the [[Sd Kfz 231|''Sd Kfz'' 231]], [[Sd Kfz 232|''Sd Kfz'' 232]], [[Sd Kfz 233|''Sd Kfz'' 233]], and [[Sd Kfz 234|''Sd Kfz'' 234]] series [[Armored car (military)|armoured car]]s.<ref>Hogg, Ian V., and Weeks, John. ''Illustrated Encyclopedia of Military Vehicles'' (London: Hamlyn, 1980), p.183, "Sd Kfz 231 (6 rad)" & p.184.</ref>
+
+==Notes==
+{{Commons cat|NAG vehicles}}
+<references/>
+
+==See also==
+* [[Büssing]]
+
+[[Category:Piston engine configurations]]
+[[Category:Defunct motor vehicle manufacturers of Germany]]
+
+[[de:Nationale Automobil-Gesellschaft]]

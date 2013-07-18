@@ -1,0 +1,102 @@
+{{Infobox Automobile
+|name=BMW M70 engine
+|manufacturer=[[BMW]]
+|production=[[1988]]&ndash;[[1996]]
+|predecessor= None
+|successor=[[BMW M73]]
+|class=[[SOHC]] [[V12 engine|V12]]
+|engine=5.0&nbsp;L (4988&nbsp;cc/304&nbsp;in³)
+|similar=[[Mercedes-Benz M120 engine]] |
+}}
+
+{{Unreferenced|[[BMW]] [[engine]] related article|date=July 2007}}
+
+The [[BMW]] '''M70''' is a [[V12 engine|V12]] [[piston engine]] and featured heavily in the [[BMW 7-Series|7-Series]] and [[BMW 8-Series|8-Series]] [[BMW|BMW's]] of the late 80's and early 1990s. Models included:
+
+*1988–1994 BMW 750i
+*1988–1994 BMW 750iL
+*1991–1993 BMW 850i
+*1993–1995 BMW 850Ci
+*1994–1996 BMW 850Csi
+
+The M70 was succeeded by the [[BMW M73|M73]].
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=2|[[#M70B50|M70B50]]||rowspan=2|{{convert|4988|cc|L cuin||abbr=on}}||{{Convert|220|kW|hp|0|abbr=on}} @ 5200||{{convert|450|Nm|lbft||abbr=on}} @ 4100||6000||1988
+|-
+|{{Convert|220|kW|hp|0|abbr=on}} @ 5200||{{convert|450|Nm|lbft||abbr=on}} @ 4100||6000||1988
+|}   
+
+==Types==
+[[Image:M70.jpg|frame|M70 engine in 1992 750iL]]
+
+===Euro Specifications===
+*Displacement: {{convert|4988|cc|L cuin||abbr=on}}
+*12 [[cylinder (engine)|cylinder]] V-arrangement 60 degree 
+*24 valves
+*Compression: 8.8:1
+*Stroke/Bore: {{convert|75|mm|in||abbr=on}}/{{convert|84|mm|in||abbr=on}}
+*Firing Order: 1-7-5-11-3-9-6-12-2-8-4-10
+*Separate twin-ECU engine management (each one for each bank)
+*Max power: {{Convert|220|kW|hp|0|abbr=on}} @ 5300&nbsp;rpm
+*Max torque: {{convert|450|Nm|lbft||abbr=on}} @ 4000&nbsp;rpm
+*Max&nbsp;rpm: 6000–6400&nbsp;rpm *Gearing 
+ 
+'''Applications'''
+* 1986–1995 [[BMW E32|E32]] [[BMW 7-Series|7-Series]]
+* 1989–1997 [[BMW E31|E31]] [[BMW 8-Series|8-Series]]
+
+===S70B56===
+5.6&nbsp;L version
+
+'''Applications'''
+* 1992–1996 [[BMW E31|E31]] [[BMW 8-Series|8-Series]]
+* Developed specifically for the 1992 BMW 850CSi, a BMW Motorsport vehicle
+* Lowest production engine in BMW history—1,510 units
+* Engine was used in a few [[supercar]]s of the late 1990s
+
+===S70/1===
+6000&nbsp;cc (approx.) version.
+
+'''Applications'''
+* [[BMW M8|M8]] prototype
+
+===S70/2===
+{{convert|6064|cc|L cuin||abbr=on}} version developed for the [[McLaren F1]]. The S70/2 was a complete redesign from M70 with no common parts, featuring a lighter and smaller engine block. It is actually closer to an [[S50B30]] engine from the E36 M3. It features BMW VANOS two position adjustable variable intake valve timing.
+
+'''Applications'''
+* 1993–1998 [[McLaren F1]]
+* 1998–1999 [[BMW V12 LM]]
+* 1999–2000 [[BMW V12 LMR]]
+*           [[BMW X5  LM]]
+
+===S70/3===
+6064&nbsp;cc version, further refinement of the [[McLaren F1]] engine meant for racing.  Later destroked to 5990&nbsp;cc in 1997.
+
+'''Applications'''
+* 1995–1996 [[McLaren F1 GTR]] (6.1&nbsp;L)
+* 1997 [[McLaren F1 GTR]] (6.0&nbsp;L)
+
+==External links==
+
+*[http://bmwe32.masscom.net Johan & Sean's E32 Page] - Homepage containing detailed DIY and engine rebuild information for the M70 engine as well as links to official BMW AG engine specs and component descriptions.
+
+
+
+[[Category:BMW engines|M70]]
+
+
+
+
+{{automotive-part-stub}}
+
+[[de:BMW M70]]
+[[it:BMW M70]]
+[[no:BMW M70]]
+[[pl:BMW M70]]
+[[tr:BMW M70]]

@@ -1,0 +1,45 @@
+{{Infobox Automobile
+|name=BMW M21 engine
+|manufacturer=[[BMW]]
+|production=1983&ndash;1991
+|successor=[[BMW M51]]
+|class=[[Straight-6]] [[Diesel engine|Diesel]]
+|engine=2.4&nbsp;L (2443&nbsp;cc/149&nbsp;in³)
+}}
+The '''[[BMW]] M21''' was a 2.4&nbsp;L [[Diesel engine|diesel]] [[straight-6]] engine. 
+
+It was introduced in 1983 with the [[BMW M20]] design as its basis. It was available with a turbocharger.
+It was also the last diesel sold in the North American market in the E28 and E34 before the reintroduction of a diesel by BMW in the North American market E90 in 2009, the [[BMW M57]]
+{| class=wikitable
+|+Models
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=3|M21D24||rowspan=3|2.4&nbsp;L (2443&nbsp;cc/149&nbsp;in³)||85&nbsp;kW (114&nbsp;hp) @ 4800||210&nbsp;N·m (155&nbsp;ft·lbf) @ 2400||5350||1983
+|-
+|85&nbsp;kW (114&nbsp;hp) @ 4800||220&nbsp;N·m (162&nbsp;ft·lbf) @ 2400||5350||1983
+|-
+|63&nbsp;kW (84&nbsp;hp) @ 4600||152&nbsp;N·m (112&nbsp;ft·lbf) @ 2500||5150||1985
+|}
+
+Applications:
+* 1986-1992 [[BMW E28|E28]] [[BMW 5-Series|524d/524td]]
+* 1987-1993 [[BMW E30|E30]] [[BMW 3-Series|324d/324td]]
+* 1987-1992 [[BMW E34|E34]] [[BMW 5-Series|524td]]
+* 1984-1985 [[Lincoln_Mark_VII|Lincoln Continental Mark VII]]
+* 1984-1985 [[Lincoln_Continental#1982_-_1987|Lincoln Continental]]
+* 1986-1987 [[Vixen (RV)|Vixen 21 TD]]
+* 1992 [[UMM Alter II]] (Very rare UMM model, only 4 were made)
+
+==See also==
+* [[List of BMW engines]]
+
+==External links==
+
+[[Category:BMW engines|M21]]
+
+{{automotive-part-stub}}
+
+[[it:BMW M21]]
+[[no:BMW M21]]
+[[pl:BMW M21]]

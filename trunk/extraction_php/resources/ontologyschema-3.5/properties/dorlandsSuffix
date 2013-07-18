@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = Dorlands suffix
+| rdfs:domain = AnatomicalStructure
+| rdfs:range = xsd:string
+}}

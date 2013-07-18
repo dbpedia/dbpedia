@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Cycad
+| rdfs:subClassOf = Plant
+}}

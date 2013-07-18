@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= mother
+|rdfs:domain	= Person
+|rdfs:range		= Person
+}}

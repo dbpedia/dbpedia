@@ -1,0 +1,6 @@
+{{Class
+| rdfs:label = Chemical Compound
+| specificProperties = {{SpecificProperty | ontologyProperty = density | unit = kilogramPerCubicMetre }}
+                       {{SpecificProperty | ontologyProperty = meltingPoint | unit = kelvin }}
+                       {{SpecificProperty | ontologyProperty = boilingPoint | unit = kelvin }}
+}}

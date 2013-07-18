@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = field
+|rdfs:domain = Artist
+|rdfs:range = owl:Thing
+}}

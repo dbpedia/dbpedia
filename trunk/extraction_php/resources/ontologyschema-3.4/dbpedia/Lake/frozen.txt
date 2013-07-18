@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = frozen
+|rdfs:domain = Lake
+|rdfs:range = xsd:string
+}}

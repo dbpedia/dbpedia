@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = highest building in year
+| rdfs:domain = Skyscraper
+| rdfs:range = xsd:date
+}}

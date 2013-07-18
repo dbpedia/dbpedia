@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = percentage of area water round
+|rdfs:domain = Place
+|rdfs:range = xsd:integer
+}}

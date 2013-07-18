@@ -1,0 +1,23 @@
+{{TemplateMapping
+| mapToClass = Book
+| mappings = 
+	{{PropertyMapping | templateProperty = translator | ontologyProperty = translator }}
+	{{PropertyMapping | templateProperty = illustrator | ontologyProperty = illustrator }}
+	{{PropertyMapping | templateProperty = cover_artist | ontologyProperty = coverArtist }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = series | ontologyProperty = series }}
+	{{PropertyMapping | templateProperty = subject | ontologyProperty = subject }}
+	{{PropertyMapping | templateProperty = media_type | ontologyProperty = mediaType }}
+	{{PropertyMapping | templateProperty = pages | ontologyProperty = pages }}
+	{{PropertyMapping | templateProperty = isbn | ontologyProperty = isbn }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = title_orig | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = author | ontologyProperty = author }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = publisher | ontologyProperty = publisher }}
+	{{PropertyMapping | templateProperty = pub_date | ontologyProperty = publishDate }}
+	{{PropertyMapping | templateProperty = english_pub_date | ontologyProperty = publishDate }}
+	{{PropertyMapping | templateProperty = preceded_by | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = followed_by | ontologyProperty = subsequentWork }}
+}}

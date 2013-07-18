@@ -1,0 +1,85 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+@prefix prv:      <http://purl.org/net/provenance/ns#> .
+@prefix prvTypes: <http://purl.org/net/provenance/types#> .
+@prefix prvIV:    <http://purl.org/net/provenance/integrity#> .
+
+@prefix rdfg: <http://www.w3.org/2004/03/trix/rdfg-1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix sp:   <http://spinrdf.org/sp#> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+
+# This template provides provenance information about RDF graphs served by Pubby.
+# The provenance information is described using the Provenance Vocabulary v0.5.
+
+<about:metadata:runtime:graph> a prv:DataItem , rdfg:Graph ;
+	foaf:primaryTopic <about:metadata:runtime:resource> ;
+	foaf:topic <about:metadata:runtime:graph> ;
+
+	prv:createdBy [
+			a prv:DataCreation ;
+			prv:performedAt <about:metadata:runtime:time> ;
+			prv:performedBy _:pubby ;
+			prv:usedData [
+				a prv:DataItem ;
+				a prvTypes:QueryResult ;
+				a rdfg:Graph ;
+
+				prv:retrievedBy [
+					a prv:DataAccess ;
+					prv:performedAt <about:metadata:runtime:time> ;
+					prv:performedBy _:pubby ;
+					prv:accessedService <about:metadata:config:sparqlEndpoint> ;
+				] ;
+
+				prv:createdBy [
+					a prv:DataCreation ;
+					a prvTypes:QueryExecution ;
+					prv:performedBy <about:metadata:config:sparqlEndpoint> ;
+					prv:usedGuideline [
+						a prvTypes:SPARQLQuery ;
+						a sp:Describe ;
+						rdfs:label <about:metadata:runtime:query> ;
+					]
+				] ;
+			] ;
+		] .
+           
+_:pubby a prv:Actor ,
+          prvTypes:DataCreatingService ,
+          prv:DataProvidingService ;
+	prv:operatedBy <about:metadata:metadata:pubbyOperator> ;
+	prv:usedBy     <about:metadata:metadata:pubbyUser> ;
+	prv:deployedSoftware _:pubbyRelease ;
+	rdfs:seeAlso   <about:metadata:config:webBase> .
+
+_:pubbyRelease a doap:Version ;
+               doap:revision "0.4" .
+_:pubbyProject a doap:Project ;
+               doap:release   _:pubbyRelease ;
+               doap:homepage  <http://www4.wiwiss.fu-berlin.de/pubby/> .
+
+<about:metadata:config:sparqlEndpoint> a prv:Actor ,
+                                         prvTypes:DataCreatingService ;
+	prv:operatedBy <about:metadata:metadata:endpointOperator> ;
+	prv:usedBy     <about:metadata:metadata:endpointUser> .
+<about:metadata:metadata:endpointDataset> void:sparqlEndpoint <about:metadata:config:sparqlEndpoint> .
+
+<about:metadata:metadata:pubbyUser>
+	foaf:name <about:metadata:metadata:pubbyUserName> ;
+	foaf:homepage <about:metadata:metadata:pubbyUserHomepage> .
+
+<about:metadata:metadata:pubbyOperator>
+	foaf:name <about:metadata:metadata:pubbyOperatorName> ;
+	foaf:homepage <about:metadata:metadata:pubbyOperatorHomepage> .
+
+<about:metadata:metadata:endpointUser>
+	foaf:name <about:metadata:metadata:endpointUserName> ;
+	foaf:homepage <about:metadata:metadata:endpointUserHomepage> .
+
+<about:metadata:metadata:endpointOperator>
+	foaf:name <about:metadata:metadata:endpointOperatorName> ;
+	foaf:homepage <about:metadata:metadata:endpointOperatorHomepage> .

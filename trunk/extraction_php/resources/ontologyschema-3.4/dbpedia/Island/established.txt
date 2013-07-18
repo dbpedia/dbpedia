@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= established
+|rdfs:domain 	= Island
+|rdfs:range		= xsd:gYear
+}}

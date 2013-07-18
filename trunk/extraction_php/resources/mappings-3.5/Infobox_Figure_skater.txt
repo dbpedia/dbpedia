@@ -1,0 +1,18 @@
+{{TemplateMapping
+| mapToClass = FigureSkater
+| mappings = 
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = partner | ontologyProperty = currentPartner }}
+	{{PropertyMapping | templateProperty = formerpartner | ontologyProperty = formerPartner }}
+	{{PropertyMapping | templateProperty = coach | ontologyProperty = coach }}
+	{{PropertyMapping | templateProperty = formercoach | ontologyProperty = formerCoach }}
+	{{PropertyMapping | templateProperty = choreographer | ontologyProperty = choreographer }}
+	{{PropertyMapping | templateProperty = formerchoreographer | ontologyProperty = formerChoreographer }}
+	{{PropertyMapping | templateProperty = skatingclub | ontologyProperty = skatingClub }}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = dateofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = dateofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = residence | ontologyProperty = residence }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = retired | ontologyProperty = activeYearsEndYear }}
+}}

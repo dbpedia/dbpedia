@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = suborbital flights
+| rdfs:domain = YearInSpaceflight
+| rdfs:range = xsd:integer
+}}

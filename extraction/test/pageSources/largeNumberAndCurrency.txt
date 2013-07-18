@@ -1,0 +1,5 @@
+{{ DummyTemplate |
+revenue = 2.568 [[Billion]] $|
+net income = 234 million € |
+gross_income = 10.604 Billion [[U.S. Dollar|USD]] (2006)
+}}

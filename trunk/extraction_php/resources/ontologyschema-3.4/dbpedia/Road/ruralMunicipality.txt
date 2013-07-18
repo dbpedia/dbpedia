@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = rural municipality
+|rdfs:domain = Road
+|rdfs:range = PopulatedPlace
+}}

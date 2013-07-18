@@ -1,0 +1,290 @@
+{{Refimprove|date=July 2007}}
+{{Infobox Automobile
+|name         = BMW M5
+|image        = 
+|manufacturer = [[BMW M|BMW M GmbH]]
+|production   = 1985–present
+|class        = [[Mid-size]] [[luxury car]]/[[executive car]]
+|layout       = [[FR layout]]
+|related      = [[BMW 5 Series]]
+|sp           = uk
+}}
+The '''BMW M5''' is a [[Sport sedan|high performance]] version of the [[BMW 5-Series]] [[automobile]] made by the [[BMW M|M racing division]] of [[BMW]].  First introduced at the Amsterdam Motor Show in 1984, the first incarnation of the M5 was hand-built utilising the 535i chassis and a modified BMW M1 engine, being the fastest production [[sedan (automobile)|saloon/sedan]] in the world at the time of its introduction. Subsequent iterations of the M5 has been made from various 5-Series generations throughout the years, including the E28, E34, E39 and most recently the E60 and E61.
+
+Due to the longevity of its nameplate and undisputed position at the top of BMW's midsize lineup, the M5 remains one of the best known [[sport sedan]]s, despite competition from [[Mercedes-AMG]] and [[Audi]] [[quattro GmbH]]. Mercedes-Benz's E55 AMG fell short of the E60 M5's performance, so they eventually replaced it with the E63 AMG. The top-of-the-line [[Audi RS6]] (C6), which has considerably better performance than the M5, is only offered in Europe. The M5 outperforms the [[Audi S6]], the latter being the marque's highest performing executive car in North America.
+ 
+==E28 M5 (1985–1988){{anchor|E28}}==
+{{Infobox Automobile generation
+|name          = BMW E28 M5
+|image         = [[File:M5sig (E28).jpg|250px|1988 US-Spec M5 with European-Spec headlights]]
+|production    = 1985–1988 
+2,191 produced
+|assembly      = [[Garching]], [[Germany]]<br>[[Rosslyn]], [[South Africa]]
+|successor     = [[#E34|E34 M5]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]
+|platform      = [[BMW E28]]
+|engine        = 3.5&nbsp;L [[straight-6|I6]] [[petrol engine]]
+|transmission  = 5-speed [[manual transmission|manual]]
+|wheelbase     = {{convert|2624|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4801|mm|1|abbr=on}}
+|width         = {{convert|1699|mm|1|abbr=on}}
+|height        = {{convert|1415|mm|1|abbr=on}}
+|weight        = {{convert|1550|kg|0|abbr=on|lk=on}}
+|fuel_capacity = 
+|related       = [[BMW 5-Series]]
+|designer      = 
+|sp            = uk
+}}
+{{main|BMW M5 (E28)}}
+The first M5, which is based on the '''E28''' 5-Series, made its debut at the 1984 Amsterdam Motor Show.  It was the product of demand for an automobile with the carrying capacity of a saloon (sedan), but the overall performance of a [[sports car]].  It utilised the 535i chassis, and an evolution of the engine from the [[BMW M1]].  The M5 was handbuilt by Motorsport technicians and was the fastest production saloon (sedan) in the world.
+
+The M5 was offered in four different versions.  The first version was the [[right- and left-hand traffic|left-hand drive]] (LHD) [[Europe]]an spec M5.  The second version was the right-hand drive (RHD) British spec M5.  The third version was the [[North America]]n spec (NA or so-called 1988) M5.  The fourth version was the [[South Africa]]n (ZA) spec M5.  It is worth noting that production of the M5 continued until November 1988, well after production of the E28 chassis ended in Germany in December 1987.
+
+The LHD and RHD Euro specifications M5s, and the ZA specifications M5s had the [[BMW M88|M88/3 powerplant]] which delivered {{convert|210|kW|PS bhp|0|abbr=on|lk=on}}, whereas the North American 1988 M5 was equipped with the S38 6-cylinder engine that had a [[catalytic converter]], which reduced the power output to {{convert|191|kW|PS bhp|0|abbr=on}}.  The S38 differed from the M88/3 in that it had 9.8:1 compression versus the M88/3's 10.5:1.  The S38 also used a dual-row timing chain, where the M88/1 used a single-row chain.  Initially 500 were to be made for the US Market, BMW later increased production to as many as 1,370 units for the US and Canadian markets, although the generally accepted figure is 1,244 units sold.
+
+The North American spec models are unique, in that technically they were all finished in Schwarz (Black) with Natur (Tan) interiors.  The otherwise virtually identical Canadian spec M5s were also available with Black interiors as an option, however a limited number of US Models were also equipped with Black interiors
+
+United States [[Vehicle Identification Number]]s (VINs) range from 2791000-2792000 and 2875000-2875320.  Car # 2791000 is not known to have been built, and not all VINs are known to have been used.  The first few cars built in November and December 1986 were issued Federal compliance labels showing a 1/87 build date.  As has been speculated earlier, physical confirmation of the VIN of the United States M5 kept in BMW North America's Mobile Tradition collection{{Clarify me|date=April 2009}} is a 287 series car, a later 1987 build date car.
+
+While every North American spec E28 M5 was a 1988 [[model year]] car, production of North American specification M5s commenced in November 1986 and ended in November 1987.  Excepting 96 units that were assembled in kit form at BMW's Plant in [[Rosslyn]], [[South Africa]], all E28 M5s were assembled by hand at [[BMW Motorsport]] in [[Garching]], [[Germany]].
+
+With a total production of 2,191 the E28 M5 remains among the rarest regular production BMW Motorsport cars - after the BMW M1 (456 units), BMW E34 M5 Touring (891 units), and the BMW 850CSi (1510 units).
+
+===Specification===
+*
+
+===Performance===
+At the time of sale, BMW quoted the following 0-60 times to give the impression that the E28 M5 did not outperform the more expensive, heavier and top-of-the-range E24 M635csi ([[BMW M6]]).
+* (Euro) - {{convert|210|kW|PS bhp|0|abbr=on}} 0-60&nbsp;mph - 6.2 seconds.  Top Speed: {{convert|246|km/h|0|abbr=on|lk=on}}
+* (USA) - {{convert|191|kW|PS bhp|0|abbr=on}} 0-60&nbsp;mph - 6.5 seconds.  Top Speed: {{convert|238|km/h|0|abbr=on}}
+
+===Tuners===
+* Whilst [[BMW M]]otorsport did not build any special versions of the E28 M5, the German tuner [[Hartge]] produced the Hartge H35S-24, a {{convert|330|PS|kW bhp|0|abbr=on}} version of the E28 M5.  Main modifications over and above the standard E28 M5 were revised cams, a modified exhaust, modified [[Robert Bosch GmbH|Bosch]] [[Motronic]] ECU programming, and a revised (and lowered) suspension setup.
+* [[Alpina]] limited their tuning efforts to the older [[BMW M30|M30]] engine powered models.  The Alpina B7 Turbo produced {{convert|250|kW|PS bhp|0|abbr=on}} with 0-60 mph times of 4.7 sec and a top speed of {{convert|270|km/h|0|abbr=on}}.
+
+==E34 M5 (1989–1995){{anchor|E34}}==
+{{Infobox Automobile generation
+|name          = BMW E34 M5
+|image         = [[Image:BMW E34 M5 Sedan 03.jpg|250px|BMW E34 M5 saloon (US)]]
+|production    = 1989–1995
+|assembly      = [[Garching]], [[Germany]]
+|predecessor   = [[#E28|E28 M5]]
+|successor     = [[#E39|E39 M5]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]],<br>5-door [[station wagon|estate/wagon]]
+|platform      = [[BMW E34]]
+|engine        = 3.6&nbsp;L [[straight-6|I6]]<br>3.8&nbsp;L I6
+|transmission  = 5-speed and 6-speed [[manual transmission|manual]]
+|wheelbase     = {{convert|2761|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4719|mm|1|abbr=on}}
+|width         = {{convert|1750|mm|1|abbr=on}}
+|height        = {{convert|1392|mm|1|abbr=on}}
+|weight        = {{convert|1670|kg|0|abbr=on|lk=on}}
+|fuel_capacity = 
+|related       = [[BMW 5-Series]]
+|designer      = 
+|sp            = uk
+}}
+{{main|BMW M5 (E34)}}
+The '''E34 M5''' was produced from 1989 to 1995, although sales in [[North America]] started in 1991 and ended in 1993.  It was produced at [[BMW M GmbH]] in [[Garching bei München|Garching]], [[Germany]], and, like the previous M5, was entirely hand-built.  It utilised the 535i chassis which was produced at BMW's [[Dingolfing]] plant.  Assembly was done either by a single M employee, or a team of M employees, and generally took about two weeks.  It is rumoured that the test drivers of the E34 M5 could determine who or what team made each specific M5, due to characteristic quirks of the hand built nature of the E34 M5.  The [[internal combustion engine|engines]] were also built by hand by BMW M technicians.  All of the E34 M5 [[petrol engine]]s were built to a tolerance of within 5% of advertised output.
+
+The early E34 M5 used an evolution of the 24-valve [[straight-6]] found in the E28 M5 and E24 M635CSi/M6.  The engine was designated [[BMW S38|S38B36]], with a bore of {{convert|93.4|mm|in|3|abbr=on|lk=on}} and stroke of {{convert|86|mm|in|3|abbr=on}} for a total capacity of {{convert|3535|cc|abbr=on|lk=on}}.  The added stroke is due to a new forged steel [[crankshaft]], though the [[camshaft]]s were also changed.  [[Compression ratio]] was up slightly (10:1 versus 9.8:1).  Other adjustments made included an electronically controlled butterfly valve in the intake plenum, which provided better low rpm and mid-range power.  The engine also featured an improved [[flywheel]], [[Robert Bosch GmbH|Bosch]] [[Motronic]] [[fuel injection]], equal length stainless steel exhaust headers, and three way ceramic catalysts.  Originally it had a [[engine displacement|displacement]] of 3.5&nbsp;litres, and produced {{convert|235|kW|PS bhp|abbr=on|lk=on}}, and {{convert|361|Nm|0|abbr=on|lk=on}} at 4750&nbsp;[[revolutions per minute|rpm]].  Cars sold in [[North America]] and [[Switzerland]], due to a different [[catalytic converter]], produced {{convert|229|kW|PS bhp|abbr=on}}.
+
+In second half of 1991, the engine displacement was increased to 3.8&nbsp;litres with the [[BMW S38|S38B38]], except in North America and South Africa, which continued with the 3.5&nbsp;litre engine.  Power was now increased to {{convert|250|kW|PS bhp|0|abbr=on}}.  Also in 1992, a five-door Touring version ([[station wagon|estate/wagon]]) was introduced in LHD form, with 891 cars made.
+
+The M5 came with an unusual roadwheel design.  From 1989-1992 the M5 featured the M-System wheels.  These wheels were 17x8J, but came with a bolted-on wheel cover.  Under the cover was a black 5-spoke alloy wheel.  The press was critical of the design, often claiming it gave the M5 the appearance of having "white-wall" [[tire|tyres]].  In 1992, BMW changed the design and a new cover was produced — the M-System II.  The original intent of the M-System cover was to direct more air to the [[brake]] assembly to increase cooling.  The cover actually integrated a fin assembly behind the cover.  The M-System II covers, known as the "throwing stars" did not have as much capability to direct air to the brake assemblies.  In May 1994, the M5 came with M Parallel wheels that did away with the cover.
+
+===Specification===
+* HD91 (89-92 LHD Euro) [[straight-6|I6]]-[[multi-valve|24v]] 3.6&nbsp;litre - {{convert|232|kW|PS bhp|0|abbr=on|lk=on}} (only available with 5-speed manual transmission)
+* HD92 (89-91 RHD Euro) I6-24v 3.6&nbsp;litre - {{convert|232|kW|PS bhp|0|abbr=on}} (only available with 5-speed manual transmission)
+* HD93 (89-93 LHD US) I6-24v 3.6&nbsp;litre - {{convert|232|kW|PS bhp|0|abbr=on}} (only available with 5-speed manual transmission)
+* HD98 (90-93 RHD SA) I6-24v 3.6&nbsp;litre - {{convert|232|kW|PS bhp|0|abbr=on}} (only available with 5-speed manual transmission) made in South Africa from CKD kit supplied from Germany.
+<br>
+* HC91 (91-94 LHD Euro) I6-24v 3.8&nbsp;litre - {{convert|250|kW|PS bhp|0|abbr=on}} (available with 5-speed or 6-speed manual transmission)
+* HC92 (92-94 RHD Euro) I6-24v 3.8&nbsp;litre - {{convert|250|kW|PS bhp|0|abbr=on}} (available with 5-speed or 6-speed manual transmission)
+<br>
+* HJ91 (92-94 LHD Euro Touring) I6-24v 3.8&nbsp;litre - {{convert|250|kW|PS bhp|0|abbr=on}} (available with 5-speed or 6-speed manual transmission)
+<br>
+* 89-95 (ECE/GB/USA) - (no [[automatic transmission]] available)
+
+===Performance===
+* 89-92 (Euro) I6-24v 3.6&nbsp;L - {{convert|232|kW|PS bhp|0|abbr=on|lk=on}} - 0-{{convert|100|km/h|0|abbr=on|lk=on}}: 6.3 secs.  Top speed: {{convert|250|km/h|0|abbr=on}} (electronically limited)
+* 92-95 (Euro) I6-24v 3.8&nbsp;L - {{convert|250|kW|PS bhp|0|abbr=on}} - 0-{{convert|100|km/h|0|abbr=on}}: 5.9 secs.  Top speed: {{convert|250|km/h|0|abbr=on}} (electronically limited), or {{convert|280|km/h|0|abbr=on}} - without electronic limiter.
+* 91-93 (USA) I6-24v 3.6&nbsp;L - {{convert|232|kW|PS bhp|0|abbr=on}} - 0-60&nbsp;mph: 6.4 secs.  Top speed: {{convert|250|km/h|0|abbr=on}} (electronically limited)
+
+===Special versions===
+* '''Cecotto Edition''' — A total of 22 Cecotto E34 M5s were produced with options of having either Lagoon Green metallic (266) and Mauritius Blue metallic paint (287).
+* '''Winkelhock Edition''' — A total of 51 Winkelhock E34 M5s were produced with the options of having Jet Black (668) with contrasting lower body panels in Sterling Silver metallic paint (244), no fog lights and manual rear windows helped to lower the weight.
+* '''20 Jahre Motorsport Edition''' — To celebrate BMW Motorsport 20th anniversary, BMW had built 20 specially equipped Euro-spec M5s in late 1992.
+* '''UK Limited Edition''' — To commemorate the end of right-hand drive E34 M5 production, 50 examples of the E34 M5 Limited Edition were assembled between March and June 1995.
+*'''Elekta''' - 20 M5 Tourings were assembled for distribution in Italy.  These were finished in either Sterling Silver over Marine Blue leather, or British Racing Green over Tobacco leather.  All were made in 1995.  It is debated as to whether or not these cars constitute a true special edition as they were ordered directly by a group of Italian BMW dealers.
+
+*Source: BMW M Registry wwww.bmwmregistry.com 
+
+These are not to be confused with the Alpina B10 E34 models which are manufactured by Alpina although there are performance similarities but there are  significant differences in approach. Further information can be obtained here - http://en.wikipedia.org/wiki/Alpina
+
+==E39 M5 (1998–2003){{anchor|E39}}==
+{{Infobox Automobile generation
+|name          = BMW E39 M5
+|image         = [[Image:M5 E39 Terabass-2.jpg|250px|BMW E39 M5]]
+|production    = 1998–2003
+|assembly      = [[Dingolfing]], [[Germany]]
+|predecessor   = [[#E34|E34 M5]]
+|successor     = [[#E60|E60 M5]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]
+|platform      = [[BMW E39]]
+|engine        = 4.94L 90° [[V8 engine|V8]]
+|transmission  = 6-speed [[manual transmission|manual]]
+|wheelbase     = {{convert|2830|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4783|mm|1|abbr=on}}
+|width         = {{convert|1801|mm|1|abbr=on}}
+|height        = {{convert|1412|mm|1|abbr=on}}
+|weight        = {{convert|1826|kg|0|abbr=on|lk=on}}
+|fuel_capacity = 
+|related       = [[BMW 5-Series]]<br>[[BMW X5]]
+|designer      = 
+|sp            = uk
+}}
+[[Image:2003 M5 interior.jpg|thumb|250px|right|2003 BMW M5 Interior (US spec)]]
+Unlike its predecessors, the '''E39 M5''' was not handbuilt at the [[BMW M GmbH]] factory; it was produced on the same assembly line as the normal E39 5-series at the [[Dingolfing]] factory in Germany.  In fact, the E39 M5 was almost not built at all; BMW believed that the {{convert|210|kW|PS bhp|0|abbr=on|lk=on}} 540i was powerful enough, but when [[Jaguar]] released the {{convert|272|kW|PS bhp|0|abbr=on}} [[Jaguar XJ#Mark 3 - X350 (2003-6)|XJR]], and [[Mercedes-Benz]] introduced the W210 E55, which had over {{convert|260|kW|PS bhp|0|abbr=on}} [[BMW]] responded to the competition with a {{convert|294|kW|PS bhp|0|abbr=on}} M5.
+
+Introduced in 1998 at the [[Geneva Motor Show]], production did not begin until late October of that year.  A total of 20,482 E39 M5s were made from 1999 to 2003.  BMW M produced three versions of the E39 M5, the European LHD and RHD versions, and the North American specification version.
+
+The E39 M5 had a highly tuned [[V8 engine]] based on the [[BMW M62|M62 engine]] called the [[BMW S62|S62]], which displaced 4.9&nbsp;litres and produced {{convert|294|kW|PS bhp|0|abbr=on}}.  The engine featured a 7000&nbsp;[[revolutions per minute|rpm]] redline, Double-[[VANOS]], which varies the intake and exhaust valves for both cylinder banks, and individual throttle butterflies for each of the cylinders, allowing for a much faster engine response time.
+
+All E39 M5s were equipped with a [[Getrag]] Type D six-speed [[manual transmission]] which provided the following gearing ratios:
+*1st gear: 4.23
+*2nd gear: 2.54
+*3rd gear: 1.62
+*4th gear: 1.23
+*5th gear: 1.00 
+*6th gear: 0.83
+
+It is the same transmission used in the E39 540i, but some changes were made to cope with the extra power the [[BMW S62|S62 engine]] produced.  A reinforced [[clutch]], rear differential utilising a shorter 3.15:1 ratio, and a [[limited slip differential]] with 25% maximum locking.
+
+The E39 M5 suspension shared its basic [[aluminium]]-intensive [[MacPherson strut]]/[[multilink|multi-link]] design of the [[V8 engine]]d E39 5 series.  However, several changes were made by BMW M.  Reduced spring height, {{convert|23|mm|1|abbr=on|lk=on}} lower.  A specific shock valving, thicker front and rear [[sway bar|anti-roll bars]], polyurethane auxiliary springs, and steel balljoints.
+
+Like all V8-powered E39 models, the E39 M5 was equipped with a [[recirculating ball]] steering system.  Overall steering ratio was reduced to 14.7 from 17.9.  It featured a [[Power_steering#Servotronic|Servotronic]] vehicle-speed-sensitive power assist which provides two levels of resistance controlled via console mounted Sport button.  The Sport button also adjusted the electronic throttle butterflies for faster throttle response.  The E39 M5 is equipped with four-wheel vented [[disc brake]]s measuring {{convert|345|mm|2|abbr=on|lk=on}} in diameter in front and {{convert|328|mm|2|abbr=on}} in diameter in the rear.  On European-specification models, the rotors are of a "floating" two-piece design for reduced risk of cone distortion.  Their lower unsprung weight improves ride quality and traction on bumpy surfaces as well.  [[Anti-lock brakes]] were standard.
+
+During its five&nbsp;years in production, there were some cosmetic changes in 2001 to include:
+*Revised headlight design incorporating illuminated "Angel Eyes" (incandescent glass rings surrounding the headlights)
+*Jewel tone ''Celis'' tail light design
+*Park Distance Control sensors in the front bumper (previously in rear only)
+*Thicker three-spoke M steering wheel identical to the one fitted to the E46 M3
+*Grey instrument panel
+*Improved solar sensor for standard automatic climate control
+*Revised navigation/audio unit with larger (6.5-inch) monitor (Standard on US Spec 2001-2003)
+*Rear head protection [[airbag]]s added
+*Second-generation M Mobility tyre repair system in place of earlier version
+*Available M Audio System with special tweeters, Kevlar/carbon coaxial speakers and two subwoofers behind the rear console
+*Alcantara headliner included with Extended Leather interior (previously only included with Complete Leather)
+
+For the subsequent two model years, changes were limited to the addition of new exterior colors (from 9/01 production) and the upgrade to a [[DVD]]-based navigation system (from 9/02 production).
+
+The official BMW of North America statement (mentioned in the 2003 brochure) for the acceleration time from 0-60 mph is 4.8s. Official statements from BMW are typically conservative and many reviewers claim to have achieved this under 4.5 seconds. It is electronically limited to a top speed of {{convert|250|km/h|0|abbr=on}}<ref>{{cite book |title=Deutsche Autos seit 1990, vol.5 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch |location=Stuttgart |isbn=3-613-02128-5 |page=187}}</ref>, making it the fastest 4-door saloon in the world at the time it was manufactured.  Once delimited, top speeds of an indicated {{convert|301|km/h|0|abbr=on}} ({{convert|290|km/h|0|abbr=on}} actual) are possible.{{Fact|date=April 2009}} 
+
+Although an E39 M5 [[station wagon|Touring]] was considered, and at least one prototype was constructed (in Titanium Silver with a Black Exclusive leather interior), BMW M decided not to produce an E39 M5 Touring due to financial considerations.
+
+==E60 M5 (2006–2010){{anchor|E60}}==
+{{Infobox Automobile generation
+|name          = BMW E60 M5
+|image         = [[File:M5 europe.jpg|250px|BMW M5 E60]]
+|production    = 2006–present
+|assembly      = [[Dingolfing]], [[Germany]]
+|predecessor   = [[#E39|E39 M5]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]],<br>5-door Touring ([[station wagon|estate/wagon]])
+|platform      = [[BMW E60]]
+|engine        = 5.0L [[V10 engine|V10]] [[petrol engine]]
+|transmission  = 6-speed [[manual transmission|manual]]<br>7-speed [[Electrohydraulic manual transmission|SMG]]
+|wheelbase     = saloon: {{convert|2889|mm|1|abbr=on}},<br>Touring: {{convert|2880|mm|1|abbr=on}}
+|length        = {{convert|4855|mm|1|abbr=on}}<br>2008-Present: {{convert|191.5|in|0|abbr=on}}
+|width         = {{convert|1846|mm|1|abbr=on}}
+|height        = saloon: {{convert|1469|mm|1|abbr=on}},<br>Touring: {{convert|1512|mm|1|abbr=on}}
+|weight        = saloon: {{convert|1855|kg|lb|0|abbr=on}},<br>Touring: {{convert|1955|kg|lb|0|abbr=on}}
+|fuel_capacity = {{convert|70|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[BMW 5-Series]]<br>[[BMW M6]]
+|designer      = [[Chris Bangle]]
+|sp            = uk
+}}
+{{Refimprovesect|date=March 2009}}
+The '''[[BMW E60|E60]] M5''' was introduced in 2005.  It has a {{convert|4999|cc|1|abbr=on|lk=on}} BMW [[V10 engine|V10]] [[BMW S85|S85 engine]] [[redline|redlining]] at 8250&nbsp;[[revolutions per minute|rpm]], and developing a peak output of {{convert|500|bhp|kW PS|0|abbr=on}} and {{convert|520|Nm|lb·ft|abbr=on}} of torque.  Unlike some other BMW engines which utilise Valvetronic to infinitely vary valve lift to eliminate the throttle plate, this engine has individual throttle bodies per cylinder.  
+
+Other key features include a stiffened [[aluminium]] chassis and a 7-speed SMG III [[semi-automatic transmission]]. Front fog lights are unavailable for the E60 M5, as the amount of air required by the engine forces the spaces under the bumper, normally occupied by fog lights in other E60 cars, to be reallocated for air intakes.
+
+The BMW M5, along with the new BMW M6, were designed to use the new SMG III [[electrohydraulic manual transmission]].  The transmission, while responsive at the track, has been criticized for its general lack of smoothness in everyday driving.  In October 2006, BMW announced that a 6-speed [[manual transmission]] would be available in North America, based on suggestions from the motoring press. The 6-speed manual M5 was marginally slower, since the stability control cannot be disengaged as per the SMG version.  The SMG III includes the "Launch Control" feature, which allows maximum performance [[standing start]]s automatically.  However, the US spec vehicles have a reduced rpm to prevent vehicle damage and abuse.
+[[Image:100 0303.jpg|thumb|left|250px|E60 BMW M5 V10 engine]]
+
+The M5 features several [[Formula One]] inspired engine and transmission controls, including [[launch control (automotive)|launch control]], [[dynamic stability control]], and the option of changing to either automated or manual, as well as the speed at which shifts are completed (there are 11 shift programmes in total forming what BMW calls '''Drivelogic''').  Manual shifting can be done with either a console shifter, or the steering wheel mounted shift paddles, both of which are fitted to all SMG M5s.  The console shifter is the type used on manumatic transmissions; tipping it backward (toward the "+") shifts up, while a forward tip (toward the "-") shifts down.  The shifter can be moved to the left to access neutral and reverse.  The car also features a "power" button on the steering wheel (labeled "M") which offers access to three modes: P400 (limiting the engine to {{convert|400|PS|kW bhp|0|abbr=on|lk=on}} for daily driving use), P500 (unleashes the full {{convert|507|PS|kW bhp|0|abbr=on}}), and P500 S (for full power and sharper throttle response, selectable only from the "M Drive Settings" in the iDrive menu).  P400 is the default start-up mode, the P500 modes are preselected using [[iDrive]] and then activated from P500 S using the "M" button.
+
+===Performance===
+The E60 M5 took the title of the most powerful midsize sport sedan when released in 2005 with the 5l naturally aspirated V10 [[BMW S85]] engine - though it has since then been overtaken by its newer rivals - specifically the 5 liter twin turbo 2008 [[Audi RS6#C6|Audi RS6 (C6)]] ({{convert|426|kW|bhp|0|abbr=on}})<ref>[http://www.autocar.co.uk/News/NewsArticle/AllCars/227613/]</ref>, and the second generation 6.2 liter supercharged 2009 [[Cadillac CTS-V]] ({{convert|556|bhp|kW PS|abbr=on}}) which bested the M5's [[Nürburgring lap times|Nürburgring lap time]].<ref>[http://www.caranddriver.com/news/car/08q2/2009_cadillac_cts-v_outruns_the_bmw_m3_and_m5_at_the_ring-car_news]</ref>
+
+* 0-{{convert|100|km/h|0|abbr=on}}: 4.7s <ref>{{Cite web |url=http://www.bmw.com/com/en/newvehicles/mseries/m5/2007/_shared/pdf/m5_sedan_touring_datasheet.pdf |title=Equipment and Technical data |accessdate=2008-05-17 |work=BMW AG |format=PDF}}</ref> 
+**(0-100&nbsp;mph: 10.1s, Road & Track [2/06])
+**(0-60&nbsp;mph: 4.1s, Road & Track [2/06])
+* Top speed: {{convert|250|km/h|0|abbr=on}} actual (or {{convert|163|mi/h|km/h|abbr=on}} indicated) with electronic speed limiter; {{convert|193|mi/h|km/h|abbr=on}} actual with limiter removed <ref name="bmwmultiple">[http://www.carautoportal.com/bmw/bmw-m5.php BMW M5 Specifications<!-- Bot generated title -->]</ref>
+* Power: {{convert|373|kW|PS bhp|0|abbr=on|lk=on}} at 7750&nbsp;rpm <ref name="bmwmultiple"/>
+* Torque: {{convert|520|Nm|0|abbr=on|lk=on}} at 6100&nbsp;rpm
+
+===E61 M5 Touring (2007–present)===
+[[Image:Black E61 M5 (3).jpg|thumb|M5 Touring (E61)]]
+The [[BMW E61|E61]] M5 Touring was introduced in 2007, only the second M version of the 5-Series Touring after the [[BMW E34|E34]].  It shares the same drivetrain with its saloon sibling, and serves as a rival to the [[Audi RS6]] Avant and [[Mercedes-Benz E-Class|Mercedes-Benz E63 AMG Estate]]. The Touring isn't offered for sale in North America.
+
+==F10 M5 (2011 -)==
+{{Infobox Automobile generation
+|name          = BMW F10 M5
+|image         = 
+|production    = 2011–
+|assembly      = 
+|predecessor   = [[#E60|E60 M5]]
+|body_style    = 4-door [[sedan (automobile)|sedan]]
+|transmission  = 7-speed [[dual clutch transmission]]
+|platform      = [[BMW F10]]
+|engine        = V8 Twin Turbo
+|related       = [[BMW 5-Series]]
+|designer      = [[Adrian van Hooydonk]]
+|sp            = uk
+}}
+The F10 M5 is set to be first released to the public at the 2011 [[Frankfurt Motor Show]]<ref>http://www.autocar.co.uk/News/NewsArticle/AllCars/244587/</ref>. It will include a currently unknown 8 cylinder twin turbocharged engine with an output of over {{convert|600|hp|kW|0|abbr=on}} and {{convert|680|Nm|0|abbr=on}} @ ~1500rpm, as indicated by [[Albert Biermann]], head of [[BMW M GmbH]]<ref>http://www.autocar.co.uk/News/NewsArticle/AllCars/244587/</ref>. This could be boosted further by a [[KERS|Kinetic Energy Regeneration System (KERS)]] found in [[Formula 1]] racing appications. This makes it one of the most powerful engines BMW M has ever produced, rivaled only by the [[BMW_M70#S70/2|BMW S70/2]] used in the legendary [[McLaren F1]].
+
+Turbocharging the M5 has not gone unnoticed, with long time fans of the M series being disappointed that BMW seems to be moving away from traditionally low displacement naturally aspirated high revving engines. Due to rising international regulations, reducing CO2 emissions and fuel consumption are cited as the death of the current models V10 engine. The F10 M5 will cut C02 emissions by 20%<ref>http://www.autocar.co.uk/News/NewsArticle/AllCars/244587/</ref>. 
+
+The F10 M5 will be further influenced by BMWs EfficientDynamics program to lower the weight of the car. This will improve fuel consumption and (possibly more relevantly) enchance performance. BMW has recently merged with the carbon fiber manufacturers SGL group<ref>http://www.motorauthority.com/blog/1037455_bmw-joins-forces-with-carbon-fiber-manufacturer-for-megacity-vehicle</ref> and Biermann has further speculated that carbon fiber will be employed substantially in the structure and shell to vastly reduce weight from the previous E60 model<ref>http://www.autocar.co.uk/News/NewsArticle/AllCars/244587/</ref>. Hybrid systems have been ruled out of the F10 M5's line up of gadgets because of the extra weight they will add to the car<ref>http://www.autocar.co.uk/News/NewsArticle/AllCars/244587/</ref>.
+
+==See also==
+{{commonscat}}
+*[[BMW M3]]
+*[[BMW M535i]]
+*[[BMW M6]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.bmw.com/com/en/newvehicles/mseries/m5/2007/introduction.html BMW M5] Official BMW M5 Site
+* [http://www.motortrend.com/cars/2008/bmw/m5/ 2008 M5 prices and specs]
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw M5}}
+[[Category:BMW vehicles|M5]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sedans]]
+[[Category:Sports sedans]]
+[[Category:Station wagons]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1985]]
+
+[[de:BMW M5]]
+[[es:BMW M5]]
+[[fr:BMW M5]]
+[[it:BMW M5]]
+[[nl:BMW M5]]
+[[no:BMW M5]]
+[[pl:BMW M5]]
+[[pt:BMW M5]]
+[[ro:BMW M5]]
+[[ru:BMW M5]]
+[[fi:BMW M5]]
+[[sv:BMW M5]]

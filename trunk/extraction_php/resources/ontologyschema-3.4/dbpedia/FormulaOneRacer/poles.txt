@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = poles
+|rdfs:domain = FormulaOneRacer
+|rdfs:range = xsd:integer
+}}

@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Disease
+|rdfs:subClassOf = owl:Thing
+}}

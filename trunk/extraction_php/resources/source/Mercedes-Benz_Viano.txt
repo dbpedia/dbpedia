@@ -1,0 +1,137 @@
+{{Infobox Automobile
+| name           = Mercedes-Benz Viano
+| image          = [[File:Mercedes Viano front 20070913.jpg|250px]]<br/>[[File:Mercedes Viano rear 20070913.jpg|250px]]
+| manufacturer   = [[Mercedes-Benz]]
+| parent_company = [[Daimler AG]]
+| production     = 2004–present
+| class          = [[Minivan|Multi-Purpose Vehicle]]
+| predecessor    = [[Mercedes-Benz Vito|Mercedes-Benz V-Class]]
+| body_style     = 5-door [[minivan|Multi-Purpose Vehicle]]
+| engine         = 3.2L [[V6]] Petrol <br>3.5L [[V6]] Petrol <br>4.3L [[V6]] Petrol <br>6.0L [[V8]] Petrol <br>2.2L [[Straight-4|I4]] CDI Diesel<br>3.0L [[V6]] CDI Diesel
+| transmission   = 6-speed [[Manual transmission|manual]]<br>5-speed [[Automatic transmission|automatic]]
+| layout         = [[Automobile_layout#Rear_wheel_drive_layouts|FR layout]]
+| related        = [[Mercedes-Benz Vito]]
+}}
+
+The '''Mercedes-Benz Viano''' (formally known as the V-Class) is a [[Minivan|multi-purpose vehicle]] based on the popular [[Mercedes-Benz Vito]] commercial panel van.  The first generation went on sale in 1996; it is presently in its second generation, having undergone a number of changes - including a new name - in 2004.
+
+The Viano is a rear-wheel drive minivan available in three lengths, two wheelbases and a choice of four standard, modern petrol and diesel engines (as well as two specialist tuned models) coupled to either a six-speed manual or five-speed [[Tiptronic|TouchShift]] automatic transmission.  In some countries a camping derivative is available - known as the Marco Polo - which comes with a galley, wardrobe and individual seats in the rear which transform into a bed at the push of a button.
+
+Six individual seats come as standard, however up to two rear three-seater benches can be purchased, turning the Viano into an eight seat people carrier.
+
+== Powertrains ==
+[[File:Mercedes Viano.jpg|thumb|left|200px]]
+All engines conform to [[European emission standards|Euro IV]] emission standards.<ref>http://www.vcacarfueldata.org.uk/search/searchResults.asp</ref>  Not all engines are available in all markets.
+
+{|class="wikitable" style="font-size:98%;" width="850"
+|-
+!Model !!Engine !!Power !!Torque !!Transmission !!Top Speed !!0-62 mph !!Economy !!Emissions
+|-
+!colspan=9|Diesel
+|-
+|'''Viano 2.0 CDI'''||2.2 L, 4 in-L||{{convert|116|PS|kW hp||abbr=on}}||270 Nm (199 lb ft)||6-Speed Manual||159 km/h (99 mph)||17.6 secs|| 34.9 mpg|| 215 g/km
+|-
+|'''Viano 2.0 CDI'''||2.2 L, 4 in-L||{{convert|116|PS|kW hp||abbr=on}}||270 Nm (199 lb ft)||5-Speed TouchShift||158 km/h (98 mph)||17.3 secs|| 32.8 mpg|| 186 g/km
+|-
+|'''Viano 2.2 CDI'''||2.2 L, 4 in-L||{{convert|150|PS|kW hp||abbr=on}}||330 Nm (244 lb ft)||6-Speed Manual||180 km/h (112 mph)||14.9 secs|| 34.9 mpg|| 215 g/km
+|-
+|'''Viano 2.2 CDI'''||2.2 L, 4 in-L||{{convert|150|PS|kW hp||abbr=on}}||330 Nm (244 lb ft)||5-Speed TouchShift||179 km/h (111 mph)||13.0 secs|| 32.8 mpg|| 229 g/km
+|-
+|'''Viano 3.0 CDI'''||3.0 L, 6 in-V||{{convert|204|PS|kW hp||abbr=on}}||440 Nm (325 lb ft)||5-Speed TouchShift||198 km/h (123 mph)||9.2 secs|| 30.7 mpg|| 244 g/km
+|-
+!colspan=9|Petrol
+|-
+|'''Viano 3.2 V6'''||3.2 L, 6 in-V||{{convert|190|PS|kW hp||abbr=on}}||270 Nm (199 lb ft)||5-Speed TouchShift||181 km/h (113 mph)||_._ secs|| 22.6 mpg|| 299 g/km
+|-
+|'''Viano 3.5 V6'''||3.5 L, 6 in-V||{{convert|259|PS|kW hp||abbr=on}}||340 Nm (251 lb ft)||5-Speed TouchShift||203 km/h (126 mph)||9.3 secs|| 23.7 mpg|| 284 g/km
+|-
+|'''Viano 4.4 Brabus'''||4.3 L, 6 in-V||{{convert|325|PS|kW hp||abbr=on}}||430 Nm (317 lb ft)||5-Speed TouchShift||230 km/h (143 mph)||7.2 secs|| __._ mpg|| ___ g/km
+|-
+|'''Viano 6.1 Brabus'''||6.0 L, 8 in-V||{{convert|426|PS|kW hp||abbr=on}}||621 Nm (458 lb ft)||5-Speed TouchShift||245 km/h (152 mph)||6.2 secs|| __._ mpg|| ___ g/km
+|-
+|}
+
+===== Environmental Impact =====
+What Green Car? - an organisation that analyses vehicle emissions and rates them from 0 (cleanest) to 100 (dirtiest) - has analysed the emissions from seven Viano drive trains.  These Green Ratings are listed below, starting with the cleanest:<ref>http://www.whatgreencar.com/cars/mercedes-benz/viano_(639)/</ref><br>
+
+'''68''' - 3.0 CDI TouchShift (204 Ps)<br>
+'''70''' - 2.0 CDI TouchShift (116 Ps)<br>
+'''71''' - 2.0 CDI Manual (116 Ps)<br>
+'''71''' - 2.2 CDI Manual (150 Ps)<br>
+'''75''' - 3.5 V6 TouchShift (259 Ps)<br>
+'''79''' - 2.2 CDI TouchShift (150 Ps)<br>
+'''79''' - 3.2 V6 TouchShift (190 Ps)<br>
+
+(Bigger or more powerful engines with greener ratings are often more modern engines.)
+
+==Safety==
+Two head-on airbags and (on higher trim levels) front side airbags are fitted as standard, with front window airbags available as an option.  [[Electronic stability control]] (ESP), [[traction control system]] (ASR), [[anti-lock braking system]] (ABS), [[electronic brakeforce distribution]] (EBV) and [[brake assist]] (BAS) are all fitted as standard.  If BAS is activated, the brake lights flash to warn following motorists that the Viano driver is undertaking an emergency braking manoeuvre.  According to Mercedes, 'if braking persists until the vehicle is stationary the hazard warning lights are automatically activated.'<ref>http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/passengercars/home/new_cars/models/viano/639/overview/safety.0008.html</ref>
+
+Each seat is fitted with a three-point seatbelt with belt tensioner and force limiter and an adjustable head restraint.
+
+The Viano passed the [[Euro NCAP]] car safety tests with following ratings:<ref>http://www.euroncap.com/tests/mercedes_benz_viano_2008/343.aspx</ref>
+{| class="wikitable"
+|-
+|Adult Occupant:
+|{{rating|4|5}}
+|-
+|Child Occupant:
+|{{rating|3|5}}
+|-
+|Pedestrian:
+|{{rating|1|4}}
+|}
+
+== Rivals ==
+There are a number of rival MPVs in the Viano's price and size bracket; these include:
+*[[Chrysler Town and Country|Chrysler Grand Voyager]]
+*[[Volkswagen Transporter (T5)|Volkswagen Caravelle]]
+*[[Peugeot 807]]
+*[[Ford Tourneo]]
+*[[Toyota Previa]]
+
+== 4MATIC ==
+Four-wheel drive is available on  models fitted with 4 cylinder diesel engines.  In normal operation on surfaces that provide good grip the Viano 4MATIC transfers driving power to the wheels in a 35:65 split between the front and rear axle. The 4MATIC system doesn't have mechanical differential locks. Instead the all-wheel drive system teams up with the electronic traction system 4ETS, and if one or more wheels loses traction on a slippery surface, 4ETS automatically applies brief pulses of brake pressure to the spinning wheels while increasing the torque to wheels with good grip.
+
+===== 4MATIC In Motor Sports =====
+[[File:VianoDüne.jpg|thumb|The Viano running through the dunes]]
+2006: The Viano acts as support vehicle on the [[Dakar Rally]] for the [[Mercedes-Benz]] Service and Kwikpower team<ref>http://media.daimler.com/dcmedia/0-921-656174-1-1198680-1-0-0-0-0-0-13457-656174-0-1-0-0-0-0-0.html</ref>
+
+2009: The Viano 4MATIC claims victory in the [[SUV]] category in the 19th edition of the [[Rallye Aicha des Gazelles]] with Irishwoman Jeanette James as pilot and Frenchwoman Anne-Marie Ortola as navigator.<ref>http://media.daimler.com/dcmedia/0-921-656174-1-1198680-1-0-0-0-0-0-13457-656174-0-1-0-0-0-0-0.html</ref>
+
+== Special Editions ==
+===== Viano X-Clusive =====
+This special edition Viano is available with the V6 engines.<ref>http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/passengercars/home/new_cars/models/viano/639/xclusive.0004.html</ref>  It has been adorned with sportier exterior details including metallic paint, 18" alloy wheels, a chromed exhaust tailpipe and unique front and rear bumpers.  Inside are specially designed 'Twin' leather seats and burr walnut wood accents.<ref>http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/passengercars/home/new_cars/models/viano/639/xclusive.0003.html</ref>
+
+The Viano X-Clusive is only available in selected markets.
+
+== Reviews ==
+*4Car {{rating|2.5|5}}<ref>http://www.channel4.com/4car/rt/mercedes/viano/207/2</ref>
+
+*[[Autocar]] {{rating|2.5|5}}<ref>http://www.autocar.co.uk/SpecsPrices/SpecsAndPricesModel/Mercedes-Benz-Viano/25220/1928/</ref>
+
+*[[Parker's Car Guides]] {{rating|3|5}}<ref>http://www.parkers.co.uk/cars/reviews/mercedes-benz/viano-2004.aspx</ref><br>'Pros: Capable of carrying eight in comfort, massive and versatile interior, superb diesels'.<br>'Cons: Sheer size makes it difficult to manoeuvre, can't hide commercial vehicle origins'.
+
+*[[The_Automobile_Association|The AA]] {{rating|8|10}}<ref>http://www.theaa.com/allaboutcars/cartestreports/2009036.html</ref><br>'Image is everything in the world of business and it should come as no surprise that the Viano is the big cheese in the executive travel world.'
+
+*WiseBuyer {{rating|3|5}}<ref>http://www.wisebuyers.co.uk/motoring/car-reviews/Mercedes/Viano+(2004-)/1208/</ref><br>'Viano is a practical people-shifter but it's also a very expensive one. Quite stylish, it seats up to eight with lots of passenger/luggage layouts. It's more than an up-market minibus.'
+
+*Yahoo! Cars {{rating|3|5}}<ref>http://uk.cars.yahoo.com/car-reviews/car-and-driving/mercedes-viano-range-1003829.html</ref><br>The Viano is... 'a well-built vehicle that offers flexibility and practicality.'
+
+==References==
+{{reflist}}
+
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz vehicles|Viano]]
+[[Category:Vans]]
+[[Category:Euro NCAP large MPVs]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Cars of Germany]]
+
+[[da:Mercedes-Benz W639]]
+[[de:Mercedes-Benz W639]]
+[[ja:メルセデス・ベンツ バネオ]]
+[[pl:Mercedes-Benz Viano]]
+[[ru:Mercedes-Benz Viano]]
+[[tr:Mercedes-Benz Viano]]

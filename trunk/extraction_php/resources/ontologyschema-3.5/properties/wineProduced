@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = wine produced
+| rdfs:domain = WineRegion
+}}

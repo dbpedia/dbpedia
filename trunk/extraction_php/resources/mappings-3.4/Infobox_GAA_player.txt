@@ -1,0 +1,17 @@
+{{ DBpediaTemplateMapping
+| mapToClass = GaelicGamesPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = sport | ontologyProperty = GaelicGamesPlayer/sport }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = fullname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = dob | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = dod | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = club | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = clposition | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = clubs | ontologyProperty = Athlete/formerTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = clyears | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = clyears | ontologyProperty = Person/activeYearsEndYear }}
+}}

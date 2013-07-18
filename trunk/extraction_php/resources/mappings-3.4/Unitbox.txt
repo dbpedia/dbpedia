@@ -1,0 +1,48 @@
+{{ DBpediaTemplateMapping
+| mapToClass = MilitaryUnit
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = MilitaryUnit/country }}
+	{{ DBpediaPropertyMapping | templateProperty = branch | ontologyProperty = MilitaryUnit/branch }}
+	{{ DBpediaPropertyMapping | templateProperty = role | ontologyProperty = MilitaryUnit/role }}
+	{{ DBpediaPropertyMapping | templateProperty = size | ontologyProperty = MilitaryUnit/size }}
+	{{ DBpediaPropertyMapping | templateProperty = command_structure | ontologyProperty = MilitaryUnit/commandStructure }}
+	{{ DBpediaPropertyMapping | templateProperty = garrison | ontologyProperty = MilitaryUnit/garrison }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = MilitaryUnit/nickname }}
+	{{ DBpediaPropertyMapping | templateProperty = patron | ontologyProperty = MilitaryUnit/patron }}
+	{{ DBpediaPropertyMapping | templateProperty = colors | ontologyProperty = MilitaryUnit/color }}
+	{{ DBpediaPropertyMapping | templateProperty = march | ontologyProperty = MilitaryUnit/march }}
+	{{ DBpediaPropertyMapping | templateProperty = mascot | ontologyProperty = MilitaryUnit/mascot }}
+	{{ DBpediaPropertyMapping | templateProperty = battles | ontologyProperty = MilitaryUnit/battle }}
+	{{ DBpediaPropertyMapping | templateProperty = anniversaries | ontologyProperty = MilitaryUnit/anniversary }}
+	{{ DBpediaPropertyMapping | templateProperty = battle_honours | ontologyProperty = MilitaryUnit/battleHonours }}
+	{{ DBpediaPropertyMapping | templateProperty = disbanded | ontologyProperty = MilitaryUnit/disbanded }}
+	{{ DBpediaPropertyMapping | templateProperty = commander1 | ontologyProperty = MilitaryUnit/commander }}
+	{{ DBpediaPropertyMapping | templateProperty = commander2 | ontologyProperty = MilitaryUnit/secondCommander }}
+	{{ DBpediaPropertyMapping | templateProperty = commander3 | ontologyProperty = MilitaryUnit/thirdCommander }}
+	{{ DBpediaPropertyMapping | templateProperty = notable_commanders | ontologyProperty = MilitaryUnit/notableCommander }}
+	{{ DBpediaPropertyMapping | templateProperty = identification_symbol | ontologyProperty = MilitaryUnit/identificationSymbol }}
+	{{ DBpediaPropertyMapping | templateProperty = identification_symbol_2 | ontologyProperty = MilitaryUnit/identificationSymbol }}
+	{{ DBpediaPropertyMapping | templateProperty = identification_symbol_3 | ontologyProperty = MilitaryUnit/identificationSymbol }}
+	{{ DBpediaPropertyMapping | templateProperty = identification_symbol_4 | ontologyProperty = MilitaryUnit/identificationSymbol }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_attack | ontologyProperty = MilitaryUnit/aircraftAttack }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_bomber | ontologyProperty = MilitaryUnit/aircraftBomber }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_electronic | ontologyProperty = MilitaryUnit/aircraftElectronic }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_fighter | ontologyProperty = MilitaryUnit/aircraftFigther }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_helicopter | ontologyProperty = MilitaryUnit/aircraftHelicopter }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_helicopter_attack | ontologyProperty = MilitaryUnit/aircraftHelicopterAttack }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_helicopter_cargo | ontologyProperty = MilitaryUnit/aircraftHelicopterCargo }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_helicopter_multirole | ontologyProperty = MilitaryUnit/aircraftHelicopterMultirole }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_helicopter_observation | ontologyProperty = MilitaryUnit/aircraftHelicopterObservation }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_helicopter_transport | ontologyProperty = MilitaryUnit/aircraftHelicopterTransport }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_helicopter_utility | ontologyProperty = MilitaryUnit/aircraftHelicopterUtility }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_interceptor | ontologyProperty = MilitaryUnit/aircraftInterceptor }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_patrol | ontologyProperty = MilitaryUnit/aircraftPatrol }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_recon | ontologyProperty = MilitaryUnit/aircraftRecon }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_trainer | ontologyProperty = MilitaryUnit/aircraftTrainer }}
+	{{ DBpediaPropertyMapping | templateProperty = aircraft_transport | ontologyProperty = MilitaryUnit/aircraftTransport }}
+	{{ DBpediaPropertyMapping | templateProperty = unit_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = dates | ontologyProperty = MilitaryUnit/activeYearsStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = dates | ontologyProperty = MilitaryUnit/activeYearsEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Organisation/type }}
+	{{ DBpediaPropertyMapping | templateProperty = motto | ontologyProperty = Organisation/motto }}
+}}

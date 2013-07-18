@@ -1,0 +1,21 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Bridge
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = crosses | ontologyProperty = Bridge/crosses }}
+	{{ DBpediaPropertyMapping | templateProperty = locale | ontologyProperty = Bridge/locatedInArea }}
+	{{ DBpediaPropertyMapping | templateProperty = id | ontologyProperty = Bridge/unitedStatesNationalBridgeId }}
+	{{ DBpediaPropertyMapping | templateProperty = mainspan | ontologyProperty = Bridge/mainspan | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = bridge_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = maint | ontologyProperty = Building/owningOrganisation }}
+	{{ DBpediaPropertyMapping | templateProperty = designer | ontologyProperty = Building/architect }}
+	{{ DBpediaPropertyMapping | templateProperty = design | ontologyProperty = Building/architectualBureau }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Place/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = begin | ontologyProperty = Building/buildingStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = complete | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = open | ontologyProperty = Building/openingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = closed | ontologyProperty = Building/closingDate }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+}}

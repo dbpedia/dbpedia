@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = ATC prefix
+|rdfs:domain = Protein
+|rdfs:range = xsd:string
+}}

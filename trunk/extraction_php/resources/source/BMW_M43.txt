@@ -1,0 +1,73 @@
+{{Infobox Automobile
+|name=BMW M43
+|manufacturer=[[BMW]]
+|production=1991&ndash;2002
+|class=[[SOHC]] [[Straight-4]]
+|predecessor=[[BMW M40]]
+|successor=[[BMW N42]]
+|related=[[BMW M44]]
+|engine=1.6&nbsp;L (1596&nbsp;cc/97&nbsp;in³)<br>1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)<br>1.9&nbsp;L (1895&nbsp;cc/115&nbsp;in³)
+|similar=[[Mercedes-Benz M111 engine|Mercedes-Benz M111]]
+}}
+The [[BMW]] '''M43''' is a [[straight-4]] [[piston engine]]. Displacement ranges from 1600 cc to 2000 cc.
+
+The engine was built solely on Assembly Line 2 at Steyr, and was the successor to the M40.
+
+It features ICIM (Individual Control Intake Manifold) and 2-valve technology. The ICIM optimizes the torque curve and is also aided by anti-knock control. Like the 16-valve, 4-cylinder M42 engine and the 6 and 8-cylinder engines, stationary high-voltage distribution is also used on the M43. The M40's timing belt was replaced by a chain as the high engine bay temperatures reduced the lifespan of the belt. Engine ratings were slightly raised while exhaust levels and fuel efficiency were significantly improved.
+
+A further technical revision occurred in 1998. The displacement capacity was increased to 1.9 litres, resulting in improved torque of 180 Nm at 3900 rpm. The intake manifold was also constructed of plastic for added weight savings.
+
+From 1993 to 2001 a total of 1,204,734 units came off the production line, making this the Steyr plant's highest-production engine.
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#M43B16|M43B16]]||1.6&nbsp;L (1596&nbsp;cc/97&nbsp;in³)||75&nbsp;kW (101&nbsp;hp) @ 5500||150&nbsp;N·m (111&nbsp;ft·lbf) @ 3900||6200||1991
+|-
+|[[#M43B18|M43B18]]||1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)||85&nbsp;kW (114&nbsp;hp) @ 5500||168&nbsp;N·m (124&nbsp;ft·lbf) @ 3900||6200||1993
+|-
+|rowspan=2|[[#M43TUB19|M43TUB19]]||rowspan=2|1.9&nbsp;L (1895&nbsp;cc/115&nbsp;in³)||87&nbsp;kW (117&nbsp;hp) @ 5500||180&nbsp;N·m (133&nbsp;ft·lbf) @ 3900||6200||1998
+|-
+|77&nbsp;kW (103&nbsp;hp) @ 5300||165&nbsp;N·m (122&nbsp;ft·lbf) @ 2500||6200||1999
+|}
+==M43B16==
+
+A 1.6&nbsp;L (1596cc) '''M43B16''' produces 75&nbsp;kW (102&nbsp;hp) and 150&nbsp;N·m (111&nbsp;ft·lbf) with [[Robert Bosch GmbH|Bosch]] M1.7.1 [[fuel injection]].
+
+Applications:
+* 1993-1999 [[BMW E36|E36]] [[BMW 3-Series|316i]]
+* 1994-1998 [[BMW E36|E36]] [[BMW 3-Series|316i Compact]]
+
+==M43B18==
+
+The '''M43B18''' was a 1.8&nbsp;L (1796cc) version.  It produced 85&nbsp;kW (115&nbsp;hp) and 168&nbsp;N·m (124&nbsp;ft·lbf) with [[Robert Bosch GmbH|Bosch]] M1.7.1 [[fuel injection]].
+
+Applications:
+* 1992-1995.5 [[BMW E36|E36]] [[BMW 3-Series|318i]]
+* 1994-1996 [[BMW E34|E34]] [[BMW 5-Series|518i]]
+* 1995-2001 [[BMW E36|E36]] [[BMW Z3|Z3 1.8]]
+
+==M43B19==
+
+The 1.9&nbsp;L (1895cc) '''M43B19''' was the largest M43 engine.  It produced 87&nbsp;kW (117&nbsp;hp) and 180&nbsp;N·m (133&nbsp;ft·lbf) or 77&nbsp;kW (103&nbsp;hp) and 165&nbsp;N·m (122&nbsp;ft·lbf).  It used [[BMW]] BMS 46 [[fuel injection]].
+
+It's also known as '''M43 TÜ''' engine. It had twin-balancing shafts.
+
+Applications:
+* 87&nbsp;kW (117&nbsp;hp) and 180&nbsp;N·m (133&nbsp;ft·lbf)
+** 1998-2001 [[BMW E46|E46]] [[BMW 3-Series|318i/318Ci]] 
+** 1998-2001 [[BMW E36|E36]] [[BMW Z3|Z3 1.8/Z3 1.9i]]
+* 77&nbsp;kW (103&nbsp;hp) and 165&nbsp;N·m (122&nbsp;ft·lbf)
+** 1999-2000 [[BMW E36|E36]] [[BMW Compact|316i compact]] 
+** 1998-2001 [[BMW E46|E46]] [[BMW 3-Series|316i]]
+
+[[Category:BMW engines|M43]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:BMW M43]]
+[[it:BMW M43]]
+[[no:BMW M43]]
+[[pl:BMW M43]]

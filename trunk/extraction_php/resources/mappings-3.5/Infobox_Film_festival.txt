@@ -1,0 +1,17 @@
+{{TemplateMapping
+| mapToClass = FilmFestival
+| mappings = 
+	{{PropertyMapping | templateProperty = opening | ontologyProperty = openingFilm }}
+	{{PropertyMapping | templateProperty = closing | ontologyProperty = closingFilm }}
+	{{PropertyMapping | templateProperty = films | ontologyProperty = film }}
+	{{PropertyMapping | templateProperty = directors | ontologyProperty = director }}
+	{{PropertyMapping | templateProperty = producers | ontologyProperty = producer }}
+	{{PropertyMapping | templateProperty = writers | ontologyProperty = writer }}
+	{{PropertyMapping | templateProperty = starring | ontologyProperty = starring }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = date | ontologyProperty = startDate }}
+	{{PropertyMapping | templateProperty = date | ontologyProperty = endDate }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

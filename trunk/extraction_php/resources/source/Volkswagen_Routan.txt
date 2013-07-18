@@ -1,0 +1,303 @@
+{{Infobox Automobile
+| image          = [[Image:2009 Volkswagen Routan SE.jpg|250px|2009 Volkswagen Routan SE]]
+| name           = Volkswagen Routan
+| manufacturer   = [[Chrysler Group LLC]]
+| parent_company = 
+| production     = 2008–2009
+| class          = [[Minivan]]
+| predecessor    = [[Volkswagen Eurovan]]
+| body_style     = 4-door [[minivan]]
+| platform       = [[Chrysler RT platform]]
+| engine         = 3.8L [[Chrysler_3.3_engine#3.8|EGH]] [[V6]]<br>4.0L [[Chrysler_SOHC_V6_engine#4.0|EGQ]] [[V6]]
+| transmission   = 6-speed [[Automatic transmission|automatic]]
+| wheelbase      = {{Auto in|121.2|0}}
+| length         = {{Auto in|202.5|0}}
+| width          = {{Auto in|76.9|0}}
+| height         = {{Auto in|68.9|0}}
+| layout         = [[FF layout]]
+| related        = [[Chrysler Town and Country]]<Br>[[Dodge Caravan]]
+| assembly       = [[Windsor, Ontario]], [[Canada]]}}
+
+The '''Volkswagen Routan''' is a seven-seat [[minivan]] and [[badge engineering|rebadged]] variant of the [[Chrysler S platform#RT|Chrysler RT platform]], with revised styling, content features, and suspension tuning from the fifth-generation [[Dodge Grand Caravan]] and [[Chrysler Town & Country]].<ref name="ablog">{{cite web
+  | title = Chicago 2008: Volkswagen unveils the newish Routan minivan
+  | publisher = Autoblog.com, Jeremy Korzeniewski, Feb 6 2008
+  | url = http://www.autoblog.com/2008/02/06/chicago-2008-volkswagen-unveils-the-newish-routan-minivan}}</ref><ref name="about">{{cite web
+  | title = 2009 Volkswagen Routan Minivan - - What's New for 2009
+  | publisher = About.com, Jeff James
+  | url = http://minivans.about.com/od/manufacturer/a/09VWminivan.htm}}</ref><ref name="mtrend">{{cite web
+  | title = 2009 Volkswagen Routan
+  | publisher = Motor Trend, Bob Nagy
+  | url = http://www.motortrend.com/roadtests/minivans-vans/112_0811_2009_volkswagen_routan_first_drive/index.html}}</ref><ref name="rtrack">{{cite web
+  | title = 2009 Volkswagen Routan
+  | publisher = Road and Track
+  | url = http://www.roadandtrack.com/article.asp?section_id=15&article_id=6436}}</ref><ref name="myride">{{cite web
+  | title = 2009 Volkswagen Routan SE: The best Chrysler minivan wears a VW Routan badge
+  | publisher = Myride.com
+  | url = http://www.myride.com/review/2009_volkswagen_routan-review-4292-page1.html}}</ref> 
+
+Manufactured alongside the Chrysler minivans at [[Windsor Assembly]] and marketed in the United States, Canada, and Mexico, the Routan debuted at the 2008 [[Chicago Auto Show]] and went on sale in the United States in September 2008.
+
+The Routan's minivan nameplate variants &mdash; including the [[Plymouth Voyager|Plymouth]] and [[Chrysler Voyager]] along with the currently marketed [[Dodge Caravan]] and [[Chrysler Town & Country]] &mdash; have ranked as the 13th [[List of bestselling vehicle nameplates|bestselling automotive nameplate]] worldwide, with over 12 million sold.<ref name="autonews">{{cite web
+  | title = Chrysler LLC Celebrates 25th Anniversary of the Minivan
+  | publisher = Autonew24h.com
+  | url = http://www.autonews24h.com/Auto-Industry/Chrysler/2885.html}}</ref> 
+
+==History==
+The Routan resulted from a 2005 partnership between [[Volkswagen]] and [[DaimlerChrysler]]. Prior to the agreement, Volkswagen had no minivan model for the United States or Canadian markets. VW announced in an early 2008 projection that the company intended for the Routan and other models to help achieve significant expansion of U.S. sales.<ref>{{cite news 
+  | title = VW Plans to Triple U.S. Vehicle Sales
+  | work = Car & Driver
+  | date = September 2007
+  | url = http://www.caranddriver.com/news/car_news/vw_plans_to_triple_u_s_vehicle_sales_car_news
+  | accessdate = 2009-01-05}}</ref> The Routan is Volkswagen's first van offered in North America since discontinuation of the [[Volkswagen Transporter (T4)|Volkswagen Eurovan]] in 2003, and is not related to the European-market [[Volkswagen Touran]].<ref>{{cite news 
+  | last = Vander Doelen
+  | first = Chris
+  | title = VW's Routan to roll off Windsor Assembly
+  | work = Windsor Star
+  | date = 2008-01-22
+  | url = http://www.canada.com/windsorstar/news/business/story.html?id=c728f842-dbdf-4a17-a637-88c7b33b8610
+  | accessdate = 2009-01-05}}</ref>
+
+==Features==
+===Interior===
+The Routan features a rebranded version of Chrysler's hard drive-based audio and navigation system &mdash; marketed by Chrysler as the MyGig system and by Volkswagen as the Joybox, but has neither Chrysler's [[Chrysler Town and Country#Stow'n Go seating|Stow'n Go]] nor [[Chrysler Town and Country#Swivel 'n Go|Swivel'n Go]] seating systems.  Instead, the second row seats in the Routan  feature the [[Chrysler Town and Country#Easy-Out Roller Seats|Easy Out Roller Seat system]]. Routans are now equipped with systems that offer internet access for all Wi-Fi enabled devices.
+
+===Engine===
+The Routan is available with the Chrysler [[Chrysler 3.3 engine|3.8 L]] [[V6]] producing {{Convert|197|hp|kW|0|abbr=on}} and {{auto ftlbf|230}}, and the [[Chrysler SOHC V6 engine#4.0|4.0 L V6]] producing {{Convert|251|hp|kW|0|abbr=on}} and {{auto ftlbf|259}} &mdash; with either engine mated to Chrysler's [[Ultradrive#62TE|62TE]] six-speed [[automatic transmission|automatic]] transaxle with [[Manual transmission|manual]] shift capability.
+
+{|class="wikitable"
+!align="center" valign="center"|Displacement<br/><small>([[Litre|L]])</small>
+!align="center" valign="center"|Type
+!align="center" valign="center"|Valves
+!align="center" valign="center"|Power<br/><small>([[horsepower|HP]])</small>
+!align="center" valign="center"|Torque<br/><small>([[Foot-pound force|lb-ft]])</small>
+!align="center" valign="center"|HP/Torque<br />Rated RPM
+!align="center" valign="center"|Compression<br />Ratio
+!align="center" valign="center"|Fuel Economy<br/><small>([[Miles per gallon|MPG]])</small>
+|-
+|align="center" valign="center"|3.8
+|align="center" valign="center"|OHV
+|align="center" valign="center"|12
+|align="center" valign="center"|197
+|align="center" valign="center"|230
+|align="center" valign="center"|5,200/4,000
+|align="center" valign="center"|9.6:1
+|align="center" valign="center"|16/23
+|-
+|align="center" valign="center"|4.0
+|align="center" valign="center"|SOHC
+|align="center" valign="center"|24
+|align="center" valign="center"|251
+|align="center" valign="center"|259
+|align="center" valign="center"|6,000/4,100
+|align="center" valign="center"|10.2:1
+|align="center" valign="center"|17/25
+|-
+|}
+
+==Markets==
+===United States===
+[[Volkswagen Group of America|VW of America]] had projected for the Routan to gain at least five percent of the US minivan market,<ref name="stldispatch">{{cite web
+  | title = Chrysler-built Routan has VW look
+  | publisher = St. Louis Post-Dispatch, Christopher Boyce, 2/07/2008
+  | url = http://www.stltoday.com/stltoday/business/stories.nsf/story/2E990D46B69D9EAE862573E8000F5CD5?OpenDocument}}</ref> or 45,000 units of the 700,000 minivans sold currently. In January 2009, VW of America asked Chrysler Canada to stop production of the Routan for the month of February after 29,000 Routans had been shipped to US dealerships.  11,677 units had sold by July 2009. <ref name="ablogjan09">{{cite web
+  | title = Routan Bust? VW asks Chrysler to stop building minivans for February
+  | publisher = Autoblog.com Chris Paukert Jan 30, 2009
+  | url = http://www.autoblog.com/2009/01/30/routan-bust-vw-asks-chrysler-to-stop-building-minivans-for-febr/}}</ref> 
+
+====Trims====
+{|class="wikitable"
+!align="center" valign="center"|Trim
+!align="left" valign="center"|Engine
+!align="center" valign="center"|MSRP ([[United States dollar|USD]])
+|-
+|align="center" valign="center"|S
+|align="left" valign="center"|3.8L V6
+|align="center" valign="center"|$25,200
+|-
+|align="center" valign="center"|SE
+|align="left" valign="center"|3.8L V6
+|align="center" valign="center"|$29,700
+|-
+|align="center" valign="center"|SEL
+|align="left" valign="center"|4.0L V6
+|align="center" valign="center"|$33,600
+|-
+|align="center" valign="center"|SEL Premium
+|align="left" valign="center"|4.0L V6
+|align="center" valign="center"|$38,500
+|-
+|}
+
+====Sales====
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 82%;"
+|----- bgcolor=#006699
+!'''<font color=#FFFFFF>Jan&nbsp;2008'''
+!'''<font color=#FFFFFF>Feb&nbsp;2008'''
+!'''<font color=#FFFFFF>Mar&nbsp;2008'''
+!'''<font color=#FFFFFF>Apr&nbsp;2008'''
+!'''<font color=#FFFFFF>May&nbsp;2008'''
+!'''<font color=#FFFFFF>Jun&nbsp;2008'''
+!'''<font color=#FFFFFF>Jul&nbsp;2008'''
+!'''<font color=#FFFFFF>Aug&nbsp;2008'''
+!'''<font color=#FFFFFF>Sep&nbsp;2008'''
+!'''<font color=#FFFFFF>Oct&nbsp;2008'''
+!'''<font color=#FFFFFF>Nov&nbsp;2008'''
+!'''<font color=#FFFFFF>Dec&nbsp;2008'''
+!----- bgcolor=#950000|'''<font color=#FFFFFF>Total&nbsp;2008'''
+|-
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|375<ref name="vwmedia1">{{cite web
+  | title = Volkswagen Reports September 2008 Sales
+  | publisher = Volkswagen Press Release, October 1, 2008 
+  | url = http://www.media.vw.com/article_display.cfm?article_id=10400}}</ref> 
+|789<ref name="vwmedia2">{{cite web
+  | title = Volkswagen Reports October 2008 Sales
+  | publisher = Volkswagen Press Release, November 3, 2008 
+  | url = http://www.media.vw.com/article_display.cfm?article_id=10414}}</ref> 
+|1,324<ref name="vwmedia3">{{cite web
+  | title = Volkswagen Reports November 2008 Sales
+  | publisher = Volkswagen Press Release, December 2, 2008 
+  | url = http://www.media.vw.com/article_display.cfm?article_id=10433}}</ref>
+|899<ref name="vwmedia4">{{cite web
+  | title = Volkswagen Reports December 2008 Sales
+  | publisher = Volkswagen Press Release, January 5, 2009 
+  | url = http://www.media.vw.com/article_display.cfm?article_id=10434}}</ref>
+|3,387
+|-
+|----- bgcolor=#006699
+!'''<font color=#FFFFFF>Jan&nbsp;2009'''
+!'''<font color=#FFFFFF>Feb&nbsp;2009'''
+!'''<font color=#FFFFFF>Mar&nbsp;2009'''
+!'''<font color=#FFFFFF>Apr&nbsp;2009'''
+!'''<font color=#FFFFFF>May&nbsp;2009'''
+!'''<font color=#FFFFFF>Jun&nbsp;2009'''
+!'''<font color=#FFFFFF>Jul&nbsp;2009'''
+!'''<font color=#FFFFFF>Aug&nbsp;2009'''
+!'''<font color=#FFFFFF>Sep&nbsp;2009'''
+!'''<font color=#FFFFFF>Oct&nbsp;2009'''
+!'''<font color=#FFFFFF>Nov&nbsp;2009'''
+!'''<font color=#FFFFFF>Dec&nbsp;2009'''
+!----- bgcolor=#950000|'''<font color=#FFFFFF>Total&nbsp;2009'''
+|-
+|663<ref name="vwmedia5">{{cite web
+  | title = Volkswagen Reports January 2009 Sales
+  | publisher = Volkswagen Press Release, February 3, 2009
+  | url = http://www.media.vw.com/article_display.cfm?article_id=10442}}</ref> 
+|503<ref name="vwmedia6">{{cite web
+  | title = Volkswagen Reports February 2009 Sales
+  | publisher = Volkswagen Press Release, March 3, 2009
+  | url = http://media.vw.com/article_display.cfm?article_id=10453}}</ref> 
+|1,029<ref name="vwmedia7">{{cite web
+  | title = Volkswagen Reports March 2009 Sales
+  | publisher = Volkswagen Press Release, April 1, 2009
+  | url = http://www.media.vw.com/article_display.cfm?article_id=10468}}</ref> 
+|2,606<ref name="vwmedia8">{{cite web
+  | title = Volkswagen Reports April 2009 Sales
+  | publisher = Volkswagen Press Release, May 1, 2009
+  | url = http://www.media.vw.com/article_display.cfm?article_id=10493}}</ref> 
+|1,390<ref name="vwmedia9">{{cite web
+  | title = Volkswagen Reports May 2009 Sales
+  | publisher = Volkswagen Press Release, June 2, 2009
+  | url = http://media.vw.com/index.php?s=43&item=443}}</ref>
+|2,099<ref name="vwmedia10">{{cite web
+  | title = Volkswagen Reports June 2009 Sales
+  | publisher = Volkswagen Press Release, July 1, 2009
+  | url = http://media.vw.com/index.php?s=43&item=456}}</ref>
+|1,350<ref name="vwmedia11">{{cite web
+  | title = Volkswagen Reports Jul 2009 Sales
+  | publisher = Volkswagen Press Release, Aug 3, 2009
+  | url = http://media.vw.com/index.php?s=43&item=477}}</ref>
+|2,098<ref name="vwmedia12">{{cite web
+  | title = Volkswagen Reports Aug 2009 Sales
+  | publisher = Volkswagen Press Release, Sep 1, 2009
+  | url = http://media.vw.com/index.php?s=43&item=494}}</ref>
+|901<ref name="vwmedia13">{{cite web
+  | title = Volkswagen Announces September Sales Totals
+  | publisher = Volkswagen Press Release, Oct 1, 2009
+  | url = http://media.vw.com/index.php?s=43&item=510}}</ref>
+|
+|
+|
+|12,639
+|-
+|}
+
+===Mexico===
+Volkswagen de México markets the Routan alongside the  [[Volkswagen Transporter (T5)|Transporter]] (marketed locally as the Eurovan), replacing the European-built [[Volkswagen Sharan]] minivan in the autumn of 2008.
+
+====Trims====
+{|class="wikitable"
+!align="center" valign="center"|Trim
+!align="left" valign="center"|Engine
+!align="center" valign="center"|MSRP ([[Mexican peso|MXP]])
+|-
+|align="center" valign="center"|Prestige
+|align="left" valign="center"|3.8L V6
+|align="center" valign="center"|$36,270
+|-
+|align="center" valign="center"|Exclusive
+|align="left" valign="center"|3.8L V6
+|align="center" valign="center"|$40,397
+|-
+|}
+
+===Canada===
+Volkswagen Canada began selling the Routan during the autumn of 2008. Like its United States counterpart, VW Canada had not featured a minivan in its vehicle lineup since the discontinuation of the Eurovan. For the four months that the Routan minivan was on sale in Canada in 2008 (September through December), the company sold 335 units.<ref name="CNW1">{{cite web
+  | title = Volkswagen Canada December 2008 and full-year 2008 sales
+  | publisher = VW Press Release, Canadian Newswire, Jan. 5 2009
+  | url = http://www.newswire.ca/en/releases/archive/January2009/05/c5215.html?view=print}}</ref> 
+
+====Trims====
+{|class="wikitable"
+!align="center" valign="center"|Trim
+!align="left" valign="center"|Engine
+!align="center" valign="center"|MSRP ([[Canadian dollar|CAD]])
+|-
+|align="center" valign="center"|Trendline, S
+|align="left" valign="center"|4.0L V6
+|align="center" valign="center"|$27,975
+|-
+|align="center" valign="center"|Comfortline, SE
+|align="left" valign="center"|4.0L V6
+|align="center" valign="center"|$33,975
+|-
+|align="center" valign="center"|Highline, SE w/ RSE
+|align="left" valign="center"|4.0L V6
+|align="center" valign="center"|$39,975
+|-
+|align="center" valign="center"|Execline, SEL
+|align="left" valign="center"|4.0L V6
+|align="center" valign="center"|$49,975
+|-
+|}
+
+==References==
+<references/>
+</div>
+
+==External links==
+*[http://www.vw.com/routan/en/us/ Volkswagen of America Routan Website]
+*[http://mx.volkswagen.com/vwcms/master_public/virtualmaster/es_mx/models/Routan.html Volkswagen Mexico Routan Website]
+*[http://www.vw.ca/vwcms/master_public/virtualmaster/en_ca_qu/models/Routan.html Volkswagen Canada Routan Website]
+
+
+{{VW}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Minivans]]
+[[Category:Volkswagen vehicles|Routan]]
+[[Category:Front wheel drive vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2009]]
+
+[[de:VW Routan]]
+[[es:Volkswagen Routan]]
+[[pl:Volkswagen Routan]]
+[[pt:Volkswagen Routan]]

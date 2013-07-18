@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = volume
+| rdfs:range = Volume
+}}

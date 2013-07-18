@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = last flight start date
+|rdfs:domain = SpaceShuttle
+|rdfs:range = xsd:date
+}}

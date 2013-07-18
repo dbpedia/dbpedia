@@ -1,0 +1,241 @@
+{{Infobox Automobile
+|name           = Volkswagen Golf Variant
+|image          =
+|manufacturer   = [[Volkswagen|Volkswagen Passenger Cars]]
+|parent_company = [[Volkswagen Group]]
+|aka            = Volkswagen Golf Estate
+|production     = 1993&ndash;present
+|assembly       =
+|class          =
+|body_style     = 5-[[car door|door]] [[station wagon|estate/station wagon]]
+|layout         = [[transverse engine|Transverse]] [[front-engine design|front engine]],<br>[[front-wheel drive]] or<br>[[four-wheel drive]]
+|platform       = [[Volkswagen Group A platform]] series
+|engine         =
+|transmission   =
+|related        =
+|designer       =
+|sp             = uk
+}}
+The '''Volkswagen Golf Variant''' or '''Volkswagen Golf Estate''' is the [[station wagon|estate/station wagon]] version of the [[Volkswagen Golf]] [[Volkswagen Golf Mk3|Mk3]], [[Volkswagen Golf Mk4|Mk4]] and [[Volkswagen Golf Mk5|Mk5]], first introduced in 1993.__TOC__{{clr}}
+
+==Golf Mk3 Variant (1993&ndash;1999){{anchor|1H|Mk3}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Golf Mk3 Variant (1H)
+|image         = [[Image:VW Golf III Variant GL blue.JPG|240px|Volkswagen Golf Mk3 Variant]]
+|aka           =
+|production    = 1993–1999
+|assembly      = [[Wolfsburg]], [[Germany]],<br>[[Bratislava]], [[Slovakia]],<br>[[Osnabrück]], Germany
+|predecessor   = None
+|successor     = [[#Mk4|Golf Mk4 Variant]]
+|platform      = [[Volkswagen Group A platform]]
+|engine        = 1.4 [[Straight-4|I4]] 44kW (ABD/AEX/APQ)<br>1.6 I4 74kW (AEK/AFT/AKS)<br>1.8 I4 55kW (AAM/ANN)<br>1.8 I4 66kW (ABS/ADZ/ANP)<br>2.0 I4 85kW (2E/ADY/AGG)<br>2.9 [[VR6 engine|VR6]] 140kW (ABV)<br>1.9 I4 D 47kW (1Y)<br>1.9 I4 [[Suction Diesel Injection|SDI]] 47kW (AEY)<br>1.9 I4 [[Turbodiesel|TD]] 55kW (AAZ)<br>1.9 I4 [[Turbocharged Direct Injection|TDI]] 66kW (1Z/AHU)<br>1.9 I4 TDI 81kW (AFN)
+|transmission  = 5-speed [[manual transmission|manual]]<br>4-speed [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2475|mm|1|abbr=on}}
+|length        = {{convert|4340|mm|1|abbr=on}}
+|width         = {{convert|1695|mm|1|abbr=on}}
+|height        = {{convert|1430|mm|1|abbr=on}}
+|weight        = {{convert|1160|kg|0|abbr=on}} to {{convert|1455|kg|0|abbr=on}}
+|fuel_capacity = {{convert|60|L|impgal usgal|1|abbr=on|lk=on}}<br>{{convert|65|L|impgal usgal|1|abbr=on|lk=on}} {{small|(Syncro)}}
+|related       = [[Volkswagen Golf Mk3]]<br>[[Volkswagen Golf Cabriolet|Volkswagen Golf Cabriolet Mk3+Mk4]]<br>[[Volkswagen Jetta|Volkswagen Jetta Mk3 (Vento)]]
+|designer      =
+|sp            = uk
+}}
+The '''Volkswagen Golf Mk3 Variant''' were introduced in 1993, and were successed in 1999 by the Volkswagen Golf Mk4 Variant and Bora Variant.  There was no Variant based on the Mk1 and Mk2 Golfs.
+
+===Engines <ref>Volkswagen Golf Mk3 owner's manual, July 1996 {{da icon}}</ref><ref>Volkswagen Golf Mk3 owner's manual, January 1997 {{da icon}}</ref>===
+The engines used are the same as for many other Volkswagen Group cars:
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 88%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+! Name
+! Volume
+! Engine
+! Fuel
+! Output
+! Torque
+! Engine ID code(s)
+! 0-100&nbsp;km/h,s
+! Top speed
+! [[Carbon dioxide|CO<sub>2</sub>]]
+! Years
+|-
+|'''1.4 SPI'''||1391 cc||[[Straight-4|4cyl]]||[[Petrol]]||{{convert|60|PS|kW hp|0|abbr=on}} @5200 rpm||{{convert|107|Nm|lbft|0|abbr=on}} @2400–2800 rpm||ABD||16.9||{{convert|154|km/h|mph|abbr=on}}||&nbsp;||1993−1995
+|-
+|'''1.4 MPI'''||1390 cc||4cyl||Petrol||{{convert|60|PS|kW hp|0|abbr=on}} @4700 rpm||{{convert|116|Nm|lbft|0|abbr=on}} @2800–3200 rpm||AEX/APQ||16.9||{{convert|154|km/h|mph|abbr=on}}||166 [[Gram|g]]/[[Kilometre|km]]||1995–1999
+|-
+|'''1.6 MPI'''||1595 cc||4cyl||Petrol||{{convert|101|PS|kW hp|0|abbr=on}} @5800 rpm||{{convert|135|Nm|lbft|0|abbr=on}} @4400 rpm||AEK||11.9||{{convert|185|km/h|mph|abbr=on}}||197 g/km||1994–1995
+|-
+|'''1.6 MPI'''||1595 cc||4cyl||Petrol||{{convert|101|PS|kW hp|0|abbr=on}} @5800 rpm||{{convert|140|Nm|lbft|0|abbr=on}} @3500 rpm||AFT/AKS||11.9||{{convert|185|km/h|mph|abbr=on}}||197 g/km||1995–1999
+|-
+|'''1.8 SPI'''||1781 cc||4cyl||Petrol||{{convert|75|PS|kW hp|0|abbr=on}} @5000 rpm||{{convert|140|Nm|lbft|0|abbr=on}} @2500 rpm||AAM/ANN||14.9||{{convert|165|km/h|mph|abbr=on}}||190 g/km||1993–1999
+|-
+|'''1.8 SPI'''<sup>[1]</sup>||1781 cc||4cyl||Petrol||{{convert|90|PS|kW hp|0|abbr=on}} @5500 rpm||{{convert|145|Nm|lbft|0|abbr=on}} @2500 rpm||ABS/ADZ/ANP||12.8||{{convert|175|km/h|mph|abbr=on}}||194 g/km||1993–1999
+|-
+|'''2.0 MPI'''<sup>[1]</sup>||1984 cc||4cyl||Petrol||{{convert|115|PS|kW hp|0|abbr=on}} @5400 rpm||{{convert|166|Nm|lbft|0|abbr=on}} @3200 rpm||2E/ADY||10.8||{{convert|193|km/h|mph|abbr=on}}||194 g/km||1993–1995
+|-
+|'''2.0 MPI'''<sup>[1]</sup>||1984 cc||4cyl||Petrol||{{convert|115|PS|kW hp|0|abbr=on}} @5400 rpm||{{convert|166|Nm|lbft|0|abbr=on}} @2600 rpm||AGG||10.8||{{convert|193|km/h|mph|abbr=on}}||194 g/km||1995–1999
+|-
+|'''2.9 MPI Syncro'''||2861 cc||[[VR6 engine|VR6]]||Petrol||{{convert|190|PS|kW hp|0|abbr=on}} @5800 rpm||{{convert|245|Nm|lbft|0|abbr=on}} @4200 rpm||ABV||8.1||{{convert|222|km/h|mph|abbr=on}}||271 g/km||1994–1997
+|-
+|'''1.9 D'''||1896 cc||4cyl||[[Diesel fuel|Diesel]]||{{convert|64|PS|kW hp|0|abbr=on}} @4400 rpm||{{convert|124|Nm|lbft|0|abbr=on}} @2000–3000 rpm||1Y||18.6||{{convert|154|km/h|mph|abbr=on}}||165 g/km||1993–1999
+|-
+|'''1.9 SDI'''||1896 cc||4cyl||Diesel||{{convert|64|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|125|Nm|lbft|0|abbr=on}} @2200–2800 rpm||AEY||18.6||{{convert|154|km/h|mph|abbr=on}}||140 g/km||1995–1999
+|-
+|'''1.9 TD'''||1896 cc||4cyl||Diesel||{{convert|75|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|150|Nm|lbft|0|abbr=on}} @2400–3400 rpm||AAZ||15.9||{{convert|163|km/h|mph|abbr=on}}||167 g/km||1993–1997
+|-
+|'''1.9 TDI'''<sup>[1]</sup>||1896 cc||4cyl||Diesel||{{convert|90|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|202|Nm|lbft|0|abbr=on}} @1900 rpm||1Z/AHU||13.4||{{convert|175|km/h|mph|abbr=on}}||138 g/km||1993–1999
+|-
+|'''1.9 TDI'''||1896 cc||4cyl||Diesel||{{convert|110|PS|kW hp|0|abbr=on}} @4150 rpm||{{convert|235|Nm|lbft|0|abbr=on}} @1900 rpm||AFN||11.4||{{convert|190|km/h|mph|abbr=on}}||138 g/km||1996–1999
+|}
+<sup>[1]</sup> Also available as [[Syncro]] with [[four-wheel drive]].{{clr}}
+
+==Golf Mk4 Variant (1999&ndash;2006){{anchor|1J|Mk4}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Golf Mk4 Variant (1J)
+|image         = [[Image:VW Golf IV Variant.jpg|240px|Volkswagen Golf Mk4 Variant]]
+|aka           = Volkswagen Bora Variant
+|production    = 1999–2006 {{small|(Golf Variant)}}<br>1999–2004 {{small|(Bora Variant)}}
+|assembly      = [[Wolfsburg]], [[Germany]],<br>[[Bratislava]], [[Slovakia]],<br>[[Mosel]], Germany,<br>[[Uitenhage]], [[South Africa]]
+|predecessor   = [[#Mk3|Golf Mk3 Variant]]
+|successor     = [[#Mk5|Golf Mk5 Variant]]
+|platform      = [[Volkswagen Group A platform]]
+|engine        = 1.4 [[Straight-4|I4]] [[Multi-valve|16 valve]] 55kW (AHW/AXP/BCA)*<sup>1</sup><br>1.6 I4 74kW (AEH/AKL/APF)<br>1.6 I4 75kW (AVU/BFQ)<br>1.6 I4 16 valve 77kW (AUS/AZD/ATN/BCB)<br>1.6 I4 16 valve [[Gasoline direct injection|FSI]] 81kW (BAD)<br>1.8 I4 20 valve [[Turbocharger|Turbocharged]] 110kW (AUM)<br>2.0 I4 85kW (APK/AQY/AZJ/AZH)<br>2.3 [[VR5 engine|VR5]] 110kW (AGZ)<br>2.3 VR5 20 valve 125kW (AQN)<br>2.8 [[VR6 engine|VR6]] 150kW (AQP/AUE/BDE)<br>1.9 I4 [[Suction Diesel Injection|SDI]] 50kW (AGP/AQM)*<sup>1</sup><br>1.9 I4 [[Turbocharged Direct Injection|TDI]] 66kW (AGR/ALH)<br>1.9 I4 TDI 81kW (AHF/ASV)<br>1.9 I4 TD<span style="color:red">I</span> [[Unit Injector|PD]] 74kW (ATD/AXR)<br>1.9 I4 T<span style="color:red">DI</span> PD 85kW (AJM/AUY)<br>1.9 I4 T<span style="color:red">DI</span> PD 96kW (ASZ)<br>1.9 I4 <span style="color:red">TDI</span> PD 110kW (ARL)*<sup>2</sup><br><br><nowiki>*</nowiki><sup>1</sup> Only for Golf Variant<br><nowiki>*</nowiki><sup>2</sup> Only for Bora Variant
+|transmission  = 5-speed [[manual transmission|manual]]<br>6-speed manual<br>4-speed [[automatic transmission|automatic]]<br>5-speed automatic
+|wheelbase     = 
+|length        = 
+|width         = 
+|height        = 
+|weight        = 
+|fuel_capacity = 
+|related       = [[Audi A3]]<br>[[SEAT León]]<br>[[SEAT Toledo]]<br>[[Škoda Octavia]]<br>[[Volkswagen Golf Mk4]]<br>[[Volkswagen New Beetle]]<br>[[Volkswagen Jetta|Volkswagen Jetta Mk4 (Bora)]]
+|designer      =
+|sp            = uk
+}}
+The '''Volkswagen Golf Mk4 Variant''' were introduced in 1999. It was discontinued in 2006, and successed in 2007 by the Volkswagen Golf Mk5 Variant. Unlike the Mk3, it was offered in [[North America]] where the Jetta name and front sheetmetal were used.
+
+===Engines <ref>Volkswagen Golf Mk4 technical data, March 2000 {{da icon}}</ref><ref>Volkswagen Golf Mk4 technical data, May 2001 {{da icon}}</ref><ref>Volkswagen Golf Mk4 and Bora owner's manual supplement, October 2001 {{da icon}}</ref>===
+The engines used are the same as for many other Volkswagen Group cars:
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 88%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+! Name
+! Volume
+! Engine
+! Fuel
+! Output
+! Torque
+! Engine ID code(s)
+! 0-100&nbsp;km/h,s
+! Top speed
+! [[Carbon dioxide|CO<sub>2</sub>]]
+! Years
+|-
+|'''1.4 16v'''||1390 cc||[[Straight-4|4cyl]]||[[Petrol]]||{{convert|75|PS|kW hp|0|abbr=on}} @5000 rpm||{{convert|126|Nm|lbft|0|abbr=on}} @3300 rpm||AHW/AXP/BCA||15.6||{{convert|171|km/h|mph|abbr=on}}||163 [[gram|g]]/[[kilometre|km]]||1999–2006
+|-
+|'''1.6 8v'''||1595 cc||4cyl||Petrol||{{convert|100|PS|kW hp|0|abbr=on}} @5600 rpm||{{convert|145|Nm|lbft|0|abbr=on}} @3800 rpm||AEH/AKL/APF||11.9||{{convert|188|km/h|mph|abbr=on}}||180 g/km||1999–2000
+|-
+|'''1.6 8v'''||1595 cc||4cyl||Petrol||{{convert|102|PS|kW hp|0|abbr=on}} @5600 rpm||{{convert|148|Nm|lbft|0|abbr=on}} @3800 rpm||AVU/BFQ||12.1||{{convert|189|km/h|mph|abbr=on}}||170 g/km||2000–2006
+|-
+|'''1.6 16v'''||1598 cc||4cyl||Petrol||{{convert|105|PS|kW hp|0|abbr=on}} @5700 rpm||{{convert|148|Nm|lbft|0|abbr=on}} @4500 rpm||AUS/AZD/ATN/BCB||11.9||{{convert|192|km/h|mph|abbr=on}}||168 g/km||2000–2006
+|-
+|'''1.6 16v FSI'''||1598 cc||4cyl||Petrol||{{convert|110|PS|kW hp|0|abbr=on}} @5800 rpm||{{convert|155|Nm|lbft|0|abbr=on}} @4400 rpm||BAD||11.7||{{convert|194|km/h|mph|abbr=on}}||151 g/km||2001–2006
+|-
+|'''1.8 20v Turbo'''||1781 cc||4cyl||Petrol||{{convert|150|PS|kW hp|0|abbr=on}} @5700 rpm||{{convert|210|Nm|lbft|0|abbr=on}} @1750–4600 rpm||AUM||9.2||{{convert|216|km/h|mph|abbr=on}}||190 g/km||2000–2006
+|-
+|'''2.0 8v'''||1984 cc||4cyl||Petrol||{{convert|115|PS|kW hp|0|abbr=on}} @5200 rpm||{{convert|170|Nm|lbft|0|abbr=on}} @2400 rpm||APK/AQY||11.4||{{convert|195|km/h|mph|abbr=on}}||192 g/km||1999–2001
+|-
+|'''2.0 8v'''<sup>[1]</sup>||1984 cc||4cyl||Petrol||{{convert|115|PS|kW hp|0|abbr=on}} @5400 rpm||{{convert|172|Nm|lbft|0|abbr=on}} @3200 rpm||AZJ/AZH||11.4||{{convert|195|km/h|mph|abbr=on}}||192 g/km||2001–2006
+|-
+|'''2.3 10v'''<sup>[1]</sup>||2324 cc||[[VR5 engine|VR5]]||Petrol||{{convert|150|PS|kW hp|0|abbr=on}} @6000 rpm||{{convert|205|Nm|lbft|0|abbr=on}} @3200 rpm||AGZ||9.4||{{convert|216|km/h|mph|abbr=on}}||226 g/km||1999–2000
+|-
+|'''2.3 20v'''<sup>[1]</sup>||2324 cc||VR5||Petrol||{{convert|170|PS|kW hp|0|abbr=on}} @6200 rpm||{{convert|220|Nm|lbft|0|abbr=on}} @3300 rpm||AQN||8.2||{{convert|224|km/h|mph|abbr=on}}||209 g/km||2000–2003
+|-
+|'''2.8 24v'''<sup>[1]</sup>||2792 cc||[[VR6 engine|VR6]]||Petrol||{{convert|204|PS|kW hp|0|abbr=on}} @6000 rpm||{{convert|270|Nm|lbft|0|abbr=on}} @3200 rpm||AQP/AUE/BDE||7.6||{{convert|235|km/h|mph|abbr=on}}||264 g/km||1999–2003
+|-
+|'''1.9 8v SDI'''||1896 cc||4cyl||Diesel||{{convert|68|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|133|Nm|lbft|0|abbr=on}} @2200–2600 rpm||AGP/AQM||18.7||{{convert|160|km/h|mph|abbr=on}}||140 g/km||1999–2006
+|-
+|'''1.9 8v TDI'''||1896 cc||4cyl||Diesel||{{convert|90|PS|kW hp|0|abbr=on}} @3750 rpm||{{convert|210|Nm|lbft|0|abbr=on}} @1900 rpm||AGR/ALH||13.2||{{convert|180|km/h|mph|abbr=on}}||135 g/km||1999–2001
+|-
+|'''1.9 8v TDI'''||1896 cc||4cyl||Diesel||{{convert|110|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|235|Nm|lbft|0|abbr=on}} @1900 rpm||AHF/ASV||11.3||{{convert|193|km/h|mph|abbr=on}}||135 g/km||1999–2001
+|-
+|'''1.9 8v TD<span style="color:red">I</span> PD'''<sup>[1]</sup>||1896 cc||4cyl||Diesel||{{convert|100|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|240|Nm|lbft|0|abbr=on}} @1800–2400 rpm||ATD/AXR||12.7||{{convert|188|km/h|mph|abbr=on}}||140 g/km||2000–2006
+|-
+|'''1.9 8v T<span style="color:red">DI</span> PD'''||1896 cc||4cyl||Diesel||{{convert|115|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|285|Nm|lbft|0|abbr=on}} @1900 rpm||AJM||11.1||{{convert|195|km/h|mph|abbr=on}}||143 g/km||1999–2001
+|-
+|'''1.9 8v T<span style="color:red">DI</span> PD'''<sup>[1]</sup>||1896 cc||4cyl||Diesel||{{convert|115|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|310|Nm|lbft|0|abbr=on}} @1900 rpm||AUY||11.1||{{convert|195|km/h|mph|abbr=on}}||143 g/km||2000–2002
+|-
+|'''1.9 8v T<span style="color:red">DI</span> PD'''<sup>[1]</sup>||1896 cc||4cyl||Diesel||{{convert|130|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|310|Nm|lbft|0|abbr=on}} @1900 rpm||ASZ||10.5||{{convert|205|km/h|mph|abbr=on}}||146 g/km||2001–2006
+|-
+|'''1.9 8v <span style="color:red">TDI</span> PD'''<sup>[1]</sup>||1896 cc||4cyl||Diesel||{{convert|150|PS|kW hp|0|abbr=on}} @4000 rpm||{{convert|320|Nm|lbft|0|abbr=on}} @1900 rpm||ARL||9.5||{{convert|216|km/h|mph|abbr=on}}||149 g/km||2000–2004
+|}
+</sup>[1]</sup> Also available as [[4motion]] with four-wheel drive.{{clr}}
+
+==Golf Mk5 Variant (2007&ndash;present){{anchor|1K|Mk5}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Golf Mk5 Variant (1K)
+|image         = [[Image:VW Golf V Variant1 front 20071215.jpg|240px|Volkswagen Golf Mk5 Variant]]
+|aka           = Volkswagen Jetta Sport Wagon
+|production    = 2007&ndash;present
+|assembly      = [[Puebla]], [[Mexico]]
+|predecessor   = [[#Mk4|Golf Mk4 Variant]]
+|successor     =
+|platform      = [[Volkswagen Group A platform]]
+|engine        = 1.4L I4<br>1.4L I4 [[TSI]]<br>1.6L I4<br>1.9L I4 TDI<br>2.0L I4 TDI
+|transmission  = 5-speed [[manual transmission|manual]]<br>6-speed manual<br>6-speed automatic<br>6-speed [[DSG]]<br>7-speed [[DSG]]
+|wheelbase     = 
+|length        = 
+|width         = 
+|height        = 
+|weight        = 
+|fuel_capacity = 
+|related       = [[Audi A3]]<br>[[SEAT León]]<br>[[SEAT Altea]]<br>[[SEAT Toledo]]<br>[[Škoda Octavia]]<br>[[Volkswagen Golf Mk5]]<br>[[Volkswagen Jetta|Volkswagen Jetta Mk5]]<br>[[Volkswagen Eos]]
+|designer      =
+|sp            = uk
+}}
+The '''Volkswagen Golf Mk5 Variant''' was introduced in summer 2007.
+
+===Engines===
+{| class="wikitable" style="text-align: left"
+|-
+! Engine || Engine code || Cyl. / valves || Displace-<br>ment || Power || Torque
+|-
+!colspan="5" |Petrol engines
+|-
+| 1.4 || BUD || I4 / 16 || {{convert|1390|cc|L cuin|abbr=on}} || {{convert|80|PS|kW hp|abbr=on}} || {{convert|132|Nm|lbft|abbr=on}}
+|-
+| 1.4 TSI || CAXA || I4 / 16 || {{convert|1390|cc|L cuin|abbr=on}} || {{convert|122|PS|kW hp|abbr=on}} || {{convert|200|Nm|lbft|abbr=on}}
+|-
+| 1.4 TSI || BMY || I4 / 16 || {{convert|1390|cc|L cuin|abbr=on}} || {{convert|140|PS|kW hp|abbr=on}} || {{convert|220|Nm|lbft|abbr=on}}
+|-
+| 1.4 TSI || BLG || I4 / 16 || {{convert|1390|cc|L cuin|abbr=on}} || {{convert|170|PS|kW hp|abbr=on}} || {{convert|240|Nm|lbft|abbr=on}}
+|-
+| 1.6 || BSE / BSF || I4 / 8 || {{convert|1595|cc|L cuin|abbr=on}} || {{convert|102|PS|kW hp|abbr=on}} || {{convert|148|Nm|lbft|abbr=on}}
+|-
+!colspan="5" |Diesel engines
+|-
+| 1.9 TDI || BXE / BLS || I4 / 8 || {{convert|1896|cc|L cuin|abbr=on}} || {{convert|105|PS|kW hp|abbr=on}} || {{convert|250|Nm|lbft|abbr=on}}
+|-
+| 2.0 TDI || BKD || I4 / 16 || {{convert|1968|cc|L cuin|abbr=on}} || {{convert|140|PS|kW hp|abbr=on}} || {{convert|320|Nm|lbft|abbr=on}}
+|-
+| 2.0 TDI || BMM || I4 / 8 || {{convert|1968|cc|L cuin|abbr=on}} || {{convert|140|PS|kW hp|abbr=on}} || {{convert|320|Nm|lbft|abbr=on}}
+|}{{clr}}
+
+==References==
+{{reflist}}
+
+{{commons category|VW Golf Variant|Volkswagen Golf Variant}}
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Golf Variant]]
+[[Category:Station wagons]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles introduced in 1993]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles with VR engines]]
+
+[[da:Volkswagen Golf Variant]]
+[[de:VW Golf Variant]]
+[[fr:Volkswagen Golf V SW]]
+[[sv:Volkswagen Golf Variant]]

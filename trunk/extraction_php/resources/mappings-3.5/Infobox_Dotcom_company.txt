@@ -1,0 +1,54 @@
+{{TemplateMapping
+| mapToClass = Company
+| mappings = 
+	{{PropertyMapping | templateProperty = area_served | ontologyProperty = regionServed }}
+	{{PropertyMapping | templateProperty = industry | ontologyProperty = industry }}
+	{{PropertyMapping | templateProperty = products | ontologyProperty = product }}
+	{{PropertyMapping | templateProperty = services | ontologyProperty = service }}
+	{{PropertyMapping | templateProperty = marketcap | ontologyProperty = marketCapitalisation | unit = Currency }}
+	{{PropertyMapping | templateProperty = operating_income | ontologyProperty = operatingIncome | unit = Currency }}
+	{{PropertyMapping | templateProperty = net_income | ontologyProperty = netIncome | unit = Currency }}
+	{{PropertyMapping | templateProperty = assets | ontologyProperty = assets | unit = Currency }}
+	{{PropertyMapping | templateProperty = equity | ontologyProperty = equity | unit = Currency }}
+	{{PropertyMapping | templateProperty = parent | ontologyProperty = parentCompany }}
+	{{PropertyMapping | templateProperty = divisions | ontologyProperty = division }}
+	{{PropertyMapping | templateProperty = subsid | ontologyProperty = subsidiary }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = current_status | ontologyProperty = currentStatus }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = foundation | ontologyProperty = formationDate }}
+	{{PropertyMapping | templateProperty = foundation | ontologyProperty = foundationPlace }}
+	{{PropertyMapping | templateProperty = founder | ontologyProperty = foundationPerson }}
+	{{PropertyMapping | templateProperty = location_city | ontologyProperty = locationCity }}
+	{{PropertyMapping | templateProperty = location_country | ontologyProperty = locationCountry }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = locations | ontologyProperty = location }}
+		{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = person}}
+	
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = title}}
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = personName}}
+	
+	{{PropertyMapping | templateProperty = key_people | ontologyProperty = title}}
+	
+	}}
+	{{PropertyMapping | templateProperty = revenue | ontologyProperty = revenue | unit = Currency }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owningCompany }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = num_employees | ontologyProperty = numberOfEmployees }}
+	{{PropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = company_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = company_type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = company_slogan | ontologyProperty = slogan }}
+	{{PropertyMapping | templateProperty = url | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = launch_date | ontologyProperty = formationDate }}
+}}

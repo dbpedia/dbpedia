@@ -1,0 +1,61 @@
+{{Infobox Automobile
+|image= [[Image:MHV BMW 700.jpg|250px|BMW 700]]
+|name=BMW 700
+|aka=BMW LS
+|manufacturer=[[BMW]]
+|engine =697&nbsp;cc [[Flat-2]]
+|production=1959&ndash;1965<br>188,211 built<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref><br/> Saloon: 154,557 <br/> Coupé: 31,062 <br/> Convertible: 2,592
+| length = {{convert|3540|mm|in||abbr=on}}  <br/> LS: {{convert|3860|mm|in||abbr=on}}
+| width = {{convert|1480|mm|in||abbr=on}}
+| height = {{convert|1270|mm|in||abbr=on}}−{{convert|1360|mm|in||abbr=on}}
+| weight = {{convert|640|kg|lb||abbr=on}}−{{convert|690|kg|lb||abbr=on}}
+| wheelbase = {{convert|2120|mm|in||abbr=on}} <br/> LS: {{convert|2280|mm|in||abbr=on}}  <ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=978-3-613-02808-1}}</ref>  
+| layout=[[RR layout]]
+| transmission = 4 speed manual
+|predecessor=[[BMW 600]]
+|successor=[[BMW MINI]]
+}}
+The '''BMW 700''' is a small [[rear-engined]] car produced by [[BMW]] from August 1959 to September 1965, based on the [[BMW 600]] (which was based on the [[Isetta]]).  Unlike the 600, however, the 700 was an all steel [[monocoque]] structure.   Styling was by [[Giovanni Michelotti]] – the car is sometimes compared with his other popular design of the same period, the [[Triumph Herald]]. A coupé and a cabriolet were also produced, whose bodies were made by [[Karosserie Baur]] of Stuttgart<ref>Oswald, op. cit., p. 184.</ref>.
+
+It was powered by a 2-cylinder, air-cooled engine of 697&nbsp;cc from the [[BMW R67]] motorcycle.  The base version engine produced {{convert|32|PS|kW bhp|1|abbr=on}}. A top speed of 125 km/h (78 mph) was claimed<ref name=AlleAutosder50er/>.
+
+In March 1962 the 700 saloon models were replaced by the BMW LS saloon, essentially the same car, but with its wheelbase stretched by {{convert|160|mm|in||abbr=on}} and {{convert|320|mm|in||abbr=on}} longer. In September 1964 the Coupé received, for its last year, the longer chassis and body and was accordingly rechristened BMW LS Coupé.
+
+The 700 is one of several models credited with having rescued BMW from a terrible fate.   By the time production ended, 188,211 had been produced which was more than five times the number achieved by its [[BMW 600|predecessor model]].   This level of hitherto unprecedented commercial success enabled the company's small share holders, supported by a major share holder named [[Herbert Quandt]], to block a threatened take-over by [[Mercedes-Benz]].   The business thus stabilised, in 1961, BMW would be able to launch a second Michelotti styled sedan.   The [[BMW 1500]], supported by the sudden removal from the market place of the [[Borgward Isabella]], put an end to acute financial pressures that had haunted the business for two decades.
+
+The 700 RS was a highly tuned version for racing. It had special, lightweight, aerodynamic bodywork and an engine tuned to {{convert|70|PS|kW hp|0|abbr=on}}. [[Hans Stuck]] campaigned the car with success. [[Jacky Ickx]] also raced in 700s.
+
+After production ended, BMW did not enter production of small cars again until 2001 with the [[Mini (BMW)|Mini]].
+
+<center><gallery>
+Image:BMW_700_Sport.jpg|BMW 700 Sport
+Image:Bmw700sport1.jpg|BMW 700 Sport race trim
+Image:BMW 700 RS 1.jpg|BMW 700 RS racecar
+Image:BMW_700_Cabrio_(ret2).JPG|BMW 700 convertible
+</gallery></center>
+
+== Sources and further reading ==
+{{reflist}}
+
+== External links ==
+{{commonscat}}
+* [http://www.bmw700.net BMW700.net: website with lots of information, pictures and film]
+
+{{BMW early cars}}
+
+[[Category:BMW vehicles|700]]
+[[Category:Rear-engined vehicles]]
+[[Category:Vehicles with boxer engines]]
+[[Category:1960s automobiles]]
+[[Category:Vehicles introduced in 1959]]
+
+
+{{Classicpow-auto-stub}}
+
+[[de:BMW 700]]
+[[it:BMW 700]]
+[[ja:BMW・700]]
+[[no:BMW 700]]
+[[pl:BMW 700]]
+[[ru:BMW 700]]
+[[sv:BMW 700]]

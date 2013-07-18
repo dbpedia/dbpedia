@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = vein
+|rdfs:domain = AnatomicalStructure
+|rdfs:range = Vein
+}}

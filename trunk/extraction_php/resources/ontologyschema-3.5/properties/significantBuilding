@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = significant building
+| rdfs:domain = Architect
+| rdfs:range = Building
+}}

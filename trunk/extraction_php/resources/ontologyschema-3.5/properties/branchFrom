@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = branch from
+| rdfs:range = AnatomicalStructure
+}}

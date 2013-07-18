@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = branch to
+|rdfs:domain = Artery
+|rdfs:range = AnatomicalStructure
+}}

@@ -1,0 +1,9 @@
+===================================
+
+OUTDATED! EVERYTHING IN THIS DIRECTORY
+IS OUTDATED. THE CURRENT CODE IS IN
+dbpedia/extraction-framework/dump
+
+Christopher Sahnwaldt 2013-03-07
+
+===================================

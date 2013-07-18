@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = COSPAR id
+| rdfs:range = xsd:integer
+}}

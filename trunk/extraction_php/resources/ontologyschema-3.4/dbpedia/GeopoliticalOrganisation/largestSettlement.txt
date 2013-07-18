@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = largest settlement
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = PopulatedPlace
+}}

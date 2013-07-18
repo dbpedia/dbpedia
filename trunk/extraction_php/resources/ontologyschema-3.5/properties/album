@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = album
+| rdfs:range = Album
+}}

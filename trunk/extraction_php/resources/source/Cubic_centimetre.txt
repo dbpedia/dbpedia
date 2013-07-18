@@ -1,0 +1,54 @@
+A '''cubic centimetre''' or cubic centimeter (symbol '''cm<sup>3</sup>'''—the abbreviation '''cc''', though widely used, is [[Deprecation#Other_usage|deprecated]]) is a commonly used unit of [[volume]] extending the derived [[International System of Units|SI]]-unit [[cubic metre]] and corresponds to the volume of a cube measuring 1&nbsp;cm × 1&nbsp;cm × 1&nbsp;cm. One cubic centimetre corresponds to a volume of {{Frac|1,000,000}} of a cubic metre, or {{Frac|1000}} of a [[litre]], or one millilitre; thus, 1&nbsp;cm<sup>3</sup> ≡ 1&nbsp;mL. The mass of one cubic centimetre of [[water]] at 3.98&nbsp;°C (the temperature at which it attains its maximal density) is roughly equal to 1&nbsp;[[gram]].
+
+In many [[Science|scientific]] fields, the use of cubic centimetres has been replaced by the [[millilitre]]. The [[Medicine|medical]] and [[Automobile|automotive]] fields are two of the few fields wherein the term cubic centimetre was never discontinued in the United States. In the United Kingdom millilitres are used in preference to cubic centimetres in the medical field, but not the automotive. Most other English-speaking countries follow the UK example, but the use of cubic centimetres persists everywhere.
+
+There is currently a movement within the medical field to discontinue the use of cc in prescriptions and on medical documents as it can be mis-read as "00" if poor handwriting is used, which can result in a massive, even lethal, overdose of medication. In the United States, confusion resulting from using "cc" instead of "mL" accounts for 12.6% of all errors associated with medical abbreviations.<ref>
+{{Citation
+  | first = Luigi
+  | last = Brunetti
+  | first2 = John
+  | last2 = Santell
+  | first3 = Rodney
+  | last3 = Hicks
+  | editor-last = Stevenson
+  | editor-first = James
+  | title = The Impact of Abbreviations on Patient Safety
+  | pages = 8
+  | volume = 33
+  | issue = 9
+  | date = September 2007
+  | journal = The Joint Commission Journal on Quality and Patient Safety
+  | url = http://psnet.ahrq.gov/public/Brunetti_JCJQPS_2007.pdf
+|format=PDF}}
+</ref>
+
+==References==
+<references/>
+
+[[Category:Units of volume]]
+[[Category:SI derived units]]
+[[Category:Centimetre gram second system of units]]
+
+{{automotive-tech-stub}}
+{{medical-stub}}
+{{measurement-stub}}
+
+
+[[ca:Mil·lilitre]]
+[[cs:Centimetr krychlový]]
+[[es:Centímetro cúbico]]
+[[eo:Kuba centimetro]]
+[[fr:Centimètre cube]]
+[[it:Centimetro cubo]]
+[[sw:Sentimita ya ujazo]]
+[[lv:Kubikcentimetrs]]
+[[lt:Kubinis centimetras]]
+[[ms:Sentimeter padu]]
+[[nl:Kubieke centimeter]]
+[[ja:立方センチメートル]]
+[[no:Kubikkcentimeter]]
+[[nn:Kubikkcentimeter]]
+[[pt:Centímetro cúbico]]
+[[simple:Cubic centimetre]]
+[[sv:Liter#Milliliter]]
+[[zh:立方厘米]]

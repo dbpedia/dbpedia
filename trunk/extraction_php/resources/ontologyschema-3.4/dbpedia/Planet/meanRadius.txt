@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = mean radius
+|rdfs:domain = Planet
+|rdfs:range = kilometre
+}}

@@ -1,0 +1,1 @@
+<http://dbpedia.org/resource/EncodingAllLaguages.txt> <http://dbpedia.org/property/abstract> "Ath\u00E8nes (fr)\n\u30A2\u30C6\u30CD (ja)\n\u96C5\u5178 (zh)\nSm\u00E5land (se)\nN\u00F8rge (no)\nArag\u00E3o (pt)\n\u0411\u0435\u0440\u043B\u0438\u043D (ru)\ndesambigua\u00E7\u00E3o (pt)\np\u00E4\u00E4kaupunki (fi)"@en .

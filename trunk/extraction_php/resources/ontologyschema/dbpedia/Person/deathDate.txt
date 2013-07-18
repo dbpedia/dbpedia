@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= death date
+|rdfs:domain	= Person
+|rdfs:range		= xsd:date
+}}

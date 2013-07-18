@@ -1,0 +1,9 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Website
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Website/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Work/type }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = author | ontologyProperty = Work/author }}
+}}

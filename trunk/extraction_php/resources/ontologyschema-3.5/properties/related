@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = related
+| rdfs:range = Beverage
+}}

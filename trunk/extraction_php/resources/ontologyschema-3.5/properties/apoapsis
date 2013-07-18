@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = apoapsis
+| rdfs:range = Length
+}}

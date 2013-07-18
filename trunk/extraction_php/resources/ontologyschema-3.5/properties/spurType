@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = spur type
+| rdfs:domain = Road
+}}

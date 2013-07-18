@@ -1,0 +1,41 @@
+{{TemplateMapping
+| mapToClass = TelevisionShow
+| mappings = 
+	{{PropertyMapping | templateProperty = creator | ontologyProperty = creator }}
+	{{PropertyMapping | templateProperty = director | ontologyProperty = director }}
+	{{PropertyMapping | templateProperty = creat_director | ontologyProperty = creativeDirector }}
+	{{PropertyMapping | templateProperty = developer | ontologyProperty = developer }}
+	{{PropertyMapping | templateProperty = presenter | ontologyProperty = presenter }}
+	{{PropertyMapping | templateProperty = starring | ontologyProperty = starring }}
+	{{PropertyMapping | templateProperty = voices | ontologyProperty = voice }}
+	{{PropertyMapping | templateProperty = opentheme | ontologyProperty = openingTheme }}
+	{{PropertyMapping | templateProperty = endtheme | ontologyProperty = endingTheme }}
+	{{PropertyMapping | templateProperty = composer | ontologyProperty = composer }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = num_seasons | ontologyProperty = seasonNumber }}
+	{{PropertyMapping | templateProperty = num_episodes | ontologyProperty = episodeNumber }}
+	{{PropertyMapping | templateProperty = executive_producer | ontologyProperty = executiveProducer }}
+	{{PropertyMapping | templateProperty = co_exec | ontologyProperty = coExecutiveProducer }}
+	{{PropertyMapping | templateProperty = producer | ontologyProperty = producer }}
+	{{PropertyMapping | templateProperty = co-producer | ontologyProperty = coProducer }}
+	{{PropertyMapping | templateProperty = editor | ontologyProperty = editor }}
+	{{PropertyMapping | templateProperty = story_editor | ontologyProperty = storyEditor }}
+	{{PropertyMapping | templateProperty = channel | ontologyProperty = channel }}
+	{{PropertyMapping | templateProperty = related | ontologyProperty = related }}
+	{{PropertyMapping | templateProperty = distributor | ontologyProperty = distributor }}
+	{{PropertyMapping | templateProperty = network | ontologyProperty = network }}
+	{{PropertyMapping | templateProperty = show_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = writer | ontologyProperty = author }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = runtime | ontologyProperty = runtime | unit = Time }}
+	{{PropertyMapping | templateProperty = first_run | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = first_aired | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = last_aired | ontologyProperty = completionDate }}
+	{{PropertyMapping | templateProperty = preceded_by | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = followed_by | ontologyProperty = subsequentWork }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = production_website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = alternate_titles | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = official_website | ontologyProperty = foaf:homepage }}
+}}

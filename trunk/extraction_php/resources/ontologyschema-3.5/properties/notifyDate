@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = notify date
+| rdfs:domain = SiteOfSpecialScientificInterest
+| rdfs:range = xsd:date
+}}

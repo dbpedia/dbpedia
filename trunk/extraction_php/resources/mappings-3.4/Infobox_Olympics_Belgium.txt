@@ -1,0 +1,19 @@
+{{ DBpediaTemplateMapping
+| mapToClass = OlympicResult
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = NOC | ontologyProperty = OlympicResult/nationalOlympicCommittee }}
+	{{ DBpediaPropertyMapping | templateProperty = NOCname | ontologyProperty = OlympicResult/nationalOlympicCommittee }}
+	{{ DBpediaPropertyMapping | templateProperty = oldcode | ontologyProperty = OlympicResult/oldcode }}
+	{{ DBpediaPropertyMapping | templateProperty = games | ontologyProperty = OlympicResult/games }}
+	{{ DBpediaPropertyMapping | templateProperty = competitors | ontologyProperty = OlympicResult/numberOfCompetitors }}
+	{{ DBpediaPropertyMapping | templateProperty = sports | ontologyProperty = OlympicResult/numberOfSports }}
+	{{ DBpediaPropertyMapping | templateProperty = flagbearer | ontologyProperty = OlympicResult/flagBearer }}
+	{{ DBpediaPropertyMapping | templateProperty = officials | ontologyProperty = OlympicResult/numberOfOfficials }}
+	{{ DBpediaPropertyMapping | templateProperty = gold | ontologyProperty = OlympicResult/numberOfGoldMedalsWon }}
+	{{ DBpediaPropertyMapping | templateProperty = silver | ontologyProperty = OlympicResult/numberOfSilverMedalsWon }}
+	{{ DBpediaPropertyMapping | templateProperty = bronze | ontologyProperty = OlympicResult/numberOfBronzeMedalsWon }}
+	{{ DBpediaPropertyMapping | templateProperty = rank | ontologyProperty = OlympicResult/rankInFinalMedalCount }}
+	{{ DBpediaPropertyMapping | templateProperty = summerappearances | ontologyProperty = OlympicResult/summerAppearances }}
+	{{ DBpediaPropertyMapping | templateProperty = winterappearances | ontologyProperty = OlympicResult/winterAppearances }}
+	{{ DBpediaPropertyMapping | templateProperty = otherappearances | ontologyProperty = OlympicResult/otherAppearances }}
+}}

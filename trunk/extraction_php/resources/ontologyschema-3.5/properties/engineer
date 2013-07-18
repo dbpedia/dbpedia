@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = engineer
+| rdfs:range = Person
+}}

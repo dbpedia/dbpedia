@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = drains from
+| rdfs:range = Lymph
+}}

@@ -1,0 +1,119 @@
+{{ DBpediaConditionalMapping
+| cases =
+ {{ DBpediaCondition
+    | templateProperty = currentmembers
+    | operator = isSet
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = Band
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | templateProperty = pastmembers
+    | operator = isSet
+    | mapping = {{ DBpediaTemplateMapping
+                   | mapToClass = Band
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | templateProperty = occupation
+    | operator = contains
+    | value = actor
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = Actor
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | templateProperty = occupation
+    | operator = contains
+    | value = actress
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = Actor
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | templateProperty = occupation
+    | operator = contains
+    | value = singer
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = MusicalArtist
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | templateProperty = occupation
+    | operator = contains
+    | value = songwriter
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = MusicalArtist
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | otherwise
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = Artist
+                }}
+ }}
+
+| defaultMappings = 
+	{{ DBpediaPropertyMapping | templateProperty = field | ontologyProperty = Artist/field }}
+	{{ DBpediaPropertyMapping | templateProperty = training | ontologyProperty = Artist/training }}
+	{{ DBpediaPropertyMapping | templateProperty = movement | ontologyProperty = Artist/movement }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Artist/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = instrument | ontologyProperty = Artist/instrument }}
+	{{ DBpediaPropertyMapping | templateProperty = voicetype | ontologyProperty = Artist/voiceType }}
+	{{ DBpediaPropertyMapping | templateProperty = label | ontologyProperty = Artist/label }}
+	{{ DBpediaPropertyMapping | templateProperty = currentmembers | ontologyProperty = Artist/currentMember }}
+	{{ DBpediaPropertyMapping | templateProperty = pastmembers | ontologyProperty = Artist/pastMember }}
+	{{ DBpediaPropertyMapping | templateProperty = associatedact | ontologyProperty = Artist/associatedAct }}
+	{{ DBpediaPropertyMapping | templateProperty = academyAward | ontologyProperty = Artist/academyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = AFIAward | ontologyProperty = Artist/afiAward }}
+	{{ DBpediaPropertyMapping | templateProperty = BAFTAAward | ontologyProperty = Artist/baftaAward }}
+	{{ DBpediaPropertyMapping | templateProperty = cesarAward | ontologyProperty = Artist/cesarAward }}
+	{{ DBpediaPropertyMapping | templateProperty = emmyAward | ontologyProperty = Artist/emmyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = filmfareAward | ontologyProperty = Artist/filmFareAward }}
+	{{ DBpediaPropertyMapping | templateProperty = grammyAward | ontologyProperty = Artist/grammyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = goldenGlobeAward | ontologyProperty = Artist/goldenGlobeAward }}
+	{{ DBpediaPropertyMapping | templateProperty = goyaAward | ontologyProperty = Artist/goyaAward }}
+	{{ DBpediaPropertyMapping | templateProperty = tonyAward | ontologyProperty = Artist/tonyAward }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birthname | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = deathdate | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = influencedby | ontologyProperty = Person/influencedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = influenced | ontologyProperty = Person/influenced }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = chinesename | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = tradchinesename | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = simpchinesename | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = pinyinchinesename | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = jyutpingchinesename | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = restingplace | ontologyProperty = Person/restingPlace }}
+	{{ DBpediaGeocoordinatesMapping | ontologyProperty = Person/restingPlacePosition  | coordinates = restingplacecoordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = othername | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = yearsactive | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = yearsactive | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = partner | ontologyProperty = Person/partner }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/father }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/mother }}
+	{{ DBpediaPropertyMapping | templateProperty = influences | ontologyProperty = Person/influencedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = hongkongfilmwards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = goldenbauhiniaawards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = hkfcsawards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = goldenhorseawards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = goldenroosterawards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = mtvasiaawards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = goldenmelodyawards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = ntsawards | ontologyProperty = Person/award }}
+}}

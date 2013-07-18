@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = last date
+| rdfs:domain = Cricketer
+| rdfs:range = xsd:date
+}}

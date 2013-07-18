@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = orbits
+|rdfs:domain = SpaceShuttle
+|rdfs:range = xsd:integer
+}}

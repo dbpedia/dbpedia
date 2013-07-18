@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = visitation date
+| rdfs:domain = Island
+| rdfs:range = xsd:gYear
+}}

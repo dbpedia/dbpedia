@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = last launch rocket
+|rdfs:domain = LaunchPad
+|rdfs:range = Rocket
+}}

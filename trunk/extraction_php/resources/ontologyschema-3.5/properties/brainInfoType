@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = brain info type
+| rdfs:domain = Brain
+| rdfs:range = xsd:string
+}}

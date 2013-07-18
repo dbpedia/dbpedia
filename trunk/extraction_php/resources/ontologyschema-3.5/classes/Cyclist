@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Cyclist
+| rdfs:subClassOf = Athlete
+}}

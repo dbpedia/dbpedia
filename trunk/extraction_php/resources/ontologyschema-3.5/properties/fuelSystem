@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = fuel system
+| rdfs:domain = AutomobileEngine
+}}

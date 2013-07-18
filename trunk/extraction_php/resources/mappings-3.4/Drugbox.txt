@@ -1,0 +1,16 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Drug
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = IUPAC_name | ontologyProperty = Drug/iupacName }}
+	{{ DBpediaPropertyMapping | templateProperty = CAS_number | ontologyProperty = Drug/casNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = CAS_supplemental | ontologyProperty = Drug/casSupplemental }}
+	{{ DBpediaPropertyMapping | templateProperty = ATC_prefix | ontologyProperty = Drug/atcPrefix }}
+	{{ DBpediaPropertyMapping | templateProperty = ATC_suffix | ontologyProperty = Drug/atcSuffix }}
+	{{ DBpediaPropertyMapping | templateProperty = ATC_supplemental | ontologyProperty = Drug/atcSupplemental }}
+	{{ DBpediaPropertyMapping | templateProperty = PubChem | ontologyProperty = Drug/pubchem }}
+	{{ DBpediaPropertyMapping | templateProperty = DrugBank | ontologyProperty = Drug/drugbank }}
+	{{ DBpediaPropertyMapping | templateProperty = melting_point | ontologyProperty = Drug/meltingPoint | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = melting_high | ontologyProperty = Drug/meltingPoint | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = boiling_point | ontologyProperty = Drug/boilingPoint | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = drug_name | ontologyProperty = foaf:name }}
+}}

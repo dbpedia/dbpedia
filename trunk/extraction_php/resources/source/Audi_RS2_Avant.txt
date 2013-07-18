@@ -1,0 +1,87 @@
+{{Infobox Automobile
+|name             = Audi RS2 Avant
+|image            = [[Image:Audi RS2.jpg|250px]]<br>''Audi RS2 Avant''
+|manufacturer     = [[Audi|Audi AG]] and [[Porsche]]<ref name="ETKA"/>
+|parent_company   = [[Volkswagen Group]]
+|production_start = March 1994<ref name="ETKA"/>
+|production_end   = July 1995<ref name="ETKA"/>
+|assembly         = [[Zuffenhausen]],<ref name="ETKA"/> [[Germany]]
+|successor        = [[Audi RS4]]
+|class            = [[Compact executive car]], [[sports car]], [[halo vehicle]]<!-- referring to its technological advancements -->
+|body_style       = 5-door Avant ([[station wagon|estate/wagon]])
+|layout           = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]<ref name="ETKA"/>
+|platform         = [[Volkswagen Group B platform#B4|Volkswagen Group B4 platform]]
+|engine           = 2.2&nbsp;[[litre|L]] [[straight-5|5-cylinder]] [[multi-valve|20v]] [[turbocharger|turbo]]<ref name="ETKA"/>
+|transmission     = 6-speed [[manual transmission|manual]]<ref name="ETKA"/>
+|wheelbase        = {{convert|2611|mm|1|abbr=on|lk=on}}
+|length           = {{convert|4580|mm|1|abbr=on}}
+|width            = {{convert|1694|mm|1|abbr=on}}
+|height           = 
+|weight           = 
+|fuel_capacity    = 
+|related          = [[Audi 80#B4|Audi 80 (B4) Avant]]<ref name="ETKA"/>
+|designer         = 
+|sp               = uk
+}}
+The '''Audi RS2 Avant''' was a [[special edition|limited edition]], [[high performance vehicle|high performance]] [[Audi]] five-door, five-seat [[station wagon|estate car]] (station wagon), manufactured from March 1994 to July 1995.<ref name="ETKA">[[ETKA]] official factory data</ref>  Collaboratively designed as a [[joint venture]] between Audi AG and [[Porsche]], and built on Audi's [[Audi 80|80 Avant]], it was Audi's first '''"[[Audi S and RS models|RS]]"''' vehicle,<ref name="Quattro25">Audi of America Press Site [http://media.audiusa.com/article_display.cfm?article_id=9540 25 Years of Audi Quattro] 22 February 2005</ref> and the first of their high performance Avants (Audi's name for an estate car or station wagon); it used the most [[motive power|powerful]] and most thoroughly [[develop]]ed version of Audi's [[straight-5|inline-five]] [[cylinder (engine)|cylinder]] [[turbocharger|turbocharged]] [[internal combustion engine]].
+
+Although it was never exported outside of [[Europe]], except for a few to [[Hong Kong]], [[South Africa]], [[Brazil]] and [[New Zealand]], the RS2 has amassed an impressive [[cult following]] worldwide, and it is often regarded as being the vehicle that finally firmly established Audi as a producer of practical high performance vehicles; its estate body, seating for five persons, and Audi's 'trademark' [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel-drive]] system as standard - made it usable as a comfortable daily driver, even in poorest of [[weather]] conditions.
+
+The '''"[[Audi S and RS models#RS|RS]]"''' initials stand for '''''R'''enn'''S'''port'' (from [[German language|German]], literally translated to "racing sport", actually meaning ''"motor sport"''), and is Audi's highest performance 'top-tier' trim level, positioned distinctly above the '''"[[Audi S and RS models#S models|S]]"''' ("Sport") specification level of Audi's regular model range.  RS cars are usually produced in limited numbers over a limited [[time scale]], and [[innovation|pioneer]] some of Audi's latest and most advanced [[technology]] and [[engineering]] prowess, therefore, "RS" cars could be described as [[halo vehicle]]s.  Whilst RS cars generally command a much higher purchase price, compared to their 'lesser' brethren, they also retain very high [[residual value]]s too.
+
+==Overview==
+The RS2 was the product of a co-development project between Audi and [[Porsche]], based on Audi's [[Audi 80|80]] Avant, and built on the [[Volkswagen Group B platform#B4|Volkswagen Group B4 platform]].  It was [[motive power|powered]] by a modified version of their 2.2&nbsp;[[litre]] [[straight-5|inline five-cylinder]] [[multi-valve|20 valve]] [[turbocharger|turbocharged]] [[petrol engine]] (parts code prefix: 034, identification code: ADU).<ref name="ETKA"/>  This [[internal combustion engine]] produced a [[motive power]] output of {{convert|232|kW|PS bhp|0|lk=on}} at 6,500&nbsp;[[revolutions per minute]] (rpm).  Although much of the [[automobile|car's]] underpinnings were manufactured by Audi, assembly was handled by Porsche at their plant in [[Zuffenhausen]], [[Germany]], which had become available after discontinuation of the [[Mercedes-Benz E500]], which Porsche had manufactured under contract.
+[[Image:RS2 rear.jpg|thumb|left|Audi RS2 Avant]]
+
+Like the rest of the vehicle, the RS2's five-cylinder engine was based on a unit that Audi already produced, although Porsche considerably modified the engine; the standard KKK [[turbocharger]] was switched for a larger unit, along with a heavy-duty [[intercooler]] and higher flow [[fuel injector]]s, a newly designed [[camshaft]], a more efficient induction system, and a low-pressure exhaust system replaced the standard fare; a new [[Robert Bosch GmbH|Bosch]]-supplied engine management system (ECU) controlled the engine.
+
+With so much power available, the RS2 could run from 0 to {{convert|100|km/h|1|lk=on}} in 4.8&nbsp;[[second]]s, and achieve a maximum speed of {{convert|262|km/h|1|abbr=on}} (electronically restricted), despite weighing over {{convert|1600|kg|0|lk=on}}.  In a road test conducted in 1995, British car magazine ''[[Autocar]]'' timed the RS2 from 0 to {{convert|30|mph|abbr=on}} at just 1.5&nbsp;seconds, which they confirmed was faster than both the [[McLaren F1]] road car, and also [[Jacques Villeneuve]]'s [[Formula One]] car of that time.  Even by more modern standards, its performance is exceptional; it could accelerate on-par with the C5 generation [[Chevrolet Corvette]], and was only a tenth of a second slower to 60 than a [[Porsche 996|996 generation]] [[Porsche]] [[Porsche 911|911]].
+[[Image:RS2 Front.jpg|thumb|left|Audi RS2 Avant]]
+
+A six-speed [[manual transmission|manual gearbox]] (parts code prefix: 01E, identification code: CRB) ([[gear ratio]]s - 1st: 3.500, 2nd: 1.889, 3rd: 1.320, 4th: 1.034, 5th: 0.857, 6th: 0.711)<ref name="ETKA"/> was the only offering, and Audi's [[Torsen]]-based<ref name="ETKA"/> 'trademark' [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system was standard.  Front and rear final drive units contained a conventional 'open' [[differential (mechanical device)|differential]], and have a ratio of 4.111, although the rear (parts code prefix: 01H, identification code: AZE) also has an electro-mechanical diff lock.<ref name="ETKA"/>
+
+Porsche-designed [[brake|braking]] and [[suspension (vehicle)|suspension]] systems replaced the standard Audi 80 equipment, however, the [[Robert Bosch GmbH|Bosch]] [[anti-lock braking system|Anti-lock Braking System]] (ABS) was retained.  The front brakes<ref name="ETKA"/> feature either {{convert|304|mm|2|lk=on}} in diameter by {{convert|32|mm|3|abbr=on}} thick radially vented [[disc brake|brake discs]], and use [[Brembo]] four-opposed piston fixed calipers, or a 'modified' option of larger discs (which will only fit under a 17" wheel) of {{convert|322|mm|2|abbr=on}} by {{convert|32|mm|3|abbr=on}}, with uprated brake pads.  The rears<ref name="ETKA"/> featured {{convert|299|mm|2|abbr=on}} by {{convert|24|mm|3|abbr=on}} radially vented discs, again with Brembo four-piston calipers, and the 'modified' option included identical sized discs, but merely included cross-drilling, along with uprated pads.  The handbrake<ref name="ETKA"/> worked on the rears, and consisted of a cable operated 'drum in disc' system.
+
+{{convert|40|mm|1|lk=on}} lower than a standard 80 Avant, the suspension and braking upgrades combined to give the RS2 the handling and braking capabilities of a high-end sports car; 7.0Jx17&nbsp;[[inch]] Porsche 'Cup' [[wheel|roadwheels]],<ref name="ETKA"/> and high performance 245/40&nbsp;ZR17 [[Dunlop Tyres|Dunlop]] tyres were standard as well.  In fact, the braking system wore Porsche-badged [[Brembo]] calipers, and both the wheels and side mirrors were identical in design to those of the [[Porsche 964|964 Turbo]].  Additionally, the word "PORSCHE" is inscribed in the RS2 emblem affixed to the rear tailgate and front [[grille]].
+
+A three-spoke leather [[steering wheel]], [[Recaro]] sports-bucket seats (available in full [[leather]] or a leather/[[suede]] combination), and console materials in either [[wood]] or [[carbon fiber|carbon fibre]] trim rounded out the vehicle's interior changes.  Audi's proprietary Safety Restraint System, [[procon-ten]] remained from its donor vehicle.<ref name="ETKA"/>
+
+Approximately 2200 RS2s were to be built initially, but due to demand the total was 2891 cars built.  Of these, only 180 were right hand drive cars built for the UK market.
+
+Audi also produced an [[Audi 80#S2|S2]], which was available both as a Avant (estate) and a [[Coupé]], as well as saloon model with only 306 models built.  It featured a similar turbocharged 2.2&nbsp;litre five-cylinder engine which delivered {{convert|160|kW|PS bhp|0|abbr=on}} (3B engine), or {{convert|169|kW|PS bhp|0|abbr=on}} (ABY engine).
+{{clr}}
+
+==See also==
+{{commons cat|Audi RS2}}
+*[[Audi S and RS models]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.audi.com Audi.com] Audi corporate website
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+
+{{DEFAULTSORT:Audi Rs2 Avant}}
+[[Category:Vehicles introduced in 1994]]
+[[Category:1990s automobiles]]
+[[Category:Audi vehicles|RS2]]
+[[Category:Porsche]]
+[[Category:All wheel drive vehicles]]
+[[Category:Executive cars]]
+[[Category:Mid-size cars]]
+[[Category:Sports cars]]
+[[Category:Station wagons]]
+
+[[da:Audi RS2]]
+[[de:Audi RS2]]
+[[fr:Audi RS2]]
+[[hr:Audi RS2]]
+[[it:Audi RS2]]
+[[hu:Audi RS2]]
+[[nl:Audi RS2]]
+[[no:Audi RS2]]
+[[pl:Audi RS2]]
+[[pt:Audi RS2]]

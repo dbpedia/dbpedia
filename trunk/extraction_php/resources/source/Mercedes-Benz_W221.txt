@@ -1,0 +1,324 @@
+{{for|a complete overview of all S-Class models|Mercedes-Benz S-Class}}
+{{cleanup|date=October 2008}}
+
+{{Infobox Automobile
+| image          = [[Image:Mercedes S 320 CDI 20090808 front.JPG|250px|2007 Mercedes-Benz S 320 CDI]]
+| name           = Mercedes-Benz W221
+| manufacturer   = [[Mercedes-Benz]]
+| parent_company = [[DaimlerChrysler]] (2005-07)<Br>[[Daimler AG]] (2008–present)
+| predecessor    = [[Mercedes-Benz W220]]
+| production     = 2005–present
+| engine         = 3.0L diesel {{convert|235|PS|abbr=on}} [[V6 engine|V6]]<br>
+3.5L {{convert|272|PS|abbr=on}} [[V6 engine|V6]]<br>
+4.0L diesel {{convert|320|PS|abbr=on}} [[V8 engine|V8]]<br>
+4.7L {{convert|340|PS|abbr=on}} [[V8 engine|V8]]<br>
+5.5L {{convert|381|PS|abbr=on}} [[V8 engine|V8]]<br>
+5.5L {{convert|517|PS|abbr=on}} [[V12 engine|V12]] biturbo<br>
+6.2L AMG {{convert|525|PS|abbr=on}} [[V8 engine|V8]]<br>
+6.0L AMG {{convert|612|PS|abbr=on}} [[V12 engine|V12]] biturbo
+| body_style     = 4-door [[sedan (car)|sedan]]
+| platform       = [[Front-engine design|Front engine]], [[rear-wheel drive]] / [[four-wheel drive]]
+| class          = [[Full-size]] [[luxury car]]
+| transmission   = 7-speed [[7G-Tronic|G-Tronic]] [[automatic transmission|automatic]]<br>
+5-speed [[5G-Tronic|G-Tronic]] [[automatic transmission|automatic]]
+| wheelbase      = {{convert|3035|mm|in|1|abbr=on}}<br>LWB: {{convert|3165|mm|in|1|abbr=on}}
+| length         = 2006-08 SWB: {{convert|5076|mm|in|1|abbr=on}}<br>2009- SWB: {{convert|5079|mm|in|1|abbr=on}}<br>2006-08 LWB: {{convert|5206|mm|in|1|abbr=on}}<br>2009- LWB: {{convert|5209|mm|in|1|abbr=on}}
+| width          = 2006-08: {{convert|1871|mm|in|1|abbr=on}}<br>2009- {{convert|1872|mm|in|1|abbr=on}}<br>BlueHybrid: {{Auto in|83.3|0}}
+| height         = {{convert|1473|mm|in|1|abbr=on}}
+| weight         = from {{convert|1955|kg|lb|abbr=on}} [S320 CDI]<br>to {{convert|2270|kg|lb|abbr=on}} [S65 AMG]
+| assembly       = [[Sindelfingen]], [[Germany]]
+}}
+
+The '''Mercedes-Benz W221''' is a chassis code of [[Mercedes-Benz S-Class|S-Class]], the successor of [[Mercedes-Benz W220]].
+
+The vehicle was unveiled in 2005 Frankfurt Motor Show.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-817437-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html Mercedes-Benz at the International Motor Show: World premiere of the new S Class]</ref>
+
+==Styling==
+The W221 S-Class' exterior styling is distinctly different to the W220. The rear styling is similar to the [[BMW E65|E65]] [[BMW 7 Series]], and also the [[Mercedes-Benz]] [[Maybach]] - the larger saloon from Daimler AG's flagship brand, which was presented to public in 1997.
+
+Inside, the W221's interior is also significantly different from the preceding model. The interior features an instrument cluster shroud that also contains the navigation screen, with silver effect air vents below, and a square, analog [[clock]] within the vents. Below the vents are metal tab switches with a black field behind them, to control the [[HVAC]] system. On the center console, a metal control wheel for the [[Comand APS|COMAND]] system sits above a piece of wood, surrounded by metal buttons. Throughout the interior, many buttons are metal, with black fields above them denoting the switches' function.
+
+The W221 is slightly larger in all dimensions than the W220, with a longer [[wheelbase]] and more interior room.
+
+==Models==
+===2009 facelift===
+The revised 2009 S-Class was announced on Apr 08, 2009 at Stuttgart. The minor model update includes minor cosmetic changes and several new features:<ref>[http://www.inautonews.com/2009-mercedes-benz-s-class/ "2009 Mercedes Benz S Class complete details"]</ref><ref>[http://media.daimler.com/dcmedia/0-921-614289-1-1205235-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html The 2009 Mercedes-Benz S-Class: Pacemaker in automotive development]</ref>
+
+*Adaptive Highbeam Assist - detects vehicles with their lights on which are travelling towards or ahead of the car in which the system is fitted and controls the headlamps to ensure the largest possible range without dazzling other drivers.
+*[[Blind spot monitor]]
+*[[Lane departure warning system|Lane Keeping Assist]] - detects road markings and senses if the driver is inadvertently straying out of the lane. If so, the driver is warned by short vibrations of the steering wheel. This system can also distinguish between intentional (for example, overtaking or merging) and unintentional lane departures, reducing the number of false alarms.
+*Speed Limit Assist - identifies speed limit signs in passing and shows the relevant speed limit in the central display. It is standard for S 600.
+*Attention Assist - continuously monitors more than 70 different parameters to detect driver fatigue and tiredness. Once the system detects behaviour that typically indicates the onset of drowsiness, a warning signal is sounded and "ATTENTION ASSIST. Break!" appears in the instrument cluster. It is not standard on S 400 HYBRID.
+*Active Body Control (ABC) crosswind compensation - uses the sensors of the Electronic Stability Program (ESP) to vary the wheel load distribution via the ABC spring struts, depending on the direction and intensity of the crosswind, in order to reduce the adverse effects of crosswinds. This is standard on the S 600.
+*Torque Vectoring Brake - brakes the inside rear wheel during cornering to enhance handling and safety by reducing [[understeer]].
+
+The updated models went on sale in June 2009. Early models include S 350 CDI BlueEFFICIENCY, S 450 CDI, S 350, S 400 HYBRID, S 450, S 500, S 600.
+
+===S 320 CDI BlueEFFICIENCY (2008-2009)===
+It is a replacement of S 320 CDI with improved fuel efficiency. Changes include on-demand electric hydraulic power steering pump, standstill decoupling for the 7G-TRONIC transmission, 17-inch light-alloy wheels with reduced rolling resistance tyres.
+
+Germany model has MSRP of €70,864.50 (incl. VAT) for short wheelbase version, €78,718.50 (incl. VAT) for long-wheelbase version.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-1133912-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Mercedes-Benz S 320 CDI BlueEFFICIENCY: The most frugal S-Class ever]</ref>
+
+===S 400 HYBRID (2009-)===
+The vehicle was originally announced under the name S 400 BlueHYBRID.<ref>[http://www.autobloggreen.com/2008/02/29/mercedes-benz-s400-bluehybrid-first-production-lithium-ion-hybr/ "Mercedes-Benz S400 BlueHybrid, first production lithium ion hybrid"]</ref> The vehicle was unveiled in 2009 Chicago Auto Show.<ref>[http://green.autoblog.com/2009/02/16/mercedes-benz-s400-bluehybrid-arriving-in-the-u-s-this-summer/ Mercedes-Benz S400 BlueHybrid arriving in the U.S. this summer]</ref>
+
+It is a [[mild hybrid]]<ref>http://www.greencarcongress.com/2009/06/s400-20090611.html</ref> with the lithium ion battery was supplied by [[Continental AG]].<ref>[http://green.autoblog.com/2008/03/03/mercedes-s400-li-ion-hybrid-will-use-continental-battery/ Mercedes S400 li-ion hybrid will use Continental battery]</ref> The cells were provided by Johnson Controls-Saft.<ref>[http://www.greencarcongress.com/2008/09/daimler-will-la.html Daimler Will Launch Mercedes-Benz Mild Hybrid S 400 in Summer 2009]</ref>
+
+Production vehicle was sold as S 400 HYBRID.<ref>[http://www.worldcarfans.com/109071520482/mercedes-benz-s-400-hybrid-further-details Mercedes-Benz S 400 Hybrid further details]</ref> US models went on sale in August 2009<ref>[http://green.autoblog.com/2009/04/13/mercedes-benz-sets-august-sale-date-for-s400-hybrid-sedan/ Mercedes-Benz sets August sale date for S400 Hybrid sedan]</ref>, but was delivered to dealers in 2009-10.<ref>[http://www.autoblog.com/2009/09/18/mercedes-benz-now-shipping-the-s400-hybrid-to-us-dealers Mercedes-Benz now shipping the S400 Hybrid to US dealers]</ref> Japan models went on sale in October 2009.<ref>[http://www.greencarcongress.com/2009/02/mercedes-benz-t.html Mercedes-Benz To Begin Sales of Hybrid S-Class In Japan in October]</ref>
+
+====ESF 2009 (2009)====
+It is a safety research vehicle based on S 400 HYBRID, but with braking bag, Interactive Vehicle Communication.
+
+The vehicle was unveiled in Enhanced Safety of Vehicles (ESV) Conference in Stuttgart.<ref>[http://www.autoblog.com/2009/06/14/video-mercedes-benz-esf-s400-concepts-braking-bag-in-action/ VIDEO: Mercedes-Benz ESF S400 Concept's "Braking Bag" in action]</ref>
+
+===S 420 CDI (2006-)===
+The vehicle were delivered beginning in December 2006, with MSRP of short-wheelbase model at €84,448 (net price € 72,800) and the long-wheelbase model at € 92,104 (net price € 79,400).<ref>[http://www.autoblog.com/2006/12/06/mercedes-benz-adding-big-diesel-to-s-class/ Mercedes-Benz adding big diesel to S-Class]</ref>
+
+===S 600 Guard (2006-)===
+It is an armoured vehicle with European B6/B7 resistance level. It resists military-standard small-arms projectiles and provides protection against fragments from hand grenades and other explosive charges. Additional safety features include run-flat tyres, 90L self-sealing fuel tank and a fire-extinguishing system.<ref>[http://www.autoblog.com/2006/10/17/mercedes-beefs-up-s-class-with-s600-guard/ Mercedes beefs up S-Class with S600 Guard]</ref> Other features include Michelin PAX 245-700 R470 AC tires, 90L fuel tank, optional emergency fresh-air system, pneumatic emergency control system for the power windows (operates independently of the on-board electronics), emergency boot opening facility, optional Panic Alarm System, rear camera, heated front windscreen and heated front windows, adjustable doorhold system for all four doors, rear doors that are pulled shut automatically over the last few millimetres, rear electric roller blinds.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-825677-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html S-Class with factory-integrated special protection: Safety of the very highest calibre]</ref> The vehicle has top speed of {{convert|210|km/h|abbr=on}}, with GVW of {{convert|4200|kg|abbr=on}}.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-825686-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html Press Kit: Mercedes-Benz S 600 Guard]</ref>
+
+===S 600 Guard Pullman (2008-)===
+It was based on the Mercedes Benz S 600 L Guard, but in limousine form with an extra-long wheelbase. It includes a rear entrance with increased headroom, 4 seats behind driver partition. Other features included reinforcement of the links between the suspension components and the bodyshell, specifically targeted modification of the suspension components themselves, an additional brace (strut tower brace) between the front suspension struts, two additional steel springs at the rear to complement the air suspension, larger twin-calliper front brake discs.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-1129705-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html?TS=1252618509100 Mercedes-Benz S 600 Pullman Guard: The new large state limousine from Mercedes-Benz]</ref>
+
+The vehicles were delivered beginning in late 2008.<ref>[http://www.autoblog.com/2007/02/23/size-matters-mercedes-benz-s600-guard-pullman-limousine-in-deve/ Size Matters: Mercedes-Benz S600 Guard Pullman limousine in development]</ref> The production launch marked the 80th anniversary of the Mercedes-Benz special-protection unit.<ref>[http://www.autoblog.com/2008/09/23/mercedes-marks-80-years-of-protection-with-new-s600-pullman-guar/ Mercedes-Benz marks 80 years of protection with new S600 Pullman Guard]</ref>
+
+===S 63 AMG, S 65 AMG===
+S 63 AMG includes [[Mercedes-Benz M156 engine]] rated {{convert|525|PS|kW hp|abbr=on}} and 465 pound-feet {{convert|630|Nm|0|abbr=on}}. S 65 AMG includes [[Mercedes-Benz M275 engine]] rated {{convert|612|PS|kW hp|abbr=on}} and {{convert|1000|Nm|0|abbr=on}}, restyled front and rear bumpers and rocker panels, larger wheels, brakes, and tires, four exhaust pipes, modified and reprogrammed suspension for sport biased handling, and various interior changes.
+
+====2009 version====
+The engines had reduced fuel consumption and CO2 emissions by up to 3%. Styling changes include arrow-shaped radiator grille, AMG-specific daytime running lights, two transverse air outlets on each side, "6.3 AMG" or "V12 Biturbo" lettering on the front wings, redesigned exterior mirrors, 52-LED tail lights. Active Body Control provides crosswind stabilisation as standard equipment. Torque Vectoring Brake is added. Interior include PASSION leather upholstery, AMG-specific analogue clock featuring an IWC design.
+
+Optional accessories include<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-1199167-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html Specific enhancements to the S 65 AMG - Exclusive top-of-the-line AMG S-Class model now boasts even greater appeal]</ref>:
+*AMG 20-inch forged wheels with 255/35R20 front and 275/30R20 rear tyres
+*AMG trim elements in carbon fibre/piano lacquer
+*AMG floor mats
+The vehicles went on sale in June 2009, with S 65 AMG available in long-wheelbase version only.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-1215176-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html Specific enhancements to the S 63 AMG and S 65 AMG: Exclusive top-of-the-line AMG S-Class models now boast even greater appeal]</ref>
+
+The vehicles were unveiled in 2009 Shanghai motor show.<ref>[http://www.autoblog.com/2009/04/20/officially-official-mercedes-benz-unveils-s63-and-s65-amg-at-sh/ Officially Official: Mercedes-Benz unveils S63 and S65 AMG at Shanghai show]</ref>
+
+===Concepts===
+====S 300 BLUETEC Hybrid (2007)====
+It is a concept vehicle. It included a 2.2L [[Straight-4|4-cylinder]] diesel engine with urea injection and electric motor with combined rating of {{convert|224|PS|kW hp|abbr=on}} and {{convert|560|Nm|abbr=on}}, with fuel consumption of 5.4 litres of diesel per 100 kilometres.<ref>[http://www.autoblog.com/2007/09/07/frankfurt-preview-mercedes-benz-s-300-bluetec-hybrid/ Frankfurt Preview: Mercedes-Benz S 300 BLUETEC Hybrid]</ref>.
+
+The vehicle was unveiled in 2007 Frankfurt Motor Show.<ref>[http://green.autoblog.com/2007/09/11/frankfurt-2007-mercedes-benz-s-class-hybrids/ Frankfurt 2007: Mercedes-Benz S-Class Hybrids]</ref>
+
+The car was estimated to go on sale in Europe in 2010, and would cost $80,000<ref>[http://www.nytimes.com/2008/01/15/automobiles/autoshow/14-s300.html "A Four-Banger S-Class Hybrid"]</ref>.
+
+====S 400 BLUETEC Hybrid (2007)====
+It included V6 BLUETEC diesel engine and a electric motor with combined ratings of  {{convert|265|bhp|kW|abbr=on}} and {{auto lbft|465}}.
+
+The vehicle was unveiled in 2007 LA Motor Show.<ref>[http://www.autoblog.com/2007/11/16/la-2007-mercedes-s400-bluetec-hybrid-its-new-we-think/ LA 2007: Mercedes S400 Bluetec Hybrid - it's new, we think]</ref>
+
+====Mercedes-Benz Concept Ocean Drive (2007)====
+[[File:Mercedes-Benz Concept Ocean Drive v.jpg|thumb]]
+
+It is a concept vehicle based on long wheelbase version of S 600, but with two-tone yarn fabric roof. The vehicle features an oversized grille, redesigned [[LED]] headlights and restyled trunk, LED head and tail lamps, a revised air dam, restyled flanks without the wheelhouse bulges, door handles that fit flush into the body, AIRSCARF neck-level heating system, on all 4 seats. The car also contains pillarless windows that provide an unobstructed view for occupants when the large soft top is down.<ref>[http://www.autoblog.com/2006/12/20/mercedes-benz-reveals-ocean-drive-concept-for-detroit/ Mercedes-Benz reveals Ocean Drive concept for Detroit]</ref>
+
+Other features include aluminum wheels with 275/35ZR21 tires.<ref>[http://www.automobilemag.com/auto_shows/2007_detroit/0612_2007_mercedes_benz_ocean_drive_s_class_convertible/index.html AUTO SHOWS: 2007 Mercedes-Benz Ocean Drive Concept - Four-door S-class Convertible]</ref>
+
+The vehicle was unveiled in 2007 NAIAS.<ref>[http://www.autoblog.com/2007/01/08/detroit-auto-show-mercedes-shows-ocean-drive-concept-on-ice/ Detroit Auto Show: Mercedes shows Ocean Drive concept...on ice]</ref>
+
+====S 500 Plug-in HYBRID (2009)====
+It is a plug-in hybrid vehicle. It included 3.5L V6 engine, hybrid module rated {{convert|60|PS|kW hp|abbr=on}} and {{convert|250|Nm|lbft|abbr=on}}, lithium-ion battery rated over 10 kWh, 30&nbsp;km electric-only driving range.
+
+The vehicle was unveiled in 2009 Frankfurt Motor Show.<ref>[http://green.autoblog.com/2009/09/10/officially-official-mercedes-benz-vision-s-500-plug-in-hybrid/ Officially, official: Mercedes-Benz Vision S 500 Plug-in hybrid brings big numbers to Frankfurt]</ref>
+
+==Specifications==
+===Body styles===
+{|class=wikitable
+|-
+!Body types!!Short wheel base sedan!!Long wheel base sedan!!Limousine
+|-
+!Model!!colspan=3|Years
+|-
+!colspan=4|Petrol engines
+|-
+|S 300||2006-||2006?-||-
+|-
+|S 350||2005-||2005-||-
+|-
+|S 350 4MATIC||2007-||2007-||-
+|-
+|S 400 HYBRID||2009-||2009-||-
+|-
+|S 450||2006-||2006?-||-
+|-
+|S 450 4MATIC||2006-||2006-||-
+|-
+|S 500||2005-||2005-||-
+|-
+|S 500 4MATIC||2006-||2006-||-
+|-
+|S 600, S 600 Guard||-||2006-||-
+|-
+|S 600 Guard Pullman||-||-||2008-
+|-
+|S 63 AMG||2006-||2006-||-
+|-
+|S 65 AMG||-||2006-||-
+|-
+!colspan=4|Diesel engines
+|-
+|S 300 BlueTec HYBRID||?||?||?
+|-
+|S 320 CDI||2006-2008||2006-2008||-
+|-
+|S 320 CDI 4MATIC||2006-2008||2006-2008||-
+|-
+|S 320 CDI BlueEFFICIENCY||2008-2009||2008-2009||-
+|-
+|S 350 CDI BlueEFFICIENCY||2009-||2009-||-
+|-
+|S 350 CDI 4MATIC||2009-||2009-||-
+|-
+|S 420 CDI||2006-2009||2006-2009||-
+|-
+|S 450 CDI||2009-||2009-||-
+|-
+|}
+
+===Engines===
+{|class=wikitable
+!Model!!Years!!Engine type/code!!Power, Torque@rpm
+|-
+!colspan=4|Petrol engines
+|-
+|S 300||2006-||3.0L V6||{{convert|231|PS|kW hp|abbr=on}}, {{convert|300|Nm|0|abbr=on}}
+|-
+|S 350||2005-||{{convert|3498|cc|L cuin|abbr=on}} V6 ([[Mercedes-Benz M272 engine|M272]])||{{convert|272|PS|kW hp|abbr=on}}@6000, {{convert|350|Nm|0|abbr=on}}@2400-5000
+|-
+|S 350 4MATIC||2007-||{{convert|3498|cc|L cuin|abbr=on}} V6 ([[Mercedes-Benz M272 engine|M272]])||{{convert|272|PS|kW hp|abbr=on}}@6000, {{convert|350|Nm|0|abbr=on}}@2400-5000
+|-
+|rowspan=3|S 400 HYBRID||rowspan=3|2009-||{{convert|3498|cc|L cuin|abbr=on}} V6 ([[Mercedes-Benz M272 engine|M272]])||{{convert|279|PS|kW hp|abbr=on}}@6000, {{convert|350|Nm|0|abbr=on}}@2400-5000
+|-
+|3-phase AC magneto motor (external rotor)||{{convert|20|PS|kW hp|0|abbr=on}}@6000, {{convert|160|Nm|0|abbr=on}}
+|-
+|Total||{{convert|299|PS|kW hp|abbr=on}}@, {{convert|385|Nm|0|abbr=on}}@2400-5000
+|-
+|S 450, S 450 4MATIC||2006-||{{convert|4663|cc|L cuin|abbr=on}} V8 ([[Mercedes-Benz M273 engine|M273]])||{{convert|340|PS|kW hp|0|abbr=on}}@6000, {{convert|460|Nm|0|abbr=on}}@2700-5000
+|-
+|S 500||2005-||{{convert|5461|cc|L cuin|abbr=on}} V8 ([[Mercedes-Benz M273 engine|M273]])||{{convert|388|PS|kW hp|abbr=on}}@6000, {{convert|530|Nm|0|abbr=on}}@2800-4800
+|-
+|S 500 4MATIC||2006-||{{convert|5461|cc|L cuin|abbr=on}} V8 ([[Mercedes-Benz M273 engine|M273]])||{{convert|388|PS|kW hp|abbr=on}}@6000, {{convert|530|Nm|0|abbr=on}}@2800-4800
+|-
+|S 600, S 600 Guard||2006-||{{convert|5513|cc|L cuin|abbr=on}} V12 BiTurbo ([[Mercedes-Benz M275 engine|M275]])||{{convert|517|PS|kW hp|abbr=on}}@5000, {{convert|830|Nm|0|abbr=on}}@1800-3500
+|-
+|S 600 Guard Pullman||2008-||{{convert|5513|cc|L cuin|abbr=on}} V12 BiTurbo ([[Mercedes-Benz M275 engine|M275]])||{{convert|517|PS|kW hp|abbr=on}}@5000, {{convert|830|Nm|0|abbr=on}}@1800-3500
+|-
+|S 63 AMG||2006-||{{convert|6208|cc|L cuin|abbr=on}} V8 ([[Mercedes-Benz M156 engine|M156]])||{{convert|525|PS|kW hp|abbr=on}}@6800, {{convert|630|Nm|0|abbr=on}}@5200
+|-
+|S 65 AMG||2006-||{{convert|5980|cc|L cuin|abbr=on}} V12 BiTurbo ([[Mercedes-Benz M275 engine|M275]])||{{convert|612|PS|kW hp|abbr=on}}@4800-5100, {{convert|1000|Nm|0|abbr=on}}@2000-4000
+|-
+!colspan=4|Diesel engines
+|-
+|rowspan=3|S 300 BlueTec HYBRID||rowspan=3|?||2.2L [[Straight-4|I4]] turbo ([[Mercedes-Benz OM651 engine|OM651]])||?
+|-
+|electric motor||?
+|-
+|Total||{{convert|224|PS|kW hp|abbr=on}}<ref>[http://www.whnet.com/4x4/hybrid.html "Continental Starts S400 BlueHYBRID Battery Volume Production"]</ref>, {{convert|560|Nm|0|abbr=on}}
+|-
+|S 320 CDI, S 320 CDI 4MATIC||2006-2008||{{convert|2987|cc|L cuin|abbr=on}} V6 Biturbo ([[Mercedes-Benz OM642 engine|OM642]])||{{convert|235|PS|kW hp|abbr=on}}@3600, {{convert|540|Nm|0|abbr=on}}@1600-2400
+|-
+|S 320 CDI BlueEFFICIENCY||2008-2009||{{convert|2987|cc|L cuin|abbr=on}} V6 Biturbo ([[Mercedes-Benz OM642 engine|OM642]])||{{convert|235|PS|kW hp|abbr=on}}@3600, {{convert|540|Nm|0|abbr=on}}@1600-2400
+|-
+|S 350 CDI BlueEFFICIENCY, S 350 CDI 4MATIC||2009-||{{convert|2987|cc|L cuin|abbr=on}} V6 Biturbo ([[Mercedes-Benz OM642 engine|OM642]])||{{convert|235|PS|kW hp|abbr=on}}@3600, {{convert|540|Nm|0|abbr=on}}@1600-2400
+|-
+|S 420 CDI||2006-2009||{{convert|3996|cc|L cuin|abbr=on}} V6 Biturbo ([[Mercedes-Benz OM629 engine|OM629]])||{{convert|320|PS|kW hp|0|abbr=on}}@3600, {{convert|730|Nm|0|abbr=on}}@2200
+|-
+|S 450 CDI||2009-||{{convert|3996|cc|L cuin|abbr=on}} V6 Biturbo ([[Mercedes-Benz OM629 engine|OM629]])||{{convert|320|PS|kW hp|0|abbr=on}}@3600, {{convert|730|Nm|0|abbr=on}}@2200
+|-
+|}
+
+S 300 was only sold in Asia.
+
+S 350 CDI 4MATIC was sold as S 350 CDI 4MATIC BlueEFFICIENCY in Germany.
+
+S 500 was sold as S 550 in US market.
+
+===Transmissions===
+Models with V12 engines have [[5G-TRONIC]] transmission. Models with non-V12 engines have [[7G-TRONIC]] transmission. S 350, S 350 4MATIC, S 400 Hybrid, S 450, S 450 4MATIC, S 500 include [[7G-TRONIC]] Sport transmission.
+
+S 65 AMG included five-speed automatic SPEEDSHIFT transmission with DIRECT SELECT.
+
+Models with 7G-TRONIC transmission include DIRECT SELECT, which allows 7G-TRONIC to be electronically controlled by touching the lever on the right-hand side of the steering column.
+
+Beginning in 2009, S 63 AMG includes AMG SPEEDSHIFT 7G-TRONIC transmission, S 65 AMG includes AMG SPEEDSHIFT 5-speed automatic transmission.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-1215365-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html?TS=1252629655358 Engine and drive system: V8 naturally aspirated engine and biturbo V12 engine: high tech from the world of motorsport for unrivalled performance]</ref>
+
+===Handling===
+All models except S 63 AMG, S 600 L, S 65 L AMG use AIRMATIC suspension, with optional [[Active Body Control]] except for 4MATIC models. S 63 AMG, S 600 L, S 65 L AMG include [[Active Body Control]] as standard.
+
+4MATIC models were unveiled in 2006 Paris Motor Show.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-825127-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Paris Motor Show 2006: A powerful display from Mercedes-Benz]</ref> Initial products include S 450 4MATIC and S 500 4MATIC, followed by S320 CDI 4MATIC in 2006-12, then S 350 4MATIC in mid 2007.<ref>[http://www.autoblog.com/2006/09/12/farfromskiddin-mercedes-benz-s-class-4matic-unveiled/ Farfromskiddin: Mercedes-Benz S-Class 4MATIC unveiled]</ref> All 4MATIC models were made in short and long wheelbases.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-824806-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html Overview: All-wheel-drive passenger cars from Mercedes-Benz]</ref> S 320 CDI 4MATIC was replaced by S 350 CDI 4MATIC.
+
+===Safety===
+*Brake Assist Plus: an optional system designed to apportion brake pressure based on pedal speed and distance between the car and objects. This is an evolution of the Brake Assist system found on earlier models, and uses the vehicle's radar, in addition to the usual Brake Assist's monitoring of pedal depression speed, to apply power brake boost as required. This requires the optional adaptive cruise control's radar, so in vehicles not equipped with the latter, standard Brake Assist is substituted.
+*[[precrash system|Pre-Safe]]: a development of the previous Pre-Safe system fitted to the W220 S-Class, which uses vehicle-dynamic sensors to predict collisions, the W221's system also takes into account closing speed, as measured by the vehicle's [[radar]]. If a collision appears likely, Pre-Safe closes all windows and the sunroof, moves all passenger's seats and their head restraints to a safer position, and tightens the seatbelts.
+*[[Electronic Stability Control|Electronic Stability Program]] (ESP): similar to the systems fitted to other Mercedes vehicles, this system measures driver inputs and compares these to the vehicle's path. If these diverge, ESP brakes single wheels selectively to eliminate oversteer (fishtailing) and understeer (plowing), and reduces engine power, if necessary.
+*[[automotive night vision|Night View Assist]]: optional, uses two [[infrared|near-infrared]] (NIR) illuminators mounted in the headlamp clusters and a sensor in the windshield. The infrared beams are picked up by the sensor and an image is displayed in the instrument cluster. Mercedes-Benz claims that this system provides the same viewable distance as high-beam headlights, without blinding oncoming motorists.
+
+The W221 also contains many other safety features, including front and rear crumple zones, eight dual-stage [[air bag]]s, seatbelt pre-tensioning devices, [[anti-lock brakes]] (ABS), collapsible steering column, and [[traction control system|traction control]].
+
+===Equipment===
+*Airmatic DC - [[air suspension]], similar to the system fitted to the [[Mercedes-Benz W211|W211 E-Class]], uses air springs and adaptive electronic control to sense road and driving conditions and produce a firm or soft ride. The air suspension is only available for the smaller engines up to S 500. The S 600, S 63, and S 65 AMG are equipped with an active suspension system called [[Active Body Control]], which is based on steel springs. ABC is also optional on all other models except vehicles equipped with 4Matic all wheel drive.
+*Distronic Plus - optional, a development of the Distronic system fitted to earlier models. Uses more [[radar]] systems (long- and short-wave) and improved control logic to detect vehicles ahead and adjust the vehicle's speed to maintain a driver-set distance behind the car in front. The system has more authority over the vehicle than previous Distronic iterations, and can bring the vehicle to a complete stop if necessary, unlike the previous versions.
+*Drive-Dynamic seats with massage - optional, an evolution of the system fitted to many other Mercedes models, uses air bladders in the seat bolsters to support the driver during cornering. Also, other air bladders provide a four-mode massage function to front-seat passengers.
+*Heated and Active-Ventilated seats, with heating elements for warming the seats and small fans to keep the seats cool and draw perspiration away from occupants.
+*[[Harman Kardon|harman/kardon]] Logic7 stereo sound system with 14 speakers, in-dash CD changer and [[PC Card]] slot
+*Hard-drive based [[Global Positioning System|GPS]] satellite navigation system
+*Revised [[Comand APS|COMAND]] navigation and radio control system, uses the dash-top display and a central knob to navigate menu choices and options. Most frequently-used functions (such as volume) can be controlled by dedicated switches.
+*[[Fiber-optic]] ambient lighting for the dashboard, footwells, and other areas.
+*Tele Aid, uses GPS tracking and cell phone service to provide assistance. Can be used for information, to call for roadside assistance, or to call for help in emergencies. Automatically calls for help if an air bag or seatbelt tensioner deploys.
+* [[Cup holder]]s
+
+==Sales==
+In 2009-05-11, Mercedes-Benz announced the sale of 270000 units since the original W221 launch.<ref>[http://media.daimler.com/dcmedia/0-921-614289-1-1205300-1-0-0-0-0-1-11702-854934-0-1-0-0-0-0-0.html Market success: Number One in the luxury segment]</ref>
+
+==Production==
+S 600 Guard and S 600 Guard Pullman were built in Sindelfingen plant with a separate production line.<ref>[http://www.channel4.com/4car/ft/feature/feature/4954/1 Feature: Mercedes-Benz S-Guard: the car of steel]</ref><ref>[http://www.caranddriver.com/news/car/08q4/2009_mercedes-benz_s600_pullman_guard-auto_shows 2009 Mercedes-Benz S600 Pullman Guard - Auto Shows]</ref>
+
+==Marketing==
+As part of the W221 launch campaign, Mercedes-Benz Accessories GmbH introduced a series of 17 products under S-Class Collection, beginning in 2005-09. Products include wrist watch designed with Sindelfingen-based Design Centre, piqué polo shirt, cufflinks, pen, umbrella, key fob, mouse pads, pen cases, cigar set, note pad, wallet, 1/43 S-Class scale model car.<ref>[http://media.daimler.com/dcmedia/0-921-658745-1-817708-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Mercedes-Benz Accessories GmbH launches exclusive S-Class Collection: A Piece of S-Class on Your Wrist]</ref> Mercedes-Benz Accessories GmbH also introduced a series of 1200 units of S-Class vehicle freight train.<ref>[http://media.daimler.com/dcmedia/0-921-658745-1-817701-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Model vehicle freight train marks première of the new S-Class: All tracks clear for the new Mercedes-Benz S-Class]</ref>
+
+==Gallery==
+<gallery>
+Image:S 500 L AMG-Paket.jpg|2006 Europe variant Mercedes-Benz S 500(S550) with the optional AMG bodykit applied.
+Image:SC06 2006 Mercedes-Benz S550.jpg|The W221 S550 is sold as the same-engined S500 in Europe.
+Image:Mercedes-Benz Ocean Drive vl TCE.jpg|The Ocean Drive Concept.
+</gallery>
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commons cat|Mercedes-Benz W221}}
+Press kits:
+*[http://media.daimler.com/dcmedia/0-921-614289-1-813840-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: The new Mercedes-Benz S-Class: Thinking ahead - setting the pace (TecDay 1)]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-815897-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: The new Mercedes-Benz S-Class: Be ahead (TecDay 2)]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-815854-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: The new Mercedes-Benz S-Class: Be Ahead (TecDay 3)]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-816138-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: The engines in the new Mercedes-Benz S-Class]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-816092-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: Environmental Certificate - Mercedes-Benz S-Class]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-816444-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: The new Mercedes-Benz S-Class: physiological safety development]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-816856-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: TecDay 4 - The New Mercedes-Benz S-Class: Looking Ahead - Driving Forward]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-817632-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: The new Mercedes-Benz S-Class: Be Ahead]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-823251-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: New to the S-Class: the PRE-SAFE brake]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-825099-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: The S-Class with the new 4MATIC all-wheel drive]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-825698-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html Press Kit: Mercedes-Benz S 600 Guard]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-1215720-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html?TS=1252623677203 Mercedes-Benz S 63 AMG and S 65 AMG]
+*[http://media.daimler.com/dcmedia/0-921-614289-1-1205704-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html?TS=1252625038009 The 2009 Mercedes-Benz S-Class]
+
+{{Mercedes-Benz vehicles}}
+{{Mercedes-Benz S-Class lineage}}
+
+{{DaimlerChrysler}}
+
+[[Category:Mercedes-Benz platforms|W221]]
+[[Category:Vehicles introduced in 2005]]
+[[Category:Hybrid electric vehicles]]
+[[Category:All wheel drive vehicles]]
+
+[[de:Mercedes-Benz W221]]
+[[fr:Mercedes-Benz W221]]
+[[it:Mercedes-Benz W221]]
+[[ja:メルセデス・ベンツ W221]]
+[[pl:Mercedes-Benz W221]]
+[[ru:Mercedes-Benz Ocean Drive]]
+[[sv:Mercedes-Benz W221]]

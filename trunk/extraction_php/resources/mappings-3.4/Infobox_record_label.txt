@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = RecordLabel
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = parent | ontologyProperty = RecordLabel/parent }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = RecordLabel/country }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = founder | ontologyProperty = Organisation/foundationPerson }}
+	{{ DBpediaPropertyMapping | templateProperty = founder | ontologyProperty = Organisation/foundationOrganisation }}
+	{{ DBpediaPropertyMapping | templateProperty = distributor | ontologyProperty = RecordLabel/distributingLabel }}
+	{{ DBpediaPropertyMapping | templateProperty = distributor | ontologyProperty = RecordLabel/distributingCompany }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Organisation/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Organisation/location }}
+	{{ DBpediaPropertyMapping | templateProperty = url | ontologyProperty = foaf:homepage }}
+}}

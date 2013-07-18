@@ -1,0 +1,14 @@
+{{Class
+| rdfs:label = Place
+| specificProperties = {{SpecificProperty | ontologyProperty = areaLand | unit = squareKilometre }}
+                       {{SpecificProperty | ontologyProperty = depth | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = width | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = minimumElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = height | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = areaWater | unit = squareKilometre }}
+                       {{SpecificProperty | ontologyProperty = maximumDepth | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = length | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = maximumElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = elevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = areaTotal | unit = squareKilometre }}
+}}

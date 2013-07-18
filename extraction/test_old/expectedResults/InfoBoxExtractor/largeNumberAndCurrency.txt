@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/largeNumberAndCurrency.txt> <http://dbpedia.org/property/revenue> "2568000000"^^<http://dbpedia.org/units/Dollar> .
+<http://dbpedia.org/resource/largeNumberAndCurrency.txt> <http://dbpedia.org/property/netIncome> "234000000"^^<http://dbpedia.org/units/Euro> .
+<http://dbpedia.org/resource/largeNumberAndCurrency.txt> <http://dbpedia.org/property/grossIncome> "10604000000"^^<http://dbpedia.org/units/Dollar> .
+<http://dbpedia.org/resource/largeNumberAndCurrency.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .

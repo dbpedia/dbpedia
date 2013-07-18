@@ -1,0 +1,98 @@
+{{ DBpediaTemplateMapping
+| mapToClass = School
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = region | ontologyProperty = School/region }}
+	{{ DBpediaPropertyMapping | templateProperty = schoolnumber | ontologyProperty = School/schoolnumber }}
+	{{ DBpediaPropertyMapping | templateProperty = district | ontologyProperty = School/district }}
+	{{ DBpediaPropertyMapping | templateProperty = religion | ontologyProperty = School/religion }}
+	{{ DBpediaPropertyMapping | templateProperty = denomination | ontologyProperty = School/denomination }}
+	{{ DBpediaPropertyMapping | templateProperty = oversight | ontologyProperty = School/oversight }}
+	{{ DBpediaPropertyMapping | templateProperty = trustee | ontologyProperty = School/trustee }}
+	{{ DBpediaPropertyMapping | templateProperty = specialist | ontologyProperty = School/specialist }}
+	{{ DBpediaPropertyMapping | templateProperty = president | ontologyProperty = School/president }}
+	{{ DBpediaPropertyMapping | templateProperty = headteacher | ontologyProperty = School/headteacher }}
+	{{ DBpediaPropertyMapping | templateProperty = executive_headteacher | ontologyProperty = School/executiveHeadteacher }}
+	{{ DBpediaPropertyMapping | templateProperty = acting_headteacher | ontologyProperty = School/actingHeadteacher }}
+	{{ DBpediaPropertyMapping | templateProperty = head_label | ontologyProperty = School/headLabel }}
+	{{ DBpediaPropertyMapping | templateProperty = chairperson | ontologyProperty = School/chairperson }}
+	{{ DBpediaPropertyMapping | templateProperty = viceprincipal | ontologyProperty = School/vicePrincipal }}
+	{{ DBpediaPropertyMapping | templateProperty = administrator | ontologyProperty = School/administrator }}
+	{{ DBpediaPropertyMapping | templateProperty = chaplain | ontologyProperty = School/chaplain }}
+	{{ DBpediaPropertyMapping | templateProperty = custodian | ontologyProperty = School/custodian }}
+	{{ DBpediaPropertyMapping | templateProperty = ranking | ontologyProperty = School/ranking }}
+	{{ DBpediaPropertyMapping | templateProperty = bar pass rate | ontologyProperty = School/barPassRate }}
+	{{ DBpediaPropertyMapping | templateProperty = faculty | ontologyProperty = School/faculty }}
+	{{ DBpediaPropertyMapping | templateProperty = teaching_staff | ontologyProperty = School/faculty }}
+	{{ DBpediaPropertyMapping | templateProperty = ceeb | ontologyProperty = School/ceeb }}
+	{{ DBpediaPropertyMapping | templateProperty = school code | ontologyProperty = School/schoolCode }}
+	{{ DBpediaPropertyMapping | templateProperty = testaverage | ontologyProperty = School/testaverage }}
+	{{ DBpediaPropertyMapping | templateProperty = national_ranking | ontologyProperty = School/nationalRanking }}
+	{{ DBpediaPropertyMapping | templateProperty = classes | ontologyProperty = School/classes }}
+	{{ DBpediaPropertyMapping | templateProperty = classes offered | ontologyProperty = School/offeredClasses }}
+	{{ DBpediaPropertyMapping | templateProperty = avg_class_size | ontologyProperty = School/averageClassSize }}
+	{{ DBpediaPropertyMapping | templateProperty = ratio | ontologyProperty = School/ratio }}
+	{{ DBpediaPropertyMapping | templateProperty = lower_age | ontologyProperty = School/lowerAge }}
+	{{ DBpediaPropertyMapping | templateProperty = upper_age | ontologyProperty = School/upperAge }}
+	{{ DBpediaPropertyMapping | templateProperty = fees | ontologyProperty = School/fees | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = tuition | ontologyProperty = School/tuition | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = budget | ontologyProperty = School/budget | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = age range | ontologyProperty = School/ageRange }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = School/language }}
+	{{ DBpediaPropertyMapping | templateProperty = campus_size | ontologyProperty = School/campusSize | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = campus size | ontologyProperty = School/campusSize | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = campus type | ontologyProperty = School/campusType }}
+	{{ DBpediaPropertyMapping | templateProperty = rival | ontologyProperty = School/rival }}
+	{{ DBpediaPropertyMapping | templateProperty = team_name | ontologyProperty = School/teamName }}
+	{{ DBpediaPropertyMapping | templateProperty = reopened | ontologyProperty = School/reopened }}
+	{{ DBpediaPropertyMapping | templateProperty = sixth_form_students | ontologyProperty = School/sixthFormStudents }}
+	{{ DBpediaPropertyMapping | templateProperty = alumni | ontologyProperty = School/alumni }}
+	{{ DBpediaPropertyMapping | templateProperty = nobel_laureates | ontologyProperty = School/nobelLaureates }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = latin_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Organisation/location }}
+	{{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = EducationalInstitution/city }}
+	{{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = EducationalInstitution/state }}
+	{{ DBpediaPropertyMapping | templateProperty = province | ontologyProperty = EducationalInstitution/province }}
+	{{ DBpediaPropertyMapping | templateProperty = county | ontologyProperty = EducationalInstitution/county }}
+	{{ DBpediaPropertyMapping | templateProperty = postcode | ontologyProperty = Organisation/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = postalcode | ontologyProperty = Organisation/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = zipcode | ontologyProperty = Organisation/postalCode }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = EducationalInstitution/country }}
+	{{ DBpediaPropertyMapping | templateProperty = country1 | ontologyProperty = EducationalInstitution/country }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = schoolboard | ontologyProperty = EducationalInstitution/principal }}
+	{{ DBpediaPropertyMapping | templateProperty = authority | ontologyProperty = EducationalInstitution/director }}
+	{{ DBpediaPropertyMapping | templateProperty = affiliation | ontologyProperty = Organisation/affiliation }}
+	{{ DBpediaPropertyMapping | templateProperty = superintendent | ontologyProperty = EducationalInstitution/superintendent }}
+	{{ DBpediaPropertyMapping | templateProperty = founder | ontologyProperty = Organisation/foundationPerson }}
+	{{ DBpediaPropertyMapping | templateProperty = head of school | ontologyProperty = EducationalInstitution/head }}
+	{{ DBpediaPropertyMapping | templateProperty = head | ontologyProperty = EducationalInstitution/head }}
+	{{ DBpediaPropertyMapping | templateProperty = principal | ontologyProperty = EducationalInstitution/principal }}
+	{{ DBpediaPropertyMapping | templateProperty = dean | ontologyProperty = EducationalInstitution/dean }}
+	{{ DBpediaPropertyMapping | templateProperty = rector | ontologyProperty = EducationalInstitution/rector }}
+	{{ DBpediaPropertyMapping | templateProperty = director | ontologyProperty = EducationalInstitution/director }}
+	{{ DBpediaPropertyMapping | templateProperty = staff | ontologyProperty = EducationalInstitution/staff }}
+	{{ DBpediaPropertyMapping | templateProperty = graduates | ontologyProperty = EducationalInstitution/graduates }}
+	{{ DBpediaPropertyMapping | templateProperty = schooltype | ontologyProperty = Organisation/type }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Organisation/type }}
+	{{ DBpediaPropertyMapping | templateProperty = revenue | ontologyProperty = Organisation/revenue | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = endowment | ontologyProperty = Organisation/endowment | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = enrolment | ontologyProperty = EducationalInstitution/students }}
+	{{ DBpediaPropertyMapping | templateProperty = slogan | ontologyProperty = Organisation/slogan }}
+	{{ DBpediaPropertyMapping | templateProperty = motto | ontologyProperty = Organisation/motto }}
+	{{ DBpediaPropertyMapping | templateProperty = mascot | ontologyProperty = EducationalInstitution/mascot }}
+	{{ DBpediaPropertyMapping | templateProperty = sports | ontologyProperty = EducationalInstitution/sport }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = EducationalInstitution/nickname }}
+	{{ DBpediaPropertyMapping | templateProperty = school_colours | ontologyProperty = EducationalInstitution/colours }}
+	{{ DBpediaPropertyMapping | templateProperty = colors | ontologyProperty = EducationalInstitution/colours }}
+	{{ DBpediaPropertyMapping | templateProperty = colours | ontologyProperty = EducationalInstitution/colours }}
+	{{ DBpediaPropertyMapping | templateProperty = school_colors | ontologyProperty = EducationalInstitution/colours }}
+	{{ DBpediaPropertyMapping | templateProperty = established | ontologyProperty = EducationalInstitution/established }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = closed | ontologyProperty = EducationalInstitution/closed }}
+	{{ DBpediaPropertyMapping | templateProperty = students | ontologyProperty = EducationalInstitution/students }}
+	{{ DBpediaPropertyMapping | templateProperty = pupils | ontologyProperty = EducationalInstitution/students }}
+	{{ DBpediaPropertyMapping | templateProperty = enrollment | ontologyProperty = EducationalInstitution/students }}
+	{{ DBpediaPropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+}}

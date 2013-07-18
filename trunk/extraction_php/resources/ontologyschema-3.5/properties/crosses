@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = crosses
+| rdfs:domain = Bridge
+| rdfs:range = River
+}}

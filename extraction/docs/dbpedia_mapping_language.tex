@@ -1,0 +1,477 @@
+%-------------------
+%Beginn des Kopfbereiches
+%-------------------
+
+%Wir verwenden eine DIN-A4-Seite und die Schriftgrš§e 12.
+\documentclass[a4paper]{article}
+
+%Diese drei Pakete benštigen wir für die Umlaute, Deutsche Silbentrennung etc.
+%Apple-Nutzer sollten anstelle von \usepackage[latin1]{inputenc} das Paket \usepackage[applemac]{inputenc} verwenden
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{url}
+
+%Das Paket erzeugt ein anklickbares Verzeichnis in der PDF-Datei.
+\usepackage{hyperref}
+
+%Das Paket wird für die anderthalb-zeiligen Zeilenabstand benötigt
+\usepackage{setspace}
+
+%Einrückung eines neuen Absatzes
+\setlength{\parindent}{0em}
+
+%Definition der Ränder
+\usepackage[paper=a4paper,left=30mm,right=30mm,top=30mm,bottom=30mm]{geometry} 
+
+%Regeln, bis zu welcher Tiefe (section,subsection,subsubsection) Überschriften angezeigt werden sollen (Anzeige der †berschriften im Verzeichnis / Anzeige der Nummerierung)
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+
+
+\def\labelenumii{\theenumi.\arabic{enumii}\ }
+\def\labelenumiii{\theenumi.\arabic{enumii}.\arabic{enumiii}\ }
+
+%-------------------
+%Ende des Kopfbereiches
+%-------------------
+
+
+%-------------------
+%Hier beginnt der Text
+%-------------------
+\begin{document}
+
+\begin{center}
+\begin{large}
+	\bf{DBpedia Mapping}
+\end{large}
+\end{center}
+
+\begin{center}
+\begin{small}
+Web-based Systems Group \\ 
+Jona Christopher Sahnwaldt <christopher@sahnwaldt.de> \\ 
+Anja Jentzsch <mail@anjajentzsch.de> \\ 
+\today
+\end{small}
+\end{center}
+
+This document describes the mapping and extraction of Wikipedia template content.
+
+\vfill
+
+%Inhaltsverzeichnis (aktualisiert sich erst nach dem zweiten Setzen)
+\tableofcontents
+
+\clearpage
+
+%Anderthalbzeiliger Zeilenabstand ab hier
+%\onehalfspacing
+\linespread{1.3}
+
+\section {Main Mapping and Extraction Components}
+\begin{enumerate}
+	\item Ontology schema definition
+	\item Template to ontology mapping
+	\item Mapping parser
+	\item Extraction parser
+\end{enumerate}
+
+\section {Mapping and Extraction Process}
+\begin{enumerate}
+	\item Define mappings
+	\item Define ontology schema
+	\item Parse and validate mappings according to ontology schema
+	\item Extract Wikipedia pages
+	\item Apply mappings on templates of Wikipedia pages	
+\end{enumerate}
+
+\section {Requirements}
+
+\subsection {Templates}
+
+\begin{itemize}
+	\item If a template redirects to another template, the extraction of a Wikipedia page using this template might depend on the original template name.
+		\begin{verbatim}
+			Infobox_Senator -> Infobox officeholder
+		\end{verbatim}
+\end{itemize}
+
+\begin{enumerate}
+	\item Usually one template is mapped to one ontology class.
+
+	\item A template is mapped to different ontology classes, depending on the content.
+			\begin{enumerate}
+				\item A template is mapped to an ontology class if a certain template property is set (contains a value). 
+					\begin{enumerate}
+						\item \textit{Example:} \verb|Infobox Musical Artist| is mapped to Band if currentMembers or formerMembers contains a value, otherwise it is mapped to Musical Artist.
+							\begin{verbatim}
+								{{Infobox musical artist
+								| Name = U2
+								...
+								| Current_members = [[Bono]]<br />[[The Edge]]<br />[[Adam Clayton]]<br />[[Larry Mullen, Jr.]]
+								| Past_members =
+								}}
+							\end{verbatim}
+					\end{enumerate}
+					
+				\item A template is mapped to an ontology class according to the existence of a template property (without a given value).
+					\begin{enumerate}
+						\item \textit{Example:} \verb|Geobox| is mapped to different classes based on (here) the first parameter, e.g. River, City.
+							\begin{verbatim}
+								{{Geobox | River
+								| ...
+								}}
+							\end{verbatim}
+					\end{enumerate}
+					
+				\item A template is mapped to an ontology class depending on the value of a certain template property.
+					\begin{enumerate}
+						\item \textit{Example:} \verb|Taxobox| is mapped to Animal if the template property \verb|regnum| contains the term 'Animal'.
+							\begin{verbatim}
+								{{Taxobox
+								| regnum = Animalia
+								...
+								}}
+							\end{verbatim}
+						\item \textit{Example:} \verb|Taxobox| is mapped to Fungus if the template property \verb|regnum| equals the term 'Fungus'.
+							\begin{verbatim}
+								{{Taxobox
+								| regnum = Fungus
+								...
+								}}
+							\end{verbatim}
+					\end{enumerate}
+
+				\item If a Wikipedia page contains several infobox templates, we have to deal with them. In some cases it might be ok to only use the first infobox template and ignore the others.
+					In other cases we probably want to extract all infobox templates. We also have to deal with different types then.
+			\end{enumerate}
+		
+		\item It should be possbile to map several templates to one ontology class easily.
+\end{enumerate}
+
+
+\subsection{Template Properties}
+	\begin{enumerate}
+		\item Usually a template property is mapped to one ontology property.
+			\begin{enumerate}
+				\item \textit{Example:} All template properties of \verb|Infobox City| are mapped to ontology properties of the ontology class City
+			\end{enumerate}
+
+		\item A template property contains values of a certain type or unit.
+			\begin{enumerate}
+				\item For template properties with values pointing to other resources, the ontology class range needs to be specified.
+				\item For template properties with datatype values, the datatypes needs to be specified, e.g. integer, date, duration.
+				\item For template properties that contain numeric values, a dimension needs to be specified, e.g. length, area, money.
+					\begin{itemize}
+						\item Template property dimensions must be equal to the dimension of the mapped ontology property.
+					\end{itemize}
+				\item For template properties that contain numeric values an unit needs to be specified, e.g. meter, square kilometer, Euro.
+					\begin{itemize}
+						\item Units have to be valid / defined for the given dimension.
+					\end{itemize}
+				\item If the template property value contains a unit which is in the target dimension, but the target unit differs, the value has to be converted.
+					\begin{enumerate}
+						\item \textit{Example:} An \verb|Infobox Mountain| contains the elevation property $8.4 km$. The target unit of the mapped ontology property is meter.
+					\end{enumerate}
+				\item If the template property value contains a unit which is not in the target dimension, the value has to be ignored.
+				\item For some template property units there are obvious typing errors, e.g. area on Lake is often defined as $km^{3}$ instead of $km^{2}$. Should we correct this? How?
+				\item If there is no unit defined in a template property value, the unit of the Wikipedia template definition should be taken as the default unit.
+				\item There are template properties which contain the same value but in different units. Should we extract only one value? Should be extract both if they differ?
+					\begin{itemize}
+						\item \textit{Example:} The Wikipedia page for ASEAN\footnote{\url{http://en.wikipedia.org/w/index.php?title=ASEAN&oldid=311315664}} contains for area and population density two values each ($km^{2}$ and $mi^2$) but the values don't correspond to each other.
+					\end{itemize}
+				\item Some templates contain one property defining a value and another property defining the value's unit.
+				\item Some templates contain one property defining the value and another property defininig 'metric' or 'imperial'. 
+			\end{enumerate}
+
+			\item One template property is mapped to different ontology properties, depending on its content or other criteria.
+				\begin{enumerate}
+					\item \textit{Example} For the template \verb|Settlement| the template property \verb|date| should be either mapped to the ontology property \verb|established| or \verb|settled| depending on the value of the template property \verb|established_title| ('established' or 'settled').
+				\end{enumerate}
+
+			\item A template property value is splitted and mapped to several ontology properties. The target ontology properties can have different domains. The value can contain a n-tuple (several values of different types, e.g. birth date und birth place) or a list of values or n-tuples (e.g. list of cities, list of value pairs).
+				\begin{enumerate}
+					\item \textit{Example:} The template property \verb|born| on \verb|Infobox Musical Artist| contains the birth place and birth date of a musical artist. 
+					\item Template properties can contain (e.g. time) intervals. There are several ways to seperate the values, e.g. '-', '...', 'to' etc.. Ideally one can configure how a template property is splitted into its parts.
+					\item If a template property contains only one value but should contain interval values, the given value is probably the value for both interval limits. It could also be better matched to antoher ontology property.
+						\begin{enumerate}
+							\item \textit{Example:} The template property \verb|building date| can contain only '1984' which could either mean that the building was built in only one year or it was completed in 1984.
+						\end{enumerate}
+					\item The conventions to split a list a diverse, e.g. commas, <br/> or wiki tables. Ideally one can configure how a list is splitted.
+					\item The original correspondence should be preserved, e.g. with blank nodes.
+						\begin{enumerate}
+							\item \textit{Example:} The template property \verb|former teams| on \verb|Infobox Basketball player| contains a list of sports team and membership years pairs. 
+						\end{enumerate}
+				\end{enumerate}
+		\item Several template properties are mapped to one ontology property.
+				\begin{enumerate}
+					\item \textit{Example:} Geo coordinates are often distributed to four or six properties: for \verb|latitude| and \verb|longitude| and the corresponding \verb|degree|, \verb|minute|, \verb|second|, \verb|south|/\verb|north|, \verb|east|/\verb|west|. See \verb|Infobox Settlement|.
+				\end{enumerate}
+
+				\begin{enumerate}
+					\item \textit{Example:} \verb|Infobox Basketball player| contains the template properties \verb|height_ft|, \verb|height_in| which must be added converted to meters / centimeters.
+				\end{enumerate}
+
+		\item The template property value contains a list of values of the same type which have to be extracted as mutliple triples for the same ontology property. It should be possible to easily define that a template property contains list values and the range of these values.
+			\begin{enumerate}
+				\item Some templates contain several template properties which contain lists and correspond pairwise to each other. This should be visible in triples, e.g. by defining blank nodes.
+					\begin{enumerate}
+						\item \textit{Example:} \verb|teams=Manchester<br/>Glasgow<br/>Arsenal years=1990 – 1995<br/>1995 – 2000<br/>2000 – 2005|
+					\end{enumerate}
+			\end{enumerate}
+		
+		\item Equivalent template properties should be mapped to the same ontology property/ies and extracted in the same manner.
+			\begin{enumerate}
+				\item \textit{Example:} Equivalent template properties defined on the template \verb|Infobox school|:  \verb|Director| \equiv \verb|Chair| \equiv \verb|Chairman| \equiv \verb|Chairperson|.
+			\end{enumerate}
+
+			\begin{enumerate}
+				\item Sometimes there is a great amount of equivalent template properties with a similar names. For these, patterns would be useful
+					\begin{enumerate}
+						\item \textit{Example:} Template properties defined on the template \verb|Infobox Settlement|:  \verb|p1|,  \verb|p2| to \verb|p50|.
+					\end{enumerate}
+			\end{enumerate}
+
+\end{enumerate}
+
+\subsection{General requirements and comments}
+
+\begin{itemize}
+	\item Validation: Check, that mapping from template property to ontology property is suitable to mapping from template to ontology class.
+
+	\item Configuring the mappings on plenty Wikipedia pages is difficult and error-prone.
+
+		\begin{itemize}
+			\item The Wikipedia editors have a limited overview on which ontology classes exist and which ontology properties, also the inherited ones, exist.
+			
+			\item There should be en editing help, otherwise the mapping definition is error-prone.
+			
+			\item The extraction of mappings from Wikipedia template pages has to be non-ambiguous.
+			
+			\item There needs to be a test-driven validation.
+		\end{itemize}
+	
+	\item The mapping has to deal with multipart templates.
+		\begin{itemize}
+			\item \textit{Example:} \verb|Ship_Career| and \verb|Ship_Characteristics|, see Titanic\footnote{\url{http://en.wikipedia.org/wiki/Titanic}}.
+		\end{itemize}
+		
+	\item The mapping has to deal with nested templates.
+		\begin{itemize}
+			\item \textit{Example:} \verb|Rocket| and \verb|Rocket/Stage|, see Saturn\_V\footnote{\url{http://en.wikipedia.org/wiki/Saturn\_V}}.
+		\end{itemize}
+\end{itemize}
+
+
+\subsection{Ontology}
+
+\begin{enumerate}
+	\item The ontology class hierarchy needs to be specified.
+	
+	\item The relation between ontology classes and their properties needs to be specified.
+	
+	\item Ontology properties can also be defined in other namespaces like Geonames or FOAF.
+	
+	\item The range of an object property needs to be specified, e.g. Person or Place.
+
+	\item The range of datatype properties needs to be specified, e.g. integer, date, duration, float, string.
+	
+	\item For ontology properties that contain numeric values a dimension needs to be specified, e.g. length, area, money.
+	
+	\item For ontology properties that contain numeric values an unit needs to be specified, e.g. meter, square kilometer, Euro.
+
+	\item Labels for ontology classes and properties (including their language) need to be specified.
+	
+\end{enumerate}
+
+\begin{itemize}
+	\item The unit needs to be suitable for the given dimension, i.e. validated.
+
+	\item Should the list of units and dimensions be editable by the community?
+\end{itemize}
+
+\clearpage
+
+\section{Implementation}
+
+\subsection{Possible Implementation Variants}
+	\begin{enumerate}
+		\item Distinction of cases, conversions etc. are defined in the mapping language.
+			\begin{itemize}
+				\item \textit{Example:} The mapping language allows to express the following: 'Multiply the value of \verb|height_ft| with 30.48, multiply the value of \verb|height_in| with 2.54, add the results and write the sum to the ontology property \verb|height|.
+				\item The mapping language allows the expression of the following: 'If property \verb|x| is set, write the property of \verb|y| to the ontology property \verb|a|, otherwise write write the property of \verb|y| to the ontology property \verb|b|.
+			\end{itemize}
+			
+		\item Distinction of cases, conversions etc. are carried out by specific parsers / extractors. The mapping language only defines how they are configured.
+			\begin{itemize}
+				\item \textit{Example:} The mapping language allows to express the following: 'Use the \verb|Foot Inch to Centimeter Parser| and configure it with the names \verb|height_ft| \verb|height_in| and \verb|height|.
+
+				\item \textit{Or:} The mapping language allows to express the following: 'Use the \verb|Adding Parser| and configure it with the values \verb|height_ft|, $30.45$, \verb|height_in|, $2.54$ and \verb|height|.
+
+				\item \textit{Example:} The mapping language allows to express the following: 'Use the \verb|Target Property Selector| and configure it with the names \verb|x|, \verb|y|, \verb|a|, $2.54$ and \verb|b|.
+			\end{itemize}
+	\end{enumerate}
+
+\subsubsection{Implementation of the Second Alternative}
+
+	\begin{itemize}
+		\item The main parts of this implementation, let's call them parsers whereas they also cover the former tasks of extractors, have a simple interface, namely one method:
+			\begin{itemize}
+				\item The parser's input is list of top-level templates of a Wikipedia page.
+					\begin{itemize}
+						\item Each element of this list contains the template name and all properties (key value pairs) of one of the used templates.
+						\item It might be useful if the parsers might modify the input. This would make parallelizations more difficult.
+					\end{itemize}
+				\item The input should also include the page title and other meta information.
+				\item Parsers have no return value.
+				\item Values that are equal for each extraction process, like the language, shouldn't be used as input parameters.
+			\end{itemize}
+    
+    \item Some but not all parsers generate RDF triples. The parsers' output configuration is defined through their configuration, not input parameters.
+    
+    \item Parsers have different tasks:
+			\begin{itemize}
+				\item Some parsers pass data or a part of the data depending on specific criteria through to other parsers.
+				\item Some parsers convert the data and pass the result through to other parsers.
+				\item Some parsers write the data to RDF triples.
+			\end{itemize}
+
+    \item The default parser writes a template property to RDF triples.
+    
+%    \item Damit zusammenhängend, aber nicht dasselbe: ein Extraktor, der ein Property eines Templates parst und ggf. konvertiert
+%    
+%    \item Ein anderer Parser gibt den RDF Typ als Tripel aus und gibt die Daten dann weiter an Parser, die sich um die Properties kümmern
+	\end{itemize}
+
+The configuration and therefore also the mapping language plugs the different parsers.
+
+The main idea is to not describe the dynamic flow of decisions with the configuration but a static graph of connected parsers. Where decisions have to be made, parsers have the task to do so.
+
+The syntax is strongly guided by Spring.
+
+\paragraph{Mapping Templates using the Second Implementation Alternative}
+
+	\begin{itemize}
+		\item (1) \\
+			For this case there is need for a parser which generates triples for a specific ontology type (class) irrespective of the input.\\
+			The configuration might be like this:
+			\begin{verbatim}<parser id="personTypeGenerator" class="TypeGenerator" rdf-type="Person">			
+			\end{verbatim}
+			This should behave like this	Java pseudocode:
+				\begin{verbatim}personTypeGenerator = new TypeGenerator();
+				personTypeGenerator.setRdfType("Person");
+				\end{verbatim}
+
+	\end{itemize}
+
+\paragraph{Mapping Template Properties using the Second Implementation Alternative}
+	\begin{itemize}
+		\item (2.3, 2.4) \\
+			For this case there is need for a parser that can handle physical dimensions. The input parameter has to be a template. The parser processes exactly one property of this template if it exists.
+			The parser is configured by the name of the template property/ies, the default unit of the template property, the ontology property's URI and the target unit.
+			When called, the parser has to check whether the template contains a template property with the given name. If this is the case, the parser searches the template property value for a numeric value and an unit. If there is no unit defined, the parser uses the default unit. It then converts the numeric value of the given unit to a numeric value in the target unit of the ontology property.\\
+			This could be configured like this:
+			\begin{verbatim}
+		<parser class="LengthParser" template-property="height" default-unit="ft" 	
+		ontology-property="personHeight" ontology-unit="cm"/>
+			\end{verbatim}
+			This should behave like this Java pseudocode:
+			\begin{verbatim}
+				x = new LengthParser();
+				x.setTemplateProperty("height");
+				x.setDefaultUnit("ft");
+				x.setOntologyProperty("personHeight");
+				x.setDefaultUnit("cm");
+			\end{verbatim}
+	
+	\end{itemize}
+
+\subsubsection{Implementation of the First Alternative}
+
+
+\paragraph{Ontology Schema Definition}
+\begin{itemize}
+	\item Class definition:
+		\begin{verbatim}dbpedia:River a rdfs:Class;
+			rdfs:label 'River';
+		.
+		\end{verbatim}
+	\item Property definition:	
+		\begin{verbatim}dbpedia:birthDate a rdfs:DatatypeProperty;
+			rdfs:domain dbpedia:Person;
+			rdfs:range xsd:date;
+			rdfs:label "birth date";
+		.
+		\end{verbatim}
+	\item Property definition with dimensions and units:	
+		\begin{verbatim}dbpedia:height a rdfs:DatatypeProperty;
+			rdfs:domain dbpedia:Person;
+			rdfs:range xsd:float;
+			rdfs:label "height";
+			dbpedia-map:dimension dbpedia:Length; 
+			dbpedia-map:targetUnit dbpedia:centimeter;
+		.
+		\end{verbatim}
+\end{itemize}
+
+\paragraph{Mapping Templates using the First Implementation Alternative}
+
+	\begin{itemize}
+		\item (1) \\ 
+			\begin{verbatim}dbpedia-map:River a dbpedia-map:ClassMap;
+					dbpedia-map:class dbpedia:River;
+				.
+			\end{verbatim}
+
+		\item (2.1.1) \\ 
+			\verb|Infobox Musical Artist| is mapped to Band if currentMembers or formerMembers contains a value, otherwise it is mapped to Musical Artist. \\
+			The mapping to Musical Artist:
+			
+			\begin{verbatim}dbpedia-map:Musical_Artist a dbpedia-map:ClassMap;
+					dbpedia-map:class dbpedia:Musical_Artist;
+					dbpedia-map:condition "@@currentMembers@@ = '' || @@formerMembers@@ = ''";
+				.
+			\end{verbatim}
+
+			The mapping to Band:
+			\begin{verbatim}dbpedia-map:Band a dbpedia-map:ClassMap;
+					dbpedia-map:class dbpedia:Band;
+					dbpedia-map:condition "@@currentMembers@@ <> '' || @@formerMembers@@ <> ''";
+				.
+			\end{verbatim}
+	\end{itemize}
+
+\paragraph{Mapping Template Properties using the First Implementation Alternative}
+
+	\begin{itemize}
+		\item (1) \\ 
+			The template property \verb|genre| on \verb|Infobox Musical Artist| is mapped to the ontology property \verb|genre| on \verb|Musical Artist| and genre on \verb|Band|:
+			
+			\begin{verbatim}dbpedia-map:genre a dbpedia-map:PropertyBridge;
+					dbepdia:map:template_property "@@genre@@";
+					dbpedia-map:class dbpedia:Band;
+					dbpedia-map:class dbpedia:Musical_Artist;
+					dbpedia-map:property dbpedia:genre;
+				.
+			\end{verbatim}
+	\end{itemize}
+	
+		\item (7.1) \\ 
+			The template propertys \verb|chair|, \verb|head| on \verb|Infobox School| is mapped to the ontology property \verb|head| on \verb|School|:
+			
+			\begin{verbatim}dbpedia-map:chair a dbpedia-map:PropertyBridge;
+					dbepdia:map:template_property "@@chair@@";
+					dbepdia:map:template_property "@@head@@";
+					dbpedia-map:class dbpedia:School;
+					dbpedia-map:property dbpedia:chair;
+				.
+			\end{verbatim}
+	\end{itemize}
+
+%\clearpage
+
+%\thispagestyle{empty}
+
+\end{document}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = COSPAR id
+|rdfs:domain = YearInSpaceflight
+|rdfs:range = xsd:integer
+}}

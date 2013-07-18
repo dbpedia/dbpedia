@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = orbital period
+| rdfs:domain = Planet
+| rdfs:range = Time
+}}

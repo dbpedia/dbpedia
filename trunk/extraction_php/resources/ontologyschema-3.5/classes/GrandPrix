@@ -1,0 +1,6 @@
+{{Class
+| rdfs:label = Grand Prix
+| rdfs:subClassOf = SportsEvent
+| specificProperties = {{SpecificProperty | ontologyProperty = course | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = distance | unit = kilometre }}
+}}

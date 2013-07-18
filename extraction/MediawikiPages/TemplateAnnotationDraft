@@ -1,0 +1,13 @@
+{| class="wikitable collapsible collapsed" style="width:50%;"
+! Semantic Annotation
+|-
+|
+{| class="wikitable sortable" style="text-align:left; width:100%; font-size:80%; margin:0px;"
+|-
+! Ontology property !! Template parameter !! Interpretation
+|-
+| birthdate
+| born
+| date
+|}
+|}

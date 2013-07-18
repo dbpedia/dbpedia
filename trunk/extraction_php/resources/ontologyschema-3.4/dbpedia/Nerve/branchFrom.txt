@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = branch from
+|rdfs:domain = Nerve
+|rdfs:range = Nerve
+}}

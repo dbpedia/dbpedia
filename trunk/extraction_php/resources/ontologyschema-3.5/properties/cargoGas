@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = cargo gas
+| rdfs:domain = Spacecraft
+| rdfs:range = Mass
+}}

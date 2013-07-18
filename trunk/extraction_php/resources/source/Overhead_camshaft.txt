@@ -1,0 +1,70 @@
+{{Refimprove|date=September 2007}}
+[[Image:DOHC-Zylinderkopf-Schnitt.jpg|thumb|A [[cylinder head]] sliced in half shows two overhead camshafts&mdash;one above each of the two [[poppet valve|valves]].]]
+'''Overhead camshaft''', commonly abbreviated to '''OHC''', [[valvetrain]] configurations place the engine [[camshaft]] within the [[cylinder head]]s, above the [[combustion chamber]]s, and drive the [[poppet valve|valves]] or [[tappet|lifter]]s in a more direct manner compared to [[overhead valve]]s (OHV) and [[pushrod]]s.
+
+Compared to OHV pushrod (or I-Head) systems with the same number of valves the reciprocating components of the OHC system are fewer and have a lower total mass. Though the system that drives the cams may become more complex, most engine manufacturers easily accept that added complexity in trade for better engine performance and greater design flexibility. Another performance advantage is gained as a result of the better optimized port configurations made possible with overhead camshaft designs. With no intrusive pushrods the overhead camshaft cylinder head design can use straighter ports of more advantageous crossection and length.
+
+The OHC system can be driven using the same methods as an OHV system, which include using a rubber/kevlar toothed [[timing belt]], [[Roller chain|chain]], or in less common cases, [[gears]].
+
+In conjunction with multiple (3 or 4) valves per cylinder, many OHC engines today employ [[variable valve timing]] to improve efficiency and power. OHC also inherently allows for greater engine speeds over comparable cam-in-block designs, as a result of having lower valvetrain mass.
+
+There are two overhead camshaft layouts:
+* '''Single overhead camshaft''' - or '''SOHC'''
+* '''Double overhead camshaft''' - or '''DOHC'''
+
+==Single overhead camshaft==<!-- This section is linked from [[Straight-4]] -->
+[[Image:Head D15A3.JPG|thumb|A single overhead camshaft cylinder head from a 1987 [[Honda]] [[Honda CRX|CRX]] Si.]]
+Single overhead camshaft (SOHC) is a design in which one camshaft is placed within the [[cylinder head]]. In an inline engine this means there is one camshaft in the head, while in a [[V engine]] or a horizontally-opposed engine (boxer; [[flat engine]]) there are two camshafts: one per cylinder bank.
+
+The SOHC design has less reciprocating mass than a comparable [[pushrod]] design. This allows for higher engine speeds, which in turn will increase power output for a given [[torque]]. The cam operates the valves directly or through a [[rocker arm]], as opposed to overhead valve [[pushrod]] engines which have tappets, long pushrods, and rocker arms to transfer the movement of the lobes on the camshaft in the engine block to the valves in the [[cylinder head]].
+
+SOHC designs offer reduced complexity compared to [[pushrod]] designs when used for multi-valve heads in which each cylinder has more than two valves. An example of an SOHC design using [[shim (engineering)|shim]] and bucket valve adjustment was the engine installed in the [[Hillman Imp]] (4 cylinder, 8 valve); a small, early 1960s 2-door [[saloon car]] with a rear mounted alloy engine based on the [[Coventry Climax|Coventry Climax FWMA]] race engines. Exhaust and inlet manifolds were both on the same side of the engine block (thus not a [[crossflow cylinder head]] design). This did, however, offer excellent access to the spark plugs.
+
+In the early 1980s, [[Toyota]] and [[Volkswagen]] also used a directly actuated, SOHC parallel valve configuration with two valves for each cylinder. The Toyota system used hydraulic [[tappet]]s while the Volkswagen system used bucket [[tappet]]s with shims for valve lash adjustment. Of all valvetrain systems, this is the least complex configuration possible.
+
+==Double overhead camshaft==
+[[Image:Suzuki-GS550-DOHC.jpg|thumb|Overhead view of Suzuki [[Suzuki GS series|GS550]] head showing dual camshafts and drive sprockets.]]
+A double overhead camshaft valve train layout is characterized by two camshafts located within the cylinder head, one operating the inlet valves and one operating the exhaust valves. Some engines have more than one bank of cylinder heads (V8 and [[flat-four]] being two well-known examples) and these have more than two camshafts in total, but they remain DOHC. The term "twin cam" is imprecise, but will normally refer to a DOHC engine. Some manufacturers still managed to use a SOHC in 4-valve layouts. Honda for instance with the later half of the D16 family, this is usually done to reduce overall costs.
+Also not all DOHC engines are multivalve engines—DOHC was common in two valve per cylinder heads for decades before multivalve heads appeared. Today, however, DOHC is synonymous with multi-valve heads since almost all DOHC engines have between three and five valves per cylinder.<ref>[http://paultan.org/archives/2005/06/22/sohc-vs-dohc-valvetrains/ SOHC vs DOHC Valvetrains: A Comparison]</ref>
+
+==History==
+[[Image:1933 Bugatti Type 59 Grand Prix engine.jpg|left|thumb|upright|DOHC [[straight-8]] in a 1933 [[Bugatti Type 59]] [[Grand Prix motor racing|Grand Prix]] racer]]
+
+Among the early pioneers of DOHC were [[Isotta Fraschini]]'s [[Giustino Cattaneo]], [[Austro-Daimler]]'s [[Ferdinand Porsche]] [[Stephen Tomczak]] (in the ''Prinz Heinrich''), and [[W. O. Bentley]] (in 1919); [[Sunbeam Car Company|Sunbeam]] built small numbers between 1921 and 1923.<ref>Georgano, G. N. ''Cars: Early and Vintage, 1886-1930''. (London: Grange-Universal, 1985).</ref> The first DOHC engines were either two- or four-valve ''per'' cylinder racing car designs from companies like [[Fiat]] (1912), [[Peugeot]] Grand Prix (1913, 4 valve), [[Alfa Romeo]] [[Alfa Romeo Grand Prix|Grand Prix]] (1914, 4 valve)<ref name="europeancarweb.com">{{Cite web|url=http://www.europeancarweb.com/features/0209ec_twin_cam_analysis/index.html|title=An Echo of the PastThe history and evolution of twin-cam engines|accessdate=2009-06-18|author=Kevin Clemens|work=europeancarweb.com}}</ref> and [[Alfa Romeo 6C|6C]] (1928), [[Maserati]] [[Maserati Tipo 26|Tipo 26]] (1926),  [[Bugatti]] [[Bugatti Type 51|Type 51]] (1931).
+
+When DOHC technology was introduced in mainstream vehicles, it was common for it to be heavily advertised. While used at first in limited production and sports cars, Alfa Romeo is one of the twin cam's greatest proponents, 6C Sport the first Alfa Romeo road car using DOHC engine was introduced in 1928, ever since this has been trademark of all Alfa Romeo engines.<ref name="europeancarweb.com"/>
+
+[[Fiat]] was one of the first car companies to use a belt-driven DOHC engines across their complete product line, in the mid-1960s.{{Fact|date=April 2008}}, [[Jaguar's XK6]] DOHC engine was displayed in the [[Jaguar XK120]] at the London Motor Show in 1948 and used across the entire Jaguar range through the late 1940s, 1950 and 1960s. By the late 1970s, Toyota was the most selling of DOHC engines.
+
+More than two overhead camshafts are not known to have been tried in a production engine. However [[MotoCzysz]] has designed a motorcycle engine with a triple overhead camshaft configuration with the intake ports descending through the head to two central intake ports between two outside exhaust camshafts actuating one of two exhaust valve per cylinder each. <ref>[http://www.motoczysz.com/rss_news_view.php?id=66 Motoczysz triple cam engine]</ref>
+
+==See also==
+* [[Valvetrain]]
+* [[Overhead valve]]
+* [[Cam-in-block]]
+* [[Camless]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.samarins.com/glossary/dohc.html OHV, SOHC, DOHC engine animated diagrams]
+
+{{DEFAULTSORT:Overhead Camshaft}}
+[[Category:Valvetrain]]
+[[Category:Engine valves]]
+[[Category:Motorcycle engines]]
+[[Category:Engine components]]
+
+[[cs:Over Head Camshaft]]
+[[de:OHC-Ventilsteuerung]]
+[[fr:Arbre à cames#Arbre à cames en tête]]
+[[it:Doppio albero a camme in testa]]
+[[nl:Bovenliggende nokkenas]]
+[[pl:OHC]]
+[[pt:OHC]]
+[[ru:Газораспределительный механизм#OHC]]
+[[sk:Rozvod OHC]]
+[[sv:Ventil (maskindel)]]
+[[vi:Cơ cấu phối khí trục cam trên đỉnh]]
+[[zh:顶置凸轮轴]]

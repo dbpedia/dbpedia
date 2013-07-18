@@ -1,0 +1,15 @@
+{{TemplateMapping
+| mapToClass = Airport
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = owner | ontologyProperty = owningOrganisation }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = built | ontologyProperty = buildingStartDate }}
+	{{PropertyMapping | templateProperty = built | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = elevation-f | ontologyProperty = elevation | unit = foot }}
+	{{PropertyMapping | templateProperty = elevation-m | ontologyProperty = elevation | unit = metre }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:name }}
+}}

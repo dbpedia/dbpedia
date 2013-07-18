@@ -1,0 +1,50 @@
+{{Infobox Automobile
+| image = [[Image:DKW Sedan 1938.jpg |250px|DKW F89 / Meisterklasse.]]
+| name = DKW F7 Reichsklasse / Meisterklasse
+| manufacturer = [[Auto Union|Auto Union AG]]
+| production =  1937 – 1938
+| predecessor = [[DKW F5]]
+| successor = [[DKW F8]]
+| engine = 584&nbsp;cc & 692 cc <br>[[two stroke]] [[straight-2]]
+| layout=[[FF layout]]
+| transmission = 3 speed manual
+| length = {{convert|3985|mm|in||abbr=on}}
+| width = {{convert|1480|mm|in||abbr=on}}
+| height = {{convert|1500|mm|in||abbr=on}}
+| weight = {{convert|750|kg|lb||abbr=on}} approx
+| wheelbase =  {{convert|2610|mm|in||abbr=on}}
+| track = 
+|fuel_capacity=
+| related = 
+| similar = 
+| designer = 
+}}
+
+The '''DKW F7''' is a [[Compact car|sub compact]] [[front wheel drive]]  [[Saloon (car)|saloon]] launched by [[Auto Union|Auto Union’s]] [[DKW]] division in 1937 as a replacement for the [[DKW F5]].
+
+==The body==
+Changes between the F5 and the F7 were mostly at a detailed level.   However, the entry level Reichsklasse saloon now shared the (hitherto slightly longer) body of the Meisterklasse saloon.
+
+In addition to the closed saloon, a two door cabriolet saloon was also available.   In 1938 a two door coupe cabriolet, the Front Luxus Cabriolet, was added to the range.
+
+==Engine and running gear==
+The car has the [[straight-2|two cylinder]] two stroke engine of its predecessor.   The Reichsklasse engine was of 584 cc with an output of 18 bhp (13 kW).   The Meisterklasse’s 692 cc engine had an output of 20 bhp (15 kW).   Respective claimed top speeds were 80 km/h (50 mph) and 85 km/h (53 mph).
+
+Like all the small DKWs of the 1930s, the F7 featured front wheel drive, which at this stage was unusual, and which in the light of subsequent developments can be seen as prescient.
+
+==Commercial==
+[[Image:DKW Cabriolet.jpg|thumb|left|The ‘Front Luxus’ Cabriolet version introduced in 1938 shared the 692 cc engine of the Meisterklasse.]]The popular F7 was replaced by the [[DKW F8]] in 1939.   By this time, approximately 80,000 F7s had been built.
+
+==Sources==
+{{reflist}}
+
+*{{De| DKW F7}}
+
+[[Category:DKW vehicles|F89]]
+[[Category:Compact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:1930s automobiles]]
+[[Category:Vehicles introduced in 1937]]
+
+[[de:DKW F7]]
+[[ru:DKW F7]]

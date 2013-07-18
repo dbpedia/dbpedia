@@ -1,0 +1,64 @@
+{{Infobox Automobile
+|image =[[Image:Goliath GP 700 - 27.08.2005.JPG|250px|Goliath GP700]]
+| name = Goliath GP700<br>Goliath GP900
+| manufacturer = [[Borgward|Carl F. W. Borgward GmbH]]
+| production = 1950 – 1957 GP700<br>1955 – 1957 GP900<br>1951 – 1953 GP700 Sport
+| predecessor = 
+| successor = [[Goliath 1100]]
+| body_style = [[sedan (car)|2 door saloon]],<br> [[sedan (car)|2 door saloon cabriolet]],<br>[[station wagon|3 door estate]], <br>[[coupé|2 door Sport coupé]]
+| engine = 688&nbsp;cc [[straight-2]],<br> [[2 stroke]] ''(GP 700)''<br>886&nbsp;cc [[straight-2]],<br> [[2 stroke]] ''(GP 900)''<br>845 &nbsp;cc [[straight-2]],<br> [[2 stroke]] ''(GP 700 Sport)''
+| layout=[[FF layout]]
+| transmission = 4 speed manual <br>all-syncromesh from 1952
+| length = {{convert|4050|mm|in||abbr=on}} -  {{convert|4150|mm|in||abbr=on}}
+| width = {{convert|1630|mm|in||abbr=on}}
+| height = {{convert|1470|mm|in||abbr=on}}
+| weight = {{convert|903|kg|lb||abbr=on}}
+| wheelbase =  {{convert|2300|mm|in||abbr=on}}<ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 978-3-613-02808-1}}</ref>
+| track = 
+|fuel_capacity={{Convert|47|L|usgal impgal|1|abbr=on}} (carburetor)<br> {{Convert|44|L|usgal impgal|1|abbr=on}} (fuel injection) 
+| related = 
+| similar = 
+| designer = 
+}}
+The '''Goliath GP700''' is a small two door saloon that was manufactured by the [[Bremen]],[[Germany]] based [[Borgward]] subsidiary [[Goliath (car)|Goliath-Werke Borgward & Co]] between 1950 and 1957.   In 1955 the GP700 was joined by the larger engined '''Goliath GP900 E'''.   Between 1951 and 1953 a coupé version, the  '''Goliath GP700 Sport''', was also offered.   The Goliath was a revolutionary design which in several important respects pointed the way for automobile development in the second half of the twentieth century.
+
+__TOC__
+{{clear}}
+
+==Goliath and Borgward==
+The Goliath business had been established in 1928 by the entrepreneurial engineer [[Carl F. W. Borgward|Carl Borgward]] in partnership with Wilhelm Tecklenburg.   During the 1930s Goliath had specialised in producing small three wheeled vans and passenger cars.   The plant had been bombed to destruction during the [[Second World War|war]], but in 1949 Goliath managed to introduce a small three wheeled delivery vehicle.   The announcement, in 1950, of a four wheeled passenger car represented something of a break with the company’s past.
+
+==Chronology==
+The small Goliath first appeared at the [[Geneva Motor Show]] in March 1950<ref name=AlleAutosder50er/>.   By the time of the [[Frankfurt Motor Show]] in April 1951 it had acquired a name, under which it would henceforth be marketed, and a light-weight two door coupé sibling.   The next year a cabriolet version of the saloon and a small estate version completed the range.
+
+During the life of the model it benefited from various modifications and upgrades.   Among the more significant of these was the introduction in 1955 of the 886 cc engined GP 900 E model:  with a 38% increase in claimed power output, the new model offered a useful performance advantage over the modestly powered GP700 which nevertheless continued in production.
+
+The body and equipment levels also changed progressively during the car’s model life.   In 1952 the car acquired a heater and the size of the back window was increased.
+
+The [[Goliath 1100]], introduced in 1957, was a substantially restyled continuation of the GP700 model, but it would also represent a significant move upmarket with a larger four stroke four cylinder engine, anticipating by nearly a decade the switch away from [[two stroke]] power plants by [[DKW Junior|other]] [[Saab 96|members]] of the [[two-stroke]] club.
+
+==Revolutionary==
+[[Image:GoliathGP700Sport 1951-53.jpg|250px|right|thumb|It may have looked like a smaller version of the [[Porsche 356]], but the Goliath GP700 Sport coupé had a transverse engine and front wheel drive.]]
+
+The GP700’s [[Ponton (automobile)|three box form]] reflected the silhouette of Borgward’s [[Borgward Hansa 1500|Hansa 1500]] introduced the year before.   Ten years later the ponton format automobile had become mainstream, but in 1950, while [[Opel Olympia|Opel]] and [[Mercedes-Benz W136|Mercedes Benz]] were still selling cars with designs dating back to the 1930s, the Goliath’s design was bold and innovative.   The wings were fully integrated into the bodywork, and the passenger cabin filled the full width of the car.   Volkswagen would follow suit only in [[Volkswagen Type 3|1961]].
+
+Another aspect of the car in respect of which the full significance became obvious only when adopted by [[Mini|other manufacturers]] was its front mounted engine, installed transversely along with the gearbox, which drove the front wheels.   It was thereby possible to advertise the car as a five seater even though the wheelbase was of only {{convert|2.3|m|in}}.
+
+The GP700 Sport appeared in 1952 with a Bosch fuel injection system.   The Sport model was produced only in very limited numbers, but shortly afterwards fuel injection also became available on the GP700 saloon (designated GP700 E:  E stood for “Einspritzung”) as an alternative to the carburetor equipped version.   When the larger engined GP900 E appeared, it was available only with the Bosch fuel injection.   This is a Goliath feature that would be taken up across the auto industry during the balance of the twentieth century: however the fuel injected GP700 E appeared five years before the fuel injected [[Mercedes-Benz 300 SL]].
+
+Yet another innovation, available from 1952 on the GP700 and which subsequently became mainstream was the all-synchromesh<ref name=Goliathbrochure>{{cite book |last=Borgward GbmH |first=Carl |authorlink= |coauthors= |title=Sales Brochure for the Goliath GP700|year=ca. 1954 |publisher=Bogward |location=Bremen |id= }}</ref>,  four speed gearbox.
+
+==The Engine==
+The GP700 was propelled by a [[Straight-two|two cylinder]] [[two stroke]] engine of 688 cc.   The carburettor version with which the car was launched had a claimed maximum output of {{convert|25|bhp|abbr=on}}, which increased to {{convert|29|bhp|abbr=on}} where fuel injection was specified.   Claimed maximum speed when the car was launched was 102&nbsp;km/h (63&nbsp;mph).   Subsequently the installation of more powerful engines delivered more performance: the bored out 886 cc engined GP900 E, introduced in 1955, managed a maximum speed of 120&nbsp;km/h (75&nbsp;mph) courtesy of an advertised maximum output of {{convert|50|bhp|abbr=on}}.   The very rare lightweight GP700 sport, offered between 1951 and 1953, its fuel injected engine enlarged to 845 cc, managed a claimed maximum speed of 125&nbsp;km/h (78&nbsp;mph) on the basis of {{convert|32|bhp|abbr=on}}.
+
+===Sources and further reading===
+
+{{reflist}}
+
+{{DEFAULTSORT:Goliath Gp700}}
+[[Category:Borgward vehicles]]
+[[Category:Subcompact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Industrial design examples]]
+[[Category:1950s automobiles]]
+[[Category:Vehicles introduced in 1950]]

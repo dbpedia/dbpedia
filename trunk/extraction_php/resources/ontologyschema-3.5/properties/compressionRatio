@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = compression ratio
+| rdfs:domain = AutomobileEngine
+| rdfs:range = xsd:string
+}}

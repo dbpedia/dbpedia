@@ -1,0 +1,31 @@
+{{TemplateMapping
+| mapToClass = Comedian
+| mappings = 
+	{{PropertyMapping | templateProperty = peabodyawards | ontologyProperty = peabodyAward }}
+	{{PropertyMapping | templateProperty = olivierawards | ontologyProperty = olivierAward }}
+	{{PropertyMapping | templateProperty = americancomedyawards | ontologyProperty = americanComedyAward }}
+	{{PropertyMapping | templateProperty = britishcomedyawards | ontologyProperty = britishComedyAwards }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = pseudonym | ontologyProperty = pseudonym }}
+	{{PropertyMapping | templateProperty = birth_name | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = influences | ontologyProperty = influencedBy }}
+	{{PropertyMapping | templateProperty = influenced | ontologyProperty = influenced }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = academyawards | ontologyProperty = academyAward }}
+	{{PropertyMapping | templateProperty = emmyawards | ontologyProperty = emmyAward }}
+	{{PropertyMapping | templateProperty = goldenglobeawards | ontologyProperty = goldenGlobeAward }}
+	{{PropertyMapping | templateProperty = tonyawards | ontologyProperty = tonyAward }}
+	{{PropertyMapping | templateProperty = baftaawards | ontologyProperty = baftaAward }}
+	{{PropertyMapping | templateProperty = cesarawards | ontologyProperty = cesarAward }}
+	{{PropertyMapping | templateProperty = goyaawards | ontologyProperty = goyaAward }}
+	{{PropertyMapping | templateProperty = afiawards | ontologyProperty = afiAward }}
+	{{PropertyMapping | templateProperty = filmfareawards | ontologyProperty = filmFareAward }}
+	{{PropertyMapping | templateProperty = grammyawards | ontologyProperty = grammyAward }}
+}}

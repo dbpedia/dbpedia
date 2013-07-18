@@ -1,0 +1,174 @@
+{{DBpediaTemplateMapping
+|mapToClass = Person
+|mappings = 
+	{{DBpediaPropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{DBpediaPropertyMapping | templateProperty = birth_name | ontologyProperty = 
+	Person/birthName}}
+	
+	{{DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = 
+	Person/birthDate}}
+	
+	{{DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty =
+	Person/birthYear}}
+
+	{{DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = 
+	Person/birthPlace}}
+	
+	{{DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = 
+	Person/deathDate}}
+	
+	{{DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty =
+	Person/deathYear}}
+
+    {{DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty =
+	Person/deathPlace}}
+	
+	{{DBpediaPropertyMapping | templateProperty = death_cause | ontologyProperty = 
+	Person/deathCause}}
+	
+	{{DBpediaPropertyMapping | templateProperty = body_discovered | ontologyProperty = 
+	Person/bodyDiscovered}}
+	
+	{{DBpediaPropertyMapping | templateProperty = resting_place | ontologyProperty = 
+	Person/restingPlace}}
+
+	
+	{{DBpediaPropertyMapping | templateProperty = residence | ontologyProperty = 
+	Person/residence}}
+	
+	{{DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = 
+	Person/nationality}}
+	
+	{{DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = 
+	Person/stateOfOrigin}}
+	
+	{{DBpediaPropertyMapping | templateProperty = ethnicity | ontologyProperty = 
+	Person/ethnicity }}
+	
+	{{DBpediaPropertyMapping | templateProperty = citizenship | ontologyProperty = 
+	Person/citizenship}}
+	
+	{{DBpediaPropertyMapping | templateProperty = citizenship | ontologyProperty = 
+	Person/currentDomicile}}
+	
+	{{DBpediaGeocoordinatesMapping | coordinates = resting_place_coordinates }}
+	
+	{{DBpediaPropertyMapping | templateProperty = other_names | ontologyProperty = 
+	Person/otherName}}
+	
+	{{DBpediaPropertyMapping | templateProperty = known_for | ontologyProperty = 
+	Person/knownFor}}
+	
+	{{DBpediaPropertyMapping | templateProperty = education | ontologyProperty = 
+	Person/education}}
+	
+	{{DBpediaPropertyMapping | templateProperty = alma_mater | ontologyProperty = 
+	Person/almaMater}}
+	
+	{{DBpediaPropertyMapping | templateProperty = employer| ontologyProperty = 
+	Person/employer}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = 
+	Person/occupation}}
+	
+	{{DBpediaDateIntervalMapping | templateProperty = years_active | 
+	startDateOntologyProperty = Person/activeYearsStartYear|
+	endDateOntologyProperty = Person/activeYearsEndYear}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction | 
+	correspondingProperty = Person/occupation |
+	mappings = 
+	
+        {{DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty =
+        PersonFunction/title }}
+
+        {{DBpediaDateIntervalMapping | templateProperty = years_active |
+        startDateOntologyProperty = PersonFunction/functionStartDate|
+        endDateOntologyProperty = PersonFunction/functionEndDate}}
+
+        {{DBpediaDateIntervalMapping | templateProperty = years_active |
+        startDateOntologyProperty = PersonFunction/functionStartYear|
+        endDateOntologyProperty = PersonFunction/functionEndYear}}
+
+	}}
+	
+	{{DBpediaPropertyMapping | templateProperty = home_town | ontologyProperty = 
+	Person/homeTown}}
+		
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction | 
+	correspondingProperty = Person/function |
+	mappings = 
+	
+        {{DBpediaPropertyMapping | templateProperty = title | ontologyProperty =
+        PersonFunction/title }}
+
+        {{DBpediaDateIntervalMapping | templateProperty = term |
+        startDateOntologyProperty = PersonFunction/functionStartDate|
+        endDateOntologyProperty = PersonFunction/functionEndDate}}
+	
+        {{DBpediaDateIntervalMapping | templateProperty = term |
+        startDateOntologyProperty = PersonFunction/functionStartYear|
+        endDateOntologyProperty = PersonFunction/functionEndYear}}
+
+	}}
+	
+	{{DBpediaPropertyMapping | templateProperty = salary | ontologyProperty = 
+	Person/salary | unit = Currency}}
+	
+	{{DBpediaPropertyMapping | templateProperty = networth | ontologyProperty = 
+	Person/networth | unit = Currency }}
+	
+	{{DBpediaPropertyMapping | templateProperty = predecessor | ontologyProperty = 
+	Person/predecessor}}
+	
+	{{DBpediaPropertyMapping | templateProperty = successor| ontologyProperty = 
+	Person/successor}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = party | ontologyProperty = 
+	Person/party}}
+	
+	{{DBpediaPropertyMapping | templateProperty = boards | ontologyProperty = 
+	Person/board}}
+	
+	{{DBpediaPropertyMapping | templateProperty = opponents | ontologyProperty = 
+	Person/opponent}}
+		
+	{{DBpediaPropertyMapping | templateProperty = religion | ontologyProperty = 
+	Person/religion}}
+	
+	{{DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = 
+	Person/spouse}}
+	
+	{{DBpediaPropertyMapping | templateProperty = partner | ontologyProperty = 
+	Person/partner}}
+	
+	{{DBpediaPropertyMapping | templateProperty = children | ontologyProperty = 
+	Person/child}}
+	
+	{{DBpediaPropertyMapping | templateProperty = parents| ontologyProperty = 
+	Person/mother}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = height| ontologyProperty = 
+	Person/height | unit = centimetre}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = weight| ontologyProperty = 
+	Person/weight | unit = kilogram}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = 
+	Person/father}}
+	
+	{{DBpediaPropertyMapping | templateProperty = relations | ontologyProperty = 
+	Person/relation}}
+	
+	{{DBpediaPropertyMapping | templateProperty = callsign | ontologyProperty = 
+	Person/callSign}}
+		
+	{{DBpediaPropertyMapping | templateProperty = website | ontologyProperty = 
+	foaf:homepage}}
+
+	{{DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = 
+	Person/award}} 
+	
+}}

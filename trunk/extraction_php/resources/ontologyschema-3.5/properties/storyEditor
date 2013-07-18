@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = story editor
+| rdfs:domain = TelevisionShow
+| rdfs:range = Person
+}}

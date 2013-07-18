@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = right tributary
+| rdfs:range = Island
+}}

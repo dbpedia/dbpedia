@@ -1,0 +1,77 @@
+{{TemplateMapping
+| mapToClass = Person
+| mappings = 
+	{{PropertyMapping | templateProperty = birth_name | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthYear }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathYear }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = death_cause | ontologyProperty = deathCause }}
+	{{PropertyMapping | templateProperty = body_discovered | ontologyProperty = bodyDiscovered }}
+	{{PropertyMapping | templateProperty = resting_place | ontologyProperty = restingPlace }}
+	{{GeocoordinatesMapping | ontologyProperty = restingPlacePosition | coordinates = resting_place_coordinates }}
+	{{PropertyMapping | templateProperty = residence | ontologyProperty = residence }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = stateOfOrigin}}
+	{{PropertyMapping | templateProperty = ethnicity | ontologyProperty = ethnicity }}
+	{{PropertyMapping | templateProperty = citizenship | ontologyProperty = citizenship }}
+	{{PropertyMapping | templateProperty = citizenship | ontologyProperty = currentDomicile }}
+	{{PropertyMapping | templateProperty = other_names | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = known_for | ontologyProperty = knownFor }}
+	{{PropertyMapping | templateProperty = education | ontologyProperty = education }}
+	{{PropertyMapping | templateProperty = alma_mater | ontologyProperty = almaMater }}
+	{{PropertyMapping | templateProperty = employer | ontologyProperty = employer }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction | 
+	correspondingProperty = occupation |
+	mappings = 
+	
+        {{PropertyMapping | templateProperty = occupation | ontologyProperty = title }}
+
+        {{DateIntervalMapping | templateProperty = years_active |
+        startDateOntologyProperty = functionStartDate|
+        endDateOntologyProperty = functionEndDate}}
+
+        {{DateIntervalMapping | templateProperty = years_active |
+        startDateOntologyProperty = functionStartYear|
+        endDateOntologyProperty = functionEndYear}}
+
+	}}
+	
+	{{PropertyMapping | templateProperty = home_town | ontologyProperty = hometown }}
+	{{IntermediateNodeMapping | nodeClass = PersonFunction | 
+       correspondingProperty = function |
+       mappings =
+        {{PropertyMapping | templateProperty = title | ontologyProperty = title }}
+        {{DateIntervalMapping | templateProperty = term | startDateOntologyProperty = functionStartDate | endDateOntologyProperty = functionEndDate}}
+        {{DateIntervalMapping | templateProperty = term | startDateOntologyProperty = functionStartYear | endDateOntologyProperty = functionEndYear}}
+	}}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = title }}
+	{{PropertyMapping | templateProperty = salary | ontologyProperty = salary | unit = Currency }}
+	{{PropertyMapping | templateProperty = networth | ontologyProperty = networth | unit = Currency }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass }}
+
+	{{PropertyMapping | templateProperty = predecessor | ontologyProperty = predecessor }}
+	{{PropertyMapping | templateProperty = successor | ontologyProperty = successor }}
+	{{PropertyMapping | templateProperty = party | ontologyProperty = party }}
+	{{PropertyMapping | templateProperty = boards | ontologyProperty = board }}
+	{{PropertyMapping | templateProperty = opponents | ontologyProperty = opponent }}
+	{{PropertyMapping | templateProperty = religion | ontologyProperty = religion }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = partner | ontologyProperty = partner }}
+	{{PropertyMapping | templateProperty = children | ontologyProperty = child }}
+	{{PropertyMapping | templateProperty = relations | ontologyProperty = relation }}
+	{{PropertyMapping | templateProperty = callsign | ontologyProperty = callSign }}
+	{{PropertyMapping | templateProperty = relatives | ontologyProperty = relative }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{DateIntervalMapping | templateProperty = years_active | startDateOntologyProperty = activeYearsStartYear| endDateOntologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = pseudonym | ontologyProperty = pseudonym }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = parents | ontologyProperty = father }}
+	{{PropertyMapping | templateProperty = parents | ontologyProperty = mother }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

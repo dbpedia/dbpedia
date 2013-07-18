@@ -1,0 +1,12 @@
+{{Class
+| rdfs:label = River
+| rdfs:subClassOf = BodyOfWater
+| specificProperties = {{SpecificProperty | ontologyProperty = discharge | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = minimumDischarge | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = sourceConfluenceElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = mouthElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = dischargeAverage | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+                       {{SpecificProperty | ontologyProperty = sourceElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = watershed | unit = squareKilometre }}
+}}

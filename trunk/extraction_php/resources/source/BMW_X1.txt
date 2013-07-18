@@ -1,0 +1,131 @@
+{{Infobox Automobile
+ | image            = [[Image:BMW X1 sDrive18d.JPG|250px|BMW X1]]
+ | name             = BMW X1
+ | aka              = 
+ | manufacturer     = [[BMW]]
+ | parent_company   = 
+ | production       = 2009-
+ | model_years      = 2011 (USA)
+ | assembly         = 
+ | predecessor      = 
+ | successor        = 
+ | class            = [[Crossover (automobile)|Crossover]] [[Compact SUV]]
+ | body_style       = 4-door SUV
+ | layout           = [[front-engine design|Front engine]], [[four-wheel drive]]
+ | platform         = [[BMW 3 Series (E90)|BMW E84]]
+ | engine = 2.0L 143 hp I4<br>2.0L 170 hp I4<br>3.0L 258 hp I6<br>2.0L 143 hp diesel I4<br>2.0L 177 hp diesel I4<br>2.0L 204 hp twin-turbo diesel I4
+ | transmission     = 6-speed manual, 6-speed automatic
+ | wheelbase        = {{convert|2760|mm|in|1|abbr=on}}
+ | length           = {{convert|4457|mm|in|1|abbr=on}}
+ | width            = {{convert|1789|mm|in|1|abbr=on}}
+ | height           = {{convert|1535|mm|in|1|abbr=on}}
+ | ground_clearance = {{convert|1940|mm|in|1|abbr=on}}
+ | front_track      = 
+ | rear_track       = 
+ | weight           = 1500kg
+ | top_speed        =
+ | fuel_capacity    = 
+ | related          = [[BMW 3 Series]]
+ | designer         = 
+}}
+
+The '''BMW X1''' is an [[Crossover (automobile)|crossover]] [[compact SUV]] manufactured by [[BMW]].  It will extend the current [[BMW Sports Activity Series]] model lineup, currently consisting of the [[BMW X3]] (which will be moved upmarket), [[BMW X5]], and the [[BMW X6]].
+
+The X1 is based on the same platform as the AWD [[BMW 3 Series]] Touring.<ref name="autoweek" />
+
+==BMW Concept X1 (2008)==
+It is the concept version of X1, unveiled in 2008 [[Paris Motor Show]].<ref>[http://www.autoblog.com/2008/10/02/paris-2008-bmw-x1-concept/ Paris 2008: BMW X1 concept]</ref>
+
+==Equipment==
+*The cargo capacity has up to 1350 liters of storage space
+*The backrest in the rear is adjustable in 11 steps and can be divided in the ratio 40:20:40
+*Rear view camera
+*Adaptive cruise control
+*Semi Command Sitting position
+*Performance Control
+
+==Specifications==
+All sDrive models are rear wheel drive, while xDrive models are all wheel drive.
+
+===Engines===
+{| class="wikitable"
+! Model !! Years made !! Type !! Power@rpm !! Torque@rpm 
+|-
+| xDrive18i||2010-|| {{convert|1995|cc|L cuin|abbr=on}} [[straight-4|I4]]||{{convert|143|PS|kW hp|abbr=on}}@6000|| {{convert|190|Nm|lbft|abbr=on}}@4250
+|-
+| xDrive28i||2009-|| {{convert|2996|cc|L cuin|abbr=on}} [[straight-6|I6]]||{{convert|258|PS|kW hp|abbr=on}}@6600|| {{convert|310|Nm|lbft|abbr=on}}@2600-3000
+|-
+|sDrive18d, xDrive18d||2009-||{{convert|1955|cc|L cuin|abbr=on}} [[straight-4|I4]] turbo ||{{convert|143|PS|kW hp|abbr=on}}@4000|| {{convert|320|Nm|lbft|abbr=on}} @1750-2500
+|-
+|sDrive20d, xDrive20d||2009-||{{convert|1955|cc|L cuin|abbr=on}} [[straight-4|I4]] turbo ||{{convert|177|PS|kW hp|abbr=on}}@4000|| {{convert|350|Nm|lbft|abbr=on}} @1750-3000
+|-
+|xDrive23d||2009-||{{convert|1955|cc|L cuin|abbr=on}} [[straight-4|I4]] TwinPower turbo ||{{convert|204|PS|kW hp|abbr=on}}@4400|| {{convert|400|Nm|lbft|abbr=on}} @2000-2250
+|}
+
+The USA market may only get the [[BMW N52]]B30 3.0-liter inline-6, either in the 260&nbsp;hp tune as in the X3 xDrive30i<ref name="CD">[http://www.caranddriver.com/reviews/car/09q3/2011_bmw_x1-first_drive_review ''Car&Driver'': 2011 BMW X1 - First Drive Review]</ref> or the 230&nbsp;hp tune as in the 328/xDrive28i variants.<ref name="WindingRoad">[http://wrmag.nextautos.com/issue/48?src=Nextscreen ''Winding Road'': Munich's Little Warrior]</ref>
+
+===Transmissions===
+{| class="wikitable"
+! Model !! Years made !! Type
+|-
+|xDrive18i||2010-||6-speed manual
+|-
+|xDrive28i||2009-||6-speed automatic
+|-
+|sDrive18d||2009-||6-speed manual
+|-
+|xDrive18d||2009-||6-speed manual
+|-
+|sDrive20d||2009-||6-speed manual
+|-
+|xDrive20d||2009-||6-speed manual
+|-
+|xDrive23d||2009-||6-speed automatic
+|}
+
+===Performance===
+{| class="wikitable"
+! Model !! Years made !! Acceleration 0-100&nbsp;km/h ([[Second|s]]) !! Top speed (optional high speed set-up)<ref>[http://www.terato.com/cars/content/view/1509/47/ 2010 BMW X1 Comes with xDrive &amp; sDrive]</ref>
+|-
+|xDrive18i||2010-||9.5||{{convert|200|km/h|mph|abbr=on}}/?
+|-
+|xDrive28i||2009-||6.8||{{convert|205|km/h|mph|abbr=on}}/{{convert|230|km/h|mph|abbr=on}}
+|-
+|sDrive18d||2009-||9.6||{{convert|200|km/h|mph|abbr=on}}/-
+|-
+|xDrive18d||2009-||10.1||{{convert|195|km/h|mph|abbr=on}}/-
+|-
+|sDrive20d||2009-||8.1||{{convert|205|km/h|mph|abbr=on}}/{{convert|218|km/h|mph|abbr=on}}
+|-
+|xDrive20d||2009-||8.4||{{convert|205|km/h|mph|abbr=on}}/{{convert|213|km/h|mph|abbr=on}}
+|-
+|xDrive23d||2009-||7.3||{{convert|205|km/h|mph|abbr=on}}/{{convert|223|km/h|mph|abbr=on}}
+|}
+
+==Production==
+Production began in Europe in the BMW Werk [[Leipzig]] plant in October 2009.  It will not be sold in the United States until 2011 after production of the second generation X3 begins in [[South Carolina]]. <ref name="autoweek">[http://www.autoweek.com/article/20090528/CARREVIEWS/905289985 ''AutoWeek'': "BMW X1: Striving to be the driver's choice among small SUVs"]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.bmw.com/com/_shortcuts/conceptx1/index_de.html BMW Concept X1]
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw X1}}
+[[Category:BMW vehicles|X1]]
+[[Category:Compact SUVs]]
+[[Category:All wheel drive vehicles]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Vehicles introduced in 2009]]
+[[Category:2010s automobiles]]
+
+
+{{modern-auto-stub}}
+
+[[de:BMW X1]]
+[[es:BMW X1]]
+[[fr:BMW X1]]
+[[nl:BMW X1]]
+[[uk:BMW X1]]

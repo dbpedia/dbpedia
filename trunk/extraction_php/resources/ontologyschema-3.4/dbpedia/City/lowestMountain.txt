@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = lowest mountain
+|rdfs:domain = City
+|rdfs:range = Mountain
+}}

@@ -1,0 +1,201 @@
+{{Refimprove|date=November 2007}}
+{{Infobox Automobile
+ | image            = [[Image:850csi.jpg|250px|1996 BMW 850 CSi]]
+ | name             = BMW 8 Series
+ | aka              = 
+ | manufacturer     = [[BMW]]
+ | parent_company   = 
+ | production       = 1989–1999
+ | assembly         = [[Germany]]
+ | predecessor      = [[BMW E24]]
+ | successor        = [[BMW Z8]]<br>[[BMW CS Concept]]
+ | class            = [[Grand tourer]]
+ | body_style       = 2-door [[coupé]]
+ | layout           = [[FR layout]]
+ | platform         = 
+ | engine           = [[V8 engine|V-8]] (840)<br>[[V12 engine|V-12]] (850)
+ | transmission     = 6-speed or different automatic transmissions (4hp24 & 5hp30 )
+ | wheelbase        = {{convert|105.7|in|mm|0|abbr=on}}
+ | length           = {{convert|188.2|in|mm|0|abbr=on}}
+ | width            = {{convert|73.0|in|mm|0|abbr=on}}
+ | height           = {{convert|52.8|in|mm|0|abbr=on}}
+ | ground_clearance = 
+ | front_track      = {{convert|61.20|in|mm|0|abbr=on}}
+ | rear_track       = {{convert|61.50|in|mm|0|abbr=on}}
+ | weight           = {{convert|4167|lb|abbr=on}} (840)<br>{{convert|4288|lb|abbr=on}} (850)
+ | fuel_capacity    = 23.8 gal{{Clarify|us or imp?|date=September 2009}}
+ | related          = 
+ | designer         = Klaus Kapitza
+}}
+
+The '''BMW 8 Series''' (chassis code: '''E31'''); is a [[V8 engine|V8]] or [[V12 engine|V12]]-engined 2-door [[2+2 (car body style)|2+2]] [[coupe]] built by [[BMW]] from 1989 to 1999.
+
+While it did supplant the original [[BMW E24|E24]] based [[BMW 6 Series|6 Series]] in 1991, a common misconception is that the 8 Series was developed as a successor. However, it was actually an entirely new class aimed at a different market, with a substantially higher price point and better performance than the 6 series. The 8 Series was designed as a direct competitor to the upcoming [[Mercedes-Benz SL-Class]] and [[Mercedes-Benz CL-Class|S-Class coupes]] (later [[Mercedes-Benz CL-Class#W140|renamed the CL-Class]]). While it has less rear passenger volume than the CL which is considered a two-door sedan, the 8 Series could accommodate [[2+2 (car body style)|two passengers in the rear]], while the SL roadster is a two-seater.
+
+The BMW 8 Series was BMW's flagship car while in production. Accounting for inflation, a new model cost above $110,000 and had an electronically limited top speed of 155 mph (250&nbsp;km/h). Although with the limiters removed, the top speed was estimated at 186 mph (299&nbsp;km/h). Worldwide production ceased on May 12, 1999, with 30,621 built.
+
+==History==
+Design of the 8 Series began in 1984, with construction starting in 1986. The 8 Series debuted at the [[Frankfurt Motor Show]] (INA) in early September 1989. The 8 Series was designed to move beyond the market of the original 6 Series. The 8 and 6 Series cars were distinctly different in design; though both were [[Supercar]] cars, the 8 Series had substantially improved performance, as well as a far higher purchase price.
+
+Over 1.5 billion [[Deutsche Mark|Deutschmark]] was spent on total development (2008 USD nearly $1 billion). BMW used [[CAD]] tools, still unusual at the time, to design the car's all-new body. Combined with wind tunnel testing, the resulting car had a [[drag coefficient]] of 0.29, a major improvement from the previous [[BMW M6]]/[[BMW 6 Series|635CSi]]'s 0.39.
+
+The 8 Series supercar offered the first V-12 engine mated to a 6-speed manual gearbox on a road car. It was also the first vehicle with an electronic "fly-by-wire" throttle. The 8 Series was one of BMW's first cars, together with the [[BMW Z1|Z1]], to use a multi-link rear axle.
+
+While CAD modeling allowed the car's unibody to be 8&nbsp;lb (3&nbsp;kg) lighter than that of its predecessor, the car was significantly heavier when completed due to the large engine and added luxury items&mdash;a source of criticism from those who wanted BMW to concentrate on the driving experience.
+
+Sales of the 8 Series were affected by the global recession of the early 1990s, the Persian Gulf War, and energy price spikes.<ref>[http://thearticlewriter.com/autowriter/bmw-8-series-gone-but-not-forgotten/  BMW 8 Series: Gone, But Not Forgotten @ The Auto Writer, May 19, 2007]. Retrieved June 11, 2008.</ref> BMW pulled the 8 Series out of the North American market in 1997, selling only 7,232 cars over seven years. BMW continued production for Europe until 1999. The ultimate worldwide production total was 30,621.
+
+===830i===
+Although sales were good in the first year on sale, the sharp reduction of the expensive 850i sales prompted BMW to develop an entry-level model. This was to use the 3-liter V8 with {{convert|218|PS|kW hp|0|abbr=on}} from the 530i and 730i, known internally as the [[BMW M60#M60B30|M60B30]]. Eighteen cars were produced, 13 of which had an automatic gearbox fitted. The model was dropped in favor of the 840Ci and all 18 development cars were dismantled.
+
+===840Ci===
+[[Image:BMW840Ci.JPG|thumb|right|250px|BMW 840Ci]]
+
+The 840Ci exists with two different engine packages. The first used the 4 liter [[BMW M60#M60B40|M60B40]] engine with {{convert|286|PS|abbr=on}} and was produced from mid 1993 to late 1995. From mid-1995, production phased in the newer 4.4 liter [[BMW M62#M62B44|M62B44]] engine, which had better fuel economy and more torque, though power output remained unchanged.
+
+The 840Ci was available with a 5-speed automatic transmission, though European cars were given the option of a 6-speed manual transmission. The only external features distinguishing the V8 model from the V12 models were the quad round exhausts, which were square in the V12 models.
+
+The 840Ci stayed in production until mid-1999.
+
+===850i===
+This was the first model launched in 1991 with the 5 liter [[BMW M70#M70B50|M70B50]] V12 engine producing {{convert|300|PS|kW hp|0|abbr=on}}. It was available with either a 4-speed automatic or a 6-speed manual gearbox.
+
+===850Ci===
+There is some confusion over why and when the 850i became the 850Ci. The change happened around the introduction of the 850CSi and it is believed that BMW decided to include the "C" in the model name to create more of a distinction between the 8 Series and BMW's sedans. The confusion starts when BMW installed the new [[BMW M73#M73B54|M73B54]] engine in the car. This was not an immediate changeover, and indeed both the M70 and M73-engined cars rolled off the production lines side-by-side for about nine months in 1994, both named 850Ci.
+
+As the capacity of the M73 increased to 5.4 liters and the compression ratio went up, the power output rose to {{convert|326|PS|kW hp|0|abbr=on}}.
+
+===850CSi===
+[[Image:1995 BMW 850 CSi.JPG|thumb|right|250px|1995 BMW 850CSi]]
+As a top-of-the-range sports tourer, the 850CSi took over from the prototype M8. The 850CSi used the same engine as the 850i, which was tuned so significantly that BMW assigned it a new engine code: [[BMW M70#S70B56|S70B56]]. The modifications included a capacity increase to 5.6 liters and power increase to {{convert|380|PS|kW hp|0|abbr=on}}.
+
+The 850CSi's modified suspension included stiffer springs and dampers and reduced the car's ride height. The recirculating ball steering ratio was dropped 15% over the stock E31 setup.  The model also sported wider wheels, with the option of forged alloys. The front and rear bumpers were reshaped for improved aerodynamic performance. Four round stainless steel exhaust tips replaced the square tips found on other models. The 6-speed manual gearbox was the only transmission option.
+
+Production ended in late 1996 because the S70 engine could not be modified to comply with new emission regulations without substantial re-engineering.
+
+===M8===
+<!-- [[BMW M8]] links here -->
+Originally envisioned as a [[Ferrari]] competitor, only a single prototype BMW M8 was ever produced, equipped with a special 550 bhp (410&nbsp;kW)  version of the [[BMW M70#S70/1|S70]] engine, essentially a bored out version of the M70 with experimental multi-valve cylinder heads. A common misconception is that this engine powered the [[McLaren F1]]. However, when this was suggested to McLaren's designer Gordon Murray, the idea was rejected because the engine was too heavy and long for the [[McLaren F1]]. A completely new BMW engine was designed which has a closer resemblance to the later Euro S50B30 BMW M3 engine.
+
+The project was eventually scrapped because BMW decided that there was no market for an M8. The only prototype ever produced (one that was reportedly not even road safe) was locked away by BMW in the company's ''Giftschrank'' (poison storage) and has reportedly been destroyed.<ref>[http://www.e31.net/models.html#M8 BMW M8 @ E31.net]</ref>
+
+While the M8 was never produced, it is interesting to note that the 850CSi was also tuned by BMW's [[BMW M|M division]]. Aside from sporting an M-tuned engine (as identified by the S suffix instead of the M prefix that a non-M tuned engine would wear), the car's VIN identifies the car as being built by BMW Motorsport (identified by the ''WBS'' prefix) instead of BMW AG (''WBA'' prefix). This effectively identifies the 850CSi as essentially a detuned version of the M8.<ref>[http://www.e31.net/models.html#850CSi 850CSi @ E31.net]</ref>
+
+===Alpina B12===
+BMW tuner [[Alpina]] produced a special version of the 8 Series dubbed the B12. Two versions were produced, both taken from the standard production line. The '''B12 5.0 Coupe''' was based on the 850i, powered by the 5.0-liter M70 engine producing 350 bhp (260&nbsp;kW), and available only with a 4-speed automatic gearbox. The larger '''B12 5.7 Coupe''' was based on the 850CSi, with the 5.7-liter S70 engine producing {{convert|416|bhp|kW PS|0|abbr=on}} with a 6-speed manual gearbox.
+
+===Racing Dynamics K55 Sport Coupe===
+BMW tuner Racing Dynamics of Italy in 1991 produced a special version of the 8 Series dubbed the K55 Sport Coupe taken from the standard production line. The K55 5.5 Coupe was based on the 850i, powered by the 5.0-liter M70 that was stroked to 5.5 liters, new valves, camshafts lifters and intakes along with extrude honed heads. The one US version engine producing {{convert|475|bhp|kW PS|0|abbr=on}} and the Euro version producing {{convert|401|bhp|abbr=on}}. 40 K55s were produced for the Euro market and one in the US. In addition to engine modifications, The K55 offered a variety of body, suspensions, rear end options. References 02/1994 Euro Magazine Road & Track, Car and Driver<ref>[http://mysite.verizon.net/vzep419u/1993850ci/id4.html#B1250 RD K55 Sport Coupe @ E31parts.com]</ref>
+
+However, there is no verification of {{convert|475|hp|abbr=on}} produced by this car by Racing Dynamics. The K55 produces {{convert|380|hp|abbr=on}} and {{convert|405|ft.lbf|N.m|abbr=on}} of torque as listed in the 02/1994 Euro car magazine. Racing Dynamic's own website lists the K55 at {{convert|401|hp|abbr=on}}.<ref>[http://www.racingdynamics.com/Localized/International/Series/8/8_E31/RD_Int_8_E31_Intro.htm Racing Dynamics' official 8 series program webpage]</ref>
+
+The {{convert|475|hp|abbr=on}} was declared by Autothority (as listed in the said Road & Track article) who are no longer in business in their original capacity. The {{convert|475|hp|abbr=on}} claim was never verified.
+
+===PowerPlant Racing BMW "860i"===
+Race car tuner PowerPlant racing of North Carolina, USA produced the most powerful Naturally Aspirated 8 series BMW. This was done by increasing the displacement of the M70 V12 engine to a 6.0L capacity.
+
+This conversion changes the stroke of the engine from {{convert|73|mm|in|1|abbr=on}} to {{convert|86|mm|in|1|abbr=on}}, the bore from {{convert|84|mm|in|1|abbr=on}} to {{convert|86|mm|in|1|abbr=on}} and the compression ratio from 8.8/1 to 10/1. The 6.0 conversion on a stock rebuild makes {{convert|405|HP|abbr=on}} & {{convert|425|ft.lbf|N.m|abbr=on}} of torque. However, there are add on options of this program that increases the specifications to 455+ HP and 500+ ft·lbf (386 HP and {{convert|409|ft.lbf|N.m|abbr=on}} torque at the wheels) that is emission legal with completely civilized, stock drivability.<ref>[http://www.racingpowerplant.com/bmw_m70.htm PowerPlant Racing BMW 6.0 Program]</ref><ref>[http://860.sentineltech.net/Records/2007-06-23%20-%20CDA%20RWHP-RWTQ%20Dyno.pdf Dyno Chart]</ref>
+
+There were only 7 of the 6.0L conversions done for the E31 (BMW 8 Series). The power output was verified by several chassis dyno (refer to [http://860.sentineltech.net/Records/2007-06-23%20-%20CDA%20RWHP-RWTQ%20Dyno.pdf Dyno Chart]).
+
+'''Limited Edition
+
+'''
+
+840 CiA "M Individual" (Japan) 298 ex (05/1996-04/1999)
+
+840 Ci Sport (Belgium) 2 ex (03/1999-04/1999)
+
+840 CiA Sport (UK and Belgium) 3 ex Belgium, more than 500 UK (01/1997-05/1999 UK) (10/1998-05/1999 Belgium)
+
+850 CiA Platinum (Middle East) (1998-1999) 59 ex
+
+850 CiA 5.4 Alpina (Middle East) (1998-1999) 15 ex
+
+850 CiA Sport (Belgium) (10/1998) 1 ex
+
+==Transmission==
+
+The 840Ci (V8) U.S. models were each equipped with a 5-speed automatic transmission. The 850i/850Ci (V12) models each carry either a 4-speed automatic transmission, 5-speed automatic transmission, or a 6-speed manual. The 850CSi model only came with a 6-speed manual transmission.
+
+==Fuel economy==
+
+840 (V8)
+
+Fuel type: Premium
+:city: {{convert|15|mpgus|lk=off }}
+:highway: {{convert|20|mpgus|lk=off }}
+:combined: {{convert|17|mpgus|lk=off }}
+
+850 (V12)
+
+Fuel type: Premium
+:city: {{convert|14|mpgus|lk=off }}
+:highway: {{convert|20|mpgus|lk=off }}
+:combined: {{convert|16|mpgus|lk=off }}
+
+Source: [http://www.fueleconomy.gov US EPA (Environmental Protection Agency)]
+
+==Motorsport==
+
+The 8-Series is a very rare car to see in any form of motorsport. However, one of the best examples was built by Wagenstetter Motorsport<ref name="germancarmagazine.com">{{Cite web|url=http://www.germancarmagazine.com/features/motorsports-rare-bmws-m5-6-series-and-8-series/|title=Motorsport’s rare BMW’s; M5, 6-Series and 8-Series|accessdate=2009-02-14|work=germancarmagazine.com}}</ref> and, until recently, was raced in the Nurburgring VLN endurance championship. It’s based on an 840i, but now has an E39 M5 5.0-litre V8, which has {{convert|555|bhp|kW PS|0|abbr=on}} and {{convert|472|lbft|Nm|0|abbr=on}} torque, and a six-speed gearbox from the same car.
+
+==Models and production history==
+
+{| class=wikitable style="font-size:90%;"
+|-
+!Model!!MY<br>Global!!MY<br>USA/CDN!!Production<br>years!!Engine!!Volume!!Engine<br>alloy!!colspan="1"|Power!!colspan="1"|Torque!!Production<br>total!!Production<br>USA/CDN
+|-
+|830Ci||1992||-||1992||[[BMW M60#M60B30|M60B30]] V8||{{convert|2997|cc|cuin|0|abbr=on}}||[[Nikasil]]|| {{convert|160|kW|PS hp|0|abbr=on}} || {{convert|290|Nm|lb·ft|abbr=on}} ||align="right"|18||align="center"|-
+|-
+|840Ci||1993-95||1994-95||1992-96||[[BMW M60#M60B40|M60B40]] V8||{{convert|3982|cc|cuin|0|abbr=on}}||[[Nikasil]]|| {{convert|210|kW|PS hp|0|abbr=on}} || {{convert|400|Nm|lb·ft|abbr=on}} ||align="right"|4,728||align="right"|1,649
+|-
+|840Ci||1996-99||1996-97||1995-99||[[BMW M62#M62B44|M62B44]] V8||{{convert|4398|cc|cuin|0|abbr=on}}||[[Alusil]]|| {{convert|210|kW|PS hp|0|abbr=on}} || {{convert|420|Nm|lb·ft|abbr=on}} ||align="right"|3,075||align="right"|801
+|-
+|850i/Ci||1990-94||1991-94||1989-94||[[BMW M70#M70B50|M70B50]] V12||{{convert|4988|cc|cuin|0|abbr=on}}||[[Alusil]]|| {{convert|220|kW|PS hp|0|abbr=on}} || {{convert|450|Nm|lb·ft|abbr=on}} ||align="right"|20,072||align="right"|4,194
+|-
+|850Ci||1995-99||1995-97||1994-99||[[BMW M73#M73B54|M73B54]] V12||{{convert|5379|cc|cuin|0|abbr=on}}||[[Alusil]]|| {{convert|240|kW|PS hp|0|abbr=on}} || {{convert|490|Nm|lb·ft|abbr=on}} ||align="right"|1,218||align="right"|363
+|-
+|850CSi||1992-96||1994-95||1992-96||[[BMW M70#S70B56|S70B56]] V12||{{convert|5576|cc|cuin|0|abbr=on}}||[[Alusil]]|| {{convert|295|kW|PS hp|0|abbr=on}} || {{convert|550|Nm|lb·ft|abbr=on}} ||align="right"|1,510||align="right"|225
+|-
+|M8||-||-||-||[[BMW M70#S70/1|S70/1]] V12||≈{{convert|6000|cc|cuin|0|abbr=on}}||[[Alusil]]|| {{convert|410|kW|PS hp|0|abbr=on}} ||colspan="1"|undisclosed||1 prototype||align="center"| 
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.clube31.de Clube31]
+*[http://www.8coupe.com 8Coupe.com]
+*[http://www.8er.org 8er.org]
+*[http://www.e31.net E31.net]
+*[http://www.realoem.com/bmw/select.do?kind=P&series=E31&arch=0 RealOEM Parts Catalog]
+*[http://pagesperso-orange.fr/850BMW/Accueil.htm Ma BMW 850 (fr)]
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 8 Series}}
+[[Category:BMW vehicle series|8 Series]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Vehicles with four wheel steering]]
+[[Category:Vehicles introduced in 1989]]
+[[Category:Coupes]]
+[[Category:Grand tourers]]
+[[Category:1990s automobiles]]
+
+[[bs:BMW 8 serija]]
+[[cs:BMW řada 8]]
+[[de:BMW 8er]]
+[[es:BMW Serie 8]]
+[[fr:BMW Série 8]]
+[[it:BMW Serie 8]]
+[[lt:BMW 8 Serija]]
+[[nl:BMW 8-serie]]
+[[ja:BMW・8シリーズ]]
+[[no:BMW 8-serie]]
+[[pl:BMW E31]]
+[[pt:BMW E31]]
+[[ru:BMW E31]]
+[[fi:BMW 8-sarja]]
+[[sv:BMW 8-serie]]
+[[zh:BMW 8系列]]

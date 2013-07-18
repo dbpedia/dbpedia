@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = spur type
+|rdfs:domain = Road
+|rdfs:range = owl:Thing
+}}

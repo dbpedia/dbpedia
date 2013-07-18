@@ -1,0 +1,46 @@
+{{Infobox Automobile
+| image = [[Image:Wartburg 311 (1963) 02.jpg|250px|Wartburg 311 sedan (1963 model)]]<br>''Wartburg 311 (1963 model)''
+| name = Wartburg 311
+| manufacturer = [[Wartburg (car)|Wartburg]]
+| assembly=[[Automobilwerk Eisenach|VEB Automobilwerk Eisenach]], [[Eisenach]], [[East Germany]]
+| production = 1956 – 1965 
+| successor = [[Wartburg 353]]
+| body_style = 4-door [[sedan (car)|sedan]]<br>5-door [[station wagon|estate]]<br>[[Pickup truck]]<br>[[roadster]]
+| engine = 900cc [[Straight-three engine|3-cylinder]] [[two-stroke]] in line engine
+| layout=[[Front-engine, front-wheel drive layout|FF layout]]
+| transmission = 4 speed manual
+| length = {{convert|4300|mm|in|1|abbr=on}}
+| width = {{convert|1570|mm|in|1|abbr=on}}
+| height = {{convert|1450|mm|in|1|abbr=on}}
+| weight = {{convert|960|kg|lb|0|abbr=on}}
+| wheelbase = {{convert|2450|mm|in|1|abbr=on}}
+| track = 
+| related = [[Wartburg 312]]
+| designer = 
+}}
+
+The '''Wartburg 311''' was a car produced by [[East Germany|East German]] car manufacturer [[Wartburg (car)|Wartburg]] from 1956 to 1965. The 311 model was manufactured in a number of variations, including pickup, sedan, limousine, and as a two-seater roadster. The engine was enlarged to 992cc in 1962.
+
+Exports of the Wartburg 311 to [[West Germany]] started in 1958, and by the early 1960s the car was exported to many other countries, including the United Kingdom and United States. The 311 model was replaced with the [[Wartburg 353]] in 1965. The Wartburg 312 is a modified version of the 311 with some parts from the Wartburg 353.
+
+{{Commonscat|Wartburg 311}}
+
+<gallery>
+Image:Wartburg 311 2006.jpg|Wartburg 311 coupe
+Image:Wartburg Schnelltransporter mit Anhänger 1.jpg|Wartburg 311 roadster and pickup
+</gallery>
+
+==External links==
+* [http://www.team.net/www/ktud/wartburg.html Wartburg history]
+* [http://www.uniquecarsandparts.com.au/car_info_wartburg_311.htm Car info]
+
+[[Category:Cars of Germany]]
+[[Category:1950s automobiles]]
+[[Category:1960s automobiles]]
+[[Category:Vehicles introduced in 1956]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+
+[[de:Wartburg (Pkw)#Wartburg 311, 313 und das Übergangsmodell 312]]
+[[it:Wartburg 311]]

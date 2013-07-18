@@ -1,0 +1,91 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Settlement
+| mappings =
+	{{PropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = local_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = crown_dependency | ontologyProperty = crownDependency }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = region1 | ontologyProperty = region }}
+        {{GeocoordinatesMapping | latitude = latitude  | longitude = longitude  | latitudeSeconds = lat_sec  | longitudeDegrees = lon_deg  | longitudeMinutes = lon_min  | longitudeSeconds = lon_sec  | longitudeSeconds = longs  | longitudeDirection = longEW }}
+&lt;!-- STATISTICS -->
+	{{PropertyMapping | templateProperty = area_total_sq_mi | ontologyProperty = areaTotal | unit = squareMile }}
+	{{PropertyMapping | templateProperty = area_total_km2 | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = population | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = population_density | ontologyProperty = populationDensity | unit = inhabitantsPerSquareKilometre }}
+&lt;!-- DISTANCES -->
+	{{PropertyMapping | templateProperty = belfast_distance_mi | ontologyProperty = distanceToBelfast | unit = mile }}
+	{{PropertyMapping | templateProperty = belfast_distance_km | ontologyProperty = distanceToBelfast | unit = kilometre }}
+	{{PropertyMapping | templateProperty = belfast_distance | ontologyProperty = distanceToBelfast }}
+	{{PropertyMapping | templateProperty = edinburgh_distance_mi | ontologyProperty = distanceToEdinburgh | unit = mile }}
+	{{PropertyMapping | templateProperty = edinburgh_distance_km | ontologyProperty = distanceToEdinburgh | unit = kilometre }}
+	{{PropertyMapping | templateProperty = edinburgh_distance | ontologyProperty = distanceToEdinburgh }}
+	{{PropertyMapping | templateProperty = london_distance_mi | ontologyProperty = distanceToLondon | unit = mile }}
+	{{PropertyMapping | templateProperty = london_distance_km | ontologyProperty = distanceToLondon | unit = kilometre }}
+	{{PropertyMapping | templateProperty = london_distance | ontologyProperty = distanceToLondon }}
+	{{PropertyMapping | templateProperty = cardiff_distance_mi | ontologyProperty = distanceToCardiff | unit = mile }}
+	{{PropertyMapping | templateProperty = cardiff_distance_km | ontologyProperty = distanceToCardiff | unit = kilometre }}
+	{{PropertyMapping | templateProperty = cardiff_distance | ontologyProperty = distanceToCardiff }}
+	{{PropertyMapping | templateProperty = douglas_distance_mi | ontologyProperty = distanceToDouglas | unit = mile }}
+	{{PropertyMapping | templateProperty = douglas_distance_km | ontologyProperty = distanceToDouglas | unit = kilometre }}
+	{{PropertyMapping | templateProperty = douglas_distance | ontologyProperty = distanceToDouglas  }}
+	{{PropertyMapping | templateProperty = dublin_distance_mi | ontologyProperty = distanceToDublin | unit = mile }}
+	{{PropertyMapping | templateProperty = dublin_distance_km | ontologyProperty = distanceToDublin | unit = kilometre }}
+	{{PropertyMapping | templateProperty = dublin_distance | ontologyProperty = distanceToDublin }}
+	{{PropertyMapping | templateProperty = charingX_distance_mi | ontologyProperty = distanceToCharingCross | unit = mile }}
+	{{PropertyMapping | templateProperty = charingX_distance_km | ontologyProperty = distanceToCharingCross | unit = kilometre }}
+	{{PropertyMapping | templateProperty = charingX_distance | ontologyProperty = distanceToCharingCross }}
+&lt;!-- SCOTLAND-SPECIFIC -->
+	{{PropertyMapping | templateProperty = gaelic_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = scots_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = unitary_scotland | ontologyProperty = councilArea }}
+	{{PropertyMapping | templateProperty = unitary_scotland1 | ontologyProperty = councilArea }}
+	{{PropertyMapping | templateProperty = lieutenancy_scotland | ontologyProperty = lieutenancyArea }}
+	{{PropertyMapping | templateProperty = lieutenancy_scotland1 | ontologyProperty = lieutenancyArea }}
+&lt;!-- WALES-SPECIFIC -->
+	{{PropertyMapping | templateProperty = welsh_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = unitary_wales | ontologyProperty = principalArea }}
+	{{PropertyMapping | templateProperty = unitary_wales1 | ontologyProperty = principalArea }}
+	{{PropertyMapping | templateProperty = lieutenancy_wales | ontologyProperty = ceremonialCounty }}
+	{{PropertyMapping | templateProperty = lieutenancy_wales1 | ontologyProperty = ceremonialCounty }}
+&lt;!-- NORTHERN IRELAND-SPECIFIC -->
+	{{PropertyMapping | templateProperty = irish_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = unitary_northern_ireland | ontologyProperty = district }}
+	{{PropertyMapping | templateProperty = unitary_northern_ireland1 | ontologyProperty = district }}
+	{{PropertyMapping | templateProperty = unitary_northern_ireland2 | ontologyProperty = district }}
+	{{PropertyMapping | templateProperty = lieutenancy_northern_ireland | ontologyProperty = county }}
+	{{PropertyMapping | templateProperty = lieutenancy_northern_ireland1 | ontologyProperty = county }}
+	{{PropertyMapping | templateProperty = lieutenancy_northern_ireland2 | ontologyProperty = county }}
+&lt;!-- ISLE OF MAN-SPECIFIC -->
+	{{PropertyMapping | templateProperty = manx_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = manx_parish | ontologyProperty = parish }}
+	{{PropertyMapping | templateProperty = manx_shedding | ontologyProperty = sheading }}
+	{{PropertyMapping | templateProperty = constituency_manx_parliament | ontologyProperty = principalArea }}
+&lt;!-- ENGLAND-SPECIFIC -->
+        {{PropertyMapping | templateProperty = metropolitan_borough | ontologyProperty = metropolitanBorough }}	
+        {{PropertyMapping | templateProperty = metropolitan_borough1 | ontologyProperty = metropolitanBorough }}
+        {{PropertyMapping | templateProperty = shire_district | ontologyProperty = district }}
+        {{PropertyMapping | templateProperty = shire_district2 | ontologyProperty = district }}
+        {{PropertyMapping | templateProperty = shire_county | ontologyProperty = country }}
+        {{PropertyMapping | templateProperty = shire_county | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = unitary_england | ontologyProperty = unitaryAuthority }}
+	{{PropertyMapping | templateProperty = unitary_england1| ontologyProperty = unitaryAuthority }}
+	{{PropertyMapping | templateProperty = lieutenancy_england | ontologyProperty = ceremonialCounty }}
+	{{PropertyMapping | templateProperty = lieutenancy_england1 | ontologyProperty = ceremonialCounty }}
+&lt;!-- (also produces London Assembly constituency) -->
+	{{PropertyMapping | templateProperty = london_borough | ontologyProperty = borough }}
+	{{PropertyMapping | templateProperty = london_borough1 | ontologyProperty = borough }}
+	{{PropertyMapping | templateProperty = london_borough2 | ontologyProperty = borough }}
+	{{PropertyMapping | templateProperty = london_borough3 | ontologyProperty = borough }}
+	{{PropertyMapping | templateProperty = london_borough4 | ontologyProperty = borough }}
+	{{PropertyMapping | templateProperty = cornish_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = other_language_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = other_language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = language1 | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = language2 | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+
+</textarea>

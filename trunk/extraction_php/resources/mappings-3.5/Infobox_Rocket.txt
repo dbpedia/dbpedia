@@ -1,0 +1,25 @@
+{{TemplateMapping
+| mapToClass = Rocket
+| mappings = 
+	{{PropertyMapping | templateProperty = function | ontologyProperty = function }}
+	{{PropertyMapping | templateProperty = country-origin | ontologyProperty = countryOrigin }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = diameter | ontologyProperty = diameter | unit = kilometre }}
+	{{PropertyMapping | templateProperty = mass | ontologyProperty = mass | unit = Mass }}
+	{{PropertyMapping | templateProperty = stages | ontologyProperty = stages }}
+	{{PropertyMapping | templateProperty = LEO-payload | ontologyProperty = lowerEarthOrbitPayload | unit = kilogram }}
+	{{PropertyMapping | templateProperty = alt-LEO | ontologyProperty = lowerEarthOrbitPayload | unit = pound }}
+	{{PropertyMapping | templateProperty = comparable | ontologyProperty = comparable }}
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = sites | ontologyProperty = launchSite }}
+	{{PropertyMapping | templateProperty = launches | ontologyProperty = totalLaunches }}
+	{{PropertyMapping | templateProperty = success | ontologyProperty = successfulLaunches }}
+	{{PropertyMapping | templateProperty = fail | ontologyProperty = failedLaunches }}
+	{{PropertyMapping | templateProperty = partial | ontologyProperty = partialFailedLaunches }}
+	{{PropertyMapping | templateProperty = other_outcome | ontologyProperty = unknownOutcomes }}
+	{{PropertyMapping | templateProperty = first | ontologyProperty = maidenFlight }}
+	{{PropertyMapping | templateProperty = last | ontologyProperty = finalFlight }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = manufacturer | ontologyProperty = manufacturer }}
+	{{PropertyMapping | templateProperty = derivatives | ontologyProperty = successor }}
+}}

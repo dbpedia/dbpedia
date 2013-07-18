@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = drains from
+|rdfs:domain = Vein
+|rdfs:range = Vein
+}}

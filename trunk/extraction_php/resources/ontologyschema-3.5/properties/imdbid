@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = imdbId
+| rdfs:domain = Film
+| rdfs:range = xsd:string
+}}

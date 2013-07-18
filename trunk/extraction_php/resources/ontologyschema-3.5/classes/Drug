@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Drug
+| specificProperties = {{SpecificProperty | ontologyProperty = meltingPoint | unit = kelvin }}
+                       {{SpecificProperty | ontologyProperty = boilingPoint | unit = kelvin }}
+}}

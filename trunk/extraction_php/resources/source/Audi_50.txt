@@ -1,0 +1,63 @@
+{{Infobox Automobile
+|name           = Audi 50
+|image          = [[Image:Audi 50.jpg|250px]] ''<br>Audi 50 in the [[Audi Forum]], [[Ingolstadt]]
+|aka            = 
+|manufacturer   = [[Volkswagen Group|Volkswagenwerk AG]]
+|production     = 1974-1978 <br/> 180,812 built<ref>Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 4, ISBN 3-613-02131-5, p. 263</ref>
+|predecessor    = [[NSU Prinz]]
+|successor      = 
+|class          = [[supermini car|Supermini]]
+|layout         = [[transverse engine|transverse]] [[front-engine design|front engine]],<br>[[front-wheel drive]]
+|platform       = [[Volkswagen Group A0 platform#A01|Volkswagen Group A01]]
+|body_style     = 3-door [[hatchback]]
+|engine         = 0.9&nbsp;(L), 1.1&nbsp;(LS) or 1.3&nbsp;(GLS) L [[Overhead valve|OHV]] [[straight-4|I4]]
+|transmission   = 4-speed [[manual transmission|manual]]
+|wheelbase      = {{convert|2335|mm|1|abbr=on}}
+|length         = {{convert|3510|mm|1|abbr=on}}
+|width          = {{convert|1560|mm|1|abbr=on}}
+|height         = {{convert|1340|mm|1|abbr=on}}
+|weight         = 
+|fuel_capacity  = 
+|related        = [[Volkswagen Polo Mk1|VW Polo Mk1]]
+|designer       = [[Ludwig Kraus]]
+|sp             = uk
+}}
+[[Image:Audi 50 sst.JPG|thumb|left|Audi 50 LS - rear view]]
+The '''Audi 50''' (known internally as the ''Typ'' 86) is a [[supermini car|supermini]] produced by [[Germany|German]] automaker [[Audi]] from 1974 to 1978 and sold only in [[Europe]].
+Audi 50 was built by [[Volkswagen]] in Wolfsburg.<ref name="audi.co.nz">{{Cite web|url=http://www.audi.co.nz/company/history/chr_1960.asp#|title=Turbulent times|accessdate=2009-07-26|work=audi.co.nz}}</ref>
+The car was offered as a three-door [[hatchback]] with a {{convert|1093|cc|abbr=on|lk=on}} [[petrol engine]], producing either {{convert|37|kW|PS bhp|0|abbr=on}} or {{convert|44|kW|PS bhp|0|abbr=on}} for the LS and GL models, respectively.  The model was popular in [[Europe]], both because of its generous specifications for a car of the time, and on account of its relatively low price.
+
+The car was [[badge engineering|rebadged]] by Volkswagen, and sold with a wider range of engine and other options<ref name=Autocar1974>{{cite journal | authorlink = |title = News:  Audi 50| journal =[[Autocar]]| volume = Vol 141 (nbr4065) | pages =page 29| date = 21 September 1974}}</ref>, as the [[Volkswagen Polo]] from 1975.  The two models were sold alongside each other for 3 years, but the cheaper Volkswagen model outsold the Audi 50, and Audi discontinued the 50 in 1978, after a total production of 180,000 units, with the Polo range continuing through numerous generations to the present day.
+
+In its day, its main competitors would include the [[Renault 5]], the [[Fiat 127]], and the [[Autobianchi A112]].{{Fact|date=August 2008}}
+{{clr}}
+
+==References==
+{{commonscat}}
+{{Reflist}}
+
+{{Audi}}
+{{Audi (Europe) timeline 1970 to date}}
+
+[[Category:Audi vehicles|50]]
+[[Category:Subcompact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles introduced in 1974]]
+[[Category:1970s automobiles]]
+
+{{Modern-auto-stub}}
+
+[[bg:Ауди 50]]
+[[de:Audi 50]]
+[[fr:Audi 50]]
+[[hr:Audi 50]]
+[[it:Audi 50]]
+[[lv:Audi 50]]
+[[nl:Audi 50]]
+[[ja:アウディ・50]]
+[[no:Audi 50]]
+[[pl:Audi 50]]
+[[pt:Audi 50]]
+[[ru:Audi 50]]
+[[fi:Audi 50]]
+[[sv:Audi 50]]

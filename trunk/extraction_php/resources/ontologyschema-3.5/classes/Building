@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Building
+| rdfs:subClassOf = Place
+| specificProperties = {{SpecificProperty | ontologyProperty = floorArea | unit = squareMetre }}
+}}

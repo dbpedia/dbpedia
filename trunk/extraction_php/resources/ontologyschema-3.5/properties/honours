@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = honours
+| rdfs:domain = SoccerClub
+}}

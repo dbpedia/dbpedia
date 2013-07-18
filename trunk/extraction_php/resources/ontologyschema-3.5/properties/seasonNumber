@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = season number
+| rdfs:range = xsd:integer
+}}

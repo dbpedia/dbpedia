@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = diameter
+|rdfs:domain = MeanOfTransportation
+|rdfs:range = metre
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = volume
+|rdfs:domain = Planet
+|rdfs:range = cubicKilometre
+}}

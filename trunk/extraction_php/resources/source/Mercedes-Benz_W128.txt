@@ -1,0 +1,47 @@
+{{for|a complete overview of all S-Class models|Mercedes-Benz S-Class}}
+{{Infobox Automobile
+| name = Mercedes-Benz W128
+| image = [[Image:W128 220SE.JPG|250px|center|W128 220SE]]
+| manufacturer = [[Mercedes-Benz]]
+| production = 1958-1960 <br/> 3,916 built<ref>Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 4. Motorbuch Verlag, Stuttgart 2001, ISBN 3-613-02131-5, p. 31-38.</ref>
+| successor = 
+| class = [[luxury car]]
+| body_style =4-door [[sedan (car)|sedan]]<br /> 2-door [[coupe]]<br />2-door [[Cabriolet (automobile)|cabriolet]]
+| engine =2.2 L [[straight-6]]
+| wheelbase = {{Auto in|111|0}} in (sedan) <br/> {{Auto in|106.3|0}} (coupé or cabriolet)
+}}
+The '''Mercedes-Benz W128''' was a 6-cylinder [[automobile]] that was available in [[sedan (car)|sedan]], [[coupe|coupé]], or [[Cabriolet (automobile)|cabriolet]] [[car body style|body styles]] and produced from October, 1958 to August, 1959 (Cabriolet A/C and Coupé to November, 1960). Its main model, the '''220SE''', was the last of the "[[Mercedes-Benz Ponton|Ponton]]" series which had design roots and styling cues beginning in 1953 with the Mercedes-Benz 180 sedan (chassis [[Mercedes-Benz W120|W120]]).
+
+The 220SE featured a unitized body/frame construction and fully independent suspension.  All models were fitted with a 2.2&nbsp;L  (2195 cc) [[I6|straight 6]] gasoline engine (M127) with aluminum head, overhead camshaft, and Bosch mechanical fuel injection. An automatic clutch was available with the column-mounted 4-speed [[manual transmission]].
+
+At the time, the cabriolet was priced similar to [[Cadillac (automobile)|Cadillac]]'s [[Cadillac Eldorado|Eldorado Biarritz]] (DM&nbsp;23,400/$&nbsp;8,091<ref>Mike Covello: ''Standard Catalog of Imported Cars 1946-2002''. Krause Publication, Iola 2002, p. 531; price for 220SEb.</ref>). Nearly every interior surface of the coupé and cabriolet was covered in leather, and matching leather luggage was available. However, power steering, windows, air conditioning, and an [[automatic transmission]] were not available. In the S-Class lineage, the W128 was succeeded by the "Fintail" series starting with the [[Mercedes-Benz W111|W111]] line.
+
+== Models ==
+===Production===
+[[Image:220SE cabriolet.jpg|thumb|left|1960 220SE Cabriolet]]
+{| border="0" cellpadding="2"
+!Body!!Units
+|-
+|Sedan||1,974
+|-
+|Coupé||830
+|-
+|Cabriolet||1,112
+|}
+{{clear}}
+===Later models===
+The 220SE model designation lived on for a few more years with the 1959 '''220SEb'''  (chassis W111) "fin-body" sedans and the 1961 220SEb coupé and cabriolet.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.mbzponton.org mbzponton.org]
+* [http://www.oldtimer-doctor.com oldtimer-doctor.com]
+
+{{Classic Mercedes-Benz vehicles}}
+{{Mercedes-Benz S-Class lineage}}
+
+[[Category:Mercedes-Benz platforms|W128]]
+
+[[sv:Mercedes-Benz W180]]

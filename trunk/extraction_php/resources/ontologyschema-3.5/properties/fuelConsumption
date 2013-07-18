@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = fuel consumption
+| rdfs:domain = AutomobileEngine
+| rdfs:range = xsd:string
+| rdf:type = owl:FunctionalProperty
+}}

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Legislature
+| rdfs:subClassOf = Organisation
+}}

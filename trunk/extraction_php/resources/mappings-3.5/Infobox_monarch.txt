@@ -1,0 +1,33 @@
+{{TemplateMapping
+| mapToClass = Monarch
+| mappings = 
+	{{PropertyMapping | templateProperty = heir | ontologyProperty = heir }}
+	{{PropertyMapping | templateProperty = royal anthem | ontologyProperty = royalAnthem }}
+	{{PropertyMapping | templateProperty = date of burial | ontologyProperty = dateOfBurial }}
+	{{PropertyMapping | templateProperty = place of burial | ontologyProperty = placeOfBurial }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = title }}
+	{{PropertyMapping | templateProperty = reign | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = reign | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = othertitles | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = full name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = predecessor | ontologyProperty = predecessor }}
+	{{PropertyMapping | templateProperty = successor | ontologyProperty = successor }}
+	{{PropertyMapping | templateProperty = spouse 1 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 2 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 3 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 4 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 5 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 6 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 7 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 8 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 9 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = spouse 10 | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = offspring | ontologyProperty = child }}
+	{{PropertyMapping | templateProperty = father | ontologyProperty = father }}
+	{{PropertyMapping | templateProperty = mother | ontologyProperty = mother }}
+	{{PropertyMapping | templateProperty = date of birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = place of birth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = date of death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = place of death | ontologyProperty = deathPlace }}
+}}

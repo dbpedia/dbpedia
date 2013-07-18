@@ -1,0 +1,1187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="print.css" type="text/css" media="print">
+<meta content="AutoComplete,com.hillelcoren.components.AutoComplete,BACKSPACE_FOCUS,BACKSPACE_REMOVE,LAYOUT_HORIZONTAL,LAYOUT_VERTICAL,MATCH_ANY_PART,MATCH_BEGINNING,MATCH_WORD,SEARCH_CHANGE,STYLE_FACEBOOK,STYLE_MAC_MAIL,STYLE_UNDERLINE,_browserClass,_listBuilderClass,_selectedItemId,browserClass,dataProvider,isMultiSelect,labelFunction,listData,searchText,selectedItem,selectedItems,text,useListBuilder,allowDuplicates,areNewItemsEditable,backspaceAction,browseLabel,browserFields,data,dropDownItemRenderer,dropDownLabelFunction,enableRemoveIcon,filterFunction,isBrowseable,isEqualFunction,isOrderable,isStrict,keyField,labelField,matchType,multiSelectLayout,percentWidth,prompt,removeLabel,selectedItemId,style,width,commitProperties,defaultDropDownLabelFunction,getNextItem,isItemSelected,isSettingValue,search,setFocus" name="keywords">
+<title>com.hillelcoren.components.AutoComplete</title>
+</head>
+<body>
+<script type="text/javascript" language="javascript" src="../../../asdoc.js"></script><script type="text/javascript" language="javascript" src="../../../cookies.js"></script><script type="text/javascript" language="javascript">
+<!--
+				asdocTitle = 'AutoComplete - API Documentation';
+				var baseRef = '../../../';
+				window.onload = configPage;
+			--></script>
+<table style="display:none" id="titleTable" cellspacing="0" cellpadding="0" class="titleTable">
+<tr>
+<td align="left" class="titleTableTitle">API Documentation</td><td align="right" class="titleTableTopNav"><a onclick="loadClassListFrame('../../../all-classes.html')" href="../../../package-summary.html">All&nbsp;Packages</a>&nbsp;|&nbsp;<a onclick="loadClassListFrame('../../../all-classes.html')" href="../../../class-summary.html">All&nbsp;Classes</a>&nbsp;|&nbsp;<a onclick="loadClassListFrame('../../../index-list.html')" href="../../../all-index-A.html">Index</a>&nbsp;|&nbsp;<a href="../../../index.html?com/hillelcoren/components/AutoComplete.html&amp;com/hillelcoren/components/class-list.html" id="framesLink1">Frames</a><a onclick="parent.location=document.location" href="" style="display:none" id="noFramesLink1">No&nbsp;Frames</a></td><td rowspan="3" align="right" class="titleTableLogo"><img alt="Adobe Logo" title="Adobe Logo" class="logoImage" src="../../../images/logo.jpg"></td>
+</tr>
+<tr class="titleTableRow2">
+<td align="left" id="subTitle" class="titleTableSubTitle">Class&nbsp;AutoComplete</td><td align="right" id="subNav" class="titleTableSubNav"><a href="#propertySummary">Properties</a>&nbsp;| <a href="#methodSummary">Methods</a>&nbsp;| <a href="#eventSummary">Events</a>&nbsp;| <a href="#constantSummary">Constants</a></td>
+</tr>
+<tr class="titleTableRow3">
+<td colspan="2">&nbsp;</td>
+</tr>
+</table>
+<script type="text/javascript" language="javascript">
+<!--
+if (!isEclipse() || window.name != ECLIPSE_FRAME_NAME) {titleBar_setSubTitle("Class AutoComplete"); titleBar_setSubNav(true,true,false,false,true,false,true,false,false,false,false,false,false,false);}
+--></script>
+<div class="MainContent">
+<table cellspacing="0" cellpadding="0" class="classHeaderTable">
+<tr>
+<td class="classHeaderTableLabel">Package</td><td><a onclick="javascript:loadClassListFrame('class-list.html')" href="package-detail.html">com.hillelcoren.components</a></td>
+</tr>
+<tr>
+<td class="classHeaderTableLabel">Class</td><td class="classSignature">public class AutoComplete</td>
+</tr>
+<tr>
+<td class="classHeaderTableLabel">Inheritance</td><td class="inheritanceList">AutoComplete <img class="inheritArrow" alt="Inheritance" title="Inheritance" src="../../../images/inherit-arrow.gif"> mx.containers.Box</td>
+</tr>
+<tr>
+<td class="classHeaderTableLabel">Implements</td><td>mx.controls.listClasses.IDropInListItemRenderer, mx.managers.IFocusManagerComponent</td>
+</tr>
+</table>
+<p></p>
+<p></p>
+<br>
+<hr>
+</div>
+<a name="propertySummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Public Properties</div>
+<table id="summaryTableProperty" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Property</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#allowDuplicates">allowDuplicates</a> : Boolean<div class="summaryTableDescription">[write-only]
+    A flag that indicates whether or not you can select duplicate items when multiselect mode is enabled
+    </div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#areNewItemsEditable">areNewItemsEditable</a> : Boolean<div class="summaryTableDescription">[write-only]
+    A flag that indicates whether or not you can edit a new item which has been added.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#backspaceAction">backspaceAction</a> : String<div class="summaryTableDescription">[write-only]
+    The action to take when pressing backspace when the cursor is in front of a selected item.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#browseLabel">browseLabel</a> : String<div class="summaryTableDescription">[write-only]
+    The text value for the label the browse button.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#browserClass">browserClass</a> : Class<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#browserFields">browserFields</a> : Array<div class="summaryTableDescription">[write-only]
+    The fields/columns to display in the browse window.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#data">data</a> : Object<div class="summaryTableDescription">[write-only]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#dataProvider">dataProvider</a> : ArrayCollection<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#dropDownItemRenderer">dropDownItemRenderer</a> : IFactory<div class="summaryTableDescription">[write-only]
+    The custom item renderer for the dropdown displayed when searching.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#dropDownLabelFunction">dropDownLabelFunction</a> : Function<div class="summaryTableDescription">[write-only]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#enableRemoveIcon">enableRemoveIcon</a> : Boolean<div class="summaryTableDescription">[write-only]
+    A flag that indicates whether or not to display the remove icon in the selected items.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#filterFunction">filterFunction</a> : Function<div class="summaryTableDescription">[write-only]
+    A function that the view will use to eliminate items that do not match the function's criteria.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#isBrowseable">isBrowseable</a> : Boolean<div class="summaryTableDescription">[write-only]
+    A flag that indicates whether or not to display the browse button.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#isEqualFunction">isEqualFunction</a> : Function<div class="summaryTableDescription">[write-only]
+    A function which controls whether or not to automatically select the item if it's the
+    only match.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#isMultiSelect">isMultiSelect</a> : Boolean<div class="summaryTableDescription">
+    A flag that indicates whether or not you can select multiple values.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#isOrderable">isOrderable</a> : Boolean<div class="summaryTableDescription">[write-only]
+    A flag that indicates whether or not we display the ordering buttons and allow the 
+    items to be drag-and-drop reorderd.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#isStrict">isStrict</a> : Boolean<div class="summaryTableDescription">[write-only]
+    A flag that indicates whether or not you can select values which aren't in the dataProvider
+    </div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#keyField">keyField</a> : String<div class="summaryTableDescription">[write-only]
+    This field is used in conjuction with the selectedItems or selectedItemId property to 
+    determine if the item matches.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#labelField">labelField</a> : String<div class="summaryTableDescription">[write-only]
+    The name of the field in the data provider items to display as the label.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#labelFunction">labelFunction</a> : Function<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#listData">listData</a> : BaseListData<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#matchType">matchType</a> : String<div class="summaryTableDescription">[write-only]
+    Specifies the how to compare the item to the search string when checking for a match.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#multiSelectLayout">multiSelectLayout</a> : String<div class="summaryTableDescription">[write-only]
+    When isMultiSelect is set to true, this specifies whether to layout the selected
+    items horizontally (in a flow layout) or vertically (in a List).</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#percentWidth">percentWidth</a> : Number<div class="summaryTableDescription">[write-only]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#prompt">prompt</a> : String<div class="summaryTableDescription">[write-only]
+    The prompt to display before the component receives focus
+    </div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#removeLabel">removeLabel</a> : String<div class="summaryTableDescription">[write-only]
+    The text value for the label the remove button.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#searchText">searchText</a> : String<div class="summaryTableDescription">
+    Returns the search string.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#selectedItem">selectedItem</a> : *<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#selectedItemId">selectedItemId</a> : Number<div class="summaryTableDescription">[write-only]
+    The id of the initially selected item.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#selectedItems">selectedItems</a> : ArrayCollection<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#style">style</a> : String<div class="summaryTableDescription">[write-only]
+    Specifies which style to use when displaying the selected items.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#text">text</a> : String<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#useListBuilder">useListBuilder</a> : Boolean<div class="summaryTableDescription">
+    If this is set to true, when the user clicks the Browse button we'll  
+    display the List Builder (rather than a DataGrid or List).</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#width">width</a> : Number<div class="summaryTableDescription">[write-only]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<a name="protectedPropertySummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Protected Properties</div>
+<table id="summaryTableProtectedProperty" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Property</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#_browserClass">_browserClass</a> : Class<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#_listBuilderClass">_listBuilderClass</a> : Class<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#_selectedItemId">_selectedItemId</a> : Number<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<a name="methodSummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Public Methods</div>
+<table id="summaryTableMethod" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Method</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#defaultDropDownLabelFunction()">defaultDropDownLabelFunction</a>(item:Object):String</div>
+<div class="summaryTableDescription">
+    The default function used to determine the text to display in the dropdown when searching.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#getNextItem()">getNextItem</a>():*</div>
+<div class="summaryTableDescription">
+    Returns the next available (un-selected) item in the data provider
+    </div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#isItemSelected()">isItemSelected</a>(item:Object):Boolean</div>
+<div class="summaryTableDescription">
+    Checks if an item is selected
+    </div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#isSettingValue()">isSettingValue</a>():Boolean</div>
+<div class="summaryTableDescription">
+    Checks if the component is in the process of resolving the selecteItemId to it's respective object.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#search()">search</a>():void</div>
+<div class="summaryTableDescription">
+    This will cause the component to research the dataProvider and display the popUp if 
+    there are any matches.</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#setFocus()">setFocus</a>():void</div>
+<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<a name="protectedMethodSummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Protected Methods</div>
+<table id="summaryTableProtectedMethod" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Method</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#commitProperties()">commitProperties</a>():void</div>
+<div class="summaryTableDescription"></div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<a name="eventSummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Events</div>
+<table id="summaryTableEvent" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Event</th><th>Summary</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#event:change">change</a>
+</div>
+</td><td class="summaryTableDescription summaryTableCol">
+   Dispatched when an item is selected or de-selelcted
+   </td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol">
+<div class="summarySignature">
+<a class="signatureLink" href="#event:searchChange">searchChange</a>
+</div>
+</td><td class="summaryTableDescription summaryTableCol">
+   Dispatched when the text in the search field is changed
+   </td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<a name="constantSummary"></a>
+<div class="summarySection">
+<div class="summaryTableTitle">Public Constants</div>
+<table id="summaryTableConstant" class="summaryTable " cellpadding="3" cellspacing="0">
+<tr>
+<th>&nbsp;</th><th colspan="2">Constant</th><th class="summaryTableOwnerCol">Defined&nbsp;by</th>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#BACKSPACE_FOCUS">BACKSPACE_FOCUS</a> : String = "focus"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#BACKSPACE_REMOVE">BACKSPACE_REMOVE</a> : String = "remove"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#LAYOUT_HORIZONTAL">LAYOUT_HORIZONTAL</a> : String = "horizontal"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#LAYOUT_VERTICAL">LAYOUT_VERTICAL</a> : String = "vertical"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#MATCH_ANY_PART">MATCH_ANY_PART</a> : String = "anyPart"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#MATCH_BEGINNING">MATCH_BEGINNING</a> : String = "beginning"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#MATCH_WORD">MATCH_WORD</a> : String = "word"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#SEARCH_CHANGE">SEARCH_CHANGE</a> : String = "searchChange"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#STYLE_FACEBOOK">STYLE_FACEBOOK</a> : String = "facebook"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#STYLE_MAC_MAIL">STYLE_MAC_MAIL</a> : String = "macMail"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+<tr class="">
+<td class="summaryTablePaddingCol">&nbsp;</td><td class="summaryTableInheritanceCol">&nbsp;</td><td class="summaryTableSignatureCol"><a class="signatureLink" href="#STYLE_UNDERLINE">STYLE_UNDERLINE</a> : String = "underline"<div class="summaryTableDescription">[static]</div>
+</td><td class="summaryTableOwnerCol">AutoComplete</td>
+</tr>
+</table>
+</div>
+<script type="text/javascript" language="javascript">
+<!--
+showHideInherited();
+--></script>
+<div class="MainContent">
+<a name="propertyDetail"></a>
+<div class="detailSectionHeader">Property detail</div>
+<a name="allowDuplicates"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">allowDuplicates</td><td class="detailHeaderType">property</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>allowDuplicates:Boolean</code>&nbsp;&nbsp;[write-only]<p>
+    A flag that indicates whether or not you can select duplicate items when multiselect mode is enabled
+    </p><p>The default value is <code>false</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set allowDuplicates(value:Boolean):void</code>
+<br>
+</div>
+<a name="areNewItemsEditable"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">areNewItemsEditable</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>areNewItemsEditable:Boolean</code>&nbsp;&nbsp;[write-only]<p>
+    A flag that indicates whether or not you can edit a new item which has been added. This only affects
+    the component when isStrict is set to false
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set areNewItemsEditable(value:Boolean):void</code>
+<br>
+</div>
+<a name="backspaceAction"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">backspaceAction</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>backspaceAction:String</code>&nbsp;&nbsp;[write-only]<p>
+    The action to take when pressing backspace when the cursor is in front of a selected item.
+    </p><p>The default value is <code>focus</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set backspaceAction(value:String):void</code>
+<br>
+</div>
+<a name="browseLabel"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">browseLabel</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>browseLabel:String</code>&nbsp;&nbsp;[write-only]<p>
+    The text value for the label the browse button. 
+    </p><p>The default value is <code>Browse</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set browseLabel(value:String):void</code>
+<br>
+</div>
+<a name="_browserClass"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">_browserClass</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>protected var _browserClass:Class</code>
+</div>
+<a name="browserClass"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">browserClass</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>browserClass:Class</code>&nbsp;&nbsp;[read-write]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get browserClass():Class</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set browserClass(value:Class):void</code>
+<br>
+</div>
+<a name="browserFields"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">browserFields</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>browserFields:Array</code>&nbsp;&nbsp;[write-only]<p>
+    The fields/columns to display in the browse window. If listBuilder is enable
+    this property is ignored.
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set browserFields(value:Array):void</code>
+<br>
+</div>
+<a name="data"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">data</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>data:Object</code>&nbsp;&nbsp;[write-only]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set data(value:Object):void</code>
+<br>
+</div>
+<a name="dataProvider"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">dataProvider</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>dataProvider:ArrayCollection</code>&nbsp;&nbsp;[read-write]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get dataProvider():ArrayCollection</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set dataProvider(value:ArrayCollection):void</code>
+<br>
+</div>
+<a name="dropDownItemRenderer"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">dropDownItemRenderer</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>dropDownItemRenderer:IFactory</code>&nbsp;&nbsp;[write-only]<p>
+    The custom item renderer for the dropdown displayed when searching.
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set dropDownItemRenderer(value:IFactory):void</code>
+<br>
+</div>
+<a name="dropDownLabelFunction"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">dropDownLabelFunction</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>dropDownLabelFunction:Function</code>&nbsp;&nbsp;[write-only]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set dropDownLabelFunction(value:Function):void</code>
+<br>
+</div>
+<a name="enableRemoveIcon"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">enableRemoveIcon</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>enableRemoveIcon:Boolean</code>&nbsp;&nbsp;[write-only]<p>
+    A flag that indicates whether or not to display the remove icon in the selected items.
+    </p><p>The default value is <code>false</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set enableRemoveIcon(value:Boolean):void</code>
+<br>
+</div>
+<a name="filterFunction"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">filterFunction</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>filterFunction:Function</code>&nbsp;&nbsp;[write-only]<p>
+    A function that the view will use to eliminate items that do not match the function's criteria.
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set filterFunction(value:Function):void</code>
+<br>
+</div>
+<a name="isBrowseable"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">isBrowseable</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>isBrowseable:Boolean</code>&nbsp;&nbsp;[write-only]<p>
+    A flag that indicates whether or not to display the browse button.
+    Clicking the browse button will show either a DataGrid or a List (depending
+    on whether the dataProvider contains Objects or Strings). It useListBuilder
+    is enabled an alternate List Builder browser will be displayed
+    </p><p>The default value is <code>false</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set isBrowseable(value:Boolean):void</code>
+<br>
+</div>
+<a name="isEqualFunction"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">isEqualFunction</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>isEqualFunction:Function</code>&nbsp;&nbsp;[write-only]<p>
+    A function which controls whether or not to automatically select the item if it's the
+    only match. By default, it's just a case-insensitive string comparison. 
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set isEqualFunction(value:Function):void</code>
+<br>
+</div>
+<a name="isMultiSelect"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">isMultiSelect</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>isMultiSelect:Boolean</code>&nbsp;&nbsp;[read-write]<p>
+    A flag that indicates whether or not you can select multiple values.
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get isMultiSelect():Boolean</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set isMultiSelect(value:Boolean):void</code>
+<br>
+</div>
+<a name="isOrderable"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">isOrderable</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>isOrderable:Boolean</code>&nbsp;&nbsp;[write-only]<p>
+    A flag that indicates whether or not we display the ordering buttons and allow the 
+    items to be drag-and-drop reorderd. This is only enabled when isMultiSelect is
+    set to true and the multiSelectLayout property is set to AutoComplete.LAYOUT_VERTICAL
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set isOrderable(value:Boolean):void</code>
+<br>
+</div>
+<a name="isStrict"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">isStrict</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>isStrict:Boolean</code>&nbsp;&nbsp;[write-only]<p>
+    A flag that indicates whether or not you can select values which aren't in the dataProvider
+    </p><p>The default value is <code>true</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set isStrict(value:Boolean):void</code>
+<br>
+</div>
+<a name="keyField"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">keyField</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>keyField:String</code>&nbsp;&nbsp;[write-only]<p>
+    This field is used in conjuction with the selectedItems or selectedItemId property to 
+    determine if the item matches.
+    </p><p>The default value is <code>id</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set keyField(value:String):void</code>
+<br>
+</div>
+<a name="labelField"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">labelField</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>labelField:String</code>&nbsp;&nbsp;[write-only]<p>
+    The name of the field in the data provider items to display as the label.
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set labelField(value:String):void</code>
+<br>
+</div>
+<a name="labelFunction"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">labelFunction</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>labelFunction:Function</code>&nbsp;&nbsp;[read-write]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get labelFunction():Function</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set labelFunction(value:Function):void</code>
+<br>
+</div>
+<a name="_listBuilderClass"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">_listBuilderClass</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>protected var _listBuilderClass:Class</code>
+</div>
+<a name="listData"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">listData</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>listData:BaseListData</code>&nbsp;&nbsp;[read-write]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get listData():BaseListData</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set listData(value:BaseListData):void</code>
+<br>
+</div>
+<a name="matchType"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">matchType</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>matchType:String</code>&nbsp;&nbsp;[write-only]<p>
+    Specifies the how to compare the item to the search string when checking for a match.
+    Note, setting a value for the filterFunction property will override this property.
+    </p><p>The default value is <code>beginning</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set matchType(value:String):void</code>
+<br>
+</div>
+<a name="multiSelectLayout"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">multiSelectLayout</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>multiSelectLayout:String</code>&nbsp;&nbsp;[write-only]<p>
+    When isMultiSelect is set to true, this specifies whether to layout the selected
+    items horizontally (in a flow layout) or vertically (in a List).
+    </p><p>The default value is <code>horizontal</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set multiSelectLayout(value:String):void</code>
+<br>
+</div>
+<a name="percentWidth"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">percentWidth</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>percentWidth:Number</code>&nbsp;&nbsp;[write-only]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set percentWidth(value:Number):void</code>
+<br>
+</div>
+<a name="prompt"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">prompt</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>prompt:String</code>&nbsp;&nbsp;[write-only]<p>
+    The prompt to display before the component receives focus
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set prompt(value:String):void</code>
+<br>
+</div>
+<a name="removeLabel"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">removeLabel</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>removeLabel:String</code>&nbsp;&nbsp;[write-only]<p>
+    The text value for the label the remove button.
+    </p><p>The default value is <code>Remove</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set removeLabel(value:String):void</code>
+<br>
+</div>
+<a name="searchText"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">searchText</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>searchText:String</code>&nbsp;&nbsp;[read-write]<p>
+    Returns the search string.
+    </p><p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get searchText():String</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set searchText(value:String):void</code>
+<br>
+</div>
+<a name="selectedItem"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">selectedItem</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>selectedItem:*</code>&nbsp;&nbsp;[read-write]<p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get selectedItem():*</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set selectedItem(value:*):void</code>
+<br>
+</div>
+<a name="_selectedItemId"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">_selectedItemId</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>protected var _selectedItemId:Number</code>
+</div>
+<a name="selectedItemId"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">selectedItemId</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>selectedItemId:Number</code>&nbsp;&nbsp;[write-only]<p>
+    The id of the initially selected item.
+    </p><span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set selectedItemId(value:Number):void</code>
+<br>
+</div>
+<a name="selectedItems"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">selectedItems</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>selectedItems:ArrayCollection</code>&nbsp;&nbsp;[read-write]<p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get selectedItems():ArrayCollection</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set selectedItems(value:ArrayCollection):void</code>
+<br>
+</div>
+<a name="style"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">style</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>style:String</code>&nbsp;&nbsp;[write-only]<p>
+    Specifies which style to use when displaying the selected items.
+    </p><p>The default value is <code>macMail</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set style(value:String):void</code>
+<br>
+</div>
+<a name="text"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">text</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>text:String</code>&nbsp;&nbsp;[read-write]<p>This property can be used as the source for data binding.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get text():String</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set text(value:String):void</code>
+<br>
+</div>
+<a name="useListBuilder"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">useListBuilder</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>useListBuilder:Boolean</code>&nbsp;&nbsp;[read-write]<p>
+    If this is set to true, when the user clicks the Browse button we'll  
+    display the List Builder (rather than a DataGrid or List). </p><p> 
+    The List Builder contains two lists next to each other. The user can add/remove 
+    items by selecting them and clicking the move left/move right buttons or by
+    drag and dropping the items betweent the lists
+    <p>The default value is <code>false</code>.</p>
+<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function get useListBuilder():Boolean</code>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set useListBuilder(value:Boolean):void</code>
+<br>
+</div>
+<a name="width"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">width</td><td class="detailHeaderType">property</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>width:Number</code>&nbsp;&nbsp;[write-only]<span class="label">Implementation</span>
+<br>
+<code>&nbsp;&nbsp;&nbsp;&nbsp;public function set width(value:Number):void</code>
+<br>
+</div>
+<a name="methodDetail"></a>
+<div class="detailSectionHeader">Method detail</div>
+<a name="commitProperties()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">commitProperties</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">method</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>protected override function commitProperties():void</code>
+</div>
+<a name="defaultDropDownLabelFunction()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">defaultDropDownLabelFunction</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">method</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public function defaultDropDownLabelFunction(item:Object):String</code><p>
+    The default function used to determine the text to display in the dropdown when searching.
+    It will try to find the part of the item which matched the search string and highlight
+    it by making bold and underlined
+    </p><span class="label">Parameters</span>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20px"></td><td><code><span class="label">item</span>:Object</code></td>
+</tr>
+</table>
+<p></p>
+<span class="label">Returns</span>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20"></td><td><code>String</code></td>
+</tr>
+</table>
+</div>
+<a name="getNextItem()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">getNextItem</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">method</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public function getNextItem():*</code><p>
+    Returns the next available (un-selected) item in the data provider
+    </p><p></p>
+<span class="label">Returns</span>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20"></td><td><code>*</code></td>
+</tr>
+</table>
+</div>
+<a name="isItemSelected()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">isItemSelected</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">method</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public function isItemSelected(item:Object):Boolean</code><p>
+    Checks if an item is selected
+    </p><span class="label">Parameters</span>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20px"></td><td><code><span class="label">item</span>:Object</code></td>
+</tr>
+</table>
+<p></p>
+<span class="label">Returns</span>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20"></td><td><code>Boolean</code></td>
+</tr>
+</table>
+</div>
+<a name="isSettingValue()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">isSettingValue</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">method</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public function isSettingValue():Boolean</code><p>
+    Checks if the component is in the process of resolving the selecteItemId to it's respective object.
+    </p><p></p>
+<span class="label">Returns</span>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20"></td><td><code>Boolean</code></td>
+</tr>
+</table>
+</div>
+<a name="search()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">search</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">method</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public function search():void</code><p>
+    This will cause the component to research the dataProvider and display the popUp if 
+    there are any matches. This is useful when using a dynamic dataProvider. Simply call
+    this function once the data has been returned from the server
+    </p></div>
+<a name="setFocus()"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">setFocus</td><td class="detailHeaderParens">()</td><td class="detailHeaderType">method</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public override function setFocus():void</code>
+</div>
+<div class="detailSectionHeader">Event detail</div>
+<a name="event:change"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">change</td><td class="detailHeaderType">event&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody"><p>
+   Dispatched when an item is selected or de-selelcted
+   </p></div>
+<a name="event:searchChange"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">searchChange</td><td class="detailHeaderType">event&nbsp;</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody"><p>
+   Dispatched when the text in the search field is changed
+   </p></div>
+<a name="constantDetail"></a>
+<div class="detailSectionHeader">Constant detail</div>
+<a name="BACKSPACE_FOCUS"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">BACKSPACE_FOCUS</td><td class="detailHeaderType">constant</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const BACKSPACE_FOCUS:String = "focus"</code>
+</div>
+<a name="BACKSPACE_REMOVE"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">BACKSPACE_REMOVE</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const BACKSPACE_REMOVE:String = "remove"</code>
+</div>
+<a name="LAYOUT_HORIZONTAL"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">LAYOUT_HORIZONTAL</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const LAYOUT_HORIZONTAL:String = "horizontal"</code>
+</div>
+<a name="LAYOUT_VERTICAL"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">LAYOUT_VERTICAL</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const LAYOUT_VERTICAL:String = "vertical"</code>
+</div>
+<a name="MATCH_ANY_PART"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">MATCH_ANY_PART</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const MATCH_ANY_PART:String = "anyPart"</code>
+</div>
+<a name="MATCH_BEGINNING"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">MATCH_BEGINNING</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const MATCH_BEGINNING:String = "beginning"</code>
+</div>
+<a name="MATCH_WORD"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">MATCH_WORD</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const MATCH_WORD:String = "word"</code>
+</div>
+<a name="SEARCH_CHANGE"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">SEARCH_CHANGE</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const SEARCH_CHANGE:String = "searchChange"</code>
+</div>
+<a name="STYLE_FACEBOOK"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">STYLE_FACEBOOK</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const STYLE_FACEBOOK:String = "facebook"</code>
+</div>
+<a name="STYLE_MAC_MAIL"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">STYLE_MAC_MAIL</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const STYLE_MAC_MAIL:String = "macMail"</code>
+</div>
+<a name="STYLE_UNDERLINE"></a>
+<table cellspacing="0" cellpadding="0" class="detailHeader">
+<tr>
+<td class="detailHeaderName">STYLE_UNDERLINE</td><td class="detailHeaderType">constant</td><td class="detailHeaderRule">&nbsp;</td>
+</tr>
+</table>
+<div class="detailBody">
+<code>public static const STYLE_UNDERLINE:String = "underline"</code>
+</div>
+<br>
+<br>
+<hr>
+<br>
+<p></p>
+<center class="copyright"> 
+</center>
+</div>
+</body>
+</html>
+<!-- -->

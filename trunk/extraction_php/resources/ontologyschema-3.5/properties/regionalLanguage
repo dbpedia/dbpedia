@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = regional language
+| rdfs:range = Language
+}}

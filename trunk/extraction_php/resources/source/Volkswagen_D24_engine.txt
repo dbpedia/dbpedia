@@ -1,0 +1,79 @@
+{{single source|date=July 2009}}
+{{Infobox Automobile engine
+|name          = Volkswagen D24
+|image         = 
+|manufacturer  = [[Volkswagen Group]]
+|aka           = 
+|production    = 
+|predecessor   = 
+|successor     = [[Volkswagen D24T engine]]
+|configuration = [[straight-six engine|Inline 6 cylinder]] [[diesel engine]]
+|displacement  = {{convert|2383|cc|1|abbr=on|lk=on}}
+|bore          = {{convert|75.5|mm|3|abbr=on|lk=on}}
+|stroke        = {{convert|86.4|mm|3|abbr=on}}
+|length        = 
+|width         = 
+|height        = 
+|diameter      = 
+|weight        = 
+|block         = [[cast iron]], 7 [[main bearing]]s
+|head          = 
+|valvetrain    = [[timing belt|belt]]-driven [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC)
+|supercharger  = 
+|turbocharger  = 
+|fuelsystem    = Distributor [[injection pump]], [[indirect injection|indirect]] [[fuel injection]]
+|fueltype      = [[Diesel fuel|Diesel]]
+|oilsystem     = [[Wet sump]]
+|coolingsystem = [[water cooling|Water cooled]]
+|power         = {{convert|55|kW|PS bhp|0|abbr=on|lk=on}}
+|specpower     = 
+|torque        = {{convert|155|Nm|0|abbr=on|lk=on}}
+|compression   = 22:1
+|fuelcon       = 
+|specfuelcon   = 
+|oilcon        = 
+}}
+The '''Volkswagen D24 engine''' is a 2.4&nbsp;[[litre]] [[straight-six engine|inline-6 cylinder]], naturally aspirated, {{convert|55|kW|PS bhp|0|lk=on}}<ref name="ETKA">[[ETKA]]</ref> [[diesel engine]], formerly manufactured by [[Volkswagen Group]].  The engine is also available as '''[[Volkswagen D24T engine]]''' with a [[turbocharger]] taking power up to {{convert|78|kW|PS bhp|0|lk=on}}, and a turbo [[intercooler|intercooled]] version, '''[[Volkswagen D24TIC engine]]''', was also available further boosting power.
+
+==Technical description==
+All variants [[engine displacement|displace]] {{convert|2383|cc|1|lk=on}} from a [[bore (engine)|cylinder bore]] of 75.5&nbsp;[[milimetre]]s, and a [[stroke (engine)|piston stroke]] of 86.4&nbsp;milimetres.  Its [[straight-six engine|inline six]] [[cylinder block]] is constructed from [[gray iron|grey]] [[cast iron]], and has seven [[main bearing]]s to support the [[forge]]d [[steel]] [[crankshaft]].  The [[cylinder head]] contains two valves per [[cylinder (engine)|cylinder]] each with two [[concentric]] valve [[spring (device)|springs]], and shim-adjustable bucket [[tappet]]s.  The valves are opened via a [[timing belt|belt]]-driven [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC), and the combustion chamber [[compression ratio]] is 22:1.  Attached to the cylinder head is a [[casting|cast]] [[aluminium alloy]] intake manifold on one side, and two cast iron exhaust manifolds on the other (one manifold for three cylinders).  The fuel system uses a distributor-type [[injection pump]] which feeds mechanical [[indirect injection|indirect]] [[fuel injection]] into a remote whirl chamber.  The rated [[motive power|motive]] [[power (physics)|power]] output is {{convert|55|kW|PS bhp|0|lk=on}} at 4,000&nbsp;[[revolutions per minute]] (rpm); and it generates a [[torque]] turning force of {{convert|155|Nm|0|lk=on}} at 2,800&nbsp;rpm.
+
+==Applications==
+The D24 was fitted in the [[Volkswagen LT]] range from [[Volkswagen Commercial Vehicles]], from August 1978 to November 1982.<ref name="ETKA"/>
+
+The D24 was also found in a number of [[Volvo Cars]] 200, 700 and 900 series models, coupled to Volvo ZF, AW, M45, M46 ([[overdrive (mechanics)|overdrive]]) or M47 [[transmission (mechanics)|transmissions]], and in the [[Steyr-Daimler-Puch]] [[Pinzgauer High Mobility All-Terrain Vehicle|Pinzgauer]] military vehicle.
+
+==Operational experience==
+{{section OR|date=July 2009}}
+In service, the unit proved to be a somewhat mixed bag; some owners reported excellent reliability and long engine lives, others complained of overheating, routine blowing of [[head gasket]]s, [[cylinder head]] cracks, premature wear of the bottom and top end, low [[oil pressure]] etc.{{Citation needed|date=July 2009}}
+
+A poorly maintained [[engine cooling|cooling system]] could also lead to overheating and, especially with the higher stressed turbo engines, head gasket problems.
+
+The [[camshaft]] [[timing belt|drive belt]] also required changing at the recommended intervals, which was a pretty involved job, not least because of poor access in the under-floor engined [[Volkswagen LT|LT vans]], and the necessity of special (and expensive) locking tools to carry out the replacement.
+
+The top end also featured adjustable [[tappet]]s using the bucket and shim arrangement, and required checking every {{convert|25000|mi|km}}, although later (1990–) models had hydraulic tappets.
+
+In many cases however, engines that have been looked after properly and treated with respect (this engine is particularly sensitive to being thrashed from cold, it is important to go gently until warmed up and to avoid short journeys which will exacerbate rapid engine wear) have been known to clock up 2–300,000 miles without incident.
+
+==See also==
+{{commons category|Volkswagen engines}}
+*[[list of Volkswagen Group diesel engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.VolkswagenAG.com Volkswagen Group corporate website]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Chemnitz.html Chemnitz (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Kassel.html Kassel (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Salzgitter.html Salzgitter (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Polkowice.html Polkowice (Poland) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/amerika/Sao_Carlos.html São Carlos (Brazil) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Asien/Shanghai.html Shanghai (China) - engine plant Mobility and Sustainability]
+
+{{Volkswagen Group brands}}
+{{Volkswagen Commercial Vehicles}}
+
+{{DEFAULTSORT:Volkswagen D24 Engine}}
+[[Category:Volkswagen engines|D24]]

@@ -1,0 +1,10 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Lighthouse
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = yearbuilt | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Place/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = Length }}
+}}

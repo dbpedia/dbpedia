@@ -1,0 +1,12 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Convention
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Event/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = venue | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = first | ontologyProperty = Event/startDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last | ontologyProperty = Event/endDate }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

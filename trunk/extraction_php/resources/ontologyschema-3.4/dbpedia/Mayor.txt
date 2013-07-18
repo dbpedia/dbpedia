@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Mayor
+|rdfs:subClassOf = Politician
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = first game
+| rdfs:domain = SoccerClub
+| rdfs:range = xsd:string
+}}

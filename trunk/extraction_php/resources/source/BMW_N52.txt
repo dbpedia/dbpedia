@@ -1,0 +1,112 @@
+{{Infobox Automobile
+|image=[[Image:JK N52B30 2.jpg|250px|]]<br><small>N52B30 from an E87 130i M Sport (195 kW/315 Nm)</small>
+|name=BMW N52 engine
+|manufacturer=[[BMW|BMW, Bayerische Motoren Werke AG]]
+|production=2004&ndash;
+|predecessor=[[BMW M54]]
+|successor=[[BMW N53]](in European markets)
+|class=[[Straight-6]]
+|engine=
+}}
+The '''[[BMW]] N52''' is BMW's latest [[straight-6]] engine, which debuted in 2004 on the [[BMW E63/E64|BMW E63 630Ci]]. Its crankcase is made entirely of magnesium and aluminum, a first in the world of engine construction.  BMW used [[Alusil]] aluminum cylinder sleeves, which offer high heat conductivity, and cast them into a lightweight magnesium block
+<ref>[http://www.worldcarfans.com/news.cfm/newsID/2030721.001/page/1/country/gcf/lang/eng/bmw/bmw-pushes-lightweight-technology-with-magnesium  BMW Pushes Lightweight Technology, World Car Fans] May 2005.</ref>, creating one of the lightest production engines of its size class in the world at 161&nbsp;kg (354 lb).
+
+It includes BMW's second generation [[Valvetronic]] system and Double-[[VANOS]] for fuel-efficiency (12% fuel savings over the previous generation [[BMW M54]] engine - and increases performance). Producing 63&nbsp;kW (85.5 hp) per liter of displacement, it has the lowest weight per horsepower of any six cylinder engine (1.24 hp per kilogram with the latest version). It is the world’s lightest six-cylinder engine.
+
+It was awarded as one of [[Ward's 10 Best Engines|Ward's 10 Best Engines of the Year]] in 2006 and 2007. Technologically it is even more advanced than the new [[BMW N54|N54B30]] bi-turbo, which is based on an older [[BMW M54#M54B30|M54B30]] design and lacks several improvements that BMW has made for this engine.
+
+All BMWs are available with this engine in at least one version.
+
+The N52 is BMW's 12th generation production [[straight-6]] engine.
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=2|[[#N52B25|N52B25]]||rowspan=2|2.5&nbsp;L (2497&nbsp;cc/152&nbsp;in³)||130&nbsp;kW (174&nbsp;hp) @ 5800||230&nbsp;N·m (170&nbsp;ft·lbf) @ 3500-5000||7000 rpm||2005
+|-
+|160&nbsp;kW (218&nbsp;hp) @ 6500||250&nbsp;N·m (184&nbsp;ft·lbf) @ 2750-4250||7000 rpm||2005
+|-
+|rowspan=4|[[#N52B30|N52B30]]||rowspan=4|3.0&nbsp;L (2996&nbsp;cc/182&nbsp;in³)||160&nbsp;kW (218&nbsp;hp) @ 6100||270&nbsp;N·m (199&nbsp;ft·lbf) @ 2400-4200||7000 rpm||2007
+|-
+|190&nbsp;kW (258&nbsp;hp) @ 6600||300&nbsp;N·m (221&nbsp;ft·lbf) @ 2500-4000||7000 rpm||2004
+|-
+|195&nbsp;kW (265&nbsp;hp) @ 6600||315&nbsp;N·m (232&nbsp;ft·lbf) @ 2750-4250||7000 rpm||2005
+|-
+|200&nbsp;kW (272&nbsp;hp) @ 6650||315&nbsp;N·m (232&nbsp;ft·lbf) @ 2750-4250||7000 rpm||2006
+|}
+
+==N52B25==
+[[Image:JK N52B25.jpg|thumb|N52B25 from a [[BMW E90#Coupé|BMW 325 Coupé]]]]
+The '''N52B25''' comes in two versions, both displacing 2.5&nbsp;L (2497&nbsp;cc/152&nbsp;in³).  The first produces 130&nbsp;kW (174&nbsp;hp) at 5800 rpm and 230&nbsp;N·m (170&nbsp;ft·lbf) at 3500-5000 rpm while the more powerful version is rated at 160&nbsp;kW (218&nbsp;hp) at 6500 rpm and 250&nbsp;N·m (184&nbsp;ft·lbf) at 2750-4250 rpm.
+
+Applications:
+* 130&nbsp;kW (177PS/174&nbsp;hp) and 230&nbsp;N·m (170&nbsp;ft·lbf)
+** [[BMW E60|E60/E61]] [[BMW 5 Series|523i]] (Not in the US market) Sedan and Touring
+** [[BMW E90|E90]] [[BMW 3 Series|323i]] (Not in the US market) Sedan
+* 160&nbsp;kW (218PS/215&nbsp;hp) and 250&nbsp;N·m (184&nbsp;ft·lbf)
+** [[BMW X3|E83]] [[BMW X3|X3 2.5si]] (Not in the US market) Sports Activity Vehicle
+** [[BMW Z4|E85]] [[BMW Z4|Z4 2.5si]] (Not in the US market) Roadster
+** [[BMW Z4|E89]] [[BMW Z4|Z4 sDrive23i]] (150&nbsp;kW/204 hp) (EUR)
+** [[BMW E60|E60/E61]] [[BMW 5 Series|525i]] Sedan and Touring (US)
+* 160&nbsp;kW (218PS/215&nbsp;hp) and 270&nbsp;N·m (199&nbsp;ft·lbf)
+** [[BMW E90|E90/E91/E92/E93]] 325i (2006-2007 model years)
+
+==N52B30==
+[[Image:JK Z4 N52B30.jpg|thumb|N52B30 from a [[BMW Z4|BMW Z4 3.0si]]]]
+The '''N52B30''' is available in three versions, all displacing 3.0&nbsp;L (2996&nbsp;cc/182&nbsp;in³).  However, each version produces variable maximum output depending upon the application.  With a common engine displacement, the output changes result from the omission of the variable resonance system, dual plenum intake runner system, and the variable back pressure muffler:  190&nbsp;kW (255&nbsp;hp) at 6600 and 300&nbsp;N·m (221&nbsp;ft·lbf) at 2500-4000 rpm is the first and most produced version, while the second one is more powerful at 195&nbsp;kW (265&nbsp;hp) at 6600 and 315&nbsp;N·m (232&nbsp;ft·lbf) at 2750-4250 rpm. The third version is just starting to replace the first 190&nbsp;kW versions on the E90/E60 in Late 2006 and has first been released on the new E92 330i Coupé. It will produce 200&nbsp;kW (272&nbsp;hp) at 6650 and 315&nbsp;N·m (232&nbsp;ft·lbf) at 2750-4250 rpm.
+
+Applications in the '''European''' Market (taken from BMW website 07/10/07):
+* 200&nbsp;kW (272&nbsp;PS,268&nbsp;hp) @ 6700 rpm and 320&nbsp;N•m @ 2750 rpm
+** [[BMW E90|E90/E92/E93]] [[BMW 3 Series|330i/330Ci]] Sedan, Coupé and  Hardtop Convertible
+** [[BMW E60|E60/E61]] [[BMW 5 Series|530i]] Sedan and Touring
+NB: All X30i models will soon receive this version of the N52B30 engine.
+* 200&nbsp;kW (272&nbsp;PS,268&nbsp;hp) @ 6650 rpm and 315&nbsp;N•m @ 2750 rpm
+** [[BMW X3|E83]] [[BMW X3|X3 3.0si]] Sports Activity Vehicle
+** [[BMW X5|E70]] [[BMW X5|X5 3.0si]] Sports Activity Vehicle
+* 195&nbsp;kW (265&nbsp;PS,262&nbsp;hp) @ 6650 rpm and 315&nbsp;N•m @ 2750 rpm
+** [[BMW Z4|E85/E86]] [[BMW Z4|Z4 3.0si]] Roadster and Coupé
+** [[BMW E87|E87]] [[BMW 1 Series|130i]] Hatchback
+* 190&nbsp;kW (258&nbsp;PS,255&nbsp;hp) @ 6600 rpm and 300&nbsp;N•m @ 2500 rpm
+** [[BMW Z4|E89]] [[BMW Z4|Z4 sDrive30i]] (190&nbsp;kW/258 PS) (EUR)
+** [[BMW E63|E63/E64]] [[BMW 6 Series|630i]] Sedan
+** [[BMW E65|E65/E66]] [[BMW 7 Series|730i]] Sedan
+* 160&nbsp;kW (218&nbsp;PS,215&nbsp;hp) @ 6200 rpm and 270&nbsp;N•m @ 2500 rpm
+** [[BMW E82|E82/E88]] [[BMW 1 Series|125i]] Coupé and Cabriolet
+** [[BMW E90|E90/E91/E92/E93]] [[BMW 3 Series|325i]] (2008 model year onwards)
+
+Applications in the '''US''' Market (taken from BMWUSA website 07/10/07):
+* 260&nbsp;hp (195&nbsp;kW) @ 6600 rpm and  225&nbsp;ft·lbf (305&nbsp;N·m) @ 2750 rpm
+** [[BMW X3|E83]] [[BMW X3|X3 3.0si]] Sports Activity Vehicle
+** [[BMW X5|E70]] [[BMW X5|X5 3.0si]] Sports Activity Vehicle
+* 255&nbsp;hp (190&nbsp;kW) @ 6600 rpm and  220&nbsp;ft·lbf (300&nbsp;N·m) @ 2750 rpm
+** [[BMW E90|E90]] [[BMW 3 Series|330i]] Sedan
+** [[BMW Z4|E85/E86]] [[BMW Z4|Z4 3.0si]] Roadster and Coupé
+* 230&nbsp;hp (172&nbsp;kW) @ 6500 rpm and  200&nbsp;ft·lbf (271&nbsp;N·m) @ 2750 rpm
+** [[BMW E90|E90/E92/E93]] [[BMW 3 Series|328i/328xi]] Sedan, Coupé, (inc 4WD versions) and the Hardtop Convertible
+** [[BMW E60|E60/E61]] [[BMW 5 Series|528i/528xi]] Sedan and Touring (inc 4WD versions)
+** [[BMW 1 series#Coup.C3.A9|E82]] [[BMW 1 series#Coup.C3.A9|128i]] Coupé
+* 215&nbsp;hp (160&nbsp;kW) @ 6250 rpm and  185&nbsp;ft·lbf (250&nbsp;N·m) @ 2750 rpm
+** [[BMW E90|E90/E91/E92/E93]] [[BMW 3 Series|325i/325xi]] Sedan, Touring, Coupé and Convertible
+** [[BMW Z4|E85]] [[BMW Z4|Z4 3.0i]] Roadster
+
+==See also==
+* [[BMW engines]]
+* [[BMW|BMW vehicles]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.worldcarfans.com/2040718.001/bmw's-new-six-cylinder-engines-in-depth WorldCarFans.com - BMW's New Six-Cylinder Engines - In Depth]
+
+{{DEFAULTSORT:Bmw N52}}
+[[Category:BMW engines|N52]]
+
+[[de:BMW N52]]
+[[es:BMW N52]]
+[[it:BMW N52]]
+[[no:BMW N52]]
+[[pl:BMW N52]]

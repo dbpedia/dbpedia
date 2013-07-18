@@ -1,0 +1,99 @@
+{{Infobox Automobile
+|image=
+|name=Opel Admiral
+|manufacturer=[[Opel]]
+|production=1937&ndash;1939 <br> 1964&ndash;1977
+|predecessor=[[Opel Super Six]]
+|successor=[[Opel Senator]]
+|class=[[Full-size]] [[luxury car]]
+|body_style=4-door [[sedan (car)|sedan]] 4-door [[Cabriolet (automobile)|cabriolet]]
+|layout=[[FR layout]]
+|related=[[Opel Diplomat]]<br>[[Opel Kapitän]]
+|similar=
+}} 
+The '''Opel Admiral''' was a [[luxury vehicle|luxury car]] made by the [[Germany|German]] car manufacturer [[Opel]] from 1937 to 1939 and again from 1964 to 1977. 
+{{tocleft}}
+
+<br clear="right">
+==Admiral (1937–39)==
+{{Infobox Automobile generation
+| image         =[[Image:Opel Admiral6.JPG|250px]]
+| name          =Admiral
+| production    =1937&ndash;1939
+| engine        =3.6&nbsp;litre [[straight-6]]
+| transmission  =
+| length        = {{convert|5270|mm|in|1|abbr=on}}
+| width         = {{convert|1800|mm|in|1|abbr=on}}
+| height        = {{convert|1630|mm|in|1|abbr=on}}
+| weight        = {{convert|1605|kg|lb|0|abbr=on}}
+| wheelbase     = 
+| fuel economy  = 17.5&nbsp;l/100km
+}}
+[[Image:Opel Admiral AD 38 4-Door Cabriolet 1938.jpg|thumb|left|250px|Opel Admiral AD 38 4-Door Cabriolet 1938]]
+The first Admiral was introduced in 1937 as an attempt to challenge large luxury cars from [[Horch]], [[Mercedes-Benz]] and [[Maybach]]. It was available as a 4-door [[sedan (car)|saloon]] or [[Cabriolet (automobile)|cabriolet]]. The car was equipped with a 3.6&nbsp;litre [[straight 6]] with a top speed of {{convert|132|km/h|mph|0|abbr=on}}. The production of the Admiral was cancelled in 1939 when the Opel factory started producing [[World War II|war]] material.
+
+<br clear="right">
+==Admiral A (1964–68)==
+{{Infobox Automobile generation
+| image         = [[Image:Opel kapitaen admiral diplomat a sst.jpg|250px|Opel Kapitän/Admiral/Diplomat A]]
+| name          =Admiral A
+| production    =1964&ndash;1968
+| engine        =2.6&nbsp;litre [[straight-6]][[OHV]], 100 PS (99 hp)(1964-65) <br>2.8&nbsp;litre [[straight-6]][[CIH]], 125-140 PS (123-138 hp)(1965-68) <br>4.6&nbsp;litre [[V8]], 190 PS (187 hp)
+| transmission  =4-speed [[manual transmission|manual]] <br/> 2-speed Powerglide-[[automatic transmission|automatic]]
+| length        = {{convert|4948|mm|in|1|abbr=on}}
+| width         = {{convert|1902|mm|in|1|abbr=on}}
+| height        = {{convert|1630|mm|in|1|abbr=on}}
+| weight        = {{convert|1445|kg|lb|0|abbr=on}}
+| wheelbase     = {{convert|2845|mm|in|1|abbr=on}}
+| fuel economy  =
+}}
+In 1964, Opel introduced its KAD ([[Opel Kapitän|Kapitän]], Admiral, [[Opel Diplomat|Diplomat]]) models. The Admiral served as the middle model in this three-car range and was equipped with either a 2.6&nbsp;litre straight-6 [[OHV]] of 100 PS/99 hp providing a top speed of {{convert|158|km/h|mph|0|abbr=on}}, and, from September 1965, with a 2.8 liter-straight six [[CIH]] of 125 PS/123 hp, that made the car reach a top speed of {{convert|170|km/h|mph|0|abbr=on}}. The 2.6l straight-six was discontinued in 1965. Additionally, the Admiral could be equipped with the [[Chevrolet]]-sourced 4.6 l-V8 also used in the [[Opel Diplomat]]. In late 1967, a new two-barrel HL version of the 2.8 l six (140 PS/138 hp) was introduced. At the same time, all KAD models received rub strips on their flanks, a reworked [[ZF]] recirculating ball steering and a collapsible [[steering column]]. 
+
+From 1964 to 1968, Opel produced a total of 55,876 Admirals (out of a grand total of 89,277 KAD cars, making the Admiral by far the most popular of the three).
+
+<br clear="right">
+
+==Admiral B (1969–77)==
+{{Infobox Automobile generation
+| image         =[[Image:Opel admiral v sst.jpg|250px]]
+| name          =Admiral B
+| production    =1969&ndash;1977
+| engine        =2.8&nbsp;litre [[straight-6]], 129-165 PS (127-163 hp)
+| transmission  =4-speed [[manual transmission|manual]] <br/> 3-speed [[automatic transmission|automatic]]
+| length        = {{convert|4907|mm|in|1|abbr=on}}
+| width         = {{convert|1852|mm|in|1|abbr=on}}
+| height        = {{convert|1450|mm|in|1|abbr=on}}
+| weight        = {{convert|1475|kg|lb|1|abbr=on}}
+| wheelbase     = {{convert|2845|mm|in|1|abbr=on}}
+| fuel economy  =
+}}
+The Admiral B was introduced just in time for the [[Geneva Motor Show]] in March 1969<ref name=Autocar1969>{{cite journal| authorlink = Unsigned| title = New Models at Geneva: Big Opels get De Dion suspension| journal = [[Autocar]]| volume = vol 130 (nbr 3812)| pages = page 29 |date = date 6 March 1969}}</ref>  together with the new Kapitän and Diplomat. While the Kapitän was discontinued after May 1970, Admiral and Diplomat survived until 1977; they were replaced by the [[Opel Senator|Senator]] in 1978.
+
+Over the whole production run, the Admiral B was available exclusively with a 2.8 liter-inline six in either 1-bbl (132 PS/130 hp; Opel Admiral) or 2-bbl (145 PS/143 hp; Opel Admiral 2800 S) form or with fuel injection (165 PS/163 hp; Opel Admiral E). This was the first time fuel injection had been offered as an option in an Opel.<ref name=Autocar1969/>   All engines could be paired with a 4-speed manual or with Opel's own 3-speed automatic transmission. From January 1972 the manual was no longer available with the Admiral E, leaving the automatic as the only choice.  For the back axle, the big change for the Admiral B was the fitting of a De Dion tube based suspension.<ref name=Autocar1969/>
+
+
+For the model year 1975, the six was reworked and downrated to 129/140/160 PS in a move to reduce emissions.
+
+Opel built about 33,000 Admiral B models from 1969 to 1977.
+
+<br clear="right">
+==Sources==
+* Werner Oswald, ''Deutsche Autos 1945-1975''. Motorbuch Verlag, Stuttgart 1975. ISBN 3-87943-371-8.
+* [http://www.redline-hannover.de:8080/kad/kad_historie/ KAD Historie]
+
+{{reflist}}
+
+
+{{Opel}}
+
+[[Category:Opel vehicles|Admiral]]
+[[Category:Vehicles introduced in 1937]]
+
+[[de:Opel Admiral]]
+[[it:Opel Admiral]]
+[[lv:Opel Admiral]]
+[[nl:Opel Admiral]]
+[[no:Opel Admiral]]
+[[pl:Opel Admiral]]
+[[pt:Opel Admiral]]
+[[sv:Opel Admiral]]

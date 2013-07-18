@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = service module
+| rdfs:domain = SpaceMission
+| rdfs:range = xsd:string
+}}

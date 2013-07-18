@@ -1,0 +1,33 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = IceHockeyPlayer
+| mappings =
+	{{PropertyMapping | templateProperty = shoots | ontologyProperty = shoots }}
+	{{PropertyMapping | templateProperty = shot | ontologyProperty = shoots }}
+	{{PropertyMapping | templateProperty = catches | ontologyProperty = shoots }}
+	{{PropertyMapping | templateProperty = caught | ontologyProperty = shoots }}
+	{{PropertyMapping | templateProperty = league | ontologyProperty = league }}
+	{{PropertyMapping | templateProperty = prospect_team | ontologyProperty = prospectTeam }}
+	{{PropertyMapping | templateProperty = prospect_league | ontologyProperty = prospectLeague }}
+	{{PropertyMapping | templateProperty = draft | ontologyProperty = draft }}
+	{{PropertyMapping | templateProperty = draft_year | ontologyProperty = draftYear }}
+	{{PropertyMapping | templateProperty = draft_team | ontologyProperty = draftTeam }}
+	{{PropertyMapping | templateProperty = wha_draft | ontologyProperty = whaDraft }}
+	{{PropertyMapping | templateProperty = wha_draft_year | ontologyProperty = whaDraftYear }}
+	{{PropertyMapping | templateProperty = wha_draft_team | ontologyProperty = whaDraftTeam }}
+	{{PropertyMapping | templateProperty = halloffame | ontologyProperty = hallOfFame }}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = position }}
+	{{PropertyMapping | templateProperty = weight_lb | ontologyProperty = weight | unit = pound }}
+	{{PropertyMapping | templateProperty = team | ontologyProperty = team }}
+	{{PropertyMapping | templateProperty = former_teams | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = played_for | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = nationality_2 | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = career_start | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = career_end | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{CalculateMapping | operation = add | templateProperty1 = height_ft  | unit1 = foot  | templateProperty2 = height_in  | unit2 = inch  | ontologyProperty = height }}
+</textarea>

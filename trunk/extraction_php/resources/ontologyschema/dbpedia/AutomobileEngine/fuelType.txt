@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= fuel type    
+|rdfs:domain	= AutomobileEngine
+|rdfs:range	= fuelType
+}}

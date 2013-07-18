@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = developer
+|rdfs:domain = VideoGame
+|rdfs:range = Person
+}}

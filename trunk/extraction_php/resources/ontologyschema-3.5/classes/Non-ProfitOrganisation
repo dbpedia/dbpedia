@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Non-Profit Organisation
+| rdfs:subClassOf = Organisation
+}}

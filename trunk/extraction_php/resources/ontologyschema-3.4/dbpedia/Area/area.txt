@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = area
+|rdfs:domain = Area
+|rdfs:range = Area
+}}

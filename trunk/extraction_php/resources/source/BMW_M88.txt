@@ -1,0 +1,38 @@
+[[Image:Bmw m88.jpg|thumb|250px|[[BMW M1]] engine]]
+The [[BMW]] '''M88/3''' is an [[Straight-6| in line 6 cylinder (I6)]] [[piston engine]].   It was based on the M88/1  that was used in the BMW M1's street version, with [[DOHC|double overhead cam]] and [[multivalve|four valves]] per cylinder. The M88/1 was in turn based on the M49 engine which was used in the BMW [[BMW E9|3.0CSi]]. The M88/3 was used in the early [[BMW M635CSi/"M6"]] and [[BMW M5]] ([[BMW E28|E28]]) and produced 286&nbsp;[[horsepower#PS|PS]] (210&nbsp;kW/282&nbsp;hp).
+
+BMW engineers used a 4-valve head and a single-row chain. The cylinder head was made in two parts. The lower part formed the combustion chambers and water jackets, and the upper half contained the camshaft bearings and the bores for the tappets.
+
+Kugelfischer fuel injection was used with individual throttle valves and the distinctive six inlet pipes. The M88 produced 277&nbsp;bhp in the version built from 1978 to 1981 for the BMW M1.
+
+For the Procar M1's, the M88 was tuned to 470 to 490&nbsp;bhp. The resulting M88/1 engine had new camshafts, bigger valves, reshaped ports, forged pistons, use of throttle slides (instead of butterfly valves), and improved exhaust.
+
+For Group 5 racing, the engine was pushed to between 850 and 900&nbsp;bhp by the addition of two turbochargers. This was the M88/2 powerplant.
+
+From 1985 to 1987 the M88 was used in the European-market 5 Series M5 (E28) and from 1983 to 1989 in the 6 Series M635CSi Coupe (E24). The engine was designated M88/3 and produced 286&nbsp;bhp.
+
+==S38==
+The '''S38''' was an updated M88/3 and produced in three versions :
+
+S38 B35 - US-spec [[BMW M5 (E28)]] and E24 [[BMW M6]] and late-production catalyst-equipped European market M635CSi (260 DIN HP).
+
+S38 B36 - all US-spec and '89-'92 European-spec [[BMW M5 (E34)]]
+
+S38 B38 - '92-'96 European-spec [[BMW M5 (E34)]]
+
+The S38 B35 was a revision of M88/3 with dual-row timing chain, reduced compression, catalyst-equipped and fitted with cast iron manifolds rather than equal length "bundle of snakes" headers.
+
+For the S38 B36 displacement was enlarged from 3453 to 3535&nbsp;cc. Thanks to the use of a [[Robert Bosch GmbH|Bosch]] Motronic 1.2 engine management, power grew to 315&nbsp;PS (232&nbsp;kW/310&nbsp;SAE&nbsp;hp) at 6900&nbsp;rpm.  a dual-stage intake plenum helped to improve  flexibility over the rev range.  All versions were catalyst-equipped.
+
+In 1992, with the introduction of Euro I emission legislation, BMW opted to enlarge the engine once more, to 3795&nbsp;cc, with power climbing to 340&nbsp;PS (250&nbsp;kW/335&nbsp;SAE&nbsp;hp) and [[torque]] going up to 400&nbsp;Nm (295&nbsp;ft·lbf).  Coil-on-plug ignition replaced the traditional distributor from the B35 & B36. The B38 engine also received a Motronic 1.3 engine management. This engine was used in the M5 until the E34 finished production in 1996.
+
+==See also==
+
+[[Category:BMW engines|M88]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+{{automotive-part-stub}}
+
+[[de:BMW M88]]
+[[it:BMW M88]]
+[[no:BMW M88]]

@@ -1,0 +1,11 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Muscle
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Latin | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = GraySubject | ontologyProperty = AnatomicalStructure/graySubject }}
+	{{ DBpediaPropertyMapping | templateProperty = GrayPage | ontologyProperty = AnatomicalStructure/grayPage }}
+	{{ DBpediaPropertyMapping | templateProperty = Nerve | ontologyProperty = AnatomicalStructure/nerve }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsPre | ontologyProperty = AnatomicalStructure/dorlandsPrefix }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsSuf | ontologyProperty = AnatomicalStructure/dorlandsSuffix }}
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = country with first satellite
+|rdfs:domain = YearInSpaceflight
+|rdfs:range = Country
+}}

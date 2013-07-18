@@ -1,0 +1,76 @@
+{{Infobox Automobile
+| image = [[Image:Opel Signum front 20070926.jpg|250px]]
+| name = Opel Signum
+| manufacturer = [[Opel]]
+| parent_company = [[General Motors]]
+| production = 2003—2007
+| class = [[Large family car]]
+| body_style = 5-door [[hatchback]]
+| platform = [[GM Epsilon platform]]
+| layout = [[FF layout]]
+| length = {{convert|4636|mm|in||abbr=on}}
+| wheelbase = {{convert|2830|mm|in||abbr=on}}
+| width = {{convert|1798|mm|in||abbr=on}}
+| height = {{convert|1466|mm|in||abbr=on}}
+| weight = {{convert|1490|kg|lb||abbr=on}}-{{convert|1715|kg|lb||abbr=on}}
+| predecessor = 
+| aka = Vauxhall Signum
+| related        = [[Fiat Croma]]<br>[[Cadillac BLS]]<br>[[Chevrolet Malibu]]<br>[[Opel Insignia]]<br>[[Opel Vectra]]<br>[[Saab 9-3]]<br>[[Saturn Aura]]
+}}
+
+The '''Opel Signum''' is a [[large family car]] manufactured by [[General Motors]] in [[Germany]] between 2003 and 2008. It was almost exclusively sold in Europe, in the [[United Kingdom]] under the '''Vauxhall Signum''' nameplate. The Signum is largely based on the Opel Vectra and uses the long-wheelbase version of the [[GM Epsilon platform]], also used by Vectra Caravan.
+
+The car is based on an unusual concept of a very large hatchback with a nearly vertical tailgate. Its dimensions place it between traditional [[large family car]]s and [[executive car]]s. In most markets, it is also priced accordingly (more expensive than Opel Vectra, but less than e.g. [[Audi A6]]). The Signum was intended to capture a whole new market segment.
+
+In North America, General Motors offers a vehicle based on a similar concept (yet targeting a different market) and platform, called [[Chevrolet Malibu#2004-date|Chevrolet Malibu Maxx]].
+
+From March 2008, the '''Vauxhall Signum''' was no longer listed on Vauxhall's current price list, implying that right-hand drive production was discontinued.
+
+Both the Signum and the Vectra were replaced at the end of 2008 by the [[Opel Insignia]] range <ref>{{cite web|url=http://www.upi.com/Top_News/2008/11/23/GMs_woes_spell_trouble_for_Opel/UPI-66211227487235/|title=United Press International: GM Woes Spell Trouble For Opel|accessdate=2008-12-06|publisher=UPI.com}}</ref>
+
+== Differences compared to Vectra ==
+[[Image:Opel Signum rear 20070926.jpg|thumb|left|Although the Signum shares many components with the Vectra, the rear tailgate is completely different.]]
+
+Compared to a standard five-door Vectra, the Signum has a wheelbase stretched by {{convert|13|cm|in|abbr=on}} and is {{convert|23|cm|in|abbr=on}} longer overall, keeping the same width and being slightly (by 6&nbsp;mm) taller. This provides for very ample rear legroom. Instead of a traditional three-passenger bench seat, the Signum has two separate seats in the rear, which can be adjusted in many ways, including sliding back and forth (just like the front seats) and reclining backrests. There is also a very narrow central section, which includes a folding armrest and can also serve as a third seat (the Signum is fitted with three rear headrests and safety belts). The seats can also be folded down individually to increase the cargo space - a system that General Motors calls '''Flexspace'''.
+
+The Signum shares many body panels (including the complete front part of the body) and interior elements (in particular the complete dashboard and front seats) with the Vectra, but the tailgate and rear fender design is unique to the Signum. The Signum was facelifted along with the Vectra lineup in 2005, getting a new front fascia design and slight changes elsewhere.
+
+All Signums are made alongside Vectras in Opel's [[Rüsselsheim]] plant in [[Germany]].
+
+== Engines ==
+{{commonscat}}
+
+The Signum is offered with a wide range engines it shares with the Vectra. These include:
+* 1.8&nbsp;L [[Straight-4|I4]] [[Multi-valve|16V]] [[DOHC]] [[GM Family 1 engine#Ecotec|Ecotec]]
+* 2.2&nbsp;L [[Straight-4|I4]] [[Multi-valve|16V]] [[DOHC]] [[GM Family II engine#DI|Ecotec Direct]]
+* 2.0&nbsp;L [[Straight-4|I4]] [[Multi-valve|16V]] [[DOHC]] [[Turbo]] [[GM Family II engine#Turbo|Ecotec]]
+* 3.2&nbsp;L [[V6]] [[Multi-valve|24V]] [[DOHC]] [[GM 54-Degree V6 engine#L81|L81]] ''(replaced by the 2.8 V6 turbo in 2005)''
+* 2.8&nbsp;L [[V6]] [[Turbo]] [[Multi-valve|24V]] [[DOHC]] [[GM High Feature engine#Turbo|HFV6]] ''(avail. since the 2005 facelift)''
+* 2.0&nbsp;L [[Straight-4|I4]] [[Multi-valve|16V]] [[DOHC]] [[diesel engine|DTI Ecotec]] ''(replaced by the base 1.9 CDTI in 2005)''
+* 2.2&nbsp;L [[Straight-4|I4]] [[Multi-valve|16V]] [[DOHC]] [[diesel engine|DTI Ecotec]] ''(replaced by the DOHC 1.9 CDTI in 2005)''
+* 1.9&nbsp;L [[Straight-4|I4]] 8V [[OHC]] [[Fiat Multijet engine#1.9|CDTI]] ''(the {{convert|74|kW|hp|0|abbr=on}} version of this engine is available since the 2005 facelift, superseding the 2.0 DTI)''
+* 1.9&nbsp;L [[Straight-4|I4]] 16V [[DOHC]] [[Fiat Multijet engine#1.9|CDTI]] ''(avail. since the 2005 facelift)
+* 3.0&nbsp;L [[V6]] [[Multi-valve|24V]] [[DOHC]] [[DMAX V6 engine|CDTI]]
+
+==References==
+{{Reflist}}<!--added above categories/infobox footers by script-assisted edit-->
+{{Opel timeline}}
+
+[[Category:Opel vehicles|Signum]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Euro NCAP large family cars]]
+[[Category:Hatchbacks]]
+[[Category:Vehicles introduced in 2003]]
+[[Category:2000s automobiles]]
+
+[[da:Opel Signum]]
+[[de:Opel Signum]]
+[[it:Opel Signum]]
+[[lv:Opel Signum]]
+[[nl:Opel Signum]]
+[[ja:オペル・シグナム]]
+[[pl:Opel Signum]]
+[[pt:Opel Signum]]
+[[fi:Opel Signum]]
+[[sv:Opel Signum]]
+[[tr:Opel Signum]]

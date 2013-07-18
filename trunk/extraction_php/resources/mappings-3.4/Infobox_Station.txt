@@ -1,0 +1,17 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Station
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = platform | ontologyProperty = Station/platform }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = address | ontologyProperty = Building/address }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = depth | ontologyProperty = Place/depth | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = opened | ontologyProperty = Building/openingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = closed | ontologyProperty = Building/closingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = rebuilt | ontologyProperty = Building/rebuildingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = owned | ontologyProperty = Building/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = owned | ontologyProperty = Building/owningOrganisation }}
+	{{ DBpediaPropertyMapping | templateProperty = passengers | ontologyProperty = Building/visitorsTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = pass_year | ontologyProperty = Building/visitorsPerYear }}
+}}

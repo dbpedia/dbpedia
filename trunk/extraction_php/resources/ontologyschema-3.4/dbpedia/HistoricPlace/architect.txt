@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = architect
+|rdfs:domain = HistoricPlace
+|rdfs:range = Person
+}}

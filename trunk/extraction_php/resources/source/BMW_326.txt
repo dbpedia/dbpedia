@@ -1,0 +1,65 @@
+{{refimprove|date=February 2008}}
+{{Infobox Automobile
+| image = [[Image:BMW 326 Limousine 1938.jpg|250px|BMW 326 sedan]]
+| name = BMW 326
+| manufacturer = [[BMW|Bayerische Motoren Werke AG (BMW)]]
+| production = 1936  – 1941, 15,936 built<br>ca. 1946, a few built 
+| predecessor = [[BMW 319]]
+| successor = [[Automobilwerk Eisenach|BMW/EMW 340]]<br>[[BMW 501]]
+| body_style = [[sedan (car)|4-door saloon]], [[Cabriolet (automobile)|2 & 4-door cabriolets]]
+| engine = 1971&nbsp;cc [[Overhead valve|OHV]] [[I-6|Straight 6]]
+| layout=[[FR layout]]
+| transmission = 4 speed manual<ref name="conceptcarz.com">{{Cite web|url=http://www.conceptcarz.com/vehicle/z5931/BMW_326.aspx|title=1936 BMW 326|accessdate=2008-02-10|work=conceptcarz.com}}</ref> 
+| length = {{convert|4600|mm|in||abbr=on}}
+| width = {{convert|1600|mm|in||abbr=on}}
+| height = {{convert|1540|mm|in||abbr=on}}
+| weight = {{convert|1100|kg|lb||abbr=on}} <br>(measurements approximate)
+| wheelbase =  {{convert|2870|mm|in||abbr=on}}
+| track = 
+|fuel_capacity= 
+| related = [[BMW 327]]<br>[[BMW 328]]
+| similar = 
+| designer = '''Engineers:''' [[Fritz Fiedler]], Alfred Böning<br /> '''Stylist:''' Peter Schimanowski
+}}
+
+The '''BMW 326''' is a relatively rapid medium sized sedan produced by [[BMW|the Bavarian firm]] between 1936 and 1941,<ref name="conceptcarz.com"/> and again briefly after 1945. It had an innovative design and sold well despite its relatively high price. It also had an unusually involved afterlife.
+
+==New thinking==
+Designed by [[Fritz Fiedler]], and first presented in February at the 1936 [[Auto Show|Berlin Motor Show]], the 326 was offered for sale from May of that year. Featuring a box chassis that could readily be adapted for derivative models, the 326 was the first BMW available with four doors. Also innovative were the [[torsion bar]] rear suspension and the hydraulic brake control. The car was offered as a four door sedan and as a two or (more unusually) four door cabriolet. The [[BMW 327]] sports [[coupé]] and [[BMW 328]] [[roadster]] were based on the 326. The streamlined form of the body contrasted with previous relatively upright BMWs: [[Automobile drag coefficients|drag]] was presumably reduced further by including a fixed cover over the spare wheel at the back.
+
+==The engine==
+The 1971 cc [[I-6|straight 6]] engine was a slightly bored out version of the [[BMW 319|319]]’s power plant. In the 326 application, it was fed by twin [[Solex]] [[carburettors]] to produce a claimed maximum output of {{convert|50|bhp|abbr=on}} at 3750 [[rpm]].<ref name="usautoparts.net">{{Cite web|url=http://www.usautoparts.net/bmw/models/vintage/326.htm|title= 326 Cabrio and Limousine |accessdate=2008-02-10|work=usautoparts.net}}</ref> The advertised [[Autobahn]] top speed was 115 km/h (72 mph).<ref name="conceptcarz.com"/>
+
+The four speed gear box was supported by a dry fly-wheel on the bottom ratios and synchromesh between the top two.
+
+==Commercial==
+The 326 was a success. By the time production was suspended in 1941, the Eisenach plant had produced 15,949.<ref name="motorbase.com">{{Cite web|url=http://www.motorbase.com/vehicle/by-id/-1063593309/|title=BMW 326|accessdate=2008-02-10|work=motorbase.com}}</ref>
+
+==Afterlives==
+[[Image:Emw340-2-bild2.jpg|thumb|right|The Eisenach derivative]]
+[[Image:Bristol 403 ca 1952 in Hertfordshire.jpg|thumb|right|The Bristol derivative]]
+In 1945, [[Eisenach]] was occupied by [[US]] forces. However, the wartime allies had already agreed that [[Thuringia]] would fall within the [[Soviet occupation zone]]. The plant that BMW had originally acquired in 1929 was not fully destroyed, and it was possible for returning survivors to assemble a small number of postwar 326s. A modernised version, badged initially as the [[BMW 340]], emerged around 1948. Despite the nomenclature, it was clear that BMW’s [[Automobilwerk Eisenach|Eisenach plant]] was no longer under the control of BMW: later BMW 340s, still based on the prewar 326, were badged as EMW 340s following a protracted dispute concerning title to the BMW name. It was, perhaps, a tribute to the 326's perceived excellence, together with the skills of the workers who had struggled to revive it, that the Eisenach plant was permitted to produce the BMW design till approximately 1955, long after the [[Auto Union]] assembly facilities at nearby [[Zwickau]] had been dismantled and removed to Russia as part of the war reparations package.
+
+The Russians were not alone in being impressed by the 326. Detailed plans of the sedan and coupé derivative models were also rescued by the British. Family connections, involving the founder of the [[Bristol Aeroplane Company]] and a [[Frazer-Nash]] director who had imported to England and adapted BMW designs in the 1930s, led to Bristol. A succession of [[Bristol Cars|Bristols cars]] introduced between 1947 and 1953 were unapologetic developments of the respected BMW design. Ten years after the [[Second World War|war's]] end, Bristol’s [[Bristol 403|403]] produced between 1953 and 1955 retained a BMW style front grill: under the skin the engine had been extensively upgraded, and the Bristol 403 now offered a claimed output of {{convert|100|bhp|abbr=on}}. The engine size, at 1971 cc, was unchanged, however.
+
+==References==
+{{commonscat|BMW 326}}
+{{reflist}}
+
+*{{De|BMW 326}}
+*{{Italian|BMW 326|[[2008-02-08]]}}
+
+{{BMW pre war}}
+
+[[Category:BMW vehicles|326]]
+[[Category:Executive cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1930s automobiles]]
+[[Category:1940s automobiles]]
+[[Category:Vehicles introduced in 1936]]
+[[Category:Compact executive cars]]
+[[Category:Convertibles]]
+[[Category:Sedans]]
+
+[[de:BMW 326]]
+[[it:BMW 326]]

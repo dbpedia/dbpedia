@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = maiden flight rocket
+| rdfs:domain = YearInSpaceflight
+| rdfs:range = Rocket
+}}

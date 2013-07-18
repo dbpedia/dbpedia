@@ -1,0 +1,59 @@
+{{unreliable sources|date=November 2009}}
+{{Infobox Automobile
+|name              = Mercedes-Benz V-Class
+|image             = [[File:Mercedes Vaneo front 20090921.jpg|250px]]
+|manufacturer      = [[Mercedes-Benz]]
+|parent_company    = [[Daimler AG]]
+|aka               = Vaneo, Viano
+|production        = 
+|production_start  = 
+|production_end    = 2006
+|model_years       = 
+|assembly          = 
+|predecessor       = 
+|successor         = [[Mercedes-Benz Sprinter]]<br>[[Mercedes-Benz Vario]]
+|class             = [[Light commercial vehicle]]
+|body_style        = [[Van]]
+|layout            = [[front-engine design|Front engine]], [[rear-wheel drive]]
+|platform          = [[Mercedes-Benz A-Class|W168 A-Class]]
+|engine            = 
+|transmission      = 
+|wheelbase         = 
+|length            = 
+|width             = 
+|height            = 
+|weight            = 
+|fuel_capacity     = 
+|related           = 
+|designer          = 
+|sp                = uk
+}}
+The '''Mercedes-Benz V-Class''' is a series of [[light commercial vehicle]] [[van]]s that formerly contained two models: the '''Vaneo''' and the '''Viano'''.  Production of the Vaneo ended in 2006, which was around the same time the similar in concept [[Mercedes-Benz B-Class|B-Class]] was launched.
+
+The Vaneo was based on the first generation [[Mercedes-Benz A-Class|A-Class]], while the Viano is based on the [[Mercedes-Benz Vito|Vito]], with which it shares a body.  The Vito and Viano differ primarily in interior fittings and both are assembled at the [[Vitoria, Spain|Vitoria]] factory in Northern [[Spain]].  
+
+The '''V-Class''' is sold in [[Europe]], [[Côte d'Ivoire]], [[Australia]], [[Chile]], [[India]] and [[Martinique]].
+
+The V-Class were prone to a number of faults.<ref>{{citeweb|title=Mercedes-Benz V-Class reviews|url=http://www.carsurvey.org/reviews/mercedes-benz/v-class/|work=CSDO Media Limited|publisher=CarSurvey.org|accessdate=13 November 2009}}</ref>  The air suspension, whilst providing a constant ride height, commonly failed such that many owners either abandoned the air suspension in favour of springs, or they fitted an after market compressor and valve system.<ref>{{cite web|title=V230 rear suspension... upgrade??|url=http://www.benzworld.org/forums/v-class/1424347-v230-rear-suspension-upgrade.html|format=[[internet forum]]|work=Mercedes-Benz Owners Community|publisher=BenzWorld.org|date=7 February 2009|accessdate=13 November 2009}}</ref>  The body work, being of commercial vehicle origins, was very prone to rusting, such that it is uncommon to see an example older than six years that does not have rust along the bottom of the doors.<ref>{{cite web|title=Mercedes = Rust|url=http://uk-mkivs.net/forums/t/182686.aspx|format=[[internet forum]]|work=UK-MkIVs.net|date=1 March 2008|accessdate=13 November 2009}}</ref>  Also, the diesel engine design was such that the glow plugs were hard, if not impossible to replace and the injectors leaked.<ref>{{cite web|title=V220 CDI removing plastic engine cover|url=http://www.benzworld.org/forums/v-class/1377782-v220-cdi-removing-plastic-engine-cover.html|format=[[internet forum]]|work=Mercedes-Benz Owners Community|publisher=BenzWorld.org|date=16 May 2008|accessdate=13 November 2009}}</ref>
+
+==Gallery==
+<gallery>
+File:Mercedes Vaneo Wiki.jpg | Vaneo with doors open.
+File:MBVito.JPG | Vito [[panel van]].
+</gallery>
+
+==References==
+{{reflist}}
+
+{{modern-auto-stub}}
+{{van-stub}}
+
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz vehicles|V-Class]]
+
+[[cs:Mercedes-Benz Vaneo]]
+[[de:Mercedes-Benz W638]]
+[[ja:メルセデス・ベンツ Vクラス]]
+[[pt:Mercedes-Benz Classe V]]
+[[sv:Mercedes-Benz V-klass]]

@@ -1,0 +1,10 @@
+{{TemplateMapping
+| mapToClass = Lighthouse
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = yearbuilt | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = Length }}
+}}

@@ -1,0 +1,17 @@
+{{TemplateMapping
+| mapToClass = Airline
+| mappings = 
+	{{PropertyMapping | templateProperty = hubs | ontologyProperty = hubAirport }}
+	{{PropertyMapping | templateProperty = secondary_hubs | ontologyProperty = hubAirport }}
+	{{PropertyMapping | templateProperty = focus_cities | ontologyProperty = targetAirport }}
+	{{PropertyMapping | templateProperty = lounge | ontologyProperty = lounge }}
+	{{PropertyMapping | templateProperty = alliance | ontologyProperty = alliance }}
+	{{PropertyMapping | templateProperty = destinations | ontologyProperty = destination }}
+	{{PropertyMapping | templateProperty = headquarters | ontologyProperty = headquarter }}
+	{{PropertyMapping | templateProperty = airline | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = formationDate }}
+	{{PropertyMapping | templateProperty = commenced | ontologyProperty = foundationPlace }}
+	{{PropertyMapping | templateProperty = ceased | ontologyProperty = foundationPerson }}
+	{{PropertyMapping | templateProperty = parent | ontologyProperty = parentCompany }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

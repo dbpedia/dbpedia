@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = structural system
+| rdfs:domain = Building
+}}

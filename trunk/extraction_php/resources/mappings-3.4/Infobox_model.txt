@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Model
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birthname | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = deathdate | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Person/weight | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = alias | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+}}

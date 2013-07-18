@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = lowest mountain
+| rdfs:range = Mountain
+}}

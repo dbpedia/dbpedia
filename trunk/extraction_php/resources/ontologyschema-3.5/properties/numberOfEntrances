@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = number of entrances
+| rdfs:domain = Cave
+| rdfs:range = xsd:integer
+}}

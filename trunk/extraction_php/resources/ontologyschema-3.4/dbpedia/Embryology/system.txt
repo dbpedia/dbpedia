@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = system
+|rdfs:domain = Embryology
+|rdfs:range = owl:Thing
+}}

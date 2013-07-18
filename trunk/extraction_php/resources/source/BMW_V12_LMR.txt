@@ -1,0 +1,82 @@
+{{Racing car |
+ Image = [[File:BMW V12 LMR.jpg|200px|A BMW V12 LMR, here used as an art car for artist Jenny Holzer]] |
+ Category = [[Le Mans Prototype]] |
+ Car_name = BMW V12 LMR |
+ Constructor = {{flagicon|Germany}} [[BMW Motorsport]]<br>{{flagicon|United Kingdom}} [[WilliamsF1]] |
+ Team = {{flagicon|Germany}} [[BMW Motorsport]]<br>{{flagicon|Germany}} [[Schnitzer Motorsport]] |
+ Designer = |
+ Drivers = {{flagicon|Finland}} [[J.J. Lehto]]<br>{{flagicon|Germany}} [[Jörg Müller]]<br>{{flagicon|United Kingdom}} [[Steve Soper]]<br>{{flagicon|Germany}} [[Joachim Winkelhock]]<br>{{flagicon|Italy}} [[Pierluigi Martini]]<br>{{flagicon|France}} [[Yannick Dalmas]]<br>{{flagicon|Denmark}} [[Tom Kristensen]]<br>{{flagicon|United States}} [[Bill Auberlen]]<br>{{flagicon|France}} [[Jean-Marc Gounon]] |
+ Test Drivers = |
+ Chassis = [[carbon fiber|carbon]] and [[aluminum]] honeycomb [[monocoque]] |
+ Front suspension = |
+ Rear suspension = |
+ Engine position = [[MR layout|mid]], [[longitudinal engine|longitudinally mounted]] |
+ Engine name = [[BMW M70|BMW S70]] |
+ Capacity = 6100cc |
+ Turbo/NA = [[Naturally-aspirated engine|Naturally-aspirated]] |
+ Configuration = [[V12 engine|V12]]. |
+ Gearbox name = X-Trac |
+ Gears = 6-speed |
+ Type = [[sequential manual gearbox|sequential manual]] |
+ Differential = |
+ Tyres = [[Michelin]] radial |
+ Fuel =  [[Petrobras]] |	
+ Debut = [[1999 12 Hours of Sebring]] |
+ Races         = 18 |
+ Cons_champ    = 0 |
+ Drivers_champ = 0 |
+ Wins          = 7 |
+ Poles         = 4 |
+ Fastest_laps  = 3 |
+ Last_season   = 2000 |
+}}
+{{Listen|filename=BMW V12 LMR (1999).ogg|title=BMW V12 LMR|description=BMW V12 LMR at Goodwood Festival of Speed 2009}}
+The '''BMW V12 LMR''' was a [[Le Mans Prototype]] built for [[sports car racing]] from 1999 to 2000.  The car was built through an alliance between [[BMW Motorsport]] and [[WilliamsF1]], and was the successor to the failed [[BMW V12 LM]] of 1998.  It is famous for being BMW's only overall victor of the [[24 Hours of Le Mans]].
+
+==Development==
+Immediately following the [[1998 24 Hours of Le Mans]] in which both [[BMW V12 LM]]s had failed to finish due to mechanical difficulties and a slow pace caused by aerodynamic inefficiencies, [[BMW Motorsport]] made the decision to radically revamp their sportscar project and quickly replace the V12 LM with a new car for 1999, the V12 LMR.
+
+The V12 LMR would retain only the basic structures of the V12 LM, while all of the car's bodywork was redone from scratch.  The cooling ducts, a major problem on the V12 LM, were moved to the top of the car instead of from the bottom where it had suffered from ambient track heat.  Among the more radical design features was the use of a small rollhoop located only behind the driver's seat, instead of a wide rollhoop which covered the entire cockpit.  This was done through using a loophole in the [[Automobile Club de l'Ouest|ACO]]'s [[Le Mans prototype]] regulations.  This allowed for less drag as well as less obstruction for the air to the rear wing.  A total of four new chassis were built by [[WilliamsF1]] in the United Kingdom.
+
+Internally, the V12 LMR retained the same [[BMW M70|BMW S70]] 6.1L V12 as the V12 LM.  Also retained was [[Schnitzer Motorsport]], who would run the team not only at the 24 Hours of Le Mans, but also in the new [[American Le Mans Series]] for 1999.
+
+==Racing History==
+===1999===
+Debuting at the [[12 Hours of Sebring]], [[BMW Motorsport]] and [[Schnitzer Motorsport]] entered a two car team.  The cars were immediately fast, taking the pole position in qualifying.  During the race, both cars ran towards the front for the first six hours.  Unfortunately, V12 LMR chassis #001 suffered a large accident, damaging the car to the point that it would never race again.  However, the second V12 LMR was successful in taking the overall win.  
+
+From Sebring, the team went back to Europe in order to prepare for the [[24 Hours of Le Mans]].  In early May, at the initial test session for Le Mans, three V12 LMRs appeared.  In the tradition of the famous [http://www.bmwworld.com/artcars/ BMW Art Cars], one of the three cars featured a paint job created by artist [[Jenny Holzer]].  Unlike at Sebring, the V12 LMRs would be facing closed cockpit prototypes which were theoretically faster over a single lap yet not as fuel efficient.  Even with this apparent set back, a V12 LMR was able to take the 4th fastest lap time over the practice session, behind two [[Toyota GT-One]]s and a [[Panoz]] prototype.
+
+For the race itself, only two cars appeared with the Art Car being dropped from the line-up.  In qualifying the two LMRs again showed their speed, taking 3rd and 6th places, again beaten only by the [[Toyota GT-One]]s.  During the race the V12 LMRs ran strong, outlasting a large number of closed cockpit competitors who suffered woes, including [[Mercedes-Benz]], [[Nissan]], [[Toyota]], and [[Audi]].  In the second half of the race, BMW's main competitors were a pair of open-cockpit [[Audi R8 Race Car|Audi R8R]]s and the lone remaining [[Toyota GT-One]].  Unfortunately, in the closing hours of the race the #17 BMW V12 LMR driven by JJ Lehto crashed heavily in the Porsche Curves section of the track, as a result of a stuck throttle. This left the #15 BMW LMR in the lead, less than a lap ahead of the 2nd place Toyota. The Toyota was catching the BMW in the final hour until it suffered a tire blowout at high speed, allowing the Schnitzer BMW team to solidify their lead.  The driving team of [[Joachim Winkelhock]], [[Pierluigi Martini]], and [[Yannick Dalmas]] were successful in bringing the V12 LMR home for the victory, a single lap ahead of the GT-One.
+
+The BMW V12 LMR is estimated to put out about 580 hp, which in the 1999 edition of the 24 Hours of Le Mans allowed the German prototype to hit 342 km/h (214 mph) on the Mulsanne Straight.
+
+Following the success of BMW at Le Mans, the team decided to return to North America to finish the American Le Mans Series season.  Making their return at [[Infineon Raceway|Sears Point]], the pair of BMWs won again.  Over the final four races of the season, the BMWs would take two more victories, losing twice to the American [[Panoz]] prototypes.  Even with four victories on the season, due to BMW's decision to return to Europe following Sebring and thus miss two ALMS races, BMW failed to take the team's championship, losing to Panoz by a mere two points.
+
+===2000===
+[[File:Holzer V12 LMR Cockpit.jpg|thumb|right|200px|The cockpit of a V12 LMR]]
+For 2000, BMW's alliance with [[WilliamsF1]] brought the marque into [[Formula One]], with BMW providing the engines for the WilliamsF1 team.  It was therefore decided by BMW that the company would concentrate on the worldwide exposure of Formula One for the future, and that they would not return to Le Mans to attempt to follow-up on their victory.  However, in order to not see the V12 LMRs go to waste, it was decided that BMW would run the full [[American Le Mans Series]] season before the cars were retired.
+
+Starting the season at Sebring, the BMWs suddenly found themselves facing new competition, with Audi debuting their second generation [[Audi R8 Race Car|R8]] [[Le Mans prototype]].  The BMWs found themselves qualified in 5th and 6th, behind both the Audis as well as both Panoz LMPs.  During the race, the BMWs were able to outlast the Panozes, but struggled with the Audis.  BMW was forced to settle for 3rd and 4th behind both Audis.  
+
+For the next two rounds, Audi attempted to perfect their R8 for Le Mans and therefore decided to race their older R8R instead.  This allowed BMW to take victory at [[Lowe's Motor Speedway|Charlotte]] and at the European event at [[Silverstone Circuit|Silverstone]].  Unfortunately in BMW's home race at the [[Nürburgring]] in Germany, the V12 LMR was defeated by a [[Panoz]], although it did beat out an Audi R8.
+
+Returning to America, with Audi having taken victory at Le Mans, the V12 LMR was now forced to finish out the rest of the season fighting the dominant R8.  For the next four rounds, BMW could muster no better than second against the Audi, which won every round.
+
+For [[Petit Le Mans]], BMW decided to bring out chassis #004, the Art Car which had only ever run at Le Mans testing in 1999.  The car retained its paintjob from Jenny Holzer.  Unfortunately the V12 LMRs suffered during the race, including one of the cars backflipping and flying into the side barriers, as did a [[Porsche 911 GT1]] in the same place 2 years earlier, and the Art Car was the only V12 LMR able to finish, taking a distant 5th place.
+
+In the final two North American rounds of the season, BMW still could not muster a win.  It was decided by the team that they would not travel to Australia for the final round of the season, instead retiring the cars and concentrating on their new [[Formula One]] partnership.  BMW would take second in the teams championship behind the dominant Audi.  Unlike the V12 LMs, the V12 LMRs would not be sold to customers after their retirement.
+
+==External links==
+{{commonscat|BMW V12 LMR}}
+* [http://www.mulsannescorner.com/bmwlmr.html Mulsannes Corner technical analysis of the V12 LMR]
+* [http://wspr-racing.com/chassis/grc/ChassisBMW.html BMW V12 LM & V12 LMR chassis numbers]
+
+{{Williams}}
+
+[[Category:Le Mans Prototypes]]
+[[Category:BMW vehicles|V12]]
+[[Category:24 Hours of Le Mans race cars]]
+[[Category:Sports prototypes]]
+
+[[de:BMW V12 LMR]]
+[[it:BMW V12 LMR]]

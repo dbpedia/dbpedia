@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Chancellor
+| rdfs:subClassOf = Politician
+}}

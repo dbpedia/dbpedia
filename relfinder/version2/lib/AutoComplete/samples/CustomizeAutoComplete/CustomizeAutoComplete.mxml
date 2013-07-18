@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+////////////////////////////////////////////////////////////////////////////////
+//
+// Copyright (C) 2003-2006 Adobe Macromedia Software LLC and its licensors.
+// All Rights Reserved.
+// The following is Sample Code and is subject to all restrictions on such code
+// as contained in the End User License Agreement accompanying this product.
+// If you have received this file from a source other than Adobe,
+// then your use, modification, or distribution of it requires
+// the prior written permission of Adobe.
+//
+// Design based of the Flex 2 Style Explorer by Adobe Consulting.http://weblogs.macromedia.com/mc
+////////////////////////////////////////////////////////////////////////////////
+-->
+
+<mx:Application pageTitle="Flex Components Explorer" xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" 
+	width="100%" height="100%">
+
+	<mx:Style source="css/fse.css" />
+		
+	<mx:Box width="100%" height="100%" id="myBackgroundImage" styleName="noPadding" backgroundAlpha="0" backgroundSize="100%">
+	  <mx:Box width="100%" height="100%" id="myBackground" paddingLeft="20" paddingRight="20" paddingTop="10" paddingBottom="5" backgroundAlpha="0" >
+		<mx:VBox horizontalAlign="left" width="100%" verticalGap="5">
+			<mx:HBox horizontalGap="0" styleName="noPadding" verticalAlign="bottom">
+				<mx:Label text="Flex Components" styleName="styleExplorerTitle" />
+			</mx:HBox>
+			<mx:ApplicationControlBar width="100%"  styleName="fseAppControlBar">
+				<mx:LinkBar dataProvider="myViewstack" styleName="componentLinkBar" />
+			</mx:ApplicationControlBar>	
+		</mx:VBox>
+		<mx:ViewStack width="100%" height="100%" id="myViewstack">
+			<mx:Box width="100%" height="100%" label="AutoComplete" id="form" >
+				<fse:Customize xmlns:fse="*" />
+			</mx:Box>
+		</mx:ViewStack>
+		
+		<mx:HBox width="100%">
+			<mx:Box horizontalAlign="left" width="50%">
+				<mx:LinkButton label="Copyright (c) 2006 Adobe Systems, Inc. All Rights Reserved" 
+					click="navigateToURL(new URLRequest('http://www.adobe.com/'));"
+					styleName="footerLink"
+					/>
+			</mx:Box>
+		</mx:HBox>
+	  </mx:Box>
+	</mx:Box> 
+</mx:Application>

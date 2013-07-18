@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = production start year
+| rdfs:range = xsd:gYear
+}}

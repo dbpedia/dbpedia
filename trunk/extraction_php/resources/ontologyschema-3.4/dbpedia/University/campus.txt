@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = campus
+|rdfs:domain = University
+|rdfs:range = owl:Thing
+}}

@@ -1,0 +1,196 @@
+{{Cleanup-reason
+|date=February 2009 
+|reason=power units should be used as in [[WP:AUN]]
+|make article to use one style in power units
+}}. 
+
+
+{{Infobox Automobile
+|image         =<!-- Image with unknown copyright status removed: [[Image:Porsche 997 911 GT2.jpg|250px|Porsche 997 911 GT2|{{deletable image-caption|1=Tuesday, 14 April 2009}}]] -->
+|name          =Porsche 911 GT2
+|manufacturer  =[[Porsche]]
+|class         =[[Sports car]]
+|production    =1993 &ndash; current
+|body_style    =2-door 2 seater [[coupé]]
+|layout=[[RR layout]] 
+|assembly      = [[Stuttgart]], [[Baden-Württemberg]], [[Germany]]
+| weight       = {{convert|3175|lb|kg|0|abbr=on}}
+| related      = [[Porsche 911 GT3]]<BR>[[Porsche 911 Turbo]]
+| designer     = [[Pinky Lai]]<BR>[[Harm Lagaay]]
+}}
+
+The '''[[Porsche 911]] GT2''' is a [[sports car]] built by the [[Germany|German]] manufacturer [[Porsche]] since 1994. It is based on the [[Porsche 911 Turbo|911 Turbo]], and retains the [[turbocharger|turbo]],  but features numerous upgrades, including a more powerful engine, larger brakes, and stiffer [[suspension (vehicle)|suspension]] calibration.  The GT2 is significantly lighter than the Turbo due to the use of [[rear-wheel drive]] instead of all-wheel drive, and the lightening or removal of interior components.
+
+==Road car==
+===993 generation===
+{{Infobox Automobile generation
+|image=[[Image:Porsche 993 GT2.jpg|250px|Porsche 911 (993) GT2]]
+|name=[[Porsche 993]]
+|production=1993-1998
+|engine=3.6L [[Twin-turbo|Twin-Turbo]] [[Flat-6|H6]]
+|transmission=6-speed manual
+|wheelbase={{convert|2272|mm|in|1|abbr=on}}
+|length={{convert|4245|mm|in|1|abbr=on}}
+|width={{convert|1855|mm|in|1|abbr=on}}
+|height={{convert|1270|mm|in|1|abbr=on}}
+}}
+
+The [[Porsche 993|993]]-generation GT2 was initially built in order to meet [[homologation]] requirements for motorsports.  The GT2s were developed as Porsche's customer entry in international [[grand tourer]] racing, replacing the 964-generation Carrera RSRs.  Because the cars were built to meet the GT2 class regulations, the road cars were named accordingly.<ref name="1995 Porsche 911 GT2">{{citeweb | url = http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1995-911gt2/ | title = 1995 Porsche 911 GT2 | publisher = Porsche Cars North America | accessdate = 2007-12-13}}</ref>  It featured widened plastic fenders, and a larger rear wing with air scoops in the struts.  The 993 GT2's original 3.6&nbsp;litre engine developed {{Convert|430|hp|kW|0|abbr=on}}; in 1998 it was upgraded to {{Convert|450|hp|kW|0|abbr=on}}. 57 road cars were built (seven of which were right-hand drive).{{Fact|date=March 2008}}
+
+Technical specification:
+{{colbegin}}
+*Configuration Air Cooled Twin Turbo Flat 6
+*Transmission 6-speed [[Manual transmission|manual]]
+*Valvetrain SOHC 2 valves / cylinder
+*Displacement 3600 cc / 219.7 cu in
+*Power {{convert|335.6|kW|PS hp|0|abbr=on}} @ 6000 rpm
+*Torque 585.71 Nm / 435 ft·lbf @ 3500 rpm
+*Bhp / Liter {{convert|125.0|bhp|kW PS|abbr=on}} per litre
+*Bore {{convert|99.1|mm|in|1|abbr=on}}
+*Stroke {{convert|76.2|mm|in|1|abbr=on}}
+*Weight {{convert|1295|kg|lb|0|abbr=on}}
+*Length {{convert|4245|mm|in|1|abbr=on}}
+*Width {{convert|1855|mm|in|1|abbr=on}}
+*Height {{convert|1270|mm|in|1|abbr=on}}
+*Wheelbase {{convert|2272|mm|in|1|abbr=on}}
+*Front Track {{convert|1475|mm|in|1|abbr=on}}
+*Rear Track {{convert|1550|mm|in|1|abbr=on}}
+*Top Speed {{convert|301|km/h|mi/h|0|abbr=on}}
+*0 - 60 mph 3.9 	
+*quarter mile 12.1 at 117mph
+{{colend}}
+
+===996 generation===
+{{Infobox Automobile generation
+|image=[[File:Porsche 996 GT2.jpg|250px|Porsche 996 GT2]]
+|name=[[Porsche 996]]
+|production=1999-2005
+|engine=3.6L [[Flat-6|H6]]
+|transmission=6-speed [[Manual transmission|manual]]
+|wheelbase={{convert|2355|mm|in|1|abbr=on}}
+|length=1999-2003: {{convert|4450|mm|in|1|abbr=on}}<br>2004-05: {{convert|4445|mm|in|1|abbr=on}}
+|width={{convert|1830|mm|in|1|abbr=on}}
+|height={{convert|1275|mm|in|1|abbr=on}}
+}}
+In 1999, the 993-generation 911 was replaced with the new [[Porsche 996|996]] model.  It would be two years before a new GT2 model would arrive, but in that time Porsche had decided to abandon the GT2 for motorsports use, instead concentrating on the new naturally-aspirated [[Porsche 911 GT3|911 GT3]].
+
+The new GT2 featured a turbo-charged version of the GT3's 3.6L [[Flat-6|H6]] engine. It featured an output of {{Convert|462|hp|kW|0|abbr=on}}, which was later increased to {{Convert|483|hp|kW|0|abbr=on}}. Like the 993 GT2, its body differed significantly from those of other 996s; major differences included wider fenders, a more aggressively-shaped nose, and a large rear wing.
+
+The torque curve reaches its top  a little higher in the rpm range, there's very little lag in the turbo spool-up.<ref name=Swan>{{cite web|url=http://www.caranddriver.com/reviews/hot_lists/high_performance/porsche_file/2002_porsche_911_gt2_first_drive_review+t-a_hardcore_911_turbo+page-2.html|title=2002 Porsche 911 GT2 - A Hardcore 911 Turbo |last=Swan|first=Tony|date=May 2001|work=[[Car and Driver]]|accessdate=2009-04-24}}</ref> According to a test of [[Car and Driver]] the 2002 GT2 delivered right-now passing punch even in sixth gear.<ref name=Swan/> Despite a 10-millimeter reduction in static ride height over the 911 Turbo, the drag coefficient was slightly higher — 0.34 Cd vs. the Turbo's 0.33 — due to the fixed rear wing.<ref name=Swan/>
+
+Technical specification:{{Fact|date=September 2008}}
+
+*Displacement 	        3.6 litre, 4 valves per cylinder
+
+*Bore × stroke 	        {{convert|100.00|mm|in|1|abbr=on}} × {{convert|76.40|mm|in|1|abbr=on}} {{convert|3.94|in|mm|0|abbr=on}} × {{convert|3.01|in|mm|0|abbr=on}}
+*Compression ratio 	9.40:1
+*Bore/stroke ratio 	1.31
+
+*Maximum power 	        {{convert|475|hp|abbr=on}}  @ 5700 rpm
+*Specific output 	132.2 bhp/litre
+
+*Maximum torque 	{{convert|640.0|Nm|lb·ft|abbr=on}}  @ 3500 rpm
+*Specific torque 	177.78 Nm/litre
+
+*Wheelbase 	        {{convert|2355|mm|in|1|abbr=on}}
+*Length                 {{convert|4450|mm|in|1|abbr=on}} 	
+*Track front     	{{convert|1485|mm|in|1|abbr=on}} 	
+*Track rear 	        {{convert|1520|mm|in|1|abbr=on}}
+*Width           	{{convert|1830|mm|in|1|abbr=on}}
+*Height                 {{convert|1275|mm|in|1|abbr=on}}
+*Kerb weight 	        {{convert|1430|kg|lb|0|abbr=on}}
+
+*Fuel capacity 	        {{Convert|89|L|usgal impgal|0|abbr=on}}
+
+*0-60 mph 	        3.7 s
+*0-100 mph              8.3 s
+*1/4 Mile               11.9 at 120mph
+*Top speed 	        {{convert|319|km/h|mi/h|0|abbr=on}}
+*Power-to-weight 	{{convert|332.87|bhp|kW PS|0|abbr=on}} / ton
+
+===997 generation===
+{{Infobox Automobile generation
+|image=[[File:'09 Porsche 911 GT2 (MIAS).JPG|250px|2009 Porsche 997 911 GT2]]
+|name=[[Porsche 997]]
+|production=2008-Present
+|engine={{convert|3600|cc|L cuin||abbr=on}} [[Flat-6|H6]]
+|transmission=6-speed manual
+|wheelbase={{convert|2350|mm|in|1|abbr=on}}
+|length={{convert|4469|mm|in|1|abbr=on}}
+|width={{convert|1852|mm|in|1|abbr=on}}
+|height={{convert|1285|mm|in|1|abbr=on}}
+}}
+The [[Porsche 996]] [[Porsche 911|911]] GT2 was superseded by the [[Porsche 997|997]]-generation GT2 in 2007 after a brief hiatus, with cars arriving at dealerships in November<ref>{{cite web|url=http://www.porsche.com/usa/aboutporsche/pressreleases/pag/?pool=international-de&id=2007-07-16|title=New 911 GT2 with 530 Horsepower|publisher=Porsche AG|date=16 July 2007}}</ref> after an official launch at the 62nd [[Internationale Automobil-Ausstellung|Frankfurt Motor Show]].
+
+The new 997 GT2 remained based on the 3.6&nbsp;litre flat-6 engine, but now featured twin [[variable geometry turbocharger]]s, which generated {{Convert|390|kW|hp|0|abbr=on}} at 6500 rpm.  The GT2 accelerates in 3.6 seconds to {{convert|100|km/h|mph|0|abbr=on}} and in 10.6 seconds to {{convert|200|km/h|mph|0|abbr=on}} and has a maximum top speed of {{convert|331|km/h|mi/h|abbr=on}}. This makes it the first Porsche 911 to exceed the {{convert|200|mph|km/h|0|abbr=on}} top speed, with the exception of the 1998 [[Porsche 911 GT1]] which has a [[mid-engine design|mid-mounted]] engine, unlike any other car bearing the 911 moniker. The Porsche 997 GT2 also has a curb weight of {{convert|1440|kg|lb|0|abbr=on}}, {{convert|680|Nm|ftlbf|abbr=on}} of torque from 2200 to 4500 rpm, and a 6-speed manual gearbox.
+
+<!-- Image with unknown copyright status removed: [[Image:Porsche 997 911 GT2 rear.jpg|200px|thumb|left|Rear of a Porsche 997 911 GT2|{{deletable image-caption|1=Tuesday, 14 April 2009}}]] -->The American auto magazine [[Motor Trend]] recently tested a 2008 Porsche 911 GT2 0-60 mph at 3.3 seconds<ref>{{cite web|title=2008 Porsche 911 GT2: Exclusive First U.S. Test!|publisher=''Motor Trend''|url=http://www.motortrend.com/roadtests/coupes/112_0805_2008_porsche_911_GT2_first_test/driving_impressions.html|accessdate=2008-02-28}}</ref>, and 11.3 seconds at {{convert|129.1|mi/h|km/h|abbr=on}} for the quarter mile. The GT2 also recorded a braking distance from {{convert|60|mi/h|km/h|abbr=on}} to 0 of {{convert|98|ft|m}} and recorded 1.10g lateral grip.
+
+The appearance of the 997 GT2 once again differs from its sister-car, the 997 Turbo. It has a revised front lip, also carries a newly designed rear wing with two small air inlets on either side, and it has a different rear bumper now featuring [[titanium]] exhaust pipes and shark fin outlets.
+
+German Porsche test driver [[Walter Röhrl]] recently lapped the [[Nordschleife lap times|Nürburgring Nordschleife]] on a public day in 7 minutes 32 seconds in the new 997 GT2.
+
+Technical specification:{{Fact|date=September 2008}}
+
+{{colbegin}}
+*Cylinders  	6
+*Displacement 	3600 cc
+*Engine layout 	Rear engine
+*Engine power 	{{convert|390|kW|PS hp|abbr=on}}
+*Torque 	{{convert|680|Nm|ftlbf|abbr=on}} @ rpm 2,200 - 4,500 rpm
+*Compression ratio 	9.0 : 1
+*Front brakes: 6-piston monobloc aluminum-fixed calipers
+*Rear brakes: 4-piston monobloc aluminum-fixed calipers
+*Top Speed  	{{convert|331|km/h|mi/h|abbr=on}}
+*0-100 km/h 	3.7 s
+*0-200 km/h  	10.6 s
+*0-30 mph       1.2 
+*0-60 mph 	3.3 s
+*0-100 mph 	7.3 s
+*0-150 mph      15.9 
+*0-186 mph      33.0 
+*1/4 Mile       11.2 at 129mph
+*Length  	{{convert|4469|mm|in|0|abbr=on}}
+*Width 	        {{convert|1852|mm|in|0|abbr=on}}
+*Height 	{{convert|1285|mm|in|0|abbr=on}}
+*Wheelbase 	{{convert|2350|mm|in|0|abbr=on}}
+*Drag coefficient (Cd) 	0.32
+*Curb Weight 	{{convert|3174|lb|abbr=on}}
+*Luggage Area Volume  	{{convert|0.1|m3|cuft|abbr=on}}
+*Fuel tank 	{{Convert|67|L|usgal impgal|0|abbr=on}}
+{{colend}}
+
+==Motorsports==
+In 1993, Porsche had experimented with the use of a turbocharged 911 in international motorsports with the use of the extensively modified turbo [[Porsche 964|964]], named the [[Porsche 964#Turbo S LM-GT|Turbo S LM-GT]].  Seeing the potential of the car not only to be fast and reliable, as well as customer demand for a car to replace the 964 generation Carrera RSRs, Porsche chose to develop the turbocharged 993 for customer use.
+
+The 993 GT2 race car would featured a stripped interior, built-in [[rollcage]] for safety, minor adjustments to the bodywork and wings in order to decrease weight as well as increase downforce, as well as wider fenders to handle racing slicks.  The suspension would be modified to better handle racing use, while the engine would be slightly tweaked for endurance use.  Twin KKK turbochargers running mandated air restrictors allowed for {{Convert|450|hp|kW|0|abbr=on}}.<ref name="1995 Porsche 911 GT2" />
+
+At the same time, Porsche would also develop a ''GT2 Evo'', able to run in the GT1 category.  This further modified the GT2 by increasing power to {{Convert|600|hp|kW|0|abbr=on}} through the use of larger turbochargers.  Other modifications included a new rear wing mounted higher, larger fenders to allow for the wider tires allowed in GT1, and a decrease in weight to {{convert|1100|kg|lb|0|abbr=on}} .<ref>{{citeweb | url = http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1995-911gt2evo/ | title = 1995 Porsche 911 GT2 Evo | publisher = Porsche Cars North America | accessdate = 2007-12-13}}</ref>  The GT2 Evo would be short-lived however as Porsche decided to replace it with the purpose-built [[Porsche 911 GT1|911 GT1]] in 1996.
+
+The GT2 and GT2 Evos were initially campaigned in the [[BPR Global GT Series]] as well as several other smaller national series, and earned seven wins in their class out of eleven rounds in their first full BPR season in [[1996 BPR Global GT Series season|1996]], as well as a class victory in the [[1996 24 Hours of Le Mans|24 Hours of Le Mans]], and again in {{24hLM|1997}}.  In the new [[FIA GT Championship]] that year, although Porsche faced factory-backed competition from [[Chrysler]], the 911 GT2s managed to win three races.  By 1998 however, the capabilities of the GT2 were unable to combat the increased number of [[Chrysler Viper GTS-R|Dodge/Chrysler Viper GTS-R]]s in the series, earning only a sole victory.
+
+By 1999 the GT2s had been overpowered by the Vipers, as well as newcomers [[Lister Cars|Lister]], however Roock Racing managed to win the GT2 at the 24 Hours of Daytona.  An increase in engine displacement to 3.8&nbsp;litres in 2000 was unable to help Porsche, and support for the project ended.  Porsche chose instead to concentrate on the new N-GT category with the [[Porsche 911 GT3|GT3-R]]s that same year.  GT2s continued to be used by small teams up to 2004.
+
+With the launch of the 996 generation GT2, several privateers attempted to continue on the motorsports history by building their own racing versions.  Belgian PSI Motorsports' ''911 Bi-Turbo'' and German A-Level Engineering's ''911 GT2-R'' were used to mix success in national series such as [[Belcar]], but were unable to be successful in international series.
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.porsche.com/microsite/911gt2/usa.aspx Porsche Cars North America] - Porsche 997 GT2 microsite
+* [http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1995-911gt2/ Porsche Cars North America] - 1995 Porsche 911 GT2
+* [http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1995-911gt2evo/ Porsche Cars North America] - 1995 Porsche 911 GT2 Evo
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|911 GT2]]
+[[Category:Sports cars]]
+[[Category:Vehicles introduced in 1993]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Grand tourer racing cars]]
+
+[[be:Porsche 911 GT2]]
+[[de:Porsche 911 GT2]]
+[[nl:Porsche 911 GT2]]
+[[pt:Porsche 911 GT2]]
+[[tr:Porsche 911 GT2]]

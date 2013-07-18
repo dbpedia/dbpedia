@@ -1,0 +1,8 @@
+{{TemplateMapping
+| mapToClass = Olympics
+| mappings = 
+	{{PropertyMapping | templateProperty = Nations participating | ontologyProperty = numberOfParticipatingNations }}
+	{{PropertyMapping | templateProperty = Athletes participating | ontologyProperty = numberOfParticipatingAthletes }}
+	{{PropertyMapping | templateProperty = Officiallyopenedby | ontologyProperty = officialOpenedBy }}
+	{{PropertyMapping | templateProperty = Olympic Torch | ontologyProperty = torchBearer }}
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = floor area
+| rdfs:domain = Building
+| rdfs:range = Area
+}}

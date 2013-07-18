@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Currency
+|rdfs:subClassOf = owl:Thing
+}}

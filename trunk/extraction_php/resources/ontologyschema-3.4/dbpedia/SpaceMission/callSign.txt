@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = call sign
+|rdfs:domain = SpaceMission
+|rdfs:range = xsd:string
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = branch
+|rdfs:domain = MilitaryUnit
+|rdfs:range = MilitaryUnit
+}}

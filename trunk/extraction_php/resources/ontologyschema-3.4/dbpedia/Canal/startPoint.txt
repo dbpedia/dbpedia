@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = start point
+|rdfs:domain = Canal
+|rdfs:range = Place
+}}

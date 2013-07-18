@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Artery
+| rdfs:subClassOf = AnatomicalStructure
+}}

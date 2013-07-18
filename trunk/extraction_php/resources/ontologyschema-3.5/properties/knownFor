@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = known for
+| rdfs:domain = Person
+}}

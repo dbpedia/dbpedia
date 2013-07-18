@@ -1,0 +1,401 @@
+{{for|a complete overview of all the 3 series chassis|BMW 3 Series}}
+{{Infobox Automobile generation
+|image=[[Image:BMW E46 front 20080822.jpg|250px]]<br />
+A facelifted BMW E46
+|name=BMW 3-Series (E46)
+|production=1998–2006
+|manufacturer=[[BMW]]
+|predecessor=[[BMW E36]]
+|successor=[[BMW E90]]
+|class=[[Compact executive car]]
+|assembly=[[Leipzig]], Germany<br/>[[Munich]], [[Germany]]<br/>[[Regensburg]], Germany<br/>[http://www.bmwplant.co.za Rosslyn], [[South Africa]]<br/>[[Cairo]], [[Egypt]]<br/>[[Kaliningrad]], Russia<br/>[[Shenyang]], [[People's Republic of China|China]] +
+|layout=[[Front-engine design|Front engine]], [[rear-wheel drive]] / [[All-wheel drive]]
+|engine=1.6/1.9&nbsp;L I4; 1.9&nbsp;L [[Straight-4|I4]]; 2.0&nbsp;L I4; 2.0/2.2&nbsp;L I6; 2.5&nbsp;L [[I6]]; 2.8/3.0&nbsp;L [[I6]]; 3.2&nbsp;L [[I6]]; 2.0&nbsp;L TD I4; 2.9&nbsp;L TD [[I6]]
+|transmission=5-speed sequential manual<br />6-speed [[Electrohydraulic manual transmission|sequential]] [[Manual transmission|manual]]<br />6-speed automatic<br />5-speed [[Semi-automatic transmission|semi-automatic]]<br />5-speed [[Automatic transmission|automatic]]
+|wheelbase={{auto in|107.3|0}}
+|length=Sedan: {{auto in|176.0|0}}<br />Wagon: {{auto in|176.3|0}}<br />Convertible & Coupe: {{auto in|176.7|0}}
+|width=Sedan & Wagon: {{auto in|68.5|0}}<br />Convertible & Coupe: {{auto in|69.2|0}}
+|height=Sedan: {{auto in|55.7|0}}<br />2000-02 325i Wagon: {{auto in|55.5|0}}<br />2000-02 325xi Wagon: {{auto in|56.3|0}}<br />Convertible: {{auto in|54.0|0}}<br />Coupe: {{auto in|53.9|0}}<br />xi Sedan: {{auto in|56.5|0}}
+|related=[[BMW M3]]<br />[[BMW X3]]
+|fuel_capacity={{Convert|16.6|usgal|L impgal|0|abbr=on}}
+|body_style=2-door [[coupe]]<br />2-door [[convertible]]<br />4-door [[sedan (car)|sedan]]<br />5-door [[station wagon]]<br />3-door [[hatchback]]
+|platform=[[BMW E46]]
+}}
+The '''BMW E46''' is the [[BMW_3_Series#E46.2C_1998-2006|fourth generation]] of the [[BMW 3 Series|3 Series]] [[compact executive car]]s produced by [[BMW]], produced from 1998 when it succeeded the [[BMW E36]] until it was replaced by the [[BMW E90]] in 2006.
+
+The E46 was released in 1998 to worldwide markets (excluding the United States) in the [[sedan]] body style. In 1999, a [[coupé]] and [[Station wagon|touring]] body style became available to all markets, and the sedan was released in the United States. A [[convertible]] and [[BMW Compact|hatchback]] body style was released in 2000, the latter only for Europe and Australia. The E46 experienced enormous success in all markets and was widely considered the performance benchmark of its class.<ref>{{cite news|url=http://www.nytimes.com/2005/07/24/automobiles/24AUTO.html|title=2006 BMW 3 Series: The Benchmark Settles Into Comfortable Middle Age|last=MAYERSOHN|first=NORMAN|date=2009-06-24|pages=2|accessdate=2009-07-08}}</ref> The record selling year for the E46 chassis was 2002, when 561,249 vehicles were sold worldwide.<ref>{{cite web | url=http://www.theautochannel.com/news/2004/01/27/178201.html | publisher=The Auto Channel | accessdate=2006-07-24 | title=Successful 2003 Financial Year for the BMW Group}}</ref>
+
+[[BMW M GmbH]] produced a high performance variant of the E46 chassis, designated the [[BMW M3#E46 M3|M3]]. This version had a larger, more powerful engine, sportier suspension, a [[limited slip differential]], and various aesthetic modifications. The M3 was released in 2001 and was available only in the coupé and convertible body style. It was offered with two transmissions; a standard 6-speed manual, or an optional [[sequential manual gearbox]].
+
+==Design==
+=== Exterior design ===
+The E46 was developed as a modern replacement for the aging BMW E36 chassis. DesignWorksUSA was contracted by BMW to work alongside BMW Group's in house design team to create the exterior body work.<ref name="designworksusa">{{cite web|url=http://www.designworksusa.com/design/carsbikes/BMW3Series/index.html|title=DesignworksUSA|publisher=BMW Group|accessdate=2009-07-08}}</ref> Based on the E36 body shell, the design team put an emphasis on improving aerodynamics and increasing the cars aggressive stance.<ref name="designworksusa" />
+
+=== Powertrain and engine design ===
+An emphasis was put on reducing [[unsprung weight]] and structural rigidity rather than increasing power output: the highest displacement model at release, the E46 328, had only 3 horsepower more than the E36 328.<ref name="edmunds3" /> To counter this small power increase, the body shell of the E46 was claimed by BMW to be 70% more rigid than the E36's,<ref name="edmunds3" /> and aluminum suspension components were used increasingly in order to decrease unsprung weight.<ref name="edmunds3" /> In tune with BMW's core values<ref name="rearwheelfrontengine50/50">{{cite web|url=http://www.bmw.co.za/innovations/weight/overview.asp|title=BMW Innovations Lounge|publisher=BMW|pages=1|accessdate=2009-07-08}}</ref>, the E46 was released with a [[front engine]]d [[rear-wheel drive]] layout with 50/50 weight distribution.<ref name="edmunds3">{{cite web|url=http://www.edmunds.com/insideline/do/Features/articleId=66153|title=BMW 3 Series|date=2003-08-01|publisher=Edmunds|pages=1|accessdate=2009-07-09}}</ref><ref name="general specs">{{cite web|url=http://www.reveuro.com/buyers_guide/bmw/3series/e46.html|title=BMW E46 3 series buyers guide specs features|publisher=reveuro|pages=1|accessdate=2009-07-08}}</ref> This balance allows for optimal handling in regards to the drive train layout.
+
+==== Petrol engines ====
+{| class="wikitable" border="1"
+|-
+!Model<ref>An "i" stands for fuel injected, present on all petrol models. A "d" stands for diesel powered, "Ti" is the 3-door hatchback (compact). "Ci" stands for Coupe, while "Cic" stands for convertible. An x means all-wheel drive.</ref>!!Engine!!Production<ref>[[Model year]] production.</ref>!!Volume<br />(in cc)!!Type<ref>The I indicates an [[Straight engine|Inline/Straight engine]], followed by the number of cylinders and the total amount of valves.</ref>!!Power!!Torque!!0-100&nbsp;km/h<ref>Figures are for saloons/coupes with manual transmission. Acceleration may be slightly faster for compacts (ca. -0.1 seconds) and slower for tourings (ca. +0.2 seconds), convertibles (ca. +0,4-1 seconds), automatics ca. (+0.2-0.5 seconds) and all-wheel drives (ca. +0.2-0.5 seconds).</ref><br />(0-62 mph)
+|-
+|316i/Ci||[[BMW M43|M43B16]]||1998-2005||1596||I4, 8v||{{convert|101|bhp|kW PS|0|abbr=on}}||{{convert|111|ftlb-f|Nm|0|abbr=on}}|| align="center" | 12.7 s
+|-
+|316i||[[BMW M43|M43TUB19]]||1998-2001||1895||I4, 8v||{{convert|104|bhp|kW PS|0|abbr=on}}||{{convert|122|ftlb-f|Nm|0|abbr=on}}|| align="center" | 12.4 s
+|-
+|rowspan=2|316i/ti||[[BMW N42|N42B18]]||2001-2004||rowspan=2|1796||rowspan=2|I4, 16v||rowspan=2|{{convert|113|bhp|kW PS|0|abbr=on}}||rowspan=2|{{convert|129|ftlb-f|Nm|0|abbr=on}}||align="center" rowspan=2|10.9 s
+|-
+|[[BMW N46|N46B18]]||2004-2005
+|-
+|318i/Ci||[[BMW M43|M43TUB19]]||1998-2001||1895||I4, 8v||{{convert|118|bhp|kW PS|0|abbr=on}}||{{convert|133|ftlb-f|Nm|0|abbr=on}}|| align="center" | 10.4 s
+|-
+|rowspan=2|318i/Ci/ti||[[BMW N42|N42B20]]||2002-2003||rowspan=3|1995||rowspan=3|[[Straight-4|I4]], 16v||rowspan=2|{{convert|141|bhp|kW PS|0|abbr=on}}||rowspan=3|{{convert|148|ftlb-f|Nm|0|abbr=on}}|| align="center" rowspan=2|9.3 s
+|-
+|rowspan=2|[[BMW N46|N46B20]]||2004-2005
+|-
+|318Ci||2005-2007||{{convert|148|bhp|kW PS|0|abbr=on}}|| align="center" | 9.2 s
+|-
+|320i||[[BMW M52|M52TUB20]]||1998-2000||1991||rowspan=12|I6, 24v||{{convert|148|bhp|kW PS|0|abbr=on}}||{{convert|140|ftlb-f|Nm|0|abbr=on}}|| align="center" | 9.9 s
+|-
+|320i/Ci||[[BMW M54|M54B22]]||2001-2007||2171||{{convert|168|bhp|kW PS|0|abbr=on}}||{{convert|155|ftlb-f|Nm|0|abbr=on}} ||align="center" | 8.2 s
+|-
+|323i/Ci||[[BMW M52|M52TUB25]]||1998-2000||rowspan=3|2494||{{convert|170|bhp|kW PS|0|abbr=on}}||{{convert|181|ftlb-f|Nm|0|abbr=on}}|| align="center" | 8.0 s
+|-
+|325i/xi/Ci/ti (US)||[[BMW M54|M54B25]]||2001-2005||{{convert|184|bhp|kW PS|0|abbr=on}}||{{convert|175|ftlb-f|Nm|0|abbr=on}}||align="center" | 7.3 s
+|-
+|325i/Ci SULEV (US)||[[BMW M56|M56B25]]||2002-2005||{{convert|184|bhp|kW PS|0|abbr=on}}||{{convert|175|ftlb-f|Nm|0|abbr=on}}||align="center" | 7.3 s
+|-
+|325i/xi/Ci/ti (EUR)||[[BMW M54|M54TUB25]]||2001-2007||2494||{{convert|192|bhp|kW PS|0|abbr=on}}||{{convert|181|ftlb-f|Nm|0|abbr=on}}||align="center" | 7.2 s
+|-
+|328i/Ci||[[BMW M52|M52TUB28]]||1998-2000||2793||{{convert|193|bhp|kW PS|0|abbr=on}}||{{convert|206|ftlb-f|Nm|0|abbr=on}}|| align="center" | 6.6 s
+|-
+|330i/xi/Ci||rowspan=2|[[BMW M54|M54B30]]||2000-2007||rowspan=2|2979||{{convert|228|bhp|kW PS|0|abbr=on}}||{{convert|214|ftlb-f|Nm|0|abbr=on}}|| align="center" | 6.3 s
+|-
+|330i/Ci ZHP (US Only)||2003-2006||{{convert|235|bhp|kW PS|0|abbr=on}}||{{convert|222|ftlb-f|Nm|0|abbr=on}}|| align="center" | 5.8 s
+|-
+|M3 (US)||rowspan=3|[[BMW M54|S54B32]]||2001-2006||rowspan=3|3246||{{convert|333|bhp|kW PS|0|abbr=on}}||{{convert|262|ftlb-f|Nm|0|abbr=on}}|| align="center" | 5.0 s
+|-
+|M3 (EUR)||2001-2006||{{convert|343|bhp|kW PS|0|abbr=on}}||{{convert|269|ftlb-f|Nm|0|abbr=on}}|| align="center" | 4.8 s
+|-
+|M3 CSL||2003-2004||{{convert|355|bhp|kW PS|0|abbr=on}}||{{convert|273|ftlb-f|Nm|0|abbr=on}}|| align="center" | 4.8 s
+|-
+|M3 GTR (Street)||rowspan=2| ||2001||rowspan=2|3997||rowspan=2|[[V8]], 32v||{{convert|350|bhp|kW PS|0|abbr=on}}||{{convert|269|ftlb-f|Nm|0|abbr=on}}|| align="center" |
+|-
+|M3 GTR (Race)||2001-2005||{{convert|400|bhp|kW PS|0|abbr=on}}||{{convert|271|ftlb-f|Nm|0|abbr=on}}|| align="center" |
+|}
+
+==== Diesel engines ====
+{| class="wikitable" border="1"
+|-
+!Model!!Engine!!Production!!Volume<br />(in cc)!!Type!!Power!!Torque!!0-100&nbsp;km/h<br />(0-62 mph)
+|-
+|318d/td||[[BMW M47|M47D20]]||2001-2005||1951|||I4, 16v|||{{convert|113|bhp|kW PS|0|abbr=on}}||{{convert|195|ftlb-f|Nm|0|abbr=on}}|| align="center" | 10.7 s
+|-
+|320d||[[BMW M47|M47D20]]||1999-2001||1951||I4, 16v||{{convert|134|bhp|kW PS|0|abbr=on}}||{{convert|207|ftlb-f|Nm|0|abbr=on}}|| align="center" | 9.9 s
+|-
+|320d/cd/td||[[BMW M47|M47TUD20]]||2001-2007||1995||I4, 16v||{{convert|148|bhp|kW PS|0|abbr=on}}||{{convert|243|ftlb-f|Nm|0|abbr=on}}|| align="center" | 8.8 s
+|-
+|rowspan=2|330d/xd/cd||[[BMW M57|M57D30]]||1999-2003||2926||rowspan=2|[[I6]], 24v||{{convert|181|bhp|kW PS|0|abbr=on}}||{{convert|288|ftlb-f|Nm|0|abbr=on}}|| align="center" | 7.8 s
+|-
+|[[BMW M57|M57TUD30]]||2004-2007||2993||{{convert|201|bhp|kW PS|0|abbr=on}}||{{convert|302|ftlb-f|Nm|0|abbr=on}}|| align="center" | 7.2 s
+|}
+
+==Models==
+===316===
+The 316 was introduced in 1999 with the lowest output engine available in the E46, the 1.9l [[BMW_M43#M43B19|BMW M43]] producing {{convert|105|hp|kW|0|abbr=on}} and {{convert|165|Nm|lb-f|0|abbr=on}}.<ref name="4cyl">{{cite web|url=http://www.usautoparts.net/bmw/engines/4cyl.htm|title=BMW World - 4-Cylinder Engines|publisher=BMW World|accessdate=2009-07-09}}</ref> Like all 4 cylinder models, it was not released into the United States market.<ref name="edmunds3" /> In 2001, the 316 was given a smaller, yet more powerful 1.8l [[BMW_N42#N42B18|BMW N42]] engine producing {{convert|116|hp|kW|0|abbr=on}} and {{convert|175|Nm|lb-f|0|abbr=on}}.<ref name="4cyl2">{{cite web|url=http://www.bmwinfo.com/23480.html|title=BMW Information|publisher=BMWinfo|accessdate=2009-07-09}}</ref>
+
+===318===
+The 318 was introduced in 1998 with the same engine as the 316, the 1.9l [[BMW_M43#M43B19|BMW M43]].<ref name="4cyl2" /> However, it was designated the M43B19TU (technical update) and had dual balancing shafts which increased horsepower to {{convert|118|hp|kW|0|abbr=on}} and torque to {{convert|180|Nm|lb-f|0|abbr=on}}. Along with the 316, the 318 received an updated engine in 2001 - the 2.0l [[BMW_N42#N42B20|BMW N42]]. It produced {{convert|143|hp|kW|0|abbr=on}} and {{convert|200|Nm|lb-f|0|abbr=on}}.<ref name="4cyl2" /> The 318 was also not released into the United States market.<ref name="edmunds3" />
+===320I===
+* Used BMW 3-Series 320I Sedan Specs  2002 BMW 3-Series 320I Sedan Performance & Efficiency Standard Features   
+* 2171cc 2.2 liters 6 in-line front engine with 80 mm bore, 72 mm stroke, 10.8 compression ratio, double overhead cam, variable valve timing/camshaft and four valves per cylinder
+* Premium unleaded fuel
+* Fuel economy EPA highway (l/100km): 8.2
+* Multi-point injection fuel system
+* Main 63 liter premium unleaded fuel tank
+* Power: SAE and 125 kW , 170 HP @ 6,100rpm; 155 ft lb , 210 Nm @ 3,500 rpm 
+* 2002 BMW 3-Series 320I Sedan Handling, Ride & Braking Standard Features   
+* ABS
+* Brake assist system
+* Four disc brakes including four ventilated discs
+* Electronic traction control via ABS & engine management
+* Immobilizer
+* Fullsize steel rim internal spare wheel
+* Stability control
+* Strut front suspension with stabilizer bar independent with coil springs , multi-link rear suspension with stabilizer bar independent with coil springs 
+* 2002 BMW 3-Series 320I Sedan Exterior & Aerodynamics Standard Features   
+* Body side molding
+* Front and rear body color bumpers
+* Coefficient of drag: 0.31
+* Day time running lights
+* Driver and passenger power heated partial-painted door mirrors
+* External dimensions: overall length (mm): 4,470, overall width (mm): 1,740, overall height (mm): 1,415, wheelbase (mm): 2,725, front track (mm): 1,471, rear track (mm): 1,494 and curb to curb turning circle (mm): 10,485
+* Front fog lights
+* Complex surface lens halogen bulb headlights
+* Luxury trim leather on gearknob
+* Black paint , gloss paint
+* Rear window
+* Tinted glass on cabin
+* Weights: curb weight (kg) 1,465
+* Windshield wipers with automatic intermittent wipe 
+
+==== ====
+===323===
+The 323 was one of the first E46 models available for purchase, 1998 for the sedan (excluding North American markets) and 1999 for the coupe (and sedan in North American markets). Although the model was named the 323, it obtained BMW's 2.5l [[BMW M52#M52TUB25|M52]] engine designated M52TUB25.<ref name="4cyl2" /> The M52 engine was used in E36 applications, however this 2.5l version obtained dual [[VANOS]], BMW's mechanically continuous variable valve timing system. This improved low end torque and fuel economy over the M52B25 used in the E36 323. The 323 had its last model year in 2000<ref name="4cyl2" />, where it was then retired to make way for the updated E46 325.
+
+===328===
+The 328 was released alongside the 323 as a higher displacement version, still using the [[BMW M52#M52TUB28|BMW M52]] engine.
+
+===325===
+===330===
+====Diesel====
+
+==Trim levels==
+===United States market===
+====Premium package (ZPP)====
+The premium package has been available on all 3-series cars. It typically included: 
+
+Different wheels/tires [if ordered with the sport package, the sport package wheels/tires superseed] 
+A multifunction steering wheel [IF it was not already standard on the vehicle] 
+Wood grain interior trim [if ordered with the sport package, the premium package wood is typically installed, unless specifically requested otherwise] 
+Rain-sensing windshield wipers (became standard equipment in 2004) 
+Auto-dimming rear-view mirror 
+Power seats 
+Lumbar Support (not available on the 325) 
+Moonroof (note: moonroof can also be ordered separately)
+
+====Sports package (ZSP)====
+The sports package was available on all E46's, excluding cars with the Performance package and the M3. It consisted of a three spoke sports leather steering wheel and had improved grip over the standard "square" steering wheel. The car was also given sports seats which provided better bolstering and support than the stock seats. They also had adjustable thigh supports and were available in manual or power. The sports package also offered 17 inch wheels standard, which came with staggered lower profile tires. Sports suspension was also given, which offered improved handling by way of firmer springs, a lower ride height, and tighter dampers.
+
+====Cold weather package (ZCW)====
+The cold weather package has been available on all 3-series and M3 cars. It typically included: 
+
+*Pass-through ski bag 
+*Heated seats 
+*Headlight washers 
+*Fold down rear seats
+
+====Performance package (ZHP)====
+[[Image:2005 BMW 330Ci ZHP Silver.jpg|thumb|right|2005 BMW 330Ci ZHP]]
+The performance package was an option given to E46 sedans from 2003 to 2005 and coupes from 2004-2006.<ref name="330zhp1" /> It included various aesthetic changes over the regular 3 series, as well as performance enhancements. It received the "M-Tech II" bodykit standard, 18-inch [[Glossary_of_automotive_design#S|staggered]] Style 135 wheels, high gloss anthracite window trim, and the coupe received clear turn signals (headlights, side-markers, and tail-lights) instead of the amber turn signals found on the standard 330Ci.<ref name="330zhp1" /> The interior had also been modified with half cloth-half alcantara sports seats (optional upgrade to leather), an alcantara-wrapped sports steering wheel (switched to perforated leather in mid-2005), a shorter shift knob, anthracite colored cloth headliner, and aluminum "cubed" interior trim (available in silver or black). The instrument gauge cluster was also modified with red needles.<ref name="ZHP2" />
+
+In the performance department, the ZHP was equipped with the more aggressive BMW Performance camshafts and a [[DME]] tune to increase power from {{convert|225|hp|kW|0|abbr=on}} to {{convert|235|hp|kW|0|abbr=on}}<ref name="330zhp1">{{cite web|url=http://www.brazeauracing.com/330i/index.html|title=BMW 330i ZHP|publisher=Brazeau Racing|accessdate=2009-07-09}}</ref>. The engine redline was also raised from 6,500RPM to 6,800RPM to further take advantage of the new power band and higher power output achieved by the new camshafts at higher RPMs..<ref name="ZHP2">{{cite web|url=http://www.caranddriver.com/reviews/hot_lists/car_shopping/entry_luxury/bmw_330i_with_performance_package_road_test/%28page%29/1|title=BMW 330i with Performance Package|publisher=Car and Driver|accessdate=2009-07-09}}</ref> As a result of the higher redline, the nut that fastens the oil pump's sprocket came with threadlocker pre-applied from the factory to keep the nut from falling off; this was done to fix what is a common problem with all M54 engines that are regularly revved high.<ref>{{cite web | url=http://forum.e46fanatics.com/showthread.php?t=714263 | publisher=E46fanatics citing BMWNA | accessdate=2009-10-29 | title=ZHP specific OPN (Oil Pump Nut)}}</ref>. The car also received a shorter final drive ratio which allows for faster acceleration; 3.07 vs. 2.93 for manuals and 3.64 vs. 3.38 for the automatic.<ref name="ZHP2"/> 
+''[[Car and Driver]]'' magazine track-tested the car, which returned a 0-60 [[miles per hour|mph]] time of 5.6 seconds and passed through the 1/4 mile in 14.3 seconds.<ref>{{cite web | url=http://www.caranddriver.com/layout/set/print/reviews/hot_lists/car_shopping/entry_luxury/bmw_330ci_and_330xi_first_drive_review | publisher=Car & Driver | accessdate=2008-01-31 | title=BMW 330i with Performance Package - Road Test}}</ref> In 2003 the ZHP was the only 330i to come with a 6-speed manual transmission, and the Steptronic automatic transmission was not available in this first year (2003), but it was offered from 2004-2006.
+
+Suspension was modified over the standard suspension with firmer springs and dampers, larger anti-roll bars, stronger front control arm ball joints, a lower ride height, and slightly more negative camber.<ref name="ZHP2"/>. The Style 135 wheels also came equipped with the much stickier compound, Michelin Pilot Sport tires, in a staggered configuration with 225/40-18 tires in the front and 255/35-18 tires in the back. <ref name="ZHP2"/>
+
+===Rest of world markets===
+====ES====
+The ES trim level was the base level available for the European E46s. It included various safety features as standard equipment, such as [[anti-lock brakes]], 6 airbags, [[dynamic stability control]], and a factory installed alarm which were not common as standard features when the E46 was released.<ref name="eurotrim" /> Comfort items such as heated and electric mirrors were also fitted standard.<ref name="eurotrim" />  The ES trim did not include a leather interior standard, it was offered as an "at-cost" option.<ref name="eurotrim">{{cite web|url=http://www.parkers.co.uk/cars/reviews/bmw/3-series-coupe-1999.aspx?page=7|title=BMW 3 series coupe car review|publisher=parkers.co.uk|accessdate=2009-07-09}}</ref>
+
+====SE====
+The SE trim level included the options the ES trim level was given, but added [[cruise control]], electric adjustable front seats, headlight washers, parking sensors, and a full leather interior as standard.<ref name="eurotrim" /> It was the mid-range trim level that offered luxury items, but lacked the performance items the M Sport and M Clubsport trim levels had.
+
+====M Sport====
+The M Sport trim level included the options given on the ES and SE trim levels, but had additional performance-orientated items added. It came with the "M-tech" I or II bodykits (depending on when the car was ordered), half leather-half [[alcantara]] sports seats, sports suspension, and 17" lightweight style 68 wheels.<ref name="eurotrim" />
+
+====M Clubsport====
+[[File:BMW E46FL Sport.JPG|thumb|A 330Ci M Clubsport]]
+The M Clubsport trim level is aesthetically similar to the United States Performance Package.<ref name="eurotrim" /> The main difference is that the M Clubsport trim was not given the BMW performance camshafts that the ZHP obtained. Instead, it had {{convert|20|kg|lb}} of sound deadening removed from the car. The M Clubsport trim shares the same suspension set up as the performance package (ZHP) in America, as well as the "cubed" interior trim and 18 inch style 135 wheels.<ref name="clubsport">{{cite web|url=http://www.evo.co.uk/carreviews/evocarreviews/28052/bmw_3series.html|title=Clubsport review|publisher=EVO magazine|accessdate=2009-07-09}}</ref> However, changes from the ZHP include plastic front splitters on the M-Tech II bumper, a M-tech II styled rear spoiler (instead of the M3 trunk lip), and clubsport door sills.<ref name="clubsport" /> The M Clubsport also came with two "BMW Individual" colour options that were carried throughout the car, Estoril Blue and Velvet Blue.<ref name="clubsport" />
+
+Unlike the other trim levels, the M Clubsport trim was only available on the 330.<ref name="eurotrim" />
+
+====Luxury package====
+This Canadian-only package offered the same options as the United States premium package.
+
+==Model nomenclature==
+==="i"===
+The "i" badging indicates that the car has a fuel injection engine (Petrol) which first appeared in the E21 & E30 models.
+
+===="xi"====
+With the introduction of the xi models in 2001, BMW brought back AWD which hadn't been an option in the 3-series since 1991 when the E30 325iX was discontinued. BMW produced the 325xi and 330xi in the US between 2001-2005, but only in Sedan (4-door) trim.
+
+The AWD models were well received by reviewers for giving customers in severe winter climates the option of an AWD 3-series. At the same time, the xi was criticized for its added weight, slower acceleration, decreased gas mileage, softer suspension, and poor original equipment tires. <ref>{{cite web | url=http://www.caranddriver.com/layout/set/print/reviews/hot_lists/car_shopping/entry_luxury/bmw_330ci_and_330xi_first_drive_review | publisher=Car & Driver | accessdate=2008-01-31 | title=BMW 330Ci and 330xi - First Drive Review}}</ref><ref>{{cite web | url=http://www.caranddriver.com/layout/set/print/reviews/comparison_test/sedans/bmw_330xi_vs_subaru_impreza_wrx_audi_s4_comparison_test | publisher=Car & Driver | accessdate=2008-01-31 | title=BMW 330xi vs. Subaru Impreza WRX, Audi S4}}</ref>
+
+The transfer case used in all BMW E46 xi models is manufactured by New Venture Gear, Inc., which is owned by Magna Powertrain. The NV 124 transfer case used in the E46 xi models is a full-time four-wheel-drive gear driven transfer case.<ref>{{cite web|url=http://www.xiftw.com/?page_id=16 |title=The xi resource. » Transfer Case |publisher=XI FTW |date= |accessdate=2009-05-02}}</ref>
+
+The xi models have a permanent front/rear 38:62 torque split which differs from the E46's successor, the [[BMW E90|E9X]], which incorporated BMW's new [[BMW xDrive|xDrive]] platform. Both the front and rear differentials in the E46 xi are open differentials which are aided by DSC (Dynamic Stability Control) to control wheel spin and oversteer/understeer.
+
+===="d"====
+The "d" indicates that the car is a sedan with a diesel powered engine.
+
+==="Ci"===
+The "Ci" indicates that the car is a coupe with a petrol powered engine.
+
+===="Cd"====
+The "Cd" indicates that the car is a coupe with a diesel powered engine.
+
+==="Cic"===
+The "Cic" indicates that the car is a 2 door convertible with a petrol powered engine
+==="iT"===
+The "T" in the "iT" badge stands for "Touring", the BMW nomenclature for a 4 door wagon. It has a petrol powered engine.
+
+==="ti" (Compact)===
+==Changes by Model Year==
+===Mid-year 1998 (MY 99)===
+* 316, 318, 320, 323, and 328 sedans are released to worldwide markets, designated "i"(excluding the US).
+===1999===
+* 323 and 328 E46 Sedans introduced in the US (The 316 to 320 models were not released in the US to the general public at any point).
+* E46 Coupe is launched into worldwide markets, designated "Ci" (excluding the US).
+* E46 [[Station Wagon|Touring]] is launched into worldwide markets, designated "iT" (excluding the US).
+===2000===
+* E46 Coupe is launched into the US.
+* E46 [[Station Wagon|Touring]] is launched into the US.
+* Dynamic Stability Control replaces Automatic Stability Control.
+* Auto Recirculation becomes standard.
+* The 323 has 15" Alloy wheels standard (replacing hub caps for no-option package 323s).
+* The Premium Package has wood trim and moonroof standard, with 16" wheels only (no more 15" offered).
+* The 323 gets the Sport/Premium combo package offered.
+* Power seats are a stand-alone option on 323.
+====Mid-year 2000 (9/99)====
+* Power seats with driver's seat memory upgraded to include exterior mirror memory.
+* Radio has clock function; as a result, an onboard computer function and the time can be displayed at the same time.
+* Child seat tether anchorages added as standard equipment.
+* Center console buttons redesigned.
+* New key design
+* Automatic transmission changes to Steptronic
+===2001===
+* 323i is replaced by the 325i and receives a the new M54B25 engine
+* 328i is replaced by the 330i and receives a the new M54B30 engine
+* New sport steering wheel with circular airbag cover.
+* New dual exhaust from headers to muffler.
+* 325i sports package gets 17x8 style 44 wheels.
+* 330: 17" rims are standard
+* 330: Sports package rims are changed to syle M68 with 17x7.5 up front and 17x8.5 in the rear.
+* 330: Brakes are 1" larger
+* 330: Headlight washer jets standard on cold-weather package
+* 330: Silver trim around headlights
+* 330: "Updated" steering (more power assist)
+* Coupes get titanium front spoiler trim.
+====Mid-year 2001 (3/01)====
+* 325i and 325iT: New standard equipment: foglights, cruise control, & automatic climate control
+* 325Ci and 325Cic: New standard equipment: automatic Climate Control
+* 330: Due to customer feedback, there was a midyear change back to a steering system with less boost, although more than 323s and 328s had.  BMW offered a free "steering retrofit" to reduce the boost for some time.  You now must pay for this retrofit. This only affected 2001 cars.
+* 330i: New standard equipment: power Seats, Harman Kardon stereo, & sport suspension
+* 330Ci & 330Cic: New standard equipment: Harman Kardon stereo
+===2002===
+* NAV systems now have a widescreen 16x9 display.
+* E46 Sedans and wagons receive a facelift: New headlight and taillight designs, side directional marker moved and re-shaped, new wider grille, new hood, new front bumpers for 325i and 330i without sport package.
+* 330: 18" wheel option offered
+* 320d: Receives new engine {{convert|148|bhp|kW PS|0|abbr=on}}
+* Xenon headlight option upgraded to Bi-xenon configuration
+====Mid-year 2002 (9/02)====
+* Sirius satellite radio now pre-wired on non-navigation cars
+
+===2003===
+* NAV system becomes DVD based (Mark IV NAV system).  In addition, the navigation system will now be available with in-dash CD-player or cassette player.
+* The sound system head unit now has a new auxiliary input (aux input kit required)
+* Sedans receive third rear headrest and 3-point seatbelt.
+* 325: Rain sensor and automatic headlight control will now be part of the Premium Package.
+* 325: Front armrest will be standard in the sedan and sport wagon.
+* 325: Moonroof will be standard in the sport wagon.
+* 325: SULEV 325i, 325Ci, and 325iT are introduced with the M56 motor to meet new emission requirements. The [[SULEV]] M56 motor was offered optionally and only comes with the Steptronic transmission.
+* 330: Tire Pressure Monitor replaces the Flat Tire monitor on vehicles with run-flat tires. The alarm display and button in the middle console remain unchanged.
+* 330xi with Sport Package will come with 17" all-season run-flat tires with styling 98 wheels (same as the current run-flat tire option).
+====Mid-year 2003 (3/03)====
+* Performance package introduced on the 330i sedan. It's only offered with a manual transmission and NOT offered with the premium package.
+* All E46s are now pre-wired for the BMW Bluetooth kit
+* All 330 manual transmissions now 6-speed instead of 5-speed
+====Mid-year 2003 (6/03)====
+* M3 CSL production (1400 units)
+====Mid-year 2003 (9/03)====
+* All 330i/330xi Sedans, and 330Ci Coupes must be ordered with option 403 - moonroof.
+* All 330Ci Convertibles must be ordered with ZPP - premium package.
+* Myrtle wood is no longer available as a stand-alone option. It will only be available when the Premium Package is ordered.
+* A new interior trim will be made available on all 3 Series. SA 426 or Aluminum "Brushed Columns" trim will be available as a no cost option when the Premium Package is ordered. If the Premium Package is ordered and SA 426 is not specified, the car will be equipped with Myrtle Wood trim (as before)
+* Cars equipped with Navigation are now pre-wired for Sirius
+====Mid-year 2003 (10/03)====
+* SMG or Sequential Manual Gearbox available in conjunction with the sport package (not available in conjunction with the Performance Package or all-wheel drive models).
+===2004===
+* Performance package now available on coupes and convertibles, as well as with the automatic transmission and the premium package (on all 330s).
+* The climate control head unit has a new control button layout (temp, fan and recirculate control buttons) for simpler operation and ease of use.
+* The rain sensor and automatic headlight control standard for all Sedans and Sports Wagons. These features were previously only available with the Premium Package (ZPP).
+* Automatic STEPTRONIC transmission will be available in conjunction with the Performance Package.
+* New Sport Package wheel for 325i Sedan and Sports Wagon. Styling 119 replaces Styling 96.
+* New base wheel for the 330i/330xi Sedan and 325xi Sedan/Sports Wagon when equipped with the Sport Package. New wheel replaces Styling 73.
+* Titanium exterior trim on the front grille and headlights is no longer different for 330i and 330xi Sedans. (The headlights are black and the front spoiler is a combination of black and body color.)
+* Coupes and convertibles receive a face lift with a new front grille (larger "BMW kidneys"), revised lower bumper design and front/rear light redesign including LED tail lights, repositioned side turn signal lights and clear front corners on sport package cars.
+* The Xenon headlight package was upgraded to the Adaptive Xenon package for coupes/convertibles only.
+* 325i and 325iT: Styling 119 (17 x 8) with performance tires replaces Styling 96 when the sport package (ZSP) is ordered.
+* 330i/330xi get a new base wheels. 325xiT and 330xiT get new Sport Package wheels.
+* Styling 137 (17 x 7) with all-season tires replaces Styling 73, also known as the Radial spoke.
+===2005===
+* Lumbar seat support added to the premium package on the 325.
+* CD shuttle became MP3 compatible
+====Mid-year 2005 (5/05)====
+* Performance package 330s get a perforated leather steering wheel instead of Jamica
+
+==SULEV==
+BMW introduced a [[super ultra low emission vehicle]] (SULEV) into the select regions of the United States to meet stricter emission standards. California, New York, and Massachusetts received the SULEV E46's in 2003, and Vermont in 2004.<ref name="M56BMW">{{cite web|url=http://www.ge39.com/files/M56sulev.pdf|format=PDF|title=M56sulev|publisher=BMW|accessdate=2009-07-10}}</ref> They received a variant of the M54 engine, the [[BMW M56]].<ref name="M56BMW" /> The M56 meets SULEV standards, as well as partial zero emission vehicle (PZEV) and zero evaporative emissions requirements.<ref name="M56BMW" /> The M56 is claimed to have identical power as its M54 counterpart.<ref name="M56BMW" />
+
+==E46 M3==
+===E46 M3 CSL===
+[[File:M3-csl.jpg|thumb|A silver BMW M3 CSL.]]
+The BMW M3 CSL (coupe sports lightweight)<ref name="coupesportslightweight">{{cite web|url=http://blogs.automobilemag.com/6291366/car-news/bmw-cancels-lightweight-m3-csl/index.html|title=BMW Cancels Lightweight M3 CSL|publisher=Automobile Mag|accessdate=2009-07-10}}</ref> was a limited edition version of the M3, with only 1,400 cars being produced for its 2004 model year run.<ref>{{cite web|url=http://www.autoblog.com/tag/bmw+m3+csl/|title=BMW M3 CSL|publisher=Autoblog|accessdate=2009-07-10}}</ref> The CSL was never released into the North American market,<ref name="CSLperformance" /> and was only available in two colours - Silver Grey Metallic and Black Sapphire Metallic. <ref name="usautoparts" />
+
+As its name suggests, an emphasis was put on reducing weight. The M3 CSL has a kerb weight of {{convert|1385|kg|lb|abbr=on}}, {{convert|110|kg|lb|abbr=on}} lighter than the regular M3.<ref name="cartorque">{{cite web|url=http://www.cartorque.co.za/0001.htm|title=BMW M3 CSL|publisher=Cartorque|accessdate=2009-07-10}}</ref><ref name="diseno">{{cite web|url=http://www.diseno-art.com/encyclopedia/vehicles/road/cars/bmw_m3_csl.html|title=BMW M3 CSL (E46)|publisher=diseno-art|accessdate=2009-07-10}}</ref><ref name="CSLreview">{{cite web|url=http://www.carenthusiast.com/reviews.html?mode=article&id=855|title=Car reviews - BMW M3 CSL|accessdate=2009-07-10}}</ref> The CSL features many weight saving technologies taken from [[Formula One]] racing applications.<ref name="carpages">{{cite web|url=Glass-reinforced plastic|title=The New M3 CSL|date=Car pages|accessdate=2009-07-10}}</ref> A large proportion of the M3's sound insulation has been removed, as have the power windows, electric seats, and navigation systems.<ref name="CSLperformance" />. Air conditioning and stereo systems could be retrofitted free of cost, but were not available standard.<ref name="diseno" /> The CSL's unique body pieces are all crafted from [[carbon fiber reinforced polymer]].<ref name="cartorque" /> [[Glass-reinforced plastic]]s are used throughout structural points in the car.<ref name="diseno" /> The rear glass window was replaced with lightweight plastic.<ref name="diseno"/> Although the CSL loses a considerable amount of kerb weight from its original version, the focus was put on strategically reducing or moving the weight in the car rather than the raw amount of weight that could be lost.<ref name="automag">{{cite web|url=http://www.automobilemag.com/reviews/coupes/0210_bmw_m3_csl/index.html|title=BMW M3 CSL|publisher=Automobile magazine|accessdate=2009-07-10}}</ref> This is to retain the ideal 50:50 weight distribution characteristics the E46 has.<ref name="cartorque" /> For example, the roof is constructed from carbon fiber reinforced plastic.<ref name="cartorque" /> While this only reduces the kerb weight of the car by {{convert|7|kg|lb|abbr=on}}, it lowers the center of gravity of the car and decreases body flex.<ref name="usautoparts" /><ref name="automag" />
+[[File:Black BMW M3 CSL E46 rr.jpg|thumb|A black M3 E46 CSL.|left]]
+In order to improve the handling ability of the car, the entire suspension system was further refined.<ref name="cartorque" /> Specially developed racing springs and [[Shock absorber|dampers]] are given to the CSL, and a tightened steering ratio (14.5:1 vs 15.4:1 on the regular M3) improves responsiveness.<ref name="carpages" /> The braking system is also modified, with larger front  and rear floating rotors and [[Disc_brake#Calipers|calipers]] from the [[BMW_M5#E39_M5_.281998.E2.80.932003.29|E39 M5]].<ref name="CSLperformance">{{cite web|url=http://www.automobilemag.com/reviews/coupes/0210_bmw_m3_csl/performance.html|title=BMW M3 CSL Performance|publisher=Automobile Magazine|accessdate=2009-07-10}}</ref><ref name="usautoparts">{{cite web|url=http://www.usautoparts.net/bmw/models/m3_csl.htm|title=BMW M3 Parts CSL|publisher=US auto parts|accessdate=2009-07-10}}</ref> The CSL is given a retuned dymanic stability control system with a "M track mode" setting that allows the car to be pushed to its absolute limits before being activated.<ref name="carpages" />
+
+The 3.2l engine used in the M3, the [[BMW M50#S54B32|BMW S54]], has been modified to increased output by {{convert|17|hp|kW|0|abbr=on}} and {{convert|5|Nm|lb-f|0|abbr=on}} over the European M3.<ref name="usautoparts" /><ref name="carpages" /> This is achieved through a high flow carbon fiber air intake, modified valve and camshaft timing, and a retuned DME.<ref name="usautoparts" /><ref name="carpages" /> However, the engine is further modified in order to reduce weight - it features a lightweight exhaust manifold and thinner exhaust piping.<ref name="carpages" /> Additionally, the intake and exhaust manifolds are slightly straightened to improve engine responsiveness.<ref name="CSLperformance" />
+
+The CSL also has various aesthetic modifications over the standard M3. It received an aerodynamic lightweight body kit which included carbon fiber front splitters that improved downforce at high speeds by 50%,<ref name="cartorque" /> as well as a carbon fiber rear diffuser. The front bumper has a distinct hole that is used to draw cool air into the newly designed air intake.<ref name="cartorque" /> The boot lid is redesigned to incorporate a raised lip, unlike the standard M3 where one is simply added on to a flat boot.<ref name="cartorque" /> The CSL was sold with distinct 19 inch lightweight forged BBS alloy rims that came with Michelin Pilot Sport Cup [[Tire#High_performance|semi-slick]] racing tires.<ref name="usautoparts" /><ref name="tirecite">{{cite web|url=http://www.caranddriver.com/buying_guide/bmw/m3/bmw_m3_csl_auto_shows__1+type-news_by_make+mode-collection+id-259.html|title=BMW M3 CSL - Auto Shows|publisher=Car and driver|accessdate=2009-07-10}}</ref> The interior of the CSL is redesigned with a sporty-weight saving theme. The CSL obtains fiberglass front racing bucket seats,<ref name="cartorque" /> and fiberglass backed rear seats.<ref name="cartorque" /> The center console, door panels and trim, and headliner are all formed from carbon fiber<ref name="usautoparts" /><ref name="cartorque" />, and the steering wheel is redesigned with cruise control, stereo, and phone controls removed to include just a single button that activates the M track mode.<ref name="usautoparts" />
+
+Unlike the standard M3, which was offered with a standard 6-speed GETRAG transmission, or optionally a [[SMG]] drivelogic transmission (also known as the SMG II), the CSL was offered only with the SMG II transmission.<ref name="carpages" /> This is the standard 6-speed GETRAG transmission with an electrohydraulically actuated clutch pedal, similar to an Formula One style transmission.<ref name="usautoparts" /> However, the CSL received a more advanced drivelogic unit than the standard M3 that was capable of making shifts in 0.08 of a second.<ref name="usautoparts" /><ref name="carpages" />
+
+===North American competition package (ZCP)===
+As the M3 CSL was not available to the North American markets, BMW released an optional "competition package" (option code ZCP) to fill the market void. It upgraded the normal M3 by way of 19 inch cast lightweight CSL style wheels, detuned CSL suspension components, a tighter steering ratio, and the CSLs brakes.<ref name="M3Zine">{{cite web|url=http://www.m3zine.com/index.php/E46-M3.html|title=BMW M3 Zine - BMW M3|publisher=M3Zine|accessdate=2009-07-10}}</ref> It also included a detuned version of the CSLs dynamic stability control.<ref name="M3Zine" />
+
+==Gallery==
+<gallery perrow="4">
+Image:'99-'01 BMW 330ci.JPG|Coupe Front
+Image:BMW 328Ci E46 rear.jpg|Coupe Rear
+Image:BMW_E46_2004_Black.jpg|Coupe Side (Facelift)
+Image:BMW_E46FL_Sport.JPG|Coupe ZHP (Euro)
+Image:BMW320i_E46_Lim.jpg|Sedan Front
+Image:BMW E46 front 20080822.jpg|Sedan Front (Facelift)
+Image:BMW E46 rear 20080822.jpg|Sedan Rear (Facelift)
+Image:BMW E46 330i ZHP.jpg|Sedan ZHP (US)
+Image:BMW 330Ci convertible.jpg|Cabriolet
+Image:Bmw 3 2004 cabrio.jpg|Cabriolet (Facelift)
+Image:BMW-325Xi-wagon.jpg|Touring Front (Facelift)
+Image:BMW E46 2004 back (photo by Mo).jpg|Touring Rear (Facelift)
+Image:BMW_E46_compact_front_20071104.jpg|Compact Front
+Image:BMW_E46_compact_rear1_20071104.jpg|Compact Rear
+Image:Black_BMW_M3_CSL_E46_fr.jpg|Front M3 CSL
+Image:Black_BMW_M3_CSL_E46_rr.jpg|Rear M3 CSL
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+<!--
+READ FIRST: External links that do not completely conform to the external link policy should be submitted through the Open Directory Project. Please read up on this by visiting the ODP article and external link policy:
+- http://en.wikipedia.org/wiki/Open_Directory_Project
+- http://en.wikipedia.org/wiki/Wikipedia:External_links
+-->
+* [http://natgeotv.com.au/Programmes/Main.aspx?Id=652 BMW's Super factory]
+* {{dmoz|Recreation/Autos/Makes_and_Models/BMW/3_Series/|BMW 3-series}}
+<!-- Dead Link * [http://bimmeromania.blogspot.com/2007/03/video-making-of-bmw-e46-have-you-ever.html BMW Video: Making of an BMW E46] -->
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 3 Series (E46)}}
+[[Category:BMW platforms|E46]]
+[[Category:Vehicles introduced in 1998]]
+[[Category:Euro NCAP large family cars]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+
+[[bs:BMW E46]]
+[[da:BMW E46]]
+[[de:BMW E46]]
+[[et:BMW E46]]
+[[es:BMW E46]]
+[[nah:BMW 3er-E46]]
+[[nl:BMW E46]]
+[[no:BMW E46]]
+[[pl:BMW E46]]
+[[pt:BMW E46]]
+[[ru:BMW E46]]
+[[sv:BMW E46]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = capital
+|rdfs:domain = PopulatedPlace
+|rdfs:range = City
+}}

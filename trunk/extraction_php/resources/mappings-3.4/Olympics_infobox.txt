@@ -1,0 +1,8 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Olympics
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Nations participating | ontologyProperty = Olympics/numberOfParticipatingNations }}
+	{{ DBpediaPropertyMapping | templateProperty = Athletes participating | ontologyProperty = Olympics/numberOfParticipatingAthletes }}
+	{{ DBpediaPropertyMapping | templateProperty = Officiallyopenedby | ontologyProperty = Olympics/officialOpenedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = Olympic Torch | ontologyProperty = Olympics/torchBearer }}
+}}

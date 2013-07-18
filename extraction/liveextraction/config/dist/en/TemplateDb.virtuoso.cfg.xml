@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+          "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+          "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<property name="connection.url">jdbc:virtuoso://localhost</property>
+		<property name="connection.username">dbpedia</property>
+		<property name="connection.password">dbpedia</property>
+		<property name="connection.driver_class">virtuoso.jdbc4.Driver</property>
+		<property name="dialect">hacks.VirtuosoSybaseDialect</property>
+		<!-- <property name="hibernate.hbm2ddl.auto">create-drop</property> -->
+		<property name="hibernate.hbm2ddl.auto">update</property>
+
+		<property name="transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>
+		<!--
+			thread is the short name for org.hibernate.context.ThreadLocalSessionContext
+			and let Hibernate bind the session automatically to the thread
+		-->
+		<property name="current_session_context_class">thread</property>
+		<property name="hibernate.show_sql">false</property>
+
+
+		<mapping class="templatedb.entity.TemplateAnnotation" />
+		<mapping class="templatedb.entity.PropertyAnnotation" />
+		<mapping class="templatedb.entity.PropertyMapping" />
+
+	</session-factory>
+</hibernate-configuration>

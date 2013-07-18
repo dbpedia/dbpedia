@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = total mass
+| rdfs:domain = Spacecraft
+| rdfs:range = Mass
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = winter temperature
+|rdfs:domain = City
+|rdfs:range = degreeCelsius
+}}

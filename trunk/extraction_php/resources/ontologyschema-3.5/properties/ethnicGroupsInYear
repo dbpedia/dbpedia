@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = ethnic groups in year
+| rdfs:range = xsd:date
+}}

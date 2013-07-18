@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= acceleration
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= second
+|rdf:type	= owl:FunctionalProperty
+}}

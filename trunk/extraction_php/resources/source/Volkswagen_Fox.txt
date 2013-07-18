@@ -1,0 +1,199 @@
+{{distinguish|Audi Fox|Ford Fox platform}}
+{{Infobox Automobile
+| name         = Volkswagen Fox
+| aka          = Volkswagen Lupo (2005-2009; Mexico)
+| image        = [[File:VW Fox front 20080115.jpg|250px|Volkswagen Fox]]<br/>[[File:VW Fox rear 20080115.jpg|250px|Rear-view VW Fox]]
+| manufacturer = [[Volkswagen]]
+| assembly     = [[São Bernardo do Campo]], [[São Paulo]] (European version) <br > [[São José dos Pinhais]], [[Paraná (state)|Paraná]], [[Brazil]](Latin America)  
+| platform     = [[Volkswagen Group A0 platform#PQ24|Volkswagen PQ24 platform]]
+| production   = 2004—present
+| predecessor  = Latin America: None<br>Europe: [[Volkswagen Lupo]]
+| class        = Latin America: [[Subcompact car]]<br>Europe: [[City car]]
+| body_style   = 3-door [[hatchback]]<br>5-door [[hatchback]]
+| layout       = [[FF layout]]
+| length       = 2005-08: 3805&nbsp;mm&nbsp;(149.8&nbsp;in)<br>2009-Present: {{convert|3823|mm|in|1|abbr=on}}
+| width        = 1640&nbsp;mm&nbsp;(64.5&nbsp;in)
+| height       = 1545&nbsp;mm&nbsp;(60.8&nbsp;in)
+| wheelbase    = 2465&nbsp;mm&nbsp;(97&nbsp;in)
+|transmission = 5-speed [[Manual transmission|manual]]
+| engine       = 1.2&nbsp;L petrol, 55&nbsp;hp [[Straight-3|I3]]<br>1.4&nbsp;L petrol, 75&nbsp;hp [[Straight-4|I4]]<br>1.4&nbsp;L TDI, 70&nbsp;hp [[Straight-4|I4]]<br>1.6&nbsp;L petrol, 98&nbsp;hp [[Straight-4|I4]]<br>1.0&nbsp;L [[flexible fuel|Total Flex]], 73&nbsp;hp [[Straight-4|I4]]<br>1.6&nbsp;L Total Flex, 103&nbsp;hp [[Straight-4|I4]]
+}}
+
+The '''Volkswagen Fox''' is a [[city car]] produced and designed by [[Volkswagen do Brasil]] and sold in [[Latin America]] since 2004 and [[Europe]] since 2005. Currently the Fox is produced as a three-door and five-door [[hatchback]]. There is also a [[mini SUV]] version called '''CrossFox''', and a [[mini MPV]]/[[station wagon]] model called '''Suran''', '''SpaceFox''', '''SportVan''' or '''Fox Plus''' depending on the market.
+
+In South America, it fits between its two supermini brothers, the [[low cost]] [[Volkswagen Gol|Gol]] and the [[Volkswagen Polo|Polo]]. In [[Mexico]] it was called the '''Lupo''', due to the last name of then-current President [[Vicente Fox]]. VW of Mexico dropped the Lupo after a short run of 2009 models due to poor sales and replaced it along with the aged Pointer and Derby by the [[Volkswagen_Gol#Gol_G5_.282008-.29|VW Novo Gol]].
+
+In the European market, the Fox replaced the [[Volkswagen Lupo|Lupo]] [[city car]] as the entry-level car in the lineup and at a far cheaper price.
+
+Like the contemporary Polo, the Fox is based on Volkswagen's [[Volkswagen Group A0 platform#PQ24|PQ24]] [[automobile platform|platform]].
+
+{{TOCleft}}
+{{-}}
+
+==Facts==
+* The roof liner and rear parcel shelf are made from the renewable resourced Curaua plant.
+* The European-market Fox has a four-star [[EuroNCAP]] safety rating.
+* The static torsional stiffness of the Fox is 17941&nbsp;Nm and has a dynamic torsional stiffness of 39.2&nbsp;Hz.
+* An optional rear bench seat slides 150&nbsp;mm lengthways and the backrest can split 50/50 in the middle, depending on the configuration, the boot volume is adjustable between 260 and 1016&nbsp;L.
+* Volkswagen recalled over 400,000 units in Latin America and Africa due to a problem with the rear seat longitudinal adjustment mechanism after eight Brazilian owners lost part of their fingers while trying to adjust the seats. <ref>{{cite web 
+|url=http://www.vwbr.com.br/bancodofox/
+|title=Volkswagen do Brasil recall website (in Portuguese)}}</ref>
+
+==South American Fox 1.6 specifications==
+*Engine: EA111, BAH; 8V, 1599&nbsp;cc, [[cast iron]] [[cylinder head]], RSH ([[Rocker arm|roller rocker arm]])
+*Power: 101&nbsp;hp (74&nbsp;kW) @ 5750&nbsp;rpm
+*Fuel Injection: Motronic (Benzin ME7.5.10 until 2006)
+*Torque: {{convert|140|Nm|ftlbf|abbr=on}} @ 3250&nbsp;rpm
+*0-100&nbsp;km/h: 10.5&nbsp;s
+*Top Speed: {{convert|170|km/h|mi/h|abbr=on}}
+*Boot: {{convert|260|L|cuft|abbr=on}}-{{convert|1236|L|cuft|abbr=on}} 
+*Transmission: 5-speed [[Manual transmission|manual]] (Audi MQ200 manual gearbox)
+*Fuel capacity: {{Convert|50|L|usgal impgal|1|abbr=on}}
+The Brake system is similar than the Audi A3(non-turbo), Front rotors. Rear still Drums.
+
+==In Europe==
+The Fox was introduced to [[Europe]] at the AMI [[Leipzig]] Motor Show in 2005, on debut in Europe the Fox was only available as a three-door hatchback and with three engine options: the 1.2&nbsp;L 40&nbsp;kW (55&nbsp;hp) [[Straight-3|I3]] and 1.4&nbsp;L 55&nbsp;kW (75&nbsp;hp) [[Straight-4|I4]] [[petrol engine]]s and the 1.4&nbsp;L 51&nbsp;kW (69&nbsp;hp) [[Turbo Direct Injection|TDI engine]].
+
+The Fox was sold with a long options list to reduce its tag price, therefore letting the European customer specify the Fox to their liking. It did come with standard twin airbags and anti-lock braking system for safety measures. Upon its debut the Fox scored four stars in [[EuroNCAP]]'s crash rating system.
+
+==== Petrol ====
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 90%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+!Model
+!Engine
+!Displacement
+!Power
+!Torque
+!Note
+|- bgcolor=#ffffff
+|'''1.2'''||[[straight-3|I3]]||1198 cc||{{convert|56|PS|kW hp||abbr=on}} @4750 rpm||{{convert|108|Nm|lbft||abbr=on}} @3000 rpm|| 
+|- bgcolor=#ffffff
+|'''1.4'''||[[Straight-4|I4]]||1390 cc||{{convert|76|PS|kW hp||abbr=on}} @5000 rpm||{{convert|124|Nm|lbft||abbr=on}} @2750 rpm||
+|}
+
+==== Diesel ====
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 90%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+!Model
+!Engine
+!Displacement
+!Power
+!Torque
+!Note
+|- bgcolor=#ffffff
+|'''1.4 TDI'''||[[straight-3|I3]]||1422 cc||{{convert|71|PS|kW hp||abbr=on}} @4000 rpm||{{convert|155|Nm|lbft||abbr=on}} @1600-2800 rpm|| 
+|}
+
+'''Options''' 
+
+*Alloy Wheels
+*Electronic pack with electric windows and mirrors
+*Sunroof
+*ESP with electronic differential lock and traction control system
+*Front and side airbags
+*Semi climatic air conditioner law
+*CD player
+
+The electronic differential lock (EDL) employed by VAG is not - as the name suggests - a differential lock at all. Sensors monitor wheel speeds, and if one is rotating substantially faster than the other (i.e. slipping) the EDL system momentarily brakes it. This effectively transfers all the power to the other wheel<ref>{{cite web 
+|url=http://briskoda.net/forums/technical-guides/vag-four-wheel-drive-systems-brand-names/2584/
+|title=VAG four-wheel drive systems and brand names}}</ref>.
+<!--HIDDEN UNTIL PROVED AND WRITTEN IN A DECENT WIKIFORM
+In Argentina there is a problem with the safety regulations for Fox 3 doors that represents a risk for the passenger in frontal collisions: doors can not be open after frontal crash at low speed, and in addition the power to the engine doesn't cut with the airbags inflated, that problems is still in the paper and is a headache for the engineers in Brazil!!{{Fact|date=June 2008}}-->
+
+The price in Germany is 8.950,00 €. <ref>[http://www.autokiste.de/psg/0504/4120.htm VW: Fox kostet ab 8.950 Euro]</ref>
+
+==Volkswagen CrossFox==
+{{Infobox Automobile
+| name         = Volkswagen CrossFox
+| image        = [[File:VW Crossfox.jpg|250px]]
+| manufacturer = [[Volkswagen]]
+| production   = 2005—present
+| class        = [[Crossover SUV|mini XUV]]
+| body_style   = 5-door [[hatchback]]
+| layout       = [[FF layout]]
+|transmission = 5-speed [[Manual transmission|manual]]
+| length       = 2005-08: 4080&nbsp;mm&nbsp;(160.6&nbsp;in)<br>2009-Present: {{convert|4066|mm|in|1|abbr=on}}
+| width        = 2005-08: 1640&nbsp;mm&nbsp;(64.5&nbsp;in)<br>2009-Present: {{convert|1689|mm|in|1|abbr=on}}
+| height       = 2005-08: 1640&nbsp;mm&nbsp;(64.5&nbsp;in)<br>2009-Present: {{convert|1639|mm|in|1|abbr=on}}
+| wheelbase    = 2005-08: 2465&nbsp;mm&nbsp;(97&nbsp;in)<Br>2009-Present: {{convert|2469|mm|in|1|abbr=on}}
+| engine       = 1.6&nbsp;L petrol, 98&nbsp;hp [[Straight-4|I4]]<br>1.6&nbsp;L Total Flex, 103&nbsp;hp [[Straight-4|I4]]
+}}
+
+The Volkswagen CrossFox is a [[mini SUV]] version which sets it apart from the standard Fox. As is the case for other similar models, it is only available with [[front-wheel drive]].
+
+It is produced in Brazil and sold in [[Latin America]]n markets; there are plans to export it to [[Europe]]an markets to compete in the expanding mini SUV market (see [[Ford EcoSport]] and [[Fiat Idea#Idea Adventure|Fiat Idea Adventure]]).
+[[File:VW CrossFox 2009 2.JPG|250px|left|thumb]]
+{{-}}
+
+==Volkswagen Suran/SpaceFox/SportVan/Fox Plus==
+{{Infobox Automobile
+| name         = Volkswagen SpaceFox
+| aka          = Volkswagen Suran<br>Volkswagen SportVan<br>Volkswagen Fox Plus
+| image        = [[Image:Volkswagen Spacefox.jpg|250px|Volkswagen SpaceFox (Brazilian market version)]]
+| manufacturer = [[Volkswagen]]
+| Assembly     = [[General Pacheco]], [[Argentina]] <ar > 
+| production   = 2006—present
+| class        = [[Mini MPV]] / [[Station wagon]]
+| body_style   = 5-door [[station wagon|wagon]]
+| layout       = [[FF layout]]
+{{convert|4066|mm|in|1|abbr=on}}
+|transmission = 5-speed [[Manual transmission|manual]]
+| length       = 2006-08: 4165&nbsp;mm&nbsp;(164&nbsp;in)<br>2009-Present: {{convert|4180|mm|in|1|abbr=on}}
+| width        = 2006-08: 1640&nbsp;mm&nbsp;(64.5&nbsp;in)<br>2009-Present: {{convert|1660|mm|in|1|abbr=on}}
+| height       = 2006-08: 1545&nbsp;mm&nbsp;(60.8&nbsp;in)<br>2009-Present: {{convert|1576|mm|in|1|abbr=on}}
+| wheelbase    = 2465&nbsp;mm&nbsp;(97&nbsp;in)
+| engine       = 1.6&nbsp;L petrol, 98&nbsp;hp [[Straight-4|I4]]<br>1.6&nbsp;L Total Flex, 103&nbsp;hp [[Straight-4|I4]]
+}}
+
+[[File:VW SportVan Trendline 2008.JPG|250px|thumb|left]]
+
+A [[mini MPV]]/[[station wagon]] version of the Fox was presented in April 2006. It is named '''Suran''' in Argentina [http://www.volkswagen.com.ar/_modelos_inicio.asp?vModeloNav=suran], Chile and Uruguay, '''SpaceFox''' in Brazil [http://www.vwbr.com.br/Automoveis/?idModelo=929] and [[Peru]] [http://www.volkswagen.com.pe/Modelos/Spacefox/index.html], '''SportVan''' in Mexico [http://www.vw.com.mx/CWE/estudio/EST001HOME/0,12440,iM%253D77,00.html] and '''Fox Plus''' in [[Algeria]] [http://www.lautomarche.com/modules.php?name=News&file=article&sid=243]. It is built in [[General Pacheco]], [[Argentina]].
+
+Because of its 360&nbsp;mm-extended tail (4165&nbsp;mm vs. 3805&nbsp;mm), it has a larger boot and more rear leg room than the hatchback versions. Its main competitors are the [[Peugeot 206 SW]], [[Fiat Idea]] and [[Chevrolet Meriva]].
+
+{{-}}
+
+==Other Volkswagen Fox models==
+[[Image:Volkswagen-Fox-GL-sedan.jpg|thumb|US-spec Volkswagen Fox GL sedan.]]
+{{see also|Volkswagen Gol}}
+'''Fox''' and '''Fox Wagon''' was also the name of a [[subcompact car|subcompact]] [[sedan (car)|sedan]] and 
+[[station wagon]] built by Volkswagen do Brazil and sold by Volkswagen in [[North America]] as an entry level model. It was a North American version of the [[Volkswagen Gol|Gol]] range, produced in the late 1980s and early 1990s in [[Brazil]]. It was a design unique to South America, although it bore a family resemblance to the [[Volkswagen Jetta]]. After 1990 the Wagon was discontinued from the North American market; it was the last two-door wagon offered in the US. However, the Fox sedan and coupe lasted until 1993 in the US. Early models (1987-1989) feature Bosch Jetronic electro-mechanical fuel injection known as CIS-E. The CIS-E system used an Oxygen sensor to assist in fuel management to meet emissions requirements. VW offered a standard 2 and 4 door sedan with a 4 speed transmission and a "GL" sport model with a 5 speed transmission. In Canada the Fox from 1987-1989 was offered with the simpler Bosch CIS fuel injection system. The CIS injection system did not utilize an Oxygen sensor as part of an engine fuel management system. The Fox sported a longitudinal mounted 1.8L, 81 hp (DIN) engine, sharing components with the VW Golf of the era. VW never offered the Fox of this generation with an [[automatic transmission]] in the North American market. The Fox had a squared off front end with rectangular sealed beam halogen headlamps, while the final U.S. version (1990-1993) had Bosch Digifant electronic fuel injection and a more modern styled front end with glass headlamps.  Volkswagen did not sell any subcompact cars in [[Canada]] until 2007, when the [[Volkswagen Golf Mk4|Volkswagen City Golf]] and [[Volkswagen City Jetta]] began sales.
+
+In [[South Africa]], the Volkswagen Fox was a model based on the original [[Volkswagen Jetta|Jetta]], but featuring the front end of the [[Volkswagen Citi|Citi]], a facelifted version of the original [[Volkswagen Golf|Golf Mk 1]], which is still in production in South Africa.
+
+In the [[United States]] and [[Australia]] the [[Audi 80]] was badged as the Audi Fox during the 1970s. The Australian version was assembled locally by Volkswagen Australasia Ltd.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/models/fox.html Official VW Fox website]
+
+
+{{commonscat}}
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (South America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Fox]]
+[[Category:Euro NCAP superminis]]
+[[Category:Cars of Brazil]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2004]]
+
+[[bs:Volkswagen Fox]]
+[[da:Volkswagen Fox]]
+[[de:VW Fox]]
+[[es:Volkswagen Fox]]
+[[fr:Volkswagen Fox]]
+[[hr:Volkswagen Fox]]
+[[it:Volkswagen Fox]]
+[[lv:Volkswagen Fox]]
+[[nl:Volkswagen Fox]]
+[[ja:フォルクスワーゲン・フォックス]]
+[[pl:Volkswagen Fox]]
+[[pt:Volkswagen Fox]]
+[[ru:Volkswagen Fox]]
+[[simple:Volkswagen Fox]]
+[[fi:Volkswagen Fox]]
+[[sv:Volkswagen Fox]]

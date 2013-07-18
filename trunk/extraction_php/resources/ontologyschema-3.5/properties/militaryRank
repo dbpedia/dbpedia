@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = military rank
+| rdfs:domain = MilitaryPerson
+}}

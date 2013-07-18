@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = School
+| rdfs:subClassOf = EducationalInstitution
+| specificProperties = {{SpecificProperty | ontologyProperty = campusSize | unit = squareKilometre }}
+}}

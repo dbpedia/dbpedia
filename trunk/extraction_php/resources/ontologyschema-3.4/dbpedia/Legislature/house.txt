@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = house
+|rdfs:domain = Legislature
+|rdfs:range = Legislature
+}}

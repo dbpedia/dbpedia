@@ -1,0 +1,49 @@
+{{Infobox Automobile
+|name=NSU Typ 110<br>''(1965 – 1967)''<br> NSU 1200<br>''(1967 – 1972)''
+|manufacturer=[[NSU Motorenwerke AG]]
+|production=1965–1972
+|predecessor=none
+|successor=none
+|image=[[File:NSU 1200.jpg|268px|NSU 1200]]
+|class=
+|platform=
+| transmission   = 4-speed manual all-synchromesh with hydraulically operated single plate dry clutch<ref name=NSU110UKbrochure/>
+|layout=[[RR layout]] 
+|body_style=2-door [[sedan (car)|sedan]]
+|designer=
+|engine=1,085 cc air cooled four cylinder <br>''(1965 – 1967)''<br> 1,177 cc air cooled four cylinder<br>''(1967 – 1972)''
+| length = {{convert|4000|mm|in||abbr=on}}<ref name=NSU110UKbrochure/>
+| width = {{convert|1490|mm|in||abbr=on}}<ref name=NSU110UKbrochure/>
+| height = {{convert|1390|mm|in||abbr=on}}<ref name=NSU110UKbrochure/>
+| weight = 
+| wheelbase =  {{convert|2440|mm|in||abbr=on}}<ref name=NSU110UKbrochure/>
+| track = 
+|fuel_capacity=|fuel_capacity={{Convert|43|L|usgal impgal|1|abbr=on}}<ref name=NSU110UKbrochure/>
+}}
+
+The '''NSU Typ 110''' was first presented at the 1965 [[Frankfurt Motor Show]], widening [[NSU Motorenwerke AG|NSU]]’s range in the process.   It was based on the [[NSU Prinz| NSU Prinz 1000]] but with a longer wheelbase and a front overhang which increased available space both in the passenger cabin and in the luggage compartment. With an external length of four meters the car took NSU into the lower rungs of the middle class saloon sector, as it existed at that time in Germany. It was to distance the model from the small car sector that for this model NSU abandoned the Prinz name which had till then been carried by their passenger cars.
+
+Viewed from the front, large square headlights differentiate the Typ 110 from the smaller models, flanking a large chrome-effect panel that might have passed for a false grill. Inside, domestic market cars featured a fashionable strip speedometer reminiscent of that found on the [[Opel Rekord#Opel Rekord B (1966–67)|Opel Rekord B]] which had been introduced a couple of months earlier.  The Typ 110 came with a strip of 'simulated wood'<ref name=NSU110UKbrochure>{{cite book| authorlink = | title = NSU Typ 110S Typ110SC English language brochure| journal = | volume = | pages =  |publisher=NSU Motorenwerke Aktiengesellschaft|date = date ca. 1967|location= Neckarsulm |id= DW 2156 500 7611 ''(probably some sort of NSU "part number/Teilnummer")''}}</ref> veneer across the width of the dash board, while a new heating and ventilation system testified to the car’s middle class aspirations.   Reclining front seats were available at extra cost.<ref name=NSU110UKbrochure/>
+
+In fact the Typ 110 and its sporting derivative, the NSU 1000 TTS were, like the Prinz 1000, powered by rear mounted aircooled four cylinder engines. Initially the Typ 110 came with a 1085 cc engine with a  claimed output of  {{convert|39|kW|PS hp|0|abbr=on}}, which would also find its way into the sporting smaller Prinz 1000 TT, albeit with a slightly higher claimed output of {{convert|40|kW|PS hp|0|abbr=on}}. During early 1967 a larger engine of 1,177 cc {{convert|44|kW|PS hp|0|abbr=on}} became available in a version designated as the NSU Typ 110SC.
+
+Later in 1967 NSU simplified their model range. The NSU Typ 110 was rebranded as the NSU 1200, with claimed engine output now reduced back to {{convert|40|kW|PS hp|0|abbr=on}}. In this form it continued to be offered in Germany until December 1972.
+
+In January 1966 Britain's [[Autocar]] magazine tested a 1,085 cc NSU Typ 110.<ref name=Autocar1967>{{cite journal| authorlink = | title = Testing two NSUs...   Typ 110 SC| journal = [[Autocar]]| volume = 127 (nbr 3728)| pages = pages 26 - 29 |date = date 23 July 1967}}</ref>   In July 1967, the larger engined 1,177 cc Typ 110SC having become available in right hand drive form on the UK market, they tested the newer model and compared results from the two tests.   The top speed achieved had increased from {{convert|87|mi/h|km/h|abbr=on}} to {{convert|93|mi/h|km/h|abbr=on}}.<ref name=Autocar1967/> The acceleration time from 0 to {{convert|50|mi/h|km/h|abbr=on}} had come down from 12.3 seconds to precisely 10.0 seconds.<ref name=Autocar1967/> There was also a 10% improvement in overall fuel consumption for the test from {{convert|26.9|mpgimp|L/100 km mpgus|1|abbr=on}} to {{convert|29.7|mpgimp|L/100 km mpgus|1|abbr=on}}.<ref name=Autocar1967/>  Other sources indicate even better performance for the Typ 110 SC, but by any reckoning it is apparent that the car's relatively lightness of build and its energetic engine tended to place it at or near the top of performance tables for smaller sedans, albeit at a time when the German market best seller was still the relatively heavy [[Volkswagen Type 1|Volkswagen Beetle]] offered, at this stage, only with 1200 or 1300 cc engines.   Disc brakes at the front ensured reasonable stopping power.<ref name=NSU110UKbrochure/>  Less in the NSU's favour was its poor directional stability in cross winds, a particular issue for [[Autobahn]] cruising. German reports nevertheless commended the car's ease of handling in city traffic and on mountain roads where the positioning of the engine above the driving wheels, at the rear of the vehicle, conferred a traction advantage in winter conditions.
+
+In 1967 the British car market still sheltered behind significant import tariffs: in the UK the Typ 110 SC carried a manufacturers' recommended retail price of £799 at a time when the similarly angular (if {{convert|4|in|cm}} shorter) [[Triumph Herald|Triumph Herald 12/50]] was retailing on its own home market for £678.<ref name=Autocar1967/>
+
+The Typ 110 was also unusually easy to repair, with care taken to ensure easy replacement of key components:  it was claimed that the entire clutch could be changed in just 30 minutes. Zinc coating on the under body promised superior rust resistance.   Recommended service intervals of {{convert|7500|km}}<ref name=NSU110UKbrochure/> at a time when competitor vehicles typically required a routine service every {{convert|5000|km}} also gave the car an advantage in a cost conscious market place, and pointed to a future when less than a decade later NSU's new parent company, [[Volkswagen]] would lead the way in extending recommended service intervals to {{convert|15000|km}} with their new [[Volkswagen Passat|front]] [[Volkswagen Golf|engined]] [[Volkswagen Polo|ranges]].
+
+Between 1965 and 1967 approximately 74,000 NSU Typ 110/110SCs were built.  After the car was rebranded, approximately 256,000 NSU 1200s were built between 1967 and 1972.<ref name=NSU-AutomobileSchneider>{{cite book |last=Schneider |first=Peter |authorlink= |coauthors= |title=NSU-Automobile 1905−1977|year= |publisher=Motorbuch Verlag |location=Stuttgart |id=}}</ref>
+
+==References==
+{{reflist}}
+
+* {{De|NSU Typ 110}}
+
+[[Category:Rear-engined vehicles|NSU Prinz]]
+[[Category:NSU vehicles|Typ 110]]
+[[Category:Vehicles introduced in 1965]]
+
+[[de:NSU Typ 110]]

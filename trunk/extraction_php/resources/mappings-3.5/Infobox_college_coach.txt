@@ -1,0 +1,22 @@
+{{TemplateMapping
+| mapToClass = CollegeCoach
+| mappings = 
+	{{PropertyMapping | templateProperty = CoachTeams | ontologyProperty = coachedTeam }}
+	{{PropertyMapping | templateProperty = Title | ontologyProperty = titel }}
+	{{PropertyMapping | templateProperty = College | ontologyProperty = college }}
+	{{PropertyMapping | templateProperty = CurrentRecord | ontologyProperty = currentRecord }}
+	{{PropertyMapping | templateProperty = OverallRecord | ontologyProperty = overallRecord }}
+	{{PropertyMapping | templateProperty = BowlRecord | ontologyProperty = bowlRecord }}
+	{{PropertyMapping | templateProperty = TournamentRecord | ontologyProperty = tournamentRecord }}
+	{{PropertyMapping | templateProperty = CoachingRecords | ontologyProperty = coachingRecord }}
+	{{PropertyMapping | templateProperty = Team | ontologyProperty = coachedTeam }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = CoachYears | ontologyProperty = activeYearsStartDate }}
+	{{PropertyMapping | templateProperty = CoachYears | ontologyProperty = activeYearsEndDate }}
+	{{PropertyMapping | templateProperty = DateOfBirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = Birthplace | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = DateOfDeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = Deathplace | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = Years | ontologyProperty = activeYearsStartDate }}
+	{{PropertyMapping | templateProperty = Years | ontologyProperty = activeYearsEndDate }}
+}}

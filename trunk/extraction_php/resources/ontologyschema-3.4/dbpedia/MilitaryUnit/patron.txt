@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = patron
+|rdfs:domain = MilitaryUnit
+|rdfs:range = Person
+}}

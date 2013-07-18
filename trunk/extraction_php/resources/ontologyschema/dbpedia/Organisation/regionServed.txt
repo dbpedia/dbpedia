@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= region served
+|rdfs:domain	= Organisation
+|rdfs:range		= owl:Thing <!-- Place -->
+}}

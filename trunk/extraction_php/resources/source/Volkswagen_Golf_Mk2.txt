@@ -1,0 +1,219 @@
+{{Refimprove|date=May 2008}}
+{{Infobox Automobile generation
+|name         = Volkswagen Golf Mk2
+|image        = [[File:VW Golf 2 Red ca 1990 dept 54.JPG|250px]]
+|manufacturer = [[Volkswagen]]
+|production   = 6.3 million units<ref name=AutoMotoruSport2008 >{{cite book |last= |first= |authorlink= |coauthors=Christian Bangemann u. Beate Jeske |title= Auto Motor und Sport Heft 18 Seite 24|year= 2008 |publisher= |location= Stuttgart |id=}}</ref><br>1983-1992
+|assembly     = [[Wolfsburg]], [[Germany]],<br>[[TAS]], [[Sarajevo]], [[Bosnia and Herzegovina]],<br>[[New Stanton, Pennsylvania]], [[United States]]<br>[[Puebla, Puebla]], [[Mexico]]<br>[[Uitenhage]], [[South Africa]].|predecessor  = [[Volkswagen Golf Mk1]]
+|successor    = [[Volkswagen Golf Mk3]]
+|body_style   = 3-door [[hatchback]],<br>5-door [[hatchback]]
+|layout       = [[Front-engine design|Front engine]], [[front-wheel drive]] / [[four-wheel drive]]
+|platform     = [[Volkswagen Group A platform#A2|Volkswagen Group A2 platform]]
+|engine       = ''All markets except North America/Japan:''<br>
+1.3L {{convert|55|PS|kW hp||abbr=on}} [[Straight-4|I4]]<br>
+1.6L {{convert|75|PS|kW hp||abbr=on}} I4<br>
+1.8L {{convert|90|PS|kW hp||abbr=on}} I4<br>
+1.8L {{convert|98|PS|kW hp||abbr=on}} I4 Syncro only<br>
+1.8L {{convert|112|PS|kW hp||abbr=on}} I4<br>
+1.8L {{convert|129|PS|kW hp||abbr=on}} I4 16V (Motorcode: PL)<br>
+1.8L {{convert|139|PS|kW hp||abbr=on}} I4 16V (Motorcode: Kr)<br>
+1.8L {{convert|160|PS|kW hp||abbr=on}} G60 I4<br>
+1.8L {{convert|210|PS|kW hp||abbr=on}} 16V-G60 (limited edition)<br>
+1.6L {{convert|54|PS|kW hp||abbr=on}} I4 diesel<br>
+1.6L {{convert|70|PS|kW hp||abbr=on}} I4 turbo diesel<br>
+1.6L {{convert|80|PS|kW hp||abbr=on}} I4 turbo-intercooler diesel<br>
+''North America/Japan:''<br>
+1.8L {{Convert|85|hp|kW|0|abbr=on}} I4 (MY 1985-1987)<br>
+1.8L {{Convert|100|hp|kW|0|abbr=on}} I4 (MY 1988-1990)<br>
+1.8L {{Convert|94|hp|kW|0|abbr=on}} I4 (MY 1991-1993)<br>
+1.8L {{Convert|102|hp|kW|0|abbr=on}} I4 GTI (MY 1987)<br>
+1.8L {{Convert|105|hp|kW|0|abbr=on}} I4 GTI (MY 1988-1992)<br>
+2.0L {{Convert|115|hp|kW|0|abbr=on}} I4 GTI (MY 1993)<br>
+1.8L {{Convert|123|hp|kW|0|abbr=on}} I4 16V (MY 1987-1989)<br>
+2.0L {{Convert|134|hp|kW|0|abbr=on}} I4 16V GTI (MY 1990-1992)<br>
+1.6L {{Convert|52|hp|kW|0|abbr=on}} I4 diesel (MY 1985-1990?)<br>
+1.6L {{Convert|68|hp|kW|0|abbr=on}} I4 turbo diesel (MY 1985-1988?)<br>
+Electric motor ABB 200# CityStromer produced ( 1991 MY?)<br>
+|transmission = 4-speed/5-speed [[manual transmission|manual]],<br>3-speed [[Automatic transmission|automatic]]
+|wheelbase    = {{convert|2470|mm|in|1|abbr=on}}
+|length       = {{convert|3985|mm|in|1|abbr=on}}−{{convert|4035|mm|in|1|abbr=on}},<br>North America: {{auto in|158.0|1}} (MY 85-88)<br>{{auto in|159.6|1}} (MY 89-93)
+|width        = {{convert|1665|mm|in|1|abbr=on}}−{{convert|1700|mm|in|1|abbr=on}}
+|height       = {{convert|1415|mm|in|1|abbr=on}}
+|weight       = {{convert|910|kg|lb|0|abbr=on}}−{{convert|1245|kg|lb|0|abbr=on}}<br>North America: {{convert|2137|lb|kg|0|abbr=on}}−{{convert|2445|lb|kg|0|abbr=on}}
+|related      = [[Volkswagen Jetta]],<br>[[Volkswagen Corrado]],<br>[[SEAT Toledo]] Mk1
+|designer     = 
+}}
+: ''for an overview of the generations, see: [[Volkswagen Golf]]
+
+The '''Volkswagen Golf Mk2''' succeeded the [[Volkswagen Golf Mk1|Mk1]] as [[Volkswagen]]'s volume seller from 1983 and remained in (German) production until late 1991.  In comparison to its predecessor, its wheelbase grew slightly (+ {{convert|75|mm|in|1|abbr=on}}), as did exterior dimensions (length + {{convert|180|mm|in|1|abbr=on}}, width + {{convert|55|mm|in|1|abbr=on}}, height + {{convert|5|mm|in|1|abbr=on}}).  Weight was up accordingly by about {{convert|120|kg|lb|1|abbr=on}}.  Exterior design, developed in-house by VW design director Schäfer, kept the general lines of its [[Giorgetto Giugiaro|Giugiaro]]-designed predecessor, but was slightly more rounded.  All told, about 6.3 million<ref>{{cite book |title=Deutsche Autos seit 1990 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02128-5 |page=250}}</ref> second-generation Golfs were built.
+
+==Model history==
+The second-generation Volkswagen Golf (also known as the ''Typ 19E'' until the 1991 model year, or ''Typ 1G'' thereafter) was launched in Europe at the [[Frankfurt]] Motor Show in September 1983.  It debuted in 1984 in the UK, and it was introduced as a 1985 model in the US.  It featured a larger bodyshell, and a wider range of engine options, including a GTD [[turbodiesel]] (in Euro markets, later using the 1.6 "umwelt" (ECO) diesel engine), a [[DOHC]] 1781 cc (1.8) 16-valve version of the straight-four GTI (as well as the tried and tested 1781cc (1.8) 8v GTI), the supercharged 8v "[[G60]]" with [[front-wheel drive|front-]] and [[four-wheel drive]] options, and a racing homologated variant of this, the "Rallye Golf". This model was meant to come to the US as well (badges a s"Rallye GTI"), and prototypes were made, but it did not come to be.
+
+During the life of the Golf 2, there were a number of external style revisions.  Notable changes to the looks of the Golf 2 included the removal of quarterlight windows in the front doors, and the introduction of larger grill slats with the August 1987 facelift.  The most notable was the introduction of so called "Big Bumpers", which were introduced in the European market with an August 1989 facelift. They were available in the US from August 1989 as well, as part of the "Wolfsburg Edition" package. They were not standardized until January, 1990.
+
+This Golf was marketed for the first time with that name in the United States and Canada.  The Rabbit name used on the [[Volkswagen Golf Mk1|Mk1]] was meant to give a car a cuddly image, but with the eighties redesign of the car, [[Carl Hahn]], the former [[Volkswagen of America]] president who was now chairman of the whole company, dictated that Volkswagen model names be standardised globally.  [[James Fuller]], head of the Volkswagen brand in North America, concurred in using the Golf name to stress the car's [[Teutonic]] character.  The GTI body kit became available on a non-injection Golf and was sold as the "Driver" trim level in Europe.  While the GTI remained a trim level in the Golf lineup in Europe, in North America it was (and continues to be) marketed as a separate model line.
+
+Volkswagen also had produced their model in former Yugoslavia Vogosca near Sarajevo, in today Bosnia&Herzegovina factory called Tvornica Automobila Sarajevo - TAS. MK2 was produced since 1985 with year production of 25.000 units until war in 1990. Model was produced only for six Yugoslav republics in that time, with rear badge Jx (which stands for less equipment than C and Cl), C and CL.Popular engine was 1.3 (carburator). 1.6 petrol and 1.6 diesel
+
+==Models==
+[[Image:1990-92 Volkswagen Golf 3-Door.JPG|thumb|left|1990-1992 Volkswagen Golf 3-Door (North America)]]
+[[Image:'90-'92 Volkswagen Golf 5-Door.JPG|thumb|left|1990-1992 Volkswagen Golf 5-Door (North America)]]
+The '''Golf Mk2''' was available as a 3- and 5-door hatchback.  Its sedan sister car (available as a 4- and a 2-door model) was again called Jetta. No cabriolet version was developed from the Mk2; instead, the Mk1-based convertible continued to be produced.
+
+Trim levels included base, C, CL and GL and initially a range-topping Carat model (until 1985), later a GT (in 1987) version was also on offer. In North America, there was only a base model until 1986, in 1987 a GL and GT model, in 1988-1989, there was all three, and in 1990 until the end of its run there was again only a GL. The GTI model existed from 1985-1987, and again from 1990-1992, and the GTI 16v existed from 1987-1992. In Japan the range consisted of catalysed Ci/CLi/GLi models all sharing the same 1.6 or later 1.8 liter fuel-injected [[Straight-4|I4]] engines.  In the course of the years, a host of "limited edition" models appeared on various markets, distinguished by cosmetic changes and/or an enriched features list. Generally, these were option packages on top of a base "model" (CL, GL, etc).
+
+New base engine was a 1.05 litre inline four; other engine offerings included 1.3, 1.6 and 1.8 litre petrol fours and 1.6 litre naturally aspirated or turbocharged diesel engines.  In North America, all Golf Mk2s had 1.8 liter petrol or 1.6 diesel engines (the GTI, while not a Golf model in North America, also had a 2.0 liter model).
+
+===Golf GTI & GTI 16v===
+[[File:Volkswagen GTI Mk2 3-door.jpg|thumb|left|1990-1992 Volswagen GTI 3-door (US)]]
+The successful Golf GTI (or, in the USA, simply "GTI") was continued with the Mk2 as a sporty 3- or 5-door [[hatchback]].  Like late Mk1 GTIs, it featured a fuel-injected 1.8 litre four developing {{convert|112|PS|kW hp||abbr=on}}.  In 1986 (1987 for North America) a '''Golf GTI 16V''' was introduced; here the 1.8 litre engine put out {{convert|139|PS|kW hp||abbr=on}} (or {{convert|129|PS|kW hp||abbr=on}} for the catalyst version) and the model was marked by discreet red and black "16v" badges front and rear.  US/Canadian GTIs were later equipped with 2.0 16 valve-engines, available in the Passat and Corrado outside North America.  In 1990, like the Golf, the GTI was given a facelift, and the "Big Bumper" became standard on all GTIs.  This was maintained through the rest of the Mk2 model era. In 1990 the GTi G60 was also introduced featuring the 8v 1.8 with a [[G-Lader|G60 supercharger]] this version is not to be confused with the very rare G60 Limited (see below).
+
+===Golf Syncro===
+In February 1986, [[Volkswagen]] presented the first Golf with [[four-wheel drive]].  This Golf Syncro was available with the 1.8 engine only ({{convert|90|PS|kW hp||abbr=on}}, later {{convert|98|PS|kW hp||abbr=on}}).  Its 4WD system had been developed in collaboration with [[Steyr-Daimler-Puch]]<ref>{{cite book |title=Deutsche Autos 1945-1990, vol. 3 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02116-1 |page=114}}</ref> of Austria, and featured a viscous coupling and flexible partition of torque between front and rear axle.  Due to its high price (in 1986, a Syncro cost about 30% more than an equivalent front wheel drive model<ref>For example: Golf C 1.8: Sfr 17,650, Golf C 1.8 Syncro: Sfr 22,680 (Switzerland, 1987). Source: ''Automobil Revue'', catalogue edition 1987, p. 119.</ref>) the model remained rare; from 1986 to 1989, for instance, just 26,000<ref>{{cite book |title=Deutsche Autos 1945-1990, vol. 3 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02116-1 |page=86}}</ref> Syncros were built.
+
+===Rallye Golf===
+In 1989, the Rallye Golf appeared as a rallye "[[homologation]] special".  Distinguishable by its box-flared wheel arches (similar to the Audi quattro, BMW E30 M3 and Lancia Delta Integrale) and rectangular headlamps, this model featured Syncro four-wheel drive, and a [[G-Lader|G-supercharger]] version of the injected 8 valve 1.8 litre engine. 5,000 cars were built in Volkswagen's Brussels, Belgium, plant, priced at about DM 50,000 each (or roughly twice as much as a base Golf GTI).<ref name="Oswald 2001 115">{{cite book |title=Deutsche Autos 1945-1990, vol. 3 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02116-1 |page=115}}</ref>
+
+===Golf Limited===
+[[Image:Golf2 g60ltd front.JPG|thumb|left|170px|Volkswagen Golf Limited]]
+Based on the Rallye Golf, a very limited edition Golf Mk2 variant exists, combining all of the high-line options available at the time.  Designed and hand-built by the Volkswagen Motorsport division; only 71 of these "Golf Limited" models were produced.  The exclusive feature package included a [[G60]] supercharged version of the 16-valve GTI engine, mated to a sports transmission and Syncro [[four-wheel drive]] mechanism.  All of these special edition models came in gunmetal grey, with four doors (except two built with three doors), [[BBS Kraftfahrzeugtechnik AG|BBS]] RM wheels  in 6.5Jx15", US bumpers, a plain two-headlight grille with a unique blue detail, black VW logo, [[Hella]] tinted taillights, motorsport badges and a special numbered plaque.  It is rumored that two examples were built with air conditioning.  In 1989, these cars cost in the region of DM 36,000<ref name="Oswald 2001 115"/>/£25,000 (about US$41,250 at the time) each and were primarily sold to [[Volkswagen Group|Volkswagen-Audi Group]] executives and management, although a few are known to exist in Britain as of 2005.  These cars produced {{convert|210|PS|kW hp||abbr=on}} {{convert|252|Nm|ftlbf|abbr=on}} and 0-100 km/h (about 0-60 mph) in 7.2 seconds, making them the most powerful VW Golfs ever produced until VW released the Mk4 R32 with {{convert|241|PS|kW hp||abbr=on}} in 2003.
+
+===Golf Country===
+[[Image:VW Golf Country.jpg|thumb|left|170px|Volkswagen Golf Country]]
+There was also a version called Golf Country (about 6,697 cars), designed for light [[off-road]] driving.  It had more suspension travel, [[four-wheel drive]], [[bullbar]]s (generally over a single headlight grill), a [[skid plate]] for protecting the engine area, and a spare wheel mounted externally on the back.
+
+In Europe, it was offered with the acclaimed {{convert|114|bhp|kW|0|abbr=on}} 1.8 8v petrol engine, and in smaller numbers, the {{Convert|75|hp|kW|0|abbr=on}} 1.6 GTD [[turbodiesel]] engine.  There were also: 160 "Country Allround"; 558 " Country - Chrompaket" with Chrome bullbars and beige leather interior; and 50 "Country GTI" for VW-staff.  The Golf Country was particularly popular in Alpine regions in central Europe.{{Citation needed|date=February 2007}}
+
+==North America==
+As with the [[North American]] Rabbit, the second-generation Golf was produced for North America in Pennsylvania.  When sales in North America failed to live up to expectations and with increasing productions costs, the Westmoreland plant was closed in July 1988.  Subsequent Golfs sold in North America came from the Puebla assembly plant, in Mexico.  The Mk2 Golf was discontinued in Europe in 1991, but Mexican-made Mk2 models remained available in North America for another year.
+
+In its first year on sale in North America, 1985, the Golf 2 maintained sealed-beam square headlights, while the GTI bore flush headlights (from the Jetta).  All Golfs gained the flush "aerolamps" in 1987 after a design freshening to move it more upscale in the wake of the introduction of the Brazilian-built Fox (Voyage in Brazil) in North America. This is also the reasoning for the model being called "Golf GL", while virtually no equipment changes occurred.   The 1985 U.S. models are easy to distinguish from subsequent models due to the absence of a high-mounted brakelight; these became required of all cars sold in the U.S. for 1986.
+
+The GTI was ''[[Motor Trend]]'' magazine's [[Car of the Year]] for 1985, as well as VWVortex's "Best Golf of all time".  The Mk2 GTI failed to make the same waves as the [[Volkswagen Golf Mk1|Mk1]], and failed to win back the Golf GTI's fanbase which had adopted the [[Peugeot 205 GTI]].  In North America, where Peugeot did not sell the 205 in any guise, Volkswagen faced tough competition from the [[Honda Civic]] S (later Si).
+
+In its first year on sale in the U.S., Golf sales were eight percent below those of the 1984 Rabbit.  Sales of the all-new 1985 Jetta, by contrast, sky-rocketed compared with the 1984 model.  In 1986, the Jetta became VW's bestseller in North America, a position it has held ever since.
+
+As with the Mk1, there was a "warm hatch" version known as the Golf GT.  Introduced in 1987, it featured the GTI's exterior styling, namely the red stripe exterior trim, and wheelarch spoilers but with a standard 1.8&nbsp;L engine, available in an automatic and with 4 doors (unlike the GTI). It only lasted for a few years, but with the reintroduction of the GTI in 1989 (the GTI 16v was produced continuously from 1987-1992), this model bore the concept. Year by year, the GTI with the 8 valve engine lost its GTI-like features, getting standard Golf brakes in 1990, suspension in 1991, losing the MFA computer, and finally being optional with an automatic, a first in GTI history. All GTI models got the European quad-headlight grille with the upgrade to big bumpers in 1990.
+
+A 2.0 litre engine producing {{Convert|134|hp|kW|0|abbr=on}} replaced the 1.8 in 1990 - 1992 North American 16V models.  This version included 15" 2pc [[BBS Kraftfahrzeugtechnik AG|BBS]] RM wheels.  In the interior, the [[Recaro]] seats no longer had vinyl bolsters of earlier GTIs.
+
+==Mexico (1987-1992)==
+[[Image:Vwgolfmk2interior.JPG|thumb|240px|right|Interior of the Mark 2]]
+
+The Golf Mk2 was introduced in Mexico in March 1987 to replace the successful Caribe [[Volkswagen Golf Mk1|(Golf Mk1)]], . It was available with two variants of the 1.8lt engine: A 72hp, and the 85hp (previously used in the [[Volkswagen Golf Mk1|Caribe GT]], the [[Volkswagen Jetta|Atlantic GLS]] and the [[Volkswagen Passat|Corsar]]). It came in C, CL and GL trims, with a 4 speed manual gearbox for the "small" engine (C and CL), and 5 speed manual and optional 3 speed [[Automatic transmission|automatic]] for the 85hp version (GL). Tires for the C and CL were 155 SR 13, and P 175/70 R 13 for the GL. In 1988 the Golf received the same modifications as in Europe, but the nameplates (which changed for 1989). In 1989 a GTI version is introduced with a 105hp "Digifant" fuel injected variant of the 1.8 lt engine without catalytic converter, rear drum brakes and vented front disc brakes, 14" alloy wheels and 5 speed [[Manual transmission|manual]] gearbox. In 1990, the CL is discontinued and the C is renamed "Base" or "Minus". In 1991 the GL version received the "Big Bumpers" from the August 1989 European restyling. In 1990 the "Jubileo" limited edition based in the base model is introduced. It featured metallic light blue paint, and blue velour upholstery. In 1991 the "Eclipse" limited edition based on the 5 door GL version comes to the market. It was available in Black or metallic Silver colors and Light grey with red stripes velour upholstery, this year, a 90hp version of the 1.8 lt engine becomes the only engine available for the Golf. The Mexican Golf Mk2 is replaced in early 1992 by the [[Volkswagen Golf Mk3|Golf Mk3]].
+
+==United Kingdom==
+Sales in the [[United Kingdom|UK]] were strong; though it never quite made the top 10 for sales in any of the eight years in sale, it came close.  In 1990, it was the UK's 12th most popular car with almost 50,000 sales.  As of 2009, 18 years after the Mk2 Golf's demise, it is still a very common sight on British roads and is being recongnized by many as a growing classic, quite unlike many other similar-sized cars of its generation, such as the [[Austin Maestro]].
+
+==Mk2 limited edition models==
+'''Limited editions and outgoing years:'''
+<div style="-moz-column-count:3">
+*90S                     1987
+*10 Million	         1988
+*Atlanta	         1989
+*Barcelona	         1991
+*Berlin Golf	
+*Bistro	                 1987
+*Black Line - Red Line	 1990
+*Boston	                 1989
+*Carat	                 1984
+*Champion	         1988
+*City	
+*CityStromer             1991
+*Country	         1990
+*Country Allround	 1990
+*Country - Chrompaket	 1990
+*Country GTI             1990
+*Cup	                 1989
+*Eclipse (Mexico)        1991
+*Edition Blue	         1991
+*Edition One	         1989
+*Etienne Aigner          1990
+*Fashion
+*Fire and Ice	         1990
+*Flair	                 1986
+*Fun	                 1986
+*Function	         1991
+*Genesis                 1990
+*Helios                  1989
+*Hit	                 1986
+*Jubileo (Mexico)        1990
+*Limited	         1989
+*Madison	         1990
+*Manhattan	         1988
+*Match	                 1985
+*Memphis	         1987
+*Moda	                 1990
+*NinjaTanuki             1990
+*Pasadena	         1991
+*Plus Ultra	         1990
+*Quadriga	         1990
+*Rabbit	                 1991
+*Rallye	                 1989
+*Ryder                   1991
+*Silverstone
+*Sky	                 1987
+*Special	         1987
+*Syncro	                 1986
+*Tour	                 1988
+*Wolfsburg Edition (North America)	         1986, 1989, 1990, 1992
+*Wick Blau
+</div>
+
+==Notes==
+*Part of the popularity of the Mk2 in the UK drew from the 1987 commercial "Changes", with [[Paula Hamilton]] made up to give her a close resemblance to [[Diana, Princess of Wales]].  She is seen leaving her husband, posting her wedding ring back through the letterbox, ditching her mink coat, throwing the house keys at the cat, rejecting the fur coat and pearl necklace - but keeping the car keys.  ''If only everything in life was as reliable as a Volkswagen'' ran the tagline.  The commercial spawned a new era in car advertising. (Armstrong 1998 p15) <ref>[http://www.matey-matey.com/dis_6.shtml Golf GTI development, pt6]</ref>
+
+==See also==
+{{commonscat|VW Golf II}}
+{{commonscat|VW Golf GTI}}
+*[[Volkswagen Group A platform]]
+*[[Volkswagen Golf]] for an overview of all Golf generations
+*[[list of discontinued Volkswagen Group petrol engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+*[[VDub]]
+*[[Hot hatch]]
+*[[Small family car]]
+
+==References==
+{{reflist}}
+*{{cite book |title=Deutsche Autos 1945-1990, vol. 3 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02116-1 |pages=114–137}}
+*{{cite book |title=Deutsche Autos seit 1990 |last=Kittler |first=Eberhard |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02128-5 |pages=250–257}}
+*{{cite book |title=Standard Catalog of Imported Cars 1946-2002 |last=Covello |first=Mike |year=2002 |publisher=Krause Publications |location=Iola |isbn=0-87341-605-8 |pages=829–833}}
+
+==External links==
+*[http://www.volkswagen.com/vwcms_publish/vwcms/master_public/virtualmaster/en2/models/golf_start.html Golf at Volkswagen International]
+*{{dmoz|/Recreation/Autos/Makes_and_Models/Volkswagen/Golf/|Volkswagen Golf}}
+<!--===========================({{NoMoreLinks}})===============================-->
+<!--| DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF |-->
+<!--| LINKS. If you think that your link might be useful, do not add it here, |-->
+<!--| but put it on this article's discussion page first or submit your link  |-->
+<!--| to the appropriate category at the Open Directory Project (www.dmoz.org)|-->
+<!--| and link back to that category using the {{dmoz}} template.             |-->
+<!--|                                                                         |-->
+<!--|           Links that have not been verified WILL BE DELETED.            |-->
+<!--|  See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details    |-->
+<!--===========================({{NoMoreLinks}})===============================-->
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Golf 2]]
+[[Category:Compact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:Vehicles introduced in 1983]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:Hybrid electric cars]]
+
+[[da:Volkswagen Golf II]]
+[[de:VW Golf II]]
+[[es:Volkswagen Golf II]]
+[[fr:Volkswagen Golf II]]
+[[pl:Volkswagen Golf II]]
+[[ru:Volkswagen Golf II]]
+[[fi:Volkswagen Golf II]]
+[[tr:Volkswagen Golf II]]

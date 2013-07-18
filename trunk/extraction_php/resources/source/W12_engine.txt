@@ -1,0 +1,43 @@
+{{Unreferenced|date=September 2007}}
+[[Image:LionEngine.jpg|thumb|right|A Napier Lion at [[Brooklands]] Motor Museum]]
+
+A '''W12 engine''' is a twelve [[cylinder (engine)|cylinder]] [[reciprocating engine|piston engine]] in a [[W engine|W configuration]]. W12 engines are manufactured in two distinct configurations. One configuration uses four banks of three cylinders (two narrow-angle [[V6 engine]] blocks), coupled to a common [[crankshaft]] ''(e.g. VW W12)''. The other uses three banks of four cylinders coupled to a common crankshaft ''(e.g. Napier Lion)''.
+
+==Napier Lion==
+One of the most famous W12 engines was the [[Napier Lion]] (Broad arrow) which was produced by [[Napier & Son|Napier]] at Acton, West London, from 1917 to the late 1930s. This mostly alloy engine had a capacity of 24 litres and produced from 450&nbsp;hp to 900&nbsp;hp. It was used in many racing cars by [[John Cobb]] and [[Malcolm Campbell]], racing aircraft such as the [[Supermarine S.5]] [[Schneider Cup]] winner, and speed boats such as [[Hubert Scott-Paine]]'s [[Miss Britain III]]. This configuration had 3 separate 4 cylinder banks each at 60 degrees offset from one another, as opposed to the "double V" layout used by VW-Audi AG. [[Sunbeam (car company)|Sunbeam]] tried the similar [[Sunbeam Kaffir|Kaffir]], based on their [[Sunbeam Arab|Arab]] V-8.
+
+==Volkswagen Group W12==
+[[Image:Volkswagen W12.jpg|thumb|right|[[Volkswagen Group]] W12 engine]]
+At the 2001 Tokyo Motor Show, [[Volkswagen Group]] showcased a prototype [[Volkswagen Nardo|Volkswagen Nardo W12 Coupe]], a [[mid-engined]], [[rear-wheel drive]] [[supercar]] powered by a 6.0&nbsp;[[litre]] W12 engine, producing {{convert|600|hp|kW PS|0|lk=on}}.  A week before, the W12 Coupe broke the 24 hour world endurance record.  A total distance of {{convert|7085.7|km|1|lk=on}} was covered at an average speed of {{convert|295.24|km/h|2|lk=on}}, breaking the old record by {{convert|12|km/h|1}}.  Production of the W12 Coupe was considered, but was subsequently cancelled.
+
+[[Volkswagen Group]] currently produces [[list of Volkswagen Group petrol engines#W12|W12 engines]] by forming two imaginary narrow-angle [[VR6 engine]]s.  The narrow angle of each set of cylinders allows just two [[overhead camshaft]]s to drive each pair of banks, so just four are needed in total.  Note that this design differs from the [[W18 engine]] that Volkswagen Group produced for its [[Bugatti]] concept cars of 1998 and 1999.  Due to this distinction, the Volkswagen Group's W12 engine is sometimes described as a "WR12".{{fact|date=August 2009}}
+
+The Volkswagen Group W12 engine is used in some high-end luxury models:
+*[[Audi A8|Audi A8 W12]]
+*[[Bentley Continental GT]]
+*[[Bentley Continental Flying Spur]]
+*[[Spyker C8|Spyker C12 LaTurbie]]
+*[[Spyker C12 Zagato]]
+*[[Spyker D12|Spyker D12 Peking-to-Paris]]
+*[[Volkswagen Phaeton|Volkswagen Phaeton W12]]
+*[[Volkswagen Touareg|Volkswagen Touareg W12]]
+
+==MGN==
+
+In the late 1980s two W12 engines were designed and built for use in [[Formula One]]. In [[France]] [[Guy Negre]] produced the MGN which had three banks of four cylinders offset so that each crankpin accommodated three connecting rods side-by-side. The MGN also had a novel system of cylindrical rotary valves located at the top of the combustion chambers making the engine notably compact. The engine was tested in an AGS [[Formula One]] car and in a Norma sports car but never raced.
+
+==Life==
+
+The other W12 [[Formula One]] engine was built in Italy by [[Life (Formula One team)|Life Racing Engines]]. The chief engineer for this project was Franco Rocchi who had already designed and built an experimental 498cc W3 engine when he was at Ferrari in 1967 as an investigation into the viability of a [[W18 engine|W18]] F1 engine. Rocchi's W3 engine used a central master connecting rod with a slave rod locating onto each side of the master rod rather than directly onto the crank pin. This meant that there was no offset between the cylinders and the crankpin did not have to be unusually long. A similar arrangement was employed for the Life W12 engine.  Life Racing Engines failed to attract the interest of an existing team so they acquired an F1 chassis which had been built for another team and tried to enter F1 on their own account in 1990. The engine proved to be unreliable and lacking in power. The car never qualified for a race. 
+
+{{Piston engine configurations}}
+
+==External links==
+{{commonscat|W12 engines}}
+*[http://www.autozine.org/technical_school/engine/tech_engine_packaging.htm#W12 Volkswagen's VR6 and W-engines]
+
+[[Category:Piston engine configurations]]
+
+[[de:W12]]
+[[fr:W12]]
+[[fi:W12]]

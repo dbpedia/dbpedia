@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = weight
+|rdfs:domain = Island
+|rdfs:range = kilogram
+}}

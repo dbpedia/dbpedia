@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= function start date
+|rdfs:domain	= PersonFunction
+|rdfs:range		= xsd:date
+}}

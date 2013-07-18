@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= fuel system    
+|rdfs:domain	= AutomobileEngine
+}}

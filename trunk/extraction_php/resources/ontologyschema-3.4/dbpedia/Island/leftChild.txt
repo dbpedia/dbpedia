@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = left child
+|rdfs:domain = Island
+|rdfs:range = Island
+}}

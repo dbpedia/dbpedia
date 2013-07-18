@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = debut
+| rdfs:domain = Wrestler
+| rdfs:range = xsd:date
+}}

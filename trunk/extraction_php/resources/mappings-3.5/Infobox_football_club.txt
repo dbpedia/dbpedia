@@ -1,0 +1,36 @@
+{{TemplateMapping
+| mapToClass = SoccerClub
+| mappings = 
+	{{PropertyMapping | templateProperty = dissolved | ontologyProperty = dissolved }}
+	{{PropertyMapping | templateProperty = ground | ontologyProperty = ground }}
+	{{PropertyMapping | templateProperty = capacity | ontologyProperty = capacity }}
+	{{PropertyMapping | templateProperty = chrtitle | ontologyProperty = chairmanTitle }}
+	{{PropertyMapping | templateProperty = chairman | ontologyProperty = chairman }}
+	{{PropertyMapping | templateProperty = ceo | ontologyProperty = ceo }}
+	{{PropertyMapping | templateProperty = mgrtitle | ontologyProperty = managerTitle }}
+	{{PropertyMapping | templateProperty = manager | ontologyProperty = manager }}
+	{{PropertyMapping | templateProperty = season | ontologyProperty = season }}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = position }}
+	{{PropertyMapping | templateProperty = pattern_la1 | ontologyProperty = leftArmPattern }}
+	{{PropertyMapping | templateProperty = pattern_b1 | ontologyProperty = bodyPattern }}
+	{{PropertyMapping | templateProperty = pattern_ra1 | ontologyProperty = rightArmPattern }}
+	{{PropertyMapping | templateProperty = pattern_sh1 | ontologyProperty = shortsPattern }}
+	{{PropertyMapping | templateProperty = pattern_so1 | ontologyProperty = socksPattern }}
+	{{PropertyMapping | templateProperty = leftarm1 | ontologyProperty = leftArm }}
+	{{PropertyMapping | templateProperty = body1 | ontologyProperty = body }}
+	{{PropertyMapping | templateProperty = rightarm1 | ontologyProperty = rightArm }}
+	{{PropertyMapping | templateProperty = shorts1 | ontologyProperty = shorts }}
+	{{PropertyMapping | templateProperty = socks1 | ontologyProperty = socks }}
+	{{PropertyMapping | templateProperty = pattern_name3 | ontologyProperty = patternName }}
+	{{PropertyMapping | templateProperty = firstgame | ontologyProperty = firstGame }}
+	{{PropertyMapping | templateProperty = largestwin | ontologyProperty = largestWin }}
+	{{PropertyMapping | templateProperty = worstdefeat | ontologyProperty = worstDefeat }}
+	{{PropertyMapping | templateProperty = topscorer | ontologyProperty = clubsRecordGoalscorer }}
+	{{PropertyMapping | templateProperty = fansgroup | ontologyProperty = fansgroup }}
+	{{PropertyMapping | templateProperty = honours | ontologyProperty = honours }}
+	{{PropertyMapping | templateProperty = clubname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = nickname }}
+	{{PropertyMapping | templateProperty = shortname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = founded | ontologyProperty = formationDate }}
+}}

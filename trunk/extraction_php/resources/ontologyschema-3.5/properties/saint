@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = saint
+| rdfs:domain = City
+| rdfs:range = Saint
+}}

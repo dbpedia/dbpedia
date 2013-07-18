@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = shore length
+| rdfs:domain = Lake
+| rdfs:range = Length
+}}

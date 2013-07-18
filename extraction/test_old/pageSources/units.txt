@@ -1,0 +1,4 @@
+{{ DummyTemplate |
+length = 100.05 cm |
+width = 23 in |
+height = 10 km (4000 in) }}

@@ -1,0 +1,224 @@
+{{Infobox Automobile
+|name           = Audi RS4 quattro
+|image          = [[Image:Audi RS4 Avant front.JPG|250px]]<br>''Audi B7 RS4 quattro Avant''
+|manufacturer   = [[quattro GmbH]],<br>(a private subsidiary of [[Audi|Audi AG]])
+|parent_company = [[Volkswagen Group]]
+|aka            = 
+|production     = [[#B5|B5]]: 2000–2001,<br>[[#B7|B7]]: 2006–2008
+|assembly       = [[Neckarsulm]], [[Germany]]
+|class          = [[Compact executive car]],<br>[[Sports car]]
+|platform       = [[Volkswagen Group B platform]] series
+|layout         = [[longitudinal engine|Longitudinal]] [[front-engine design|front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|related        = [[Audi A4]]<br>[[Audi S4]]
+|sp             = uk
+}}
+The '''Audi RS4 quattro''' is the top tier and [[high performance vehicle|highest performing]] version of the [[Audi A4]] range of [[automobile|cars]].  It is a [[sports car|sports-focused]] [[compact executive car]], [[automotive engineering|produced]] by [[quattro GmbH]], in limited numbers, for [[Germany|German]] [[automotive industry|car manufacturer]] [[Audi|Audi AG]], part of the larger [[Volkswagen Group]].  It slots distinctly above the [[Audi S4]] as the fastest, most sports-focused model based on the A4's [[Volkswagen Group B platform|"B" chassis]].
+
+The original (B5) version was only produced as a five-[[vehicle door|door]] five-[[car seat|seat]] "Avant", Audi's name for a [[station wagon|estate car/station wagon]].  The second (B7) version was released initially as a four-door five-seat [[sedan (automobile)|saloon/sedan]], with the Avant following a short while later.  A two-door four-seat [[cabriolet (automobile)|Cabriolet]] version was subsequently added.  Furthermore, their [[internal combustion engine]]s are all [[front-engine design|front-mounted]], and are [[longitudinal engine|longitudinally]] orientated.  The [[transmission (mechanics)|transmission]] is mounted immediately at the rear of the engine in a longitudinal orentation, in the form of a [[transaxle]].
+__TOC__
+The '''"[[RS]]"''' initials are taken from the {{lang-de|'''R'''enn'''S'''port}} – literally translated to "racing sport", but actually actually meaning ''"motor sport"'', and is the Audi [[marque]]'s highest trim level, positioned above the '''[[Audi S and RS models#S|"S"]]''' model specification of Audi's regular model line-up.  Like all [[Audi S and RS models#RS|Audi RS cars]], the RS4 pioneers some of Audi's latest advanced technology, and could therefore be described as a "halo vehicle".<!-- referring to its technological advancements -->  Furthermore, it is only available with Audi's [[Torsen]]-based 'trademark' [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.
+
+Its main market competitors initially included the [[BMW M3]], and the [[Mercedes-Benz]] C63 [[Mercedes-AMG|AMG]], and could also currently include the [[Lexus IS-F]].{{-}}
+
+==B5 (''Typ'' 8D, 2000–2001){{anchors|B5|8D}}==
+{{Infobox Automobile generation
+|name          = Audi RS4 Avant quattro (B5)
+|image         = [[Image:Audi RS4 B5 right side.JPG|250px]]<br>''Audi B5 RS4 Avant quattro''
+|aka           = 
+|production    = 2000–2001
+|predecessor   = [[Audi RS2 Avant]]
+|successor     = [[#B7|Audi B7 RS4]]
+|body_style    = 5-[[vehicle door|door]] Avant ([[station wagon|estate/wagon]])
+|platform      = [[Volkswagen Group B platform#B5|Volkswagen Group B5]]
+|engine        = 2.7&nbsp;[[litre|L]] [[V6 engine|V6]] [[twin-turbo|'biturbo']] 2x[[DOHC]] ([[list of discontinued Volkswagen Group petrol engines#2.7 T V6 280kW RS4|ASJ/AZR]])
+|transmission  = 6-speed [[manual transmission|manual]]
+|wheelbase     = {{convert|2607|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4525|mm|1|abbr=on}}
+|width         = {{convert|1799|mm|1|abbr=on}}
+|height        = {{convert|1386|mm|1|abbr=on}}
+|weight        = {{convert|1620|kg|0|abbr=on|lk=on}}
+|fuel_capacity = {{convert|62|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi A4#B5|Audi A4 (B5)]]<br>[[Audi S4#B5|Audi S4 (B5)]]
+|sp             = uk
+}}
+[[Image:Audi RS4 B5 rear.JPG|thumb|left|Audi B5 RS4 Avant rear ¾ view]]
+[[Image:Audi RS4 B5.jpg|thumb|left|Audi B5 RS4 showing the flared wheel arches]]
+The original B5 '''Audi RS4 Avant quattro''' ('''''Typ'' 8D''')<ref>{{citation|title=Audi Self-Study Programme SSP245 - Audi RS4 (B5)|work=Audi AG}}</ref> was introduced by [[Audi|Audi AG]] in late 1999, for main production and sale from 2000, as the successor to the [[Porsche]] / [[quattro GmbH]] [[joint venture]]-developed [[Audi RS2 Avant]].  The vehicle, like its RS2 predecessor, was available only as an Avant (Audi's name for an [[station wagon|estate car/station wagon]]), and was built on an existing platform, in this case the [[Volkswagen Group B platform#B5|Volkswagen Group B5 platform]] shared with the A4 and S4.  Retail price was around [[Deutsche Mark]] 103,584.  The RS4 was available for sale in most of [[Europe]], parts of Asia and in some [[Latin America]]n countries.
+
+Audi produced 6030 units between 1999 and 2001.
+
+===B5 bodywork and styling===
+Although related to the B5 [[Audi S4]], many of the outer body panels are altered, with wider front and rear [[fender (vehicle)|wheel arches]], to allow for the wider [[axle track|track]] on the RS4.  With unique front and rear [[bumper (automobile)|bumpers]], and side sills, and sharing the rear [[spoiler (automotive)|spoiler]] from the S4 Avant, the [[automotive aerodynamics|aerodynamic]] modifications achieved a [[automobile drag coefficient|drag coefficient]] of C<sub>d</sub>&nbsp;0.34.  Although the B5 S4 came in a saloon [[car body style]], the B5 RS4 was only available in the Avant version.
+
+Luggage space, measured according to the industry standard VDA method is {{convert|390|L|cuft|1|lk=on}} with the rear seats in the upright position, and {{convert|1250|L|cuft|1|abbr=on}} with the seats folded flat.
+
+===B5 powertrain===
+[[Image:Moteur Audi RS4 B5.jpg|thumb|left|Carbon fibre cover of the Audi B5 RS4 2.7 V6 biturbo engine]]
+[[Image:Graphe Puissance-Couple RS4 B5.jpg|thumb|left|Audi B5 RS4 engine power (red) and torque (blue) curves]]
+For the [[powertrain]] detail of the B5 RS4, its [[motive power|motive]] [[power (physics)|power]] came from a modified version of the [[Audi S4#B5|B5 S4]]'s [[list of discontinued Volkswagen Group petrol engines#2.7 T V6 169-195kW|2.7]]&nbsp;[[litre]] V6 [[twin-turbo|'biturbo']] - a  {{convert|2671|cc|1|lk=on}}, [[multi-valve|30 valve]] (five valves per [[cylinder (engine)|cylinder]]) 90° [[V6 engine]] (parts code prefix: 078; [[list of discontinued Volkswagen Group petrol engines#2.7 T V6 280kW RS4|identification codes]]: early version: ASJ, EU2 compliant, and later version: AZR, to EU3 standard).  This was [[engine tuning#performance tuning|tuned]] by [[Cosworth|Cosworth Technologies]], and featuring enlarged intake/exhaust ports on the [[cylinder head]]s, two parallel [[turbocharger]]s, and two side-mounted [[intercooler]]s (SMICs), together with new [[forced induction|induction]] and [[exhaust system]]s, and a re-calibrated engine management system.  The modifications were enough to increase the engine's power output from the {{convert|195|kW|PS bhp|0|lk=on}} and {{convert|400|Nm|0|lk=on}} of [[torque]] on the S4 - to {{convert|280|kW|PS bhp|0|abbr=on}} at 7,000&nbsp;[[revolutions per minute]] (rpm) and {{convert|440|Nm|0|abbr=on}} at 6,000&nbsp;rpm.  Engine management is controlled via a [[Robert Bosch GmbH|Bosch]] [[Motronic]]<ref>Bosch Automotive Technology [http://rb-k.bosch.de/en/powerconsumptionemissions/gasolinesystems/manifoldinjection/motronic.html Motronic for manifold injection]</ref> ME&nbsp;7.1 [[engine control unit]], utilising a Bosch 'E-Gas'<ref>Bosch Automotive Technology [http://rb-k.bosch.de/en/powerconsumptionemissions/gasolinesystems/manifoldinjection/egas/index.html Electronic throttle control (ETC/EGAS) for manifold injection]</ref> [[drive by wire]] throttle.  Fuel is delivered via [[manifold (automotive)|manifold]]-sited multipoint sequential [[fuel injection]], with fueling rate assisted by air mass metering.  [[Ignition system]] uses six individual spark [[ignition coil|coils]], utilising mapped direct ignition and [[NGK]] longlife [[spark plug]]s.  This highly tuned engine must only be [[motor oil|lubricated]] with a very high qualiity, low-viscosity, fully-[[synthetic oil]] (and must meet VW standard 503.01 or newer), as oil [[temperature]]s can reach {{convert|135|C|0|lk=on}}.  Oil temperature is managed by a dual oil:water cooler, and an oil:air cooler.
+
+A six-speed [[manual transmission]] (parts code prefix: 01E, identification code: FDP) ([[gear ratio]]s - 1st: 3.500, 2nd: 1.889, 3rd: 1.320, 4th: 1.034, 5th: 0.806, 6th: 0.684), cooled by a [[NACA duct]] in the engine undertray, and Audi's [[Torsen]] T-2 [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system were standard.  Final drive ratio is 4.111.
+
+Even with a [[curb weight|kerb weight]] weight of {{convert|1620|kg|0|lk=on}}, the RS4's powerful engine gave it the performance of a [[sports car]].  The 0-{{convert|100|km/h|1|lk=on}} dash could be reached in just 4.9&nbsp;[[second]]s (s), {{convert|160|km/h|1|abbr=on}} could be achieved in just 11.3&nbsp;s, and {{convert|200|km/h|1|abbr=on}} could be reached in just 17.0&nbsp;s.  Top speed was electronically governed to {{convert|250|km/h|1|abbr=on}}.
+
+===B5 brakes, wheels and tyres===
+[[Brake]]s were also developed jointly in house by Audi and Cosworth Technologies, not by [[Porsche]] as with its' predecessor, the RS2.  It has {{convert|360|mm|in|2|lk=on}} diameter by {{convert|32|mm|in|3|abbr=on}} thick radially vented and floating [[cast iron]] [[disc brake|discs]] at the front, with double-piston floating [[brake caliper]]s, and {{convert|312|mm|in|2|abbr=on}} by {{convert|22|mm|in|3|abbr=on}} discs with a single-piston floating caliper at the rear, giving the RS4 braking to match, needing less than {{convert|50|m|0|lk=on}} to come to a full stop from a speed of {{convert|110|km/h|1|lk=on|abbr=on}}.
+
+Standard [[wheel|roadwheels]] are 18&nbsp;[[inch]] [[alloy wheel|alloys]] (8½ x18" "9-spoke"), with 255/35&nbsp;ZR18 high performance [[tire|tyres]].  Optional "winter" alloy wheels were also available, at 18&nbsp;inch (7½Jx18"), with 225/40&nbsp;R18&nbsp;92V tyres.
+
+===Other B5 notable features===
+*"Sideguard", Audi's curtain [[airbag]] system.
+*Xenon  [[high-intensity discharge lamp|High-Intensity Discharge]] (HID) headlamps.{{-}}
+
+==B7 (''Typ'' 8E, 2006–2008) {{anchors|B7|8E}}==
+{{Infobox Automobile generation
+|name          = Audi RS4 quattro (B7)
+|image         = [[Image:Audi rs4.jpg|250px]]<br>''Audi B7 RS4 quattro saloon
+|aka           = 
+|production    = 2006–2008
+|predecessor   = [[#B5|Audi B5 RS4]]
+|body_style    = 4-[[vehicle door|door]] [[sedan (automobile)|saloon/sedan]],<ref name=TechData>{{cite web|title=Audi RS 4 Saloon - Technical Data|url=http://www.fourtitude.com/resources/downloads/documents/rs4_tech_data.doc|work=Audi AG|format=MS Word document|date=February 2005|accessdate=14 September 2009}}</ref><br>5-door Avant ([[station wagon|estate/wagon]]),<br>2-door [[convertible|Cabriolet]]
+|platform      = [[Volkswagen Group B platform#B7|Volkswagen Group B7]]
+|engine        = 4.2&nbsp;[[litre|L]] [[V8 engine|V8]] [[gasoline direct injection|FSI]] 2x[[DOHC]]<ref name=TechData/><ref name=VWvortex/>
+|transmission  = 6-speed [[manual transmission|manual]]<ref name=TechData/>
+|wheelbase     = {{convert|2648|mm|1|abbr=on|lk=on}},<ref name=TechData/><br>Cabrio: {{convert|2650|mm|1|abbr=on}}
+|length        = {{convert|4589|mm|1|abbr=on}},<ref name=TechData/><br>Cabrio: {{convert|4555|mm|1|abbr=on}}
+|width         = {{convert|1816|mm|1|abbr=on}},<ref name=TechData/><br>Cabrio: {{convert|1814|mm|1|abbr=on}}
+|height        = {{convert|1415|mm|1|abbr=on}},<ref name=TechData/><br>Cabrio: {{convert|1391|mm|1|abbr=on}}
+|weight        = saloon: {{convert|1650|-|1680|kg|0|abbr=on|lk=on}},<ref name=TechData/><br>Avant: {{convert|1710|kg|0|abbr=on}},<br>Cabrio: {{convert|1845|kg|0|abbr=on}}
+|fuel_capacity = {{convert|63|L|impgal usgal|1|abbr=on|lk=on}}<ref name=TechData/>
+|related       = [[Audi A4#B7|Audi A4 (B7)]],<br>[[Audi S4#B7|Audi S4 (B7)]]
+|sp             = uk
+}}
+[[Image:Wmrs4.jpg|thumb|left|Audi B7 RS4 quattro Avant in Phantom Black pearl]]
+[[Image:Audi RS4 Avant rear.JPG|thumb|left|Audi B7 RS4 quattro Avant in Sprint Blue pearl, with optional anthracite-finished 19" alloy wheels]]
+[[Image:Audi RS4 Cabriolet rear.JPG|thumb|left|Audi B7 RS4 quattro Cabriolet in Phantom Black pearl]]
+There was no RS4 built on the Audi [[Volkswagen Group B platform#B6|"B6" platform]] which served as the basis for the [[Audi A4]] between 2001 and 2005.  However, after a long hiatus, the second '''Audi RS4 quattro'''<ref name=VWvortex>{{cite web|title=Geneva Motor Show: Audi RS4 - The Sports Car for 365 Days a Year
+|url=http://www.vwvortex.com/cgi-bin/artman/exec/view.cgi?archive=7&num=1225&printer=1|date=1 March 2005|work=Audi AG|publisher=VWvortex.com - Audi News|accessdate=14 September 2009}}</ref> ('''''Typ'' 8E'''), built on Audi's [[Volkswagen Group B platform#B7|"B7" A4 platform]], by [[quattro GmbH]]<ref name=VWvortex/> in [[Neckarsulm]], [[Germany]] (a wholly owned private subsidiary of [[Audi|Audi AG]]), was unveiled in February 2005 at Audi's 'quattro Night' celebration at the company headquarters in [[Ingolstadt]], [[Germany]].<ref>AudiWorld.com [http://www.audiworld.com/news/05/quattronight/content.shtml B7 RS4 world introduction at 'quattro Night'], 27 Feb 2005</ref>
+
+The Imola Yellow RS4 came down a replica of a [[ski jumping|ski jump]], then rotated several times on an [[ice rink]], before coming to rest in the centre of the ice.  After several minutes to allow the assembled media and guests to examine the car, the RS4 climbed the ski jump and parked near the top.  The ski jump was an homage to an Audi commercial from 1986; where an Audi climbed a ski jump in [[Finland]] to showcase its superior traction due to Audi's 'trademark' [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] drivetrain.
+
+The RS4 became available to [[Europe]]an customers in mid 2006.  It was introduced at the 2006 [[North American International Auto Show]] in January, and arrived in June 2006 [[North America]].  The production run of the B7 RS4 was 2006 to 2008 inclusive, although only 2007 and 2008 [[model year]] were sold in the [[United States]].  To date, approximately 10,000 B7 RS4s have been built of which around 2,500 are in the USA.
+
+The B7 RS4 Cabriolet, available in Europe from late 2006 to 2008, was made available as a model year 2008 vehicle in the USA.
+
+Audi factory numbers indicate that the B7 RS4 saloon can accelerate from {{convert|0|to|100|km/h|1|lk=on}} in 4.8&nbsp;[[second]]s,<ref name=TechData/><ref name=VWvortex/> and arrive at {{convert|0|to|200|km/h|1}} in 16.6&nbsp;seconds.<ref name=TechData/><ref name=VWvortex/>  Many independent tests{{which|date=September 2009}} have shown that a standard B7 RS4 can readily achieve {{convert|0|to|60|mph|0}} times around 4.0&nbsp;seconds.  The August 2006 edition of ''Road and Track'' has achieved 4.3&nbsp;seconds.{{citation needed|date=September 2009}}  This is consistent with the pattern of conservatism that is usually found in Audi's official performance numbers.  For the Avant, {{convert|0|to|100|km/h|1|lk=on}} is reached in 4.9&nbsp;seconds.  Top speed for all variants is 'officially' electronically limited to {{convert|250|km/h|1}},<ref name=TechData/><ref name=VWvortex/> though some owners have reported that the speed limiter is rather 'liberal', conforming to the pattern of previous [[Audi S and RS models#RS|Audi RS cars]], with genuine top speeds of {{convert|270|km/h|-1}} being recorded.
+
+===B7 bodywork and styling===
+The B7 RS4 is an almost complete departure from previous [[Audi S and RS models|Audi RS cars]], as it was initially available as a four-[[vehicle door|door]] five-[[car seat|seat]] [[sedan (automobile)|saloon/sedan]];<ref name=TechData/> with a five-door five-seat Avant ([[station wagon|estate/wagon]]), and two-door four-seat Cabriolet ([[convertible]]) versions arriving later.  Only the [[Audi RS6]] had taken this similar route (saloon and Avant) before; the previous RS4 and [[Audi RS2 Avant|RS2]] were available exclusively as Avants.
+
+Constructed from fully [[galvanised]] steel<ref name=TechData/> in a [[monocoque]] (unitary/unibody) design,<ref name=TechData/> the B7 RS4 uses lightweight [[aluminium]] for its front [[fender (vehicle)|wings]] (fenders) and [[hood (vehicle)|bonnet]] (hood).<ref name=VWvortex/>  The saloon version features a [[drag coefficient]] (C<sub>d</sub>) of 0.31,<ref name=TechData/> from a frontal area of 2.17&nbsp;[[square metre|m<sup>2</sup>]].<ref name=TechData/>
+
+Visually, the RS4 differs from its related [[Audi S4#B7|B7 S4]], having flared front and rear [[fender (vehicle)|wheel arches (fenders)]],<ref name=VWvortex/> to allow for a wider wheel track.  It also includes two larger frontal side air intakes<ref name=VWvortex/> (for the two additional side-mounted coolant [[radiator (engine cooling)|radiator]]s).  The new RS4 also includes an optional [[headlamp#advanced front-lighting system (AFS)|adaptive headlights]] to compliment the standard "Xenon Plus"<ref name=VWvortex/> (Bi-[[xenon arc lamp|Xenon arc]]) [[gas-discharge lamp#high-intensity discharge lamps|High Intensity Discharge]] (HID) headlamps, which swivel around corners in conjunction with [[steering wheel]] movements.  Also standard are [[daytime running lamp|daytime running lights]] (DRLs),<ref name=VWvortex/> found within the main headlamp housings, identical to its related [[Audi A4#B7|B7 A4]] and S4, and utilise a conventional tungsten filament bulb.  An acoustic parking system with front and rear sensors is also standard fitment.<ref name=VWvortex/>  Unique [[carbon fiber|carbon fibre]] interior trims,<ref name=VWvortex/> along with a [[lap timer]] within the central Driver Information System (DIS),<ref name=VWvortex/> [[aluminium]] pedals and footrest,<ref name=VWvortex/> and RS4 logos<ref name=VWvortex/> complete the look.
+
+In the saloon, luggage space, measured according to the VDA 'block method',<ref name=TechData/> is {{convert|460|L|cuft|1|lk=on}} with the rear seats in the upright position,<ref name=TechData/> and {{convert|720|to|833|L|cuft|1}} with the seats folded flat<ref name=TechData/> (dependent on specification).  For the Avant, {{convert|442|L|cuft|1}} is available with the seats upright, and {{convert|1354|L|cuft|1}} being available with the rear seats folded flat.  [[curb weight|Kerb weight]] of the saloon variant starts at {{convert|1650|kg|0|lk=on}}<ref name=TechData/> (dependent on specification).
+
+A [[Bose Corporation|BOSE]] 10-speaker sound system, with 190&nbsp;[[Watt]] output and automatic dynamic noise compensation, with "Concert II" radio and single [[Compact Disc player|CD player]] is standard [[in car entertainment]] (ICE) equipment.  Factory fitted ICE options to compliment the standard BOSE include the "Symphony II"<ref name=VWvortex/> system which features twin radio tuners, a single-slot loading six-CD changer and a [[Compact Cassette|cassette]] player all integrated into a double-DIN sized unit.  Navigation option is the RNS-E based "Audi Navigation System plus"<ref name=VWvortex/> DVD-ROM GPS [[satellite navigation]], which includes a folding widescreen 6.5&nbsp;inch screen, and [[Multi Media Interface|MMI]]-like logic control.
+
+====B7 interior safety====
+To achieve maximum body stiffness with controlled deformation [[crumple zone]]s, the B7 RS4 features [[laser beam welding]] of major seams of the high-strength steel bodyshell, which helps improve overall structural rigidity over traditional [[spot welding]] methods.
+
+Two-stage driver and front seat passenger frontal [[airbag]]s are standard,<ref name=VWvortex/> as is Audis "sideguard" head protection curtain airbag system.<ref name=VWvortex/>  This latter system completely covers all of the side windows, from the front "A pillar" to the rear "C-" or "D pillars".<ref name=VWvortex/>  The body-hugging [[Recaro]] shell-type RS race bucket seats, (not available in North American markets) complete with electrically inflatable upper and lower side bolsters, are constructed so as not to need lower side airbags to comply with European crash safety standards.<ref name=VWvortex/>  In North America, standard front seats are the more traditional Recaro seats, which include lower side airbags.  Lower side airbags are optional for the rear seats.  Front, and outer rear seatbelts include pyrotechnic belt pretensioners, whilst all belts include an excess load limit function.
+
+===B7 powertrain===
+At the heart of the B7 RS4 [[powertrain]] is its [[internal combustion engine]].  [[automobile self starter|Started]] by an "Engine Start" button on [[center console (automobile)|centre console]],<ref name=VWvortex/> [[motive power|motive]] [[power (physics)|power]] comes from a 4.2&nbsp;[[litre]]<ref>{{citation|title=Audi 4.2-liter V8 FSI Engine - Self-Study Programme 921603|date=07/2006|work=Audi of America, Inc., Service Training}}</ref> - {{convert|4163|cc|1|lk=on}},<ref name=TechData/><ref name=VWvortex/> [[V8 engine|V8]]<ref name=TechData/><ref name=VWvortex/> [[multi-valve|32-valve]] (four valves per [[cylinder (engine)|cylinder]]<ref name=TechData/>) [[gasoline direct injection|Fuel Stratified Injection]] (FSI)<ref name=VWvortex/> all [[aluminium alloy]] [[petrol engine]] (parts code and version: 079.D, identification code: BNS).  This is a highly reworked, high-revving ([[redline]] at 8,000&nbsp;[[revolutions per minute|rpm]], [[rev limiter|rev limit]] of 8,250&nbsp;rpm)<ref name=VWvortex/> variant from the existing 4.2&nbsp;litre V8, having cylinder-direct [[fuel injection]]<ref name=TechData/> (Fuel Stratified Injection), and [[multi-valve|four valves]] per cylinder, instead of five.  It has two [[chain]]-driven<ref name=VWvortex/> [[overhead camshaft#double overhead camshaft|double overhead camshafts]]<ref name=TechData/> (2xDOHC) per [[cylinder bank]], and utilises [[variable valve timing]]<ref>Bosch Automotive Technology [http://rb-k.bosch.de/en/powerconsumptionemissions/gasolinesystems/direct_gasoline_injection/variablevalvetiming.html Variable valve timing]</ref> for both inlet and exhaust [[camshaft]]s,<ref name=TechData/> along with a [[variable length intake manifold|variable tract-length intake manifold]].<ref name=TechData/>  It produces a [[Deutsches Institut für Normung|DIN]] rated maximum output of {{convert|309|kW|PS bhp|0|lk=on}} at 7,800&nbsp;[[revolutions per minute]]<ref name=TechData/> (rpm) whilst consuming 98&nbsp;[[octane rating#RON|RON]] super-unleaded petrol,<ref name=TechData/> over {{convert|100|PS|kW bhp|0|abbr=on}} per litre,<ref name=VWvortex/> and based on a kerb wight of {{convert|1680|kg|0|lk=on}}, this results in a power-to-weight ratio of just {{nowrap|3.93 kilos per bhp}}.<ref name=VWvortex/>  Should the lower 95&nbsp;RON standard unleaded fuel be used, this will have an effect of slightly reducing engine output, and therefore performance,<ref name=TechData/> along with slightly worse fuel economy.  The engine also produces {{convert|430|Nm|0|lk=on}} of [[torque]] at 5,500&nbsp;rpm,<ref name=TechData/><ref name=VWvortex/> 90 percent of the total torque being available between 2,250 and 7,600&nbsp;rpm.<ref name=VWvortex/>  The engine breathes through four high-flow metallic sports [[catalytic converter]]s,<ref name=TechData/> and exits via twin oval tail pipes with integral dynamic [[muffler|silencer/muffler]] valves.  Engine management is controlled via two [[Robert Bosch GmbH|Bosch]] [[motronic|DI-Motronic]]<ref>Bosch Automotive Technology [http://rb-k.bosch.de/en/powerconsumptionemissions/gasolinesystems/direct_gasoline_injection/di_motronic/index.html DI-Motronic for direct gasoline injection]</ref> MED&nbsp;9.1<ref name=TechData/> [[engine control unit]]s (working on the 'master/slave' concept), utilising Bosch 'E-Gas'<ref>Bosch Automotive Technology [http://rb-k.bosch.de/en/powerconsumptionemissions/gasolinesystems/direct_gasoline_injection/egas/index.html Electronic throttle control (ETC/EGAS) for direct gasoline injection]</ref> electronic throttle control (also known as drive-by-wire), comprises throttle device, accelerator-pedal module, and ECU.  The [[ignition system]] uses eight individual [[ignition coil|spark coils]], utilising mapped direct ignition,<ref name=TechData/> with long-life triple-electrode [[spark plug]]s.  [[Ignition timing]] is monitored with the aid of four [[engine knocking|knock]] sensors.  It is compliant with the Euro4 [[European emission standards]],<ref name=TechData/><ref name=VWvortex/> with the saloon version producing a [[CO2]] emissions output of 322-329&nbsp;[[gram|g]]/[[kilometre|km]],<ref name=TechData/> whilst the Avant starts from 324&nbsp;g/km.
+
+{{As of|2009|11}}, the Audi B7 RS4 was the only "RS" Audi powered by a normally aspirated engine.
+
+A six-speed [[Getrag]] [[manual transmission|manual gearbox]]<ref name=TechData/><ref name=VWvortex/> (parts code: 0A3, identification codes: HLD, JHM) is the only transmission available ([[gear ratio]]s - 1st: 3.667, 2nd: 2.211, 3rd: 1.520, 4th: 1.133, 5th: 0.919, 6th: 0.778).<ref name=TechData/>
+
+Another focus of the B7 RS4 was on the latest development of Audi's 'trademark' [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system,<ref name=TechData/><ref name=VWvortex/> utilising the 'third generation' asymmetric/dynamic<ref name=VWvortex/> [[Torsen]]<ref name=TechData/><ref name=VWvortex/> T-3 'automatic torque biasing' (ATB) centre differential, featuring a 'default' 40:60 front-to-rear torque split under normal conditions.  Audi stressed that this would result in a more neutral response in corners, and a more dynamic driving experience.  Also, a more aggressive Torque Bias Ratio (TBR) was used, and set to 4:1, as opposed to 2:1 (and later variants 3:1 TBR) on standard A4.{{citation needed|date=May 2008}}  That means that one side of the differential can handle up to 80%, while the other side would have to only handle 20% of applied torque.
+
+Front and rear [[axle]] [[differential (mechanics)|differentials]] are conventional "open" types, with a final drive ratio of 4.111.<ref name=TechData/>
+
+Traction is assisted by way of Audis "Electronic Differential Lock" (EDL),<ref name=TechData/><ref name=VWvortex/> which is a specific function of the [[Robert Bosch GmbH]] ESP&nbsp;8.0 [[electronic stability control|Electronic Stability Programme]] system.  EDL monitors the rotational speeds of the left and right wheels on an individual axle, and if one wheel should rotate faster than the other (exceeding the pre-defined parameters), indicating loss of traction, or "wheel spin" on one wheel, the EDL applies the brakes to that individual spinning wheel,<ref name=TechData/> and thus transfers torque across the open differential to the wheel on the other side deemed to have grip, hence traction.  Also included in the ESP&nbsp;8.0 is "Anti Slip Regulation" (ASR) - Audis name for [[traction control system|Traction Control System]].<ref name=VWvortex/>
+
+The result of all these features is, that under normal circumstances (driving straight on dry or even wet road surfaces) the car never looses traction, even when accelerating at full throttle in the first gear.
+
+===B7 suspension and steering===
+The B7 RS4 also incorporates Audi's "Dynamic Ride Control" (DRC)<ref name=VWvortex/> sports [[suspension (vehicle)|suspension]]<ref name=VWvortex/> mechanism, made for Audi by KW, and central reservoirs/valves made by KYB.  In the RS4 suspension, a fluid mechanical linkage between diagonally opposing front and rear suspension [[shock absorber|dampers]] (shock absorbers) is used to counteract vehicle pitch and roll.<ref name=VWvortex/>  Lightweight [[magnesium]]/[[aluminium]] alloy multi-link suspension arms (four arm with virtual steering axis up front,<ref name=TechData/> and trapezoidal arm with unequal length track control arms at the rear)<ref name=TechData/><ref name=VWvortex/> locate each hub/brake/roadwheel assembly in a controllable fashion, whilst minimising unsprung masses.  Lightweight hollow tubular [[sway bar|anti-roll bars]] are standard front and rear.<ref name=TechData/>  Compared to standard [[Audi A4#B7|B7 A4]] models, the RS4 features a {{convert|30|mm|1|lk=on}} lower [[ride height]].<ref name=VWvortex/>  An optional "Sports Suspension Plus"<ref name=VWvortex/> lowers the car by a further {{convert|10|mm|1}}, and marginally further stiffens the [[shock absorber|damper]] rates.
+
+[[Axle track]] has also been increased over standard A4s; the front widened by {{convert|37|mm|1}},<ref name=VWvortex/> to {{convert|1559|mm|1}}<ref name=TechData/> and the rear by {{convert|47|mm|1}}<ref name=VWvortex/> to {{convert|1569|mm|1}}.<ref name=TechData/>
+
+Speed sensitive "[[power steering#servotronic|servotronic]]"<ref name=VWvortex/> variable electro-hydraulic [[power steering|power assisted steering]] is controlled from a compact flat-bottomed [[steering wheel]], finished in perforated leather with mock-aluminium trim.  The steering rack ratio is 13.1:1,<ref name=TechData/> and the [[turning radius|turning circle]] is {{convert|11.1|m|2|lk=on}}.<ref name=TechData/>
+
+===B7 brakes, wheels and tyres===
+Standard [[brake]]s on the RS4 consist of two-piece, cross-drilled,<ref name=TechData/><ref name=VWvortex/> radially ventilated<ref name=TechData/><ref name=VWvortex/> and floating<ref name=VWvortex/> [[cast iron]]<ref name=VWvortex/> brake [[disc brake|discs]], secured to [[aluminium alloy]] disc hubs.<ref name=VWvortex/>  The two-piece disc construction, with its lightweight aluminium disc hub helps reduce unsprung masses,<ref name=VWvortex/> and also helps to reduce the transmission of heat to the wheel bearings.
+
+The fronts are sized at {{convert|365|mm|in|2|lk=on}} in diameter<ref name=VWvortex/> by {{convert|34|mm|in|3|abbr=on}} thick, and use gloss black [[Brembo]] [[monoblock]] eight-opposed piston fixed [[brake caliper|caliper]]s.<ref name=TechData/><ref name=VWvortex/>  These, along with the transmission, are supplied with a cooling airflow directed from [[NACA duct]]s<ref name=VWvortex/> located in the engine front undertray.
+
+A lighter, and higher performing "Audi ceramic" front brake system - consisting of cross-drilled, radially vented and floating [[reinforced carbon-carbon#similar products|Carbon fibre-reinforced Silicon Carbide]] (C/SiC) composite [[SGL Carbon]] discs, sized at {{convert|380|mm|in|2|abbr=on}} by {{convert|38|mm|in|3|abbr=on}}, with grey Brembo [[monobloc]] six-opposed piston fixed aluminium alloy calipers were an option from 2007 [[model year]] onwards (and only with 19&nbsp;[[inch]] wheels).  These have a greater tolerance to thermal differences, thus reducing the potential for [[brake fade]], and have a duration of five times greater than conventional iron discs.  A further attribute of the Ceramic brakes is that they reduce unsprung weight by around 50%, and therefore improve steering response and handling as a result.
+
+Rear brakes are drilled, vented and floating {{convert|324|mm|in|2|abbr=on}}<ref name=VWvortex/> by {{convert|22|mm|in|3|abbr=on}} iron discs, with gloss black [[Lucas Industries|Lucas-Girling]]&nbsp;[[TRW Automotive|TRW]] single piston floating calipers utilising an integrated mechanical handbrake mechanism.
+
+A specifically 'tuned'<ref name=VWvortex/> "sport-biased" [[Robert Bosch GmbH|Bosch]]<ref>Bosch Automotive Technology [http://rb-k.bosch.de/en/safety_comfort/drivingsafety/esp/index.html Electronic Stability Programme ESP]</ref> ESP&nbsp;8.0<ref name=VWvortex/> [[electronic stability control|Electronic Stability Programme]]<ref name=TechData/> is standard, and includes [[anti-lock braking system|Anti-lock Braking System]] (ABS)<ref name=TechData/><ref name=VWvortex/> and [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD),<ref name=TechData/><ref name=VWvortex/> and [[Brake Assist]] (BA).  This ESP system has three user-selectable settings - the standard default full protection mode, increased slip mode (which turns off the ASR and EDL), and ESP fully off.  Another useful function of the ESP&nbsp;8.0 is the inclusion of 'disc wiping', whereby the ESP system frequently but momentarilly applies the brakes during wet weather.<ref name=VWvortex/>  This effectively removes water from the disc and pad surfaces, and helps maintain braking performance of dry weather.<ref name=VWvortex/>  This operation is undetectable by the driver.<ref name=VWvortex/>
+
+In the UK, standard [[wheel|roadwheels]] are 19&nbsp;inch [[alloy wheel]]s<ref name=VWvortex/> ({{nowrap|9Jx19" ET29 "7-arm double spoke"}}) with {{nowrap|255/35 ZR19 96Y XL}}<ref name=VWvortex/> (eXtraLoad) high performance [[tire|tyres]].  This 19" wheel and tyre package was an option for the [[North America]]n,<ref name=VWvortex/> and some [[Europe]]an markets.  Factory supplied tyres included [[Continental AG|Continental]] SportContact 3, [[Michelin]] Pilot Sport PS2, or [[Pirelli]] P-Zero Rosso - although many owners have questioned the load-carrying abilities of the Pirellis (from unexplained sidewall failures and dubious dynamic stability), opting for the more durable Michelins at replacement time.  A no-cost option of 18&nbsp;inch alloy wheels ({{nowrap|8½Jx18" ET24 "5-spoke design"}}<ref name=TechData/><ref name=VWvortex/>) with {{nowrap|255/40 ZR18 Y XL}} tyres<ref name=TechData/> was also available, and these are standard in North American markets.<ref name=VWvortex/>  A 19" winter wheel and tyre package was also available as an option, and included {{nowrap|255/35 R19 96V}} [[Dunlop Tyres|Dunlop]] SP WinterSport 3D tyres.
+
+A direct-acting [[tire pressure monitoring system|Tyre Pressure Monitoring System]] (TPMS) is standard fitment.<ref name=VWvortex/>  This system monitors the actual pressure in all four tyres every three seconds,<ref name=VWvortex/> and should any loss in pressure be detected, both an audible and visual warnings are given to alert the driver in a timely manner.<ref name=VWvortex/>
+
+===Other B7 notable features===
+Other notable features to be found as standard equipment on cars for the [[Europe]]an, [[South African]], [[Japan]]ese and [[Australia]]/[[New Zealand]] markets - which are not available in the [[North America]]n market - are the smaller, flat bottomed [[steering wheel]] (complete with "Sport" button),<ref name=VWvortex/> and the body-hugging [[Recaro]] shell-type race bucket seats, complete with electrically inflatable upper and lower side bolsters.<ref name=VWvortex/>
+
+===B7 crash testing===
+The North American [[Insurance Institute for Highway Safety]] (IIHS) crash tested the B7 RS4s sibling, the B7 A4, and awarded it "Double Best Pick" for frontal and side crashes - beating illustrious rivals such as the [[BMW 3 Series]], the [[Mercedes-Benz C-Class]], and even the [[Volvo S60]].
+
+===B7 awards===
+The Audi B7 RS4 won the Ward's 2005 Auto Interior of the Year award.
+
+In 2007, the Audi RS4 was the winner in the "World Performance Car" category of the International [[World Car of the Year]] (WCOTY).  It beat illustrious rivals, including its larger sibling, the [[Audi S6]], the [[Porsche 911 Turbo]], [[Porsche 911 GT3]], [[Ferrari 599 GTB]], and [[Jaguar XKR]].{{citation needed|date=September 2009}}
+
+==Motorsport==
+===Speed World Challenge===
+The RS4 was planned to replace the [[Audi RS6|RS6]] in the SCCA [[Speed World Challenge]], but after Champion Racing had prepared the car, it was decided not to compete in the series, due to rule changes by [[Sports Car Club of America|SCCA]] imposed on Audi concerning 4WD systems, wheels size, and having competitive horsepower numbers against the LS7{{clarify|date=August 2009}} engine.  Champion has also moved its resources to the LeMans programme.  The car was used as a part of the American LeMans Series Vitesse programme, highlighting the technology link between [[auto racing|race cars]] and street cars.
+
+===Euro Superstars===
+[[File:Steven goldstein audi rs4 pilot colombia.jpg|thumb|left|[[Steven Goldstein]] at the wheel of a race-prepared RS4]]
+Six RS4s are openly campaigned in the [[Italian Superstars Championship]] by Audi Sport Italia. Audi RS4 quattro driver [[Gianni Morbidelli]] won the 2008 championship.{{-}}
+
+==See also==
+{{commons category}}
+*[[Audi S and RS models]]
+*[[Audi A4]] (includes information on the V8-powered A4 DTM race cars)
+*[[Audi S4]]
+*[[Audi S6]]
+*[[Audi RS6]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.audi.com Audi.com] official corporate website
+*[http://www.sinisterbeauty.co.uk "Sinister Beauty"] an official Audi UK microsite
+*[http://www.audiworld.com/features/tests/b7rs4.html Audi B7 RS4 test drive and review] at AudiWorld.com
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+{{Audi vehicles timeline (North America)}}
+
+{{DEFAULTSORT:Audi Rs4}}
+[[Category:Vehicles introduced in 1999]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Audi vehicles|RS4]]
+[[Category:All wheel drive vehicles]]
+[[Category:Euro NCAP large family cars]]
+[[Category:Executive cars]]
+[[Category:Compact executive cars]]
+[[Category:Sports cars]]
+[[Category:Sports sedans]]
+[[Category:Station wagons]]
+
+[[da:Audi RS4]]
+[[de:Audi RS4]]
+[[fr:Audi RS4]]
+[[hr:Audi RS4]]
+[[it:Audi RS4]]
+[[hu:Audi RS4]]
+[[nl:Audi RS4]]
+[[no:Audi RS4]]
+[[pl:Audi RS4 B5]]
+[[pt:Audi RS4]]
+[[ru:Audi RS4]]
+[[sk:Audi RS4]]
+[[fi:Audi RS4]]

@@ -1,0 +1,93 @@
+{{Unreferenced|date=March 2009}}
+[[File:MidEngine-en.svg|260px|thumb]]
+[[Image:Unterflurmotor Hanomag.jpg|thumb|260px|Underfloor mid-engine in a historical [[Hanomag]] truck chassis.]]
+A '''mid-engine layout''' describes the placement of an [[automobile]] [[internal-combustion engine|engine]] between the rear and front axles.  Another term for this is '''mid-ship'''.  
+
+==Benefits==
+The mid-engine layout is typically chosen for its relatively favorable [[weight distribution]]. The heaviest component is nearer to the center of the vehicle, reducing the vehicle's [[moment of inertia]] and making it easier and faster to turn the vehicle to a new direction. Also the engine weight is more evenly carried by all the wheels with this layout. As a result, vehicle stability, traction, and ride quality are naturally improved when turning, braking, and accelerating. 
+
+Mounting the engine in the middle instead of the front of the vehicle puts more weight over the rear tires so they have more traction and provide more assistance to the front tires in braking the vehicle, with less chance of rear wheel lockup and less chance of a skid or spin out. If the mid-engine vehicle is also rear-drive (as almost all of them are) the added weight on the rear tires can also improve acceleration on slippery surfaces, providing much of the benefit of all wheel drive without the added weight and expense of all wheel drive components. The mid-engine layout make ABS brakes and traction control systems work better, by providing them more traction to control. The mid-engine layout may make a vehicle safer, since an accident can occur if a vehicle cannot stay in its own lane around a curve or is unable to stop quickly enough. And additionally, mid-engine design is a way to provide additional empty crush space in the front of the automobile between the bumper and the windshield, which can then be used in a frontal collision to absorb more of the impact force to minimize penetration into the passenger compartment of the vehicle.
+
+In most automobiles, and in sports cars especially, ideal [[car handling]] requires balanced traction between the front and rear wheels when cornering in order to maximize the possible speed around curves without sliding out. This balance is harder to achieve when the heavy weight of the engine is located far to the front or far to the rear of the vehicle. Some automobile designs strive to balance the fore and aft weight distribution by other means such as putting the engine in the front and the transmission and battery in the rear of the vehicle. Some of the same benefits are gained, but at the cost of greater [[moment of inertia]] compared to the mid-engine layout, making it harder and less responsive to turn the vehicle to a new direction.
+
+Another benefit comes when the heavy mass of the engine is located close to the back of the seats. It makes it easier for the suspension to absorb the force of bumps so the riders feel a smoother ride.  But in sports cars the engine position is once again utilized to increase performance and the potentially smoother ride is usually more than offset by stiffer [[shock absorber]]s.
+
+This layout also allows the transmission and motor to be directly bolted to each other&mdash;with independent suspension on the driven wheels this removes the need for the chassis to transfer engine torque reaction.
+
+==Drawbacks==
+
+The largest drawback of mid-engine cars is restricted rear passenger space; most mid-engine vehicles are two-seat vehicles.  The engine in effect pushes the passenger compartment forward towards the front [[axle]] (if engine is behind driver).  Exceptions typically involve larger vehicles of unusual length or height in which the passengers can share space between the axles with the engine, which can be between them or below them, as in some Toyota vans, large trucks and buses. The mid-engine layout (with a horizontal engine) was common in single-decker buses in the 1950s and 1960s, e.g. the [[AEC Reliance]].
+
+Like any layout where the engine is not front-mounted and facing the wind, the traditional "engine-behind-the-passengers" layout makes engine cooling more difficult.  This has been a problem in some cars such as the [[Porsche 914]], which is air cooled rather than having a front-mounted coolant system. But this issue seems to have been largely solved in newer designs. For example, the [[Saleen S7]] employs large engine-compartment vents on the sides and rear of the bodywork to help dissipate heat from its very high-output engine.
+
+==Variations==
+The term "mid-engine" has usually been applied to cars having the engine located between the driver and the rear drive axles.  This layout is referred to here as [[RMR layout]]. Sports and racing cars typically have this mid-engine layout, as these vehicles' [[car handling|handling]] characteristics are more important than other features, such as capacity.  Additionally the mechanical layout  and packaging of a RMR car is substantially different than that of a front engine or rear engine car.
+
+A subset of Front-Rear when the engine is in front of the driver, but fully behind the front axle line, the layout is sometimes called Front Mid engine Rear [[FMR layout]] instead of the less-specific term front-engine. In handling and vehicle layout FMR is substantially the same as FR.  Some vehicles could be classified as FR or FMR depending on the factory installed engine (I4 vs I6).  Historically most classical FR cars such as the Ford Models T and A would qualify as a FMR engine car.  Additionally, the difference between FR and FMR may be as little as a few millimeters of engine protrusion in front of the front axle line.  Not all manufacturers use the Front-Mid designation.
+
+==Examples==
+===RMR layout===
+Traditional engine between driver and rear drive axle
+
+{{maincat|Rear mid-engine, rear-wheel drive vehicles}}
+
+===FMR layout===
+
+RWD with engine between driver and front axle
+:Note: Some of the listed vehicles will be referred to as Front-Engine RWD by their respective manufactures.
+
+* [[Aston Martin Vanquish]] and [[Aston Martin DB9|DB9]]
+* [[BMW Z8]]
+* [[Chevrolet Corvette]] (fourth through sixth generations)
+* [[Dodge Viper]]
+* [[Ferrari 599 GTB Fiorano]] and [[Ferrari 612 Scaglietti|612 Scaglietti]]
+* [[Honda S2000]]
+* [[Mazda MX-5]] (third generation), [[Mazda RX-7|RX-7]], and [[Mazda RX-8|RX-8]]
+* [[Mercedes-Benz SLR McLaren]]
+* [[Nissan FM platform]]
+* [[Suzuki Cappuccino]]
+* [[Volvo B10M]]
+* Most pre WWII front engine-RWD cars.
+
+===MF layout===
+
+Mid-ship [[Front-wheel drive]], with engine in front/parallel to driver
+
+* [[Citroën Traction Avant]]
+* [[Citroën DS]]
+* [[Citroën SM]]
+* [[Cord Automobile|Cord 810]]
+* [[Honda Legend]]
+* [[Renault 4]]
+* [[Renault 5]]
+* [[Renault 16]]
+* [[Saab Sonett]] mk1
+
+===M4 layout===
+Mid-ship, [[four-wheel drive]], with engine between axles:
+*[[Audi R8]]
+*[[Bugatti Veyron]]
+*[[Ford RS200]] 
+*[[Jeep Forward Control]]
+*[[Lancia Delta S4]]
+*[[Lamborghini Gallardo]]
+*[[Lamborghini Murcielago]]
+*[[MG Metro 6R4]]
+*[[Toyota Previa]] [[All-Trac]] variant
+*[[Toyota Van]] [[4WD]] variant
+*[[Volvo L3314]]
+*[[Volvo C303]]
+
+===FM4 layout===
+
+Four-wheel drive with engine between driver and front axle.  
+*[[Nissan GT-R]]
+
+{{Automobile layouts}}
+
+[[Category:Automobile layouts]]
+[[Category:Mid-engined vehicles| ]]
+
+[[de:Mittelmotor]]
+[[sv:Mittmotor]]
+[[it:Motore centrale]]

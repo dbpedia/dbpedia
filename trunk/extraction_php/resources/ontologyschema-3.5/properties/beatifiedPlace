@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = beatified place
+| rdfs:domain = Saint
+| rdfs:range = PopulatedPlace
+}}

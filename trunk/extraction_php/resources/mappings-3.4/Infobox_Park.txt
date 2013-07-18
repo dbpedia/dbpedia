@@ -1,0 +1,8 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Park
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = park | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+}}

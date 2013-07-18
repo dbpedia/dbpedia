@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = language type
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = owl:Thing
+}}

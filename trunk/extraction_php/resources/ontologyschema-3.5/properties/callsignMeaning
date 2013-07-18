@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = callsign meaning
+| rdfs:domain = RadioStation
+| rdfs:range = xsd:string
+}}

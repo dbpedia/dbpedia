@@ -1,0 +1,113 @@
+{{Infobox Automobile
+ | image            =[[Image:BMW Série 5 GT Concept.jpg|250px|BMW V5]]
+ | name             =BMW 5 Series Gran Turismo
+ | aka              =
+ | manufacturer     =[[BMW]]
+ | parent_company   =
+ | production       =2009-
+ | assembly         =
+ | predecessor      =
+ | successor        =
+ | class            =[[Crossover (automobile)|Crossover]] [[station wagon|wagon]]
+ | body_style       =5-door [[wagon]]/[[Liftback]]
+ | layout           =[[FR layout]]
+ | platform         =
+ | engine           =3.0L [[Straight-6|I6]] <br>4.4L [[V8 engine|V8]] <br>3.0L [[Straight-6|I6]] Diesel
+ | transmission     =8-speed [[Automatic transmission|automatic]]
+ | wheelbase        ={{convert|3070.86|mm|in|1|abbr=on}}
+ | width            ={{convert|1899.92|mm|in|1|abbr=on}}
+ | height           ={{convert|1554.48|mm|in|1|abbr=on}}
+ | length           ={{convert|4998.72|mm|in|1|abbr=on}}
+ | weight           =
+| fuel_capacity    =
+ | related          =
+| designer         = 
+}}
+
+The '''BMW 5 Series Gran Turismo''' is an upcoming car and was first displayed by [[BMW]] in 2009 at the Geneva Motor Show as a [[BMW Concept 5 Series Gran Turismo|concept car]].<ref>[http://www.autoblog.com/2009/03/04/geneva-2009-bmw-5-series-gran-turismo-is-one-luxurious-automoti/ Geneva 2009: BMW 5 Series Gran Turismo is one luxurious automotive hermaphrodite]</ref> It is the first production-destined rendition for [[BMW|BMW's]] [[BMW Progressive Activity Series|Progressive Activity Sedan (PAS)]] series of cars, its development code was [[BMW F07|F07]].<ref>[http://www.bmwarchiv.de/e-code/f07.html BMW F07 Platform Information]</ref> The 5 GT serves as a combination of a sport sedan, an [[SUV]], and a [[Gran Turismo]].
+
+The F07 platform provides a vehicle length traditionally found in a [[BMW 7 Series]], but with the headroom found in a [[BMW X5]]. The F07 also features a unique "bi-modal" trunk, similar to the Twin Door concept on the Skoda Superb, which may be opened in a traditional car like fashion, or the entire hatch may be open in a traditional SUV fashion for larger objects. The F07 is a derivative of the [[BMW F10|F10]] platform that will underpin the [[BMW_F10#F10_.282010-present.29|sixth-generation]] of the [[BMW 5 Series|5 Series]].  The front uses a [[multi-link suspension]], unlike the [[MacPherson strut]] suspensions BMW previously used.<ref>hhttp://www.bmwusa.com/standard/content/experience/newsfeed/post/2009/05/21/The-New-BMW-5-Series-Gran-Turismo.aspx</ref>
+
+On January 30, 2009 [[BMW]] released a video "BMW Concept: Scribble Video". The video was the first public introduction into the thought process behind the design of the [[progressive activity vehicle]] series and the upcoming 5 GT. <ref>[http://www.bmwusa.com/standard/content/experience/newsfeed/post/2009/01/29/BMW-Concept-Scribble-Video.aspx BMW Concept Scribble Video]</ref>
+
+It will launch as a 2010 model, with an expected price between $65,000 and $70,000, during the fourth quarter of 2009.<ref name="motortrend.com">[http://www.motortrend.com/roadtests/sedans/112_0905_2010_bmw_5_series_gt_first_look/performance_safety_price.html Motor Trend First Look: 2010 BMW 5 Series Gran Turismo]</ref>
+
+==Technology and equipment==
+The models include 8-speed automatic transmission, and BMW EfficientDynamics regenerative braking. Dynamic Drive Control with optional Adaptive Drive added COMFORT setting in addition to NORMAL, SPORT and SPORT+ modes, with reduced stability control intervention in the SPORT+ setting and in the traction mode.
+
+The cargo capacity is increased to 590 litres (1,700 litres with folded rear seats). Other features include LED daytime driving lights. Optional features include 4-zone automatic air conditioning (standard in BMW 550i Gran Turismo), telecommunication and navigation systems, a USB port, an 80 GB hard disc for navigation data and music collection, a multi-channel audio system, a DAB double tuner, a DVD entertainment system at the rear, a Head-Up Display, a panorama glass roof, an electrically swivelling trailer hook.<ref>[http://www.autoblog.com/2009/05/22/officially-official-bmw-drops-the-details-on-its-2010-5-series/ Officially Official: BMW drops the details on its 2010 5 Series Gran Turismo]</ref>
+
+In the 5er GT - partly against surcharge - are several driver assistance systems how:
+*[[Adaptive cruise control]] with Stop & Go feature
+*[[Blind spot monitor|Blind Spot Information System]], 
+*[[Lane departure warning system]],
+*[[Automotive night vision|Night vision]]
+*[[Head-Up Display]], 
+*Integral Active Steering (rear wheel steering) 
+*[[backup camera|Rear view camera]], 
+*Sideview (two cameras in the front bumper that look to the left and right) 
+*Topview (of the two additional cameras in the exterior mirrors, the side-view cameras, reversing camera and sensors from the PDC to create an overall picture of the vehicle and its environment, and show it from the air) and
+*a speed limit display. For this, a camera will check street signs with speed limits. These are displayed in the speedometer, as well as head-up display.
+
+==Design and style==
+[[File:BMW 530d Gran Turismo (2009) - rear.jpg|thumb|BMW 5 Series Gran Turismo (2009), rear view.]]
+The 5 GT has dimensions mimicking in length the [[BMW 7 Series|7 Series]], a height and trunk space slightly more than the [[BMW 5 Series|5 Series]] wagon, and headroom comparable to the [[BMW X5]].<ref>[http://www.press.bmwgroup.com/pressclub/us02.nsf/fwPressemeldungFrame?readform&docid=799C8B36C8B493A2C125755C0001C92F BMW Concept 5 Series Gran Turismo at the 2009 Geneva Motor Show]</ref>
+
+The 5 GT features design cues from the [[BMW CS Concept]], as well as new designs indicative of upcoming models. The vehicle has a coupe-like roofline, elevated seating, and a "bi-modal" trunk which operates like a sedan or a traditional [[SUV]]. For the first time on a 4-door [[BMW]], the 5 GT features frameless doors. The headlights contain the new LED Corona rings slanted at an angle and extending into the fenders.
+
+==F07 models==
+The first production versions launched as 2010 models, with an expected price between $65,000 and $70,000, during the fourth quarter of 2009.<ref name="motortrend.com"/> The first three models released and their respective engine specifications were:
+
+{| class="wikitable" border="1"
+|-
+! Models !! Engine !! Power !! torque@rpm !! acceleration (0-100&nbsp;km/h) !! top speed
+|-
+! 535i Gran Turismo
+| {{convert|2979|cc|L cuin||abbr=on}} I6 turbo ||{{convert|306|PS|kW hp||abbr=on}}@5800 || {{convert|400|Nm|lbft||abbr=on}}@1200–5000 ||6.3s ||{{convert|250|km/h|mph||abbr=on}}
+|-
+! 550i Gran Turismo 
+| {{convert|4395|cc|L cuin||abbr=on}} V8 twin turbo ||{{convert|408|PS|kW hp||abbr=on}}@5500-6400 || {{convert|600|Nm|lbft||abbr=on}}@1750–4500 ||5.5s ||{{convert|250|km/h|mph||abbr=on}}
+|-
+! 530d Gran Turismo 
+| {{convert|2993|cc|L cuin||abbr=on}} I6 turbo common-rail diesel||{{convert|245|PS|kW hp||abbr=on}}@4000 || {{convert|540|Nm|lbft||abbr=on}}@1750–3000 ||6.9s ||{{convert|240|km/h|mph||abbr=on}}
+|}
+
+===Transmissions===
+{| class="wikitable"
+! Model !! Type
+|-
+|535i Gran Turismo||8-speed automatic ([[ZF 8HP transmission]])
+|-
+|550i Gran Turismo||8-speed automatic ([[ZF 8HP transmission]])
+|-
+|530d Gran Turismo||8-speed automatic ([[ZF 8HP transmission]])
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.bmw.com/com/en/newvehicles/5series/gran_turismo/2009/intro/intro.html BMW 5 Series Gran Turismo] Official global site
+*[http://www.bmw-tv.de/tv/automobile/090311_J26_1_5er_gt.html Official video produced by BMW]
+*[http://www.inautonews.com/bmw-5-series-gt Official BMW 5 Series GT details]
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 5 Series Gran Turismo}}
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2009]]
+[[Category:BMW vehicle series]]
+[[Category:Hatchbacks]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sedans]]
+[[Category:Sports sedans]]
+[[Category:Station wagons]]
+
+[[de:BMW 5er Gran Turismo]]
+[[es:BMW Serie 5 Gran Turismo]]
+[[fr:BMW Série 5 Gran Turismo]]
+[[it:BMW Serie 5 GT]]
+[[nl:BMW 5-serie GT]]
+[[pl:BMW 5 Gran Turismo]]
+[[ru:BMW 5 Series Gran Turismo]]
+[[uk:BMW 5 Series Gran Turismo]]

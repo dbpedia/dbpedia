@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = ceo
+| rdfs:domain = SoccerClub
+| rdfs:range = Person
+}}

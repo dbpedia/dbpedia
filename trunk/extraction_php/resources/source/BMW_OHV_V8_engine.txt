@@ -1,0 +1,37 @@
+{{Infobox Automobile
+|name=BMW OHV V8 engine
+|manufacturer=[[BMW]]
+|production=[[1954]]&ndash;[[1962]]
+|predecessor=none
+|successor=[[BMW M60]]
+|class=[[OHV]] [[V8 engine|V8]], 16 valves
+|engine=2.6&nbsp;L (2580&nbsp;cc/157&nbsp;in³)<br>3.2&nbsp;L (3168&nbsp;cc/193&nbsp;in³)
+|similar=
+}}
+
+The '''BMW OHV V8 engine''' was the first [[V8 engine]] made by [[BMW]], produced from 1954 to 1965.  This engine is usually named by the fact that it was the only [[overhead valve]] V8 ever produced by BMW.  All subsequent BMW V8 engines would use [[DOHC|double overhead camshafts]] as well as [[fuel injection]], but the development of the next V8 engine by BMW would not take place for more than three and a half decades.<ref>http://www.theautochannel.com/vehicles/new/reviews/wk9437.html BMW 840Ci</ref>
+
+==Introduction==
+The [[BMW 501]] was a larger and heavier car than BMW had ever made before when it premiered in 1952, and it was the first BMW car made in [[West Germany]] after a long hiatus after [[World War II]].  But it was powered with an elderly [[straight-6]] from before the war, and though power was increased to {{convert|65|hp|kW}}<ref>http://www.globalcar.com/datasheet/BMW/1952_BMW_501.htm Details on BMW 501</ref>, it was a sluggish performer.  Their primary competitor, [[Mercedes-Benz]], fielded the [[Mercedes-Benz W187|W187]] in the same class but with superior performance.  In order to reassert their status as the producer of sporty sedans, BMW debuted a 501 with a [[pushrod]] V8 engine.  This was called the [[BMW 502]].  This V8 engine was available in 2.6&nbsp;L (157&nbsp;in<sup>3</sup>) and 3.2&nbsp;L (193&nbsp;in<sup>3</sup>) form.
+
+==Details==
+The engine was an [[aluminum]] alloy, [[Longitudinal engine|longitudinally-mounted]] 90° V8 with a [[Bore (engines)|bore]]/[[Stroke (engine)|stroke]] of {{convert|82.0|mm|in}}/{{convert|75.0|mm|in}}, in two displacements.  The 2.6&nbsp;L engine produced {{convert|100|hp|kW}}, and the 3.2&nbsp;L engine produced from {{convert|120|hp|kW}} to {{convert|160|hp|kW}}.  Commonly fed through two [[Zenith Carburetters|Zenith]] carburettors, the engine was good for 5900-6500 rpm in its various configurations.
+
+==BMW 502==
+Developed for the [[BMW 502]] in 1954, the 2.6&nbsp;L engine was available only for that vehicle.  The 3.2&nbsp;L engine was developed in 1956, and found its way into the 502 that same year.<ref>http://www.motorbase.com/profiles/vehicle/index.ehtml?i=432 Motorbase: BMW 502</ref>  It was initially rated at {{convert|120|hp|abbr=on}}, but ultimately was upgraded and produced {{convert|140|hp|abbr=on}}.  The 501/502 range was discontinued in 1964.
+
+==BMW 503==
+The [[BMW 503]] was offered from May 1956 to March 1959, during which time it used the 3.2&nbsp;L engine.  In this form, it produced {{convert|140|hp|kW}}.  Mated to a four-speed [[manual transmission|manual]], the relatively heavy grand tourer achieved 0-{{convert|100|km/h|mph}} in about 12 seconds and a top speed of around {{convert|120|mph|km/h}}.<ref>http://www.conceptcarz.com/vehicle/z5942/BMW_503.aspx ConceptCarz: BMW 503</ref>
+
+==BMW 507==
+The iconic and extremely expensive [[BMW 507]] roadster, produced from 1956 to 1959, was offered with the 3.2&nbsp;L engine producing {{convert|150|hp|kW}}, with a more tuned {{convert|160|hp|kW}} version available.<ref>http://www.ultimatecarpage.com/car/51/BMW-507.html BMW 507 and plenty of engine info</ref> With more power and a lighter body, the 507's performance was fairly good, with 0-60&nbsp;mph achieved in under 10 seconds and a top speed, depending on gearing, of {{convert|141|mph|km/h}}.  However, the car's stratospherically high price made it extremely exclusive and almost ruined the company due to the cost of production and slow sales.
+
+==BMW 3200 CS==
+In its final incarnation, the 3.2&nbsp;L engine powered the [[BMW 3200 CS|3200 CS]].  The engine produced {{convert|160|hp|kW}}.<ref>http://www.globalcar.com/datasheet/BMW/1962_BMW_3200_CS_Coupe.htm Details on 3200 CS Coupé</ref>  When this vehicle was taken off the market in 1965, it was the end of an era for BMW, as changing market trends such as the successful [[BMW New Class]] positioned it downmarket, and left the company with little interest in low-volume exclusive coupés.  Furthermore, with the final production run of this engine, no V8 engines would power any BMWs until 1991 with the [[BMW 8-Series|BMW 840i]].
+
+==References==
+{{reflist}}
+
+{{BMW early cars}}
+
+[[Category:BMW engines]]

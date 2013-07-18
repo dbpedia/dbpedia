@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = longtype
+|rdfs:domain = Album
+|rdfs:range = xsd:string
+}}

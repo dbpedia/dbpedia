@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = pole driver country
+|rdfs:domain = GrandPrix
+|rdfs:range = Country
+}}

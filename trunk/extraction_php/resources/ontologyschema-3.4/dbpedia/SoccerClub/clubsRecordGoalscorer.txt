@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = clubs record goalscorer
+|rdfs:domain = SoccerClub
+|rdfs:range = Person
+}}

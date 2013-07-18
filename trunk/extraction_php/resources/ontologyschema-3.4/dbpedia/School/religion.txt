@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = religion
+|rdfs:domain = School
+|rdfs:range = owl:Thing
+}}

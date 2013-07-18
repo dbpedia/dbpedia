@@ -1,0 +1,31 @@
+Segmentation faults within preg_match_all:
+-------------------------------------------------------------------------------
+There is a known issue with stack overflows which eventually cause
+segmentation faults in the pcre library used by preg_match_all.
+http://bugs.php.net/bug.php?id=40909
+
+In order to avoid the segmantation fault, the php.ini(*) file contains
+settings to limit backtracking and recursion depth:
+
+[Pcre]
+;PCRE library backtracking limit.
+pcre.backtrack_limit=10000
+
+;PCRE library recursion limit.
+;Please note that if you set this value to a high number you may consume all
+;the available process stack and eventually crash PHP (due to reaching the
+;stack size limit imposed by the Operating System).
+pcre.recursion_limit=10000
+
+In my config, initially all settings were commented out, and instead of
+10000 they were set to 100000.
+Unfortunately that still caused crashes, so what is shown above is my current
+config at the time of writing (it even crashed with 30000 on my system).
+
+
+(*) located e.g. in /etc/php5/cli/php.ini --
+locate php.ini might assist you in finding the file
+===============================================================================
+Thank you for your attention,
+Jean-Pierre (copyright 2009)
+If you liked what you read here visit my blog at: http://tiny.cc/lEjyG

@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = area magnitude
+| rdfs:range = Area
+}}

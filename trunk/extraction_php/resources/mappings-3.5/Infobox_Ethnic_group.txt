@@ -1,0 +1,23 @@
+{{TemplateMapping
+| mapToClass = EthnicGroup
+| mappings = 
+	{{PropertyMapping | templateProperty = population | ontologyProperty = totalPopulation }}
+	{{PropertyMapping | templateProperty = pop | ontologyProperty = totalPopulation }}
+	{{PropertyMapping | templateProperty = poptime | ontologyProperty = totalPopulation }}
+	{{PropertyMapping | templateProperty = popplace | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = regions | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region1 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region2 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region3 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region4 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region5 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region6 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region7 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region8 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region9 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = region10 | ontologyProperty = populationPlace }}
+	{{PropertyMapping | templateProperty = languages | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = religions | ontologyProperty = religion }}
+	{{PropertyMapping | templateProperty = related | ontologyProperty = related }}
+	{{PropertyMapping | templateProperty = group | ontologyProperty = foaf:name }}
+}}

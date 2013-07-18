@@ -1,0 +1,82 @@
+{{Infobox Automobile
+|name=BMW M54 engine
+|manufacturer=[[BMW|BMW, Bayerische Motoren Werke AG]]
+|production=2000&ndash;2006
+|predecessor=[[BMW M52]]
+|successor=[[BMW N52]]/[[BMW N54|N54]]
+|class=[[Straight-6]]
+|image=[[Image:BMW M54B25 002.jpg|250px|center]]
+|engine=2.2&nbsp;L (2171&nbsp;cc/132&nbsp;in³)<br>2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)<br>3.0&nbsp;L (2979&nbsp;cc/181&nbsp;in³)
+}}
+The '''[[BMW]] M54''' is a [[straight-6]] engine, debuting in the year 2000.  It is an evolution of the [[BMW M52]].  The engine has [[VANOS|Double VANOS]] [[variable valve timing]] to adjust timing of both intake and exhaust valves.
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year!!Stroke!!Bore!!Compression
+|-
+|[[#M54B22|M54B22]]||2.2&nbsp;L (2171&nbsp;cc/132&nbsp;in³)|| {{convert|125|kW|hp|0|abbr=on}}  @ 6100 rpm|| {{convert|210|Nm|ftlbf|abbr=on}}  @ 3500||6500||2000|| || ||
+|-
+|[[#M54B25|M54B25]]||2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)|| {{convert|137|kW|hp|0|abbr=on}}  @ 6000 rpm|| {{convert|240|Nm|ftlbf|abbr=on}} @ 3500||6500||2000||75.0&nbsp;mm (2.95 in ||84&nbsp;mm (3.31 in)||10.5:1
+|-
+|[[#M54B30|M54B30]]||3.0&nbsp;L (2979&nbsp;cc/181&nbsp;in³)|| {{convert|170|kW|hp|0|abbr=on}}  @ 5900 rpm|| {{convert|300|Nm|ftlbf|abbr=on}}  @ 3500||6500||2000||89.6&nbsp;mm (3.53 in)||84&nbsp;mm (3.31 in)||10.2:1
+|}
+
+==M54B22==
+
+The 2.2&nbsp;L (2171&nbsp;cc/132&nbsp;in³) '''M54B22''' produced 125&nbsp;kW (170&nbsp;hp) at 6100 rpm and 210&nbsp;N·m (155&nbsp;ft·lbf) at 3500 rpm.
+
+Applications:
+* 2001-2003 [[BMW E46|E46]] [[BMW 3-Series|320i/320Ci]]
+* 2001-2003 [[BMW E39|E39]] [[BMW 5-Series|520i]]
+* 2001-2002 [[BMW E36|E36]] [[BMW Z3|Z3 2.2i]]
+* 2003-2005 [[BMW E85|E85]] [[BMW Z4|Z4 2.2i]]
+* 2003-2005 [[BMW E60|E60/E61]] [[BMW 5-Series|520i]]
+
+==M54B25==
+
+The '''M54B25''' is a 2.5&nbsp;L (2494&nbsp;cc) engine with an {{convert|84|mm|in|1|abbr=on}} bore and {{convert|75|mm|in|1|abbr=on}} stroke.  It is all-alloy with Al-Sil block, fracture-split forged steel connecting rods, a one-piece forged crankshaft, and a reinforced plastic intake manifold.  Output is 192&nbsp;hp (143&nbsp;kW) at 6000&nbsp;rpm with 175&nbsp;ft·lbf (245&nbsp;Nm) of torque at 3500&nbsp;rpm.
+
+Applications:
+* 2001-2002 [[BMW E36|E36/7]] [[BMW Z3|Z3 2.5i]]
+* 2001-2005 [[BMW E46|E46]] [[BMW 3-Series|325i/325xi]]
+* 2001-2006 [[BMW E46|E46]] [[BMW 3-Series|325Ci]]
+* 2001-2004 [[BMW E46|E46]] [[BMW Compact|325ti]]
+* 2001-2004 [[BMW E39|E39]] [[BMW 5-Series|525i]]
+* 2003-2004 [[BMW E60|E60/E61]] [[BMW 5-Series|525i/525xi]]
+* 2004-2006 [[BMW E83|E83]] [[BMW X3|X3 2.5i]]
+* 2004-2006 [[BMW E85|E85]] [[BMW Z4|Z4 2.5i]]
+
+==M54B30==
+
+The '''M54B30''' is a 3.0&nbsp;L (2979&nbsp;cc) successor of the 2.8&nbsp;L [[BMW M52]].  Bore remains the same at {{convert|84|mm|in|1|abbr=on}}, but stroke is increased {{convert|5.6|mm|in|1|abbr=on}} to {{convert|89.6|mm|in|1|abbr=on}}.  Power is 231&nbsp;hp (170&nbsp;kW) at 5,900 rpm while torque is 221&nbsp;ft·lbf (300&nbsp;Nm) at 3,500 rpm.
+
+It is an all-alloy engine with Al-Sil block.  It uses SFI [[fuel injection]], has [[multivalve|4 valves per cylinder]] with Double VANOS (variable valve timing) and features fracture-split forged steel connecting rods, a one-piece forged crankshaft, and reinforced plastic intake manifold.
+
+The M54B30 was on the [[Ward's 10 Best Engines]] list through 2001-2003.
+
+Applications:
+* 2000-2005 [[BMW E46|E46]] [[BMW 3-Series|330i/330xi]]
+* 2000-2006 [[BMW E46|E46]] [[BMW 3-Series|330Ci]]
+* 2000-2003 [[BMW E39|E39]] [[BMW 5-Series|530i]]
+* 2000-2002 [[BMW E36|E36]] [[BMW Z3|Z3 3.0i]]
+* 2003-2005 [[BMW E60]] [[BMW 5-Series|530i]]
+* 2003-2005 [[BMW E85|E85]] [[BMW Z4|Z4 3.0i]]
+* 2004-2006 [[BMW E83|E83]] [[BMW X3|X3 3.0i]]
+* 2001-2006 [[BMW E53|E53]] [[BMW X5|X5 3.0i]]
+
+==See also==
+* [[BMW engines]]
+* [[BMW M52]]
+* [[BMW N52]]
+* [[BMW M50#S54B32|BMW S54]]
+
+==References==
+{{reflist}}
+
+[[Category:BMW engines|M54]]
+
+[[de:BMW M54]]
+[[it:BMW M54]]
+[[no:BMW M54]]
+[[pl:BMW M54]]

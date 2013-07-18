@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Band
+| rdfs:subClassOf = Organisation
+}}

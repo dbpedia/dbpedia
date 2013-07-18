@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas 
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	backgroundColor="#FFFFFF" focusEnabled="true"
+	initialize="init()" creationComplete="handleCreationComplete()"
+	width="{ _parentWidth }">
+	
+	<mx:Metadata>
+		[Event(name="menuHide",type="mx.events.MenuEvent")]
+		[Event(name="menuShow",type="mx.events.MenuEvent")]
+		[Event(name="itemClick",type="mx.events.MenuEvent")]
+	</mx:Metadata>
+		
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.Button;
+			import mx.events.ResizeEvent;
+			import mx.events.MoveEvent;
+			import mx.managers.PopUpManager;
+			import mx.events.MenuEvent;
+			import mx.controls.Menu;
+			import mx.core.UIComponent;
+			
+			public static const TOP_PADDING:int = 3;
+			public static const RIGHT_PADDING:int = 3;
+			public static const NUB_WIDTH:int = 25;
+			public static const RADIUS:int = 5;
+			public static const MENU_PADDING:int = 6;
+			
+			private var _menu:Menu;
+			private var _button:Button;
+			private var _dataProvider:Object;
+			
+			[Bindable]
+			private var _parentWidth:int;
+			private var _rowHeight:int;
+			
+			[Embed(source="/com/hillelcoren/assets/icons/actionsUp.png")]
+			private var _upIcon:Class;
+			
+			private function init():void
+			{
+				addEventListener( MoveEvent.MOVE, handleMove, false, 0, true );
+				systemManager.addEventListener( ResizeEvent.RESIZE, handleResize, false, 0, true );
+				
+				var localPoint:Point = new Point( 0, 0 );
+				var globalPoint:Point = localToGlobal( localPoint ); 
+				
+        		_menu = Menu.createMenu( this, _dataProvider, false );	
+				_menu.labelField="@label";
+				_menu.setStyle( "openDuration", 0 );
+				_menu.setStyle( "dropShadowEnabled", false );
+				_menu.setStyle( "borderStyle", "none" );				
+				
+				_menu.addEventListener( MenuEvent.MENU_HIDE, handleMenuHide );
+				_menu.addEventListener( MenuEvent.MENU_SHOW, handleMenuShow );
+				_menu.addEventListener( MenuEvent.ITEM_CLICK, handleItemClick );
+				
+				_menu.show( 0, 0 );
+								
+				_button = new Button();
+				_button.setStyle( "styleName", "actionsMenuButton" );
+				_button.setStyle( "upIcon", _upIcon );
+				_button.x = _parentWidth - NUB_WIDTH - 1;
+				_button.y = TOP_PADDING + ((_rowHeight - 14) / 2);
+				addChild( _button );				
+			}
+
+			private function handleMenuHide( event:MenuEvent ):void
+			{
+				if (event.menu == _menu)
+				{
+					PopUpManager.removePopUp( this );
+				}
+				
+				dispatchEvent( event );
+			}
+			
+			private function handleMenuShow( event:MenuEvent ):void
+			{
+				dispatchEvent( event );
+			}
+						
+			private function handleItemClick( event:MenuEvent ):void
+			{
+				dispatchEvent( event );
+			}
+						
+			private function positionMenu():void
+			{
+				var localPoint:Point = new Point( 0, 0 );
+				var globalPoint:Point = localToGlobal( localPoint ); 
+				
+				var x:int = globalPoint.x + (_parentWidth - _menu.width - RIGHT_PADDING);
+				var y:int = globalPoint.y + _rowHeight + MENU_PADDING + TOP_PADDING;
+
+				_menu.move( x, y );				
+			}
+		
+			private function handleMove( event:Event ):void
+			{
+				callLater( positionMenu );		
+			}
+			
+			private function handleResize( event:Event ):void
+			{
+				callLater( positionMenu );
+			}
+			
+			public function set dataProvider( value:Object ):void
+			{
+				_dataProvider = value;
+			}
+			
+			public function set parentWidth( value:int ):void
+			{
+				_parentWidth = value;
+			}
+			
+			public function set rowHeight( value:int ):void
+			{
+				_rowHeight = value;
+			}			
+			
+			private function drawShape( g:Graphics, width:int, height:int, point:Point, radius:int ):void
+			{
+				g.moveTo( 0, point.y + radius);
+				g.lineTo( 0, height - radius );
+				g.curveTo( 0, height, radius, height );
+				g.lineTo( width - radius, height );
+				g.curveTo( width, height, width, height - radius );
+				g.lineTo( width, radius );
+				g.curveTo( width, 0, width - radius, 0 );
+				g.lineTo( point.x + radius, 0 );
+				g.curveTo( point.x, 0, point.x, radius );
+				g.lineTo( point.x, point.y - radius );
+				g.curveTo( point.x, point.y, point.x - radius, point.y );
+				g.lineTo( radius, point.y );
+				g.curveTo( 0, point.y, 0, point.y + radius );				
+			}
+			
+			private function handleCreationComplete():void
+			{
+				var comp:UIComponent = new UIComponent();
+				var mask:Shape = new Shape();
+				var g:Graphics;
+				
+				g = mask.graphics;
+				g.clear();
+				g.beginFill(0x000000,1.0);
+				g.lineStyle(0, 0xFF0000);
+				
+				var height:int = _rowHeight + (MENU_PADDING * 2) + _menu.height;
+				var point:Point = new Point( _menu.width - NUB_WIDTH, _rowHeight );								
+				
+				drawShape( g, _menu.width, height, point, RADIUS );
+				g.endFill();
+				
+				mask.x = _parentWidth - _menu.width - RIGHT_PADDING;
+				mask.y = TOP_PADDING;
+				
+				comp.addChild( mask );
+				addChild( comp );
+				
+				this.height = height + MENU_PADDING; 
+				this.mask = comp; 		
+										
+				var ds:DropShadowFilter = new DropShadowFilter();
+				ds.distance = 1;
+				ds.blurX = 5;
+				ds.blurY = 5;
+				ds.alpha = .5;
+				
+				var gf:GlowFilter = new GlowFilter();
+				gf.color = 0x000000;
+				gf.alpha = .3;
+				gf.blurX = 3;
+				gf.blurY = 3;
+				gf.quality = 1;
+				gf.strength = 1;
+				
+				this.filters = [gf, ds];				
+			}
+			
+			/*
+			override public function hitTestPoint( x:Number, y:Number, shapeFlag:Boolean=false):Boolean
+			{
+				var globalPoint:Point = new Point( x, y );
+				var localPoint:Point = globalToLocal( globalPoint ); 
+				
+				if (localPoint.x < width - NUB_WIDTH && localPoint.y < _rowHeight)
+				{
+					return false;
+				}
+				
+				return super.hitTestPoint( x, y, shapeFlag );
+			}
+			*/
+						
+		]]>
+	</mx:Script>
+	
+</mx:Canvas>

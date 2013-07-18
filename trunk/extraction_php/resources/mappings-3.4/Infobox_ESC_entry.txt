@@ -1,0 +1,11 @@
+{{ DBpediaTemplateMapping
+| mapToClass = EurovisionSongContestEntry
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = song | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = year | ontologyProperty = Work/publishDate }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Work/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = languages | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = prev_link | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = next_link | ontologyProperty = Work/subsequentWork }}
+}}

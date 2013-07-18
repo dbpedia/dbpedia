@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = federal state
+|rdfs:domain = City
+|rdfs:range = PopulatedPlace
+}}

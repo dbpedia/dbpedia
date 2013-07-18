@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = area magnitude
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = squareMetre
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = mouth district
+|rdfs:domain = River
+|rdfs:range = PopulatedPlace
+}}

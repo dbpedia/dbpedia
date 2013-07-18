@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = promotion
+| rdfs:domain = WrestlingEvent
+}}

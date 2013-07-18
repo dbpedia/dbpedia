@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Station
+| rdfs:subClassOf = Building
+}}

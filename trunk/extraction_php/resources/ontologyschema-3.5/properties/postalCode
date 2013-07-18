@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = postal code
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,143 @@
+{{Infobox Automobile
+| image =[[Image:MB 190 SL am 2006-07-16 (ret kl).JPG|250px]]
+| name = Mercedes-Benz 190SL
+| manufacturer = [[Mercedes-Benz]]
+| parent_company = Daimler-Benz AG
+| aka =
+| production = 1955-1963 <br/> 25,881 built<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref>
+| assembly =
+| predecessor = none
+| successor = [[Mercedes-Benz W113|Mercedes-Benz 230SL]]
+| class = [[grand tourer]]
+| body_style = 2 door [[coupé]], [[roadster]] (comes with removable hardtop)
+| layout = [[FR layout]]
+| platform = [[Mercedes-Benz W120/121|Mercedes-Benz R121]]
+| engine = 1897&nbsp;cc '''M121''' [[I4 engine|I4]]
+| transmission = 4-speed manual, fully synchronized
+| wheelbase = 2400 mm (94.5 in)
+| length = {{Auto in|166.1|0}}
+| width = {{Auto in|65.5|0}}
+| height = {{Auto in|56|1}}
+| weight = {{convert|2552|lb|kg|0|abbr=on}}
+| fuel_capacity = {{Convert|17|usgal|L impgal|0|abbr=on}}<ref name="specsheet">[http://www.190slgroup.com/tech/images/1961SL.jpg 1961 Mercedes-Benz 190E specifications]</ref>
+| related = [[Mercedes-Benz 300SL]]<br />[[Mercedes-Benz W120/121]]
+| similar_cars = [[Volkswagen Karmann Ghia]]<br />[[Volvo P1800]]
+| designer =
+}}
+
+The '''Mercedes-Benz 190SL''' was a two door [[Grand tourer|grand touring]] [[convertible]] with a removable hardtop.  It was produced by [[Mercedes-Benz]] between May 1955 and February 1963. A prototype was first shown at the New York Auto Show of 1954.
+
+The 190SL was sold alongside the faster, more expensive [[Mercedes-Benz 300SL]], which it closely resembled both in its styling and in its fully independent suspension, with both cars having [[double wishbone suspension]]s at the front and [[swing axle]]s at the rear.  However, the 190SL did not use the 300SL's purpose-built tubular spaceframe W198 platform, but was instead  built on the shortened [[monocoque]] '''R121''' platform, which was modified from the [[Mercedes-Benz W120/121|W121]] small saloon platform.<ref name="ritz190SLp2">[http://www.ritzsite.net/190SL/02_190SL.htm RitzSite Mercedes-Benz 190 SL 1955-1963; page 2]</ref>
+
+The 190SL was powered by a completely new, slightly oversquare 1.9L straight-four [[SOHC]] engine (Type M121 BII), that developed {{convert|105|PS|kW hp|abbr=on}} (or 120 gross hp) that earned itself a reputation for not running that smoothly<ref>Oswald, op. cit., p. 31</ref> mostly due to the difficulty in properly synchronising the twin-choke dual Solex carburetors, and that, in detuned form, was later also used in the [[Mercedes-Benz W120|W120]] 180 and [[Mercedes-Benz W121|W121]] 190 models.    In fact, the four cylinder engine block of the 190SL was based on the six cylinder engine of the 300 SL.<ref name=Autocar196610>{{cite journal | authorlink = Maurice A Smith (Ed)|title = Used cars on test:1960 Mercedes-Benz 190SL Coupé| journal =[[Autocar]]| volume = vol 125 nbr 3689| pages = pages 944 - 945| date = 28 October 1966}}</ref>   The 85&nbsp;mm bore was transferred unchanged from the larger engine to the smaller, although the stroke for the 190 SL was reduced from 88.0&nbsp;mm to 83.6&nbsp;mm.<ref name=Autocar196610/>
+
+The car was available either as a soft-top convertible (initially priced at DM 16,500/$ 3,998<ref>US prices: Mike Covello: ''Standard Catalog of Imported Cars 1946-2002''. Krause Publication, Iola 2002, ISBN 0-87341-605-8, p. 528.</ref>) or with removable hardtop (DM 17,650/$ 4,295). A nice option to be had was the third-passenger transversal seat that could even fit an adult. In its early life, the 190SL could also be had as a sports-racing model with small perspex windscreen and aluminum doors. In 1959, the hardtop's rear window was enlarged.
+
+The 190SL was also referred to as the ''Nitribitt-Mercedes'' after the scandal surrounding the murder of the [[call girl]] [[Rosemarie Nitribitt]], who owned a 190SL.
+
+Both the 190SL and the 300SL were replaced by the [[Mercedes-Benz W113|Mercedes-Benz 230SL]] in 1963.
+
+<br style="clear:both" />
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data Mercedes-Benz 190SL <ref name=DeAutos45bis90Oswald/>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="25%"|Mercedes-Benz
+! width="75%"|190SL
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1955 - 1963
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || align="center" |[[I4 engine|4-cylinder-inline engine]] ([[four-stroke]]), front-mounted
+|- bgcolor="#EEEEEE"
+| Bore x Stroke:&nbsp; || align="center" |85&nbsp;mm x 83.6&nbsp;mm
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || align="center" |1897 cc
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp; || align="center" | {{convert|105|PS|kW hp|abbr=on}} @ 5700
+|- bgcolor="#EEEEEE"
+| Max. Torque @ rpm:&nbsp; || align="center" | {{convert|142|Nm|lbft|abbr=on}} @ 3200
+|- bgcolor="#EEEEEE"
+| Compression Ratio:&nbsp; || align="center" |8.5: 1, from 09/59 8.8:1
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || align="center" |  Double downdraft carburetter Solex 44PHH
+|- bgcolor="#EEEEEE"
+| Fuel tank capacity:&nbsp; || align="center" |  {{Convert|65|L|usgal impgal|1|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Valvetrain:&nbsp; || align="center" | [[SOHC]], duplex chain 
+|- bgcolor="#EEEEEE"
+|  Cooling:&nbsp; || align="center" |Water
+|- bgcolor="#EEEEEE"
+| Gearbox:&nbsp; || align="center" |  4-speed manual, lever between seats <br/>  rear wheel drive, standard axle ratio 3.90:1
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || align="center" |  12 volt
+|- bgcolor="#EEEEEE"
+| Front suspension:&nbsp; || align="center" | Double wishbones, coil springs, stabilising bar
+|- bgcolor="#EEEEEE"
+| Rear suspension::&nbsp; || align="center" | Swing axle, coil springs
+|- bgcolor="#EEEEEE"
+| Brakes:&nbsp; || align="center" | Drum brakes (Ø 230&nbsp;mm), power assisted 
+|- bgcolor="#EEEEEE"
+| Steering:&nbsp; || align="center" | Recirculating ball steering
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; || align="center" | Sheet steel, unibody construction
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || align="center" |{{convert|1160|kg|lb|abbr=on}} (Hardtop: + {{convert|20|kg|lb|abbr=on}})
+|- bgcolor="#EEEEEE"
+| Loaded weight:&nbsp; || align="center" |{{convert|1400|kg|lb|abbr=on}}, from 1961 {{convert|1440|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || align="center" |{{convert|1430|mm|in|abbr=on}} {{convert|1475|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || align="center" | {{convert|2400|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" | {{convert|4220|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || align="center" | {{convert|1740|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" | {{convert|1320|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Tyre/Tire sizes:&nbsp; || align="center" | 6.40-13 Sport
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Top speed:&nbsp; || align="center" |{{convert|171|km/h|mph|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Fuel Consumption (estimate):&nbsp; || align="center" |{{convert|12.5|l/100 km|lk=off }}
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+==References==
+{{reflist}}
+{{commonscat|Mercedes-Benz R121}}
+
+{{Classic Mercedes-Benz vehicles}}
+
+{{DEFAULTSORT:Mercedes-Benz 190sl}}
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sports cars]]
+[[Category:Roadsters]]
+
+[[de:Mercedes-Benz W120]]
+[[fr:Mercedes-Benz 190 SL]]
+[[it:Mercedes-Benz 190 SL]]
+[[sv:Mercedes-Benz R121]]

@@ -1,0 +1,88 @@
+{{Infobox Automobile
+|name=BMW M47 engine
+|manufacturer=[[BMW]]
+|production=1999&ndash;2007
+|predecessor=[[BMW M41]]
+|successor=[[BMW N47]]
+|class=[[Straight-4]] [[Diesel engine|Diesel]]
+|engine=2.0&nbsp;L (1951&nbsp;cc/119&nbsp;in³)<br>2.0&nbsp;L (1995&nbsp;cc/121&nbsp;in³)
+}}
+{{Update|date=July 2009}}
+The '''[[BMW]] M47''' is a [[Diesel engine|diesel]] [[straight-4]] engine produced from 1998 through 2007
+{| class=wikitable
+|+Models
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=2|M47D20||rowspan=2|2.0&nbsp;L (1951&nbsp;cc/119&nbsp;in³)||100&nbsp;kW (134&nbsp;hp) @ 4000||280&nbsp;N·m (207&nbsp;ft·lbf) @ 1750||4750||1998
+|-
+|85&nbsp;kW (114&nbsp;hp) @ 4000||265&nbsp;N·m (195&nbsp;ft·lbf) @ 1750|| ||2001
+|-
+|rowspan=2|M47TUD20||rowspan=5|2.0&nbsp;L (1995&nbsp;cc/121&nbsp;in³)||85&nbsp;kW (114&nbsp;hp) @ 4000||280&nbsp;N·m (207&nbsp;ft·lbf) @ 1750|| ||2003
+|-
+|110&nbsp;kW (148&nbsp;hp) @ 4000||330&nbsp;N·m (243&nbsp;ft·lbf) @ 2000-2500||4600||2001
+|-
+|rowspan=3|M47TU2D20||90&nbsp;kW (121&nbsp;hp) @ 4000||280&nbsp;N·m (207&nbsp;ft·lbf) @ 2000|| ||2004
+|-
+|90&nbsp;kW (121&nbsp;hp) @ 4000||280&nbsp;N·m (207&nbsp;ft·lbf) @ 1750-2000|| ||2005
+|-
+|120&nbsp;kW (161&nbsp;hp) @ 4000||340&nbsp;N·m (251&nbsp;ft·lbf) @ 2000-2750|| ||2004
+|}
+
+Applications:
+* 1999-2004 [[Rover 75|Rover 75 CDT]]
+* 2004-2005 [[Rover 75|Rover 75 CDTi]]
+* 2001-2006 [[Land Rover Freelander]]
+
+==M47D20==
+
+The original M47 engine was the 1951&nbsp;cc '''M47D20'''.  Bowing in 1998, it produced 100&nbsp;kW (134&nbsp;hp) and 280&nbsp;N·m (207&nbsp;ft·lbf) in its original 320d/520d guise and 85&nbsp;kW (114&nbsp;hp) and 265&nbsp;N·m (195&nbsp;ft·lbf) in the 318d.
+
+Applications:
+* 85&nbsp;kW (114&nbsp;hp) and 265&nbsp;N·m (195&nbsp;ft·lbf)
+** 1999-2001 [[BMW E46|E46]] [[BMW 3-Series|318d]]
+* 100&nbsp;kW (134&nbsp;hp) and 280&nbsp;N·m (207&nbsp;ft·lbf)
+** 1999-2001 [[BMW E46|E46]] [[BMW 3-Series|320d]]
+** 2000-2003 [[BMW E39|E39]] [[BMW 5-Series|520d]]
+
+==M47TUD20==
+
+BMW 320d models built from approximately September 2001 onwards were fitted with the M47TU (standing for "Technical update"). The exact production week is not known but expect it to be after Production Week 33 of 2001 (eg. you cannot rely on a UK 51 plate registered BMW 320d to have the M47TU).
+
+This updated engine was expanded slightly to 1995&nbsp;cc, ramping up the torque. It also featured improved consumption and more boost lower down the rev range, however it added 50kg in extra weight and emissions were raised slightly. In the UK, the new engine lifted the 320d into the next highest insurance bracket and next highest band for Vehicle Excise Duty (commonly known as Road Tax)[http://bimmerspace.com .] 
+
+The M47TU was also fitted with twin balancer shafts to counteract the secondary balances inherent in a diesel 4-cylinder engine. The M47TU was regarded as so good that BMW made it available in the 320Cd Coupé.
+
+Applications:
+* 85&nbsp;kW (114&nbsp;hp) and 280&nbsp;N·m (207&nbsp;ft·lbf)
+** 2001-2005 [[BMW E46|E46]] [[BMW 3-Series|318d]]
+* 110&nbsp;kW (148&nbsp;hp) and 330&nbsp;N·m (243&nbsp;ft·lbf)
+** 2001-2005 [[BMW E46|E46]] [[BMW 3-Series|320d]]
+** [[BMW E83|E83]] [[BMW X3|X3 2.0d]] (up to end of 2006)
+
+
+==M47TU2D20==
+
+The engine was updated again in 2004 as the '''M47TU2D20'''.  Still at 1995&nbsp;cc, it produced more power across the range.
+
+Applications:
+* 90&nbsp;kW (121&nbsp;hp) and 280&nbsp;N·m (207&nbsp;ft·lbf)
+** [[BMW E87|E87]] [[BMW 1-Series|118d]]
+** [[BMW E90|E90/E91]] [[BMW 3-Series|318d]]
+* 120&nbsp;kW (161&nbsp;hp) and 340&nbsp;N·m (251&nbsp;ft·lbf)
+** [[BMW E60|E60/E61]] [[BMW 5-Series|520d]]
+** [[BMW E87|E87]] [[BMW 1-Series|120d]]
+** [[BMW E90|E90/E91]] [[BMW 3-Series|320d]]
+** [[BMW E83|E83]] [[BMW X3|X3 2.0d]] (end of 2006 onwards)
+
+==See also==
+* [[List of BMW engines]]
+
+==External links==
+
+[[Category:BMW engines|M47]]
+
+[[it:BMW M47]]
+[[nl:BMW M47]]
+[[no:BMW M47]]
+[[pl:BMW M47]]

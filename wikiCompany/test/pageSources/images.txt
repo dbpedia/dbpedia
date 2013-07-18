@@ -1,0 +1,7 @@
+{{ DummyTemplate |
+company_logo = [[Image:Microsoft logo.svg|220px|]] |
+image_photo = Cityscapeberlin2006.JPG |
+state_coa = Coat of arms of Berlin.svg |
+png logo = testLogo.png |
+png Imagelin = [[Image:PngLogo.png]]
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = date construction
+| rdfs:domain = Canal
+| rdfs:range = xsd:date
+}}

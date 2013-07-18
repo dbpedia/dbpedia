@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = starring
+|rdfs:domain = Film
+|rdfs:range = Person
+}}

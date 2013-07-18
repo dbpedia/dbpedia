@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Lunar Crater
+|rdfs:subClassOf = Place
+}}

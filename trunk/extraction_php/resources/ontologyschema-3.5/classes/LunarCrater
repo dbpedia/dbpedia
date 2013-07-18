@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Lunar Crater
+| rdfs:subClassOf = Place
+| specificProperties = {{SpecificProperty | ontologyProperty = diameter | unit = kilometre }}
+}}

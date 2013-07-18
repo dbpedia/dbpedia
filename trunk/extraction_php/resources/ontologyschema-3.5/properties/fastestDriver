@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = fastest driver
+| rdfs:domain = GrandPrix
+| rdfs:range = Person
+}}

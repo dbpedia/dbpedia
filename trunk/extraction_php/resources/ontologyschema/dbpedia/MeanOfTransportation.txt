@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|  rdfs:label 		= Mean of Transportation
+|  rdfs:subClassOf 	= owl:Thing
+}}

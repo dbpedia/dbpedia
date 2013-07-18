@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = games
+| rdfs:domain = OlympicResult
+| rdfs:range = xsd:string
+}}

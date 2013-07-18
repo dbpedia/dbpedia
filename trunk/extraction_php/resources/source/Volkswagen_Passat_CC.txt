@@ -1,0 +1,128 @@
+<ref>http://www.vw.com/cc/completespecs/en/us/#standard</ref>{{Infobox Automobile
+| name           = Volkswagen Passat CC
+| image          = [[Image:VW Passat CC.jpg|250px]]
+| manufacturer   = [[Volkswagen]]
+| parent_company = [[Volkswagen Group]]
+| aka            = Volkswagen CC (US)
+| production     = 2008–present
+| assembly       = [[Emden]], [[Germany]]
+| predecessor    = 
+| successor      = 
+| class          = [[Mid-size]]
+| body_style     = 4-door [[coupé]] / [[Fastback]] [[sedan (automobile)|sedan]]
+| layout         = [[front-engine design|Front engine]],<br />[[front-wheel drive]] / [[4motion]] on-demand [[four-wheel drive]]
+| platform       = [[Volkswagen Group A platform#A5 (PQ35)|A5 (PQ46) platform]]
+| engine         = 
+| transmission   = 
+| wheelbase      = {{convert|2711|mm|in|1|abbr=on}}
+| length         = {{convert|4799|mm|in|1|abbr=on}}
+| width          = {{convert|1855|mm|in|1|abbr=on}}
+| height         = {{convert|1417|mm|in|1|abbr=on}}
+| weight         = 
+| related        = [[Volkswagen Passat]]
+| designer       = 
+| sp             = us
+}}
+
+[[File:VW Passat CC Cockpit.JPG|thumb|250px|Cockpit of the Passat CC]]
+
+The '''Volkswagen Passat CC''' (also known as the '''Volkswagen CC''' in the [[United States]])<ref name="VW CC">http://www.autoblog.com/2008/04/03/volkswagen-drops-passat-sticks-with-cc-for-new-sedan/ Retrieved 11-30-2008</ref> is a 4-door [[coupé]] version of the [[Volkswagen]] [[Volkswagen Passat|Passat]]. It debuted in January 2008 at the [[North American International Auto Show]] in [[Detroit]]. The suffix '''CC''' stands for ''Comfort Coupé'' and the car is marketed by VW as a more luxurious vehicle than the standard Passat saloon.<ref>[http://www.volkswagen.de/vwcms_publish/vwcms/master_public/virtualmaster/de3/modelle/passat_cc.html?csref=home-teaser-links-passat_cc . Retrieved 04-14-2008.]</ref>
+
+The Passat CC falls between the Passat and the [[Volkswagen Phaeton|Phaeton]] in VW's range — while based on the Passat, and sharing its wheelbase, the CC is longer (+ {{convert|27|mm|in|2|abbr=on}}), lower (− {{convert|50|mm|in|2|abbr=on}}) and wider (+ {{convert|36|mm|in|2|abbr=on}}) than the Passat.
+
+==Market==
+Volkswagen has ambitions of selling 300,000 units over a period of seven years. The company expects that 60% of these sales (about 26,000 units per year) will come from the US market.<ref>[http://www.thetorquereport.com/2008/04/vw_expects_the_us_to_be_the_bi.html Retrieved 11-30-2008]</ref>  Pricing will start at $27,100 for the sport trim level and range to greater than $40,000 for the VR6 4Motion trim level.  <ref>{{cite web|url=http://www.vw.com/vwfeatures/cc/en/us/ |title=Build a CC |publisher=Vw.com |date=2008-10-07 |accessdate=2009-09-28}}</ref><ref>{{cite web|url=http://www.motortrend.com/roadtests/sedans/112_0807_2009_volkswagen_passat_cc/specifications.html |title=2009 Volkswagen Passat CC - Specifications - First Drive |publisher=Motor Trend |date= |accessdate=2009-09-28}}</ref>
+
+==Technical Data==
+The car rests on a {{convert|2711|mm|in|1|abbr=on}} [[wheelbase]] and is, for the time being, available with a 1.8-litre [[Twincharger|TFSI]] inline-four ({{convert|118|kW|PS hp|0|abbr=on}}) or a 2.0-litre [[Straight-4|inline-four]] [[Turbocharged Direct Injection|TDI]] engine, both with [[front-wheel drive]] and 6-speed manual, or with a 3.6-litre [[VR6 engine]] ({{convert|220|kW|PS hp|0|abbr=on}}) with [[4motion]] [[four-wheel drive]] and a 6-speed twin-clutch [[Direct-Shift Gearbox]] (DSG).
+
+The North American market will receive the 2.0T and 3.6L VR6 engine options. Manual transmission is available in the 2.0T engine option only.<ref>[http://www.vw.com/cc/completespecs/en/us/#/show_all Retrieved 11-30-2008]</ref>
+
+{| class="wikitable"
+|-
+!Models!!1.8L TSI!!2.0L TSI!!2.0L TDI!!2.0L TDI!!3.6L 4motion
+|-
+| Produced ||2008- ||2008-|| 2008- ||2008- ||2008-
+|-
+! colspan=6|Powertrain
+|-
+| Engine|| turbo inline 4 cylinder petrol (1.8 TFSI EA888)|| turbo inline 4 cylinder petrol (2.0 TFSI AXX/BWA/BPY)||colspan=2| turbo inline 4 cylinder diesel (2.0 TDI CR) || V6 petrol (3.6 VR6 FSI 220kW)
+|-
+| Max. power @ rpm || {{convert|160|PS|kW hp||abbr=on}} @ 5000|| {{convert|200|PS|kW hp||abbr=on}} @ 5100-6000|| {{convert|140|PS|kW hp||abbr=on}} @ 4200 ||{{convert|170|PS|kW hp||abbr=on}} @ 4200 || {{convert|300|PS|kW hp||abbr=on}} @ 6600
+|-
+| Max. torque @ rpm || {{convert|250|Nm|lbft||abbr=on}} @ 1500 || {{convert|280|Nm|lbft||abbr=on}} @ 1700-5000 || {{convert|320|Nm|lbft||abbr=on}} @ 1750–2500 || {{convert|350|Nm|lbft||abbr=on}} @ 1750–2500 || {{convert|350|Nm|lbft||abbr=on}} @ 2400-5300
+|-
+| Transmission || 6-speed manual, 7-speed [[Direct-Shift Gearbox]] || 6-speed manual, 6-speed [[Tiptronic]] 6-speed[[ Direct-shift Gearbox]] late 2009-<ref>http://www.vw.com/cc/completespecs/en/us/#standard</ref>|| 6-speed manual, 6-speed [[Direct-Shift Gearbox]]|| 6-speed [[Direct-Shift Gearbox]]|| 6-speed [[Direct-Shift Gearbox]]
+|-
+! colspan=6|Handling
+|-
+| Front suspension ||colspan=5| [[MacPherson strut]]s, [[control arm|wishbones]], [[coil spring]]s, direct-acting telescopic [[shock absorber|dampers]]
+|-
+| Rear suspension ||colspan=5| Multi-link axle, coil springs, direct-acting telescopic dampers
+|-
+| Braking system ||colspan=5| [[Disc brake]]s all around (Ø {{convert|310|mm|in|2|abbr=on}} front, {{convert|285|mm|in|2|abbr=on}} rear), Bosch 8.0 ESP with ABS, EBD, BA, EDL, ASR
+|-
+| Steering ||colspan=5| [[Rack and pinion]] steering, electrically assisted (maintenance-free)
+|-
+| Body structure ||colspan=5| Sheet steel, [[monocoque]] (unibody) construction, front and rear [[subframe]]s
+|-
+| Dry weight (manual/automatic) ||{{convert|1430|kg|lb||abbr=on}}/na ||{{convert|1441|kg|lb||abbr=on}}/{{convert|1454|kg|lb||abbr=on}} ||{{convert|1466|kg|lb||abbr=on}}/{{convert|1485|kg|lb||abbr=on}} || na/{{convert|1656|kg|lb||abbr=on}} (tare mass) || na/{{convert|1632|kg|lb||abbr=on}}
+|-
+| Loaded (gross) weight (manual/automatic) ||{{convert|1920|kg|lb||abbr=on}}/na ||{{convert|1950|kg|lb||abbr=on}}/{{convert|1970|kg|lb||abbr=on}} ||{{convert|1960|kg|lb||abbr=on}}/{{convert|1980|kg|lb||abbr=on}} || na/na || na/{{convert|2110|kg|lb||abbr=on}}
+|-
+| Track (front/rear) || colspan=5|{{convert|1552|mm|in|1|abbr=on}} / {{convert|1559|mm|in|1|abbr=on}}
+|-
+| Wheelbase ||colspan=5| {{convert|2711|mm|in|2|abbr=on}}
+|-
+| Length ||colspan=5| {{convert|4799|mm|in|2|abbr=on}}
+|-
+| Width ||colspan=5| {{convert|1855|mm|in|2|abbr=on}}
+|-
+| Height ||colspan=5| {{convert|1417|mm|in|2|abbr=on}}
+|-
+| Top speed (manual/auto)||{{convert|222|km/h|mph|1|abbr=on}}/na ||{{convert|237|km/h|mph|1|abbr=on}}/{{convert|232|km/h|mph|1|abbr=on}}||{{convert|213|km/h|mph|1|abbr=on}}/{{convert|210|km/h|mph|1|abbr=on}}||na/na||na/{{convert|250|km/h|mph|1|abbr=on}} (electronically limited)
+|-
+| 0–100km/h (0–62mph) (sec) (manual/auto) || 8.6/na ||7.6/7.8 ||9.8/9.8 ||na/8.6 || na/5.6
+|-
+| CO₂ emissions (g/km) (manual/auto) || 180/195 || 186/199 || 153/163 || na/166 ||na/242-254
+|}
+
+==Marketing==
+In the 2009 Volkwagen CC commercial in the United States, the CC passengers are aware of the floating letters and voice-overs, and of being in a car commercial.  The commercial is partially voiced by a Beetle.<ref>[http://www.youtube.com/watch?v=BGaZy7fnLaw VW CC Driving at Night]</ref>
+
+==See also==
+* [http://jalopnik.com/344225/detroit-auto-show-volkswagen-passat-cc-four+door-coupe-live 2008 Detroit NAIAS Reveal of the Passat CC]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat}}
+*[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/models/passat/passat_cc.html Passat CC website]
+
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Passat CC]]
+[[Category:Coupes]]
+[[Category:Vehicles introduced in 2008]]
+[[Category:2000s automobiles]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles with VR engines]]
+[[Category:Mid-size cars]]
+[[Category:Sedans]]
+
+{{Modern-auto-stub}}
+
+[[da:Volkswagen Passat CC]]
+[[de:VW Passat CC]]
+[[es:Volkswagen Passat CC]]
+[[nl:Volkswagen Passat CC]]
+[[ja:フォルクスワーゲン・パサートCC]]
+[[pl:Volkswagen Passat CC]]
+[[pt:Volkswagen Passat CC]]
+[[sk:Volkswagen Passat CC]]
+[[uk:Volkswagen Passat CC]]

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = causalties
+|rdfs:domain = MilitaryConflict
+|rdfs:range = xsd:string
+}}

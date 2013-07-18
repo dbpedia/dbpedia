@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = distance traveled
+|rdfs:domain = SpaceMission
+|rdfs:range = kilometre
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = subregion
+| rdfs:domain = WineRegion
+| rdfs:range = WineRegion
+}}

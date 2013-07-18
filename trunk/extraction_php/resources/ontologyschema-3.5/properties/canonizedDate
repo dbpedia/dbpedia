@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = canonized date
+| rdfs:domain = Saint
+| rdfs:range = xsd:date
+}}

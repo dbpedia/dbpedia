@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = disbanded
+| rdfs:domain = MilitaryUnit
+| rdfs:range = xsd:date
+}}

@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= wheelbase
+|rdfs:domain	= Automobile
+|rdfs:range		= millimetre
+|rdf:type	= owl:FunctionalProperty
+}}

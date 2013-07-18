@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = number of staff
+| rdfs:domain = Organisation
+| rdfs:range = xsd:integer
+}}

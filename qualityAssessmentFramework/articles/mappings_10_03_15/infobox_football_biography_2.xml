@@ -1,0 +1,117 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{ConditionalMapping
+| cases =
+ {{Condition
+    | templateProperty = manageryears1
+    | operator = isSet
+    | mapping = {{TemplateMapping
+                | mapToClass = SoccerManager
+                }}
+ }}
+
+ {{Condition
+    | templateProperty = managerclubs1
+    | operator = isSet
+    | mapping = {{TemplateMapping
+                | mapToClass = SoccerManager
+                }}
+ }}
+
+ {{Condition
+    | otherwise
+    | mapping = {{TemplateMapping
+                | mapToClass = SoccerPlayer
+                }}
+ }}
+
+| defaultMappings =
+	{{PropertyMapping | templateProperty = youthyears | ontologyProperty = youthYears }}
+	{{PropertyMapping | templateProperty = youthclubs | ontologyProperty = youthClub }}
+	{{PropertyMapping | templateProperty = years | ontologyProperty = years }}
+	{{PropertyMapping | templateProperty = clubs | ontologyProperty = club }}
+	{{PropertyMapping | templateProperty = nationalyears | ontologyProperty = nationalYears }}
+	{{PropertyMapping | templateProperty = nationalteam | ontologyProperty = nationalTeam }}
+	{{PropertyMapping | templateProperty = manageryears1 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs1 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears2 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs2 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears3 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs3 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears4 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs4 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears5 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs5 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears6 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs6 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears7 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs7 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears8 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs8 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears9 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs9 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears10 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs10 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears11 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs11 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears12 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs12 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears13 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs13 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears14 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs14 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears15 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs15 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears16 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs16 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears17 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs17 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears18 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs18 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears19 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs19 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears20 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs20 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears20 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs20 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears20 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs20 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears20 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs20 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears21 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs21 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears22 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs22 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears23 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs23 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears24 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs24 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears25 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs25 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears26 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs26 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears27 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs27 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears28 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs28 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears29 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs29 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = manageryears30 | ontologyProperty = managerYears }}
+	{{PropertyMapping | templateProperty = managerclubs30 | ontologyProperty = managerClub }}
+	{{PropertyMapping | templateProperty = appearancesInLeague | ontologyProperty = appearancesInLeague }}
+	{{PropertyMapping | templateProperty = goalsInLeague | ontologyProperty = goalsInLeague }}
+	{{PropertyMapping | templateProperty = appearancesInNationalTeam | ontologyProperty = appearancesInNationalTeam }}
+	{{PropertyMapping | templateProperty = goalsInNationalTeam | ontologyProperty = goalsInNationalTeam }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = dateofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = cityofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = countryofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dateofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = cityofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = countryofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = position }}
+	{{PropertyMapping | templateProperty = currentclub | ontologyProperty = team }}
+	{{PropertyMapping | templateProperty = clubnumber | ontologyProperty = number }}
+</textarea>

@@ -1,0 +1,90 @@
+{{Infobox Automobile
+| image =[[Image:Mercedes-Benz 300 Coupe 1957.jpg|250px]]
+| name = Mercedes-Benz 300/300 S
+| manufacturer = [[Mercedes-Benz]]
+| parent_company = Daimler-Benz AG
+| aka =
+| production = W186: 1951-1957 <br/> W189: 1957−1962 <br/> W188: 1951−1958 <br/> 12,190 built<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref> <br/> W186 Saloon: 7,646 <br/> W186 Cabr.D: 642 <br/> W189 Saloon: 3,077 <br/> W189 Cabr.D: 65 <br/> W188 Coupé: 314 <br/> W188 Cabr./Rdstr.: 446
+| assembly =
+| predecessor = none
+| successor = [[Mercedes-Benz W100]]
+| class = [[luxury car]]
+| body_style = 4-door [[Saloon (car)|saloon]] <br/> 4-door [[Phaeton body|phaeton]] <br/> 4-door [[Cabriolet (automobile)|cabriolet]] <br/>4-door [[limousine]]<br> 2 door [[coupé]] <br/> 2-door [[Cabriolet (automobile)|cabriolet]]
+| layout = [[FR layout]]
+| platform = Mercedes-Benz W186/188/189
+| engine = Mercedes 2996 cc [[Straight-6|I-6]], [[SOHC]]
+| transmission = 4-speed manual <br/> 3-speed automatic
+| wheelbase = W186: {{convert|3050|mm|in||abbr=on}} <br/> W189: {{convert|3150|mm|in||abbr=on}} <br/> W188: {{convert|2900|mm|in||abbr=on}}
+| length = W186: {{convert|4950|mm|in||abbr=on}} <br/> W189: {{convert|5190|mm|in||abbr=on}} <br/> W188: {{convert|4700|mm|in||abbr=on}}
+| width = W186: {{convert|1840|mm|in||abbr=on}} <br/> W189: {{convert|1860|mm|in||abbr=on}} <br/> W188: {{convert|1860|mm|in||abbr=on}}
+| height = W186: {{convert|1640|mm|in||abbr=on}} <br/> W189: {{convert|1620|mm|in||abbr=on}} <br/> W188: {{convert|1510|mm|in||abbr=on}}
+| weight = W186: {{convert|1780|kg|lb||abbr=on}} <br/> W189: {{convert|1950|kg|lb||abbr=on}} <br/> W188: {{convert|1760|kg|lb||abbr=on}}
+| fuel_capacity = 
+| related = 
+| similar_cars = 
+| designer =
+}}
+
+The '''Mercedes-Benz Type 300''' (chassis codes '''W186''', '''W188''', and '''W189''') were the company's largest and most-prestigious models throughout the 1950s. Analogous to today's [[Mercedes-Benz S-Class|S-Class]], the Type 300 cars were elegant, powerful, exclusive, and expensive. The 300, 300b, 300c, and 300d touring cars were often referred to as '''Adenauers''' after [[Konrad Adenauer]], the first Chancellor of the Federal Republic of Germany. In office from 1949 to 1963, he employed six custom [[convertible]], [[hardtop]], and [[landaulet]] versions of this model during his tenure.
+
+==W186==
+===300 (W186 II)===
+The "W186" '''Type 300''', introduced in November 1951, was essentially a pre-war chassis with a more-modern body.  A modern 3&nbsp;L (2996&nbsp;cc/182&nbsp;in³) [[straight-6]] engine developing {{convert|115|PS|kW hp||abbr=on}} was used, however, coupled exclusively to a manual 4-speed gearbox.  The Type 300 was available as a [[sedan (car)|sedan]] or [[Cabriolet (automobile)|cabriolet]] (officially called ''Cabriolet D''), both with four doors and seating for six. One innovative feature was a rear load-levelling suspension, operated by a switch on the dashboard.
+
+The 300 had a separate X-frame, made of ovoid steel tubes, a double wishbone, coil spring axle up front and Mercedes` typical rear swing axle with double coil springs; also drum brakes all around and a worm-and-sector steering, that was replaced in 1952 by a recirculating ball unit.
+
+The Type 300 featured many luxury features.  Options like Becker radio, VHF mobile telephone, and dictation machine were geared to the business man and politician.  Among the custom features in Chancellor Adenauer's "parade cars" were writing desks, sirens, curtains, dividing partitions, sunroofs, and half-roof [[landaulet]] configurations.
+
+6,214 saloon models and 591 Cabriolet Ds were produced until September, 1955 (including the 300b).
+
+===300b (W186 III)===
+March 1954 saw power [[brake]]s introduced via a remote vacuum tank with the '''Type 300b'''.  Vent windows were also introduced for the front windows. Power of the engine was upped to {{convert|125|PS|kW hp||abbr=on}} via different Solex carburetters and a higher compression ratio (7.5:1 instead of 6.4:1).
+
+===300c (W186 IV)===
+A larger rear window was added in September, 1955 on the '''Type 300c'''.  An automatic transmission was also introduced for the first time. This car was priced at $10,864 in the United States (DM 22,000 on the home market), with the convertible commanding a pricy $14,231 (DM 24,700).  The c also featured a [[swing axle]] rear [[independent suspension]].
+
+A special '''Innenlenker''' model (also called the '''Type 300 Lang''') [[limousine]] model rode on a 20&nbsp;cm (7.9&nbsp;in) longer [[wheelbase]] and became available from July, 1956 (price: DM 25,000).
+
+While the Cabriolet D was cancelled after June, 1956 (51 built), the saloon remained in production until July, 1957 and was built in 1,432 units.
+
+==W189==
+===300d===
+The roof-supporting pillar was removed in the '''Type 300d''' (chassis code '''W189''') of August 1957, creating a unique pillarless phaeton.  An additional 4" of wheelbase provided greater rear legroom and established the car as a true limousine in direct competition with the [[Rolls-Royce Silver Cloud]].  A total of 3,077 300d models (priced at DM 27,000) was produced through March 1962, while the Cabriolet D (DM 35,500) was available on special order only and registered 65 units produced.  With a compression ratio of 8.55:1 and Bosch [[fuel injection]], the 300d produced {{convert|160|PS|kW hp||abbr=on}} at 5300 rpm. 
+
+The pillarless phaeton was replaced by the [[Mercedes-Benz W112|W112 300SE]], later by the [[Mercedes-Benz W100|600]] pullman "Grand Mercedes".  A modernized version of the W112, the W109 series 300 Mercedes, was introduced in 1965.
+
+==W188==
+===W188 I===
+The "W188" '''Type 300 S''' was Mercedes-Benz's top-end vehicle on its introduction at the Paris Salon in October 1951.  The Type 300 S came as a [[2 plus 2|2+2]] [[coupe]], [[Cabriolet (automobile)|cabriolet]] (with [[landau bar]]s) (officially ''Cabriolet A''), or [[roadster]].  Although mechanically similar to the contemporary W186, the largely hand-built W188 was marketed as one of the top [[luxury car]]s in the world.
+
+7.8:1 compression and triple [[Solex]] [[carburettors]] raised engine output to {{convert|150|PS|kW hp||abbr=on}} at 5000 rpm.
+
+At DM 34,500 for all versions ($ 3,925 in the USA<ref>Mike Covello: ''Standard Catalog of Imported Cars 1946-2002''. Krause Publications, Iola 2002, ISBN 0-87341-605-8, p. 529</ref>), these cars were significantly more expensive then the regular W186 cars.
+
+From July, 1952 to August, 1955, a total of 216 Coupés, 203 Cabriolet As and 141 Roadsters were produced.
+
+===W188 II===
+1955 saw the substitution of Mercedes-Benz's "low-pivot" [[independent suspension]] in the rear, and the addition of [[fuel injection]] in the '''Type 300 Sc''' whose inline-six now delivered {{convert|175|PS|kW hp||abbr=on}} at 5400 rpm.  Visually, a pair of chrome strips on either side of the hood denotes this "Sc" model.
+
+Prices rose to DM 36,500 and 98 Coupés, 49 Cabriolet As and 53 Roadsters were built until April 1958.
+
+<gallery>
+
+Image:Mercedes-Benz 300S Roadster 1953.jpg|1953 Mercedes-Benz 300 S [[roadster]]
+Image:Mercedes-Benz 300d am 2006-10-27 retusch.jpg|Mercedes-Benz 300d limousine
+</gallery>
+
+==References and Sources==
+{{Reflist}}
+* {{cite web|url=http://www.philseed.com/mb300s-w188.html|title=300 S (W188)|work=Phil Seed's Virtual Car Museum|accessdate=December 1, 2005}}
+* {{cite web|url=http://www.philseed.com/mb300-w186.html|title=300 (W186, W189)|work=Phil Seed's Virtual Car Museum|accessdate=December 1, 2005}}
+* {{cite web|url=http://www.mbzponton.org/valueadded/other/adenauer.htm|title=Mercedes-Benz Type 300 Adenauer|work=MBZPonton.Org|accessdate=December 1, 2005}}
+
+{{Classic Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz platforms|W186]]
+
+[[de:Mercedes-Benz W186]]
+[[el:Mercedes-Benz 300]]
+[[it:Mercedes-Benz Typ 300]]
+[[sv:Mercedes-Benz W186]]

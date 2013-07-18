@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = statistic year
+|rdfs:domain = BaseballPlayer
+|rdfs:range = xsd:date
+}}

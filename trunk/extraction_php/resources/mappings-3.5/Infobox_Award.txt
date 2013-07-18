@@ -1,0 +1,6 @@
+{{TemplateMapping
+| mapToClass = Award
+| mappings = 
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+}}

@@ -1,0 +1,47 @@
+{{Infobox Automobile
+| image = [[Image:Borgward P100.jpg|250px|Borgward P100]]
+| name = Borgward P100
+| manufacturer = [[Borgward|Carl F. W. Borgward GmbH]]
+| production = June 1959 – 1961<br>2,530 <ref name="BorgwardClubNedBorgProdStats">{{Cite web|url= http://www.borgwardclub.nl/modellen/borgward/borgward.htm|title=Production statistics for principal Borgward models in the 1950s per the Dutch Borgward Club|accessdate=2008-02-16|work=carfolio.com}}</ref> built by Borgward 
+| predecessor = [[Borgward Hansa 2400|Borgward Hansa 2400 Pullman]]
+| successor = 
+| body_style = [[sedan (car)|4 door saloon]]
+| engine = 2240&nbsp;cc [[straight-6]]
+| layout=[[FR layout]]
+| transmission = 4 speed <br>all-synchromesh manual 
+| length = {{convert|4715|mm|in||abbr=on}}
+| width = {{convert|1738|mm|in||abbr=on}}
+| height = {{convert|1420|mm|in||abbr=on}}
+| weight = {{convert|1650|kg|lb||abbr=on}} (loaded) 
+| wheelbase =  {{convert|2650|mm|in||abbr=on}}
+| track = 
+|fuel_capacity={{Convert|61|L|usgal impgal|1|abbr=on}}  <ref name=P100brochure>{{cite book |last=Borgward GbmH |first=Carl |authorlink= |coauthors= |title=Sales Brochure for the Borgward P100|year=1960 |publisher=Bogward |location=Bremen |id= }}</ref>
+| related = 
+| similar = 
+| designer = 
+}}
+The '''Borgward P100''' is a large four door saloon first presented in September 1959<ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 978-3-613-02808-1}}</ref> at the [[Frankfurt Motor Show]], and produced by the [[Bremen]] based auto-manufacturer [[Borgward|Carl F. W. Borgward GmbH]] between January 1960 and July 1961.
+
+==The Car==
+The design featured the [[Ponton (automobile)|three box]] form pioneered by Borgward in [[Borgward Hansa 1500|1949]], but now filled out to the relatively angular corners, reminiscent of the style being popularised by [[Pininfarina]] with designs such as that of the [[Fiat 1800/2100|Fiat 1800]].   Like the Farina designs, the P100 featured small angular [[tailfins]].
+
+The P100 followed the structural approach of the existing [[Borgward Isabella|Isabella]], incorporating an [[monocoque|integral]] chassis<ref name=AlleAutosder50er/>.
+
+The [[straight-6]] 2240 cc engine derived from that fitted in earlier Borgward six cylinder sedans, of which the most recent had been the [[Borgward Hansa 2400|Borgward Hansa 2400 Pullman]].  Advertised performance figures included a power output of {{convert|100|bhp|abbr=on}} and a maximum speed of virtually 100 mph (160 km/h).
+
+Contemporary publicity material highlighted the car’s revolutionary self levelling air suspension.
+
+==Commercial==
+
+The P100 was competing in the six cylinder sedan sector which through the 1950s had become ever more dominated by Mercedes-Benz, whose [[Mercedes-Benz W111|220SE]] model also received a modern chiselled body shape in 1960.   Borgward’s previous six cylinder sedans had achieved only limited market penetration, and early reports that the P100 was confirming Borgward’s reputation for introducing new models beset by teething troubles suggested that despite its technically adventurous suspension and modern style, the P100 might struggle to compete against  [[Mercedes-Benz|Stuttgart’s]] well established reputation for producing dependable sedans.   Nevertheless, during its nineteen months in production, the P100 notched up over 2,500 cars produced, putting it on course usefully to outperform earlier six cylinder Borgwards in the market place.   Sadly, the controversial bankruptcy of the business in 1961 brought P100 production to an abrupt halt.
+
+The model also enjoyed a brief afterlife:  the production line was sold and shipped to Mexico where between 1967 and 1970 more than 2,000 additional P100s were produced.
+
+== Sources and further reading ==
+{{reflist}}
+
+[[Category:Borgward vehicles|P100]]
+[[Category:Executive cars]]
+[[Category:Rear wheel drive vehicles]]
+
+[[sv:Borgward P100]]

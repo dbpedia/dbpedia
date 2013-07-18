@@ -1,0 +1,10 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Musical
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = music | ontologyProperty = Musical/musicBy }}
+	{{ DBpediaPropertyMapping | templateProperty = lyrics | ontologyProperty = Musical/lyrics }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = book | ontologyProperty = Work/author }}
+	{{ DBpediaPropertyMapping | templateProperty = basis | ontologyProperty = Work/basedOn }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Work/award }}
+}}

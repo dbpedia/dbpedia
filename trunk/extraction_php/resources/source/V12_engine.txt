@@ -1,0 +1,209 @@
+{{redirect|V12}}
+{{Refimprove|date=February 2008}}
+
+[[Image:1961 Ferrari 250 TR 61 Spyder Fantuzzi engine.jpg|right|thumb|250px|[[Ferrari Colombo engine|Colombo]] Type 125 "Testa Rossa" engine in a 1961 [[Ferrari TR|Ferrari 250TR Spyder]]]]
+[[Image:V-12-engine.gif|right|thumb|250px|V-12 engine simplified cross-section]]
+
+A '''V12 engine''' is a [[V engine]] with 12 [[cylinder (engine)|cylinder]]s mounted on the [[crankcase]] in two banks of six cylinders, usually at a 60° angle to each other, but in some cases at a wider or narrower angle, with all 12 [[piston]]s driving a common [[crankshaft]].<ref> {{cite book
+  | last = Nunney
+  | first = Malcolm James
+  | title = Light and Heavy Vehicle Technology, Fourth Edition
+  | publisher = Butterworth-Heinemann
+  | date=2007
+  | pages = 13–14
+  | isbn = 0750680377}} </ref> 
+
+Since each cylinder bank is essentially a [[straight-6]], this configuration has perfect [[primary balance|primary]] and [[secondary balance]] no matter which V angle is used and therefore needs no [[balance shaft]]s. A V12 with two banks of six cylinders angled at 60°, 120°, or 180° from each other has even firing with power pulses delivered twice as often per revolution as, and is smoother than a [[straight-6]] because there is always even positive net torque output with little variation. This allows for great refinement in a luxury car. In a racing car, the rotating parts can be made much lighter and thus more responsive, since there is no need to use counterweights on the crankshaft as is needed in a 90° [[V8]] and less need for the inertial mass in a [[flywheel]] to smooth out the power delivery. In a large displacement, heavy-duty engine, a V12 can run slower than smaller engines, prolonging engine life.
+
+== Aviation ==
+V12 engines were first seen in aircraft. By the end of [[World War I]], V12s were popular in the newest and largest fighters and bombers and were produced by companies such as [[Renault]] and [[Sunbeam (car)|Sunbeam]]. Many [[Zeppelin]]s had twelve-cylinder engines from German manufacturers [[Maybach]] and [[Daimler-Motoren-Gesellschaft|Daimler]]. Various US companies produced the [[Liberty L-12]]; the [[Curtiss NC]] [[Flying boat]]s, including the [[NC-4]], the first aircraft to make a [[transatlantic]] flight, had four V12 engines each.
+
+V12 engines reached their apogee during [[World War II]]. [[fighter aircraft|Fighter]]s and [[bomber]]s used V12 engines such as the British  [[Rolls-Royce Limited|Rolls-Royce]] [[Rolls-Royce Merlin|Merlin]] and [[Rolls-Royce Griffon|Griffon]], the Soviet [[Klimov VK-107]], the American [[Allison V-1710 engine|Allison V-1710]] or the German [[Daimler-Benz]] [[Daimler-Benz DB 600|DB 600]] series and [[Junkers (Aircraft)|Junkers]]-[[Jumo]]. These engines generated about 1,000 [[horsepower]] (0.75 MW) at the beginning of the war and above 1,500 horsepower (1.12 MW) at their ultimate evolution stage. The German [[Daimler-Benz DB 605|DB 605D]] engine reached 2000 hp (1.50 MW) with [[Water injection (engines)|water injection]]. In contrast to most Allied V12s, the engines built in Germany by Daimler-Benz, Junkers-Jumo, and [[Argus]] ([[Argus As 410|As 410]] and [[Argus As 411|As 411]]) were primarily inverted, which had the advantages of lower centers of gravity and improved visibility for single-engined designs. 
+
+[[Image:YorkMerlin.JPG|thumb|[[Rolls-Royce Merlin]] engine in an [[Avro York]]]]
+The [[Rolls-Royce Merlin]] V12 powered the [[Hawker Hurricane]] and [[Supermarine Spitfire]] fighters that played a vital role in Britain's victory in the [[Battle of Britain]]. The long, narrow configuration of the V12 contributed to good aerodynamics, while its exceptional smoothness allowed its use with relatively light and fragile airframes. The Merlin was also used in the [[Avro Lancaster]] and [[de Havilland Mosquito]] bombers. In the United States the [[Packard#Packard engines|Packard Motor company]] was licensed by Rolls-Royce to produce the Merlin as the [[Packard]] [[Rolls-Royce Merlin#Packard's legacy|V-1650]] for use in the North American [[P-51 Mustang]]. It was also incorporated into some models of the Curtiss P-40, specifically the P-40F and P-40L. Packard Merlins powered Canadian-built Hurricane, Lancaster and Mosquito aircraft, as well as the UK-built [[Supermarine Spitfire (late Merlin powered variants)|Spitfire Mark XVI]], which was otherwise the same as the Mark IX with its British-built Merlin.
+
+The [[Allison V-1710]] was the only indigenous [[United States|US]]-developed V-12 liquid-cooled engine to see service during [[World War II|WWII]]. A sturdy and trustworthy design, it unfortunately lacked an advanced mechanical [[supercharger]] until 1943. Although versions with a [[turbosupercharger]] did give excellent performance at high altitude in the [[Lockheed]] [[P-38 Lightning]], the turbosupercharger and its ductwork were too bulky to fit into typical single-engine fighters. While a superb performer at low altitudes, without adequate supercharging, the Allison's high altitude performance was lacking.
+
+After WWII, V12 engines became generally obsolete in aircraft due to the introduction of [[turbojet]] and [[turboprop]] engines, which had more power for their weight, and fewer complications in large aircraft.
+
+== V12 road cars ==
+[[Image:1931Cadillac370AcoupeV12-engine.jpg|thumb|1931 Cadillac Series 370 A Coupé V12]]
+[[Image:Jaguar V12 engine.jpg|thumb|right|V12 engine in a [[Jaguar E-type]]]]
+In [[automobiles]], V12 engines have not been common due to their complexity and cost. They are used almost exclusively in expensive sports cars and luxury cars and are sought after for their power, relatively vibration-free operation, and distinctive sound.
+
+Prior to [[World War II]], twelve-cylinder engines were found in many luxury models, including cars from [[Auburn Automobile|Auburn]], [[Cadillac (automobile)|Cadillac]], [[Packard]], [[Lincoln (automobile)|Lincoln]], [[Franklin (automobile)|Franklin]], [[Rolls-Royce Limited|Rolls-Royce]], [[Pierce-Arrow]], and [[Hispano-Suiza]]. Packard's 1916 "Twin Six" is widely regarded as [[list of automotive superlatives|the first]] production V12 engine. With a list price of US$1,000, the Auburn was the lowest priced V12 car ever. Production cost savings were achieved by using horizontal valves, which did not make for an efficient and powerful combustion chamber. Between 1916 and 1921,<ref>Georgano, G.N. ''Cars: Early and Vintage, 1886-1930''. (London: Grange-Universal, 1985).</ref> there was a vogue of V12s, during which [[National Motors|National]] ([[Indianapolis]]) copied the Packard engine, and [[Weidely Motors]] (also of Indianapolis) offered a [[proprietary]] engine. Soon after the end of [[World War I]], [[Lancia]] offered a 22<sup>ο</sup> V12, [[FIAT]] had a 60<sup>ο</sup> model [[Fiat 520|520]] (1921-2), British truck manufacturer [[Ensign]] announced a V12 that did not materialize, and in 1926, [[Daimler Motor Company|Daimler]] (Britain) offered a [[sleeve valve]] Double Six.<ref>Georgano.</ref> In 1927, there was a resurgence of this design, with Daimler, Cadillac, [[Franklin (automobile)|Franklin]], [[Hispano-Suiza]], [[Horch]], [[Lagonda]], [[Maybach]], [[Packard]], Rolls, [[Tatra (car)|Tatra]], [[Voisin]], and [[Walter Engines|Walter]] offering V12 engines. Cadillac (from 1930 through 1940) and [[Marmon]] (1931-1933) even developed [[V16 engine]]s.
+
+Improvements in combustion chamber design and piston form enabled lighter V8 engines to surpass the V12 in power starting from the 1930s; only the smaller, H-Series Lincoln V-12 remained after WWII and it was replaced by a V8 in 1949. Similarly, as they seemed excessive for the postwar market in Europe, production of V12-engined-carss was very limited until the 1960s. 
+
+[[Ferrari]] have traditionally reserved their top V12 engine for their top-of-the line luxury sports coupes since 1949. In 1972 [[Jaguar Cars|Jaguar]] came out with the [[Jaguar XJ#Series 1 .281968.E2.80.931973.29|XJ12]], equipped with a 5.3 V12.  In 1993, the engine was increase to 6.0 L, but a few years later Jaguar stopped producing the V12 altogether.
+
+German manufacturer [[BMW]] returned to V12 designs in model year 1986, forcing [[Mercedes-Benz]] to follow suit in 1991. While BMW sells far less V12-engined [[BMW 7 Series|7 Series]] than V8 versions, the V12 retains popularity in the US, China, and Russia, as well as maintaining the marque's prestige in the [[luxury vehicle]] market segment. <ref>[http://www.caranddriver.com/reviews/car/09q3/2010_bmw_760i_760li-first_drive_review]</ref> The BMW-designed V12 also appears in [[Rolls-Royce Motors|Rolls-Royce]] cars, while the Mercedes engine is also seen in [[Maybach]] cars. In their full-sized sedans sold in Canada and the USA, Mercedes, BMW, and Jaguar have mid-displacement V8s for the entry-level trims, while having the V12 as the flagship vehicle of the brand.
+<ref>[http://www.nationalpost.com/cars/story.html?id=2237320]</ref>
+
+In 1997, [[Toyota]] equipped their [[Toyota Century|Century Limousine]] with a 5.0 L DOHC V12 (model # 1GZ-FE), making it the first and only Japanese production passenger car so equipped.
+
+[[TVR]] made and tested a 7.7 L V12 called the [[TVR Speed Twelve engine|Speed Twelve]], but the project was scrapped after the car it was designed for was deemed too powerful for practical use. The only British marques currently using a V12 configuration are [[Aston Martin]] -- whose engine was developed by [[Cosworth]] -- and Rolls-Royce.
+
+===List of postwar V12 production cars===
+
+This is a list of V12-engined production road cars, sorted alphabetically by make (and sub-sorted by year of introduction):
+
+* [[Aston Martin DB7 Vantage]]
+* [[Aston Martin Vanquish]]
+* [[Aston Martin DB AR1]]
+* [[Aston Martin DB9]]
+* [[Aston Martin DBS V12|Aston Martin DBS]]
+* [[Aston Martin V12 Vantage]]
+* [[Aston Martin One-77]]
+* [[Aston Martin Rapide]]
+* [[Audi Q7]]
+* [[Edonis|B Engineering Edonis]]
+* [[BMW 7 Series|BMW 750i/750iL/760i/760Li]]
+* [[BMW 8 Series|BMW 850i/Ci/CSi]]
+* [[Bugatti EB110]]
+* [[Jaguar XJ|Daimler Double Six]]
+* [[Ferrari 125 S|Ferrari 125]]
+* [[Ferrari 166 Inter|Ferrari 166]]
+* [[Ferrari 195 Inter|Ferrari 195]]
+* [[Ferrari 212 Inter|Ferrari 212]]
+* [[Ferrari America|Ferrari 340/342/375/375 America]]
+* [[Ferrari 250]]
+* [[Ferrari America|Ferrari 410 Superamerica & 400 Superamerica]]
+* [[Ferrari 275]]
+* [[Ferrari 330]]
+* [[Ferrari America|Ferrari 500 Superfast]]
+* [[Ferrari 365#365 California|Ferrari 365 California]]
+* [[Ferrari 365#365 GT 2+2|Ferrari 365 GT 2+2]]
+* [[Ferrari 365#365 GTC|Ferrari 365 GTC]] [[Ferrari 365#365 GTS| & GTS]]
+* [[Ferrari Daytona#365 GTB/4 and GTS/4|Ferrari 365 GTB/4 & 365 GTS/4 "Daytona"]]
+* [[Ferrari Daytona#365 GTC/4|Ferrari 365 GTC/4]]
+* [[Ferrari Daytona#365 GT4 2+2|Ferrari 365 GT4 2+2]]
+* [[Ferrari 400|Ferrari 400, 400i & 412]]
+* [[Ferrari 456]]
+* [[Ferrari F50]]
+* [[Ferrari 550|Ferrari 550 Maranello & 550 Barchetta Pininfarina]]
+* [[Ferrari 575M Maranello|Ferrari 575M Maranello & 575M Superamerica]]
+* [[Enzo Ferrari (car)|Ferrari Enzo]]
+* [[Ferrari 612 Scaglietti]]
+* [[Ferrari FXX]]
+* [[Ferrari 599 GTB Fiorano]]
+* [[Jaguar E-Type#Series 3 (1971-1975)|Jaguar E-Type V12]]
+* [[Jaguar XJ-S]]
+* [[Jaguar XJ|Jaguar XJ12 & XJ12C]]
+* [[Jaguar XJR15]]
+* [[Lamborghini 350GT]]
+* [[Lamborghini 400GT]]
+* [[Lamborghini Islero]]
+* [[Lamborghini Miura]]
+* [[Lamborghini Espada]]
+* [[Lamborghini Jarama]]
+* [[Lamborghini Countach]]
+* [[Lamborghini Diablo]]
+* [[Lamborghini Murcielago]]
+* [[Lamborghini Reventon]]
+*[[Lamborghini LM002]]
+* [[Lincoln Continental]]
+* [[Lincoln-Zephyr]]
+* [[Lister Storm]]
+* [[Lotec Sirius]]
+* [[Maserati MC12]]
+* [[Maybach 57 and 62]]
+* [[McLaren F1]]
+* [[Mega Track]]
+* [[Mercedes-Benz CL-Class|Mercedes-Benz CL600/CL63 AMG (W215 only)/CL65 AMG]]
+* [[Mercedes-Benz S-Class|Mercedes-Benz S600/S63 AMG (W220 only)/S65 AMG]]
+* [[Mercedes-Benz SL-Class|Mercedes-Benz SL600/SL65 AMG/SL70 AMG (R129)/SL73 AMG (R129)]]
+* [[Mercedes-Benz CLK GTR]]
+* [[Pagani Zonda]]
+{{Listen|filename=Pagani Zonda R.ogg|title=Pagani Zonda R|type=sound|style=float:right;clear:none}}
+* [[Panther De Ville]]
+* [[Panther J72]]
+* [[Rolls-Royce Silver Seraph]]
+* [[Rolls-Royce Park Ward]]
+* [[Rolls-Royce Phantom (BMW)|Rolls-Royce Phantom]]
+* [[Rolls-Royce Phantom Drophead Coupé]]
+* [[Rolls-Royce Phantom Coupé]]
+* [[Rolls-Royce Ghost]]
+* [[Toyota Century#2nd Generation (1997–present)|Toyota Century]]
+* [[Vector M12]]
+
+''See also: [[W12 engine]]''
+
+Some tuner companies, such as [[Brabus]] also sell V12 versions of the [[Mercedes-Benz E-Class]] and [[Mercedes-Benz CLS|CLS]], which were the fastest street-legal sedans upon their respective introductions.
+
+Concept cars:
+* [[BMW Nazca C2|BMW Nazca M12]] (a concept by Pininfarina)
+* [[BMW CS Concept]]
+* [[Cadillac Cien]]
+* [[Fulgura Laraki|Laraki Fulgura]]
+* [[Isdera]] Commendatore 112i
+* [[Jaguar XJ13]]
+* [[Lincoln Continental]] (2002 concept)
+* [[Maybach Exelero]]
+* [[Méga Monte Carlo]]
+* [[Monte Carlo GTB]]
+* [[Peugeot 907]] (Peugeot's first V12, 2004)
+* [[TVR Cerbera Speed Twelve]] (never entered production)
+* Volga V12 Coupe (a one-off custom rebody)
+* [[Yamaha OX99-11]]
+
+== Heavy trucks ==
+[[Tatra cars|Tatra]] used a 17.6[[Litre|L]] air-cooled [[naturally aspirated]] V12 [[diesel engine]] in many of their [[truck]]s, for instance the [[Tatra T813]] and uses 19[[Litre|l]] [[air-cooled]] [[naturally aspirated]] or [[turbocharger|turbo]] V12 [[diesel engine]] in [[Tatra T815]]. Some trucks have been fitted with twin V12s.
+
+[[GMC Truck|GMC]] produced a large [[gasoline]]-burning V12 from 1960 to 1965 for trucks, the "Twin-Six"; it was basically GMC's large-capacity truck 351 V6, doubled, with four [[rocker covers]] and four [[exhaust manifold]]s. 56 major parts are interchangeable between the Twin-Six and all other GMC V-6 engines to provide greater parts availability and standardization Its [[engine displacement]] was {{convert|702|cuin|L|abbr=on}}, and while [[Power (physics)|power]] was not too impressive at 250 SAE net horsepower (190 kW), [[torque]] was {{convert|585|lbft|N.m|abbr=on}}. It was possibly the last gasoline engine used in heavy trucks in the United States.
+
+Detroit Diesel produced their Series 53, 71, 92, and 149 engines as V-12's, among other configurations.
+
+==Auto racing==
+[[Image:1962 Ferrari 250 GTO engine.jpg|thumb|200px|right|[[Ferrari 250 GTO]]'s V12]]
+{{Listen
+ |filename     =Ferrari 250 GT SWB Breadvan (1961).ogg
+ |title        =1961 Ferrari 250 GT Drogo
+ |filename2    =Ferrari 512S (1969).ogg
+ |title2       =1969 Ferrari 512S
+ |filename3    =Matra-Simca MS670B (1974).ogg
+ |title3       =1974 Matra-Simca MS670B
+ |type         =sound
+ |style        =float:right;clear:none
+ |help         =no
+}}
+
+V12 engines used to be common in [[Formula One]] and [[endurance racing]]. Between 1965 and 1980, [[Scuderia Ferrari|Ferrari]], [[Weslake]], [[Honda F1|Honda]], [[BRM]], [[Maserati]], [[Matra]], [[Alfa Romeo]], [[Lamborghini]] and [[Tecno]] used 12-cylinder engines in Formula One, either V12 or [[Flat-12]], but the [[Ford Motor Company|Ford]] (Cosworth) [[V8 (engine)|V8]] had a slightly better power-to-weight ratio and less fuel consumption,{{Fact|date=June 2009}} thus it was more successful despite being less powerful than the best V12s. During the same era, V12 engines were superior to V8s in endurance racing, reduced vibrations giving better reliability. In the 1990s, [[Renault F1|Renault]] [[V10 engine]]s proved their superiority against the [[Scuderia Ferrari|Ferrari]] and [[Honda F1|Honda]] V12s and the [[Ford Motor Company|Ford]] V8. The last V12 engine in Formula One, was the [[Scuderia Ferrari|Ferrari]] 044, in the Ferrari cars driven by [[Jean Alesi]] and [[Gerhard Berger]] in [[1995 Formula One season|1995]].
+
+At the [[Mondial de l'Automobile 2006|Paris motor show 2006]] Peugeot presented a new racing car, as well as a luxury [[sedan (car)|saloon]] concept car, both called [[Peugeot 908|908]] and fitted with a V12 Diesel engine producing around or even surpassing 700 DIN HP. This took part in the [[24 Hours of Le Mans]] 2007 race, with a podium finish and very competitive performance, coming in second place after the similarly-conceived [[Audi R10 TDI]] V12 Diesel originally developed for the 2006 season.
+
+== Large diesel engines ==
+V12 is a common configuration for large [[diesel engine]]s; most are available with differing numbers of cylinders in V configuration to offer a range of power ratings. Many [[diesel locomotive]]s have V12 engines.
+
+Mercedes (MTU) manufactured a line of V12 diesel engines for marine use. These engines commonly power craft up to about 100 [[tonne]]s in pairwise configurations and range in power from about 1 to 4 MW.
+
+== Tanks and other AFVs ==
+V12 is a common configuration for tank and other armoured fighting vehicles (AFVs). Some examples are:
+* German Maybach HL120TRM gasoline engine, used on World War II [[Pz Kpfw III]] and [[Pz Kpfw IV]] tanks.
+* British [[Rolls-Royce Meteor]] gasoline engine, derived from the [[Rolls-Royce Merlin|Merlin]] aero-engine, used on World War II [[Cromwell tank|Cromwell]] and [[Comet tank|Comet]] tanks and the post-WWII [[Centurion tank|Centurion]] and [[Conqueror tank|Conqueror]] tanks.
+* Russian V-12 diesel engine, used on World War II [[T-34]], [[KV-1]] and [[IS-2]] tanks.
+* American [[Continental AV1790]] engine, produced in gasoline and diesel variants, used on all versions of the [[Patton tank]] and on the [[M103 heavy tank]]. One of these engines was used to power a [[hot rod]] style car called the [[Blastolene Special]].
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.jagweb.com/jagworld/v12-engine/index.html Technical history of the Jaguar V12]
+
+
+{{Piston engine configurations}}
+
+[[de:Zwölfzylinder]]
+[[es:Motor V12]]
+[[fr:Moteur V12]]
+[[it:Motore V12]]
+[[lt:V12]]
+[[ja:V型12気筒]]
+[[no:V12-motor]]
+[[pl:V12]]
+[[pt:Motor V12]]
+[[fi:V12]]
+[[sv:V12]]
+[[tr:V12 motor]]
+[[zh:V12汽车发动机]]

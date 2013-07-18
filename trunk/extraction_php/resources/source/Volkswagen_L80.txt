@@ -1,0 +1,49 @@
+[[Image:Vw_l80_sst.jpg|L80 1994–2000 (Brazilian built)|thumb|200px]]
+ 
+In 1994 [[Volkswagen Commercial Vehicles]] in Europe and [[Volkswagen Truck and Bus|Volkswagen of Brazil]] launched the jointly developed '''L80''' light truck for the European market.
+
+The L80 came in only one specification with a MWM 4.3L 4cylinder diesel motor producing {{convert|103|kW|hp|0|abbr=on}} @ 2600 rpm with torque of {{convert|430|Nm|ftlbf|abbr=on}} at 1,600 to 2,000 rpm.
+It met the European exhaust and emissions tests of 91/542/EEC Standard to EG/70/157.
+
+The chassis of the L80 was tested extensively on South American roads and had a [[Gross vehicle weight|Gross Vehicle Weight]] of {{convert|7490|kg|lb|0|abbr=on}} and a {{convert|3270|kg|lb|0|abbr=on}} loading capacity. 
+Tyres had a dimension of 215/75 x 17.5 which complied German standards of the time. 
+
+The cab was borrowed from the [[Volkswagen LT]] series with a different front bumper and headlights it gave the L80 a different appearance.
+
+The L80 was discontinued from sale in Europe in 2000 due to stringent European emission regulations.
+
+{| class="wikitable"
+|LIGHT TRUCK
+|-
+! Model
+! Engine Make/Capacity
+! Power kW@rpm
+! Torque Nm@rpm
+! Transmission
+Make/Type/Speed
+
+! GVM (kg)
+Technical
+Capacity
+
+! GCM (kg)
+Technical
+Capacity
+
+
+|-
+| L80
+| MWM 4.3 (Turbo Diesel) 
+| 103 @ 2600
+| 430 @ 1600-2000 
+| 5 Speed Manual
+| 3270
+| 7490 
+|}
+
+{{Volkswagen Commercial Vehicles}}
+[[Category:Volkswagen vehicles|L80]]
+
+[[da:Volkswagen L80]]
+[[de:VW L80]]
+[[sv:Volkswagen L80]]

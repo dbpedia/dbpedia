@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<testValues>
+	<testValue lang = 'de' value = "8" type="integer">8,0</testValue>
+	<testValue lang = 'en' value = "8" type="integer">8.0</testValue>
+	<testValue lang = 'de' value = "12500000" type="integer">12,5 mio kg</testValue>
+	<testValue lang = 'en' value = "12500000" type="integer">12.5 mio</testValue>
+	<testValue lang = 'en' value = "40000000" type="integer">40,000,000 (estimated)</testValue>
+	<testValue lang = 'en' value = "30000000" type="integer">30,000,000</testValue>
+	<testValue lang = 'en' value = "123.45" type="float">123.45</testValue>
+	<testValue lang = 'en' value = "1234.5" type="float">1,234.5</testValue>
+	<testValue lang = 'de' value = "123.45" type="float">123,45</testValue>
+	<testValue lang = 'de' value = "1234.5" type="float">1.234,5</testValue>
+</testValues>

@@ -1,0 +1,193 @@
+{{Infobox Automobile platform
+|name=BMW 7-Series (F01/F02)
+|image=[[File:2009 BMW 750i front.jpg|250px|BMW 750i (US)]]
+|manufacturer=[[BMW]]
+|production=2008&ndash;present
+|predecessor=[[BMW E65]]
+|body_style=4-door [[Sedan (car)|saloon]]
+|successor=
+|assembly=[[Dingolfing]], [[Germany]]
+|class=[[luxury car]]
+|vehicles=[[BMW 7 Series]]
+}}
+{{Infobox Automobile generation
+|name=F01/F02
+|production=2008&ndash;present
+|
+|wheelbase={{convert|3070|mm|in|1|abbr=on}} (SWB)<br />{{convert|3210|mm|in|1|abbr=on}} (LWB)
+|length={{convert|5072|mm|in|1|abbr=on}} (SWB)<br />{{convert|5212|mm|in|1|abbr=on}} (LWB)
+|layout=
+|width={{convert|1902|mm|in|1|abbr=on}}
+|height={{convert|1479|mm|in|1|abbr=on}} (SWB)<br />{{convert|1478|mm|in|1|abbr=on}} (LWB)
+|fuel_economy=
+|body_style=
+|engine=6.0L [[V12 engine|V12]] Turbo<br />4.4L [[V8 engine|V8]] Turbo<br />3.0L [[Straight-6|I6]] Turbo<br />3.0L [[Straight-6|I6]] Turbo Diesel<ref name="2010F01">{{cite web |url=http://paultan.org/archives/2009/06/25/f01f02-bmw-7-series-gets-updated-new-740d-xdrive-and-m-sport-kit/ |title=F01/F02 BMW 7-Series gets updated with new 740d, xDrive and M-Sport kit! |dateformat=mdy |accessdate=June 25 2009 |author=Paul Tan |date=June 25, 2009 |work=Paul Tan's Automotive News }}</ref>
+|fuel_capacity=
+|transmission=6-speed [[Automatic transmission|automatic]]<br />8-speed [[Automatic transmission|automatic]] (V12 only)<ref name="V12F01">{{cite web |url=http://paultan.org/archives/2009/04/10/bmw-760i-and-760li-flagship-v12-turbo-power/ |title=BMW 760i and 760Li: flagship V12 power! |dateformat=mdy |accessdate=June 25 2009 |author=Paul Tan |date=April 10, 2009 |work=Paul Tan's Automotive News }}</ref>
+|speed=
+}}
+The '''BMW F01''' is the current 7 series that went into production in September 2008. The long wheelbase model, codenamed '''BMW F02''', is {{convert|14|cm|in|1|abbr=on}} longer than the BMW F01.
+
+==Presentation==
+The car's official unveiling occurred in the Red Square in Moscow (Russia) on 8 July 2008. The unusual nature of the unveiling had been attracting attention since 6 July 2008. The new BMW 7 series was placed in the upper half of an acrylic, glass, and steel [[hourglass]]. The car was  initially hidden by more than 180,000 silvered balls, which gradually dropped into the lower half to reveal the new BMW 7 Series.<ref>{{cite web|author=Back to post |url=http://www.autoblog.com/photos/bmw-7-series-gets-ballsy-unveiling-in-russia/917158/ |title=Autoblog |publisher=Autoblog |date=2008-07-14 |accessdate=2009-04-12}}</ref>
+
+==Vehicle characteristics==
+===Design===
+For the 7 Series, the previous [[BMW E65|E65/E66]] model marked a revolution in the 7-Series design, while the F01 is more evolutionary. The front end is inspired by the [[BMW CS Concept]], from the large twin grilles to the headlamps, which have "eyebrows" and internal configuration similar to individual lamps but slightly different in shape.<ref name="F01">{{cite web |url=http://paultan.org/archives/2008/07/05/new-bmw-7-series-f01-specifications-and-photos/ |title=New BMW 7-Series F01 Specifications and Photos |dateformat=mdy |accessdate=July 5 2008 |author=Paul Tan |date=July 5, 2008 |work=Paul Tan's Automotive News }}</ref> It now looks more conventional and less controversial than the vehicle it replaces. The interior has also been reworked and the column-mounted shifter has relocated to the center console.
+
+===Technology and equipment===
+The models include a 6-speed automatic transmission (760i/Li;Activhybrid7: 8-speed automatik). Dynamic Drive Control with optional Adaptive Drive added COMFORT setting in addition to Comfort, NORMAL, SPORT and SPORT+ modes, with reduced stability control intervention in the SPORT+ setting and in the traction mode.
+
+The cargo capacity is 500 litres. Optional features include 4-zone automatic air conditioning, telecommunication and navigation systems, a USB port, an 80 GB hard disc for navigation data and music collection, a multi-channel audio system, a DAB double tuner, a DVD entertainment system at the rear, a Head-Up Display, an electrically swivelling trailer hook.<ref>[http://www.autoblog.com/2009/05/22/officially-official-bmw-drops-the-details-on-its-2010-5-series/ Officially Official: BMW drops the details on its 2010 5 Series Gran Turismo]</ref>
+
+===Safety===
+All BMW 7 Series' have in series safety equipment: Beside ABS including brake assistant and CBC (Cornering Brake control) pretensioner and belt load limiter on all seats, ESP (Dynamic Stability Control, BMW) with DTC (Dynamic Traction Control) are present. Furthermore 8 Airbags (driver/front passenger, head curtain airbags (both rows) and two sideairbags,front outboard and rear outboard, as well as driver and passenger knee airbags) and active headrests in front. The adaptive brake lights indicate how strongly the vehicle is braking. In the case of an emergency stop, the normal LED running lights (on when low beams are on) are illuminated to the same intensity of the brighter normal LED brake indicator light, creating a large, extra bright light to warn drivers behind. Also, adaptive bi-xenon headlights (low beam) swivel in accordance with the steering wheel for curves, level when going over hills, or when the car is loaded, to reduce glare to other drivers. Also, side turn indicators are standard on every BMW on the front quarter-panels. 
+
+In the 7 Series - partly against surcharge - are several driver assistance systems:
+
+*[[Adaptive cruise control]] with Stop & Go feature
+*[[Blind spot monitor|Blind Spot Information System]], 
+*[[Lane departure warning system]],
+*[[Automotive night vision|Night vision]]
+*[[Head-Up Display]], 
+*Integral Active Steering (rear wheel steering) 
+*[[BMW xDrive|xDrive]] (available only in the 750i/Li, for the first time on the 7 Series) (2010+)
+*[[backup camera|Rear view camera]], 
+*Sideview (two cameras in the front bumper that look to the left and right) 
+*Topview (of the two additional cameras in the exterior mirrors, the side-view cameras, reversing camera and sensors from the PDC to create an overall picture of the vehicle and its environment, and show it from the air) and
+*a speed limit display. For this, a camera will check street signs with speed limits. These are displayed in the speedometer, as well as head-up display.
+
+==Specifications==
+===Engines===
+{| class="wikitable"
+! Model !! Engine Code!! Engine Type!! Power@rpm!! Torque@rpm!! Years made
+|-
+!colspan=6|Petrol engines
+|-
+|740i/Li
+| [[BMW N54|N54B30]]
+|{{convert|2979|cc|L cuin|abbr=on}} twin turbo [[straight-6|I6]] 24V
+| {{convert|326|PS|kW hp|abbr=on}} @5800
+| {{convert|450|Nm|lbft|abbr=on}} @1500-4500
+| 2008-
+|-
+| 750i/Li
+| [[BMW N63|N63B44]]
+|{{convert|4395|cc|L cuin|abbr=on}} twin turbo [[V8 engine|V8]] 32V
+| {{convert|408|PS|kW hp|abbr=on}} @5500-6400
+| {{convert|600|Nm|lbft|abbr=on}} @1750-4500
+| 2008-
+|-
+| 760i/Li
+| [[BMW N74|N74B60]]
+|{{convert|5972|cc|L cuin|abbr=on}} twin turbo [[V12 engine|V12]] 48V
+| {{convert|544|PS|kW hp|abbr=on}} @5250
+| {{convert|750|Nm|lbft|abbr=on}} @1500-5000
+| 2009-
+|-
+| ActiveHybrid7, ActiveHybrid7L
+| [[BMW N63|N63B44]]
+|{{convert|4395|cc|L cuin|abbr=on}} twin turbo [[V8 engine|V8]] 32V+ electro Engine
+| {{convert|465|PS|kW hp|abbr=on}}
+| {{convert|700|Nm|lbft|abbr=on}}
+| 2010-
+|-
+!colspan=6|Diesel engines
+|-
+|730d/Ld
+|[[BMW N57|N57D30]]
+|{{convert|2993|cc|L cuin|abbr=on}} turbo [[straight-6|I6]] 24V
+| {{convert|245|PS|kW hp|abbr=on}} @4000
+| {{convert|540|Nm|lbft|abbr=on}} @1750-3000
+|2008-/2009-
+|-
+|740d<ref name="2010F01"/>
+|[[BMW N57|N57D30TOP]]
+|{{convert|2993|cc|L cuin|abbr=on}} twin turbo [[straight-6|I6]] 24V
+|{{convert|306|PS|kW hp|abbr=on}} @4400
+|{{convert|600|Nm|lbft|abbr=on}} @1500-2500
+|2009-
+|}
+
+At the 2008 LA Auto Show, BMW announced the [[North America]]n version of BMW 7 Series would use a 4.4&nbsp;L twin-turbo [[V8 engine]] (from the [[BMW X6]] xDrive50i) rated at {{convert|400|bhp|kW|abbr=on}} and {{auto lbft|450}} of torque.<ref>[http://www.autoblog.com/2008/11/19/la-2008-twin-turbo-v8-slated-for-bmw-7-series?icid=sphere_blogsmith_inpage_autoblog LA 2008: Twin-turbo V8 slated for BMW 7 Series]</ref>
+The ActiveHybrid7 is the first BMW with automatic transmission to feature an Auto Start Stop function avoiding idle speed operation of the engine when at a standstill or in traffic jams.
+
+===Transmissions===
+{| class="wikitable"
+! Model !! Type
+|-
+|740i, 740Li||6-speed automatic ([[ZF 6HP26 transmission]])
+|-
+|750i, 750Li||6-speed automatic
+|-
+|760i, 760Li||8-speed automatic ([[ZF 8HP transmission]])<ref name="ZF 8HP">{{cite web |url=http://paultan.org/archives/2007/05/03/zf-unveiled-new-8-speed-automatic-gearbox/ |title=ZF Unveils New 8-Speed Automatic Gearbox |dateformat=mdy |accessdate=July 5 2008 |author=Paul Tan |date=May 3, 2008 |work=Paul Tan's Automotive News }}</ref><ref>[http://www.zf.com/corporate/en/company/references/success_stories/bmw/bmw_7.html ZF in the BMW 7 Series: Adaptive Damping Control for Cars]</ref>
+|-
+|ActiveHybrid7, ActiveHybrid7L||8-speed automatic ([[ZF 8HP transmission]])
+|-
+|730d, 730Ld||6-speed automatic
+|-
+|740d||6-speed automatic
+|}
+
+===Performance===
+{| class="wikitable"
+! Model !! Drive !! 0-100&nbsp;km/h acceleration ([[Second|s]]) !! Top speed
+|-
+|740i/740Li||RWD||5.9/6.0||{{convert|250|km/h|mph|abbr=on}}
+|-
+|750i/750Li||RWD, AWD (optional)||5.2/5.3||{{convert|300|km/h|mph|abbr=on}}
+|-
+|760i/760Li||RWD||4.6||{{convert|250|km/h|mph|abbr=on}}
+|-
+|ActiveHybrid7/ActiveHybrid7L||RWD||4.9||{{convert|250|km/h|mph|abbr=on}}
+|-
+|730d/Ld||RWD||7.2/7.3||{{convert|245|km/h|mph|abbr=on}}
+|-
+|740d||RWD||6.3||{{convert|250|km/h|mph|abbr=on}}
+|}
+
+==Parts sharing==
+[[File:2009 BMW 740i (F01) sedan 02.jpg|thumb|right|2009 BMW 740i (F01) sedan (Australia).]]
+
+The F01 is expected to provide 20% of the components for the [[Rolls-Royce Ghost]], slotting in below the ultra-luxury [[Rolls-Royce Phantom|Phantom]].<ref>{{cite web|url=http://www.leftlanenews.com/rolls-royce-ghost.html |title=Rolls-Royce Ghost: 200EX (a.k.a. RR4) gets a name |publisher=Leftlanenews.com |date=2009-04-20 |accessdate=2009-07-09}}</ref> This $250,000 car would be assembled by Rolls-Royce in their factory in [[Goodwood]], [[England]].
+
+==740Li Vantage==
+It is a version of the 740Li sold in Hong Kong market, which does not include the front seat LCD screen, and is HK$200,000 lower than the original.<ref>[http://hk.news.yahoo.com/article/090612/3/cobz.html BMW 740Li Vantage 入門新版抵價登場]</ref>
+
+==760Li High Security and 750Li High Security (F03)==
+BMW has also announced the F03 7 Series as their High Security line, including the 750Li High Security and 760Li High Security. Both of them were certified with BRV 2009 and VR7 ballistics protection. The non-transparent sections have been certified as having VR9 levels of protection. This is the first set of cars to be granted such high levels of security.<ref>[http://www.carthusiast.com/bmw-7-series-high-security-a-new-definition-of-security-1992.html BMW 7 Series High Security – a new definition of security]</ref>
+
+==Hybrid (F04)==
+The BMW Concept 7 Series ActiveHybrid is a concept model that uses the engine from 750i, but adds an electric motor rated {{convert|20|PS|kW hp|abbr=on}} and {{convert|210|Nm|lbft|abbr=on}} torque. The hybrid system was based on the [[2-mode hybrid]] from [[Daimler AG]]. The [[regenerative braking]] unit includes 12V Absorbent Glass Mat batteries, running in parallel to 120V electrical network for electric motor. In also included a 8-speed [[automatic transmission]]. BMW claims it improved fuel consumption and reduced emissions by 15% over the non-hybrid model, despite weighing {{convert|221|lb|kg}} more.<ref>{{Cite journal | last = Kable | first = Greg | title = A First for BMW | journal = [[AutoWeek]] | volume = 59 | issue = 23 | page = 25 | publisher = [[Crain Communications Inc.]] | location = [[Detroit, Michigan]]| date = November 16, 2009 | issn = 0192-9674}}</ref>
+
+The car's exterior profile was designed by Karim Habib, Team Leader, Advanced Design for BMW in [[Munich]], Germany.<ref>[http://www.autonorth.ca/home/2009/1/30/bmw-to-premiere-7-series-activehybrid-at-toronto-auto-show.html BMW to premiere 7 Series ActiveHybrid at Toronto Auto Show]</ref>
+
+The car was first unveiled in 2008 [[Paris Auto Show]].<ref>[http://www.autobloggreen.com/2008/09/23/paris-preview-bmw-releases-more-details-on-7-series-active-hybr/ Paris Preview: BMW releases more details on 7-series active hybrid]</ref>
+
+BMW confirmed that the F04 7 Series would be called the BMW ActiveHybrid 7 and a production model will be launched at the 2009 Frankfurt Auto Show. [http://www.autocar.co.uk/News/NewsArticle/BMW-X6/242409/] It will be powered by a twin-turbo V8 engine and a single electric motor. [http://www.autocar.co.uk/News/NewsArticle/BMW-X6/242409/]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*[http://www.bmw.com/com/en/newvehicles/7series/sedan/2008/introduction.html BMW page]
+*{{dmoz|/Recreation/Autos/Makes_and_Models/BMW/7_Series/|BMW 7 Series}}
+
+
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw 7 Series (F01)}}
+[[Category:BMW platforms|F01]]
+[[Category:Vehicles introduced in 2008]]
+
+[[de:BMW F01]]
+[[et:BMW F01]]
+[[es:BMW F01/F02]]
+[[it:BMW F01 e F02]]
+[[nl:BMW F01]]
+[[no:BMW F01]]
+[[pl:BMW F01]]
+[[pt:BMW F01]]
+[[ru:BMW F01]]
+[[uk:BMW F01/F02]]

@@ -1,0 +1,12 @@
+{{TemplateMapping
+| mapToClass = Convention
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = venue | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = first | ontologyProperty = startDate }}
+	{{PropertyMapping | templateProperty = last | ontologyProperty = endDate }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

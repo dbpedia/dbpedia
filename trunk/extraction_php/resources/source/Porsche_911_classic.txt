@@ -1,0 +1,220 @@
+{{Infobox Automobile
+|image        = [[Image:Porsche 911E ca 1969.jpg|260px|Porsche 911]]
+|name         = Porsche 911 (classic)
+|aka          = Porsche 911 Carrera
+|manufacturer = [[Porsche|Porsche AG]]
+|class        = [[Sports car]]
+|layout       = [[Rear-engine design|Rear-engine]], [[rear-wheel drive]]
+|production   = 1964–1989
+|assembly     = [[Stuttgart]]-[[Zuffenhausen]], [[Germany]]
+|predecessor  = [[Porsche 356]]
+|successor    = [[Porsche 964]]
+|transmission = 5-speed [[manual transmission|manual]] <br/>4-speed [[automatic transmission|automatic]]
+|wheelbase    = 2211&nbsp;mm (87&nbsp;in) 1964–1968<br/>2268&nbsp;mm (89¼&nbsp;in) 1968–1989
+|length       = 168.9&nbsp;in (4290&nbsp;mm)
+|width        = 65&nbsp;in (1651&nbsp;mm)<br/>Turbo: 69.9&nbsp;in (1775&nbsp;mm)
+|height       = 52&nbsp;in (1321&nbsp;mm)<br/>Turbo: 51.6&nbsp;in (1311&nbsp;mm)
+|body_style   = 2-door [[coupe]]<br/>2-door [[Targa top]] (1966–89)<br/>2-door [[convertible]] (1982–89)
+|engine       = all variants air cooled [[flat-6]] (H6)<br/>
+2.0&nbsp;L 110–170&nbsp;[[Horsepower#PS|PS]] (81–125&nbsp;[[Kilowatt|kW]])<br/>
+2.2&nbsp;L 125–180&nbsp;PS (91–132&nbsp;kW)<br/>
+2.4&nbsp;L 130–190&nbsp;PS (96–140&nbsp;kW)<br/>
+2.7&nbsp;L 150–210&nbsp;PS (110–154&nbsp;kW)<br/>
+3.0&nbsp;L 180–204&nbsp;PS (132–150&nbsp;kW)<br/>
+3.2&nbsp;L 207–231&nbsp;PS (160-170&nbsp;kW)<br/>
+3.0&nbsp;L [[Turbo]] 260&nbsp;PS (191&nbsp;kW)
+3.3&nbsp;L [[Turbo]] intercooled 300&nbsp;PS (221&nbsp;kW)
+|related     = [[Porsche 912]]<br/>[[Porsche 959]]<br/>[[Porsche 930]]
+}}
+
+[[Image:Porsche 911 Pegomas-Tanneron 2005.jpg|thumb|right|300px|Porsche 911 in [[hillclimb]]]]
+
+The '''original Porsche 911''' (pronounced as ''nine eleven'', {{lang-de|Neunelfer}}) was a [[sports car]] made by [[Porsche]] [[Aktiengesellschaft|AG]] of [[Stuttgart]], [[Germany]]. The famous, distinctive, and durable design was introduced in autumn 1963<ref name="NYT"/> and built until 1989. It was succeeded by a modified version, internally referred to as [[Porsche 964]] but still sold as ''Porsche 911'', as are current models.
+
+Mechanically, the 911 was notable for being [[rear engine]]d and [[Air-cooled engine|air-cooled]]. From its inception the 911 was modified both by private teams and the factory itself for [[motor racing|racing]], [[rally racing|rallying]] and other types of automotive competition. The original 911 series is often cited as the most successful competition car ever, especially when its variations are included, mainly the powerful 911-derived [[Porsche 935|935]] which won [[24 Hours of Le Mans]] and other major sports cars races outright against prototypes.
+
+==Introduction==
+The Porsche 911 was developed as a much more powerful, larger, more comfortable replacement for the [[Porsche 356]], the company's first model, and essentially a sporting evolution of the [[Volkswagen Beetle]]. The new car made its public debut at the 1963<ref name="NYT">{{cite web|title= Ferdinand Porsche, Creator of the Sports Car That Bore His Name, Is Dead at 88 (obituary)|publisher=''The New York Times''|url=http://query.nytimes.com/gst/fullpage.html?res=9D07E2D9143BF93BA15750C0A96E958260&sec=&spon=&pagewanted=all|accessdate=2008-02-06}}</ref> Internationale Automobil-Ausstellung, better known to English speakers as the [[Frankfurt Motor Show]].
+
+It was initially designated as the "[[Porsche 901]]", after its internal project number. However, [[Peugeot]] protested on the grounds that in France it had exclusive rights to car names formed by three numbers with a zero in the middle. So, instead of selling the new model with another name in France, Porsche changed the name to 911. It went on sale in 1964.
+
+==2.0-litre / O, A and B series (1964–1969)==
+<!-- Years in headings are CALENDAR YEARS. Please do not change them to MODEL YEARS without good reason. -->
+The earliest editions of the 911 had a 130&nbsp;[[Horsepower#PS|PS]]<sup>[[#Notes|[1]]]</sup> (96&nbsp;[[kilowatt|kW]]) [[flat-6]] engine, in the "[[Flat engine|boxer]]" configuration like the 356, [[air-cooled]] and rear-mounted, displaced 1991&nbsp;[[cubic centimetre|cm³ (cc)]] compared with the 356's four-cylinder, 1600&nbsp;cc unit. The car had four seats although the rear seats are very small, and the car is usually called a [[2+2 (car body style)|2+2]] rather than a four-seater (the 356 was also a 2+2). It was mated to a five-speed [[Manual transmission|manual]] "Type 901" [[transmission (mechanics)|transmission]]. The styling was largely by [[Ferdinand Alexander Porsche|Ferdinand "Butzi" Porsche]], son of [[Ferdinand Anton Ernst Porsche|Ferdinand "Ferry" Porsche]]. [[Erwin Komenda]], the leader of the Porsche car body construction department, was also involved in the design.
+
+The 356 came to the end of its production life in 1965, but there was still a market for a [[Flat-4|4-cylinder]] car, particularly in the USA. The [[Porsche 912]], introduced the same year, served as a direct replacement. It used the 356's 4-cylinder, 1600&nbsp;cc, {{Convert|90|hp|kW|0|abbr=on}} engine but wore the 911 [[bodywork]].
+
+In 1966 Porsche introduced the more powerful 911S, the engine's power raised to {{convert|160|PS|kW hp|abbr=on}}. [[Alloy]] wheels from [[Fuchs]], in a distinctive 5-leaf design, were offered for the first time. In motorsport at the same time, installed in the [[mid-engined]] [[Porsche 904]] and [[Porsche 906]], the engine was developed to 210&nbsp;PS (154&nbsp;kW).
+
+In 1967 the [[Targa top|Targa]] version was introduced as a "stop gap" model. The Targa had a [[stainless steel]]-clad roll bar, as Porsche had, at one point, thought that the [[NHTSA]] would outlaw fully open [[convertible]]s in the [[United States|US]], an important market for the 911. The name "Targa" (which means "shield" in Italian) came from the [[Targa Florio]] sports car road race in [[Sicily]], [[Italy]] in which Porsche had notable success, with seven victories since 1956, and four more to come until 1973. This last win in the subsequently discontinued event is especially notable as it was scored with a 911 Carrera RS against prototypes entered by Italian factories of Ferrari and Alfa Romeo. The road going Targa was equipped with a removable roof panel and a removable [[plastic]] rear window (although a fixed glass version was offered alongside from 1968).
+
+The {{convert|110|PS|kW hp|abbr=on}} 911T was also launched in 1967 and effectively replaced the 912. The staple {{convert|130|PS|kW hp|abbr=on}} model was renamed the 911L. The 911R had a very limited production (20 in all). This was a lightweight racing version with thin [[aluminium]] doors, a [[magnesium]] crankcase, [[twin-spark]] [[cylinder head]]s, and a power output of {{convert|210|PS|kW hp|abbr=on}}.
+
+In 1969 the B series was introduced: the [[wheelbase]] for all 911 and 912 models was increased from 2211mm to 2268mm (87&nbsp;to 89¼&nbsp;in), an effective remedy to the car's nervous handling at the limit. The overall length of the car did not change: rather, the rear wheels were relocated aft. Fuel injection arrived for the 911S and for a new middle model, 911E.  A semi-automatic Sportomatic<ref>[http://www.sportomatic.org Website for Sportomatic Porsche models]</ref> model, composed of a [[torque]] converter, an [[automatic transmission|automatic]] [[clutch]], and the four speed [[Transmission (mechanics)|transmission]], was added to the product lineup.
+
+===B17 (1969)===
+It is a concept designed by Pininfarina by lengthening the wheelbase by {{auto in|7.5}}, resulting in a car {{convert|2500|lb|kg|abbr=on}} heavier than original.<ref name=FPP>[http://www.motortrend.com/future/concept_cars/112_0510_2010_porsche_panamera/index.html Future: Porsche Panamera]</ref>
+
+==2.2-litre / C and D series (1969–1971)==
+For [[model year|MY]] 1970 the engines of all 911s were increased to {{convert|2195|cc|L cuin|abbr=on}}. Power outputs were uprated to {{convert|125|PS|kW hp|abbr=on}} in the 911T, {{convert|155|PS|kW hp|abbr=on}} in the 911E, and {{convert|180|PS|kW hp|abbr=on}} in the 911S. The [[Porsche 912|912]] was discontinued, thanks to the introduction of the [[Porsche 911T]] as an entry model.
+
+The 2.2&nbsp;L 911E was called "The secret weapon from [[Zuffenhausen]]"{{Fact|date=January 2008}}. Despite the lower power output of the 911E compared to the 911S, the 911E was quicker in [[acceleration]] up to {{convert|160|km/h|mph|abbr=on}}.
+
+===C 20 (1970)===
+It was a prototype extended by {{auto in|13.6}} over stock car, with 911S engine.<ref name=FPP />
+
+==2.4-litre / E and F series (1971–1973)==
+The 1972–1973 [[model year]]s consisted of the same models of 911&mdash; the entry level T, the midrange E and the top of the line S. However, all models got a new, larger {{convert|2341|cc|L cuin|abbr=on}} engine. This is universally known as the "2.4L" engine, despite its displacement being closer to 2.3 litres&mdash; perhaps to emphasize the increase over the 2.2&nbsp;L. The new power ratings were {{Convert|130|hp|kW|0|abbr=on}}, or {{Convert|140|hp|kW|0|abbr=on}} in the U.S., for the T, {{Convert|165|hp|kW|0|abbr=on}} for the E and {{Convert|190|hp|kW|0|abbr=on}} for the S.
+
+The 911E and 911S used [[mechanical]] [[fuel injection]] (MFI) in all markets. The 911T was [[carburettor|carbureted]], except in the US where it also used MFI, which accounts for the {{Convert|7|kW|hp|0|abbr=on}} power difference between the two. In January, 1973, US 911Ts were switched to the new K-Jetronic CIS (Continuous Fuel Injection) system from [[Robert Bosch GmbH|Bosch]].  These CIS-powered cars are usually referred to as "1973.5" models by enthusiasts.
+
+With the power and torque increases, the 2.4&nbsp;L cars also got a newer, stronger transmission, identified by its Porsche type number 915. Derived from the transmission in the [[Porsche 908]] race car, the 915 did away with the 901/911 transmission's "dog-leg" style first gear arrangement, opting for a traditional H pattern with first gear up to the left, second gear underneath first, etc.  Some say this was because the dog-leg shift to second gear was inconvenient for city driving, other say it was due to Porsche’s desire to put 5th gear outside the main transmission housing where it could easily be changed for different races. The Sportomatic transmission was still available but only as a special order.
+
+In 1972 a tremendous effort was made to improve the handling of the 911. Due to the 911's unusual engine placement (rear-mounted, with most of the vehicle's weight concentrated over the rear axle) early 911's were prone to [[oversteer]] when driven at the limit, and could easily spin in the hands of an inexperienced driver. In an attempt to remedy this, Porsche relocated the [[oil]] tank from its position behind the right rear wheel to in front of it. This had the effect of moving the weight of almost 9 [[quart]]s (8.5&nbsp;L) of oil from outside the wheelbase to inside, improving weight distribution and thus, handling. To facilitate filling of the oil tank, Porsche installed an oil filler door (much like the fuel filler door on the left front fender) on the right rear quarter panel. Unfortunately, this unique design was scrapped after only one year, some say because inattentive gas station attendants were putting gas in the oil tank. The oil tank was subsequently moved back to its original position for model year 1973, and remained there until it was moved back within the wheelbase for the 964 models.
+
+911S models also gained a discreet spoiler under the front bumper to improve high-speed stability. With the car's weight only 1050&nbsp;kg (2315&nbsp;lb), these are often regarded as the best classic mainstream 911s. For racing at this time, the 911 ST was produced in limited numbers (the production run for the ST only lasted from 1970 to 1971.) The cars were available with engines of either 2466&nbsp;cc or 2492&nbsp;cc, producing 270&nbsp;PS (199&nbsp;kW) at 8000&nbsp;rpm. Weight was down to 960&nbsp;kg (2166&nbsp;lb). The cars had success at the Daytona 6 Hours, the [[Sebring 12 Hours]], the [[1000 km Nürburgring]] and the [[Targa Florio]].
+
+==Carrera RS (1973 and 1974)==
+[[Image:Porsche 911 RS.jpg|thumb|300px|A 1973 Porsche 911 Carrera RS]]
+These models, valued by collectors, are considered by many to be the greatest classic 911s all-time. RS stands for Rennsport in [[German language|German]], meaning motorsport or circuit racing. The Carrera name was reintroduced from the [[Porsche 356|356]] Carrera which had itself been named after Porsche's victories in the [[Carrera Panamericana]] races in [[Mexico]] in the 1950s. The RS was built so that Porsche could enter racing formulae that demanded that a certain minimum number of [[production car]]s were made. Compared with a standard 911S, the Carrera 2.7 RS had a larger engine (2687&nbsp;cc) developing {{convert|210|PS|kW hp|abbr=on}} with MFI, revised and stiffened [[suspension (vehicle)|suspension]], a "ducktail" rear spoiler, larger [[brake]]s, wider rear  wheels and rear wings. In RS Touring form it weighed 1075&nbsp;kg (2370&nbsp;lb), in Sport Lightweight form it was about 100&nbsp;kg (220&nbsp;lb) lighter, the saving coming from the thin-gauge steel used for parts of the bodyshell and also the use of thinner glass. In total, 1580 were made, comfortably exceeding the 500 that had to be made to qualify for the vital [[Fédération Internationale de l'Automobile|FIA]] [[Group 4 (racing)|Group 4]] class. 49 Carrera RS cars were built with 2808&nbsp;cc engines producing 300&nbsp;PS (221&nbsp;kW).
+
+In 1974, Porsche created the Carrera RS 3.0 with K-Jetronic [[Robert Bosch GmbH|Bosch]] [[fuel injection]] producing 230&nbsp;PS (169&nbsp;kW).It was almost twice as expensive as the 2.7 RS but offered a fair amount of racing capability for that price. The [[chassis]] was largely similar to that of the 1973 Carrera RSR and the brake system was from the [[Porsche 917]]. The use of thin metal plate panels and a spartan interior enabled the shipping weight to be reduced to around 900&nbsp;kg (1984&nbsp;lb).
+
+[[Image:Porsche RSR am 19.05.1974.jpg|thumb|300px|Porsche RSR with Gijs van Lennep at the Nürburgring 1974]]
+[[Image:F1000026.JPG|thumb|300px|1976 Porsche 911 2.7]]
+The Carrera RSR 3.0 and Carrera RSR Turbo (its 2.1&nbsp;L engine due to a 1.4x equivalency formula) were made in tiny numbers for racing. The turbo car came second at the [[24 Hours of Le Mans]] in 1974, a significant event in that its engine would form the basis of many future Porsche attempts in sportscar racing, and can be regarded as the start of its commitment to [[turbocharging]].
+
+==2.7-litre / G, H, I and J series (1973–1976)==
+[[Model year|MY]] 1974 saw three significant changes. First, the engine size was increased to 2687&nbsp;cc giving an increase in [[torque]]. Second, was the introduction of impact [[bumper]]s to conform with low speed protection requirements of US law, these bumpers being so successfully integrated into the design that they remained unchanged for 15 years. Thirdly, the use of K-Jetronic CIS [[Robert Bosch GmbH|Bosch]] [[fuel injection]] in two of the three models in the line up&mdash; the 911 and 911S models, retaining the narrow rear wings of the old 2.4, now had a detuned version of the RS engine producing 150 and 175&nbsp;PS (110 and 129&nbsp;kW) respectively.
+
+===Carrera 2.7 / G and H series (1974-1975)===
+The Carrera 2.7, now a regular production model, inherited the wider rear wings of the RS together with  its 210&nbsp;PS (154&nbsp;kW) MFI engine and was indeed mechanically identical to the 1973 RS and still weighed the same at 1075&nbsp;kg (2370&nbsp;lb). All three models were given high backed front seats.
+
+The 930 Turbo was introduced in 1975 (see below).
+
+The Carrera 3.0 was introduced in 1976 with what was essentially the Turbo's 2994&nbsp;cc engine minus the turbocharger, and with K-Jetronic CIS although now developing 200&nbsp;PS (147&nbsp;kW).
+
+The well known problem of pulled cylinder head studs with the K-Jetronic 2.7 engine only occurred in hot climates. This emerged in 1975 in California where thermal reactors, aimed at reducing emissions, were fitted below the [[cylinder head]]s thus causing heat build up around the magnesium [[crankcase]] and then made worse by the lean running K-Jetronic CIS. The fitting of a 5-blade engine fan instead of the usual 11-blade further compounded the situation.
+Bearing in mind Porsche's largest market being the USA, the 930 Turbo, Carrera 3.0 and all subsequent models used aluminium alloy crankcases which were around {{convert|15|lb|kg|0|abbr=on}} heavier.
+
+The Bosch K-Jetronic CIS varied fuel pressure to the injectors dependent on the mass airflow.  While this system was exceedingly reliable, it did not allow the use of as "hot" cams as MFI or carburettors allowed.  Therefore the 911S's horsepower decreased from 190–175&nbsp;PS (140–128&nbsp;kW) despite the displacement increase from 2.4–2.7&nbsp;L. However, the engine did have increased drivability.
+The 210&nbsp;PS (154&nbsp;kW) Carrera 2.7 with MFI was not sold in the US owing to emission regulations&mdash; instead they received a 'Carrera' fitted with a 911S engine producing {{convert|175|PS|kW hp|0|abbr=on}}, later reduced to 165 (121&nbsp;kW), and in California even down to 160&nbsp;PS (118&nbsp;kW).
+
+Also produced for the 1976 "model year", for the U.S. market, was the 912E, a 4-cylinder version of the 911 like the 912 that had last been produced in 1969. It used the I-series chassis and the 2.0 <!-- 2.0 what? litres? --> [[Volkswagen]] engine from the [[Porsche 914]]. In all, 2099 units were produced.  In 1976 the [[Porsche 924]] took this car's place for the 1977 "model year" and beyond. The power was supplied by a 4 cylinder high performance fuel injection motor also used in the 411 Volkswagen. Less than 6000 were built.
+
+==Turbo (Type 930) (1974–1989)==
+{{main|Porsche 930}}
+In 1974 Porsche introduced the first production [[turbocharged]] 911. Although called simply Porsche 911 Turbo in Europe, it was marketed as Porsche 930 (930 being its internal type number) in North America. The body shape is distinctive thanks to wide wheel-arches to accommodate the wide tires, and a large rear spoiler often known as a "whale tail" on the early cars, and "tea-tray" on the later ones. Starting out with a 3.0&nbsp;L engine {{convert|260|PS|kW hp|abbr=on}}, it rose to 3.3&nbsp;L {{convert|300|PS|kW hp|abbr=on}} for 1978. The early cars are known for their exhilarating acceleration coupled with challenging handling characteristics and extreme [[Turbocharger#Lag|turbo lag]].
+
+Production figures of the car soon qualified its racing version for FIA Group 4 competition as the [[Porsche 934]] of 1976. Many participated at [[Le Mans 24 Hours|Le Mans]] and other races including some epic battles with the [[BMW E9|BMW 3.0 CSL "Batmobile"]]. The wilder [[Porsche 935]], a finer tuned car in [[FIA]] Group 5 and evolved from the 2.1&nbsp;L RSR Turbo of 1974, was campaigned in 1976 by the factory and won Le Mans in 1979. Private teams continued to compete successfully with the car until well into the 1980s.
+
+Due to tightening [[emission]]s regulations, the 930 was withheld from the important US and Japanese markets from 1981 through 1985.  In the same time period, Porsche was involved in several wrongful death lawsuits in [[California]] related to the 930. It was finally re-introduced into the United States in 1986.
+
+As demand for the Turbo soared in the late 1980s, Porsche introduced novelty variants including a slant-nose version (option M505/M506), while not significantly improving the range mechanically. Although these cars could be sold for extraordinary premiums over the standard models, the company's reluctance to invest in research and development of the entire 911 line at that time turned out to be an almost fatal decision not only for the 911, but for the company.
+
+Only in 1989, its last year of production, was the 930 equipped with a five-speed gearbox. The 930 was replaced in 1990 with a [[Porsche 964|964]] version featuring the same 3.3 L engine.
+
+There have been turbocharged variants of each subsequent generation of 911.
+
+==SC  / L, M, A, B, C and D series (1977–1983)==
+[[Image:1978-Porsche-911SC-Targa.png|right|thumb|250px|1978 Porsche 911SC Targa]]
+[[Image:Job finished 006.jpg|right|thumb|250px|1983 Porsche 911SC]]
+Starting in [[model year|MY]] 1978, the new 3.0&nbsp;L 911 SC (2994&nbsp;cc) was now the basic 911 model. It was in effect a Carrera 3 (known as a 911S in the US) [[tuning|detuned]] to provide 180&nbsp;PS (132&nbsp;kW). The "SC" designation was reintroduced by Porsche for the first time since the [[Porsche 356|356 SC]] (as distinguished from the race engined 356 Carrera). No Carrera versions were produced and the 930 Turbo remaining at the top of the range.  Porsche’s engineers felt that the weight of the extra luxury, [[safety equipment|safety]] and emissions equipment on these cars was blunting performance compared to the earlier, lighter cars with the same power output, so power was increased to 188&nbsp;PS (138&nbsp;kW) for 1980, then finally to 204&nbsp;PS (150&nbsp;kW).
+
+In model year 1980, Porsche offered a [[Weissach]] special edition version of the 911 SC, named after the town in [[Germany]] where Porsche has their [[research]] center.  Designated M439, it was offered in two colors with the turbo whale tail & front chin spoiler, body color-matched [[Fuchs]] alloy wheels and other convenience features as standard.  408 cars were built for North America.<ref>P. 73 Paternie, P (2000). Porsche 911 Red Book 1965-1999 Motorbooks International. ISBN. 0-7603-0723-7</ref>   In 1982, a [[Ferdinand Anton Ernst Porsche|Ferry Porsche]] Edition was made and a total of 200 cars were sold with this cosmetic package.
+
+SCs sold in the UK could be specified with the Sport Group Package (UK) which added stiffer [[suspension (vehicle)|suspension]], the rear [[Spoiler (automotive)|spoiler]], front rubber lip and black Fuchs wheels.
+
+In 1981 a [[Convertible|Cabriolet]] concept car was shown at the [[Frankfurt Motor Show]]. Not only was the car a true convertible, but it also featured [[four-wheel drive]], although this was dropped in the production version. The first 911 Cabriolet debuted in late 1982, as a 1983 model.  This was Porsche’s first cabriolet since the [[Porsche 356|356]] of the mid-1960s. It proved very popular with 4,214 sold in its introductory year, despite its premium price relative to the open-top targa.<ref name="Paternie, P 2000">P. 77 Paternie, P (2000). Porsche 911 Red Book 1965-1999 Motorbooks International. ISBN. 0-7603-0723-7</ref>  Cabriolet versions of the 911 have been offered ever since.
+
+It was during this time, that Porsche AG decided the long-term fate of the 911.  In 1979 Porsche had made plans to replace the 911 with their new [[Porsche 928|928]].  Sales of the 911 remained so strong however, that Porsche revised its strategy and decided to inject new life into the 911 editions.
+
+[[Peter W. Schutz]] (CEO Porsche AG 1981-1987) wrote:
+<blockquote>
+''“The decision to keep the 911 in the product line occurred one afternoon in the office of Dr Helmuth Bott [http://de.wikipedia.org/wiki/Helmuth_Bott], the Porsche operating board member responsible for all engineering and development.  I noticed a chart on the wall of Professor Bott’s office.  It depicted the ongoing development schedules for the three primary Porsche product lines: [[Porsche 944|944]], [[Porsche 928|928]] and 911.  Two of them stretched far into the future, but the 911 program stopped at the end of 1981.  I remember rising from my chair, walking over to the chart, taking a black marker pen, and extending the 911 program bar clean off the chart.  I am sure I heard a silent cheer from Professor Bott, and I knew I had done the right thing.  The Porsche 911, the company icon, had been saved, and I believe the company was saved with it.”''<ref>p. 6 Corlett, T (2005) ''Porsche 911 3.2 Carrera – The Last of the evolution'' Veloce Publishing ISBN 1-904788-65-3</ref>
+</blockquote>
+
+911 SC sales totaled 58,914 cars.<ref name="Paternie, P 2000"/>
+
+==3.2 Carrera / E, F, G, H, I, J and K series (1983–1989)==
+[[Image:911 Carrera.jpg|thumb|right|275px|1986 Porsche 911 ''Carrera Cabriolet'']] With the 911’s future ensured , 1983 saw the launch of a replacement for the successful SC series.  It was the [[model year|MY]] 1984 911 3.2 Carrera, reviving the Carrera name for the first time since 1975. The 911 3.2 Carrera was the last iteration in the original 911 series, with all subsequent models featuring new body styling with new [[brake]], electronic and [[suspension (vehicle)|suspension]] technologies.
+
+A new higher displacement motor, a 3.2 liter horizontally opposed flat 6 [[Cylinder (engine)|cylinder]], was utilized. At the time, Porsche claimed it was 80% new.<ref>p. 13 Corlett, T (2005) ''Porsche 911 3.2 Carrera – The Last of the evolution'' Veloce Publishing ISBN 1-904788-65-3</ref>  The new swept volume of 3164 cc was achieved using the {{convert|95|mm|in|1|abbr=on}} bore (from the previous SC model) combined with the 1978 Turbo 3.3 crankshaft's {{convert|74.4|mm|in|1|abbr=on}} stroke. In addition, higher domed pistons increased the [[compression ratio]] from 9.8 to 10.3:1 (although only 9.5:1 for the US market). New inlet [[manifold]] and [[exhaust system]]s were fitted.  The 915 [[transmission (mechanics)|transmission]] was carried over from the SC series for the first three model years.  In 1987, the Carrera got a new five-speed gearbox sourced from [[Getrag]], model number G50 with proven [[Borg-Warner]] synchronizers. This slightly heavier version also featured a hydraulically-operated [[clutch]].
+
+With the new engine, power was increased to {{convert|207|bhp|kW PS|0|abbr=on}} at 5900 rpm for [[North America]]n-delivered cars and to {{convert|231|bhp|kW PS|0|abbr=on}} at 5900 rpm for most other markets. This version of the 911 accelerated 0– {{convert|60|mi/h|km/h|abbr=on}} in 5.4 seconds and had a top speed of {{convert|150|mi/h|km/h|abbr=on}} as measured by [[Autocar]]. Factory times were more modest: 0-60 mph time of 6.3 seconds for the [[US]] version and 6.1 seconds for cars outside the American market.
+
+The [[disc brake]]s were increased in size to aid in more effective heat dissipation and improved oil-fed chain tensioners were fitted to the engine.  To improve oil cooling, a finned cooler replaced the serpentine lines in the front passenger fender well.  This was further improved in 1987, with the addition of a thermostatically-controlled fan.
+
+Driving refinement and motor reliability were improved with an upgrade of the fuel and ignition control components to a L-Jetronic with [[Robert Bosch GmbH|Bosch]] Motronics 2 DME (Digital Motor Electronics system). An improvement in fuel-efficiency was due to the DME providing a petrol cut-off on the overrun.  Changes in the fuel map & chip programming from October 1986, further improved the power to {{convert|217|bhp|kW PS|0|abbr=on}}  at 5900 rpm for North American delivered cars as well as for other markets requesting low emissions, like Germany.  Custom-mapped chips remain a popular upgrade.  The fuel relay that is mounted externally on the DME is known to be a weak point of the system.
+
+Three basic models were available throughout the Carrera years – [[coupe]], [[Targa top|targa]] and [[convertible|cabriolet]].   When launched in 1984 in the United States, the prices of the 911 Carrera lineup were $31,950 for the coupe, $33,450 for the targa and $36,450 for the cabriolet.<ref>p. 145 Leffingwell, R (2002) ''Porsche 911 Buyers Guide'' MBI Publishing Co ISBN 0-7603-0947-7</ref>  Almost indistinguishable from the SC, external clues are the front fog lights, which were integrated into the front valance in the Carrera.  Very modest cosmetic changes were made throughout the lifespan of the Carrera, with a redesigned dash featuring larger air conditioning vents appearing in 1986.
+
+Two special editions of the Carrera were produced – the "Commemorative Edition" in 1988 to commemorate 250,000 911s produced and an "Anniversary" edition in 1989 which was the model’s 25th year of production.  Both were cosmetic packages with limited production.
+
+In 1984, Porsche also introduced the M491 option.   Officially called the Supersport, it was commonly known as the "Turbo-look".   It was a style that resembled the [[Porsche 930]] Turbo with wide wheel arches and the distinctive "tea tray” tail.  It featured the stiffer turbo suspension and the superior turbo braking system as well as the wider turbo wheels.  Sales of the Supersport were particularly strong for its first two years in the United States because the desirable [[Porsche 930|930]] was not available.
+
+The 911 Speedster (option M503), a low-roof version of the Cabriolet which was evocative of the [[Porsche 356]] Speedster of the 1950s, was produced in limited numbers (2.104) starting in January 1989 until July 1989 as both a narrow body car and a Turbo-look.
+The narrow version was produced only 171 times, that means for the lucky owners an exclusive car from the very beginning. It started as a design under Helmuth Bott <!-- [http://de.wikipedia.org/wiki/Helmuth_Bott] --> in 1983 but was not manufactured until six years later. It was a two-seat convertible that featured a low swept windshield.<ref>p. 45 Corlett, T (2005) ''Porsche 911 3.2 Carrera – The Last of the evolution'' Veloce Publishing ISBN 1-904788-65-3</ref>
+
+The 1987 Carrera Club Sport, of which 340 were produced, is a collectible 911 that had a blueprinted engine with a higher rev limit, and had the electric windows, electric seats, and radio removed to save a claimed 50&nbsp;kg (110 lb) in weight.
+
+Total production of the 911 3.2 Carrera series was 76,473 cars (35,670 coupé, 19,987 cabrio, 18,468 targa).<ref>p. 74 Corlett, T (2005) ''Porsche 911 3.2 Carrera – The Last of the evolution'' Veloce Publishing ISBN 1-904788-65-3</ref>
+
+In late 1989, the 911 underwent a major evolution, with the introduction of the Type [[Porsche 964]] (1989–1993).
+
+==Position vis-à-vis the Porsche 928==
+{{main|Porsche 928}}
+When 911 sales began to decline by the early 1970s, Porsche executives approved work on the [[Porsche 928]] in 1971. Larger, and featuring a front-mounted [[V8]] engine considerably more powerful than the contemporary 911's flat six, the 928 was intended to be a comfortable [[grand tourer]] rather than a dedicated sports car. Capable of out-accelerating the 911, though not matching its cornering prowess, the 928 sold reasonably well from its introduction in 1977 until its discontinuation in 1995. In spite of its overall capability, it never outsold the 911. Unlike its smaller, sportier sibling, it achieved little success in racing.
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+*Frère, P (2006). ''Porsche 911 Story'' (eighth edition). J H Haynes & Co Ltd. ISBN 1-84425-301-5
+*Meredith, L (2000). ''Porsche 911''. Sutton Publishing. ISBN 0-7509-2281-8.
+*Morgan, P (1995). ''Original Porsche 911''. MBI Publishing. ISBN 1-901432-16-5
+*Wood, J (1997). ''Porsche: The Legend''. Parragon. ISBN 0-7525-2072-5.
+*[[Philip Raby|Raby]], P (2005) "Porsche 911 Identification Guide". Herridge & Son. ISBN 0-9541063-8-5
+*Wilkinson, Stephan (2005) "The Gold-Plated Porsche". The Lyons Press. ISBN 1-59228-792-1, rebuilding a 911.
+
+==External links==
+{{commonscat|Porsche 911}}
+* [http://www.oldtimer-doctor.com/projekte/porsche_911_s.htm Porsche 911S - restoration project] {{de icon}}
+* [http://www.turbosition.com/en Porsche 911 turbo - the first and second generation] {{en icon}}
+{{Porsche}}
+
+{{DEFAULTSORT:Porsche 911 Classic}}
+[[Category:Vehicles introduced in 1964]]
+[[Category:Porsche vehicles|911]]
+[[Category:Rear-engined vehicles]]
+[[Category:Rally cars]]
+[[Category:Group B cars]]
+[[Category:Sports cars]]
+[[Category:Coupes]]
+[[Category:Convertibles]]
+[[Category:1960s automobiles]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles with boxer engines]]
+
+{{Link FA|tr}}
+[[cs:Porsche 911]]
+[[da:Porsche 911]]
+[[de:Klassischer Porsche 911]]
+[[et:Porsche 911]]
+[[es:Porsche 911]]
+[[eo:Porsche 911]]
+[[fr:Porsche 911]]
+[[it:Porsche 911]]
+[[he:פורשה 911]]
+[[nl:Porsche 911]]
+[[ja:ポルシェ・911]]
+[[no:Porsche 911]]
+[[pl:Porsche 911]]
+[[pt:Porsche 911]]
+[[fi:Porsche 911]]
+[[sv:Porsche 911]]
+[[tr:Porsche 911]]
+[[zh:保时捷911]]

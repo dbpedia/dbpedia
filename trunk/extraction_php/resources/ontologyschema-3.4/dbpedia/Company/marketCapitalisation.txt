@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= market capitalisation
+|rdfs:domain	= Company
+|rdfs:range		= Currency
+|rdf:type	= owl:FunctionalProperty
+}}

@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Award
+|rdfs:subClassOf = owl:Thing
+}}

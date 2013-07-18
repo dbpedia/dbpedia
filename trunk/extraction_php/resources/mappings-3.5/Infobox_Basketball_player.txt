@@ -1,0 +1,23 @@
+{{TemplateMapping
+| mapToClass = BasketballPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = league | ontologyProperty = league }}
+	{{PropertyMapping | templateProperty = number | ontologyProperty = number }}
+	{{PropertyMapping | templateProperty = highschool | ontologyProperty = highschool }}
+	{{PropertyMapping | templateProperty = college | ontologyProperty = college }}
+	{{PropertyMapping | templateProperty = draft | ontologyProperty = draft }}
+	{{PropertyMapping | templateProperty = draft_year | ontologyProperty = draftYear }}
+	{{PropertyMapping | templateProperty = draft_team | ontologyProperty = draftTeam }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = weight_lbs | ontologyProperty = weight | unit = pound }}
+	{{PropertyMapping | templateProperty = team | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = career_start | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = career_end | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = former_teams | ontologyProperty = formerTeam }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{CalculateMapping | operation = add | templateProperty1 = height_ft  | unit1 = foot  | templateProperty2 = height_in  | unit2 = inch  | ontologyProperty = height }}
+}}

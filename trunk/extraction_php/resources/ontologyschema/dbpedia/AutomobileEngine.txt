@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|  rdfs:label 		= Automobile Engine
+|  rdfs:subClassOf 	= Device
+}}

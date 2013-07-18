@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = source confluence elevation
+|rdfs:domain = River
+|rdfs:range = metre
+}}

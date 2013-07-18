@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = battle honours
+| rdfs:domain = MilitaryUnit
+| rdfs:range = xsd:string
+}}

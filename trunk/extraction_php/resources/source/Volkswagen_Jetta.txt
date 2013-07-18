@@ -1,0 +1,522 @@
+{{Article issues|POV =August 2009|unbalanced =August 2009|refimprove =August 2009}}
+{{globalize/USA|date=August 2009}}
+{{Example farm|date=August 2009}}
+
+{{Infobox Automobile
+|name           = Volkswagen Jetta
+|image          = [[Image:Volkswagen Jetta 2.5 sedan 2.jpg|250px]]<br />''Volkswagen Jetta Mk5 2.5 (US)''
+|aka            = 
+|manufacturer   = [[Volkswagen|Volkswagen Passenger Cars]]
+|parent_company = [[Volkswagen Group]]
+|production     = 1979–present
+|class          = [[Subcompact]] (1980-84),<br />[[compact car|Compact / small family car]] (1984-present)
+|predecessor    = 
+|platform       = [[Volkswagen Group A platform]] series
+|sp             = uk
+}}
+The '''Volkswagen Jetta''' is a mid range family [[automobile]], produced by German [[automotive industry|automaker]] [[Volkswagen Group]] for the [[Volkswagen|Volkswagen Passenger Cars]] marque since 1979.  Positioned to fill a [[sedan (automobile)|saloon/sedan]] niche above the firm's [[compact car|compact / small family car]] [[Volkswagen Golf|Golf]] hatchback offering, it has been marketed over five generations variously as the '''Atlantic''', '''Bora''', '''City Jetta''', '''Jetta City''', '''Fox''', '''GLI''', '''Jetta''', '''Sagitar''', and '''Vento'''.
+
+The Jetta was originally adapted by adding a conventional trunk to the Golf hatchback, and some distinctive styling (usually the front end, and sometimes slight interior changes). It has been offered in two- and four-[[vehicle door|door]] saloon (sedan), and five-door [[station wagon|estate (station wagon)]] versions - all as five-[[car seat|seaters]].  As of 2005, over 6.6&nbsp;million cars have been sold worldwide, over one-third in the United States alone.  Since the original version in 1980, the car has grown in size and power with each successive generation.<ref>{{cite press release|title=ALL-NEW JETTA MAKES WORLDWIDE DEBUT AT L.A. AUTO SHOW|publisher=[[Volkswagen Group of America|Volkswagen of America]]|date=2005-01-05|url=http://web.archive.org/web/20050724081414/http://media.vw.com/article_display.cfm?article_id=9509|accessdate =2009-09-03}}</ref>
+
+The Jetta nameplate derives from the [[German language]] word for '[[jet stream]]', reflecting the period in Volkswagen's history when it named its vehicles after prominent [[wind]]s.  These also included the [[Volkswagen Passat]] (after the German word for [[trade wind]], [[Volkswagen Golf]] (after [[gulf stream]]), Volkswagen Bora (after [[bora (wind)|bora]]) and [[Volkswagen Scirocco]] (after [[sirocco]]).<ref>{{cite web|authorlink=http://media.vw.com|title=Jetta History|publisher=Volkswagen AG|date=2004-01-07|url=http://media.vw.com/article_display.cfm?article_id=9382|archiveurl=http://web.archive.org/web/20070928043735/http://media.vw.com/article_display.cfm?article_id=9382|archivedate=2007-09-28|accessdate=2009-09-03}}</ref>
+
+==First generation (A1, ''Typ'' 16){{anchors|A1|16}}==
+{{Infobox Automobile generation
+|name             = Volkswagen Jetta<ref name="Werner Oswald 2001. p. 72-87">Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 3. Motorbuch Verlag Stuttgart 2001. ISBN 3-613-02116-1, p. 72-87.</ref><ref name="Mike Covello 2002. p. 826-829">Mike Covello: ''Standard Catalog of Imported Cars 1946-2002''. Krause Publications, Iola 2002. ISBN 0-87341-605-8, p. 826-829.</ref><br />(A1, ''Typ'' 16)
+|image            = [[Image:JettaDiesel1.jpg|250px]]<br />''1982 Volkswagen Jetta Mk1''
+|aka              = Volkswagen Atlantic<br />Volkswagen Fox
+|layout       = [[Front-engine design|Front-engine]], [[front-wheel drive]]
+|production_start = August 1979<ref name="ETKA"/>
+|production_end   = February 1984<ref name="ETKA"/><br />571,030 built<ref>Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 3. Motorbuch Verlag Stuttgart 2001. ISBN 3-613-02116-1, p. 86. Note: German production only. Total production ca. 700,000 cars.</ref>
+|assembly         = [[Sarajevo]], [[Bosnia and Herzegovina]]<br />[[Wolfsburg]], [[Germany]]<br />[[Uitenhage]], [[South Africa]]
+|body_style       = 2-door [[sedan (automobile)|saloon/sedan]]<br />4-door saloon/sedan
+|platform         = [[Volkswagen Group A platform#A1|Volkswagen Group A1]]
+|engine           = '''''Europe and RoW''''':<br />'''[[inline-four|I4]] [[petrol engine]]s'''<br />1.1[[litre|L]] {{convert|50|PS|kW hp||abbr=on}}<br />1.3L {{convert|60|PS|kW hp||abbr=on}}<br />1.5L {{convert|70|PS|kW hp||abbr=on}}<br />1.6L {{convert|85|PS|kW hp||abbr=on}}<br />1.6L {{convert|110|PS|kW hp||abbr=on}}<br />1.8L {{convert|112|PS|kW hp||abbr=on}}<br />'''I4 [[diesel engine]]s'''<br />
+1.6L {{convert|54|PS|kW hp||abbr=on}}<br />1.6L {{convert|70|PS|kW hp||abbr=on}} [[turbodiesel|TD]]<br /><br />
+'''''North America/Japan''''':<br />'''[[inline-four|I4]] [[petrol engine]]s'''<br />1.6L {{convert|76|hp|kW|0|abbr=on}} ([[model year|MY]] 1980)<br />1.7L {{convert|74|hp|kW|0|abbr=on}} (MY 1981-1984)<br />'''I4 [[diesel engine]]s'''<br />1.6L {{convert|52|hp|kW|0|abbr=on}} (MY 1982-1984)<br />1.6L {{convert|68|hp|kW|0|abbr=on}} (MY 1983-1984)
+|transmission     = 5-speed [[manual transmission|manual]]<br />3-speed [[automatic transmission|automatic]]
+|wheelbase        = {{convert|2400|mm|1|abbr=on|lk=on}}
+|length           = {{convert|4270|mm|1|abbr=on}}
+|width            = {{convert|1600|mm|1|abbr=on}}
+|height           = {{convert|1300|mm|1|abbr=on}}
+|weight           = 
+|fuel_capacity    = 
+|related          = [[Volkswagen Golf Mk1|Volkswagen Golf Mk1/Rabbit]]
+|designer         = [[Giorgetto Giugiaro]]
+|sp               = uk
+}}
+
+Although the Golf had reached considerable success, in the North American markets, Volkswagen observed that the [[hatchback]] body style lacked some of the appeal to those who preferred the traditional 'three-box-saloon' configuration. The styling of the 1970 [[AMC Gremlin]] was controversial for truncating the Hornet sedan, but Volkwagen stylists reversed the process by essentially grafting a new trunk onto the tail of the Golf to produce a larger Jetta saloon.<ref>{{cite book|last=Vack|first=Peter|title=Illustrated Volkswagen Buyer's Guide|publisher=Motorbooks International|year=1993|location=Osceola, WI USA|page=124|isbn=0-87938-724-6}}</ref>  The Jetta became the best-selling [[Europe]]an car in the [[United States]], [[Canada]], and [[Mexico]].<ref>{{cite press release|title=IN BRIEF: THE NEW JETTA|publisher=Volkswagen AG|date=2005-08-15|url=http://web.archive.org/web/20051216084644/http://media.vw.com/article_display.cfm?article_id=9661|accessdate=2009-09-03}}</ref><ref>
+{{citation|author-link=http://www.CNNExpansion.com|title=Jetta arriba en julio y agosto|newspaper=CNN Expansion|date=2008-09-09|url=http://www.cnnexpansion.com/negocios/los-autos-mas-vendidos-en-julio-y-agosto/jetta-arriba-en-julio-y-agosto}}</ref>  The car is also popular in [[Europe]], including the [[United Kingdom]], [[Germany]], and [[Turkey]].<ref>{{cite press release|title=The Jetta|publisher=Volkswagen AG|date=2008-03-04|url=https://www.volkswagen-media-services.com/medias_publish/ms/content/en/pressemitteilungen/2008/03/04/the_jetta.standard.gid-oeffentlichkeit.html|accessdate=2009-09-04}}</ref>
+
+The Jetta was introduced to the world at the 1979 Frankfurt Auto Show.<ref>{{citation|title=Volkswagen writes history|publisher=Volkswagen Kommunikation Briefach|year=1998|location=D-28436 Wolfsburg}}</ref>  Production of the first generation began in August 1979<ref name="ETKA">[[ETKA]]</ref> at the Wolfsburg plant.<ref>{{cite book|last=Grieger|first=Manfred|title=Volkswagen Chronicle Volume 7|publisher=Volkswagen AG, Group Communications, Corporate History Department|year=2003|location=Wolfsburg, Germany|page=107|isbn=3-935112-11-4}}</ref>  In [[Mexico]], the Mark 1 was known as the "Volkswagen Atlantic".
+
+The car was available as a two-[[car door|door]] [[sedan (automobile)|saloon/sedan]] (replacing the aging [[RR layout|rear-engined, rear-wheel drive]] [[Volkswagen Beetle]] 2-door sedan in the [[United States]] and [[Canada]]) and four-door saloon/sedan body styles, both of which shared a traditional three box shape.  Like the [[Volkswagen Golf Mk1]], its angular styling was penned at [[Italdesign Giugiaro|ItalDesign]], by [[Giorgetto Giugiaro]].  Styling differences could be found depending on the market.  In most of the world, the car was available with composite{{Clarify|date=August 2009}} [[headlamp|headlights]], while in the USA, it was only available with rectangular [[sealed beam]] lamps due to [[Federal Motor Vehicle Safety Standard 108]] (FMVSS 108).  The suspension setup was identical to the Golf and consisted of a [[MacPherson strut]] setup in front and a [[twist-beam rear suspension]] in the rear.  It shared its 2.4 metre (94.5 in) wheelbase with its hatchback counterpart, although overall length was up by 380 millimetres (15 in).  The capacity of the luggage compartment was 377 litres (13.3 ft<sup>3</sup>), making the Jetta reasonably practical.<ref>{{cite book|last=Robson|first=Graham|coauthors=Auto Editors of Consumer Guide|title=Volkswagen Chronicle|publisher =Publications International, Ltd.|year=1996|location=Lincolnwood, Illinois, USA|page=160|isbn=0-7853-1599-3}}</ref>  To distinguish the car from the Golf, interiors were made more upscale in all markets.<ref>{{cite book|last=Flammang|first=James M.|title=VOLKSWAGEN Beetles, Buses & Beyond|publisher=Krause Publications|year=1996|location=Iola, Wisconsin, USA|page=219|isbn=0-87341-419-5}}</ref>  This included velour seating and color coordinated sill to sill carpeting.
+
+Engine choices varied considerably depending on the local market.  Most were based on [[Volkswagen 827 engine|827 engines]] of the era.  Choices in [[petrol engine]]s ranged from a 1.1&nbsp;[[litre]] [[inline-four engine|four-cylinder]] engine producing {{convert|37|kW|PS bhp|0|lk=on}}, to a 1.8&nbsp;litre I4 which made {{convert|82|kW|PS bhp|0}} and {{convert|150|Nm|0|lk=on}} of torque.  Some cars were equipped with [[carburetor]]s, while others were [[fuel injection|fuel injected]] using [[Jetronic#K Jetronic|K]] or [[Jetronic#KE Jetronic|KE Jetronic]] supplied by [[Robert Bosch GmbH]].  [[Diesel engine]] choices included a 1.6&nbsp;litre making {{convert|37|kW|PS bhp|0}} and a [[turbocharged]] version of the same engine which produced {{convert|51|kW|PS bhp|0}} and {{convert|130|Nm|0}} of torque.
+[[Image:Volkswagen Jetta I Trumpington Road.JPG|thumb|left|Jetta (UK specification)]]
+
+Volkswagen briefly considered producing the Jetta in a plant located in [[Sterling Heights, Michigan]] in the USA.<ref>Robson, p.168</ref>  However, due to declining sales in North America, the decision was postponed and finally abandoned in 1982.<ref>Grieger, p. 92</ref>  [[Sterling Heights Assembly|The site]] was subsequently sold to [[Chrysler]] in 1983 and is still in operation as of 2009.<ref>{{cite web|authorlink=http://www.daimlerchrysler.com|title=Sterling Heights Assembly Plant|publisher=DaimlerChrysler|month=July|year=2006|url=http://www.daimlerchrysler.com/dccom/0-5-8793-1-36910-1-0-0-0-0-0-91-0-0-0-0-0-0-0-0.html|archiveurl=http://web.archive.org/web/20061017120906/http://www.daimlerchrysler.com/dccom/0-5-8793-1-36910-1-0-0-0-0-0-91-0-0-0-0-0-0-0-0.html|archivedate=2006-10-17|accessdate=2009-09-03}}</ref>  This generation was also produced in Bosnia under the joint venture Tvornica Automobila Sarajevo (TAS) for the [[Balkan]] area.<ref>{{citation|authorlink=http://www.GlobalAutoIndex.com|title=Volkswagen|url=http://web.archive.org/web/20070927193134/http://www.globalautoindex.com/maker.plt?no=1425|accessdate=2009-09-03}}</ref>
+
+===Safety===
+Volkswagen was an early adopter of passive restraint systems.  The first generation cars could be equipped with an "[[automatic seat belts|automatic]]" shoulder belt mounted to the door.  The idea was to always have the belt buckled thereby doing away with the requirement that the driver and passenger remember to buckle up.  Instead of a lap belt, the dashboard was designed with an integrated knee bar to prevent submarining underneath the shoulder belt.
+
+In crash tests conducted by the [[National Highway Traffic Safety Administration]], the Mark 1 received five out of five stars in a 56&nbsp;km/h (35&nbsp;mph) frontal crash test for both driver and passenger protection.<ref>{{cite web|authorlink=http://www.SafeCarGuide.com|title=NHTSA crash-test Archive|publisher=National Highway Traffic Safety Administration|year=1981|url=http://www.safecarguide.com/exp/archive/archive.htm|accessdate=2007-06-12}}</ref>
+
+===Testing and review===
+[[Image:'80-'84 Volkswagen Jetta Sedan.jpg|thumb|left|Jetta (North American specification)]]
+The first generation was met with generally positive reviews.  Testers found the car handled precisely, however the lack of power steering contributed to heavy steering when parking.<ref>{{citation|authorlink=http://www.ConsumerReports.org|title=Consumer Reports|page=290|date=June 1981}}</ref>  The brakes worked well for a car of the day, but some [[brake fade]] was evident.  The ride was taut but firm in the typical style of German cars, with large bumps being well absorbed by the suspension but smaller undulations coming through.  Reviews differed on noise levels, some found the car fairly quiet, while others thought the engine contributed to higher noise levels.<ref>{{citation|last=White|first=John R.|title=VW'S JETTA A NIFTY LITTLE PACKAGE|newspaper=Boston Globe|page=1|date=1980-06-15}}</ref>  Critics found the seating comfortable, but noted that the rear seat lacked sufficient head room.  Most major controls and displays such as the speedometer and climate controls were well liked, but some secondary switches were not well placed or intuitive.  The aforementioned automatic seat belts in some markets that were attached to the door frame made it impossible to forget to buckle the belt, but it was difficult to enter the car with a package in hand.  Writers liked that the luggage space was generous, especially for a car of its size.  Additionally, numerous storage areas also gave practicality to the sedan.  In one test, the car scored nearly as high as the more expensive [[Volkswagen Passat|Volkswagen Passat/Dasher]] and the [[Audi 80|Audi 80/4000]].<ref>CR, p.292</ref>
+
+The Volkswagen Atlantic was introduced in the Mexican market in February 1981.  The sole competition for the Atlantic in the Mexican market was the [[Renault 18]].  The Mark 1 continued to be manufactured and marketed in [[South Africa]] after the introduction of the Mark 2, badged as the "Fox".<ref>{{cite web|last= |first=Adam|coauthors=Conrad Baudin|title=South Africa's Volkswagen Fox|url=http://www.lunaticfringe.org/vwfox/specs/Fox-SouthAfrica.html|accessdate=2007-06-15}}</ref>{{-}}
+
+==Second generation (A2, ''Typ'' 16 (1985-1989), 1G (1990-1992){{anchors|A2|1G}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Jetta<ref name="Werner Oswald 2001. p. 72-87" /><ref name="Mike Covello 2002. p. 826-829" /><br />(A2, ''Typ'' 1G)
+|image         = [[Image:JettaMkII.JPG|250px]]<br />''1985 Volkswagen Jetta Mk2''
+|production    = 1984–1992<br />1991-present ([[People's Republic of China|China]])<br />1,708,390 built<ref>Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 3. Motorbuch Verlag Stuttgart 2001. ISBN 3-613-02116-1, p. 86-87.</ref><ref>Eberhard Kittler:'' Deutsche Autos seit 1990'', vol. 5. Motorbuch Verlag, Stuttgart 2001. ISBN 3-613-02128-5, p. 224. ''Note: 1984-1989 German production only, 1990-1992 worldwide deliveries''.</ref>
+|assembly      = [[Changchun]], [[People's Republic of China|China]]<br />[[Chengdu]], China<br />[[Lagos]], [[Nigeria]]<br />[[Puebla, Puebla|Puebla]], [[Mexico]]<br />[[Sarajevo]], [[Bosnia and Herzegovina]]<br />[[Uitenhage]], [[South Africa]]<br />[[Westmoreland County, Pennsylvania|Westmoreland]], [[USA]]<br />[[Wolfsburg]], [[Germany]]
+|body_style    = 2-door [[sedan (automobile)|saloon/sedan]]<br />4-door saloon/sedan
+|platform      = [[Volkswagen Group A platform#A2|Volkswagen Group A2]]
+|engine        = '''''Europe and RoW''''':<br />'''[[inline-four engine|I4]] [[petrol engine]]s'''
+
+1.3[[litre|L]] {{convert|55|PS|kW hp||abbr=on}}<br />
+1.6L {{convert|75|PS|kW hp||abbr=on}}<br />
+1.6L cat {{convert|70|PS|kW hp||abbr=on}}<br />
+1.8L {{convert|90|PS|kW hp||abbr=on}}<br />
+1.8L 4x4 {{convert|98|PS|kW hp||abbr=on}}<br />
+1.8L {{convert|112|PS|kW hp||abbr=on}}<br />
+1.8L cat {{convert|107|PS|kW hp||abbr=on}}<br />
+1.8L 16V {{convert|139|PS|kW hp||abbr=on}}<br />
+1.8L 16V cat {{convert|129|PS|kW hp||abbr=on}}<br />
+2.0L 100 kW (134 hp)<br />
+
+'''I4 [[diesel engine]]s'''<br />
+
+1.6L {{convert|54|PS|kW hp||abbr=on}}<br />
+1.6L {{convert|60|PS|kW hp||abbr=on}} ECOdiesel<br />
+1.6L {{convert|70|PS|kW hp||abbr=on}} [[turbodiesel|TD]]<br />
+1.6L {{convert|80|PS|kW hp||abbr=on}} TD<br /><br />
+
+'''''North America:'''''
+
+'''[[inline-four engine|I4]] [[gasoline engine]]s ([[Volkswagen EA827 engine|''EA827'']])'''
+
+1.8L {{Convert|85|hp|kW|0|abbr=on}} ([[model year|MY]] 1985-1987)<br />
+1.8L non-cat, Canada only{{Convert|95|hp|kW|0|abbr=on}} (MY 1985-1987)<br />
+1.8L GLI {{Convert|102|hp|kW|0|abbr=on}} (MY 1985-1987)<br />
+1.8L {{Convert|100|hp|kW|0|abbr=on}} (MY 1988-1992)<br />
+1.8L {{Convert|105|hp|kW|0|abbr=on}} (MY 1988-1992)<br />
+1.8L 16V {{Convert|123|hp|kW|0|abbr=on}} (MY 1987-1989)<br />
+2.0L 16V {{Convert|134|hp|kW|0|abbr=on}} (MY 1990-1992)<br />
+
+'''I4 [[diesel engine]] ([[Volkswagen EA827 engine|''EA827'']])'''
+
+1.6L Diesel {{Convert|59|hp|kW|0|abbr=on}} (MY 1985-1992)
+1.6L Turbo Diesel {{Convert|68|hp|kW|0|abbr=on}} (MY 1985-1992)
+1.6L ECODiesel {{Convert|62|hp|kW|0|abbr=on}} (MY 1991-1992)
+|transmission  = 4-speed [[manual transmission|manual]]<br />5-speed manual<br />3-speed [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2470|mm|1|abbr=on|lk=on}}
+|length        = 1985-88: {{convert|4346|mm|1|abbr=on}}<br />1989-92: {{convert|4385|mm|1|abbr=on}}
+|width         = {{convert|1680|mm|1|abbr=on}}<br />1985-88 base models: {{convert|1665|mm|1|abbr=on}}
+|height        = {{convert|1410|mm|1|abbr=on}}
+|layout       = [[Front-engine design|Front-engine]], [[front-wheel drive]]
+|weight        = 
+|fuel_capacity = 
+|related       = [[Volkswagen Golf Mk2]]
+|designer      = 
+|sp            = uk
+}}
+The Mark 2 series is the longest running Jetta so far.  Introduced to Europe in early 1984 and to [[North America]] in 1985, the second generation Jetta proved to be a sales success for Volkswagen.  The car secured the title of best-selling European car in North America, and outsold the similar Golf by two-to-one in that market.<ref>Robson, p. 182</ref>  Based on the all new second generation Golf platform, the car was larger, heavier, and could seat five people instead of four as in the Mark 1.  Exterior dimensions increased in all directions.  Overall length was up by 100 millimetres (3.9 in), the wheelbase grew 66 millimetres (2.6 in), and the width went up 53 millimetres (2.1 in).  The suspension setup was basically unchanged from the first generation, although refined slightly.  Aerodynamics improved considerably, with a [[drag coefficient]] of 0.36.<ref name="Smith">{{citation|last=Smith|first=David C.|title=Golf, Jetta much improved and, with them, VWA's hopes|newspaper=Ward's Auto World|date=December 1984}}</ref>  With a 470 litre (16.6 ft<sup>3</sup>) luggage compartment, the trunk had grown nearly as large as some full sized American sedans.<ref>{{citation|author-link=http://www.ConsumerReports.org|title=Consumer Reports|page=124|date=February 1986}}</ref>  Interior room was also increased 14%, which changed the [[United States Environmental Protection Agency|EPA]] class from sub-compact to compact.
+
+Cars built in Germany were assembled in a brand new (at the time) plant at Wolfsburg in Assembly Hall 54.  The plant was heavily robotised in an effort to make build quality more consistent.<ref>Robson, p. 186</ref>  New innovations on the second generation included an optional [[trip computer]] (sometimes referred to as the MFA), as well as silicone dampened engine and transmission mounts to reduce [[noise, vibration, and harshness]] levels.  In 1988, a more advanced fully electronic fuel injection system became available.  This arrangement is known as the [[Digifant Engine Management system]].
+[[Image:'85-'89 Volkswagen Jetta Coupe.JPG|thumb|left|1985-1989 Volkswagen Jetta coupé]]
+
+Like the Mark 1, the second generation was offered as a two-door or four-door saloon/sedan.  External changes throughout the series' run were few: the front-quarter windows were eliminated in 1988 (along with a grille and door trim change), and larger body-colored bumpers and lower side skirts were added from 1990.
+
+In 2007, [[Volkswagen Group of America|Volkswagen of America]] held a contest to find the diesel powered Volkswagen with the highest distance traveled on the original engine.<ref>{{cite press release|title=VOLKSWAGEN NOW ACCEPTING APPLICATIONS FOR OLDEST AND HIGHEST MILEAGE DIESEL VEHICLES|publisher=Volkswagen of America|date=2007-03-02|url=http://web.archive.org/web/20070928043752/http://media.vw.com/article_display.cfm?article_id=10089|accessdate =2009-09-03}}</ref>  The winning car was a 1986 Jetta Turbodiesel found in [[Blue Rock, Ohio]] which had {{convert|562000|mi}}.<ref>{{cite press release|title=VOLKSWAGEN DIESEL HERITAGE SEARCH FINDS HIGHEST MILEAGE DIESEL IN OHIO|publisher=Volkswagen of America|date=2007-08-23|url=http://www.vw.com/vwbuzz/browse/en/us/detail/Volkswagen_Diesel_Heritage_Search_finds_highest_mileage_diesel_in_Ohio/163|accessdate =2007-08-26}}</ref>  A local dealer verified the [[odometer]] reading.  Notable on this particular car was that it also had the original [[muffler]] despite being located in an area subject to [[road salt]] in the winter.
+
+===Safety===
+[[Image:VW Jetta rear 20071212.jpg|thumb|left|Jetta 4-door (German specification)]]
+In a crash test conducted by the National Highway Traffic Safety Administration, the Jetta received three out of five stars for both driver and passenger protection in a 56&nbsp;km/h (35&nbsp;mph) frontal crash test.  The Highway Loss Data Institute (part of the [[Insurance Institute for Highway Safety]]) found the injury and collision losses for the Jetta to be among the best of the small 4-door sedan category.<ref>{{cite news|title=Injury and Collision Loss Experience by Make and Model|page=3|publisher=Highway Loss Data Institute|date=September 1992|url=http://www.iihs.org/brochures/ictl/pdf/ictl_0992.pdf|archiveurl=http://web.archive.org/web/20070703214322/http://www.iihs.org/brochures/ictl/pdf/ictl_0992.pdf|archivedate=2007-07-03|format=PDF|accessdate=2009-09-03 |format=PDF}}</ref>  It was topped only by the Golf.  Earlier models had the dubious distinction of having an especially high rate of radio theft.<ref>{{cite news|title=Advisory|page=1|publisher=Insurance Institute for Highways Safety & Highway Loss Data Institute|date=February 1988|url=http://www.iihs.org/research/advisories/iihs_advisory_3.pdf|format=PDF|accessdate=2007-04-14 |format=PDF}}</ref>  Apparently, the mounting of the radio made it especially easy to remove quickly.  To correct the problem, Volkswagen introduced a theft protection system to all cars.  When the power supply to the radio was removed, it automatically went into "safe" mode.  When plugged back in, it would not work unless a secret code was entered.  This made it essentially useless to thieves, although provided a hassle to customers who misplaced their code card.
+
+===North America===
+The Jetta did not differ greatly from its European twin (at least as much as the Golf did), besides requirements such as bumpers, glass, etc. Also, North American models in general have a narrower range of specification available. For example, most models had things like a bigger engine, full console, door panel pockets, velour seating, and, later on, power steering, height adjustable steering column, and tachometer, standard. But they also lacked the higher level options that Europe generally got, like heated seats and washer nozzles (available in Canada), headlight washers, heated Recaro seats, 4 wheel drive, and the higher-output engines like the non-catalyst 8v and 16v, and G60 engines. The Jetta was perceived as slightly upmarket from the Golf, and thus the level of features always was a step above (standard passive restraint in 1988, standard power steering in 1990, 14" wheels available for most years, etc). 
+
+Canadian spec models were even more greatly equipped. Generally, the Canadian base models received the same level of options as an American GL, and the same with the GL and Carat. Other Canadian specification differences were diesel engines (both naturally aspirated and Turbo) available for all years (in the US, there was no diesel for 1988, and only the n/a for 1989 and 1990), a 2 door model for 1992 (it was dropped in the US), the early Carat model (which had heated velour sport seats, a GLi engine, and optional automatic), and color and trim differences.
+
+In North America, the following trim levels were as follows:
+*base: 1985-1990 (available in Canada until 1992)
+*GL: 1985-1992
+*Carat: 1985-1992 (Canada only 1985-1987)
+*GLI: 1985-1988 (1988 Canada only)
+*GLI 16v: 1987-1992
+
+Being such a popular model in North America, the Jetta Mk2 received several special editions to help boost sales even further. These included:
+*Wolfsbug Edition (1986, 1987, 1989, 1990, 1991)
+*Slalom (1988, Canada only)
+*Flair (1989, Canada only)
+*Flair 2 (1990, Canada only)
+*Pacific (1990, Canada only)
+*EcoDiesel (1991-1992, USA only)
+
+These were generally "package" options, meaning they were groups of kit that were applied to a base "model" (such as there being a Jetta GL Wolfsburg Edition as well as a Jetta GLI 16v Wolfsburg Edition in 1990). The amount of kit varied with the model and year. For example, the 1990 Jetta GL Wolfsburg Edition includes a 6 speaker stereo and alloy wheels. VW pushed this as a special, limited edition, though it was just the two options on top of a base Jetta GL (at a cost of $565 less then purchasing them separately). In other cases, the special editions got extras not normally available on other models, such as the 1986 Jetta GLI Wolfsburg Edition, which had heated leather seats (the only Mk2 in North America to do so), or the 1988 Jetta Wolfsburg Edition, which was a 2 door Jetta (normally reserved as the base model) with all the extras of a GLI (suspension, engine, transmission, and exterior styling). The other Canadian-specific models varied as well, but almost always included a few standard features, and usually their own custom interior trim and exterior graphics.
+
+===Testing and review===
+The car received generally positive reviews, with critics praising the car's excellent handling, as well as a roomier interior compared to the last generation.<ref name="Smith" />  Stiff shifting manual transmissions were a downside, and braking worked reasonably well although some brake fade was evident in the lower trim lines equipped with solid [[disc brake|discs]] in front and [[drum brake|drums]] in back.  A number of reviews noted that the ride was stiff and busy, even though it did have good control typical of German cars.  Despite additional sound insulation, road noise was evident especially on coarse pavement.<ref>Consumer Reports, February 1986</ref>  In top sport trim (sometimes called the GLI or GTX), some reviewers noted the car was a less expensive alternative to a BMW or Audi.<ref>{{citation|last=Jedlicka|first=Dan|title=Practically speaking, Volkswagen Jetta GLI at the top of its class|newspaper=Chicago Sun - Times|page=106|date=1986-08-07}}</ref>  The sport trim added larger wheels, a stiffer suspension, and closer ratios on the manual transmission.  Later models of the Mark 2 GLI had a 16&nbsp;valve dual cam engine, originally a 1.8&nbsp;litre engine and beginning in 1990 with the newer Mark 2 body style an upgrade to a 2.0&nbsp;litre 16&nbsp;valve.
+
+===Worldwide production===
+[[Image:VWJettaPeking2002Fram.jpg|Volkswagen Jetta King (China)|thumb|left]]
+Besides the Volkswagen production base in Germany, this generation was produced in a number of foreign countries, including China, Nigeria, Mexico, South Africa, USA, and the former Yugoslavia.  The Mark 2 Jetta went on to become the first Volkswagen model produced in [[People's Republic of China|China]] by [[Volkswagen Group China]]'s second joint venture partner [[FAW-Volkswagen]].  Production began on 5 December 1991.  Initially sold as [[complete knock down]] (CKD) kits, local manufacturing has gradually taken over in the form of Semi-Knocked Down kits in 1992, and full local production in 1995.<ref>{{cite web|authorlink=http://www.faw.com|title=International Cooperation|year=2006|url=http://www.faw.com/international/volkswagen2.jsp|accessdate=2007-04-14}}</ref>
+
+The car has had two revisions since its inception in China, the first [[facelift (automobile)|facelift]] borrowed spare grilles left around from the fourth generation [[Volkswagen Passat]] in 1997.  Production started in August 1998, and its name was changed to the Jetta King.  The second facelift was revealed in March 2004 (taking influences from Volkswagen's most expensive model, the [[Volkswagen Phaeton|Phaeton]].  On 29 July 2007, it was announced that First Automotive Works expanded its production of the Mark 2 Jetta by building a new assembly plant in [[Chengdu]], [[Sichuan|Sichuan Provence]] in Southwest China.<ref>{{citation|title=FAW Making Jetta in SW China|newspaper=SinoCast China Transportation Watch|date=2007-07-29|url=http://www.tmcnet.com/usubmit/-faw-making-jetta-sw-china-/2007/07/29/2820529.htm|accessdate= }}</ref>  The expansion is driven by the high demand for the car, a desire to expand in the western part of the country, as well as the long term goal of FAW to develop new derivatives from the car's platform independently of Volkswagen.{{-}}
+
+==Third generation (A3, ''Typ'' 1H){{anchors|A3|1H}}==
+{{Infobox Automobile generation
+|name             = Volkswagen Vento<br />(A3, ''Typ'' 1H)
+|image            = [[Image:96-98 Volkswagen Jetta.jpg|250px]]<br />''1996-1998 Volkswagen Jetta (US)''
+|aka              = Volkswagen Jetta 3
+|production_start = January 1992<ref name="ETKA"/>
+|production_end   = February 1999<ref name="ETKA"/>
+|assembly         = [[Osnabrück]],<ref name="ETKA"/>{{Request quotation|date=September 2009}} [[Germany]],<br />[[Puebla, Puebla|Puebla]],<ref name="ETKA"/> [[Mexico]]<br />[[Wolfsburg]],<ref name="ETKA"/> [[Germany]]
+|body_style       = 4-door [[sedan (automobile)|saloon/sedan]]
+|platform         = [[Volkswagen Group A platform#A3|Volkswagen Group A3]]
+|engine           = '''''[[Petrol engine]]s:'''''<ref name="ETKA"/><br />
+1.6L {{convert|55|kW|PS|0|abbr=on}} I4 (ABU/AEA/AEE)<br />
+1.6L {{convert|74|kW|PS|0|abbr=on}} I4 (AEK/AFT)<br />
+1.8L {{convert|55|kW|PS|0|abbr=on}} I4 (AAM)<br />
+1.8L {{convert|66|kW|PS|0|abbr=on}} I4 (ABS/ADZ/ADD)<br />
+2.0L {{convert|85|kW|PS|0|abbr=on}} I4 (2E/ADY/AGG)<br />
+2.8L {{convert|128|kW|PS|0|abbr=on}} [[VR6 engine|VR6]] 12v (AAA)<br />
+'''''[[Diesel engine]]s:'''''<ref name="ETKA"/><br />
+1.9L {{convert|47|kW|PS|0|abbr=on}} I4 (1Y)<br />
+1.9L {{convert|47|kW|PS|0|abbr=on}} I4 [[Suction Diesel Injection|SDI]] (AEY)<br />
+1.9L {{convert|55|kW|PS|0|abbr=on}} I4 Turbo (AAZ)<br />
+1.9L {{convert|66|kW|PS|0|abbr=on}} I4 [[Turbocharged Direct Injection|TDI]] (1Z/AHU)<br />
+1.9L {{convert|81|kW|PS|0|abbr=on}} I4 TDI (AFN)
+|transmission     = 5-speed [[manual transmission|manual]]<br />4-speed [[automatic transmission|automatic]]<br />
+|wheelbase        = {{convert|2470|mm|1|abbr=on|lk=on}}
+|length           = {{convert|4400|mm|1|abbr=on}}
+|width            = {{convert|1690|mm|1|abbr=on}}
+|height           = {{convert|1430|mm|1|abbr=on}}
+|weight           = 
+|fuel_capacity    = 
+|layout       = [[Front-engine design|Front-engine]], [[front-wheel drive]]
+|related          = [[Volkswagen Golf Mk3]]
+|designer         = [[Herbert Schafer]]
+|sp               = uk
+}}
+For the 3rd generation, the Jetta name was discontinued, and it was officially re-named the Volkswagen Vento in Germany, and all other European countries.  Again, following the precedent of naming cars for winds, the "[[wikt:vento|Vento]]" (as it was known in most of the world) debuted in 1992, while the Jetta 3 debuted in North America in 1993 after production delays and quality problems at the Volkswagen plant in Puebla, Mexico.<ref name="Robson, p. 208">Robson, p. 208</ref>  The name Vento means wind in both [[Portuguese language|Portuguese]] and [[Italian language|Italian]].  Because of the success of the second generation in North America, Volkswagen decided to keep the Jetta nameplate.  However, in Europe the car was given its new name to appeal to a younger market.<ref>{{cite news|last=Plumb|first=Steven E.|title=VW Jetta replacement coming next fall|publisher=Ward's Auto World|date=March 1992}}</ref> 
+[[Image:JettaMkIII Interior.JPG|thumb|left|Interior]]
+Styling was penned by a design team led by Herbert Schafer, and again the car became more aerodynamic than the previous generation.  Although visually similar to the Mark 2, there were many refinements underneath.  The two-door model was dropped, aerodynamics were improved, with the car now having a drag coefficient of 0.32.<ref>{{citation|last=Visnic|first=Bill|title=VW's new Golf, Jetta try for a comeback|newspaper=Ward's Auto World|date=December 1993}}</ref>  This included a new structure which now met worldwide crash standards.<ref>Robson, p. 202</ref>  Suspensions were an evolutionary rather than revolutionary refinement of the setup on previous editions.  In addition, the car became more environmentally friendly with the use of recycled plastics, [[haloalkane#chlorofluoro compounds (CFC, HCFC)|CFC]]-free air conditioning systems, and paint that did not contain [[heavy metals]].<ref>{{cite book|authorlink=http://www.vw.com|title=Volkswagen Jetta|publisher=Volkswagen of America|year=1993|location=Auburn Hills, Michigan, USA|page=17|id=Form No. W63 163 6081}}</ref>
+
+This generation of the car is widely credited for keeping Volkswagen from pulling out of the North American market.<ref name="Robson, p. 208" /><ref>{{citation|last=Jedlicka|first=Dan|title=Golf and Jetta Drive Revival in VW Sales|newspaper=Chicago Sun - Times|page=18|date=1994-03-05}}</ref>  At the time of its introduction in 1993, Volkswagen of America's sales hit a low not seen since the 1950s.  The division sold only 43,902 cars in that year.  Sales began slowly due to the aforementioned issues at the Puebla plant.<ref>{{citation|title=Can Herbie ride again?|newspaper=The Economist|page=66|date=1994-04-23}}</ref>  However, sales rebounded dramatically in the following years, mostly based on the strength of the Jetta, which continued to be the best selling Volkswagen in the USA.<ref name="Robson, p. 210">Robson, p. 210</ref>
+
+===Safety===
+[[Image:93-95 Volkswagen Jetta.jpg|thumb|left|1993-1995 Jetta (US)]]
+When equipped with dual [[airbag]]s, the Mark 3 received three out of five stars in a 56&nbsp;km/h (35&nbsp;mph) frontal crash test carried out by the National Highway Traffic Safety Administration.<ref>{{cite web|authorlink=http://www.nhtsa.gov|title=1995 Volkswagen Jetta III 4-DR.|publisher=National Highway Traffic Safety Administration|year=1995|url=http://www.safercar.gov/NCAP/Cars/606.html|archiveurl=http://web.archive.org/web/20080205235737/http://www.safercar.gov/NCAP/Cars/606.html|archivedate=2008-02-05|accessdate=2009-09-03}}</ref>  In a 64&nbsp;km/h (40&nbsp;mph) frontal offset crash test conducted by the Insurance Institute for Highway Safety, the car received a score of "Marginal".<ref>{{cite web|authorlink=http://www.iihs.org|title=Frontal offset test results|publisher=Insurance Institute for Highway Safety|year=1994|url=http://www.iihs.org/ratings/rating.aspx?id=83|accessdate=2007-04-15}}</ref>
+
+===Testing and review===
+Newly available on the third generation was [[Volkswagen Group]]'s 1.9&nbsp;[[litre]] [[Turbocharged Direct Injection]] (TDI) {{convert|67|kW|PS bhp|0|lk=on}} [[diesel engine]].  Fuel economy was a strong point with ratings of {{convert|5.7|L/100 km|abbr=on}} [[driving cycle|urban cycle]] and {{convert|4.8|L/100 km|abbr=on}} extra urban.  In top trim lines, the 2.8&nbsp;litre [[VR6 engine|VR6]] [[DOHC]] six-cylinder engine was available.  In one car magazine's test, the {{convert|128|kW|PS bhp|0}} power plant was able to accelerate the car from 0 to 97&nbsp;[[Kilometers per hour|km/h]] (60&nbsp;[[Miles per hour|mph]]) in 6.9 [[second]]s.<ref name="Robson, p. 210" />
+[[Image:VW Vento rear 20071212.jpg|Vento (German specification)|thumb|left]]
+
+Reviews were generally positive, with testers praising the crisp handling and comfortable ride, as well as a greater level of refinement compared with the previous generation.<ref>{{citation|last=Noble|first=Richard C.|title=Jetta III continues tradition with tighter body, crisper handling|newspaper=The Grand Rapids Press.|pages=C.07|date=1994-05-04}}</ref>  However, some reviews noted that the more sporty suspension tuning found in some trims made the car bouncy, especially on the [[expressway]].<ref>{{citation|authorlink=http://www.ConsumerReports.org|title=Consumer Reports|page=669|date=November 1994}}</ref>  The [[manual transmission]] shifted crisply; however, the [[automatic transmission]] reduced acceleration noticeably.  Some critics complained that the controls had some quirks, including a cryptic windshield wiper control.  If equipped, power window controls had the unusual arrangement of the front buttons located on the door, while the rear buttons were located on the center console.  As with previous generations, the luggage compartment provided generous space.  However, unlike previous cars, the rear seat was able to fold forward in order to expand luggage space further.  In earlier build cars, the [[glove compartment]] was deleted if the car was equipped with dual [[airbag]]s.  There were also some complaints about the lack of cup holders in the earlier cars, as well as the lack of a safety interlock which would require the driver to press the clutch pedal prior to starting the car. The 1994 through 1996 models of the Jetta however, did have some electrical issues causing the car not to start and shorting to occur in some of the electrical device, all this due to a non existent plastic V underneath the windshield which was added in later models to divert water flowing to the electrical box.<ref>{{citation|last=Truett|first=Richard|title=JETTA III GLS DELIVERS WITH SOLID PERFORMANCE|newspaper=Orlando Sentinel|pages=F.1|date=1994-04-14}}</ref>
+
+===Specifications <ref>Volkswagen Vento owner's manual, January 1994 {{da icon}}</ref><ref>Volkswagen Vento owner's manual, August 1995 {{da icon}}</ref> ===
+{| class="wikitable" border="1" style="text-align:center; font-size:91%;"
+|-
+! Model
+! Years
+! colspan="2"|Engine and code
+! Displ.
+! Power
+! Torque
+|-
+! 1.6
+| 1992–1994 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group petrol engines#1.6 55kW|ABU]] || 1598 cc || {{convert|55|kW|PS hp|0|abbr=on}} @ 5200 rpm || {{convert|126|Nm|lb.ft|abbr=on}} @ 2600 rpm
+|-
+! 1.6
+| 1994–1995 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group petrol engines#1.6 55kW|AEA]] || 1598 cc || {{convert|55|kW|PS hp|0|abbr=on}} @ 5200 rpm || {{convert|128|Nm|lb.ft|abbr=on}} @ 2800 rpm
+|-
+! 1.6
+| 1995–1997 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group petrol engines#1.6 55kW|AEE]] || 1598 cc || {{convert|55|kW|PS hp|0|abbr=on}} @ 4800 rpm || {{convert|135|Nm|lb.ft|abbr=on}} @ 2800–3600 rpm
+|-
+! 1.6
+| 1994–1995 || [[straight-4|I4]] 8V || [[List of Volkswagen Group petrol engines#1.6 74-77kW|AEK]] || 1595 cc || {{convert|74|kW|PS hp|0|abbr=on}} @ 5800 rpm || {{convert|135|Nm|lb.ft|abbr=on}} @ 4400 rpm
+|-
+! 1.6
+| 1995–1998 || [[straight-4|I4]] 8V || [[List of Volkswagen Group petrol engines#1.6 74-77kW|AFT]] || 1595 cc || {{convert|74|kW|PS hp|0|abbr=on}} @ 5800 rpm || {{convert|140|Nm|lb.ft|abbr=on}} @ 3500 rpm
+|-
+! 1.8
+| 1992–1998 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group petrol engines#1.8 55-72kW|AAM]] || 1781 cc || {{convert|55|kW|PS hp|0|abbr=on}} @ 5000 rpm || {{convert|140|Nm|lb.ft|abbr=on}} @ 2500 rpm
+|-
+! 1.8
+| 1992–1998 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group petrol engines#1.8 55-72kW|ABS/ADZ/ADD]] || 1781 cc || {{convert|66|kW|PS hp|0|abbr=on}} @ 5500 rpm || {{convert|145|Nm|lb.ft|abbr=on}} @ 2500 rpm
+|-
+! 2.0
+| 1992–1995 || [[straight-4|I4]] 8V || [[List of Volkswagen Group petrol engines#2.0 80-88kW|2E/ADY/ABA]] || 1984 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 5400 rpm || {{convert|166|Nm|lb.ft|abbr=on}} @ 3200 rpm
+|-
+! 2.0
+| 1995–1998 || [[straight-4|I4]] 8V || [[List of Volkswagen Group petrol engines#2.0 80-88kW|AGG]] || 1984 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 5400 rpm || {{convert|166|Nm|lb.ft|abbr=on}} @ 2600 rpm
+|-
+! 2.8 VR6
+| 1992–1998 || [[VR6 engine|VR6]] 12V || [[List of discontinued Volkswagen Group petrol engines#2.8 VR6 12v 128kW|AAA]] || 2792 cc || {{convert|128|kW|PS hp|0|abbr=on}} @ 5800 rpm || {{convert|235|Nm|lb.ft|abbr=on}} @ 4200 rpm
+|-
+! 1.9 D
+| 1992–1998 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group diesel engines#1.9 D 47kW|1Y]] || 1896 cc || {{convert|47|kW|PS hp|0|abbr=on}} @ 4400 rpm || {{convert|124|Nm|lb.ft|abbr=on}} @ 2000–3000 rpm
+|-
+! 1.9 [[Suction Diesel Injection|SDI]]
+| 1995–1998 || [[straight-4|I4]] 8V || [[List of Volkswagen Group diesel engines#1.9 SDI 44-50kW|AEY]] || 1896 cc || {{convert|47|kW|PS hp|0|abbr=on}} @ 4200 rpm || {{convert|125|Nm|lb.ft|abbr=on}} @ 2200–2800 rpm
+|-
+! 1.9 [[Turbodiesel|TD]]
+| 1992–1998 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group diesel engines#1.9 TD 55kW|AAZ]] || 1896 cc || {{convert|55|kW|PS hp|0|abbr=on}} @ 4200 rpm || {{convert|150|Nm|lb.ft|abbr=on}} @ 2400–3400 rpm
+|-
+! 1.9 [[Turbocharged Direct Injection|TDI]]
+| 1993–1998 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group diesel engines#1.9 TDI 66-81kW|1Z/AHU]] || 1896 cc || {{convert|66|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|202|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 1.9 [[Turbocharged Direct Injection|TDI]]
+| 1996–1998 || [[straight-4|I4]] 8V || [[List of discontinued Volkswagen Group diesel engines#1.9 TDI 66-81kW|AFN]] || 1896 cc || {{convert|81|kW|PS hp|0|abbr=on}} @ 4150 rpm || {{convert|235|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|}
+
+==Fourth generation (A4, ''Typ'' 1J){{anchors|A4|1J}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Bora<br />(A4, ''Typ'' 1J)
+|image         = [[Image:VW Jetta sedan.jpg|250px]]<br />''1999-2001 Volkswagen Jetta (U.S.)''
+|aka           = Volkswagen Jetta<br />Volkswagen City Jetta<br />(Jetta City in 2009) <br />Volkswagen Bora Classic Edition(China)
+|production    = 1998–2005 - Europe<br />1999–present - China & Mexico
+|assembly      = [[Bratislava]],<ref name="ETKA"/> [[Slovakia]]<br />[[Changchun]],<ref name="ETKA"/> [[People's Republic of China|China]]<br />[[Poznan]],<ref name="ETKA"/> [[Poland]]<br />[[Puebla, Puebla|Puebla]],<ref name="ETKA"/> [[Mexico]]<br />[[Solomonovo]], [[Ukraine]]<br />[[Uitenhage]],<ref name="ETKA"/> [[South Africa]]<br />[[Wolfsburg]],<ref name="ETKA"/> [[Germany]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br />4-door [[station wagon|estate/wagon]]
+|platform      = [[Volkswagen Group A platform#A4 (PQ34)|Volkswagen Group A4 (PQ34)]]
+|engine        = '''''[[Petrol engine]]s:'''''<br />[[list of Volkswagen Group petrol engines#1.4|1.4L 55 kW]] [[inline-four engine|I4]]<br />[[list of Volkswagen Group petrol engines#1.6|1.6L 74 kW]] I4<br />[[list of Volkswagen Group petrol engines#1.6 16v|1.6L 77 kW]] I4 16v<br />[[list of Volkswagen Group petrol engines#1.8 20vT|1.8L 110 kW]] I4 [[turbocharger|Turbo]]<br />1.8L 134 kW I4 Turbo<br />[[list of Volkswagen Group petrol engines#2.0|2.0L 85 kW]] I4<br />[[list of Volkswagen Group petrol engines#2.3 VR5|2.3L 110 kW]] [[VR6 engine|VR5]]<br />[[list of Volkswagen Group petrol engines#2.3 VR5|2.3L 125 kW]] VR5<br />[[list of Volkswagen Group petrol engines#2.8 VR6 12v 128kW|2.8L 128 kW]] VR6 12v<br />2.8L 130 kW VR6 12v<br />[[list of Volkswagen Group petrol engines#2.8 VR6 24v 150kW|2.8L 150 kW]] VR6 24v<br />
+'''''[[Diesel engine]]s:'''''<br />1.9L 50 kW I4 [[Suction Diesel Injection|SDI]]<br />[[list of Volkswagen Group diesel engines#1.9 TDI 66kW|1.9L 66 kW]] I4 [[Turbocharged Direct Injection|TDI]]<br />1.9L 75 kW I4 TDI<br />1.9L 81 kW I4 TDI<br />1.9L 85 kW I4 TDI<br />1.9L 96 kW I4 TDI<br />1.9L 110 kW I4 TDI
+|transmission  = 5-speed [[manual transmission|manual]]<br />6-speed manual<br />4-speed [[Volkswagen 01M transmission|01M]] [[automatic transmission|automatic]]<br />5-speed automatic<br />
+|wheelbase     = saloon: {{convert|2510|mm|1|abbr=on|lk=on}}<br />estate: {{convert|2520|mm|1|abbr=on}}
+|length        = saloon: {{convert|4380|mm|1|abbr=on}}<br />estate: {{convert|4410|mm|1|abbr=on}}
+|width         = {{convert|1730|mm|1|abbr=on}}
+|height        = saloon: {{convert|1440|mm|1|abbr=on}}<br />estate: {{convert|1490|mm|1|abbr=on}}<br />'08 City Jetta sedan: {{convert|1445|mm|1|abbr=on}}
+|weight        = 
+|fuel_capacity = 
+|related       = [[Volkswagen Golf Mk4]]<br />[[Audi A3]] Mk1<br />[[SEAT León]] Mk1<br />[[SEAT Toledo]] Mk2<br />[[Škoda Octavia]] Mk1
+|designer      = 
+|layout       = [[Front-engine design|Front-engine]], [[front-wheel drive]] / [[four-wheel drive]]
+|sp            = uk
+}}
+Production of the fourth generation car began in July 1998.<ref>Grieger, p. 168</ref>  Carrying on the wind nomenclature, the car was known as the [[Bora (wind)|Bora]] in much of the world.  Bora is a winter wind which blows intermittently over the coast of the [[Adriatic Sea]], as well as in parts of [[Greece]], [[Russia]], [[Turkey]], and in the Sliven region of Bulgaria.  In North America and South Africa, the Jetta moniker was again kept on due to the continued popularity of the car in those markets.
+[[Image:VW Bora front 20071012.jpg|Bora (German specification)|thumb|left]]
+
+The Mk4 debuted shortly after its larger sibling, the Passat, with which it shared many styling cues.  The rounded shape and arched roofline served as the new Volkswagen styling trademark, abandoning traditional sharp creases for more curved corners.  For the first time, the rear passenger doors differed from those of a 5-door Golf.  The car was also offered as a [[station wagon|estate/wagon]] (whose rear doors are also non-interchangeable with the others).  New on this generation were some advanced options such as rain sensor controlled windshield wipers and automatic climate control.
+[[Image:04-05 Volkswagen Jetta sedan.jpg|thumb|left|2004-2005 Volkswagen Jetta sedan (US)]]
+
+Although slightly shorter overall than the Mark 3, the fourth generation saw the wheelbase extended slightly.  Some [[powertrain]] options were carried over.  Nevertheless, two new [[internal combustion engine]]s were offered, the [[list of Volkswagen Group petrol engines#1.8 20vT|1.8 litre turbo]] 4-cylinder (often referred to as the 1.8&nbsp;20vT), and the [[VR5 engine|VR5]] (a 5-cylinder derivative of the VR6 engine).  The suspension setup remained much as before.  However, it was softened considerably in most models to give a comfortable ride, which was met with some criticism.<ref name="evo.co.uk">{{cite web|last=Simister|first=John|coauthors=Andy Morgan|title=VW Golf 2.0 FSI|work=evo Car Reviews|publisher=Dennis Publishing Limited|month=October|year=2003|url=http://www.evo.co.uk/carreviews/evocarreviews/41365/vw_golf_20_fsi.html|accessdate=2007-05-29}}</ref>
+[[Image:VW Bora Variant rear 20071030.jpg|Europe-spec Volkswagen Bora TDI estate|thumb|left]]
+
+In 2004, a new range of "Pumpe-Düse" [[Unit Injector]] [[diesel engine]]s were offered.  This new design employed advanced unit injectors, along with additional electronics and emissions equipment to meet new air emissions standards in Europe and North America, and is considerably more complex than the older diesel engines previously offered.  To accomplish the task of producing sufficient power while meeting emissions standards, the "PD" technology injects fuel directly into the [[combustion chamber]] at pressures up to an incredibly high 2,050&nbsp;[[bar (unit)|bar]] (30,000&nbsp;psi).<ref>{{cite press release|title=Volkswagen Diesel Technology|publisher=Volkswagen AG|date=2004-04-07|url=http://web.archive.org/web/20071130063613/http://media.vw.com/article_display.cfm?article_id=9386|accessdate=2009-09-03}}</ref>  The purpose of the high pressure is to promote fine [[atomisation]] of the fuel which supports more complete combustion.  To reduce noise, the engine employs a "pilot injection" system which injects a small amount of fuel prior to the main injection.  All of the new generation of diesel engines require a special [[motor oil]] which meets Volkswagen oil specification 505.01 (or newer).  Serious damage to the engine, particularly the camshaft and injectors will result if oil not meeting this standard is used.
+
+===Safety===
+Safety on the fourth generation cars was a high priority for Volkswagen.<ref>Grieger, p. 150</ref>  The car was built using such advanced processes as highly mechanised presses, improved measuring techniques, and laser welding of the roof.  In crash tests, the fourth generation car received very good marks.  In the New Car Assessment Program tests conducted by the National Highway Traffic Safety Administration, the car received five out of five stars for both driver and passenger protection in a 56&nbsp;km/h (35&nbsp;mph) frontal impact.<ref>{{cite web|authorlink=http://www.nhtsa.gov|title =NCAP ratings for tested vehicles
+|publisher =National Highway Traffic Safety Administration|year =2000|url=http://www.safercar.gov/NCAP/Cars/1490.html|archiveurl=http://web.archive.org/web/20080205235640/http://www.safercar.gov/NCAP/Cars/1490.html|archivedate=2008-02-05|accessdate =2009-09-03}}</ref>  New side impact tests at 62&nbsp;km/h (38.5&nbsp;mph) awarded the car four out of five stars for both driver and rear seat passenger protection.  In the more severe 64&nbsp;km/h (40&nbsp;mph) offset test conducted by the Insurance Institute for Highway Safety, the Mark 4 was awarded the highest score of "Good".<ref>{{cite web|authorlink=http://www.iihs.org|title=Frontal Offset Test|publisher=Insurance Institute for Highway Safety|year=1999|url=http://www.iihs.org/ratings/rating.aspx?id=113|accessdate=2007-04-15}}</ref>  Injury, collision, and theft losses were low for a car of its class.<ref>{{cite web|authorlink =http://www.iihs.org|title =Injury, Collision, & Theft Losses|publisher=Highway Loss Data Institute|month=September|year=2005|url=http://www.iihs.org/brochures/ictl/pdf/ictl_0905.pdf|archiveurl=http://web.archive.org/web/20070508102422/http://www.iihs.org/brochures/ictl/pdf/ictl_0905.pdf|archivedate=2007-05-08|format=PDF|accessdate=2009-09-03|format=PDF}}</ref>
+
+===Testing and review===
+Critics usually found the fourth generation to their liking.  The car was praised for its sure-footed handling as well as a comfortable ride.<ref>{{citation|last=Brown|first=Warren|title=A Car to Touch the Soul|newspaper=The Washington Post|pages=C.25|date=1999-01-10}}</ref>  Other reviewers noted the car to be an attractive but somewhat expensive choice in the compact car segment.<ref>{{citation|authorlink=http://www.ConsumerReports.org|title=Consumer Reports|page=55|date=May 1999}}</ref>  However, some complaints were made that the back seat lacked adequate room for two adults.<ref>{{citation|last=Harper|first=Brian|title=Jetta TDI, the miser: Review|newspaper=National Post|pages=E.12|year=1999|month=October}}</ref>  Also, some found the cushion was too firm.  The interior of the car was universally praised for the high level of fit, finish, and materials quality.  Critics noted it was reminiscent of much more expensive cars.<ref>{{citation|last=Kenzie|first=Jim|title=Well-dressed Jetta wagon worth $37,000|newspaper=Toronto Star|pages=G.23|date=2004-09-11}}</ref>  New in this generation was Volkswagen's signature blue and red instrument lighting which became standard across the lineup in 1999.  The placement of the climate controls low on the console was also met with some criticism.  Flimsy cupholders were placed directly above the stereo, thus obscuring vision of the stereo [[liquid crystal display|LCD]].  However, this problem was rectified on later Mk4 models.
+
+The earlier models have a few quality control issues, as a number of owners reported windows falling into the doors, electrical problems, and emissions system defects.<ref>{{cite web|authorlink=http://www.ConsumerAffairs.com|title=Volkswagen Jetta Windows|date=2003-2007|url=http://www.consumeraffairs.com/automotive/vw_jetta_window.html|accessdate=2007-04-15}}</ref><ref>{{cite web|authorlink=http://www.ConsumerAffairs.com|title=VW Fined $1.1 Million for Clean Air Violations|date=2005-06-15|url=http://www.consumeraffairs.com/news04/2005/vw_epa.html|accessdate=2007-04-15}}</ref>  The fourth generation takes approximately 52 hours per vehicle to assemble in the Puebla factory.<ref name="harbourinc.com">{{cite press release|title=Harbour Report|publisher=Harbour Consulting Inc.|date=2007-05-31|url=http://web.archive.org/web/20070703214323/http://www.harbourinc.com/documents/2007PressRelease.pdf|format=PDF|accessdate=2009-09-03|format=PDF}}</ref>  In contrast, General Motors [[Spring Hill Manufacturing|Spring Hill Assembly Plant]] took approximately 18 hours to build a [[Saturn Ion]], a car similar in size to the Mk4.
+
+===Estate (station wagon)===
+[[Image:Volkswagen Jetta wagon.jpg|thumb|left|Jetta wagon (US)]]
+Volkswagen introduced an estate/station wagon version of the fourth generation car in January 2001 at the [[Los Angeles Auto Show]].<ref>{{citation|last=Williams III|first=G. Chambers|title=Definitely not your father's . . . . . . station wagon|newspaper=Milwaukee Journal Sentinel|pages=01.S|date=2001-03-02}}</ref>  This was the first time an "A" platform Volkswagen was available in North America with that body style.  Although the saloon/sedan was built in a number of locations, all Jetta estate models were built in the Wolfsburg plant.<ref>{{citation|title=Volkswagen of America Concentrates on Process Rolls out new, dealer-friendly distribution system|date=January 2002|url=http://web.archive.org/web/20070417093539/http://glscs.com/archives/1.02.smith.htm?adcode=30|accessdate=2009-09-03}}</ref>  In back, 963 [[litre]]s (34 ft<sup>3</sup>) of space was available in the cargo compartment.  When the rear seats were folded, the car could hold 1473 litres (52 ft<sup>3</sup>).  Like the saloon/sedan, the estate/wagon received high marks from most reviewers.<ref>{{citation|authorlink=http://www.ConsumerReports.org|title=Consumer Reports|date=August 2002}}</ref><ref>{{citation|title =JETTA WAGON: FUN, WITH SOME GLITCHES|newspaper=Pittsburgh Post-Gazette|pages=C.2|date=2003-07-11}}</ref>  They noted that the cargo area was large and useful.  Additionally, the interior kept its top quality fit and finish, although the rear seat was still a bit small.
+
+In Europe, the estate version was sometimes sold as part of the Golf line, either in addition to or instead of the Bora.  Other than different front bumpers, fenders, headlights, and hood, the cars were identical.
+
+===Ongoing production===
+[[Image:Red08CityJetta.JPG|thumb|left|2008 Volkswagen City Jetta (Canada)]]
+As of 2009, the fourth generation car is still sold in addition to the newer Mark 5, due to higher pricing of the fifth generation in some countries such as Colombia, China, Canada, Brazil and Argentina. Like its second generation predecessor, the Mark 4 continues to be manufactured and marketed in China by Volkswagen Group's joint venture partner [[FAW-Volkswagen]] China.
+
+In China, the car received a facelift in the summer of 2006, with a [[Volkswagen Passat|Passat]] Mk5 lookalike face.  A hatchback version (i.e. the Golf) is also produced, but is badged as the Bora HS.<ref>{{cite web|authorlink=http://www.Auto-Power-Girl.com|title=Volkswagen FAW Bora HS 1.6 Chinese Version|url=http://www.auto-power-girl.com/cars-2007/volkswagen-specifications/volkswagen_faw_bora_hs_1_6_chinese_version-1354|accessdate=2007-04-22}}</ref>  The model available in Mexico, Canada, Brazil and Argentina for 2008 was likewise facelifted with the same design found in China.
+
+In October 2006, Volkswagen re-released the fourth generation car in [[Canada]] (for the 2007 model year) as the City Jetta.<ref>{{citation|last=Wilson|first=Greg|title=Preview: 2007 Volkswagen City Golf & City Jetta|newspaper=Canadian Driver|date=2006-09-20|url=http://www.canadiandriver.com/testdrives/07citygolfjetta.htm}}</ref>  The move was made to allow Volkswagen to be more competitive with the rest of the compact class as the fifth generation Jetta had moved upscale versus much of the competition.  In 2008, the car was restyled to bring its looks up to date with the rest of the Volkswagen lineup.  The only engine available is the 2.0&nbsp;litre 8-valve [[SOHC]] {{convert|86|kW|PS bhp|0|lk=on}} gasoline four cylinder with an available six-speed [[tiptronic]] (with Sport mode) that was added as an option in 2008. In 2009, both model names were changed to Jetta City and Golf City. The Jetta City will be discontinued after 2009 while the Golf City will be sold until the end of 2010.
+
+In Mexico, the 4th generation Jetta has been their most successful model for years, peaking in June 2009 on the top 1 and being fourth as of October 2009, just below Nissan's [[Nissan Sentra|Tsuru]] (Sentra B13), Chevrolet's [[Opel Corsa|Chevy]] (Opel Corsa B) and the Brazilian Volkswagen Gol. Nevertheless, it is the best selling compact car in the country. Volkswagen decided to keep sales along with the Bora (Jetta V, which is the fifth best seller) with the tagline ''Why do we want a Jetta? Because the heart gives no reasons''.
+The City Jetta is built alongside the fifth generation in the Puebla Assembly Plant.
+
+In Mexico, a 1.8&nbsp;litre {{convert|178|hp|kW|0|abbr=on}} turbo and a TDI 1.9&nbsp;L {{convert|100|hp|kW|0|abbr=on}} engine are available.
+
+The Chinese model received further modifications in 2009, marketed as the New Bora with the wheelbase increased to {{convert|2610|mm|1}}.{{-}}
+
+==Fifth generation (A5, ''Typ'' 1K){{anchors|A5|1K}}==<!-- This section is linked from [[Volkswagen Golf Mk5]] -->
+{{Infobox Automobile generation
+|name          = Volkswagen Jetta<br />(A5, ''Typ'' 1K)
+|image         = [[Image:JettaMkV.JPG|250px]]<br />''2006 Volkswagen Jetta 2.5''
+|aka           = Volkswagen Bora<br />Volkswagen GLI<br />Volkswagen Sagitar<br />Volkswagen Vento<br />Volkswagen Golf Wagon (Canada, 2010-)
+|production    = 2005–2010
+|assembly      = [[Changchun]], [[People's Republic of China|China]]<br />[[Puebla, Puebla|Puebla]], [[Mexico]]<br />[[Uitenhage]], [[South Africa]]<br />[[Aurangabad, Maharashtra|Aurangabad]], [[India]] (CKD)<br />[[Kaluga]], [[Russia]] (CKD)
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br />4-door [[station wagon]]
+|platform      = [[Volkswagen Group A platform#A5 (PQ35)|Volkswagen Group A5 (PQ35)]]
+|layout       = [[Front-engine design|Front-engine]], [[front-wheel drive]] / [[four-wheel drive]]
+|engine        = '''''[[Petrol engine]]s:'''''<br />
+[[list of Volkswagen Group petrol engines#1.6|1.6L 75 kW (100 hp) I4]]<br /> 
+[[list of Volkswagen Group petrol engines#1.6 FSI|1.6L 85 kW (115 hp) FSI I4]]<br />
+[[list of Volkswagen Group petrol engines#2.0 80-86kW|2.0L 85 kW (115 hp) 8V I4]]<br />
+[[list of Volkswagen Group petrol engines#2.0 FSI|2.0L 110 kW (150 hp) FSI I4]]<br />
+[[list of Volkswagen Group petrol engines#BGP|2.5L 110 kW (150 hp) I5]]<br />
+[[list of Volkswagen Group petrol engines#BGQ|2.5L 125 kW (170 hp) I5]]<br />
+[[list of Volkswagen Group petrol engines#1.4 TSI|1.4L 103 kW (140 hp) TSI I4]]<br />
+[[list of Volkswagen Group petrol engines#1.4 TSI|1.4L 125 kW (170 hp) TSI I4]]<br />
+[[list of Volkswagen Group petrol engines#1.8 20vT|1.8L 110 kW (150 hp) 20V Turbo I4]]<br />
+[[list of Volkswagen Group petrol engines#1.8 TSI|1.8L 118kW (160 hp) TSI I4]]<br />
+[[list of Volkswagen Group petrol engines#2.0 TFSI|2.0L 147 kW (200 hp) I4 TFSI]]<br />
+'''''[[Diesel engine]]s:'''''<br />
+[[list of Volkswagen Group diesel engines#2.0 TDI PD 100-125kW|1.9L 77 kW (105 hp) I4 TDI]]<br />
+[[list of Volkswagen Group diesel engines#2.0 TDI CR 103-147kW|2.0L 103 kW (140 hp) I4 TDI]]<br />
+[[list of Volkswagen Group diesel engines#2.8 TDI 93-120kW|2.0L 125 kW (170 hp) I4 TDI]]
+|transmission  = 5-speed [[manual transmission|manual]] 04A<br />6-speed manual 02Q<br />6-speed [[automatic transmission|automatic]] 09G<br /> 6-speed [[Direct-Shift Gearbox|DSG]] 02E<br /> 7-speed DSG 0AM
+|wheelbase     = {{convert|2580|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4550|mm|1|abbr=on}}<br />Wagon: {{Auto in|179.4|0}}
+|width         = {{convert|1760|mm|1|abbr=on}}<br />2010- Wagon: {{convert|70.1|in|0|abbr=on}}
+|height        = {{convert|1460|mm|1|abbr=on}}<br />Wagon: {{Auto in|59.2|0}}
+|weight        = 
+|fuel_capacity = {{convert|55|L|impgal usgal|1|lk=on|abbr=on}}
+|related       = [[Audi A3]] Mk2<br />[[Volkswagen Golf Mk5|Volkswagen Golf/Rabbit Mk5]]<br />[[SEAT León]] Mk2<br />[[SEAT Toledo]] Mk3<br />[[SEAT Altea]]<br />[[Škoda Octavia]] Mk2
+|designer      = 
+|layout       = [[Front-engine design|Front-engine]], [[front-wheel drive]]
+|sp            = uk
+}}
+[[Image:PueblaAssembly.jpg|thumb|left|175px|Automated assembly at Puebla]]
+The fifth generation debuted at the [[LA Auto Show|Los Angeles Auto Show]] on 5 January 2005.  It was only the second Volkswagen product to make its world debut at a U.S. Auto show (the other being the [[Volkswagen New Beetle|New Beetle]]).<ref>{{cite press release|title=ALL-NEW JETTA MAKES WORLDWIDE DEBUT AT L.A. AUTO SHOW|publisher=Volkswagen of America|date=2005-01-05|url=http://web.archive.org/web/20070108064220/http://media.vw.com/article_display.cfm?article_id=9509|accessdate=2009-09-03}}</ref>  Furthermore, the Mark 5 saloon/sedan went on sale in the USA prior to any other country, reflecting the importance of the car in that market for Volkswagen.<ref>{{cite news|last=McCormick|first=John|title=VW's Mexican revolution: Volkswagen bets on a new Jetta with a big investment in its Puebla, Mexico, plant|publisher=Automotive Industries|date=February 2005}}</ref>  [[United States dollar|US$]]800&nbsp;million was spent upgrading the factory in Puebla for its production.  This included a US$290&nbsp;million new engine production line for the [[straight-five engine|5 cylinder]] power plant, a US$50&nbsp;million investment in the press shop, as well as a US$200&nbsp;million purchase of 460&nbsp;robots, which increased automation by 80%.
+
+Although produced in the largest volumes in Mexico, final assembly of the car also takes place in China and South Africa for those respective markets.<ref name="AutoWeek.com">{{citation|last=Downer|first=Steven|title=Beetle's Future?|newspaper=AutoWeek|date=2007-07-24|url=http://www.autoweek.com/apps/pbcs.dll/article?AID=/20070727/FREE/70724011/1530/FREE}}</ref>  Like initial production of the second generation in China, the Asian and African plants build the car from a [[complete knock down]] (CKD) kit shipped from the factory in Puebla.  Local assembly in [[Kaluga]], [[Russia]] started in early 2008.<ref>{{cite press release|authorlink=http://www.volkswagen-media.services.com|title=The Volkswagen plant in Kaluga|date=2009-02-28|url=https://www.volkswagen-media-services.com/medias_publish/ms/content/en/pressemitteilungen/2009/02/28/the_volkswagen_plant.standard.gid-oeffentlichkeit.html|accessdate=2009-08-22}}</ref>  Production also began in [[India]] in 2008.<ref>{{citation|last=Master|first=Ammar|title="We are of the opinion we are right on time for the India party"|newspaper=liveMINT.com - WSJ|date =2008-01-17|url=http://www.livemint.com/2008/01/17234343/8216We-are-of-the-opinion-w.html}}</ref>  Currently, the Skoda factory in [[Aurangabad, Maharashtra|Aurangabad]] is used for final assembly.<ref>{{cite web|title=India Volkswagen begins CKD Jetta assembly at Shendra plant|url=http://www.automotiveworld.com/news/oems-and-markets/69584-india-volkswagen-begins-ckd-jetta-assembly-at-shendra-plant|date= |work=AutomotiveWorld.com|accessdate}}</ref>  As with the previously mentioned assembly plants, CKD kits from Volkswagen de México will be used.
+
+The fifth generation car has the widest variety of names of any generation.  In most countries, it is referred to as the Jetta.  Exceptions to this include "Bora" in Mexico and Colombia, "Vento" in Argentina and Chile, and "Sagitar" in China.<ref>{{cite web|authorlink=http://www.vw.com/mx|title=Historia de Volkswagen de México|publisher=Volkswagen de Mexico S.A de C.V.|year=2005|url=http://www.vw.com.mx/cwe/volkswagen/historia/0,,sC=56&yR=2005&idNode=22,00.html|archiveurl=http://web.archive.org/web/20070422231640/http://www.vw.com.mx/cwe/volkswagen/historia/0,,sC=56&yR=2005&idNode=22,00.html|archivedate=2007-04-22|accessdate=2009-09-03}}</ref><ref>{{cite web|authorlink=http://www.volkswagen.cl|title=Historia Volkswagen|publisher=Volkswagen Chile|year=2005|url=http://www.volkswagen.cl/cl_homepage_indexpages/2000_hoy.html|archiveurl=http://web.archive.org/web/20070627143121/http://www.volkswagen.cl/cl_homepage_indexpages/2000_hoy.html|archivedate=2007-06-27|accessdate=2009-09-03}}</ref><ref>{{cite web|authorlink=http://www.volkswagen.com.cn|coauthors=First Automotive Works (FAW)|title=Volkswagen Sagitar brings latest technology to Chinese car market|publisher=Volkswagen China|date=2006-04-09|url=http://www.volkswagen.com.cn/publish/en/news/2006_0409.htm|archiveurl=http://web.archive.org/web/20070927152850/http://www.volkswagen.com.cn/publish/en/news/2006_0409.htm|archivedate=2007-09-27|accessdate=2009-09-03}}</ref>  The Mark 5 is {{convert|170|mm|1}} longer, {{convert|30|mm|1}} wider, and has a {{convert|70|mm|1}} longer wheelbase than the previous iteration.  Interior room has increased from 2.46&nbsp;cubic metres (87&nbsp;ft<sup>3</sup>) to 2.58&nbsp;cubic metres (91&nbsp;ft<sup>3</sup>).  In particular, rear legroom was increased by {{convert|65|mm|1}} over the fourth generation.  Luggage compartment volume is up to 453&nbsp;litres (16&nbsp;ft<sup>3</sup>).  One major change is the introduction of the first [[multi-link suspension|multi-link]] [[independent rear suspension]] in a Jetta.  The design of the rear suspension is nearly identical to the one found in the [[Ford Focus (International)|Ford Focus]].<ref>{{cite web|last=Askew|first=Mike|title=Volkswagen Golf 2.0 TDI|work=Auto Express|publisher=Dennis Publishing Limited|month=September|year=2003|url=http://www.autoexpress.co.uk/carreviews/firstdrives/40302/volkswagen_golf.html|accessdate=2007-05-29}}</ref>  Volkswagen reportedly hired engineers from Ford who designed the suspension on the Focus.<ref name="evo.co.uk" /> 
+
+Styling reflects a new direction for the Volkswagen brand, with a new chrome front grille, first seen on the [[Volkswagen Golf Mk5#R32|Golf Mk5 R32]], which has spread to other models.<ref>{{cite press release|title=VOLKSWAGEN RELEASES FIRST OFFICIAL PHOTOS OF ALL-NEW JETTA TO ARRIVE EARLY NEXT YEAR|publisher=Volkswagen of America|date=2004-11-18|url=http://web.archive.org/web/20070608214531/http://media.vw.com/article_display.cfm?article_id=9490|accessdate=2009-09-03}}</ref>  Some critics appreciated the new styling, whilst others dismissed it as too bland looking compared to the 4th generation.<ref>{{cite news|last=Kelly|first=Kevin|title=Jetta Grows Up|publisher=Ward's Auto World|date=2005-02-01}}</ref><ref>{{cite news|last=Mar|first=Karl|title=2005.5 Volkswagen Jetta -- Victim of a Competitive Market|publisher=Edmunds Inc.|date=2006-03-28|url=http://blogs.edmunds.com/karl/.ee9035f|accessdate=2007-06-05}}</ref>
+
+For model year 2009, certain markets saw a new base model [[internal combustion engine]] and [[automatic transmission]].   The previous 2.0&nbsp;litre [[inline-four engine|four-cylinder]] engine, and six-speed automatic transmission, were replaced with a smaller, more powerful, and more fuel efficient, 1.4&nbsp;litre [[turbocharger|turbocharged]] four-cylinder engine, and six-speed DSG transmission (the same as used in the new Golf Mk5).  As a result of the change, fuel consumption has been reduced by 17% for the manual, from {{convert|8.2|L/100 km|abbr=on}} down to {{convert|6.8|L/100 km|abbr=on}}), and 23% for the automatic, from {{convert|8.6|L/100 km|abbr=on}} down to {{convert|6.6|L/100 km|abbr=on}}.  Power has increased 7%, from {{convert|110|kW|PS bhp|0|lk=on}}, to {{convert|118|kW|PS bhp|0}}, while torque is up 20%.  In addition, acceleration times {{convert|0|-|100|km/h|1|lk=on}} have improved, from 9.2&nbsp;s to 8.5&nbsp;s for the manual (an 8% improvement), and from 9.9&nbsp;s to 8.5&nbsp;s for the automatic (a 14% improvement).
+
+===Features===
+[[Image:Volkswagen Jetta V front 20070806.jpg|thumb|left|Jetta (German specification)]]
+The body of the fifth generation uses extensive [[HSLA steel|high strength steel]], and use of [[laser beam welding|laser welding]] is up from 5% to 35% of body parts.<ref>{{cite book|first=Volkswagen Academy|authorlink=http://www.vwthink.com|title=The new Jetta Introduction|publisher=Volkswagen of America|year=2004|location=U.S.A.|page=6|id=891403}}</ref>  This results in double-digit increases in both dynamic and torsional rigidity.  Other body innovations include an impact-absorbing front bumper which yields slightly in the event of a collision with a pedestrian, reducing the chance of injury.  A new door design allows just the outer panel to be removed and replaced if damaged, rather than the entire door.<ref>Volkswagen Academy, 891403, p. 14</ref>  Safety was again enhanced with many active and passive features available or standard.  These included side curtain [[airbag]]s, seat-mounted rear side airbags, new generation [[electronic stability control|Electronic Stability Programme]] with [[traction control system|Anti-Slip Regulation]] and [[Brake assist]], as well as active head restraints.  A [[Direct-Shift Gearbox]] (DSG) transmission, available dual-zone automatic climate control, and [[Electric Power Steering|electro-mechanical power steering]] are also new innovations.
+[[Image:Jetta Headlight.jpg|thumb|left|175px|Halogen headlamp showing the bulb shield incorporating the VW logo]]
+
+The fifth generation car has a totally redesigned electrical system.<ref>{{cite book|first=Volkswagen Academy|authorlink=http://www.vwthink.com|title=The new Jetta Electrical System Design and Function|publisher=Volkswagen of America|year=2004|location=U.S.A.|page=6|id=873403}}</ref>  Control modules are used for everything from the radio to the [[powertrain]], transmitting over [[Controller Area Network]] (CAN) buses.  Transmission of signals is done digitally at 500&nbsp;[[kilobit]]s per second, which reduces the number of wires needed, and thus reduces the chance for faults.  Cars equipped with [[halogen lamp|halogen headlamps]] have a 'VW' logo integrated into the bulb shield.  In most of the world, the rear lights use [[light-emitting diode]]s (LEDs).  However, in North American specification cars, standard filament bulbs with a different design are used.
+
+The Mark 5 has a number of quirks which may [[user error|confuse owners]] who are unfamiliar with the car and have not read the [[owners manual]].<ref>{{cite web|authorlink=http://www.vwvortex.com|title=Please explain why you can't pull the wipers up|date=2006-02-25|url=http://forums.vwvortex.com/zerothread?id=2466925|accessdate =2007-04-25}}</ref>{{Verify credibility|date=September 2009}}  For example, to replace the [[windscreen wiper]]s, the wiper lever must be pressed down within 10 seconds of turning off the car to activate the 'Service/Winter Position' mode.  Additionally, the wipers use an 'Alternating Park Position', which change their parked position slightly every few trips to reduce wear, sometimes causing unneeded concern on the part of the customer.<ref>{{cite web|authorlink=http://www.vwvortex.com|title=My wipers move 1/4" when pulling key out|date=2006-04-17|url=http://forums.vwvortex.com/zerothread?id=2560855|accessdate=2007-04-25}}</ref>{{Verify credibility|date=September 2009}}  Upon a cold start, the engine is noisier than normal for approximately 30&nbsp;seconds due to the operation of the [[secondary air injection|Secondary Air Injection]] Pump, causing alarm in some instances.<ref>{{cite web|title=Excessively Loud Startup|date=2007-07-27|authorlink=http://www.vwvortex.com|url=http://forums.vwvortex.com/zerothread?id=3361834|accessdate=2007-07-30}}</ref>{{Verify credibility|date=September 2009}}<ref>{{cite web|title=Jetta startup issue: very loud noise when starting|date=2006-06-01|authorlink=http://www.vwvortex.com|url=http://forums.vwvortex.com/zerothread?id=2639379|accessdate=2007-07-30}}</ref>{{Verify credibility|date=September 2009}}  This feature is designed to [[automobile emissions control|reduce emissions]] by adding fresh air (which contains more oxygen than the air that has been through the engine) into the exhaust stream.  Some owners have been surprised that fully-[[synthetic oil]] must always be used when changing the oil.<ref>{{cite web|authorlink=http://www.vwvortex.com|title=synthetic oil|date=2006-07-08|url=http://forums.vwvortex.com/zerothread?id=2701818|accessdate=2007-04-25}}</ref>{{Verify credibility|date=September 2009}}  Volkswagen has developed a very strict [[motor oil]] quality standard to prevent [[oil sludge]] problems, and oil meeting only this standard must be used to ensure full warranty coverage.<ref>{{citation|authorlink=http://www.vw.com|title=Engine oils with Volkswagen Oil Standard VW 502.00 approval available in North America|date=July 2004}}</ref>
+
+===Engines===
+The [[internal combustion engine]]s available are dependent on the destination market. In Europe, a range of the new generation [[gasoline direct injection|Fuel Stratified Injection]] (FSI) engines are available.  Additionally in that market, the car can be had with an engine known as the '[[Twincharger]]' (TSI).  This 1.4&nbsp;[[litre]] [[petrol engine]] combines [[turbocharger|turbo-]] and [[supercharger|supercharging]], to make a small but powerful engine with low fuel consumption.<ref>{{cite press release|title=TWIN-TURBOCHARGED FSI ENGINES - CENTRAL ASPECTS|publisher=Volkswagen AG|date=2005-08-29|url=http://web.archive.org/web/20051216084732/http://media.vw.com/article_display.cfm?article_id=9672|accessdate=2009-09-03}}</ref>  The Jetta available in the [[Americas]] and the [[Middle East]], is powered by a 2.5&nbsp;litre [[straight-five engine|5-cylinder]] 20-valve engine in most trims but lacks the power to go over 100mph.  This engine shares its [[cylinder head]] design with the [[Lamborghini V10|V10 engine]] found in the [[Lamborghini Gallardo]].<ref>{{cite book|first=Volkswagen Academy|authorlink=http://www.vwthink.com|title=The new Jetta Introduction|publisher=Volkswagen of America|year=2004|location=U.S.A.|page=28|id=891403}}</ref>
+
+In North America, the [[Turbocharged Direct Injection]] (TDI) [[diesel engine]] was not offered in five U.S. states when the Mark 5 Jetta was introduced, due to the tight emission standards promulgated by the [[California Air Resources Board]].  The four other states involved opted to adopt the more stringent California standards.  Where it was available, it fell into the least-restrictive emission category. That category was removed in 2007, prompting the diesel Jetta to be unavailable in that market for about a year until the introduction of a new [[common rail]] diesel engine, which appeared in August 2008.<ref>{{cite journal|last=Kurylko|first=Diane|title=Delay of diesel Jetta irks Volkswagen dealers|journal=Automotive News|date=2008-02-09|url=http://www.autonews.com/apps/pbcs.dll/article?AID=/20080209/ANA04/802100307/1203|accessdate=2009-09-06}}</ref>  The introduction was delayed for approximately six months due to technical issues with the new emissions control system.<ref>{{cite web|title=VW Jetta TDI Clean Diesel Delayed Until Fall 2008|url=http://www.vwtechnology.ca/2007/11/08/vw-jetta-tdi-clean-diesel-delayed-until-fall-2008/|archiveurl=http://web.archive.org/web/20071215182634/http://www.vwtechnology.ca/2007/11/08/vw-jetta-tdi-clean-diesel-delayed-until-fall-2008/|archivedate=2007-12-15}}</ref>  The TDI Clean Diesel engine is rated {{convert|140|PS|kW bhp|0}}, and uses advanced features such as a [[diesel particulate filter]]<!--"Removed pending clarification of BlueTec use in future Volkswagens" portions of [[DaimlerChrysler]]'s [[BlueTec]] technology --> to reduce [[nitrogen oxide#NOx|NO<sub>x</sub>]] and [[particulate matter]] emissions in order to qualify as a [[tier (emission standard)|Tier II Bin 5]] vehicle (equivalent to California's [[Low Emission Vehicle|LEV II]] rating), therefore allowing it to be sold in all 50 U.S. states.  [[AdBlue]] (urea injection) will not be used initially, reducing maintenance requirements.
+[[Image:VW Jetta 2.0 TDI Heck.JPG|thumb|right|Jetta (French specification)]]
+
+===Safety===
+In [[IIHS]] crash testing the Jetta received an overall "Good" rating in both front offset and side impact tests.  In the side impact test the Jetta received "Good" marks in all nine measured categories.<ref>{{cite web|authorlink=http://www.iihs.org|title=Frontal Offset Test|publisher=Insurance Institute for Highway Safety|year=2005|url=http://www.iihs.org/ratings/rating.aspx?id=231|accessdate=2007-04-24}}</ref><ref>{{cite web|authorlink =http://www.iihs.org|title=Side Impact Test|publisher=Insurance Institute for Highway Safety|year=2005|url=http://www.iihs.org/ratings/rating.aspx?id=276|accessdate=2007-04-24}}</ref>  In 2005, the Institute noted that the side impact protection performance was the best they had ever rated.<ref>{{cite press release|title=New Jetta Scores Best Ever In Side Impact Test|publisher=Volkswagen of America|date=2005-04-24|url=http://www.vwvortex.com/artman/publish/volkswagen_news/printer_1302.shtml|accessdate=2007-04-24}}</ref>  In 2006, the car received a "Top Safety Pick" award from the Institute.<ref>{{cite web|authorlink=http://www.iihs.org|title=TOP SAFETY PICKs 2006|publisher=Insurance Institute for Highway Safety|year=2006|url=http://www.iihs.org/ratings/tsp_archive.html|accessdate=2007-04-24}}</ref>  The National Highway Traffic Safety Administration gave the fifth generation Jetta {{rating|4|5}} for both driver and passenger protection in a frontal impact, while the car received {{rating|5|5}} stars in a side impact crash test.<ref>{{cite web|authorlink=http://www.nhtsa.gov|title=NCAP ratings for tested vehicles|publisher=National Highway Traffic Safety Administration|year=2007|url=http://www.safercar.gov/NCAP/Cars/3964.html|archiveurl=http://web.archive.org/web/20070927203152/http://www.safercar.gov/NCAP/Cars/3964.html|archivedate=2007-09-27|accessdate=2009-09-03}}</ref>  To tout the safety of the car, a series of television commercials with the tag line "Safe happens" showed the car being involved in a collision whilst afterward the occupants are shown to have emerged unscathed.
+
+===Testing and review===
+[[Image:06-07 Volkswagen GLI.jpg|thumb|right|Jetta GLI (US)]]
+The fifth generation has received generally positive reviews.  Nevertheless, some critics have complained that the car lost some of its distinctive European character with the redesign.<ref>{{citation|last=Job|first=Ann|title=2005 JETTA IS SET TO BECOME FAMILY CAR|newspaper=The Augusta Chronicle|pages=E.01|date=2005-04-29}}</ref>  Most reviewers found the ride to be firm and well controlled, but not always as forgiving as the previous generation.  Handling was a strong point, with quick and precise steering and minimal body roll.  Fit and finish received excellent marks, with reviewers noting the car felt very upscale.<ref>{{citation|last=Phelan|first=Mark|title=All-new VW Jetta a solid sedan, but it lacks character|newspaper=Detroit Free Press|page=1|date=2005-05-06}}</ref>  The front seats were firm but well liked, and the rear seat was roomy, in contrast to the cramped quarters in the fourth generation.  Controls and displays were generally good.<ref>{{citation|authorlink=http://www.consumerreports.org|title=Consumer Reports|page=51|date=February 2006}}</ref>  Reviewers were particularly impressed with the "Sportline" models (known as the GLI in North America).  Equipped with sport seats, a firmer suspension lowered by {{convert|15|mm}}, and low profile [[tire|tyres]], critics praised the excellent handling that was an improvement over the already good performance on the standard model.<ref>{{citation|last=Robertshaw|first=Malcolm|title=Style is Jetta-propelled ; ROAD TEST Volkswagen Jetta Sport 2.0 TDi|newspaper=Coventry Evening Telegraph|page=54|date=2006-09-08}}</ref>  Additionally, the 2.0 Turbo FSI engine also won commendation for its high power figures, smooth operation, and low fuel consumption.<ref>{{citation|last=Winter|first=Drew|title=Inner Strength|newspaper=Ward's Auto World|date=2005-11-01}}</ref>  Along with its [[Volkswagen Golf Mk5|hatchback brethren]], the fifth generation ranks among the top cars on the market in independent reviews of resale value.<ref>{{citation|last=Weisbaum|first=Herb|title=How much has your car depreciated?|newspaper=MSNBC|date=2008-01-02|url=http://www.msnbc.msn.com/id/22474603}}</ref>
+
+Although improved over the fourth generation, the Mark 5 still takes over 42&nbsp;hours to assemble at the factory in Mexico.<ref name="harbourinc.com" />  Part of this disparity is blamed on the switch to the more complex independent rear suspension.  Volkswagen has publicly stated its discontent over the excessive assembly time, and pledged to streamline manufacturing in the next generation of [[Volkswagen Group A platform|A platform]] cars.<ref>{{citation|title=VW to launch new Golf in 2008|newspaper=Wheels 24 South Africa|date=2007-05-04|url=http://www.wheels24.co.za/Wheels24/News/0,,1369-1372_2090366,00.html}}</ref>  In the interim, Volkswagen de México is making a concerted effort to further increase productivity at the plant, by consulting outside experts from [[Toyota]] and other [[Japanese automobile industry|Japanese companies]].<ref name="AutoWeek.com"/>  By implementing many [[lean manufacturing]] principles and techniques, a goal has been set to increase productivity levels at the factory by 30% or more in the coming years.
+
+===Variant / SportWagen / Wagon / Golf Estate===
+[[Image:VW Golf Variant TDI rear.JPG|thumb|right|2007–2008 Volkswagen Golf Variant]]
+[[Image:2010 Volkswagen Jetta wagon front -- 10-31-2009.jpg|thumb|right|2010 Volkswagen Jetta Sportwagen (US)]]
+
+At the 2007 [[New York International Auto Show]], Volkswagen unveiled a [[station wagon|'Variant']] (estate/station wagon) version dubbed the "Jetta SportWagen".  The Jetta wagon was not sold for the 2006, 2007 and 2008 [[model year]]s in the United States<ref> {{cite press release|title=JETTA SPORTWAGEN MAKES U.S. DEBUT AT NEW YORK INTERNATIONAL AUTO SHOW|publisher=Volkswagen of America|date=2007-04-04|url=http://web.archive.org/web/20070928043645/http://media.vw.com/article_display.cfm?article_id=10114|accessdate=2009-09-03}}</ref>
+
+The new estate version has 930L (32.8&nbsp;ft<sup>3</sup>) of cargo space with the rear seats upright, or 1894L (66.9&nbsp;ft<sup>3</sup>) with the seats folded.  One unique option is a panoramic [[sunroof]].  The available roof is a full 1.18 square metres (12.7&nbsp;ft<sup>2</sup>) in area, giving both front and rear seat passengers an expansive view of the sky.
+
+The vehicle is sold as the '''Golf Variant''' in most markets outside the United States. In Mexico it is sold as Bora SportWagen, Jetta Variant in Brazil, Vento Variant in Argentina, Jetta Wagon in Canada (2009 only), Golf wagon in Canada (2010 forward),and Golf Estate in the United Kingdom.
+
+The 2010-model Jetta Sportwagen is based on the sixth-generation [[Volkswagen Golf]] rather than on the Jetta sedan.
+
+===Jetta TDI Cup "Street" edition===
+It is a version commemorating 2008 Jetta TDI Cup. It was based on the TDI Clean Diesel sedan, but include GLI brakes and sway bars, 6-speed DSG transmission with Tiptronic and Sport mode, 18-in wheels with Yokohama 225/40R18 ADVAN sport tires, body colours from Jetta GLI.
+
+The vehicle was unveiled in 2008 SEMA show. Production version would go on sale in early as 2010 with MSRP of under $30,000USD.<ref>[http://www.autoblog.com/2008/11/05/sema-2008-volkswagen-jetta-tdi-cup-edition-street-concept/ SEMA 2008: Volkswagen Jetta TDI Cup Edition Street Concept so close to production]</ref>
+
+{{-}}
+
+==Sixth generation (A6)==
+{{Infobox Automobile generation
+|name          = Volkswagen Jetta<br />(A6)
+|aka           = New Compact Sedan (NCS)
+|production    = 2010-onward
+|assembly      = [[Puebla, Puebla|Puebla]], [[Mexico]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]
+|sp            = uk
+}}
+{{Main|Volkswagen New Compact Sedan}}
+The sixth generation Volkswagen Jetta has been designed under the codename NCS (New Compact Sedan), with strict cost-cutting measures to make the vehicle more competitive in the North American market with the likes of the [[Toyota Corolla]] and [[Honda Civic]].  However, the vehicle will also be sold in the Russian, Indian, and Chinese markets.  The sixth generation vehicle will no longer be a "Golf with a trunk", which was the case with the fifth generation Jetta.  Production of the vehicle has been confirmed for Volkswagen's Puebla, Mexico production facility.  The 2011 Volkswagen Jetta will debut in 2010.<ref>{{cite news|title=Volkswagen's Future Products Revealed for 2011, 2012, and Beyond|work=Car & Driver|date=August 2009|url=http://www.caranddriver.com/news/car/09q3/volkswagen_s_future_products_revealed_for_2011_2012_and_beyond-car_news|accessdate=2009-09-06}}</ref><ref>{{cite news|title=2011 Volkswagen Jetta - Spied|work=Car & Driver|date=August 2009|url=http://www.caranddriver.com/news/spied/09q3/2011_volkswagen_jetta-spied|accessdate=2009-09-06}}</ref>
+
+==Alternative propulsion cars==
+In the early 1980s, Volkswagen released a [[limited production]] [[electric vehicle|electric]] Jetta called the '''Jetta CitySTROMER'''.  It featured a 24.8&nbsp;hp (18.5&nbsp;kW) [[powertrain]] (later 37.5&nbsp;hp (28&nbsp;kW)), with a range of 190&nbsp;km (250 in the later version).<ref>{{cite web|authorlink=http://electroauto.sweb.cz|title=Elektromobil Volkswagen JETTA citySTROMer:|publisher=Đ DVOHAPER & Mobilcompany|year=2005|url=http://electroauto.sweb.cz/jetta_citystromer.html|archiveurl=http://web.archive.org/web/20071014115722/http://electroauto.sweb.cz/jetta_citystromer.html|archivedate=2007-10-14|language=Czech|accessdate=2007-04-25}}</ref>
+
+Volkswagen released a Jetta '''MultiFuel''' Jetta in 1991, at first to the governments of the state of California and New York, and then for limited retail sale in those states to the public.  They are an early example of an E85 vehicle, burning a mixture of 85% ethanol and 15% gasoline.  These Jettas can still be found roaming the streets.
+
+In 2001, at the 18th International Electric Vehicle Symposium and Exhibition in [[Berlin]], Volkswagen released two environmentally friendly cars: the Bora HyMotion and the Bora Electric.
+
+The '''Bora HyMotion''' was a [[hydrogen vehicle|hydrogen powered]] Mark 4 with a 75&nbsp;kW fuel cell that could accelerate from 0 to 97&nbsp;km/h (60&nbsp;mph) in 12.5 seconds.  With a 49 litre tank of [[cryogenic]]ally stored hydrogen, it had a range of 350&nbsp;km (220&nbsp;mi).  Top speed was {{convert|140|km/h|1|abbr=on}}.<ref>{{citation|authorlink=http://www.sae.org|title=Fuel cells start to look real|publisher=Society of Automotive Engineering|url=http://www.sae.org/automag/features/fuelcells/veh2.htm}}</ref>
+
+The second concept vehicle was called the '''Bora Electric'''.  It had a power rating that varied according to the operating conditions.  The Bora Electric could accelerate from 0 to 100&nbsp;km/h in 10 seconds with a range of 160&nbsp;km.  The energy needed to drive the vehicle is stored in a [[Lithium-ion battery]].  It was noted that its chance of success was limited in the marketplace given the high cost of the electric drive system.<ref>{{cite book|last=Menzel|first=Ulrich|authorlink=http://www.mobility-and-sustainability.com|title=Volkswagen Environmental Report 2003/2004|publisher=Druckhaus Friedr. Schmücker GmbH, Löningen|month=December|year=2003|location=Wolfsburg, Germany|page=54|url=http://web.archive.org/web/20051108155101/www.mobility-and-sustainability.com/_download/umweltbericht_2003_2004_english.pdf|format=PDF|id=415.1240.01.18|format=PDF|accessdate=2009-11-20}}</ref>
+
+In 2002, Volkswagen, along with [[Paul Scherrer Institute]] released another hydrogen powered car called the '''Bora Hy.Power'''.  The car was powered by hydrogen compressed to a pressure of 320&nbsp;bar (4600&nbsp;psi).  It had ratings very similar to the HyMotion; with a 75&nbsp;kW (100&nbsp;hp) power source.  A special feature of the car was a 60 kilowatt super capacitor which could boost power when needed and also recover energy when coasting.<ref>Menzel, p. 56</ref>
+
+Volkswagen has considered producing a [[mild hybrid]] version of the fifth generation mainly for the North American market.<ref>{{citation|last=Meiners|first=Jens|title=VW may offer Jetta hybrid|newspaper=Automotive News|page=1|date=2005-05-30}}</ref>  However, no official plans have been promulgated, and the company will continue its clean diesel push regardless of the decision regarding hybrid technology.<ref>{{citation|last=Copley|first=Brian|title=Volkswagen's Alternative-Fuel Strategy|newspaper=Driver Magazine|pages=18–19|date=Spring/Summer 2007}}</ref>
+
+===Biofuels===
+[[Image:Jetta Biodiesel.jpg|thumb|right|Wagon being fueled with Biodiesel]]
+Volkswagen approves fueling Jetta TDIs with up to 5% [[biodiesel]] (B5).<ref>{{cite press release|title=VOLKSWAGEN’S FUEL-EFFICIENT TDI DIESELS PROVIDE RELIEF FROM SUMMER’S ESCALATING FUEL PRICES|publisher=Volkswagen of America|date=2006-05-09|url=http://web.archive.org/web/20061111152352/http://media.vw.com/article_display.cfm?article_id=9893|accessdate=2009-09-06}}</ref>  The diesel engine can sometimes be run with higher percentages of biodiesel, particularly during warm months.  However, if the car experiences a fault, Volkswagen may deny warranty coverage if unapproved fuel is used.<ref>{{cite web|authorlink=http://www.WhatCar.com|title=What Car? Q&A - Can I use biodiesel?|publisher=What Car?|date=2005-08-25|url=http://www.whatcar.com/car-news/what-car-q-and-a/can-i-use-biodiesel/216860|accessdate=2009-09-06}}</ref>
+
+Some owners have converted their diesel cars to run on [[vegetable oil used as fuel]].<ref>{{cite news|last=Dizon|first=Kristin|title=It smells like popcorn -- and it's catching on|publisher=SEATTLE POST-INTELLIGENCER REPORTER|date=2005-02-18|url=http://seattlepi.nwsource.com/local/212626_biodieselfans18.html|accessdate=2007-04-25}}</ref>  This can be obtained from most [[fast food]] restaurants for a minimal fee (if any).  However, there has been at least one report of catastrophic engine damage resulting from the use of waste vegetable oil.<ref>{{citation|title=WVO no more-My Tragic Greaser Story|date=2007-08-05|url=http://forums.tdiclub.com/showthread.php?t=186108|accessdate=2007-09-06}}</ref>  Running the car on [[biofuels]] of any type has the advantage of being at least partly [[carbon neutral]].
+
+Volkswagen also released a Bora TDI which was powered by '''SunFuel''', a [[synthetic fuel]] developed in partnership with [[Royal Dutch Shell]].<ref>Menzel, p. 47</ref>  The company also displayed Bora TDI powered by '''SunDiesel''' that Volkswagen also developed with [[DaimlerChrysler]] along with Choren Industries.<ref>{{cite press release|title=THE NEW VOLKSWAGEN ENVIRONMENTAL REPORT 2003/2004 – PARTNERS IN RESPONSIBILITY|publisher=Volkswagen AG|date=2003-12-11|url=http://web.archive.org/web/20070608190626/http://media.vw.com/article_display.cfm?article_id=9230|accessdate=2009-09-06}}</ref>
+
+==In Popular Culture==
+Volkswagen Jetta was stated in the lyrics of [[FM Static|FM Static's]] song Nice Piece of Art.
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Commons category}}
+*[http://www.autoevolution.com/testdrive/volkswagen-jetta-14-tsi-122-hp-2009-new-cars-collection.html Test Drive: VOLKSWAGEN Jetta 1.4 TSI (122 HP) - 2009 by ''Autoevolution.com'']
+*[http://www.volkswagen.com/vwcms_publish/vwcms/master_public/virtualmaster/en2/models/jetta.html Volkswagen Jetta worldwide site]
+*[http://www.a2resource.com Detailed information on A2 Jetta models, as well as brochures and other information for other generations]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+{{Volkswagen (South America) timeline 1980 to date}}
+
+[[Category:Vehicles introduced in 1979]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Volkswagen vehicles|Jetta]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Compact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Partial zero-emissions vehicles]]
+[[Category:Coupes]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+[[Category:Vehicles with VR engines]]
+
+[[da:Volkswagen Jetta]]
+[[de:VW Jetta]]
+[[es:Volkswagen Jetta]]
+[[fr:Volkswagen Jetta]]
+[[it:Volkswagen Jetta]]
+[[he:פולקסווגן ג'טה]]
+[[lv:Volkswagen Jetta]]
+[[nah:Volkswagen Jetta]]
+[[nl:Volkswagen Jetta]]
+[[ja:フォルクスワーゲン・ジェッタ]]
+[[no:Volkswagen Jetta]]
+[[pl:Volkswagen Jetta]]
+[[pt:Volkswagen Jetta]]
+[[ru:Volkswagen Jetta]]
+[[simple:Volkswagen Jetta]]
+[[fi:Volkswagen Jetta]]
+[[sv:Volkswagen Jetta]]
+[[tr:Volkswagen Jetta]]
+[[zh:大众捷达]]

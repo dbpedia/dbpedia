@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = other party
+|rdfs:domain = OfficeHolder
+|rdfs:range = owl:Thing
+}}

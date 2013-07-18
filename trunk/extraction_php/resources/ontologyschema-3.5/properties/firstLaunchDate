@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = first launch date
+| rdfs:domain = LaunchPad
+| rdfs:range = xsd:date
+}}

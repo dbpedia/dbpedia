@@ -1,0 +1,49 @@
+{{TemplateMapping
+| mapToClass = University
+| mappings = 
+	{{PropertyMapping | templateProperty = officer_in_charge | ontologyProperty = officerInCharge }}
+	{{PropertyMapping | templateProperty = chairman | ontologyProperty = chairman }}
+	{{PropertyMapping | templateProperty = chancellor | ontologyProperty = chancellor }}
+	{{PropertyMapping | templateProperty = president | ontologyProperty = president }}
+	{{PropertyMapping | templateProperty = vice-president | ontologyProperty = vicePresident }}
+	{{PropertyMapping | templateProperty = provost | ontologyProperty = provost }}
+	{{PropertyMapping | templateProperty = vice_chancellor | ontologyProperty = viceChancellor }}
+	{{PropertyMapping | templateProperty = faculty | ontologyProperty = faculty }}
+	{{PropertyMapping | templateProperty = undergrad | ontologyProperty = undergrad }}
+	{{PropertyMapping | templateProperty = postgrad | ontologyProperty = postgrad }}
+	{{PropertyMapping | templateProperty = doctoral | ontologyProperty = doctoral }}
+	{{PropertyMapping | templateProperty = other | ontologyProperty = other }}
+	{{PropertyMapping | templateProperty = campus | ontologyProperty = campus }}
+	{{PropertyMapping | templateProperty = former_names | ontologyProperty = formerName }}
+	{{PropertyMapping | templateProperty = athletics | ontologyProperty = athletics }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = latin_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = motto | ontologyProperty = motto }}
+	{{PropertyMapping | templateProperty = mottoeng | ontologyProperty = motto }}
+	{{PropertyMapping | templateProperty = established | ontologyProperty = established }}
+	{{PropertyMapping | templateProperty = closed | ontologyProperty = closed }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = affiliation | ontologyProperty = affiliation }}
+	{{PropertyMapping | templateProperty = endowment | ontologyProperty = endowment | unit = Currency }}
+	{{PropertyMapping | templateProperty = superintendent | ontologyProperty = superintendent }}
+	{{PropertyMapping | templateProperty = rector | ontologyProperty = rector }}
+	{{PropertyMapping | templateProperty = principal | ontologyProperty = principal }}
+	{{PropertyMapping | templateProperty = dean | ontologyProperty = dean }}
+	{{PropertyMapping | templateProperty = director | ontologyProperty = director }}
+	{{PropertyMapping | templateProperty = head | ontologyProperty = head }}
+	{{PropertyMapping | templateProperty = staff | ontologyProperty = staff }}
+	{{PropertyMapping | templateProperty = students | ontologyProperty = students }}
+	{{PropertyMapping | templateProperty = city | ontologyProperty = city }}
+	{{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+	{{PropertyMapping | templateProperty = province | ontologyProperty = province }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{GeocoordinatesMapping | coordinates = coor }}
+	{{PropertyMapping | templateProperty = sports | ontologyProperty = sport }}
+	{{PropertyMapping | templateProperty = colors | ontologyProperty = colours }}
+	{{PropertyMapping | templateProperty = colours | ontologyProperty = colours }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = nickname }}
+	{{PropertyMapping | templateProperty = mascot | ontologyProperty = mascot }}
+	{{PropertyMapping | templateProperty = affiliations | ontologyProperty = affiliation }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

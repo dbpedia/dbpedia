@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = broadcast area
+|rdfs:domain = Broadcast
+|rdfs:range = PopulatedPlace
+}}

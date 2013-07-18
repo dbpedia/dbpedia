@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Eurovision Song Contest Entry
+| rdfs:subClassOf = Song
+}}

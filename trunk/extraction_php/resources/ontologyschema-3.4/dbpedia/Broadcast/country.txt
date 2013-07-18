@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = country
+|rdfs:domain = Broadcast
+|rdfs:range = Country
+}}

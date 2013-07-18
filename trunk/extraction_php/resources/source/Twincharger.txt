@@ -1,0 +1,56 @@
+{{Cleanup|date=September 2007}}
+{{References|date=September 2007}}
+
+'''Twincharger''' refers to a compound [[forced induction]] system used on some piston-type [[internal combustion engine]]s. It is a combination of an exhaust-driven [[turbocharger]] and an engine-driven positive displacement [[supercharger]], each mitigating the weaknesses of the other. Any forced-induction system puts more oxygen into the cylinders than would be available without force, allowing more fuel to be burned, producing more power. Engines with relatively small displacement can thus be used for a given power output, these smaller-displacement engines being more fuel-efficient in typical real-world vehicle designs than their normally-aspirated counterparts (those without forced induction) of equivalent power.
+
+The term ''twincharger'' is a [[misnomer]], as the two "chargers" of the system are of radically different designs. The advantages of this system over other forced induction systems are, in fact, due to the differences between the two.
+
+==Technical description==
+A twincharging system combines a supercharger and turbocharger in a complementary arrangement, with the intent of one component's advantage compensating for the other component's disadvantage. There are several different twincharging configurations. The two most common are series, and parallel.
+
+Series systems, the more common of the two, are plumbed such that one compressor's output feeds the inlet of another. It is a sequentially-organized [[Roots type supercharger]], connected to a medium- to large-sized turbocharger.{{fact|date=December 2007}} The supercharger provides near-instant manifold pressure (eliminating [[turbo lag]], which would otherwise result when the turbocharger is not up to its operating speed). Once the turbocharger has reached operating speed, the supercharger can either continue contributing air to the intake (yielding elevated intake pressures), or it can be bypassed and mechanically decoupled from the drivetrain via an electromagnetic clutch (increasing efficiency of the induction system). 
+
+Other series configurations exist where no bypass system is employed and both compressors are in continuous duty. As a result, compounded boost is always produced as the pressure ratios of the two compressors combine. This form of series twincharging allows for the production of boost pressures that would otherwise be unachievable with other compressor arrangements. A significant advantage of this method is the reduction in charge temperature for a given pressure output versus that of a single compressor producing the same output.
+
+Parallel systems typically always require the use of a bypass or diverter valve to "select" which compressor is feeding the engine. Parallel systems are not compounded by design, and maximum manifold pressure will be equal to the maximum output of the compressors, whichever is greatest. Parallel systems often employ complex electronics to control bypass valves selecting which compressor is utilized depending on several engine parameters, driver inputs, and environmental factors. Mechanically-controlled parallel twincharged systems typically cannot provide a transparent and seamless switch between compressors. As a result, power delivery can have abrubt spikes.
+
+==Disadvantages==
+Disadvantages include the energy cost of driving the supercharger and the turbocharger, the latter restricting the flow of exhaust, and, obviously, the expense, complexity, mass, and volume of the components. The added mass and volume may be directly offset by using a smaller and lighter engine for a given output power, and the expense by the reduction in fuel cost compared to that with an equivalent-output engine without the system.
+
+==Commercial availability==
+The concept of twincharging was successfully used by [[Lancia]] in the 1980s on the [[Lancia Delta S4]] [[rally car]]. The idea was also successfully adapted to production road cars by [[Nissan]], in their [[Nissan March|March Super Turbo]] <ref>[http://grandjdm.com/2007/12/09/march-superturbo-mighty-mite/ ''grandJDM >> March Superturbo: Mighty Mite!''] (2007-12-09)</ref>.  
+Additionally, multiple companies have produced [[aftermarket]] twincharger kits for cars like the [[Subaru Impreza WRX]], [[BMW Mini|Mini Cooper S]], [[Ford Mustang]], [[Nissan Skyline GT-R]], [[Toyota MR-2]], as well as the GM 3800 Engine, as in the [[Pontiac Bonneville]] SSEI, [[Pontiac Grand Prix]] GTP among others. 
+
+The [[List_of_Volkswagen_Group_petrol_engines#1.4_TSI_90-133kW|Volkswagen Golf TSI]] has a 1400 cc engine that utilises both Turbocharger and supercharger. The power output for the European model is {{convert|170|bhp|kW PS|0|abbr=on}}.
+
+==Alternative systems==
+===Anti-lag system===
+Twincharging's biggest benefit over anti-lag systems now in race car applications is its reliability. Anti-lag systems typically work by introducing excess fuel and retarding ignition timing to cause combustion in the exhaust manifold, keeping a turbocharger spinning quickly. The heat from this can wear or damage the exhaust manifold and turbocharger, and the unburnt fuel would destroy a [[catalytic converter]]. In addition to precluding the use of a catalytic converter, the unburnt fuel is also itself a serious pollutant, so it is generally not allowed in street vehicles due to the environmental damage it would cause.
+
+===Variable geometry turbocharger===
+{{main|Variable geometry turbocharger}}
+A variable-geometry turbocharger provides an improved response at widely-varied engine speeds. With variable-incidence under electronic control, it is possible to have the turbine reach a good operating speed quickly or at lower engine speed without severely diminishing its utility at higher engine speed.
+
+===Nitrous oxide===
+[[Nitrous oxide]] (N<sub>2</sub>O) is mixed with incoming air, providing more oxygen to burn more fuel for high power when a turbocharger is not spinning quickly. This also causes the turbocharger to quickly accelerate, providing more oxygen for combustion, and the N<sub>2</sub>O flow is reduced accordingly. The expense of both the system itself and the consumable N<sub>2</sub>O can be significant.
+
+==Water injection==
+{{main|Water injection (engines)}}
+
+For more engine power, and to augment the benefits of [[forced induction]] (by means of [[turbocharging]] or [[supercharging]]), an [[Custom_car|aftermarket]] water injection system can be added to the induction system of both gasoline and diesel internal combustion engines.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.greencarcongress.com/2005/08/inside_vws_new_.html
+*[http://www.youtube.com/watch?v=4SjNgVH_HN0 Bee*R's Twincharged Nissan Silvia S15]
+
+[[Category:Volkswagen]]
+[[Category:Engine technology]]
+[[Category:Superchargers]]
+[[Category:Turbochargers]]
+
+[[de:Twincharged]]
+[[ja:ツインチャージャー]]
+[[pt:Twincharger]]

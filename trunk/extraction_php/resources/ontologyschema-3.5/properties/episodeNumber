@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = episode number
+| rdfs:range = xsd:integer
+}}

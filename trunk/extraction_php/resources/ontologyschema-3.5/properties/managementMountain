@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = management mountain
+| rdfs:range = Mountain
+}}

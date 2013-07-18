@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = number of members
+|rdfs:domain = Legislature
+|rdfs:range = xsd:integer
+}}

@@ -1,0 +1,44 @@
+{{Infobox Automobile
+| image          = [[Image:Silver Mercedes-Benz.jpg|250px|center|A Mercedes-Benz 500K cabriolet.]]
+| name           = Mercedes-Benz 500K
+| manufacturer   = [[Mercedes-Benz]]
+| parent_company = 
+| aka            = W29
+| production     = 1934–36
+| assembly       = Untertürkheim factory, [[Sindelfingen]], [[Germany]]
+| predecessor    = [[Mercedes-Benz 380]]
+| successor      = [[Mercedes-Benz 540K]]
+| class          = 
+| body_style     = 
+| layout         = [[Front-engine, rear-wheel drive layout|Front-engine, rear-wheel drive]]
+| platform       = 
+| engine         = 5,018&nbsp;[[cubic centimetre|cc]] [[straight-8]]
+| transmission   = 4-speed or optional 5-speed [[manual transmission|manual]]<ref name="born">{{cite web | last = | first = | authorlink = | coauthors = | title = 1934 - The Mercedes 500K is born | work = | publisher = Classicdriver.com | date = | url = http://www.classicdriver.com/uk/magazine/3200.asp?id=11919 | format = | doi = | accessdate = }}</ref>
+| wheelbase      = {{convert|2980|mm|in|1|abbr=on}} (SWB)<br/>{{convert|3290|mm|in|1|abbr=on}} (LWB)
+| length         = 
+| width          = 
+| height         = 
+| weight         = Up to {{convert|2700|kg|lb|abbr=on}}
+| fuel_capacity  = {{convert|110|l|1|impgal|1|U.S. gal|abbr=on|lk=on}}
+| designer       = [[Friedrich Geiger]]
+}}
+The '''Mercedes 500K''' is a [[sports car]] built by [[Mercedes-Benz]] between 1934 and 1936, and first exhibited at the 1934 [[Berlin Motor Show]].<ref name="born"/> It carried the factory designation W29.<ref name=AutoMotorundSport197720>{{cite journal| authorlink =  Dirk-Michael Conradt| title = Herren-Rasse: Ein Automobil seiner Epoche:  pompös, mächtig, respektheischend...Mercedes 500K| journal = [[Auto, Motor und Sport]]| volume = Heft 20 1977| pages = Seite 58 - 68|date = date 28 September 1977}}</ref>   Distinguished from the [[Mercedes-Benz 500|500]] [[sedan (car)|sedan]] by the "K" in its name which denoted the ''kompressor'' ([[supercharger]]) only fitted to the sports cars, it succeeded the [[Mercedes-Benz 380]] which had been introduced only the previous year, using a larger, more powerful engine and more opulent [[coachwork]] to meet customers' demands for greater luxury and performance.<ref name="sportscarmarket">{{cite web | last = | first = | authorlink = | coauthors = | title = 1935 Mercedes-Benz 500K Special Roadster | work = | publisher = Sportscarmarket.com | date = August 2001 | url = http://www.sportscarmarket.com/Profiles/2001/August/German/ | format = | doi = | accessdate = }}</ref><ref name="specialk">{{cite web | last = Frank | first = Michael | authorlink = | coauthors = | title = Special K | work = | publisher = ''[[Forbes]]'' | date = [[February 5]], [[2003]] | url = http://www.forbes.com/2003/02/25/cx_mf_0225vow.html | format = | doi = | accessdate = }}</ref>
+
+The 500K used the same [[independent suspension]] setup as had been introduced on the 380, with a [[double wishbone]] [[front axle]], double-joint [[swing axle]] at the rear, and separate wheel location, [[coil spring]]s and damping, a world first.<ref name="born"/><ref name="sportscarmarket"/> Consequently it was a more comfortable and better handling car than Mercedes' previous [[Mercedes-Benz SSK|S/SS/SSK]] generation of [[roadster]]s from the 1920s, and offered greater appeal to buyers, particularly the growing number of well-heeled female drivers of the time.<ref name="born"/>
+
+Pressing the [[throttle]] pedal fully engaged the [[Roots supercharger]],<ref name="born"/> inducing the five [[litre]] [[straight-8|straight eight]] engine to produce up to {{convert|160|hp|kW|lk=on}} and making the car capable of over {{convert|160|km/h|-2|mph|lk=on}}, while consuming fuel at the rate of up to {{convert|30|l/100 km|1|mpgimp|1|mpgU.S.|abbr=on}} as it did so.<ref name="born"/><ref name="specialk"/>
+
+Three different [[chassis]] and eight [[coachbuilder|bodies]] were available for customers;<ref name="born"/><ref name="specialk"/> the two longer "B" and "C" four seat [[Cabriolet (automobile)|cabriolet]] versions rode on a [[wheelbase]] of {{convert|3290|mm|in|1|abbr=on}}, and would later be used on other [[sedan (car)|sedan]] and [[touring car]] models.<ref name="born"/> The short "A" chassis, with a {{convert|2980|mm|in|1|abbr=on}} wheelbase, underpinned the two-seater models: the ''Motorway Courier'', and the 1936 ''Special Roadster'' which offered the highest performance.<ref name="born"/><ref name="beautiful">{{cite web | last = | first = | authorlink = | coauthors = | title = The 25 Most Beautiful Cars Ever | work = | publisher = ''Automobile Magazine'' | date = | url = http://www.automobilemag.com/features/news/25_most_beautiful_cars/0609_mercedes_benz_500k_special_roadster/index.html | format = | doi = | accessdate = }}</ref> All models featured such advanced equipment as safety glass, [[hydraulic brake]]s, and a 12-[[volt]] electrical system sufficient to bear the load of the electric [[windscreen wiper]]s, [[power door lock|door lock]]s, and [[Blinker#Turn signals|indicators]].<ref name="specialk"/>
+
+342 500Ks were built during its two years in production, including 29 ''Special Roadsters'', before being replaced by the even more powerful [[Mercedes-Benz 540K|540K]] in 1936.<ref name="born"/> Today, they remain highly prized for their heritage and scarcity; when the car collection of [[Formula One]] supremo [[Bernie Ecclestone]] was auctioned in October 2007 it included five pre-war Mercedes, and his 500K ''Special Cabriolet'' fetched almost [[Pound sterling|£]]700,000 ([[United States dollar|US$]]1.45&nbsp;million).<ref name="msn">{{cite web | last = | first = | authorlink = | coauthors = | title = Gallery: Ecclestone Merc goes for £4m | work = | publisher = [[MSN]] | date = [[October 31]], [[2007]] | url = http://cars.uk.msn.com/news/car_news_article.aspx?cp-documentid=6543355 | format = | doi = | accessdate = }}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Mercedes-Benz vehicles|500K]]
+[[Category:1930s automobiles]]
+[[Category:Vehicles introduced in 1934]]
+
+[[de:Mercedes-Benz W29]]
+[[it:Mercedes-Benz W29]]
+[[sv:Mercedes-Benz W29]]

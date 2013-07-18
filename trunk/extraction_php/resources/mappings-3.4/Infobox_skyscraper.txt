@@ -1,0 +1,23 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Skyscraper
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = year_highest | ontologyProperty = Skyscraper/highestBuildingInYear }}
+	{{ DBpediaPropertyMapping | templateProperty = engineer | ontologyProperty = Skyscraper/engineer }}
+	{{ DBpediaPropertyMapping | templateProperty = contractor | ontologyProperty = Skyscraper/contractor }}
+	{{ DBpediaPropertyMapping | templateProperty = developer | ontologyProperty = Skyscraper/developer }}
+	{{ DBpediaPropertyMapping | templateProperty = management | ontologyProperty = Skyscraper/management }}
+	{{ DBpediaPropertyMapping | templateProperty = building_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = constructed | ontologyProperty = Building/buildingStartDate }}
+	{{ DBpediaPropertyMapping | templateProperty = constructed | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = est_completion | ontologyProperty = Building/buildingEndDate }}
+	{{ DBpediaPropertyMapping | templateProperty = opening | ontologyProperty = Building/openingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = demolished | ontologyProperty = Building/demolitionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = destroyed | ontologyProperty = Building/destructionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = floor_count | ontologyProperty = Building/floorCount }}
+	{{ DBpediaPropertyMapping | templateProperty = cost | ontologyProperty = Building/cost | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = floor_area | ontologyProperty = Building/floorArea | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = architect | ontologyProperty = Building/architect }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Building/owner }}
+}}

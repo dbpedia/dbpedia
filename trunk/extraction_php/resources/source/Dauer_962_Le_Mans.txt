@@ -1,0 +1,70 @@
+{{Infobox Automobile
+| image=
+| name =Dauer 962 Le Mans
+| manufacturer =[[Dauer Sportwagen]]
+| parent_company =
+| aka =
+| production =1993-?
+| assembly =
+| predecessor =
+| successor =
+| class =Homologated Racecar
+| body_style =2-door 
+| layout =[[RMR layout|Mid-engine, rear-wheel drive]]
+| platform =
+| engine = twin turbocharged Flat 6
+*544.4 kW (730.0 hp) @ 7400 rpm
+*700.9 N-m (517.0 ft·lbf) @ 5000 rpm
+| transmission =5-speed [[manual transmission|manual]]
+| wheelbase =
+| length =4650 mm (183.1 in)
+| width =1985 mm (78.1 in)
+| height =1050 mm (41.3 in)
+| ground_clearance =
+| front_track =
+| rear_track =
+| weight =1080 kg (2381 lb)
+| top_speed =
+| fuel_capacity =
+| related = [[Porsche 962]] <br /> [[Schuppan 962CR]] <br /> [[Koenig C62]] <br /> [[DP Motorsports DP962]]
+| similar =[[Porsche 911 GT1]] <br />[[Mercedes-Benz CLK GTR]] <br />[[McLaren F1 GTR]]
+| designer =[[Porsche]] / Achim Storz
+}}
+The '''Dauer 962 Le Mans''' is a [[sports car]] based on the [[Porsche 962]] [[auto racing|racing car]].  Built by German Jochen Dauer's [[Dauer Racing]], a racing version of this car went on to win the [[1994 24 Hours of Le Mans]] with the support of [[Porsche]] through the use of regulation loopholes.<ref name="qv500b">[http://www.qv500.com/dauer962p2.php QV500.com: Dauer 962 LM sport]</ref>
+
+== Road car ==
+Dauer Racing (now [[Dauer Sportwagen]]) produces the 962 Le Mans from actual Porsche 962 chassis which are stripped down for modification.<ref name="qv500a">[http://www.qv500.com/dauer962p1.php QV500.com: Dauer 962 LM]</ref>  Components of the bodywork are replaced with slightly revised [[carbon fibre]] and [[kevlar]] panels.  The under tray is replaced with a flat version for better stability at high speeds.<ref name="qv500b" />  The interior sees the addition of a second seat and leather is added to the cramped cockpit, as well as a video screen for [[DVD]] playback in later years.<ref name="962LM.com">Dauer 962 official press release (962LM.com)</ref>  Luggage was offered to customers through the addition of a small compartment in the front of the car.  A hydraulic suspension system has also been added to meet German ride height requirements.<ref name="962LM.com" /><ref name="supercars">[http://www.supercars.net/cars/404.html Supercars.net]</ref>
+
+For a powerplant, the 962 Le Mans would use nearly the same engine as the original 962: Porsche's water-cooled Type-935 2994 cc Flat-6 with two [[Borg Warner|Kühnle, Kopp und Kausch AG]] turbochargers.<ref name="962LM.com" />  Since the road car did not have to meet racing regulations, the air restrictor was removed allowing for an output of approximately {{Convert|730|hp|kW|0|abbr=on}}. A 5-speed racing gearbox was also retained.<ref name="962LM.com" />
+
+The first production car debuted at the 1993 [[Internationale Automobil-Ausstellung|Frankfurt Auto Show]].<ref name="962LM.com" /> While orders for the cars were taken, Dauer worked with [[Porsche]] to develop the two racing cars for the following years' [[24 Hours of Le Mans]]. After Dauer's victory, attention returned to the road cars where at least twelve more were built over the years.<ref name="supercars" />
+
+== Race car ==
+Following rule changes in the [[World Sportscar Championship]] in 1992 which saw [[Porsche 962]] numbers dwindle in Europe, including at the [[24 Hours of Le Mans]], [[Porsche]] was looking for ways to continue their sports car efforts. Although 962s were still legal at Le Mans, the class in which they ran no longer was capable of competing for overall wins against the top C1 class.
+
+With the re-introduction of production-based [[grand tourer]]-style cars in 1993, Porsche saw an opportunity to exploit a loophole which existed in this new class.<ref name="qv500b" /> Rules set by the [[Automobile Club de l'Ouest]] (ACO) which ran Le Mans stated that GT-class cars merely required a road going example, with no specific quantity of road cars specified to meet [[homologation]] rules. With Dauer's success in modifying a Porsche 962 into a street-legal car in 1993, Porsche saw an opportunity to bring the 962 back into competition.<ref name="qv500b" />
+
+With one production car shown to the public in 1993, Porsche had already met that requirement. Another rule in place at the time was the requirement that production-based cars have storage space for a typical suitcase, something which Dauer had been able to do since the road car was able to carry luggage. The flat bottom of the 962 Le Mans also fit with GT rules.<ref name="porUSA">[http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1994-962lemans/ Porsche USA] - 1994 Dauer 962</ref> Three more modifications were necessary to fully comply: Narrower tires than the 962 had run in [[Group C]], a larger fuel tank (now up to 120 litres),<ref name="qv500b" /> and another air restrictor for the engine, although this one would be larger than the one they had run in Group C.
+
+The flat bottom and narrow tires of the 962 Le Mans would unfortunately hinder the performance of the car over the long laps at Le Mans even with the increased power from the GT-class air restrictor. However Porsche believed that the larger fuel tank they were allowed in the GT-class would allow them to overcome this lack of speed by spending less time in the pits than normal Group C cars, something which is key for an endurance race.
+
+Arriving at Le Mans with the support of [[Porsche]]'s factory racing team, [[Joest Racing]],<ref name="porUSA" /> Dauer's two cars showed that they lacked the overall pace of the top Group C cars by qualifying fifth and seventh. However their pace in their class was shattering as the next closest GT1-class car could only muster 12th. The race saw Porsche's plan pan out, as the Dauer 962 Le Mans were able to gradually make their way to the top of the standings while their competitors spent time in the pits or succumbed to mechanical woes. In the end, only a lone [[Toyota]] 94C-V in the Group C class could contend with the Dauers, taking second place overall. The Dauer 962 Le Mans of [[Yannick Dalmas]], [[Hurley Haywood]], and [[Mauro Baldi]] would take the overall win while the second team car would finish one lap behind in third place overall.<ref name="porUSA" />
+
+Soon after this event the ACO attempted to fix the problems with their GT regulations by setting a minimum requirement for production cars to meet homologation standards.<ref name="supercars" /> With this, the Dauer 962s would never race again, nor would the normal Porsche 962s as the Group C class was finally abandoned.
+
+A total of two Dauer 962 Le Mans racing cars were ever built.
+
+== References ==
+<references/>
+== External links ==
+* [http://www.cybermasters.de/dauer-automobile/dauer/engabout.html Official website]
+* [http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1994-962lemans/ Porsche USA] - 1994 Dauer 962 Le Mans
+
+[[Category:Grand tourer racing cars]]
+[[Category:Porsche vehicles]]
+[[Category:Sports cars]]
+[[Category:24 Hours of Le Mans race cars]]
+
+[[de:Dauer 962 LM]]
+[[it:Dauer 962 Le Mans]]
+[[pl:Dauer 962 Le-Mans]]

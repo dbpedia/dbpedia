@@ -1,0 +1,78 @@
+{{Infobox Automobile
+|image= [[Image:BMW Hydrogen 7 at TED 2007.jpg|250px]]
+|name=BMW Hydrogen 7
+|manufacturer=[[BMW]]
+|class=[[Luxury car]]
+|related=[[BMW 7 Series]]
+}}
+
+The '''BMW Hydrogen 7''' is a limited production [[hydrogen vehicle]] built by German [[automobile]] manufacturer [[BMW]].  The car is based on BMW’s traditional gasoline powered [[BMW 7 Series|7-series]] line of vehicles, and more specifically the 760Li.  It uses the same 6 litre [[V12 engine|V-12]] motor as does the 760i and 760Li; however, it has been modified to also allow for the combustion of [[hydrogen]] as well as [[gasoline]], making it a [[Bivalent (engine)|bivalent]] engine.  Unlike many other current hydrogen powered vehicles like those being produced by [[Honda]], [[General Motors]], and [[Daimler Chrysler]] - which use [[fuel cell]] technology and hydrogen to create electricity to power the vehicle - the BMW directly ignites the hydrogen in its [[internal combustion engine]].
+
+==Production==
+[[Image:Motor Hydrogen 7.JPG|thumb|left|12-cylinder hydrogen engine of BMW Hydrogen 7]]
+
+BMW claims the Hydrogen 7 is the “world’s first production-ready hydrogen vehicle”; thus far, the Hydrogen 7 has only been released to select high-profile leasees.  Only 100 total vehicles have been produced to put their technology to the test, and no more are planned to be produced.<ref> [http://www.bmw.com/com/en/insights/technology/efficient_dynamics/phase_2/clean_energy/bmw_hydrogen_7.html BMW EfficientDynamics : BMW CleanEnergy : BMW AG]</ref>  BMW says it chose public figures such as politicians, media figures, businessmen and big names in the entertainment industry such as 2007 [[Academy Award]]-winning director [[Florian Henckel von Donnersmarck]] and the chairman of [[Sixt]] AG, Erich Sixt, because “they would be ideal ambassadors” for hydrogen fuel and can help spread awareness of the need for such technologies.<ref> [http://money.cnn.com/2006/09/12/autos/bmw_hydrogen/index.htm?postversion=2006091212 Coming soon: Hydrogen-powered BMW]</ref>
+
+There is doubt, however, over whether or not this automobile will ever be put into larger production, even if hydrogen fuel technology reaches the point of economical and “green” feasibility, as well as to have the infrastructure required to put hydrogen vehicles in demand.  The Hydrogen 7 uses more fuel than many trucks, consuming 13.9 L/100&nbsp;km for gasoline (petrol) and 50 L/100&nbsp;km for hydrogen.  The following table shows the consumption (L/100&nbsp;km) and fuel economy (mpg) for both Imperial and US gallons.
+
+{| border="1" cellpadding="5" cellspacing="0" align="center"
+|+'''Fuel Consumption Table for the BMW Hydrogen 7'''
+|-
+! colspan="3" style="background:#ffdead;" | Gasoline (petrol)
+! colspan="3" style="background:#ffdead;" | Hydrogen
+|-
+| style="background:#efefef;border-bottom:1px solid grey;" | L/100&nbsp;km
+| style="background:#efefef;border-bottom:1px solid grey;" | Imp. mpg
+| style="background:#efefef;border-bottom:1px solid grey;" | US mpg
+| style="background:#efefef;border-bottom:1px solid grey;" | L/100&nbsp;km
+| style="background:#efefef;border-bottom:1px solid grey;" | Imp. mpg
+| style="background:#efefef;border-bottom:1px solid grey;" | US mpg
+|-
+| style="border-bottom:1px solid grey;" align="center" | 13.9
+| style="border-bottom:1px solid grey;" align="center" | 20.3
+| style="border-bottom:1px solid grey;" align="center" | 16.9
+| style="border-bottom:1px solid grey;" align="center" | 50.0
+| style="border-bottom:1px solid grey;" align="center" | 5.6
+| style="border-bottom:1px solid grey;" align="center" | 4.7
+|-
+|}
+
+The difference in fuel consumption is largely due to the different [[energy density]] with gasoline (petrol) yielding 34.6 [[Energy_density#Energy_density_in_energy_storage_and_in_fuel|MJ/L]] and liquid hydrogen yielding 10.1 [[Energy_density#Energy_density_in_energy_storage_and_in_fuel|MJ/L]].  Based on these energy density figures, one would expect 47.6 L/100&nbsp;km for hydrogen based on 13.9 L/100&nbsp;km for gasoline (petrol); which is very close to the stated 50.0 L/100&nbsp;km.  It should be noted that hydrogen combustion as a source of energy is no where near as close as efficient as [[fuel cell]] technologies; however, this is a system that is in production (albeit limited) now.  
+
+Nonetheless, hydrogen fuel (whether converted to energy in fuel cells or internal combustion engines) is not green as it may seem; particularly so when you also consider that producing liquid hydrogen requires vasts amounts of energy.<ref name="spiegel.de">[http://www.spiegel.de/international/spiegel/0,1518,448648,00.html BMW's Hydrogen 7: Not as Green as it Seems]</ref>  It will also only be more expensive than its sister the 760Li (no retail price has been announced), which is BMW’s biggest and most expensive sedan, with a base price tag of over $118,000, thus further diminishing its widespread appeal.  As of November, 2006 there were only five filling stations in the entire world that supported BMW’s filling technology, furthering the obstacles of making this car worthwhile.
+
+==Use of hydrogen technology==
+[[Image:Wasserstoffeinfüllstutzen eines BMW.jpg|thumb|right|left: filler neck of a [[BMW]] for [[hydrogen]], right filler neck for fuel, [[Museum Autovision]], [[Altlußheim]], [[Germany]]]]
+The BMW Hydrogen 7 uses hydrogen as fuel differently from fuel-cell-type vehicles.  When in hydrogen mode, it injects the hydrogen directly into the car’s air intake manifold (similar to [[nitrous|nitrous oxide injection]]) to be combusted in the engine’s cylinders rather than converting the hydrogen’s energy into electricity to spin electric motors like a fuel cell.  BMW says this is a more efficient use of the hydrogen{{Fact|date=May 2008}}.  The car can also switch seamlessly between hydrogen and gasoline at the touch of a button on the steering wheel, and of course will do so automatically when one of the fuels is consumed.
+
+The hydrogen fuel is stored in a large, nearly 30-gallon (110 liters),{{Clarifyme|us or imp|date=February 2009}} bi-layered and highly insulated tank that stores the fuel as liquid rather than as compressed gas, which BMW says offers 75% more energy per volume as a liquid than compressed gas at 700 bars of pressure.<ref> [http://www.wired.com/cars/energy/news/2006/11/72100?currentPage=2 Road Testing BMW's Hydrogen 7]</ref>  The hydrogen tank’s insulation is under high vacuum in order to keep heat transfer to the hydrogen to a bare minimum, and is purportedly equivalent to a {{convert|55|ft|m|sing=on}} thick wall of polystyrene [[Styrofoam]].<ref> [http://www.cars.com/go/features/autoshows/vehicle.jsp?vehicletype=concept&autoshowyear=2007&vehicle=concept_bmw_7hydrogen&make=BMW&model=Hydrogen+7+Prototype  BMW Hydrogen 7 Prototype concept car from the Los Angeles Auto Show]</ref>
+
+To stay a liquid, hydrogen must be super-cooled and maintained at [[cryogenic]] temperatures of, at warmest, {{convert|-253|C|F|abbr=on}}.  When not using fuel, the Hydrogen 7’s hydrogen tank starts to warm and the hydrogen starts to vaporize.  Once the tank’s internal pressure reaches 87 PSi, at roughly 17 hours of non-use, the tank will safely vent the building pressure. Over 10-12 days, it will completely lose the contents of the tank because of this.<ref> [http://www.wired.com/cars/energy/news/2006/11/72100?currentPage=1 Road Testing BMW's Hydrogen 7]</ref>
+
+==Specifications==
+The car is powered by a 6.0 liter [[v engine|V-style]] 12-cylinder engine capable of running on both premium gasoline and hydrogen fuel.  It is rated at {{convert|191|kW|PS hp|sing=on}} and {{convert|390|N.m|ft.lbf|abbr=on}} of torque using either fuel.<ref name="spiegel.de"/>  The car accelerates from stopped to {{convert|100|km/h|mph||abbr=on}} in 9.5 seconds.  The hydrogen fuel tank holds roughly {{convert|8|kg|lb|0|abbr=on}} of hydrogen, enough to travel {{convert|125|mi|km}}.  The gasoline fuel tank holds 19.5 gallons, enough to travel {{convert|300|mi|km}} for a combined total of over {{convert|400|mi|km}} at cruising speeds.  The Hydrogen 7 gets about {{convert|4.7|mpgimp|L/100 km mpgus|abbr=on}} on hydrogen (by comparison Honda's [[FCX Clarity]] gets {{convert|81|mpgimp|L/100 km mpgus|abbr=on}}<ref> [http://www.telegraph.co.uk/motoring/main.jhtml?view=DETAILS&grid=A1YourView&xml=/motoring/2007/11/17/mfhon17.xml Honda FCX Clarity: Car of the century? ]</ref>) and {{convert|16.9|mpgimp|L/100 km mpgus|abbr=on}} on gasoline.  The [[curb weight]] of the Hydrogen 7 is roughly {{convert|550|lb|kg}} heavier than the 760Li, bringing it to about {{convert|5100|lb|kg}}. <ref>[http://www.wired.com/cars/energy/news/2006/11/72100 Road Testing BMW's Hydrogen 7]</ref>
+
+==Notes==
+{{reflist}}
+
+==See also==
+* [[CleanEnergy]]
+* [[Bivalent (engine)]]
+* [[List of hydrogen internal combustion engine vehicles]]
+
+==External links==
+* [http://news.bbc.co.uk/2/hi/business/6154212.stm  BMW's hydrogen car: beauty or beast?]
+* [http://www.greenermachine.com/index.php?pOption=post&pPostId=38 Article by GreenerMachine.com]
+* [http://www.cars.com/go/features/autoshows/vehicle.jsp?vehicletype=concept&autoshowyear=2007&vehicle=concept_bmw_7hydrogen&make=BMW&model=Hydrogen+7+Prototype  Cars.com BMW Hydrogen 7 Prototype]
+* [http://hydrogencar.ws/animated-presentation-of-the-bmw-hydrogen-7-refueling/  Video of BMW Hydrogen 7 Refueling]
+
+[[Category:Bivalent vehicles]]
+[[Category:BMW vehicles|Hydrogen 7]]
+[[Category:Hydrogen cars]]
+
+[[de:BMW Hydrogen 7]]
+[[fr:BMW Hydrogen 7]]
+[[hu:BMW Hydrogen 7]]
+[[no:BMW Hydrogen 7]]
+[[pt:BMW Hydrogen 7]]
+[[ru:BMW Hydrogen 7]]

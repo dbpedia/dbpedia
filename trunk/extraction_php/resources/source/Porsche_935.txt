@@ -1,0 +1,134 @@
+{{Infobox Automobile
+| image = [[Image:Porsche 935 K3.JPG|thumb|320px|[[Kremer Racing]] Porsche 935 K3, winner of the [[1979 24 Hours of Le Mans]], on display in Indianapolis]]
+| name =Porsche 935
+| manufacturer = [[Porsche]]
+| parent_company =
+| aka =
+| production =
+| assembly =
+| predecessor =Porsche Carrera RSR (1974)
+| successor =[[Porsche 961]]
+| class = [[Group 5 (racing)|Group 5 Special Production]]
+| body_style =2-door [[Coupé]]
+| layout =[[RR layout]]
+| platform =[[Porsche 911]]
+| engine = Flat 6 turbo
+| transmission = 4 speed, no differential
+| wheelbase =
+| length =
+| width =
+| height =
+| weight = 970 kg minimum required by rules
+| related =[[Porsche 934]], [[Porsche 930|930]]
+| designer =[[Norbert Singer]]
+}}
+The '''Porsche 935''' was introduced in 1976, as the factory racing version of the [[Porsche 930|Porsche 911 turbo]] prepared for [[Fédération Internationale de l'Automobile|FIA]]-[[Group 5 (racing)|Group 5]] rules. It was an evolution of the Porsche Carrera RSR 2.1 turbo prototype which had scored 2nd overall in the [[1974 24 Hours of Le Mans]].
+
+Beginning with the [[1977 World Championship for Makes season|1977 season]], Porsche offered the 935 to customers which entered the car in the [[World Championship for Makes]], in the [[IMSA (racing)|IMSA]] [[IMSA GT Championship|GT championship]] and in the German [[Deutsche Rennsport Meisterschaft]] (DRM). The 935 went on to win the [[1979 24 Hours of Le Mans]] overall, and other major endurance races, including Sebring, Daytona, and the 1000&nbsp;km Nürburgring. Of the 370<ref>http://www.racingsportscars.com/type/Porsche/935.html</ref> races  it was entered, it won 123.
+
+Usually, no other make could challenge the Porsche 935, as due to the availability of customer models, each race at the time typically featured at least five 935s. Racing became entertaining for the crowd at the expense of the diversity of makes. The large [[turbocharger]] was controlled by mechanical [[fuel injection]] which caused turbo lag followed shortly by a fireball spitting from the exhaust and an enormous amount of power (up to 800hp). The dominance of the 935 was ended by the FIA rules changes coming in effect in 1982, when the six numbered groups were replaced by only three groups, A, B and C. 
+
+== 935/76 ==
+For 1976, endurance racing had two World Championships: the [[1976 World Championship for Makes season|1976 FIA World Championship for Makes]] for Gr. 5 Special Production Cars, and the [[1976 World Sportscar Championship season]] for [[Group 6 (racing)|Group 6]] prototypes up to 3.0L. Accordingly, the 935 and the new [[Porsche 936]] were the two-pronged Porsche effort for 1976. Each championship had 7 races, with only Dijon hosting both at the same weekend, while on two other weekends, the races were even run in different countries, which forced Porsche to divide its resources. [[Jacky Ickx]] and [[Jochen Mass]] were the main drivers, if F1 schedule permitted. [[Rolf Stommelen]], who was recovering from his bad crash in the 1975 Spanish GP, was the backup, along with [[Manfred Schurti]].
+
+Under [[Group 5]] rules, also known as ''Silhouette rules'', several significant modifications were allowed (including bodywork modifications, larger wings, wider axles and water cooling), provided that the basic silhouette of the car remain unchanged when viewed from the front.<ref>http://speedhunters.com/archive/2008/09/15/retrospective-gt-gt-turbo-terrors-the-porsche-935-pt-1.aspx</ref> The 935 engine was a {{convert|560|hp|abbr=on}} (at 7900 rpm) version of the regular 3.0&nbsp;L [[flat-6]], with 60 mkp torque at 5400 rpm. Boost was between 1,35 and 1,55, consumption 52 litre per 100&nbsp;km. Capacity was reduced to 2.85&nbsp;L, and with the turbo charging penalty factor of 1.4, it fit into the 4.0&nbsp;L class which had a prescribed minimum weight of only {{convert|970|kg|abbr=on}}. Porsche, having lots of experience in light weight cars, had managed to get the Carrera RSR prototype under 800&nbsp;kg. The empty 935 tipped the scales at 900&nbsp;kg, and weight distribution could be balanced with additional 70&nbsp;kg. Preseason testing at the fast Paul Ricard circuit showed a top speed of 295&nbsp;km/h.<ref>Lothar Boschen, [[Jürgen Barth]]: ''Das Große Buch der Porsche Typen'', Motorbuch Verlag, 1983, p. 700</ref>
+
+Also, in addition to the naturally aspirated {{convert|340|hp|abbr=on}} Carrera RSR introduced in 1974, Porsche offered a customer racing version of the 911 Turbo prepared for the more standard [[Group 4 (racing)|Group 4]] rules, the {{convert|485|hp|abbr=on}} [[Porsche 934]]. Some customer teams modified their 934 to Gr. 5 rules with body kits supplied by Porsche, these were often designated 934/5. Cologne-based [[Kremer Racing]] entered<ref>http://wsrp.ic.cz/wsc1976.html#1</ref> a 935 K1 built on a factory shell<ref>http://wsrp.ic.cz/chassis/chassis_porsche_935.html</ref> which in the first race, the 6h [[Mugello]], finished 2nd behind the [[Martini Racing]] sponsored factory entry of Mass/Ickx. Porsches occupied the first seven places ahead of a BMW in 8th, which according to the 20-15-12-10-8-6-4-3-2-1 scheme meant that Porsche had now 20 points, and BMW 3. The factory 935 also scored pole, fastest lap and win at the 6h Vallelunga, where a BMW was second, though, with the best 934 being only 5th.
+
+After the second race, the CSI rule makers insisted that the ''whale tail'' hood of the road-going 930 must fit on the race car. The air-to-air intercooler setup under the rear hood had to be altered to a more compact air-to-water layout, which cost Porsche several weeks of testing and half a Million Deutsche Mark.<ref>Lothar Boschen, [[Jürgen Barth]]: ''Das Große Buch der Porsche Typen'', Motorbuch Verlag, 1983, p. 694</ref>
+
+The hastily modified 935 set again pole and fastest lap at the [[6h Silverstone]], but due to a clutch problem at the start, the Martini car could finish only 10th<ref>http://wsrp.ic.cz/wsc1976.html#3</ref>, with the 2nd-placed Kremer 935 collecting valuable points for Zuffenhausen. A private [[BMW E9|BMW 3.5 CSL]] had beaten it to the finish by a second. Even more worrisome was the fact that BMW Motorsport had entered also a turbo, a 3.2 CSL driven by [[Ronnie Peterson]] and [[Gunnar Nilsson]]. That new BMW had qualified only 1 second behind the factory 935, but two seconds ahead of the third placed Kremer 935. The powerful BMW did not last long in the race due to gearbox problems.
+
+Initially, Porsche ran the 935 with the 911's original fender-mounted headlights, in two different guises: a sprint version with a wider version of its wheel arches, and a high speed version with modified aerodynamics. The sprint setup was rarely used. However, after carefully studying the rulebooks, Porsche engineers, namely [[Norbert Singer]], discovered a loophole regarding the modifications of fenders that gave them the liberty to remove the headlights to reduce drag and create more downforce, to which the venting slits contribute. This ''flat nose'' (also known as the ''slant nose''), with headlights in the front spoiler, became the distinguishing feature of the 935 and was later offered on the roadgoing 930 as the ''Flachbau'', or "flatnose", part of Porsche's Sonderwunsch, or "special wish" program. Also, the 935 now had extended ''long tail'' rear fenders, similar to the low drag setup seen years ago on Carrera RS. These fenders also offered more space for engine periphery and efficient cooling.
+
+[[Image:Porsche935-Stommelen1977-05-29.jpg|thumb|The 935/77A of [[Georg Loos]] driven by [[Rolf Stommelen]] in the 1977 [[1000km Nürburgring]]. The year before, the factory had introduced the typical 935 body style there, also with Stommelen.]]
+The [[1000 km Nürburgring]], usually consisting of 44 laps, was run in 1976 as a 47 lap 1073&nbsp;km race, putting even more strain on the new Gr. 5 machinery. With Mass and Ickx being at the [[1976 Monaco Grand Prix]], [[Rolf Stommelen]] and [[Manfred Schurti]] stepped in to drive the 935 which by now had the new look it became famous with. Probably with the help of higher turbo boost, Stommelen qualified the 935 on Pole with a stunning 7:37,5<ref>http://wsrp.ic.cz/wsc1976.html#4</ref> (see [[List of Nordschleife lap times (racing)]]), while the BMW turbo did not take part. The fastest of only 9 race laps was just over 8min, though, as the engine was not sorted out set, and vibrations caused ignition failure. Again, a reliable [[Schnitzer Motorsport]]-entered normal BMW CSL took the win, with the customer 934 of Loos salvaging valuable second place points for Porsche.
+
+The [[1976 24 Hours of Le Mans]] counted towards neither World Championship, but Le Mans is often considered the real championship. For that race, it was possible to use the 935's well-tested original engine setup<ref>http://www.qv500.com/porsche91127p11b.php</ref>. The main battle was between the sportscars, with a Renault Alpine setting the pole. The 935 driven by Stommelen/Schurti qualified 3rd and despite the weight and drag of a Group 5 silhouette, finished 4th overall, with one of the [[Porsche 936]] taking the win. 
+
+At Zeltweg, Ickx was back, setting the pole, but the throttle link broke before mid race. [[Derek Bell (auto racer)|Derek Bell]] set fastest lap in the Kremer 935, but nonetheless two BMW Coupés won ahead of a private 934. Porsche had still a narrow lead in the points standings, but only the best 5 of the 7 events would count. BMW had now 3 wins compared to Porsche's two, which meant that Porsche had to win the final two races. The new engine setup was tested at Weissach in a modified 934 while the race cars were shipped overseas. At Watkins Glen, the regular race chassis 002 of Mass/Ickx needed an extra stop for new pads at the [[Porsche 917]] derived brakes, and the test chassis 001 of Stommelen/Schurti won, with the best BMW being 4th. Porsche now had 3 wins and two seconds equaling 90 points, which meant that only another win could add 5 more points to their tally. BMW had also 3 wins, but only one second and a fourth, equaling 85 points. Without a competitive third brand, the winner of the final round would take the World Championship.
+
+In Dijon, the turbo of BMW Motorsport was back, now with 3.5L, and this time the fast Swedes Peterson/Nilsson put it on pole, half a second ahead of Ickx. Again, the transmission was not as strong as the Bavarian Motor Works 750hp engine, failing before the first of the 6 hours had passed. Three 935 plus two Gr. 5 spec 934/5 won ahead of the best normally aspirated BMW. The 935 and 936 had each won its Championship, and Le Mans, too. The age of turbo engines had begun in endurance racing.
+
+=== 935/77A Customer ===
+[[Image:Wollek Porsche 935 2007.jpg|thumb|[[Kremer Racing|Kremer 935 K2]] of [[Bob Wollek]], an improved version of the 935/77A]]
+Based on the 1976 version, thirteen Porsche 935/77A<ref>http://www.qv500.com/porsche91127p15.php</ref> were sold to privateer teams in Australia, Italy, France, the US and Germany. Among others, [[Cologne]]-based rivals [[Georg Loos]] and [[Kremer Racing]] entered 935 in the 1977<ref>http://homepage.mac.com/frank_de_jong/Pages/1977%20Cars.html</ref> [[Deutsche Rennsport Meisterschaft]] which introduced the Group 5 rules. As the naturally-aspirated [[BMW E9|BMW Coupés]] and [[Ford Capri]] had pulled out of the Div. I (over 2.0 litre) of the DRM, these Porsche had no serious competition in the big Division until other turbo-charged cars showed up, like the BMW-powered Schnitzer Toyota Celica, or the Zakspeed Ford Capri.
+
+The DRM was a drivers championship, and with equal Porsche customer machinery, no driver could dominate, with meant that despite the customer 934 of 1976 and the 935 since 1977 dominating their Division, the championship was often decided in favour of a small Division pilot. Kremer went on to develop yet another special 935, the K2, and also ran the optional 3.0L engine offered by Porsche, which was connected with a 60&nbsp;kg more minimal weight, though.
+
+Slightly modified, Porsche sold also customer cars in 1978<ref>http://www.qv500.com/porsche911scp9.php</ref> and 1979<ref>http://www.qv500.com/porsche911scp10.php</ref>.
+
+== 935/77 Works==
+Due to lack of competition in 1976, Porsche decided not to defend its sportscar championship, leaving it to the [[Alfa Romeo Tipo 33]]. It would be demoted to a European series in 1978 before being discontinued.
+The factory continued to develop and occasionally race a single new 935 in the [[1977 World Championship for Makes season]], in case BMW or another brand would bring a competitive turbo. Customers were not happy that the factory would race them with a newer car, but as the 935/77 was often unreliable, it could be beaten in five of the nine WCM events.
+In the WCM season opening 24h Daytona, the old car was entered, but tyre failures caused an DNF, with an old RSR taking the win. The new car body was changed significantly to lower drag, resulting in a 10&nbsp;km/h higher top speed at Paul Ricard, where it covered 3500&nbsp;km in tests at speed, lapping 3,4 secs faster. The front fenders, which in 1976 had followed the hood, now protruded above the hood line, and accommodated also the mirrors. The rear fenders were altered, but the biggest change was the addition of a second rear window above the standard one. This allowed cleaner air flow to the rear wing under which the single turbo was later replaced by two KKK units. This improved throttle response and also power, but several head gasket failures meant that Porsche had some home work to do for 1978.
+
+The works 935/77 qualified 6th at the [[1977 24 Hours of Le Mans]], behind the Renault Alpines and the 936s, but engine troubles ended the race early. As in 1976, a 936 won after the turbo powered sportscars chased each other into troubles. This time, a customer 935 even finished third overall.
+
+=== 935/77 2.0 ===
+[[File:Porsche 935-2.0 Coupe Baby 1977 frontleft 2009-03-14 A.JPG|thumb|1977 factory 935 body, here the small 1.4 litre turbo engine ''Baby'']]
+The 935/77 body style was used also for a single purpose car: winning one race in the small 2.0 litre Div. II of the DRM, to prove that Porsche can win there, too. In Div. I, the customer 935 raced each other, and German TV announced that at the Norisring, it would thus cover only the Div. II race. Porsche engineers were sent to the drawing boards to reduced the capacity of the air-cooled flat-6 to 1425&nbsp;cc and {{convert|370|hp|abbr=on}}. The weight could be lowered to {{convert|750|kg|lb|abbr=on}} according to rules in this class. To achieve this, large parts of the steel body were replaced by a tubular aluminium space frame. 
+
+At the time, [[Zakspeed]]-Ford and [[Schnitzer]]-BMW were in transition from the naturally-aspirated 2.0 4cyl with about 300 hp to 1.4 litre turbo engines with 350 hp and more. These engines would later would move on to Formula One, with the BMW powerplant winning the 1983 F1 championship, and becoming the strongest F1 engine ever, at up to 1500hp.
+
+In the first outing at [[Norisring]]<ref>http://homepage.mac.com/frank_de_jong/Races/1977%20Norisring.html</ref><ref>http://wsrp.ic.cz/drm1977.html#6</ref> in early July 1977, both the Baby and [[Jacky Ickx]] had problems due to heat. Skipping the Diepholz airfield round, Porsche sorted the car out for the DRM support race<ref>http://homepage.mac.com/frank_de_jong/Races/1977%20Hockenheim%20GP.html</ref><ref>http://wsrp.ic.cz/drm1977.html#8</ref> of the [[1977 German Grand Prix]] at the fast [[Hockenheimring]] (long version). In changing weather conditions, Jacky Ickx set pole by almost three seconds and won with 50 seconds, setting fastest lap in the process. With its mission accomplished, the Porsche 935/77 2.0 (chassis 935/2-001) was retired to the [[Porsche Museum]].
+
+== 935/78 "Moby Dick" ==
+[[Image:Porsche 935-78 and Ferrari 512 BB Spa 2009.JPG|thumb|935/78 Moby Dick replica]]
+For 1978, a third and final version of the 935 was developed, the 935/78, intended only for Le Mans. At this stage, the company leaders had decided to neglect the 15 year old 911, which was based on the 50 years old VW, as by now, Porsche had introduced the water cooled front engine [[Porsche 928]] and [[Porsche 924]] models, similar to Volkswagen, which had replaced the Beetle with the Golf. Due to the head gasket failures of the 1977 biturbo, Porsche parted with their air cooling tradition and introduced water-cooled cylinder heads in the 1978 engine, and equipped them with four valves, too. The capacity was enlarged to 3.2&nbsp;L, increasing its output to typically 750&nbsp;hp. The weight, which was less important on the Le Mans straights, had to be 1030&nbsp;kg now. As this track was run clockwise, the driver seat was moved over to the right side for better weight distribution and sight in right hand corners, like Dunlop, Tertre Rouge and Mulsanne, another distinctive feature of the 1978 model.
+
+The new car again took full advantage of a new loophole in the Group 5 rules, introduced for BMW, allowing to cut the floor to accommodate the exhaust of the front engine. As this rule applied also for the rear engine Porsche, the whole floor pan of the 911 was cut away, and the body was lowered by {{convert|10|cm|in|abbr=on}}. The gearbox was mounted upside down to reduce the angle of the drive shafts. As the rules did not limit the forward extension of the rear aerodynamic devices, Porsche even added fairings to the doors, bridging the gap between the front and rear fenders. These were shortened later, covering only the front third of the doors. Because of its white color and long tail shape optimised for low drag, the 935/78 was often nicknamed ''[[Moby-Dick]]''. 
+
+With this version, Mass/Ickx won the test race, the 6h at the fast [[Silverstone Circuit]], the pole (1:22,38) and fastest lap (1:23,98 or 202,519&nbsp;km/h) being only 4 secs slower than the corresponding times of James Hunt in the [[1977 British Grand Prix]] which covered only a quarter of the distance.
+
+At the [[1978 24 Hours of Le Mans]], the 935 qualified third, barely beaten by a Renault Alpine and a 936. Compared to 1976, lap times were 15 seconds quicker now. With its 3.2L engine, it was the fastest car on the straight in [[Le Mans]] at 235 mph, easily passing the prototypes of Renault Alpine as well as the teammate 936, as these Group 6 cars had 2.1L engines, equal to normal 3.0L. The engine had to be replaced before the race, though, and with ensuing problems early in the race, Moby Dick was no contender, finishing 8th behind three customer 935. In its third attempt, Renault finally managed to beat Porsche, and then went on to focus on F1. Two of the three 936 and another Alpine occupied the other three places, which meant that the best naturally aspirated sportscar finished only 9th. Before being retired to the museum, the Moby Dick was also entered at Vallelunga and at the Norisring, the annual highlight of the DRM series, but the twisty track around the Nuremberg Reichsparteitag grand stand is quite the opposite to the Le Mans circuit the car was made for, including being run counter-clockwise around two narrow lefthand turns. The car did not finish there.
+
+Awaiting rule changes taking effect in 1982, Porsche did not officially enter in 1979 or 1980, granting only some limited support to customer efforts with the 935, 936 and even decade old 908 and 917, mainly in form of spare parts, engines and know-how which by then was rather dated, too. Factory racing was mainly done with the [[Porsche 924]] turbo variants called Carrera GT, with few success.
+
+Private non-factory built replica cars of the 1977 body style and the "Moby Dick" were entered in DRM and IMSA in following years by [[Joest Racing]] and Moretti racing.
+
+== 935 K3 & K4 by Kremer ==
+[[Image:1981 Porsche 935 K3.jpg|thumb|1981 Wera Weissberg Team Porsche [[Kremer Racing|Kremer]] 935 K3]]
+As Porsche hesitated to sell their Evolution models, some teams developed their own ideas, especially [[Kremer Racing]] from [[Cologne]], [[Germany]]. Parallel to the factory in 1976, they had built a 935 K1, and in 1977, modified their customer 935 to the K2. For 1979, they introduced the 935 K3 (for "Kremer Type 3"; the derivative of the successful K2). Driven mainly by [[Klaus Ludwig]], it won the 24 Hours of Le Mans in 1979, beating all prototypes, in heavy rain, which is usually considered a disadvantage for race cars with windshields. Coming in second was a factory spec model, driven by [[Rolf Stommelen]], and supported by team owner [[Dick Barbour]] and actor [[Paul Newman]].
+
+Facing strong competition in the 1980 DRM by the big [[Zakspeed]] Ford Capri, the K4<ref>http://www.imca-slotracing.com/2008-XMAS3.htm</ref> was introduced in mid 1981, for 400 000 Deutsche Mark.<ref>Lothar Boschen, [[Jürgen Barth]]: ''Das Große Buch der Porsche Typen'', Motorbuch Verlag, 1983, p. 705</ref> Porsche supplied an 3,1L engine with 750-800 hp at 1,5 bar boost for 91 000 DM in total.
+
+== Success & Legacy ==
+Through 1984 the 935 won over 150 races worldwide, including more than 20 class wins. It scored outright wins in the [[1979 24 Hours of Le Mans]], and won the [[24 Hours of Daytona]] and the [[12 Hours of Sebring]] six times each. It was also undefeated in the German DRM between 1977 and 1979, posted victories in the IMSA GTX class, and won many races on the famous [[Nürburgring]] Nordschleife, including three [[1000km Nürburgring]]. The 935 also took Porsche to victory in the FIA World Championship for Makes each year from 1976 to 1979. In 1980 and 1981, Lancia won the title with their Beta Montecarlo 1.4t, by regularly winning the sub 2.0L category, and occasionally defeating Porsche in the big category. In 1982 [[Alan Jones]] the 1980 World Formula 1 Championship drove it to victory in the 1982 [[Australian GT Championship]] where it was unbeaten for the whole season.  In 1983 the same car in the hand of Rusty French won the championship as well
+
+The Moby Dick engine was the basis for an all-watercooled 2.65L engine intended for the Indy 500, but rule makers there, remembering the dominance of the Porsche 917/10 turbo and 935, limited its boost so it would not be competitive against domestic machinery. Instead, the engine was used in the 1981 Le Mans winning 936/81, and in the 956 and 962C which would dominate the mid 1980s. Since 1999, this engine block forms the basis of the successful GT3 models.
+
+After Group 5 was discontinued by FIA after 1982, the 935 continued to race in IMSA's GTP category, usually entered by smaller privateer names, who were not permitted by IMSA regulations to race the new Group C [[Porsche 956]]. Due to this, the [[Porsche 962]] was introduced to the US market in 1984, fitted with the 935 air cooled single turbo engine. By 1985 the days of the 935 were mostly over as it could hardly be modified to a groundeffect design, with the rear-mounted flat 6 prohibiting a diffusor, an issue which also affects modern 911 race cars. Only a handful of 935's remained, and the car was no longer competitive with the new GTP cars. The 935 was seen in two races in the 1986 season.
+
+The 4 wheel drive [[Porsche 959]], and its racing counterpart [[Porsche 961]], can be considered a high tech successor to the 935, but Group B never got a circuit racing series, and was only used in rallying before being banned there due to its danger. The 1980s had few racing opportunities for turbocharged 911, which often were fitted with 935-style bodywork. Being run by amateurs at the Nürburgring in VLN endurance and in the 24h, they were often banned or at least slowed down by rules. 
+
+The 1990s [[Porsche 911 GT2]] based on the 993 is also a successor to the 935, but BPR series and FIA GT rules required a higher weight, and intake restrictors limited power to 550hp, less than the first 935/76. The [[Porsche 911 GT1]] with its mid-engine and lowered roof has a different concept, though. Starting in 2003, the turbo-charged Porsche 996 of Alzen set new records at the Nürburgring [[VLN]] endurance series (see [[List of Nordschleife lap times (racing)]]), with speeds reminding of the 935 era, despite it being also slowed down by minimum weight (1350&nbsp;kg) and limited boost.
+
+==Popular culture==
+The Transformers characters of [[Jazz (Transformers)|Jazz]] and [[Ricochet (Transformers)|Ricochet]] into Porsche 935 cars.
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+{{commonscat|Porsche 935}}
+*[http://www.porsche.com/usa/eventsandracing/motorsport/philosophy/history/racingcars/1976-935coupe/ Porsche official website: 1976 Porsche 935]
+*[http://www.geocities.com/simontmallett/935baby.html Profile of the 935/77 2 Ltr "Baby"]
+*[http://www.geocities.com/simontmallett/mobydick.html Profile of the 935/78 "Moby Dick"]
+*[http://wsrp.ic.cz/chassis/chassis_porsche_935.html Porsche 935 chassis numbers]
+*[http://speedhunters.com/archive/2008/09/19/video-gt-gt-montage-porsche-racing-76.aspx Video collage of 1976 races]
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|935]]
+[[Category:Sports racing cars]]
+[[Category:24 Hours of Le Mans race cars]]
+
+[[de:Porsche 935]]
+[[es:Porsche 935]]
+[[fr:Porsche 935]]
+[[it:Porsche 935]]
+[[ja:ポルシェ・935]]
+[[ru:Porsche 935]]
+[[sv:Porsche 935]]
+[[tr:Porsche 935]]

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= end year of sales
+|rdfs:domain	= Sales
+|rdfs:range		= xsd:gYear
+}}

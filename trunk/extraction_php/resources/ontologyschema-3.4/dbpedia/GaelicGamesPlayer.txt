@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Gaelic Games Player
+|rdfs:subClassOf = Athlete
+}}

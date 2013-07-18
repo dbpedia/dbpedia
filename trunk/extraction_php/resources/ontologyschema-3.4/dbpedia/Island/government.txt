@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label = government
+|rdfs:domain = Island
+}}

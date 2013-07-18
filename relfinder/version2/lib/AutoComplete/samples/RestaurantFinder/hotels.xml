@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+<Hotel>
+		<Name>Blue Ginger</Name>
+		<Address>583 Washington St</Address>
+		<City>Wellesley</City>
+		<Phone>(781) 283-5790</Phone>
+		<Photo>assets/nophoto.jpg</Photo>
+		<Description>Ming and Polly Tsai opened Blue Ginger in February of 1998, in the Boston suburb of Wellesley, Massachusetts.  Designed by both Ming and Polly and in conjunction with a Feng Shui Master, Blue Ginger showcases an open kitchen with a 40 foot blue pearl granite counter, subtle recessed lighting, cream colored walls simply adorned with Vietnamese waterscapes, warm cherry woodwork, Italian granite floors and a soothing water sculpture. </Description>
+		<Cuisines>
+			<Cuisine>African,</Cuisine>
+			<Cuisine>American,</Cuisine>
+			<Cuisine>Pizza,</Cuisine>
+			<Cuisine>European,</Cuisine>
+			<Cuisine>Indian</Cuisine>
+		</Cuisines>
+	</Hotel>
+<Hotel>
+		<Name>Argana</Name>
+		<Address>1287 Cambridge St</Address>
+		<City>Cambridge</City>
+		<Phone>(617) 868-1247</Phone>
+		<Photo>assets/argana.jpg</Photo>
+		<Description>Argana is a smal southwestern village of Morocco, which takes its name from the Argan tree, Argan spinosa. This specie is native to Morocco, is the second most common tree in the country.</Description>
+		<Cuisines>
+			<Cuisine>Thai,</Cuisine>
+			<Cuisine>Indian,</Cuisine>
+			<Cuisine>Chinese,</Cuisine>
+			<Cuisine>African</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Addis Red Sea</Name>
+		<Address>544 Tremont St</Address>
+		<City>Boston</City>
+		<Phone>(617) 426-8727</Phone>
+		<Photo>assets/addis.jpg</Photo>
+		<Description>If you think all the restaurants of Boston look alike, you haven''t tried Addis, an authentic Ethopian restaurant located on Tremont street in the South End neighborhood.</Description>
+		<Cuisines>
+			<Cuisine>African,</Cuisine>
+			<Cuisine>American,</Cuisine>
+			<Cuisine>Thai,</Cuisine>
+			<Cuisine>Indian,</Cuisine>
+			<Cuisine>Pizza,</Cuisine>
+			<Cuisine>Seafood,</Cuisine>
+			<Cuisine>Afgan,</Cuisine>
+			<Cuisine>Chinese</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Aquitaine</Name>
+		<Address>569 Tremont St</Address>
+		<City>Boston</City>
+		<Phone>(617) 424-8577</Phone>
+		<Photo>assets/aquitaine.jpg</Photo>
+		<Description>Aquitaine Bar a Vin Bistrot has established itself as the premier French  Bistro in the South End. Inspired by Parisian neighborhood bistros, award-winning Aquitaine offers an authentic French dining experience.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>Chinese,</Cuisine>
+			<Cuisine>Indian,</Cuisine>
+			<Cuisine>Japanese</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Dali</Name>
+		<Address>415 Washington St</Address>
+		<City>Somerville</City>
+		<Phone>(617) 661-3254</Phone>
+		<Photo>assets/dali.jpg</Photo>
+		<Description>Please come  in, have a seat at our bar and enjoy a glass of wine, sangria, crisp sherry or a smooth glass of port! Then settle in for a culinary feast of classic entrees or more than  40 authentic Spanish tapas complemented with the taste of the finest Spanish wine.</Description>
+		<Cuisines>
+			<Cuisine>Spanish,</Cuisine>
+			<Cuisine>European</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Brasserie Jo</Name>
+		<Address>120 Huntington Ave</Address>
+		<City>Boston</City>
+		<Phone>(617) 425-3240</Phone>
+		<Photo>assets/jo.jpg</Photo>
+		<Description>Brasserie Jo has three main spaces: a French bar, a main dining area with a 1940s look, and a  unique "Winter Garden."  In addition to breakfast, lunch, and dinner, the restaurant offers a late-night menu until midnight and serves brunch on weekends.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>European</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Aspasia</Name>
+		<Address>377 Walden St</Address>
+		<City>Cambridge</City>
+		<Phone>(617) 864-4745</Phone>
+		<Photo>assets/aspasia.jpg</Photo>
+		<Description>Tucked  away in Huron Village is one of Cambridge''s most exciting dining destinations. Aspasia is a 30-seat fine dining restaurant about a half a mile from Harvard Square down  Concord Avenue. The menu changes frequently according to what are the best and freshest ingredients that are available and the chef''s inspiration.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>Italian,</Cuisine>
+			<Cuisine>Pizza</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Kashmir</Name>
+		<Address>279 Newbury St</Address>
+		<City>Boston</City>
+		<Phone>(617) 536-1695</Phone>
+		<Photo>assets/kashmir.jpg</Photo>
+		<Description>This is the restaurant that sets the bar for all other Indian restaurants in the  area. Best of Boston, Boston''s Best, Reader''s Choice and more. For the exotic experience of Indian Cuisine, whether for the first time or the best time, this is the  place. At one of the most stylish addresses in town, join us and delight your senses.</Description>
+		<Cuisines>
+			<Cuisine>Afgan,</Cuisine>
+			<Cuisine>Indian</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Radius</Name>
+		<Address>8 High St</Address>
+		<City>Boston</City>
+		<Phone>(617) 426-1234</Phone>
+		<Photo>assets/nophoto.jpg</Photo>
+		<Description>Radius  offers a Modern French menu, a lighter style of cuisine marked by an emphasis on seasonal ingredients, classical technique, and the use of flavored oils, emulsions, juices  and reductions. Our menus change with the seasons, the market, and the chef''s whim. To see representative dishes and menus, explore the links above.</Description>
+		<Cuisines>
+			<Cuisine>American</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Aujourd Hui</Name>
+		<Address>200 Boylston St</Address>
+		<City>Boston</City>
+		<Phone>(617) 451-1392</Phone>
+		<Photo>assets/aujourdhui.jpg</Photo>
+		<Description>Aujourd hui serves gourmet "New American" food, prepared with the freshest  regional ingredients flown in daily from around the world. An inspired selection of nutritionally balanced healthier fare is also available. An extensive wine list -- predominantly American, but featuring wines from around the world -- complements the menu.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>Thai</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Flora</Name>
+		<Address>190 Massachusetts Ave</Address>
+		<City>Arlington</City>
+		<Phone>(781) 641-1664</Phone>
+		<Photo>assets/flora.jpg</Photo>
+		<Description>Located in the heart of swinging East Arlington, Massachusetts, flora restaurant has been a favored local dining destination since 1996. A recent renovation and expansion has increased the comfort level while maintaining flora''s intimate charm.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>American</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Sabur</Name>
+		<Address>212 Holland St</Address>
+		<City>Somerville</City>
+		<Phone>(617) 776-7890</Phone>
+		<Photo>assets/sabur.jpg</Photo>
+		<Description>Minutes from the Red Line in Davis Square, guests will discover a multi-ethnic cuisine  inspired by the rustic fare of the Mediterranean region. The menu features exotic flavors and aromas of regions ranging from Italy, Greece, Southern France, and the Balkans  to North Africa and beyond. The food is sophisticated in flavor, rustic in charm, and unpretentious in appearance.</Description>
+		<Cuisines>
+			<Cuisine>European</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Rialto</Name>
+		<Address>1 Bennett Street (Charles Hotel)</Address>
+		<City>Cambridge</City>
+		<Phone>(617) 661-5050</Phone>
+		<Photo>assets/rialto.jpg</Photo>
+		<Description>Jody Adams describes her food as "intensely flavored, honest and straight-forward,  with respect for tradition, seasons, and fresh local ingredients." Her commitment to the regional food of France, Italy and Spain is evident in such dishes as her Soupe de  poissons - Provencal fisherman''s soup with rouille, Gruyere and basil oil; Grilled Wellfleet clams with garlic bread; Slow roasted Long Island duck with braised escarole.</Description>
+		<Cuisines>
+			<Cuisine>American,</Cuisine>
+			<Cuisine>European,</Cuisine>
+			<Cuisine>Seafood</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Daily Catch</Name>
+		<Address>323 Hanover St</Address>
+		<City>Boston</City>
+		<Phone>(617) 523-8567</Phone>
+		<Photo>assets/dailycatch.jpg</Photo>
+		<Description>The Daily Catch eateries known the world around continue to provide Boston''s freshest fish prepared exquisitely with family held Sicilian recipes, the Old World charm is tasted in every bite.</Description>
+		<Cuisines>
+			<Cuisine>Seafood,</Cuisine>
+			<Cuisine>Chinese,</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Terramia</Name>
+		<Address>98 Salem St</Address>
+		<City>Boston</City>
+		<Phone>(617) 523-3112</Phone>
+		<Photo>assets/nophoto.jpg</Photo>
+		<Description>A true gem among all those rhinestones in the North End, this rustic but cozy  trattoria with stucco walls and beamed ceilings specializes in creative interpretations of Italian classics. The bad news is that there''s no coffee or dessert. The good  news is that you can work off dinner with a stroll around the neighborhood before stopping someplace on Hanover Street for an espresso and a pastry.</Description>
+		<Cuisines>
+			<Cuisine>Itanlian</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Durgin Park</Name>
+		<Address>Quincy Market</Address>
+		<City>Boston</City>
+		<Phone>(617) 227-2038</Phone>
+		<Photo>assets/durginpark.jpg</Photo>
+		<Description>For  well over a century, Durgin-Park has catered to the hearty appetites of straw-hatted, white-aproned market men and local characters. Today it hosts visiting celebrities,  business men and women, students, and tourists from every part of the globe.</Description>
+		<Cuisines>
+			<Cuisine>African,</Cuisine>
+			<Cuisine>Seafood,</Cuisine>
+			<Cuisine>Thai</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Sel de la Terre</Name>
+		<Address>255 State Street</Address>
+		<City>Boston</City>
+		<Phone>(617) 720-1300</Phone>
+		<Photo>assets/seldelaterre.jpg</Photo>
+		<Description>Sel de la Terre samples the rustic country fare of Provence and surrounding Southern France with Provencal classics  such as bouillabaisse, fresh seafood, country roasts, omelettes, and pates on our varied and extensive menus. In addition to a full bar menu for meals and late-night  snacking, our bar features several varieties of pastis, aperitifs, and wines by the bottle or by the glass to complement every course.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>Spanish</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Cuchi Cuchi</Name>
+		<Address>795 Main Street</Address>
+		<City>Cambridge</City>
+		<Phone>(617) 864-2929</Phone>
+		<Photo>assets/cuchi.jpg</Photo>
+		<Description>Inspired by the tradition of tapas or little dishes that Mario Leon and Tamara Bourso introduced to Boston in 1989 via Dali  Restaurant in Somerville, Cuchi Cuchi is presenting "straight up" little international dishes whose main ingredients stand by themselves, without side dishes.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>Japanese,</Cuisine>
+			<Cuisine>Chinese,</Cuisine>
+			<Cuisine>Afgan,</Cuisine>
+			<Cuisine>Indian</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Brown Sugar Cafe</Name>
+		<Address>129 Jersey  St</Address>
+		<City>Boston</City>
+		<Phone>(617) 266-2928</Phone>
+		<Photo>assets/nophoto.jpg</Photo>
+		<Description>In 1996, Suriyant Jamdee and Suraphong Pinyochon partnered to open Brown Sugar Cafe in the Fenway neighborhood where they lived with their families. Suriyant, Suraphong and their wives, Soontaree and Darny, have made a habit of getting to know their customers and feeding them well. Besides the personal attention that gives the restaurant its local feel, they stress the importance of buying fresh kaffir lime leaves, galanga, and other ingredients, although they are more expensive than the dried varieties.</Description>
+		<Cuisines>
+			<Cuisine>Thai</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Henrietta's Table</Name>
+		<Address>1 Bennett Street</Address>
+		<City>Cambridge</City>
+		<Phone>(617) 661-5005</Phone>
+		<Photo>assets/nophoto.jpg</Photo>
+		<Description>Henrietta's Table is comfort food, redefined. This means full, robust flavors using the freshest of ingredients obtained from local farmers and fishermen. In addition to serving the best breakfast in Boston (as chosen by Boston Magazine in 2000), a meal that attracts more Nobel Prize laureates than perhaps any other morning meal in the country, the restaurant also has a loyal dinner following. People come near and far for Chef Davis contemporary New England cuisine, and they travel because a bevy of national press, including Food and Wine, USAToday and Travel and Leisure has told them to.</Description>
+		<Cuisines>
+			<Cuisine>American</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Hamersley''s Bistro</Name>
+		<Address>553  Tremont</Address>
+		<City>Boston</City>
+		<Phone>(617) 423-2700</Phone>
+		<Photo>assets/hamersley.jpg</Photo>
+		<Description>Boston''s four-star bistro and your place for innovative contemporary cuisine.</Description>
+		<Cuisines>
+			<Cuisine>American,</Cuisine>
+			<Cuisine>French</Cuisine>
+		</Cuisines>
+	</Hotel>
+	<Hotel>
+		<Name>Sandrine</Name>
+		<Address>8 Holyoke  Street</Address>
+		<City>Cambridge</City>
+		<Phone>(617) 497-5300</Phone>
+		<Photo>assets/nophoto.jpg</Photo>
+		<Description>Sandrine''s Bistro opened in 1996. Tucked on a side  street in historic Harvard Square this unpretentious bistro offers some of the finest French Cuisine in New England.</Description>
+		<Cuisines>
+			<Cuisine>French,</Cuisine>
+			<Cuisine>Pizza,</Cuisine>
+			<Cuisine>European</Cuisine>
+		</Cuisines>
+	</Hotel>
+</Hotels>

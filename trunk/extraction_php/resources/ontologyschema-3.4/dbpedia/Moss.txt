@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Moss
+|rdfs:subClassOf = Plant
+}}

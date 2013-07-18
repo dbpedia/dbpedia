@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = number of pads
+|rdfs:domain = LaunchPad
+|rdfs:range = xsd:integer
+}}

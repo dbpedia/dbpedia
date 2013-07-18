@@ -1,0 +1,77 @@
+{{Refimprove|date=March 2008}}
+{{Infobox Automobile engine
+|name          = Lamborghini V12
+|image         = [[Image:Lambo V12 F1.JPG|250px]] ''[[Lamborghini]]'s V12 [[Formula One]] engine<br>at the [[Lamborghini Museum]]
+|aka           = 
+|manufacturer  = [[Lamborghini]]
+|configuration = 60° [[V12 engine|V12]] [[petrol engine]]
+|production    = 
+|predecessor   = 
+|successor     = 
+|bore          = {{convert|77.0|mm|2|abbr=on|lk=on}} (3,464&nbsp;cc)
+|stroke        = {{convert|62.0|mm|2|abbr=on}} (3,464&nbsp;cc)
+|displacement  = {{convert|3464|cc|1|abbr=on|lk=on}},<br>{{convert|3929|cc|1|abbr=on}},<br>{{convert|6192|cc|1|abbr=on}},<br>{{convert|6496|cc|1|abbr=on}}
+|length        = 
+|diameter      = 
+|width         = 
+|height        = 
+|weight        = 
+|block         = [[casting|Cast]] [[aluminium alloy]]
+|head          = Cast aluminium alloy
+|valvetrain    = initially- 2-valves per [[cylinder (engine)|cylinder]],<br>later- [[multi-valve|4-valves per cyliner]],<br>2x [[overhead camshaft#double overhead camshaft|double overhead camshaft]] (2xDOHC - 'quad cam')
+|supercharger  = 
+|turbocharger  = 
+|fuelsystem    = initially- [[carburettor]],<br>later- electronic [[fuel injection#multi-point fuel injection|multi-point]] sequential [[fuel injection]]
+|fueltype      = [[gasoline|Petrol/Gasoline]]
+|oilsystem     = initially [[wet sump]],<br>later [[dry sump]]
+|coolingsystem = [[water cooling|Water cooled]]
+|power         = {{convert|201.3|kW|PS bhp|0|abbr=on|lk=on}} (3,464&nbsp;cc)
+|specpower     = {{convert|77.94|bhp|kW PS|0|abbr=on}} per [[litre]] (3,464&nbsp;cc)
+|torque        = 
+|compression   = 
+|fuelcon       = 
+|specfuelcon   = 
+|oilcon        = 
+}}
+[[Image:Lamborghini350GTV12-engine.jpg|200px|thumb|left|The original [[Lamborghini]] [[V12 engine]] used in the [[Lamborghini 350GT|350GT]].  Note the six twin-barrel side-draught [[Weber carburetor|Weber]] 40 DCOE 2 carburettors.]]
+The '''Lamborghini V12''' is a [[V12 engine]] designed by [[Lamborghini]], and was the first [[internal combustion engine|engine]] ever produced by the firm.
+
+It first entered production in 1963, in {{convert|3464|cc|1|lk=on}} (3.5&nbsp;[[litre]]) form in the [[Lamborghini 350GT]], the first car ever produced by the [[automotive industry|carmaker]].  The latest 6.5&nbsp;litre version is used in the current [[Lamborghini Murciélago]] LP640 Coupé and Roadster.
+
+==History==
+[[Image:Wikilamjareng.jpg|200px|thumb|left|An early [[Lamborghini]] [[V12 engine]] used in the [[Lamborghini Espada|Espada]] and [[Lamborghini Jarama|Jarama]]]]
+There are many versions of the story of its development - some (notably [[L.J.K. Setright]<ref>"Supercar Classics" magazine, Spring 1986</ref>]) say it is derived from a [[Honda Racing F1|Honda]] [[Formula One]] design, others{{who|date=August 2009}} say that [[Giotto Bizzarrini]] borrowed heavily from his own F1 design.  Both were 1.5&nbsp;litre V12 [[auto racing|racing]] engines, and the Lamborghini unit has similarities to both.
+
+In any case, when [[Ferruccio Lamborghini]] set out to provide [[Ferrari]] with competition, he contracted Bizzarrini to design the engine for his car and, according to some accounts, paid him a bonus for every [[horsepower]] over what Ferrari's V12 could produce.  The finished product was such that, with minor modifications and improvements, the very same engine (in 6.5&nbsp;litre form) powers the current V12-engined [[Lamborghini Murciélago#LP640|Lamborghini Murciélago LP640]], and is estimated to finish its service for Lamborghini with the coming version of the Murcielago, the [[Lamborghini Murciélago#Murciélago SV|Murciélago SV]].<ref name="ddavid.com">{{cite web|title=Lighter Murcielago here in 2008|url=http://www.autocar.co.uk/News/NewsArticle/AllCars/229128/|work=Autocar.co.uk|publisher=© Haymarket Media Group 2009|date=9 November 2007|accessdate=30 August 2009}}</ref>
+
+==Technical overview==
+Quad cam - 2x[[overhead camshaft#double overhead camshaft|double overhead camshaft]] (2xDOHC - two [[overhead camshaft]]s per [[cylinder bank]]) 60° V12 - as an intentional snub by 
+Mr. Lamborghini of Ferrari's single-cam per-bank design (2x&nbsp;[[overhead camshaft#single overhead camshaft|single overhead camshaft]] - 2xSOHC).  When the {{convert|3464|cc|1|abbr=on}} prototype was tested in [[1963]], it was able to produce {{convert|370|bhp|kW PS|0|lk=on|abbr=on}} at 9,000&nbsp;rpm - a figure of almost {{convert|107|bhp|kW PS|0|abbr=on}} per litre, and unprecedented at the time.  Bizzarrini famously insisted that the engine was mechanically capable of reaching an astonishing {{convert|400|bhp|kW PS|0|abbr=on}} at 11,000&nbsp;rpm with an uprated fuel system, but the design was judged adequate, and when fitted with production [[carburettor]]s, all the auxiliary systems, and detuned for road use, the engine still made an impressive {{convert|280|bhp|kW PS|0|abbr=on}}.
+
+==Audi ownership==
+[[Image:Lamborghini Murciélago with engine.jpg|250px|thumb|right|[[Lamborghini]] [[Lamborghini Murciélago|Murciélago LP640 Roadster]] with its [[V12 engine]]]]
+Over the years, notably since Lamborghini was purchased by [[Volkswagen Group]] subsidiary [[Audi|Audi AG]], the engine has nearly doubled in [[engine displacement|displacement]] - first to {{convert|6192|cc|1|lk=on}}, and later to {{convert|6496|cc|1}}.  It has seen the modification of the [[cylinder head]]s to allow [[multi-valve|four valves]] per cylinder, the replacement of [[Weber carburetor|Weber]] carburettors with [[fuel injection#typical EFI components|electronic fuel injection]], and the re-engineering of the [[motor oil|lubrication]] system from a [[wet sump]] to a [[dry sump]] design.  However, the engine that powers the current [[Lamborghini Murciélago|Murciélago]] LP640 can trace its lineage directly to the F1-inspired design of Bizzarrini and his team more than forty years ago.{{citation needed|date=August 2009}}
+
+==See also==
+*[[list of Volkswagen Group petrol engines]] article
+**V12 - [[list of Volkswagen Group petrol engines#LamborghiniV12|6.2/6.5 V12 571-632bhp]] sub-section of the above article
+**V10 - [[list of Volkswagen Group petrol engines#LP560|5.2 FSI V10 552bhp]] sub-section of the above article
+**V10 - [[list of Volkswagen Group petrol engines#368|5.0 V10 493bhp]] sub-section of the above article
+
+==References==
+{{commons|Lamborghini engine}}
+{{reflist}}
+
+==External links==
+*[http://www.Lamborghini.com Lamborghini.com] official website
+
+{{Lamborghini}}
+
+[[Category:Lamborghini engines|V12]]
+[[Category:Volkswagen engines]]
+
+[[es:Lamborghini V12]]
+[[ko:람보르기니 V12]]
+[[it:Lamborghini V12]]
+[[no:Lamborghini V12]]
+[[tr:Lamborghini V12]]

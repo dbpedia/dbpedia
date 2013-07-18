@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = leader party
+| rdfs:domain = PopulatedPlace
+}}

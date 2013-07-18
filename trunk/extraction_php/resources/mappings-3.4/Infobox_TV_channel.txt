@@ -1,0 +1,48 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Broadcast
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = airdate | ontologyProperty = Broadcast/airDate }}
+	{{ DBpediaPropertyMapping | templateProperty = sister_stations | ontologyProperty = Broadcast/sisterStation }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = broadcast_area | ontologyProperty = Broadcast/broadcastArea }}
+	{{ DBpediaPropertyMapping | templateProperty = closed date | ontologyProperty = Broadcast/closingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = network | ontologyProperty = Broadcast/network }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Organisation/locationCountry }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Broadcast/country }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Broadcast/language }}
+	{{ DBpediaPropertyMapping | templateProperty = broadcast area | ontologyProperty = Broadcast/broadcastArea }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Organisation/location }}
+	{{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = Organisation/locationCity }}
+	{{ DBpediaPropertyMapping | templateProperty = affiliations | ontologyProperty = Organisation/affiliation }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = Organisation/owningCompany }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Organisation/type }}
+	{{ DBpediaPropertyMapping | templateProperty = founder | ontologyProperty = Organisation/foundationPerson }}
+	{{ DBpediaPropertyMapping | templateProperty = slogan | ontologyProperty = Organisation/slogan }}
+	{{ DBpediaPropertyMapping | templateProperty = motto | ontologyProperty = Organisation/motto }}
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/person}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/title}} 
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/personName}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = key_people | ontologyProperty = 
+	PersonFunction/title}} 
+	
+	}}
+	{{ DBpediaPropertyMapping | templateProperty = affiliation | ontologyProperty = Organisation/affiliation }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = web | ontologyProperty = foaf:homepage }}
+}}

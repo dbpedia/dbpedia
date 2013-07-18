@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = origin
+|rdfs:domain = Beverage
+|rdfs:range = PopulatedPlace
+}}

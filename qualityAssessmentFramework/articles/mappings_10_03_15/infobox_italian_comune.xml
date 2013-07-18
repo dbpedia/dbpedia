@@ -1,0 +1,37 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Settlement
+| mappings =
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = motto | ontologyProperty = motto }}
+        {{GeocoordinatesMapping | latitudeDegrees = latd  | latitudeMinutes = latm  | latitudeSeconds = lats  | latitudeDirection = latNS  | longitudeDegrees = longd  | longitudeMinutes = longm  | longitudeSeconds = longs  | longitudeDirection = longEW }}
+	{{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+	{{PropertyMapping | templateProperty = province | ontologyProperty = province }}
+	{{PropertyMapping | templateProperty = frazioni | ontologyProperty = frazioni }}
+	{{PropertyMapping | templateProperty = adjacentcomuni | ontologyProperty = principalArea }}
+	{{PropertyMapping | templateProperty = established_date1 | ontologyProperty = foundingDate }}
+	{{PropertyMapping | templateProperty = mayor | ontologyProperty = leaderName }}
+	{{PropertyMapping | templateProperty = mayor_party | ontologyProperty = leaderParty }}
+	{{PropertyMapping | templateProperty = elevation_m | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = area_total_km2 | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = population_as_of | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = population_total | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = elevation_max_m | ontologyProperty = maximumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_min_m | ontologyProperty = minimumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = twin1 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin1_country | ontologyProperty = twinCountry }}
+	{{PropertyMapping | templateProperty = twin2 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin2_country | ontologyProperty = twinCountry }}
+	{{PropertyMapping | templateProperty = twin3 | ontologyProperty = twinCity }}
+	{{PropertyMapping | templateProperty = twin3_country | ontologyProperty = twinCountry }}
+	{{PropertyMapping | templateProperty = saint | ontologyProperty = saint }}
+	{{PropertyMapping | templateProperty = day | ontologyProperty = day }}
+	{{PropertyMapping | templateProperty = postal_code | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = area_code | ontologyProperty = areaCode }}	
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+
+</textarea>

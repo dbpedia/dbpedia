@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= sales
+|rdfs:domain	= Sales
+|rdfs:range		= xsd:integer
+}}

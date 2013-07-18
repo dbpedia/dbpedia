@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = dry cargo
+|rdfs:domain = Spacecraft
+|rdfs:range = kilogram
+}}

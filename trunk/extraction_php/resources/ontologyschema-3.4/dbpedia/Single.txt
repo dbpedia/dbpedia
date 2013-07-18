@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Single
+|rdfs:subClassOf = MusicalWork
+}}

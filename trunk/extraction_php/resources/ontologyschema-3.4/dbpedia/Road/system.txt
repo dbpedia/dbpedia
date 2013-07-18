@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = system
+|rdfs:domain = Road
+|rdfs:range = owl:Thing
+}}

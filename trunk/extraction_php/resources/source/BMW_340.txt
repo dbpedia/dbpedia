@@ -1,0 +1,89 @@
+{{Infobox Automobile
+| image = [[Image:Wartburg-2006-08.jpg|250px|BMW 340 sedan]]<br>[[Image:Emw340-kombi.jpg|250px|BMW 340 kombi]]
+| name = BMW / EMW 340
+| manufacturer = [[BMW|Bayerische Motoren Werke AG (BMW)]] <br> [[Automobilwerk Eisenach]]
+| assembly=[[Eisenach]], [[East Germany]]
+| production = 1949  – 1953<br> 21,250 built
+| predecessor = [[BMW 326]]
+| successor = [[BMW 501]]
+| body_style = 4-door [[sedan (car)|saloon]]<br>5-door [[Station wagon|estate]]
+| engine = 1971&nbsp;cc [[Overhead valve|OHV]] [[straight-6]]
+| layout=[[FR layout]]
+| transmission = 4 speed manual<ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 978-3-613-02808-1}}</ref>
+| length = {{convert|4600|mm|in||abbr=on}}
+| width = {{convert|1770|mm|in||abbr=on}}
+| height = {{convert|1630|mm|in||abbr=on}}
+| weight = {{convert|1200|kg|lb||abbr=on}}<br>(Measurements approximate)
+| wheelbase =  {{convert|2870|mm|in||abbr=on}}
+| track = 
+| fuel_capacity= 
+| related = [[BMW 326]]<br>[[BMW 327]]
+| similar = 
+| designer = 
+}}
+[[Image:BMW 326 Limousine 1938.jpg|250px|thumb|right|The 340 was based on the prewar [[BMW 326]] illustrated here.]]
+
+The '''BMW 340''', subsequently rebadged as the '''EMW 340''', was a large [[straight-6|six cylinder]] four door passenger saloon produced at [[Automobilwerk Eisenach|Eisenach]] initially in the name of [[BMW]]. Five door 340 station wagons were also manufactured.   It was described in 1948 as the first new car model produced in Germany after the [[Second World War|war]]:  despite new body panels, under the skin it was a modified version of the [[BMW 326]] with which it shared its engine and wheel base, and which had originally been commercialised in 1936. The 326 had nevertheless been an innovative and well regarded product and the 340, which incorporated several improvements, was seen as a desirable car well into the 1950s.   Early years were dogged by disputes centred on ownership of the plant where it was assembled and its manufacturers’ rights to use the [[BMW]] name.   The cars later appeared badged as EMW 340s, and it was under this name that 340s continued to be sold until at least 1953.
+
+A coupé version, originally launched in 1937 as the [[BMW 327]], was also reintroduced after the war and produced in parallel with the 340 until approximately 1955, badged in its final years as the EMW 327.
+
+== The Eisenach Plant ==
+BMW became a manufacturer of commercially viable automobiles when late in 1928 they acquired the business of Fahrzeugfabrik Eisenach A.G. whose assets included a manufacturing facility at [[Eisenach]] then engaged in manufacturing under licence British designed [[BMW 3/15|Austin 7s]].   During the 1930s BMW automobile production blossomed:  the Eisenach plant was throughout this period BMW's volume automobile manufacturing facility.
+
+In 1945 the town was liberated from German control by American forces, but by then it had already been [[Potsdam Agreement|agreed]] between the allies that the whole of [[Thuringen]] would fall within the [[Soviet occupation zone]]:  transfer of the region to the Soviets took place in July 1945. It seemed likely that BMW’s manufacturing facility would be crated up and taken by rail to the [[Soviet Union]] as part of the substantial post war reparations package.   In the meantime, surviving workers returning from the war recommenced production, and a small number of the [[BMW 326|326]]s were assembled following that car's prewar design.   Albert Seidler, the man in charge of Eisenach motor bike production, demonstrated the smaller [[BMW 321|321]] model to [[Georgy Zhukov|Marshall Zhukov]] and secured from him an order for five new cars.
+
+The future of the Eisenach plant was a contentious issue in the uncertainty of late 1945.   [[Munich]] based BMW’s attempts to recover their plant were not sympathetically received by the occupiers, who evidently were mindful of BMW’s wartime role as manufacturers of engines for war planes.   Nevertheless, in November 1945 the plant received from the Russians an order for a further 3000 cars and motor bikes, and less than one year later, in September 1946, the plant was integrated into the Soviet AWO business entity: for Eisenach, membership of the command economy had begun.
+
+== The birth ==
+By late 1948 the 340 had been developed to production readiness. It shared the {{convert|287|cm|abbr=on}} wheelbase and central body section of the [[BMW 326|326]], but the bonnet / hood had been squared off, with the headlights more fully integrated into the front wings.   A front grill comprising horizontal metal slats in the form of an approximate semi triangle followed the contemporary styling trend apparent in other designs including that of the [[Peugeot 203]] launched around the same time as the BMW 340.
+
+The rear quarters of the car were also reworked.   Inspired by trends that had taken place in the [[United States]] earlier in the decade, the 340 received an external [[Trunk (automobile)|trunk / boot]] lid, permitting users to access luggage without needing to fold down the back seat rest and struggle to access the space behind it.   The spare wheel was relocated from its traditional position (attached to the car’s rear panel) to a flat stowage location beneath a wooden ‘false floor’ in the boot / trunk.  Stowed with the spare wheel was a ‘breakdown’ kit that included a [[Jack (device)|jack]] and an air pump.   The tool kit delivered with the car also incorporated an inner tire / tyre tube and a special key for bleeding any air pockets out of the brake fluid.
+
+The interior configuration broadly followed that of the 326 initially.   In later models the individual front seats were replaced by a single bench seat, and available seating space was further increased by the deletion of the central arm rest from the rear bench seat.
+
+== Technical ==
+A modified carburettor was fitted and claimed power output from the 1971 cc straight 6 engine rose to {{convert|55|bhp|abbr=on}}.  Power output subsequently increased further to {{convert|57|bhp|abbr=on}}.
+
+Mechanically the 340 carried forward some of its predecessor’s advanced features.   The four speed gear box of the 326 reappeared in the 340: however, the cable linkage, which in use had proven damage prone, was replaced with a more robust rod linkage system.
+
+A particularly intriguing component in the engine bay was a mechanical self cleaning [[oil filter]]. Sited above the clutch pedal, the device employed a scraper attached to a ratchet which moved progressively, driven a little further with each successive operation of the clutch pedal.
+
+The engine block was water cooled using a radiator that most twentieth-first century car owners minded to lift the hood / bonnet would instantly recognised as such.  But here, too, the approach was not entirely conventional.  Possibly reflecting the colder winter temperatures routinely experienced in central and eastern Europe, the radiator was protected on its outer face by a blind which could be raised or lowered from the driver's seat, a device also employed on certain [[Russia]]n automobiles.  In cold weather the driver was able to minimise the quantity of cold air passing through the radiator by completely lowering the radiator-blind.  This minimised the period during which the engine operated below its efficient operating speed.   Informed by a facia mounted engine temperature gauge, the driver was able to anticipate and avoid the risk of overheating by raising the radiator blind as the engine approached its efficient operating temperature of 80 °C (176 °F).
+
+Cars sold from 1952 also featured a fuel based passenger cabin heater.   In order to ignite the heater it was necessary first to open a small tap in the engine bay, after which the flow of hot air could be regulated using a control in the footwell on the passenger's side.
+
+In recognition that the 340 had been developed in haste, under sub-optimal conditions, several early ‘production prototype’ level cars were subjected to a 10,000 kilometer marathon test run.   The successful conclusion of this testing constituted a public demonstration of the manufacturer's confidence that the car was ready for serial production, which commenced in 1949.
+
+== Production and commercialisation ==
+In the 1930s the 326 had been seen as a compact executive model, but by 1948 steel was in short supply.   European cars had shrunk along with the disposal incomes of consumers.   At a time when [[Mercedes-Benz|Mercedes Benz]] automobile production was almost entirely restricted to four cylinder [[Mercedes-Benz W136|Mercedes Benz 170]] models, the larger six cylinder BMW 340 found itself with a design and specifications that qualified it for a more elevated market place status.
+
+Volume auto producers depended on a network of specialist suppliers for components and subassemblies:  340 production highlighted new challenges arising from the increasingly apparent political division of Germany.   In  June 1948 the [[Hesse]] based [[Bank deutscher Länder]] launched the [[Deutsche Mark]] and the authorities in the [[Soviet occupation zone]] facing a sudden and unwelcome currency crisis, were forced to introduce the [[East German mark|Ostmark]].   Prior to [[German reunification|1990]], mutual convertibility was not a feature of the relationship between eastern and western Marks, and this, together with the development of physical and political barriers between east and west, left the Eisenach plant cut off from key suppliers now located in western Germany.  The firm was obliged to switch suppliers or to manufacture components in house, often dependent on detailed instructions provided by former suppliers of [[BMW 326|326]] components.   Where instructions or component supplies were delayed, production came to a halt.   Difficulties over component supply led understandably to problems involving quality defects.
+
+Despite these quality issues, 340s were sold in major central European export markets and west of the [[iron curtain]], especially in the western zones of Germany.   Customers tended to look to BMW in Munich to rectify manufacturing defects when these showed up in the Eisenach models.   The matter became increasingly a thorn in the side of the Munich firm who in the 1940s had no automobile manufacturing facility of their own up and running, and who were in no position to influence Eisenach product quality.   Many 340s were also sent to the [[Soviet Union]], where the survivors among them are well regarded by enthusiasts.
+
+The 340 continued to find itself at the centre of a complex interplay between political, legal and commercial disputes.  In November 1950 a judgement of the state court at Düsseldorf threatened  to imperil the Eisenach enterprise's access to much prized western convertible currency if the plant continued to sell the 340 as a BMW.   It appears that after July 1952 no 340s were sold as BMWs, at least in western markets.  The BMW 340 turned up badged as the EMW 340, the familiar blue-white roundel badge replaced with a similarly shaped red-white one.   (The B in BMW stood for Bayerische/Bavarian: the E in EMW stood for Eisenacher.)   In eastern Germany and Poland, and several of the smaller other Soviet controlled brother-states, the cars continued for some time to be sold as BMWs, possibly in order to use up existing stocks of BMW badges and wheel trims.
+
+The plant which had initially been under the control of the Russians came progressively under the control of the new [[German Democratic Republic|east German state]].   In 1953 the business was renamed VEB Automobilwerk Eisenach.   The government was mindful of the need to avoid being seen to fall behind western Germany which was now evolving into an aggressively consumerist phase.   For Berlin, quantity of automobile production became the priority, and small two stroke engined cars could be produced in greater numbers than large four stroke six cylinder sedans.   The last 340 was probably built in 1953, though its coupé sibling continued to be offered for a further two years.
+
+== Sources and further reading ==
+* {{De|BMW 340}}
+* {{Italian|BMW 340|[[2008-02-16]]}}
+
+== References ==
+{{reflist}}
+
+* Eberhard Kittler: ''DDR Automobil - Klassiker, Band 1.'' Motorbuch Verlag, Stuttgart 2002, ISBN 3613022567
+* Horst Ihling: ''Autorennsport in der DDR. Wartburg, EMW & Co.'' Verlag Delius Klasing, 2006, ISBN 3768857883
+
+{{BMW pre war}}
+{{BMW early cars}}
+
+[[Category:BMW vehicles|340]]
+[[Category:Executive cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1940s automobiles]]
+[[Category:1950s automobiles]]
+[[Category:Vehicles introduced in 1948]]
+
+[[de:EMW 340]]
+[[it:BMW 340]]

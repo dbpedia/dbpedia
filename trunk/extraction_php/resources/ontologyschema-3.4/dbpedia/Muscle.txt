@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Muscle
+|rdfs:subClassOf = AnatomicalStructure
+}}

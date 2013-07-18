@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = oldcode
+|rdfs:domain = OlympicResult
+|rdfs:range = xsd:string
+}}

@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = CAS number
+| rdfs:range = xsd:string
+}}

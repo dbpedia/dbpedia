@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = introduction date
+| rdfs:domain = MeanOfTransportation
+| rdfs:range = xsd:date
+}}

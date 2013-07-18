@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = artist
+| rdfs:range = Person
+}}

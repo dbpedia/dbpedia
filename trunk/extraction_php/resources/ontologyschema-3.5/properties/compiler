@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = compiler
+| rdfs:domain = Album
+| rdfs:range = Person
+}}

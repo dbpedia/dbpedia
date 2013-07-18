@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/propertyStringLength0.txt> <http://dbpedia.org/property/propertyB> "abc"@en .
+<http://dbpedia.org/resource/propertyStringLength0.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummy_template> .

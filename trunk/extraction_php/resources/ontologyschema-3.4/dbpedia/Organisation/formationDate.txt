@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= formation date
+|rdfs:domain	= Organisation
+|rdfs:range		= xsd:date
+}}

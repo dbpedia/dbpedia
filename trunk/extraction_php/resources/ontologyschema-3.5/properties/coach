@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = coach
+| rdfs:range = Person
+}}

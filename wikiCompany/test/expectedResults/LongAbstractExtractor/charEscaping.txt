@@ -1,0 +1,1 @@
+<http://dbpedia.org/resource/charEscaping.txt> <http://dbpedia.org/property/abstract> "CHar Escaping Abstract \\n next Line \\r word \\t \\ / \\\\ /\\ \\\\/"@en .

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = piston stroke
+| rdfs:domain = AutomobileEngine
+| rdfs:range = Length
+}}

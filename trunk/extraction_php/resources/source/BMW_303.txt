@@ -1,0 +1,65 @@
+{{Infobox Automobile
+| name              = BMW 303
+| image             = [[Image:BMW 303 1933 bicolor vr TCE.jpg|250px]]
+| manufacturer      = [[BMW]]
+| parent_company    = 
+| aka               = 
+| model_years       = 
+| production        = 1933&ndash;1934
+| production_start  = 
+| production_end    = 
+| assembly          = 
+| predecessor       = [[BMW 3/20]]
+| successor         = [[BMW 315]]
+| class             = 
+| body_style        = 2-door [[Sedan (car)|saloon]]<br>2-door [[Cabriolet (automobile)|cabriolet]]
+| layout            = [[Automobile layout#Rear wheel drive layouts|FR layout]]
+| platform          = 
+| engine            = {{convert|1173|cc|cuin|1|abbr=on}} [[Overhead valve|OHV]] [[Straight-6]], {{convert|30|PS|kW hp|0|abbr=on}} at 4000 rpm
+| transmission      = 4-speed manual, synchromesh on 3rd and 4th<ref name=Norbye33_36>Norbye, pp. 33-36</ref>
+| wheelbase         = {{convert|2400|mm|in|1|abbr=on}}<ref name=AutoMotoruSport197406>Auto Motor und Sport, No. 6/1974, pages 102 - 108</ref>
+| length            = {{convert|153.5|in|mm|0|abbr=on}}<ref name=Norbye33_36 />
+| width             = 
+| height            = 
+| weight            = {{convert|1808|lb|kg|0|abbr=on}}<ref name=Norbye33_36 />
+| related           = BMW 309, [[BMW 315]], BMW 319
+| designer          = [[Fritz Fiedler]]
+| sp                = uk
+}}
+
+The '''BMW 303''' was a middle sized saloon produced by [[BMW]] in 1933 and 1934.  It was the first BMW to use the 'kidney grill' which today is a hallmark of the company's models.   
+
+The 303 was also the first BMW to feature an inline-6 engine.   The M78 six cylinder 1182 cc engine was developed from the four cylinder 788 cc engine used by the company's [[BMW 3/20]] model. Although the engine had the same bore and stroke as the four, the engineers increased the bore spacing to allow for further increases in bore, and to provide for more crankshaft bearings. <ref name=Norbye33_36 />
+
+The 303 used a version of the independent front suspension used on the 3/20, but used a [[live axle]] at the rear instead of the 3/20's [[swing axle]].<ref name=Norbye33_36 />
+
+Both saloons and cabriolets were manufactured.  Top speed was {{convert|56|mi/h|km/h}}<ref name="fantasycars.com">FantasyCars: The History of BMW</ref>.  
+
+Only 2300 BMW 303s were produced<ref name="unixnerd.demon.co.uk">Unixnerd: BMW's Early History</ref>. 
+
+==BMW 309==
+The '''BMW 309''' was a development of the 303.  A replacement for the BMW 3/20, the 309 was a 303 with a four-cylinder engine developed from the M78 six-cylinder engine used in the 303, with the bore increased from {{convert|56|mm|in|1|abbr=on}} to {{convert|58|mm|in|1|abbr=on}}.<ref name=Norbye38_39>Norbye, pp. 38-39</ref>
+
+The 309 was manufactured from 1934 to 1936.<ref name=Norbye250>Norbye, p. 250</ref>
+
+==Notes==
+{{reflist}}
+
+== References ==
+{{commonscat|BMW 303}}
+*{{Cite web|url=http://www.fantasycars.com/sedans/column/sedans2_bmwhistory.html|title=The History of BMW (20/11/00)|accessdate=2008-02-21|author=Traian Popescu|work=fantasycars.com}}
+*{{Cite web|url=http://www.unixnerd.demon.co.uk/history.html|title=BMW's Early History|accessdate=2008-02-21|work=unixnerd.demon.co.uk}}
+*{{Cite book |last=Norbye |first=Jan P. |authorlink= |coauthors= |title=BMW - Bavaria's Driving Machines|year=1984 |publisher=Publications International |location=Skokie, IL |isbn=0-517-42464-9}}
+*{{cite journal |last= |first= |author= |authorlink= |coauthors= |date= |year=1974 |month= |day= |title=PS |trans_title= |journal=[[Auto, Motor und Sport]] |volume=Heft 6 1974 |series= |issue=6 |page= |pages=102-108 |publisher=Vereinigte Motor-Verlag GmbH & Co KG |location=Stuttgart |issn= |pmid= |pmc= |doi= |bibcode= |oclc= |id= |url= |language=German |format= |accessdate= |laysummary= |laysource= |laydate= |quote=}}
+
+
+{{BMW pre war}}
+
+[[Category:BMW vehicles|303]]
+
+{{Classicprw-auto-stub}}
+
+[[de:BMW 303]]
+[[it:BMW 303]]
+[[no:BMW 303]]
+[[pl:BMW 303]]

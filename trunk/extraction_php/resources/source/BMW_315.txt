@@ -1,0 +1,103 @@
+{{otheruses4|the automobile made by BMW from 1934 to 1937|more recent BMW 315 cars|BMW 3 Series}}
+{{Infobox Automobile
+| name              = BMW 315
+| image             = [[File:BMW 315 1936 white vr TCE.jpg|250px]]<br />''1936 BMW 315''
+| manufacturer      = [[BMW]]
+| parent_company    = 
+| aka               = 
+| model_years       = 
+| production        = 
+| production_start  = 1934<ref name=Norbye250>Norbye, p.250</ref>
+| production_end    = 1937<ref name=Norbye250 />
+| assembly          = [[Eisenach]], [[Germany]]
+| predecessor       = [[BMW 303]]
+| successor         = BMW 319
+| class             = 
+| body_style        = 
+| layout            = [[Automobile layout#Rear wheel drive layouts|FR layout]]
+| platform          = 
+| engine            = {{convert|1490|cc|CID|1|abbr=on}} [[overhead valve|OHV]] [[straight-6]], {{convert|34|PS|kW hp||abbr=on}} at 4000 rpm<ref name=Carfolio315>Carfolio.com: 1934 BMW 315 Saloon</ref>
+| transmission      = 4-speed manual<ref name=Norbye39_40>Norbye, pp.39-40</ref>
+| wheelbase         = {{convert|2400|mm|in|1|abbr=on}}<ref name=Carfolio315 />
+| length            = {{convert|3900|mm|in|1|abbr=on}}<ref name=Carfolio315 />
+| width             = {{convert|1440|mm|in|1|abbr=on}}<ref name=Carfolio315 />
+| height            = {{convert|1550|mm|in|1|abbr=on}}<ref name=Carfolio315 />
+| weight            = {{convert|830|kg|lb|0|abbr=on}}<ref name=Carfolio315 />
+| fuel_capacity    = {{convert|35|L|USgal impgal|0|abbr=on}}<ref name=Carfolio315 />
+| related           = [[BMW 303]]<br />BMW 319<br />[[BMW 328]]
+| designer          = 
+| sp                = uk
+}}
+
+The '''BMW 315''' was a middle sized [[sedan (car)|saloon]] produced by [[BMW]] from 1934 to 1937.<ref name=Norbye250 />  It was based on the [[BMW 303]].  It differed from the 303 mainly with its larger engine, with increases in both the bore (to {{convert|58|mm|in|1|abbr=on}} from {{convert|56|mm|in|1|abbr=on}}) and the stroke (to {{convert|94|mm|in|1|abbr=on}} from {{convert|80|mm|in|1|abbr=on}}).<ref name=Norbye39_40 /><ref name=Norbye33_36>Norbye, pp. 33-36</ref>
+
+A total of 9,765 BMW 315s were built, including two-door saloon cars, touring cars, convertibles, sport convertibles, and 315/1 roadsters.<ref name=Norbye250 />
+
+== BMW 315/1 ==
+{{Infobox Automobile
+| name              = BMW 315/1
+| image             = [[File:BMW 315.JPG|250px]]
+| manufacturer      = [[BMW]]
+| parent_company    = 
+| aka               = 
+| model_years       = 
+| production        = 
+| production_start  = 1934<ref name=Norbye250 />
+| production_end    = 1936<ref name=Norbye250 />
+| assembly          = [[Eisenach]], [[Germany]]
+| predecessor       = [[BMW 3/15|BMW Wartburg]]
+| successor         = BMW 319/1
+| class             = [[Sports car]]
+| body_style        = [[Roadster]]
+| layout            = [[Automobile layout#Rear wheel drive layouts|FR layout]]
+| platform          = 
+| engine            = {{convert|1490|cc|CID|1|abbr=on}} [[overhead valve|OHV]] [[straight-6]], {{convert|40.6|PS|kW hp||abbr=on}} at 4300 rpm<ref name=Carfolio315_1>Carfolio.com: 1934 BMW 315/1 Sport</ref>
+| transmission      = 4-speed manual<ref name=bmwccn.no_315_1>BMW 3/15 PS, 315/1 and 319/1 - early roadsters</ref>
+| wheelbase         = {{convert|2400|mm|in|1|abbr=on}}<ref name=Carfolio315_1 />
+| length            = {{convert|3800|mm|in|1|abbr=on}}<ref name=Carfolio315_1 />
+| width             = {{convert|1440|mm|in|1|abbr=on}}<ref name=Carfolio315_1 />
+| height            = {{convert|1350|mm|in|1|abbr=on}}<ref name=Carfolio315_1 />
+| weight            = {{convert|750|kg|lb|0|abbr=on}}<ref name=Carfolio315_1 />
+| fuel_capacity    = {{convert|50|L|USgal impgal|0|abbr=on}}<ref name=Carfolio315_1 />
+| related           = BMW 319/1<br />[[BMW 328]]
+| designer          = 
+| sp                = uk
+}}
+
+The '''BMW 315/1''' was a [[sports car]] based on the 315 saloon.  It used the same chassis as the 315 saloon and had an engine of the same displacement.  However, with compression ratio increased to 6.8:1<ref name=Norbye39_40 /><ref name=Carfolio315_1 /> from 5.6:1 in the saloon<ref name=Carfolio315 /><ref name=Norbye33_36 />, and with the use of three Solex carburetors<ref name=Norbye39_40 /><ref name=Carfolio315_1 />, power increased to {{convert|40.6|PS|kW hp||abbr=on}} at 4300 rpm, while the [[roadster]] bodywork reduced kerb weight to {{convert|750|kg|lb|0|abbr=on}}<ref name=Carfolio315_1 />.
+
+Production of the 315/1 ended in 1936. 242 examples were built.<ref name=bmwccn.no_315_1 />  
+
+== BMW 319 and 319/1 ==
+
+The BMW 319 and 319/1 were introduced in 1935. They differed from the 315 and 315/1 mainly in that the dimensions of the engines were increased.  The new, larger engine had a bore of {{convert|65|mm|in|1|abbr=on}}, and a stroke of {{convert|96|mm|in|1|abbr=on}}, resulting in a displacement of {{convert|1911|cc|CID|1|abbr=on}}.  This resulted in an increase in power to {{convert|45|bhp|kW|1|abbr=on}} at 3750 rpm in the base 319 and {{convert|55|bhp|kW|1|abbr=on}} at 4000 rpm in the 319/1 roadster<ref name=Norbye44>Norbye, p.44</ref> The kerb weight of the 319 was {{convert|850|kg|lb|0|abbr=on}}, and the fuel capacity was {{convert|40|L|USgal impgal|0|abbr=on}}.<ref name=Carfolio319>Carfolio.com: 1935 BMW 319 Saloon</ref>
+
+A total of 6,646 BMW 319s of all types were built by the end of production in 1937.<ref name=Norbye250 /> 102 of these were 319/1 roadsters.<ref name=bmwccn.no_315_1 />
+{|
+|[[File:BMW.jpg|thumb|BMW 319 convertible]]
+|[[File:2007-06-16 BMW 319-1 (02) 1911 cm³, Bj. 1935 (kl).jpg|thumb|1935 BMW 319/1 sports roadster]]
+|}
+
+== BMW 329 ==
+The '''BMW 329''' replaced the BMW 319 in early 1937.  The 329 was basically a 319 with the front bodywork and fenders from the [[BMW 326]].  The 329 was available only as a convertible, with either two or four doors.  The 329 was replaced by the 326-based [[BMW 320]] later in 1937.<ref name=Norbye47>Norbye, p.47</ref>
+
+== Notes ==
+{{reflist}}
+
+== References ==
+{{commonscat|BMW 315}}
+{{commonscat|BMW 319}}
+*{{Cite book |last=Norbye |first=Jan P. |authorlink= |coauthors= |title=BMW - Bavaria's Driving Machines|year=1984 |publisher=Publications International |location=Skokie, IL |isbn=0-517-42464-9}}
+*{{cite web| url         = http://www.carfolio.com/specifications/models/car/?car=96052| title       = Carfolio.com: 1934 BMW 315 Saloon| accessdate  = 2009-01-18| work        = [http://www.carfolio.com/ Carfolio.com]}}
+*{{cite web| url         = http://www.carfolio.com/specifications/models/car/?car=96063| title       = Carfolio.com: 1934 BMW 315/1 Sport| accessdate  = 2009-01-18| work        = [http://www.carfolio.com/ Carfolio.com]}}
+*{{cite web| url         =http://www.bmwccn.no/eng/chapter2/index.htm|title=  	BMW 3/15 PS, 315/1 and 319/1 - early roadsters|accessdate=2009-01-18|work=http://www.bmwccn.no}}
+*{{cite web| url         = http://www.carfolio.com/specifications/models/car/?car=101618| title       = Carfolio.com: 1935 BMW 319 Saloon| accessdate  = 2009-01-18| work        = [http://www.carfolio.com/ Carfolio.com]}}
+
+{{BMW pre war}}
+[[Category:BMW vehicles|315]]
+[[Category:Vehicles introduced in 1934]]
+[[Category:1930s automobiles]]
+
+[[it:BMW 315]]
+[[no:BMW 315]]
+[[pl:BMW 315]]

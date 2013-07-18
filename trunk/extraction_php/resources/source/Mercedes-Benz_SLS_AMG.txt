@@ -1,0 +1,110 @@
+{{Infobox Automobile
+| name              = Mercedes-Benz SLS AMG
+| image = [[File:Mercedes-Benz SLS AMG IAA 2009.JPG|250px|SLS AMG.]]
+| manufacturer      = [[Mercedes-Benz]]
+| parent_company    = [[Daimler AG]]
+| aka               = C197
+| production        = 2010-
+| production_start  = 
+| production_end    = 
+| model_years       = 2010-
+| assembly          = 
+| predecessor       = [[Mercedes-Benz SLR McLaren]]
+| successor         = 
+| class             = [[sports car]]/[[grand tourer]]
+| body_style        = 2-door [[coupe]], 2-door roadster with softtop
+| layout            = [[Front mid-engine, rear-wheel drive layout|Front mid-engine, rear-wheel drive]]
+| platform          = 
+| engine            = 6.2L [[V8]]
+| transmission      = 7-speed [[dual-clutch]]
+| wheelbase         = {{convert|2680|mm|in|abbr=on}}
+| length            = {{convert|4638|mm|in|abbr=on}}
+| width             = {{convert|1939|mm|in|abbr=on}}
+| height            = {{convert|1262|mm|in|abbr=on}}
+| weight            = {{convert|1620|kg|abbr=on}}
+| related           = 
+| designer          = 
+| sp                = us
+}}
+
+The '''Mercedes-Benz SLS AMG''' is an upcoming [[grand tourer]] [[automobile]] developed by [[Mercedes-Benz AMG]] to replace the [[Mercedes-Benz SLR McLaren]].<ref>[http://www.autoweek.com/article/20090302/CARNEWS/903029997 Mercedes-Benz revives its classic Gullwing two-seater as the SLS]</ref> The car is the first Mercedes automobile designed in-house by AMG and is described by [[Mercedes-Benz|Mercedes]] as a spiritual successor to the [[300SL Gullwing]].<ref name="FirstPressRelease">{{cite press release|title=Mercedes-Benz SLS AMG: high-tech and fascination - The new 'Gullwing' from Mercedes-Benz |publisher=[[Mercedes-Benz]] |date=12-03-2009 |url=http://media.daimler.com/dcmedia/0-921-614216-1-1188441-1-0-0-0-0-1-11700-0-0-1-0-0-0-0-0.html?TS=1236875714622 |accessdate=12-03-2009}}</ref> 
+
+The vehicle was unveiled in 2009 [[Frankfurt Auto Show]]. Sales would begin in mid-2010 in Europe with MSRP of €177,310 (including taxes)<ref>[http://www.ausmotive.com/2009/09/10/mercedes-benz-sls-amg-photo-gallery.html 2010 Mercedes-Benz SLS AMG photo gallery]</ref> and in the United States in mid-2011 for less than $200,000.<ref name="aw"/>
+
+==Design==
+[[File:Mercedes C197 SLS AMG 3.jpg|thumb|left|130px|Rear view.]]
+The SLS AMG is designed to be a modern 300SL Gullwing revival. The car has a long bonnet, the passenger compartment is close to the rear axle and the rear of the car is short. The SLS AMG will also adapt the feature of wing doors that will swing open upwards on gas struts, not in a mix of upwards and forward like the SLR.  The doors must be closed manually as AMG engineers decided against auto-closing systems because the systems would have added {{convert|90|lb|kg}} to the car.<ref name="aw">{{Cite journal| last = Vettraino | first = J.P. | title = Better Than the Original? | journal = [[AutoWeek]] | volume = 59 | issue = 24 | page = 23 | publisher = [[Crain Communications Inc.]] | location = [[Detroit, Michigan]] | date = November 30, 2009| issn = 0192-9674  }}</ref> In case of a roll-over, the doors can be fully detached to allow the occupants to leave the vehicle. The designer is Gordon Wagener whose family once had a 300SL.
+
+==SLS AMG versions==
+The SLS AMG will be made in at least 4 different versions. The first to launch is the coupe with gullwing doors. For 2011-2013 Mercedes will also be releasing a roadster (with conventional doors and a softtop), an electric powered version (most likely to be a coupe), and there will be a Black Series version, which will see its weight being reduced by as much as 300kg.
+
+==SLS AMG with electric drive==
+The SLS AMG electric drive will use electric powertrain components. It will include 4 electric motors on each wheel with combined ratings of 392&nbsp;kW (525bhp) and {{convert|880|Nm|lbft||abbr=on}}, liquid-cooled 400V lithium-ion battery rated 48 kWh and a capacity of 40 Ah. The battery will be supplied by Deutsche Accumotive GmbH & Co. KG, a joint venture between Daimler AG and Evonik Industries AG.<ref>[http://media.daimler.com/dcmedia/0-921-1188339-1-1223087-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html?TS=1252610532849 New swing-wing model with purely electric high-tech drive system: Mercedes-Benz SLS AMG with electric drive – the exciting future of the super sports car]</ref>
+
+==Specifications==
+
+=== Data ===
+* Price: €177,310 (EUR)
+* [[Wheelbase]]: 105.5 in (2680 mm)
+* Length 182.6 in (4638 mm)
+* Width 76.3 in (1939 mm)
+* Height 49.7 in (1262 mm)
+* Kerb Weight: 3562.48 lb (1620 kg)
+* Top speed (governed): {{convert|196|mph|km/h}}<ref>{{Cite journal | last = Kott | first = Douglas  | title = 2011 Mercedes-Benz SLS AMG  | journal = [[Road & Track]]  | volume = 61 | issue = 2  | page = 93
+ | date = October 2009 | url = http://www.roadandtrack.com/article.asp?section_id=10&article_id=8319 | accessdate = November 12, 2009}}</ref>
+* [[Power to weight ratio]]: {{convert|2.78|kg|lb|abbr=on}}/ {{convert|1|PS|abbr=on}}
+
+=== Engine ===
+* M 159 [[V8 engine|V8-engine]], cylinder bank angle 90°
+* Four valves/cylinder
+* [[Engine displacement|Displacement]]: {{convert|378.835|cuin|L|abbr=on}}
+* Bore x stroke: {{convert|4.02|in|mm|0|abbr=on}} × 3.72 in (102,2 x 94,6 mm)
+* Power: {{convert|571|PS|hp|0|abbr=on}} at 6800 rpm
+* Power per litre: {{convert|92|PS|hp|0|abbr=on}}
+* [[Torque]]: {{convert|650|Nm|lb·ft|abbr=on}} at 4750 rpm
+* Torque per litre: {{convert|104.7|Nm|lb·ft|abbr=on}}
+* Max. 7200 rpm
+* Engine lubrication: [[dry sump]]
+* Weight: {{convert|206|kg|lb|abbr=on}}
+
+===Transmission===
+Standard transmission is AMG SPEEDSHIFT DCT 7-speed [[Getrag]] [[dual-clutch]] semi-automatic transmission through a lightweight carbon fiber driveshaft.<ref name="FirstPressRelease"/> Selectable driving modes include "C" (Controlled Efficiency), "S" (Sport), "S+" (Sport plus) or "M" (Manual).<ref>[http://www.autoblog.com/2009/04/08/new-york-mercedes-benz-amg-sls-new-sketches-interior-reveale/ New York: Mercedes-Benz AMG SLS - new sketches, interior revealed]</ref>
+
+=== Brakes ===
+Optional on the SLS AMG are carbon-ceramic disc brakes. These brakes provide increased stopping power with a 40% weight reduction compared to the standard brake system.<ref name="FirstPressRelease"/>
+
+===Environment===
+The fuel consumption of the SLS AMG is around {{convert|13|L/100 km|abbr=on}} combined driving according to ([[NEDC]], provisional figure).<ref name="FirstPressRelease"/>
+
+=== Performance ===
+The high-performance SLS AMG is capable of accelerating from 0 to 100 km/h in only 3.8 seconds, and can reach a top speed of 200 mph (figures are provisional.)<ref>{{cite web|url=http://www.automoblog.net/2009/09/29/mercedes-benz-sls-amg-the-new-gullwing/|title=Mercedes-Benz SLS AMG: The New ‘Gullwing’|publisher=Automoblog.net}}</ref>
+
+=== Exterior ===
+The exterior aluminum body is supplied by Magna International.<ref>{{cite web|url=http://www.autoevolution.com/news/magna-to-supply-mercedes-sls-amg-body-11802.html |title=Magna to Supply Mercedes' SLS AMG Body |publisher=autoevolution |date= |accessdate=2009-11-10}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.mercedes-benz.com/SLS-AMG Offical website of the Mercedes-Benz SLS AMG]
+*Press kit: [http://media.daimler.com/dcmedia/0-921-614307-1-1202449-1-0-0-0-0-1-11701-854934-0-1-0-0-0-0-0.html?TS=1252609026302 The interior of the Mercedes-Benz SLS AMG]
+
+{{Mercedes-Benz vehicles}}
+
+{{DEFAULTSORT:Mercedes-Benz Sls Amg}}
+[[Category:Grand tourers]]
+[[Category:Coupes]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Mercedes-Benz vehicles|SLS]]
+[[Category:Automobiles with gull-wing doors]]
+[[Category:2010s automobiles]]
+[[Category:Upcoming automobiles]]
+
+[[de:Mercedes-Benz SLS AMG]]
+[[es:Mercedes-Benz SLS AMG]]
+[[fr:Mercedes-Benz SLS AMG]]
+[[nl:Mercedes-Benz SLS AMG]]
+[[no:Mercedes-Benz SLS AMG]]
+[[pl:Mercedes-Benz SLS AMG]]
+[[ru:Mercedes-Benz SLS AMG]]
+[[sv:Mercedes-Benz SLS AMG]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = year
+| rdfs:domain = Sales
+| rdfs:range = xsd:gYear
+}}

@@ -1,0 +1,95 @@
+<!-- Deleted image removed: [[File:Opel RAK1 plane.jpg|right|thumb|250px|Opel RAK1|{{deletable image-caption|1=Saturday, 18 July 2009}}]] -->
+
+The '''[[Opel]] RAK.1''' (also known as the '''Opel RAK.3'''<ref>[http://www.daviddarling.info/encyclopedia/O/Opel-RAK.html]</ref>) was the world's first purpose-built rocket-powered aircraft. It was designed and built by [[Julius Hatry]] under commission from [[Fritz von Opel]] who flew it on September 30, 1929 in front of a large crowd near [[Frankfurt-am-Main]].
+
+During the late 1920s, von Opel had undertaken a variety of [[publicity stunt]]s involving rocket-powered vehicles for the Opel company. He was assisted in these endeavours by [[pyrotechnics]] manufacturer [[Friedrich Sander]] and rocketry advocate [[Max Valier]]. In June 1928, he had purchased an [[Alexander Lippisch]]-designed [[sailplane]], the [[Ente]], and fitted it with rockets. Opel did not get the chance to fly it, however, as the aircraft was destroyed by an engine explosion on its second test flight.
+
+The RAK.1 had a typical sailplane [[wing]], under which a pod was suspended to accommodate the pilot and sixteen solid rocket engines. The [[tailplane]] was mounted on booms behind the wing and high out of the way of the rocket exhaust. Opel successfully piloted it over 1.5&nbsp;km (1 mile) in 75 seconds of flight, but landed hard, damaging the aircraft beyond repair. Opel planned to build a second rocket plane, but apparently lost interest before the project was completed.
+
+The aircraft is sometimes referred to as the '''Opel-Hatry RAK.1''' or '''Opel-Sander RAK.1''' in acknowledgment of its builder or the supplier of its engines respectively. In still other references it is called the RAK.3 to distinguish it from Opel's previous RAK.1 and [[Opel RAK.2|RAK.2]] rocket cars. As it happened, all three names, Opel, Sander, and Hatry were painted on the aircraft (with Opel’s most prominent), as was the RAK.1 designation.''
+
+==Specifications (RAK-1)==
+== References ==
+
+<references/>
+
+{{aircraft specifications
+
+<!-- if you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]] -->
+
+<!-- please answer the following questions -->
+|plane or copter?=plane
+|jet or prop?=neither
+
+<!-- Now, fill out the specs.  Please include units where appropriate (main comes first, alt in parentheses). 
+If an item doesn't apply, like capacity, leave it blank. For instructions on using |more general=, |more performance=, |power original=, and |thrust original= see [[Template talk:Aircraft specifications]].  To add a new line, end the old one with a right parenthesis ")" and start a new, fully formatted line beginning with * -->
+|ref={name of first source}
+|crew=one, pilot
+|capacity=
+|length main= m
+|length alt= ft in
+|span main= m
+|span alt= ft in
+|height main= m
+|height alt= ft in
+|area main= m
+|area alt= ft
+|airfoil=
+|empty weight main= kg
+|empty weight alt= lb
+|loaded weight main= kg
+|loaded weight alt= lb
+|useful load main= kg
+|useful load alt= kg
+|max takeoff weight main= kg
+|max takeoff weight alt= lb
+|more general=
+|engine (jet)=
+|type of jet=Sander [[black powder]] rockets
+|number of jets=16
+|thrust main= 7.8 kN
+|thrust alt= 1,760 lbf
+|thrust original=
+|afterburning thrust main= kN
+|afterburning thrust alt= lbf
+|engine (prop)=
+|type of prop=
+|number of props=
+|power main= kW
+|power alt= hp
+|power original=
+|max speed main= 150 km/h
+|max speed alt= knots, 93 mph
+|cruise speed main= km/h
+|cruise speed alt= knots, mph
+|stall speed main= km/h
+|stall speed alt= knots, mph
+|never exceed speed main= km/h
+|never exceed speed alt= knots, mph
+|range main= 1.5 km
+|range alt= nm, 4,900 ft
+|ceiling main= m
+|ceiling alt= ft
+|climb rate main= m/s
+|climb rate alt= ft/min
+|loading main= kg/m²
+|loading alt= lb/ft²
+|thrust/weight=
+|power/mass main= W/kg
+|power/mass alt= hp/lb
+|more performance=
+|armament=
+|avionics=
+
+}}
+
+{{Aero specs missing}}
+
+{{Aviation lists}}
+
+[[Category:German experimental aircraft 1920-1929]]
+[[Category:Rocket-powered aircraft]]
+[[Category:Gliders]]
+[[Category:Opel vehicles]]
+
+[[sv:Opel RAK 1]]

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+////////////////////////////////////////////////////////////////////////////////
+//
+// Copyright (C) 2003-2006 Adobe Macromedia Software LLC and its licensors.
+// All Rights Reserved.
+// The following is Sample Code and is subject to all restrictions on such code
+// as contained in the End User License Agreement accompanying this product.
+// If you have received this file from a source other than Adobe,
+// then your use, modification, or distribution of it requires
+// the prior written permission of Adobe.
+//
+////////////////////////////////////////////////////////////////////////////////
+-->
+
+	<mx:VBox width="100%" height="100%" xmlns:mx="http://www.adobe.com/2006/mxml" verticalScrollPolicy="off"
+		 xmlns:fc="http://www.adobe.com/2006/fc">
+	
+	<mx:HBox width="100%" height="100%">
+
+	<mx:VBox height="100%" width="100%" styleName="glassPods" >
+	<head:GlassHeaders xmlns:head="*" headerTitle="Properties"/>
+		<mx:Box width="100%" paddingLeft="10" paddingRight="10" paddingBottom="10" height="100%" creationComplete="initData()">
+			
+			<mx:Box>
+				<mx:HBox>
+					<mx:Label text="Time to open the suggestions list (in millisec.s)" width="300" paddingLeft="25"/>
+					<mx:HSlider 
+								width="150"
+								thumbCount="1"
+								minimum="0"
+								maximum="2000"
+								value="0"
+								id="openDuration"
+								snapInterval="1"
+								
+								dataTipPlacement="right"
+								liveDragging="true"/>
+				</mx:HBox>
+				<mx:HBox>
+					<mx:Label text="Time to close the suggestions list (in millisec.s)" width="300" paddingLeft="25"/>
+					<mx:HSlider
+								width="150"
+								thumbCount="1"
+								minimum="0"
+								maximum="2000"
+								value="250"
+								id="closeDuration"
+								snapInterval="1"
+								
+								dataTipPlacement="right"
+								liveDragging="true"/>
+				</mx:HBox>
+ 				
+ 				<mx:HBox>
+ 					<mx:Label text="Maximum number of rows visible" width="300" paddingLeft="25"/>
+					<mx:HSlider
+								width="150"
+								thumbCount="1"
+								minimum="1"
+								maximum="50"
+								value="7"
+								id="rowCount"
+								snapInterval="1"
+								
+								dataTipPlacement="right"
+								liveDragging="true"/>
+				
+ 				</mx:HBox>
+				<mx:HBox>
+					<mx:Label text="Width of drop down list" width="300" paddingLeft="25"/>
+					<mx:HSlider
+								width="150"
+								thumbCount="1"
+								minimum="50"
+								maximum="300"
+								value="160"
+								id="dropDownWidth"
+								snapInterval="1"
+								
+								dataTipPlacement="right"
+								liveDragging="true"/>
+				</mx:HBox>
+				
+				
+				<mx:HBox>
+					<mx:Label text="Keep track of typed entries" width="300" paddingLeft="25"/>
+					<mx:CheckBox id="keepLocalHistory" change="mySTI.keepLocalHistory=keepLocalHistory.selected"/>
+				</mx:HBox>
+				
+				
+				<mx:HBox>
+					<mx:Image source="assets/alert.png" toolTip="Enabling the look-ahead feature causes the user's input to be automatically completed with the first result in the filtered list"/>
+					<mx:Label text="LookAhead" width="275"/>
+					<mx:CheckBox id="lookAhead" change="mySTI.lookAhead=lookAhead.selected"/>
+				</mx:HBox>
+				
+				
+				<mx:VBox >
+					<mx:HBox >
+						<mx:Label  text="Filtering Criteria" width="300" paddingLeft="25"/>
+						<mx:RadioButtonGroup id="filterFunctionGroup" itemClick="changeFilterFunction(event);" />
+						<mx:RadioButton id="beginFunction" label="Starts With (Default)" groupName="filterFunctionGroup" value="begin" selected="true"/>	
+						
+					</mx:HBox>
+				
+					<mx:HBox>
+						<mx:Label width="300"/>
+						<mx:RadioButton id="subStringFunction" label="Substring" groupName="filterFunctionGroup" value="sub"/>
+					</mx:HBox>
+						
+					<mx:HBox>	
+						<mx:Image source="assets/alert.png" toolTip="Type a regular expression in the text field"/>
+						<mx:Label width="275"/>
+						<mx:RadioButton id="regExpression" label="Regular Expression" groupName="filterFunctionGroup" value="regEx"/>
+					</mx:HBox>
+				</mx:VBox>
+				
+				
+				<mx:HBox>
+					<mx:Image source="assets/alert.png" toolTip="Select the text to be displayed in the text field."/>
+					<mx:Label text="Text to be displayed" width="275"/>
+					<mx:VBox>
+						<mx:RadioButtonGroup id="labelGroup" itemClick="mySTI.labelField=event.currentTarget.selectedValue;"/>
+						<mx:RadioButton id="country" label="Country (Default)" groupName="labelGroup" value="country" selected="true"/>
+						<mx:RadioButton id="capital" label="Capital" groupName="labelGroup" value="capital"/>
+					</mx:VBox>
+				</mx:HBox>
+			</mx:Box>
+							
+		</mx:Box>
+		
+		<mx:Box width="100%" paddingRight="5" paddingBottom="5" horizontalAlign="right">
+			<mx:LinkButton label="Restore Defaults" click="restoreAutoCompleteDefaults()" styleName="undoLink" />
+		</mx:Box>
+
+	</mx:VBox>
+	
+<!-- Sandbox -->
+	<mx:VBox height="100%" width="100%" styleName="glassPods" >
+		<head:GlassHeaders xmlns:head="*" headerTitle="AutoComplete"/>
+		<mx:Box width="100%" paddingLeft="10" paddingRight="10" paddingBottom="10" height="100%" >
+			<mx:Text textAlign="justify" text="Data provider for AutoComplete is array of countries and their capitals. Start typing to see list of matching items. Changing properties listed on left side will be reflected in AutoComplete component below" width="327"/>
+			<fc:AutoComplete id="mySTI" dataProvider="{myArray}" labelField="country" openDuration="{openDuration.value}" 
+				 dropdownWidth="{dropDownWidth.value}" closeDuration="{closeDuration.value}" rowCount="{rowCount.value}"/>
+		</mx:Box>
+	</mx:VBox>
+
+	<mx:Script source="as/customizeAC.as" />
+	</mx:HBox>
+</mx:VBox>
+
+
+
+
+
+  
+
+
+

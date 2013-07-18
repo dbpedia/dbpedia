@@ -1,0 +1,40 @@
+{{Infobox Automobile
+|name=BMW M44
+|manufacturer=[[BMW]]
+|production=1996&ndash;
+|class=[[DOHC]] [[Straight-4]]
+|predecessor=[[BMW M42]]
+|successor=[[BMW N42]]
+|related=[[BMW M43]]
+|engine=
+}}
+The [[BMW]] '''M44''' is a [[DOHC]] 16-valve [[Straight-4|I4]] [[piston engine]]. It replaced BMW's previous [[multi-valve]] four-cylinder, the [[BMW M42]] and was related to the lesser 8-valve [[BMW M43]].  The engine had slightly more power and torque than the M42B18 it replaced to cope with the increased weight of the [[E36]] [[BMW 3 Series]] over the [[E30]] [[BMW 3 Series]].
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#M44B19|M44B19]]||1.9&nbsp;L (1896&nbsp;cc/115&nbsp;in³)||103&nbsp;kW (138&nbsp;hp) @ 6000||180&nbsp;N·m (133&nbsp;ft·lbf) @ 4300||6500||1996
+|}
+
+==M44B19==
+<!-- Missing image removed: [[Image:BMW M44B19 engine in e36 318is.JPG|thumb|left|BMW M44 engine, seen here in a 1997 model 318is]] -->
+Displacement for the M42B19 was 1.9 L (1896 cc); cylinder bore was 85 mm; and stroke was 83.5 mm.  It used [[Robert Bosch GmbH|Bosch]] M5.2 [[fuel injection]].
+
+Applications:
+* 1996-2000 [[BMW E36|E36]] [[BMW 3-Series|318iS/318ti]]
+* 1996-2001 [[BMW Z3|Z3 1.9]]
+
+Prior to 1996 the 318iS used the M42 1.8L engine which has 138 bhp and torque at {{Auto ft.lbf|129|0}}.
+
+==See also==
+* [[List of BMW engines]]
+==External links==
+
+[[Category:BMW engines|M44]]
+
+[[de:BMW M44]]
+[[it:BMW M44]]
+[[no:BMW M44]]
+[[pl:BMW M44]]

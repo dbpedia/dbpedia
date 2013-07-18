@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = first race
+| rdfs:domain = FormulaOneRacer
+| rdfs:range = GrandPrix
+}}

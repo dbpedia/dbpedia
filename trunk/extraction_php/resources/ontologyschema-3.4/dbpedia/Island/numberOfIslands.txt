@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = number of islands
+|rdfs:domain = Island
+|rdfs:range = xsd:integer
+}}

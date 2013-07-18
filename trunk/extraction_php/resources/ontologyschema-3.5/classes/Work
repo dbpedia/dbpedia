@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Work
+| specificProperties = {{SpecificProperty | ontologyProperty = runtime | unit = minute }}
+}}

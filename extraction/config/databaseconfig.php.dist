@@ -1,0 +1,6 @@
+<?php
+ // database configuration for Wikipedia Database
+ $host = 'localhost';
+ $user = 'root';
+ $password = '';
+ $dbprefix = "dbpedia_";

@@ -1,0 +1,20 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Wrestler
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = resides | ontologyProperty = Wrestler/resides }}
+	{{ DBpediaPropertyMapping | templateProperty = billed | ontologyProperty = Wrestler/billed }}
+	{{ DBpediaPropertyMapping | templateProperty = trainer | ontologyProperty = Wrestler/trainer }}
+	{{ DBpediaPropertyMapping | templateProperty = debut | ontologyProperty = Wrestler/debut }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = names | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Person/weight | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = real_height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = real_weight | ontologyProperty = Person/weight | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = retired | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

@@ -1,0 +1,40 @@
+{{Infobox Automobile
+|name              = MAN Fortuna
+|image             = [[Image:MAN Lions Coach in Kielce 2008.jpg|300px]]
+|manufacturer      = [[MAN Nutzfahrzeuge|MAN Nutzfahrzeuge AG]]
+|parent_company    = [[MAN SE]]
+|aka               = [[MAN Lion's Coach]]
+|production_start  = 2004
+|production_end    = 
+|assembly          = 
+|predecessor       = 
+|successor         = 
+|class             = [[Commercial vehicle]]
+|body_style        = [[coach (vehicle)|Coach]]
+|layout            = 
+|platform          = 
+|engine            = MAN [[diesel engine]]
+|transmission      = 
+|wheelbase         = 
+|length            = 
+|width             = 
+|height            = 
+|weight            = 
+|fuel_capacity     = 
+|related           = 
+|designer          = 
+|sp                = uk
+}}
+[[Image:MAN Lions Coach in Kielce end.jpg|left|300px|thumb|MAN Lion's Coach in Kielce, Poland]]
+The '''MAN Fortuna''' is a model of long-distance inter-urban [[bus]] / [[coach (vehicle)|coach]] which was unveiled in 2004.
+
+It was introduced by [[MAN SE]] subsidiary [[MAN Nutzfahrzeuge|MAN Nutzfahrzeuge AG]] ({{lang-en|MAN Commercial Vehicles}}) in [[Augsburg]] and [[Nürnberg]].  It is still in service on inter-urban bus routes.  It was re-named ''[[MAN Lion's Coach]]'' in 2006.
+
+{{commons category|MAN Lion's Coach}}
+
+[[Category:Buses]]
+[[Category:MAN vehicles|Fortuna]]
+
+{{bus-stub}}
+
+[[tr:Man Fortuna]]

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = population density
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = inhabitantsPerSquareKilometre
+}}

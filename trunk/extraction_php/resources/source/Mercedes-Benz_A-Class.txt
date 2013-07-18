@@ -1,0 +1,324 @@
+{{Infobox Automobile
+|image=[[File:Mercedes W168 front 20071109.jpg|250px]]<br/>[[Image:Mercedes A-Klasse Facelift (W169) front-1.jpg|250px]]
+|name=Mercedes-Benz A-Class
+|manufacturer=[[Mercedes-Benz]]
+|parent_company=Daimler-Benz<br />DaimlerChrysler AG (from 1998)<br />[[Daimler AG]] (from 2007)
+|production=1997–present
+|predecessor=
+|layout=[[FF layout]]
+|assembly=[[Rastatt]], [[Germany]]
+|related=[[Mercedes-Benz B-Class]]
+}}
+
+The '''Mercedes-Benz A-Class''' is a luxury [[Compact car|small car]] produced by the [[Germany|German]] [[automaker]] [[Mercedes-Benz]]. The first generation (W168) was introduced in 1997, and the all-new second generation model (W169) appeared in late 2004. It is available as a three or five-door [[hatchback]]. It is Mercedes' entry level model in most of its worldwide markets, though not in [[China]] or [[North America]]; the [[Mercedes-Benz B-Class|B-Class]] is the entry model in China, [[Canada]] and [[Mexico]], and the [[Mercedes-Benz C-Class|C-Class]] is the entry model in the [[United States|US]].
+
+
+== W168 ==
+{{Infobox Automobile generation
+|image=[[File:Mercedes A140 Classic Fun 20090329 front.jpg|250px]]<br/>[[File:Mercedes A140 Classic Fun 20090329 rear.jpg|250px]]
+|name=Mercedes-Benz A-Class W168
+|production=1997–2004<br/>Brazil 1999 - August 2005
+|layout=[[FF layout]]
+|platform=[[Mercedes-Benz W168]]
+|engine=1.6L [[Straight-4|I4]]<br />1.7L [[Straight-4|I4]]<br />1.9L [[Straight-4|I4]]<br />2.1L [[Straight-4|I4]]
+|body_style=5-door [[hatchback]]
+|wheelbase={{convert|2423|mm|in|1|abbr=on}}
+|length={{convert|3606|mm|in|1|abbr=on}}
+|width={{convert|1719|mm|in|1|abbr=on}}
+|height={{convert|1587|mm|in|1|abbr=on}}
+}}
+
+Production of the W168 A-Class began in 1997. Its front engine, front wheel drive layout was quite unusual for Mercedes. To date, about 1.6 million units have been sold worldwide.<ref>[http://www.autoblog.com/2007/09/13/frankfurt-2007-mercedes-benz-a-class-edition-10-anniversary-edi/ Mercedes-Benz A Class 10th Anniversary Edition] at Frankfurt 2007 — AutoBlog.</ref>
+
+One innovation of the W168 was a frontal-impact absorption system called the "Sandwich" (see patents DE4326 9 and DE4400132 in the name of Mercedes-Benz). In the event of a violent frontal impact, the engine and transmission would slide underneath the floor below the pedals rather than entering the passenger compartment.
+
+The W168 became infamous in 1997 after flipping over during the traditional "[[moose test]]" performed by the Swedish automobile publication ''[[Teknikens Värld]]''. According to the report, the W168 overturned when maneuvering to avoid the "moose".  Mercedes initially denied the problem, but then took the surprising step of recalling all units sold to date (2,600) and suspending distribution until the problem was solved by adding [[electronic stability control]] and modifying the suspension.  This marked the world première of stability control in a small car.
+
+{{-}}
+
+=== Specifications ===
+{| class="wikitable" cellpadding="0" style="text-align:center; font-size:91%;"
+|- style="text-align:center; background:#efefef;"
+!width=123|Specification
+!width=69|A160 CDI (1998-2000)
+!width=69|A160 CDI (2000)
+!width=69|A170 CDI (1998-2000)
+!width=69|A170 CDI (2000)
+!width=69|A140
+!width=69|A160
+!width=69|A190 (2000)
+!width=69|A210 Evo (2000)
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Rated Output
+| {{convert|44|kW|PS hp|0|abbr=on}} || {{convert|55|kW|PS hp|0|abbr=on}} || {{convert|66|kW|PS hp|0|abbr=on}} || {{convert|70|kW|PS hp|0|abbr=on}} || {{convert|60|kW|PS hp|0|abbr=on}} || {{convert|75|kW|PS hp|0|abbr=on}} || {{convert|92|kW|PS hp|0|abbr=on}} || {{convert|103|kW|PS hp|0|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Motor
+|1.7L Diesel||1.7L Diesel||1.7L Diesel||1.7L Diesel||1.4L Petrol||1.6L Petrol||1.9L Petrol||2.1L Petrol
+|}
+
+== W169 ==
+{{Infobox Automobile generation
+|image=[[File:Mercedes W169 front 20080409.jpg|250px]]<br/>[[File:Mercedes W169 rear 20080409.jpg|250px]]
+|name=Mercedes-Benz A-Class W169
+|production=2004–present
+|layout=[[FF layout]]
+|platform=
+|engine=2.0L Diesel [[Straight-4|I4]]<br />1.5L [[Straight-4|I4]]<br />1.7L [[Straight-4|I4]]<br />2.0L [[Straight-4|I4]]
+|transmission=5-speed [[manual transmission|manual]]<br />6-speed [[manual transmission|manual]]<br />[[Continuously variable transmission|CVT]]
+|wheelbase=|{{convert|2568|mm|in|1|abbr=on}}
+|length=2004-08: {{convert|3838|mm|in|1|abbr=on}}<br />2009- {{convert|3883|mm|in|1|abbr=on}}
+|platform=[[Mercedes-Benz W169]]
+|width={{convert|1764|mm|in|1|abbr=on}}
+|height={{convert|1593|mm|in|1|abbr=on}}
+|body_style=5-door [[hatchback]]<br />3-door [[hatchback]]
+}}
+
+=== Driving assistance ===
+The car is designed according to Mercedes-Benz concept of 'Touch And Feel' (TAF).
+
+The multi-function [[steering wheel]] places controls for the radio, telephone, and other systems conveniently within reach of the thumbs of the driver. [[Power steering]] (standard feature) aids control of the automobile, with its behaviour varying according to the vehicle's speed.
+
+The Mercedes [[COMAND APS]] is a navigation system which provides directions via GPS.	The radio unit also provides [[DVD]] and telephone functionality, with various versions available (standard Audio 20 radio/single CD, Audio 50 APS or COMAND APS).
+
+The [[Parktronic]] system provides audio and visual signals to indicate how far the car is from an obstacle.
+
+The A-class optionally includes a "Light & Sight" package which includes [[bi-xenon HID headlamp]]s with gas-discharge bulbs; cornering lights (main-beam headlamps at road junctions and tight corners); "Headlamp Assist, which automatically turns on the lights when needed; and a [[rain sensor]] that adjusts [[Windscreen wiper|wiper]] speed depending on rainfall intensity.
+
+As a standard feature, when entering a tunnel or an underground garage the car goes into "tunnel mode", where all windows and the panoramic sliding [[sunroof]] are closed.
+
+=== Temperature control ===
+The standard temperature control system has separate temperature settings for driver and front passenger sides, and includes a "Heater Booster System" that can flood the interior of the car with hot air.
+
+The optional Themotronic system maintains and regulates the temperature in accordance with a set of [[sensors]] that measure temperature, sunlight, humidity and pollutant levels in the ambient air.
+
+=== Safety ===
+A number of new features were made available in the W169 model.
+
+The biggest was the immediate fitment of a newly invented device, [[Electronic Stability Control]]. ESP is standard on every [[Mercedes-Benz]] (produced after 1999).
+
+The car is constructed with high-strength steel alloys with bonded joints. It has a large number of
+[[airbag]]s including optional rear side airbags (for side-impacts in the backseats), optional side-curtain airbags, and standard head and thorax-protection side airbags.  The front airbags are adaptive with two-stage gas generators operating according to the severity of accident.
+
+The force exerted by the seat belt system during a collision adapts dynamically depending upon the collision characteristics.  The 'active' head restraints (standard for driver and front passenger) give enhanced protection from neck injury, especially during rear collisions.
+
+The angle of the A-pillar is flatter than the [[windshield]] angle.
+
+In 1997 the journalist Robert Collin from the motor magazine [[Teknikens Värld]] overturned the new Mercedes-Benz A-Class in the [[moose test]], while a [[Trabant]] — a much older, and widely mocked car from the former [[German Democratic Republic]] — managed it perfectly.
+
+[[Image:Mercedes A180CDI rear.JPG|250px|thumb|right|Facelifted A-Class W169]]
+
+=== Passenger and cargo space ===
+The cargo capacity of the W169 was increased by 15 percent compared with the W168.  The seats can be moved and configured in various ways:
+
+* EASY-ENTRY: Front seats slides forwards with the backrest folded forwards to afford the rear seat passengers more room for getting in and out. (standard on three-door)
+* EASY-VARIO: Both rear-seat cushion sections are folded forward, while the luggage compartment floor can be set to one of two different heights. (standard on five-door; optional on three-door)
+* EASY-VARIO-PLUS: Both rear-seat cushion and the front passenger seat are folded forward. Increases load capacity to as much as 1995 litres. (optional on five-door)
+
+=== Engine and drive system ===
+Seven types of motors are available, and all are [[Straight-4|four-cylinders]]: four [[petrol]] (gasoline) (A150, A170, A200, A200Turbo) and three [[diesel engine|diesel]] (160CDI, 180CDI, 200CDI) partnered with either 5 or 6-speed [[manual gearbox]].  A [[continuously variable transmission]] system called "Autotronic Constantly Variable Transmission" (CVT) is an optional feature.
+
+The petrol A200 Turbo provides {{Convert|193|hp|kW|0|abbr=on}} and {{convert|280|Nm|lbft|0|abbr=on}} of [[torque]] (rotational force); the diesel A200 CDI has {{Convert|140|hp|kW|0|abbr=on}} and {{convert|300|Nm|lbft|0|abbr=on}}.
+
+It is estimated that the W169 engines provide a 40% increase in power and a 10% decrease in fuel consumption compared to W168 engines.
+
+The most powerful model can take the car from a standstill to {{convert|100|km/h|mph|0|abbr=on}} in 8.0 seconds, and has a top speed of {{convert|218|km/h|mph|0|abbr=on}}.
+
+The newly developed direct-injection CDI diesel units use a common-rail direct injection system that improves fuel consumption and reduces exhaust emissions and [[noise]] levels.
+
+All the engines meet the tight EU4 emissions limits. A particulate filter system is available as an option for the diesel units which reduces the particulate emissions by about 99% without the need for additives.
+
+The A-Class is a [[front wheel drive]] car and features [[traction control system|traction control]] (ASR) as standard, as well as [[electronic stability control]] and [[anti-lock brakes]] (ABS).
+
+[[Car handling|Handling]] is improved by precision tracking and anti-roll support, and by a Parabolic Rear Axle.
+
+A "Selective Damping System", in which the shock absorber forces respond differently according to conditions, is standard.  For example, under normal conditions it operates at soft absorption; while cornering at speed it changes to full damping force.
+
+The W169 optionally comes with light-alloy wheels, with a run-flat feature, Tirefit tire sealant and a tire-pressure-loss warning device.
+
+Tire sizes are:
+
+* 185/65 R 15 with wheel trim (classic model)
+* 185/65 R 15 light-alloy wheels (elegance model)
+* 195/55 R 16 light-alloy wheels (avantgarde model)
+
+== W169 facelift ==
+[[File:Mercedes A 160 CDI Elegance (W169) Facelift 20090620 front.JPG|215px|left]]
+[[File:Mercedes A 160 CDI Elegance (W169) Facelift 20090620 rear.JPG|215px|right]]
+The 2009 A-Class (W169 Facelift) features redesigned front and rear bumpers, new tail lamps and headlights, new grille, new exterior mirrors, a restyled interior design and new upholsteries and colors. The 2009 A-Class was released alongside the refreshed 2009 M-Class and B-Class. The car is also available with Active Park Assist, which enables the car to parallel park itself, with only throttle and brake inputs required from the driver.
+
+{{-}}
+
+== Initial advertising campaign for the W169 ==
+A four-day, seven-country tour which officially introduced the car culminated in an event in [[Milan]], in the [[Castello Sforzesco]], where all the touring units were received by a myriad of European personalities from [[music]], [[fashion]], [[sport]] and [[movies]].  Armani presented a fashion show and Christina Aguilera did a live performance of her song "[[Hello (Christina Aguilera)|Hello]]", composed exclusively for the occasion.
+
+The W169 advertising campaign included television spots with [[Christina Aguilera]], [[Giorgio Armani]] and [[Boris Becker]].
+
+[[File:Mercedes-Benz A-Class F-Cell--DC.jpg|thumb|right|Mercedes-Benz A-Class F-Cell concept]]
+
+== Electric versions ==
+The "[[e-mobility Berlin]]" project will see Daimler deploy a fleet of over 100 second-generation [[Smart ED]] and Mercedes A-Class cars powered by [[lithium ion]] batteries <ref>{{cite web|last=Abuelsamid |first=Sam |url=http://www.autobloggreen.com/2008/09/05/daimler-announces-deal-with-rwe-500-berlin-charging-points-lit/ |title=Daimler announces deal with RWE, 500 Berlin charging points, lithium Smart — Autoblog Green |publisher=Autobloggreen.com |date=2008-09-05 |accessdate=2009-11-10}}</ref>.
+
+== Production ==
+
+Sales of the W169 were targeted at 50,000 units in 2004.  Dr. Joachim Schmidt, Executive Vice President Sales and Marketing, Mercedes Car Group, said that target had been reached even before vehicles arrived in dealer showrooms.
+
+[[DaimlerChrysler]] invested EUR 900 million in developing the [[Rastatt]] plant where the A-Class is produced, and created 1600 new jobs (for a total of 4700). A further 600 people work on the industrial estate at the plant site.
+
+In 1999, Mercedes Benz opened, in [[Juiz de Fora]], [[Minas Gerais]] ([[Brazil]]), its first factory in [[South America]] dedicated to passenger cars, with an investment of [[United States dollar|USD]] 840 million and 10,000 employees.  The factory initially produced A-Class and C-Class models, assembling them from pieces manufactured in [[Germany]]. The target for the cars was regional markets (from [[Argentina]] to [[Mexico]]) with modifications made to the cars to suit local conditions, like a protection for the motor base for the mostly poor roads in [[South America]].  In 2005 the factory stopped production of A-Class cars.
+
+== Profitability and impact on the Mercedes-Benz brand ==
+Mercedes-Benz has made a number of confusing announcements - first that a "weak [[Euro]]" could have produce costs problems<ref>{{cite web|url=http://www.automobilemag.com/auto_shows/2005_geneva/0503_mercedes_b_class/ |title=2006 Mercedes-Benz B-Class - 2005 Geneva Auto Show Coverage - Automobile Magazine |publisher=Automobilemag.com |date=2005-02-27 |accessdate=2009-11-10}}</ref> and later that the "fall of the [[United States dollar|Dollar]]" will cause the enterprise to not be profitable <ref>{{cite web|url=http://uk.cars.yahoo.com/050619/7/1xvtd.html |title=Car News &#124; Motoring News - Yahoo! Cars UK |publisher=Uk.cars.yahoo.com |date= |accessdate=2009-11-10}}</ref>.
+
+According to some analyses<ref>{{cite web|url=http://irishcar.com/btwwhitegoods.htm |title=Editorial with Brian Byrne |publisher=irishcar.com |date=2002-01-07 |accessdate=2009-11-10}}</ref>, Mercedes-Benz considers the creation of the A-Class to have reduced its prestige in Europe, and the company has concentrated its efforts on its larger and more profitable vehicle lines.
+
+=== W169 ===
+{| class="wikitable" cellpadding="0" style="text-align:center; font-size:91%;"
+|- style="text-align:center; background:#efefef;"
+!width=123|Specification
+!width=82|A160 CDI
+!width=82|A180 CDI
+!width=82|A200 CDI
+!width=82|A160 
+!width=82|A180
+!width=82|A200 turbo
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Length 
+|{{convert|3838|mm|in|1|abbr=on}}||{{convert|3838|mm|in|1|abbr=on}}||{{convert|3838|mm|in|1|abbr=on}}||{{convert|3838|mm|in|1|abbr=on}}||{{convert|3838|mm|in|1|abbr=on}}||{{convert|3838|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Width 
+|{{convert|1764|mm|in|1|abbr=on}}||{{convert|1764|mm|in|1|abbr=on}}||{{convert|1764|mm|in|1|abbr=on}}||{{convert|1764|mm|in|1|abbr=on}}||{{convert|1764|mm|in|1|abbr=on}}||{{convert|1764|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Height 
+|{{convert|1593|mm|in|1|abbr=on}}||{{convert|1593|mm|in|1|abbr=on}}||{{convert|1595|mm|in|1|abbr=on}}||{{convert|1593|mm|in|1|abbr=on}}||{{convert|1593|mm|in|1|abbr=on}}||{{convert|1595|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Wheelbase 
+|{{convert|2568|mm|in|1|abbr=on}}||{{convert|2568|mm|in|1|abbr=on}}||{{convert|2568|mm|in|1|abbr=on}}||{{convert|2568|mm|in|1|abbr=on}}||{{convert|2568|mm|in|1|abbr=on}}||{{convert|2568|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Luggage (l)
+|435-1995||435-1995||435-1995||435-1995||435-1995||435-1995
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:right;"|(3 doors)
+|435-1485||435-1485||435-1485||435-1485||435-1485||435-1485
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Empty weight  (5-doors)
+|{{convert|1325|kg|lb|0|abbr=on}}||{{convert|1345|kg|lb|0|abbr=on}}||{{convert|1365|kg|lb|0|abbr=on}}||{{convert|1225|kg|lb|0|abbr=on}}||{{convert|1240|kg|lb|0|abbr=on}}||{{convert|1305|kg|lb|0|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:right;"|(3 doors)
+|{{convert|1300|kg|lb|0|abbr=on}}||{{convert|1320|kg|lb|0|abbr=on}}||{{convert|1340|kg|lb|0|abbr=on}}||{{convert|1195|kg|lb|0|abbr=on}}||{{convert|1210|kg|lb|0|abbr=on}}||{{convert|1275|kg|lb|0|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Tank Capacity
+|{{Convert|54|L|usgal impgal|1|abbr=on}}||{{Convert|54|L|usgal impgal|1|abbr=on}}||{{Convert|54|L|usgal impgal|1|abbr=on}}||{{Convert|54|L|usgal impgal|1|abbr=on}}||{{Convert|54|L|usgal impgal|1|abbr=on}}||{{Convert|54|L|usgal impgal|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Tank Reserve
+|{{Convert|6|L|usgal impgal|1|abbr=on}}||{{Convert|6|L|usgal impgal|1|abbr=on}}||{{Convert|6|L|usgal impgal|1|abbr=on}}||{{Convert|6|L|usgal impgal|1|abbr=on}}||{{Convert|6|L|usgal impgal|1|abbr=on}}||{{Convert|6|L|usgal impgal|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Cylinders
+|4/in-line 4-valv/cyl||4/in-line 4-valv/cyl||4/in-line 4-valv/cyl||4/in-line 2-valv/cyl||4/in-line 2-valv/cyl||4/in-line 2-valv/cyl
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Displacement cc
+|1991||1991||1991||1498||1699||2034
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Motor
+|2.0L Diesel||2.0L Diesel||2.0L Diesel||1.5L Petrol||1.7L Petrol||2.0 Petrol
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Fuel per 100 km
+|4.9L||5.2L||5.4L||6.2L||6.6L||7.2L
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Rated Output '''kW/ hp/ PS''' (rpm)
+|60/82/83 (4200)||80/109/111 (4200)||103/140/142 (4200)||70/95/96 (5200)||85/116/118 (5500)||142/193/196 (4850)
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Rated Torque 
+|{{convert|180|Nm|ftlbf|abbr=on}} (1400-2600)||{{convert|250|Nm|ftlbf|abbr=on}} (1600-2600)||{{convert|300|Nm|ftlbf|abbr=on}} (1600-2600)||{{convert|140|Nm|ftlbf|abbr=on}} (3500-4000)||{{convert|155|Nm|ftlbf|abbr=on}} (3500-4000)||{{convert|280|Nm|ftlbf|abbr=on}} (1800-4850)
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Acceleration 0-100 km/h (sec)
+|15.0||10.8||9.5||12.6||10.9||8.0
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Top Speed km/h
+|{{convert|165|km/h|mi/h|abbr=on}}||{{convert|184|km/h|mi/h|abbr=on}}||{{convert|202|km/h|mi/h|abbr=on}}||{{convert|173|km/h|mi/h|abbr=on}}||{{convert|188|km/h|mi/h|abbr=on}}||{{convert|218|km/h|mi/h|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Transmission
+|5-speed manual||6-speed manual||6-speed manual||5-speed manual||5-speed manual||6-speed manual
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Wheels
+|6j x 15||6j x 15||6j x 16||6j x 15||6j x 15||6j x 16
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|Tires
+|185/65R15||185/65R15||195/55R16||185/65R15||185/65R15||195/55R16
+|}
+
+A200 normal aspiration
+
+Displacement: 2034 cc
+
+Power: {{Convert|136|PS|kW hp|0|abbr=on}}  @ 5750 rpm
+
+Rated Torque: {{convert|185|Nm|ftlbf|abbr=on}} @ 3500 rpm - 4000 rpm
+
+Transmission: 6-speed manual CVT
+
+Top Speed: {{Convert|195|km/h|mi/h|0|abbr=on}}
+
+Wheels: 6j x 16
+
+Tires: 195/55 R16
+
+=== W168 vs. W169 ===
+
+{| class="wikitable" cellpadding="0" style="text-align:center; font-size:91%;"
+|- style="text-align:center; background:#efefef;"
+!width=123|Specification
+!width=82|W169 (5 door)
+!width=82|W168 (standard)
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|length 
+|{{convert|3838|mm|in|1|abbr=on}} ||{{convert|3606|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|width 
+|{{convert|1764|mm|in|1|abbr=on}}||{{convert|1719|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|height
+|{{convert|1593|mm|in|1|abbr=on}}||{{convert|1587|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|wheelbase 
+|{{convert|2568|mm|in|1|abbr=on}}||{{convert|2423|mm|in|1|abbr=on}}
+|- style="text-align:center; background:#f5f5f5;"
+|style="text-align:left;"|VDA boot capacity L
+|435-1370||390-1190
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Mercedes-Benz A-Class}}
+* [http://www.mercedes-benz.com Official Mercedes Benz page]
+* [http://www.follow-your-own-star.com/webspecials/aclass/app/main.html?language= Official  A-Class promotional Page]
+* [http://baby-benz.com/portal A-Class Owners Club - baby-benz.com]
+* [http://www.a-class.biz/ Mercedes-Benz A-Class Fans Site - www.a-class.biz]
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz vehicles|A-class]]
+[[Category:Euro NCAP small family cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Hatchbacks]]
+[[Category:Vehicles introduced in 1997]]
+[[Category:Vehicles with CVT transmission]]
+
+[[da:Mercedes-Benz A-klasse]]
+[[de:Mercedes-Benz A-Klasse]]
+[[es:Mercedes-Benz Clase A]]
+[[fa:مرسدس بنز رده‌ی ای]]
+[[fr:Mercedes-Benz Classe A]]
+[[ko:A 클래스]]
+[[it:Mercedes-Benz Classe A]]
+[[nl:Mercedes-Benz A-Klasse]]
+[[ja:メルセデス・ベンツ Aクラス]]
+[[no:Mercedes-Benz A-Klasse]]
+[[pl:Mercedes-Benz klasy A]]
+[[pt:Mercedes-Benz Classe A]]
+[[ru:Mercedes-Benz A-класс]]
+[[fi:Mercedes-Benz A-sarja]]
+[[sv:Mercedes-Benz A-klass]]
+[[tr:Mercedes-Benz A Serisi]]
+[[uk:Mercedes-Benz A-Class]]

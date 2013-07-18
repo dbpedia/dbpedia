@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Mollusca
+| rdfs:subClassOf = Animal
+}}

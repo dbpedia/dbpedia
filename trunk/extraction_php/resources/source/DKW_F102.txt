@@ -1,0 +1,45 @@
+{{Infobox Automobile
+| image = [[Image:MHV DKW F102 01.jpg|DKW F 102|250px]] 
+| name = DKW F102
+| manufacturer = [[Auto Union|Auto Union AG]]| parent_company= until 1964: [[Daimler Benz|Daimler Benz AG]]<br>
+since 1964: [[Volkswagen|Volkswagen AG]]
+
+| production = 1963-1966<br>53,053 produced<ref name="motorbase.com">{{Cite web|url=http://www.motorbase.com/vehicle/by-id/555/|title=DKW F102|accessdate=2008-02-24|work=motorbase.com}}</ref> 
+| predecessor = [[Auto Union 1000]]
+| successor = [[Audi F103]]
+| body_style = 2-door [[saloon car|saloon]]<br>4-door [[saloon car|saloon]]
+| engine = 1175 cc [[straight-3]] <br>two stroke
+| transmission = 4 speed manual<br>all-synchromesh <ref name=DlyExpressLonMoShoRev1966>{{cite book |last=Cardew|first=Basil |authorlink= |coauthors= |title=Daily Express Review of the 1966 Motor Show|year=1966 |publisher=Beaverbrook Newspapers Ltd |location=London |id=}}</ref>
+| layout=[[FF layout]]
+| length = {{convert|4280|mm|in||abbr=on}}
+| width = {{convert|1618|mm|in||abbr=on}}
+| height = {{convert|1449|mm|in||abbr=on}}
+| weight = {{convert|910|kg|lb||abbr=on}} -<br>{{convert|945|kg|lb||abbr=on}} | wheelbase =  {{convert|2499|mm|in||abbr=on}}
+| track = {{convert|1330|mm|in||abbr=on}} ''(front)'' <br>{{convert|1326|mm|in||abbr=on}} ''(rear)'' 
+| related = 
+| similar = 
+| designer = 
+| fuel_capacity = {{Convert|10|impgal|L usgal|0|abbr=on}}<ref name=DlyExpressLonMoShoRev1966/>
+}}
+[[Image:MHV DKW F102 02.jpg|thumb|right|250px|DKW F 102]]
+The '''DKW F102''' is a car that was produced initially by German manufacturer [[Auto Union|Auto Union AG]] and later by [[Volkswagen|Volkswagen AG]] after Volkswagen acquired the Auto Union brands from [[Daimler Benz|Damiler-Benz AG]] in 1964.
+
+It succeeded the [[Auto Union 1000]] and 1000S models in 1963. It was the last model developed before the Volkswagen take-over, and under their auspices it provided the base for the later [[Audi F103]] models (the "Audi" and later "Audi 72", plus 60, 75, 80, and Super 90).
+
+The F102 featured state-of-the-art two-stroke technology for its time and a unibody of modern design. Nevertheless, the market of the 1960s shunned two-stroke engines as old-fashioned. The F102 in consequence sold below the company's expectations and was the source of huge financial losses. Due to this situation Volkswagen was forced to do a radical cut in 1966. The production of two-stroke-engines was ceased, and the F102 was redesigned to fit a four-cylinder-four-stroke-engine. At this point the name of DKW was abandoned, and the F103 became the first car with [[Audi]] label since [[World War II]].
+
+==References==
+*{{German|DKW F102|[[2008-02-10]]}}
+{{reflist}}
+
+== External links ==
+*[http://norwegen.piranho.de/Deutschland/Bleckede2005/Auto%20Union%20DKW%20F102_01.htm photos]
+
+[[Category:DKW vehicles|F102]]
+[[Category:Front wheel drive vehicles]]
+
+[[de:DKW F102]]
+[[nl:DKW F102]]
+[[ja:DKW・F102]]
+[[pt:DKW F102]]
+[[sv:DKW F102]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = final flight
+| rdfs:domain = Rocket
+| rdfs:range = xsd:date
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = latest release date
+|rdfs:domain = Software
+|rdfs:range = xsd:date
+}}

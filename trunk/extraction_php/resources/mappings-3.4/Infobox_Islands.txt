@@ -1,0 +1,33 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Island
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = archipelago | ontologyProperty = Island/archipelago }}
+	{{ DBpediaPropertyMapping | templateProperty = total islands | ontologyProperty = Island/numberOfIslands }}
+	{{ DBpediaPropertyMapping | templateProperty = major islands | ontologyProperty = Island/majorIsland }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = Island/country }}
+	{{ DBpediaPropertyMapping | templateProperty = country 1 | ontologyProperty = Island/country }}
+	{{ DBpediaPropertyMapping | templateProperty = country 2 | ontologyProperty = Island/country }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = native name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = area_sqmi | ontologyProperty = Place/areaTotal | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = area_km2 | ontologyProperty = Place/areaTotal | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = length_mi | ontologyProperty = Place/length | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = length_km | ontologyProperty = Place/length | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = width | ontologyProperty = Place/width | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = width_mi | ontologyProperty = Place/width | unit = mile | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = width_km | ontologyProperty = Place/width | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_ft | ontologyProperty = Place/elevation | unit = foot }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation_m | ontologyProperty = Place/elevation | unit = metre }}
+	{{ DBpediaPropertyMapping | templateProperty = elevation | ontologyProperty = Place/elevation | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = country capital | ontologyProperty = PopulatedPlace/capital }}
+	{{ DBpediaPropertyMapping | templateProperty = country largest city | ontologyProperty = PopulatedPlace/largestCity }}
+	{{ DBpediaPropertyMapping | templateProperty = population | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = population as of | ontologyProperty = PopulatedPlace/populationAsOf }}
+	{{ DBpediaPropertyMapping | templateProperty = density | ontologyProperty = PopulatedPlace/populationDensity | unit = PopulationDensity }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnic groups | ontologyProperty = PopulatedPlace/ethnicGroup }}
+}}

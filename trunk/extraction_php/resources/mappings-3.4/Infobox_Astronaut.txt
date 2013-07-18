@@ -1,0 +1,19 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Astronaut
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Astronaut/type }}
+	{{ DBpediaPropertyMapping | templateProperty = status | ontologyProperty = Astronaut/status }}
+	{{ DBpediaPropertyMapping | templateProperty = time | ontologyProperty = Astronaut/timeInSpace | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = selection | ontologyProperty = Astronaut/selection }}
+	{{ DBpediaPropertyMapping | templateProperty = mission | ontologyProperty = Astronaut/mission }}
+	{{ DBpediaPropertyMapping | templateProperty = Dateofret | ontologyProperty = Astronaut/retired }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = date_birth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place_birth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = date_death | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place_death | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = current_occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = previous_occupation | ontologyProperty = Person/occupation }}
+}}

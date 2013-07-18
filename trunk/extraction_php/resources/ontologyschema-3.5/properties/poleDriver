@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = pole driver
+| rdfs:domain = GrandPrix
+| rdfs:range = Person
+}}

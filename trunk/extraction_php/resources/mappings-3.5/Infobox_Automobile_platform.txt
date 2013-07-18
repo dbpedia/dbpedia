@@ -1,0 +1,80 @@
+{{TemplateMapping
+|mapToClass = Automobile
+|correspondingClass = Automobile
+|correspondingProperty = variantOf
+|mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{PropertyMapping | templateProperty = manufacturer | ontologyProperty = manufacturingCompany}}
+	
+	{{PropertyMapping | templateProperty = aka | ontologyProperty = 
+	foaf:name}}
+	
+	{{DateIntervalMapping | templateProperty = production | 
+	startDateOntologyProperty = productionStartDate|
+	endDateOntologyProperty = productionEndDate}}
+	
+	{{DateIntervalMapping | templateProperty = production |
+	startDateOntologyProperty = productionStartYear|
+	endDateOntologyProperty = productionEndYear}}
+
+	{{PropertyMapping | templateProperty = assembly | ontologyProperty = assembly}}
+	
+	{{PropertyMapping | templateProperty = predecessor | ontologyProperty = predecessor}}
+	
+	{{PropertyMapping | templateProperty = successor | ontologyProperty = successor}}
+	
+	{{PropertyMapping | templateProperty = class | ontologyProperty = class}}
+	
+	{{PropertyMapping | templateProperty = body_style | ontologyProperty = bodyStyle }}
+	
+	{{IntermediateNodeMapping | nodeClass = AutomobileEngine |
+	correspondingProperty = engine | nodeURI =
+	/{superResource}/Engine/{number} | mappings = 
+    
+        {{PropertyMapping | templateProperty = engine | ontologyProperty = powerOutput | unit = Power }}
+	 
+		{{PropertyMapping | templateProperty = engine | ontologyProperty = displacement | unit = Volume }}
+
+		{{PropertyMapping | templateProperty = engine | ontologyProperty = configuration | unit = engineConfiguration }}
+	
+    <!-- Produces wrong results in many cases
+		{{PropertyMapping | templateProperty = engine | ontologyProperty = 
+		foaf:name}}
+	
+		{{PropertyMapping | templateProperty = engine | ontologyProperty = valvetrain}}
+    -->
+		
+	}}
+	
+	{{PropertyMapping | templateProperty = layout | ontologyProperty = layout }}
+		
+	{{PropertyMapping | templateProperty = transmission | ontologyProperty = transmission}}
+	
+	{{PropertyMapping | templateProperty = wheelbase | ontologyProperty = wheelbase | unit = millimetre}}
+	
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length}}
+	
+	{{PropertyMapping | templateProperty = width | ontologyProperty = width | unit = Length}}
+	
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length}}
+	
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass}}
+	
+	{{PropertyMapping | templateProperty = related | ontologyProperty = relatedMeanOfTransportation}}
+	
+	{{PropertyMapping | templateProperty = vehicles | ontologyProperty = vehicle}}
+	
+	
+	
+}}
+	
+	
+	
+	
+	
+	
+	
+	
+	

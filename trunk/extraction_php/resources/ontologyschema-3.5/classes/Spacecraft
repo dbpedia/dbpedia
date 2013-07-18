@@ -1,0 +1,16 @@
+{{Class
+| rdfs:label = Spacecraft
+| rdfs:subClassOf = MeanOfTransportation
+| specificProperties = {{SpecificProperty | ontologyProperty = port2DockedTime | unit = day }}
+                       {{SpecificProperty | ontologyProperty = totalMass | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = apoapsis | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = dockedTime | unit = day }}
+                       {{SpecificProperty | ontologyProperty = cargoFuel | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = port1DockedTime | unit = day }}
+                       {{SpecificProperty | ontologyProperty = cargoGas | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = dryCargo | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = periapsis | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = cargoWater | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = totalCargo | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = freeFlightTime | unit = day }}
+}}

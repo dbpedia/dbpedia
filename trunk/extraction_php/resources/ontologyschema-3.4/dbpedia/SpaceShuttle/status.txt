@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = status
+|rdfs:domain = SpaceShuttle
+|rdfs:range = xsd:string
+}}

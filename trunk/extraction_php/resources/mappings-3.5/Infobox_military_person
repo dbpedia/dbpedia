@@ -1,0 +1,37 @@
+{{TemplateMapping
+| mapToClass = MilitaryPerson
+| mappings = 
+	{{PropertyMapping | templateProperty = allegiance | ontologyProperty = allegiance }}
+	{{PropertyMapping | templateProperty = branch | ontologyProperty = branch }}
+	{{PropertyMapping | templateProperty = rank | ontologyProperty = militaryRank }}
+	
+	<!--
+	MilitaryPerson/unit was removed from ontology
+	{{PropertyMapping | templateProperty = unit | ontologyProperty = unit}}
+	-->
+	
+	{{PropertyMapping | templateProperty = commands | ontologyProperty = command}}
+	
+	<!--
+	MilitaryPerson/battle was removed from ontology
+	{{PropertyMapping | templateProperty = battles | ontologyProperty = battle}}
+	-->
+
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = born | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = born | ontologyProperty = birthYear}}
+	{{PropertyMapping | templateProperty = died | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = died | ontologyProperty = deathYear}}
+	{{PropertyMapping | templateProperty = placeofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = placeofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = placeofburial | ontologyProperty = restingPlace }}
+	{{PropertyMapping | templateProperty = placeofburial_label | ontologyProperty = noteOnRestingPlace}}
+	{{GeocoordinatesMapping | coordinates = placeofburial_coordinates }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{PropertyMapping | templateProperty = relations | ontologyProperty = relation }}
+	{{PropertyMapping | templateProperty = laterwork | ontologyProperty = occupation }}
+    {{DateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = serviceStartDate | endDateOntologyProperty = serviceEndDate }}
+	{{DateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = serviceStartYear | endDateOntologyProperty = serviceEndYear }}
+
+}}

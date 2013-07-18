@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = NSSDC ID
+| rdfs:domain = SpaceStation
+| rdfs:range = xsd:string
+}}

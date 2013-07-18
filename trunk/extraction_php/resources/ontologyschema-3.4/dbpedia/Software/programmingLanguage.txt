@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = programming language
+|rdfs:domain = Software
+|rdfs:range = owl:Thing
+}}

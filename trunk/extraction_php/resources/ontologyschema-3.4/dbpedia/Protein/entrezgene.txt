@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = EntrezGene
+|rdfs:domain = Protein
+|rdfs:range = xsd:string
+}}

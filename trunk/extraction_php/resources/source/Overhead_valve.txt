@@ -1,0 +1,62 @@
+{{redirect-acronym|OHV|[[Off highway vehicle]]}}
+{{unreferenced|date=September 2007}}
+[[Image:Pushrod2.PNG|thumb|Components of a pushrod valve actuation system]]
+[[Image:pushrod engine.jpg|thumb|Picture of a [[V8]] [[engine block]] (with [[intake manifold]] removed), showing the camshaft, pushrods, and rockers.]]
+
+An '''overhead valve (OHV) engine''', also informally called '''pushrod engine''' or '''I-head engine''', is a type of [[piston engine]] that places the [[camshaft]] within the [[cylinder block]] (usually beside and slightly above the [[crankshaft]] in a [[straight engine]] or directly above the crankshaft in the V of a [[V engine]]), and uses '''pushrods''' or ''rods'' to actuate [[rocker arm]]s above the [[cylinder head]] to actuate the [[poppet valve|valves]].  Lifters or ''[[tappet]]s'' are located in the engine block between the camshaft and pushrods.<ref>[http://auto.howstuffworks.com/camshaft1.htm HowStuffWorks "Camshaft Configurations"<!-- Bot generated title -->]</ref>  The later [[overhead camshaft]] (OHC) design avoids the use of pushrods by putting the camshaft in the cylinder head.
+
+In 1949, [[Oldsmobile]] introduced the [[Oldsmobile V8 engine|Rocket V8]].  It was the first high-compression I-head design, and is the archetype for most modern pushrod engines.  [[General Motors]] is the world's largest pushrod engine producer,{{citation needed|date=August 2009}} with engines such as the [[Buick V6 engine#L32 Supercharged|3800 Series III]] [[supercharger|supercharged]] [[V6 engine]] {{convert|260|hp|kW|0|lk=on}}, {{Auto lbft|280}}, [[GM LS engine#LS7|LS7]] [[Chevrolet Corvette]] 7.0&nbsp;[[litre]] [[V8 engine]] {{convert|505|hp|kW|0}}, {{Auto lbft|475}}, and [[GM LS engine#LS4|LS4]] 5.3&nbsp;litre [[Active Fuel Management|DOD]] V8 {{convert|303|hp|kW|0}}, {{Auto lbft|323}}.
+
+Few pushrod type engines remain in production outside of the United States market.  This is in part a result of some countries passing laws to tax engines based on displacement, due to the fact that displacement is somewhat related to the emissions and fuel efficiency of an automobile.  This has given OHC engines a regulatory advantage in those countries, which resulted in few manufacturers wanting to design both OHV and OHC engines. 
+
+However, in 2002, Chrysler introduced a new pushrod engine: a 5.7&nbsp;litre Hemi engine.  The new [[Chrysler Hemi engine]] presents advanced features such as [[variable displacement]]{{citation needed|date=August 2009}} technology and has been a popular option with buyers.  The Hemi was on the [[Ward's 10 Best Engines]] list for 2003 through 2007.  Chrysler also produced the world's first production variable valve OHV engine with independent intake and exhaust phasing.  The system is called [[CamInCam]],<ref>[http://www.sae.org/automag/technewsletter/070402Powertrain/04.htm Automotive Engineering International Online: Powertrain Technology Newsletter<!-- Bot generated title -->]</ref> and was first used in the {{convert|600|hp|kW|0}} SRT-10 engine for the 2008 [[Dodge Viper]].
+
+==History==
+In [[automotive engineering]], an '''overhead valve''' [[internal combustion engine]] is one in which the intake and exhaust [[poppet valve|valves]] and ports are contained within the [[cylinder head]].
+
+The original overhead valve or '''OHV''' [[piston engine]] was developed by the [[Scottish-American]] [[David Dunbar Buick]].  It employs pushrod-actuated valves [[parallel (geometry)|parallel]] to the [[piston]]s, and this is still in use today.  This contrasts with previous designs which made use of [[flathead engine|side valves]] and [[sleeve valve]]s.
+
+Nowadays, automotive use of side-valves has virtually disappeared, and valves are almost all "overhead".  However most are now driven more directly by the [[overhead camshaft]] system, and these are designated OHC instead - either [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC) or [[overhead camshaft#double overhead camshaft|double overhead camshaft]] (DOHC).
+
+==Advantages==
+Overhead valve (OHV) engines have specific advantages:
+*''Smaller overall packaging'' — because of the [[cam-in-block|camshaft's location inside the engine block]], OHV engines are more compact than an overhead cam engine of comparable displacement.  For example, [[Ford]]'s 4.6 L OHC [[Ford Modular engine|modular]] V8 is larger than the 5.0 L I-head [[Ford Windsor engine|Windsor]] V8 it replaced.  GM's 4.6 L OHC [[Cadillac Northstar engine|Northstar]] V8 is slightly taller and wider than GM's larger displacement 5.7 to 7.0 L I-head [[GM LS engine|LS]] V8.  The [[Ford Ka]] uses the venerable [[Ford Kent engine#Endura-E|Kent Crossflow]] OHV engine to fit under its low bonnet line.
+*''Less complex drive system'' — OHV engines have a less complex drive system to time the camshaft when compared with [[OHC]] engines.  Most OHC engines drive the [[camshaft]] or [[camshaft]]s using a [[timing belt]], a [[roller chain|chain]] or multiple chains.  These systems require the use of tensioners which add some complexity to the engine.  In contrast a OHV engine has the camshaft positioned just above crankshaft and can be run with a much smaller chain or even direct gear connection.
+
+==Limitations==
+Some specific problems that remain with overhead valve (OHV) engines:
+*''Limited engine speeds or [[revolutions per minute|RPM]]'' — OHV engines have more [[valvetrain]] moving parts, thus more valvetrain inertia and mass, as a result they suffer more easily from valve "float", and may exhibit a tendency for the pushrods, if improperly designed, to flex or snap at high engine speeds.  Therefore, OHV engine designs cannot revolve ("rev") at engine speeds as high as OHC <ref>[http://auto.howstuffworks.com/camshaft1.htm HowStuffWorks "Camshaft Configurations"<!-- Bot generated title -->]</ref>
+Modern OHV engines are usually limited to about 6,000 to 8,000&nbsp;[[revolutions per minute]] (rpm) in production cars, and 9,000&nbsp;rpm to 10,500&nbsp;rpm in racing applications.  In contrast, many modern DOHC engines may have rev limits from 6,000&nbsp;rpm to 9,000&nbsp;rpm in road car engines, and in excess of 20,000&nbsp;rpm (though now limited to 18,000 rpm) in current [[Formula One]] race engines using [[pneumatic valve springs]].  High-revving pushrod engines are normally solid (mechanical) lifter designs, flat and roller.  In 1969, [[Chevrolet]] offered a Corvette and a [[Camaro]] model with a solid lifter cam pushrod V8 (the ZL-1) that could rev to 8,000&nbsp;rpm.  The [[Volvo B18 engine|Volvo B18 and B20]] engines can rev to more than 7,000&nbsp;rpm with their solid lifter camshaft.  However, the LS7 of the C6 Corvette Z06 is the first production hydraulic roller cam pushrod engine to have a redline of 7,100&nbsp;rpm.
+*''Limited cylinder head design flexibility'' — [[overhead camshaft]] (OHC) engines benefit substantially from the ability to use [[multi-valve|multiple valves per cylinder]], as well as much greater freedom of component placement, and intake and exhaust port geometry.  Most modern OHV engines have two valves per cylinder, while many OHC engines can have three, four or even five valves per cylinder to achieve greater power.  Though multi-valve OHV engines exist, their use is somewhat limited due to their complexity and is mostly restricted to low and medium speed diesel engines.  In OHV engines, the size and shape of the intake ports as well as the position of the valves are limited by the pushrods.
+
+==1994 Mercedes/Ilmor Indianapolis 500 engine==
+The [[Indy 500]] race in [[Indianapolis]] each year bears some vestige of its original purpose as a proving ground for automobile manufacturers, in that it once gave an advantage in engine displacement to engines based on stock production engines, as distinct from out-and-out racing engines designed from scratch.  One factor in identifying production engines from racing engines was the use of pushrods, rather than the overhead camshafts used on most modern racing engines; Mercedes-Benz realized before the [[1994 Indianapolis 500|1994]] race that they could very carefully tailor a purpose-built racing engine using pushrods to meet the requirements of the Indy rules and take advantage of the 'production based' loophole, but still design it to be a state of the art racing engine in all other ways, without any of the drawbacks of a real production-based engine.  They entered this engine in 1994, and, as expected, dominated the race.  After the race, the rules were changed in order to reduce the amount of [[turbocharger#boost|boost pressure]] allowed to be supplied by the [[turbocharger]].  The inability of the engine to produce competitive power output after this change caused it to become obsolete after just the one race.  Mercedes-Benz knew this beforehand, deciding that the cost of engine development was worth one win at Indianapolis.
+
+===See also===
+*[[Valvetrain]]
+*[[Overhead camshaft]]
+*[[Cam-in-block]]
+*[[Flathead engine]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.samarins.com/glossary/dohc.html Pushrod (OHV), SOHC and DOHC engine animated diagrams]
+*{{PDFlink|[http://media.gm.com/us/powertrain/en/product_services/2007/HPT%20Library/Gen%20IV/Gen%20IV%20Car/2007_LS7.pdf LS7 torque and power by rpm chart]}}  
+*[http://www.web-cars.com/enzo/motor.html Ferrari Enzo: The Engine] 
+*[http://www.caranddriver.com/features/columns/c_d_staff/larry_webster/the_pushrod_engine_finally_gets_its_due_column The Pushrod Engine Finally Gets its Due]
+
+[[Category:Motorcycle engines]]
+[[Category:Engine valves]]
+[[Category:Scottish inventions]]
+
+[[cs:Over Head Valve]]
+[[de:OHV-Ventilsteuerung]]
+[[fr:Soupapes en tête]]
+[[it:Valvole in testa]]
+[[ja:OHV]]
+[[pl:OHV]]
+[[pt:OHV]]
+[[sk:Rozvod OHV]]
+[[sv:Stötstångsmotor]]

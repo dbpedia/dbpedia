@@ -1,0 +1,31 @@
+{{TemplateMapping
+| mapToClass = Cricketer
+| mappings = 
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = debut date | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = debut date | ontologyProperty = debutDate }}
+	{{PropertyMapping | templateProperty = debut year | ontologyProperty = activeYearsStartYear }}
+	{{PropertyMapping | templateProperty = debut year | ontologyProperty = debutYear }}
+	{{PropertyMapping | templateProperty = last date | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = last date | ontologyProperty = lastDate }}
+	{{PropertyMapping | templateProperty = last year | ontologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = last year | ontologyProperty = lastYear }}
+	{{PropertyMapping | templateProperty = FCs | ontologyProperty = fc }}
+	{{PropertyMapping | templateProperty = FC runs | ontologyProperty = fcRuns }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = dayofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = monthofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = yearofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = placeofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = countryofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dayofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = monthofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = yearofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = placeofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = countryofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = cricket team | ontologyProperty = currentTeam }}
+}}

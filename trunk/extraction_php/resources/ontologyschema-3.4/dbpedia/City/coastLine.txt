@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = coast line
+|rdfs:domain = City
+|rdfs:range = kilometre
+}}

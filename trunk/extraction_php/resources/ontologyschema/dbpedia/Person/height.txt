@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= height
+|rdfs:domain	= Person
+|rdfs:range		= centimetre
+}}

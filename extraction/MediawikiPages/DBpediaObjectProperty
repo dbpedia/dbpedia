@@ -1,0 +1,59 @@
+<includeonly>
+==DBpedia Object Property "{{SUBPAGENAME}}"==
+The information within the table below is used by [[DBpedia]] which is a community project for extracting structured information from Wikipedia and make it freely available on the Web. Please read [[DBpedia/ontology]] for an overview of the DBpedia ontology.
+{|class="wikitable" <!-- style="float:right" -->
+! property
+! value
+! rowspan="7" | [[Image:DBpediaLogo.svg|200px|DBpedia logo]]
+|-
+| rdfs:label
+| {{{rdfs:label|}}}
+
+{{#if: {{{rdfs:label@de|}}} |
+{{!}}-
+{{!}} rdfs:label@de
+{{!}} {{{rdfs:label@de}}}
+}}
+
+{{#if: {{{rdfs:label@en|}}} |
+{{!}}-
+{{!}} rdfs:label@en
+{{!}} {{{rdfs:label@en}}}
+}}
+
+{{#if: {{{rdfs:label@fr|}}} |
+{{!}}-
+{{!}} rdfs:label@fr
+{{!}} {{{rdfs:label@fr}}}
+}}
+|-
+| rdfs:comment
+| {{{rdfs:comment|}}}
+|-
+| rdfs:domain
+| {{{rdfs:domain|}}}
+|-
+| rdfs:range
+| {{{rdfs:range|}}}
+|-
+| rdfs:subPropertyOf
+| {{{rdfs:subPropertyOf|}}}
+|-
+| rdf:type
+| {{{rdf:type|}}}
+|-
+| owl:equivalentProperty
+| {{{owl:equivalentProperty|}}}
+|-
+| rdfs:seeAlso
+| {{{rdfs:seeAlso|}}}
+|}
+
+See [http://dbpedia-live.openlinksw.com/ontology/{{SUBPAGENAME}} DBpedia:{{SUBPAGENAME}}] for all information available about this entity.
+
+{{:DBpedia/guidelines}}
+[[Category:DBpedia_ObjectProperty]]
+__NOEDITSECTION__
+</includeonly>
+<noinclude>{{Documentation}}
+[[Category:DBpedia_Templates]]</noinclude>

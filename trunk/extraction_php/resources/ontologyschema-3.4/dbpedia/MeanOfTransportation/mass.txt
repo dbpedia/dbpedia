@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = mass
+|rdfs:domain = MeanOfTransportation
+|rdfs:range = kilogram
+}}

@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Architect
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = significant_buildings | ontologyProperty = Architect/significantBuilding }}
+	{{ DBpediaPropertyMapping | templateProperty = significant_projects | ontologyProperty = Architect/significantProject }}
+	{{ DBpediaPropertyMapping | templateProperty = significant_design | ontologyProperty = Architect/significantDesign }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = alma_matter | ontologyProperty = Person/almaMater }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+}}

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Convention
+| rdfs:subClassOf = Event
+}}

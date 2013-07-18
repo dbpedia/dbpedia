@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = PlayboyPlaymate
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birthname | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = birthplace | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathdate | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = Person/weight | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = preceded | ontologyProperty = Person/predecessor }}
+	{{ DBpediaPropertyMapping | templateProperty = succeeded | ontologyProperty = Person/successor }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

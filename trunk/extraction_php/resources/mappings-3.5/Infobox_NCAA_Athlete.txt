@@ -1,0 +1,19 @@
+{{TemplateMapping
+| mapToClass = NationalCollegiateAthleticAssociationAthlete
+| mappings = 
+	{{PropertyMapping | templateProperty = college | ontologyProperty = college }}
+	{{PropertyMapping | templateProperty = sport | ontologyProperty = sport }}
+	{{PropertyMapping | templateProperty = highschool | ontologyProperty = highschool }}
+	{{PropertyMapping | templateProperty = former_school(s) | ontologyProperty = formerHighschool }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = jersey | ontologyProperty = currentNumber }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = weight_lb | ontologyProperty = weight | unit = pound }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = birth_date | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birth_place | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = death_date | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = death_place | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{CalculateMapping | operation = add | templateProperty1 = height_ft  | unit1 = foot  | templateProperty2 = height_in  | unit2 = inch  | ontologyProperty = height }}
+}}

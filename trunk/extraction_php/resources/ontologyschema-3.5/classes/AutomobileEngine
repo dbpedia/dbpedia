@@ -1,0 +1,17 @@
+{{Class
+| rdfs:label = Automobile Engine
+| rdfs:subClassOf = Device
+| specificProperties = {{SpecificProperty | ontologyProperty = acceleration | unit = second }}
+                       {{SpecificProperty | ontologyProperty = displacement | unit = cubicCentimetre }}
+                       {{SpecificProperty | ontologyProperty = weight | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = torqueOutput | unit = newtonMetre }}
+                       {{SpecificProperty | ontologyProperty = width | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = pistonStroke | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = co2Emission | unit = gramPerKilometre }}
+                       {{SpecificProperty | ontologyProperty = cylinderBore | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = length | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = height | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = topSpeed | unit = kilometrePerHour }}
+                       {{SpecificProperty | ontologyProperty = powerOutput | unit = kilowatt }}
+                       {{SpecificProperty | ontologyProperty = diameter | unit = millimetre }}
+}}

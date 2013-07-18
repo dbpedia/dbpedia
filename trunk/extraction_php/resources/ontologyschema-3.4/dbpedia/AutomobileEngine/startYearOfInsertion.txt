@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= start year of insertion
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= xsd:gYear
+}}

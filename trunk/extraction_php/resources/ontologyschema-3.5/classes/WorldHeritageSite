@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = World Heritage Site
+| rdfs:subClassOf = Place
+}}

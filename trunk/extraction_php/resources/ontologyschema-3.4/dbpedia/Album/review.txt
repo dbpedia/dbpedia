@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = review
+|rdfs:domain = Album
+|rdfs:range = xsd:string
+}}

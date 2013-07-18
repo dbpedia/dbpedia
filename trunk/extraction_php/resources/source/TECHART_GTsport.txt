@@ -1,0 +1,40 @@
+{{Infobox Automobile
+|image=
+|name=TechArt GTsport
+|manufacturer=[[TECHART]] (modified [[Porsche]])
+|class=Sports car
+|production=2006-present
+|body_style=2-door [[coupe]]
+|layout=[[Mid-engine design|Mid-engine]], RWD w/ LSD
+|engine=3.6L (233.4 cu in) Flat-6
+|transmission=6-speed [[manual transmission|manual]] w/ TechArt short shifter
+|wheelbase=95.1"
+|length=170.9"
+|width=70.9"
+|height=51.4"
+|weight={{convert|3120|lb|kg|0}}
+|related=[[Porsche Cayman S]]
+}}
+
+The '''TechArt GTsport''' is a high-performance sports car based on the [[Porsche Cayman S]]. [[TECHART|TechArt]] produces the GTsport in limited quantities with added performance and aesthetic features including engine and suspension performance pieces, bodykit, and interior upgrades.
+
+==Design and Features==
+TechArt takes the [[Porsche Cayman S]] a step beyond the capabilities of the stock production model. An upgraded 3.8L flat-6 rated at 385 hp is the soul of the GTsport.  This modified sports coupe is capable of speeds up to 177.1 mph and a 0-60 time of 4.8 seconds. Upgrades to the engine include a sports camshaft, aluminum headers, modified intake manifold, high performance exhaust system and a remapped [[Engine Control Unit|ECU]]. Aerodynamic upgrades include a revised front and rear fascia with larger air ducts with rear diffuser, carbon fiber air splitter and mirrors, restyled rocker panels, and fully adjustable rear wing. Suspension upgrades included TechArt VarioPlus coil-overs with adjustable ride height, light-weight 20" TechArt Forumula wheels at 8.5" wide up front and 11" at the rear.<ref name="www.supercars.net">{{Cite web|url=http://www.supercars.net/cars/3511.html|title=SuperCars.net 2006 TechArt Cayman GTsport|accessdate=2009-03-03|work=supercars.net}}</ref>  The GTsport starts at $138,000 [[USD]].<ref name="www.rsportscars.com">{{Cite web|url=http://www.rsportscars.com/techart/2007-techart-gtsport/|title=RSportscars.com 2007 TechArt GTsport|accessdate=2009-03-03|work=rsportscars.com}}</ref>  
+
+==Specifications==
+*Weight: {{convert|3120|lb|kg|0}}
+*Power: {{Convert|385|hp|kW|0|abbr=on}} @ 6600 rpm
+*Torque: {{Auto ft.lbf|300.2|0}} @ 4600 rpm
+*Specific Output: {{Convert|100.7|hp|kW|0|abbr=on}} per litre
+*0-{{convert|60|mph|km/h|0|abbr=on}}: 4.9 sec
+*Top Speed: {{convert|177|mph|km/h|1|abbr=on}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.techart.de/startseite_gt_sport_e.htm TechArt official GTsport page]
+
+[[Category:Sports cars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:TechArt vehicles]]

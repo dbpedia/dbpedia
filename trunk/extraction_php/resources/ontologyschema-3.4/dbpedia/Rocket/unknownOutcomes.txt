@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = unknown outcomes
+|rdfs:domain = Rocket
+|rdfs:range = xsd:integer
+}}

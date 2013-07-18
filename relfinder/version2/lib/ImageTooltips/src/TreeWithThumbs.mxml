@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" creationComplete="initApp()" viewSourceURL="srcview/index.html">
+
+<mx:Script>
+	<![CDATA[
+		import mx.controls.Tree;
+		import mx.events.ToolTipEvent;
+		import mx.managers.ToolTipManager;
+		import mx.events.ListEvent;
+		import com.everythingFlex.components.*;
+		import mx.controls.treeClasses.TreeListData;
+		import mx.controls.treeClasses.TreeItemRenderer;
+		
+		private function initApp():void
+		{
+			// set up the xml to use as dataProvider
+			
+			var data:XML = <puppies>
+							  <pugs label="Pugs" isBranch="true">
+							    <dog label="Di's Pug Ruby" imgURL="images/ruby.jpg" thumbURL="images/thumbnails/ruby.jpg"></dog>
+							    <dog label="Di's Pug Biff" imgURL="images/biff.jpg" thumbURL="images/thumbnails/biff.jpg"></dog>
+							    <dog label="Di's Pug Tug" imgURL="images/tug.jpg" thumbURL="images/thumbnails/tug.jpg"></dog>
+							    <dog label="Jo's Pug Bling Bling" imgURL="images/BlingBling.jpg" thumbURL="images/thumbnails/BlingBling.jpg"></dog>
+							  </pugs>
+							  <jackRussels label="Jack Russels" isBranch="true">
+							    <dog label="Lisa's Jack Russel Millie" imgURL="images/millie.jpg" thumbURL="images/thumbnails/millie.jpg"></dog>
+							    <dog label="Lisa's Jack Russel Millie's puppy Ajax" imgURL="images/ajax.jpg" thumbURL="images/thumbnails/ajax.jpg"></dog>
+							    <dog label="Lisa's Jack Russel Millie's puppy Bash" imgURL="images/bash.jpg" thumbURL="images/thumbnails/bash.jpg"></dog>
+							    <dog label="Lisa's Jack Russel Millie's puppy Perl" imgURL="images/perl.jpg" thumbURL="images/thumbnails/perl.jpg"></dog>
+							    <dog label="Lisa's Jack Russel Millie's puppy Pi" imgURL="images/pi.jpg" thumbURL="images/thumbnails/pi.jpg"></dog>
+							    <dog label="Lisa's Jack Russel Millie's puppy Dice" imgURL="images/dice.jpg" thumbURL="images/thumbnails/dice.jpg"></dog>
+							  </jackRussels>
+							  <mastifs label="Mastifs" isBranch="true">
+							    <dog label="Di's Mastif Mable" imgURL="images/mable.jpg" thumbURL="images/thumbnails/mable.jpg"></dog>
+							    <dog label="Daves's Mastif Tessa" imgURL="images/tessa.jpg" thumbURL="images/thumbnails/tessa.jpg"></dog>
+							  </mastifs>
+							  <other label="Other mutts" isBranch="true">
+							    <dog label="Daves's Mutt Baggins - learning to swim :)" imgURL="images/baggins.jpg" thumbURL="images/thumbnails/baggins.jpg"></dog>
+							  </other>
+							</puppies>;
+							
+			treeXmlListDp = data.children();
+							
+		}
+		
+		private function treeChanged(event:ListEvent):void
+		{
+			var targetTree:Tree = event.target as Tree;	
+			
+			var item:XML = XML(targetTree.selectedItem);
+	    	
+	    	if ( ! (item.@isBranch == "true"))		    	
+	    	{
+	    		var url:String = "./" + item.@imgURL
+	    		mainImage.source = url;
+	    	}
+		}
+		
+		private function itemRollOver(event:ListEvent):void
+	    {
+    		var item:XML = event.itemRenderer.data as XML;
+    		
+    		event.target.toolTip = null;
+    	
+	    	if ( item.@isBranch !=true  )
+	    	{
+	    		var thumbURL:String = item.@thumbURL;
+	    		if (thumbURL != "")
+	    		{
+		    		var itemX:int = event.itemRenderer.x;
+		    		var itemY:int = event.itemRenderer.y;
+		    		var point:Point = event.currentTarget.contentToGlobal(new Point(itemX,itemY));			    		
+		    		
+		    		event.target.toolTip = thumbURL ; 		    			
+	    			ToolTipManager.currentToolTip.move(point.x + event.itemRenderer.width/2 , point.y - ToolTipManager.currentToolTip.height);
+	    		}	    		    		
+	    	}
+	    	
+	    }
+	    
+	    private function itemRollOut(event:ListEvent):void
+	    {
+	    	if (event.target.toolTip != null)
+	    	{
+	    		event.target.toolTip = null;
+	    	}
+	    }
+	    
+	    private function onCreateTreeToolTip(event:ToolTipEvent):void
+		{
+			var imageToolTip:ImageToolTip = new ImageToolTip();				
+			imageToolTip.myImage = event.target.toolTip;
+			imageToolTip.adjustHeightFromBottom = true;
+			imageToolTip.adjustWidthFromRight = false;
+			event.toolTip = imageToolTip;
+		}
+		
+	]]>
+</mx:Script>
+
+<mx:XMLList id="treeXmlListDp" />
+
+<mx:Tree dataProvider="{treeXmlListDp}" labelField="@label" change="treeChanged(event)" 
+		 toolTipCreate="onCreateTreeToolTip(event)" itemRollOver="itemRollOver(event)" itemRollOut="itemRollOut(event)"
+		 width="299" height="516" x="10" y="10" />	
+	<mx:Image x="317" y="10" id="mainImage"/>
+
+</mx:Application>

@@ -1,0 +1,9 @@
+{{TemplateMapping
+| mapToClass = WomensTennisAssociationTournament
+| mappings = 
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = City | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = Country | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = Venue | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = Web_site | ontologyProperty = foaf:homepage }}
+}}

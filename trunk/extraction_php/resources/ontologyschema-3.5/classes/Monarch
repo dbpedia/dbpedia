@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Monarch
+| rdfs:subClassOf = Person
+}}

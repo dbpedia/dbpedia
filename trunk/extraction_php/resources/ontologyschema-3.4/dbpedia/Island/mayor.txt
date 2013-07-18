@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = mayor
+|rdfs:domain = Island
+|rdfs:range = xsd:string
+}}

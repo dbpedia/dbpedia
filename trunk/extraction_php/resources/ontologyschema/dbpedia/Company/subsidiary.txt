@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= subsidiary
+|rdfs:domain	= Company
+|rdfs:range		= Company
+}}

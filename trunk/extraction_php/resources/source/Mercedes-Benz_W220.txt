@@ -1,0 +1,180 @@
+{{Infobox Automobile
+| image =[[Image:Mercedes s klasse 1 sst2.jpg|250px|W220]]
+| name =W220
+|manufacturer=[[Daimler-Benz]]
+| production =1998&ndash;2006
+|predecessor=[[Mercedes-Benz W140]]
+|successor=[[Mercedes-Benz W221]]
+|class=[[Full-size]] [[Luxury car]]
+|body_style=4-door [[sedan (car)|sedan]]
+|layout=[[Front-engine design|Front engine]], [[rear-wheel drive]] / [[four-wheel drive]]
+|assembly=[[Sindelfingen]], [[Germany]]<br>[[Santiago Tianguistenco]], [[Mexico]]
+| engine =2.8L {{Convert|204|hp|kW|0|abbr=on}} [[V6 engine|V6]]<br />3.2L {{Convert|224|hp|kW|0|abbr=on}} V6<br />3.2L {{Convert|197|hp|kW|0|abbr=on}} [[I6]] [[Diesel engine|Diesel]]<br />3.7L {{Convert|245|hp|kW|0|abbr=on}} V6<br />4.0L {{Convert|250|hp|kW|0|abbr=on}} V8 Diesel<br />4.3L {{Convert|279|hp|kW|0|abbr=on}} [[V8 engine|V8]]<br />5.0L {{Convert|306|hp|kW|0|abbr=on}} V8<br />5.4L {{Convert|360|hp|kW|0|abbr=on}} V8<br />5.4L {{Convert|493|hp|kW|0|abbr=on}} V8<br />5.8L {{Convert|367|hp|kW|0|abbr=on}} V12<br />5.5L {{Convert|493|hp|kW|0|abbr=on}} V12<br />6.3L {{Convert|444|hp|kW|0|abbr=on}} V12<br />6.0L {{Convert|604|hp|kW|0|abbr=on}} [[V12 engine|V12]]
+| transmission =5-speed [[Automatic transmission|automatic]]
+| length ={{Auto in|198.5|0}} (SWB)<br/>203.1&nbsp;in (5158&nbsp;mm) (LWB)<br/>{{Auto in|203.3|0}} (LWB, 2004-06)
+| width =73.1&nbsp;in (1855&nbsp;mm)<br/>73.0&nbsp;in (1855&nbsp;mm) (2004-06)
+| height =56.9&nbsp;in (1444&nbsp;mm) (2000-01 & 2004-06)<br/>{{Auto in|57.2|0}} (2002-03)<br/>{{Auto in|57|0}} (LWB, 2004-06)
+| weight = S320: {{convert|1770|kg|lb||abbr=on}}<br/> S430/S500: {{convert|1855|kg|lb||abbr=on}} <br/>2001 S55: {{convert|4030|lb|kg|0|abbr=on}}<br/> 2003 S55: {{convert|4300|lb|kg|0|abbr=on}}
+| wheelbase ={{Auto in|116.7|0}} (SWB)<br/>121.5&nbsp;in (3086&nbsp;mm) (LWB) 
+| fuel_economy =City: 16&nbsp;mpg (US) (14.7&nbsp;L/100&nbsp;km); Highway 23&nbsp;mpg (US)(10.2&nbsp;L/100&nbsp;km)
+| fuel_capacity ={{Convert|88|L|usgal impgal|1}}
+}}
+
+:''For a complete overview of all S-Class models see [[Mercedes-Benz S-Class]].''
+
+The '''Mercedes-Benz W220''' was a series of flagship [[sedan (car)|sedans]] which constituted the [[Mercedes-Benz]] S-Class during the early-to-mid 2000's.  The W220 (and similar '''W215''' [[Mercedes-Benz CL-Class|CL-Class]] [[coupé]]s) started production in 2000. The W220 was a replacement for the earlier [[Mercedes-Benz W140|W140]] S-Class after the 1999 model year. Compared to its predecessor, the W220 had somewhat smaller exterior dimensions but offered more interior space, particularly in the long wheelbase versions (although the boot is smaller than on its [[Mercedes-Benz W140|W140]] predecessor). Production of the W220 totalled 485,000 units, slightly more than the production totals from the [[Mercedes-Benz W140|W140]]. Production ended in 2006 when the W220 and W215 were replaced by the [[Mercedes-Benz W221|W221]] S-Class and the W216 CL-Class.
+
+In many European countries, the diesel S320 CDI version became the most popular model, making it the first S-Class in which a diesel engine achieved broad appeal.
+
+==Styling==
+Unlike previous iterations of the S-Class, the W220 was not the company's first model to feature the company's new design theme for the next generation of Mercedes-Benz. This honor was given to the [[Mercedes-Benz A-Class|A-Class]] launched in 1997. Nevertheless, being Mercedes flagship vehicle worldwide (while the A-Class was never sold in North America), the S-Class largely popularized the new theme. It demonstrated a significantly different stylistic mindset, with both exterior lines and an interior design that express elegance and modernity. This can be seen as a response to criticism on its [[Mercedes-Benz W140|W140]] predecessor, which was sometimes labeled as too big and too heavy.
+
+[[Image:S65.JPG|thumb|left|thumb|Rear design of the W220 Mercedes-Benz S65 AMG]]
+Despite being smaller, the new car was roomier inside while the dashboard carried over the new styling details first seen in the Mk I A-Class the year before.
+
+A facelifted version of the S-Class was introduced in 2003, offering a more aerodynamic front-end and redesigned tailights, though the exterior style remained largely analogous to the previous W220 models. Although the facelift only made minor changes to the exterior, it addressed several of the issues in the COMAND system and other interior features. Exterior updates included a more upright grille angle, new transparent housing for the headlamps (replacing the earlier translucent versions), and restyled lower air intakes on the front bumper.
+
+==Models==
+{| class=wikitable
+!Chassis code
+!Years
+!Model
+!Engine
+|-
+| W220.063||1999&ndash;2005||S280 sedan|| 2.8L V6		  	
+|-
+| W220.065||1999&ndash;2005|| S320 sedan|| 3.2L V6
+|-
+| W220.165||1999&ndash;2005|| S320 L sedan|| 3.2L V6   	  	
+|-
+| W220||2003&ndash;2005|| S350 sedan|| 3.7L V6   	  	
+|-
+| W220||2003&ndash;2005|| S350 L sedan|| 3.7L V6   	  	
+|-
+| W220.07||1999&ndash;2005|| S430 sedan|| 4.3L V8
+|-
+| W220.17||1999&ndash;2005|| S430 L sedan|| 4.3L V8		 
+|-
+| W220.075||1999&ndash;2005|| S500 sedan||  5.0L V8
+|-
+| W220.175||1999&ndash;2005|| S500 L sedan||  5.0L V8	  	 
+|-
+| W220.073||1999&ndash;2005|| S55 AMG sedan|| 5.4L [[supercharger|supercharged]] V8    	  	 
+|-
+| W220.178||1999&ndash;2005|| S55 L AMG sedan||  5.4L [[supercharger|supercharged]] V8   	 
+|-
+| W220||2001|| S63 AMG sedan||  6.3L V12   	 
+|-
+| W220.176||2005|| S65 AMG sedan||  6.0L twin-[[Supercharger#Supercharging and Turbocharging|turbocharged]] V12   	 
+|-
+| W220.178||2001&ndash;2005|| S600 L sedan||  5.8L V12 / 5.5L twin-[[Supercharger#Supercharging and Turbocharging|turbocharged]] V12
+|-
+|W220.026||1999&ndash;2005||S320 CDI||3.2L [[Common rail]] [[turbo diesel]]
+|-  	                    
+| W220 ||2000&ndash;2005||S400 CDI||4.0L V8 [[Common rail]] [[turbo diesel]]
+|}
+
+==Features==
+As with each new S-Class, the W220 was technologically advanced at the time of its launch, bringing in new innovations such as Airmatic [[air suspension]], Active Ventilated Seats (which used miniature fans in the seats to move air through perforations), keyless entry and ignition, radar-controlled [[Distronic]] distance-aware cruise control, and a cylinder deactivation system called [[Active Cylinder Control]] for the S500 and S600 models, which improves fuel consumption and reduces emissions. All were pioneering innovations at the time of the W220's conception. [[4Matic]] [[all wheel drive]] was introduced to the North American S-Class for 2003. Details on some of the safety, comfort, and technological features are as follows:
+
+===Safety===
+*[[Pre-Safe]], the integrated Mercedes-Benz collision avoidance and response system, debuted with the W220 S-Class.
+*Electronic Stability Program (ESP) and Brake Assist were standard features for difficult driving conditions and emergency maneuvers.
+*The W220 S-Class added standard front and rear side curtain airbags. In total, the W220 features 8 airbags: 2 frontal (driver and passenger), 4 side airbags (one in each door) and 2 window bags.<ref>[http://www.geocities.com/MotorCity/Downs/9323/w220internet.htm Autoweb - New, Mercedes S-class Sets Automotive Technology Benchmark]</ref>
+* [[LED]] brake lights were also standard issue on the W220. LED brake lights illuminate faster than conventional bulbs.
+
+===Comfort and convenience===
+*Distronic cruise control, which could maintain a set distance between the S-Class and any vehicle in front.
+*Speedtronic adjustable speed limiter for not exceeding a set speed on roads with speed limits.
+*Keyless Go, a [[smart key]] entry and startup system.
+*Rain-sensing windshield wipers.
+*Light sensors to turn the headlights on and off automatically, depending on lighting circumstances. The instrument display and the COMAND screen's backlight and colour also adjust automatically depending on the ambient light situation.
+*Parktronic visual and audible parking aid, with sensors in the front and rear bumpers. Also, the passenger side mirror can swivel down automatically when engaging reverse, to help see the kerb.
+*Automatically heated exterior mirrors.
+*Fully automatic climate control system with pollen and charcoal filters and optional separate rear-seat climate controls.
+*COMAND system combines the controls for the audio systems, the television, the navigation and the telephone. COMAND based cars offer higher quality audio compared to the Audio 10 system.
+*Optional BOSE sound system.
+*Summer Open/Close - Ability to open and close all four windows and the sunroof at the sametime upon entry and/or exit from the vehicle.
+*Self opening and closing trunk.
+*Self-closing doors.
+*Electrically adjustable seats are standard. Optional were the memory function for the seats (standard in many countries on the larger engine models) and the multi-contour backrests with massage function.
+*Easy entry/exit function.
+*Auto-dimming interior and driver's side exterior rear view mirrors to prevent being dazzled by cars behind.
+*Xenon headlamps (bi-xenons in later production cars).  These provide HID xenon lighting for both low and high beams.
+*Linguatronic voice recognition system which can be used to control the audio system, navigation system, and a cellular telephone through voice commands.
+
+===Drivetrain technologies===
+* The W220 featured a new pneumatic suspension system (Airmatic) with Adaptive Damping System (ADS) which adjust the shock absorbers to difficult road conditions. Drivers can select a comfort or two sports suspension programmes via a switch on the dash. Also, the car height can be increased by using a button, increasing ground clearance for driving on difficult terrain.
+
+==Engines==
+[[File:Mercedes-Benz S55 AMG -- 09-26-2009.jpg|thumb|left|thumb|2006 Mercedes-Benz S55 AMG]]
+The W220 was available with more engine options than the W126 or W140. The range started with a smaller 2.8L {{Convert|197|hp|kW|0|abbr=on}} [[V6 engine|V6]] motor, although this model was not imported in all countries, notably in North America where the short wheelbase S430 with its 4.3L {{Convert|279|hp|kW|0|abbr=on}} V8 was the entry-level model. Very popular was the 3.2L {{Convert|224|hp|kW|0|abbr=on}} V6, which was superseded by an enlarged 3.7L {{Convert|245|hp|kW|0|abbr=on}} V6 in the S350.
+
+The S430 was powered by a 4.3L {{Convert|279|hp|kW|0|abbr=on}} V8 and the S500 was powered by a 5.0L {{Convert|306|hp|kW|0|abbr=on}} V8.
+
+The S55 AMG ('01-'02) was outfitted with a 5.4L {{Convert|354|hp|kW|0|abbr=on}} [[V8]] motor while the later versions ('03-'06) sported the same motor, but supercharged to a rated {{Convert|493|hp|kW|0|abbr=on}}. The S600 ('01-'02) was outfitted with a 5.8L {{Convert|362|hp|kW|0|abbr=on}} V12 engine while the later versions ('03-'06) sported a twin-turbocharged (or Bi-Turbo) {{Convert|493|hp|kW|0|abbr=on}} 5.5L V12. The justification for having two models with the same power (S600 and S55 AMG) is that the S55 AMG is sportier and more responsive, while the costlier S600 is more luxurious with a smoother ride.
+
+For one month in 2001, AMG produced an S63 AMG, which was sold in very limited numbers. The S63 was powered by a 6.3L {{Convert|444|hp|kW|0|abbr=on}} [[V12 engine|V12]]. An undisclosed number of the cars were sold exclusively through AMG in European and [[Asia]]n markets.
+
+The S65 AMG was introduced in 2005. Powered by a Bi-Turbo 6.0L {{Convert|612|hp|kW|0|abbr=on}} V12 motor, the S65 was the most powerful S-Class, as well as the world's most powerful five-seat sedan with a staggering output of {{Convert|612|hp|kW|0|abbr=on}} and {{convert|738|ft.lbf|N.m|abbr=on}} of torque.
+
+The S400 CDI had 250 hp at first but got 260 hp later on. The type designation S400 CDI was changed in the W221 to S420.
+
+{| class="wikitable" style="text-align: left"
+|-
+! Model || Engine || Cyl. || Power  || Torque 
+|- 
+| S280 || 2.8 18V || V6 || {{convert|197|PS|kW hp|0|abbr=on}} || {{convert|270|Nm|lbft|0|abbr=on}}
+|-
+| S320 || 3.2 18V || V6 || {{convert|224|PS|kW hp|0|abbr=on}} || {{convert|315|Nm|lbft|0|abbr=on}}
+|-
+| S350 || 3.7 18V || V6 || {{convert|245|PS|kW hp|0|abbr=on}}  || {{convert|350|Nm|lbft|0|abbr=on}}
+|-
+| S430 || 4.3 24V || V8 || {{convert|279|PS|kW hp|0|abbr=on}}  || {{convert|400|Nm|lbft|0|abbr=on}}
+|-
+| S500 ('00-'02) || 5.0 24V || V8 || {{convert|306|PS|kW hp|0|abbr=on}}  || {{convert|460|Nm|lbft|0|abbr=on}}
+|-
+| S55 AMG ('01-'02) || 5.4-5,439cc 24V AMG || V8 || {{convert|360|PS|kW hp|0|abbr=on}}  || {{convert|530|Nm|lbft|0|abbr=on}}
+|-
+| S600 ('01-'02) || 5.8 36V || V12 || {{convert|367|PS|kW hp|0|abbr=on}}  || {{convert|530|Nm|lbft|0|abbr=on}}
+|-
+| S55 AMG ('03-'06) || 5.4-5,439cc 24V SC AMG || V8 || {{convert|500|PS|kW hp|0|abbr=on}}  || {{convert|700|Nm|lbft|0|abbr=on}}
+|-
+| S600 ('02-'05) || 5.5 36V TT || V12 || {{convert|500|PS|kW hp|0|abbr=on}}  || {{convert|800|Nm|lbft|0|abbr=on}}
+|-
+| S63 AMG ('01) || 6.3 36V  || V12 || {{convert|444|PS|kW hp|0|abbr=on}}  || {{convert|738|Nm|lbft|0|abbr=on}}
+|-
+| S65 AMG ('05-'06) || 6.0 36V T || V12 || {{convert|612|PS|kW hp|0|abbr=on}}  || {{convert|1001|Nm|lbft|0|abbr=on}}
+|-
+| S320 CDI || 3.2 24V CDI || S6 || {{convert|197|PS|kW hp|0|abbr=on}}  || {{convert|470|Nm|lbft|0|abbr=on}}
+|-
+| S320 CDI || 3.2 24V CDI || S6 || {{convert|204|PS|kW hp|0|abbr=on}}  || {{convert|500|Nm|lbft|0|abbr=on}}
+|-
+| S400 CDI || 4.0 32V CDI || V8 || {{convert|250|PS|kW hp|0|abbr=on}}  || {{convert|560|Nm|lbft|0|abbr=on}}
+|}
+
+==Legacy==
+In 2005, the S-Class was the first vehicle to receive a TÜV Institute environmental certificate from the German Commission on Technical Compliance for environmentally friendly components.<ref name=award>[http://www.theautochannel.com/news/2007/03/19/040722.html S-Class Voted Fleet News Luxury Car of The Year For Fifth Time]</ref> The improved environmental efficiency of the W220 manufacture process was judged approvingly.
+
+The W220 S-Class also became known for a shift in reliability ratings from the S-Class' previously high-ranked position. ''[[Consumer Reports]]'' classified the W220 model's reliability as "poor," its lowest rating, and declared it one of the "least reliable luxury cars."<ref>[http://money.cnn.com/2006/11/17/autos/pluggedin_Taylor_Mercedes.fortune/index.htm Consumer Reports - Mercedes W220 S-Class reliability]</ref> Build quality, however, was generally considered to be good. For instance, ''Forbes'' described the W220 S500 as "built remarkably well." <ref>[http://www.forbesautos.com/reviews/2006/mercedes_benz/s_class/s500/testdrive_3.html Forbes Mercedes-Benz W220 S-Class test drive]</ref> Early W220s were recalled for issues with the trunk spring and the hydraulic fuel line; there were no recalls for the 2005 or 2006 model years.  Issues with the W220 electronics systems, Airmatic suspension and other features are considerations in used models.
+
+In 2006, nearly 24,000 (95%) S-Class sold in China between 1998 and 2005 were recalled due to fuel tank defect.<ref>[http://www.autoblog.com/2006/03/03/mercedes-benz-recalls-s-class-in-china/ Mercedes-Benz recalls S-Class in China]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons cat|Mercedes-Benz W220}}
+*[http://www.familycar.com/RoadTests/MercedesS500/Photos.htm S500 Gallery] - FamilyCar.com
+
+{{Mercedes-Benz vehicles}}
+{{Mercedes-Benz S-Class lineage}}
+
+[[Category:Mercedes-Benz platforms|W220]]
+[[Category:Vehicles introduced in 1998]]
+
+[[de:Mercedes-Benz W220]]
+[[ja:メルセデス・ベンツ W220]]
+[[pl:Mercedes-Benz W220]]
+[[ru:Mercedes-Benz W220]]
+[[sv:Mercedes-Benz W220]]

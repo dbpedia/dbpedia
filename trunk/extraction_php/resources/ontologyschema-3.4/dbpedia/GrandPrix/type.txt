@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = type
+|rdfs:domain = GrandPrix
+|rdfs:range = owl:Thing
+}}

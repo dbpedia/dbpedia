@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = function end date
+| rdfs:domain = PersonFunction
+| rdfs:range = xsd:date
+}}

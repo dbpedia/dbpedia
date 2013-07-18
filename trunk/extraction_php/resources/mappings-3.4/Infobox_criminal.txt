@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Criminal
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = subject_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = date_of_birth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place_of_birth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = date_of_death | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place_of_death | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = alias | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/father }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/mother }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+}}

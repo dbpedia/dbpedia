@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = assets
+| rdfs:domain = Company
+| rdfs:range = Currency
+}}

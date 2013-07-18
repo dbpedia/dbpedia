@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = place of origin
+|rdfs:domain = Weapon
+|rdfs:range = PopulatedPlace
+}}

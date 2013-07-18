@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = model
+| rdfs:domain = Sales
+| rdfs:range = xsd:string
+}}

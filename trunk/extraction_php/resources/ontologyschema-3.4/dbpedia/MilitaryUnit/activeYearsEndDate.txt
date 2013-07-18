@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = active years end date
+|rdfs:domain = MilitaryUnit
+|rdfs:range = xsd:date
+}}

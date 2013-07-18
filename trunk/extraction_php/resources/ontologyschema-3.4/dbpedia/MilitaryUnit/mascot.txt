@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = mascot
+|rdfs:domain = MilitaryUnit
+|rdfs:range = xsd:string
+}}

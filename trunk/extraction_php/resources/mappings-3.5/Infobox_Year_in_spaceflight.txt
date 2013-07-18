@@ -1,0 +1,20 @@
+{{TemplateMapping
+| mapToClass = YearInSpaceflight
+| mappings = 
+	{{PropertyMapping | templateProperty = first | ontologyProperty = firstLaunch }}
+	{{PropertyMapping | templateProperty = last | ontologyProperty = lastLaunch }}
+	{{PropertyMapping | templateProperty = total | ontologyProperty = totalLaunches }}
+	{{PropertyMapping | templateProperty = success | ontologyProperty = successfulLaunches }}
+	{{PropertyMapping | templateProperty = failed | ontologyProperty = failedLaunches }}
+	{{PropertyMapping | templateProperty = partial | ontologyProperty = partialFailedLaunches }}
+	{{PropertyMapping | templateProperty = catalogued | ontologyProperty = cosparId }}
+	{{PropertyMapping | templateProperty = firstflight | ontologyProperty = countryWithFirstSpaceflight }}
+	{{PropertyMapping | templateProperty = firstsat | ontologyProperty = countryWithFirstSatellite }}
+	{{PropertyMapping | templateProperty = firstlaunch | ontologyProperty = countryWithFirstSatelliteLaunched }}
+	{{PropertyMapping | templateProperty = firsttrav | ontologyProperty = countryWithFirstAstronaut }}
+	{{PropertyMapping | templateProperty = maidens | ontologyProperty = maidenFlightRocket }}
+	{{PropertyMapping | templateProperty = retired | ontologyProperty = retiredRocket }}
+	{{PropertyMapping | templateProperty = orbital | ontologyProperty = orbitalFlights }}
+	{{PropertyMapping | templateProperty = suborbital | ontologyProperty = suborbitalFlights }}
+	{{PropertyMapping | templateProperty = totalcrew | ontologyProperty = totalTravellers }}
+}}

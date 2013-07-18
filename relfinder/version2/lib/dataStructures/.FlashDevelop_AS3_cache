@@ -1,0 +1,1493 @@
+
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Array2.as
+package de.polygonal.ds{import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.Array2;/**
+* A two-dimensonal array built upon a single linear array.
+*/
+public class Array2 implements Collection{private var _a : Array;private var _w : int;private var _h : int;/**
+* Indicates the width (colums).		 * If a new width is set, the two-dimensional array is resized accordingly.
+*/
+public function get width () : int;public function set width (w:int) : Void;/**
+* Indicates the height (rows).		 * If a new height is set, the two-dimensional array is resized accordingly.
+*/
+public function get height () : int;public function set height (h:int) : Void;/**
+* The total number of cells.
+*/
+public function get size () : int;/**
+* Initializes a two-dimensional array to match the given width and height.		 * 		 * @param w The width  (number of colums).		 * @param h The height (number of rows).
+*/
+public function Array2 (width:int, height:int);/**
+* Sets each cells in the two-dimensional array to a given value.		 * 		 * @param item The item to be written into each cell.
+*/
+public function fill (item:*) : void;/**
+* Reads the value at the given x/y index.		 * No boundary check is performed, so you have to		 * make sure that the input coordinates do not exceed		 * the width or height of the two-dimensional array.		 *		 * @param x The x index.		 * @param y The y index.
+*/
+public function get () : *;internal function x () : int;internal function y () : int;/**
+* Writes data into the cell at the given x/y index.		 * No boundary check is performed, so you have to		 * make sure that the input coordinates do not exceed		 * the width or height of the two-dimensional array.		 *		 * @param x The x index.		 * @param y The y index.		 * @param obj The item to be written into the cell.
+*/
+public function set () : void;internal function x () : int;internal function y () : int;internal function obj () : *;/**
+* Resizes the array to match the given width and height		 * while preserving existing values.		 * 		 * @param w The new width (cols)		 * @param h The new height (rows)
+*/
+public function resize (w:int, h:int) : void;/**
+* Extracts the row at the given index.		 * 		 * @return An array storing the values of the row.
+*/
+public function getRow (y:int) : Array;/**
+* Extracts the colum at the given index.		 * 		 * @return An array storing the values of the column.
+*/
+public function getCol (x:int) : Array;/**
+* Shifts all columns by one column to the left.		 * Columns are wrapped, so the column at index 0 is		 * not lost but appended to the rightmost column.
+*/
+public function shiftLeft () : void;/**
+* Shifts all columns by one column to the right.		 * Columns are wrapped, so the column at the last index is		 * not lost but appended to the leftmost column.
+*/
+public function shiftRight () : void;/**
+* Shifts all rows up by one row.		 * Rows are wrapped, so the first row is		 * not lost but appended to bottommost row.
+*/
+public function shiftUp () : void;/**
+* Shifts all rows down by one row.		 * Rows are wrapped, so the last row is		 * not lost but appended to the topmost row.
+*/
+public function shiftDown () : void;/**
+* Appends an array as a new row.		 * If the given array is longer or shorter than the current width,		 * it is truncated or widened to match the current dimensions.		 *		 * @param a The array to insert.
+*/
+public function appendRow (a:Array) : void;/**
+* Prepends an array as a new row.		 * If the given array is longer or shorter than the current width,		 * it is truncated or widened to match the current dimensions.		 * 		 * @param a The array to insert.
+*/
+public function prependRow (a:Array) : void;/**
+* Appends an array as a new column.		 * If the given array is longer or shorter than the current height,		 * it is truncated or widened to match the current dimensions.		 * 		 * @param a The array to insert.
+*/
+public function appendCol (a:Array) : void;/**
+* Prepends an array as a new column.		 * If the given array is longer or shorter than the current height,		 * it is truncated or widened to match the current dimensions.		 * 		 * @param a - The array to insert.
+*/
+public function prependCol (a:Array) : void;/**
+* Flips rows with cols and vice versa.		 * This is equivalent of rotating the array about 180 degrees.
+*/
+public function transpose () : void;/**
+* Checks if a given item exists.		 * 		 * @return True if the specified item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears all elements.
+*/
+public function clear () : void;/**
+* Initializes an iterator object		 * pointing to the first value (0, 0).
+*/
+public function getIterator () : Iterator;/**
+* Checks if the 2d array is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the structure into an array.		 * 		 * @return An array storing the data of this structure.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints all elements (for debug/demo purposes only).
+*/
+public function dump () : String;}internal class Array2Iterator implements Iterator{private var _a2 : Array2;private var _xCursor : int;private var _yCursor : int;public function get data () : *;public function set data (obj:*) : Void;public function Array2Iterator (a2:Array2);public function start () : void;public function hasNext () : Boolean;public function next () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Array3.as
+package de.polygonal.ds{import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.Array3;/**
+* A three-dimensonal array build upon a single linear array.
+*/
+public class Array3 implements Collection{private var _a : Array;private var _w : int;private var _h : int;private var _d : int;/**
+* Indicates the width (columns).
+		 * If a new width is set, the structure is resized accordingly.
+*/
+public function get width () : int;public function set width (w:int) : Void;/**
+* Indicates the height (rows).
+		 * If a new height is set, the structure is resized accordingly.
+*/
+public function get height () : int;public function set height (h:int) : Void;/**
+* Indicates the depth (layers).
+		 * If a new depth is set, the structure is resized accordingly.
+*/
+public function get depth () : int;public function set depth (d:int) : Void;/**
+* The total number of cells.
+*/
+public function get size () : int;/**
+* Initializes a three-dimensional array to match the given width, height and depth.
+		 * 
+		 * width  - The width (number of columns).
+		 * height - The height (number of rows).
+		 * depth  - The depth (number of layers).
+*/
+public function Array3 (w:int, h:int, d:int);/**
+* Sets each cell in the three-dimensional array to a given value.
+		 * 
+		 * @param obj The data.
+*/
+public function fill (obj:*) : void;/**
+* Reads the data at the given x/y/z index.
+		 * No boundary check is performed, so you have to
+		 * make sure the x, y and z index does not exceed the
+		 * width, height or depth of the structure.
+		 *
+		 * @param x The x index.
+		 * @param y The y index.
+		 * @param z The z index.
+*/
+public function get () : *;internal function x () : int;internal function y () : int;internal function z () : int;/**
+* Writes data into the cell at the given x/y/z index.
+		 * No boundary check is performed, so you have to
+		 * make sure the x, y and z index does not exceed the
+		 * width, height or depth of the structure.
+		 * 
+		 * @param x   The x index.
+		 * @param y   The y index.
+		 * @param z   The z index.
+		 * @param obj The data to store.
+*/
+public function set () : void;internal function x () : int;internal function y () : int;internal function z () : int;internal function obj () : *;/**
+* Resizes the array to match the given width, height and depth
+		 * while preserving existing values.
+		 * 
+		 * @param w The new width (columns)
+		 * @param h The new height (rows)
+		 * @param d The new depth (layers)
+*/
+public function resize (w:int, h:int, d:int) : void;/**
+* Checks if a given item exists.
+		 * 
+		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears all elements.
+*/
+public function clear () : void;/**
+* Initializes an iterator object pointing to the
+		 * first item (0, 0) in the first layer.
+*/
+public function getIterator () : Iterator;/**
+* Checks if the 3d array is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the structure into an array.
+		 * 
+		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}internal class Array3Iterator implements Iterator{private var _values : Array;private var _length : int;private var _cursor : int;public function get data () : *;public function set data (obj:*) : Void;public function Array3Iterator (a3:Array3);public function start () : void;public function hasNext () : Boolean;public function next () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\ArrayedQueue.as
+package de.polygonal.ds{import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.ArrayedQueue;/**
+* An arrayed queue (circular queue).
+	 * <p>A queue is a FIFO structure (First In, First Out).</p>
+*/
+public class ArrayedQueue implements Collection{private var _que : Array;private var _size : int;private var _divisor : int;private var _count : int;private var _front : int;/**
+* The total number of items in the queue.
+*/
+public function get size () : int;/**
+* The maximum allowed size.
+*/
+public function get maxSize () : int;/**
+* Initializes a queue object to match the given size.
+		 * The size <b>must be a power of two</b> to use fast bitwise AND modulo.
+		 * The size is rounded to the next largest power of 2.
+		 * 
+		 * @param size The size of the queue.
+*/
+public function ArrayedQueue (size:int);/**
+* Indicates the front item.
+		 * 
+		 * @return The front item or undefined
+		 *         if the queue is empty.
+*/
+public function peek () : *;/**
+* Indicates the most recently added item.
+		 * 
+		 * @return The last item in the queue.
+*/
+public function back () : *;/**
+* Enqueues some data.
+		 * 
+		 * @param  obj The data.
+		 * @return True if operation succeeded, otherwise false (queue is full).
+*/
+public function enqueue (obj:*) : Boolean;/**
+* Dequeues and returns the front item.
+		 * 
+		 * @return The front item or null if the queue is empty.
+*/
+public function dequeue () : *;/**
+* Deletes the last dequeued item to free it
+		 * for the garbage collector. Use only directly
+		 * after calling the dequeue() function.
+*/
+public function dispose () : void;/**
+* Reads an item relative to the front index.
+		 * 
+		 * @param i The index of the item.
+		 * @return The item at the given relative index.
+*/
+public function getAt (i:int) : *;/**
+* Writes an item relative to the front index.
+		 * 
+		 * @param i   The index of the item.
+		 * @param obj The data.
+*/
+public function setAt (i:int, obj:*) : void;/**
+* Checks if a given item exists.
+		 * 
+		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears all elements.
+*/
+public function clear () : void;/**
+* Creates a new iterator pointing to the front of the queue.
+*/
+public function getIterator () : Iterator;/**
+* Checks if the queue is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the structure into an array.
+		 * 
+		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all elements in the queue (for debug/demo purposes).
+*/
+public function dump () : String;private function init (size:int) : void;}internal class ArrayedQueueIterator implements Iterator{private var _que : ArrayedQueue;private var _cursor : int;public function get data () : *;public function set data (obj:*) : Void;public function ArrayedQueueIterator (que:ArrayedQueue);public function start () : void;public function hasNext () : Boolean;public function next () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\ArrayedStack.as
+package de.polygonal.ds{import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.ArrayedStack;/**
+* An arrayed stack.
+	* <p>A stack is a LIFO structure (Last In, First Out).</p>
+*/
+public class ArrayedStack implements Collection{private var _stack : Array;private var _size : int;private var _top : int;/**
+* The total number of items in the stack.
+*/
+public function get size () : int;/**
+* The maximum allowed size.
+*/
+public function get maxSize () : int;/**
+* Initializes a stack to match the given size.
+		 * 
+		 * @param size The total number of elements the stack can store.
+*/
+public function ArrayedStack (size:int);/**
+* Indicates the top item.
+		 *
+		 * @return The top item.
+*/
+public function peek () : *;/**
+* Pushes data onto the stack.
+		 * 
+		 * @param obj The data.
+*/
+public function push (obj:*) : Boolean;/**
+* Pops data off the stack.
+		 * 
+		 * @return A reference to the top item
+		 *         or null if the stack is empty.
+*/
+public function pop () : *;/**
+* Reads an item at a given index.
+		 * 
+		 * @param i The index.
+		 * @return The item at the given index.
+*/
+public function getAt (i:int) : *;/**
+* Writes an item at a given index.
+		 * 
+		 * @param i   The index.
+		 * @param obj The data.
+*/
+public function setAt (i:int, obj:*) : void;/**
+* Checks if a given item exists.
+		 * 
+		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears the stack.
+*/
+public function clear () : void;/**
+* Creates a new iterator pointing to the top item.
+*/
+public function getIterator () : Iterator;/**
+* Checks if the stack is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the structure into an array.
+		 * 
+		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all elements in the queue (for debug/demo purposes).
+*/
+public function dump () : String;}internal class ArrayedStackIterator implements Iterator{private var _stack : ArrayedStack;private var _cursor : int;public function get data () : *;public function set data (obj:*) : Void;public function ArrayedStackIterator (stack:ArrayedStack);public function start () : void;public function hasNext () : Boolean;public function next () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\BinarySearchTree.as
+package de.polygonal.ds{import de.polygonal.ds.Collection;import de.polygonal.ds.NullIterator;import de.polygonal.ds.BinaryTreeNode;/**
+* A Binary Search Tree (BST).
+	 * 
+	 * <p>A BST stores data in a recursive manner so that you can
+	 * access it quickly by using a key. Therefore, a BST automatically
+	 * sorts data as it is inserted.<br/>
+	 * For a BST to be valid, every node has to follow two rules:</p>
+	 * 1. The data value in the left subtree must be less than the data value in the current node.<br/>
+	 * 2. The data value in the right subtree must be greater than the data value in the current node.
+*/
+public class BinarySearchTree implements Collection{/**
+* The root node being referenced.
+*/
+public var root : BinaryTreeNode;private var _compare : Function;/**
+* The total number of tree nodes.
+*/
+public function get size () : int;/**
+* Initializes a BST tree with a given comparison function.
+		 * The function should return -1 if the left is 'less than'
+		 * the right, 0 if they are equal, and 1 if the left is 'greater than'
+		 * the right. If the function is omitted, the BST uses a
+		 * default function for comparing integers.
+		 * 
+		 * @param compare The comparison function.
+*/
+public function BinarySearchTree (compare:Function = null);/**
+* Inserts data into the tree.
+		 * 
+		 * @param obj The data.
+*/
+public function insert (obj:*) : void;/**
+* Finds a piece of data in the tree and returns a reference
+		 * to the node that contains a match, or null if no match is found.
+		 * 
+		 * @param obj The data to find.
+		 * @return A node containing the data or null if the data isn't found.
+*/
+public function find (obj:*) : BinaryTreeNode;/**
+* Removes a node from the BST.
+		 *
+		 * @param node The node to remove.
+*/
+public function remove (node:BinaryTreeNode) : void;/**
+* Checks if a given item exists.
+		 * 
+		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears the tree recursively, starting from this node.
+*/
+public function clear () : void;/**
+* Regular iterator is not supported, 
+		 * use BinaryTreeNode.preorder(), inorder() and postorder() instead.
+*/
+public function getIterator () : Iterator;/**
+* Checks if the BST is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the structure into an array.
+		 * 
+		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all elements in the queue (for debug/demo purposes).
+*/
+public function dump () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\BinaryTreeNode.as
+package de.polygonal.ds{/**
+* A binary tree node from which you can build a binary tree.
+	 * 
+	 * <p>A Binary Tree is a simplified tree structure in which every node is
+	 * only allowed to have up to two children nodes, which are called
+	 * the left and right child.</p>
+*/
+public class BinaryTreeNode{/**
+* The left child node being referenced.
+*/
+public var left : BinaryTreeNode;/**
+* The right child node being referenced.
+*/
+public var right : BinaryTreeNode;/**
+* The parent node being referenced.
+*/
+public var parent : BinaryTreeNode;/**
+* The node's data.
+*/
+public var data : *;/**
+* Performs a <i>preorder traversal</i> on a tree.
+		 * This processes the current tree node before its children.
+		 * 
+		 * @param node    The node to start from.
+		 * @param process A process function applied to each traversed node.
+*/
+public static function preorder (node:BinaryTreeNode, process:Function) : void;/**
+* Performs an <i>inorder traversal</i> on a tree.
+		 * This processes the current node in between the children nodes.
+		 * 
+		 * @param node    The node to start from.
+		 * @param process A process function applied to each traversed node.
+*/
+public static function inorder (node:BinaryTreeNode, process:Function) : void;/**
+* Performs a <i>postorder traversal</i> on a tree.
+		 * This processes the current node after its children nodes.
+		 * 
+		 * @param node    The node to start from.
+		 * @param process A process function applied to each traversed node.
+*/
+public static function postorder (node:BinaryTreeNode, process:Function) : void;/**
+* Creates an empty node.
+		 * 
+		 * @param obj The data to store inside the node.
+*/
+public function BinaryTreeNode (obj:*);/**
+* Writes data into the left child.
+		 * 
+		 * @param obj The data.
+*/
+public function setLeft (obj:*) : void;/**
+* Writes data into the right child.
+		 * 
+		 * @param obj The data.
+*/
+public function setRight (obj:*) : void;/**
+* Checks if this node is left of its parent.
+		 * 
+		 * @return True if this node is left, otherwise false.
+*/
+public function isLeft () : Boolean;/**
+* Check if this node is a right of its parent.
+		 * 
+		 * @return True if this node is right, otherwise false.
+*/
+public function isRight () : Boolean;/**
+* Recursively calculates the depth of a tree.
+		 * 
+		 * @return The depth of the tree.
+*/
+public function getDepth (node:BinaryTreeNode = null) : int;/**
+* Recursively counts the total number
+		 * of nodes including this node.
+*/
+public function count () : int;/**
+* Recursively clears the tree by deleting
+		 * all child nodes underneath the node
+		 * the method is called on.
+*/
+public function destroy () : void;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\BitVector.as
+package de.polygonal.ds{/**
+* A bitvector.	 * 	 * A bitvector is meant to condense bit values (or booleans) into	 * an array as close as possible so that no space is wasted.
+*/
+public class BitVector{private var _bits : Array;private var _arrSize : int;private var _bitSize : int;/**
+* The total number of bits.
+*/
+public function get bitCount () : int;/**
+* The total number of cells.
+*/
+public function get cellCount () : int;/**
+* Creates a bitvector with a given number of bits.		 * Each cell holds a 31-bit signed integer.		 * 		 * @param bits The total number of bits.
+*/
+public function BitVector (bits:int);/**
+* Gets a bit from a given index.		 * 		 * @param index The index of the bit.
+*/
+public function getBit (index:int) : int;/**
+* Sets a bit at a given index.		 * 		 * @param index The index of the bit.		 * @param b     The boolean flag to set.
+*/
+public function setBit (index:int, b:Boolean) : void;/**
+* Resizes the bitvector to an appropriate number of bits.		 * 		 * @param size The total number of bits.
+*/
+public function resize (size:int) : void;/**
+* Resets all bits to 0;
+*/
+public function clear () : void;/**
+* Sets each bit to 1.
+*/
+public function setAll () : void;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Cloneable.as
+package de.polygonal.ds{public interface Cloneable{public function clone () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Collection.as
+package de.polygonal.ds{import de.polygonal.ds.Iterator;/**
+* A 'java-style' collection interface.
+*/
+public interface Collection{/**
+* The total number of items.		 * 		 * @return The size.
+*/
+public function get size () : int;/**
+* Searches the collection for a matching item.		 * 		 * @return True if the item exists, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears all items.
+*/
+public function clear () : void;/**
+* Initializes an iterator object pointing		 * to the first item in the collection.		 *		 * @return An iterator object.
+*/
+public function getIterator () : Iterator;/**
+* Checks if the collection is empty.		 * 		 * @return True if empty, otherwise false.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the collection into an array.		 * 		 * @return An array.
+*/
+public function toArray () : Array;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\DLinkedList.as
+package de.polygonal.ds{import de.polygonal.ds.Iterator;import de.polygonal.ds.Collection;import de.polygonal.ds.DListNode;import de.polygonal.ds.DListIterator;import de.polygonal.ds.sort.dLinkedMergeSort;import de.polygonal.ds.sort.dLinkedMergeSortCmp;import de.polygonal.ds.sort.dLinkedInsertionSort;import de.polygonal.ds.sort.dLinkedInsertionSortCmp;import de.polygonal.ds.sort.compare.*;/**
+* A doubly linked list.	 * 	 * <p>A doubly linked list stores a reference to the next	 * and previous node which makes it possible to traverse	 * the list in both directions.</p>
+*/
+public class DLinkedList implements Collection{private var _count : int;/**
+* The head node being referenced.
+*/
+public var head : DListNode;/**
+* The tail node being referenced.
+*/
+public var tail : DListNode;/**
+* The total number of nodes in the list.
+*/
+public function get size () : int;/**
+* Initializes an empty list. You can add initial		 * items by passing them as a comma-separated list.		 * 		 * @param args A list of comma-separated values to append.
+*/
+public function DLinkedList (...args);/**
+* Appends items to the list.		 * 		 * @param args A list of comma-separated values to append.		 * @return A DListNode object wrapping the data. If multiple values are		 *         added, the returned node represents the first argument.
+*/
+public function append (...args) : DListNode;/**
+* Prepends items to the list.		 * 		 * @param args A list of one or more comma-separated values to prepend.		 * @return A DListNode object wrapping the data. If multiple values are		 *         added, the returned node represents the first argument.
+*/
+public function prepend (...args) : DListNode;/**
+* Inserts an item after a given iterator or appends it		 * if the iterator is invalid.		 * 		 * @param itr A doubly linked list iterator.		 * @param obj The data.		 * @return A doubly linked list node wrapping the data.
+*/
+public function insertAfter (itr:DListIterator, obj:*) : DListNode;/**
+* Inserts an item before a given iterator or appends it		 * if the iterator is invalid.		 * 		 * @param itr A doubly linked list iterator.		 * @param obj The data.		 * @return A doubly linked list node wrapping the data.
+*/
+public function insertBefore (itr:DListIterator, obj:*) : DListNode;/**
+* Removes the node the iterator is pointing		* at and moves the iterator to the next node.		* 		* @return True if the removal succeeded, otherwise false.
+*/
+public function remove (itr:DListIterator) : Boolean;/**
+* Removes the head of the list and returns		 * the head's data or null if the list is empty.		 * 		 * @return The data of the removed node.
+*/
+public function removeHead () : *;/**
+* Removes the tail of the list and returns		 * the tail's data or null if the list is empty.		 * 		 * @return The data of the removed node.
+*/
+public function removeTail () : *;/**
+* Merges the current list with all lists specified in the paramaters.		 * The list on which the method is called is modified to reflect the changes.		 * Due to the rearrangement of the node pointers all passed lists become		 * invalid and should be discarded.		 * @see #concat		 * 		 * @param args  A list of one or more comma-separated DLinkedList objects.
+*/
+public function merge (...args) : void;/**
+* Concatenates the current list with all lists specified		 * in the parameters and returns a new linked list.		 * The list on which the method is called and the passed lists		 * are left unchanged.		 * @see #merge		 * 		 * @param args A list of one or more comma-separated DLinkedList objects.		 * @return An copy of the current list which also stores the values from the passed lists.
+*/
+public function concat (...args) : DLinkedList;/**
+* Sorts the nodes in the list using the mergesort algorithm.<br/>		 * See http://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html<br/>		 * 		 * If the LinkedList.INSERTION_SORT flag is used, the list is sorted using		 * the insertionsort algorithm instead, which is much faster for nearly sorted lists.<br/>		 * <ul>		 * <li>default sort behaviour: mergesort, numeric, ascending</li>		 * <li>sorting is ascending (for character-strings: a precedes z)</li>		 * <li>sorting is case-sensitive: Z precedes a</li>		 * <li>the list is directly modified to reflect the sort order</li>		 * <li>multiple elements that have identical values are placed consecutively</li>		 *   in the sorted array in no particular order</li></ul>		 * 		 * @param sortOptions		 * 		 * You pass an optional comparison function and/or one or more bitflags that determine the		 * behavior of the sort.<br/>Syntax: DLinkedList.sort(compareFunction, flags)<br/><br/>		 * <br/>		 * compareFunction - A comparison function used to determine the sorting		 *                   order of elements in an array (optional).<br/>		 *                   It should take two arguments and return a result of		 *                   -1 if A < B, 0 if A == B and 1 if A > B in the sorted sequence.		 * <br/><br/>		 * flags           - One or more numbers or defined constants, separated by the | (bitwise OR) operator,		 *                   that change the behavior of the sort from the default:<br/>		 *                   2  or SortOptions.INSERTION_SORT<br/>		 *                   4  or SortOptions.CHARACTER_STRING<br/>		 *                   8  or SortOptions.CASEINSENSITIVE<br/>		 *                   16 or SortOptions.DESCENDING<br/>
+*/
+public function sort (...sortOptions) : void;/**
+* Searches for an item in the list by using strict equality (===) and returns		 * and iterator pointing to the node containing the item or null if the		 * item was not found.		 * 		 * @param  obj  The item to search for		 * @param  from A DListIterator object pointing to the node in the list from which to start searching for the item.  		 * @return An DListIterator object pointing to the node with the found item or null if no item exists matching the input data or the iterator is invalid.
+*/
+public function nodeOf (obj:*, from:DListIterator = null) : DListIterator;/**
+* Searches for an item in the list, working backward from the last item,		 * by using strict equality (===) and returns and iterator pointing to the node		 * containing the item or null if the item wasn't found.		 * 		 * @param  obj  The item to search for		 * @param  from A DListIterator object pointing to the node in the list from which to start searching for the item.  		 * @return A DListIterator object pointing to the node with the found item or null if no item exists matching the input data or the iterator is invalid.
+*/
+public function lastNodeOf (obj:*, from:DListIterator = null) : DListIterator;/**
+* Adds nodes to and removes nodes from the list. This method modifies the list.		 * 		 * @param start       A DListIterator object pointing to the node where the insertion or deletion begins. The iterator		 *                    is updated so it still points to the original node, even if the node now belongs to another list.		 * @param deleteCount An integer that specifies the number of nodes to be deleted. This number includes		 *                    the node referenced by the iterator. If no value is specified for the deleteCount parameter,		 *                    the method deletes all of the nodes from the start start iterator to the tail of the list.		 *                    If the value is 0, no nodes are deleted.		 * @param args        Specifies the values to insert into the list, starting at the iterator's node specified by the start parameter.		 *                    Nodes		 * 		 * @param return      A DLinkedList object containing the nodes that were removed from the original list or null if the		 *                    iterator is invalid.
+*/
+public function splice (start:DListIterator, deleteCount:uint = 0xffffffff, ...args) : DLinkedList;/**
+* Removes and appends the head node to the tail.
+*/
+public function shiftUp () : void;/**
+* Removes and prepends the tail node to the head.
+*/
+public function popDown () : void;/**
+* Reverses the linked list in place.
+*/
+public function reverse () : void;/**
+* Converts the node data in the linked list to strings,		 * inserts the given separator between the elements,		 * concatenates them, and returns the resulting string.		 * 		 * @return A string consisting of the nodes converted to		 *         strings and separated by the specified parameter.
+*/
+public function join (sep:*) : String;/**
+* Checks if a given item exists.		 * 		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears the list by unlinking all nodes		 * from it. This is important to unlock		 * the nodes for the garbage collector.
+*/
+public function clear () : void;/**
+* Creates an iterator object pointing		 * at the first node in the list.		 * 		 * @returns An iterator object.
+*/
+public function getIterator () : Iterator;/**
+* Creates a doubly linked iterator object pointing		 * at the first node in the list.		 * 		 * @returns A DListIterator object.
+*/
+public function getListIterator () : DListIterator;/**
+* Checks if the list is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the linked list into an array.		 * 		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all elements in the list (for debug/demo purposes).
+*/
+public function dump () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\DListIterator.as
+package de.polygonal.ds{import de.polygonal.ds.DListNode;import de.polygonal.ds.DLinkedList;/**
+* A list iterator.
+*/
+public class DListIterator implements Iterator{/**
+* The node the iterator is pointing to.
+*/
+public var node : DListNode;/**
+* The list of the iterator is referenced.
+*/
+public var list : DLinkedList;/**
+* Read/writes the current node's data.		 * 		 * @return The data.
+*/
+public function get data () : *;public function set data (obj:*) : Void;/**
+* Initializes a new DListIterator instance pointing to a given node.		 * Usually created by invoking SLinkedList.getIterator().		 * 		 * @param list The linked list the iterator should use.		 * @param node The iterator's initial node.
+*/
+public function DListIterator (list:DLinkedList, node:DListNode = null);/**
+* Moves the iterator to the start of the list.
+*/
+public function start () : void;/**
+* Returns the current node's data while		 * moving the iterator forward by one position.
+*/
+public function next () : *;/**
+* Checks if the next node exists.
+*/
+public function hasNext () : Boolean;/**
+* Moves the iterator to the end of the list.
+*/
+public function end () : void;/**
+* Moves the iterator to the next node.
+*/
+public function forth () : void;/**
+* Moves the iterator to the previous node.
+*/
+public function back () : void;/**
+* Checks if the current referenced node is valid.		 * 		 * @return True if the node exists, otherwise false.
+*/
+public function valid () : Boolean;/**
+* Removes the node the iterator is		 * pointing to.		 * 		 * @return True if the removal succeeded, otherwise false.
+*/
+public function remove () : Boolean;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\DListNode.as
+package de.polygonal.ds{import de.polygonal.ds.LinkedListNode;/**
+* A list node.
+	 * 
+	 * The node acts as a data container and also
+	 * holds a reference to next and previous node
+	 * in the list.
+*/
+public class DListNode implements LinkedListNode{/**
+* The node's data.
+*/
+public var data : *;/**
+* The next node in the list being referenced.
+*/
+public var next : DListNode;/**
+* The previous node in the list being referenced.
+*/
+public var prev : DListNode;/**
+* Initializes a new node that stores
+		 * the given item.
+		 * 
+		 * @param obj The data to store in the node.
+*/
+public function DListNode (obj:*);/**
+* A helper function used solely by the DLinkedList class
+		 * for inserting a given node after this node.
+		 * 
+		 * @param node A doubly linked list node.
+*/
+public function insertAfter (node:DListNode) : void;/**
+* A helper function used solely by the DLinkedList class
+		 * for inserting this node in front of a given node.
+		 * 
+		 * @param node A doubly linked list node.
+*/
+public function insertBefore (node:DListNode) : void;/**
+* A helper function used solely by the DLinkedList class
+		 * to unlink the node from the list.
+*/
+public function unlink () : void;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Graph.as
+package de.polygonal.ds{import de.polygonal.ds.GraphNode;/**
+* A linked uni-directional weighted graph structure.	 * <p>The Graph class manages all graph nodes. Each graph node has	 * a linked list of arcs, pointing to different nodes.</p>
+*/
+public class Graph{/**
+* An array containing all graph nodes.
+*/
+public var nodes : Array;private var _nodeCount : int;private var _maxSize : int;/**
+* The number of nodes in the graph.
+*/
+public function get size () : int;/**
+* The maximum number of nodes the		 * graph can store.
+*/
+public function get maxSize () : int;/**
+* Constructs an empty graph.		 * 		 * @param size The total number of nodes allowed.
+*/
+public function Graph (size:int);/**
+* Performs a depth-first traversal on the given node.		 * 		 * @param node    The starting graph node.		 * @param process A function to apply to each traversed node.
+*/
+public function depthFirst (node:GraphNode, process:Function) : void;/**
+* Performs a breadth-first traversal on the given node.		 * 		 * @param node    The starting graph node.		 * @param process A function to apply to each traversed node.
+*/
+public function breadthFirst (node:GraphNode, process:Function) : void;/**
+* Adds a node at a given index to the graph.		 * 		 * @param obj The data to store in the node.		 * @param i   The index the node is stored at.		 * @return True if successful, otherwise false.
+*/
+public function addNode (obj:*, i:int) : Boolean;/**
+* Removes a node from the graph at a given index.		 * 		 * @param index Index of the node to remove		 * @return True if successful, otherwise false.
+*/
+public function removeNode (i:int) : Boolean;/**
+* Finds an arc pointing to the node		 * at the 'from' index to the node at the 'to' index.		 * 		 * @param from The originating graph node index.		 * @param to   The ending graph node index.		 * @return A GraphArc object or null if it doesn't exist.
+*/
+public function getArc (from:int, to:int) : GraphArc;/**
+* Adds an arc pointing to the node located at the		 * 'from' index to the node at the 'to' index.		 * 		 * @param from   The originating graph node index.		 * @param to     The ending graph node index.		 * @param weight The arc's weight		 *		 * @return True if an arc was added, otherwise false.
+*/
+public function addArc (from:int, to:int, weight:int = 1) : Boolean;/**
+* Removes an arc pointing to the node located at the		 * 'from' index to the node at the 'to' index.		 * 		 * @param from The originating graph node index.		 * @param to   The ending graph node index.		 * 		 * @return True if an arc was removed, otherwise false.
+*/
+public function removeArc (from:int, to:int) : Boolean;/**
+* Clears the markers on all nodes in the graph		 * so the breadth-first and depth-first traversal		 * algorithms can 'see' the nodes.
+*/
+public function clearMarks () : void;/**
+* Clears every node in the graph.
+*/
+public function clear () : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\GraphArc.as
+package de.polygonal.ds{/**
+* A weighted arc pointing to a graph node.
+*/
+public class GraphArc{/**
+* The node that the arc points to being referenced.
+*/
+public var node : GraphNode;/**
+* The weight (or cost) of the arc.
+*/
+public var weight : Number;/**
+* Initializes a new graph arc with a given weight.		 * 		 * @param node 		The graph node.		 * @param weight 	The weight.
+*/
+public function GraphArc (node:GraphNode, weight:Number = 1);}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\GraphNode.as
+package de.polygonal.ds{import de.polygonal.ds.GraphArc;/**
+* A graph node.
+*/
+public class GraphNode{/**
+* The data being referenced.
+*/
+public var data : *;/**
+* An array of arcs connecting this node to other nodes.
+*/
+public var arcs : Array;/**
+* A flag indicating whether the node is marked or not.		 * Used for iterating over a graph structure.
+*/
+public var marked : Boolean;private var _arcCount : int;/**
+* The number of arcs extending from this node.
+*/
+public function get numArcs () : int;/**
+* Constructs a new graph node.		 * 		 * @param obj The data to store inside the node.
+*/
+public function GraphNode (obj:*);/**
+* Adds an arc to the current graph node, pointing to a different		 * graph node and with a given weight.		 * 		 * @param target The destination node the arc should point to.		 * @param weigth The arc's weigth.
+*/
+public function addArc (target:GraphNode, weight:Number) : void;/**
+* Removes the arc that points to the given node.		 * 		 * @return True if removal was successful, otherwise false.
+*/
+public function removeArc (target:GraphNode) : Boolean;/**
+* Finds the arc that points to the given node.		 * 		 * @param  target The destination node.		 * 		 * @return A GraphArc object or null if the arc doesn't exist.
+*/
+public function getArc (target:GraphNode) : GraphArc;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\HashMap.as
+package de.polygonal.ds{import flash.utils.Dictionary;import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.HashMap;/**
+* A hash table with direct lookup (perfect hashing).	 * Faster than HashTable.
+*/
+public class HashMap implements Collection{private var _keyMap : Dictionary;private var _objMap : Dictionary;private var _size : int;/**
+* The total number of items.
+*/
+public function get size () : int;/**
+* Initializes a hash map, which maps		 * keys to values. It cannot contain duplicate keys so		 * each key can map to at most one value.
+*/
+public function HashMap ();/**
+* Inserts a key/data couple into the table.		 * 		 * @param key The key.		 * @param obj The data associated with the key.
+*/
+public function insert (key:*, obj:*) : Boolean;/**
+* Finds the entry that is associated with the given key.		 * 		 * @param  key The key to search for.		 * @return The data associated with the key or null if no matching		 *         entry was found.
+*/
+public function find (key:*) : *;/**
+* Finds the key that maps the given value.		 * 		 * @param  val The value which maps the sought-after key.		 * @return The key mapping the given value or null if no matching		 *         key was found.
+*/
+public function findKey (val:*) : *;/**
+* Removes an entry based on a given key.		 * 		 * @param  key The entry's key.		 * @return The data associated with the key or null if no matching		 *         entry was found.
+*/
+public function remove (key:*) : *;/**
+* Checks if a key maps the given value.		 * 		 * @return True if value exists, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Checks if a mapping exists for the given key.		 * 		 * @return True if key exists, otherwise false.
+*/
+public function containsKey (key:*) : Boolean;/**
+* Creates an interator for traversing the values.
+*/
+public function getIterator () : Iterator;/**
+* Creates an interator for traversing the keys.
+*/
+public function getKeyIterator () : Iterator;/**
+* Clears all elements.
+*/
+public function clear () : void;/**
+* Checks if the map is empty.		 * 		 * @return True if empty, otherwise false.
+*/
+public function isEmpty () : Boolean;/**
+* Writes all values into an array.		 * 		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Writes all keys into an array.		 * 		 * @return An array.
+*/
+public function getKeySet () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints all elements (for debug/demo purposes only).
+*/
+public function dump () : String;}internal class HashMapValueIterator implements Iterator{private var _h : HashMap;private var _values : Array;private var _cursor : int;private var _size : int;public function get data () : *;public function set data (obj:*) : Void;public function HashMapValueIterator (h:HashMap);public function start () : void;public function hasNext () : Boolean;public function next () : *;}internal class HashMapKeyIterator implements Iterator{private var _h : HashMap;private var _keys : Array;private var _cursor : int;private var _size : int;public function get data () : *;public function set data (obj:*) : Void;public function HashMapKeyIterator (h:HashMap);public function start () : void;public function hasNext () : Boolean;public function next () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\HashTable.as
+package de.polygonal.ds{import de.polygonal.ds.Iterator;/**
+* A hash table using linked overflow for resolving collisions.
+*/
+public class HashTable{private var _table : Array;private var _hash : Function;private var _size : int;private var _divisor : int;private var _count : int;/**
+* The total number of items.
+*/
+public function get size () : int;/**
+* The maximum allowed size of the queue.
+*/
+public function get maxSize () : int;/**
+* A simple function for hashing strings.
+*/
+public static function hashString (s:String) : int;/**
+* A simple function for hashing integers.
+*/
+public static function hashInt (i:int) : int;/**
+* Initializes a hash table.
+		 * 
+		 * @param size The size of the hash table.
+		 * @param hash A hashing function.
+*/
+public function HashTable (size:int, hash:Function = null);/**
+* Inserts a key/data couple into the table.
+		 * 
+		 * @param key The key.
+		 * @param obj The data associated with the key.
+*/
+public function insert (key:*, obj:*) : void;/**
+* Finds the entry that is associated with the given key.
+		 * 
+		 * @param  key The key to search for.
+		 * @return The data associated with the key or null if no matching
+		 *         entry was found.
+*/
+public function find (key:*) : *;/**
+* Removes an entry based on a given key.
+		 * 
+		 * @param  key The entry's key.
+		 * @return The data associated with the key or null if no matching
+		 *         entry was found.
+*/
+public function remove (key:*) : *;/**
+* Checks if a given item exists.
+		 * 
+		 * @return True if item exists, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Iterator not supported (yet).
+*/
+public function getIterator () : Iterator;/**
+* Clears all elements.
+*/
+public function clear () : void;/**
+* Converts the structure into an array.
+		 * 
+		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;public function print () : String;}/**
+* Simple container class for storing a key/data couple.
+*/
+internal class HashEntry{public var key : *;public var data : *;public function HashEntry (key:*, data:*);}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Heap.as
+package de.polygonal.ds{import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.Iterator;import de.polygonal.ds.Heap;/**
+* A heap.	 * 	 * <p>A heap is a special kind of binary tree in which every node is	 * greater than all of its children. The implementation is based on an arrayed binary tree.	 * It can be used as an efficient priority queue.</p>	 * @see PriorityQueue
+*/
+public class Heap implements Collection{public var _heap : Array;private var _size : int;private var _count : int;private var _compare : Function;/**
+* The heap's front item.
+*/
+public function get front () : *;/**
+* The total number of items in the heap.
+*/
+public function get size () : int;/**
+* The maximum allowed size of the queue.
+*/
+public function get maxSize () : int;/**
+* Initializes a new heap.
+*/
+public function Heap (size:int, compare:Function = null);/**
+* Enqueues some data.		 * 		 * @param obj The data.
+*/
+public function enqueue (obj:*) : void;/**
+* Dequeues the front item.
+*/
+public function dequeue () : void;/**
+* Checks if a given item exists.		 * 		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears all items.
+*/
+public function clear () : void;/**
+* Returns an iterator object pointing to the front		 * item.		 * 		 * @return An iterator object.
+*/
+public function getIterator () : Iterator;/**
+* Checks if the heap is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the heap into an array.		 * 		 * @return An array containing all heap values.
+*/
+public function toArray () : Array;/**
+* Prints all elements (for debug/demo purposes only).
+*/
+public function dump () : String;private function walkUp (index:int) : void;private function walkDown (index:int) : void;}internal class HeapIterator implements Iterator{private var _values : Array;private var _length : int;private var _cursor : int;public function get data () : *;public function set data (obj:*) : Void;public function HeapIterator (heap:Heap);public function start () : void;public function hasNext () : Boolean;public function next () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Iterator.as
+package de.polygonal.ds{/**
+* A 'java-style' iterator interface.
+*/
+public interface Iterator{/**
+* Grants access to the current item being		 * referenced by the iterator. This provides		 * a quick way to read or write the current data.
+*/
+public function get data () : *;public function set data (obj:*) : Void;/**
+* Retrieves the current item and moves		 * the iterator to the next item in the sequence.
+*/
+public function next () : *;/**
+* Checks if the next item exists.		 * 		 * @return True if a next item exists, otherwise false.
+*/
+public function hasNext () : Boolean;/**
+* Moves the iterator to the first item		 * in the sequence.
+*/
+public function start () : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\LinkedList.as
+package de.polygonal.ds{/**
+* A marker interface for the singly linked and doubly	 * linked list classes.
+*/
+public interface LinkedList{}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\LinkedListNode.as
+package de.polygonal.ds{/**
+* A marker interface for the singly linked and doubly	 * linked list nodes.
+*/
+public interface LinkedListNode{}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\LinkedQueue.as
+package de.polygonal.ds{import de.polygonal.ds.SLinkedList;/**
+* A linked queue.
+	 * 
+	 * <p>A queue is a FIFO structure (First In, First Out).</p>
+*/
+public class LinkedQueue{private var _list : SLinkedList;/**
+* The total number of items in the queue.
+*/
+public function get size () : int;/**
+* Initializes an empty linked queue.
+		 * You can pass an existing singly linked list
+		 * to provide queue-like access.
+		 * 
+		 * @param list An existing list to use as a queue.
+*/
+public function LinkedQueue (list:SLinkedList = null);/**
+* Indicates the front item.
+		 * 
+		 * @return The front item or null if the
+		 *         queue is empty.
+*/
+public function peek () : *;/**
+* Indicates the most recently added item.
+		 * 
+		 * @return The last item in the queue or
+		 *         null if the queue is empty.
+*/
+public function back () : *;/**
+* Clears all elements.
+*/
+public function clear () : void;/**
+* Enqueues some data.
+		 * 
+		 * @param obj The data.
+*/
+public function enqueue (obj:*) : void;/**
+* Dequeues and returns the front item.
+		 * 
+		 * @return The front item or null if the queue is empty.
+*/
+public function dequeue () : *;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all elements in the queue (for debug/demo purposes).
+*/
+public function dump () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\LinkedStack.as
+package de.polygonal.ds{import de.polygonal.ds.DLinkedList;/**
+* A linked stack.
+	 * <p>A stack is a LIFO structure (Last In, First Out)</p>.
+*/
+public class LinkedStack{private var _list : DLinkedList;/**
+* The total number of items in the stack.
+*/
+public function get size () : int;/**
+* Initializes a linked stack.
+		 * You can pass an existing doubly linked list
+		 * to provide stack-like access.
+		 * 
+		 * @param list An existing list to use as a stack.
+*/
+public function LinkedStack (list:DLinkedList = null);/**
+* Indicates the top item.
+		 *
+		 * @return The top item.
+*/
+public function peek () : *;/**
+* Pushes data onto the stack.
+		 * 
+		 * @param obj The data to insert.
+*/
+public function push (obj:*) : void;/**
+* Pops data off the stack.
+		 * 
+		 * @return A reference to the top item
+		 *         or null if the stack is empty.
+*/
+public function pop () : *;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all elements in the stack (for debug/demo purposes).
+*/
+public function dump () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\NullIterator.as
+package de.polygonal.ds{import de.polygonal.ds.Iterator;/**
+* An do-nothing iterator for structures that don't support iterators.
+*/
+public class NullIterator implements Iterator{public function get data () : *;public function set data (obj:*) : Void;public function start () : void;public function next () : *;public function hasNext () : Boolean;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\Prioritizable.as
+package de.polygonal.ds{/**
+* All objects you want to insert into a PriorityQueue have to extend this class.	 * 	 * <p>I could have defined this as an interface, but this would	 * force me to write functions to just get or set the priority value.</p>
+*/
+public class Prioritizable{public var priority : int;public function Prioritizable ();public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\PriorityQueue.as
+package de.polygonal.ds{import flash.utils.Dictionary;import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.PriorityQueue;/**
+* A priority queue.	 * 	 * <p>The priority queue is based on the heap structure and	 * manages prioritized data.</p>
+*/
+public class PriorityQueue implements Collection{private var _heap : Array;private var _size : int;private var _count : int;private var _posLookup : Dictionary;/**
+* The priority queue's front item.
+*/
+public function get front () : Prioritizable;/**
+* The total number of items in the priority queue.
+*/
+public function get size () : int;/**
+* The maximum allowed size of the queue.
+*/
+public function get maxSize () : int;/**
+* Initializes a priority queue with a given size.		 * 		 * @param size The size of the priority queue.
+*/
+public function PriorityQueue (size:int);/**
+* Enqueues a prioritized object.		 * 		 * @param obj The prioritized data.
+*/
+public function enqueue (obj:Prioritizable) : void;/**
+* Dequeues the front item, which is the item		 * with the highest priority.
+*/
+public function dequeue () : void;/**
+* Reprioritizes an item.		 * 		 * @param obj         The object whose priority is changed.		 * @param newPriority The new priority.		 * @return True if the repriorization succeeded, otherwise false.
+*/
+public function reprioritize (obj:Prioritizable, newPriority:int) : Boolean;/**
+* Removes an item.		 * 		 * @param obj The object to remove.		 * @return True if removal succeeded, otherwise false.
+*/
+public function remove (obj:Prioritizable) : Boolean;/**
+* Checks if a given item exists.		 * 		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears all items.
+*/
+public function clear () : void;/**
+* Returns an iterator object pointing to the front		 * item.		 * 		 * @return An iterator object.
+*/
+public function getIterator () : Iterator;/**
+* Checks if the priority queue is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the priority queue into an array.		 * 		 * @return An array containing all prioritizable objects.
+*/
+public function toArray () : Array;/**
+* Prints all elements (for debug/demo purposes only).
+*/
+public function dump () : String;private function walkUp (index:int) : void;private function walkDown (index:int) : void;}internal class PriorityQueueIterator implements Iterator{private var _values : Array;private var _length : int;private var _cursor : int;public function get data () : *;public function set data (obj:*) : Void;public function PriorityQueueIterator (pq:PriorityQueue);public function start () : void;public function hasNext () : Boolean;public function next () : *;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\SLinkedList.as
+package de.polygonal.ds{import de.polygonal.ds.Collection;import de.polygonal.ds.Iterator;import de.polygonal.ds.SListNode;import de.polygonal.ds.SListIterator;import de.polygonal.ds.sort.sLinkedMergeSort;import de.polygonal.ds.sort.sLinkedMergeSortCmp;import de.polygonal.ds.sort.sLinkedInsertionSort;import de.polygonal.ds.sort.sLinkedInsertionSortCmp;import de.polygonal.ds.sort.compare.*;/**
+* A singly linked list.
+*/
+public class SLinkedList implements Collection{public static const INSERTION_SORT : int;public static const MERGE_SORT : int;public static const NUMERIC : int;public static const DESCENDING : int;private var _count : int;/**
+* The head node being referenced.
+*/
+public var head : SListNode;/**
+* The tail node being referenced.
+*/
+public var tail : SListNode;/**
+* The total number of nodes in the list.
+*/
+public function get size () : int;/**
+* Initializes an empty list. You can add initial		 * items by passing them as a comma-separated list.		 * 		 * @param args A list of comma-separated values to append.
+*/
+public function SLinkedList (...args);/**
+* Appends items to the list.		 * 		 * @param args A list of comma-separated values to append.		 * @return A SListNode object wrapping the data. If multiple values are		 *         added, the returned node represents the first argument.
+*/
+public function append (...args) : SListNode;/**
+* Prepends items to the list.		 * 		 * @param args A list of one or more comma-separated values to prepend.		 * @return A SListNode object wrapping the data. If multiple values are		 *         added, the returned node represents the first argument.
+*/
+public function prepend (...args) : SListNode;/**
+* Inserts data after a given iterator or appends it		 * if the iterator is invalid.		 * 		 * @param itr  A singly linked list iterator.		 * @param obj The data.		 * @return A singly linked list node wrapping the data.
+*/
+public function insertAfter (itr:SListIterator, obj:*) : SListNode;/**
+* Removes the node the iterator is pointing		* to and move the iterator to the next node.		* 		* @return True if the removal succeeded, otherwise false.
+*/
+public function remove (itr:SListIterator) : Boolean;/**
+* Removes the head of the list and returns		 * the head's data or null of the list is empty.		 * 		 * @return The data of the removed node.
+*/
+public function removeHead () : *;/**
+* Removes the tail of the list and returns		 * the tail's data or null if the list is empty.		 * 		 * @return The data of the removed node.
+*/
+public function removeTail () : *;/**
+* Merges the current list with all lists specified in the paramaters.		 * The list on which the method is called is modified to reflect the changes.		 * Due to the rearrangement of the node pointers all passed lists become		 * invalid and should be discarded.		 * @see #concat		 * 		 * @param args  A list of one or more comma-separated SLinkedList objects.
+*/
+public function merge (...args) : void;/**
+* Concatenates the current list with all lists specified		 * in the parameters and returns a new linked list.		 * The list on which the method is called and the passed lists		 * are left unchanged.		 * @see #merge		 * 		 * @param args A list of one or more comma-separated SLinkedList objects.		 * @return An copy of the current list which also stores the values from the passed lists.
+*/
+public function concat (...args) : SLinkedList;/**
+* Sorts the nodes in the list using the mergesort algorithm.<br/>		 * See http://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html<br/>		 * 		 * If the LinkedList.INSERTION_SORT flag is used, the list is sorted using		 * the insertionsort algorithm instead, which is much faster for nearly sorted lists.<br/>		 * <ul>		 * <li>default sort behaviour: mergesort, numeric, ascending</li>		 * <li>sorting is ascending (for character-strings: a precedes z)</li>		 * <li>sorting is case-sensitive: Z precedes a</li>		 * <li>the list is directly modified to reflect the sort order</li>		 * <li>multiple elements that have identical values are placed consecutively</li>		 *   in the sorted array in no particular order</li></ul>		 * 		 * @param sortOptions		 * 		 * You pass an optional comparison function and/or one or more bitflags that determine the		 * behavior of the sort.<br/>Syntax: SLinkedList.sort(compareFunction, flags)<br/><br/>		 * <br/>		 * compareFunction - A comparison function used to determine the sorting		 *                   order of elements in an array (optional).<br/>		 *                   It should take two arguments and return a result of		 *                   -1 if A < B, 0 if A == B and 1 if A > B in the sorted sequence.		 * <br/><br/>		 * flags           - One or more numbers or defined constants, separated by the | (bitwise OR) operator,		 *                   that change the behavior of the sort from the default:<br/>		 *                   2  or SortOptions.INSERTION_SORT<br/>		 *                   4  or SortOptions.CHARACTER_STRING<br/>		 *                   8  or SortOptions.CASEINSENSITIVE<br/>		 *                   16 or SortOptions.DESCENDING<br/>
+*/
+public function sort (...sortOptions) : void;/**
+* Searches for an item in the list by using strict equality (===) and returns		 * and iterator pointing to the node containing the item or null if the		 * item was not found.		 * 		 * @param  obj  The item to search for		 * @param  from A SListIterator object pointing to the node in the list from which to start searching for the item.  		 * @return A SListIterator object pointing to the node with the found item or null if no item exists matching the input data		 *         or the iterator is invalid.
+*/
+public function nodeOf (obj:*, from:SListIterator = null) : SListIterator;/**
+* Adds nodes to and removes nodes from the list. This method modifies the list.		 * 		 * @param start       A SListIterator object pointing to the node where the insertion or deletion begins. The iterator		 *                    is updated so it still points to the original node, even if the node now belongs to another list.		 * @param deleteCount An integer that specifies the number of nodes to be deleted. This number includes		 *                    the node referenced by the iterator. If no value is specified for the deleteCount parameter,		 *                    the method deletes all of the nodes from the start start iterator to the tail of the list.		 *                    If the value is 0, no nodes are deleted.		 * @param args        Specifies the values to insert into the list, starting at the iterator's node specified by the start parameter.		 *                    Nodes		 * 		 * @param return      A SLinkedList object containing the nodes that were removed from the original list or null if the		 *                    iterator is invalid.
+*/
+public function splice (start:SListIterator, deleteCount:uint = 0xffffffff, ...args) : SLinkedList;/**
+* Removes and appends the head node to the tail.
+*/
+public function shiftUp () : void;/**
+* Removes and prepends the tail node to the head.
+*/
+public function popDown () : void;/**
+* Reverses the linked list in place.
+*/
+public function reverse () : void;/**
+* Converts the node data in the linked list to strings,		 * inserts the given separator between the elements,		 * concatenates them, and returns the resulting string.		 * 		 * @return A string consisting of the nodes converted to		 *         strings and separated by the specified parameter.
+*/
+public function join (sep:*) : String;/**
+* Checks if a given item exists.		 * 		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears the list by unlinking all nodes		 * from it. This is important to unlock		 * the nodes for the garbage collector.
+*/
+public function clear () : void;/**
+* Creates an iterator pointing		 * to the first node in the list.		 * 		 * @returns An iterator object.
+*/
+public function getIterator () : Iterator;/**
+* Creates a list iterator pointing		 * to the first node in the list.		 * 		 * @returns A SListIterator object.
+*/
+public function getListIterator () : SListIterator;/**
+* Checks if the list is empty.
+*/
+public function isEmpty () : Boolean;/**
+* Converts the linked list into an array.		 * 		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all elements in the list (for debug/demo purposes).
+*/
+public function dump () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\SListIterator.as
+package de.polygonal.ds{import de.polygonal.ds.SListNode;import de.polygonal.ds.SLinkedList;/**
+* A singly linked list iterator.
+*/
+public class SListIterator implements Iterator{/**
+* The node the iterator is pointing.
+*/
+public var node : SListNode;/**
+* The list of the iterator is referenced.
+*/
+public var list : SLinkedList;/**
+* Read/writes the current node's data.
+		 * 
+		 * @return The data.
+*/
+public function get data () : *;public function set data (obj:*) : Void;/**
+* Initializes a new SListIterator instance pointing to a given node.
+		 * Usually created by invoking SLinkedList.getIterator().
+		 * 
+		 * @param list The linked list the iterator should use.
+		 * @param node The iterator's initial node.
+*/
+public function SListIterator (list:SLinkedList = null, node:SListNode = null);/**
+* Returns the current node's data while
+		 * moving the iterator forward by one position.
+*/
+public function next () : *;/**
+* Checks if a next node exists.
+*/
+public function hasNext () : Boolean;/**
+* Moves the iterator to the start of the list.
+*/
+public function start () : void;/**
+* Moves the iterator to the end of the list.
+*/
+public function end () : void;/**
+* Moves the iterator to the next node.
+*/
+public function forth () : void;/**
+* Checks if the current referenced node is valid.
+		 * 
+		 * @return True if the node exists, otherwise false.
+*/
+public function valid () : Boolean;/**
+* Removes the node the iterator is 
+		 * pointing to.
+		 * 
+		 * @return True if the removal succeeded, otherwise false.
+*/
+public function remove () : Boolean;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\SListNode.as
+package de.polygonal.ds{import de.polygonal.ds.LinkedListNode;/**
+* A singly linked list node.	 * 	 * The node acts as a data container and also	 * holds a reference to next node in the list.
+*/
+public class SListNode implements LinkedListNode{/**
+* The node's data.
+*/
+public var data : *;/**
+* The next node in the list being referenced.
+*/
+public var next : SListNode;/**
+* Initializes a new node that stores		 * the given item.		 * 		 * @param obj The data to store in the node.
+*/
+public function SListNode (obj:*);/**
+* A helper function used solely by the SLinkedList class		 * for node insertion.		 * 		 * @param node The node after which this node is inserted.
+*/
+public function insertAfter (node:SListNode) : void;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\TreeIterator.as
+package de.polygonal.ds{import de.polygonal.ds.Iterator;import de.polygonal.ds.LinkedStack;import de.polygonal.ds.TreeNode;import de.polygonal.ds.DListIterator;/**
+* A tree iterator.
+*/
+public class TreeIterator implements Iterator{/**
+* The tree node being referenced.
+*/
+public var node : TreeNode;private var _childItr : DListIterator;private var _stack : LinkedStack;/**
+* Read/writes the current node's data.
+		 * 
+		 * @return The data.
+*/
+public function get data () : *;public function set data (obj:*) : Void;/**
+* The current child node being referenced
+*/
+public function get childNode () : TreeNode;/**
+* Returns the item the child iterator is pointing to.
+*/
+public function get childData () : *;/**
+* Performs a preorder Traversal on the tree starting from a 
+		 * given tree node.
+		 *
+		 * @param node    A TreeNode object to start traversing at.
+		 * @param process A function to apply to each traversed node.
+*/
+public static function preorder (node:TreeNode, process:Function) : void;/**
+* Performs a postorder traversal on the tree starting from
+		 * a given tree node.
+		 *
+		 * @param node    The TreeNode object to start from.
+		 * @param process A function to apply to each traversed node.
+*/
+public static function postorder (node:TreeNode, process:Function) : void;/**
+* Initializes a tree iterator pointing to a given tree node.
+		 * 
+		 * @param node The node the iterator should point to.
+*/
+public function TreeIterator (node:TreeNode = null);/**
+* Checks if the next node exists.
+*/
+public function hasNext () : Boolean;/**
+* Returns the current referenced node
+		 * and moves the iterator forward by
+		 * one position.
+*/
+public function next () : *;/**
+* Resets the vertical iterator so that it points
+		 * to the root of the tree. Also make sure the
+		 * horizontal iterator points to the first child.
+*/
+public function start () : void;/**
+* Checks if the node is valid.
+*/
+public function valid () : Boolean;/**
+* Moves the iterator to the root of the tree.
+*/
+public function root () : void;/**
+* Moves the iterator up by one level of the tree,
+		 * so that it points to the parent of the current tree node.
+*/
+public function up () : void;/**
+* Moves the iterator down by one level of the tree,
+		 * so that it points to the first child of the current tree node.
+*/
+public function down () : void;/**
+* Moves the child iterator forward
+		 * by one position.
+*/
+public function nextChild () : void;/**
+* Moves the child iterator back
+		 * by one position.
+*/
+public function prevChild () : void;/**
+* Moves the child iterator to the first child.
+*/
+public function childStart () : void;/**
+* Moves the child iterator to the last child.
+*/
+public function childEnd () : void;/**
+* Determines if the child iterator is valid.
+*/
+public function childValid () : Boolean;/**
+* Appends a child node to the child list.
+		 * 
+		 * @param obj The data to append as a child node.
+*/
+public function appendChild (obj:*) : void;/**
+* Prepends a child node to the child list.
+		 * 
+		 * @param obj The data to prepend as a child node.
+*/
+public function prependChild (obj:*) : void;/**
+* Inserts a child node before the current child node.
+		 * 
+		 * @param obj The data to insert as a child node.
+*/
+public function insertBeforeChild (obj:*) : void;/**
+* Inserts a child node after the current child node.
+		 * 
+		 * @param obj The data to insert as a child node.
+*/
+public function insertAfterChild (obj:*) : void;/**
+* Unlinks the current child node from the tree.
+		 * Doesn't delete the node.
+*/
+public function removeChild () : void;private function reset () : void;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\TreeNode.as
+package de.polygonal.ds{import de.polygonal.ds.Iterator;import de.polygonal.ds.Collection;import de.polygonal.ds.TreeNode;import de.polygonal.ds.TreeIterator;import de.polygonal.ds.DListNode;import de.polygonal.ds.DLinkedList;/**
+* A tree node.	 * 	 * <p>A tree only consists of TreeNode objects - there is no class that manages a tree structure.	 * Every tree node has a linked list of child nodes and a pointer to its parent node.</p>
+*/
+public class TreeNode implements Collection{/**
+* The parent node being referenced.
+*/
+public var parent : TreeNode;/**
+* A list of child nodes being referenced.
+*/
+public var children : DLinkedList;/**
+* The data being referened.
+*/
+public var data : *;/**
+* Counts the total number of tree nodes		 * starting from the current tree node.
+*/
+public function get size () : int;/**
+* Computes the depth of the tree,		 * starting from this node.
+*/
+public function get depth () : int;/**
+* The total number of childrens.
+*/
+public function get numChildrens () : int;/**
+* The total number of siblings.
+*/
+public function get numSiblings () : int;/**
+* Initializes a tree node.		 * 		 * @param obj The data to store.		 * @param parent The node's parent node.
+*/
+public function TreeNode (obj:* = null, parent:TreeNode = null);/**
+* Checks if the tree node is a root node.
+*/
+public function isRoot () : Boolean;/**
+* Checks if the tree node is a leaf node.
+*/
+public function isLeaf () : Boolean;/**
+* Checks if the tree node has child nodes.
+*/
+public function hasChildren () : Boolean;/**
+* Checks if the tree node has siblings.
+*/
+public function hasSiblings () : Boolean;/**
+* Checks is the tree node is empty (has no children).
+*/
+public function isEmpty () : Boolean;/**
+* Recursively removes every child node from this node.		 * This is important for unlocking the nodes for		 * the garbage collector.
+*/
+public function destroy () : void;/**
+* Checks if a given item exists.		 * 		 * @return True if the item is found, otherwise false.
+*/
+public function contains (obj:*) : Boolean;/**
+* Clears the tree by unlinking		 * all child nodes from the node on which		 * the method is called.
+*/
+public function clear () : void;/**
+* Creates an iterator object pointing to the		 * node the method is called on.
+*/
+public function getIterator () : Iterator;/**
+* Creates a tree iterator object pointing		 * at the node on which the method is called.		 * 		 * @returns A TreeIterator object.
+*/
+public function getTreeIterator () : TreeIterator;/**
+* Converts the tree into an array.		 * 		 * @return An array.
+*/
+public function toArray () : Array;/**
+* Returns a string representing the current object.
+*/
+public function toString () : String;/**
+* Prints out all children recursively starting from the current node.
+*/
+public function dump () : String;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\arrayedInsertionSort.as
+package de.polygonal.ds.sort{public function arrayedInsertionSort (a:Array) : void;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\arrayedShellSort.as
+package de.polygonal.ds.sort{public function arrayedShellSort (a:Array) : void;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\dLinkedInsertionSort.as
+package de.polygonal.ds.sort{import de.polygonal.ds.DListNode;public function dLinkedInsertionSort (node:DListNode, descending:Boolean = false) : DListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\dLinkedInsertionSortCmp.as
+package de.polygonal.ds.sort{import de.polygonal.ds.DListNode;public function dLinkedInsertionSortCmp (node:DListNode, cmp:Function, descending:Boolean = false) : DListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\dLinkedMergeSort.as
+package de.polygonal.ds.sort{import de.polygonal.ds.DListNode;public function dLinkedMergeSort (node:DListNode, descending:Boolean = false) : DListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\dLinkedMergeSortCmp.as
+package de.polygonal.ds.sort{import de.polygonal.ds.DListNode;public function dLinkedMergeSortCmp (node:DListNode, cmp:Function, descending:Boolean = false) : DListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\sLinkedInsertionSort.as
+package de.polygonal.ds.sort{import de.polygonal.ds.SListNode;public function sLinkedInsertionSort (node:SListNode, descending:Boolean = false) : SListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\sLinkedInsertionSortCmp.as
+package de.polygonal.ds.sort{import de.polygonal.ds.SListNode;public function sLinkedInsertionSortCmp (node:SListNode, cmp:Function, descending:Boolean = false) : SListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\sLinkedMergeSort.as
+package de.polygonal.ds.sort{import de.polygonal.ds.SListNode;public function sLinkedMergeSort (node:SListNode, descending:Boolean = false) : SListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\sLinkedMergeSortCmp.as
+package de.polygonal.ds.sort{import de.polygonal.ds.SListNode;public function sLinkedMergeSortCmp (node:SListNode, cmp:Function, descending:Boolean = false) : SListNode;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\SortOptions.as
+package de.polygonal.ds.sort{public class SortOptions{public static const INSERTION_SORT : int;public static const CHARACTER_STRING : int;public static const CASEINSENSITIVE : int;public static const DESCENDING : int;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\compare\compareStringCaseInSensitive.as
+package de.polygonal.ds.sort.compare{public function compareStringCaseInSensitive (a:String, b:String) : int;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\compare\compareStringCaseInSensitiveDesc.as
+package de.polygonal.ds.sort.compare{public function compareStringCaseInSensitiveDesc (a:String, b:String) : int;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\compare\compareStringCaseSensitive.as
+package de.polygonal.ds.sort.compare{public function compareStringCaseSensitive (a:String, b:String) : int;}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\dataStructures\de\polygonal\ds\sort\compare\compareStringCaseSensitiveDesc.as
+package de.polygonal.ds.sort.compare{public function compareStringCaseSensitiveDesc (a:String, b:String) : int;}

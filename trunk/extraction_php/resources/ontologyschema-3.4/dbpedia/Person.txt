@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Person
+|rdfs:subClassOf = owl:Thing
+}}

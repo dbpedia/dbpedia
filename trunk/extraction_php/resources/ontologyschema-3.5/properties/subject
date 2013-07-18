@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = subject
+| rdfs:domain = Book
+}}

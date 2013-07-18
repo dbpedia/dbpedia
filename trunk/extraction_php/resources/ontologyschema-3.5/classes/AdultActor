@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Adult Actor
+| rdfs:subClassOf = Actor
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = wins
+| rdfs:domain = FormulaOneRacer
+| rdfs:range = xsd:integer
+}}

@@ -1,0 +1,8 @@
+<http://dbpedia.org/resource/Berlin> <http://xmlns.com/foaf/0.1/name> "Berlin" .
+<http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/areaTotal> "891.82" .
+<http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/populationTotal> "3431700" .
+<http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/populationAsOf> "2008" .
+<http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/populationMetro> "5000000" .
+<http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/leaderTitle> "Governing Mayor" .
+<http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/areaCode> "030" .
+<http://dbpedia.org/resource/Berlin> <http://dbpedia.org/ontology/postalCode> "10001-14199" .

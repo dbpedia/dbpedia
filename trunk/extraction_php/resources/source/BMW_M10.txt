@@ -1,0 +1,176 @@
+{{Infobox Automobile
+|name=BMW M10/M12
+|manufacturer=[[BMW]]
+|production=1961&ndash;87
+|class=[[SOHC]] [[Straight-4]]
+|predecessor=
+|successor=[[BMW M40]]
+|related=[[BMW S14]]
+|engine=1.5&nbsp;L (1499&nbsp;cc/91&nbsp;in&sup3;)<br>1.6&nbsp;L (1573&nbsp;cc/95&nbsp;in&sup3;)<br>1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in&sup3;)<br>1.8&nbsp;L (1773&nbsp;cc/108&nbsp;in&sup3;)<br>2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in&sup3;)
+|similar=[[Mercedes-Benz M115 engine|Mercedes-Benz M115]]
+}}
+The [[BMW]] '''M10/M12''' was an [[Straight-4|I4]] [[piston engine]] produced from 1961 to 1987. Displacement ranged from 1499&nbsp;cm<sup>3</sup> to 1990&nbsp;cm<sup>3</sup>.
+
+The engine was designed by noted engineer and race driver Baron [[Alex von Falkenhausen]]. He was asked to design a small-displacement (1.3&nbsp;L) engine, but felt that this would be insufficient for the company's future needs. Therefore, he designed a block that could be expanded to 2.0&nbsp;L and delivered it at 1.5&nbsp;L.  
+
+The design was very successful, with over 3.5 million produced, and it served the company for over 25 years.
+
+The M-10 was one prototype engine in design [[Moskvitch 412]] engine [[UZAM 412]] also.
+
+As [[BMW M12]], the engine is also one of the most successful engines in racing. Starting with the [[European Touring Car Championship]], it was also used in [[Formula Two]] and in the [[Deutsche Rennsport Meisterschaft]], where it was turbocharged by [[Paul Rosche]] according to FIA [[Group 5 (racing)|Group 5]] rules. 
+
+The M12 went on to [[Formula One]], winning the 1983 championship for [[Nelson Piquet]] and [[Brabham]] — something which very few 20 year old road car engine designs accomplish. The same applies for the rise in power: twenty-fold from 75&nbsp;hp to about 1500&nbsp;hp.
+
+The [[BMW S14]] engine for the first [[BMW M3]] was based upon the M10 block. In the M3, the M10 block design is still winning races today. 
+
+The [[BMW M40]] series of engines replaced the M10 in the late 1980s.
+
+==Formula One history==
+
+Brabham had tested a [[BMW Sauber|BMW]] [[turbocharger|turbocharged]] engine in the summer of 1981, and for the [[1982 Formula One season]] the new BT50 was designed around it. Brabham thus became the third team after Renault and Ferrari to employ a turbo engine.
+
+Initially the turbo engine's electronics had reliability and driveability issues. The BMW and Brabham relationship came close to ending, with BMW insisting that Brabham stop using the Cosworth powered BT49Ds, while Ecclestone maintained that the BMW powered cars were not reliable enough. Together with [[Robert Bosch GmbH|Bosch]], the BMW engineers solved the problem. The partnership took its first win at the [[1982 Canadian Grand Prix]]. In 1983 Nelson Piquet became the first driver to win the world championship in a turbo-engined car.
+
+Murray's radical long and low BT55 was fitted with a revised BMW engine tilted over to allow clean airflow to the rear wing. The design was not successful, scoring only two points in the [[1986 Formula One season]]; the engine did not perform well in this orientation and the gearbox from Weissman was unreliable.
+
+From 1986 onwards BMW wound down their Formula One involvement. In 1987 Brabham continued to use the 'tilted' units, as the upright versions had been sold to other teams under the [[Megatron (engine)|Megatron]] name — they were used by [[Arrows]] and [[Equipe Ligier|Ligier]] with moderate success. BMW, whose programme was based around turbocharged versions of their road engines, withdrew from Formula One after the 1987 season. The Megatron badged units were used until the end of 1988.
+
+==M115==
+
+The 1.5&nbsp;L (1499&nbsp;cc/91&nbsp;in<sup>3</sup>) '''M115''' produced 75&nbsp;hp or 80&nbsp;hp (56&nbsp;kW or 60&nbsp;kW) (depending on [[carburetor]]) and 118&nbsp;ft·lbf (160&nbsp;N·m).
+
+Applications:
+* 1962-1964 [[BMW New Class|BMW 1500]]
+* 1975-1977 [[BMW New Class|BMW 1500]]
+
+==M118==
+
+The 1.8&nbsp;L (1773&nbsp;cc/108&nbsp;in<sup>3</sup>) '''M118''' produced 90&nbsp;hp to 130&nbsp;hp (67&nbsp;kW to 97&nbsp;kW) and 143 to 150&nbsp;ft·lbf (194 to 203&nbsp;N·m).
+
+Applications:
+* 1963-1974 [[BMW New Class|BMW 1800]]
+* 1974 [[BMW E12|E12]] [[BMW 5-Series|518]]
+
+==M116==
+
+The 1.6&nbsp;L (1573&nbsp;cc/95&nbsp;in<sup>3</sup>) '''M116''' produced 75&nbsp;hp to 105&nbsp;hp (56&nbsp;kW to 78&nbsp;kW). Bore was 84&nbsp;mm and stroke was 71&nbsp;mm.
+
+Applications:
+* 1964-1966 [[BMW New Class|BMW 1600]]
+* 1966-1975 [[BMW New Class|BMW 1600-2/1602]]
+
+==M05==
+
+The 2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in<sup>3</sup>) '''M05''' produced 100&nbsp;hp to 120&nbsp;hp (75 to 90&nbsp;kW) and 157&nbsp;ft·lbf to 167&nbsp;ft·lbf (213 to 226&nbsp;N·m). Bore was 89&nbsp;mm and stroke was 80&nbsp;mm.
+
+Applications:
+* 1965-1969 [[BMW New Class|BMW 2000C]]
+* 1966-1972 [[BMW New Class|BMW 2000]]
+* 1968-1972 [[BMW New Class|BMW 2002]]
+
+==M15==
+
+The 2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in<sup>3</sup>) '''M15''' produced 130&nbsp;hp (97&nbsp;kW) and 177&nbsp;ft·lbf (240&nbsp;N·m). It was the famed ''tii'' engine.
+
+Applications:
+* 1972-1974 [[BMW 2002tii]]
+
+==M17==
+
+The 2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in<sup>3</sup>) '''M17''' produced 115&nbsp;hp (86&nbsp;kW) and 162&nbsp;ft·lbf (220&nbsp;N·m).
+
+Applications:
+* 1972 [[BMW E12|E12]] [[BMW 5-Series|520]]
+
+==M31==
+
+The 2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in<sup>3</sup>) '''M31''' was [[turbocharged]] and produced 170&nbsp;hp (127&nbsp;kW) and 240&nbsp;ft·lbf (325&nbsp;N·m).
+
+Applications:
+* 1974 [[BMW E20|E20]] [[BMW New Class|2002 turbo]]
+
+==M41==
+
+The 1.6&nbsp;L (1573&nbsp;cc/95&nbsp;in<sup>3</sup>) '''M41''' produced 90&nbsp;hp (67&nbsp;kW) and 123&nbsp;ft·lbf (167&nbsp;N·m).
+
+Applications:
+* 1975 [[BMW E21|E21]] [[BMW 3-Series|316]]
+
+==M64==
+
+The 2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in<sup>3</sup>) '''M64''' produced 125&nbsp;hp (93&nbsp;kW) and 172&nbsp;ft·lbf (233&nbsp;N·m).
+
+Applications:
+* 1975 [[BMW E21|E21]] [[BMW 3-Series|320i]]
+* 1975 [[BMW E12|E12]] [[BMW 5-Series|520i]]
+
+==M43/1==
+
+The 2.0&nbsp;L (1990&nbsp;cc/121&nbsp;in<sup>3</sup>) '''M43/1''' produced 109&nbsp;hp (81&nbsp;kW) and 157&nbsp;ft·lbf (213&nbsp;N·m).
+
+Applications:
+* 1975 [[BMW E21|E21]] [[BMW 3-Series|320]]
+
+==M10==
+
+The 1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in<sup>3</sup>) '''M10''' produced 98&nbsp;hp (73&nbsp;kW) and 142&nbsp;ft·lbf (193&nbsp;N·m).
+
+Applications:
+* 1975 [[BMW E21|E21]] [[BMW 3-Series|318]]
+* 1976 [[BMW E12|E12]] [[BMW 5-Series|518]]
+
+==M98==
+
+The 1.6&nbsp;L (1573&nbsp;cc/95&nbsp;in<sup>3</sup>) '''M98''' produced 75&nbsp;hp (56&nbsp;kW) and 110&nbsp;ft·lbf (149&nbsp;N·m).
+
+Applications:
+* 1981 [[BMW E21|E21]] [[BMW 3-Series|316]]
+
+==M10B18==
+
+L-Jetronic Fuel Injection
+Displacement 107.8 CI 1766cc
+101hp (75kW) @5800rpm
+103ft/lb (140Nm)@4500rpm
+Compression: 9.0:1
+Stroke 2.79in / 71mm
+Bore 3.50in / 89mm
+Firing order 1-3-4-2
+Applications:
+* 1980 [[BMW E12|E12]] [[BMW 5-Series|518]]
+* 1980 [[BMW E21|E21]] [[BMW 3-Series|316]]
+* 1980 [[BMW E28|E28]] [[BMW 5-Series|518]]
+* 1980 [[BMW E21|E21]] [[BMW 3-Series|318i]]
+* 1983 [[BMW E30|E30]] [[BMW 3-Series|318i]]
+* 1980 [[BMW E28|E28]] [[BMW 5-Series|518i]]
+* 1983 [[BMW E30|E30]] [[BMW 3-Series|316]]
+* 1983 [[BMW E28|E28]] [[BMW 5-Series|518]]
+
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#M10B18|M10B18]]||1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in<sup>3</sup>)||77&nbsp;kW (103&nbsp;hp) @ 5800||145&nbsp;N·m (106&nbsp;ft·lbf) @ 4500|| ||1980
+|-
+|[[#M10B18|M10B18]]||1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in<sup>3</sup>)||75&nbsp;kW (100&nbsp;hp) @ 5800||140&nbsp;N·m (103&nbsp;ft·lbf) @ 4500|| ||1985
+|-
+|[[#M10B18|M10B18]]||1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in<sup>3</sup>)||77&nbsp;kW (103&nbsp;hp) @ 5800||145&nbsp;N·m (106&nbsp;ft·lbf) @ 4500|| ||1980
+|-
+|[[#M10B18|M10B18]]||1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in<sup>3</sup>)||75&nbsp;kW (100&nbsp;hp) @ 5800||140&nbsp;N·m (103&nbsp;ft·lbf) @ 4500|| ||1985
+|-
+|[[#M10B18V|M10B18V]]||1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in<sup>3</sup>)||66&nbsp;kW (88&nbsp;hp) @ 5500||140&nbsp;N·m (103&nbsp;ft·lbf) @ 4000|| ||1981
+|-
+|[[#M10B18V|M10B18V]]||1.8&nbsp;L (1766&nbsp;cc/107&nbsp;in<sup>3</sup>)||66&nbsp;kW (88&nbsp;hp) @ 5500||140&nbsp;N·m (103&nbsp;ft·lbf) @ 4000|| ||1981
+|}
+
+M10B18 had a 89&nbsp;mm bore and 71&nbsp;mm stroke. Also, in E30 as 318i, very unusual for that time, it could stretch the 2nd gear all the way to 100&nbsp;km/h.
+
+[[Category:BMW engines|M10]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+[[de:BMW M10]]
+[[es:BMW M10]]
+[[it:BMW M10]]
+[[no:BMW M10]]

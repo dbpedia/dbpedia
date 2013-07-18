@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = creator
+| rdfs:domain = TelevisionShow
+| rdfs:range = Person
+}}

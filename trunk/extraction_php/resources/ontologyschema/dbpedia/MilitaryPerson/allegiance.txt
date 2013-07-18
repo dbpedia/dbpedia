@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= allegiance
+|rdfs:domain	= MilitaryPerson
+|rdfs:range		= xsd:string
+}}

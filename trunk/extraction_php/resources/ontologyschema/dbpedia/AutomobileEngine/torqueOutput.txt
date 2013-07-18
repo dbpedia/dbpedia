@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= torque output   
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= newtonMetre
+|rdf:type	= owl:FunctionalProperty
+}}

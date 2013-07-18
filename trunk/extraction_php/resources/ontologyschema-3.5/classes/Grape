@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Grape
+| rdfs:subClassOf = FloweringPlant
+}}

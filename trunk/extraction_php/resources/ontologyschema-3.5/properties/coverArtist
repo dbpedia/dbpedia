@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = cover artist
+| rdfs:domain = Book
+| rdfs:range = Person
+}}

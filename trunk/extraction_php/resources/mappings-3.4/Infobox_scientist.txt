@@ -1,0 +1,23 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Scientist
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = doctoral_advisor | ontologyProperty = Scientist/doctoralAdvisor }}
+	{{ DBpediaPropertyMapping | templateProperty = academic_advisors | ontologyProperty = Scientist/academicAdvisor }}
+	{{ DBpediaPropertyMapping | templateProperty = doctoral_students | ontologyProperty = Scientist/doctoralStudent }}
+	{{ DBpediaPropertyMapping | templateProperty = notable_students | ontologyProperty = Scientist/notableStudent }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_place | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = death_place | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = residence | ontologyProperty = Person/residence }}
+	{{ DBpediaPropertyMapping | templateProperty = citizenship | ontologyProperty = Person/citizenship }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnicity | ontologyProperty = Person/ethnicity }}
+	{{ DBpediaPropertyMapping | templateProperty = alma_mater | ontologyProperty = Person/almaMater }}
+	{{ DBpediaPropertyMapping | templateProperty = known_for | ontologyProperty = Person/knownFor }}
+	{{ DBpediaPropertyMapping | templateProperty = influences | ontologyProperty = Person/influencedBy }}
+	{{ DBpediaPropertyMapping | templateProperty = influenced | ontologyProperty = Person/influenced }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = religion | ontologyProperty = Person/religion }}
+}}

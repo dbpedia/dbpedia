@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = type
+|rdfs:domain = Weapon
+|rdfs:range = owl:Thing
+}}

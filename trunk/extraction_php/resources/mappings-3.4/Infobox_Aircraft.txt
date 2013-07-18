@@ -1,0 +1,24 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Aircraft
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Aircraft/type }}
+	{{ DBpediaPropertyMapping | templateProperty = national origin | ontologyProperty = Aircraft/nationalOrigin }}
+
+	{{DBpediaDateIntervalMapping | templateProperty = produced | 
+	startDateOntologyProperty = MeanOfTransportation/productionStartDate|
+	endDateOntologyProperty = MeanOfTransportation/productionEndDate}}
+	
+	{{DBpediaDateIntervalMapping | templateProperty = produced |
+	startDateOntologyProperty = MeanOfTransportation/productionStartYear|
+	endDateOntologyProperty = MeanOfTransportation/productionEndYear}}
+	
+	{{ DBpediaPropertyMapping | templateProperty = number built | ontologyProperty = Aircraft/numberBuilt }}
+	{{ DBpediaPropertyMapping | templateProperty = program cost | ontologyProperty = Aircraft/programCost | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = unit cost | ontologyProperty = Aircraft/unitCost | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = manufacturer | ontologyProperty = MeanOfTransportation/manufacturer }}
+	{{ DBpediaPropertyMapping | templateProperty = introduction | ontologyProperty = MeanOfTransportation/introductionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = retired | ontologyProperty = MeanOfTransportation/retiredDate }}
+	{{ DBpediaPropertyMapping | templateProperty = developed from | ontologyProperty = MeanOfTransportation/predecessor }}
+	{{ DBpediaPropertyMapping | templateProperty = variants with their own articles | ontologyProperty = MeanOfTransportation/successor }}
+}}

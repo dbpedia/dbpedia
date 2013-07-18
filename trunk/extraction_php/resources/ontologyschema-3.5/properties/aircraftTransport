@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = aircraft transport
+| rdfs:domain = MilitaryUnit
+| rdfs:range = MeanOfTransportation
+}}

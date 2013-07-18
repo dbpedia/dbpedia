@@ -1,0 +1,25 @@
+{{TemplateMapping
+| mapToClass = Film
+| mappings = 
+	{{PropertyMapping | templateProperty = director | ontologyProperty = director }}
+	{{PropertyMapping | templateProperty = producer | ontologyProperty = producer }}
+	{{PropertyMapping | templateProperty = writer | ontologyProperty = writer }}
+	{{PropertyMapping | templateProperty = narrator | ontologyProperty = narrator }}
+	{{PropertyMapping | templateProperty = starring | ontologyProperty = starring }}
+	{{PropertyMapping | templateProperty = music | ontologyProperty = music }}
+	{{PropertyMapping | templateProperty = cinematography | ontologyProperty = cinematography }}
+	{{PropertyMapping | templateProperty = editing | ontologyProperty = editing }}
+	{{PropertyMapping | templateProperty = distributor | ontologyProperty = distributor }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = budget | ontologyProperty = budget | unit = Currency }}
+	{{PropertyMapping | templateProperty = gross | ontologyProperty = gross | unit = Currency }}
+	{{PropertyMapping | templateProperty = amg_id | ontologyProperty = amgid }}
+	{{PropertyMapping | templateProperty = imdb_id | ontologyProperty = imdbid }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = released | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = runtime | ontologyProperty = runtime | unit = Time }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = preceded_by | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = followed_by | ontologyProperty = subsequentWork }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

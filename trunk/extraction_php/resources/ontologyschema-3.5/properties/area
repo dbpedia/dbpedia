@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = area
+| rdfs:range = Area
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = selection
+|rdfs:domain = Astronaut
+|rdfs:range = owl:Thing
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = superintendent
+| rdfs:domain = EducationalInstitution
+| rdfs:range = Person
+}}

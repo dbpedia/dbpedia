@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = platform
+| rdfs:range = Automobile
+}}

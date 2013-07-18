@@ -1,0 +1,716 @@
+{{Infobox Automobile
+|name           = Volkswagen Passat
+|image          = [[Image:Volkswagen-Passat-B5.5.jpg|250px]]<br>''Volkswagen Passat B5.5 sedan (US)''
+|manufacturer   = [[Volkswagen|Volkswagen Passenger Cars]]
+|parent_company = [[Volkswagen Group]]
+|aka            = Volkswagen Dasher<br>Volkswagen Quantum<br>Volkswagen Santana<br>Volkswagen Corsar<br>Volkswagen Magotan<br>Volkswagen Carat
+|production     = 1973-present
+|predecessor    = [[Volkswagen Type 3]]
+|class          = [[Large family car]] / [[Mid-size car]]
+|layout         = [[Front-engine design]]
+|platform       = [[Volkswagen Group B platform]] series
+|sp             = uk
+}}
+The '''Volkswagen Passat''' is a [[family car]] built by [[Volkswagen|Volkswagen Passenger Cars]] through six design generations since 1973.  Slotting between the [[Volkswagen Golf]] / [[Volkswagen Jetta]], and the [[Volkswagen Phaeton]] in the current Volkswagen line-up, the Passat has been badged variously as  '''Dasher''', '''Santana''', '''Quantum''', '''Magotan''', '''Corsar''' and '''Carat'''.  More recently, Volkswagen has extended its range with the launch of the [[Volkswagen Passat CC|Passat CC]], a 4-door "coupé" version of the Passat.
+
+The nameplate Passat derives from the German word for tradewind &mdash; and the period in its history when Volkswagen named vehicles after prominent winds, including also Golf (after [[Gulf Stream]]), Jetta (after [[Jet stream]]), [[Volkswagen Bora|Bora]] (after [[bora (wind)|Bora]]) and [[Volkswagen Scirocco|Scirocco]] (after [[Sirocco]]).
+
+==History==
+The Passat falls in the middle of the [[sedan (automobile)|sedan/saloon]] market segment, and was critical to Volkswagen on its introduction in 1973, as the sales of the aging [[Volkswagen Beetle|Beetle]] were declining, and larger [[air-cooled]] [[RR layout|rear-engined]] models like the [[Volkswagen Type 3]] and [[Volkswagen Type 4|411 and 412]] based on older technology were also failing to take hold in the market.{{Citation needed|date=December 2007}}
+
+Following the [[Volkswagen Group]]'s acquisition of [[Audi]] in 1964, Volkswagen used new engineering expertise to develop a modern [[front-wheel drive]] car with a [[watercooling|water-cooled]] engine, and thus the Passat and Golf (the latter being introduced in 1974) were the first of a new generation of Volkswagen cars.  The first Passat was developed partly from the [[Audi 80|Audi 80/Fox]] and, until 2005, the two shared a history.
+
+During its development phase, the Passat was designated internally as Entwicklungs-Auftrag 400 (EA400 / Project 400), and well before its launch, production of the [[Volkswagen Type 3]] at the [[Wolfsburg]] plant had been stopped in order to free up capacity for the new car.<ref name=Autocar1973>{{cite journal|title=New Models from Volkswagen: A reversal of Wolfsburg's Design Policy|journal=[[Autocar]]|volume= 138 (nbr 4019)|page=15|date=7 June 1973}}</ref>   Wolfsburg was able to ramp up production carefully:  directly before Passat production started the lines were used to assemble small volumes of the car's [[Audi 80]] sibling which had been launched a year earlier.<ref name=Autocar1973/>
+
+==Passat Mk1 (B1, 1973–1981){{anchor|B1}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Passat Mk1 (B1)
+|image         = [[Image:Vw passat b1 v sst.jpg|250px]]
+|aka           = Volkswagen Dasher
+|production    = 1973–1981<br>(1974–1988 in Brazil)
+|assembly      = [[Emden]], Germany
+|class         = [[Large family car]] / [[Mid-size car]]
+|body_style    = 2-door [[sedan (automobile)|saloon/sedan]]<br>3-door [[hatchback]]<br>4-door saloon/sedan<br>5-door hatchback<br>5-door [[station wagon|estate/wagon]]
+|layout        = [[front-engine design|Front engine]], [[front-wheel drive]]
+|platform      = [[Volkswagen Group B platform#B1|Volkswagen Group B1]]
+|engine        = 1.3&nbsp;[[litre|L]] [[inline-four engine|I4]]<br>1.5&nbsp;L I4<br>1.6&nbsp;L I4<br>1.5&nbsp;L I4 [[diesel engine]]
+|transmission  = 4-speed [[manual transmission|manual]]<ref name=AutoMotoruSport1974>{{cite journal|author=W.S.|title=Test: VW Passat variant LS|journal=[[Auto, Motor und Sport|Auto Motor u. Sport]]|volume=Heft 9 1974|pages=Seite 73 - 78|date=27 April 1974}}</ref>
+|wheelbase     = {{convert|2470|mm|in|abbr=on}}<ref name=AutoMotoruSport1974/>
+|length        = {{convert|4190|mm|in|abbr=on}}<ref name=AutoMotoruSport1974/>
+|width         = {{convert|1600|mm|in|abbr=on}}<ref name=AutoMotoruSport1974/>
+|height        = {{convert|1360|mm|in|abbr=on}}<ref name=AutoMotoruSport1974/>
+|fuel_capacity = {{convert|46|L|impgal usgal|1|abbr=on|lk=on}}<ref name=AutoMotoruSport1974/>
+|designer      = [[Giorgetto Giugiaro]]
+|related       = [[Audi 80|Audi 80/Fox]]
+|sp            = uk
+}}
+[[Image:Passat Variant 1 Wien.JPG|thumb|left|Volkswagen Passat Mark I 5-door Variant]]
+
+===B1 in Europe===
+The original Volkswagen Passat was launched in 1973.  The body types offered originally were 2- and 4-door sedans and similar looking three- and five-door versions.  Externally all four shared a modern [[fastback]] style design, styled by the Italian designer [[Giorgetto Giugiaro]].  In essence, the first Passat was a fastback version of the mechanically identical [[Audi 80]] sedan, introduced a year earlier.  A five-door [[station wagon|station wagon/estate]] was introduced in 1974.  In Europe, the Passat was equipped with 2 rectangular, 2 round 7", or 4 round 5.5" [[headlights]] depending on specification.
+
+The Passat was one of the most modern European family cars at the time, and was intended as a replacement for the aging Volkswagen Type 3 and Type 4.  The Passat was ''[[Wheels magazine|Wheels]]'' magazine's [[Car of the Year]] for 1974 and its sister model [[Audi 80]] was nominated car of the year by the European motor press a year earlier.  The platform was named [[Volkswagen B platform|B1]].
+
+The Passat originally used the [[Straight-4|4 cylinder]] [[OHC]] 1.3&nbsp;l ({{convert|55|PS|kW hp|abbr=on}}) and 1.5&nbsp;l ({{convert|75|PS|kW hp|abbr=on}}/{{convert|85|PS|kW hp|abbr=on}}) [[petrol]] engines also used in the Audi 80—[[longitudinal engine|longitudinally mounted]] with [[front-wheel drive]], in Audi tradition, with either a 4-speed [[manual transmission]] or 3-speed [[automatic transmission|automatic]].  It had a [[MacPherson strut]] front [[Suspension (vehicle)|suspension]] with a [[solid axle]]/[[coil spring]] setup at the rear.
+
+The [[SOHC]] 1.5 was enlarged to 1.6&nbsp;l in August 1975 with unchanged power ratings and slightly higher torque ratings.  In July 1978 the Passat Diesel became available, equipped with the [[VW Golf]]`s 1.5&nbsp;&nbsp;l Diesel ({{convert|50|PS|kW hp|abbr=on}}), followed in February 1979 by the Passat GLI with a fuel-injected version of the 1.6&nbsp;l engine.
+
+The whole range received a facelift in 1977 (launched 1978 outside Europe), featuring an interior upgrade and subtly revised styling including repositioned indicators and depending on model, either 4 round or 2 rectangular headlights<ref>Werner Oswald: ''Deutsche Autos 1945-1990''. Motorbuch Verlag, Stuttgart 2003 (2nd ed.), ISBN 3-613-02116-1, pp. 94-101</ref>.
+
+===B1 in North America===
+In North America, the car was called the Dasher. The three- and four-door hatchback and a station wagon model were launched in North America for and during the 1974 model year.  Sole available engine was a carburetted 1.5&nbsp;l inline-four developing {{Convert|75|hp|kW|0|abbr=on}} (or {{Convert|70|hp|kW|0|abbr=on}} in 1975), supplanted from model year 1976 by a [[Robert Bosch GmbH|Bosch]] fuel-injected 1.6&nbsp;l four {{Convert|78|hp|kW|0|abbr=on}}. North American cars were equipped with single DOT standard headlights.
+
+1979 saw the introduction of the 1.5&nbsp;l [[diesel engine]], which produced just 48&nbsp;PS (35&nbsp;kW) in the 1130&nbsp;kg (2500&nbsp;lb) car.  0–100&nbsp;km/h time for the Diesel was 19.4 seconds, 6.2 seconds slower than the gasoline (petrol) engine.  All gasoline engines were dropped for North America in 1981 in preparation for the next generation.<ref> Mike Covello, ''Standard Catalog of Imported Cars 1946-2002''. Krause Publications, Iola 2002, ISBN 0-67341-605-8, pp. 824-826</ref>
+
+===B1 in Brazil===
+In Brazil, the Passat B1 was produced from 1974 until 1988. In 1986 many improvements from the B2 platform where introduced, like its 1.6 and 1.8 engines and the 5-speed gearbox.  A sports version, named Passat GTS 1.8, even on the twilight of the car, saw some popularity with its very good performance. This generation was also extensively exported to Iraq, with its 1.6 engine and the 4-speed gearbox, where many are still on the road specially as a taxi car with white and orange colour but the air conditioning not compatible with the hot weather of Iraq. It was also assembled in Nigeria.{{clr}}
+
+==Passat Mk2 (B2, 1981–1988){{anchor|B2}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Passat Mk2 (B2)
+|image         = [[Image:Vw santana v sst.jpg|250px]]<br>''Pre-facelift Volkswagen Santana''
+|aka           = Volkswagen Quantum<br>Volkswagen Santana<br>Volkswagen Corsar<br>Volkswagen Carat
+|production    = 1981–1987<br>1984–2012 (in China)<br>1984–2006 (in Brazil)
+|assembly      = [[Emden]], Germany<br>[[São Bernardo do Campo]], Brazil <br>[[Puebla, Puebla]], Mexico<br>[[Zama, Kanagawa|Zama]], Japan
+|class         = [[Mid-size car]]
+|body_style    = 3-door [[hatchback]],<br>2-door [[sedan (automobile)|saloon/sedan]],<br>4-door saloon/sedan,<br>5-door hatchback,<br>5-door [[station wagon|estate/wagon]]
+|layout        = [[Front-engine design|Front engine]],<br>[[front-wheel drive]] or<br>[[four-wheel drive]]
+|platform      = [[Volkswagen Group B platform#B2|Volkswagen Group B2]]
+|engine        = '''''[[Petrol engine]]s:'''''<br>1.3&nbsp;[[litre|L]] [[inline-four engine|I4]]<br>1.5&nbsp;L I4<br>1.6&nbsp;L I4<br>1.8&nbsp;L I4<br>2.0&nbsp;L I4<br>1.9&nbsp;L [[straight-five engine|I5]]<br>2.0&nbsp;L I5 [[4motion|Syncro]]<br>2.2 L I5<br>'''''[[Diesel engine]]s:'''''<br>1.5&nbsp;L D [[inline-four engine|I4]]<br>1.6&nbsp;L [[turbodiesel|TD]] I4<br>1.8&nbsp;L D I4
+|transmission  = 3-speed [[automatic transmission|automatic]],<br>4-speed [[manual transmission|manual]],<br>5-speed manual
+|wheelbase     = {{auto in|100.4|0}}<br>facelifted Santana: {{convert|2548|mm|in|1|abbr=on}}
+|length        = {{auto in|179.5|0}} (GL)<br>{{auto in|180.7|0}} (GL Syncro)<br>pre-facelift Santana: {{convert|4572|mm|in|1|abbr=on}}<br>facelifted Santana: {{convert|4546|mm|in|1|abbr=on}}
+|width         = {{auto in|67.2|0}} (GL)<br>{{auto in|66.7|0}} (GL Syncro)<br>pre-facelift Santana: {{convert|1700|mm|in|1|abbr=on}}<br>facelifted Santana: {{convert|1710|mm|in|1|abbr=on}}
+|height        = {{auto in|54.8|0}} (GL)<br>{{auto in|58|0}} (GL Syncro)<br>pre-facelift Santana: {{convert|1423|mm|in|1|abbr=on}}<br>facelifted Santana: {{convert|1427|mm|in|1|abbr=on}}
+|fuel_capacity = 15.8 US gal (GL)<br />18.5 US gal (GL Syncro) 
+|related       = [[Ford Versailles]]<br>[[Ford Royale]]<br>[[Ford Galaxy]]
+|sp             = uk
+}}
+The second generation Volkswagen Passat was launched in 1981.  The platform, named [[Volkswagen Group B platform#B2|B2]], was slightly longer and the car's updated styling was instantly recognisable as Passat, with the most obvious difference being the rectangular headlights.  The car was known as the Quantum in North America, where it was introduced in 1982, and Corsar in Mexico, where it was sold between 1984 and 1988, in Brazil it was called Santana.  The Passat saloon and estate were produced in South Africa for their local market until 1987.
+[[Image:Volkswagen Passat B2 Variant Cambridge.jpg|thumb|left|Volkswagen Passat B2 Variant]]
+[[Image:Vw passat b2 2f v sst.jpg|thumb|left|Mk2 (facelift) Passat 5-door hatchback]]
+[[Image:Volkswagen Quantum wagon rear.jpg|thumb|left|Volkswagen Quantum wagon (US)]]
+[[Image:SantanaAP18Frelado.jpg|thumb|left|Santana AP 1.8 in Brazil.]]
+
+As well as the Passat hatchbacks and estate (wagon) there was also a conventional three-box saloon, which until the beginning of 1985 was sold as the Volkswagen Santana in Europe, Brazil, Nicaragua and China.  In North America, the Quantum was available in three-door hatchback, four-door sedan, and wagon form, but the five-door hatchback was never sold there and the three-door hatchback was dropped after a year.
+
+The range received a minor facelift in 1986, with the saloon, now known as the Passat, sharing the same front end as the [[hatchback]] and estate.  The North American version gained European-style composite headlamps.
+
+The range of engines was more extensive than that of the first generation Passat, and included a [[straight-5|5 cylinder]] Audi 2.0&nbsp;[[litre]] petrol, 1.9&nbsp;litre system used in the Passat shared the mechanics of the [[Audi 80|Audi 80 quattro]] and not the [[Volkswagen Golf]] Syncro.  ''Syncro'' was also available in the North American market, but only on the wagon, and only with the 5 cylinder engine.
+
+===Carat in Argentina===
+The Second Generation Passat had its production started in Argentina in June, 1987 and was called Carat,Manufactured by Volkswagen Argentina S.A. (San Justo/Gral. Pacheco Pcia de Bs.As.)
+
+Characteristics CD/CD 2,0/GS 1.8
+Beginning Manufacture: 1987 (1989 2,0 and GS) 
+Term of Manufacture: 1991 
+Origin: Germany Original 
+denomination: Volkswagen Santana (1984) 
+Body: Autoportante Sedán 
+Doors: 4 
+Motor: Volkswagen - Audi 827 AP 1,8/2.0 
+Cycle: 4 times, camshaft at the top, valves at the top 
+Location: inclined longitudinal forward (20º) 
+
+MOTOR 1.8 
+Piston displacement (cm3): 1.781 
+Number of Cylinders: 4 Diám x Carr (mm): 81 xs 86,4 
+Compression ratio: 9,0:1 
+Power (CB): 96 
+Regime (r.p.m): 5.500 
+Motor pair (mKg): 14,6 
+Regime (r.p.m): 2.600 
+Fuel system: Carburetor Pierburg Brosol 2E7 2 mouths 
+Speeds: 5 Final relation: 5,14: 1 
+
+MOTOR 2.0 
+Piston displacement (cm3): 1.984 
+Number of Cylinders: 4 Diám x Carr (mm): 82,5 xs 92,8 
+Compression ratio: 8,5:1 
+Power (CB): 100 
+Regime (r.p.m): 5.200 
+Motor pair (mKg): 16,2 
+Regime (r.p.m): 3.400 
+Fuel system: Carburetor Pierburg Brosol 2E7 2 mouths 
+Speeds: 5 Final relation: 4,11: 1 
+
+Traction: Advantage 
+Refrigeration: Water (6.1 liters) 
+Fuel: Super gasoline 
+Combustible capacity (liters): 75 
+Empty weight (kg): 1.081 
+Length (mm): 4.527 
+Width (mm): 1.708 
+Stop (mm): 1.395 
+Wheelbase (mm): 2.550 
+Front trail (mm): 1.414 
+Back trail (mm): 1.422 
+Brakes (D/T): Disc - Drum 
+Address: attended, pinion and rack 
+Front suspension: Indep, Mc helical Pherson, means 
+Back suspension: Integrated axis, helical means 
+Tires: 185/70/MR. 13" 
+Generator ELT: Alternator 12V 55A 
+Detail: Conditioned air, closes centralized, raises electrical crystals 
+
+Consumption Average (Km/l): 10,0 * 
+Acceleration 0 to 100&nbsp;km/h (s): 12,9 * 
+Terminal velocity (Km/h): 168 * *
+Motor 1,8  
+
+Consumption Average (Km/l): 11,2 * 
+Acceleration 0 to 100&nbsp;km/h (s): 12,4 * 
+Terminal velocity (Km/h): 171 *
+Motor 2,0
+
+===B2 in Brazil===
+The Second Generation Passat had its production started in Brazil in June, 1984 and was called Santana.
+
+The Santana was sold as a 4-door [[sedan (automobile)|saloon]] and 2-door saloon, later as a [[station wagon]], named Santana Quantum (or just Quantum) which was launched in July, 1985.
+
+The engine range consisted of two version of the 1.8&nbsp;[[litre]] [[Volkswagen EA827 engine]], running on ethanol or petrol.  In late 1987, to the 1988 model run, it gained the option of a 2.0&nbsp;litre engine (Petrol or Ethanol).  They were so called Santana 2000 and Quantum 2000. Transmissions included a 4-speed manual (for the first 2 years), 5-speed manual (first as an option, then turned standard in 1987), and to the top line CD (later called GLS) a 3-speed automatic.
+
+In 1991, [[Volkswagen do Brasil]] by the time it had a [[joint venture]] with Ford, called [[Autolatina|AutoLatina]], they've decided instead of building the newer third generation Passat (B3), to retain the Passat (B2) shaped saloon and wagon, and made structural changes to the entire body.  By changing the bodyshell, boot line, front and rear guards, it looked like the modern German designed Passat (B3) of the time.  Under terms with AutoLatina, this "new" Santana was also marketed as the [[Ford Versailles]] in Brazil and as the [[Ford Galaxy]] in Argentina.  Another model was the [[Ford Royale]].
+
+It received a small face-lift for 1994, and another one, more extensive, in 1998.  In 2002, the Quantum was out, and then, in June, 2006, after more than two decades, the Santana was retired from the range, after years of dropping sales.  An not so glamourous end to the car which have inaugurated the use of Anti-Lock Brakes (ABS) in Brazil, and sold 548,494 units in all those time.
+
+'''2006 Santana Comfortline 2.0L Specs'''
+*Engine: 2.0L 8v I4 (VW EA827/ AP-2000).
+*Transmission: 5-speed manual.
+*Driving Layout: Front engine, Front-wheel drive.
+*Power: {{convert|113|hp|abbr=on}} @ 5250 rpm.
+*Length: {{convert|4600|mm|in|1|abbr=on}}.
+*Width: {{convert|1700|mm|in|1|abbr=on}}.
+*Height: {{convert|1420|mm|in|1|abbr=on}}.
+*Wheelbase: {{convert|2550|mm|in|1|abbr=on}}.
+*Weight: {{convert|1160|kg|lb|0|abbr=on}}.
+*0–100&nbsp;km/h (0-62&nbsp;mph): 9,9 sec.
+*Top Speed: {{convert|191|km/h|mi/h|0|abbr=on}}.
+
+===Corsar (B2, México, 1984–1988)===
+[[Image:VW Corsar CD 1987 1.JPG|thumb|left|1987 Volkswagen Corsar CD for Mexican market.]]
+The '''Santana''' 4-door saloon (Quantum in the USA) was introduced in Mexico in February 1984 as the Corsar CD.  It was assembled in the Puebla plant with most German components.  The only engine available for the whole Corsar lineup was the 1.8&nbsp;[[litre]] {{convert|85|hp|abbr=on}} with carburetor.  For 1984 and 1985, the Corsar CD was only in one trim available.  It had 13” alloy wheels, 185/70 R 13 tires, velour upholstery (1984 was grey only, and from 1985 it was grey or blue), 4 headrests, AM/FM stereo cassette Radio with 4 speakers, tachometer, power steering.  It was sold with 4 speed [[manual transmission]] or 3 speed [[automatic transmission|automatic]].  The only option was air conditioning.  Colors for 1984 were: Mars Red, Alpine White, Jade Green Metallic, Cosmos Silver Metallic and Graphite Metallic.  For 1984 and 1985, the Corsar CD had the American Quantum GL looks.
+
+In the 1986 model year, the Corsar CD receives new colors, upholsteries, and the 1985 European Passat 4-door sedan looks.  A new 5 speed manual gearbox replaces the previous 4 speed one.  The Corsar also has new optional equipments such like power windows, power door locks, and black leather upholstery.  In March 1986 the station wagon body, known as the Corsar Variant (Quantum Wagon in the USA, Quantum in Brasil, and Passat Variant in Europe) was introduced sharing [[Car model#Trim levels|trim levels]] and engine/transmissions with the Corsar CD saloon.  In 1987, the alloy wheels became optional, and the series wheels were steel made with full covers.  The Corsar continued until 1988 mostly unchanged.  By mid 1988 appeared a limited edition with double tone painting (black and silver), black leather upholstery and top equipment available in both the Corsar CD and Corsar Variant.  The Corsar was discontinued from the Mexican market by the end of the 1988 model year, since production stopped in Germany (most parts came from Germany) and Volkswagen required its assembly lines to produce the A2 Golf/Jetta for USA and Canada exports.  The Corsar lineup is remembered in Mexico with excellent reputation.
+
+===B2 in China===
+The Santana (B2) has been built by [[Shanghai Volkswagen Automotive]] joint venture since 1985.
+
+Initially launched with a 1.6&nbsp;[[litre]] [[petrol engine]], it was updated with a 1.8&nbsp;litre petrol in 1987.  Both these were equipped with a 4-speed manual, in 1989 the Santana wagon was launched on the market.
+
+The Santana has had a number of updated features added since the original 1985 model.  Some updated features the Santana has been include with are [[Robert Bosch GmbH|Bosch]] electronic fuel injection system, a 5-speed manual, a third brake light, improved back seats, hydraulic clutch, MP3 and CD compatible radios, ABS brakes with electronic brake distribution.
+
+'''2007 Santana specifications'''
+*Engine - 1.8L
+*Engine Position - North South
+*Power - {{convert|70|kW|PS hp|0|abbr=on}} @ 5400 rpm
+*Torque - {{convert|145|Nm|lb·ft|abbr=on}} @ 3000 rpm
+*Length - {{convert|4546|mm|in|1|abbr=on}}
+*Width - {{convert|1710|mm|in|1|abbr=on}}
+*Height - {{convert|1427|mm|in|1|abbr=on}}
+*Wheelbase - {{convert|2548|mm|in|1|abbr=on}}
+*Unladen Weight - {{convert|1100|kg|lb|0|abbr=on}}
+*Top Speed - > {{convert|165|km/h|mi/h|0|abbr=on}}
+
+In 1991 the Santana 2000 was put into development for China with the aid of [[Volkswagen do Brasil]].
+[[Image:Volkwsagen Santana 2000 in Xi'an.JPG|thumb|right|Front view of a Santana 2000 Xian City]]
+
+Santana 2000 started mass production in 1995 with a longer wheelbase {{convert|2655|mm|in|1|abbr=on}} and rear doors than its Brazilian counterpart.
+
+'''1997 Santana 2000 specifications'''
+*Engine - 1.8L
+*Engine Position - North South
+*Power - {{convert|72|kW|PS hp|0|abbr=on}} @ 5400 rpm
+*Length - {{convert|4680|mm|in|1|abbr=on}}
+*Width - {{convert|1700|mm|in|1|abbr=on}}
+*Height - {{convert|1420|mm|in|1|abbr=on}}
+*Wheelbase - {{convert|2655|mm|in|1|abbr=on}}
+*Unladen Weight - {{convert|1120|kg|lb|0|abbr=on}}
+*Top Speed - {{convert|172|km/h|mi/h|0|abbr=on}}
+[[Image:Police Volkswagen {{convert|3000|in|mm|0|abbr=on}} Shangri-La.JPG|thumb|right|Rear view of a Santana 3000 Shangri-La Police Car]]
+
+In 2004, the Santana 3000 succeeded the Santana 2000.  It was the first design that the [[Shanghai Volkswagen Automotive]] joint venture designers had undertaken by themselves.  The Santana 3000 was also the first in the Chinese developed Santana series to be optioned with ABS brakes with electronic brake distribution, electronic differential system, a multi function display system, a sunroof designed by the German Webasto company.  The 2.0&nbsp;litre engine was added to the range in June 2006.
+
+'''2007 Santana 3000 1.8L specifications'''
+*Engine - 1.8L
+*Engine position - North South
+*Power - {{convert|74|kW|PS hp|0|abbr=on}} @ 5200 rpm
+*Torque - {{convert|155|Nm|lb·ft|abbr=on}} @ 3800 rpm
+*Length - {{convert|4687|mm|in|1|abbr=on}}
+*Width - {{convert|1700|mm|in|1|abbr=on}}
+*Height - {{convert|1450|mm|in|1|abbr=on}}
+*Wheelbase - {{convert|2656|mm|in|1|abbr=on}}
+*Unladen Weight - {{convert|1220|-|1248|kg|lb|0|abbr=on}}
+*Top Speed - {{convert|178|-|187|km/h|mi/h|0|abbr=on}}
+
+In 2008, [[Shanghai Volkswagen Automotive]] released the Santana Vista (Zhijun) and Santana Vista (Changda) (Taxi model) in January with front and rear visual updates and minor chassis updates.
+
+'''2008 Santana Vista 2.0 L Specifications'''
+*Engine - 2.0 L 
+*Engine position - North South
+*Power - {{convert|80|kW|PS hp|0|abbr=on}} @ 5000 rpm
+*Torque - {{convert|168|Nm|lb·ft|abbr=on}} @ 3800 rpm
+*Length - {{convert|4687|mm|in|1|abbr=on}}
+*Width - {{convert|1700|mm|in|1|abbr=on}}
+*Height - {{convert|1450|mm|in|1|abbr=on}}
+*Wheelbase - {{convert|2656|mm|in|1|abbr=on}}
+*Unladen Weight - {{convert|1228|-|1263|kg|lb|0|abbr=on}}
+*Top Speed - {{convert|185|-|192|km/h|mi/h|0|abbr=on}}
+
+Both the original German designed Santana, and the Santana Vista are still sold in China, and they are still the most popular vehicles in China with taxi & police fleets and private buyers.
+
+But the Shanghai Volkswagen Automotive has decided not to make them anymore from 2012.<ref>{{cite web|url=http://www.chinacartimes.com/2009/05/15/news-shocker-vw-to-kill-of-santana-production-in-2012/ |title=News Shocker: VW to kill of Santana production in 2012 |publisher=China Car Times |date=2009-05-15 |accessdate=2009-05-28}}</ref>
+
+===B2 in Japan===
+The Santana was also built in Japan under license by Nissan.  Outwardly it was all Volkswagen, however there were a few minor mechanicals (i.e. window wipers) that were Nissan.{{clr}}
+
+==Passat Mk3 (B3, 1988–94){{anchor|B3}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Passat Mk3 (B3)
+|image         = [[Image:Volkswagen Passat sedan B3.jpg|250px]]<br>''US-spec Passat saloon''
+|production    = 1988–1994
+|assembly      = [[Emden]], Germany<br>[[Bratislava]], Slovakia
+|class         = [[Large family car]]<br>[[Mid-size car]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br>5-door [[station wagon|estate/wagon]]
+|layout        = [[Front-engine design|Front engine]],<br>[[front-wheel drive]] or<br>[[four-wheel drive]]
+|platform      = [[Volkswagen Group B platform#B3|Volkswagen Group B3]]
+|engine        = '''''[[Petrol engine]]s:'''''<br>
+[[list of discontinued Volkswagen Group petrol engines#1.6 53kW|1.6 L I4 {{Convert|53|kW|PS bhp|0|abbr=on}}]]<br>
+[[list of discontinued Volkswagen Group petrol engines#1.8 55kW|1.8 L I4 {{convert|55|kW|PS bhp|0|abbr=on}}]]<br>
+[[list of discontinued Volkswagen Group petrol engines#1.8 66kW|1.8 L I4 {{convert|66|kW|PS bhp|0|abbr=on}}]]<br>
+[[list of discontinued Volkswagen Group petrol engines#G60|1.8 L I4 {{convert|118|kW|hp|0|abbr=on}} G60]]<br>
+[[list of Volkswagen Group petrol engines#2.0 85kW|2.0 L I4 {{convert|85|kW|PS bhp|0|abbr=on}}]]<br>
+[[list of discontinued Volkswagen Group petrol engines#2.0 16v|2.0 L I4 {{convert|100|kW|PS bhp|0|abbr=on}} 16v]]<br>
+[[list of Volkswagen Group petrol engines#2.8 VR6|2.8 L VR6 {{convert|128|kW|PS bhp|0|abbr=on}}]]<br>
+'''''[[Diesel engine]]s:'''''<br>
+[[list of discontinued Volkswagen Group diesel engines#1.6 TD 59kW|1.6 L I4 {{convert|59|kW|PS bhp|0|abbr=on}} TurboDiesel]]<br>
+[[list of discontinued Volkswagen Group diesel engines#1.9 50kW|1.9 L I4 {{convert|50|kW|PS bhp|0|abbr=on}}]]<br>
+[[list of discontinued Volkswagen Group diesel engines#1.9 TD 55kW|1.9 L I4 {{convert|55|kW|PS bhp|0|abbr=on}} TurboDiesel]]<br>
+|transmission  = 4-speed [[automatic transmission|automatic]]<br>5-speed [[manual transmission|manual]]
+|wheelbase     = {{auto in|103.3|0}}
+|length        = {{auto in|180|0}}
+|width         = {{auto in|67.1|0}}
+|height        = {{auto in|56.2|0}}
+|fuel_capacity = {{convert|70|l|impgal usgal|1|abbr=on|lk=on}}
+|sp            = uk
+}}
+[[Image:Vw passat b3 v sst.jpg|thumb|left|Europe-spec Passat CL Variant (estate/wagon)]]
+The third generation Passat was introduced in 1988 in Europe, 1990 in North America, and 1995 in South America.  Its curvy looks were a world away from the boxy appearance of its predecessor and owed much to the "jelly mould" style pioneered by [[Ford Motor Company|Ford]] with the [[Ford Sierra|Sierra]].  The lack of a grille made the car's front end styling reminiscent of older, rear-engined Volkswagens such as the [[Volkswagen Type 4|411]], and also doubled as a modern styling trend.
+
+At the time it was the first Passat to be built on a Volkswagen-designed platform, rather than sharing one with an Audi saloon.  The car, although designated [[Volkswagen Group B platform#B3|B3]] in Volkswagen's platform nomenclature, was based largely on the [[Volkswagen Group A platform|A platform]] as used for the smaller Golf model, but was stretched in all directions.  In fact, many components are shared directly between these vehicles.  Only 4-door saloon and 5-door estate versions were available, without the [[fastback]] option of previous models (though it was considered).  It was marketed under the Passat name in all markets; in North America, this was a first.
+
+The fuel injected [[petrol engine]]s gave better performance and refinement than the [[carburettor]] units previously used.  They were mounted [[transverse engine|transverse]]ly, and the floorpan was engineered to accept Volkswagen's '[[4motion|Syncro]]' [[four-wheel drive]] system.  Engine options were the 2.0&nbsp;[[litre]] [[multi-valve|16 valve]] engine in the GL model, 1.8&nbsp;litre engine in the CL model (not available in North America, all CLs, GLs, and GLSs had the 2.0 16v), Volkswagen's new 2.8&nbsp;litre [[VR6 engine]] (also used in the Golf and [[Volkswagen Corrado|Corrado]]) in the GLX/GLS model (introduced in 1991 in Europe and 1992 in North America), and the [[G60]] engine (only available on the Syncro model in Canada for the North American market).  The VR6 engine gave the top-of-the-range Passat a top speed of {{convert|224|km/h|0|lk=on}}.  The 1.9&nbsp;litre [[diesel engine]] was also available as an option.
+
+In Russia (where this generation of Passat was extremely popular at second-hand market from early 1990s), it had been affectionately known as "ski", because grille-less front looked like an upside-down cross-country ski or toboggan.{{clr}}
+
+==Passat Mk4 (B4, 1995–1997){{anchor|B4}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Passat Mk4 (B4)
+|image         = [[Image:Volkswagen Passat.jpg|250px]]<br>''Volkswagen Passat saloon''
+|production    = 1995–1997
+|assembly      = [[Emden]], Germany<br>[[Bratislava]], Slovakia<br>[[Brussels]], Belgium
+|class         = [[Large family car]] / [[Mid-size car]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br>5-door [[station wagon|estate/wagon]]
+|layout        = [[front-engine design|Front engine]],<br>[[front-wheel drive]] or<br>[[four-wheel drive]]
+|platform      = [[Volkswagen Group B platform#B4|Volkswagen Group B4]]
+|engine        = '''''[[Petrol engine]]s:'''''<br>1.6 [[litre|L]] [[inline-four engine|I4]]<br>1.8 L I4<br>2.0 L I4<br>2.0 L I4 [[multi-valve|16v]]<br>2.8 L [[VR6 engine|VR6]]<br>2.9 L VR6<br>
+'''''[[Diesel engine]]s:'''''<br>1.9 [[litre|L]] [[inline-four engine|I4]] [[turbodiesel|TD]]<br>1.9 L I4 [[Turbocharged Direct Injection|TDI]]
+|transmission  = 4-speed [[automatic transmission|automatic]]<br>5-speed [[manual transmission|manual]]
+|wheelbase     = {{auto in|103.3|0}}
+|length        = {{auto in|181.5|0}} (saloon)<br>{{auto in|181|0}} (estate)
+|width         = {{auto in|67.5|0}}
+|height        = {{auto in|56.4|0}} (saloon)<br>{{auto in|58.7|0}} (estate)
+|fuel_capacity = {{convert|70|L|impgal usgal|1|lk=on|abbr=on}}
+|sp             = uk
+}}
+Just like the original Mk3 Passat, every external body panel on the Mk4 Passat was new, except for the carried-over windows.  The most obvious exterior change was the re-introduction of a grille to match the style of the other same-generation Volkswagen models, such as the Mk3 Golf, whose styling theme did not follow on from the original Mk3 Passat.  The interior design was also updated and improved safety equipment including dual front [[airbag]]s and pyrotechnic seat belt pretensioner were added.
+
+The car was available with a [[Turbocharged Direct Injection]] (TDI) [[diesel engine]] - an inline four-cylinder 1.9&nbsp;[[litre]] [[turbodiesel]], generating {{convert|210|Nm|0|lk=on}} of [[torque]] at 1,900&nbsp;rpm, {{convert|66|kW|PS bhp|0|lk=on}} at 3,750&nbsp;rpm.  It carried a [[United States Environmental Protection Agency|U.S. EPA]] [[fuel efficiency]] rating for the sedan of {{convert|45|mpgus|L/100 km mpgimp}} highway.  Combined with a {{convert|70|L|impgal usgal|1|lk=on}} fuel tank, it had a 1300+ km (800+ mi) range on a single tank of fuel, nearly unheard of in the North American market.  The TDI version is in high demand today, and commands a high resale price in the U.S. due to its [[fuel economy in automobiles|fuel economy]] and ability to operate on locally produced [[biofuels]].  The B4 TDI wagon is even rarer, fewer than 1000 having been imported to the U.S. during its 1996 to 1997 lifespan.
+
+===B4 trim levels===
+[[Image:VW Passat B4 Variant rear 20080212.jpg|thumb|left|Volkswagen Passat Variant]]
+In Europe, L, CL, GL, GT and VR6 versions were available, although this could be combined, for instance it was possible to purchase a GL VR6.  Only three trim levels were available in the United States: GLS, GLX and TDI.  The GLX version carried Volkswagen's 2.8&nbsp;[[litre]] [[VR6 engine]].  The GLS had a 2.0&nbsp;litre 8-valve engine, while the TDI had the 1.9 [[turbodiesel|TurboDiesel]].
+
+Canadian versions of the Passat were similar to their European counterparts, unlike models sold in the U.S., due to a [[trade agreement]] that Canada had with Europe at the time, which allowed any car [[federalization|federalized]] in one participating country to legally be sold in any of the others.  However, Canada did not get the 1.8&nbsp;litre 4-cylinder petrol version, nor the 1.6&nbsp;litre TurboDiesel, both of which were on sale in Europe at the time.
+
+Versions sold in Mexico had a choice of 2.0&nbsp;litre 4-cylinder, or a 2.8&nbsp;litre VR6 petrol.  Trim levels were GL or GLX.  These versions were more expensive than the Volkswagen cars built in Mexico, due to the import [[tariff]]s, and the fact the Passat was built in Germany.
+
+===B4 engines===
+The following [[internal combustion engine]]s were available in the B4 Passat:
+{|class="wikitable" border="1" cellpadding="0"  style="text-align:center; font-size:91%;"
+|-
+!'''name'''!!'''engine ID<br>code(s)'''!!'''engine<br>type'''!!'''displacement'''!!'''max. power'''!!'''max. torque'''!!'''years'''
+|-
+|colspan="7"|<big>'''''[[Petrol engine]]s'''''</big>
+|-
+|'''1.6'''||AEK||[[inline-four engine|I4]] 8v<br>[[SOHC]]||1595&nbsp;cc||{{convert|74|kW|PS bhp|0|abbr=on}}||{{convert|135|Nm|lbft|abbr=on}}||1994&ndash;1995
+|-
+|'''1.6'''||AFT / AKS||I4 8v<br>SOHC||1595&nbsp;cc||{{convert|74|kW|PS bhp|0|abbr=on}}||{{convert|140|Nm|lbft|abbr=on}}||1995&ndash;1997
+|-
+|'''1.8'''||AAM / ANN||I4 8v<br>SOHC||1781&nbsp;cc||{{convert|55|kW|PS bhp|0|abbr=on}}||{{convert|140|Nm|lbft|abbr=on}}||1993&ndash;1997
+|-
+|'''1.8'''||ABS / ACC / ADZ / ANP||I4 8v<br>SOHC||1781&nbsp;cc||{{convert|66|kW|PS bhp|0|abbr=on}}||{{convert|145|Nm|lbft|abbr=on}}||1993&ndash;1997
+|-
+|'''2.0'''||2E / ADY / AGG / ABA||I4 8v<br>SOHC||1984&nbsp;cc||{{convert|85|kW|PS bhp|0|abbr=on}}||{{convert|166|Nm|lbft|abbr=on}}||1993&ndash;1997
+|-
+|'''2.0'''||ABF||I4 [[multi-valve|16v]]<br>[[DOHC]]||1984&nbsp;cc||{{convert|110|kW|PS bhp|0|abbr=on}}||{{convert|180|Nm|lbft|abbr=on}}||1993&ndash;1997
+|-
+|'''2.8&nbsp;VR6'''||AAA||[[VR6 engine|VR6]] 12v<br>DOHC||2792&nbsp;cc||{{convert|128|kW|PS bhp|0|abbr=on}}||{{convert|235|Nm|lbft|abbr=on}}||1993&ndash;1997
+|-
+|'''2.9&nbsp;VR6'''||ABV||VR6 12v<br>DOHC||2861&nbsp;cc||{{convert|140|kW|PS bhp|0|abbr=on}}||{{convert|245|Nm|lbft|abbr=on}}||1994&ndash;1997
+|-
+|colspan="7"|<big>'''''[[Diesel engine]]s'''''</big>
+|-
+|'''1.9&nbsp;[[Turbodiesel|TD]]||AAZ||I4 8v<br>SOHC||1896&nbsp;cc||{{convert|55|kW|PS bhp|0|abbr=on}}||{{convert|150|Nm|lbft|abbr=on}}||1993&ndash;1997
+|-
+|'''1.9&nbsp;[[Turbocharged Direct Injection|TDI]]||1Z / AHU||I4 8v<br>SOHC||1896&nbsp;cc||{{convert|66|kW|PS bhp|0|abbr=on}}||{{convert|202|Nm|lbft|abbr=on}}||1993&ndash;1997
+|-
+|'''1.9&nbsp;TDI'''||AFN||I4 8v<br>SOHC||1896&nbsp;cc||{{convert|81|kW|PS bhp|0|abbr=on}}||{{convert|235|Nm|lbft|abbr=on}}||1996&ndash;1997
+|}{{clr}}
+
+==Passat Mk5 (B5/B5.5, 1996–2005/present: SVW){{anchor|B5}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Passat Mk5 (B5)
+|image         = [[Image:98-01 Volkswagen Passat Wagon.jpg|250px]]
+|manufacturer  = [[Volkswagen|Volkswagen Passenger Cars]],<br>[[Shanghai Volkswagen Automotive]] (SVW), as Passat Lingyu
+|aka           = Volkswagen Passat Lingyu
+|production    = 1996–2000
+|assembly      = [[Emden]] & [[Zwickau|Mosel/Zwickau]], [[Germany]];<br>[[Bratislava]], [[Slovakia]]
+|class         = [[Large family car]] / [[Mid-size car]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br>5-door [[station wagon|estate/wagon]]
+|layout        = [[Front-engine design|Front engine]],<br>[[front-wheel drive]] or<br>[[four-wheel drive]]
+|platform      = [[Volkswagen Group B platform#B5|Volkswagen Group B5]]
+|engine        = '''''[[Petrol engine]]s:'''''<br>1.6&nbsp;[[litre|L]] [[inline-four engine|I4]] ''[[Volkswagen EA827 engine#70-102 hp 1.6|ADP/AHL/ARM]]''<br>1.8&nbsp;L I4 ''ADR/APT'' [[multi-valve|20v]]<br>1.8&nbsp;L I4 ''AEB/APU/ANB'' 20v [[turbocharger|Turbo]]<br>2.0&nbsp;L I4 ''AUZ''<br>2.3&nbsp;L [[VR6 engine|VR5]] ''[[list of discontinued Volkswagen Group petrol engines#2.3 VR5 110-125kW|AGZ]]''<br>2.8&nbsp;L [[V6 engine|V6]] ''[[list of Volkswagen Group petrol engines#2.8 V6 30v 142kW|ACK/APR]]'' 30v<br>
+'''''[[Diesel engine]]s:'''''<br>1.9&nbsp;L I4 ''[[list of Volkswagen Group diesel engines#1.9 TDI PD 55-110kW|AHU/AHH]]'' [[Turbocharged Direct Injection|TDI]]<br>1.9&nbsp;L I4 ''AVB'' TDI<br>1.9&nbsp;L I4 ''AFN/AVG'' TDI<br>1.9&nbsp;L I4 ''AJM/ATJ'' TDI<br>2.5&nbsp;L V6 ''[[list of Volkswagen Group diesel engines#2.5 V6 TDI 110-132kW|AFB]]'' TDI
+|transmission  = 5-speed [[manual transmission|manual]]<br>5-speed [[ZF 5HP19 transmission|5HP19]] [[automatic transmission|automatic]]
+|wheelbase     = 106.4 in (2703mm)
+|length        = 184.1 in (4676mm)(saloon)<br>183.8 in (4669mm)(estate)
+|width         = 68.5 in (1740mm)
+|height        = 57.4 in (1458mm)(saloon)<br>59 in (1499mm)(estate)
+|weight        = {{convert|1406|kg|0|abbr=on|lk=on}}
+|fuel_capacity = 
+|related       = [[Audi A4]]
+|sp            = uk
+}}
+[[Image:Passat4.jpg|thumb|left|B5 Volkswagen Passat saloon]]
+An all-new fifth-generation Passat, based on the [[Volkswagen Group B platform#B5|Volkswagen Group B5 platform]], was launched in 1996 in Europe, and 1998 in North America.  It was significant in that it shared a platform with the [[Audi A4]] (1995 onwards), using the classic longitudinally mounted engine with [[front-wheel drive]].  This design harked back to the first and second generation Passats, which were based on the [[Audi 80]] (the A4 is the supersession of the Audi 80 line).
+
+Styling-wise, the Passat introduced a new design language, first seen on the [[Volkswagen Concept 1|Concept 1]] concept car, for the latest generation of Volkswagens, and this was evident with the [[Volkswagen Golf Mk4|Mk4 Golf]], [[Volkswagen Bora|Bora]] and [[Volkswagen Polo Mk4|Polo Mk4]].  The curvy lines, heavily raked windscreens, and smooth underpinnings helped give the B5 Passat an very low coefficient of drag, rated at 0.27 (saloon model).
+
+The car featured fully-independent four-link front [[suspension (vehicle)|suspension]]; and at the rear - either a twist-torsion semi-independent beam axle, or fully-independent suspension on the [[4motion]] driveline.  [[Four-wheel drive]] was introduced in 1997 as an option for the 1.8, 2.8&nbsp;V6, 1.9&nbsp;TDI and 2.5&nbsp;V6&nbsp;TDI engines; using a second-generation [[Torsen]] T-2 based 4WD system, which considerably minimises loss of traction.  The 1.8&nbsp;[[litre]] [[petrol engine]] in the Passat and Audi A4 has a lower [[motor oil|oil]] capacity than transverse applications of the same engine (4.6 quarts in transverse, 4.3 quarts longitudinal), and may suffer from [[oil sludge]] problems as a result, if not changed at regular intervals with fully synthetic oils.  Two transmission options were available: a 5-speed manual transmission and a 5-speed automatic transmission with [[tiptronic]].
+
+====B5 awards====
+*1999 Used Car Buyer Greatest Used Buy Awards — Most Sensible Car Award Overall & Best Family Car 
+*1999 Auto Express New Car Honours — Best Family Car 
+*1998 What Car? Car of Cars — Best Medium Car 
+*1998 Which? Magazine Best Buy — Large family car market winner
+
+====B5 engines====
+The [[internal combustion engine]]s used are the same as for many other vehicles in the [[Volkswagen Group]].
+{|class="wikitable" border="1" cellpadding="0"  style="text-align: center; font-size: 88%;"
+|- style="background:#dcdcdc; text-align:center; vertical-align:middle;"
+! Short Descr
+! Config/ Cyls
+! Fuel
+! Displacement
+! Power <br />(Max Output)
+! Torque <br />(Max&nbsp;Output)
+! VW Engine Code
+! Accel 0–100&nbsp;km/h
+! Top Speed
+! Years
+! Market
+|-
+|align="left"|'''1.6 8v'''||[[inline-four engine|I4]]||[[petrol]]||{{convert|1595|cc|L cuin|abbr=on}}||{{convert|100|PS|kW hp|abbr=on}} @5300 rpm||{{convert|140|Nm|lbft|abbr=on}} @3800 rpm||ADP/ AHL/ ARM/ ANA||12.5 s||{{convert|192|km/h|mph|abbr=on}}||1996–2000||EU
+|-
+|align="left"|'''1.8 20v'''||I4||petrol||{{convert|1781|cc|L cuin|abbr=on}}||{{convert|125|PS|kW hp|abbr=on}} @5800 rpm||{{convert|168|Nm|lbft|abbr=on}} @3500 rpm||ADR/ APT/ AVV/ ARG||11.1 s||{{convert|206|km/h|mph|abbr=on}}||1996–2000||EU
+|-
+|align="left"|'''1.8 20v T'''||I4||petrol||{{convert|1781|cc|L cuin|abbr=on}}||{{convert|150|PS|kW hp|abbr=on}} @5700 rpm||{{convert|210|Nm|lbft|abbr=on}} @1750–4600 rpm||AEB/ APU/ ANB/ ATW/ AUG||8.9 s||{{convert|223|km/h|mph|abbr=on}}||1996–2000||EU/US
+|-
+|align="left"|'''1.8 20v T'''||I4||petrol||{{convert|1781|cc|L cuin|abbr=on}}||{{convert|170|PS|kW hp|abbr=on}} @5900 rpm||{{convert|225|Nm|lbft|abbr=on}} @1950–5000 rpm||AWM||8.0 s <br />(est)||{{convert|223|km/h|mph|abbr=on}}||2000–2005||EU
+|-
+|align="left"|'''2.0 8v'''||I4||petrol||{{convert|1984|cc|L cuin|abbr=on}}||{{convert|120|PS|kW hp|abbr=on}} @5600 rpm||{{convert|175|Nm|lbft|abbr=on}} @2600 rpm||AUZ/ ASU/ AVA||11.1 s||{{convert|203|km/h|mph|abbr=on}}||1999–2000||EU
+|-
+|align="left"|'''2.3 10v'''||[[VR6 engine|VR5]]||petrol||{{convert|2324|cc|L cuin|abbr=on}}||{{convert|150|PS|kW hp|abbr=on}} @6000 rpm||{{convert|205|Nm|lbft|abbr=on}} @3200 rpm||AGZ||8.9 s||{{convert|223|km/h|mph|abbr=on}}||1997–2000||EU
+|-
+|align="left"|'''2.8 30v'''||[[V6 engine|V6]]||petrol||{{convert|2771|cc|L cuin|abbr=on}}||{{convert|193|PS|kW hp|abbr=on}} @6000 rpm||{{convert|280|Nm|lbft|abbr=on}} @3200 rpm||ACK/ APR||7.7 s||{{convert|238|km/h|mph|abbr=on}}||1997–2000||EU/US
+|-
+|align="left"|'''1.9 8v TDI'''||I4||[[Diesel engine|diesel]]||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|90|PS|kW hp|abbr=on}} @4000 rpm||{{convert|210|Nm|lbft|abbr=on}} @1900 rpm||AHU/ AHH||13.5 s||{{convert|184|km/h|mph|abbr=on}}||1996–2000||EU
+|-
+|align="left"|'''1.9 8v TDI'''||I4||diesel||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|100|PS|kW hp|abbr=on}} @4000 rpm||{{convert|250|Nm|lbft|abbr=on}} @1900 rpm||AVB||12.4 s||{{convert|191|km/h|mph|abbr=on}}||2000||EU
+|-
+|align="left"|'''1.9 8v TDI'''||I4||diesel||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|110|PS|kW hp|abbr=on}} @4150 rpm||{{convert|235|Nm|lbft|abbr=on}} @1900 rpm||AFN/ AVG||11.5 s||{{convert|196|km/h|mph|abbr=on}}||1996–2000||EU
+|-
+|align="left"|'''1.9 8v TDI'''||I4||diesel||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|115|PS|kW hp|abbr=on}} @4000 rpm||{{convert|285|Nm|lbft|abbr=on}} @1900 rpm||AJM||10.8 s||{{convert|200|km/h|mph|abbr=on}}||1998–2000||EU
+|-
+|align="left"|'''1.9 8v TDI'''||I4||diesel||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|115|PS|kW hp|abbr=on}} @4000 rpm||{{convert|310|Nm|lbft|abbr=on}} @1900 rpm||ATJ||10.8 s||{{convert|200|km/h|mph|abbr=on}}||1998–2000||EU
+|-
+|align="left"|'''2.5 24v TDI'''||[[V6 engine|V6]]||diesel||{{convert|2496|cc|L cuin|abbr=on}}||{{convert|150|PS|kW hp|abbr=on}} @4000 rpm||{{convert|310|Nm|lbft|abbr=on}} @1500–3200 rpm||AFB/ AKN||9.4 s||{{convert|220|km/h|mph|abbr=on}}||1998–2000||EU
+|}
+
+===Mid-2001 facelift (B5.5){{anchor|B5.5}}===
+{{Infobox Automobile generation
+|name          = Volkswagen Passat B5.5 (facelift)
+|image         = [[Image:Volkswagen Passat B5 front 20070323.jpg|250px]]
+|manufacturer  = [[Volkswagen|Volkswagen Passenger Cars]],<br>[[Shanghai Volkswagen Automotive]] (SVW), as Passat Lingyu
+|aka           = Volkswagen Passat Lingyu
+|production    = 2001-2005
+|assembly      = [[Emden]] & [[Zwickau|Mosel/Zwickau]], [[Germany]];<br>[[Slovakia]]
+|class         = [[Large family car]] / [[Mid-size car]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br>5-door [[station wagon|estate/wagon]]
+|layout        = [[Front-engine design|Front engine]],<br>[[front-wheel drive]] or<br>[[four-wheel drive]]
+|platform      = [[Volkswagen Group B platform#B5|Volkswagen Group B5]]
+|engine        = '''''[[Petrol engine]]s:'''''<br>1.6 [[litre|L]] [[inline-four engine|I4]] ''[[Volkswagen EA827 engine#70-102 hp 1.6|ALZ]]''<br>1.8 L I4 ''AWT'' [[turbocharger|Turbo]]<br>2.0 L I4 ''[[list of Volkswagen Group petrol engines#115 hp 2.0|AZM]]''<br>2.0 L I4 ''[[list of Volkswagen Group petrol engines#2.0 20v|ALT]]'' [[multi-valve|20v]]<br>2.3 L [[VR6 engine|VR5]] ''[[list of discontinued Volkswagen Group petrol engines#2.3 VR5|AZX]]'' 20v<br>2.8 L [[V6 engine|V6]] ''[[list of Volkswagen Group petrol engines#194 hp 2.8 V6|AMX]]'' 30v<br>4.0 L [[W8 engine|W8]] ''[[list of Volkswagen Group petrol engines#4.0L W8|BDN]]'' 32v<br>
+'''''[[Diesel engine]]s:'''''<br>1.9 L I4 ''[[list of Volkswagen Group diesel engines#90-160 hp 1.9 TDI|AVB]]'' [[Turbocharged Direct Injection|TDI]]<br>1.9 L I4 ''[[list of Volkswagen Group diesel engines#90-160 hp 1.9 TDI|AWX/AVF]]'' TDI<br>2.0 L I4 ''[[list of Volkswagen Group diesel engines#134-170 hp 2.0 TDI|BGW]]'' TDI [[diesel particulate filter|DPF]]<br>2.5 L V6 ''[[list of Volkswagen Group diesel engines#2.5 V6 TDI|AKN]]'' TDI<br>2.5 L V6 ''[[list of Volkswagen Group diesel engines#2.5 V6 TDI|BDG]]'' TDI<br>2.5 L V6 ''[[list of Volkswagen Group diesel engines#2.5 V6 TDI|BDH/BAU]]'' TDI
+|transmission  = 5-speed [[manual transmission|manual]]<br>6-speed manual<br>5-speed [[ZF 5HP19 transmission|5HP19]] [[tiptronic]] [[automatic transmission|automatic]]
+|wheelbase     = {{auto in|106.4|0}}
+|length        = {{auto in|185.2|0}} (saloon)<br>{{auto in|184.3|0}} (estate)
+|width         = {{auto in|68.7|0}}
+|height        = {{auto in|57.5|0}}-{{auto in|57.6|0}} (saloon)<br>{{auto in|58.6|0}}-{{auto in|58.9|0}} (estate)<br>{{auto in|59.0|0}} (VR6 estate)
+|fuel_capacity = 
+|related       = [[Audi A4]]<br>[[Škoda Superb]]
+|sp            = uk
+}}
+[[Image:VW Passat Variant Typ B5GP Pic03.jpg|thumb|left|2004 Volkswagen Passat Variant]]
+'''B5.5''' Passat models built after mid-2001,  also known as B5.5 models, received minor styling and mechanical revisions including revised [[headlights#projector optics|projector-optic headlights]], bumpers, tail lights, and chrome trim.
+
+A 4.0&nbsp;[[litre]] [[W8 engine]] producing {{convert|275|PS|kW|0|abbr=on|lk=on}} was introduced in 2002 in a [[Luxury Vehicle|luxury]] version of the car that included standard [[4motion]] [[four-wheel drive]].  This engine was intended to be a test bed for Volkswagen Group's new [[W engine]] technology, which would later make an appearance on the W12 in the Phaeton and [[Audi A8]], and the [[W16 engine]] in the [[Bugatti Veyron]].  The engine was discontinued in 2004.
+
+In 2004, a powerful 2.0&nbsp;litre [[Turbocharged Direct Injection]] (TDI) [[diesel engine]] producing {{convert|136|PS|kW|0|abbr=on}} was added (making the Passat the only mid-sized diesel powered car sold in the U.S.).  This variant, sold from 2004-2005, is relatively rare on the U.S. used market, and examples in good condition command high resale prices for their fuel economy and ability to operate on increasingly inexpensive biofuels.
+
+A long-[[wheelbase]] version was introduced in [[China]] in late 1999 by Shanghai-Volkswagen.  This lengthened platform went on to underpin the [[Škoda Superb]].  Both have a {{convert|100|mm|1|lk=on}} longer wheelbase and length than the standard B5 Passat.  An updated version called the Passat Lingyu was released in 2005, which has the 2.0&nbsp;litre, 1.8&nbsp;litre Turbo, and 2.8&nbsp;litre V6 [[petrol engine]]s.
+
+====B5.5 trim levels====
+In the [[United Kingdom]], trim levels were E, S, Sport, SE, V5 and V6.  The E trim level had a 1.6&nbsp;litre {{convert|105|PS|kW|0|abbr=on|lk=on}} engine only.  The S trim level was considered well-equipped by the motoring press at the time, and [[What Car?]] magazine recommended the 1.8&nbsp;S as the best version in 1999.  SE models had the same engines as the S version, but were better equipped.  The V5 models had a 2.3&nbsp;[[VR6 engine|V5 engine]], the V6 was available with a 2.8&nbsp;V6, or {{convert|180|PS|kW|0|abbr=on}} 2.5&nbsp;TDI, and was also well-equipped.
+
+Models sold in Europe and the [[Republic of Ireland]] were similar apart from the trim level naming schemes; the trim levels were Volkswagen's "lifestyle" naming scheme, which were Comfortline, Trendline, and Highline.  A base model was available too, this was spartan equipped and sold to the [[fleet vehicles|fleet]] market as well as private buyers.
+
+Models sold in the U.S. had the 1.8&nbsp;litre 20-valve turbo engine, 2.0&nbsp;TDI, the 2.8&nbsp;V6, or 4.0&nbsp;W8; trim levels were GL (2003 onward), GLS, GLX, and W8 (2002 to 2004).  The W8 was only available with the [[4motion]] [[four-wheel-drive]] system and a slightly higher trim than the GLX models.  The [[V6 engine]] had 4motion as an option, as did the 1.8&nbsp;T starting in the 2004 model year.  The GLX trim was only sold with the V6.
+
+Versions sold in [[Mexico]] are the same as their European equivalents.
+
+====B5.5 engines====
+The [[internal combustion engine]]s used are the same as for many other vehicles in the [[Volkswagen Group]].
+{|class="wikitable" border="1" cellpadding="0"  style="text-align: center; font-size: 88%;"
+|- style="background:#dcdcdc; text-align:center; vertical-align:middle;"
+! Short Descr
+! Config/ Cyls
+! Fuel
+! Displacement
+! Power <br />(Max Output)
+! Torque <br />(Max&nbsp;Output)
+! VW Engine Code
+! Accel 0–100&nbsp;km/h
+! Top Speed
+! Years
+|-
+|align="left"|'''1.6 8v'''||[[inline-four engine|I4]]||[[petrol]]||{{convert|1595|cc|L cuin|abbr=on}}||{{convert|102|PS|kW hp|abbr=on}} @5600 rpm||{{convert|148|Nm|lbft|abbr=on}} @3800 rpm||ALZ||12.7 s||{{convert|198|km/h|mph|abbr=on}}||2000–2005
+|-
+|align="left"|'''1.8 20vT'''||I4||petrol||{{convert|1781|cc|L cuin|abbr=on}}||{{convert|170|PS|kW hp|abbr=on}} @5700 rpm||{{convert|210|Nm|lbft|abbr=on}} @1750–4600 rpm||AWT||6.2 s||{{convert|300|km/h|mph|abbr=on}}||2000–2005
+|-
+|align="left"|'''2.0 8v'''||I4||petrol||{{convert|1984|cc|L cuin|abbr=on}}||{{convert|115|PS|kW hp|abbr=on}} @5400 rpm||{{convert|172|Nm|lbft|abbr=on}} @3500 rpm||AZM||11.2 s||{{convert|200|km/h|mph|abbr=on}}||2000–2005
+|-
+|align="left"|'''2.0 20v'''||I4||petrol||{{convert|1984|cc|L cuin|abbr=on}}||{{convert|130|PS|kW hp|abbr=on}} @5700 rpm||{{convert|195|Nm|lbft|abbr=on}} @3300 rpm||ALT||9.9 s||{{convert|210|km/h|mph|abbr=on}}||2001–2005
+|-
+|align="left"|'''2.3 20v'''||[[VR6 engine|VR5]]||petrol||{{convert|2324|cc|L cuin|abbr=on}}||{{convert|170|PS|kW hp|abbr=on}} @6200 rpm||{{convert|220|Nm|lbft|abbr=on}} @3200 rpm||AZX||9.1 s||{{convert|228|km/h|mph|abbr=on}}||2000–2003
+|-
+|align="left"|'''2.8 30v'''||[[V6 engine|V6]]||petrol||{{convert|2771|cc|L cuin|abbr=on}}||{{convert|193|PS|kW hp|abbr=on}} @6000 rpm||{{convert|280|Nm|lbft|abbr=on}} @3200 rpm||AMX||7.8 s||{{convert|238|km/h|mph|abbr=on}}||2000–2005
+|-
+|align="left"|'''4.0 32v'''||[[W8 engine|W8]]||petrol||{{convert|3999|cc|L cuin|abbr=on}}||{{convert|275|PS|kW hp|abbr=on}} @6000 rpm||{{convert|370|Nm|lbft|abbr=on}} @2750 rpm||BDN||6.5 s||{{convert|250|km/h|mph|abbr=on}}||2001–2004
+|-
+|align="left"|'''1.9 8v TD<span style="color:red;">I</span>'''||[[inline-four engine|I4]]||[[Diesel engine|diesel]]||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|100|PS|kW hp|abbr=on}} @4000 rpm||{{convert|250|Nm|lbft|abbr=on}} @1900 rpm||AVB||12.4 s||{{convert|191|km/h|mph|abbr=on}}||2000–2005
+|-
+|align="left"|'''1.9 8v T<span style="color:red;">DI</span>'''||I4||diesel||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|130|PS|kW hp|abbr=on}} @4000 rpm||{{convert|285|Nm|lbft|abbr=on}} @1750–2500 rpm||AWX||9.9 s||{{convert|208|km/h|mph|abbr=on}}||2000–2005
+|-
+|align="left"|'''1.9 8v T<span style="color:red;">DI</span>'''||I4||diesel||{{convert|1896|cc|L cuin|abbr=on}}||{{convert|130|PS|kW hp|abbr=on}} @4000 rpm||{{convert|310|Nm|lbft|abbr=on}} @1900 rpm||AVF||9.9 s||{{convert|208|km/h|mph|abbr=on}}||2000–2005
+|-
+|align="left"|'''2.0 8v T<span style="color:red;">DI</span>'''||I4||diesel||{{convert|1968|cc|L cuin|abbr=on}}||{{convert|136|PS|kW hp|abbr=on}} @4000 rpm||{{convert|335|Nm|lbft|abbr=on}} @1900 rpm||BGW||&nbsp;||{{convert|211|km/h|mph|abbr=on}}||2003–2005
+|-
+|align="left"|'''2.5 24v T<span style="color:red;">DI</span>'''||[[V6 engine|V6]]||diesel||{{convert|2496|cc|L cuin|abbr=on}}||{{convert|150|PS|kW hp|abbr=on}} @4000 rpm||{{convert|310|Nm|lbft|abbr=on}} @1500–3200 rpm||AKN||9.6 s||{{convert|220|km/h|mph|abbr=on}}||2000–2003
+|-
+|align="left"|'''2.5 24v T<span style="color:red;">DI</span>'''||V6||diesel||{{convert|2496|cc|L cuin|abbr=on}}||{{convert|163|PS|kW hp|abbr=on}} @4000 rpm||{{convert|350|Nm|lbft|abbr=on}} @1500 rpm||BDG||9.1 s||{{convert|225|km/h|mph|abbr=on}}||2003–2005
+|-
+|align="left"|'''2.5 24V <span style="color:red;">TDI</span>'''||V6||diesel||{{convert|2496|cc|L cuin|abbr=on}}||{{convert|180|PS|kW hp|abbr=on}} @4000 rpm||{{convert|370|Nm|lbft|abbr=on}} @1500 rpm||BDH/ BAU||8.7 s||{{convert|226|km/h|mph|abbr=on}}||2002–2005
+|}
+
+====B5.5 awards====
+*2001 Auto Express Used Car Honours 2001 - Best Family Used Car 
+*2001 Diesel Car 2001 Awards - Overall Diesel Car of the Year & Best Family Car 
+*2000 Used Car Buyer: Used the Year - Overall winner & Best Family Car 
+*2000 Auto Express Used Car Honours - Best Family Car 
+*2000 Auto Express New Car Honours - Best Family Car 
+*2000 Fleet World Honours - Best Fleet Car{{clr}}
+
+==Passat Mk6 (B6 PQ46, 2005–present){{anchors|B6|PQ46}}==
+{{Infobox Automobile generation
+|name          = Volkswagen Passat Mk6 (B6 PQ46)
+|image         = [[Image:Volkswagen Passat B6-1.jpg|250px]]
+|manufacturer  = [[Volkswagen|Volkswagen Passenger Cars]],<br>[[FAW-Volkswagen]] (FAW-VW) as Magotan
+|aka           = Volkswagen Magotan
+|production    = 2005-present
+|assembly      = [[Emden]], [[Germany]] <br> [[Zwickau|Mosel/Zwickau]], Germany <br> [[Aurangabad, Maharashtra|Aurangabad]], [[India]] (CKD) [http://www.dnaindia.com/money/report_foreign-carmakers-spur-sourcing-hub_1246891]
+|class         = [[Large family car]] / [[Mid-size car]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br>5-door [[station wagon|estate/wagon]]<br>4-door [[coupé]] ([[Volkswagen Passat CC|Passat CC]])
+|layout        = [[Front-engine design|Front engine]],<br>[[front-wheel drive]] or<br>[[4motion]] [[four-wheel drive]]
+|platform      = [[Volkswagen Group A platform#A5 (PQ35)|Volkswagen Group A5 PQ46]]
+|engine        = '''''[[Petrol engine]]s:'''''<br>
+1.4 [[litre|L]] [[inline-four engine|I4]] [[turbocharger|T]][[gasoline direct injection|FSI]]<br>
+1.6 L I4<br>
+1.6 L I4 FSI<br>
+1.8 L I4 TSI<br>
+2.0 L I4 FSI<br>
+2.0 L I4 TSI<br>
+3.2 L [[VR6 engine|VR6]] FSI<br>
+3.6 L VR6 FSI;<br>
+'''''[[Diesel engine]]s:'''''<br>
+1.9 L I4 [[Turbocharged Direct Injection|TDI]]<br>
+2.0 L I4 TDI;<br>
+'''''[[compressed natural gas|CNG]]/petrol bivalent:'''''<br>
+1.4 L I4 TSI EcoFuel CNG {{convert|122|PS|kW hp|0|abbr=on}}(planned/unveiled 12/2007)<br>
+|transmission  = 5-speed [[manual transmission|manual]],<br>6-speed manual,<br>6-speed [[Direct-Shift Gearbox|DSG]] [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2709|mm|in|2|abbr=on}}
+|length        = saloon: {{convert|4765|mm|in|1|abbr=on}},<br>estate: {{convert|4774|mm|in|1|abbr=on}}
+|width         = {{convert|1820|mm|in|1|abbr=on}}
+|height        = saloon: {{convert|1472|mm|in|1|abbr=on}},<br>estate: {{convert|1517|mm|in|1|abbr=on}}
+|fuel_capacity = 
+|related       = [[Audi A3]]<br>[[SEAT Leon]]<br>[[SEAT Toledo]]<br>[[SEAT Altea]]<br>[[Skoda Octavia]]<br>[[Volkswagen Golf Mk5|VW Golf Mk5]],<br>[[Volkswagen Passat CC|VW Passat CC]]
+|designer      = [[Robert Lešnik]]<ref>[http://www.avtoin.com/news.php?id=2131 Avto in | slovenska avtomobilistična spletna revija<!-- Bot generated title -->]</ref>
+|sp            = uk
+}}
+[[Image:Volkswagen Passat 2.0T wagon.jpg|thumb|left|B6 Passat 2.0 T estate (US)]]
+The latest B6 Passat was first displayed at the [[Geneva Motor Show]] in March 2005, and launched in Europe in the summer of 2005.  The Mk6 Passat (the PQ46 platform) is now based upon the platform from the Golf Mk5.  Confusingly, this model is sometimes referred to as the "B6" (or "3C") Passat, despite its lack of commonality with the "B6" (''Typ'' 8E) Audi A4.  This has happened previously in the Passat's history, with the B3 and B4, which bore no relation to the same-named platforms from Audi.
+
+Styling-wise, the car follows the latest design language first introduced on the [[Volkswagen Phaeton]] luxury car, and is something of a departure from the styling of the B5.5 Passat.  Although the new design is somewhat controversial, sales have improved over the old model.  On the [[four-wheel drive]] version, called [[4motion]], the transverse-engine platform dictated a switch from the [[Torsen]] centre differential of the B5, to the [[Haldex Traction]] [[multi-plate clutch]].  The change to the Haldex system also changes the handling closer to a [[front-wheel drive]] car, with better [[fuel economy in automobiles|fuel economy]] claimed.  The Haldex can direct [[torque]] more unequally to the front wheels (from 100:0 to 50:50 front-to-rear bias), compared to the Torsen, which was had a wider bias ranging from 75:25 to 25:75 in the B5 Passat.  Haldex is a reactive type system, behaving as a front-wheel-drive vehicle until slippage is detected, at which point up to a maximum of 50% of the torque can be transmitted to the rear axle.  See the [[Audi]]-related [[quattro (four wheel drive system)]] article for more information.
+
+[[gasoline direct injection|Fuel Stratified Injection]] is used in nearly every [[petrol engine]]d version of the Passat, ranging from 1.6 to 3.2&nbsp;[[litre]]s (the 1.6&nbsp;litre [[DOHC]] can reach {{convert|100|km/h|mph|1|abbr=on}} in 11.5 seconds, and {{convert|200|km/h|mph|1|abbr=on}} for manual transmission versions), but the [[multi-valve]] 2.0&nbsp;litre [[Turbocharged Direct Injection]] (TDI) is the most sought after version in Europe (available in both {{convert|140|PS|kW hp|0|abbr=on}} and {{convert|170|PS|kW hp|0|abbr=on}} variants).  In the US market, it features a {{convert|200|PS|kW hp|0|abbr=on}} 2.0&nbsp;litre turbocharged I4 as the base engine, or a {{convert|280|PS|kW hp|0|abbr=on}} 3.6&nbsp;litre [[VR6 engine]] as the upgrade, with six-speed manual (only available on the base 2.0&nbsp;T model) and automatic transmissions. As of the 2009 model year, the VR6 engine and 4motion option were no longer available on the Passat sedan and wagon, but are available on the [[Volkswagen Passat CC|Passat CC.]]<ref>{{cite web|url=http://www.edmunds.com/insideline/do/Features/articleId=132949/ |title=What's New for Every 2009 Volkswagen Car, Truck, Crossover and SUV |publisher=Edmunds.com |date=2008-10-03 |accessdate=2009-10-18}}</ref>
+
+In February 2008, the 2.0&nbsp;FSI was replaced with the new [[Audi]]-developed 1.8&nbsp;TSI engine and 6-speed automatic transmission.  The 1.8&nbsp;T is rated at {{convert|160|PS|kW hp|0|abbr=on}}, {{convert|250|Nm|0|lk=on}} and reaches 0–100&nbsp;km/h in 8.6 seconds, reaching a top speed of {{convert|220|km/h|1|lk=on}}.  This engine is part of the wider Volkswagen Group policy for engine sharing.
+
+The Passat Estate has just{{when|date=August 2009}} won overall winner of Practical Caravans ''Towcar of the Year Awards 2008'' for it array of towing features such as its [[Trailer Stability Programme]].
+
+At the Beijing International Automobile Exhibition, [[Volkswagen Group China]] subsidiary [[FAW-Volkswagen]] (FAW-VW) released the PQ46 Passat as the '''Magotan''', due to related subsidy [[Shanghai Volkswagen Automotive]] (SVW) still using the Passat name for its Passat Lingyu (LWB Mk5 Passat).
+
+===Passat R36{{anchor|R36}}===
+[[File:Blue Passat R36 Wagon Adelaide.jpg‎|thumb|left|Passat R36 Variant at the 2008 Adelaide Motor Show]]
+At the [[Frankfurt Motor Show]] in September 2007, Volkswagen launched the 'R line' R36, created by [[quattro GmbH|Volkswagen Individual GmbH]].
+
+The R36 uses a 3.6&nbsp;[[litre]] [[VR6 engine]], retuned to produce {{convert|300|PS|kW bhp|0|abbr=on|lk=on}}, and {{convert|350|Nm|0|lk=on}} of torque, which Volkswagen claim pushes the saloon and Variant (estate/wagon) to {{convert|100|km/h|mph|1|abbr=on}} in 5.6 and 5.8 seconds respectively.
+
+The R36 has many distinguishing features over the other Passat siblings, such as a redesigned front and rear spoilers, 18" Omanyt aluminium alloy wheels, {{convert|20|mm|1|abbr=on}} lower suspension, 'R' engraved stainless steel pedals, 'R' imprinted sport leather seats, Bi-Xenon headlights, and twin rear muffler tailpipes.
+
+In July 2008, Volkswagen launched the R36 version in the [[Middle East]] <ref name=tradearabia>[http://www.tradearabia.com/NEWS/MTR_146123.html Trade Arabia: Passat R36 arrives in Mideast]</ref>.
+
+===Passat CC{{anchor|CC}}===
+{{main|Volkswagen Passat CC}}
+The CC ("Comfort Coupé")<ref>[http://www.volkswagen.de/vwcms_publish/vwcms/master_public/virtualmaster/de3/modelle/passat_cc.html?csref=home-teaser-links-passat_cc,Show Passat CC > Modelle > Volkswagen Deutschland<!-- Bot generated title -->]</ref> is a 4-door "coupé" version of the Passat.  It debuted at the 2008 [[North American International Auto Show]] in [[Detroit]]. Originally aimed at competing with the similarly styled Mercedes CLS, the Passat CC intends to be more stylish and luxurious than the previously released Passat B6. Some options specific to the CC include hands-free parking, lane-departure prevention, intelligent cruise control, and adaptive suspension. Engines offered in the CC mirror those of the regular Passat, with options of the base 2.0 liter turbocharged four-cylinder, or the optional 3.6 liter V-6, which includes 4-motion all wheel drive. Although the CC is marketed as a more luxurious Passat B6, it comes in with a lower price tag. While MSRP on a Passat B6 is $28,300, the CC comes with a base price of $27,100.
+
+===B6 engines===
+====Petrol engines====
+The following [[petrol engine]]s are available:
+{|class="wikitable" border="1" cellpadding="0"  style="text-align: center; font-size: 90%;"
+|- style="background:#dcdcdc; text-align:center; vertical-align:middle;" 
+! Short Descr
+! VW Engine Code
+! Engine Type
+! Displacement
+! Power <br />(Max Output)
+! Torque <br />(Max Output)
+! Years
+|- style="background:white;"
+|'''1.4 TSI'''||CAXA||[[straight-4|I4]] [[DOHC]] [[Multi-valve|16V]], [[Gasoline direct injection|Fuel Stratified Injection]] (FSI) and [[turbocharger]]||1390&nbsp;cc||{{convert|122|PS|kW hp|abbr=on}}||{{convert|200|Nm|lbft|abbr=on}}||2007-
+|- style="background:white;"
+|'''1.6'''||BSE; BSF||I4 [[SOHC]] 8V, multipoint sequential fuel injection||1595&nbsp;cc||{{convert|102|PS|kW hp|abbr=on}}||{{convert|148|Nm|lbft|abbr=on}}||2005-
+|- style="background:white;"
+|'''1.6 FSI'''||BLF; BLP||I4 DOHC 16V, Fuel Stratified Injection||1598&nbsp;cc||{{convert|115|PS|kW hp|abbr=on}}||{{convert|155|Nm|lbft|abbr=on}}||2005-2007
+|- style="background:white;"
+|'''1.8 TSI'''||BZB||I4 DOHC 16V, Fuel Stratified Injection and turbocharger||1798&nbsp;cc||{{convert|160|PS|kW hp|abbr=on}}||{{convert|250|Nm|lbft|abbr=on}}||2007-
+|- style="background:white;"
+|'''2.0 FSI'''||BLR; BVX; BVY||I4 DOHC 16V, Fuel Stratified Injection||1984&nbsp;cc||{{convert|150|PS|kW hp|abbr=on}}||{{convert|200|Nm|lbft|abbr=on}}||2005-2007
+|- style="background:white;"
+|'''2.0 TFSI'''||AXX; BWA; CAWB; BPY||I4 DOHC 16V, Fuel Stratified Injection and turbocharger||1984&nbsp;cc||{{convert|200|PS|kW hp|abbr=on}}||{{convert|280|Nm|lbft|abbr=on}}||2006-
+|- style="background:white;"
+|'''2.0 TSI'''||AXX; BWA; CAWB; CCTA||I4 DOHC 16V, Fuel Stratified Injection and turbocharger||1984&nbsp;cc||{{convert|200|PS|kW hp|abbr=on}}||{{convert|280|Nm|lbft|abbr=on}}||2008-
+|- style="background:white;"
+|'''3.2 FSI'''||AXZ||[[VR6 engine|VR6]] DOHC 24V, Fuel Stratified Injection||3189&nbsp;cc||{{convert|250|PS|kW hp|abbr=on}}||{{convert|330|Nm|lbft|abbr=on}}||2006-
+|- style="background:white;"
+|'''3.6 FSI'''||BWS; BLV||VR6 DOHC 24V, Fuel Stratified Injection||3597&nbsp;cc||{{convert|300|PS|kW hp|abbr=on}}||{{convert|350|Nm|lbft|abbr=on}}||2006-
+|}
+
+====Diesel engines====
+The following [[diesel engine]]s are available:
+{|class="wikitable" border="1" cellpadding="0"  style="text-align: center; font-size: 90%;"
+|- style="background:#dcdcdc; text-align:center; vertical-align:middle;" 
+! Short Descr
+! VW Engine Code
+! Engine Type
+! Displacement
+! Power <br />(Max Output)
+! Torque <br />(Max Output)
+! Years
+|- style="background:white;"
+|'''1.9 TDI'''||BKC/BXE/BLS||[[straight-4|I4]] [[SOHC]] 8V, [[Unit Injector|Pumpe Düse]] (PD) injectors; optional [[diesel particulate filter]] (DPF)||1896&nbsp;cc||{{convert|105|PS|kW hp|abbr=on}}||{{convert|250|Nm|lbft|abbr=on}}||2005-
+|- style="background:white;"
+|'''2.0 TDI'''||BKP||I4 [[DOHC]] [[Multi-valve|16V]], Pumpe Düse injectors||1968&nbsp;cc||{{convert|140|PS|kW hp|abbr=on}}||{{convert|320|Nm|lbft|abbr=on}}||2005-2008
+|- style="background:white;"
+|'''2.0 TDI DPF'''||BMP||I4 DOHC 16V, Pumpe Düse injectors, diesel particulate filter||1968&nbsp;cc||{{convert|140|PS|kW hp|abbr=on}}||{{convert|320|Nm|lbft|abbr=on}}||2005-2008
+|- style="background:white;"
+|'''2.0 TDI DPF'''||CBAB||I4 DOHC 16V, piezoelectric [[common rail]] injection, diesel particulate filter||1968&nbsp;cc||{{convert|140|PS|kW hp|abbr=on}}||{{convert|320|Nm|lbft|abbr=on}}||2008-
+|- style="background:white;"
+|'''2.0 TDI DPF'''||BMR||I4 DOHC 16V, [[piezoelectricity|piezoelectric]] Pumpe Düse injectors, diesel particulate filter||1968&nbsp;cc||{{convert|170|PS|kW hp|abbr=on}}||{{convert|350|Nm|lbft|abbr=on}}||2006-2008
+|- style="background:white;"
+|'''2.0 TDI DPF'''||CBBB||I4 DOHC 16V, piezoelectric [[common rail]] injection, diesel particulate filter||1968&nbsp;cc||{{convert|170|PS|kW hp|abbr=on}}||{{convert|350|Nm|lbft|abbr=on}}||2008-
+|}{{clr}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/models/passat.html Passat official website]
+*{{dmoz|/Recreation/Autos/Makes_and_Models/Volkswagen/Passat/|VW Passat}}
+*[http://www.ukpassats.co.uk Uk Passat Owners Club]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1950-1979}}
+{{Volkswagen (North America) timeline 1950-1979}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+{{Volkswagen (South America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Passat]]
+[[Category:Euro NCAP large family cars]]
+[[Category:Mid-size cars]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 1973]]
+[[Category:All wheel drive vehicles]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles with VR engines]]
+
+[[cs:Volkswagen Passat]]
+[[da:Volkswagen Passat]]
+[[de:VW Passat]]
+[[es:Volkswagen Passat]]
+[[fr:Volkswagen Passat]]
+[[hr:Volkswagen Passat]]
+[[it:Volkswagen Passat]]
+[[lv:Volkswagen Passat]]
+[[lt:Volkswagen Passat]]
+[[hu:Volkswagen Passat]]
+[[nah:Volkswagen Passat]]
+[[nl:Volkswagen Passat]]
+[[ja:フォルクスワーゲン・パサート]]
+[[no:Volkswagen Passat]]
+[[pl:Volkswagen Passat]]
+[[pt:Volkswagen Passat]]
+[[ru:Volkswagen Passat]]
+[[sk:Volkswagen Passat]]
+[[fi:Volkswagen Passat]]
+[[sv:Volkswagen Passat]]
+[[tr:Volkswagen Passat]]
+[[uk:Volkswagen Passat]]
+[[zh:大众帕萨特]]

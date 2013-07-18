@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = minimum discharge
+|rdfs:domain = Island
+|rdfs:range = cubicMetrePerSecond
+}}

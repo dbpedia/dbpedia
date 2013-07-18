@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= code
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= xsd:string
+}}

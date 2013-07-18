@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = retired
+| rdfs:domain = Astronaut
+| rdfs:range = xsd:date
+}}

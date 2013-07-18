@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = lowest place
+|rdfs:domain = City
+|rdfs:range = PopulatedPlace
+}}

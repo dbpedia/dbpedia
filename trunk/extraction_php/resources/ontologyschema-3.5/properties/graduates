@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = graduates
+| rdfs:domain = EducationalInstitution
+| rdfs:range = xsd:integer
+}}

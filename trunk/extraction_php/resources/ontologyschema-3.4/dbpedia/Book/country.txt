@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = country
+|rdfs:domain = Book
+|rdfs:range = Country
+}}

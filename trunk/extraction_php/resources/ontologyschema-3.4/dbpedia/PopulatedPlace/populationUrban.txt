@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = population urban
+|rdfs:domain = PopulatedPlace
+|rdfs:range = xsd:integer
+}}

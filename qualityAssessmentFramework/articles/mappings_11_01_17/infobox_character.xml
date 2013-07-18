@@ -1,0 +1,11 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = FictionalCharacter
+| mappings = 
+  {{PropertyMapping | templateProperty = cause | ontologyProperty = deathCause}}
+  {{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation}}
+  {{PropertyMapping | templateProperty = religion | ontologyProperty = religion }}
+  {{PropertyMapping | templateProperty = children | ontologyProperty = child}}
+  {{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse}}
+  {{PropertyMapping | templateProperty = siblings | ontologyProperty = relative}}
+  {{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+</textarea>

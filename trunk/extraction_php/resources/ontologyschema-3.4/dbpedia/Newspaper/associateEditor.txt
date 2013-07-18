@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = associate editor
+|rdfs:domain = Newspaper
+|rdfs:range = Person
+}}

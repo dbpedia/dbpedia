@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Model
+| rdfs:subClassOf = Person
+}}

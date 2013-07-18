@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= height 
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= millimetre
+|rdf:type	= owl:FunctionalProperty
+}}

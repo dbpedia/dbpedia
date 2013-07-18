@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = destination
+| rdfs:domain = Airline
+| rdfs:range = PopulatedPlace
+}}

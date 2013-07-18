@@ -1,0 +1,252 @@
+The '''litre''' or '''liter''' (see [[American and British English spelling differences#-re, -er|spelling differences]]) is a unit of [[volume]]. There are two official symbols: the [[Latin]] letter [[L]] in lower and upper case ('''l''' and '''L'''). The lower case L is also often written as a [[cursive]] '''ℓ''', though this symbol has no official approval by any international bureau.  Although the litre is not an [[International System of Units|SI unit]], it is accepted for use with the SI,<ref name="BIPM2006">[http://www.bipm.fr/utils/common/pdf/si_brochure_8_en.pdf Bureau International des Poids et Mesures, 2006], p. 124. ("Days" and "hours" are examples of other non-SI units that SI accepts.)</ref> and has appeared in several versions of the [[metric system]]. The official SI unit of volume is the [[cubic metre]] (m<sup>3</sup>). One litre is equal to 0.001 cubic metre and is denoted as 1 cubic [[decimetre]] (dm<sup>3</sup>).
+
+The word ''litre'' is derived from an older [[France|French]] unit, the ''[[French units of measurement#Dry measures|litron]]'', whose name came from [[Greek language|Greek]] via Latin. The original French [[metric system]] used the litre as a base unit.
+
+The spelling of the word used <!-- NOT "recommended"; they don't standardize national spellings. --> by the [[International Bureau of Weights and Measures]] is "litre".<ref name="BIPM2006"/> This spelling is also the usual one in English in most English speaking countries, but the usual American English spelling is "liter", which is officially endorsed by the United States.<ref>The Metric Conversion Act of 1985 gives the Secretary of Commerce of the US the responsibility of interpreting or modifying the SI for use in the US. The Secretary of Commerce delegated this authority to the Director of the [[National Institute of Standards and Technology]] (NIST) ([http://ts.nist.gov/WeightsAndMeasures/Metric/upload/FRN_Vol_73_No_96_16May2008_SI_Interpretation.pdf Turner, 2008]). In 2008, the NIST published the US version ([http://physics.nist.gov/Pubs/SP330/sp330.pdf Taylor and Thompson, 2008a]) of the English text of the eighth edition of the [[Bureau International des Poids et Mesures]] (BIPM) publication ''Le Système International d’ Unités (SI)'' ([http://www1.bipm.org/utils/common/pdf/si_brochure_8.pdf BIPM, 2006]).
+In the NIST publication, the spellings "meter," "liter," and "deka" are used rather than "metre", "litre", and "deca" as in the original BIPM English text ([http://physics.nist.gov/Pubs/SP330/sp330.pdf Taylor and Thompson, 2008a], p. iii). The Director of the NIST officially recognized this publication, together with [http://physics.nist.gov/cuu/pdf/sp811.pdf Taylor and Thompson (2008b)], as the "legal interpretation" of the SI for the United States ([http://ts.nist.gov/WeightsAndMeasures/Metric/upload/FRN_Vol_73_No_96_16May2008_SI_Interpretation.pdf Turner, 2008]).</ref>
+
+== Definition ==
+A litre is defined as '' a special name for a cubic decimetre'' (1 L = 1 dm<sup>3</sup> = 10<sup>3</sup> [[cubic centimetre|cm<sup>3</sup>]]). Hence 1 L ≡ 0.001 [[Cubic metre|m<sup>3</sup>]] (exactly).
+So 1,000 L = 1 m<sup>3</sup> 
+
+From 1901 to 1964 the litre was defined as the volume of one kilogram of pure [[water]] at 4°[[Celsius|C]] and 760 [[torr|millimetres of mercury]] pressure.  During this time, a litre was about 1.000028 dm<sup>3</sup>. In 1964 this definition was abandoned in favour of the current one.
+
+== SI prefixes applied to the litre ==<!-- This section is linked from [[Glucose]] and from some prefixed units-->
+The litre may be used with any [[SI prefix]]. The most commonly used is the millilitre, defined as one-thousandth of a litre, and also often referred to using the non-SI name of "[[cubic centimetre]]". It is a commonly used measurement, especially in medicine and cooking. Other units may be found in the table below, the more often used terms are in bold.
+
+{| class="wikitable" style="text-align:centre"
+! Multiple !! Name !!colspan="2"| Symbols !!colspan="2"| Equivalent volume
+| rowspan="12"|
+! Submultiple !! Name !!colspan="2"| Symbols !!colspan="2"| Equivalent volume
+|-
+| 10<sup>0</sup> L || '''litre''' || l (ℓ)  || L || dm<sup>3</sup> || cubic decimetre
+| colspan="4"| &nbsp; ||colspan="2"| &nbsp;
+|-
+| 10<sup>1</sup> L || decalitre || dal || daL ||colspan="2"| &nbsp;
+| 10<sup>–1</sup> L || '''decilitre''' || dl || dL ||colspan="2"| &nbsp;
+|-
+| 10<sup>2</sup> L || '''hectolitre''' || hl || hL ||colspan="2"| &nbsp;
+| 10<sup>–2</sup> L || '''centilitre''' || cl || cL ||colspan="2"| &nbsp;
+|-
+| 10<sup>3</sup> L || '''kilolitre''' || kl || kL || m<sup>3</sup> || '''cubic metre'''
+| 10<sup>–3</sup> L || '''millilitre''' || ml || mL || cm<sup>3</sup> || '''cubic centimetre''' (cc)
+|-
+| 10<sup>6</sup> L || '''megalitre''' || Ml || ML || dam<sup>3</sup> || cubic decametre
+| 10<sup>–6</sup> L || '''microlitre''' || µl || µL || mm<sup>3</sup> || cubic millimetre
+|-
+| 10<sup>9</sup> L || '''gigalitre''' || Gl || GL || hm<sup>3</sup> || cubic hectometre
+| 10<sup>–9</sup> L || nanolitre || nl || nL || 10<sup>6</sup> µm<sup>3</sup> || 1 million cubic micrometres
+|-
+| 10<sup>12</sup> L || teralitre || Tl || TL || km<sup>3</sup> || cubic kilometre
+| 10<sup>–12</sup> L || picolitre || pl || pL || 10<sup>3</sup> µm<sup>3</sup> || 1 thousand cubic micrometres
+|-
+| 10<sup>15</sup> L || petalitre || Pl || PL || 10<sup>3</sup> km<sup>3</sup> || 1 thousand cubic kilometres
+| 10<sup>–15</sup> L || femtolitre || fl || fL || µm<sup>3</sup> || cubic micrometre
+|-
+| 10<sup>18</sup> L || exalitre || El || EL || 10<sup>6</sup> km<sup>3</sup> || 1 million cubic kilometres
+| 10<sup>–18</sup> L || attolitre || al || aL || 10<sup>6</sup> nm<sup>3</sup> || 1 million cubic nanometres
+|-
+| 10<sup>21</sup> L || zettalitre || Zl || ZL || Mm<sup>3</sup> || cubic megametre
+| 10<sup>–21</sup> L || zeptolitre || zl || zL || 10<sup>3</sup> nm<sup>3</sup> || 1 thousand cubic nanometres
+|-
+| 10<sup>24</sup> L || yottalitre || Yl || YL || 10<sup>3</sup> Mm<sup>3</sup> || 1 thousand cubic megametres
+| 10<sup>–24</sup> L || yoctolitre || yl || yL || nm<sup>3</sup> || cubic nanometre
+|}
+
+== Non-metric conversions ==
+{| class="wikitable sortable"
+|-
+|align=left|'''Metric<br>Unit'''<br>
+! Approximate Value<br>
+! Non-Metric Unit<br>
+! System<br>
+! Non-Metric Unit<br>
+! Metric Equivalency<br>
+|-
+|1 L ||≈ 0.87987699|| [[quart]]|| Imperial ||1 quart||≡ 1.1365225 L
+|-
+|1 L ||≈ 1.056688|| fluid quart|| U.S. ||1 fluid quart||≡ 0.946352946 L
+|-
+|1 L ||≈ 1.75975326|| [[pint]]|| Imperial ||1 pint||≡ 0.56826125 L
+|-
+|1 L ||≈ 2.11337641||fluid pints|| U.S. ||1 fluid pint||≡ 0.473176473 L
+|-
+|1 L ||≈ 0.2641720523||liquid [[gallon]]|| U.S. ||1 liquid gallon||≡ 3.785411784 L
+|-
+|1 L ||≈ 0.21997|| gallon|| Imperial ||1 gallon||≡ 4.54609 L
+|-
+|1 L ||≈ 0.0353146667|| [[cubic foot]]||&nbsp;||1 cubic foot||≡ 28.316846592 L
+|-
+|1 L ||≈ 61.0237441|| [[cubic inches]]||&nbsp;||1 cubic inch||≡ 0.01638706 L
+|-
+|1 L ||≈ 33.8140 || customary [[fluid ounce]] || U.S. ||1 customary fluid ounce||≡ 29.5735295625 mL
+|-
+|1 L ||≈ 35.1950 || [[fluid ounce]]s || Imperial || 1 fluid ounce||≡ 28.4130625 mL
+|-
+|+align=bottom style="font-size:87%" |See also [[Imperial unit]]s and [[United States customary units|US customary units]]
+|}
+
+
+=== Rough conversions ===
+One litre is slightly more than one U.S. liquid quart and slightly less than one Imperial quart or the less common U.S. dry quart.
+
+One measured [[Cup (unit)|cup]] ≈ 250 mL.
+
+One [[teaspoon]] ≈ 5 mL (In some countries, this is an exact equivalency by definition of the teaspoon.)
+
+One [[tablespoon]] ≈ 15 mL (In some countries, this is an exact equivalency by definition of the tablespoon.)
+
+A litre is the volume of a cube with sides of 10&nbsp;cm, which is slightly less than a cube of sides 4 inches (or one-third of a foot). Twenty-seven cubes "one-third of a foot on each side" would fit in one cubic foot, which is within 5% of the actual value of exactly 28.316846592 litres.
+
+A nice [[aide-mémoire]] is: "A litre of water is a pint and three quarters" (Imperial pints, that is). Or, simpler: "A litre is a [[kilogram|kilo]] of water" (the litre was once defined in a way that made this exactly true under certain conditions).
+
+== Explanation ==
+Litres are most commonly used for items (such as [[fluid]]s and [[berries]]) which are measured by the capacity or size of their container, whereas cubic metres (and derived units) are most commonly used for items measured either by their dimensions or their displacements. The litre is often also used in some calculated measurements, such as density (kg/L), allowing an easy comparison with the density of water.
+
+One litre of water has a [[mass]] of almost exactly one [[kilogram]] when measured at its maximal density, which occurs at about 4 degrees Celsius. Similarly: 1 millilitre of water has about 1 g of mass; 1,000 litres of water has about 1,000&nbsp;kg of mass. This relationship is because the gram was originally defined as the mass of 1 mL of water.  However, this definition was abandoned in 1799 because the density of water changes with temperature and, very slightly, with pressure.
+
+== Symbol ==<!-- This section is linked from [[International System of Units]] -->
+Originally, the only symbol for the litre was '''l''' (lowercase letter L), following the [[SI]] convention that only those unit symbols that abbreviate the name of a person start with a capital letter.
+
+In many English-speaking countries, the most common shape of a handwritten [[Arabic digit]] 1 is just a vertical stroke; that is, it lacks the upstroke added in many other cultures. Therefore, the digit 1 may easily be confused with the letter l. On some typewriters, particularly older ones, the unshifted L key had to be used to type the numeral 1. Further, even in some computer typefaces, the two characters are barely distinguishable. This caused some concern, especially in the medical community. As a result, '''L''' (uppercase letter L) was adopted as an alternative symbol for litre in 1979. The [[United States]] [[National Institute of Standards and Technology]] now recommends the use of the uppercase letter L, a practice that is also widely followed in [[Canada]] and [[Australia]]. In these countries, the symbol L is also used with prefixes, as in mL and µL, instead of the traditional ml and µl used in Europe. In [[United Kingdom|the UK]] and [[Ireland]] as well as the rest of Europe, lowercase ''l'' is used with prefixes, though whole litres are often written in full (so, "750 ml" on a wine bottle, but often "1 litre" on a juice carton).
+
+Prior to 1979, the symbol <span style="font-size:112%">{{Unicode|ℓ}}</span> (script small l, [[Unicode|U]]+2113), came into common use in some countries; for example, it was recommended by [[South African Bureau of Standards]] publication M33 and Canada in the 1970s. This symbol can still be encountered occasionally in some English-speaking countries, and its use is ubiquitous in Japan and South Korea. Fonts covering the [[CJK characters]] usually include not only the script small l but also four precomposed characters: <span style="font-size:112%">㎕, ㎖, ㎗</span>, and <span style="font-size:112%">㎘</span> (U+3395 to U+3398) for the microlitre, millilitre, decilitre, and kilolitre. Nevertheless, it is no longer used in most countries and was never officially recognised by the [[Bureau International des Poids et Mesures|BIPM]] or the [[International Organization for Standardization]], and is a character often not available in currently-used documentation systems.
+
+== History ==
+In 1795, the litre was introduced in [[France]] as one of the new "[[Republican Measures]]", and defined as one [[Cubic metre#Submultiples|cubic decimetre]].
+
+In 1879, the [[Comité International des Poids et Mesures|CIPM]] adopted the definition of the litre, and the symbol  '''l''' (lowercase letter L).
+
+In 1901, at the 3rd [[General Conference on Weights and Measures|CGPM]] conference, the litre was redefined as the space occupied by 1&nbsp;kg of pure [[water]] at the temperature of its maximum density (3.98 °C) under a pressure of 1 [[atmospheric pressure#Standard atmospheric pressure|atm]]. This made the litre equal to about 1.000&nbsp;028 dm<sup>3</sup> (earlier reference works usually put it at 1.000&nbsp;027 dm<sup>3</sup>).
+
+In 1964, at the 12th [[General Conference on Weights and Measures|CGPM]] conference, the original definition was reverted to, and thus the litre was once again defined in exact relation to the metre, as another name for the cubic decimetre, that is, exactly 1 dm<sup>3</sup>.<ref>[http://ts.nist.gov/WeightsAndMeasures/Publications/appxc.cfm#4e NIST, 2000]</ref>
+
+In 1979, at the 16th [[General Conference on Weights and Measures|CGPM]] conference, the alternative symbol '''L''' (uppercase letter L) was adopted. It also expressed a preference that in the future only one of these two symbols should be retained, but in 1990 said it was still too early to do so.<ref>[http://www.bipm.fr/utils/common/pdf/si_brochure_8_en.pdf Bureau International des Poids et Mesures, 2006]</ref>
+
+== Colloquial and practical usage ==
+In spoken English, the abbreviation "mL" (for millilitre) is often pronounced as "mil", which is [[homophone|homophonous]] with the colloquial term "mil", which is intended to mean "one thousandth of a metre". This generally does not create confusion, because the context is usually sufficient &mdash; one being a volume, the other a linear measurement. The colloquial use of "mil" for milli'''metre''' for an ambiguous topic as in ''"5 mils of rain fell since 9am"'' may, however, be confusing. And in the United States a term of the same spelling and pronunciation means a [[Thou (length)|thousandth of an ''inch'']].
+
+The abbreviation '''cc''' (for [[cubic centimetre]], equal to a millilitre or '''mL''') is a unit of the '''[[cgs]]''' system, that preceded the MKS system, that later evolved into the [[SI]] system. The abbreviation '''cc''' is still commonly used in many fields including (for example) sizing for motorcycle and related sports for small [[Internal combustion engine|combustion engine]] [[engine displacement|displacement]]; larger engines, such as automobile engines, have their displacement measured in litres.
+
+In European countries where the [[metric system]] was established well before the adoption of the [[SI]] standard, there is still carry-over of usage from the precursor [[cgs]] and MKS systems. In the [[SI]] system, use of prefixes for multiples of 1,000 is preferred and all other multiples discouraged. However, in countries where these other multiples were already established, their use remains common. In particular, use of the '''centi''' (10<sup>-2</sup>), '''deci''' (10<sup>-1</sup>), '''deca''' (10<sup>+1</sup>), and '''hecto''' (10<sup>+2</sup>) prefixes are still common. For example, in many European countries, the '''hectolitre''' is the typical unit for production and export volumes of [[beverages]] (milk, beer, soft drinks, etc) and for measuring the size of the catch and quotas for fishing boats; '''decilitres''' are common in Switzerland and Scandinavia, and sometimes found in cookbooks; '''centilitres''' indicate the capacity of drinking glasses and of small bottles. In colloquial [[Dutch language|Dutch]] in [[Belgium]], a 'vijfentwintiger' and a 'drieëndertiger' (literally 'twenty-fiver' and 'thirty-threer') are the common beer glasses, the corresponding bottles mention 25&thinsp;cL or 33&thinsp;cL. Bottles may also be 75&thinsp;cL or half size at 37.5&thinsp;cL for 'artisanal' brews or 70&thinsp;cL for wines or spirits. Cans come in 25&thinsp;cL, 33&thinsp;cL and 50&thinsp;cL aka 0.5&thinsp;L. Family size bottles as for soft drinks or drinking water use the '''litre''' (0.5&thinsp;L, 1&thinsp;L, 1.5&thinsp;L, 2&thinsp;L), and so do beer barrels (50&thinsp;L, or the half sized 25&thinsp;L). This unit is most common for all other household size containers of liquids, from thermocans, by buckets, to bath tubs; as well as for [[fuel]] tanks and consumption for heating or by vehicles.
+
+In countries where the metric system was adopted as the official measuring system after the [[SI]] standard was established, common usage more closely follow contemporary [[SI]] conventions. For example, in Canada where the metric system is now in widespread use, consumer beverages are labelled almost exclusively using litres and millilitres. Hectolitres sometimes appear in industry, but centilitres and decilitres are rarely, if ever, used. Larger volumes are usually given in cubic metres (equivalent to 1 kL), or thousands or millions of cubic metres. The situation is similar in Australia, although '''kilolitres''', '''megalitres''' and '''gigalitres''' are commonly used for measuring water consumption, reservoir capacities and river flows.
+
+For larger volumes of fluids, such as annual consumption of tap water, lorry (truck) tanks, or swimming pools, the [[cubic metre]] is the general unit, as it is generally for all volumes of a non-liquid nature.
+
+== Use for non-liquid volumes ==
+<!--- these are all air space CAPACITY -- and L & mL are commonly used for FLUIDS (think engine size), which air is -->
+Although traditionally used only for the measurement of fluids, and containers for fluids, there are some fields where it has become a common measurement for volumes:
+* [[Berry|berries]] and solid items that can be poured and are measured by their containers
+* [[Car boot]]/trunk size [http://www.aatorque.co.nz/reviews/Pages/AudiS5carreview.aspx][http://www.straight.com/article-84644/vw-bug-converts-wary-chick-car-drivers]
+* Climbing packs [http://shop.national-army-museum.ac.uk/s.nl/it.A/id.2952/][http://www.personal.dundee.ac.uk/~pjclinch/packs3.htm]
+* [[Computer case]]s [http://www.techworld.com.au/article/256972/asus_unveils_headless_eee_box_desktop_pc][http://blogs.amd.com/patmoorhead/archive/2008/06/05/day-2-computex-innovation-book-ends.aspx]
+* [[Microwave oven]]s [http://www.priceme.co.nz/Microwave-Ovens/p_c-371,pg-2.aspx][http://www.dooyoo.co.uk/microwave/delonghi-21-litre-white-touch-microwave/]
+* [[Refrigerator]]s [http://www.buzzillions.com/dz_207824_stacks_mini_refrigerator_hot_cold_17_reviews][http://www.refrigerator-guide.com/refrigerator_selecting_guide.htm]
+* [[Sleeping bag]]s - packed volume [http://www.livingsimply.co.nz/sleepingbags.html][http://www.decathlon.co.uk/EN/s10-ultralight-17405569/]
+
+The litre is a particularly convenient and easily visualised unit for this range of volumes - a backpack could be as small as 2 litres, and a refrigerator as large as 300 litres. Expressed as cubic metres these same volumes would be 0.002 and 0.3 (or as cubic centimetres 2,000 and 300,000)&mdash;much less convenient numbers.
+
+== See also ==
+* [[Claude Émile Jean-Baptiste Litre]]
+* [[Cubic metre]]
+* [[Gallon]]
+* [[Kilogram]]
+* [[Pint]]
+
+== Notes ==
+{{reflist}}
+
+== References ==
+* {{cite web |author=Bureau International des Poids et Mesures |title=The International System of Units (SI) |year=2006 |url= http://www.bipm.fr/utils/common/pdf/si_brochure_8_en.pdf |format=PDF| accessdate = 2008-08-18}}
+* Bureau International des Poids et Mesures. (2006). [http://www.bipm.org/en/si/si_brochure/ "The International System of Units (SI)"] (on-line browser):
+**[http://www.bipm.org/en/si/si_brochure/chapter4/table6.html Table 6] (Non-SI units accepted for use with the International System). Retrieved 24 August 2008
+* {{cite web  | author = National Institute of Standards and Technology | title = Appendix C: General tables of units of measurement  | work =  NIST Handbook 44: Specifications, Tolerances, and Other Technical Requirements for Weighing and Measuring Devices | publisher = National Institute of Standards and Technology | date = 11 November 2000 | url= http://ts.nist.gov/WeightsAndMeasures/Publications/appxc.cfm#4e | accessdate = 2006-10-09}}
+* National Institute of Standards and Technology. (December 2003). [http://physics.nist.gov/cuu/Units/index.html ''The NIST Reference on Constants, Units, and Uncertainty: International System of Units (SI)''] (web site):
+** [http://physics.nist.gov/cuu/Units/units.html ''Note on SI units'']. Retrieved 24 August 2008.
+** [http://physics.nist.gov/cuu/Units/outside.html ''Recommending uppercase letter L'']. Retrieved 24 August 2008.
+* Taylor, B.N. and Thompson, A. (Eds.). (2008a). [http://physics.nist.gov/Pubs/SP330/sp330.pdf ''The International System of Units (SI)'']. United States version of the English text of the eighth edition (2006) of the International Bureau of Weights and Measures publication ''Le Système International d’ Unités (SI)'' (Special Publication 330). Gaithersburg, MD: National Institute of Standards and Technology. Retrieved 18 August 2008.
+* Taylor, B.N. and Thompson, A. (2008b). [http://physics.nist.gov/cuu/pdf/sp811.pdf ''Guide for the Use of the Internatioal System of Units''] (Special Publication 811). Gaithersburg, MD: National Institute of Standards and Technology. Retrieved 23 August 2008.
+* Turner, J. (Deputy Director of the National Institute of Standards and Technology). (16 May 2008).[http://ts.nist.gov/WeightsAndMeasures/Metric/upload/FRN_Vol_73_No_96_16May2008_SI_Interpretation.pdf "Interpretation of the International System of Units (the Metric System of Measurement) for the United States"]. ''Federal Register'' Vol. 73, No. 96, p. 28432-3.
+* UK National Physical Laboratory. [http://www.npl.co.uk/server.php?show=nav.630 Internationally recognised non SI units]
+
+[[Category:Units of volume]]
+[[Category:Non-SI metric units]]
+
+[[af:Liter]]
+[[als:Liter]]
+[[ar:لتر]]
+[[an:Litro]]
+[[ast:Llitru]]
+[[zh-min-nan:Li̍p]]
+[[be:Літр]]
+[[be-x-old:Літар]]
+[[bo:སྤྱི་ཧྲན།]]
+[[bs:Litar]]
+[[br:Litr]]
+[[bg:Литър]]
+[[ca:Litre]]
+[[cs:Litr]]
+[[da:Liter]]
+[[de:Liter]]
+[[et:Liiter]]
+[[el:Λίτρο]]
+[[es:Litro]]
+[[eo:Litro]]
+[[eu:Litro]]
+[[fa:لیتر]]
+[[fr:Litre]]
+[[fur:Litri]]
+[[gl:Litro]]
+[[gan:升]]
+[[ko:리터]]
+[[hi:लीटर]]
+[[hr:Litra]]
+[[id:Liter]]
+[[ia:Litro]]
+[[is:Lítri]]
+[[it:Litro]]
+[[he:ליטר]]
+[[ka:ლიტრი]]
+[[sw:Lita]]
+[[la:Litrum]]
+[[lv:Litrs]]
+[[lb:Liter]]
+[[lt:Litras]]
+[[hu:Liter]]
+[[mk:Литар]]
+[[ml:ലിറ്റര്‍]]
+[[arz:ليتر]]
+[[ms:Liter]]
+[[mn:Литр]]
+[[nl:Liter]]
+[[ja:リットル]]
+[[no:Liter]]
+[[nn:Liter]]
+[[pl:Litr]]
+[[pt:Litro]]
+[[ksh:Litter]]
+[[ro:Litru]]
+[[ru:Литр]]
+[[sco:Litre]]
+[[sq:Litri]]
+[[scn:Litru]]
+[[simple:Litre]]
+[[sk:Liter]]
+[[sl:Liter]]
+[[sr:Литар]]
+[[sh:Litar]]
+[[su:Léter]]
+[[fi:Litra]]
+[[sv:Liter]]
+[[tl:Litro]]
+[[ta:லிட்டர்]]
+[[te:లీటరు]]
+[[th:ลิตร]]
+[[tr:Litre]]
+[[uk:Літр]]
+[[vi:Lít]]
+[[war:Litro]]
+[[zh-yue:公升]]
+[[bat-smg:Lėtros]]
+[[zh:公升]]

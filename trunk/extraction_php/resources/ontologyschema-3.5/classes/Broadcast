@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Broadcast
+| rdfs:subClassOf = Organisation
+}}

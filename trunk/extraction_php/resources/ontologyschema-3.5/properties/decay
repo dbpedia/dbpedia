@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = decay
+| rdfs:domain = Spacecraft
+| rdfs:range = xsd:date
+}}

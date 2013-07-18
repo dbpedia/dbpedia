@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = arrondissement
+|rdfs:domain = Area
+|rdfs:range = PopulatedPlace
+}}

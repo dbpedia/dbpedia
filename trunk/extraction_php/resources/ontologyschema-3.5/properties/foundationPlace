@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = foundation place
+| rdfs:domain = Organisation
+}}

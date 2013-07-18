@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = visitors per year
+|rdfs:domain = Building
+|rdfs:range = xsd:integer
+}}

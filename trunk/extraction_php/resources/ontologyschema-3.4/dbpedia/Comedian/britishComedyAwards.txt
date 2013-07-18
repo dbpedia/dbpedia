@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = British Comedy Awards
+|rdfs:domain = Comedian
+|rdfs:range = Award
+}}

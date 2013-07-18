@@ -1,0 +1,53 @@
+{{Infobox Automobile
+|image=[[File:Porsche 997 Turbo 2007 Gumball 3000 (2).jpg|250px]]
+|name=TechArt 997 Turbo
+|manufacturer=[[TECHART]] (modified [[Porsche]])
+|class=[[sports car]]
+|production=2007-present
+|predecessor=[[TechArt 996 Turbo]]
+|successor=
+|body_style=2-door [[coupé]]
+|layout=[[Rear-engine design|Rear-engine]], [[rear-wheel drive]]
+|engine={{convert|3.6|L|cuin|1}} [[twin-turbo]]charged [[flat-6]]
+|transmission=6-speed [[manual transmission|manual]]
+|wheelbase=
+|length=
+|width=
+|height=
+|weight={{convert|3510|lb|kg|0}}
+|related=[[Porsche 997]],<br>[[Porsche 911 Turbo]]
+|similar=
+|designer=
+}}
+
+The '''TechArt 997 Turbo''', also known as simply the '''TechArt Turbo''', is a high-performance [[sports car]] based on the [[Porsche 997]] Turbo.  [[TECHART|TechArt]] has modified the car extensively, fitting it with a body kit, interior modifications, and significant engine tuning.
+
+==Design and Features==
+To the stock [[Porsche 997]] Turbo, TechArt has added a body kit featuring new front and rear [[spoiler]]s, [[carbon fibre]] grille, headlight covers, and side skirts.  The car is fitted with TechArt's own 20" wheels, with [[Michelin]] Pilot tires to improve handling.  The interior is trimmed out with carbon fiber and custom upholstery as well.  The most significant modification to the car is under the engine lid.  TechArt has modified the stock {{convert|3.6|L|cuin|1}} [[flat-6]] with larger [[turbocharger]]s, improved [[engine control unit]] chip, and stainless steel exhaust system.  With these modifications, the engine develops {{convert|600|hp|kW|0}} at 6400 [[rpm]] and {{Auto ft.lbf|609|0}} of [[torque]] at 3700 rpm, allowing for a top speed of {{convert|210|mph|km/h|1|abbr=on}}.  Customers pay for the base [[Porsche 997|997 Turbo]], which costs $122,900 [[USD]], then add the desired modifications; the bodykit costs $11,000 [[USD]], while the engine upgrades are $29,500 [[USD]].  The full package retails for about $186,000 [[USD]].
+
+==Specifications==
+*Weight: {{convert|3510|lb|kg|0}}
+*Power: {{Convert|600|hp|kW|0|abbr=on}} @ 6400 rpm
+*Torque: {{Auto ft.lbf|609|0}} @ 3700 rpm
+*Specific output: approx. {{Convert|166.7|hp|kW|0|abbr=on}} per litre
+*Power to weight ratio: approx. {{convert|5.85|lb|kg}} per horsepower
+
+**0-{{convert|60|mph|km/h|0|abbr=on}}: 3.4 sec
+**0-{{convert|100|mph|km/h|0|abbr=on}}: 7.4 sec
+**Quarter mile: 11.5 sec @ {{convert|126.2|mph|km/h|1|abbr=on}}
+**Top Speed: {{convert|210|mph|km/h|1|abbr=on}}
+**Braking, {{convert|60|mph|km/h|0|abbr=on}}-0: {{convert|113|ft|m|0}}
+**Braking, {{convert|80|mph|km/h|0|abbr=on}}-0: {{convert|202|ft|m|0}}
+**Lateral acceleration: .94g
+
+==References==
+*[http://www.roadandtrack.com/article.asp?section_id=34&article_id=5332 Road & Track, July 2007 "Pumped up Porsches"]
+
+==External links==
+*[http://www.techart.de/homee_gesamt.htm TechArt official 997 Turbo page]
+
+[[Category:Coupes]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:TechArt vehicles]]
+
+{{Modern-auto-stub}}

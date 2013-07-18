@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = platform
+|rdfs:domain = Station
+|rdfs:range = owl:Thing
+}}

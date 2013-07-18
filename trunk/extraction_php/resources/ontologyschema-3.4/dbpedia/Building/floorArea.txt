@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = floor area
+|rdfs:domain = Building
+|rdfs:range = squareMetre
+}}

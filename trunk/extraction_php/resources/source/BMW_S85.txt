@@ -1,0 +1,73 @@
+{{Infobox Automobile
+|image=[[Image:BMW S85B50 Engine.JPG|250px]]
+|name=BMW S85 engine
+|manufacturer=[[BMW|BMW Bayerische Motoren Werke]]
+|production=2005&ndash;
+|predecessor=[[BMW_S62#S62|S62]]
+|successor=
+|class=[[V10 engine|V10]]
+|engine=
+}}
+The [[BMW]] '''S85B50''' is a [[DOHC]] 40-valve [[V10 engine|V10]] [[automotive]] [[piston]] [[engine]] found on the [[BMW E60|E60]] [[BMW M5|M5]] and [[BMW E63|E63]] [[BMW M6|M6]]. It was inspired by BMW's formula 1 racing division.
+
+==Technology & Performance==
+
+The S85B50 is a high-revving engine designed to utilize power from a wide rev band. Having a redline of 8250 rpm, it achieves over {{convert|100|bhp|kW|-1|abbr=on}}/litre and features a very high compression ratio of 12.0:1, beating the previous M3 of 11.5:1 
+
+*5.0 Litre V10 engine, {{Convert|507|hp|kW|0|abbr=on}} @ 7750rpm/{{convert|520|Nm|lbft|0|abbr=on}} torque @ 6100rpm
+
+*Cast aluminum block with bed plate design split at the crankshaft axis.
+
+*Cast aluminum heads with four valves per cylinder and CNC machined ports and combustion chambers. Valves are actuated though non-rotating inverted bucked cam followers.
+
+*Oil cooled forged aluminum pistons from Mahle Motorsport
+
+*Forged steel crankshaft with counterweights
+
+*Double [[VANOS]] system which varies both intake and exhaust cam phasing
+
+*10 individual electronically controlled throttles
+
+*Knock sensors have been eliminated by utilizing the "ionic current" measuring system. Using the ionic current system, engine misfires as well as knock can be measured simultaneously. Combustion quality raises or lowers cylinder pressure. The ionic current is measured by passing a low voltage across the spark plugs immediately following the ignition spark.
+
+*Quasi-dry sump lubricating system 
+
+*The Digital Motor Electronic (DME) of the S85B50 is encrypted heavily to prevent modifications/hacking to the software.
+
+* The firing order for the S85 engine is 1-6-5-10-2-7-3-8-4-9. [http://users.on.net/~sa145/E60_M5_Complete_Vehicle.pdf]
+
+==Awards==
+
+In 2005, the first year that it was nominated, the S85B50 won four different [[International Engine of the Year]] awards in the following 4 categories:
+
+# International Engine of the Year, BMW 5.0 Litre V10 (M5,M6)
+# Best Performance Engine
+# Best New Engine
+# Best Above 4.0 Litre 
+
+In 2006 the S85B50 again won several [[International Engine of the Year]] awards, winning in the following 3 categories:
+
+# International Engine of the Year, BMW 5.0 Litre V10 (M5,M6)
+# Best Performance Engine
+# Best Above 4.0 Litre
+
+In 2007 the S85B50 again won several [[International Engine of the Year]] awards, winning in the following 2 categories:
+
+# Best Performance Engine
+# Best Above 4.0 Litre
+
+In 2008 the S85B50 again won an [[International Engine of the Year]] award, winning in the following category:
+
+# Best Above 4.0 Litre
+
+==See also==
+* [[List of BMW engines]]
+* [[BMW M5]]
+* [[BMW M6]]
+
+[[Category:BMW engines|S85]]
+
+[[de:BMW S85]]
+[[it:BMW S85]]
+[[no:BMW S85]]
+[[pl:BMW S85]]

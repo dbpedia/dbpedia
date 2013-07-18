@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = area metro
+|rdfs:domain = GeopoliticalOrganisation
+|rdfs:range = squareKilometre
+}}

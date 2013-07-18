@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = nickname
+|rdfs:domain = MilitaryUnit
+|rdfs:range = xsd:string
+}}

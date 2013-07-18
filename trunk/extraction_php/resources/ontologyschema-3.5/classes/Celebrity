@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Celebrity
+| rdfs:subClassOf = Person
+}}

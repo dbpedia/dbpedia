@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = overall record
+|rdfs:domain = CollegeCoach
+|rdfs:range = xsd:string
+}}

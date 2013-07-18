@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Soccer Club
+| rdfs:subClassOf = SportsTeam
+}}

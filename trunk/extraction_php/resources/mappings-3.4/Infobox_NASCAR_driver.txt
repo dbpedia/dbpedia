@@ -1,0 +1,9 @@
+{{ DBpediaTemplateMapping
+| mapToClass = NascarDriver
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Birthdate | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Birthplace | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = Died | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Cause of Death | ontologyProperty = Person/deathCause }}
+}}

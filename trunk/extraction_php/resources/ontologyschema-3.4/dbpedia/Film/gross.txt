@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = gross
+|rdfs:domain = Film
+|rdfs:range = Currency
+}}

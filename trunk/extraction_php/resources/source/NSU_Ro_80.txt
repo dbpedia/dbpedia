@@ -1,0 +1,74 @@
+{{Infobox Automobile
+|name=NSU Ro 80
+|manufacturer=[[NSU Motorenwerke AG]]
+|production=1967–1977
+|predecessor=none
+|successor=none
+|image=[[Image:NSU Ro 80.jpg|250px|NSU Ro 80]]
+|class=[[Full-size car]]
+|platform=
+| transmission   = 3-speed [[Fichtel & Sachs]] all-synchromesh [[manual transmission|manual]] connected with automatic clutch and F & S [[torque converter]]
+|layout=[[FF layout]] 
+|body_style=4-door [[sedan (car)|sedan]]
+|designer=[[Claus Luthe]]
+|engine=2&nbsp;x&nbsp;497.5&nbsp;cc&nbsp;two-rotor [[Wankel engine]], {{convert|115|PS|kW hp|0|abbr=on}}
+|wheelbase= {{Auto in|112.6|0}} 
+|length= {{Auto in|188.2|0}} 
+|width= {{Auto in|69.3|0}} 
+|height= {{Auto in|55.5|0}} 
+|weight={{convert|2759|lb|kg|0|abbr=on}}-{{convert|2848|lb|kg|0|abbr=on}}
+|fuel_capacity={{Convert|82|L|usgal impgal|1|abbr=on}}<ref name=DailyExpressMotorShowReviewOct1974re1975>{{cite journal|journal =Daily Express Motor Show Review 1975 Cars |volume = | authorlink = Basil Cardew (ed) |title = | pages =  36 (NSU RO80)| date = October 1974}}</ref> 
+}}
+
+The '''NSU Ro 80''' was a technologically advanced large [[sedan (car)|sedan]]-type [[automobile]] produced by the [[Germany|German]] firm of [[NSU Motorenwerke AG|NSU]] from 1967 until 1977.  Most notable was the powertrain; a {{convert|113|bhp|kW PS|0|abbr=on}}, 995 cc twin-rotor [[Wankel engine]] driving the [[front wheel drive|front wheels]] through a [[semi-automatic transmission]] employing an innovative vacuum system.  It was voted [[Car of the Year]] for 1968 by European motoring writers. 
+
+Unfortunately for NSU, the car developed an early reputation for unreliability, from which it would never escape.  The Wankel engine in particular suffered from heavy wear on the rotor tip seals, among many other problems, and some early cars required a completely rebuilt engine before 30,000 miles (50,000&nbsp;km), with problems visible as early as 15,000 miles (24,000 kilometres). The fact that the rotary engine design was inherently thirsty (typically 15-18 mpg) and a poor understanding of the Wankel engine by dealers and mechanics did not help this situation. By the 1970 [[model year]], most of these problems were resolved, but a necessarily generous warranty policy and damage to the car's reputation had undermined NSU's financial situation irreparably.  NSU was acquired by [[Audi]] (of the [[Volkswagen]] group) in 1969.
+Second hand Ro80s were virtually worthless in the 1970s due to the well-publicised engine problems, and a common "cure" for an ailing rotary engine was to simply swap it for a Ford V4 "Essex" engine (as found in Mk1 Transits) purely as it was one of the few engines compact enough to fit in the Ro80's engine bay. Thus in an ironic twist, one of the smoothest engines in the world was replaced by one of the roughest. 
+The NSU's unpopularity caused by the above problems means that surviving examples are very rare, and are now considered highly-prized classic cars with values to match, particularly as thanks to [[Mazda]]'s perseverance with rotary design, the tip seal problem has been all but eradicated.
+
+[[Image:Nsu antwerpen93.jpg|thumb|left|NSU Ro 80 club meeting in Antwerp, 1993]]
+[[Image:NSU Ro80 1971 profile.jpg|thumb|left|The basic wedge profile of this 1967 design was much emulated in subsequent decades.]]
+[[Image:Schnittmodell des NSU Ro 80.JPG|thumb|left|NSU Ro 80, IAA-Modell, Museum Autovision, [[Altlußheim]], [[Deutschland]]]]
+
+Other technological features of the Ro 80 aside from the powertrain were the four wheel ATE Dunlop [[disc brakes]], which for some time were generally only featured on expensive sports or luxury saloon cars.  The front brakes were mounted inboard, reducing the [[unsprung weight]].  The suspension was independent on all four wheels, with [[MacPherson strut]]s at the front and [[semi-trailing arm suspension]] at the rear, both of which are space-saving designs commonly used today.  Power assisted [[ZF Friedrichshafen|ZF]] [[rack and pinion]] steering was used, again foreshadowing more recent designs.
+
+The car featured an automatic clutch which was commonly described as a three-speed semi-automatic gearbox:  there was no clutch pedal but instead, on top of the gearknob, an electric switch that operated a vacuum system which disengaged the clutch.   The gear lever itself then could be moved through a standard 'H pattern' gate.  
+
+Interior trim combined cloth covered seats with PVC headlining and a carpeted floor.<ref name=Autocar1968>{{cite journal|journal =[[Autocar]] |volume = 128 (nbr 3755) | authorlink =  |title =Autocar Road Test NSU Ro80 1,990 c.c. (nominal): German five-seater touring car with twin-rotor Wankel engine and front-sheel-drive. Rather poor petrol and oil consumption. Superb road-holding and stability. Power steering light with excellent "feel". Fine visibility and well-placed controls. Selective automatic transmission gives three wide performance ranges. Very advanced and pleasant car to drive. | pages = 11–16| date = February 1968}}</ref> 
+
+The styling, by [[Claus Luthe]] who was head of design at NSU and later BMW, was considered very modern at the time and still holds up well; the Ro 80 has been part of many gallery exhibits of modern industrial design.  The large glass area foreshadowed 1970s designs such as [[Citroën]]'s.  The shape was also slippery, with a [[drag coefficient]] of 0.355 (very good for the era, although average for modern cars). This allowed for a top speed of {{convert|112|mi/h|km/h|abbr=on}}. Indeed, comparisons have been drawn between the design of the Ro80 and the superbly aerodynamic [[Audi_100#Audi_100.2C_200_.26_5000_.28C3.2C_1982.E2.80.931991.29|1984 Audi 100]] - the shape is very, very similar.
+
+Series production started in October 1967: the last examples came off the production line in April 1977.  There were 37,204 vehicles produced during the ten year production run.
+
+==Sources and further reading==
+{{reflist}}
+
+{{-}}
+==See also==
+{{Commonscat| NSU Ro80}}
+*[[Comotor]]
+*[[Citroën GS#GS Birotor|Citroën GS Birotor]]
+*[[NSU Spider]]:  the Spider had been the world's first Wankel engined production car
+
+==External links==
+* http://www.ro80.nl
+* http://www.nsu-ro80.de
+* http://www.nsu.nl
+* http://www.nsu.be
+
+[[Category:Vehicles introduced in 1967]]
+[[Category:NSU vehicles|Ro 80]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles with Wankel engines]]
+
+[[af:NSU Ro80]]
+[[cs:NSU Ro 80]]
+[[de:NSU Ro 80]]
+[[fr:NSU Ro80]]
+[[it:NSU Ro80]]
+[[nl:NSU Ro 80]]
+[[ja:NSU・Ro80]]
+[[no:NSU Ro 80]]
+[[pl:NSU Ro 80]]
+[[pt:NSU Ro 80]]
+[[sv:NSU Ro 80]]

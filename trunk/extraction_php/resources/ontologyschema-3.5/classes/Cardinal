@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Cardinal
+| rdfs:subClassOf = Cleric
+}}

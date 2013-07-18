@@ -1,0 +1,61 @@
+{{Infobox Automobile
+| name           = Heinkel Kabine
+| image          = [[Image:Heinkel Kabine vl red.jpg|250px]] 
+| manufacturer   = [[Heinkel|Heinkel Flugzeugwerke]](1956-1958)<ref name=Weiner56Kab>[http://www.microcarmuseum.com/tour/heinkel.html Bruce Weiner Microcar Museum: 1956 Heinkel Kabine]</ref><br />Dundalk Engineering Company (Ireland, 1958)<ref name=Weiner56Kab /><br />[[Trojan (automobile)|Trojan]] (UK, 1960-1966)<ref name=Weiner63Troj200>[http://www.microcarmuseum.com/tour/trojan.html Bruce Weiner Microcar Museum: 1963 Trojan 200]</ref>
+| parent_company =  [[Heinkel|Heinkel Flugzeugwerke]] 
+| aka            = Trojan 200
+| production     = 
+| assembly       = 
+| predecessor    = 
+| successor      = 
+| class          = [[Microcar]]
+| body_style     = one-door [[Sedan (automobile)|sedan]].
+| layout         = [[Rear mid-engine, rear-wheel drive layout|RMR layout]], three or four wheels<ref name=Weiner56Kab />
+| platform       = 
+| engine         = [[Heinkel]] [[four-stroke engine|four-stroke]] [[single cylinder engine]] 
+| transmission   = 4 speed plus reverse.
+| wheelbase      = 
+| length         = {{convert|	2550|mm|in|1|abbr=on}} <ref name=carf57Kab>[http://www.carfolio.com/specifications/models/car/?car=89232 Carfolio.com: Technical specifications of 1957 Heinkel Kabine] </ref>
+| width          = {{convert|1370|mm|in|1|abbr=on}}<ref name=carf57Kab />
+| height         = {{convert|1320|mm|in|1|abbr=on}}<ref name=carf57Kab />
+| weight         = {{convert|243|kg|lb|1|abbr=on}}<ref name=carf57Kab />
+| fuel_capacity  = 
+| electric_range = 
+| related        = 
+| designer       = 
+| sp             = us
+}}
+
+The '''Heinkel Kabine''' was a [[microcar]] designed by [[Heinkel|Heinkel Flugzeugwerke]] and built by them from 1956 to 1958.   Production was transferred under licence to Dundalk Engineering Company in Ireland in 1958 but the licence was withdrawn shortly afterward due to poor quality control<ref name=Weiner56Kab />  Production restarted in 1960, again under licence, under the '''Trojan 200''' name by [[Trojan (automobile)|Trojan Cars Ltd.]] in the UK, and continued until 1966.<ref name=Weiner63Troj200 />
+
+The Heinkel Kabine were also assembled from 1959 to 1962 under licence by Los Cedros S.A.<ref name=SMCArg>[http://www.microautos.com.ar/history.html Scooter and Microcar Club of Argentina: Microcar's History]</ref> <ref name=HeinTrojNews>[http://www.heinkel-trojan-club.co.uk/newsletter.htm Heinkel-Trojan Club Newsletter: Editorial Ramblings - Argentinean Production]</ref> as Heinkel in Argentina, they were built alongside Studebaker pickups.
+
+Production began in March 1956 with the Kabine Model 150, using the 174 cc 9.2 hp single cylinder four-stroke engine that powered the [[Heinkel Tourist]] [[scooter (motorcycle)|scooter]].<ref name=HeinTrojClub>[http://homepages.tesco.net/~heinkeljb/OldHTCltd/Main.htm The Heinkel Trojan Club LTD - Brief History of the Heinkel Trojan Cars and Heinkel Scooters]</ref>.  In October 1956, Heinkel introduced the Kabine Model 153 (with three wheels) and the Kabine Model 154 (with four wheels), both with 204 cc engines. The engines in these models were later reduced in capacity to 198 cc for insurance purposes.<ref name=Weiner56Kab/>  
+
+The Kabine had a steel [[monocoque|unit body]].<ref name=Weiner56Kab/> Access to the interior was by an opening front but in order not to infringe BMW's patent used on the [[Isetta]] the steering wheel did not move with the door. However it did feature a reverse gear unlike some other [[bubble car]]s.
+
+==See also ==
+'''Similar cars'''
+*[[Isetta]]
+
+
+* [[List of microcars by country of origin]]
+
+==References==
+{{reflist|2}}
+
+{{-}}
+{{commonscat|Heinkel Kabine}}
+
+[[Category:Microcars|H]]
+[[Category:Defunct motor vehicle manufacturers of Germany]]
+[[Category:Three-wheeled motor vehicles]]
+[[Category:Vehicles introduced in 1956]]
+
+
+{{Classicpow-auto-stub}}
+
+[[cs:Heinkel Kabine]]
+[[de:Heinkel Kabine]]
+[[fi:Heinkel Kabine]]
+[[sv:Heinkel Kabine]]

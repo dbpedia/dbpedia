@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= visitation year
+|rdfs:domain 	= ProtectedArea
+|rdfs:range		= xsd:gYear
+}}

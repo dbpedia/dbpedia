@@ -1,0 +1,9 @@
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/swedish> "Sm\u00E5lland"@en .
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/deutsch> "T\u00FCrschlie\u00DFanlage"@en .
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/francais> "Fran\u00E7oise, \u00E9t\u00E9"@en .
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/espanol> "Espa\u00F1a"@en .
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/degreeCelsius> "\u00B0C"@en .
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/japanese> "\u30D9\u30EB\u30EA\u30F3"@en .
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/chinese> "\u67CF\u6797"@en .
+<http://dbpedia.org/resource/encoding.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .
+

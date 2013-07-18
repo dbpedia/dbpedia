@@ -1,0 +1,66 @@
+{{Infobox Automobile
+|name=Benz Patent Motorwagen
+|manufacturer=[[Mercedes-Benz|Rheinische Gasmotorenfabrik Benz & Cie.]]
+|production=[[1886]]&ndash;[[1893]]
+|image=[[Image:1885Benz.jpg|200px|]]
+|successor=[[Benz Velo]]
+}}
+The [[Karl Benz]] '''Patent Motorwagen''' (or motorcar), built in [[1885]], is widely regarded as the first [[automobile]], that is, a vehicle ''designed'' to be propelled by a motor.
+
+The vehicle was awarded the German [[patent]], number 37435, which Benz applied for on January 29, 1886. Following official procedures, the date of the application became the patent date for the invention once the patent was granted, which occurred in November of that year.
+
+Benz officially unveiled his invention to the public on July 3, 1886 on the [[Ringstrasse]] (''Ringstraße'') in [[Mannheim]], [[Germany]].
+
+==Specifications==
+
+After developing a successful gasoline-powered [[two-stroke]] [[piston engine]] in [[1873]], Benz focused on developing a motorized vehicle while maintaining a career as a designer and manufacturer of stationary engines and their associated parts.
+
+The Benz Patent Motorwagen was a three-wheeled automobile with a rear-mounted engine. The vehicle contained many new inventions. It was constructed of steel tubing with woodwork panels. The steel-spoked wheels and solid rubber tires were Benz's own design. Steering was by way of a [[rack and pinion|toothed rack]] that pivoted the unsprung front wheel. Fully-elliptic [[spring (device)|springs]] were used at the back along with a [[live axle]] and [[chain drive]] on both sides. A simple belt system served as a single-speed [[transmission (mechanics)|transmission]], varying torque between an open disc and drive disc.
+
+[[Image:Karl Benz and Bertha Benz gravestone - vdetail3 bronze plaque.JPG|thumb|left|Karl Benz - detail from gravestone]]
+[[Image:First Car Replica IAA 2007 1 crop.jpg|thumb|Working replica of the 1885 Benz Motorwagen in Frankfurt, 2007]]
+The first Motorwagen used the Benz 954&nbsp;cc single-cylinder [[four-stroke]] engine. This new engine produced ⅔&nbsp;hp (½&nbsp;kW) at 250 rpm in the Patent Motorwagen, although later tests by the [[University of Mannheim]] showed it to be capable of .9&nbsp;hp (0.7&nbsp;kW) at 400 rpm. It was an extremely light engine for the time, weighing about 100&nbsp;kg (220&nbsp;lb). Although its open crankcase and drip oiling system would be alien to a modern mechanic, its use of a [[pushrod engine|pushrod]]-operated [[poppet valve]] for exhaust would be quite familiar. A large horizontal [[flywheel]] stabilized the single-cylinder engine's power output. An evaporative [[carburettor]] was controlled by a [[sleeve valve]] to regulate power and engine speed.
+
+Benz later built more models of the Motorwagen, model number 2 boasting 1.5&nbsp;hp (1.1&nbsp;kW), and model number 3 with 2&nbsp;hp (1.5&nbsp;kW), allowing the vehicle to reach a maximum speed of approximately {{convert|10|mi/h|km/h}}. The chassis was improved in 1887 with the introduction of wooden-spoke wheels, a fuel tank, and a manual [[drum brake|leather shoe brake]] on the rear wheels.
+
+==Historic drive of Bertha Benz==
+[[Bertha Benz]], the wife of the inventor, chose to [[publicity|publicize]] the Patent Motorwagen in a unique manner&mdash;she took the Patent Motorwagen No. 3, supposedly without her husband's knowledge, and drove it on the first long-distance automobile trip to demonstrate its feasibility as a means to travel long distances.
+
+That trip occurred in early August 1888, when Bertha Benz drove with her sons Eugen and Richard (fifteen and fourteen years old) from Mannheim through [[Heidelberg]], and [[Wiesloch]], to her hometown of [[Pforzheim]].
+
+As well as being the driver, she acted as [[mechanic]] on the drive, cleaning the carburetor (the first model of the Motorwagen had not been built with a carburetor, rather a basin of fuel soaked fibers that supplied fuel to the cylinder by evaporation) with her [[hat pin]] and using a [[Garter (stockings)|garter]] to insulate a wire. She refueled at the local pharmacy in Wiesloch and replaced the brake lining several times along the journey.
+
+After sending a [[telegraph]] message to her husband of her arrival in Pforzheim, she spent the night at the home of her mother and returned home three days later. The trip covered 194&nbsp;km (120&nbsp;mi) in total.
+
+In Germany, a parade of antique automobiles celebrates this historic trip of Bertha Benz every two years. In 2008, the [[Bertha Benz Memorial Route]]<ref>[http://www.bertha-benz.de/indexen.php?inhalt=home Bertha Benz Memorial Route] (German-government-approved non-profit official site)</ref> was officially approved as a route of industrial heritage of mankind, because it follows Bertha Benz's tracks of the world's first long-distance journey by automobile in 1888. Now everybody can follow the 194 km of signposted route from [[Mannheim]] via [[Heidelberg]] to [[Pforzheim]] ([[Black Forest]]) and back.
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commonscat|Benz Patent Motorwagen}}
+* [http://home.arcor.de/carsten.popp/DE_00037435_A.pdf Patent 37435, by Karl Benz for his 1885 Motorwagon] The birth certificate of the automobile - the German patent application of January 29, 1886, that was granted on November 2, 1886 to Benz & Company in Mannheim
+* [http://www.thecarconnection.com/blog/?p=745&srccd=de20080130 Happy Birthday, Car!]
+* [http://www.automuseum-dr-carl-benz.de Automuseum Dr. Carl Benz, Ladenburg (Heidelberg)]
+* [http://www.uh.edu/engines/epi2402.htm John H. Lienhard on Bertha Benz's ride]
+
+{{start box}}
+{{succession box|title=[[Fastest production car|Fastest street-legal production car]]|before= N/A |after= [[Daimler Motorized Carriage]] |years= {{convert|19|km/h|mi/h|2|abbr=on}} }}
+{{end box}}
+
+[[Category:Benz vehicles|Patent Motorwagen]]
+[[Category:First automobile made by manufacturer]]
+[[Category:1880s automobiles]]
+[[Category:1890s automobiles]]
+
+[[de:Benz Patent-Motorwagen Nummer 1]]
+[[fr:Benz Patent Motorwagen]]
+[[it:Benz Patent Motorwagen]]
+[[mk:Бенц Патент-Моторно возило]]
+[[nah:Benz Patent Motorwagen]]
+[[no:Benz Patent Motorwagen]]
+[[pl:Benz Patent-Motorwagen Nummer 1]]
+[[ru:Автомобиль Бенца]]
+[[sl:Benz Patent Motorwagen]]
+[[fi:Benz Patent-Motorwagen]]
+[[tr:Benz Patent Motorwagen]]

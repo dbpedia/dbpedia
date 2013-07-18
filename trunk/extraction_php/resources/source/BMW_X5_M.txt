@@ -1,0 +1,64 @@
+{{Infobox Automobile
+|image=[[Image:2010 BMW E70 X5 M.jpg|250px|E70 BMW X5 M]]
+|name             = BMW X5 M
+|manufacturer     = [[BMW]]
+|production       = 2009-present
+|layout           = [[Front-engine design|Front engine]] / [[four-wheel drive]]
+|class            = [[Mid-size]] [[Luxury vehicles|luxury]] [[Crossover (automobile)|Sports Activity Vehicle]]
+|related          = [[BMW X6 M]]
+|body_style       = 4-door [[Sports Activity Vehicle|BMW Sports Activity Series]]
+|engine           = 4.4 litres [[V8]] BMW M TwinPower turbo engine
+|max. performance = 408kW / 555 hp
+|max. torque      = 680 Nm
+|supercharger     = Twin-Scroll Twin Turbo Technology
+|fluel Management = High-pressure direct injection with piezo injectors
+|exhaust system   = Cross-cylinder block exhaust manifold and high-calibre, multiflow exhaust system silencer with four tail pipes
+|transmission     = M six-speed sport automatic transission [[Automatic transmission|automatic]]
+|chassis          = Four-wheel xDrive with rear wheel bias, Dynamic Performance Control, Adaptive Drive with active roll reduction, Electronic Damper Control and high-performance brake system
+}}
+
+{{refimprove|date=December 2008}}
+
+The '''BMW X5 M''' is a [[Sport Activity Vehicle]] which extends the BMW M line up, previously consisting of variants of the M3, M5 and M6.
+ 
+It was introduced to the press at the New York Auto Show (Apr 09-19, 2009), and started appearing in BMW dealerships in September 2009. This latest high-performance M offering rivals the [[Mercedes-Benz M-Class|Mercedes-Benz ML63 AMG]], the [[Porsche Cayenne]] Turbo S, and the [[Jeep_Grand_Cherokee#SRT-8|Jeep Grand Cherokee SRT8]]. At the time of its launch it is the World’s most powerful car in its class.
+
+==Performance==
+[[Image:BMW X5M Engine.JPG|250px|thumb|left|S63 Engine]]
+[[Image:BMW X5 M Right Front Brake.JPG|250px|thumb|right|395x36 MM Brake Rotor]]
+
+BMW has put the high-performance Sport Activity Vehicle through extreme durability testing typical of M and BMW products. Slightly more conventional than its BMW X6 M sibling, the M offers the same utility as the regular X5, with the addition of the V8 M TwinPower Turbo, a twin-turbocharged 4.4-liter V8 delivering 555 Horsepower at 5,750 RPM and peak Torque is 501 pound-feet, available between 1,500 and 5,650 rpm. The Sport Activity Vehicle can sprint from a standstill to 60 mph in 4.5 seconds (or 4.2 seconds with 1 foot of rollout), according to tests in the U.S. Market. Edmunds reported a quarter mile time of 12.8 seconds with a trap speed of 108.5 mph. <ref><http://www.edmunds.com/insideline/do/Drives/FullTests/articleId=158706></ref>.
+
+The BMW X5 M also has the biggest brakes on a BMW production vehicle; 15.55" (395x36mm) rotors up front clamped by massive four piston brake calipers, with 15.2" (385x24mm) rotors at the rear clamped by single piston brake calipers.
+
+==Advanced Technology==
+
+The BMW X6 M and BMW X5 M are the first xDrive all-wheel-drive vehicles from the M GmbH, BMW’s . Coupled with special  suspension specifically optimized for M that features Adaptive Drive and the newly developed M Servotronic power steering, the performance Sport Activity Vehicle promises very competent handling. Other high-tech features include launch control for maximum acceleration and a six speed  M  Sport automatic transmission optimized for performance. Drivers can manually select gears using either paddles or an an electronic gear selector lever. Electronically controlled, variable power distribution to the front and rear axle prevents even the slightest tendency to over- or understeer right from the start, before DSC Dynamic Stability Control is even required to cut in.
+
+BMW is referring to the new 4.4-liter motor as its “M TwinPower Turbo” unit. The name reflects the fact that the motor features Twin Scroll Twin Turbo Technology and a common exhaust manifold encompassing both rows of cylinders.
+Although traction control is standard, the M Dynamic Mode (MDM) greatly optimizes the aggressiveness of the system. The MDM setting allows the driver to enter a controlled drift and push the vehicle’s handling to the limit. There’s also a DSC-Off Mode for drivers seeking a more purist experience.
+
+==The first modern turbocharged M engine: twin scroll twin turbo technology with a patented exhaust manifold==
+
+Using BMW’s innovative, "M Twin Power Turbo" engine with High Precision Direct Injection and twin turbochargers as a basis, the new M engine introduces twin-scroll twin turbochargers and patented exhaust manifold technologies to achieve outstanding thrust and pulling force, while preserving the most compact dimensions possible. Two low-mass twin-scroll turbochargers are positioned together with the catalytic converters in the “V” section between the two banks of cylinders. By reversing the flow of gases through the engine from traditional arrangements, the intake and exhaust ducts are shortened and widened. The result is that pressure losses on the exhaust side are minimized. 
+The goals: virtually eliminate turbocharger lag while maximizing combustion efficiency and power output. Tremendous power and performance are delivered by the engine in the BMW X5 M and BMW X6 M through a new design and construction principle. 
+
+The new M V8 engine with twin-scroll twin turbo technology uses a single exhaust manifold with tuned-length runners, incorporating both cylinder banks and connecting cylinders in carefully-selected pairs. This configuration, patented by BMW M and known as Cylinder-bank Comprehensive Manifold () (check this in Product Library), offers lightning-quick response, a linear build-up of engine power, and a broad, consistent torque curve by feeding each of the twin turbochargers with a “charge pulse” at approximately every 90 degrees of crankshaft rotation, rather than the more traditional “irregular schedule” of charging.The optinal third row seat offered in the standard X5 will not be avalible on the X5 M.
+
+The managed flow of exhaust gas provided by the  ensures high-velocity flow of combustion gases. The appropriate separation of exhaust gas flow from different cylinders is maintained until the gas reaches the turbine wheel, spooling the two twin-scroll turbochargers without back-pressure. With maximum boost pressure), the use of twin-scroll twin turbo technology and the patented  exhaust manifold allows complete exploitation of the benefits of turbocharging.
+
+==See also==
+* [[BMW X5]]
+* [[BMW X6 M]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.m-power.com/ M Power World ''in German'']
+* [http://www.bmwusa.com/standard/content/vehicles/2009/m/default.aspx/ M on BMWUSA.com]
+* [http://www.bmw.com/com/en/newvehicles/mseries/x5m/2009/introduction.html?prm_action=x5/ BMW X5 M on BMW.com]
+{{BMW cars}}
+
+{{DEFAULTSORT:Bmw X5 M}}
+[[Category:BMW vehicles|X5 M]]

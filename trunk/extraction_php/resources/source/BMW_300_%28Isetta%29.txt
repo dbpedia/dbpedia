@@ -1,0 +1,40 @@
+{{Infobox Automobile
+|image             = [[Image:Bmw.isetta.arp.jpg|250px|BMW 300 (Isetta)]]
+|name              = BMW 300 (Isetta)
+|aka               = BMW Isetta
+| production = 1955-62<br>161,360 produced<ref name="Lane Motor Museum">{{Cite web|url=http://lanemotormuseum.org/show_vehicle.php?veh=BMWISETTA300C1957|title=1957 BMW ISETTA (300)|work=Lane Motor Museum}}</ref>
+|manufacturer      = [[BMW]]
+|predecessor       = [[Isetta|BMW 250]]
+|successor         = [[BMW 600]]
+| engine           = 298cc&nbsp;cc single cylinder 4-stroke ({{convert|53|mph|km/h|0|abbr=on}} top speed)
+| layout           = [[RR layout]]
+| transmission     = 4 speed manual
+| length           =
+| width            =
+|fuel_capacity     =
+| height           =
+| weight           =
+| wheelbase        =
+}}
+
+The '''BMW 300''' was a [[microcar]] produced by [[BMW]], featuring a characteristic front-opening door and three wheels. It was a modified version of the [[BMW Isetta|BMW 250 (Isetta)]].
+
+[[Image:1957 BMW Isetta (300) Door Open (Lane Motor Museum).jpg|thumb|The Isetta's front-opening door]]
+
+==Overview==
+In October 1956, the [[Isetta]] Moto Coupe DeLuxe (sliding-window Isetta) was introduced. The bubble windows were replaced by longer, sliding side windows. The engineers had enlarged the [[single cylinder engine|single cylinder]] to a {{convert|72|mm|in|1|abbr=on}} [[bore (engine)|bore]] and {{convert|73|mm|in|1|abbr=on}} [[stroke (engine)|stroke]], which gave a [[engine displacement|displacement]] of exactly 298&nbsp;cc; at the same time, they raised the [[compression ratio]] from 6.8 to 7.0:1. In this way, the engine now generated {{convert|10|kW|hp|abbr=on}} at 5200&nbsp;rpm, and the torque rose to {{convert|18.4|Nm|ftlbf|abbr=on}} at 4600&nbsp;rpm. The maximum speed remained at {{convert|85|km/h|mph|abbr=on}}, yet there was a marked increase in flexibility, chiefly noticeable on gradients.
+
+In addition to the quest for better performance, there was another reason for the change: it was then still possible to drive the 250&nbsp;cc Isetta with the old Class IV driving licence. Quite a number of Isettas were lovingly maintained by their owners for years and even decades, precisely because they possessed no other licence. On the other hand, from 1956 onwards, first-time drivers had to pass the test for Class III if they wanted to drive a car. True, the Class IV licence continued to be issued, but it was only valid for small motorcycles.
+
+A second, similar reason for fitting the larger engine was the prevailing tax regime. The 250&nbsp;cc engine did not take full advantage of the tax class, which then went up to 300&nbsp;cc.
+
+==References==
+{{reflist}}
+
+{{commonscat|BMW Isetta}}
+
+{{BMW early cars}}
+
+[[Category:BMW vehicles|Isetta]]
+[[Category:Rear-engined vehicles]]
+[[Category:Microcars]]

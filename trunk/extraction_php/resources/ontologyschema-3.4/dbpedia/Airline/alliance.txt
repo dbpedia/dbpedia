@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = alliance
+|rdfs:domain = Airline
+|rdfs:range = owl:Thing
+}}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:TitleWindow 
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	showCloseButton="false"
+	layout="absolute"
+	initialize="init()">
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.managers.PopUpManager;
+			import mx.events.CloseEvent;
+			
+			private function init():void
+			{
+				addEventListener( KeyboardEvent.KEY_DOWN, handleKeyDown );
+				addEventListener( CloseEvent.CLOSE, handleClose );
+			}
+			
+			private function handleClose( event:CloseEvent ):void
+			{
+				PopUpManager.removePopUp( this );
+			}
+			
+			private function handleKeyDown( event:KeyboardEvent ):void
+			{
+				if (event.keyCode == Keyboard.ESCAPE)
+				{
+					PopUpManager.removePopUp( this );
+				}
+			}
+			
+		]]>
+	</mx:Script>
+	
+</mx:TitleWindow>

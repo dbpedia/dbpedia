@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = narrator
+| rdfs:domain = Film
+| rdfs:range = Person
+}}

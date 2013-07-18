@@ -1,0 +1,160 @@
+{{Expand|date=June 2008}} <!-- pre-2007 detail needed -->
+{{Infobox Automobile
+|image          = [[Image:VW Crosstouran.JPG|250px|2007 CrossTouran]]
+|name           = Volkswagen Touran
+|aka            = 
+|manufacturer   = [[Auto 5000]]
+|parent_company =  [[Volkswagen Group]]
+|production     = 2003-present
+|class          = [[Compact MPV]]
+|body_style     = 5-door [[Multi-purpose vehicle|MPV]]
+|layout         = [[front-engine design|Front-engine]], [[front-wheel drive]]
+|platform       = [[Volkswagen Group A platform#A5 (PQ35)|Volkswagen Group A5 (PQ35) platform]]
+|wheelbase      = {{convert|2680|mm|in|1|abbr=on}}
+|length         = {{convert|4405|mm|in|1|abbr=on}}
+|width          = {{convert|1795|mm|in|1|abbr=on}}
+|height         = {{convert|1635|mm|in|1|abbr=on}}
+|fuel_capacity  = 
+|related        = [[Audi A3]] Mk2<br>[[Volkswagen Golf Mk5|VW Golf Mk5]]<br>[[Volkswagen Caddy]]<br>[[Volkswagen Passat]]<br>[[SEAT León]] Mk2<br>[[SEAT Altea]]<br>[[SEAT Toledo]] Mk3<br>[[Škoda Octavia]] Mk2
+|designer       = 
+}}
+[[Image:VW Touran2006.jpg|250px|right|thumb|Volkswagen Touran]]
+
+The '''Volkswagen Touran''' (''Typ'' 1T) is a [[compact MPV]] based on a vertically-stretched fifth generation [[Volkswagen Golf Mk5]], and sold in [[Europe]] and other select markets.  It was launched in 2003 to fill a gap in Volkswagen's model lineup, below the [[Volkswagen Sharan|Sharan]] [[large MPV]].  The vehicle was originally delivered in five- or seven-seat versions, but the five seat version is no longer available in some markets.  It can be considered an extended version of the [[Volkswagen Golf Plus|Golf Plus]], since their front ends are similar in size, while the Touran's rear overhang is {{convert|200|mm|in|2|abbr=on}} longer (and therefore a seven-seater, while the Golf Plus is a five-seater).  In some regions, such as Japan, the car is called '''Golf Touran'''.
+
+Of interest, a [[Hulk]]-inspired Touran was featured in ''[[The Fast And The Furious: Tokyo Drift]]'', driven by [[Bow Wow]]'s character, Twinkie.
+
+The name 'Touran' derives from the combination of 'Tour' and '[[Volkswagen Sharan|Sharan]]', the bigger MPV by VW.{{Citation needed|date=June 2008}} Despite the similarity of their names, the Touran is not related to the North American-market [[Volkswagen Routan]].
+
+==Model year 2007 to present==
+The Touran received a facelift at the [[Mondial de l'Automobile|2006 Paris Motor Show]].
+
+===ParkAssist===
+The 2007MY Touran was the first production vehicle in the [[Volkswagen Group]] to be released with the new ParkAssist technology.  ParkAssist parallel parks the car for the driver.  First, ParkAssist uses sensors to determine whether the Touran will fit in the parallel parking position.  Then the driver lets go of the steering wheel, selects Reverse on the transmission, then presses the accelerator and brakes accordingly and lets ParkAssist steer it into the final parking position.
+
+===CrossTouran===
+At the 2006 Bologna Motor Show, Volkswagen released the third Cross vehicle designed by Volkswagen Individual GmbH.
+
+The CrossTouran is distinguished from a standard Touran by its 17inch alloy wheels, redesigned plastic guards which ape a crossover vehicle, and a {{convert|15|mm|in|2|abbr=on}} higher supension/chassis setup that is optional for standard Tourans in Europe.
+
+All CrossTouran engines are EU4 compliant.
+
+''[[Petrol engine]]s''
+*1.6 with 75 kW / 102 hp
+*1.4 TSI with 103 kW / 140 hp
+*1.4 TSI with 125 kW / 170 hp
+
+''[[Diesel engine]]s''
+*1.9 TDI with 77 kW / 105 hp
+*2.0 TDI with 103 kW / 140 hp
+*2.0 TDI with 125 kW / 170 hp
+
+==Engines==
+The Touran is available with [[petrol engine|petrol]], [[diesel engine|diesel]] and [[compressed natural gas]] (CNG) engines.
+{| class="wikitable" style="text-align:center; font-size:91%;"
+|-
+! Model
+! Years
+! colspan="2"|Engine and code
+! Displ.
+! Power
+! Torque
+|-
+! 1.4 TS<span style="color:red">I</span>
+| 2006–present || [[straight-4|I4]] 16V || [[List of Volkswagen Group petrol engines#1.4 TSI 90-133kW|BMY/CAVC]] || 1390 cc || {{convert|103|kW|PS hp|0|abbr=on}} @ 5600 rpm || {{convert|210|Nm|lb.ft|abbr=on}} @ 1750–4000 rpm
+|-
+! 1.4 T<span style="color:red">SI</span>
+| 2007–present || [[straight-4|I4]] 16V || [[List of Volkswagen Group petrol engines#1.4 TSI 90-133kW|BLG/CAVB]] || 1390 cc || {{convert|125|kW|PS hp|0|abbr=on}} @ 6000 rpm || {{convert|240|Nm|lb.ft|abbr=on}} @ 1500 rpm
+|-
+! 1.4 TSI EcoFuel
+| 2009–present || [[straight-4|I4]] 16V ||  || 1390 cc || {{convert|110|kW|PS hp|0|abbr=on}} @ 5500 rpm || {{convert|220|Nm|lb.ft|abbr=on}} @ 1500–4500 rpm
+|-
+! 1.6
+| 2003–present || [[straight-4|I4]] 8V || [[List of Volkswagen Group petrol engines#1.6 75-80kW|BGU/BSE/BSF]] || 1595 cc || {{convert|75|kW|PS hp|0|abbr=on}} @ 5600 rpm || {{convert|148|Nm|lb.ft|abbr=on}} @ 3800 rpm
+|-
+! 1.6 [[Gasoline direct injection|FSI]]
+| 2003–2006 || [[straight-4|I4]] 16V || [[List of discontinued Volkswagen Group petrol engines#1.6 FSI 85kW|BAG/BLF/BLP]] || 1598 cc || {{convert|85|kW|PS hp|0|abbr=on}} @ 6000 rpm || {{convert|155|Nm|lb.ft|abbr=on}} @ 4000 rpm
+|-
+! 2.0 [[Gasoline direct injection|FSI]]
+| 2003–2006 || [[straight-4|I4]] 16V || [[List of Volkswagen Group petrol engines#2.0 FSI 110kW|AXW/BLR/BLX/BVY]] || 1984 cc || {{convert|110|kW|PS hp|0|abbr=on}} @ 6000 rpm || {{convert|200|Nm|lb.ft|abbr=on}} @ 3500 rpm
+|-
+! 2.0 EcoFuel
+| 2006–2009 || [[straight-4|I4]] 8V || [[List of Volkswagen Group petrol engines#2.0 80-86kW|BSX]] || 1984 cc || {{convert|80|kW|PS hp|0|abbr=on}} @ 5400 rpm || {{convert|160|Nm|lb.ft|abbr=on}} @ 3500 rpm
+|-
+! 1.9 [[Turbocharged Direct Injection|TDI]]
+| 2004–present || [[straight-4|I4]] 8V || [[List of Volkswagen Group diesel engines#1.9 TDI PD 55-118kW|BRU/BXF/BXJ]] || 1896 cc || {{convert|66|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|210|Nm|lb.ft|abbr=on}} @ 1800–2500 rpm
+|-
+! 1.9 [[Turbocharged Direct Injection|TDI]]
+| 2003–2004 || [[straight-4|I4]] 8V || [[List of Volkswagen Group diesel engines#1.9 TDI PD 55-118kW|AVQ]] || 1896 cc || {{convert|74|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|250|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 1.9 [[Turbocharged Direct Injection|TDI]]
+| 2004–present || [[straight-4|I4]] 8V || [[List of Volkswagen Group diesel engines#1.9 TDI PD 55-118kW|BJB/BKC/BXE/BLS]] || 1896 cc || {{convert|77|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|250|Nm|lb.ft|abbr=on}} @ 1900 rpm
+|-
+! 2.0 [[Turbocharged Direct Injection|TDI]]
+| 2003–2004 || [[straight-4|I4]] 16V || [[List of Volkswagen Group diesel engines#2.0 TDI PD 100-125kW|AZV]] || 1968 cc || {{convert|100|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|320|Nm|lb.ft|abbr=on}} @ 1750–2500 rpm
+|-
+! 2.0 [[Turbocharged Direct Injection|TDI]]
+| 2004–present || [[straight-4|I4]] 16V || [[List of Volkswagen Group diesel engines#2.0 TDI PD 100-125kW|BKD]] || 1968 cc || {{convert|103|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|320|Nm|lb.ft|abbr=on}} @ 1750–2500 rpm
+|-
+! 2.0 [[Turbocharged Direct Injection|TDI]] [[Diesel particulate filter|DPF]]
+| 2005–present || [[straight-4|I4]] 8V || [[List of Volkswagen Group diesel engines#2.0 TDI PD 100-125kW|BMM]] || 1968 cc || {{convert|103|kW|PS hp|0|abbr=on}} @ 4000 rpm || {{convert|320|Nm|lb.ft|abbr=on}} @ 1750–2500 rpm
+|-
+! 2.0 [[Turbocharged Direct Injection|TDI]] [[Diesel particulate filter|DPF]]
+| 2005–present || [[straight-4|I4]] 16V || [[List of Volkswagen Group diesel engines#2.0 TDI PD 100-125kW|BMN]] || 1968 cc || {{convert|125|kW|PS hp|0|abbr=on}} @ 4200 rpm || {{convert|350|Nm|lb.ft|abbr=on}} @ 1750–2500 rpm
+|}
+
+The diesel models of the Touran offer significantly higher readings for [[miles per gallon]].  Given the proper conditions, it is possible to achieve 60&nbsp;mpg{{Clarifyme|UK or US|date=February 2009}} in a diesel Touran.  The car is delivered with a five- (1.6 only) and six-speed manual transmissions, [[Tiptronic]] six-speed automatic transmission (in 1.6, 1.6 FSI and 2.0 FSI (2003-2006 only)) or the [[DSG]] twin-clutch automatic transmission; the 1.4 TSI, the 1.6 FSI from 2003-2006, the 1.9 TDI from 2003-2006 and the 2.0 TDI use the six-speed version, and the 1.9 TDI since 2006 uses the seven-speed dry-clutch version.
+
+As for the 2009-model, an updated version of the 2.0 TDI engine will be delivered{{Citation needed|date=October 2009}}}, this using Common Rail technology. The engine was introduced in the [[Volkswagen Tiguan]] and [[Audi A4]] for the 2008-models.
+
+==Touran Hy Motion & Hybrid==
+[[Image:VW Touran Hy-Motion.JPG|250px|thumb|Touran HY MOTION Hydrogen Study]]
+The Touran Hy Motion is Volkswagen's Hydrogen Development concept.  It has a nickel-metal hybrid battery which produces {{Convert|80|kW|hp|0|lk=on|abbr=on}}, it does the 0-100&nbsp;km/h (0-62&nbsp;mph) sprint in 14 seconds and has a top speed of {{convert|140|km/h|mph|1|abbr=on}}.
+
+In 2008, [[Volkswagen Group China|Shanghai-Volkswagen]] with [[Tongji University]] will release a Touran Hybrid as part of the lead up to the 2008 Beijing Olympic Games.
+
+A prototype of the Touran Hybrid was shown with a {{Convert|20|kW|hp|0|abbr=on}} electric motor in conjunction with a {{Convert|110|kW|hp|0|abbr=on}} petrol engine, the transmission will most likely be Volkswagen's [[Direct-Shift Gearbox]] (DSG).
+
+==Commercial version==
+The Touran's basic design was used as the basis for the new generation of the [[Volkswagen Commercial Vehicles]] [[Volkswagen Caddy|Caddy]].
+
+==Awards==
+*The Touran won ''[[What Car?]]'''s 2005 Compact Van of the Year award.
+*The Touran scored a maximum 5-star [[EuroNCAP]] crash safety rating.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+* [http://www.youtube.com/watch?v=J7KvAssyM7w Movie: VW Touran named Dutch Tow Car Of The Year 2007]
+* [http://www.volkswagen.com/vwcms_publish/vwcms/master_public/virtualmaster/en2/models/Touran.html International VW Touran Website]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Touran]]
+[[Category:Euro NCAP small MPVs]]
+[[Category:Front wheel drive vehicles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2003]]
+
+[[cs:Volkswagen Touran]]
+[[da:Volkswagen Touran]]
+[[de:VW Touran]]
+[[es:Volkswagen Touran]]
+[[fr:Volkswagen Touran]]
+[[hr:Volkswagen Touran]]
+[[it:Volkswagen Touran]]
+[[lv:Volkswagen Touran]]
+[[nl:Volkswagen Touran]]
+[[ja:フォルクスワーゲン・トゥーラン]]
+[[no:Volkswagen Touran]]
+[[pl:Volkswagen Touran]]
+[[pt:Volkswagen Touran]]
+[[sr:Фолксваген Туран]]
+[[fi:Volkswagen Touran]]
+[[sv:Volkswagen Touran]]
+[[tr:Volkswagen Touran]]
+[[uk:Volkswagen Touran]]
+[[zh:大众途安]]

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = first driver team
+|rdfs:domain = GrandPrix
+|rdfs:range = SportsTeam
+}}

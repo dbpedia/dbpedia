@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = lowest region
+| rdfs:domain = Island
+| rdfs:range = PopulatedPlace
+}}

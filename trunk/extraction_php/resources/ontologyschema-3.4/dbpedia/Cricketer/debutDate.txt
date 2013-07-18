@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = debut date
+|rdfs:domain = Cricketer
+|rdfs:range = xsd:date
+}}

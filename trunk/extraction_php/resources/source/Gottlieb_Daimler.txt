@@ -1,0 +1,192 @@
+{{Copyedit|date=October 2008}}{{Refimprove|date=October 2008}}
+
+[[Image:gottliebdaimler1.jpg|thumb|right|213px|Gottlieb Daimler]]	
+
+'''Gottlieb Daimler''' (March 17, 1834 – March 6, 1900) was an [[engineer]], [[industrial design]]er and [[industrialist]], born in [[Schorndorf]] (Kingdom of [[Württemberg]], a federal state of the [[German Confederation]]), in what is now the [[Germany|Federal Republic of Germany]]. He was a pioneer of [[internal-combustion engine]]s and [[automobile]] development. He invented the first high-speed [[petrol engine]] and the first four-wheel [[automobile]].
+
+Daimler and his lifelong business partner [[Wilhelm Maybach]] were two inventors whose dream was to create small, high speed engines to be mounted in any kind of locomotion device. They designed in 1885 a precursor of the modern petrol engine which they subsequently fitted to a two-wheeler, considered the first [[motorcycle]] and, in the next year, to a [[stagecoach]], and a [[boat]]. They are renowned as the designers of this ''Grandfather Clock'' engine. {{Fact|date=October 2008}}
+
+Later, in 1890, they founded [[Daimler Motoren Gesellschaft]] (DMG). They sold their first automobile in 1892. Daimler fell ill taking a break from the company and upon his return experienced difficulty with the other stock holders that led to his resignation in 1893 that was reversed in 1894. Soon Maybach resigned also and he returned at the same time as Daimler. In 1900 Daimler died and Wilhelm Maybach quit DMG in 1907. In 1924, the DMG management signed a long term co-operation agreement with [[Karl Benz]]'s [[Benz & Cie.]], and in 1926 the two companies merged to become [[Daimler-Benz|Daimler-Benz AG]], which is now part of [[Daimler AG]].{{Fact|date=October 2008}}
+
+==Early life (1834 to 1852)==
+Gottlieb Wilhelm Daimler was the son of a baker named [[Johannes Däumler]] (Daimler) and his wife Frederika, from the town of [[Schorndorf]] near [[Stuttgart]], [[Württemberg]]. By the age of thirteen (1847), he had completed his six years of primary studies in [[Lateinschule]] where he had also had additional drawing lessons on Sundays and expressed an interest in engineering. The next year, he started studying [[gunsmith]]ing; building with his teacher, Riedel, a double-[[gun barrel|barrel]]ed gun.
+
+Again, Daimler became restless in his studies as his main interest still lay in engineering. In 1852 when eighteen, he finally decided to take up [[mechanical engineering]], and left his hometown.  He worked at several firms, including [[Armstrong-Whitworth]],<ref>Georgano, G.N. ''Cars: Early and Vintage 1886-1930'' (London: Grange-Universal, 1990), p.9.</ref> before ending up at Deutz.
+
+==The Otto Four-Stroke engine (1876)==
+In 1872 (at age thirty-eight), Gottlieb Daimler and Wilheim Maybach moved to work at the world's largest manufacturer of stationary engines of the time, the [[Deutz AG|Deutz-AG-Gasmotorenfabrik]] in [[Cologne]]. It was half-owned by [[Nikolaus Otto|Nikolaus August Otto]] who was looking for a new technical director. As directors, both Daimler and Otto focused on gas-engine development while Maybach was chief designer.
+
+In 1876, Otto invented the [[Four-stroke cycle]] also known as the ''Otto Cycle'' a system characterized by four piston strokes (intake, compression, power, and exhaust). Otto intended that his invention would replace the steam engines predominant in those years, even though his engine was still primitive and inefficient. Otto's engine was patented in 1877, but the patent was soon challenged and overturned. Unknown to Otto, Daimler, and Maybach, in [[Mannheim]] during 1878 [[Karl Benz]] was concentrating all his efforts on creating a reliable two-stroke gas engine based on the same principle. Benz finished his engine on December 31, 1878, New Year's Eve, and was granted a patent for his engine in 1879.
+
+Meanwhile, serious personal differences arose between Daimler and Otto, reportedly with Otto being jealous of Daimler, because of his university background and knowledge. Daimler was fired in 1880, receiving 112 Gold-marks in Deutz-AG shares in compensation for the patents of both Daimler and Maybach. Maybach resigned later.
+
+==Daimler Motors: small, high-speed engines (1882)==
+[[Image:Stuttgart-cannstatt-daimler-gewaechshaus.jpg|thumb|Daimler's summerhouse (Cannstatt)]]
+
+After leaving Deutz-AG, Daimler and Maybach started to work together. In 1882, they moved back to Stuttgart in Southern Germany, purchasing a cottage in [[Cannstatt]]'s Taubenheimstrasse, with 75,000 Gold marks from the compensation from Deutz-AG. In the garden, they added a brick extension to the roomy glass-fronted summerhouse and this became their workshop. Eventually, their activities alarmed the neighbors who called the police and reported them as suspected counterfeiters. The police obtained a key from their gardener and raided the house in their absence, but found only engines.
+
+Daimler and Maybach spent long hours debating how best to fuel Otto's Four-Stroke design, and turned to a byproduct of [[petroleum]]. The main distillates of petroleum at the time were lubricating oil, kerosene (burned as lamp fuel), and [[benzine]], which up to then was used mainly as a cleaner and was sold in pharmacies.
+
+==The Grandfather Clock Engine (1885)==
+In late 1885,{{Fact|date=October 2007}}<!--Georgano says 1883, p.13--> Daimler and Maybach developed the first of their [[Gasoline engine|petrol engines]], which featured:
+
+* a single horizontal cylinder of {{convert|264|cc|cuin|0|abbr=on}}<ref>Georgano, G. N. ''Cars: Early and Vintage, 1886-1930''. (London: Grange-Universal, 1990), p.13.</ref> (58×100&nbsp;mm, 2.28×3.94 in)<ref name="Georgano, p.13">Georgano, p.13.</ref>
+* air cooling
+* large cast iron [[flywheel]]
+* [[hot-tube ignitor|hot tube]] [[ignition system]] (patent 28022)
+* cam operated exhaust valves, allowing high speed operation
+* {{convert|0.5|hp|W|abbr=on}}<ref name="Georgano, p.13"/>
+* 600{{Fact|date=April 2008}} <!--Georgano says 700, p.13-->rpm running speed, beating previous engines which typically ran at about 120 to 180 rpm
+* weight around {{convert|50|kg|abbr=on}}<ref name="Georgano, p.13"/>
+* height {{convert|76|cm|abbr=on}}<ref name="Georgano, p.13"/>
+
+In 1885, they created a [[carburetor]] which mixed [[gasoline]] with air allowing its use as fuel. In the same year Daimler and Maybach assembled a larger version of their engine, still relatively compact, but now with a vertical cylinder of 100&nbsp;cm² displacement and an output of 1 [[horsepower|hp]] at 600 rpm (patent DRP-28-022: ''"non-cooled, heat insulated engine with unregulated hot-tube ignition"''). It was baptized the ''Standuhr'' ([[Grandfather Clock]]), because Daimler thought it resembled an old pendulum clock. This is probably the same internal-combustion engine referred to by the American author and historian [[Henry Adams]], who describes the "Daimler motor" and its great speed from his visit to the 1900 Paris Exposition in his autobiography. <ref>Adams, H., The Education of Henry Adams, Ch XXV, originally published 1918 </ref>
+
+[[Image:ZweiRadMuseumNSU Reitwagen.JPG|250px|right|thumb|The first motorcycle (1885)]]
+
+In November 1885, Daimler installed a smaller version of this engine in a wooden bicycle, creating the first motorcycle (Patent 36-423impff & Sohn ''"Vehicle with gas or petroleum drive machine"''). It was named the "riding car" (''Reitwagen''). Maybach rode it for three kilometers (two miles) alongside the river [[Neckar]], from Cannstatt to [[Untertürkheim]], reaching {{convert|12|km/h|0}}.
+
+Also in 1885, but unknown to Maybach and Daimler, only sixty miles away in [[Mannheim]], [[Karl Benz]] built the first true [[automobile]] using an integral design for a motorized vehicle with one of his own engines and he was granted a [[patent]] for his motorwagen dated January 29, 1886.
+
+On March 8, 1886, Daimler and Maybach secretly brought a [[stagecoach]] made by [[Wilhelm Wafter]] into the house, telling the neighbors it was a birthday gift for Mrs. Daimler. Maybach supervised the installation of a larger 1.1 hp <ref name="Georgano, p.13"/> {{convert|462|cc|cuin|0|abbr=on}}<ref name="Georgano, p.13"/> (70×120&nbsp;mm, 2.76×4.72 in)<ref name="Georgano, p.13"/> version of the Grandfather Clock engine into this stagecoach and it became the first four-wheeled vehicle to reach {{convert|16|km/h|0}}. The engine power was transmitted by a set of belts. As with the motorcycle, it also was tested on the road to Untertürkheim where nowadays the [[Mercedes-Benz Arena|Gottlieb-Daimler-Stadion]] is situated.
+
+Driven by Daimler's desire to use the engine as many ways as possible,<ref name="Georgano, p.13"/> Daimler and Maybach also used their engine in other types of transport including:
+* on water (1887), by mounting it in a {{convert|4.5|m}} long boat and achieving a speed of {{convert|6|kn}}. The boat was called ''[[Neckar]]'' after the river it was tested on. (patent DRP 39-367). Boat engines would become Daimler's main product for several years. The first customers expressed fear the petrol engine could explode, so Daimler hid the engine with a ceramic cover and told them it was "Oil-Electrical".
+* street-cars and trolleys.
+* in the air in Daimler's balloon, usually regarded as the first airship, where it replaced a ''hand-operated-engine'' designed by Dr. [[Friedrich Hermann Wölfert]] of [[Leipzig]]. With the new engine, Daimler successfully flew over Seelberg on August 10, 1888.
+
+They sold their first foreign [[license]]s for engines in 1887 and Maybach went as company representative to the [[World's Fair|Paris World's Fair]] to show their achievements.
+
+==First Daimler-Maybach automobile (1889) built==
+{| border="1" cellpadding="2" cellspacing="0"  style="width:213px; float:right; margin:0 0 1em 1em; text-align:left; border-collapse:collapse; border:1px gray solid; font-size:69%; background:#f9f9f9;"
+|+ <big><big>'''Steel Wheel automobile 1889'''</big></big>
+|-
+| style="background:#efefef" align="center" colspan=2 | 
+|-
+!align=left|high speed four-stroke petrol engine
+|-
+!align=left|fuel vaporization
+|-
+!align=left|2 cylinders V-configured
+|-
+!align=left|mushroom shaped valves
+|-
+!align=left|water-cooled
+|-
+!align=left|4 speed toothed gearbox
+|-
+!align=left|pioneer axle-pivot steering system
+|}
+
+Engine sales increased, mostly for boat use, and in June 1887, Daimler bought another property at Seelberg hill, Cannstatt. It was located some distance from the town on Ludwigstraße 67 because Cannstatt's mayor did not approve of the workshop which cost 30,200 gold marks. The new premises had room for twenty-three employees and Daimler managed the commercial issues while Maybach ran the engine design department.
+
+In 1889, Daimler and Maybach built their first [[automobile]] that did not involve adapting a horse-drawn carriage with their engine, but which was somewhat influenced by bicycle designs. There was no production in Germany, but it was licensed to be built in France and presented to the public in Paris in October 1889 by both engineers. The same year, Daimler's wife, Emma Kunz, died.
+
+==The Phoenix engine (1890 to 1900)==
+
+In 1890 [[Daimler Motoren Gesellschaft]] (Daimler Engines Company) or DMG, was founded with Maybach as chief designer. Its purpose was the construction of small, high-speed engines for use on land, water, and air transport. The three uses were expressed by Daimler in a sketch and it became the basis for a logo of with a three-pointed star.
+
+Daimler and Maybach were struggling financially with the company, they were not selling enough engines or making enough money from their patents. Two financiers and munitions makers, [[Max Von Duttenhofer]] and [[William Lorenz]], along with the influential banker [[Kilian von Steiner]] agreed to inject some capital and converted the company on November 28, 1890 into a public corporation named the [[Daimler Motoren Gesellschaft]], DMG.
+
+Many German historians consider this Daimler's "pact with the devil".<ref>{{cite web|author=Von Georg Etscheit |url=http://zeus.zeit.de/text/2004/15/M-Daimler |title=Der Tόftler im Glashaus |publisher=Zeus.zeit.de |date= |accessdate=2009-05-09}}</ref> DMG expanded, but it changed. The newcomers, not believing in automobile production, ordered the creation of additional stationary building capacity, and also considered merging DMG with Otto's ''Deutz-AG''.
+
+Daimler and Maybach preferred plans to produce automobiles and reacted against Duttenhofer and Lorenz. Maybach was denied a seat on the Board and on February 11, 1891, left the company. He continued his design work as a freelance in Cannstatt from his own house, with Daimler's support, moving to the closed Hermann Hotel in the autumn of 1892 using its ballroom and winter garden, employing twelve workers and five apprentices.
+
+==1892 first automobile sold==
+Finally, in 1892, DMG sold its first automobile. Gottlieb Daimler, at age fifty-eight, had heart problems and suffered a collapse in the winter of 1892 and 1893. His doctor prescribed a trip to [[Florence]], Italy where he met [[Lina Hartmann]], a widow twenty-two years his junior, who was the owner of the hotel where he was staying. They married on July 8, 1893, honeymooning in [[Chicago]] during its World Fair.
+
+<!-- Unsourced image removed: [[Image:zzz-Phoenix1894.jpg|thumb|right|'''Third Daimler-Maybach engine: ''Phoenix'' (1894)'''|{{deletable image-caption|1=Saturday, 19 April 2008}}]] -->
+The disputes with Lorenz continued. Daimler attempted to buy 102 extra shares to get a majority holding, but was forced out of his post as technical director. The company also was in debt to the amount of 400,000 gold marks and the other directors threatened to declare bankruptcy if Daimler didn't sell them all his shares and all his personal patent rights from the previous thirty years. Daimler accepted the option, receiving 66,666 gold marks, resigning in 1893.
+
+In 1894 at the Hermann Hotel, Maybach together with Daimler and his son Paul designed a third engine called the ''Phoenix'' and had DMG make it. It featured:
+* four cylinders cast in one block arranged vertically and parallel
+* camshaft operated exhaust valves
+* a spray nozzle carburetor, patented by Maybach in 1893
+* an improved belt drive system
+It became famous around the world and when fitted to a car it won the petrol engine category of the first car race in history, the [[Auto racing#The Start|Paris to Rouen 1894]].
+
+The ill-defined relationship between the inventors and DMG harmed the image of DMG's technical department. This continued until during 1894 when the British industrialist [[Frederick Simms]] made it a condition of his 350,000 mark purchase of a Phoenix engine license, which would stabilize the company finances, that Daimler, now aged sixty, should return to DMG. Gottlieb Daimler received 200,000 gold marks in shares, plus a 100,000<!--marks or shares?--> bonus. Simms received the right to use the name ''Daimler'' as his brand name for the engines. In 1895, the year DMG assembled its 1000th engine, Maybach also returned as chief engineer, receiving 30,000 in shares.
+
+During this period, they agreed to licenses to build ''Daimler'' engines around the world, which included:
+* France, from 1890, by [[Panhard|Panhard et Levassor]] and [[Peugeot]]
+* USA, from 1891, by German piano maker ''[[Steinway]]''
+* United Kingdom, from 1896, by Frederick Simms as his [[Daimler Motor Company]]
+* Austria, by [[Austro Daimler]]
+
+Daimler died in 1900, and in 1907 Maybach resigned from DMG.
+
+==Personal life==
+{{Unreferenced section|date=December 2007}}
+In a letter to his wife in the 1870s there was historically significant remark. On a panoramic postcard of Cologne, Gottieb Daimler traced a three pointed star, writing: "one day this star will shine over our triumphant factories". The motto inspired Daimler and Maybach to use petrol engines in three ways, on land, water and air. After more than two decades, under Paul and Adolf Daimler's initiative, Daimler's star became the trademark of DMG-Mercedes engine of 1902 that was built by Maybach two years after Daimler's death. Gottlieb Daimler was accepted into the ''[[Automotive Hall of Fame]]'' in 1978. Between 1993 and July 2008 Daimler had a stadium named after him in [[Stuttgart]], [[Germany]]. The [[Mercedes-Benz Arena|Gottlieb-Daimler-Stadion]] was the venue for six matches in the [[2006 FIFA World Cup]]. It is now called Mercedes-Benz Arena.
+
+Gottlieb Daimler's motto was: ''Das Beste oder nichts'': "Nothing but the best".<ref>{{cite book|last=Nitske|first=W Robert |title=The complete Mercedes story: the thrilling seventy-year history of Daimler|publisher=Macmillan|location=London|date=1955|page=9|oclc=59017729}}</ref>
+
+==See also==
+*[[German inventors and discoverers]]
+*[[Daimler Motor Company]] (later acquired by [[Jaguar (car)|Jaguar]].)
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{commons|Gottlieb Daimler}}
+*[http://www.daimler-benz-stiftung.de/home/en/start.html Gottlieb Daimler and Karl Benz-Foundation]
+*[http://www.mbusa.com/brand/container.jsp?/heritage/history.jsp&menu=2_2&sub=0 Mercedes Benz USA]
+*[http://www.cms.daimlerchrysler.com/emb_classic/0,,0-195-78831-1-84733-1-0-0-0-0-0-434-78641-0-0-0-0-0-0-0,00.html Mercedes Benz Canada]
+*[http://es.encarta.msn.com/encyclopedia_761561916/Gottlieb_Daimler.html Encarta article] ([http://www.webcitation.org/5kwq9h5W8 Archived] 2009-10-31)
+*[http://de.wikipedia.org/wiki/Gottlieb_Daimler German Wikipedia (German)]
+*[http://www.autonews.com/files/euroauto/inductees/daimler.htm The workaholic who made the automotive revolution possible]
+
+{{DEFAULTSORT:Daimler, Gottlieb}}
+[[Category:1834 births]]
+[[Category:1900 deaths]]
+[[Category:Automotive pioneers]]
+[[Category:Daimler Motoren Gesellschaft]]
+[[Category:German founders of automobile manufacturers]]
+[[Category:German engineers]]
+[[Category:German inventors]]
+[[Category:National Inventors Hall of Fame inductees]]
+[[Category:People associated with the internal combustion engine]]
+[[Category:People from the Kingdom of Württemberg]]
+[[Category:University of Stuttgart alumni]]
+[[Category:19th-century aviation]]
+[[Category:19th-century German aviation]]
+
+[[ar:غوتليب دايملر]]
+[[bg:Готлиб Даймлер]]
+[[ca:Gottlieb Daimler]]
+[[cs:Gottlieb Daimler]]
+[[da:Gottlieb Daimler]]
+[[de:Gottlieb Daimler]]
+[[et:Gottlieb Daimler]]
+[[es:Gottlieb Daimler]]
+[[eo:Gottlieb Daimler]]
+[[fr:Gottlieb Daimler]]
+[[hr:Gottlieb Daimler]]
+[[io:Gottlieb Daimler]]
+[[id:Gottlieb Daimler]]
+[[it:Gottlieb Daimler]]
+[[he:גוטליב דיימלר]]
+[[pam:Gottlieb Daimler]]
+[[sw:Gottlieb Daimler]]
+[[lv:Gotlībs Daimlers]]
+[[lt:Gottlieb Daimler]]
+[[hu:Gottlieb Daimler]]
+[[mk:Готлиб Вилхелм Дајмлер]]
+[[mr:गोटलिब डाइमलर]]
+[[nl:Gottlieb Daimler]]
+[[ja:ゴットリープ・ダイムラー]]
+[[no:Gottlieb Daimler]]
+[[pl:Gottlieb Daimler]]
+[[pt:Gottlieb Daimler]]
+[[ro:Gottlieb Daimler]]
+[[ru:Даймлер, Готтлиб]]
+[[sk:Gottlieb Daimler]]
+[[sr:Готлиб Дајмлер]]
+[[fi:Gottlieb Daimler]]
+[[sv:Gottlieb Daimler]]
+[[tl:Gottlieb Daimler]]
+[[tr:Gottlieb Daimler]]
+[[uk:Готтліб Даймлер]]
+[[zh:戈特利布·戴姆勒]]

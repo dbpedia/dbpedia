@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = significant design
+| rdfs:domain = Architect
+}}

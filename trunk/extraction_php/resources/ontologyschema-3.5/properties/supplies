@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = supplies
+| rdfs:domain = Artery
+| rdfs:range = AnatomicalStructure
+}}

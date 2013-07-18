@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = total launches
+|rdfs:domain = Rocket
+|rdfs:range = xsd:integer
+}}

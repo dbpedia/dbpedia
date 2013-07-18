@@ -1,0 +1,621 @@
+{{ConditionalMapping
+| cases =
+ {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value = River
+    | mapping = {{TemplateMapping
+                   | mapToClass = River
+                }}
+ }}
+
+  {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value = Bridge
+    | mapping = {{TemplateMapping
+                   | mapToClass = Bridge
+                }}
+ }}
+ 
+ 
+  {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value =  City
+    | mapping = {{TemplateMapping
+                  | mapToClass = City
+	              | mappings =
+                    
+                    {{PropertyMapping | templateProperty = country | ontologyProperty =  country }}
+                    {{PropertyMapping | templateProperty = state | ontologyProperty =  state }}
+                    {{PropertyMapping | templateProperty = region | ontologyProperty =  region }}
+                    {{PropertyMapping | templateProperty = district | ontologyProperty =  district }}
+                    
+                    {{PropertyMapping | templateProperty = part | ontologyProperty =  part }}
+                    {{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = Area}}
+                    {{PropertyMapping | templateProperty = area_imperial | ontologyProperty = areaTotal | unit = Area}}
+                    {{PropertyMapping | templateProperty = area_land | ontologyProperty = areaLand | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_water | ontologyProperty = areaWater | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_land_imperial | ontologyProperty = areaLand | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_water_imperial | ontologyProperty = areaWater | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_urban | ontologyProperty =  areaUrban | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_urban_imperial | ontologyProperty =  areaUrban | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_metro | ontologyProperty =  areaMetro | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_metro_imperial | ontologyProperty =  areaMetro | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_water_percentage | ontologyProperty = percentageOfAreaWater }}
+                    {{PropertyMapping | templateProperty = area_water_percentage_round | ontologyProperty = percentageOfAreaWaterRound }}
+	
+                    {{GeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+                    {{PropertyMapping | templateProperty = elevation_imperial | ontologyProperty = elevation | unit = foot }}	
+                    
+                    {{PropertyMapping | templateProperty = highest_name | ontologyProperty =  highest }}
+                    {{PropertyMapping | templateProperty = highest_location | ontologyProperty =  highestMountain }}
+                    {{PropertyMapping | templateProperty = highest_location | ontologyProperty =  highestPlace }}
+                    {{GeocoordinatesMapping | ontologyProperty =  highestPosition | latitudeDegrees = highest_lat_d  | latitudeMinutes = highest_lat_m  | latitudeSeconds = highest_lat_s  | latitudeDirection = highest_lat_NS  | longitudeDegrees = highest_long_d  | longitudeMinutes = highest_long_m  | longitudeSeconds = highest_long_s  | longitudeDirection = highest_long_EW }}
+                    {{PropertyMapping | templateProperty = highest_elevation | ontologyProperty =  highestElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = highest_elevation_imperial| ontologyProperty =  highestElevation | unit = foot }}
+                    {{PropertyMapping | templateProperty = lowest_name | ontologyProperty =  lowest }}
+                    {{PropertyMapping | templateProperty = lowest_location | ontologyProperty =  lowestMountain }}
+                    {{PropertyMapping | templateProperty = lowest_location | ontologyProperty =  lowestPlace }}
+                    {{GeocoordinatesMapping | ontologyProperty =  lowestPosition | latitudeDegrees = lowest_lat_d  | latitudeMinutes = lowest_lat_m  | latitudeSeconds = lowest_lat_s  | latitudeDirection = lowest_lat_NS  | longitudeDegrees = lowest_long_d  | longitudeMinutes = lowest_long_m  | longitudeSeconds = lowest_long_s  | longitudeDirection = lowest_long_EW }}
+                    {{PropertyMapping | templateProperty = lowest_elevation | ontologyProperty =  lowestElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = lowest_elevation_imperial| ontologyProperty =  lowestElevation | unit = foot }}
+                    
+                    {{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = Area}}
+                    {{PropertyMapping | templateProperty = area_imperial | ontologyProperty = areaTotal | unit = Area}}
+                    {{PropertyMapping | templateProperty = area_land | ontologyProperty = areaLand | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_water | ontologyProperty = areaWater | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_land_imperial | ontologyProperty = areaLand | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_water_imperial | ontologyProperty = areaWater | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_urban | ontologyProperty =  areaUrban | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_urban_imperial | ontologyProperty =  areaUrban | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_metro | ontologyProperty =  areaMetro | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_metro_imperial | ontologyProperty =  areaMetro | unit = Area }}
+                        
+                    {{PropertyMapping | templateProperty = population | ontologyProperty =  populationTotal }}
+                    {{PropertyMapping | templateProperty = population_as_of | ontologyProperty =  populationAsOf }}
+                    {{PropertyMapping | templateProperty = population_metro | ontologyProperty =  populationMetro }}
+                    {{PropertyMapping | templateProperty = population_urban | ontologyProperty =  populationUrban }}
+                    {{PropertyMapping | templateProperty = population_density | ontologyProperty =  populationDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_imperial | ontologyProperty =  populationDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_urban_imperial | ontologyProperty =  populationUrbanDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_urban | ontologyProperty =  populationUrbanDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_metro | ontologyProperty =  populationMetroDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_metro_imperial | ontologyProperty =  populationMetroDensity | unit = PopulationDensity }}
+
+
+                    {{PropertyMapping | templateProperty = established | ontologyProperty =  established }}
+                    {{PropertyMapping | templateProperty = established1 | ontologyProperty =  established }}
+                    {{PropertyMapping | templateProperty = established2 | ontologyProperty =  established }}
+                    {{PropertyMapping | templateProperty = leader | ontologyProperty =  leader }}
+                    
+                    {{PropertyMapping | templateProperty = postal_code | ontologyProperty =   postalCode}}
+                    {{PropertyMapping | templateProperty = area_code | ontologyProperty =   areaCode}}
+                    {{PropertyMapping | templateProperty = code | ontologyProperty =   code}}
+                    {{PropertyMapping | templateProperty = area_code | ontologyProperty =   timezone}}
+                }}
+   }}
+ 
+   {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value =  Lake
+    | mapping = {{TemplateMapping
+                   | mapToClass = Lake
+                }}
+   }} 
+ 
+    {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value =  River
+    | mapping = {{TemplateMapping
+                   | mapToClass = River
+	               | mappings = 	
+	
+                        {{PropertyMapping | templateProperty = category | ontologyProperty = type }}
+                        {{PropertyMapping | templateProperty = length_imperial | ontologyProperty = length | unit = mile }}
+                        {{PropertyMapping | templateProperty = width_imperial | ontologyProperty = width | unit = Length }}
+                        {{PropertyMapping | templateProperty = depth_imperial  | ontologyProperty = depth | unit = Length }}
+	
+                        {{PropertyMapping | templateProperty = watershed_imperial | ontologyProperty = watershed | unit = squareMile }}
+                        {{PropertyMapping | templateProperty = watershed | ontologyProperty = watershed | unit = Area }}
+                        {{PropertyMapping | templateProperty = discharge_imperial | ontologyProperty = maximumDischarge | unit = cubicFeetPerSecond }}
+                        {{PropertyMapping | templateProperty = discharge_average | ontologyProperty = dischargeAverage | unit = cubicMetrePerSecond }}
+                        {{PropertyMapping | templateProperty = discharge_average_imperial | ontologyProperty = dischargeAverage | unit = cubicFeetPerSecond }}
+                        
+                        {{PropertyMapping | templateProperty = discharge | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+                        {{PropertyMapping | templateProperty = discharge | ontologyProperty = discharge | unit = cubicMetrePerSecond }}
+                        {{PropertyMapping | templateProperty = discharge_max_imperial | ontologyProperty = maximumDischarge | unit = cubicFeetPerSecond }}
+                        {{PropertyMapping | templateProperty = discharge_max | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+                        {{PropertyMapping | templateProperty = discharge_min_imperial | ontologyProperty = minimumDischarge | unit = cubicFeetPerSecond }}
+                        {{PropertyMapping | templateProperty = discharge_min | ontologyProperty = minimumDischarge | unit = cubicMetrePerSecond }}
+                        {{PropertyMapping | templateProperty = parent | ontologyProperty = parent}}
+                        {{PropertyMapping | templateProperty = tributary_left | ontologyProperty = leftTributary}}	
+                        {{PropertyMapping | templateProperty = tributary_right | ontologyProperty = rightTributary}}	
+                        {{PropertyMapping | templateProperty = tributary_left1 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left2 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left3 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left4 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left5 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left6 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left7 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left8 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left9 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left10 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left11 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left12 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left13 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left14 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_left15 | ontologyProperty = leftTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right1 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right2 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right3 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right4 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right5 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right6 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right7 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right8 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right9 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right10 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right11 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right12 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right13 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right14 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = tributary_right15 | ontologyProperty = rightTributary}}
+                        {{PropertyMapping | templateProperty = volume | ontologyProperty = volume | unit = Volume }}
+                        {{PropertyMapping | templateProperty = volume_imperial | ontologyProperty = volume | unit = Volume }}
+                        {{PropertyMapping | templateProperty = municipality | ontologyProperty = municipality }}
+                        {{PropertyMapping | templateProperty = source_region | ontologyProperty = sourceRegion }}
+                        {{PropertyMapping | templateProperty = source_country | ontologyProperty = sourceCountry }}
+                        {{PropertyMapping | templateProperty = source1_region | ontologyProperty = sourceRegion }}
+                        {{PropertyMapping | templateProperty = source1_country | ontologyProperty = sourceCountry }}
+                        {{PropertyMapping | templateProperty = source_confluence_region | ontologyProperty = sourceConfluenceRegion }}
+                        {{PropertyMapping | templateProperty = source_confluence_country | ontologyProperty = sourceConfluenceCountry }}
+                        {{PropertyMapping | templateProperty = mouth_region | ontologyProperty = mouthRegion }}
+                        {{PropertyMapping | templateProperty = mouth_country | ontologyProperty = mouthCountry }}
+                        {{PropertyMapping | templateProperty = mouth | ontologyProperty = mouth }}
+                        {{PropertyMapping | templateProperty = mouth_name | ontologyProperty = mouth }}
+                        {{PropertyMapping | templateProperty = source_name | ontologyProperty = source }}
+
+                        {{PropertyMapping | templateProperty = source | ontologyProperty = source }}
+                        {{PropertyMapping | templateProperty = source1 | ontologyProperty = source }}
+                        {{PropertyMapping | templateProperty = source_confluence | ontologyProperty = sourceConfluence }}
+                        {{PropertyMapping | templateProperty = mouth_elevation | ontologyProperty = mouthElevation | unit = metre }}
+                        {{PropertyMapping | templateProperty = source_elevation | ontologyProperty = sourceElevation | unit = metre }}
+                        {{PropertyMapping | templateProperty = source_elevation_imperial| ontologyProperty = sourceElevation | unit = foot }}
+                        {{PropertyMapping | templateProperty = source1_elevation | ontologyProperty = sourceElevation | unit = metre }}
+                        {{PropertyMapping | templateProperty = source_confluence_elevation | ontologyProperty = sourceConfluenceElevation | unit = metre }}
+                        {{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country1 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country2 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country3 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country4 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country5 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country6 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country7 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country8 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country9 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country10 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country11 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country12 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country13 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country14 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country15 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state1 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state2 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state3 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state4 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state5 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state6 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state7 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state8 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state9 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state10 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state11 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state12 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state13 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state14 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state15 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+                        {{PropertyMapping | templateProperty = district | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = region1 | ontologyProperty = region }}
+                        {{PropertyMapping | templateProperty = district1 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = city | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city1 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city2 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city3 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city4 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city5 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city6 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city7 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city8 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city9 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city10 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city11 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city12 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city13 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city14 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city15 | ontologyProperty = city }}
+
+                        {{PropertyMapping | templateProperty = source_location | ontologyProperty = sourceMountain }}
+                        {{PropertyMapping | templateProperty = source_location | ontologyProperty = sourcePlace }}
+                        {{PropertyMapping | templateProperty = source1_location | ontologyProperty = sourceMountain }}
+                        {{PropertyMapping | templateProperty = source1_location | ontologyProperty = sourcePlace }}
+                        {{PropertyMapping | templateProperty = source_confluence_location | ontologyProperty = sourceConfluenceMountain }}
+                        {{PropertyMapping | templateProperty = source_confluence_location | ontologyProperty = sourceConfluencePlace }}
+                        {{PropertyMapping | templateProperty = mouth_location | ontologyProperty = mouthMountain }}
+                        {{PropertyMapping | templateProperty = mouth_location | ontologyProperty = mouthPlace }}
+                        {{PropertyMapping | templateProperty = river | ontologyProperty = foaf:name }}
+                        {{GeocoordinatesMapping | ontologyProperty = sourcePosition | latitudeDegrees = source_lat_d  | latitudeMinutes = source_lat_m  | latitudeSeconds = source_lat_s  | latitudeDirection = source_lat_NS  | longitudeDegrees = source_long_d  | longitudeMinutes = source_long_m  | longitudeSeconds = source_long_s  | longitudeDirection = source_long_EW }}
+                        {{GeocoordinatesMapping | ontologyProperty = sourcePosition | latitudeDegrees = source1_lat_d  | latitudeMinutes = source1_lat_m  | latitudeSeconds = source1_lat_s  | latitudeDirection = source1_lat_NS  | longitudeDegrees = source1_long_d  | longitudeMinutes = source1_long_m  | longitudeSeconds = source1_long_s  | longitudeDirection = source1_long_EW }}
+                        {{GeocoordinatesMapping | ontologyProperty = sourceConfluencePosition | latitudeDegrees = source_confluence_lat_d  | latitudeMinutes = source_confluence_lat_m  | latitudeSeconds = source_confluence_lat_s  | latitudeDirection = source_confluence_lat_NS  | longitudeDegrees = source_confluence_long_d  | longitudeMinutes = source_confluence_long_m  | longitudeSeconds = source_confluence_long_s  | longitudeDirection = source_confluence_long_EW }}
+                        {{GeocoordinatesMapping | ontologyProperty = mouthPosition | latitudeDegrees = mouth_lat_d  | latitudeMinutes = mouth_lat_m  | latitudeSeconds = mouth_lat_s  | latitudeDirection = mouth_lat_NS  | longitudeDegrees = mouth_long_d  | longitudeMinutes = mouth_long_m  | longitudeSeconds = mouth_long_s  | longitudeDirection = mouth_long_EW }}
+                }}
+    }} 
+ 
+  {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value =  Water
+    | mapping = {{TemplateMapping
+                   | mapToClass = BodyOfWater
+                }} 
+  }}
+ 
+ {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value = Mountain
+    | mapping = {{TemplateMapping
+                  | mapToClass = Mountain
+	              | mappings =
+	
+                    {{PropertyMapping | templateProperty = category | ontologyProperty = type }}
+                    
+                    {{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+                    {{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+                    {{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+                    {{PropertyMapping | templateProperty = district | ontologyProperty = district }}
+                    {{PropertyMapping | templateProperty = municipality | ontologyProperty = municipality }}
+                    {{PropertyMapping | templateProperty = elevation_imperial | ontologyProperty = elevation | unit = Length }}	
+                    {{GeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+
+                    {{PropertyMapping | templateProperty = range | ontologyProperty = range }}
+                    {{PropertyMapping | templateProperty = prominence | ontologyProperty = prominence | unit = metre }}
+                    {{PropertyMapping | templateProperty = geology | ontologyProperty = geology }}
+                    {{PropertyMapping | templateProperty = orogeny | ontologyProperty = orogeny }}
+                    {{PropertyMapping | templateProperty = period | ontologyProperty = period }}
+                    {{PropertyMapping | templateProperty = biome | ontologyProperty = biome }}
+                    {{PropertyMapping | templateProperty = plant | ontologyProperty = plant }}
+                    {{PropertyMapping | templateProperty = animal | ontologyProperty = animal }}
+                    {{PropertyMapping | templateProperty = public | ontologyProperty = public }}
+                    {{PropertyMapping | templateProperty = access | ontologyProperty = access }}
+                    {{PropertyMapping | templateProperty = ascent | ontologyProperty = ascent}}
+                    {{PropertyMapping | templateProperty = ascent_date | ontologyProperty = ascentDate}}
+                }}
+ }}
+ 
+  {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value = Building
+    | mapping = {{TemplateMapping
+                   | mapToClass = Building
+                }}
+ }}
+
+  {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value = Protected area
+    | mapping = {{TemplateMapping
+                   | mapToClass = ProtectedArea
+	               | mappings =
+	
+                        {{PropertyMapping | templateProperty = other_name1 | ontologyProperty = otherName }}
+                        {{PropertyMapping | templateProperty = category_local | ontologyProperty = type }}
+                        {{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = country1 | ontologyProperty = country }}
+                        {{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = state1 | ontologyProperty = state }}
+                        {{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+                        {{PropertyMapping | templateProperty = region_type | ontologyProperty = regionType }}
+                        {{PropertyMapping | templateProperty = district | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district1 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district2 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district3 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district4 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district5 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district6 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district7 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district8 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district9 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = district10 | ontologyProperty = district }}
+                        {{PropertyMapping | templateProperty = city | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city_type | ontologyProperty = cityType }}
+                        {{PropertyMapping | templateProperty = city1 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city2 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city3 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city4 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city5 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city6 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city7 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city8 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city9 | ontologyProperty = city }}
+                        {{PropertyMapping | templateProperty = city10 | ontologyProperty = city }}	
+                        {{GeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+                        {{PropertyMapping | templateProperty = length_imperial | ontologyProperty = length | unit = mile}}
+                        {{PropertyMapping | templateProperty = width_imperial | ontologyProperty = width | unit = mile }}
+	
+                        {{PropertyMapping | templateProperty = highest | ontologyProperty = highest }}
+                        {{PropertyMapping | templateProperty = highest_location | ontologyProperty = highestMountain }}
+                        {{PropertyMapping | templateProperty = highest_location | ontologyProperty = highestPlace }}
+                        {{GeocoordinatesMapping | ontologyProperty = highestPosition | latitudeDegrees = highest_lat_d  | latitudeMinutes = highest_lat_m  | latitudeSeconds = highest_lat_s  | latitudeDirection = highest_lat_NS  | longitudeDegrees = highest_long_d  | longitudeMinutes = highest_long_m  | longitudeSeconds = highest_long_s  | longitudeDirection = highest_long_EW }}
+                        {{PropertyMapping | templateProperty = highest_elevation | ontologyProperty = highestElevation | unit = metre }}
+                        {{PropertyMapping | templateProperty = highest_elevation_imperial| ontologyProperty = highestElevation | unit = foot }}
+                        {{PropertyMapping | templateProperty = lowest | ontologyProperty = lowest }}
+                        {{PropertyMapping | templateProperty = lowest_location | ontologyProperty = lowestMountain }}
+                        {{PropertyMapping | templateProperty = lowest_location | ontologyProperty = lowestPlace }}
+                        {{GeocoordinatesMapping | ontologyProperty = lowestPosition | latitudeDegrees = lowest_lat_d  | latitudeMinutes = lowest_lat_m  | latitudeSeconds = lowest_lat_s  | latitudeDirection = lowest_lat_NS  | longitudeDegrees = lowest_long_d  | longitudeMinutes = lowest_long_m  | longitudeSeconds = lowest_long_s  | longitudeDirection = lowest_long_EW }}
+                        {{PropertyMapping | templateProperty = lowest_elevation | ontologyProperty = lowestElevation | unit = metre }}
+                        {{PropertyMapping | templateProperty = lowest_elevation_imperial| ontologyProperty = lowestElevation | unit = foot }}
+
+                        {{PropertyMapping | templateProperty = geology | ontologyProperty = geology }}
+                        {{PropertyMapping | templateProperty = geology1 | ontologyProperty = geology }}
+                        {{PropertyMapping | templateProperty = geology2 | ontologyProperty = geology }}
+                        {{PropertyMapping | templateProperty = geology3 | ontologyProperty = geology }}
+                        {{PropertyMapping | templateProperty = geology4 | ontologyProperty = geology }}
+                        {{PropertyMapping | templateProperty = geology5 | ontologyProperty = geology }}
+                        {{PropertyMapping | templateProperty = geology6 | ontologyProperty = geology }}
+                        {{PropertyMapping | templateProperty = biome | ontologyProperty = biome }}
+                        {{PropertyMapping | templateProperty = biome1 | ontologyProperty = biome }}
+                        {{PropertyMapping | templateProperty = plant | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant1 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal1 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant2 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal2 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant3 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal3 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant4 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal4 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant5 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal5 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant6 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal6 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant7 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal7 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant8 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal8 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant9 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal9 | ontologyProperty = animal }}
+                        {{PropertyMapping | templateProperty = plant10 | ontologyProperty = plant }}
+                        {{PropertyMapping | templateProperty = animal10 | ontologyProperty = animal }}
+	
+                        {{PropertyMapping | templateProperty = established | ontologyProperty = established }}
+                        {{PropertyMapping | templateProperty = management_body | ontologyProperty = management }}
+                        {{PropertyMapping | templateProperty = management_location | ontologyProperty = managementMountain }}
+                        {{PropertyMapping | templateProperty = management_location | ontologyProperty = managementPlace }}
+                        {{GeocoordinatesMapping | ontologyProperty = managementPosition | latitudeDegrees = management_lat_d  | latitudeMinutes = management_lat_m  | latitudeSeconds = management_lat_s  | latitudeDirection = management_lat_NS  | longitudeDegrees = management_long_d  | longitudeMinutes = management_long_m  | longitudeSeconds = management_long_s  | longitudeDirection = management_long_EW }}
+                        {{PropertyMapping | templateProperty = management_elevation | ontologyProperty = managementElevation | unit = metre }}
+                        {{PropertyMapping | templateProperty = management_elevation_imperial| ontologyProperty = managementElevation | unit = foot }}
+
+                        {{PropertyMapping | templateProperty = visitation | ontologyProperty = visitation}}
+                        {{PropertyMapping | templateProperty = visitation_Year | ontologyProperty = visitationYear}}
+	
+                }}
+   }}
+ 
+  {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value = Island
+    | mapping = {{TemplateMapping
+                  | mapToClass = Island
+	              | mappings =
+	
+                    {{PropertyMapping | templateProperty = motto | ontologyProperty =  motto }}
+                    {{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+                    {{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+                    {{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+                    {{PropertyMapping | templateProperty = district | ontologyProperty = district }}
+                    {{PropertyMapping | templateProperty = municipality | ontologyProperty = municipality }}
+                    {{PropertyMapping | templateProperty = parent | ontologyProperty = parent }}
+                    {{PropertyMapping | templateProperty = range | ontologyProperty = range }}
+                    {{PropertyMapping | templateProperty = border | ontologyProperty = border }}
+                    {{PropertyMapping | templateProperty = part | ontologyProperty = part }}
+                    {{PropertyMapping | templateProperty = tributary_left | ontologyProperty = leftTributary }}
+                    {{PropertyMapping | templateProperty = tributary_right | ontologyProperty = rightTributary }}
+                    {{PropertyMapping | templateProperty = child_left | ontologyProperty = leftChild }}
+                    {{PropertyMapping | templateProperty = child_right | ontologyProperty = rightChild }}
+                    {{PropertyMapping | templateProperty = building | ontologyProperty = building }}
+                    {{PropertyMapping | templateProperty = river | ontologyProperty = river }}
+                    {{PropertyMapping | templateProperty = city | ontologyProperty = city }}
+                    
+                    {{PropertyMapping | templateProperty = category | ontologyProperty = type }}
+                    
+                    {{PropertyMapping | templateProperty = prominence | ontologyProperty = prominence | unit = metre }}
+                    {{GeocoordinatesMapping | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeSeconds = lat_s  | latitudeDirection = lat_NS  | longitudeDegrees = long_d  | longitudeMinutes = long_m  | longitudeSeconds = long_s  | longitudeDirection = long_EW }}
+                    {{PropertyMapping | templateProperty = capital_location | ontologyProperty = capitalMountain }}
+                    {{PropertyMapping | templateProperty = capital_location | ontologyProperty = capitalPlace }}
+                    {{PropertyMapping | templateProperty = capital | ontologyProperty = capital }}
+                    {{PropertyMapping | templateProperty = capital_elevation | ontologyProperty = capitalElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = capital_elevation_imperial | ontologyProperty = capitalElevation | unit = foot }}
+                    {{PropertyMapping | templateProperty = capital_region | ontologyProperty = capitalRegion }}
+                    {{PropertyMapping | templateProperty = capital_country | ontologyProperty = capitalCountry }}
+                    {{GeocoordinatesMapping | ontologyProperty = capitalPosition | latitudeDegrees = capital_lat_d  | latitudeMinutes = capital_lat_m  | latitudeSeconds = capital_lat_s  | latitudeDirection = capital_lat_NS  | longitudeDegrees = capital_long_d  | longitudeMinutes = capital_long_m  | longitudeSeconds = capital_long_s  | longitudeDirection = capital_long_EW }}
+
+                    {{PropertyMapping | templateProperty = source_location | ontologyProperty = sourceMountain }}
+                    {{PropertyMapping | templateProperty = source_location | ontologyProperty = sourcePlace }}
+                    {{PropertyMapping | templateProperty = source1_location | ontologyProperty = sourceMountain }}
+                    {{PropertyMapping | templateProperty = source1_location | ontologyProperty = sourcePlace }}
+                    {{PropertyMapping | templateProperty = source_confluence_location | ontologyProperty = sourceConfluenceMountain }}
+                    {{PropertyMapping | templateProperty = source_confluence_location | ontologyProperty = sourceConfluencePlace }}
+                    {{PropertyMapping | templateProperty = mouth_location | ontologyProperty = mouthMountain }}
+                    {{PropertyMapping | templateProperty = mouth_location | ontologyProperty = mouthPlace }}
+                    {{PropertyMapping | templateProperty = source_region | ontologyProperty = sourceRegion }}
+                    {{PropertyMapping | templateProperty = source_country | ontologyProperty = sourceCountry }}
+                    {{PropertyMapping | templateProperty = source1_region | ontologyProperty = sourceRegion }}
+                    {{PropertyMapping | templateProperty = source1_country | ontologyProperty = sourceCountry }}
+                    {{PropertyMapping | templateProperty = source_confluence_region | ontologyProperty = sourceConfluenceRegion }}
+                    {{PropertyMapping | templateProperty = source_confluence_state | ontologyProperty = sourceConfluenceState }}
+                    {{PropertyMapping | templateProperty = mouth_region | ontologyProperty = mouthRegion }}
+                    {{PropertyMapping | templateProperty = mouth_country | ontologyProperty = mouthCountry }}
+                    {{PropertyMapping | templateProperty = mouth | ontologyProperty = mouth }}
+                    {{PropertyMapping | templateProperty = source | ontologyProperty = source }}
+                    {{PropertyMapping | templateProperty = source1 | ontologyProperty = source }}
+                    {{PropertyMapping | templateProperty = source_confluence | ontologyProperty = sourceConfluence }}
+                    {{PropertyMapping | templateProperty = mouth_elevation | ontologyProperty = mouthElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = mouth_elevation_imperial| ontologyProperty = mouthElevation | unit = foot }}
+                    {{PropertyMapping | templateProperty = source_elevation | ontologyProperty = sourceElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = source_elevation_imperial| ontologyProperty = sourceElevation | unit = foot }}
+                    {{PropertyMapping | templateProperty = source1_elevation_imperial| ontologyProperty = sourceConfluenceElevation | unit = foot }}
+                    {{PropertyMapping | templateProperty = source_confluence_elevation_imperial| ontologyProperty = sourceElevation | unit = foot }}
+                    {{PropertyMapping | templateProperty = source1_elevation | ontologyProperty = sourceElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = source_confluence_elevation | ontologyProperty = sourceConfluenceElevation | unit = metre }}
+                    {{GeocoordinatesMapping | ontologyProperty = sourcePosition | latitudeDegrees = source_lat_d  | latitudeMinutes = source_lat_m  | latitudeSeconds = source_lat_s  | latitudeDirection = source_lat_NS  | longitudeDegrees = source_long_d  | longitudeMinutes = source_long_m  | longitudeSeconds = source_long_s  | longitudeDirection = source_long_EW }}
+                    {{GeocoordinatesMapping | ontologyProperty = sourcePosition | latitudeDegrees = source1_lat_d  | latitudeMinutes = source1_lat_m  | latitudeSeconds = source1_lat_s  | latitudeDirection = source1_lat_NS  | longitudeDegrees = source1_long_d  | longitudeMinutes = source1_long_m  | longitudeSeconds = source1_long_s  | longitudeDirection = source1_long_EW }}
+                    {{GeocoordinatesMapping | ontologyProperty = sourceConfluencePosition | latitudeDegrees = source_confluence_lat_d  | latitudeMinutes = source_confluence_lat_m  | latitudeSeconds = source_confluence_lat_s  | latitudeDirection = source_confluence_lat_NS  | longitudeDegrees = source_confluence_long_d  | longitudeMinutes = source_confluence_long_m  | longitudeSeconds = source_confluence_long_s  | longitudeDirection = source_confluence_long_EW }}
+                    {{GeocoordinatesMapping | ontologyProperty = mouthPosition | latitudeDegrees = mouth_lat_d  | latitudeMinutes = mouth_lat_m  | latitudeSeconds = mouth_lat_s  | latitudeDirection = mouth_lat_NS  | longitudeDegrees = mouth_long_d  | longitudeMinutes = mouth_long_m  | longitudeSeconds = mouth_long_s  | longitudeDirection = mouth_long_EW }}
+
+                    {{PropertyMapping | templateProperty = length_imperial | ontologyProperty = length | unit = mile}}
+                    {{PropertyMapping | templateProperty = width_imperial | ontologyProperty = width | unit = mile }}
+                    {{PropertyMapping | templateProperty = height_imperial | ontologyProperty = height | unit = foot }}
+                    {{PropertyMapping | templateProperty = depth_imperial | ontologyProperty = depth | unit = foot }}
+                    {{PropertyMapping | templateProperty = volume | ontologyProperty = volume | unit = Volume }}
+                    {{PropertyMapping | templateProperty = volume_imperial | ontologyProperty = volume | unit = Volume }}
+                    {{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = kilogram }}
+                    {{PropertyMapping | templateProperty = weight_imperial | ontologyProperty = weight | unit = pound }}
+                    {{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = Area}}
+                    {{PropertyMapping | templateProperty = area_imperial | ontologyProperty = areaTotal | unit = Area}}
+                    {{PropertyMapping | templateProperty = area_land_imperial | ontologyProperty = areaLand | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_water_imperial | ontologyProperty = areaWater | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_urban | ontologyProperty =  areaUrban | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_urban_imperial | ontologyProperty =  areaUrban | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_metro | ontologyProperty =  areaMetro | unit = Area }}
+                    {{PropertyMapping | templateProperty = area_metro_imperial | ontologyProperty =  areaMetro | unit = Area }}
+                    {{PropertyMapping | templateProperty = discharge_imperial | ontologyProperty = maximumDischarge | unit = cubicFeetPerSecond }}
+                    {{PropertyMapping | templateProperty = discharge | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+                    {{PropertyMapping | templateProperty = discharge | ontologyProperty = discharge | unit = cubicMetrePerSecond }}
+                    {{PropertyMapping | templateProperty = discharge_max_imperial | ontologyProperty = maximumDischarge | unit = cubicFeetPerSecond }}
+                    {{PropertyMapping | templateProperty = discharge_max | ontologyProperty = maximumDischarge | unit = cubicMetrePerSecond }}
+                    {{PropertyMapping | templateProperty = discharge_min_imperial | ontologyProperty = minimumDischarge | unit = cubicFeetPerSecond }}
+                    {{PropertyMapping | templateProperty = discharge_min | ontologyProperty = minimumDischarge | unit = cubicMetrePerSecond }}
+                    {{PropertyMapping | templateProperty = highest | ontologyProperty = highest }}
+                    {{PropertyMapping | templateProperty = highest_region | ontologyProperty = highestRegion }}
+                    {{PropertyMapping | templateProperty = highest_state | ontologyProperty = highestState }}
+                    {{PropertyMapping | templateProperty = highest_location | ontologyProperty = highestMountain }}
+                    {{PropertyMapping | templateProperty = highest_location | ontologyProperty = highestPlace }}
+                    {{GeocoordinatesMapping | ontologyProperty = highestPosition | latitudeDegrees = highest_lat_d  | latitudeMinutes = highest_lat_m  | latitudeSeconds = highest_lat_s  | latitudeDirection = highest_lat_NS  | longitudeDegrees = highest_long_d  | longitudeMinutes = highest_long_m  | longitudeSeconds = highest_long_s  | longitudeDirection = highest_long_EW }}
+                    {{PropertyMapping | templateProperty = highest_elevation | ontologyProperty = highestElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = highest_elevation_imperial| ontologyProperty = highestElevation | unit = foot }}
+                    {{PropertyMapping | templateProperty = lowest | ontologyProperty = lowest }}
+                    {{PropertyMapping | templateProperty = lowest_region | ontologyProperty = lowestRegion }}
+                    {{PropertyMapping | templateProperty = lowest_state | ontologyProperty = lowestState }}
+                    {{PropertyMapping | templateProperty = lowest_location | ontologyProperty = lowestMountain }}
+                    {{PropertyMapping | templateProperty = lowest_location | ontologyProperty = lowestPlace }}
+                    {{GeocoordinatesMapping | ontologyProperty = lowestPosition | latitudeDegrees = lowest_lat_d  | latitudeMinutes = lowest_lat_m  | latitudeSeconds = lowest_lat_s  | latitudeDirection = lowest_lat_NS  | longitudeDegrees = lowest_long_d  | longitudeMinutes = lowest_long_m  | longitudeSeconds = lowest_long_s  | longitudeDirection = lowest_long_EW }}
+                    {{PropertyMapping | templateProperty = lowest_elevation | ontologyProperty = lowestElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = lowest_elevation_imperial| ontologyProperty = lowestElevation | unit = foot }}
+                    
+                    {{PropertyMapping | templateProperty = population | ontologyProperty =  populationTotal }}
+                    {{PropertyMapping | templateProperty = population_date | ontologyProperty =  populationAsOf }}
+                    {{PropertyMapping | templateProperty = population_metro | ontologyProperty =  populationMetro }}
+                    {{PropertyMapping | templateProperty = population_urban | ontologyProperty =  populationUrban }}
+                    {{PropertyMapping | templateProperty = population_density | ontologyProperty =  populationDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_imperial | ontologyProperty =  populationDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_urban_imperial | ontologyProperty =  populationUrbanDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_urban | ontologyProperty =  populationUrbanDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_metro | ontologyProperty =  populationMetroDensity | unit = PopulationDensity }}
+                    {{PropertyMapping | templateProperty = population_density_metro_imperial | ontologyProperty =  populationMetroDensity | unit = PopulationDensity }}
+
+                    {{PropertyMapping | templateProperty = geology | ontologyProperty = geology }}
+                    {{PropertyMapping | templateProperty = orogeny | ontologyProperty = orogeny }}
+                    {{PropertyMapping | templateProperty = period | ontologyProperty = period }}
+                    {{PropertyMapping | templateProperty = biome | ontologyProperty = biome }}
+                    {{PropertyMapping | templateProperty = plant | ontologyProperty = plant }}
+                    {{PropertyMapping | templateProperty = animal | ontologyProperty = animal }}
+                    {{PropertyMapping | templateProperty = style | ontologyProperty = style }}
+                    {{PropertyMapping | templateProperty = material | ontologyProperty = material }}
+                    
+                    {{PropertyMapping | templateProperty = established | ontologyProperty = established }}
+                    {{PropertyMapping | templateProperty = date | ontologyProperty = date }}
+                    {{PropertyMapping | templateProperty = management | ontologyProperty = management }}
+                    {{PropertyMapping | templateProperty = management_region | ontologyProperty = managementRegion }}
+                    {{PropertyMapping | templateProperty = management_country | ontologyProperty = managementCountry }}
+                    {{PropertyMapping | templateProperty = management_location | ontologyProperty = managementMountain }}
+                    {{PropertyMapping | templateProperty = management_location | ontologyProperty = managementPlace }}
+                    {{GeocoordinatesMapping | ontologyProperty = managementPosition | latitudeDegrees = management_lat_d  | latitudeMinutes = management_lat_m  | latitudeSeconds = management_lat_s  | latitudeDirection = management_lat_NS  | longitudeDegrees = management_long_d  | longitudeMinutes = management_long_m  | longitudeSeconds = management_long_s  | longitudeDirection = management_long_EW }}
+                    {{PropertyMapping | templateProperty = management_elevation | ontologyProperty = managementElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = management_elevation_imperial| ontologyProperty = managementElevation | unit = foot }}
+
+                    {{PropertyMapping | templateProperty = government | ontologyProperty = government }}
+                    {{PropertyMapping | templateProperty = government_region | ontologyProperty = governmentRegion }}
+                    {{PropertyMapping | templateProperty = government_country | ontologyProperty = governmentCountry }}
+                    {{PropertyMapping | templateProperty = government_location | ontologyProperty = governmentMountain }}
+                    {{PropertyMapping | templateProperty = government_location | ontologyProperty = governmentPlace }}
+                    {{GeocoordinatesMapping | ontologyProperty = governmentPosition | latitudeDegrees = government_lat_d  | latitudeMinutes = government_lat_m  | latitudeSeconds = government_lat_s  | latitudeDirection = government_lat_NS  | longitudeDegrees = government_long_d  | longitudeMinutes = government_long_m  | longitudeSeconds = government_long_s  | longitudeDirection = government_long_EW }}
+                    {{PropertyMapping | templateProperty = government_elevation | ontologyProperty = governmentElevation | unit = metre }}
+                    {{PropertyMapping | templateProperty = government_elevation_imperial| ontologyProperty = governmentElevation | unit = foot }}
+
+                    {{PropertyMapping | templateProperty = owner | ontologyProperty = owner }}
+                    {{PropertyMapping | templateProperty = owner | ontologyProperty = owningOrganisation }}
+                    {{PropertyMapping | templateProperty = mayor | ontologyProperty = mayor }}
+                    {{PropertyMapping | templateProperty = leader | ontologyProperty = leader }}
+                    
+                    {{PropertyMapping | templateProperty = public | ontologyProperty = public }}
+                    {{PropertyMapping | templateProperty = access | ontologyProperty = access }}
+                    {{PropertyMapping | templateProperty = ascent | ontologyProperty = ascent}}
+                    {{PropertyMapping | templateProperty = visitation | ontologyProperty = visitation}}
+                    {{PropertyMapping | templateProperty = visitation_date | ontologyProperty = visitationDate}}
+                    {{PropertyMapping | templateProperty = postal_code | ontologyProperty =  postalCode}}
+                    {{PropertyMapping | templateProperty = area_code | ontologyProperty =  areaCode}}
+            }}
+ }}
+
+ 
+  {{Condition
+    | templateProperty = 1
+    | operator = equals
+    | value = Cave
+    | mapping = {{TemplateMapping
+                   | mapToClass = Cave
+                }}
+  }}
+ 
+ {{Condition
+    | otherwise
+    | mapping = {{TemplateMapping
+                   | mapToClass = Place
+                }}
+ }}
+
+ | defaultMappings = 
+ 
+    {{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = other_name | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = nativeName }}
+    {{PropertyMapping | templateProperty = officialName | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = nickname }}
+	{{PropertyMapping | templateProperty = areaTotal | ontologyProperty = areaTotal | unit = Area }}
+	{{PropertyMapping | templateProperty = areaLand | ontologyProperty = areaLand | unit = Area }}
+	{{PropertyMapping | templateProperty = areaWater | ontologyProperty = areaWater | unit = Area }}
+	{{PropertyMapping | templateProperty = areaWaterPercentage | ontologyProperty = percentageOfAreaWater }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = maximumElevation | ontologyProperty = maximumElevation | unit = Length }}
+	{{PropertyMapping | templateProperty = minimumElevation | ontologyProperty = minimumElevation | unit = Length }}
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = width | ontologyProperty = width | unit = Length }}
+	{{PropertyMapping | templateProperty = depth | ontologyProperty = depth | unit = Length }}
+	{{PropertyMapping | templateProperty = maximumDepth | ontologyProperty = maximumDepth | unit = Length }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = nearestCity | ontologyProperty = nearestCity }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+    
+    {{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+}}

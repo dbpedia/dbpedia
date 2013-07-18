@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Military Unit
+|rdfs:subClassOf = Organisation
+}}

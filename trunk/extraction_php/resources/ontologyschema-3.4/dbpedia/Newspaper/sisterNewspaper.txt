@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = sister newspaper
+|rdfs:domain = Newspaper
+|rdfs:range = Newspaper
+}}

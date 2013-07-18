@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = commune
+|rdfs:domain = Area
+|rdfs:range = PopulatedPlace
+}}

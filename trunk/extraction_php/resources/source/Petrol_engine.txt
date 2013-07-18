@@ -1,0 +1,81 @@
+{{Unreferenced|date=March 2009}}
+[[Image:Volkswagen W16.jpg|thumb|180px|right|[[W16 engine|W16]] petrol engine of the [[Bugatti Veyron]]]]
+{{main|Internal combustion engine}}
+
+A '''petrol engine''' (known as a '''gasoline engine''' in [[North America]]) is an [[internal combustion engine]] with [[spark-ignition engine|spark-ignition]], designed to run on petrol ([[gasoline]]) and similar volatile fuels.
+
+It differs from a [[diesel engine]] in the method of mixing the fuel and air, and in the fact that it uses [[spark plug]]s to initiate the combustion process.  In a diesel engine, only air is compressed (and therefore heated), and the fuel is injected into the now very hot air at the end of the compression stroke, and self-ignites.  In a petrol engine, the fuel and air are usually pre-mixed before compression (although some modern petrol engines now utilise cylinder-direct petrol injection).  The pre-mixing was formerly done in a [[carburetor]], but now (except in the smallest engines) it is done by electronically-controlled [[fuel injection]].  Pre-mixing of fuel and air allows a petrol engine to run at a much higher speed than a diesel, but severely limits their compression, and thus efficiency.{{Fact|date=March 2009}}
+
+The first fast-running petrol engine was invented by the German automobile pioneer [[Gottlieb Daimler]].  
+
+==Applications==
+Petrol engines have many applications, including:
+
+* [[Automobile|Motor cars]]
+* [[Motorcycle]]s
+* [[Aircraft]]
+* [[Motorboat]]s
+* Small machines, such as [[lawn mower]]s, [[chainsaw]]s and portable [[engine-generator]]s
+
+==Design==
+===Working cycles===
+[[Image:4-Stroke-Engine.gif|right|4-Takt Petrol engine]]
+Petrol engines may run on the four-stroke cycle or the two-stroke cycle.  For details of working cycles see:
+
+* [[Four-stroke cycle]]
+* [[Two-stroke cycle]]
+* [[Wankel engine]]
+
+===Cylinder arrangement===
+Common cylinder arrangements are from 1 to 6 cylinders [[straight engine|in-line]] or from 2 to 16 cylinders in [[V engine|V-formation]]. [[flat engine|Flat engines]] -- like a V design flattened out-- are common in small airplanes and motorcycles and were a hallmark of [[volkswagen|Volkswagen]] automobiles into the 1990s. [[flat-6|Flat 6s]] are still used in many modern [[porsche|Porsches]], as well as [[subaru|Subarus]]. Many flat engines are air-cooled. Less common, but notable in vehicles designed for high speeds is the W formation, similar to having 2 V engines side by side. Alternatives include [[rotary engine|rotary]] and [[radial engine]]s the latter typically have 7 or 9 cylinders in a single ring, or 10 or 14 cylinders in two rings.
+
+===Cooling===
+Petrol engines may be [[air-cooled engine|air-cooled]], with fins (to increase the surface area on the cylinders) and [[cylinder head]]; or liquid-cooled, by a [[water jacket]] and [[radiator (engine cooling)|radiator]].  The [[antifreeze|coolant]] was formerly water, but is now usually a mixture of water and [[ethylene glycol]].  This mixture has a lower freezing-point and a higher boiling-point than pure water, and also prevents corrosion, with modern antifreezes also containing lubricants and other additives to protect [[water pump]] seals and bearings.  The cooling system is usually slightly pressurised to raise the [[boiling point]] of the coolant.
+
+===Compression ratio===
+The [[compression ratio]] is the ratio between the total volumes of the cylinder AND the combustion chambers - at the beginning, and end of the compression stroke.  Broadly speaking, the higher the compression ratio, the higher the efficiency of the engine.  However, compression ratio has to be limited to avoid pre-ignition of the fuel-air mixture which would cause [[engine knocking]] and damage to the engine.  Modern motor-car engine generally have compression ratios of between 9:1 and 10:1, but this can go up to 11 or 12:1 for high-performance engines that run on higher octane fuel.
+
+===Ignition===
+{{main|Ignition system}}
+Petrol engines use [[spark ignition]] and [[high voltage]] current for the spark may be provided by a [[magneto (electrical)|magneto]] or an [[ignition coil]].  In modern car engines the [[ignition timing]] is managed by an electronic [[Engine Control Unit]].
+
+==See also==
+*[[gasoline direct injection]]
+
+==References==
+{{reflist}}
+
+== External links ==
+  
+[[Category:Internal combustion piston engines]]
+[[Category:Petroleum]]
+[[Category:Gasoline engines]]
+
+{{Link FA|fr}}
+
+[[ar:محرك أوتو]]
+[[ca:Motor de gasolina]]
+[[cs:Zážehový motor]]
+[[da:Ottomotor]]
+[[de:Ottomotor]]
+[[fr:Moteur à allumage commandé]]
+[[hr:Benzinski motor]]
+[[id:Mesin bensin]]
+[[he:מנוע בנזין]]
+[[mr:पेट्रोल इंजिन]]
+[[ms:Enjin petrol]]
+[[nl:Benzinemotor]]
+[[ja:ガソリンエンジン]]
+[[no:Bensinmotor]]
+[[nn:Bensinmotor]]
+[[pl:Silnik o zapłonie iskrowym]]
+[[ru:Бензиновый двигатель внутреннего сгорания]]
+[[sk:Zážihový motor]]
+[[sl:Ottov motor]]
+[[fi:Ottomoottori]]
+[[sv:Ottomotor]]
+[[tr:Benzinli motor]]
+[[uk:Бензиновий двигун]]
+[[vi:Động cơ xăng]]
+[[vls:Naftemoteur]]
+[[zh:火花點火]]

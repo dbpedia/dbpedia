@@ -1,0 +1,28 @@
+{{ DBpediaTemplateMapping
+| mapToClass = SoccerPlayer
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = youthyears | ontologyProperty = SoccerPlayer/youthYears }}
+	{{ DBpediaPropertyMapping | templateProperty = youthclubs | ontologyProperty = SoccerPlayer/youthClub }}
+	{{ DBpediaPropertyMapping | templateProperty = years | ontologyProperty = SoccerPlayer/years }}
+	{{ DBpediaPropertyMapping | templateProperty = clubs | ontologyProperty = SoccerPlayer/club }}
+	{{ DBpediaPropertyMapping | templateProperty = nationalyears | ontologyProperty = SoccerPlayer/nationalYears }}
+	{{ DBpediaPropertyMapping | templateProperty = nationalteam | ontologyProperty = SoccerPlayer/nationalTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = manageryears | ontologyProperty = SoccerPlayer/managerYears }}
+	{{ DBpediaPropertyMapping | templateProperty = managerclubs | ontologyProperty = SoccerPlayer/managerClub }}
+	{{ DBpediaPropertyMapping | templateProperty = appearancesInLeague | ontologyProperty = SoccerPlayer/appearancesInLeague }}
+	{{ DBpediaPropertyMapping | templateProperty = goalsInLeague | ontologyProperty = SoccerPlayer/goalsInLeague }}
+	{{ DBpediaPropertyMapping | templateProperty = appearancesInNationalTeam | ontologyProperty = SoccerPlayer/appearancesInNationalTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = goalsInNationalTeam | ontologyProperty = SoccerPlayer/goalsInNationalTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = dateofbirth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = cityofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = countryofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = dateofdeath | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = cityofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = countryofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = position | ontologyProperty = Athlete/currentPosition }}
+	{{ DBpediaPropertyMapping | templateProperty = currentclub | ontologyProperty = Athlete/currentTeam }}
+	{{ DBpediaPropertyMapping | templateProperty = clubnumber | ontologyProperty = Athlete/currentNumber }}
+}}

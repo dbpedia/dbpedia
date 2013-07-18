@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Airline
+| rdfs:subClassOf = Company
+}}

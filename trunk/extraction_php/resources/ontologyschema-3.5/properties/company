@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = company
+| rdfs:domain = Canal
+| rdfs:range = Organisation
+}}

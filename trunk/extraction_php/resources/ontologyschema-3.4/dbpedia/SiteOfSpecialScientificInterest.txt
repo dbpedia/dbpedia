@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Site Of Special Scientific Interest
+|rdfs:subClassOf = Place
+}}

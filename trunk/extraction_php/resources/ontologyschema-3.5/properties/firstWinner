@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = first winner
+| rdfs:domain = Race
+| rdfs:range = Person
+}}

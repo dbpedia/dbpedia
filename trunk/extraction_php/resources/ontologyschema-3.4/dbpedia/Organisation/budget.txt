@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= budget
+|rdfs:domain	= Organisation
+|rdfs:range		= Currency
+}}

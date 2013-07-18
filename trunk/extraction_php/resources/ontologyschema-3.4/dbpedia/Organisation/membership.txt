@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= membership
+|rdfs:domain	= Organisation
+|rdfs:range		= xsd:string
+}}

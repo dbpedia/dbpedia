@@ -1,0 +1,11 @@
+<?php
+
+// prefix of wikipedia instances, language code will be appended
+$instancesPrefix = 'C:/.../wikipedia_';
+
+// where to save the extracted files
+$extractionDir = 'C:/...';
+
+// language codes
+$extractionLanguages = array('en','de','fr','pl','ja','it','nl','pt','es','ru','sv','zh','no','fi','ca','uk','tr','cs','hu','ro','vo','eo','da','sk','id','ar','ko','he','lt','vi','sl','sr','bg','et','fa','hr','simple','new','ht','nn','gl','th','te','el','ms','eu','ceb','mk','hi','ka','la','bs','lb','br','is','bpy','mr','sq','cy','az','sh','tl','lv','pms','bn','be_x_old','jv','ta','oc','io','be','an','su','nds','scn','nap','ku','ast','af','fy','sw','wa','zh_yue','bat_smg','qu','ur','cv','ksh');
+

@@ -1,0 +1,18 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Road
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = state | ontologyProperty = Road/state }}
+	{{ DBpediaPropertyMapping | templateProperty = beltway_city | ontologyProperty = Road/beltwayCity }}
+	{{ DBpediaPropertyMapping | templateProperty = counties | ontologyProperty = Road/county }}
+	{{ DBpediaPropertyMapping | templateProperty = rural_municipalities | ontologyProperty = Road/ruralMunicipality }}
+	{{ DBpediaPropertyMapping | templateProperty = cities | ontologyProperty = Road/city }}
+	{{ DBpediaPropertyMapping | templateProperty = system | ontologyProperty = Road/system }}
+	{{ DBpediaPropertyMapping | templateProperty = spur_type | ontologyProperty = Road/spurType }}
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = route | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = alternate_name | ontologyProperty = Place/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = length_mi | ontologyProperty = Infrastructure/length | unit = mile }}
+	{{ DBpediaPropertyMapping | templateProperty = length_km | ontologyProperty = Infrastructure/length | unit = kilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = previous_route | ontologyProperty = Infrastructure/previousInfrastructure }}
+	{{ DBpediaPropertyMapping | templateProperty = next_route | ontologyProperty = Infrastructure/subsequentInfrastructure }}
+}}

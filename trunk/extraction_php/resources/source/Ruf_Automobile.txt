@@ -1,0 +1,81 @@
+{{Infobox_Company
+| company_name = Ruf Automobile GmbH
+| company_logo = [[Image:RUF Logo.jpg]]
+| company_type = [[Public company|Public]]
+| foundation = 1939
+| location = [[Pfaffenhausen]], [[Germany]]
+| key_people = Alois Ruf Sr.
+| industry = [[Automobile|Automotive]]
+| products = [[Automobile]]s
+| homepage = [http://www.ruf-automobile.de ruf-automobile.de]
+}}
+'''Ruf Automobile GmbH''' is a [[Germany|German]] [[automobile manufacturer]]. Rufs are built from unmarked [[Porsche]] bodies and chassis. When a chassis arrives, Ruf builds their own independent work into the car. Because Ruf installs many of their own-made parts, the company is recognized as a manufacturer by the German [[Federal Ministry of Transport, Building and Urban Affairs (Germany)|government]]. RUF is mostly known for their [[Ruf CTR|CTR Yellowbird]]. RUF is the biggest company to make [[Porsche]] tune-ups, their main rival is [[Gemballa]] from [[Leonberg]], [[Germany]]{{Fact|date=April 2009}}.
+
+== History ==
+The company was founded in 1923 in [[Pfaffenhausen]], [[Germany]] as "Auto Ruf" by Alois Ruf Sr. as a service garage and was eventually expanded to include a full-service gas station. Ruf began experimenting with vehicle designs of his own in the late 1940s, and in 1955 designed and built a tour bus, which he marketed around Germany. The positive response it received led to Ruf expanding his business again by starting his own separately owned bus company.
+
+Alois Sr.'s involvement in the auto industry had a distinct effect on his son, Alois Ruf Jr., who became a sports car enthusiast and in 1960 began servicing and restoring Porsche automobiles out of his father's garage. In 1974 when Alois Sr. died, Alois Jr. took control of the business and quickly decided to do away with the bus company, service garage and gas station, switching the company over to being solely focused on work with Porsche vehicles. A year later in 1975, the first Ruf tuned Porsches appeared for sale.
+
+Ruf debuted their first complete model in 1977, a tuned version of Porsche's [[Porsche 930|930]] with a stroked 3.3 litre motor. This was followed in 1978 by Ruf's first complete non-turbo Porsche, a naturally aspirated [[Porsche 911|911]] with a stroked 3.2 litre motor producing 217 horsepower.
+
+In the years since, the company has made a major mark on the automotive world by producing exceptionally powerful and exclusive Porsche based vehicles including the 1987 [[Ruf CTR|CTR]], which set the record as the world's fastest production automobile at the time of its release and the later the [[Ruf CTR2|CTR2]] which was again recognized as one of the fastest road-legal vehicles available anywhere in the world.
+
+In April 2007, Ruf released the new [[Ruf CTR3|CTR3]] to celebrate the company's new plant in [[Bahrain]] and as a 20th anniversary celebration of the original CTR.
+
+== Ruf Models ==
+{| style="float:Right;" 
+|-
+| [[Image:Ruf RGT 2007.jpg|thumb|200px|A 2007 RGT]]
+| [[Image:RUF CTR3.jpg|thumb|200px|A 2008 CTR3]]
+|}
+* [[Ruf CTR|CTR]] (also known as the CTR Yellowbird)
+* [[Ruf CTR2|CTR2]]
+* [[Ruf CTR3|CTR3]]
+* [[Ruf RGT|RGT]]
+* [[Ruf BTR|BTR]]
+* [[Ruf Turbo R|Turbo R]]
+* [[Ruf R Kompressor|R Kompressor]]
+* [[Ruf RTurbo|RTurbo]]
+* [[Ruf Rt 12|Rt 12]]
+* [[Ruf 3400S|3400S]]
+* [[Ruf 3600S|3600S]]
+* [[Ruf RK Coupe|RK Coupe/Spyder]]
+
+== Electric vehicles ==
+{{main|eRuf Model A}}
+The eRUF Model A is an [[Battery electric vehicle|all-electric]] [[sports car]] made by  Ruf Automobile. The car is powered by [[UQM Technologies]]<ref>{{cite web|url=http://www.uqm.com |title=UQM Technologies |publisher=Uqm.com |date= |accessdate=2009-04-29}}</ref>  propulsion system (a UQM PowerPhase 150). The car has a top speed of {{convert|225|km/h|mph|0|sp=us}}<ref>{{cite web|author=Nick Hall|title=eRuf Model A (electric Porsche 911)|url=http://cars.uk.msn.com/reviews/articles.aspx?cp-documentid=147866035|work=[[MSN]] Cars|date=2008-11-13|accessdate=2009-01-17}}</ref> and it’s capable of making 150 kW (201 horsepower) and 479 lb-ft of torque (650 Nm).<ref name=CD>{{cite web|author=Jake Holmes||title=Ruf eRuf Concept Model A - Car News|url=http://www.caranddriver.com/reviews/hot_lists/high_performance/porsche_file/ruf_eruf_concept_model_a_car_news|work=[[Car and Driver]]|date=October 2008|accessdate=2009-01-17}}</ref> Estimated range per charge is 250 kilometers to 320 kilometers, depending on performance level, using iron-phosphate, [[lithium-ion]] batteries built by Axeon of [[Great Britain]].<ref>{{cite web|url=http://www.electricdrive.org/index.php?tg=entry&idx=more&article=1996&idg=2 |title=Electric Drive Transportation Association |publisher=Electricdrive.org |date= |accessdate=2009-04-29}}</ref>  The power and [[torque]] produced by the 3-phase motor can be used to recover almost as much power as it can put out.<ref name=Ruf>{{cite press release|title=eRUF Concept Model A 2008 “Emotion without Emission”|url=http://www.ruf-automobiles.com/ibase/download.php?filename=%2Fhomepages%2F1%2Fd160998924%2Fhtdocs%2Fibase%2Fmodule%2Fmedienarchiv%2Fdateien%2Fpdf%2Fdownloads%2FEvents_Veroeffentlichungen%2Fpress_release_english_eRUF.pdf|format=PDF|publisher=Ruf Automobiles|date=2008-10-10|accessdate=2009-01-17}}</ref> During coasting the engine works as a generator producing electricity to charge the batteries.<ref name=Ruf/>  Ruf has ripped the combustion engine out of a [[Porsche 911]] and slotted in an electric motor.<ref>{{cite web|last=Hall |first=Nick |url=http://cars.uk.msn.com/reviews/articles.aspx?cp-documentid=147866035 |title=eRuf Model A (electric Porsche 911) - First Drives &#124; Reviews &#124; MSN Cars UK |publisher=Cars.uk.msn.com |date=2008-11-13 |accessdate=2009-04-29}}</ref>
+
+[[Alois Ruf]] is going to provide  a 204 kW [[brushless]] [[three-phase motor]] which will catapult the [[Porsche 911]] to a speed of 100&nbsp;km/h in less than 7 seconds, offering a [[torque]] of 650[[Newton metre|Nm]].
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commonscat|Ruf vehicles}}
+*[http://www.ruf-automobile.de Ruf Automobile official homepage]
+*[http://www.rufautocentre.com Ruf Auto Center USA]
+*[http://www.wiwo.de/service/videos/greenster-elektro-porsche-stellt-alles-in-den-schatten-182419.html German Video about the Greenster with his creator Alois Ruf]
+*[http://www.axeon.com Axeon: electric vehicle battery manufacturer]
+
+{{Ruf}}
+
+[[Category:Car manufacturers]]
+[[Category:Motor vehicle manufacturers of Germany]]
+[[Category:Auto parts suppliers]]
+[[Category:Motor vehicle companies]]
+[[Category:Automotive companies of Germany]]
+[[Category:Companies established in 1939]]
+[[Category:Battery electric vehicle manufacturers]]
+
+[[da:Ruf Automobile]]
+[[de:Ruf Automobile]]
+[[es:Ruf automobile]]
+[[fr:Ruf (automobile)]]
+[[it:Ruf Automobile]]
+[[nl:RUF Automobile GmbH]]
+[[ja:RUF (自動車)]]
+[[no:Ruf]]
+[[pl:RUF]]
+[[ru:РУФ Автомобили]]
+[[fi:RUF]]
+[[sv:RUF]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = automobile model
+| rdfs:domain = AutomobileEngine
+| rdfs:range = xsd:string
+}}

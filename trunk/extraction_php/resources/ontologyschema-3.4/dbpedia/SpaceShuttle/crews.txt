@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = crews
+|rdfs:domain = SpaceShuttle
+|rdfs:range = xsd:integer
+}}

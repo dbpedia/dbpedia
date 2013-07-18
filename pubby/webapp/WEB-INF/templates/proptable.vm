@@ -1,0 +1,63 @@
+    <table class="description">
+      <tr><th width="25%">Property</th><th>Value</th></tr>
+#foreach ($property in $properties)
+#if ($velocityCount % 2 == 0)
+#set ($odd_even = "even")
+#else
+#set ($odd_even = "odd")
+#end
+      <tr class="$odd_even">
+        <td class="property">
+#if ($property.isInverse())
+          <small>is</small>
+#end
+#if ($property.hasPrefix())
+          <a class="uri" href="$property.URI" title="$property.URI"><small>$property.Prefix:</small>$property.LocalName</a>
+#else
+          <a class="uri" href="$property.URI" title="$property.URI"><small>?:</small>$property.LocalName</a>
+#end
+#if ($property.isInverse())
+          <small>of</small>
+#end
+        </td>
+        <td>
+          <ul>
+#foreach ($value in $property.Values)
+            <li>
+#if ($value.Node.isURI())
+#if ($value.hasPrefix())
+              <a class="uri" href="$value.Node.URI" title="$value.Node.URI"><small>$value.Prefix:</small>$value.LocalName</a>
+#else
+              <small>&lt;</small><a class="uri" href="$value.Node.URI">$value.Node.URI</a><small>&gt;</small>
+#end
+#elseif ($value.Node.isBlank())
+              <span class="blank">_:$value.Node.BlankNodeLabel</span>
+#elseif ($value.Node.isLiteral())
+              <span class="literal">$value.Node.LiteralLexicalForm
+#if ($value.DatatypeLabel)
+                <small> ($value.DatatypeLabel)</small>
+#end
+#if ($value.Node.LiteralLanguage != "")
+                <small> ($value.Node.LiteralLanguage)</small>
+#end
+              </span>
+#end
+            </li>
+#end
+#if ($property.BlankNodeCount > 0)
+#if ($property.BlankNodeCount == 1)
+#set ($text = "1 anonymous resource")
+#elseif ($property.BlankNodeCount > 1)
+#set ($text = "$property.BlankNodeCount anonymous resources")
+#end
+#if ($property.PathPageURL)
+            <li>[<a href="$property.PathPageURL">$text</a>]</li>
+#else
+            <li>[$text]</li>
+#end
+#end
+          </ul>
+        </td>
+      </tr>
+#end
+    </table>

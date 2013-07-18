@@ -1,0 +1,10 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Cave
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = number of entrances | ontologyProperty = Cave/numberOfEntrances }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Place/location }}
+	{{ DBpediaPropertyMapping | templateProperty = depth | ontologyProperty = Place/depth | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = length | ontologyProperty = Place/length | unit = Length }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+}}

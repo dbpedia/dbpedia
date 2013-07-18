@@ -1,0 +1,22 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Software
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = developer | ontologyProperty = Software/developer }}
+	{{ DBpediaPropertyMapping | templateProperty = latestreleaseversion | ontologyProperty = Software/latestReleaseVersion }}
+	{{ DBpediaPropertyMapping | templateProperty = latestreleasedate | ontologyProperty = Software/latestReleaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = latestpreviewversion | ontologyProperty = Software/latestPreviewVersion }}
+	{{ DBpediaPropertyMapping | templateProperty = latestpreviewdate | ontologyProperty = Software/latestPreviewDate }}
+	{{ DBpediaPropertyMapping | templateProperty = frequentlyupdated | ontologyProperty = Software/frequentlyUpdated }}
+	{{ DBpediaPropertyMapping | templateProperty = programminglanguage | ontologyProperty = Software/programmingLanguage }}
+	{{ DBpediaPropertyMapping | templateProperty = operatingsystem | ontologyProperty = Software/operatingSystem }}
+	{{ DBpediaPropertyMapping | templateProperty = platform | ontologyProperty = Software/platform }}
+	{{ DBpediaPropertyMapping | templateProperty = size | ontologyProperty = Software/size | unit = megabyte }}
+	{{ DBpediaPropertyMapping | templateProperty = status | ontologyProperty = Software/status }}
+	{{ DBpediaPropertyMapping | templateProperty = license | ontologyProperty = Software/license }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = author | ontologyProperty = Work/author }}
+	{{ DBpediaPropertyMapping | templateProperty = released | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Work/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

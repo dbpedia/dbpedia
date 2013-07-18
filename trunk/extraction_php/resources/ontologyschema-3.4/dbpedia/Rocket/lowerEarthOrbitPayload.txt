@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = lower earth orbit payload
+|rdfs:domain = Rocket
+|rdfs:range = kilogram
+}}

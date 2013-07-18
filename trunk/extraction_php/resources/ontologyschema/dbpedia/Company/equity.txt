@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= equity
+|rdfs:domain	= Company
+|rdfs:range		= Currency
+}}

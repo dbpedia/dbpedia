@@ -1,0 +1,209 @@
+{{Infobox company
+|name             = MAN SE
+|logo             = [[Image:MAN logo.svg|center|200px]]
+|type             = [[Public company]]: [[European Company Statute|Societas Europaea]] (SE),<br>{{FWB|MAN}}
+|foundation       = 1758<ref name=MAN_history>{{cite web|url=http://www.man.de/MAN/en/Unternehmen/Die_MAN_Gruppe/Firmenhistorie/|title=MAN SE - The MAN Group's History - Industrial Pioneering|work=MAN SE|publisher=MAN.de|accessdate=23 November 2009}}</ref>
+|founder          = 
+|location         = [[Munich]], [[Bavaria]], [[Germany]]
+|locations        = manufacturing facilities in the [[Ruhr area]], [[Augsburg]], and outside Germany
+|area_served      = Worldwide
+|key_people       = Georg Pachta-Reyhofen <small>(interim [[chief executive officer|CEO]])</small>,<br>[[Ferdinand Piëch]] <small>([[chair (official)|Chairman]] of the [[supervisory board|Supervisory Board]])</small>
+|industry         = [[Manufacturing]],<br>[[Automotive industry]],<br>[[Marine engineering]]
+|products         = [[Truck]]s, [[bus]]es, [[diesel engine|diesel]] and other [[engine]]s, [[turbomachinery]]
+|services         = 
+|market_cap       = 
+|revenue          = {{increase}} [[Euro|€]]14.95 [[1000000000 (number)|billion]] <small>(2008)</small><ref name=Key_Figures>{{cite web|url=http://www.man.de/MAN/en/Unternehmen/Die_MAN_Gruppe/Kennzahlen/|title=MAN SE Key Figures - at a glance|work=MAN SE|publisher=MAN.de|accessdate=23 November 2009}}</ref>
+|operating_income = {{increase}} €1.729 billion <small>(2008)</small><ref name=Key_Figures/>
+|net_income       = {{increase}} €1.247 billion <small>(2008)</small><ref name=Key_Figures/>
+|assets           = 
+|equity           = {{increase}} €5.396 billion <small>(2008)</small><ref name=Key_Figures/>
+|num_employees    = {{decrease}} 49,472 <small>{{as of|2009|06|30}})</small><ref>{{cite web|url=http://www.man.de/MAN/en/Unternehmen/Die_MAN_Gruppe/Mitarbeiter/|title=MAN SE Employees|work=MAN SE|publisher=MAN.de|accessdate=23 November 2009}}</ref>
+|parent           = 
+|divisions        = MAN Nutzfahrzeuge AG,<br>MAN Diesel SE,<br>MAN Latin America,<br>MAN Turbo
+|subsid           = 
+|homepage         = [http://www.man.eu MAN.eu]
+|footnotes        = 
+|intl             = yes
+}}
+'''MAN [[European Company Statute|SE]]''', formerly '''MAN [[Aktiengesellschaft|AG]]''', also known as '''MAN Group''', is a [[mechanical engineering]] [[company]] based in [[Munich]], in the [[States of Germany|German State]] of [[Bavaria]].  Its primary output is for the [[automotive industry]], particulary heavy [[truck]]s.<ref name=MAN_Group>{{cite web|url=http://www.man.de/MAN/en/Unternehmen/Die_MAN_Gruppe/|title=MAN Group Overview|work=MAN SE|publisher=MAN.de|date= |accessdate=23 November 2009}}</ref>
+
+MAN is one of the world's leading manufacturers of engineering equipment and [[commercial vehicle]]s.  MAN supplies trucks, [[bus]]es,<ref name=MAN_Group/> [[diesel engine]]s,<ref name=MAN_Group/> [[turbomachinery]],<ref name=MAN_Group/> as well as industrial services, and holds leading market positions in all its business areas.<ref name=MAN_Group/>  MAN SE is one of the top 30 companies listed on the German stock exchange ([[DAX]]).<ref name=MAN_Group/>  It also is the oldest company within the DAX.  The company celebrated its 250th anniversary in 2008.<ref name=MAN_Group/><ref>[http://www.250-years-man.eu MAN SE]</ref>  In 2008, its 51,300 employees generated annual sales of around €15 billion in 120 different countries.  The company has [[joint venture]]s and other cooperations with local companies in [[India]], [[Poland]], [[Turkey]], and the [[United States]].
+
+MAN is securely positioned in the field of [[transport engineering]], having won numerous prizes.  Among those are the [[International Truck of the Year|Truck of the Year]] award in 2006, as well as in 2008, the Bus of the Year award 2006, and recently, the German business Innovation Prize<ref>[http://www.innovationspreis.com/ German business Innovation Prize] {{de icon}}</ref> ({{lang-de|Innovationspreis der deutschen Wirtschaft}}) in the Major Enterprises category for its innovative 32/40PGI gas engine which pioneers the combination of the Diesel and Otto principles.<ref>{{cite web|url=http://www.man.de/MAN/en/Investor_Relations/Finanznachrichten/Pressemitteilungen/Pressearchiv_2008/index.html?qry=080121_MD_innovationspreis.html|title=MAN Diesel SE wins German business Innovation Prize - Pioneering combination of the Diesel and Otto principles|work=MAN SE - Press Release|publisher=MAN.de|date=2008-01-21|accessdate=23 November 2009}}</ref>
+
+==Products and markets==
+*MAN Nutzfahrzeuge AG ({{lang-en|MAN Commercial Vehicles}}) is one of Europe's leading commercial vehicle manufacturers.
+*MAN Diesel SE is a world leader in large diesel ship engines and stationary engines.
+*MAN Latin America has a leading position in heavy trucks in Brazil.
+*MAN Turbo offers the largest turbomachinery product range in the world.
+
+{|
+|-
+|[[Image:MAN TGX.jpg|thumb|upright|MAN TGX [[truck]]]]
+|[[Image:Schiffsmotor MAN.JPG|thumb|upright|MAN marine [[internal combustion engine]]]]
+|[[Image:Four-Stroke Engine.jpg|thumb|upright|MAN [[diesel engine]]]]
+|[[Image:SteamTurbine.jpg|thumb|upright|MAN [[steam turbine]]]]
+|[[Image:MANConstellation.jpg|thumb|upright|MAN [[Volkswagen Trucks and Buses|VW]] [[Volkswagen Constellation|Constellation]] truck]]
+|}
+
+==History==
+MAN traces its origins back to 1758, when the "St. Antony" ironworks commenced operation in [[Oberhausen]],<ref name=MAN_history/> as the first heavy-industry enterprise in the [[Ruhr region]].<ref name=MAN_history/>  In 1808, the three ironworks "St. Antony", "Gute Hoffnung" ({{lang-en|"Good Hope"}}),<ref name=MAN_history/> and "Neue Essen" merged, to form the ''Hüttengewerkschaft und Handlung Jacobi'' ({{lang-en|"Iron Mining and Trading Company"}}), [[Oberhausen]], which was later renamed ''Gute Hoffnungshütte'' (GHH).  In 1921, GHH bought up M.A.N., the South German predecessor of MAN.
+
+In 1908, the ''Vereinigte Maschinenfabrik Augsburg und Maschinenbaugesellschaft Nürnberg A.G., Augsburg''<ref name=MAN_history/> ("United Machine Works Augsburg and Nuremberg Ltd."), which came into being through the 1898 merger of ''Maschinenbau-AG Nürnberg''<ref name=MAN_history/> (founded 1841), and the ''Maschinenfabrik Augsburg AG'' (founded 1840) was renamed '''''Maschinenfabrik Augsburg Nürnberg AG''''', Augsburg, or in short M.A.N.
+
+The early predecessors of MAN were responsible for numerous technological innovations, such as the first German rotary printing press for newspapers, the first refrigerating machine "System Linde" (1873), and co-operation in the development of the [[diesel engine]] between 1893-97.  In those years [[Rudolf Diesel]]’s invention was realized with the help of the engineers at the Maschinenfabrik Augsburg.<ref name=MAN_history/>
+
+During 1921, the majority of M.A.N. was taken over by the ''Gutehoffnungshütte Actienverein für Bergbau und Hüttenbetrieb, Sterkrade'' (GHH), (founded 1873).<ref name=MAN_history/>
+
+In 1924, the company showed a diesel [[truck]] at the [[Berlin Motor Show]], which was purchased in numbers by the [[Bavaria]]n [[Post Office]].<ref>''Great Trucks''</ref>
+
+During the 1930s, MAN marine diesels were produced under license in the U.S., and installed in their [[fleet submarine]]s, where they proved troublesome and unpopular in the [[Pacific War]].<ref>Blair, Clay, Jr. ''Silent Victory'' (Philadelphia: Lippincott, 1975).</ref>
+
+Early in 1942, using a hull designed by MAN, along with a [[Rheinmetall|Rheinmetall-Borsig]]-designed turret, the [[Panther tank]] used by Germany in [[World War II]] was created and deployed in Europe.
+
+===Post war===
+After the [[Second World War]], M.A.N. GHH lost all its foreign operations and suffered heavy war damage{{clarify|is this damage from Allied attacks, or war reparations?|date=May 2009}}.  Allied Forces took control of all GHH companies and broke up the company, placing the steel production facilities into separate ownership.  Thus the focus shifted towards the South German plants and commercial vehicles.
+
+In 1986, GHH was merged into M.A.N., with its headquarters in Munich.<ref name=MAN_history/>
+
+The MAN Group took over the truck builder Steyr Nutzfahrzeuge AG (formerly know as [[Steyr-Daimler-Puch]] AG) of [[Vienna]], [[Austria]] in 1991, which also has truck building works in Turkey (MAN-A.S.) and India (Shakti-MAN).<ref>The World Encyclopdia of Trucks, by Peter J. Davies, pub by Select Editions, ISBN 1-84309-201-8</ref>
+
+===21st Century===
+On 18 September 2006, MAN made a €10.3 billion offer for a takeover of [[Scania (company)|Scania AB]], one of the leading truck and bus companies in [[Sweden]].  MAN AG bought 15.6% of the voting shares in Scania AB.  [[Volkswagen Group]] (VWAG), Scania's largest shareholder, acquired a stake of 20% of MAN, and has since raised that stake to 29%.  VWAG has a majority stake in Scania, owning over 51% of the company.  It was widely expected that the two truck manufacturers would be combined, and that a combined MAN-Scania would also absorb [[Volkswagen Trucks and Buses]], Volkswagen Group's Brazilian heavy truck (now former) subsidiary of [[Volkswagen Commercial Vehicles]].  A more recent interview with VWAG CEO Martin Winterkorn stated that Volkswagen Group has no immediate plans to attempt to merge Scania and MAN, but he would also not rule out a MAN takeover of VWAG's Volkswagen Trucks and Buses.  However, in the first quarter 2009, Volkswagen Group sold its Brazilian Truck and Bus operations - Volkswagen Caminhões e Ônibus Indústria e Comércio de Veículos Comerciais Ltda, to MAN SE.<ref>{{cite web|title=Volkswagen sells heavy truck business in Brazil to MAN|url=http://www.volkswagenag.com/vwag/vwcorp/info_center/en/news/2008/12/Volkswagen_veraeussert_Nutzfahrzeuggeschaeft_in_Brasilien_an_MAN.html|work=[[Volkswagen Group|Volkswagen Aktiengesellschaft]]|publisher=VolkswagenAG.com|date=15 December 2008|accessdate=9 November 2009}}</ref>  It was also originally speculated that Volkswagen intended to acquire MAN Truck and Bus division by the end of 2008.<ref>[http://www.reuters.com/article/innovationNews/idUSWEB769220080305 Reuters.com - Volkswagen plans full MAN takeover in '08]</ref>  This has not been officially confirmed, and there has been no current action by VWAG in attempting to acquire MAN shares, or to buy the company's commercial vehicle division.
+
+In 2008, MAN celebrated the 250th [[anniversary]] of the company, with a gala event in Munich, exhibitions in the [[Deutsches Museum]] in Munich, the corporate museum in Augsburg, and the ''[[Rheinisches Industriemuseum]]'' in [[Oberhausen]].  One highlight should be an "Oldtimer Truck Convoy" on a historical route from Munich over Augsburg to Nuremberg in June.
+
+On 19 May 2009, MAN completed the switch from a German [[Aktiengesellschaft]] (AG) public company - to a [[European Company Statute]], or ''Societas Europaea'' (SE).
+
+==Divisions==
+[[Image:MAN logo.JPG|right|thumb|200px|This logo is on the front of all MAN trucks and buses. The lion comes from [[Büssing]] AG, a company that MAN acquired in 1971.]]
+
+;[[MAN Nutzfahrzeuge]] AG: [http://www.man-mn.com/en/en.jsp MAN-mn.com] (roughly 50% of overall sales; 88% of division sales come from European market)
+::[[Commercial vehicle]]s: [[truck]]s (61% of group sales), aftermarket parts and service (18%), [[MAN AG Buses]] and [[Neoman Bus]]es (14%), engines and components (7%)
+;[[MAN B&W Diesel|MAN Diesel]] SE: [http://www.mandiesel.com MANdiesel.com]
+::[[two-stroke engine|2-stroke]] and [[four-stroke engine|4-stroke]] [[diesel engine|diesel]] and [[petrol engine]]s: large marine and stationary diesel engines, engines for vehicles, industrial applications, [[power station]]s, [[yacht]]s, [[passenger ship]]s, [[ship]]s, and work-boats ([[tanker (ship)|tanker]]s, [[tugboat]]s, [[icebreaker]]s), railways.
+;[[MAN Latin America]]: former [[Volkswagen Trucks and Buses]] [http://www.vwtrucksandbuses.com/en/default.aspx vwtrucksandbuses.com]
+;MAN Turbo AG: [http://www.manturbo.com/en/index2.html MANturbo.com]
+::[[turbomachinery|Turbomachine]]s: [[gas compressor|compressors]] and [[turbine]]s for process industry and [[power generation]] worldwide; used in [[petroleum|oil]] and [[natural gas]], [[refinery]], [[chemical]] and [[petrochemical]], [[fertilizer]]s, [[industrial gas]]es, [[iron]] and [[steel]] processing and [[mining]], power generation applications.
+;[[MAN Ferrostaal]] AG: (30% stake, remainder owned by [[International Petroleum Investment Company]])
+::[[industry|Industrial]] [[service (economics)|service]]s: projecting, delivery, assembly, including steel-based structures
+;[[RENK]] AG: [http://www.renk.biz RENK.biz]
+::Vehicle [[transmission (mechanics)|Transmissions]], Industrial Gear Units, Marine Gear Units, Slide Bearings, Couplings
+;[[China National Heavy Duty Truck Group|Sinotruk]]: (25% stake acquired 2009/07/24)
+
+==Products - MAN Nutzfahrzeuge AG division==
+[[Image:MAN TGA 28.350 rechts.jpg|right|thumb|[[MAN TGA 28.350]] low-entry [[cabin (truck)|cabin]] [[garbage truck|waste collection truck]]]]
+[[Image:MAN CNG 503.jpg|thumb|right|2nd-hand [[MAN Lion's City]] bus in [[Bangkok]], locally outfitted to use [[compressed natural gas|CNG]]]]
+[[Image:Patrick Port Botany.jpg|right|thumb|A MAN AG [[container crane]] for [[intermodal container]]s, belonging to [[Patrick Corporation]] at [[Port Botany]], [[New South Wales]], [[Australia]].]]
+
+===Trucks and military vehicles===
+*[[MAN LE Series|LE Series]]
+*[[MAN FE Series|FE Series]]
+*[http://www.militarytrucks.man-mn.com/en/Products/High_Mobility_Truck_System.jsp HX Series] - military
+*[http://www.militarytrucks.man-mn.com/en/Products/Extreme_Mobility_Truck_System/Extreme_Mobility_Truck_System.jsp SX Series] - military
+*[[MAN TGL Series|TGL Series]], with [[hybrid truck]]s ( MAN TGL OPTISTRANG and TGL [[EDA]]).
+*[[MAN TGM Series|TGM Series]]
+*[[MAN TGA Series|TGA Series]]
+*[[MAN TGX/S Series|TGX/S Series]] - variant of TGS model was used for [[Dakar Rally]]
+*[[ERF (lorry manufacturer)|ERF]] - a UK-only brand, bought from [[Western Star]] (which soon after became part of [[Freightliner LLC]]) in 2000
+*[[MAN Hazmat|Hazmat]] tender
+*[[MAN Angloco|Angloco]] foam fire tender
+*[[MAN Command|Command]] unit
+
+===Buses===
+{{Main|MAN AG Buses|Neoman Bus|Neoplan}}
+{{div col|cols=2}}
+*[[MAN Lion's City|Lion's City]] city- / inter-urban bus
+*[[MAN Lion's Classic|Lion's Classic]] city- / inter-urban bus
+*[[MAN Lion's Regio|Lion's Regio]] inter-urban bus
+*[[MAN Americana|Americana]] city-bus
+*[[MAN Fortuna|Fortuna]] inter-urban bus
+*[[MAN NM 223/283|NM 223/283]]
+*[[MAN NL/ÜL 313|NL/ÜL 313]] / 363 F (LF)
+*[[MAN NL 202|NL 202]] / 232 (LF)
+*[[MAN NL 223|NL 233]] / 233 / 263 (LF)
+*[[MAN NL 262|NL 262]] R
+*[[MAN NL 273|NL 273]] F
+*[[MAN NG 263|NG 263]] / NG 313 / NG 363 F (LF)
+*[[MAN ND 243|ND 243]] F
+*[[MAN 10.225|10.225]] FOCL midi coach
+*[[MAN 11.190|11.190]] HOCL midi (LF)
+*[[MAN 12.220|12.220]] HOCL
+*[[MAN 14.280|14.280]] HOCL
+*[[MAN 12.220|12.220]] HOCL-NL
+*[[MAN 14.220|14.220]] HOCL-NL
+*[[MAN 16.200|16.200]]
+*[[MAN 18.220|18.220]] / 18.260 / 18.280 HOCL-SL
+*[[MAN 18.220|18.220]] / 18.260 / 18.280 / 18.310 / 18.360 HOCL-SÜ
+*[[MAN 18.220|18.220]] / 18.240 / 18.260 / 18.310 HOCL-NL (LF)
+*[[MAN 18.260|18.260]] / 18.310 / 18.360 / 18.410 / 18.460 HOCL
+*[[MAN 24.310|24.310]] / 24.360 / 24.410 / 24.460 HOCLN
+*[[MAN 28.310|28.310]] HGOCL
+{{div col end}}
+
+==See also==
+{{commons|MAN AG}}
+*[[ETKA]]
+*[[ÖAF]]
+*[[Ultracap]]
+*[[ZF Friedrichshafen]]
+*[[Voith]]
+*[[Volkswagen Trucks and Buses]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Companies portal}}
+*[http://www.man.de/MAN/en/ MAN corporate website] {{en icon}}
+*[http://www.man.de/MAN/de/ MAN corporate website] {{de icon}}
+*[http://www.man-mn.co.uk MAN UK] - official website
+*[http://www.man.com.tr MAN Turkey] - official website {{tr icon}} & {{en icon}}
+*[http://www.man-mn.de/de/media/Pressemeldungen/show_press.jsp?id=86472 MAN Hybrid trucks and EDA  - Electrodynamic moving-off element]
+*[http://www.militarytrucks.man-mn.com/en/en.jsp MAN Military Trucks]
+*[http://www.250-years-man.eu MAN 250th Anniversary]
+*[http://www.danskpanser.dk/Hjulkoretojer/ManSX.htm MAN SX in Danish Army]
+
+{{DAX companies}}
+{{Volkswagen Group brands}}
+
+[[Category:MAN AG| ]]
+[[Category:1758 establishments]]
+[[Category:Bus manufacturers]]
+[[Category:Companies of Germany]]
+[[Category:Defence companies of Germany]]
+[[Category:Military vehicle manufacturers]]
+[[Category:German brands]]
+[[Category:Motor vehicle manufacturers of Germany]]
+[[Category:Companies listed on the Frankfurt Stock Exchange]]
+[[Category:Emergency services equipment makers]]
+
+[[ar:مان (شركة)]]
+[[bg:МАН Груп]]
+[[cs:MAN]]
+[[da:MAN SE]]
+[[de:MAN]]
+[[et:MAN SE]]
+[[es:MAN SE]]
+[[fa:ام آ ان]]
+[[fr:MAN (constructeur)]]
+[[ko:MAN SE]]
+[[hr:MAN SE]]
+[[id:MAN SE]]
+[[it:MAN SE]]
+[[he:מאן (חברה)]]
+[[lt:MAN SE]]
+[[hu:MAN SE]]
+[[nl:MAN SE]]
+[[ja:マン (企業)]]
+[[no:MAN (bil)]]
+[[pl:MAN SE]]
+[[pt:MAN SE]]
+[[ro:MAN SE]]
+[[ru:MAN]]
+[[sk:MAN (podnik)]]
+[[sl:MAN SE]]
+[[fi:MAN (yritys)]]
+[[sv:MAN SE]]
+[[tr:MAN SE]]
+[[zh:MAN股份公司]]

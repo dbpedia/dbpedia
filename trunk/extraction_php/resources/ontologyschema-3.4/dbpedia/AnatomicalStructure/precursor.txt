@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = precursor
+|rdfs:domain = AnatomicalStructure
+|rdfs:range = Embryology
+}}

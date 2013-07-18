@@ -1,0 +1,261 @@
+{{Redirect|Touareg||Tuareg (disambiguation)}}
+{{Refimprove|date=March 2009}}
+{{Infobox Automobile
+|name           = Volkswagen Touareg
+|image          = [[Image:Volkswagen Touareg.jpg|250px]]<br>''2004-06 Volkswagen Touareg
+|manufacturer   = [[Volkswagen]]
+|parent_company = [[Volkswagen Group]]
+|production     = 2002–present
+|assembly       = [[Bratislava]], [[Slovakia]]<br>[[Kaluga]], [[Russia]]
+|class          = [[Mid-size]] [[crossover SUV]]
+|body_style     = 5-[[car door|door]] [[sport utility vehicle|SUV]]
+|layout         = [[longitudinal engine|Longitudinal]] [[front-engine design|front engine]],<br>permanent [[4motion]] [[four-wheel drive]]
+|platform       = [[Volkswagen Group PL71 platform]]
+|engine         = 3.6&nbsp;[[litre|L]] 280 PS [[V6 engine|V6]]<br>5.0&nbsp;L 350 PS [[V10 engine|V10]] [[Turbocharged Direct Injection|TDI]]<br>4.2&nbsp;L 350 PS [[V8 engine|V8]] 
+|transmission   = 6-speed [[tiptronic]] [[automatic transmission|automatic]]
+|wheelbase      = {{convert|2855|mm|1|abbr=on|lk=on}}
+|length         = {{convert|4754|mm|1|abbr=on}}
+|width          = {{convert|1928|mm|1|abbr=on}}
+|height         = {{convert|1726|mm|1|abbr=on}}
+|weight         = 
+|fuel_capacity  = 
+|related        = [[Porsche Cayenne]]
+|designer       = 
+|sp             = uk
+}}
+The '''Volkswagen Touareg''' is a [[mid-size car|mid-size]] [[luxury car|luxury]] [[sport utility vehicle]] produced by German [[automotive industry|automaker]] [[Volkswagen|Volkswagen Passenger Cars]] since 2002.  It was the third sport utility vehicle from the automaker, after the much older [[Volkswagen 181|Volkswagen 181 "Kurierwagen"]], and the [[Volkswagen Iltis|Iltis]] (later produced by [[Bombardier Inc.|Bombardier]]).
+
+==Pronunciation==
+{{Unreferenced section|date=March 2009}}
+The correct German pronunciation is Tou-a-reg, something like "too" plus a quick "ah" then the "reg".{{Citation needed|date=July 2009}}  Volkswagen produced several commercials to enable people to pronounce the name, which was predicted to be too difficult.{{Citation needed|date=July 2009}}  The name was evidently borrowed from the [[Tuareg]] people, a [[Berber people|Berber]]-speaking group in [[North Africa]].{{Citation needed|date=October 2009}}
+
+==Development==
+{{Refimprove|section|date=March 2009}}
+The Touareg (internally designated ''Typ 7L'') was a [[joint venture]] project developed by [[Volkswagen Group]], who also include [[Audi]], and [[Porsche]], who were also looking to add a luxury-type SUV to its lineup, as a cost-sharing initiative.  The goal was to create an [[off-road vehicle]] that could handle like a sports car.  The team, with over 300 people, was led by [[Klaus-Gerhard Wolpert]], and was based in [[Weissach im Tal]], Germany.  The result of the joint project is that the [[Porsche Cayenne]] shares the Touareg's [[Volkswagen Group PL71 platform]], although there are styling, equipment, and technical differences between the two vehicles.{{Citation needed|date=March 2009}}
+
+The Volkswagen Touareg is built in [[Bratislava]], [[Slovakia]].  The manufacturing plant shares production with Touareg-cousins, the [[Porsche Cayenne]], and the [[Audi Q7]].  Due to the demand, and the exchange rates of [[euro]]s against the [[United States dollar|US dollar]], as well as different pricing and environmental policies in the USA, the [[V6 engine|V6]] and [[V8 engine]] variants make up most of Volkswagen's American Touareg offering.  However, a limited number of the [[V10 engine|V10]] [[Turbocharged Direct Injection]] (TDI) [[diesel engine]]s were available in the 2004 model year (before being pulled for environmental reasons).  They were brought back to the United States for the 2006 as a "Tier I emissions concept (43 state emissions)".<ref name="completespecs1">{{cite web|title=Touareg - Complete Specs (USA)|url=http://www.vw.com/touareg/completespecs/en/us/#/show_all|publisher=VW.com|date= |accessdate=2009-04-30}}</ref>
+
+==Feature highlights==
+{{Refimprovesect|date=March 2009}}
+The Touareg comes standard with [[four-wheel drive]] system.  An automatic progressively locking centre [[differential (mechanical device)|differential]] (with manual override), and a "low range" setting that can be activated with in-cabin controls.  Options to make the vehicles more capable off-road include an available air [[suspension (vehicle)|suspension]] system which can raise the car's [[ride height]] on command, and an interior switch allowing the rear differential to be manually locked.  Its load level ground clereance is at 6.3&nbsp;[[inch]]es, Off Road Level is at 9.6&nbsp;inches, and Xtra clearance of 11.8&nbsp;inches.<ref name="completespecs1"/>
+
+==Specification==
+===Engines===
+{|class="wikitable" border="1"
+|-
+!colspan=4|[[Petrol engine]]s
+|-
+!Model!!Year!!Engine type!!Power, torque @ rpm
+|-
+|3.2 V6||2002-2004||{{convert|3189|cc|1|abbr=on|lk=on}} [[V6 engine|V6]]||{{convert|220|PS|kW bhp|0|abbr=on|lk=on}}
+|-
+|3.2 V6||2004-2006||{{convert|3189|cc|1|abbr=on}} V6||{{convert|241|PS|kW bhp|0|abbr=on}}
+|-
+|4.2 V8||2002-2006||{{convert|4163|cc|1|abbr=on}} [[V8 engine|V8]]||{{convert|310|PS|kW bhp|0|abbr=on}}
+|-
+|6.0 W12||2005-||{{convert|5998|cc|1|abbr=on}} [[W12 engine|W12]]||{{convert|450|PS|kW bhp|0|abbr=on}}, {{convert|600|Nm|0|abbr=on|lk=on}}
+|-
+!colspan=4|[[Diesel engine]]s
+|-
+!Model!!Year!!Engine type!!Power, torque @ rpm
+|-
+|2.5 R5 TDI||2003-||{{convert|2460|cc|1|abbr=on}} [[straight-five engine|I5]] [[turbocharger|Turbo]]||{{convert|174|PS|kW bhp|0|abbr=on}}, {{convert|400|Nm|0|abbr=on}}
+|-
+|3.0 V6 TDI||2004-2007||{{convert|2967|cc|1|abbr=on}} V6 Turbo||{{convert|225|PS|kW bhp|0|abbr=on}}
+|-
+|5.0 V10 TDI||2002-2007?||{{convert|4921|cc|1|abbr=on}} V10 Turbo||{{convert|313|PS|kW bhp|0|abbr=on}} @3750, {{convert|750|Nm|0|abbr=on}} @2000
+|}
+
+The 5.0&nbsp;[[litre]] [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC), 20-valve [[V10 engine|V10]] [[Turbocharged Direct Injection]] (TDI) [[diesel engine]] pushes the Touareg from standstill to {{convert|100|km/h|1|lk=on}} in 7.8&nbsp;[[second]]s, and on to {{convert|230|km/h}} maximum.
+
+The 6.0 [[liter]] [[overhead camshaft#double overhead camshaft|double overhead camshaft]] (DOHC), 48-valve [[W12 engine]]d version was initially intended to be a limited-edition model, with just 500 units planned to be produced; around 330 were slated for sale in [[Saudi Arabia]], with the remainder sold in Europe.  No sales in the United States were made.  Eventually, the W12 model became an ordinary model without any production restrictions.  Currently it is being sold in Europe.  It is estimated to reach {{convert|100|km/h|1}} in 5.9 seconds.<ref>[http://autoweek.com/apps/pbcs.dll/article?AID=/20041004/FREE/410040711&SearchID=7329098035109 "Super Touareg", ''Autoweek'', 4 October, 2004]. Retrieved on [[2008-05-27]]</ref>
+
+====V10 TDI (2002-)====
+The V10 TDI was offered in the United States for a limited time in 2004, but emissions regulations forced it off the market for a temporary period.<ref>{{cite web|title=Auto Tech: Pumpe Duse|url=http://www.canadiandriver.com/articles/jk/040929.htm|work=CanadianDriver Communications Inc.,|publisher=CanadianDriver.com|date=29 September 2004|accessdate=4 November 2009}}</ref>
+
+The V10 TDI returned to the U.S. market as 2006 model year vehicle in 5 states. Later US models went on sale in 2006, which was compliant with 50 states emission with Ultra-low sulfur diesel and particulate filter. The 2006 US model's MSRP was $67,750.<ref>[http://green.autoblog.com/2006/10/19/vw-touareg-diesel-now-on-sale-with-a-particulate-filter/ 2006 VW Touareg diesel now on sale with a particulate filter]</ref>  Stricter CARB emissions standards resulted in the V10 TDI being cancelled again in the United States.<ref>{{cite web|last=Abuelsamid|first=Sam|url=http://www.autoblog.com/2008/10/27/in-the-autoblog-garage-2008-volkswagen-touareg-v10-tdi|title=In the Autoblog Garage: 2008 Volkswagen Touareg V10 TDI|publisher=Autoblog.com|date=2008-10-27 |accessdate=2009-07-14}}</ref>  This has since been replaced by a V6 TDI engine that meets the [[California Air Resources Board]]'s (CARB's) minimum emission requirements for the 2009 model year.
+
+=====V10 TDI environmental and health concerns=====
+The V10 TDI diesel version of the Touareg was named "Meanest Vehicles for the Environment in 2007" by the [[American Council for an Energy-Efficient Economy|American Council for an Energy Efficient Economy (ACEEE)]]<ref>[http://www.greenercars.org/highlights_meanest.htm The Green Book of the American Council for an Energy Efficient Economy 2007]</ref> for its fuel economy of 17 miles per US gallon city (14&nbsp;l/100&nbsp;km) and 22&nbsp;mpg highway (10&nbsp;l/100&nbsp;km).  Note that diesel vehicles are judged at a disadvantage - to illustrate, an average [[North America]]n full-size (gasoline(petrol)-not diesel) SUV usually travels 13&nbsp;mpg (US) (18&nbsp;l/100&nbsp;km) city and 16&nbsp;mpg (US) (15&nbsp;l/100&nbsp;km) highway.  This earned the Touareg the low "Green Score" of 14, as compared to the [[Honda Civic GX]], which was the "greenest", at a score of 57.
+
+===Awards===
+The Touareg was ''[[Car and Driver]]'' magazine's [[Car and Driver Ten Best|Best Luxury SUV]] for 2003, ''[[Motor Trend]]'' magazine's [[Car of the Year|Sport/Utility of the Year]] for 2004, "Four Wheeler" magazine's Four Wheeler of the Year for 2005, and Overlander's 2003 4WDOTY.{{Citation needed|date=May 2008}}
+
+==Facelift 2007==
+[[Image:Volkswagen Touareg -- 07-09-2009.jpg|thumb|right|250px|Volkswagen Touareg 2 (US)]]
+The Touareg's first [[facelift (automobile)|facelift]] was unveiled at the [[Mondial de l'Automobile 2006|2006 Paris Motor Show]], and debuted in [[North America]] as a 2008 model.  It now features the shield [[grille]] from others in the [[Volkswagen|Volkswagen Passenger Cars]] range.  The updated Touareg has more than 2300 redesigned parts and boasts some new technological features:
+*ABS Plus, which works in conjunction with the [[traction control system]], and shortens the [[braking distance]] by up to 25% on loose surfaces;
+*Front Scan, an [[adaptive cruise control]] system, which can slow or even stop the car depending on traffic conditions;
+*Side Scan, a [[blind spot (automobile)|blind-spot]] warning system: it uses radar at the rear of the car to sense another car's presence, and causes [[light-emitting diode]]s (LEDs) built into the [[wing mirror]]s to flash.  If the driver indicates to move out, the LEDs flash at an accelerated rate to warn the driver until the other vehicle moves out of the Touareg's field of vision.
+
+The 2007 Touareg, alongside an already lengthy options list, could be equipped with a driving dynamics package, a [[rollover]] sensor, a 620&nbsp;watt Dynaudio sound system, and redesigned comfort seats.{{Citation needed|date=July 2007}}  All diesel versions now have the [[diesel particulate filter]] standard.{{Citation needed|date=July 2007}}
+
+In the US and Canada, the facelifted Touareg is marketed as the Touareg 2.
+
+===R50 (2007-)===
+[[Image:Touareg R50.jpg|thumb|right|250px|Touareg R50 at the 2007 Australian Internation Motor Show]]
+The Touareg R50 is the third Volkswagen after the Golf and Passat to be given the 'R' treatment by [[quattro GmbH#comparisons to other brands|Volkswagen Individual GmbH]].  The R50 global launch was at the 2007 [[Australian International Motor Show]].
+
+The R50 is powered a new version of the V10 diesel engine is available in Europe for the R50 model, boasting {{convert|257|kW|PS bhp|0|lk=on}} with {{convert|850|Nm|0|lk=on}} of [[torque]], and pushing the car from {{convert|100|km/h|1|lk=on}} in just 6.7&nbsp;seconds.<ref>{{cite web|url=http://carscoop.blogspot.com/2007/10/vw-releases-details-on-350hp-touareg.html|title=VW Releases Details On 350Hp Touareg R50 - Carscoop|publisher=Carscoop.blogspot.com|date= |accessdate=2009-04-30}}</ref>
+
+The R50 comes standard with 21&nbsp;inch Omanyt wheels, sport-tuned air suspension, decorative 'engine spin' finish interior trim inlays, and a 4-Zone Climatic climate control system.
+
+===V6 TDI (2007-)===
+It is a version of V6 TDI with improved performance.
+
+The vehicle went on sale in Germany with MSRP of €46,900 (manual), €49,150 (automatic).<ref>[http://green.autoblog.com/2007/11/21/volkswagen-improves-the-touareg-tdi/ Volkswagen improves the Touareg TDI]</ref>
+
+===Volkswagen-Red Bull Baja Race Touareg TDI (2008)===
+It is a race vehicle designed for the Baja 1000 series. It included a 5.5L V-12 clean diesel engine with dual Garrett TR30R turbochargers rated {{convert|550|PS|kW bhp|0|abbr=on}} and {{convert|850|Nm|0|abbr=on}}, Xtrac 6 Speed Sequential transmission, 9" rear axle, Fox Racing Shocks, KMC 17" Custom Forged Beadlock wheels with BFGoodrich Baja KRT 37x13.5x17 tires, Lowrance 9200 GPS, Sparco Carbon Fiber Racing seats. It uses mid-engine, rear wheel drive layout. The chassis and body were designed by Arciero Miller Racing and Volkswagen Design Center California respectively.
+
+The vehicle was unveiled in 2008 LA Auto Show.<ref>[http://green.autoblog.com/2008/11/13/la-preview-volkswagen-unveiling-touareg-tdi-trophy-truck/ LA Preview: Volkswagen unveiling Touareg TDI Trophy Truck]</ref>
+
+===V6 TDI Clean Diesel (2009-)===
+It is a version of V6 TDI with Selective Catalytic Reduction (SCR) system, replacing V10 TDI in US and Canada. The Touareg contains a {{convert|4.5|usgal}} tank in the rear of the vehicle underneath the spare tire which stores the AdBlue solution. It is estimated that this tank will need to be replenished every {{convert|6000|-|10000|mi}}.{{Citation needed|date=July 2009}} The Touareg does not include NOX storage catalyst found in [[Volkswagen Jetta|Jetta]] Clean Diesel TDI due to its heavy weight.<ref>[http://www.carlist.com/blog/?p=1109 2009 VW Touareg TDI is a clean diesel, retrieved 12-Dec-08]</ref>
+
+Touareg BlueTDI was unveiled in 2007 Geneva Motor Show.<ref>[http://green.autoblog.com/2007/03/06/more-pictures-and-details-of-vws-touareg-bluetdi-in-geneva/ More pictures and details of VW's Touareg BlueTDI in Geneva]</ref> Production version of V6 TDI Clean Diesel was unveiled in 2008 LA Auto Show.<ref>[http://green.autoblog.com/2008/11/20/la-2008-volkswagen-touareg-v6-tdi-25-mpg-highway LA 2008: Volkswagen Touareg V6 TDI, 25 mpg highway]</ref>
+
+Although sales of production version was planned in North America in 2008, it did not start until 2009.
+
+Sander Kuiken, Technical development diesel application, Volkswagen AG was one of the engineers that worked on the AdBlue system created by Volkswagen, BMW, and Mercedes-Benz. Kuiken talked about the difference between the VW Touareg diesel and gasoline vehicles.<ref>{{cite web|last=Ann|first=Lou|url=http://www.carlist.com/blog/?p=1110|title=Sander Kuiken, VW, gasoline vs. diesel &#124; Lou Ann Hammond on|publisher=Carlist.com|date=2008-12-09|accessdate=2009-04-30}}</ref>
+
+===Touareg V6 TSI Hybrid (2009)===
+It is a prototype [[hybrid vehicle]] with {{convert|2995|cc}} V6 petrol engine with [[TVS Supercharger|'Twin Vortices Series' (TVS)]] supercharger rated {{convert|333|PS|kW bhp|0}}@5500rpm and {{convert|440|Nm}}@3000rpm, an electric motor rated {{convert|52|PS|kW bhp|0}} and {{convert|300|Nm}}, 8-speed [[automatic transmission]]. It has combined ratings of {{convert|374|PS|kW bhp|0}} and {{convert|550|Nm}}. The electric-motor is powered by 240-cell, 288V, 6Ah nickel metal-hydride battery array. The [[4motion]] [[four-wheel drive]] system was replaced by a lighter [[Torsen]] centre differential from [[Audi Q7]] to save weight. The electric motor has the top speed of {{convert|50|km/h}}. Start-stop system supports [[regenerative braking]], coasting. Power steering, air conditioning were changed to be powered by battery.
+
+Planned production version includes special E-switch that the driver can activate for pure electric driving, {{convert|160|km/h}} coasting speed.<ref>[http://www.autobloggreen.com/2009/02/02/volkswagen-to-launch-touareg-bluemotion-hybrid-in-2010/ Volkswagen to launch Touareg BlueMotion hybrid in 2010]</ref>
+
+===Engines===
+{|class="wikitable" border="1"
+|-
+!colspan=6|[[Petrol engine]]s
+|-
+!model!!years!!engine type!!power@rpm!!torque@rpm
+|-
+|3.6 V6||2006-||{{convert|3597|cc|abbr=on}} [[V6 engine|V6]] [[gasoline direct injection|FSI]]||{{convert|280|PS|kW bhp|0|abbr=on}} @6250||{{convert|360|Nm|0|abbr=on}} @2500-5000
+|-
+|4.2 V8||2006-||{{convert|4163|cc|abbr=on}} [[V8 engine|V8]] FSI||{{convert|350|PS|kW bhp|0|abbr=on}} @6800||{{convert|440|Nm|0|abbr=on}} @3500
+|-
+|6.0 W12||2005-||{{convert|5998|cc|abbr=on}} [[W12 engine|W12]]||{{convert|450|PS|kW bhp|0|abbr=on}} @6000||{{convert|600|Nm|0|abbr=on}} @3250
+|-
+!colspan=6|[[Diesel engine]]s
+|-
+!model!!years!!engine type!!power@rpm!!torque@rpm
+|-
+|2.5 R5 TDI||2003-||{{convert|2461|cc|abbr=on}} [[straight-five engine|I5]] [[Pumpe-Düse]] turbo ||{{convert|174|PS|kW bhp|0|abbr=on|lk=on}} @3500||{{convert|400|Nm|0|abbr=on}} @2250
+|-
+|3.0 V6 TDI||2007-||{{convert|2967|cc|abbr=on}} V6 [[common rail]] turbo||{{convert|240|PS|kW bhp|0|abbr=on}} @4000-4400||{{convert|500|Nm|0|abbr=on}} @1500-3000 manual,<br>{{convert|550|Nm|0|abbr=on}} @2000-2250 automatic
+|-
+|BlueMotion 3.0 V6 TDI||2009-||{{convert|2967|cc|abbr=on}} V6 [[common rail]] turbo||{{convert|225|PS|kW bhp|0|abbr=on}} @3500||{{convert|550|Nm|0|abbr=on}} @2000-2250
+|-
+|5.0 V10 TDI||2002-||{{convert|4921|cc|abbr=on}} [[V10 engine|V10]] Pumpe-Düse turbo||{{convert|313|PS|kW bhp|0|abbr=on}} @3750||{{convert|850|Nm|0|abbr=on}} @2000
+|-
+|R50||2007-||{{convert|4921|cc|1|abbr=on}} V10 Pumpe-Düse turbo||{{convert|350|PS|kW bhp|0|abbr=on}} @3500||{{convert|850|Nm|0|abbr=on}} @2000
+|}
+
+US models include 3.6 V6, 4.2 V8, BlueMotion 3.0 V6 TDI. Canada models include 3.6 V6, BlueMotion 3.0 V6 TDI.
+
+BlueMotion 3.0 V6 TDI was sold as V6 TDI Clean Diesel in US and Canada.
+
+===Transmissions===
+{| class="wikitable"
+|-
+!colspan=3|Petrol engines
+|-
+!Model!!Year!!Transmission type
+|-
+|3.6 V6||2006-||6-speed automatic
+|-
+|4.2 V8||2006-||6-speed automatic
+|-
+|6.0 W12||2005-||6-speed automatic
+|-
+!colspan=3|Diesel engines
+|-
+!Model!!Year!!Transmission type
+|-
+|2.5 R5 TDI||2003-||6-speed manual, 6-speed automatic
+|-
+|3.0 V6 TDI||2007-||6-speed manual, 6-speed automatic
+|-
+|BlueMotion 3.0 V6 TDI||2009-||6-speed automatic
+|-
+|5.0 V10 TDI||2002-||6-speed automatic
+|-
+|R50||2007-||6-speed automatic
+|}
+
+===Production===
+The chassis of Volkswagen-Red Bull Baja Race Touareg TDI was produced by Arciero Miller Racing in [[Foothill Ranch, California]].
+
+Although Volkswagen originally had planned to introduce a range of hybrid models including in its entry level vehicles, the company stopped the plan for low end hybrids after the company's CEO had been changed to [[Martin Winterkorn]]. However, the change of plan did not affect Touareg hybrid, because Touareg luxury SUV can more easily absorb the additional cost and is a better candidate for improved fuel economy.<ref>[http://green.autoblog.com/2007/02/01/volkswagen-ditches-low-end-hybrids-touareg-gets-the-nod/ Volkswagen ditches low end hybrids, Touareg gets the nod]</ref>
+
+==Motorsports==
+A modified Touareg dubbed [[Stanley (vehicle)|Stanley]] won the 2005 [[DARPA Grand Challenge]].
+
+===Pikes Peak===
+VW Touareg TDI entered 85th running of the Pikes Peak International Hill Climb, with V10 TDI Touaregs and a V6 TDI Touareg, driven by Ryan Arciero, Mike Miller and Chris Blais. Arciero won the race with time of 13:17:703 and set a new division record for the fastest time with a diesel powered vehicle. Miller finished at 2nd with time of 13:25:247. Chris Blais finished at 3rd with time of 15:48:312.<ref>[http://green.autoblog.com/2007/07/26/vw-touareg-tdi-wins-pikes-peak-high-performance-showroom-stock/ VW Touareg TDI wins Pikes Peak high performance showroom stock]</ref>
+
+===Baja 500===
+The 2.5L R5 TDI won a 2007 Baja 500 class with drivers Mark Miller/Ralph Pitchford (USA/South Africa).<ref>[http://green.autoblog.com/2007/06/04/vw-race-touareg-wins-baja-500-class-on-single-tank-of-diesel/ VW Race Touareg wins Baja 500 class on single tank of diesel]</ref>
+
+===Baja 1000===
+The Race Touareg TDI Trophy Truck completed 41st Annual Tecate SCORE Baja 1000 race with 13th position for Trophy Truck Class. The vehicle was driven by [[Mark Miller]].<ref>[http://green.autoblog.com/2008/11/24/vw-touareg-tdi-trophy-truck-finishes-baja-in-13th-place/ VW Touareg TDI Trophy Truck finishes Baja in 13th place]</ref>
+
+===Dakar rally===
+[[Image:VW Race Touareg 2 blue vr EMS.jpg|200px|thumb|right|2007 Edition Race Touareg 2 at Essen Motor Show 2006]]
+In the 2003 [[Dakar Rally|Dakar]] [[rally raid]], Volkswagen entered a team of rear wheel drive Tarek buggies.<ref name=ucp>[http://www.ultimatecarpage.com/car/1830/Volkswagen-Race-Touareg-T2.html 2004 Volkswagen Race-Touareg T2 - Images, Specifications and Information<!-- Bot generated title -->]</ref>  VW claimed 6th overall, driven by [[Stephane Henrard]] and [[co-driver]] Bobby Willis.  In the following year, the 2004 Dakar Rally saw the debut rally for the T2 class purpose built Race Touareg by Volkswagen Motorsport.<ref name=ucp />  [[Bruno Saby]] and co driver [[Matthew Stevenson]] claimed 6th position overall.  In the 2005 Dakar Rally, [[Jutta Kleinschmidt]] and co driver [[Fabrizio Pons]] claimed 3rd spot overall in the Race Touareg.<ref name=ucp2 />
+
+In the 2006 Dakar Rally, VW driver [[Giniel de Villiers]] and co driver [[Tina Thorner]] claimed 2nd spot the highest ever for a diesel model in the new Race Touareg 2.  It has a shorter wheelbase than the original Race Touareg, as well as increased visibility.<ref name=ucp2>[http://www.ultimatecarpage.com/car/2595/Volkswagen-Race-Touareg-2.html 2006 Volkswagen Race Touareg 2 - Images, Specifications and Information<!-- Bot generated title -->]</ref>  For the 2007 Dakar Rally, VW driver [[Mark Miller]] and [[Ralph Pitchford]] drove the [http://www.racecar-engineering.com/allarticles/280213/dakar-rally-2009-volkswagen.html Race Touareg] 2 to 4th position overall.  In the 2008 [[Central Europe Rally]], [[Carlos Sainz]] drove his Race Touareg 2 to victory.<ref>[http://www.motorsport.com/news/article.asp?ID=286833&FS=DAKAR Motorsport.com: News channel<!-- Bot generated title -->]</ref> Finally, in the [[2009 Dakar Rally|2009 edition]] of Rally Dakar, Volkswagen achieved a one-two result. Giniel de Villiers and co driver Dirk von Zitzewitz won the race ahead of Mark Miller and Ralph Pitchford. With just two days to go, Carlos Sainz crashed out after dominating the rally for several days, thus preventing Volkswagen from making it a one-two-three result.<ref>[http://www.motorsport.com/news/article.asp?ID=316873&FS=DAKAR Motorsport.com: Volkswagen final report]</ref>
+
+A 1/32 [[slot car]] model of the Red Bull-sponsored Touareg, which is designed to run on the company's RAID track (which simulates off-road racing) is available from [[Ninco]].
+
+'''Power Output: VW Dakar Racers'''
+*2007 Race-Touareg 2 (T2 spec) 2.5 TDI 285&nbsp;hp/209&nbsp;kW
+*2006 Race-Touareg 2 (T2 spec) 2.5 TDI 275&nbsp;hp/202&nbsp;kW
+*2005 Race-Touareg (T2 spec) 2.5 TDI 260&nbsp;hp/191&nbsp;kW
+*2004 Race-Touareg (T2 spec) 2.3 TDI 231&nbsp;hp/170&nbsp;kW
+*2003 Tarek 1.9 TDI 218&nbsp;hp/160&nbsp;kW
+
+{{Commons category}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/models/touareg.html Volkswagen Touareg official site]
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Vehicles introduced in 2004]]
+[[Category:2000s automobiles]]
+[[Category:Volkswagen vehicles|Touareg]]
+[[Category:Crossover SUVs]]
+[[Category:All wheel drive vehicles]]
+[[Category:Hybrid electric vehicles]]
+
+
+[[bs:Volkswagen Touareg]]
+[[da:Volkswagen Touareg]]
+[[de:VW Touareg]]
+[[es:Volkswagen Touareg]]
+[[fr:Volkswagen Touareg]]
+[[hr:Volkswagen Touareg]]
+[[id:VW Touareg]]
+[[it:Volkswagen Touareg]]
+[[lv:Volkswagen Touareg]]
+[[nl:Volkswagen Touareg]]
+[[ja:フォルクスワーゲン・トゥアレグ]]
+[[no:Volkswagen Touareg]]
+[[pl:Volkswagen Touareg]]
+[[pt:Volkswagen Touareg]]
+[[ru:Volkswagen Touareg]]
+[[sk:Volkswagen Touareg]]
+[[sr:Фолксваген туарег]]
+[[sh:Volkswagen Touareg]]
+[[fi:Volkswagen Touareg]]
+[[sv:Volkswagen Touareg]]
+[[tr:Volkswagen Touareg]]
+[[uk:Volkswagen Touareg]]
+[[zh:大众途锐]]

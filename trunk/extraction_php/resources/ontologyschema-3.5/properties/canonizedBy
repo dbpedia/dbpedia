@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = canonized by
+| rdfs:domain = Saint
+| rdfs:range = Person
+}}

@@ -1,0 +1,69 @@
+{{Racing car |
+  Image = [[File:Porsche 961 Coupe 1986 frontleft 2009-03-14 A.jpg|200px|The Porsche 961 as now housed in the Porsche Museum]] |
+  Category = [[Group B]] [[sports prototype]] |  
+  Car_name = Porsche 961 |
+  Constructor = [[Porsche]] | 
+  Team = {{flagicon|DEU}} [[Porsche|Porsche AG]] |
+  Designer =  |
+  Drivers = {{flagicon|FRA}} René Metge<br>{{flagicon|FRA}} Claude Ballot-Léna<br>{{flagicon|CAN}} Kees Nierop<br>{{flagicon|DEU}} Günter Steckkönig<br>{{flagicon|SUI}} Claude Haldi |
+  Test drivers = |
+  Chassis =  |
+  Front suspension =  |
+  Rear suspension =  |
+  Engine position = [[MR layout|mid-mounted]] |
+  Engine name = [[Porsche]] Type-935 |
+  Capacity = {{convert|2847|cc|cuin|abbr=on}} |
+  Turbo/NA = [[Turbocharger|turbocharged]], |
+  Configuration = [[Flat-6]], |
+  Gearbox name = |
+  Gears = |
+  Type = |
+  Differential = |
+  Tyres = [[Dunlop Tyres|Dunlop]] |
+  Fuel =  |	
+  Debut = [[1986 24 Hours of Le Mans]] |
+  Races         = 3 |
+  Cons_champ    =  |
+  Drivers_champ =  |
+  Wins          = 1 (class) |
+  Poles         = 0 |
+  Fastest_laps  = 0 |
+  Last_season   = 1987 |
+}}
+The '''Porsche 961''' was a [[race car|racing car]] built by [[Porsche]] and based on their [[Porsche 959|959]] sports car.  It was intended for [[Group B]] [[sports car racing]], complementing the purpose-built [[Porsche 956|956]] and [[Porsche 962|962C]] which ran [[Group C]] in the [[World Sportscar Championship|World Sports-Prototype Championship]].  The 961 project was short lived, running only three races and seeing the construction of only one car.<ref name="QV500">{{citeweb | url = http://www.qv500.com/porsche959p3.php | title = Porsche 959 Part 3: 961 | publisher = QV500.com | accessdate = 2008-01-20}}</ref>  Plans to sell the car to customers were scrapped when the Group B class was canceled.
+
+==Development==
+{{see|Porsche 959}}
+In the early 1980s, the [[Fédération Internationale du Sport Automobile]] (FISA) reorganized their classification structure for motorsports.  Two new categories, known as [[Group B]] and [[Group C]], were designated for use in the [[World Sportscar Championship|World Sports-Prototype Championship]].  Porsche had developed the [[Porsche 956|956]] for the Group C rules, and following the 956's debut, began work on developing a Group B car.  A initial prototype concept, named the Porsche Gruppe B, debuted in 1983, after which plans were made to built the car for production and provide racing versions for customers as had been done with the 956.
+
+By time the Gruppe B had been launched as the production 959 in 1985, Group B rules had been altered by FISA to better suit the class' use in the [[World Rally Championship]] rather than the Sports-Prototype Championship.  Plans to develop multiple customer cars for sports car racing were therefore scrapped by Porsche, but development continued on the production of car which could be factory run in order to put the car's development to use.  This lone racing car, built on 959 chassis No. 10016, became known as the 961.<ref name="QV500" />
+
+The new 961 retained much from the 959 road car, including most notably the [[four-wheel drive]] system that was uncommon in sports car racing at the time but allowable under the Group B regulations.  The system was modified to distribution power more to the rear wheels rather than the balanced distribution of the 959.  The driver adjustable [[shock absorber|damper]] and [[Suspension (vehicle)|suspension systems]] were removed and replaced by a racing unit that could only be adjusted from by the pit crew, but was more reliable for [[Endurance racing (motorsport)|endurance racing]].<ref name="Autobahn">{{citeweb | url = http://www.flat-6.net/forum/showcar.php?s=a29e3c53f057409a3898fa5f5538bfe7&do=view_page&car_model_id=15&article_id=153 | title = The 959 Goes To LeMans | publisher = TheAutobahn.com | date = 2 July 2004 | accessdate = 2008-01-20}}</ref>
+
+The 961's engine was a Porsche Type-935 unit.  This [[Turbocharger|twin-turbocharged]] engine was not only used in the 959, but was also the Group C 956 and later the [[Porsche 962|962C]].<ref name="QV500" />  This racing development helped the 961 run higher boost level than the standard 959.  This resulted in a peak power output of {{convert|680|hp|kW|abbr=on}}.  The brakes were also adapted from those developed for the 962C.<ref name="Autobahn" />  Bodywork was replaced with lighter panels to bring the car down to a weight of {{convert|1150|kg|lbs|abbr=on}}, while the rear wing and front fascia were replaced with modified designs in order to create more [[downforce]].<ref name="Autobahn" />  [[Dunlop Tyres|Dunlop]], who already supported Porsche's factory 962C team, supplied the tyres for the 961.
+
+When the 961 was completed in 1986, Porsche had not yet built enough 959s to satisfy the Group B regulations for [[homologation]].  Due to this, the 961 had to be classified under [[International Motor Sports Association]]'s similar GTX class.<ref name="QV500" />
+
+==Racing history==
+Making its first appearance at the May test for the [[1986 24 Hours of Le Mans]], the 961 was able to show its potential pace quickly by setting the tenth fastest lap time under the control of French driver René Metge.<ref name="QV500" />  The 961's time was not only quicker than the [[BMW M1]] which was entered in the Group B category, was also faster than several C1 and C2 class prototypes.<ref>{{citeweb | url = http://wsrp.ic.cz/nonchamp1986.html#2 | title = Non Championship Races 1986 | publisher = World Sports Racing Prototypes | date = 2 October 2005 | accessdate = 2008-01-20}}</ref>  At the race in June, Metge was joined by fellow Frenchman [[Claude Ballot-Léna]]<ref name="QV500" /> and the two were able to qualify the car 26th.  Through dependability the 961 was able to climb through the field as the race progressed and eventually finished the race in seventh place, 47 laps behind the winning factory 962C.<ref>{{citeweb | url = http://wsrp.ic.cz/wsc1986.html#3 | title = FIA World Sports-Prototype Championship 1986 | publisher = World Sports Racing Prototypes | date = 2 October 2005 | accessdate = 2008-01-20}}</ref>
+[[File:Porsche 961 Coupe 1986 backleft 2009-03-14 A.jpg|thumb|left|200px|The Porsche 961 as it appeared for the [[1987 24 Hours of Le Mans]]]]
+Later in 1986, the 961 was moved to the United States and entered in the [[IMSA GT Championship|Camel GT Championship's]] final round at [[Daytona International Speedway]].  The car was reclassified once again by International Motor Sports Association, this time being entered in the GTP category alongside [[sports prototype]]s like the 962.  Drivers Kees Nierop of Canada and Günter Steckkönig of Germany were assigned to the car.  The 961 however struggled with the banked turns of the Daytona circuit.  The 961's Dunlop tyres were pushed beyong their limits and suffered several blowouts while the car was at full speed.<ref name="QV500" />  This slowed the 961's overall pace down before it eventually finished the race in 24th position.<ref>{{citeweb | url = http://wsrp.ic.cz/imsa1986.html#18 | title = International Motor Sports Association 1986 | publisher = World Sports Racing Prototypes | date = 14 February 2007 | accessdate = 2008-01-20}}</ref>
+
+Porsche continued to develop the 961 into the 1987 season where it was prepared once more for Le Mans.  The car was repainted in the colors of [[Rothmans]] to match the scheme used by the factory 962Cs.<ref name="QV500" />  Performance fell from the previous year as the 961 earned only the 16th fastest lap in the May test session.<ref>{{citeweb | url = http://wsrp.ic.cz/nonchamp1987.html#2 | title = Non Championship Races 1987 | publisher = World Sports Racing Prototypes | date = 2 October 2005 | accessdate = 2008-01-20}}</ref>  Swiss driver Claude Haldi was assigned to partner René Metge, but the two were later joined by Kees Nierop whose 962C had been destroyed in a qualifying accident.  Although the 961 managed to run as high as 11th overall in the race, Kees Nierop crashed the car after suffering a [[gearbox]] problem.  The car was stopped and retired after it caught fire as Nierop was attempted to return to the [[pit stop|pit lane]].<ref name="QV500" />.
+
+Following the Le Mans difficulties, and with no championship with which to run the 961 against similar machinery, the project was canceled.<ref name="QV500" />  The 961, repaired after its crash and fire in 1987, now resides on display in the [[Porsche Museum, Stuttgart]], [[Germany]].
+
+==References==
+<references />
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|961]]
+[[Category:Sports racing cars]]
+[[Category:24 Hours of Le Mans race cars]]
+
+[[de:Porsche 961]]
+[[fr:Porsche 961]]
+[[it:Porsche 961]]
+[[sv:Porsche 961]]
+[[tr:Porsche 961]]

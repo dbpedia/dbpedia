@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = comparable
+| rdfs:domain = Rocket
+| rdfs:range = Rocket
+}}

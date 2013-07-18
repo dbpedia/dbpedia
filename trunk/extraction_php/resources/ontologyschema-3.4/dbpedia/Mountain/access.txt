@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= access
+|rdfs:domain 	= Mountain
+|rdfs:range		= xsd:string
+}}

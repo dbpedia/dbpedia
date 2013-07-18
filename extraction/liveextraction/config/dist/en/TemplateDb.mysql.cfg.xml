@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+          "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+          "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+	<!--
+		"C:/Program
+		Files/Java/hibernate-distribution-3.3.1.GA-dist/hibernate-distribution-3.3.1.GA/lgpl.txt"
+	-->
+<hibernate-configuration>
+	<session-factory>
+		<property name="connection.url">jdbc:mysql://localhost/TemplateDb</property>
+		<property name="connection.username">dbpedia</property>
+		<property name="connection.password">dbpedia</property>
+		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+		<!-- <property name="hibernate.hbm2ddl.auto">create-drop</property> -->
+		<property name="hibernate.hbm2ddl.auto">update</property>
+
+		<property name="transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>
+		<!--
+			thread is the short name for org.hibernate.context.Threa"C:/Program
+			Files/Java/hibernate-annotations-3.4.0.GA/hibernate-annotations-3.4.0.GA/readme.txt"dLocalSessionContext
+			and let Hibernate bind the session automatically to the thread
+		-->
+		<property name="current_session_context_class">thread</property>
+		<!-- this will show us all sql statements -->
+		<property name="hibernate.show_sql">true</property>
+
+
+		<!-- <mapping class="tmproxy.PrefixIdGenerator" /> -->
+
+
+		<mapping class="templatedb.entity.TemplateAnnotation" />
+		<mapping class="templatedb.entity.PropertyAnnotation" />
+
+	</session-factory>
+</hibernate-configuration>

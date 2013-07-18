@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = share
+|rdfs:domain = RadioStation
+|rdfs:range = xsd:float
+}}

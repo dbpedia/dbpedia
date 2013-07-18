@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = share date
+|rdfs:domain = RadioStation
+|rdfs:range = xsd:date
+}}

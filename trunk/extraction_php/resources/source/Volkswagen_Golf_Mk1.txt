@@ -1,0 +1,192 @@
+{{Expand|date=March 2008}}
+{{Infobox Automobile generation
+|name         = Volkswagen Golf Mk1
+|manufacturer = [[Volkswagen]]
+|aka          = Volkswagen Rabbit<br>Volkswagen Caribe<br>Volkswagen CitiGolf<br>Volkswagen Cabriolet<br>Volkswagen Caddy
+|image        = [[Image:VW Golf I Facelift front 20081209.jpg|250px|Volkswagen Golf 1976 Mk1 (Australia)]]
+|production   = 6.8 million units<ref name=AutoMotoruSport2008 >{{cite book |last= |first= |authorlink= |coauthors=Christian Bangemann u. Beate Jeske |title= Auto Motor und Sport Heft 18 Seite 24|year= 2008 |publisher= |location= Stuttgart |id=}}</ref><br>1974–1984<br>1974-2009 (South Africa)<br>1980-1993 (Cabriolet)
+|class        = [[Small family car]], [[Subcompact car|subcompact]]
+|body_style   = 2-door [[convertible]]<br>3-door [[hatchback]]<br>5-door [[hatchback]]<br>2-door [[pickup truck]]
+|assembly     = [[Wolfsburg]], [[Germany]]<br>[[New Stanton, Pennsylvania]], [[United States]]<br>[[Uitenhage]], [[South Africa]]<br>[[Puebla, Puebla]], [[Mexico]]
+|engine       = ''All markets except USA/CDN/Japan<br>Petrol engines:''<ref>Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 3. Motorbuch Verlag, Stuttgart 2001. ISBN 3-613-02116-1, p.72-85.</ref><ref>Mike Covello: ''Standard Catalog of Imported Cars 1946-2002''. Krause Publications, Iola 2002, ISBN 0-87341-605-8, p.825-829.</ref>
+1.1L {{convert|50|PS|kW hp||abbr=on}} [[Straight-4|I4]]<br>
+1.3L {{convert|60|PS|kW hp|0|abbr=on}} I4<br>
+1.5L {{convert|70|PS|kW hp|0|abbr=on}} I4<br>
+1.6L {{convert|75|PS|kW hp|0|abbr=on}} I4<br>
+1.6L {{convert|110|PS|kW hp|0|abbr=on}} I4 (GTI)<br>
+1.8L {{convert|112|PS|kW hp|0|abbr=on}} I4 (GTI/GLI)<br>
+''Diesel engines:''<br>
+1.5L {{convert|50|PS|kW hp|0|abbr=on}} [[Straight-4|I4]]<br>
+1.6L {{convert|54|PS|kW hp|0|abbr=on}} I4<br>
+1.6L {{convert|70|PS|kW hp|0|abbr=on}} I4 [[turbodiesel|TD]]<br>
+''USA/CDN/Japan:''<br>
+1.6L {{Convert|60|hp|kW|0|abbr=on}} [[Straight-4|I4]] (Pickup)<br>
+1.5L {{Convert|70|hp|kW|0|abbr=on}} I4 (MY 1975)<br>
+1.6L {{Convert|71|hp|kW|0|abbr=on}} I4 (MY 1976)<br>
+1.6L {{Convert|78|hp|kW|0|abbr=on}} I4 (MY 1977)<br>
+1.5L {{Convert|71|hp|kW|0|abbr=on}} I4 (MY 1978/79)<br>
+1.5L {{Convert|62|hp|kW|0|abbr=on}} I4 (MY 1980)<br>
+1.6L {{Convert|76|hp|kW|0|abbr=on}} I4 (MY 1980)<br>
+1.7L {{Convert|74|hp|kW|0|abbr=on}} I4 (MY 1981/82)<br>
+1.7L {{Convert|65|hp|kW|0|abbr=on}} I4 (MY 1983/84)<br>
+1.8L {{Convert|90|hp|kW|0|abbr=on}} I4 (GTI MY 1983/84)<br>
+''Diesel engines:''<br>
+1.5L {{Convert|48|hp|kW|0|abbr=on}} [[Straight-4|I4]] (MY 1978-80)<br>
+1.6L {{Convert|52|hp|kW|0|abbr=on}} I4 (MY 1981-84)<br>
+1.6L {{Convert|68|hp|kW|0|abbr=on}} I4 (MY 1983-84)<br>
+|layout       = [[FF layout]]
+|transmission = 4-speed/5-speed [[manual transmission|manual]],<br>3-speed [[automatic transmission|automatic]]
+|platform     = [[Volkswagen Group A platform#A1|Volkswagen Group A1 platform]]
+|related      = [[Volkswagen Jetta]],<br>[[Volkswagen Caddy]],<br>[[Volkswagen Scirocco]]
+|wheelbase    = {{convert|2400|mm|in|1|abbr=on}},<br>Pickup: {{convert|2625|mm|in|1|abbr=on}}
+|length       = {{convert|3705|mm|in|1|abbr=on}},<br>later {{convert|3815|mm|in|1|abbr=on}},<br>USA {{Auto in|155.3}},<br>Pickup: {{convert|4380|mm|in|1|abbr=on}}
+|width        = {{convert|1610|mm|in|1|abbr=on}},<br>later {{convert|1630|mm|in|1|abbr=on}},<br>Pickup: {{convert|1640|mm|in|1|abbr=on}}
+|height       = saloon: {{convert|1395|mm|in|1|abbr=on}},<br>Cabrio: {{convert|1412|mm|in|1|abbr=on}},<br>Pickup: {{convert|1490|mm|in|1|abbr=on}}
+|weight       = {{convert|790|kg|lb|1|abbr=on}}<br/> −{{convert|970|kg|lb|1|abbr=on}},<br> USA {{convert|1750|lb|kg||abbr=on}}<br>−{{convert|2145|lb|kg||abbr=on}}
+|designer     = [[Giorgetto Giugiaro]]
+|predecessor  = [[Volkswagen Beetle]]
+|successor    = [[Volkswagen Golf Mk2]]
+| fuel_capacity ={{Convert|9.9|impgal|L usgal|0|abbr=on}}<ref name=Autocar1977>{{cite journal| authorlink = Unsigned| title = Autotest Volkswagen Golf GTI:  Volkswagen's ultimate in performance for the Golf range...Firm suspension gives excellent handling but harsh ride.   Fuel injected engine powerful but very flexible.| journal = [[Autocar]]| volume = vol 146 (nbr 4192)| pages = pages 26 - 30 |date = date 12 March 1977}}</ref> 
+}}
+: ''for an overview of the generations, see: [[Volkswagen Golf]]
+
+==History==
+Like its predecessor the [[Volkswagen Beetle]], the '''Volkswagen Golf Mk1''' has proved to be influential.  In continuous production since 1974, the Golf was one of the first widely successful [[front-wheel drive]] [[hatchback]]s.  In the USA, the [[Morris Mini]], [[Honda N360]] and [[Fiat 128]] saw only limited success, but it was the Rabbit, along with the [[Honda Civic]] that sparked another generation of European-derived [[front-wheel drive]] American compacts, such as the [[Dodge Omni]], Escort and Cavalier in the 1980s, just as the Beetle inspired Falcon and Corvair in 1960s and subcompact Vega and Pinto in the 1970s.  The Golf's performance also defined the hot hatch before youth started tuning their imports.
+
+Replacing the Beetle was a vital goal for Volkswagen's continued survival. By the early 1970s, the company had fallen into financial woe.  The novelty of the [[Volkswagen Beetle|Beetle]] had worn thin.  Sales were in terminal decline.  Although the unusual design features such as a rear air-cooled engine had initially proven superior to merely shrinking down conventional automobiles, the water cooled, front-engine, rear-wheel drive small cars like the [[Toyota Corolla]] had been refined enough to woo customers away from Volkswagen's noisy, underpowered engines and dated styling.  The [[VW Type 3|Type 3]] and [[VW Type 4|Type 4]] fastback and squareback failed to attract much interest, whilst the [[NSU Motorenwerke AG|NSU]]-developed [[VW K70|K70]] was a failure.
+
+The solution arrived with [[Auto Union]].  They had attracted a small following with their technologically advanced [[Audi]] [[front wheel drive]] medium sedans.  Volkswagen had acquired the [[Ingolstadt]]-based company in 1964 from [[Daimler-Benz]].  Audi's expertise in water-cooled engines and front-wheel drive would be essential in developing a new generation of Volkswagens.  FWD offered more performance with lighter weight and more room in a smaller package.  The Audi technology in the Golf would regain for Volkswagen the engineering lead over rear drive cars that [[Ferdinand Porsche]] had bestowed on the original Beetle over its large conventional peers.  The small Golf had to succeed in replacing the high volume Volkswagen sedan.  The upmarket [[VW Dasher|Dasher/Passat]] would be VW's first front wheel drive car, and it was relatively well received for its lower volume market.  The Golf would adopt an efficient "two-box" layout with a steep hatch rather than a formal trunk, which would be later added in the [[Volkswagen Jetta|Jetta]].  The water-cooled engine would be mounted transversely in the front.  Work on the Golf began in 1969, shortly after [[Kurt Lotz]] became head of Volkswagen.
+
+==Model history==
+The first Golf (VW internal designation ''Typ 17'') began production in 1974, although it was marketed in the [[United States]] and [[Canada]] from 1975 to 1984 as the '''Volkswagen Rabbit''' and in [[Mexico]] as the '''Volkswagen Caribe'''.  It was a water-cooled, [[front wheel drive]] design in a [[hatchback]] body style.  It featured firmly sprung and damped, independent [[Macpherson strut]] front suspension and semi-independent [[Twist-beam rear suspension]], that gave crisp handling and good roadholding, without being too uncomfortable. The Golf was Australian ''[[Wheels magazine|Wheels]]'' magazine's [[Car of the Year]] for 1975.  The name is short for ''Golf-Strom'', German for [[Gulf Stream]]; it was named for that oceanic current to reflect its international character.{{Citation needed|date=February 2007}}
+
+The Golf was designed by [[Italy|Italian]] automobile architect / designer [[Giorgetto Giugiaro]], of the [[ItalDesign]] design studio. Giugiaro had also designed the Alfa-Sud and the Lotus Esprit Mk1.
+
+The car changed little before being replaced by the Mark 2 version in 1984 (Europe).   However, air conditioning became available as an option on the domestic market in August 1975.<ref name=AutoMotoruSport1975>{{cite journal| authorlink = | title = Nachrichten aus der Tecknik: Klimaanlage fuer VW Golf und Scirocco (Technical news: air conditioning for VW Golf and Scirocco)| journal = [[Auto, Motor und Sport|Auto Motor u. Sport]]| volume = Heft 18 1975| pages = Seite 36 |date = date 30 August 1975}}</ref>   The possibility to retrofit the installation, together with a larger battery, was offered to existing owners.<ref name=AutoMotoruSport1975/>
+
+The GTI version, launched in Europe in 1976 and in the U.S. in 1983, virtually created the [[hot hatch]] genre overnight, and many other manufacturers since have created special sports models of their regular volume-selling small hatchbacks.  The idea behind was rather straightforward - take a basic-transportation [[economy car]] and give it a high-performance package, making it practical ''and'' sporty.  It was one of the first small cars to adopt mechanical [[fuel injection]] for its sports version, which raised power output of the 1588&nbsp;cc engine to 110&nbsp;[[horsepower#PS|PS]] (81&nbsp;kW/108&nbsp;hp).  In 2004, ''[[Sports Car International]]'' declared the Golf Mk1 GTI to be the 3rd best car of the 1980s.
+
+There was a minor facelift in 1980 which saw the adoption of larger rear lamp clusters (more in line with Giugiaro's original concepts), revised bumpers, a new dashboard with a more modern-looking instrument display, and for US versions square headlights.
+
+==Golf Cabriolet==
+{{Main|Volkswagen Golf Cabriolet}}
+[[Image:Vw golf 1 cabrio h sst.jpg|200px|left|thumb|Mark 1 Golf Cabriolet]]
+The convertible version, named the Golf Cabriolet (or ''Typ 155'') in Europe and Canada ("Rabbit Convertible" in America originally and renamed in 1985 to "Cabriolet"), was sold from 1980 to 1993 (a convertible version of the [[Volkswagen Golf Mk2|Mk2 Golf]] was not made, so the Mk1 Cabrio with slight modification was produced until the introduction of the [[Volkswagen Golf Mk3|Mk3 Cabrio]]).  It had a reinforced body, transverse roll bar, and a high level of trim, and kept the pre-1980 style of rear lamp clusters.  The Mk1 Cabriolet is of unibody construction built entirely at the factory of [[Karmann]], from stamping to final assembly; Volkswagen supplied the engine, suspension, interior, etc. for Karmann to install.  The vinyl or cloth tops were insulated and manually or automatic operated, with a heated glass rear window.
+
+==South Africa (Citi Golf)==
+[[Image:volkswagen citi golf policecar of sa.JPG|thumb|Volkswagen Citi Golf]]
+{{main|Volkswagen Citi Golf}}
+From 1984 to 2009, Volkswagen of [[South Africa]] manufactured two variants of the Mk1 Golf, the five-door Citi Golf and the [[Volkswagen Caddy]] [[Pickup truck|pickup]].
+
+On [[September 22]], [[2006]] in order to celebrate the continued success of the Mk1 based Citi Golf in South Africa, Volkswagen SA announced the limited edition Citi R which is powered by a 90 [[Watt#Kilowatt|kW]] (120 [[Horsepower|hp]]/123 PS) 1.8L [[Fuel injection|fuel injected]] engine with a five-speed manual transmission as well as a GTI trademark red outlined front grill.
+
+There was a special version, named LX with 1.1L engine, which produced more power than the 1.3L engine.  This version had a tuned GTI-like front grill, four front headlights, spoiler, alloy wheels and Recaro seats.
+
+The 2007 VW South Africa Citi Golf range starts with a standard Citi Golf, in either 1.4 or 1.6 litre fuel injected models.  Many variants of the standard version are/were available with different extras packages, which included the Citi Rhythm, Citi.com and so on.  The range topper is the CitiRox, also available in 1.4i and 1.6i, made as sportier versions of the standard Citi to replace the previous sports version, Velociti and Citi Life.  The later Citi Golfs produced feature modern features, such as a new dashboard adapted from a [[Škoda Fabia]], and minor body "facelifts" such as revised tail-light clusters.
+
+The [http://www.vw.co.za/models/citi/ 2009 VW South Africa Citi Golf range] consists of four new models:
+* CitiRox 1.4i and 1.6i
+* CitiSport 1.4i and 1.6i
+* TenaCiti 1.4i
+* CitiStorm 1.4i
+
+Production of the Citi Golf ended on 2 November 2009, after 377,484 cars.<ref>[http://www.topcar.co.za/user-generated/goodbye-citi-golf topCar: Goodbye Citi Golf]</ref>
+
+==North America==
+[[Image:82 VW Rabbit.jpg‎|thumb|200px|left|Slightly modified US-made Mark 1 Golf/Rabbit. Front bumpers and headlights are original]]
+In 1978, Volkswagen began producing the North American "Rabbit" version of the Mk1 Golf in [[New Stanton, Pennsylvania]], thus becoming the first [[Europe]]an car manufacturer since [[Rolls-Royce Limited|Rolls-Royce]] in the 1920s to produce a vehicle in the United States.  (The plant was called Westmoreland due to New Stanton being located in [[Pennsylvania]]'s Westmoreland County.)  Former [[Chevrolet]] executive James McLernon was chosen to run the factory, which was built to lower the cost of the Rabbit in North America by producing it locally.  Unfortunately, McLernon tried to "Americanize" the Golf/Rabbit (Volkswagen executive Werner Schmidt referred to the act as "Malibuing" the car) by softening the suspension and using cheaper materials for the interior.{{Citation needed|date=October 2009}}  VW purists in America and company executives in Germany were displeased,{{Citation needed|date=October 2009}} and for the 1983 model year the Pennsylvania plant went back to using stiffer shocks and suspension with higher-quality interior [[Trim package|trim]].{{Citation needed|date=October 2009}}  The plant also began producing the GTI for the North American market.  ('Rabbits' were built in Pennsylvania until 1984).  The first [[VW Caddy]] pick-up, based on the Mk1 Golf, was also created at the Pennsylvania plant.
+
+The Volkswagen Rabbit GTI, the North American version of the high-performance Golf GTI, debuted in Canada and the United States for 1983 model year.  Assembled from parts made in Mexico, Canada, Germany and the U.S. in Volkswagen's [[Westmoreland County, Pennsylvania]] assembly plant, it had the same Mk1 chassis, and the same A1 body type as the Mk1 Golf GTI that had been on sale in Europe since 1976, with a few exceptions.  Key distinct features of the Rabbit GTI were its squared front end styling, and its alloy "snowflake" wheels.  The interior came in red or blue felt and leatherette trim.  The squared styling of the front end, particularly the wraparound direction indicator lights, gave it added safety and slight improvement in performance.  Under the hood, the engine was a JH 1.8 [[liter]] 4-cylinder petrol engine that ran on unleaded fuel.  The JH 1.8l was transversely mounted, and it would peak in stock condition at {{Convert|90|hp|kW|0|abbr=on}}, delivered through a close-ratio five-speed [[manual transmission]].  Claims for gas mileage of near-perfectly tuned Rabbit GTIs range between {{convert|25|mpgus|L/100 km mpgimp|abbr=on}} and {{convert|30|mpgus|L/100 km mpgimp|abbr=on}}.
+
+When the Rabbit GTI first appeared in Canada, it featured the 78&nbsp;hp 1.6l K-Jetronic engine and wide ratio five-speed transmission.  It was initially available in red, white, and black.  These Canadian cars were German-built and were nearly identical in bodyshell and interior appearance to the {{Convert|110|hp|kW|0|abbr=on}} Golfs built in Europe.  Unfortunately for enthusiasts, the entire driveline and running gear was identical to the other Canadian versions.  Five-MPH bumpers were fitted as well as anti-intrusion bars within the doors.  The towing eye integral to the front of the European car was deleted as the crashworthy bumper's shock absorbers had towing facilities as part of their design and the car had been crash-tested for Canada with the North American front apron.  The car was very attractive but drove no better or worse than a Rabbit of the same era.  Only with the arrival of the American GTI was a faster Golf available in Canada, and it was down {{Convert|22|hp|kW|0|abbr=on}} compared to the 1.8 litre Golf GTI Mk1. A small number of European specification GTIs made it to Canada under an agreement with the government that allowed German soldiers training at a Manitoba military facility to bring their personal vehicles with them. As a result of this, VW made available (for many years) all unique European model spares required through VW of Canada. It was possible then, although expensive, to build a "real" GTI. A number of enthusiasts did so based on the reputation of the European car.
+
+==United Kingdom==
+Sales in the [[United Kingdom]] were initially slow, as British-built conventional saloons like the [[Austin Allegro]], [[Vauxhall Viva]], [[Ford Escort]] and [[Hillman Avenger]] were firm favourites with buyers of cars in this sector, but by the end of the decade sales were rising rapidly and, along with the likes of the [[Datsun Sunny]], it was among one of the few foreign cars of this size that were proving popular in Britain.  It was still selling well in Britain when production ceased in late 1983, at a time when the popularity of foreign cars was surging further. The front suspension layout was virtually copied for the [[Austin Maestro]] and [[Austin Montego]], much to Volkswagens annoyance.
+
+==Caribe (Mexico) (1977-1987)==
+[[File:VW Caribe L 1982 2.JPG|thumb|250px|left|A Mexican spec 1982 Volkswagen Caribe L in original conditions.]]
+
+===The 1970s===
+The Golf MkI was introduced in [[Mexico]] as the Volkswagen Caribe in May 1977 as a 5 door [[hatchback]]. It came standard with a 4-speed manual [[gearbox]] and 1.6 liter 66 HP engine. The car was an instant success. As the 1978 model year lineup expanded with the 3 door vehicle, it was divided into two different trims: Normal and L. Both trims had a manual, 4-speed, 1.6 liter engine.  In 1979 the GL trim was added. {{Citation needed|date=July 2008|user:Washburnmav}}
+
+===The 1980s===
+In 1980 the Caribe received rectangular headlamps as well as some new colors. In 1981 the Caribe changed to include many features from the American 1981 Rabbit( an alternate name for the [[Volkswagen Golf|Golf]]). In 1983 and 1984, due to the financial crisis in Mexico, the Normal version was renamed 'C' and the L was discontinued, leaving the C and GL as the only trims offered. Both versions received a new dashboard from the 1980 European Golf. In 1984 the slow-selling diesel Caribe C was  officially  dropped, but the Caribe GT appeared, derived from the Golf and Rabbit GTI. This souped-up version featured a 1.8 liter engine with 85 HP and included a [[carburetor]]. {{Citation needed|date=July 2008|user:Washburnmav}}
+
+===Limited editions===
+In 1986 the limited edition Caribe City emerged, based on the Caribe C, but painted only in Pearl Grey. In 1987 new colors and two other limited editions emerged: The Caribe Plus, and the Caribe Pro. The Caribe Plus was based on the Caribe GL, and was painted only in Alpine White. The Caribe Pro was based on the Caribe GT, but was painted in Black and Tornado Red. In March 1987 the Caribe was replaced by the [[Volkswagen Golf Mk2|Golf MkII]] after 10 years of success.{{Citation needed|date=July 2008|User:Washburnmav}}
+
+==Notes==
+*The original U.S.-spec Golf saw use in a taxi fleet.  The Yellow Cab Company of [[Lexington, Kentucky]], bought eleven Rabbits in the late seventies as part of an effort to save money on fuel, estimating an annual savings of $135,000 in gasoline costs.<ref>Flammang, James, Volkswagen: Beetles, Buses and Beyond, Karus Publications, 1996</ref>
+{{clr}}
+In the early 80's, twelve German imported Gold GLD 5 doors were used by both the Black & White and Swan taxis companies in Perth, Western Australia. While popular with drivers for their economy and handling, passengers often refused to travel in the "lunch box" as the locals nicknamed them.
+
+The Volkswagen Golf Mk1 is featured in the video game [[Midnight Club: Los Angeles]] as one of three starting cars to pick from at the beginning of the game.
+
+==See also==
+{{commons}}
+{{Commons category|VW Golf I}}
+{{Commons category|VW Golf GTI}}
+*[[Volkswagen Group A platform]]
+*[[Volkswagen Golf]] for an overview of all generations of VW Golf
+*[[VDub]]
+*[[list of discontinued Volkswagen Group petrol engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+*[[Hot hatch]]
+*[[Small family car]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.volkswagen.com/vwcms_publish/vwcms/master_public/virtualmaster/en2/models/golf_start.html Golf at Volkswagen International]
+*{{dmoz|/Recreation/Autos/Makes_and_Models/Volkswagen/Golf/|Volkswagen Golf}}
+<!--===========================({{NoMoreLinks}})===============================-->
+<!--| DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF |-->
+<!--| LINKS. If you think that your link might be useful, do not add it here, |-->
+<!--| but put it on this article's discussion page first or submit your link  |-->
+<!--| to the appropriate category at the Open Directory Project (www.dmoz.org)|-->
+<!--| and link back to that category using the {{dmoz}} template.             |-->
+<!--|                                                                         |-->
+<!--|           Links that have not been verified WILL BE DELETED.            |-->
+<!--|  See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details    |-->
+<!--===========================({{NoMoreLinks}})===============================-->
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1950-1979}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1950-1979}}
+{{Volkswagen (North America) timeline 1980 to date}}
+{{Volkswagen (South America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Golf 1]]
+[[Category:Subcompact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:Vehicles introduced in 1974]]
+[[Category:1970s automobiles]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+
+[[bs:Volkswagen Golf]]
+[[bg:Фолксваген Голф]]
+[[ca:Volkswagen Golf]]
+[[da:VW Golf]]
+[[de:VW Golf I]]
+[[et:Volkswagen Golf]]
+[[es:Volkswagen Golf]]
+[[fr:Volkswagen Golf]]
+[[hr:Volkswagen Golf]]
+[[it:Volkswagen Golf]]
+[[lt:Volkswagen Golf]]
+[[nl:Volkswagen Golf]]
+[[ja:フォルクスワーゲン・ゴルフ]]
+[[no:Volkswagen Golf]]
+[[pl:Volkswagen Golf]]
+[[pt:Volkswagen Golf]]
+[[ro:Volkswagen Golf]]
+[[sr:Фолксваген голф]]
+[[fi:Volkswagen Golf I]]
+[[sv:Volkswagen Golf]]
+[[tr:Volkswagen Golf]]

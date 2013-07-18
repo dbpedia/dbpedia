@@ -1,0 +1,7 @@
+{{Class
+| rdfs:label = Rocket
+| rdfs:subClassOf = MeanOfTransportation
+| specificProperties = {{SpecificProperty | ontologyProperty = diameter | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = mass | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = lowerEarthOrbitPayload | unit = kilogram }}
+}}

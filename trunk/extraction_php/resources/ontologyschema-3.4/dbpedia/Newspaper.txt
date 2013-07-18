@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Newspaper
+|rdfs:subClassOf = Work
+}}

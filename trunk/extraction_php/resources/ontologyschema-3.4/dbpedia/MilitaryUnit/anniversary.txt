@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = anniversary
+|rdfs:domain = MilitaryUnit
+|rdfs:range = xsd:date
+}}

@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Office Holder
+|rdfs:subClassOf = Person
+}}

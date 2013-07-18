@@ -1,0 +1,16 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Drug
+| mappings =
+	{{PropertyMapping | templateProperty = IUPAC_name | ontologyProperty = iupacName }}
+	{{PropertyMapping | templateProperty = CAS_number | ontologyProperty = casNumber }}
+	{{PropertyMapping | templateProperty = CAS_supplemental | ontologyProperty = casSupplemental }}
+	{{PropertyMapping | templateProperty = ATC_prefix | ontologyProperty = atcPrefix }}
+	{{PropertyMapping | templateProperty = ATC_suffix | ontologyProperty = atcSuffix }}
+	{{PropertyMapping | templateProperty = ATC_supplemental | ontologyProperty = atcSupplemental }}
+	{{PropertyMapping | templateProperty = PubChem | ontologyProperty = pubchem }}
+	{{PropertyMapping | templateProperty = DrugBank | ontologyProperty = drugbank }}
+	{{PropertyMapping | templateProperty = melting_point | ontologyProperty = meltingPoint | unit = Temperature }}
+	{{PropertyMapping | templateProperty = melting_high | ontologyProperty = meltingPoint | unit = Temperature }}
+	{{PropertyMapping | templateProperty = boiling_point | ontologyProperty = boilingPoint | unit = Temperature }}
+	{{PropertyMapping | templateProperty = drug_name | ontologyProperty = foaf:name }}
+</textarea>

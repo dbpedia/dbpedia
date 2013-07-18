@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = active years end date
+| rdfs:range = xsd:date
+}}

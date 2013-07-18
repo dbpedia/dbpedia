@@ -1,0 +1,54 @@
+{{Infobox Automobile
+|name=BMW M40
+|manufacturer=[[BMW]]
+|production=1987&ndash;1995
+|class=[[SOHC]] [[Straight-4]]
+|predecessor=[[BMW M10]]
+|successor=[[BMW M43]]
+|related=[[BMW M42]]
+|engine=1.6&nbsp;L (1596&nbsp;cc/97&nbsp;in³)<br>1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)
+|similar=[[Mercedes-Benz M102 engine|Mercedes-Benz M102]]
+}}
+The [[BMW]] '''M40''' is an [[Straight-4|I4]] [[piston engine]].  [[Engine displacement]] ranges from 1600 cc to 1800 cc.
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=2|[[#M40B16|M40B16]]||rowspan=2|1.6&nbsp;L (1596&nbsp;cc/97&nbsp;in³)||75&nbsp;kW (101&nbsp;hp) @ 5500||143&nbsp;N·m (105&nbsp;ft·lbf) @ 4250||6200||1988
+|-
+|73&nbsp;kW (98&nbsp;hp) @ 5500||141&nbsp;N·m (104&nbsp;ft·lbf) @ 4250||	6200||1988
+|-
+|rowspan=2|[[#M40B18|M40B18]]||rowspan=2|1.8&nbsp;L (1796&nbsp;cc/109&nbsp;in³)||85&nbsp;kW (114&nbsp;hp) @ 5500||165&nbsp;N·m (122&nbsp;ft·lbf) @ 4250||6200||1987
+|-
+|83&nbsp;kW (111&nbsp;hp) @ 5500||162&nbsp;N·m (119&nbsp;ft·lbf) @ 4250||6200||1987
+|}
+==M40B16==
+The '''M40B16''' is a 1.6&nbsp;L (1596cc) version of the '''M40''' producing 102&nbsp;[[Horsepower|hp]] of [[Power (physics)#Mechanical power|mechanical power]] and {{convert|105|ft|m|abbr=on}} [[Pound-force|lbf]] of [[torque]] using [[Robert Bosch GmbH|Bosch]] M1.3 [[fuel injection]][http://www.bimmerportal.com/forum/ .]
+
+Applications:
+*1988&ndash;1995 [[BMW E30|E30]] [[BMW 3 Series#E30|316i]]
+*1990&ndash;1994 [[BMW E36|E36]] [[BMW 3 Series#E36|316i]]
+
+==M40B18==
+The '''M40B18''' is a 1.8&nbsp;L (1796cc) version of the '''M40''' producing {{convert|115|hp|abbr=on}} of mechanical power and {{convert|122|ft.lbf|N.m|abbr=on}}. of torque. Like the '''M40B16''', it also uses [[Robert Bosch GmbH|Bosch]] M1.3 [[fuel injection]].
+
+Applications:
+*1987&ndash;1995 [[BMW E30|E30]] [[BMW 3 Series#E30|318i]]
+*1988&ndash;1994 [[BMW E34|E34]] [[BMW 5 Series#E34 (1989-1996)|518i]]
+*1992&ndash;1993 [[BMW E36|E36]] [[BMW 3 Series#E36|318i]]
+
+==See also==
+*[[List of BMW engines]]
+*[[BMW M42]]
+*[[BMW M43]]
+
+{{DEFAULTSORT:Bmw M40}}
+[[Category:BMW engines|M40]]
+
+[[de:BMW M40]]
+[[it:BMW M40]]
+[[no:BMW M40]]
+[[pl:BMW M40]]
+[[ru:BMW M40]]

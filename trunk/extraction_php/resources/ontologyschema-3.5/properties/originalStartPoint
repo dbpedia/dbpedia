@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = original start point
+| rdfs:domain = Canal
+| rdfs:range = Place
+}}

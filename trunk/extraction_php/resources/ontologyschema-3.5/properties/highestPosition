@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = highest position
+| rdfs:range = geo:SpatialThing
+}}

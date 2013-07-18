@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = orbits
+| rdfs:range = xsd:integer
+}}

@@ -1,0 +1,353 @@
+{{Redirect|hp|other uses|HP (disambiguation)}}
+{{Original research|date=September 2008}}
+'''Horsepower''' (hp or HP or Hp) is the name of several non-[[International System of Units|SI]] [[units of measurement|unit]]s of [[power (physics)|power]], the most commonly used of which are equal to between 735 and 746 [[watt]]s.
+
+It was originally defined to allow the output of  [[steam engine]]s to be measured and compared with the power output of [[draft horse]]s. The horsepower was widely adopted to measure the output of piston engines, turbines, electric motors and other machinery. Different regions adopted different definitions of the unit. Most countries now use the SI unit ''watt'' (and its multiples) for measurement of power.
+
+The definition of a horsepower unit is different in different applications; application outside of the context of a particular definition will be inaccurate. 
+* One ''mechanical horsepower'' of 550 foot-pounds per second is equivalent to 745.7 [[watt (unit)|watts]].
+* A ''metric horsepower'' of 75&nbsp;kgf-m per second is equivalent to 735.499 watts.
+* A ''boiler horsepower'' is used for rating steam [[boiler]]s and is equivalent to 34.5 pounds of water evaporated per hour at 212 degrees [[Fahrenheit]], or 9,809.5 watts.
+* One horsepower for rating [[electric motor]]s is equal to 746 watts.
+* A '' Pferdestärke'' is a name for a group of similar power measurements used in Germany around the end of the 19th century, all of about one metric horsepower in size.<ref> http://www.sizes.com/units/horsepower.htm Horsepower, retrieved 2009 Feb 5</ref><ref>"Conversion Factors", page F-313 of ''Handbook of Chemistry and Physics'', 58th Edition, CRC Press Inc., Clevland, Ohio ISBN 0-8493-0458-X, 1977, Robert C. Weast (Ed.)</ref>
+* An [[Royal Automobile Club|RAC]] horsepower or British [[tax horsepower]] is an estimate based on several engine dimensions.
+
+== History of the term ''horsepower'' ==
+The development of the steam engine provided a reason to compare the output of [[horse]]s with that of the engines that could replace them. In 1702, [[Thomas Savery]] wrote in [[The Miner's Friend]]: "So that an engine which will raise as much water as two horses, working together at one time in such a work, can do, and for which there must be constantly kept ten or twelve horses for doing the same. Then I say, such an engine may be made large enough to do the work required in employing eight, ten, fifteen, or twenty horses to be constantly maintained and kept for doing such a work…" The term ''horsepower'' was coined later by [[James Watt (inventor)|James Watt]] to help market his improved [[steam engine]].  He had previously agreed to take royalties of one third of the savings in coal from the older [[Newcomen steam engine]]s.<ref>{{cite web
+|url=http://www.pballew.net/arithm17.html#hp
+|title=Math Words &mdash; horsepower
+|publisher=pballew.net/
+|accessdate=2007-08-11}}</ref>  This royalty scheme did not work with customers who did not have existing steam engines but used horses instead.  Watt determined that a horse could turn a mill wheel 144 times in an hour (or 2.4 times a minute).  The wheel was 12 feet in radius, therefore the horse travelled 2.4 × 2π × 12 feet in one minute.  Watt judged that the horse could pull with a [[force]] of 180 pounds.  So:
+:<math> power = \frac{work}{time} = \frac{force \times distance}{time} = \frac{(180 \mbox{ lbf})(2.4 \times 2 \pi \times 12 \mbox{ ft})}{1\ \mbox{min}}=32,572 \frac{\mbox{ft} \cdot \mbox{lbf}}{\mbox{min}}.</math>
+This was rounded to an even 33,000&nbsp;ft·lbf/min.<ref>{{Citation
+|last=Tully
+|first=Jim
+|publisher=American Society of Mechanical Engineers
+|title=Philadelphia Chapter Newsletter
+|date=September 2002
+|url=http://sections.asme.org/Philadelphia/sept02.htm
+|accessdate=2007-08-11}} (see the AMSE puzzler answer)</ref>
+
+Others{{Who|date=November 2009}} recount that Watt determined that a pony could lift an average {{convert|220|lbf|kN|abbr=on}} {{convert|100|ft|m|abbr=on}} per minute over a four-hour working shift.  Watt then judged a horse was 50% more powerful than a pony and thus arrived at the 33,000&nbsp;ft·lbf/min figure.{{Citation needed|date=November 2009}}
+
+''Engineering in History'' recounts that [[John Smeaton]] initially estimated that a horse could produce 22,916 foot-pounds per minute.  John Desaguliers increased that to 27,500 foot-pounds per minute.  "Watt found by experiment in 1782 that a 'brewery horse' was able to produce 32,400 foot-pounds per minute."  James Watt and Matthew Boulton standardized that figure at 33,000 the next year.<ref>{{cite book
+ |url=http://print.google.com/print?id=AVn_Sm56OCoC&pg=171&lpg=171&dq=smeaton&sig=6N_TJXrLqwQI-Fm7mU9ebKS1djA
+ |title=Engineering in History
+ |author=Richard Shelton Kirby
+ |publisher=Dover Publications
+ |pages=171
+ |date=[[August 1]], [[1990]]
+ |isbn=0486264122
+ |accessdate=2007-08-11
+}}</ref>
+
+Most observers familiar with horses and their capabilities estimate that Watt was either a bit optimistic or intended to underpromise and overdeliver; few horses can maintain that effort for long.  Regardless, comparison with a horse proved to be an enduring marketing tool.{{Citation needed|date=November 2009}}
+
+A healthy human can produce about 1.2&nbsp;hp briefly (see [[orders of magnitude (power)|orders of magnitude]]) and sustain about 0.1&nbsp;hp indefinitely; trained athletes can manage up to about 2.5&nbsp;hp briefly<ref>http://www.telegraph.co.uk/sport/motorsport/formulaone/lewishamilton/3476741/Lewis-Hamilton-and-Chris-Hoy-to-pit-man-against-machine-at-Wembley-Stadium-Formula-One.html</ref> and 0.3&nbsp;hp for a period of several hours.
+
+===Horsepower from a horse===
+R. D. Stevenson and R. J. Wassersug published an article in Nature 364, 195-195 ([[15 July]] [[1993]]) calculating the upper limit to an animal's power output. The peak power over a few seconds has been measured to be as high as 14.9&nbsp;hp. However, for longer periods, an average horse produces less than one horsepower.
+
+==Current definitions==
+The following definitions have been widely used:
+{|class=wikitable
+|-
+|valign=top|[[#Mechanical horsepower|Mechanical&nbsp;horsepower]]<br />hp(I)
+|≡ 33,000&nbsp;[[feet-pound-force|ft-lb<sub>f</sub>]]/min
+= 550&nbsp;ft·lb<sub>f</sub>/s<br>
+= 745.6999&nbsp;[[Watt|W]] 
+|-
+|valign=top|[[#Metric horsepower|Metric&nbsp;horsepower]]<br />hp(M)
+|≡ 75&nbsp;[[kilogram-force|kg<sub>f</sub>]]·m/s<br>
+≡ 735.49875&nbsp;W
+|-
+|[[#Electrical horsepower|Electrical&nbsp;horsepower]]<br />hp(E)
+|≡ 746&nbsp;W
+|-
+|valign=top|[[#Boiler horsepower|Boiler&nbsp;horsepower]]<br />hp(S)
+|≡ 33,475 [[BTU]]/h
+= 9,809.5&nbsp;W
+|-
+|valign=top|[[#Hydraulic horsepower|Hydraulic&nbsp;horsepower]]
+|colspan=2|= flow rate ([[US gal]]/[[minute|min]]) × pressure ([[lbf/in<sup>2</sup>|psi]]) × 7/12,000<br />
+= 550&nbsp;ft·lb<sub>f</sub>/s<br />
+= 745.6999&nbsp;W 
+|}
+In certain situations it is necessary to distinguish between the various definitions of horsepower and thus a suffix is added: hp(I) for mechanical (or imperial) horsepower, hp(M) for metric horsepower, hp(S) for boiler (or steam) horsepower and hp(E) for electrical horsepower.
+
+Hydraulic horsepower is equivalent to mechanical horsepower. The formula given above is for conversion to mechanical horsepower from the factors acting on a hydraulic system.
+
+===Mechanical horsepower===
+
+Assuming the third [[General Conference on Weights and Measures|CGPM]] (1901, CR 70) definition of [[standard gravity]], ''g''<sub>n</sub>=9.80665 m/s<sup>2</sup>, is used to define the pound-force as well as the kilogram force, and the [[Pound (mass)#International pound|international avoirdupois pound]] (1959), one mechanical horsepower is:
+
+:{|
+|-
+|1 HP
+|≡ 33,000&nbsp;ft·lb<sub>f</sub>/min
+|colspan=3|by definition
+|-
+|
+|= 550&nbsp;ft·lb<sub>f</sub>/s
+|since
+|align=right|1&nbsp;min&nbsp;
+|= 60&nbsp;s
+|-
+|
+|= 550×0.3048×0.45359237&nbsp;m·[[kilogram-force|kg<sub>f</sub>]]/s&nbsp;
+|since
+|align=right|1&nbsp;ft
+|= 0.3048&nbsp;m and
+|-
+|
+|= 76.0402249068&nbsp;kg<sub>f</sub>·m/s
+|
+|align=right|1&nbsp;lb
+|= 0.45359237&nbsp;kg
+|-
+|
+|= 76.0402249068×9.80665&nbsp;kg·m<sup>2</sup>/s<sup>3</sup>
+|
+|align=right|''g''
+|= 9.80665&nbsp;m/s<sup>2</sup> 
+|-
+|
+|= 745.69987158227022&nbsp;W
+|since
+|align=right|1&nbsp;W
+|≡ 1 [[joule|J]]/s&nbsp;= 1 [[Newton (unit)|N]]·m/s&nbsp; = 1&nbsp;(kg·m/s<sup>2</sup>)·(m/s)
+|}
+
+Or given that 1&nbsp;hp = 550&nbsp;ft·lb<sub>f</sub>/s, 1&nbsp;ft = 0.3048&nbsp;m, 1&nbsp;lb<sub>f</sub>&nbsp;≈ 4.448&nbsp;N, 1&nbsp;J = 1&nbsp;N·m, 1&nbsp;W = 1&nbsp;J/s: 1&nbsp;hp = 746&nbsp;W
+
+=== Metric horsepower ===
+Metric horsepower began in [[Germany]] in the 19th century and became popular across Europe and Asia. The various units used to indicate this definition (''PS'', ''CV'', ''pk'', and ''ch'') all translate to ''horse power'' in English, so it is common to see these values referred to as ''horsepower'' or ''hp'' in the press releases or media coverage of the German, French, Italian, and Japanese automobile companies. British manufacturers often intermix metric horsepower and mechanical horsepower depending on the origin of the engine in question.
+
+Metric horsepower, as a rule, is defined as 0.73549875&nbsp;kW, or roughly 98.6% of mechanical horsepower. This was a minor issue in the days when measurement systems varied widely and engines produced less power, but has become a major sticking point today. Exotic cars from Europe like the [[McLaren F1]] and [[Bugatti Veyron]] are often quoted using the wrong definition, and their power output is sometimes even converted twice because of confusion over whether the original ''horsepower'' number was metric or mechanical.{{Citation needed|date=May 2008}}
+
+==== PS ====
+This unit ({{lang-de|Pferdestärke}} = horse strength) is no longer a statutory unit, but is still commonly used in Europe, South America and Japan, especially by the automotive and motorcycle industry. It was adopted throughout continental Europe with designations equivalent to the English ''horsepower'', but mathematically different from the British unit. It is defined by the ''Physikalisch-Technische Bundesanstalt'' (PTB)<ref>[http://www.ptb.de/de/publikationen/download/pdf/einheiten.pdf Die gesetzlichen Einheiten in Deutschland (in German)] on [http://www.ptb.de/ PTB.de]</ref> in [[Braunschweig (city)|Braunschweig]] as exactly:
+
+: 1&nbsp;PS = 75&nbsp;[[kilopond]]-[[meters per second]]
+: (75&nbsp;kp·m/s)×(9.80665&nbsp;N/kp) = 735.49875&nbsp;[[newton (unit)|N]]·m/s &asymp; 735.5&nbsp;N·m/s &asymp; 735.5&nbsp;W &asymp; 0.7355&nbsp;kW &asymp; 0.98632&nbsp;hp (SAE)
+
+The PS was adopted by the [[DIN|Deutsches Institut für Normung (DIN)]] and then by the automotive industry throughout most of Europe, under varying names. In 1992, the PS was rendered obsolete by EEC directives, when it was replaced by the kilowatt as the official power measuring unit. It is still in use for commercial and advertising purposes, as many customers are not familiar with the use of kilowatts for engines.
+
+====pk, hk, hv, LE, k/ks, KM, CP====
+The Dutch ''paardenkracht'' (pk), the Swedish ''hästkraft'' (hk), the Finnish ''hevosvoima'' (hv), the Norwegian and Danish ''hestekraft'' (hk), the Hungarian ''lóerő'' (LE), the Czech ''koňská síla'' and Slovak ''konská sila'' (k or ks), the Serbo-Croatian ''konjska snaga'' (k or ks), the Polish ''koń mechaniczny'' (KM) and the Romanian ''cal-putere'' (CP) all equal the German ''Pferdestärke'' (PS).
+
+==== CV and cv ====
+
+In Italian (''Cavalli''), Spanish (''Caballos''), and Portuguese (''Cavalos''), ''CV'' is the equivalent to the German, ''PS''. It is also used as the French term for the Pferdestärke, but in French, this should be written in lowercase letters as ''cv''. 
+
+In addition, the capital form ''CV'' is used in Italy and France as a unit for [[tax horsepower]], short for, respectively, ''cavalli vapore'' and ''chevaux vapeur'' (''steam horses''). CV is a non-linear rating of a motor vehicle for tax purposes.<ref>[http://home.att.net/~numericana/answer/units.htm Measurements, Units of Measurement, Weights and Measures - numericana.com]</ref> The CV rating, or fiscal power, is  <math>\scriptstyle\left(\tfrac{P}{40}\right)^{1.6} + \tfrac{U}{45}</math>, where ''P'' is the maximum power in kilowatts and ''U'' is the amount of CO<sub>2</sub> emitted in grams per kilometre. ''Caution: ''CV'' has been around for a long time in France.  CO<sub>2</sub> measurements had not for a long time, but are now from 1998, so modern quotes for CV include a CO<sub>2</sub> factor, but older ones will not.'' The fiscal power has found its way into naming of automobile models, such as the popular [[Citroën 2CV|Citroën deux-chevaux]].  The cheval-vapeur (ch) unit should not be confused with the French cheval fiscal (CV).
+
+In the 19th century, the French had their own unit, which they used instead of the CV or horsepower. It was called the [[poncelet]] and was abbreviated ''p''.
+
+==== ch ====
+
+This is a French unit for automobile power. The symbol ch is short for ''chevaux'' (''horses''). It has the same definition as the German ''PS'', and is approximatively equal to 735.5&nbsp;W.
+
+=== Boiler horsepower ===
+
+A '''boiler horsepower''' is used for boilers in various industrial applications, however it is considered an antiquated term and is not used in modern [[power station|power plants]].  It is equal to a boiler thermal output of 33,475&nbsp;BTU/h (9.8095&nbsp;kW), which is the energy rate needed to evaporate 34.5&nbsp;lb (15.65&nbsp;kg) of water at 212&nbsp;°F (100&nbsp;°C) in one hour.
+
+The term was originally developed at the Philadelphia Centennial Exhibition in 1876, where the best steam engines of that period were tested.  The average steam consumption of those engines (per output horsepower) was determined to be the evaporation of 30&nbsp;lb/h of water, based on feedwater at 100&nbsp;°F (38&nbsp;°C), and saturated steam generated at 70&nbsp;psi (480&nbsp;kPa) gauge pressure.  This original definition is equivalent to a boiler heat output of 33,485&nbsp;BTU/h.  In 1884, the ASME re-defined the boiler horsepower as the thermal output equal to the evaporation of 34.5&nbsp;lb/h of water "from and at" 212&nbsp;°F.  This considerably simplified boiler testing, and provided more accurate comparisons of the boilers at that time. This revised definition is equivalent to a boiler heat output of 33,469&nbsp;BTU/hr.  Present industrial practice is to define ''boiler horsepower'' as a boiler thermal output equal to 33,475&nbsp;BTU/h, which is very close to the original and revised definitions.
+
+The amount of power that can be obtained by a steam engine or steam turbine based on ''boiler horsepower'' varies so widely that use of the term is entirely obsolete for these purposes.  The term makes no distinction as to the steam pressure or temperature which is produced (both of which significantly influence engine/turbine output), it merely defines a thermal output of a boiler. Smaller steam engines often require several ''boiler horsepower'' to make one horsepower, and modern steam turbines can make power with as little as about 0.15&nbsp;hp (boiler) thermal output per actual horsepower developed.
+
+=== Electrical horsepower===
+
+The '''electrical horsepower''' is used by the electrical industry for electrical machines and is defined as exactly 746&nbsp;W. The nameplates on electrical motors show their power output, not their power input.
+
+=== Relationship with torque ===
+For a given [[torque]] and speed, the power may be calculated. The standard equation relating torque in [[foot-pound]]s, rotational speed in [[RPM]] and horsepower is:
+:<math>P  [ {\rm hp}] = {(\Tau  [{\rm ft \cdot lbf}]) (\omega [{\rm RPM}]) \over 5252}</math>
+
+Where <math>P</math> is power, <math>\Tau</math> is torque, and <math>\omega</math> is rotations per minute.
+The constant 5252 comes from (33,000&nbsp;ft·lbf/min)/(2π rad./rev.).
+
+See [[torque#Relationship between torque and power|torque]].
+
+=== Drawbar horsepower (dbhp) ===
+:''See also [[Power at rail]]''
+Drawbar horsepower (dbhp) is the power a [[railway]] [[locomotive]] has available to haul a [[train]] or an agricultural tractor to pull an implement. This is a measured figure rather than a calculated one. A special [[railway car]] called a [[dynamometer car]] coupled behind the locomotive keeps a continuous record of the [[drawbar (haulage)|drawbar]] pull exerted, and the speed. From these, the power generated can be calculated. To determine the maximum power available, a controllable load is required; it is normally a second locomotive with its brakes applied, in addition to a static load.
+
+If the drawbar force (<math>\scriptstyle F</math>) is measured in pound-force (lbf) and speed (<math>\scriptstyle v</math>) is measured in miles per hour (mph), then the drawbar power (<math>\scriptstyle P</math>) in horsepower (hp) is:
+
+:<math>P = {Fv\over 375}</math>
+
+Example: How much power is needed to pull a drawbar load of 2,025 pounds-force at 5 miles per hour?
+
+<math>P = {{2025 \times 5 } \over 375} = 27</math>
+
+The constant 375 is because 1&nbsp;hp = 375&nbsp;lbf·mph. If other units are used, the constant is different. When using a coherent system of units, such as [[SI]] (watts, newtons, and metres per second), no constant is needed, and the formula becomes <math>\scriptstyle P = Fv</math>.
+
+=== RAC horsepower (taxable horsepower) ===
+{{See also|Tax horsepower}}
+This measure was instituted by the [[Royal Automobile Club]] in [[United Kingdom|Britain]] and was used to denote the power of early 20th century British [[automobile|cars]]. Many cars took their names from this figure (hence the [[Austin Motor Company|Austin]] Seven and [[Riley (automobile)|Riley]] Nine), while others had names such as "40/50 hp", which indicated the RAC figure followed by the true measured power.
+
+Taxable horsepower does not reflect developed horsepower; rather, it is a calculated figure based on the engine's bore size, number of cylinders, and a (now archaic) presumption of engine efficiency. As new engines were designed with ever-increasing efficiency, it was no longer a useful measure, but was kept in use by UK regulations which used the rating for [[tax horsepower|tax purposes]].
+
+:<math>RAC h.p. = {D^2 * n}/2.5 \,</math>
+
+:where
+
+: ''D'' is the diameter (or bore) of the cylinder in inches
+: ''n'' is the number of cylinders <ref>{{cite web
+|url=http://www.designchambers.com/wolfhound/wolfhoundRACHP.htm
+|title=The RAC HP (horsepower) Rating - Was there any technical basis?
+|author=Richard Hodgson
+|publisher=wolfhound.org.uk
+|accessdate=2007-08-11}}</ref>
+
+This is equal to the displacement in cubic inches divided by 10π then divided again by the stroke in inches.
+
+Since taxable horsepower was computed based on bore and number of cylinders, not based on actual displacement, it gave rise to engines with 'undersquare' dimensions (i.e., relatively narrow bore), but long stroke; this tended to impose an artificially low limit on rotational speed ([[revolutions per minute|rpm]]), hampering the potential power output and efficiency of the engine.
+
+The situation persisted for several generations of four- and six-cylinder British engines: for example, [[Jaguar (car)|Jaguar's]] 3.4-litre XK engine of the 1950s had six cylinders with a bore of {{convert|83|mm|in|abbr=on|sigfig=3}} and a stroke of {{convert|106|mm|in|abbr=on|sigfig=3}}<ref>http://www.classicjaguar.com/xkengine.html</ref>, where most American automakers had long since moved to oversquare (wide bore, short stroke) [[V-8]]s (see, for example, the early [[Chrysler FirePower engine|Chrysler Hemi]]).
+
+==Measurement==
+
+The power of an engine may be measured or estimated at several points in the transmission of the power from its generation to its application.  A number of names are used for the power developed at various stages in this process, but none is a clear indicator of either the measurement system or definition used.
+
+In the case of an engine dynamometer, power is measured at the engine's [[flywheel]] (i.e., at the crankshaft output). With a chassis dynamometer or ''rolling road'', power output is measured at the driving wheels. This accounts for the significant power loss through the drive train. As an example, an early-production [[British Leyland|BL]] [[Mini]] {{convert|850|cc|cuin|abbr=on}} engine produced about {{convert|34|bhp|kW|1|abbr=on}} at the flywheel, of which only {{convert|18.2|bhp|kW|1|abbr=on}} reached the driving wheels.{{Citation needed|date=September 2008}}
+
+In general:
+:[[#Nominal horsepower (nhp)|Nominal]] is derived from the size of the engine and the piston speed and is only accurate at a pressure of 48&nbsp;kPa (7&nbsp;psi).<ref name=Brown>Brown, DK ''Before the ironclad'', pub Conway, 1990,  p188.</ref>
+
+:[[#Indicated horsepower (ihp)|Indicated]] or gross horsepower (theoretical capability of the engine)
+::minus frictional losses within the engine (bearing drag, rod and crankshaft windage losses, oil film drag, etc.), equals
+:[[#Brake horsepower (bhp)|Brake]] / net / crankshaft horsepower (power delivered directly to and measured at the engine's crankshaft)
+::minus frictional losses in the transmission (bearings, gears, oil drag, windage, etc.), equals
+:[[#Shaft horsepower (shp)|Shaft]] horsepower (power delivered to and measured at the output shaft of the transmission, when present in the system)
+::minus frictional losses in the universal joint/s, differential, wheel bearings, tire and chain, (if present), equals
+:[[#Effective horsepower (ehp)|Effective]], True (thp) or commonly referred to as wheel horsepower (whp)
+
+All the above assumes that no power inflation factors have been applied to any of the readings.
+
+Engine designers use expressions other than horsepower to denote objective targets or performance, such as brake mean effective pressure (BMEP). This is a coefficient of theoretical brake horsepower and cylinder pressures during combustion.
+
+=== Nominal horsepower ===
+Nominal horsepower (nhp) is an early Nineteenth Century [[rule of thumb]] used to estimate the power of steam engines.
+
+nhp = 7 x area of piston x equivalent piston speed/33,000
+
+For paddle ships the piston speed was estimated as 129.7 x (stroke)<sup>1/3.35</sup>
+
+For the nominal horsepower to equal the actual power it would be necessary for the mean steam pressure in the cylinder during the stroke to be 48&nbsp;kPa (7&nbsp;psi) and for the piston speed to be of the order of 54-75&nbsp;m/min.<ref name="Brown" />
+
+=== Indicated horsepower (ihp) ===
+Indicated horsepower (ihp) is the theoretical power of a reciprocating engine if it is completely frictionless in converting the expanding gas energy (piston pressure × displacement) in the cylinders.  It is calculated from the pressures developed in the cylinders, measured by a device called an ''[[indicator diagram|engine indicator]]''—hence indicated horsepower. As the piston advances throughout its stroke, the pressure against the piston generally decreases, and the indicator device usually generates a graph of pressure vs stroke within the working cylinder. From this graph the amount of work performed during the piston stroke may be calculated. It was the figure normally used for [[steam engine]]s in the 19th century but is misleading because the mechanical efficiency of an engine means that the actual power output may only be 70% to 90% of the indicated horsepower.
+
+=== Brake horsepower (bhp) ===
+Brake horsepower is the measure of an engine's horsepower without the loss in power caused by the gearbox, alternator, differential, water pump, and other auxiliary components such as power steering pump, muffled exhaust system, etc. ''Brake'' refers to a device which was used to load an engine and hold it at a desired RPM. During testing, the output torque and rotational speed were measured to determine the ''brake horsepower''.  Horsepower was originally measured and calculated by use of the indicator (a James Watt invention of the late 18th century), and later by means of a [[De Prony brake]] connected to the engine's output shaft. More recently, an engine [[dynamometer]] is used instead of a De Prony brake. The output delivered to the driving wheels is less than that obtainable at the engine's crankshaft.
+
+=== British horsepower ===
+The acronym ''bhp'' may also be used for ''British horsepower'', which has the same definition as the American SAE gross brake horsepower: 33,000&nbsp;lb·ft/min. More information on American SAE horsepower measurements is below.
+
+===SAE horsepower===
+==== SAE gross horsepower ====
+Prior to the 1972 model year, American automakers rated and advertised their engines in brake horsepower (bhp), frequently referred to as '''SAE gross horsepower''', because it was measured in accord with the protocols defined in [[Society of Automotive Engineers|SAE]] standards J245 and J1995. As with other brake horsepower test protocols, SAE gross hp was measured using a stock test engine, generally running with few belt-driven accessories and sometimes fitted with long tube (test [[Manifold (automotive engineering)|headers]]) in lieu of the [[Original equipment manufacturer|OEM]] exhaust manifolds. The atmospheric correction standards for barometric pressure, humidity and temperature for testing were relatively idealistic.
+
+====SAE net horsepower====
+In the United States, the term ''bhp'' fell into disuse in 1971-72, as automakers began to quote power in terms of '''SAE net horsepower''' in accord with SAE standard J1349. Like SAE gross and other brake horsepower protocols, SAE Net hp is measured at the engine's crankshaft, and so does not account for transmission losses. However, the SAE net hp testing protocol calls for standard production-type belt-driven accessories, air cleaner, emission controls, exhaust system, and other power-consuming accessories. This produces ratings in closer alignment with the power produced by the engine as it is actually configured and sold.
+
+==== SAE certified horsepower ====
+In 2005, the SAE introduced a new test protocol for engine horsepower and [[torque]].<ref>[http://www.sae.org/certifiedpower/ SAE J2723 Certified Power]</ref> The new protocol eliminates some of the flexibility in power measurement, and requires an independent observer present when engines are measured. The test is voluntary, but engines completing it can be advertised as ''SAE-certified''.
+
+A few manufacturers such as Honda and Toyota switched to the new ratings immediately, with multi-directional results; the rated output of [[Cadillac|Cadillac's]] [[supercharger|supercharged]] [[GM Premium V engine#Supercharged|Northstar]] V8 jumped from {{convert|440|hp|kW|abbr=on}} to {{convert|469|hp|kW|abbr=on}} under the new tests, while the rating for [[Toyota Motor Corporation|Toyota's]] [[Toyota Camry|Camry]] 3.0&nbsp;L ''[[Toyota MZ engine#1MZ-FE|1MZ-FE]]'' V6 fell from {{convert|210|hp|kW|abbr=on}} to {{convert|190|hp}}.  Much of the drop can be attributed to Toyota now rating engines on 87 octane, compared to Lexus which uses 91 octane.  This is why the same 3.3&nbsp;L ''3MZ-FE'' V6 engine in the Lexus ES330 and Camry SE V6 did not show equal declines.  The ES330 and Camry SE V6 were previously rated at 225&nbsp;hp but the ES330 dropped to 218&nbsp;hp while the Camry declined to 210&nbsp;hp. The first engine certified under the new program was the 7.0&nbsp;L [[GM LS engine#LS7|LS7]] used in the 2006 [[Chevrolet Corvette]] Z06.  Certified power rose slightly from {{convert|500|hp|kW|abbr=on}} to {{convert|505|hp|kW|abbr=on}}.
+
+=== DIN hp (PS) ===
+'''DIN horsepower''' is the power measurement protocol in the [[Germany|German]] [[DIN]] standard 70020. It is sometimes abbreviated as ''PS'', which stands for ''Pferdestärke'', which is the [[German language|German]] word for horsepower. DIN hp is measured at the engine's output shaft, and is usually expressed in [[#Metric horsepower|metric (Pferdestärke)]] rather than [[#Mechanical horsepower|mechanical]] horsepower.
+
+=== ECE hp ===
+'''ECE R24''' is the [[ECE Regulations|European standard]] for measuring engine output.<ref>[http://www.unece.org/trans/main/wp29/wp29regs/r024r2e.pdf ECE Regulation 24, Revision 2, Annex 10]</ref> It is quite similar to the DIN 70020 standard, but with different requirements for connecting an engine's fan during testing. ECE is seen{{Who|date=September 2008}} as slightly more liberal than DIN, and ECE figures tend to be slightly higher than DIN.{{Citation needed|date=September 2008}}
+
+=== 97/68/EC ===
+'''97/68/EC''' is a [[European Union]] standard, generally very similar to ISO-14396.
+
+=== ISO 14396 ===
+'''ISO 14396''' is a new standard from the ISO for all engines not intended for on-road use.
+
+=== Shaft horsepower ===
+Shaft horsepower (shp) is the power delivered to the [[propeller]] shaft of a [[ship]] or an aircraft powered by a piston engine or a turbine engine (the combination of turbine engine and propeller commonly called a [[turboprop]]). This may be measured, or estimated from the indicated horsepower given a standard figure for the losses in the transmission (typical figures are around 10%).  This measure is uncommon in the automobile industry, because drivetrain losses can be significant.
+
+===Effective (True, wheel) hp===
+Effective horsepower (EHP), True horsepower (THP) or wheel horsepower (whp) is the power converted to useful work. In the case of a road vehicle this is the power actually turned into forward motion as measured on a [[Dynamometer#Chassis dynamometer|chassis dynamometer]]. Power available at the road is generally 10% to 20% less than the engine's bhp rating due to ''coastdown'' losses, most of which are due to the vehicle's rubber tires rather than true transmission losses.  Front-wheel drive cars (provided a transverse engine layout is used) suffer slightly lower coastdown losses due to the absence of the beveled crown and pinion gears used to change the drive direction in the back axle of a RWD car.<ref>{{cite web
+|url=http://www.pumaracing.co.uk/coastdwn.htm
+|title=Coastdown Losses
+|publisher=pumaracing.co.uk/
+|accessdate=2009-01-23}}</ref>
+
+For railway [[locomotives]] the terms ''drawbar horsepower'' or ''equivalent drawbar horsepower'' (''EDHP'') refer to the power available to haul a train. This is synonymous with the Effective horsepower.<ref name="Motive Power performance">{{cite book | last = Clough | first = David | coauthors = Beckett, Martin | title = BR Motive Power Performance | origyear = 1988 | publisher = [[Ian Allan Publishing|Ian Allan Ltd]] | location = [[London]], UK | isbn = 0 7110 1718 2 | year = 1988}}</ref> This figure takes into account the horsepower needed to move the locomotive, which is not available for hauling the train. The ''rail horsepower'' is the power at the wheels of a locomotive, directly comparable to the wheel horsepower of a road vehicle.
+
+==See also==
+*[[Brake specific fuel consumption]]—how much propellant is needed to generate horsepower
+*[[Horse power (machine)]]
+*[[Horsepower-hour]]
+*[[Units of Measure Directive]] 
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.epi-eng.com/ET-PwrTrq.htm Power and Torque Explained] A clear explanation of the relationship between Power and Torque, and how they relate to engine performance.
+*[http://www.auterraweb.com/dashdynohpandtorque.html Road Dyno Measures Horsepower] Road dynamometer results vs. a chassis dyno.
+*[http://auto.howstuffworks.com/horsepower.htm How Stuff Works - Horsepower]
+*[http://craig.backfire.ca/pages/autos/horsepower Horsepower and Torque] An article showing how power, torque, and gearing affect a vehicle's performance.
+*[http://www.imperialtometric.com/conversion_en.htm Online Horsepower Converter]
+*[http://www.nitrod.com/articles/HorsepowerTA.pdf Horsepower and power losses] Explains Horsepower and the power losses in the engine and power train.
+*[http://www.factorypro.com/dyno/true1.html True Horsepower Standard] Explains the difference between True and inflated horsepower measurements in chassis dyne systems]
+*[http://www.web-cars.com/math/horsepower.html What is Horsepower?]  (picture)
+*[http://www.straightdope.com/mailbag/mhorsepower.html "What's the difference between horsepower and torque?"] at the [[Straight Dope]]
+*[http://www.dragtimes.com/horsepower-et-trap-speed-calculator.php Vehicle Horsepower Calculator from 1/4 mile data]
+
+{{ISO standards}}
+
+[[Category:Imperial units]]
+[[Category:Units of power]]
+[[Category:Customary units in the United States]]
+
+[[ar:حصان (وحدة قدرة)]]
+[[be-x-old:Конская сіла]]
+[[bg:Конска сила]]
+[[ca:Cavall de vapor]]
+[[cs:Koňská síla]]
+[[da:Hestekraft]]
+[[de:Pferdestärke]]
+[[et:Hobujõud]]
+[[es:Caballo de vapor]]
+[[eo:Ĉevalpovo]]
+[[eu:Zaldi-potentzia]]
+[[fa:اسب بخار]]
+[[fr:Cheval-vapeur]]
+[[gl:Cabalo de vapor]]
+[[ko:마력]]
+[[hr:Konjska snaga]]
+[[is:Hestafl]]
+[[it:Cavallo vapore]]
+[[he:כוח סוס]]
+[[kk:Ат күші]]
+[[ku:Hespxurtanî]]
+[[lt:Arklio galia]]
+[[hu:Lóerő]]
+[[ms:Kuasa kuda]]
+[[nl:Paardenkracht]]
+[[ja:馬力]]
+[[no:Hestekraft]]
+[[nn:Hestekraft]]
+[[pl:Koń mechaniczny]]
+[[pt:Cavalo-vapor]]
+[[ro:Cal putere]]
+[[ru:Лошадиная сила]]
+[[sk:Konská sila]]
+[[sl:Konjska moč]]
+[[sr:Коњска снага]]
+[[sh:Konjska snaga]]
+[[fi:Hevosvoima]]
+[[sv:Hästkraft]]
+[[tr:Beygir gücü]]
+[[uk:Кінська сила]]
+[[vi:Mã lực]]
+[[zh:馬力]]

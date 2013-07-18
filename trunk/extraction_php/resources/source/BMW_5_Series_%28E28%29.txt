@@ -1,0 +1,106 @@
+{{Unreferenced|date=February 2008}}
+{{Infobox Automobile
+|name=BMW 5-Series (E28)
+|image=[[Image:1987BMW520i.jpg|250px|BMW 520i sedan (UK)]]
+|manufacturer=[[BMW]]
+|engine  = Petrol [[Straight-4|I4]]<br>1766 cc {{Convert|90|hp|kW|0|abbr=on}} - {{Convert|105|hp|kW|0|abbr=on}}<br>Petrol [[Straight-6|I6]]<br>1990 cc  - 3453 cc <br>{{Convert|125|hp|kW|0|abbr=on}} - {{Convert|285|hp|kW|0|abbr=on}}<br>Diesel [[Straight-6|I6]]<br>2443 cc {{Convert|86|hp|kW|0|abbr=on}} - {{Convert|115|hp|kW|0|abbr=on}}
+| wheelbase = {{convert|2628|mm|in||abbr=on}}
+| length = {{convert|4620|mm|in||abbr=on}}
+| width = {{convert|1700|mm|in||abbr=on}}
+| height = {{convert|1415|mm|in||abbr=on}}
+| weight = 
+|production=1981&ndash;1988 <br/> 722,328 built<ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref>
+|predecessor=[[BMW E12]]
+|successor=[[BMW E34]]
+|related=
+|class=[[Midsize car|Midsize]] [[Vehicle size class|(E)]] [[luxury car|luxury]]
+|similar=[[Mercedes-Benz W123]]
+|vehicles=[[BMW 5 Series]]}}
+The '''BMW E28'''  [[BMW 5-Series]] was made between 1981 and 1988. It replaced the [[BMW E12]] in 1981 and was replaced by the [[BMW E34]] in 1989.
+
+E28 Production started in July 1981 and ended in December 1987.  The E28 was still sold in North America as a 1988 Model Year car while Europe received the E34 towards the end of 1987.
+{| align ="right"
+| [[Image:BMW 520 El Medano.jpg|250px|thumb|right|BMW 520 sedan (Europe)]]
+|}
+==European model range==
+
+*518 [[BMW M10#M10B18|M10B18]] carburetted engine, produced through 9/84
+*518i M10B18 fuel-injected engine, 1984 to 1987
+*520i [[BMW M20|M20B20]] early, fuel-injected engine, 1981-1985
+*520i [[BMW M20|M20B20]] late, fuel-injected engine, 1985-1987
+*524d [[BMW M21|M21D24]] diesel 2.4&nbsp;L engine, 1983-1988
+*524td M21D24 turbocharged diesel 2.4&nbsp;L engine, 1983-1987
+*525i [[BMW M30|M30B25]] fuel-injected (Motronic) 2.5&nbsp;L engine, 1981-1987
+*525e [[BMW M20#M20B27|M20B27]] fuel-injected (Motronic) 2.7&nbsp;L high efficiency engine, 1983-1988
+*528i [[BMW M30|M30B28]] fuel-injected (LE-Jetronic) 2.8&nbsp;L engine, 1981-1987
+*535i [[BMW M30#M30B34|M30B34]] fuel-injected (Motronic) 3.4&nbsp;L engine.
+*M535i M30B34 fuel-injected (Motronic) 3.4&nbsp;L engine, with M-Technic aerodynamic kit, sport seats and unique 390&nbsp;mm alloy wheels, 1985-1988
+*[[BMW M5 (E28)|M5]] [[BMW M88|S38]] fuel injected 3.5&nbsp;L engine, 1985-1988
+{| align = "center"
+| [[Image:BMW 525i E28 01.jpg|thumb|BMW 525i]]
+| [[Image:BMW 525i E28 02.jpg|thumb|BMW 525i]]
+| [[Image:BMW-535is.jpg|thumb|205px|BMW 535i (North America)]]
+|}
+
+==North American E28 range==
+All North-American specification E28s (`82-`88) were comprehensively equipped.  Power windows, central locking, air conditioning, power sunroof, cruise control, alloy wheels and fog lights were standard.  In addition the 533i, 535i, 535is and M5 came standard with leather upholstery and on-board trip computer.
+[[Image:1988528ea1.jpg|thumb|left|250px|BMW E28 (North America)]]
+A 3-speed automatic was offered in the 528e in 1982-1983.  It was also offered in the `83 533i.  By 1984, the 4-speed version was introduced to both models.  In 1986, the EH version was available in the 535i.  It featured a 3-mode switch: E, S, 3-2-1.
+
+Automatic transmission and limited-slip differential were optional on all models except the M5 and 524td. The 524td was only imported with an automatic transmission, and the M5 was only imported with a manual transmission.
+
+Heated seats were optional in Canada and available in the USA only as an option on the M5. Consequently, few if any M5s were delivered without heated seats.
+
+Leather upholstery and an on-board trip computer were optional on the 528e and 524td.
+
+From 1985 All E28s sold in North America had ABS Brakes as standard. Some `85 535i's were equipped with power seats.
+
+From 1986 All E28s sold in North America had power-adjustable front seats as standard as well as an upgraded stereo.
+
+*524td: M21 2.4 L [[Straight-6]] Turbodiesel engine, {{Convert|114|hp|kW|0|abbr=on}}.  Imported from 1985-1986.
+
+*528e:  Sold from 1982-1988.  Equipped with a 2.7L "High Efficiency" M20 6-Cylinder engine that produced {{Convert|121|hp|kW|0|abbr=on}} but {{Auto ft.lbf|171|0}} of torque.  The engine uses the small port "200" casting cylender head from the 2.0L m20 with a special low duration cam to improve low rpm power and maximize efficiency.  This engine is known as the "ETA" engine.  For the 1988 model year, the engine was revised to produce {{Convert|127|hp|kW|0|abbr=on}}, by using the cylinder head casting from the "i" motor installed on the "e" engine block with special pistons. The revised ETA engine is now known as the "super eta".
+
+*533i: A North-American only model sold from 1983-1984 in limited quantities in response to customer complaints that the 528e had lower performance figures than the 1981 528i that it replaced.  Equipped with a {{Convert|181|hp|kW|0|abbr=on}} 3.2L M30 6-cylinder engine as fitted to the larger 633csi and 733i, it produced {{Auto ft.lbf|195|0}}. torque.  The compression ratio was 8.8:1.  Top Speed was 134 mph. (man.).  The 533i was the fastest sedan sold in the USA in 1983.
+
+*535i: Replaced the 533i in 1985 and sold through 1988.  The 535i featured a slightly larger 3.4L M30 6-Cylinder engine with {{Convert|182|hp|kW|0|abbr=on}} and greater torque. Compression was down to 8.0:1.  Top speed also dropped to 131 mph. (man.).
+
+*535is:  Straight-6 with a sport suspension and interior and exterior modifications - 182 hp (135 kW).  The 535is was available from 1987-1988.  It incorporated M5 styling cues: front air-dam, rear spoiler, and sport seats.
+[[File:M5sig (E28).jpg|thumb|BMW M5 (North America)]]
+*[[BMW M5 (E28)|M5]]:  A 1988 Model-Year only car equipped with a 24-Valve DOHC {{Convert|256|hp|kW|0|abbr=on}} 3.5L S38 engine.  Limited in production the M5 was built from 11/86-11/87.  The M5 was hand-assembled at BMW Motorsport in Garching, Germany.  The M5 was available in America in Jet Black with Natur (Light Saddle) leather. A very small number of US spec M5s were built with black interiors.  These are the most rare with a rumored 29 being built.  The M5 also had leather door panels, lower dash and center console.  Canadian-specification M5s were available with the option of a black leather interior. The M5 was equipped with its very own 7.5 x 16" BBS Wheels (not found on any other model).
+
+==Engines==
+
+The baby six engine found in the 520i, 525e and 528e models is known as the [[BMW M20|M20]], a 12 valve SOHC inline six cylinder design.  It had seven main bearings and seven cam shaft bearings, a rocker arm type valvetrain driven by a composite rubber timing belt.  US market M20's came with cast aluminum acoustically tuned, common plenum intake manifolds and a single throttle body.  This engine was first available in the European market for model year 1976 in a 2.0 L carbureted version.  It later grew to 2.3 L in the E21 323i, then 2.5 L in the E30 325i and also 2.7 L in the 325e and 528e models.  It is also very similar to the later 24 valve engines as in the E36 and E46 3 series models, with the same basic block dimensions.
+
+The big six engine found in the 528i, 533i and 535i/is models is known as the [[BMW M30|M30]].  The M30 is also a 12 valve SOHC inline six cylinder design.  It has seven main bearings, four camshaft bearings and a rocker arm type valvetrain.  US M30's also came equipped with cast aluminum acoustically tuned common plenum intake manifolds and single throttle bodies.  Unlike the M20 it has a chain-driven valvetrain.  Its larger dimensions allow for a longer stroke and larger bore, which makes for almost 3.5 L displacement in later engines.
+
+It should be noted that both 533i and 535i M30 intake manifold from 1982-1988 had a "3.2/3.5" casting.  During the new intake manifold's development a 3.2&nbsp;L version existed in Europe and the US, and a 3.5&nbsp;L in Europe.  When the 3.4&nbsp;L versions came out a year later in Europe, the casting was not changed.  The 3.4&nbsp;L was introduced to the US in 1985.  1988, was the last year this manifold casting was used in the E28 535i and 535is. A new style intake manifold was designed for the new 3.4&nbsp;L. The casting read "3.5", but it was still 3.4 L (3430&nbsp;cc).  For the US, the 735i and the 635 csi were the first to receive the new M30 in 1988.[[Image:E28m5engine01.jpg|thumb|right|S38 Engine]]
+
+The M535i was introduced as an sporty version of the regular 535i, although the M535i does not feature any unique BMW Motorsport-designed drivetrain components it is, however, equipped with an M-Technic suspension, wheels and body panels not found on the standard 535i. Combined, these items distinguish the M535i from the regular 535i. The E28 M535i was introduced at the 1984 Paris Auto Salon. Unlike the hand-built E28 M5, the E28 M535i was assembled on the standard E28 assembly line in Dingolfing, outside of Munich. An additional batch of cars was built at BMW's Rosslyn, South Africa factory using Complete Knock-Down kits supplied from Germany. BMW did not import the E28 M535i to North America for two reasons: 1) the M brand had not yet been established in North America at the time and thus held little equity with the consumer and 2) the cost of adapting the M-Technic body panels to fit the contours of the government-mandated bumpers was highly prohibitive. Instead, BMW of North America created the 535is, essentially a standard 535i equipped with front and rear spoilers, sport suspension and sport seats, which was sold exclusively in the U.S. and Canada. Total M535i production: 10335 cars
+
+The M5 came with a big six engine known as the [[S38]].  This engine is similar to the M30, but has a 24 valve cylinder head, duplex timing chain, dual overhead cam layout and shim and bucket style valvetrain.  In addition to the top end revisions, the S38 also had six individual throttle bodies and intake trumpets fed by a cast aluminum intake plenum.  This engine was designed for high power and durability at very high engine speeds.  In the E28 chassis it was one of the fastest sedans in the world for its time, and it remains legendary among enthusiasts today.{{Fact|date=February 2007}}
+
+==Trivia==
+{{Trivia|date=January 2008}}
+*[[Ford Motor Company|Ford]] purchased BMW 524td diesel engines and used them in their Lincoln LSC coupe for about three years.  The same engines were also used in the Vixen 21TD motorhome.
+
+== References ==
+<references/>
+
+==External links==
+{{commonscat}}
+
+{{BMW cars}}
+
+[[Category:BMW platforms|E28]]
+[[Category:Vehicles introduced in 1981]]
+
+[[de:BMW E28]]
+[[et:BMW E28]]
+[[es:BMW E28]]
+[[nl:BMW E28]]
+[[no:BMW E28]]
+[[pl:BMW E28]]
+[[pt:BMW E28]]
+[[ru:BMW E28]]

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = maximum inclination
+|rdfs:domain = LaunchPad
+|rdfs:range = xsd:float
+}}

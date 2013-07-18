@@ -1,0 +1,209 @@
+{{Infobox Automobile platform
+|image=[[Image:123 280E 0477110307 (14wik).JPG|250px|1977 Mercedes-Benz 280E]]
+|name=Mercedes-Benz W123
+|manufacturer=[[Daimler-Benz]]
+|production=1976&ndash;1985 <br/> 2,696,915 built<ref>{{cite book |title=Deutsche Autos 1945-1990, vol.3 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5 |page=99}}</ref> <br/> 4-door: 2,397,514<br/> Coupé: 99,884 <br/> Estate: 199,517
+|predecessor=[[Mercedes-Benz W115]]
+|successor=[[Mercedes-Benz W124]]
+|body_style=4-door [[sedan (car)|saloon]]<Br>2-door [[coupé]]<Br>5-door [[station wagon|estate]]
+|class=[[Executive car]]
+|wheelbase=Sedan: {{convert|2795|mm|in|1|abbr=on}}<br>Coupé: {{convert|2710|mm|in|1|abbr=on}}
+|length=Sedan: {{convert|4724|mm|in|1|abbr=on}}<ref name=Autocar197809>{{cite journal|journal =[[Autocar]] |volume = vol 149 (nbr 4271)| authorlink = Ray Hutton (ed) |title =Autotest: Mercedes-Benz 200| pages = Pages 26 - 31| date = 16 [[September]] [[1978]]}}</ref> (euro-spec bumpers)
+|height=Sedan: {{convert|1435|mm|in|1|abbr=on}}<ref name=Autocar197809/>
+|width=Sedan: {{convert|1784|mm|in|1|abbr=on}}<ref name=Autocar197809/>
+|fuel_capacity={{Convert|65|L|usgal impgal|1|abbr=on}}<ref name=Autocar197809/>
+|vehicles=[[Mercedes-Benz E-Class]]
+| transmission   = 4-speed [[automatic transmission|automatic]]<br>4-speed [[manual transmission|manual]]<br>5-speed [[manual transmission|manual]]
+|engine=2.0&nbsp;L [[Straight-4|I4]]<Br>2.2&nbsp;L [[Straight-4|I4]] [[Diesel engine|Diesel]]<Br>2.3&nbsp;L [[Straight-4|I4]]<Br>2.4&nbsp;L [[Straight-4|I4]] Diesel<Br>2.5&nbsp;L [[I6]]<bR>2.8&nbsp;L [[I6]]<br>3.0&nbsp;L [[Straight-5|I5]] [[Diesel engine|Diesel]]<br>2.0&nbsp;L [[Straight-4|I4]] Diesel
+|assembly=[[Sindelfingen]], [[Germany]]
+}}
+
+The [[Mercedes-Benz]] '''W123''' cars were produced by the [[Germany|German]] manufacturer from 1976 to 1985.
+
+The W123 models surpassed their predecessor, the [[Mercedes-Benz W114|W114/W115 "stroke-8"]] models, as the most successful Mercedes, selling 2.7 million cars before being replaced by the [[Mercedes-Benz W124|W124]] after 1985. Also in some cases a successor, the additional range of smaller [[Mercedes-Benz W201]] models was introduced in 1982.
+
+== Naming ==
+As usual, model names were related to engine sizes, type of engine and chassis type 
+*'''D''' for ''Diesel'', 
+*'''E''' for ''Einspritzung'' (fuel injection) 
+*'''Lang''' for Long Wheelbase
+*'''T''' for ''Transport and Touring'' (estate/station wagon)
+*'''C''' for ''Coupé''
+
+== Model history ==
+[[Image:Silver C123 front.jpg|thumb|right|250px|Mercedes-Benz C123]]
+[[Image:Mercedes Benz W123 Sedan.jpg|thumb|right|250px|Mercedes-Benz W123 saloon (Euro-spec)]]
+[[Image:Mercedes-Benz W123 .jpg|thumb|right|250px|Mercedes-Benz W123 sedan (US)]]
+[[Image:Mercedes-Benz W123 T-Modell rear 20090430.jpg|thumb|right|250px|Mercedes-Benz 280TE estate]]
+[[Image:Mercedes 300CD-T.JPG|thumb|right|250px|Mercedes-Benz 300CD Turbodiesel coupe (US-version)]]
+
+Mercedes-Benz introduced the W123 four-door versions in January, 1976<ref>All dates in this paragraph according to: {{cite book |title=Deutsche Autos 1945–1990, vol.3 |last=Oswald |first=Werner |year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5 |pages=96–111 }} </ref>. While there was some technical similarities to their predecessors, the new models were larger in wheelbase and exterior dimensions.  The styling was also updated, although stylistic links with the W115 were maintained.  Initially, all models except 280/280E featured quad unequal-size round headlights and the latter large rectangular units.  When facelifted these units became standard across the range.  All W115 engines were carried over, with the 3&nbsp;litre [[Straight-5|5-cylinder]] diesel model being renamed from "240D 3.0" to "300D" (as it had already been called before in [[North America]]n markets). The only new engine was the 250's 2525&nbsp;;cc [[Straight-6|inline-six]] (Type M123, a short-stroke version of the 2.8&nbsp;litre six Type M110) that replaced the old 2496&nbsp;cc Type M114 six.
+
+In the spring of 1976, a [[coupé]] version was introduced on a shorter wheelbase than the saloon ({{convert|2710|mm|in|1|abbr=on}} versus {{convert|2795|mm|in|1|abbr=on}}) for the [[Sedan (car)|saloon]].  This W123C/CE was available as a 230C (later 230CE) and as a 280C/CE in most markets; in North America there were additional 300CD versions with naturally aspirated, later turbocharged 3&nbsp;litre diesel engines.
+
+It is a tribute to the car's instant popularity - and possibly to the caution built into the production schedules - that nine months after its introduction, a black market had developed in Germany for Mercedes-Benz W123s available for immediate delivery.<ref name=AutoMotoruSport1976>{{cite journal| authorlink = Hans-Robert Richarz| title =Sterntaler: Mercedes-Wagen zu Schwarzmarktpreisen| journal = [[Auto, Motor und Sport|Auto Motor u. Sport]]| volume = Heft 18 1976| pages = Seite 8 - 9 |date = date 1 September 1976}}</ref>    Customers willing to order new cars from their local authorized dealer for the recommended list price faced waiting times in excess of twelve months.<ref name=AutoMotoruSport1976/>   Hardly used models available at once were commanding a premium over the new price of around DM 5,000.<ref name=AutoMotoruSport1976/>  
+
+From August, 1977, long wheelbase versions ({{convert|3425|mm|in|1|abbr=on}}) were produced. These were available as 7/8 seater saloons with works bodies or as a chassis with complete front body clip, the latter serving as the base for [[ambulance]] and [[hearse]] bodies by external suppliers like ''Binz'' or ''Miesen''. These "Lang" versions could be ordered as 240D, 300D and 250 models.
+
+At the Frankfurt Auto Show in September, 1977 the W123T estate was introduced; the T in the model designation stood for "Touring and Transport". All engines derivative except "200TD" were available in the range. T production began in March, 1978 in Mercedes' [[Bremen]] factory.
+
+In early 1979, the diesel models power output was increased; power rose from {{convert|55|PS|kW hp|0|abbr=on}} to {{convert|60|PS|kW hp|0|abbr=on}} in the 200D, from {{convert|65|PS|kW hp|0|abbr=on}} to {{convert|72|PS|kW hp|0|abbr=on}} in the 240D and from {{convert|80|PS|kW hp|0|abbr=on}} to {{convert|88|PS|kW hp|0|abbr=on}} in the 300D; at the same time, the 220D went out of production.
+
+The first Mercedes turbo diesel production W123 appeared in September, 1979. This was the 300 TD Turbodiesel, available with automatic transmission only. In most markets, the turbocharged 5-cylinder 3&nbsp;litre diesel engine (Type OM617) was offered only in the T body style, while in North America it was also available in saloon and coupé guises.
+
+June 1980 saw the introduction of new [[Straight-4|4-cylinder]] petrol engines (Type M102). A new 2&nbsp;litre four with shorter stroke replaced the old M115, a fuel-injected 2.3&nbsp;litre version of this engine (in 230E/TE/CE) the old carbureted 230. Both engines were more powerful than their predecessors.
+
+In 1980/81 the carbureted 280 versions went out of production; the fuel-injected 280E continued to be offered.
+
+In September, 1982, all models received a mild facelift. The rectangular headlights, previously fitted only to the 280/280E, were standardized across the board, as was power steering. Since February, 1982, an optional 5-speed manual transmission was available in all models (except 300 TDT).
+
+W123 production ended in November, 1985. Most popular single models were the 240D (455,000 built), the 230E (442,000 built) and the 200D (378,000 built).
+
+W123 introduced innovations including [[Anti-lock braking system|ABS]] (optional from August, 1980), a retractable steering column and an airbag for the driver (optional from 1982).
+
+Available options included MB-Tex (Mercedes-Benz Texturized Punctured Vinyl) upholstery or velour or leather upholstery, interior wood trim, passenger side exterior mirror (standard on T models), 5-speed [[manual transmission]] (European market only), 4-speed [[automatic transmission]] (standard in turbodiesel models), power windows with rear-seat switch cut-outs, vacuum powered central locking, rear-facing extra seats (station wagon only), ''[[:de:Standheizung|Standheizung]] ''(prestart timer controlled engine heating), self locking differential, sun roof, air conditioning, climate control, "Alpine" horn (selectable quieter horn), headlamp wipers (European market only), ''Tempomat'' (cruise control), power steering (standard after 1982/08), seat heating, catalytic converter (available from 1984 for California only, from fall (autumn) 1984 also in Germany for the 230E of which one thousand were built).
+
+Power (vacuum servo) assisted disc brakes were standard on all W123s.
+
+==Models (except North America and Japan)==
+{| class="wikitable" align=center 
+!Chassis code
+!Years
+!Model
+!Engine
+!Power
+!Torque
+|-
+|W123.020||1976&ndash;1980||200||2.0&nbsp;L ''[[Mercedes-Benz M115 engine|M115]]'' [[Straight-4|I4]] || {{convert|94|PS|kW hp||abbr=on}} @ 4800 || {{convert|158|Nm|lbft|0|abbr=on}} @ 3000
+|-
+|W123.220||1979&ndash;1985||200||2.0&nbsp;L ''[[Mercedes-Benz M102 engine|M102]]'' [[Straight-4|I4]] || {{convert|109|PS|kW hp||abbr=on}} @ 5200 || {{convert|170|Nm|lbft|0|abbr=on}} @ 3000
+|-
+|W123.280||1980&ndash;1985||200T||2.0&nbsp;L ''[[Mercedes-Benz M102 engine|M102]]'' [[Straight-4|I4]] || {{convert|109|PS|kW hp||abbr=on}} @ 5200 || {{convert|170|Nm|lbft|0|abbr=on}} @ 3000
+|-
+|W123.120||1976&ndash;1979|| 200D||2.0&nbsp;L ''[[Mercedes-Benz OM615|OM615]]'' [[Straight-4|I4]] [[Diesel engine|Diesel]] || {{convert|55|PS|kW hp||abbr=on}} @ 4200 || {{convert|113|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.120||1979&ndash;1985|| 200D||2.0&nbsp;L ''[[Mercedes-Benz OM615|OM615]]'' [[Straight-4|I4]] [[Diesel engine|Diesel]] || {{convert|60|PS|kW hp||abbr=on}} @ 4400 || {{convert|113|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.126||1976&ndash;1979||220D||2.2&nbsp;L ''[[Mercedes-Benz OM615|OM615]]'' [[Straight-4|I4]] [[Diesel engine|Diesel]] || {{convert|60|PS|kW hp||abbr=on}} @ 4200 || {{convert|125|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.023||1976&ndash;1981||230||2.3&nbsp;L ''[[Mercedes-Benz M115 engine|M115]]'' [[Straight-4|I4]]|| {{convert|109|PS|kW hp||abbr=on}} @ 4800 || {{convert|185|Nm|lbft|0|abbr=on}} @ 3000
+|-
+|W123.223||1979&ndash;1985||230E||2.3&nbsp;L ''[[Mercedes-Benz M102 engine|M102]]'' [[Straight-4|I4]] || {{convert|136|PS|kW hp||abbr=on}} @ 5100 || {{convert|201|Nm|lbft|0|abbr=on}} @ 3500
+|-
+|W123.043||1977&ndash;1980||230C||2.3&nbsp;L ''[[Mercedes-Benz M115 engine|M115]]'' [[Straight-4|I4]] || {{convert|109|PS|kW hp||abbr=on}} @ 4800 || {{convert|185|Nm|lbft|0|abbr=on}} @ 3000
+|-
+|W123.243||1980&ndash;1985||230CE||2.3&nbsp;L ''[[Mercedes-Benz M102 engine|M102]]'' [[Straight-4|I4]] || {{convert|136|PS|kW hp||abbr=on}} @ 5100 || {{convert|201|Nm|lbft|0|abbr=on}} @ 3500
+|-
+|W123.083||1978&ndash;1980||230T||2.3&nbsp;L ''[[Mercedes-Benz M115 engine|M115]]'' [[Straight-4|I4]] || {{convert|109|PS|kW hp||abbr=on}} @ 4800 || {{convert|185|Nm|lbft|0|abbr=on}} @ 3000
+|-
+|W123.283||1980&ndash;1985||230TE||2.3&nbsp;L ''[[Mercedes-Benz M102 engine|M102]]'' [[Straight-4|I4]] || {{convert|136|PS|kW hp||abbr=on}} @ 5100 || {{convert|201|Nm|lbft|0|abbr=on}} @ 3500
+|-
+|W123.123||1976&ndash;1985||[[Mercedes-Benz 240D|240D]]||2.4&nbsp;L ''[[Mercedes-Benz OM616|OM616]]'' [[Straight-4|I4]] [[Diesel engine|Diesel]] || {{convert|65|PS|kW hp||abbr=on}} @ 4200 <br/> from 02/79 {{convert|72|PS|kW hp||abbr=on}} @ 4400 || {{convert|137|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.125||1977&ndash;1985||[[Mercedes-Benz 240D|240D]] LWB||2.4&nbsp;L ''[[Mercedes-Benz OM616|OM616]]'' [[Straight-4|I4]] [[Diesel engine|Diesel]] || {{convert|65|PS|kW hp||abbr=on}} @ 4200 <br/> from 02/79 {{convert|72|PS|kW hp||abbr=on}} @ 4400 || {{convert|137|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.183||1978&ndash;1986||[[Mercedes-Benz 240D|240TD]]||2.4&nbsp;L ''[[Mercedes-Benz OM616|OM616]]'' [[Straight-4|I4]] [[Diesel engine|Diesel]] || {{convert|65|PS|kW hp||abbr=on}} @ 4200 <br/> from 02/79 {{convert|72|PS|kW hp||abbr=on}} @ 4400 || {{convert|137|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.026||1976&ndash;1985||250||2.5&nbsp;L ''[[Mercedes-Benz M123 engine|M123]]'' [[Straight-6|I6]] || {{convert|129|PS|kW hp||abbr=on}} @ 5500 <br/> from 09/79 {{convert|140|PS|kW hp||abbr=on}} @ 5500 || {{convert|192|Nm|lbft|0|abbr=on}} @ 3500 <br/> from 09/79 {{convert|196|Nm|lbft|0|abbr=on}} @ 3500
+|-
+|W123.028||1977&ndash;1985||250 LWB||2.5&nbsp;L ''[[Mercedes-Benz M123 engine|M123]]'' [[Straight-6|I6]] || {{convert|129|PS|kW hp||abbr=on}} @ 5500 <br/> from 09/79 {{convert|140|PS|kW hp||abbr=on}} @ 5500 || {{convert|192|Nm|lbft|0|abbr=on}} @ 3500 <br/> from 09/79 {{convert|196|Nm|lbft|0|abbr=on}} @ 3500
+|-
+|W123.086||1978&ndash;1985||250T||2.5&nbsp;L ''[[Mercedes-Benz M123 engine|M123]]'' [[Straight-6|I6]] || {{convert|129|PS|kW hp||abbr=on}} @ 5500 <br/> from 09/79 {{convert|140|PS|kW hp||abbr=on}} @ 5500 || {{convert|192|Nm|lbft|0|abbr=on}} @ 3500 <br/> from 09/79 {{convert|196|Nm|lbft|0|abbr=on}} @ 3500
+|-
+|W123.030||1975&ndash;1981||280||2.8&nbsp;L ''[[Mercedes-Benz M110 engine|M110]]'' [[Straight-6|I6]] || {{convert|156|PS|kW hp||abbr=on}} @ 5500 || {{convert|222|Nm|lbft|0|abbr=on}} @ 4000
+|-
+|W123.033||1975&ndash;1985||280E||2.8&nbsp;L ''[[Mercedes-Benz M110 engine|M110]]'' [[Straight-6|I6]] || {{convert|177|PS|kW hp||abbr=on}} @ 6000 <br/> from 1978 {{convert|185|PS|kW hp||abbr=on}} @ 5800 || {{convert|229|Nm|lbft|0|abbr=on}} @ 4500 <br/> from 09/79 {{convert|235|Nm|lbft|0|abbr=on}} @ 4500
+|-
+|W123.050||1977&ndash;1980||280C||2.8&nbsp;L ''[[Mercedes-Benz M110 engine|M110]]'' [[Straight-6|I6]] || {{convert|156|PS|kW hp||abbr=on}} @ 5500 || {{convert|222|Nm|lbft|0|abbr=on}} @ 4000
+|-
+|W123.053||1977&ndash;1985||280CE||2.8&nbsp;L ''[[Mercedes-Benz M110 engine|M110]]'' [[Straight-6|I6]] || {{convert|177|PS|kW hp||abbr=on}} @ 6000 <br/> from 1978 {{convert|185|PS|kW hp||abbr=on}} @ 5800 || {{convert|229|Nm|lbft|0|abbr=on}} @ 4500 <br/> from 09/79 {{convert|235|Nm|lbft|0|abbr=on}} @ 4500
+|-
+|W123.093||1978&ndash;1985||280TE||2.8&nbsp;L ''[[Mercedes-Benz M110 engine|M110]]'' [[Straight-6|I6]] || {{convert|177|PS|kW hp||abbr=on}} @ 6000 <br/> from 1978 {{convert|185|PS|kW hp||abbr=on}} @ 5800 || {{convert|229|Nm|lbft|0|abbr=on}} @ 4500 <br/> from 09/79 {{convert|235|Nm|lbft|0|abbr=on}} @ 4500
+|-
+|W123.130||1976&ndash;1985||[[Mercedes-Benz 300D|300D]]||3.0&nbsp;L ''[[Mercedes-Benz OM617 engine|OM617]]'' [[Straight-5|I5]] [[Diesel engine|Diesel]] || {{convert|80|PS|kW hp||abbr=on}} @ 4000 <br/> from 09/79 {{convert|88|PS|kW hp||abbr=on}} @ 4400 || {{convert|169|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.132||1977&ndash;1985||[[Mercedes-Benz 300D|300D]] LWB||3.0&nbsp;L ''[[Mercedes-Benz OM617 engine|OM617]]'' [[Straight-5|I5]] [[Diesel engine|Diesel]] || {{convert|80|PS|kW hp||abbr=on}} @ 4000 <br/> from 09/79 {{convert|88|PS|kW hp||abbr=on}} @ 4400 || {{convert|169|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.133||1981&ndash;1985||[[Mercedes-Benz 300D|300D]] Turbo||3.0&nbsp;L ''[[Mercedes-Benz OM617 engine|OM617a]]'' [[Straight-5|I5]] [[Diesel engine|Diesel]] || {{convert|125|PS|kW hp||abbr=on}} @ 4350 || {{convert|245|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.150||1977&ndash;1981||[[Mercedes-Benz 300D|300CD]]||3.0&nbsp;L ''[[Mercedes-Benz OM617 engine|OM617]]'' [[Straight-5|I5]] [[Diesel engine|Diesel]] || {{convert|80|PS|kW hp||abbr=on}} @ 4000 <br/> from 09/79 {{convert|88|PS|kW hp||abbr=on}} @ 4400 || {{convert|169|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.153||1981&ndash;1985||[[Mercedes-Benz 300D|300CD]] Turbo||3.0&nbsp;L ''[[Mercedes-Benz OM617 engine|OM617a]]'' [[Straight-5|I5]] [[Diesel engine|Diesel]] || {{convert|125|PS|kW hp||abbr=on}} @ 4350 || {{convert|245|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.190||1978&ndash;1985||[[Mercedes-Benz 300D|300TD]]||3.0&nbsp;L ''[[Mercedes-Benz OM617 engine|OM617]]'' [[Straight-5|I5]] [[Diesel engine|Diesel]] || {{convert|80|PS|kW hp||abbr=on}} @ 4000 <br/> from 09/79 {{convert|88|PS|kW hp||abbr=on}} @ 4400 || {{convert|169|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|W123.193||1980&ndash;1985||[[Mercedes-Benz 300D|300TD]] Turbo||3.0&nbsp;L ''[[Mercedes-Benz OM617 engine|OM617a]]'' [[Straight-5|I5]] [[Diesel engine|Diesel]] || {{convert|125|PS|kW hp||abbr=on}} @ 4350 || {{convert|245|Nm|lbft|0|abbr=on}} @ 2400
+|-
+|}
+
+==North America and Japan==
+In these markets the following models were offered...<ref>Mike Covello: ''Standard Catalog of Imported Cars 1946-2002''. Krause Publications, Iola 2002, ISBN 0-87341-605-8, p. 539-43.</ref>:
+
+{| class="wikitable" align=center 
+!Model
+!Years
+!Engine
+!Power
+!Torque
+|-
+|230 || MY 1977−1978 || M115 || {{Convert|55.0|hp|kW|0|abbr=on}} @ 4800 || {{Auto lbft|125}} @ 2500
+|-
+|240D || MY 1977−1983 || OM616.912 || {{Convert|62|hp|kW|0|abbr=on}} @ 4000 <br/> from MY 1981 {{Convert|67|hp|kW|0|abbr=on}} @ 4000 || {{Auto lbft|97}} @ 2400
+|-
+|280E || MY 1977−1981 || M110 || {{Convert|142|hp|kW|0|abbr=on}} @ 5750 <br/> from MY 1980: {{Convert|140|hp|kW|0|abbr=on}} @ 5500 || {{Auto lbft|149}} @ 4600 <br/> from MY 1980: {{Auto lbft|145}} @ 4600
+|-
+|280CE || MY 1978−1981 || M110 || {{Convert|142|hp|kW|0|abbr=on}} @ 5750 <br/> from MY 1980: {{Convert|140|hp|kW|0|abbr=on}} @ 5500 || {{Auto lbft|149}} @ 4600 <br/> from MY 1980: {{Auto lbft|145}} @ 4600
+|-
+|300D || MY 1977−1981|| OM617.912 || {{Convert|77|hp|kW|0|abbr=on}} @ 4000 <br/> from MY 1981: {{Convert|83|hp|kW|0|abbr=on}} @ 4200 || {{Auto lbft|115}} @ 2400 <br/>  from MY 1981: {{Auto lbft|120}} @ 2400
+|-
+|300CD || MY 1978−1981 || OM617.912 || {{Convert|77|hp|kW|0|abbr=on}} @ 4000 <br/> from MY 1981: {{Convert|83|hp|kW|0|abbr=on}} @ 4200 || {{Auto lbft|115}} @ 2400 <br/>  from MY 1981: {{Auto lbft|120}} @ 2400
+|-
+|300D <br/> || MY 1982−1985 || OM617.952|| {{Convert|120|hp|kW|0|abbr=on}} @ 4350 <br/> from MY 1984: {{Convert|123|hp|kW|0|abbr=on}} @ 4350 || {{Auto lbft|170}} @ 2400 <br/> from MY 1984: {{Auto lbft|184}} @ 2400 
+|-
+|300CD <br/> || MY 1982−1985 || OM617.952 || {{Convert|120|hp|kW|0|abbr=on}} @ 4350 <br/> from MY 1984: {{Convert|123|hp|kW|0|abbr=on}} @ 4350 || {{Auto lbft|170}} @ 2400 <br/> from MY 1984: {{Auto lbft|184}} @ 2400 
+|-
+|300TD <br/> || MY 1979−1985 || OM617.952 || {{Convert|120|hp|kW|0|abbr=on}} @ 4350 <br/> from MY 1984: {{Convert|123|hp|kW|0|abbr=on}} @ 4350 || {{Auto lbft|170}} @ 2400 <br/> from MY 1984: {{Auto lbft|184}} @ 2400
+|-
+|}
+
+The North American W123s differ from the European W123s due to [[United States Department of Transportation]] requirements.
+
+'''Notable exterior differences included:'''
+* Larger bumpers
+* Round, sealed-beam headlights/fog lamps. Early cars were delivered with clear fog lamps through to model year 1979, later units with yellow
+* Location of ID-tag on A-pillar
+* Emission control devices
+
+== See also ==
+* [[Mercedes-Benz 240D]]
+* [[Mercedes-Benz 300D]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat}}
+*[http://www.mercedes-benz.com/com/e/home/heritage/index.html Mercedes-Benz heritage site]
+*[http://www.dieselbenz.info/wiki Popular Do-it-yourself W123 site - MediaWiki based]
+*[http://www.malakas-crew.com W123-tuning]
+{{Mercedes-Benz vehicles}}
+{{Mercedes-Benz E-Class lineage}}
+
+[[Category:Mercedes-Benz platforms|W123]]
+[[Category:Mercedes-Benz vehicles|W123]]
+[[Category:Executive cars]]
+[[Category:Vehicles introduced in 1976]]
+
+[[de:Mercedes-Benz W123]]
+[[el:Mercedes-Benz W123]]
+[[es:Mercedes-Benz W123]]
+[[fr:Mercedes-Benz W123]]
+[[it:Mercedes-Benz W123]]
+[[hu:Mercedes-Benz W123]]
+[[nl:Mercedes-Benz W123]]
+[[ja:メルセデス・ベンツ W123]]
+[[no:Mercedes-Benz W123]]
+[[pl:Mercedes-Benz W123]]
+[[ru:Mercedes-Benz W123]]
+[[sv:Mercedes-Benz W123]]
+[[uk:Mercedes-Benz W123]]

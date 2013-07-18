@@ -1,0 +1,57 @@
+{{Infobox_Software
+ |name = DBpedia
+ |logo = [[File:DBpediaLogo.svg|200px|DBpedia logo]]
+ |screenshot =
+ |caption = Wikipedia Extraction
+ |developer =  [[University of Leipzig]], [[Free University of Berlin|Freie Universität Berlin]], [[OpenLink Software]]
+ |released = 23 January 2007
+ |latest_release_version =  DBpedia 3.3
+ |latest_release_date =  3 July 2009<ref>[http://blog.dbpedia.org/2009/07/03/dbpedia-33-released/ DBpedia 3.3 released]</ref>
+ |operating_system = 
+ |genre = [[Semantic Web]] [[Linked Data]]
+ |programming language = [[PHP]], [[Java (programming language)|Java]]
+ |license = [[GNU General Public License]]
+ |website = [http://dbpedia.org www.dbpedia.org]
+ |
+}}
+'''DBpedia''' is a community effort to extract structured information from [[Wikipedia]] and to make this information available on the [[Web]]. DBpedia allows users to ask expressive queries against Wikipedia and to [[interlink]] other datasets on the Web with DBpedia data.
+
+== Dataset ==
+Wikipedia articles consist mostly of free text, but also contain different types of structured information, such as "infobox" tables, categorisation information, images, geo-coordinates and links to external [[Web page]]s. This structured information can be extracted from Wikipedia and can serve as a basis for enabling sophisticated queries against Wikipedia content.
+
+{{As of|2008|11}}, the DBpedia dataset describes more than 2.6 million things, including at least 213,000 persons, 328,000 places, 57,000 music albums, 36,000 films, 20,000 companies. The dataset features labels and short abstracts for these things in 30 different languages; 609,000 links to images and 3,150,000 links to external web pages; 4,878,100 external links into other RDF datasets, 415,000 Wikipedia categories, and 75,000 [[YAGO (Ontology)|YAGO]] categories.<ref>{{citeweb|url=http://wiki.dbpedia.org/Datasets#h18-3|title=DBpedia dataset|accessdate=2008-09-26|publisher=DBpedia}}</ref>
+
+The DBpedia project uses the [[Resource Description Framework]] as a flexible data model for representing extracted information and for publishing it on the Web. {{As of|2008|11}}, the DBpedia dataset consists of around 274 million RDF triples, which have been extracted from the [[English Wikipedia|English]], [[German Wikipedia|German]], [[French Wikipedia|French]], [[SPanish Wikipedia|Spanish]], [[Italian Wikipedia|Italian]], [[Portuguese Wikipedia|Portuguese]], [[Polish Wikipedia|Polish]], [[Swedish Wikipedia|Swedish]], Dutch, Japanese, Chinese, Russian, Finnish and Norwegian versions of Wikipedia.
+
+The DBpedia dataset is available under the terms of the [[GNU Free Documentation License]].
+
+The DBpedia dataset is interlinked on RDF level with various other [[Open Data]] datasets on the Web. This enables applications to enrich DBpedia data with data from these datasets.
+{{As of|2008|11}}, DBpedia is interlinked with the following datasets: [[Freebase (database)|Freebase]], [[Cyc#OpenCyc|OpenCyc]], [http://www.umbel.org/ UMBEL], [[GeoNames]], [[Musicbrainz]], [[CIA World Fact Book]], [[DBLP]], [[Project Gutenberg]], DBtune [[Jamendo]] and [[Eurostat]] as well as [[US Census]] data.
+
+== See also ==
+*[[Freebase (database)|Freebase]]
+*[[Semantic MediaWiki]]
+*[[Vispedia]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://wiki.dbpedia.org/About DBpedia Project] - Official website
+* [http://esw.w3.org/topic/SweoIG/TaskForces/CommunityProjects/LinkingOpenData W3C SWEO Linking Open Data Community Project]
+* [[Tim Berners-Lee]], [[TED]] [http://www.ted.com/talks/lang/eng/tim_berners_lee_on_the_next_web.html talk] about semantic web presenting DBpedia as an example.
+
+{{Semantic Web}}
+
+[[Category:Free software culture and documents]]
+[[Category:Open access]]
+[[Category:World Wide Web]]
+[[Category:Semantic Web]]
+[[Category:Knowledge bases]]
+[[Category:Wikipedia]]
+
+[[de:DBpedia]]
+[[es:DBpedia]]
+[[fr:DBpedia]]
+[[it:DBpedia]]
+[[uk:DBpedia]]

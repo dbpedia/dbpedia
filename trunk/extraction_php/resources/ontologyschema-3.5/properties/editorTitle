@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = editor title
+| rdfs:domain = Magazine
+| rdfs:range = xsd:string
+}}

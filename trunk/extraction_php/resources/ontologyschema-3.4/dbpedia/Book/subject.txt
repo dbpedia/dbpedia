@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = subject
+|rdfs:domain = Book
+|rdfs:range = owl:Thing
+}}

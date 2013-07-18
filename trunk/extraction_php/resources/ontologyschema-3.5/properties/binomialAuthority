@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = binomial authority
+| rdfs:domain = Species
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = closing film
+|rdfs:domain = FilmFestival
+|rdfs:range = Film
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = throws
+|rdfs:domain = BaseballPlayer
+|rdfs:range = xsd:integer
+}}

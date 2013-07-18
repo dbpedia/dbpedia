@@ -1,0 +1,235 @@
+{{Redirect|Turbo|other uses|Turbo (disambiguation)}}
+[[Image:Turbocharger.jpg|right|thumb|350px|Air [[foil bearing]]-supported turbocharger]]
+
+A '''turbocharger''', or '''turbo''', is a [[gas compressor]] that is used for [[forced induction|forced-induction]] of an [[internal combustion engine]]. A form of [[supercharger]], the purpose of a turbocharger is to increase the [[density]] of air entering the engine to create more power. However, a turbocharger has the compressor powered by a [[turbine]], driven by the engine's own exhaust gases, rather than direct mechanical drive as with many other superchargers.
+
+==Nomenclature==
+Early manufacturers of turbochargers referred to them as "turbosuperchargers". A supercharger is an air compressor used for forced induction of an engine. Logically then, adding a turbine to turn the supercharger would yield a "turbosupercharger". However, the term was soon shortened to "turbocharger". This is now a source of confusion, as the term "turbosupercharged" is sometimes used to refer to an engine that uses both a crankshaft-driven supercharger and an exhaust-driven turbocharger.
+
+Some companies such as [[Teledyne Continental Motors]] still use the term ''turbosupercharger'' in its original sense.
+
+==Working Principle==
+A turbocharger is a small radial fan pump driven by the energy of the exhaust gases of an engine. A turbocharger consists of a [[turbine]] and a [[gas compressor|compressor]] on a shared shaft. The turbine [[Heat engine|converts exhaust to rotational force]], which is in turn used to drive the [[Gas compressor|compressor]]. The compressor draws in ambient air and pumps it in to the [[manifold (automotive)|intake manifold]] at increased pressure, resulting in a greater mass of air entering the cylinders on each intake stroke.
+
+The objective of a turbocharger is the same as a [[supercharger]]; to improve the engine's [[volumetric efficiency]] by solving one of its cardinal limitations. A [[naturally aspirated]] automobile engine uses only the downward stroke of a piston to create an area of low pressure in order to draw air into the cylinder through the intake valves. Because the pressure in the [[atmosphere]] is no more than 1 [[Atmosphere (unit)|atm]] (approximately 14.7 [[Pounds per square inch|psi]]), there ultimately will be a limit to the pressure difference across the intake valves and thus the amount of airflow entering the [[combustion chamber]]. Because the turbocharger increases the pressure at the point where air is entering the cylinder, a greater mass of air ([[oxygen]]) will be forced in as the inlet manifold pressure increases. The additional air flow makes it possible to maintain the combustion chamber pressure and fuel/air load even at high engine revolution speeds, increasing the [[power (physics)|power]] and [[torque]] output of the engine.
+
+Because the pressure in the cylinder must not go too high to avoid [[Engine knocking|detonation]] and physical damage, the intake pressure must be controlled by venting excess gas. The control function is performed by a [[wastegate]], which routes some of the intake flow away from the combustion chamber. This  regulates air pressure in the intake manifold.
+
+==History==
+The turbocharger was invented by [[Switzerland|Swiss]] engineer Alfred Büchi. His patent for a turbocharger was applied for use in 1905.<ref>[http://www.gizmag.com/go/4848/ "The turbocharger turns 100 years old this week"]</ref>  [[Diesel engine|Diesel]] ships and locomotives with turbochargers began appearing in the 1920s.
+
+===Aviation===
+
+During the First World War French engineer Auguste Rateau<ref>[http://fr.wikipedia.org/wiki/Auguste_Rateau/ wikipedia.fr: Auguste Rateau]</ref> fitted turbo chargers to Renault engines powering various French fighters with some success.<ref>[http://www.airspacemag.com/history-of-flight/climb.html?c=y&page=1 Air & Space Magazine: Hill Climb]</ref>
+
+In 1918, [[General Electric]] engineer Sanford Moss attached a turbo to a [[V12 engine|V12]] ''[[Liberty engine|Liberty]]'' aircraft engine. The engine was tested at [[Pikes Peak]] in [[Colorado]] at {{convert|14000|ft|m}} to demonstrate that it could eliminate the power losses usually experienced in internal combustion engines as a result of reduced air pressure and density at high altitude.<ref>[http://www.airspacemag.com/history-of-flight/climb.html?c=y&page=1] Air & Space Magazine: Hill Climb</ref>
+
+Turbochargers were first used in production aircraft engines in the 1930s before [[World War II]]. The primary purpose behind most aircraft-based applications was to increase the altitude at which the airplane could fly, by compensating for the lower [[atmospheric pressure]] present at high altitude. Aircraft such as the [[P-38 Lightning]], [[B-17 Flying Fortress]], and [[P-47 Thunderbolt]] all used turbochargers to increase high altitude engine power.
+
+===Production automobiles===
+The first Turbocharged diesel truck was produced by the "Schweizer Maschinenfabrik Saurer" (Swiss Machine Works Saurer) in 1938.<ref>[http://www.turbodriven.com/en/turbofacts/default.aspx BorgWarner turbo history]</ref> 
+[[Image:Corvair turbo engine.jpg|right|thumb|The [[Chevrolet Corvair]]'s turbocharged engine. The turbo, located at top right, feeds pressurized air into the engine through the chrome T-pipe spanning the engine.]]
+The first production turbocharged automobile engines came from [[General Motors Corporation|General Motors]] in 1962. The [[GM A platform|A-body]] [[Oldsmobile Cutlass]] Jetfire and [[Chevrolet Corvair]] Monza Spyder were both fitted with turbochargers.{{Citation needed|date=March 2009}} Saab was the first manufacturer to have successfully applied a turbo to regular production cars. This was made possible by the introduction of a [[#Wastegate|wastegate]] to relieve excess pressure.<ref>{{cite web|url=http://www.saab.fi/fi/fi/start#/world/heritage/history/ |title=Saab - Saab |publisher=Saab.fi |date= |accessdate=2009-09-23}}</ref>
+
+The world's first production turbo diesel automobiles were the [[Mercedes-Benz W116|Mercedes 300SD]] and the [[Peugeot 604]], both introduced in 1978. Today, most automotive diesels are turbocharged.{{Citation needed|date=March 2009}}
+
+===Competition cars===
+The turbocharger first hit the automotive racing world in 1952 when [[Fred Agabashian]] in the diesel-powered [[Cummins]] Special qualified for pole position at the [[Indianapolis 500]] and led for {{convert|175|mi|km}} before ingested tire shards disabled the compressor section of the [[Elliott Motor|Elliott]] turbocharger. [[Offenhauser]]'s turbocharged engines returned to Indianapolis in 1966, with victories coming in 1968. The Offenhauser turbo peaked at over {{convert|1000|hp|abbr=on}} in 1973, while [[Porsche]] dominated the [[Can-Am]] series with a {{convert|1100|hp|abbr=on}} [[Porsche 917|917/30]]. Turbocharged cars dominated the [[24 Hours of Le Mans]] between 1976 and 1988, and then from 2000-2007.
+
+{{Listen|filename=Ferrari 126C4 M2 (1984).ogg|title=Ferrari Turbo F1 car|description=1984 Ferrari 126C4/M2 at Goodwood Festival of Speed 2009. 1.5 litre turbocharged V6, 850bhp}}
+In [[Formula One]], in the so called "Turbo Era" of {{F1|1977}} until {{F1|1989}}, engines with a capacity of 1500&nbsp;cc could achieve anywhere from 1000 to 1500&nbsp;hp (746 to 1119&nbsp;kW) ([[Renault F1|Renault]], [[Honda F1|Honda]], [[BMW]], [[Ferrari]]). Renault was the first manufacturer to apply turbo technology in the F1 field, in 1977. The project's high cost was compensated for by its performance, and led to other engine manufacturers following suit. The turbocharged engines took over the F1 field and ended the Ford [[Cosworth DFV]] era in the mid 1980s. However, the [[Fédération Internationale de l'Automobile|FIA]] decided that turbochargers were making the sport too dangerous and expensive. In {{F1|1987}} F1 decided to limit the maximum '''boost''' pressure before the technology was banned completely for {{F1|1989}}.
+
+In [[Drag Racing]], a {{convert|1800|hp|kW|0|abbr=on}}, twin-turbocharged Pontiac GTA developed by [[Gale Banks]] of [[Southern California]], set a land speed record for the "World's Fastest Passenger Car" of {{convert|277|mi/h|km/h|abbr=on}}. This event was chronicled at the time in a 1987 cover story published by [[Autoweek]] magazine. [[Gale banks engineering]] also built and raced several diesel-powered drag racing machines, including the "World's Fastest Diesel Truck," a street-legal {{convert|735|hp|kW|0|abbr=on}} [[Dodge Dakota]] pick-up that towed its own trailer to the [[Bonneville Salt Flats]] and then set an official [[F.I.A.]] two-way speed record of {{convert|217|mi/h|km/h|abbr=on}} with a one-way top speed of {{convert|222|mi/h|km/h|abbr=on}}. This latter vehicle also showed the fuel economy of a turbocharged diesel engine by averaging 21.2-mpg{{Clarify|us or imp gal?|date=October 2009}} on the Hot Rod Power Tour.
+
+In [[Rallying]], turbocharged engines of up to 2000 cc have long been the preferred motive power for the Group A/N[[World Rally Car]] (top level) competitors, due to the exceptional power-to-weight ratios attainable. This combines with the use of vehicles with relatively small bodyshells for maneuverability and handling. As turbo outputs rose to similar levels as the F1 category the [[FIA]], rather than banning the technology, enforced a restricted turbo inlet diameter (currently 34&nbsp;mm).
+
+==Design and installation==
+===Components===
+[[Image:Turbo-chra.jpg|thumb|250px|right|On the left, the brass oil drain connection. On the right are the braided oil supply line and water coolant line connections.]]
+[[Image:Turbo-compressor.jpg|thumb|250px|right|Compressor impeller side with the cover removed.]]
+[[Image:Turbo-turbine.jpg|thumb|250px|right|Turbine side housing removed.]]
+[[Image:Turboexternalgate.jpg|thumb|250px|right|A wastegate installed next to the turbocharger.]]
+
+The turbocharger has four main components. The [[turbine]] (almost always a [[radial turbine]]) and [[impeller]]/[[centrifugal compressor|compressor]] wheels are each contained within their own folded conical housing on opposite sides of the third component, the center housing/hub rotating assembly (CHRA).
+
+The housings fitted around the compressor impeller and turbine collect and direct the gas flow through the wheels as they spin. The size and shape can dictate some performance characteristics of the overall turbocharger. Often the same basic turbocharger assembly will be available from the manufacturer with multiple housing choices for the turbine and sometimes the compressor cover as well. This allows the designer of the engine system to tailor the compromises between performance, response, and efficiency to application or preference. Twin-scroll designs have two valve-operated exhaust gas inlets, a smaller sharper angled one for quick response and a larger less angled one for peak performance.
+
+The turbine and impeller wheel sizes also dictate the amount of air or exhaust that can be flowed through the system, and the relative efficiency at which they operate. Generally, the larger the turbine wheel and compressor wheel, the larger the flow capacity. Measurements and shapes can vary, as well as curvature and number of blades on the wheels. [[Variable geometry turbocharger]]s are further developments of these ideas.
+
+The center hub rotating assembly (CHRA) houses the shaft which connects the compressor impeller and turbine. It also must contain a bearing system to suspend the shaft, allowing it to rotate at very high speed with minimal friction. For instance, in automotive applications the CHRA typically uses a thrust bearing or ball bearing lubricated by a constant supply of pressurized engine oil. The CHRA may also be considered "water cooled" by having an entry and exit point for engine coolant to be cycled. Water cooled models allow engine coolant to be used to keep the lubricating oil cooler, avoiding possible oil [[coke (fuel)|coking]] from the extreme heat found in the turbine. The development of air-[[foil bearing]]s has removed this risk.
+
+===Pressure increase===
+In the automotive world, '''boost''' refers to the increase in [[Manifold absolute pressure|pressure]] that is generated by the turbocharger in the [[intake manifold]] that exceeds normal [[atmospheric pressure]]. Atmospheric pressure is approximately 14.7 [[Pound-force per square inch|psi]] or 1.0 [[bar (unit)|bar]], and anything above this level is considered to be boost. The level of boost may be shown on a [[pressure gauge]], usually in bar, psi or possibly [[pascal (unit)|kPa]]. This is representative of the extra air pressure that is achieved over what would be achieved without the [[forced induction]]. Manifold pressure should not be confused with the volume of air that a turbo can flow.
+
+In contrast, the instruments on [[aircraft engine]]s measure [[absolute pressure]] in [[inches of mercury]]. Absolute pressure is the amount of pressure above a total vacuum. The [[ICAO]] [[International Standard Atmosphere|standard atmospheric pressure]] is {{convert|29.92|in|mm}} of mercury at [[sea level]]. Most modern aviation turbochargers are not designed to increase manifold pressures above this level, as aircraft engines are commonly [[air-cooled]] and excessive pressures increase the risk of overheating, [[pre-ignition]], and [[Engine knocking|detonation]]. Instead, the turbo is only designed to hold a pressure in the intake manifold equal to sea-level pressure as the altitude increases and air pressure drops. This is called ''turbo-normalizing''.
+
+Boost pressure is limited to keep the entire engine system, including the turbo, inside its thermal and mechanical design operating range. The speed and thus the output pressure of the turbo is controlled by the [[wastegate]], a [[bypass]] which shunts the gases from the cylinders around the turbine directly to the [[exhaust system|exhaust pipe]].
+
+The maximum possible boost depends on the fuel's [[octane rating]] and the inherent tendency of any particular engine towards [[Engine knocking|detonation]]. Premium gasoline or racing gasoline can be used to prevent detonation within reasonable limits. [[Ethanol]], [[methanol]], [[liquefied petroleum gas]] (LPG) and [[diesel fuel|diesel]] fuels allow higher boost than gasoline, because of these fuels' combustion characteristics.
+
+To obtain more power from higher boost levels and maintain reliability, many engine components have to be replaced or upgraded such as the fuel pump, fuel injectors, pistons, valves, head-gasket, and head bolts.
+
+===Wastegate===
+{{Main|Wastegate}}
+By spinning at a relatively high speed, the compressor turbine draws in a large volume of air and forces it into the engine. As the turbocharger's output flow volume exceeds the engine's volumetric flow, [[manifold absolute pressure|air pressure]] in the [[intake]] system begins to build. The speed at which the assembly spins is proportional to the pressure of the compressed air and total mass of air flow being moved. Since a turbo can spin to RPMs far beyond what is needed, or of what it is safely capable of, the speed must be controlled. A [[wastegate]] is the most common mechanical speed control system, and is often further augmented by an electronic or manual [[boost controller]]. The main function of a wastegate is to allow some of the exhaust to bypass the turbine when the set intake pressure is achieved.  Passenger cars have wastegates that are integral to the turbocharger.
+
+===Anti-Surge/Dump/Blow Off Valves===
+{{Main|Blowoff valve}}
+Turbocharged engines operating at wide open throttle and high rpm require a large volume of air to flow between the turbo and the inlet of the engine. When the throttle is closed compressed air will flow to the throttle valve without an exit (''i.e.'' the air has nowhere to go).
+
+This causes a surge which can raise the pressure of the air to a level which can damage the turbo. If the pressure rises high enough, a [[compressor stall]] will occur, where the stored pressurized air decompresses backwards across the impeller and out the inlet. The reverse flow back across the turbocharger causes the turbine shaft to reduce in speed quicker than it would naturally, possibly damaging the turbocharger. In order to prevent this from happening, a valve is fitted between the turbo and inlet which vents off the excess air pressure. These are known as an anti-surge, diverter, bypass, blow-off valve(BOV) or [[dump valve]]. It is basically a [[pressure relief valve]], and is normally operated by the excess pressure in the intake manifold.
+
+The primary use of this valve is to maintain the turbo spinning at a high speed. The air is usually recycled back into the turbo inlet but can also be vented to the atmosphere. Recycling back into the turbocharger inlet is required on an engine that uses a mass-airflow fuel injection system, because dumping the excessive air overboard downstream of the mass airflow sensor will cause an excessively rich fuel mixture (this is because the mass-airflow sensor has already accounted for the extra air which is no longer being used).  A dump valve will also shorten the time needed to re-spool the turbo after sudden engine deceleration.
+
+===Charge cooling===
+Compressing air in the turbocharger increases its temperature, which can cause a number of problems. Excessive charge air temperature can lead to [[Engine knock|detonation]], which is extremely destructive to engines. When a turbocharger is installed on an engine, it is common practice to fit the engine with an [[intercooler]], a type of [[heat exchanger]] which gives up heat energy in the charge to the ambient air. In cases where an intercooler is not a desirable solution, it is common practice to introduce extra fuel into the charge for the sole purpose of cooling. The extra fuel is not burned. Instead, it absorbs and carries away heat when it changes phase from liquid to vapor. The evaporated fuel holds this heat until it is released in the [[exhaust gas|exhaust]] stream. This thermodynamic property allows manufacturers to achieve good power output by using extra fuel at the expense of economy and emissions.
+
+===Multiple Turbochargers===
+{{Main|Twin-turbo}}
+
+====Parallel====
+Some engines, such as [[V engine|V-type engine]]s, utilize two identically-sized but smaller turbos, each fed by a separate set of exhaust streams from the engine. The two smaller turbos produce the same (or more) aggregate amount of boost as a larger single turbo, but since they are smaller they reach their optimal RPM, and thus optimal boost delivery, more quickly. Such an arrangement of turbos is typically referred to as a [[Twin-turbo#Parallel Twin-Turbo|parallel twin-turbo]] system. The first production automobile with parallel twin turbochargers was the [[Maserati Biturbo]] of the early 1980s. Later such installations include the [[Nissan GT-R]], [[Mitsubishi 3000GT|Mitsubishi 3000GT VR-4]], the [[Nissan 300ZX]], and the BMW twin-turbo 3.0 liter I6 cars ([[BMW 3 Series (E90)|E90]], [[BMW 1 Series|E81]], [[BMW 5 Series (E60)|E60]]).
+
+====Sequential====
+Some car makers combat lag by using two small turbos. A typical arrangement for this is to have one turbo active across the entire rev range of the engine and one coming on-line at higher RPM. Early designs would have one turbocharger active up to a certain RPM, after which both turbochargers are active. Below this RPM, both exhaust and air inlet of the secondary turbo are closed. Being individually smaller they do not suffer from excessive lag and having the second turbo operating at a higher RPM range allows it to get to full rotational speed before it is required. Such combinations are referred to as a [[Twin-turbo#Sequential Twin-turbo|sequential twin-turbo]]. Porsche 959 first used this technology back in 1985.  Sequential twin-turbos are usually much more complicated than a single or parallel twin-turbo systems because they require what amounts to three sets of pipes-intake and wastegate pipes for the two turbochargers as well as valves to control the direction of the exhaust gases. Many new diesel engines use this technology to not only eliminate lag but also to reduce fuel consumption and reduce emissions.
+
+===Remote installations===
+Turbochargers are sometimes mounted well away from the engine, in the tailpipe of the exhaust system. Such remote turbochargers require a smaller aspect ratio due to the slower, lower-volume, denser exhaust gas passing through them. For low-boost applications, an intercooler is not required; often the air charge will cool to near-ambient temperature en route to the engine. A remote turbo can run 300 to 600 degrees cooler than a close-coupled turbocharger, so oil coking in the bearings is of much less concern. Remote turbo systems can incorporate multiple turbochargers in series or parallel.<ref>[http://www.chevyhiperformance.com/techarticles/148_0502_rear_mounted_turbo/index.html Remote turbo installation & test]</ref><ref>[http://www.supermotors.net/vehicles/articles/sts-a1-1.php Another remote turbo installation & test]</ref><ref>[http://turbohightechperformance.automotive.com/69030/turp-0410-squires-turbo-systems-emerging-technology/index.html Remote turbo system description]</ref>
+
+==Automotive applications==
+To manage the upper-deck air pressure, the turbocharger's exhaust gas flow is regulated with a [[wastegate]] that bypasses excess exhaust gas entering the turbocharger's turbine. This regulates the rotational speed of the turbine and thus the output of the compressor. The wastegate is opened and closed by the compressed air from turbo (the upper-deck pressure) and can be raised by using a [[solenoid]] to regulate the pressure fed to the wastegate membrane. This solenoid can be controlled by [[Automatic Performance Control]], the engine's [[electronic control unit]] or an after market boost control computer. Another method of raising the boost pressure is through the use of check and bleed valves to keep the pressure at the membrane lower than the pressure within the system.
+
+Turbocharging is very common on [[diesel engine]]s in automobiles, [[truck]]s, [[locomotives]], [[boat]]s and [[ship]]s, and heavy machinery. For current automotive applications, non-turbocharged diesel engines are becoming increasingly rare.<ref name=tubr/> Diesels are particularly suitable for turbocharging for several reasons:
+* Turbocharging can dramatically improve an engine's [[specific power]] and [[power-to-weight ratio]], performance characteristics which are normally poor in non-turbocharged diesel engines.
+* Truck and industrial  Diesel engines run mostly at their maximum  power   reducing problems with turbo lag and compressor stall caused by sudden accelerations and decelerations.
+* Diesel engines have no  [[Engine knocking|detonation]] because diesel fuel is injected at the end of the compression stroke, ignited by compression heat.  Because of this, diesel engines can use much higher boost pressures than spark ignition engines, limited only by the engine's ability to withstand that pressure.
+
+The turbocharger's small size and low weight have production and marketing advantage to vehicle manufacturers. By providing naturally-aspirated and turbocharged versions of one engine, the manufacturer can offer two different power outputs with only a fraction of the development and production costs of designing and installing a different engine. Usually increased piston cooling is provided  by spraying more lubrication oil on the bottom of the piston. The compact nature of a turbocharger mean that bodywork and engine compartment layout changes to accommodate the more powerful engine are not needed . Parts common to the two versions of the same engine reduces production and servicing costs.
+
+Today, turbochargers are most commonly used on gasoline engines in high-performance automobiles and diesel engines in transportation and other industrial equipment.<ref name=tubr/>  Small cars in particular benefit from this technology, as there is often little room to fit a large engine. [[Volvo]], [[Saab Automobile|Saab]], [[Audi]], [[Volkswagen]] and [[Subaru]] have produced turbocharged cars for many years, the turbo [[Porsche 944]]'s acceleration performance was very similar to that of the larger-engined non-turbo [[Porsche 928]], and [[Chrysler Corporation]] built numerous turbocharged cars in the 1980s and 1990s. Buick also developed a turbocharged V-6 during the energy crisis in the late 1970's as a fuel efficient alternative to the enormous eight cylinder engines that powered the famously large cars and produced them through most of the next decade as a performance option.
+
+==Motorcycle applications==
+Using turbochargers to gain performance without a large gain in weight was very appealing to the Japanese factories in the 1980s. The first example of a turbocharged bike is the 1978 [[Kawasaki Heavy Industries|Kawasaki]] Z1R TC. It used a Rayjay ATP turbo kit to build 2.3&nbsp;kg (5&nbsp;lb) of boost, bringing power up from c. {{convert|90|hp|abbr=on}} to c. {{convert|105|hp|abbr=on}}. However, it was only marginally faster than the standard model. A US Kawasaki importer came up with the idea of modifying the Z1-R with a turbocharging kit as a solution to the Z1-R being a low selling bike. The {{convert|112|hp|abbr=on}} [[Kawasaki GPZ750 Turbo|Kawasaki GPz750 Turbo]] was manufactured from 1983 to 1985.  This motorcycle had little in common with the normally aspirated [[Kawasaki GPZ750|Kawasaki GPz750]].  Nearly every component was altered or strengthened for this GPz 750 Turbo to handle the {{convert|20|hp|abbr=on}} increase in power. In 1982, Honda released the [[Honda CX series#CX500 Turbo|CX500T]] featuring a carefully developed turbo (as opposed to the Z1-R's bolt-on approach). It has a rotation speed of 200,000&nbsp;rpm. The development of the CX500T was riddled with problems; due to being a [[V-twin]] engine the intake periods in the engine rotation are staggered leading to periods of high intake and long periods of no intake at all. Designing around these problems increased the price of the bike, and the performance still was not as good as the cheaper CB900( a 16 valve in-line four) During these years, [[Suzuki]] produced the XN85, a 650 cc in-line four producing {{convert|85|bhp|abbr=on}}, and [[Yamaha]] produced the Seca Turbo. Both had carburetor fuel systems).
+
+Since the mid 1980s, no manufactures have produced turbocharged motorcycles making these bikes a bit of an educational experience; as of 2007 no factories offer turbocharged motorcycles (although the [[Suzuki]] B-King prototype featured a supercharged [[Suzuki Hayabusa|Hayabusa]] engine).
+
+==Aircraft applications==
+A natural use of the turbocharger is with [[aircraft engine]]s. As an aircraft climbs to higher altitudes the pressure of the surrounding air quickly falls off. At 5,486 [[metre|m]] (18,000&nbsp;ft) the air is at half the pressure of sea level, and the airframe only experiences half the [[drag equation|aerodynamic drag]]. However, since the charge in the cylinders is being pushed in by this air pressure, it means that the engine will normally produce only half-power at full throttle at this altitude. Pilots would like to take advantage of the low drag at high altitudes in order to go faster, but a naturally aspirated engine will not produce enough power at the same altitude to do so.
+
+===Altitude effects===
+A turbocharger remedies this problem by compressing the air back to sea-level pressures; or even much higher; in order to produce rated power at high altitude. Since the size of the turbocharger is chosen to produce a given amount of pressure at high altitude, the turbocharger is over-sized for low altitude. The speed of the turbocharger is controlled by a [[wastegate]]. Early systems used a fixed wastegate, resulting in a turbocharger that functioned much like a supercharger. Later systems utilized an adjustable wastegate, controlled either manually by the pilot or by an automatic hydraulic or electric system. When the aircraft is at low altitude the wastegate is usually fully open, venting all the exhaust gases overboard. As the aircraft climbs and the air density drops, the wastegate must continually close in small increments to maintain full power. The altitude at which the wastegate is full closed and the engine is still producing full rated power is known as the ''critical altitude.'' When the aircraft climbs above the critical altitude, engine power output will decrease as altitude increases just as it would in a naturally-aspirated engine.
+
+===Temperature considerations===
+One disadvantage of turbocharging is that compressing the air increases its temperature, which is true for any method of [[forced induction]]. This causes multiple problems. Increased temperatures can lead to [[Engine knocking|detonation]] and excessive cylinder head temperatures. In addition, hotter air is less dense, so fewer air molecules enter the cylinders on each intake stroke, resulting in an effective drop in [[volumetric efficiency]] which works against the efforts of the turbocharger to increase volumetric efficiency.
+
+Aircraft engines generally cope with this problem in one of several ways. The most common one is to add an [[intercooler]] or aftercooler somewhere in the air stream between the compressor outlet of the turbocharger and the engine intake manifold. Intercoolers and aftercoolers are types of [[heat exchanger]]s which cause the compressed air to give up some of its heat energy to the ambient air. In the past, some aircraft featured [[Water injection (engines)|anti-detonant injection]] for takeoff and climb phases of flight, which performs the function of cooling the fuel/air charge before it reaches the cylinders.
+
+In contrast, modern turbocharged aircraft usually forego any kind of temperature compensation, because the turbochargers are generally small and the manifold pressures created by the turbocharger are not very high. Thus the added weight, cost, and complexity of a charge cooling system are considered to be unnecessary penalties. In those cases the turbocharger is limited by the temperature at the compressor outlet, and the turbocharger and its controls are designed to prevent a large enough temperature rise to cause detonation. Even so, in many cases the engines are designed to run rich in order to use the evaporating fuel for charge cooling.
+
+===Comparison to supercharging===
+A supercharger inevitably requires some energy to be bled from the engine to drive the supercharger. On the single-stage single-speed supercharged [[Rolls Royce Merlin]] engine for instance, the supercharger uses up about 150 [[horsepower]] (110 [[kW]]). Yet the benefits outweigh the costs, for that 150&nbsp;hp (110&nbsp;kW), the engine generates an additional 400 horsepower and  delivers 1,000&nbsp;hp (750&nbsp;kW) when it would otherwise deliver 750&nbsp;hp (560&nbsp;kW), a net gain of {{convert|250|hp|abbr=on}}. This is where the principal disadvantage of a supercharger becomes apparent: The engine has to burn extra fuel to provide power to turn the supercharger. The increased charge density increases the engine's [[specific power]] and [[power to weight ratio]], but also increases the engine's [[specific fuel consumption]]. This increases the cost of running the aircraft and reduces its overall range. On the other hand, a turbocharger is driven using the exhaust gases. Otherwise wasted heat is extracted from the exhaust gas, and converted to useful power to compress the intake air.  The turbine section of the turbocharger is actually a heat engine in itself.  It converts the heat of the exhaust into power used to drive the compressor, thereby providing a more efficient compression of the intake air than can happen with supercharger, which uses up net engine power to drive its air compressor.
+
+Another key disadvantage of supercharged engines is that they are controlled entirely by the pilot, introducing the possibility of human error which could damage the engine and endanger the aircraft. With a supercharged aircraft engine, the pilot must continually adjust the throttle to maintain the required manifold pressure during ascent or descent. The pilot must also take great care to avoid overboosting the engine and causing damage, especially during emergencies such as [[go-around]]s. In contrast, modern turbocharger systems use an automatic [[wastegate]] which controls the manifold pressure within parameters preset by the manufacturer. For these systems, as long as the control system is working properly and the pilot's control commands are smooth and deliberate, a turbocharger will not overboost the engine and damage it.
+
+Yet the vast majority of World War II engines used superchargers, because they maintained three significant manufacturing advantages over turbochargers, which were larger, involved extra piping, and required exotic high-temperature materials in the turbine and pre-turbine section of the exhaust system. The size of the piping alone is a serious issue; American fighters [[Vought F4U]] and [[Republic P-47]] used the same engine but the huge barrel-like fuselage of the latter was, in part, needed to hold the piping to and from the turbocharger in the rear of the plane. Turbocharged piston engines are also subject to many of the same operating restrictions as gas turbine engines. Pilots must make smooth, slow throttle adjustments to avoid overshooting their target [[manifold pressure]]. The fuel mixture must often be adjusted far on the rich side of the peak [[exhaust gas temperature]] to avoid overheating the turbine when running at high power settings. In systems using a manually-operated wastegate, the pilot must be careful not to exceed the turbocharger's maximum RPM. Turbocharged engines require a cooldown period after landing to prevent cracking of the turbo or exhaust system from thermal shock. Turbocharged engines require frequent inspections of the turbocharger and exhaust systems for damage due to the increased heat, increasing maintenance costs.
+
+Today, most [[general aviation]] aircraft are [[naturally aspirated]]. The small number of modern aviation piston engines designed to run at high altitudes generally use a turbocharger or turbo-normalizer system rather than a supercharger. The change in thinking is largely due to economics. [[Aviation gasoline]] was once plentiful and cheap, favoring the simple but fuel-hungry supercharger. As the cost of fuel has increased, the supercharger has fallen out of favor.
+
+Turbocharged aircraft often occupy a performance range in between that of normally-aspirated piston-powered aircraft and turbine-powered aircraft. The increased maintenance costs of a turbo-charged engine are considered worthwhile for this purpose, as a turbocharged piston engine is still far cheaper than any turbine engine.
+
+===Relationship to gas turbine engines===
+Prior to World War II, [[Sir Frank Whittle]] started his experiments on early [[turbojet]] engines. Due to a lack of sufficient materials as well as funding, initial progress was slow. However, turbochargers were used extensively in military aircraft during World War II to enable them to fly very fast at very high altitudes. The demands of the war led to constant advances in turbocharger technology, particularly in the area of materials. This area of study eventually crossed over in to the development of early [[Gas Turbine|gas turbine engines]]. Those early turbine engines were little more than a very large turbocharger with the compressor and turbine connected by a number of [[combustion chamber]]s. The cross over between the two has been shown in an episode of the TV show [[Scrapheap Challenge]] where contestants were able to build a functioning Jet Engine using an ex-automotive turbocharger as a compressor.
+
+Consider also, for example, that [[General Electric]] manufactured turbochargers for military aircraft and held several patents on their electric turbo controls during the war, then used that expertise to very quickly carve out a dominant share of the gas turbine market which they have held ever since.
+
+==Properties and applications==
+===Reliability===
+Turbochargers can be damaged by dirty or ineffective oil, and most manufacturers recommend more frequent oil changes for turbocharged engines. Many owners and some companies recommend using [[synthetic oil]]s, which tend to flow more readily when cold and do not break down as quickly as conventional oils. Because the turbocharger will heat when running, many recommend letting the engine idle for one to three minutes before shutting off the engine if the turbocharger was used shortly before stopping (most manufacturers specify a 10-second period of idling before switching off to ensure the turbocharger is running at its idle speed to prevent damage to the bearings when the oil supply is cut off). This lets the turbo rotating assembly cool from the lower exhaust gas temperatures, and ensures that oil is supplied to the turbocharger while the turbine housing and exhaust manifold are still very hot; otherwise [[coke (fuel)|coking]]<!-- yes, this is the correct spelling--> of the lubricating oil trapped in the unit may occur when the heat soaks into the bearings, causing rapid bearing wear and failure when the car is restarted. Even small particles of burnt oil will accumulate and lead to choking the oil supply and failure. This problem is less pronounced in [[diesel engine]]s, due to the lower exhaust temperatures and generally slower engine speeds.
+
+A [[turbo timer]] can keep an engine running for a pre-specified period of time, to automatically provide this cool-down period. Oil coking <!-- yes, this is the correct spelling--> is also eliminated by [[foil bearings]]. A more complex and problematic protective barrier against oil coking <!-- yes, this is the correct spelling--> is the use of watercooled bearing cartridges. The water boils in the cartridge when the engine is shut off and forms a natural recirculation to drain away the heat. Nevertheless, it is not a good idea to shut the engine off while the turbo and manifold are still glowing.
+
+In custom applications utilizing tubular headers rather than [[cast iron]] manifolds, the need for a cooldown period is reduced because the lighter headers store much less heat than heavy cast iron manifolds.
+
+Turbochargers can also suffer bearing damage and premature failure due to throttle blipping right before shutdown. This may cause the turbo to continue spinning after the engine has shutdown and oil pressure has dropped.
+
+===Turbo Lag===<!-- This section is linked from [[Porsche 911]] -->
+[[Image:Twinturbo.JPG|thumb|250px|right|A pair of turbochargers mounted to an [[Inline 6]] engine ([[Toyota JZ engine|2JZ-GTE]] from a [[Toyota Supra|MkIV Toyota Supra]]) in a [[dragster]].]]
+The time required to bring the turbo up to a speed where it can function effectively is called ''turbo lag''. This is noticed as a hesitation in throttle response when coming off idle. This is symptomatic of the time taken for the exhaust system driving the turbine to come to high pressure and for the turbine rotor to overcome its [[rotational inertia]] and reach the speed necessary to supply boost pressure. The directly-driven compressor in a [[supercharger]] does not suffer from this problem. (Centrifugal superchargers do not build boost at low RPMs as a positive displacement supercharger will). Conversely on light loads or at low RPM a turbocharger supplies less boost and the engine acts like a [[naturally aspirated engine]].
+
+Lag can be reduced by lowering the rotational inertia of the turbine, for example by using lighter parts to allow the spool-up to happen more quickly. Ceramic turbines are of benefit in this regard. Unfortunately, their relative fragility limits the maximum boost they can supply. Another way to reduce lag is to change the [[aspect ratio]] of the turbine by reducing the diameter and increasing the gas-flow path-length. Increasing the upper-deck air pressure and improving the [[wastegate]] response helps but there are cost increases and reliability disadvantages that car manufacturers are not happy about. Lag is also reduced by using a [[foil bearing]] rather than a conventional oil bearing. This reduces friction and contributes to faster acceleration of the turbo's rotating assembly. Variable-nozzle turbochargers (discussed above) greatly reduce lag.
+<ref name=tubr/>
+
+Some turbochargers, called [[variable geometry turbocharger|variable-geometry or variable-nozzle turbo]]s, use a set of vanes in the exhaust housing to maintain a constant gas velocity across the turbine, the same kind of control as used on power plant turbines. Such turbochargers have minimal lag like a small conventional turbocharger and can achieve full boost as low as 1,500 engine rpm, yet remain efficient as a large conventional turbocharger at higher engine speeds. In many setups these turbos do not use a wastegate. The vanes are controlled by a membrane identical to the one on a wastegate, but the mechanism operates the variable vane system instead.
+<ref name=tubr>{{cite web|url=http://www.experiencefestival.com/turbocharger_-_history |title=Turbocharger - History |publisher=Experiencefestival.com |date=2007-11-11 |accessdate=2009-06-06}}</ref>  These variable turbochargers are commonly used in diesel engines.<ref name=parkhurst>{{cite web
+  | last = Parkhurst
+  | first =Terry
+  | title = Turbochargers: an interview with Garrett’s Martin Verschoor
+  | publisher = Allpar, LLC
+  | url =http://www.acarplace.com/cars/turbochargers.html 
+  | dateformat = dmy | accessdate=12 December 2006}}</ref> 
+
+Lag is not to be confused with the boost threshold. The boost threshold of a turbo system describes the lower bound of the region within which the compressor will operate. Below a certain rate of flow at any given pressure multiplier, a given compressor will not produce significant boost. This has the effect of limiting boost at particular RPMs regardless of exhaust gas pressure.<ref name=tubr/> Newer turbocharger and engine developments have caused boost thresholds to steadily decline.
+
+Electrical boosting ("E-boosting") is a new technology under development; it uses a high speed electrical motor to drive the turbocharger to speed before exhaust gases are available, ''e.g.'' from a stop-light.<ref name="parkhurst" /> An alternative to e-boosting is to completely separate the turbine and compressor into a turbine-generator and electric-compressor as in the [[Hybrid Turbocharger]]. This allows the compressor speed to become independent to that of the turbine.
+
+[[Auto racing|Race cars]] often utilize an [[Anti-Lag System]] to completely eliminate lag at the cost of reduced turbocharger life.
+
+===Boost threshold===
+Turbochargers start producing boost only above a certain exhaust mass flow rate (depending on the size of the turbo) which is determined by the engine displacement, rpm, and throttle opening. Without an appropriate exhaust gas flow, they logically cannot force air into the engine. The point at full throttle in which the mass flow in the exhaust is strong enough to force air into the engine is known as the boost threshold rpm. Engineers have, in some cases, been able to reduce the boost threshold rpm to idle speed to allow for instant response.<ref name=tubr/>  Both Lag and Threshold characteristics can be acquired through the use of a compressor map and a mathematical equation.
+
+== See also ==
+*[[Balancing machine]]
+*[[Boost gauge]]
+*[[Twin-turbo]]
+*[[Gale Banks]]
+*[[Twincharger]]
+*[[Supercharger]]
+*[[Hybrid Turbocharger]]
+
+==References==
+{{reflist}}
+* {{cite journal
+ | url=http://www.automobilemag.com/features/news/0602_turbocharger_history/index.html |title=Happy 100th Birthday to the Turbocharger |author=Don Sherman
+ | journal=[[Automobile Magazine]]
+ |month=February | year=2006}}
+* {{cite journal
+ | url=http://www.pistonheads.com/doc.asp?c=52&i=10065 |title=Audi Quattro |author=Andrew Noakes
+ | journal=[[Pistonheads]]
+ |date=  18 March 2005}}
+*[http://www.grc.nasa.gov/WWW/Oilfree/turbocharger.htm NASA Oil Free Turbocharger]
+
+[[Category:Turbochargers]]
+[[Category:Engine technology]]
+[[Category:Aircraft engines]]
+[[Category:Engine components]]
+
+[[af:Turbo-aanjaer]]
+[[ca:Turbocompressor]]
+[[cs:Turbodmychadlo]]
+[[da:Turbolader]]
+[[de:Turbolader]]
+[[et:Turbokompressor]]
+[[el:Υπερπλήρωση]]
+[[es:Turbocompresor]]
+[[fr:Turbocompresseur]]
+[[ko:터보차저]]
+[[id:Turbocharger]]
+[[is:Forþjappa]]
+[[it:Turbocompressore]]
+[[he:מגדש טורבו]]
+[[hu:Turbófeltöltő]]
+[[ml:ടര്‍ബോ ചാര്‍ജര്‍]]
+[[ms:Pengecas turbo]]
+[[nl:Turbolader]]
+[[ja:ターボチャージャー]]
+[[no:Turbo]]
+[[pl:Turbosprężarka]]
+[[pt:Turbo]]
+[[ro:Grup de turbosupraalimentare]]
+[[ru:Турбонаддув]]
+[[sk:Turbodúchadlo]]
+[[fi:Turbo]]
+[[sv:Turbo]]
+[[th:เทอร์โบ]]
+[[tr:Turboşarj]]
+[[zh:渦輪增壓器]]

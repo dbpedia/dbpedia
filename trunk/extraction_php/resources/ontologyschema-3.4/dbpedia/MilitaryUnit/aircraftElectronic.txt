@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = aircraft electronic
+|rdfs:domain = MilitaryUnit
+|rdfs:range = MeanOfTransportation
+}}

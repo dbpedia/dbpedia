@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = number of films
+|rdfs:domain = AdultActor
+|rdfs:range = xsd:integer
+}}

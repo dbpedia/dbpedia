@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = founding person
+| rdfs:domain = PopulatedPlace
+| rdfs:range = Person
+}}

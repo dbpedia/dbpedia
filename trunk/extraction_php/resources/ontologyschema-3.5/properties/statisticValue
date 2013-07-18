@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = statistic value
+| rdfs:domain = BaseballPlayer
+| rdfs:range = xsd:float
+}}

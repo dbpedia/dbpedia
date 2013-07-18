@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = instrument
+|rdfs:domain = MusicGenre
+|rdfs:range = owl:Thing
+}}

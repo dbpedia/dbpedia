@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = ethnic group
+| rdfs:range = EthnicGroup
+}}

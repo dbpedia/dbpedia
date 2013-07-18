@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Comics Creator
+|rdfs:subClassOf = Artist
+}}

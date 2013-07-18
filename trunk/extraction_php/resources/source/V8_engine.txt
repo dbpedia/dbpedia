@@ -1,0 +1,424 @@
+{{Redirect2|V8|V-8}}
+[[Image:Aero4G11.jpg|thumb|The Liberty V8 aircraft engine clearly shows the configuration, although modern automotive versions use a 90 degree block angle.]]
+[[Image:1969 AMC AMX with bare engine block.jpg|thumb|Bare block of an [[American Motors]] [[AMC V8 engine|V8 engine]] showing the four cylinders on each side of the V configuration]]
+
+A '''V8 engine''' is a [[V engine]] with eight [[cylinder (engine)|cylinder]]s mounted on the [[crankcase]] in two banks of four cylinders, in most cases set at a right angle to each other but sometimes at a narrower angle, with all eight [[piston]]s driving a common [[crankshaft]].<ref>{{cite book
+  | last = Nunney
+  | first = Malcolm James
+  | title = Light and Heavy Vehicle Technology, Fourth Edition
+  | publisher = Butterworth-Heinemann
+  |year=2006
+  | pages = 13-14
+  | isbn = 0750680377
+}} </ref> 
+
+In its simplest form, it is basically two [[straight-4]] engines sharing a common [[crankshaft]]. However, this simple configuration, with a single-plane crankshaft, has the same [[engine balance|secondary dynamic imbalance]] problems as two straight-4s, resulting in vibrations in large [[engine displacement]]s. As a result, since the 1920s most V8s have used the somewhat more complex [[crossplane]] crankshaft with heavy [[counterweight]]s to eliminate the vibrations. This results in an engine which is smoother than a [[V6]], while being considerably less expensive than a [[V12 engine]]. Racing V8s continue to use the single plane crankshaft because it allows faster acceleration and more efficient exhaust system designs.<ref>{{cite book
+  | last = Ludvigsen
+  | first = Karl
+  | title = Classic Racing Engines
+  | publisher = Haynes Publishing
+  | year = 2001
+  | isbn = 1859606490
+  |ref=Ludvigsen, Classic Racing Engines
+}} </ref>
+
+==Applications==
+[[File:Oldsmobile 400cu-in big block engine.jpg|thumb|right|Assembled overhead valve engine with heads and complete valve train but without manifolds, rocker covers, timing chain cover or oil pan]]
+The V8 with a crossplane crankshaft (see below) is a very common configuration for large [[automobile]] engines. V8 engines are rarely less than {{convert|3.0|L|CID|0|abbr=on}} in displacement and in automobile use have gone up to and beyond {{convert|8.2|L|CID|0|abbr=on}} in production vehicles. Industrial and marine V8 engines can be much larger.
+[[File:Ford Mustang Cobra 460.JPG|thumb|left|Assembled and installed with all components as seen in a rear-wheel drive vehicle]]
+V8s are generally only standard on more powerful [[muscle car]]s, [[pony car]]s, [[sports car]]s, [[luxury car]]s, [[pickup truck]]s, and [[SUV]]s. However they are often optional on vehicles which have a V6 or straight-6 as standard engine. In many cases, V6 engines were derived from V8 designs by removing two cylinders without changing the V-angle so they can be built on the same assembly lines as the V8s and installed in the same engine compartments with few modifications. Some of these employed offset crankpins driving connecting rod pairs, enabling a more regular firing sequence.
+
+The traditional 90° big-bore V8 engine is generally too wide and too long to fit easily in vehicles with a [[transverse engine]] [[front-wheel drive]] layout, so its application is mostly limited to [[rear-wheel drive]] sports cars, [[muscle car]]s, [[pony car]]s, luxury cars and [[light trucks]]. The shorter and occasionally narrower [[V6 engine]] is easier to fit in small engine compartments, but a few compact V8 engines have been used in transverse FWD and transverse AWD engine configurations in larger cars, such as [[GM Premium V engine|Cadillacs]] and [[Ford Yamaha V8 engine|Volvos]]. These engines often have tighter cylinder bore spacings, narrower cylinder bank angles, and other modifications to reduce their space requirements.<ref>{{cite web
+  | title = Volvo XC90 gets the state-of-the-art V8 powertrain for 2005
+  | publisher = The Auto Channel
+  | year = 2004
+  | url = http://www.theautochannel.com/news/2004/12/14/303081.html
+  | accessdate = 2008-12-27}}
+ </ref>
+
+V8s are common in purpose-designed engines for racing cars. They usually have flat-plane crankshafts, since a crossplane crankshaft results in uneven firing into the exhaust [[manifold]]s which interferes with [[engine tuning]], and the heavy crankshaft counterweights prevent the engine from accelerating rapidly. They are a common engine configuration in the highest echelons of motorsport, especially in the USA where it is required in [[Indy Racing League|IRL]], [[ChampCar]] and [[NASCAR]]. V8 engines are also used in Australian motorsport, most notably in the [[V8 Supercars]] . [[Formula One]] began the 2006 season using [[naturally aspirated engine|naturally aspirated]] {{Auto L|2.4}} V8 engines, which replaced the {{Auto L|3.0}} [[V10 engine|V10]] in a move to reduce costs and power.
+
+Heavy [[truck]]s and railroad [[locomotive]]s tend to use the [[straight-6]] configuration since it is simpler and easier to maintain, and since the straight-6 is an inherently balanced layout which can be scaled up to almost any size necessary. Large V8s are found in the larger truck and industrial equipment lines, however.
+
+Although it was an early choice for airplane engines, the V8 engine is seldom used in modern aircraft engine since the typically heavy crankshaft counterweights are a liability. Modern light planes commonly use the [[flat-8]] configuration instead since it is lighter and easier to [[air-cooled engine|air cool]], in addition to which it can be manufactured in modular designs sharing components with [[flat-4]] and [[flat-6]] engines.
+
+==History==
+[[File:Moteur de l Antoinette VII Musee du Bourget P1010360.JPG|thumb|right|1909 [[Antoinette VII]] aircraft with [[Antoinette (manufacturer)|Antoinette]] V8 engine]]
+In 1902 [[Léon Levavasseur]] took out a patent on a light but quite powerful gasoline injected V8 engine which he called [[Antoinette (manufacturer)|Antoinette]] after the young daughter of his financial backer, and from 1904 installed this engine in a number of competition speedboats and early aircraft. All the early [[Voisin]] pusher biplanes, notably the one first flown successfully by [[Henry Farman]] in 1908, were powered by Antoinette V8 engines. Naturally they also powered the "Antoinette" monoplane aircraft built by Léon Levavasseur. One of these aircraft, piloted by [[Hubert Latham]], tried but failed to cross the English Channel in 1909<ref name="Flight 1909 07 24 p440">[http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200438.html ''Flight'' Magazine, July 24, 1909 p.440]</ref><ref name="Flight 1909 07 24 p441">[http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200439.html ''Flight'' Magazine, July 24, 1909 p.441]</ref> due to the engine's gasoline injection . However, in 1910, the same plane with the same engine and the same pilot was first in the world to reach an altitude of 3600 feet.
+<ref>{{cite book
+  | last = Villard
+  | first = Henry
+  | title = Contact! The Story of the Early Aviators
+  | publisher = Courier Dover Publications
+  |year=2002
+  | page = 51 
+  | isbn = 0486423271
+}}</ref>
+
+The V8 engine configuration became popular in France from 1904 onward, and was used in a number of aircraft engines introduced by [[Renault]], and [[Buchet]] among others. Some of these engines found their way into automobiles in small quantities. In 1905, [[Darracq]] built special car to beat the world speed record. They came up with two race car engines built on a common crankcase
+and camshaft. The result was monstrous engine with a discplacement of 1551 cubic inches (25422 cc), good for 200 bhp (ca. 150 kW). Victor Hemery fixed that record on 30th December 1905 with a speed of 109.65 mph (176.4 km/h). That car still exists.
+
+[[Rolls-Royce Limited|Rolls Royce]] built a {{convert|3535|cc|CID|0|abbr=on}} [[Rolls-Royce V-8 (1905)|V8 car]] from 1905 to 1906, but only 3 copies were made and Rolls Royce reverted to a straight-6 design. [[De Dion-Bouton]] introduced a {{convert|7773|cc|CID|0|abbr=on}} automobile V8 in 1910 and displayed it in New York in 1912. It was produced only in small quantities, but inspired a number of American manufacturers to follow suit.<ref name="Daniels, Driving Force, 32-33" >{{cite book
+  | last = Daniels
+  | first = Jeff
+  | title = Driving Force: The Evolution of the Car Engine
+  | publisher = Haynes Publishing
+  |year=2002
+  | pages = 32-33
+  | isbn = 1-85960-877-9
+  |ref=Daniels, Driving Force
+}}</ref> 
+
+The first mass-production automobile V8 was introduced in the United States in 1914 by [[Cadillac]], a division of [[General Motors]] which sold 13,000 of the {{convert|5429|cc|CID|0|abbr=on}} L-head engines in its first year of production. Cadillac has been primarily a V8 company ever since. [[Oldsmobile]], another division of General Motors, introduced its own {{Auto L|4|0}} V8 engine in 1916. [[Chevrolet]] introduced a {{Auto CID|288|1}} V8 engine in 1917, but after merging with General Motors in 1918, discontinued the V8 to concentrate on economy cars.<ref name="Daniels, Driving Force, 46-47" >[[#Daniels, Driving Force|Daniels, Driving Force]], pp. 46-47.</ref>
+
+==V angles==
+The most common V angle for a V8 by far is 90°. This configuration produces a wide, low engine with optimal firing and vibration characteristics. Since many [[V6 engine|V6]] and [[V10 engine|V10]] engines are derived from V8 designs, they often use the 90° angle as well, but sometimes with [[balance shaft]]s to reduce vibration or more complex cranks to even the firing cycle.
+
+However, some V8s use different angles. One notable example is the [[Ford Yamaha V8 engine|Ford/Yamaha V8]] used in the [[Ford Taurus]] ''SHO''. It was based on [[Ford Motor Company|Ford]]'s [[Ford Duratec engine#Duratec 25|Duratec V6]] and shares that engine's 60° vee angle. A similar Yamaha-built engine is used by [[Volvo Cars]] as of 2005. These engines were designed for transverse front wheel drive installation and are narrower than usual for efficient use of space. Since they are not at the ideal 90° angle for a V8, they require a counter-rotating balance shaft and offset split crankpins for complete smoothness.<ref>{{cite web
+  | last = McIntosh
+  | first = Jil
+  | title = First Drive: 2006 Volvo XC90 V8 
+  | publisher = Canadian Driver
+  | date = [[2005-06-10]]
+  | url = http://www.canadiandriver.com/articles/jm/06xc90v8.htm
+  | accessdate = 2007-12-16
+}}</ref>  In 2010 GM will introduce a 4.5 litre Duramax diesel V8 with a 72° angle in which they claim "Considering manufacturing tolerances, a 72 V-8 engine can actually deliver better balance than a 90 engine."<ref>{{cite web
+  | title=2010 Duramax 4500 Diesel
+  | publisher = Diesel Power Magazine
+  | url=http://dieselpower.automotive.com/92161/0810dp-2010-duramax-4500-diesel/fuel-efficiency.html
+  | accessdate = 2008-12-01}}</ref>
+
+The [[Rover Meteorite]] V8 engine was derived from the [[Rover Meteor]] tank engine (hence derived from the [[Rolls-Royce Merlin|Merlin]] aero engine), so shared the Meteor's 60° vee angle.<ref>''The Rover Story'' by Graham Robson, page 51 (1977, Patrick Stephens, Cambridge) ISBN 0 85059 279 8</ref>  In years past, [[GM-EMD|Electro-Motive]] produced an 8 cylinder version of their model [[EMD 567|567]] Diesel locomotive engine, with a 45 degree cylinder angle.
+
+An extremely narrow-angle V8 was introduced by [[Lancia]] in 1922, which had an angle between cylinder banks of only 14 degrees. This created an engine that was shorter than a straight 6, but much narrower than a conventional V8. It was based on a [[Lancia V4 engine]] design that was almost completely "square" in the length and width of its layout. Because of their compact design and [[overhead camshaft]]s, these engines were lighter and more powerful than comparable engines of the time.<ref name="Daniels, Driving Force, 70-71" >[[#Daniels, Driving Force|Daniels, Driving Force]], pp. 70-71, 92</ref> Although Lancia stopped making the V8 design around World War II, the basic concept is used today in the Volkswagen [[VR6 engine]].
+
+==Crankshaft design==
+{{Main|Crossplane}}
+There are two classic types of V8s which differ by crankshaft:
+* The '''cross-plane''' or two-plane crankshaft is the configuration used in most V8 road cars. The first and last of the four crank pins are at 180° with respect to each other as are the second and third, with each pair at 90° to the other, so that viewed from the end the crankshaft forms a cross. The cross-plane can achieve very good balance but requires heavy counterweights on the crankshaft. This makes the cross-plane V8 a slow-revving engine that cannot speed up or slow down very quickly compared to other designs, because of the greater rotating mass. While the firing of the cross-plane V8 is regular overall, the firing of each bank is LRLLRLRR. In stock cars with dual exhausts, this results in the typical V8 ''burble''  sound that many people have come to associate with American V8s, In all-out racing cars it leads to the need to connect exhaust pipes between the two banks to design an optimal exhaust system, resulting in an exhaust system that resembles a ''bundle of snakes'' as in the [[Ford GT40]]. This complex and encumbering exhaust system has been a major problem for single-seater racing car designers, so they tend to use flat-plane crankshafts instead.
+* The '''flat-plane''' or single-plane crankshaft has crank pins at 180°. They are imperfectly balanced and thus produce vibrations unless [[balance shaft]]s are used, with a counter rotating pair flanking the crankshaft to counter second order vibration transverse to the crankshaft centerline. As it does not require counterweights, the crankshaft has less mass and thus inertia, allowing higher&nbsp;rpm and quicker acceleration. The design was popularized in modern racing with the [[Coventry Climax]] {{Auto L|1.5}} V8 that evolved from a cross-plane to a flat-plane configuration. Flat-plane V8s on road cars come from [[Ferrari]], (every V8 model they ever made, from the 1973 ''[[Ferrari GT4#208 GT4|308 GT4]]'', to today's ''[[Ferrari F430|F430]]'' and ''[[Ferrari California|California]]''), [[Lotus Cars|Lotus]] (the [[Lotus Esprit|Esprit V8]]), and [[TVR]] (the Speed Eight). This design is popular in racing engines, the most famous example being the [[Cosworth DFV]].<ref name="Ludvigsen, Classic Racing Engines, 174-177" >[[#Ludvigsen, Classic Racing Engines|Ludvigsen, Classic Racing Engines]], pp. 174-177</ref>
+
+In 1992, Audi left the German [[Deutsche Tourenwagen Meisterschaft|DTM]] racing series after a controversy around the crankshaft design of their V8-powered race cars. After using the road car's cross-plane 90°-crankshaft for several years, they switched to a flat-plane 180° version which they claimed was made by "twisting" a stock part. The scrutineers decided that this would stretch the rules too far.
+
+The cross-plane design was neither obvious nor simple to design. For this reason, most early V8 engines, including those from [[De Dion-Bouton]], [[Peerless]], and [[Cadillac]], were flat-plane designs. In 1915, the cross-plane design was proposed at an automotive engineering conference in the United States, but it took another eight years to bring it to production. Cadillac and Peerless (who had hired an ex-Cadillac mathematician for the job) applied for a patent on the cross-plane design simultaneously, and the two agreed to share the idea. Cadillac introduced their "[[Cadillac V8 engine|Compensated Crankshaft]]" V8 in 1923, with the "Equipoised Eight" from Peerless appearing in November 1924.<ref>[http://www.autozine.org/technical_school/engine/smooth4.htm AutoZine Technical School - Engine<!-- Bot generated title -->]</ref>
+
+==American V8 engines==
+{{Unreferenced section|date=August 2009}}
+[[Image:FiredomeV8,1952.jpg|thumb|De Soto Fire Dome V8 engine, at the 1952 [[Los Angeles]] International Automobile Show ]]
+{{Main|List of Ford engines#8 Cylinder}}
+
+A full decade after Britain's 1904 [[Rolls-Royce Limited|Rolls-Royce]] [[Legalimit]], [[Cadillac]] produced the first American V8 engine, the 1914 ''[[Cadillac V8 engine|L-Head]]''. It was a complicated hand-built unit with cast iron paired closed-head cylinders bolted to an aluminum crankcase, and it used a flat-plane crankshaft. [[Peerless]] followed, introducing a V8 licensed from [[amusement park]] manufacturer, [[Herschell-Spillman]], the next year. Chevrolet produced a crude overhead valve V8 in 1917, in which the valve gear was completely exposed.  It only lasted through 1918 and then disappeared.  They would not produce another V8 until the introduction of the famous [[Chevrolet Small-Block engine|small block]] in 1955.
+
+Cadillac and Peerless were one year apart again (1923 and 1924, respectively) with the introduction of the cross-plane crankshaft. [[Lincoln (automobile)|Lincoln]] also had V8 cars in those years, as did [[Ferro (car company)|Ferro]], [[Northway]] (supplier to [[Cadillac]], [[Cole (car company)|Cole]] {[[Indianapolis]]}, and [[Jackson, Mississippi]]), [[Perkins]] ([[Detroit]]), [[Murray]], [[Vernon]], and [[Yale]].<ref>Georgano, G.N. ''Cars: Early and Vintage, 1886-1930''. (London: Grange-Universal, 1985).</ref> Oakland, a division of General Motors, introduced an 85-bhp 250-cid V8 with a 180-degree crankshaft in 1930 and 1931. In 1932, the Oakland marque was discontinued and the V8 was used in its companion marque, Pontiac, for one year. Pontiac dropped the V8 engine in 1933 and replaced it with its smoother running Silver-Streak straight eight.
+
+Ford was the first company to use V8s ''en masse''. Instead of going to an [[straight-6|inline six]] like its competitors when something larger than an [[straight-4|inline four]] was needed, Ford designed a modern V8, the ''[[Ford Flathead engine|Flathead]]'' of 1932. This flat head engine powered almost all larger Ford cars through the 1953 production year, and was produced until around 1970 by Ford licensees around the world, with the valve-in-block engine powering mostly commercial vehicles.
+
+After World War II, the strong demand for larger status-symbol cars made the common straight-6 less marketable. Straight-8 engines have problems with crankshaft whip and require a longer engine bay. In the new wider body styles, a V8 would fit in the same space as a straight-6. Manufacturers could simplify production and offer the bigger engines as optional upgrades to base models.
+
+In 1949 [[General Motors Corporation|General Motors]] responded to Ford's V8 success by introducing the ''[[Oldsmobile V8 engine|Oldsmobile Rocket]]'' and ''[[Cadillac V8 engine#OHV|Cadillac OHV]]''. [[Chrysler Corporation|Chrysler]] introduced their ''[[Chrysler FirePower engine|FirePower]]'' {{auto CID|331|1}} hemi-head V8 in 1951. Sales were beyond all expectations, so [[Buick]] followed in 1953, and [[Chevrolet]] and [[Pontiac]] introduced V8s of their own in 1955.
+
+{{Listen|filename=AC Cobra (1964).ogg|title=Ford V8 in an AC Cobra|description=1964 AC Cobra at Goodwood Festival of Speed 2009. 4.7 litre Ford V8}}
+A full history of each manufacturer's engines is outside of the scope in this article, but engine sizes on [[full-size car]]s grew throughout the 1950s, 1960s, and into the early to mid-1970s. The increasing size of full-size cars meant smaller models of car were introduced and became more popular, with the result, by the 1960s, [[Chrysler]], Buick, Ford, and Chevrolet had two V8 model ranges.
+
+The larger engines, known as [[big-block V8]]s, were used in the full-size cars. Big-blocks generally had displacements in excess of {{Convert|360|CID|L|1|abbr=on}}, but in stock form are often not all that efficient. Big-block displacement reached its zenith with the 1970 [[Cadillac Eldorado]]'s {{Convert|500|CID|L|1|abbr=on}} ''[[Cadillac V8 engine#500|500]]''. Once the 1970s oil crisis and pollution regulations hit, big-block V8s did not last too much longer in cars; luxury cars lasted the longest, but by 1977 or so they were gone. In [[truck]]s and other larger vehicles, big-block V8s continue to be used today, though some manufacturers have replaced them with small-block-based V10s or more efficient [[Diesel engine|Diesels]]. However in racing big-block V8's are heavily used and there are more big-block V8's available from independent engine builders today then ever before. Engines with power well beyond 2000 horsepower from volumes exceeding 800 cubic inches are now built.
+
+Smaller engines, known as [[small-block V8]]s, were fitted in the [[mid-size car]] ranges and generally displaced between {{auto CID|270|1}} and {{auto CID|360|0}}, though some grew as large as Ford's {{auto CID|408|1}} ''[[Ford 335 engine#400|400 Cleveland]]''. As can be seen, there is overlap between big-block and small-block ranges, and a factory engine between {{Convert|6.0|and|6.6|L|CID|0|abbr=on}} could belong to either class. Engines like this (much evolved) are still in production.
+
+[[Image:4.0 L V8 Aurora.jpg|thumb|200px|A {{Convert|4.0|L|CID|0|abbr=on|lk=on}} V8 engine from an Oldsmobile Aurora]]
+During the 1950s, 1960s and, 1970s, every [[General Motors Corporation|General Motors]] division had their own engines, whose merits varied. This enabled each division to have its own unique engine character, but made for much duplication of effort. Most, like the comparatively tiny ''[[Buick V8 engine#215|Buick 215]]'' and familiar ''[[Chevrolet Small-Block engine|Chevrolet 350]]'', were confusingly shared across many divisions. Ford and [[Chrysler]] had fewer divisions, and division-specific engines were quickly abandoned in favor of a few shared designs. Today, there are fewer than a dozen different American V8 engines in production.
+
+Lately, Chrysler and General Motors have designed larger displacement V8s out of existing modern small-block V8s for use in performance vehicles, such as Chrysler's {{Auto CID|370|1}} and {{auto CID|392|1}} Hemis, and the LS7 {{auto CID|427|1}} version of General Motors' LS engines.
+
+Today, the major use for big V8s is in racing, where aluminum copies of the venerable [[Chrysler Hemi engine#Hemi design reintroduced|hemi]] still dominate professional [[drag racing]] (Top Fuel Dragster and Funny Car). 
+
+===American V8s (by mfg. & date)===
+* [[American Motors]] (AMC)
+** 1956-1966 [[AMC V8 engine|GEN-1 Nash/Hudson/Rambler V8]]
+** 1966-1991 [[AMC V8 engine|GEN-2 AMC and Jeep V8]]
+* [[Ford Motor Company|Ford]]
+** 1920–1932 [[Lincoln Liberty engine|Lincoln Liberty]]
+** 1932-1953 [[Ford Flathead engine|Flathead V8]]
+** 1954-1962 [[Ford Y-block engine|Y-block V8]]
+** 1958-1967 [[Ford MEL engine|MEL V8]]
+** 1958-1976 [[Ford FE engine|FE V8]]
+** 1958-1982 [[Ford Super Duty engine|Super Duty engine]]
+** 1962-1995 [[Ford Windsor engine|Windsor V8]]
+** 1966-present [[Cosworth Ford DFV|Cosworth DFV]]
+** 1968-1997 [[Ford 385 engine|385 V8]]
+** 1970-1982 [[Ford 335 engine|335/Cleveland V8]]
+** 1991-present [[Ford Modular engine|Modular V8]]/[[Ford Triton engine|Triton V8]]
+** 1996-present [[Jaguar AJ-V8 engine|Jaguar AJ-V8]]
+** 1996-present [[Ford Yamaha V8 engine|Yamaha V8]]
+** 2004-present [[Ford Duratorq engine#AJD-V8|AJD-V6]]
+** 2009-present [[Ford 4.4 Turbo Diesel|Lion V8]]
+** 2009-present [[Ford Boss engine|Boss/Hurricane]]
+* [[General Motors Corporation|General Motors]]
+** 1914-1992 [[Cadillac V8 engine|Cadillac V8]]
+** 1930-1931 [[Oakland V8 engine|Oakland V8]]
+** 1932 [[Pontiac V8 engine|Pontiac V8]]
+** 1949-1990 [[Oldsmobile V8 engine|Oldsmobile Rocket V8]]
+** 1954-1970s [[Pontiac V8 engine|Pontiac V8]]
+** 1950s-1970s [[Buick V8 engine|Buick V8]]
+** 1954-2002 [[Chevrolet Small-Block engine|Chevrolet small-block V8]]
+** [[Chevrolet Big-Block engine]]
+** 1992-present [[GM Premium V engine|Northstar/Premium]]
+** 1992-1997 [[GM LT engine|Generation 2 small-block]]
+** 1997-present [[GM LS engine|Generation 3 small-block]]
+** 2005-present [[GM LS engine|Generation 4 small-block]]
+** [[GM Duramax engine|Duramax Diesel]]
+* [[Chrysler Corporation|Chrysler]]
+** [[Chrysler A engine|A family]]
+** [[Chrysler FirePower engine|FirePower]]
+** [[Chrysler B engine|B family]]
+** [[Chrysler RB engine|RB family]]
+** [[Chrysler Hemi engine|Hemi]] (Original)
+** [[Chrysler LA engine|LA Family]]
+** [[Chrysler PowerTech engine|PowerTech]]
+** [[Chrysler Hemi engine#5.7|New Hemi]]
+
+== British V8 engines ==
+The first British V8 was the 3.5&nbsp;L [[Rolls-Royce V-8 (1905)]] followed shortly by [[Darracq]].
+
+The [[Rolls-Royce (car)|Rolls-Royce]] and [[Bentley]] V8 still used in modern Bentleys was designed from 1952 and entered production in 1959 in the Rolls Royce [[Silver Cloud]] and [[Bentley S2]]. Following then current design practice, it featured overhead valves ([[Overhead valve|OHV]]), a central camshaft and wedge-shaped combustion chambers. Sometime rumoured to be a US engine built under licence (possibly a confusion with the 4-speed automatic gearbox), it is in fact a homegrown British design by the Rolls-Royce and Bentley Motors engineering team, led by Jack Phillips. This can be identified in its design characteristics and then advanced features like the aluminium block with wet liners, gear-driven camshaft, (initially) outboard spark-plugs and porting inspired by the [[Rolls-Royce Merlin]] aircraft engine. Early versions were of {{Convert|6.25|L|CID|0|abbr=on}} displacement, growing to {{Convert|6.75|L|CID|0|abbr=on}} in the 1970s. Turbocharging in various Bentley models beginning in the 1980s led to the resurgence of the Bentley marque as the power outputs of the engine were increased in several steps to the current {{convert|500|bhp|kW|abbr=on}} and {{convert|1000|Nm|ftlbf|abbr=on}} in the 2007 model-year [[Bentley Arnage]], while meeting all emission standards. The Bentley V8 has thus increased power and torque by more than 150% in its life. It is the highest torque V8 used in a production car. In 2007, the final components that could be traced back to the 1959 engine were replaced.<ref name="expat-village.com">{{cite web|url=http://expat-village.com/article_2793.shtml|title=Bentley Azure Convertible|accessdate=2008-07-20|work=expat-village.com}}</ref>
+
+The most common British V8 is the [[Rover V8 engine|Rover V8]], used in countless British performance cars. This was not originally a British design, but was imported from America, its roots being in [[General Motors Corporation|General Motors]]' [[Oldsmobile]]/[[Buick]] cast-[[aluminum]] ''[[Buick V8 engine#215|215]]'' V8 in 1960. It was of the small (for the U.S. market) size of {{auto CID|215|1}} and very light for a V8. 
+
+As the aluminium block made this engine one of the lightest stock V8s built,{{Clarify|how much is the weight?|date=June 2009}} it was a popular choice for racing applications. The Mickey Thompson team raced a Buick 215 powered car in the 1962 Indianapolis 500. The Australian firm Repco converted this engine for [[Formula One]] by reducing it to {{Convert|3.0|L|CID|0|abbr=on}} (using con-rods from the {{Convert|2.5|L|CID|0|abbr=on|disp=s}} Daimler V8) and fitting a [[single overhead cam]]shaft per bank rather than the shared pushrod arrangement. Repco-powered [[Brabham]]s won the F1 championship twice, in 1966 and 1967.
+
+[[Rover (car)|Rover]] was in need of a new, more powerful engine in the mid 1960s. The managing director of  Rover, on a trip to the USA to sell marine engines, discovered an example of the GM engine in a [[Mercury Marine]] experimental shop and was impressed by its light weight and small size. On having it weighed and measured, he found the {{convert|215|CID|cc|sing=on}} GM V8 was only {{convert|12|lb|kg}} heavier and less than {{convert|1|in|cm}} longer than the {{convert|2000|cc|CID}} Rover [[straight-4]] and sent it back to the UK for evaluation. It worked extremely well in the large Rovers, being considerably shorter, lighter, and more powerful than the Rover [[straight 6]], so after some negotiation Rover acquired manufacturing rights to it. After extensive redesign to improve the durability and high-RPM performance, which left few parts interchangeable with the original Buick engine, it first appeared in Rover saloons in the late 1960s. GM aided the process by allowing Buick's chief engine designer, who was close to retirement, to assist Rover.<ref>{{cite web
+  | last = Goffey
+  | first = Chris
+  | title = History of the Aluminium Alloy V8
+  | work = British V8
+  | publisher = Autocar
+  | year = 1976
+  | url = http://www.britishv8.org/Articles/Rover-Autocar-Article.htm
+  | accessdate = 2008-03-24}}
+</ref>
+
+As well as appearing in Rover cars, the engine was widely sold to small car builders, and has appeared in all kinds of vehicles. Rover V8s feature in some models from [[Morgan Motor Company|Morgan]], [[TVR]], [[Triumph Motor Company|Triumph]],<ref>[http://www.conceptcarz.com/vehicle/z4713/Triumph_TR8/default.aspx ConceptcarZ - Triumph TR8]</ref>  [[Marcos (automobile)|Marcos]], and [[MG (car)|MG]], among many others. Land Rover also used the V8 frequently, appearing in the Range Rover in various guises, from {{auto L|3.5}} in the earlier models to the {{auto L|4.6}} used in the 1994-2002 model.The Rover V8 is also the standard British engine in [[hot rod]]s, much like the Chevrolet 350 small-block is to American builders.
+
+The last mass-produced car to use the Rover V8 was in some models of the [[Land Rover Discovery]], which was replaced by an all-new model in 2005. Many independent sports cars manufacturers still use it in hand-built applications.
+
+Recently Land Rover (Ford) added the TDV8 to its list of engines. It is a V8 version of the popular TDV6 found in Discovery models. This diesel engine will be found in the 2007 Range Rovers. The point of interest for this engine is the amount of torque produced by this {{auto L|3.6}} engine; it manages {{convert|472|ftlbf|Nm|abbr=on}} at a mere 2000 rpm.
+
+The [[Rover Meteorite]] petrol or diesel V8 was used in trucks and transporters from 1943, and for marine or stationary use.
+
+[[Triumph Motor Company|Triumph]] used the [[Triumph Slant-4 engine]] as a base of a V8 engine. The [[Triumph V8]] was used only in the [[Triumph Stag]].
+
+Edward Turner designed the {{auto L|2.5}} and {{auto L|4.5}} hemi-head [[Daimler 2.5 & 4.5 litre|Daimler V8 engines]] announced in 1959. The 2.5 saw service in the Daimler SP250 (1959-1964), and, after the Jaguar takeover, in the "Daimler 2.5 Litre V8"/"Daimler 250" (1962-1969) versions of the Mk2 Jaguar bodyshell. The 4.5 was used in the Daimler Majestic Major, (1959-1968) a heavy car with advanced mechanical specification for the time.
+
+The [[Jaguar]] company introduced the new AJ26 V8 engine in 1996. It has been developed and updated since, and appears in the S-Type Jaguar and later vehicles from Jaguar.
+The current V8 used in The Ford Motor Group's British Luxury Division appears in Jaguar and Land Rover, in a 4.2 (Jaguar XJ, XK and S-Type), 4.2 supercharged (Jaguar XJR, XKR, S-Type-R, Land Rover Range Rover and Range Rover Sport) and a 4.4 (Range Rover and Range Rover Sport)
+Note: The 4.4 is unrelated to the Yamaha developed 4.4 used in the Volvo XC90 and S80.
+
+The specialist sports car firm TVR also produced their own V8 engine in {{auto L|4.2}} {{convert|350|bhp|kW|0|abbr=on}} and {{auto L|4.5}} {{convert|440|bhp|kW|0|abbr=on}} liter forms for the [[TVR Cerbera]]. Designed by [[Al Melling]], the APJ8 engine features a flat-plane crank and 75 degree Vee.
+
+Aston Martin has had many V8 engines in its cars, starting with the 1969 [[Aston Martin V8|DBS V8]], followed by many models badged V8, [[Vantage]] or [[Virage]], plus Volante convertible versions. After the Vantage was discontinued in 2000, there were no V8 models until the introduction of the Jaguar derived 4.3l V8 in the 2005 [[Aston Martin V8 Vantage (2005)|V8 Vantage]].  The V8s used in Aston Martins from 1969 to 2000 were based on an internal design by [[Tadek Marek]], while the V8 engines used in the 2005-present V8 Vantage are based on the Jaguar AJ26 V8.
+
+[[Lotus Cars|Lotus]] introduced a V8-powered version of the [[Lotus Esprit|Esprit]] in 1996.  The engine was an in-house {{auto L|3.5}} unit, with twin turbochargers.
+
+[[Radical Sportscars]] offer a V8 powered car, the SR8, whose [[Powertec RPA]] engine is based upon two [[Suzuki Hayabusa]] engines joined to a common crank, utilising the original heads with a purpose designed block.
+
+== French V8 engines ==
+The French [[De Dion-Bouton]] motorcar firm was first to produce a V8 engine for sale in 1910. Later examples came from [[Citroën]], with the never produced 1934 22CV ''[[Citroën Traction Avant|Traction Avant]]'', and [[Simca]]. Peugeot's upcoming 608 and its Citroën C6 stablemate may have a new HDi {{convert|4.0|-|5.0|L|CID|abbr=on}} V8 as well as a possible petrol {{convert|3.6|and|4.4|L|CID|abbr=on}} V8. The "PRV" ([[Peugeot]], [[Renault]], [[Volvo]]) [[V6]] was actually supposed to be a V8, but two cylinders were "dropped" because of the oil crisis of the seventies. [[Gordini]] also developed a 3 liter V8 for the [[Alpine-Renault A310]], but a Renault 4-cylinder block was mounted instead because of cost issues.
+
+== Czechoslovak V8 engines ==
+[[Image:Tatra T603 Engine.jpg|thumb|Tatra T603 engine]]
+[[Tatra (car)|Tatra]] used air-cooled V8 engines. These culminated in the 2.5&nbsp;L unit used in the Tatra T603 range of cars. The most powerful of these was fitted to the racing variant - known as the B-5. This was a higher compression version of the standard engine which replaced a standard single 2BBL carburettor with two 4BBL downdraft units on a new induction manifold. Tatra later produced another air cooled engine, used in Tatra 613 and later, in Tatra 700. These engines were well known for their reliability, good fuel consumption, and specific sound.
+
+In the Tatra 603, two engine driven fans help pull cooling air into the engine bay - when the vehicle is in motion the air enters through intakes in the rear wing panels and is exhausted through cut-outs below the bumper and alongside the engine itself. In the Tatra 613, one large ventilator pushes fresh cold air into the engine bay.
+
+Tatra has used air cooled engines in their heavy duty trucks until the present day...
+
+T77  -   2.97 Litre air cooled V8<br />
+T87  -   2.97 Litre air cooled V8<br />
+T607 Monopost -   2.35 Litre V8<br />
+T603 -   2.5  Litre air cooled V8<br />
+T613 -   3.5  Litre air cooled V8<br />
+T700 -   3.5  Litre air cooled V8
+
+== German V8 engines ==
+===German V8s (by mfg. & date)===
+*[[Audi]]
+
+*[[BMW]]
+** [[BMW OHV V8 engine|OHV V8]] 
+** [[BMW M60|M60]]
+** [[BMW M62|M62]]
+** [[BMW N62|N62]]
+** [[BMW S65|S65]]
+** [[BMW M67|M67]]
+
+*[[Horch]]
+** 830, 930 1933-1940
+
+*[[Mercedes-Benz]]
+** 1965-1979 [[Mercedes-Benz M100 engine|M100]]
+** 1971-1991 [[Mercedes-Benz M117 engine|M117]]
+** 1981-1991 [[Mercedes-Benz M116 engine|M116]]
+** 1990-1999 [[Mercedes-Benz M119 engine|M119]]
+** 1999-present [[Mercedes-Benz M113 engine|M113]]
+** 2004-present [[Mercedes-Benz M155 engine|M155]]
+** 2006-present [[Mercedes-Benz M273 engine|M273]]
+** 2006-present [[Mercedes-Benz M156 engine|M156]]
+*** [[Mercedes-Benz OM402 engine|OM402]] [[Diesel engine|Diesel]]
+*** [[Mercedes-Benz OM422 engine|OM422]] [[Diesel engine|Diesel]]
+
+*[[Porsche]]
+** [[Porsche 928]] 1978–1995 
+** [[Porsche Cayenne]] 2002 - present
+
+*[[Stoewer]]
+** Greif V8 1934-1937
+
+== Italian V8 engines ==
+===Alfa Romeo===
+The [[Alfa Romeo Montreal]] was powered by a [[dry sump]] {{convert|2593|cc|CID|abbr=on}} 90-degree quad-cam 16-valve V8 (type 00564) derived from the [[Alfa Romeo Tipo 33|Tipo 33]] race car. Because of the limited space available for the cross-crank crankshaft, the physically small but heavy crank counterweights were made of a [[sintering|sintered]] tungsten alloy called turconit.<ref name="LGiuliani">{{cite book|last=Giuliani|first=Luigi|title=Alfa Romeo Montreal|publisher=Giorgio Nada Editore|location=[[Vimodrone|Vimodrone, Italy]]|year=1992|isbn=8879110721}}</ref>  The Montreal V8 was rated at {{convert|230|hp|abbrt=on}} at the flywheel and weighed {{convert|162|kg|lb}}. There were also eighteen [[Alfa Romeo 33 Stradale|33 Stradale]] cars built with a detuned 1,995&nbsp;cc {{convert|260|hp|abbr=on}} Tipo 33/2 flat-crank engine. The Montreal cross-crank engine was also used in a very limited production run of 22 [[Alfa Romeo Alfetta|Alfetta]] GTV2.6i. The [[Alfa Romeo 8C Competizione]] sports car has a Ferrari-built {{convert|4691|cc|CID|abbr=on}} {{convert|450|PS|kW hp||abbr=on}} cross-crank V8.
+
+===Ferrari===
+Arguably, [[Ferrari]] had their first contact with V8 power with the "inherited" [[Lancia D50]]s in 1955. [[Ferrari]] adopted the V8 configuration for themselves for racing in 1962 with the [[Ferrari Dino#268 SP|268 SP]]. The first V8-powered Ferrari road car was 1974's [[Ferrari GT4#308 GT4|308 GT4]], with the familiar [[Ferrari 308 GTB|308 GTB]] following closely behind. The company continued to use this ''[[Ferrari Dino engine#V8|Dino]]'' V8 engine ever since with the [[Ferrari 328|328]], [[Ferrari 348|348]], and successors. Ferrari's smallest V8 (and indeed, [[list of automotive superlatives|the smallest ever]]) was the 2.0&nbsp;L (1990&nbsp;cc) unit found in the 1975 [[Ferrari GT4#208 GT4|208 GT4]]. The company produced a slightly-larger 2.0&nbsp;L V8 in the [[Ferrari 308 GTB#208 GTB|208 GTB]] of the 1980s. Five-valve versions of Ferrari's 3.5&nbsp;L and 3.6&nbsp;L V8s were found in the [[Ferrari F355]] and [[Ferrari 360]]. The old ''Dino'' V8 was retired for 2005 with the introduction of a 4.3&nbsp;L V8, based on the originally Ferrari designed [[Maserati]] 4.2 V8, in the [[Ferrari F430|F430]].
+
+===Fiat===
+The only Fiat to have a V8 was the [[Fiat 8V]]. The engine was a very compact [[Overhead valve|OHV]] 1996&nbsp;cc (122 CID) V8 with a 70° V angle and 2 valves per cylinder. The Fiat 8V was designed to participate in the Italian two-litre racing class.
+
+===Lamborghini===
+[[Lamborghini]] have always fitted V12s in their top-of-the-line cars, but have built many V8s for their lower models, including the [[Lamborghini Urraco|Urraco]], [[Lamborghini Silhouette|Silhouette]] and [[Lamborghini Jalpa|Jalpa]].
+
+===Lancia===
+[[Lancia]] used V8 engines in their top of the range luxury cars in the interwar period. The first V8 engine was available in 1922 in the [[Lancia Trikappa|Trikappa]] with a 4595&nbsp;cc (280 CID) making {{convert|98|bhp|kW|abbr=on}}. In 1928 they introduced the [[Lancia Dilambda|Dilambda]] with a 3956&nbsp;cc (242&nbsp;CID) V8 developing {{convert|100|bhp|kW|abbr=on}}. Later in 1931 a the [[Lancia Astura|Astura]] was unveiled with two smaller versions of the existing V8, 2604&nbsp;cc (159&nbsp;CID) and 2973&nbsp;cc (181&nbsp;CID) with {{convert|72|bhp|kW|abbr=on}} and {{convert|82|bhp|kW|abbr=on}} respectively. All of those engines featured Lancia's trademark narrow angle V (less than 25°). In the 1990s [[Lancia Thema]] had 3 litre V8.
+
+===Maserati===
+[[Maserati]] have used V8s for many of their models, including the [[Maserati Bora]] and the [[Maserati Khamsin]]. This engine was initially designed as a racing engine for the Maserati 450S. The company's latest 4.2 V8, found in the [[Maserati Quattroporte]] and [[Maserati Coupé|Maserati Coupé & Spyder]] was originally designed by Ferrari, and is related to the 4.3l V8 in the F430.
+
+==Japanese V8 engines==
+Japanese manufacturers are traditionally not known for V8 engines in their roadcars, however they have built a few V8 engines to meet the needs of consumers, as well as for their own racing programs.
+
+===Honda===
+[[Honda]], despite being known as an engine company, has never built a V8 for passenger vehicles. In the late 1990s, the company resisted considerably pressure from its American dealers for a V8 engine (which would have saw use in top-of-the-line Honda SUVs and [[Acura]]s), with American Honda reportedly sending one dealer a shipment of [[V8 (beverage)|V8 beverage]]s to silence them.<ref>{{cite web|last=News |first=Automotive |url=http://reviews.cnet.com/8301-13746_7-10064387-48.html |title=Green-car era poses test for Honda &#124; The Car Tech blog - CNET Reviews |publisher=Reviews.cnet.com |date=2008-10-17 |accessdate=2009-11-22}}</ref>
+
+However, Honda has built V8s for racing, most notably for [[Formula One]]. Honda is also the sole engine builder for Indy Racing. The Honda Indy V-8 has a 10,300 rpm redline. Also, their affiliate [[Mugen Motorsports]] (now known as M-Tec) has also built racing V8s that have eventually found their way into limited production road cars as well as concept cars. Their [[Mugen Motorsports#MF408S engine technical specifications:|MF408S]] engine, which powers cars in the [[ALMS]] is also found in prototype racers such as the [[Mooncraft Shiden]].  It is also known for being the engine in the [[Honda Legend]] based [[Honda Max]] concept.
+
+===Mitsubishi===
+Mitsubishi Motors developed an alloy-headed 4.5 L V8 with double overhead camshafts and gasoline direct injection (GDI) technology for use in its [[Mitsubishi Proudia|Proudia]] and [[Mitsubishi Dignity|Dignity]] models in 1999 dubbed the [[Mitsubishi 8A8 engine|8A8]] . Financial pressures forced the company to discontinue sales of both these vehicles after only fifteen months
+
+===Nissan===
+[[Nissan]] built its first V8, the [[Nissan Y engine#Y40|Y40]] in 1965 for its [[Nissan President|President limousine]]. The Y engine has been succeeded by two families of V8, the [[Nissan VH engine|VH]] series during the '80s and '90s and the new [[Nissan VK engine|VK]] series.
+
+*[[Nissan VK engine|VK engine]]
+*[[Nissan VH engine|VH engine]]
+*[[Nissan Y engine|Y engine]]
+
+===Toyota===
+[[Toyota]]'s first V8 engine family was the [[Toyota V engine|V]] series used in the prestigious [[Toyota Century]] ultra luxury car. This engine remained in use in the Century until it was replaced by a V12 in 1997. Other Toyota V8 families are the [[Toyota UZ engine|UZ]] engines and the new [[Toyota UR engine|UR]] engines.
+
+*[[Toyota UR engine|UR engine]]
+*[[Toyota UZ engine|UZ engine]]
+*[[Toyota V engine|V engine]]
+
+===Yamaha===
+While better known as a manufacturer of motorcycles, [[Yamaha Motor Company|Yamaha]] also makes engines under contract from auto-manufacturers. They currently produce a V8 engine in conjunction with [[Volvo Cars]] for vehicles such as the [[Volvo XC90]] and the [[Volvo S80]].
+
+== Swedish V8 engines ==
+The most well-known Swedish V8 engine is probably the [[Scania AB]] {{convert|14|L|CID|0|abbr=on}} [[diesel engine|diesel]], which was released in 1969 for use in the 140 model heavy trucks. At this point, the {{Convert|350|hp|kW|0|abbr=on}} turbo-charged engine was the most powerful diesel in Europe. Scania has continued using a V-8 as its largest displacement engine. Currently a series of {{convert|16|L|CID|0|abbr=on}} diesel engines is available in several versions with power ranging between {{Convert|500|hp|kW|0|abbr=on}} - {{Convert|620|hp|kW|0|abbr=on}} and emission norms ranging between Euro 3 - Euro 5 depending on which market the vehicle is sold to.<ref name="Scania.com">{{cite web|url=http://www.scania.com/products/trucks/engines/16l_v8_engines/ |title=Trucks |publisher=Scania |date= |accessdate=2009-10-16}}</ref>
+
+Volvo's 1950s [[concept car]] Philip also had a gasoline V8 engine. The car never went into production, but the engine evolved into a 120&nbsp;hp 3.6&nbsp;L V8 (in many aspects a "[[Volvo B18 engine|double B18]]" engine) for use in the light trucks [[Volvo Snabbe]] and [[Volvo Trygge]] from the late 1950s on.
+
+Supercar manufacturer [[Koenigsegg]] has developed a {{auto L|4.7}} twin-[[supercharged]] V8 loosely based on the [[Ford Modular engine]]. This engine is unique in that it is a [[flexible fuel engine]] and actually produces more power while running on biofuel than on regular unleaded.
+
+== Russian V8 engines ==
+===ZIS, ZIL ===
+
+For the [[ZIL-111]] (1959) an all-new aluminium 6 liter OHV V8 was developed, initially it produced {{convert|200|hp|kW|0|abbr=on}} at 4200 rpm.
+
+[[ZIL-114]] (1967) was powered by a {{convert|6960|cc|CID|0|abbr=on}} V8 giving {{convert|300|hp|kW|0|abbr=on}} at 4400 rpm. Its more modern derivative model, the [[ZIL-41047]], is powered by a ZIL-4104 engine, a 7680&nbsp;cc carburetted V8 giving {{convert|315|hp|kW|0|abbr=on}} at 4600 rpm.
+
+The ZIL trucks used (and still use) a modification of this engine (cast-iron block, aluminum heads, 6L, {{convert|150|hp|kW|0|abbr=on}} at 3200 rpm, 6.5:1 compresson rate, one 2-bbl carburetor).
+
+=== GAZ (ZMZ) ===
+
+[[Image:Gaz-24-34-V8-engine.jpg|220px|thumb|left|GAZ-24-34 Volga with ZMZ-503 V8 engine, 1992-built car.]]
+Several cars produced under the [[Volga]] brand name - the [[GAZ-21|GAZ-23]] (1962-1970), the [[GAZ-24|GAZ-24-24]] V8 (1974-1992), the [[GAZ 3102|GAZ-31013]] V8 (1982-1996), as well as both generations of the [[GAZ]] [[Chaika (car)|Chaika]] limousines (1959-1982 and 1976-1988) were powered by an all-aluminum OHV 5.5L V8. These engines were designated: ZMZ-13 (Chaika [[GAZ-13]], one 4-bbl carburetor), ZMZ-14 (Chaika [[GAZ-14]], two 4-bbl carburetors), ZMZ-2424 (Volga GAZ-24-24), ZMZ-505 (two 4-bbl carburetors) and -503 (one 4-bbl carburetor) (GAZ-24-34, GAZ-31013). Power output varied from 195 to {{convert|220|hp|abbr=on}}. A modification of the same engine was also used in the [[BRDM-2]] military armored vehicle, designated ZMZ-41.
+
+The [[GAZ-53]] was powered by a 4254&nbsp;cc ZMZ-53 engine, which substantially was a modification of the Chayka's engine with one 2-bbl carburetor and decreased displacement and compression rate. More modern version of the GAZ engine for intermediate trucks is designated ZMZ-511.
+
+== Spanish V8 engines ==
+[[Spain|Spanish]] truck and sportscar company [[Pegaso]] made around 100 cars in the 1950s and 1960s. There were two types of engines the Z-102 and the Z-103/4 engines
+
+The Z-102 first introduced in 1951 engine was an advanced design sporting quadruple camshafts (two per bank) and had 2 valves per cylinder. It was available with 1, 2 or 4 twin Weber [[carburettor]]s and either normally aspirated or with one or two superchargers. It had three different capacities, 2472&nbsp;cc (151&nbsp;CID), 2816&nbsp;cc (172&nbsp;CID) and 3178&nbsp;cc (194&nbsp;CID) and made between {{convert|165|bhp|kW|abbr=on}} and {{convert|360|bhp|kW|abbr=on}}.
+
+The Z-103/4 developed in the mid/late 50's (the first prototype was made in 1954) was a much simpler design destined to power a new series of luxury and sportscars. It had a single central camshaft and 2 valves per cylinder actuated by pushrods. It had hemispherical combustion chambers (like the Z-102 engine) and twin spark plugs. It was available with three different cubic capacities as well, 3900&nbsp;cc (238&nbsp;CID), 4500&nbsp;cc (275&nbsp;CID) and 4700&nbsp;cc (287&nbsp;CID). The 3.9-litre engine had a twin Weber carburettor and the 4.5 and 4.7-litre engines 2 quadruple Weber carbs, which gave the later a power output in excess of {{convert|300|bhp|kW|abbr=on}}. The very few engines of this type produced were installed in Z-102 cars.
+
+== Australian V8 engines ==
+[[Holden]], including its performance vehicle operations being: [[Holden Racing Team]] and [[Holden Special Vehicles]] have been manufacturing V8 performance vehicles since the late 1960s, as has [[Ford Motor Company|Ford]] Australia. The performance arm of Ford Australia, [[Ford Performance Vehicles]] (FPV), have recently resurged in the market with the new [[Ford Falcon (Australia)|Falcon]] BA and BF based models, and the brand new FG series.
+
+The Australian V8 is typically an American manufactured block from either [[Ford Motor Company|Ford]], [[Chrysler Group|Chrysler]] or [[General Motors Corporation|General Motors]] yet often uses local heads and auxiliary systems (pistons, exhaust etc.). However, there are a couple of exceptions to this - the [[Holden V8 engine]] small block V8, and the [[British Leyland]] alloy small block V8.
+
+The [[Holden]] small block V8 was an all Australian designed and manufactured cast-iron 90 degree pushrod OHV engine, manufactured in the capacities of 4.2 L (253&nbsp;CID), 5.0 L (308&nbsp;CID), later destroked to 304&nbsp;CID), and 5.7 L (348&nbsp;CID - never actually built as a 'production' motor). First introduced in 1969, finally ceasing production in 1999, it powered a variety of Holden vehicles including the [[Holden Kingswood|Kingswood]], [[Holden Monaro|Monaro]], [[Holden Torana|Torana]] and [[Holden Commodore|Commodore]], and proved to be a popular and successful powerplant in Australian motorsport (especially [[Touring car racing|Touring cars]]).
+
+The [[British Leyland]] small block V8 was also a pushrod OHV engine, however it was an all alloy block like the British [[Rover V8 engine|Rover V8]] it was based on. The stroke was increased to give it a capacity of {{convert|4.4|L|CID|abbr=on}}. The motor was originally designed and fitted to the [[Leyland P76]] sedan.
+
+Currently the only V8 produced in Australia is the [[Ford Modular engine#Ford of Australia|5.4l]] V8 built by FPV (Ford Performance Vehicles) to power the Falcon GT - this motor is a combination of US-sourced and locally manufactured parts. The V8 used in current Holdens is sourced complete from GM in Canada, modifed versions of the [[GM LS engine|GM LS-series engine]].
+
+When US production of the Cleveland V8 range ceased in the early seventies, the tooling was moved to Australia where Ford Australia continued to produce a local version of the 351 and a unique-to-Australia 302 Cleveland. The Australian-built motors were also sold to De Tomaso to be used in the Pantera and Longchamps. Australian production ceased in 1982, with the last Cleveland-powered Falcon being the XE range (1400-odd 302s and 409 351s). The location of the Cleveland tooling is unknown although it was possibly broken up.
+
+==Korean V8 engines==
+
+*Hyundai
+** [[Hyundai D8 engine|D8]] - 16/18&nbsp;L-[[Diesel engine|Diesel]]
+** [[Hyundai Omega engine|Omega]] - {{auto L|4.5}}
+** [[Hyundai Tau engine|Tau]] - {{auto L|4.6}}
+
+==Other V8 applications==
+===In aviation===
+* [[Argus As 10]] inverted, air-cooled German V8 engine of World War II.
+* [[Hispano-Suiza 8]] of World War I V8.
+* [[Liberty L-8]] of World War I, 45° V8 (a prototype for the [[Liberty L-12]]).
+* [[Renault]] of WW1, {{convert|240|hp|abbr=on}} V8 
+* [[Trace Engines]] Turbocharged V8.
+
+===Ship's engines===
+* [[Brons]] V8 [[two stroke diesel]].
+
+===In motorcycles===
+[[Moto Guzzi]] of Italy built a {{convert|148|kg|lb|abbr=on}} {{convert|82|bhp|kW|abbr=on}} water cooled DOHC V8 4-stroke motorcycle for Grand Prix racing between 1955 and 1957, referred to as the [[Moto Guzzi Grand Prix 500 cc V8]]. It was known as the ''Otto Cilindri,'' and had a very high power output but was not developed to its full potential. Each cylinder had its own carburetter.
+
+[[Morbidelli]] produced an 848&nbsp;cc V8 in 1994. Earlier, Galbusera had produced a two-stroke V8 in 1938.
+
+[[Honda]] released the [[NR750]] in 1992. The bike had a 750 cc V4 with oval pistons, utilising 8 valves per cylinder and 2 conrods per piston; the design allowed the engine to meet FIM racing regulations limiting the number of cylinders to 4, while providing the valve area (and therefore increased efficiency) of a V8.
+
+===In motorsport===
+Up until recently, [[Formula One]] cars used 3-litre [[V10]] engines. However, the [[Fédération Internationale de l'Automobile|FIA]] considered speeds were getting too high to be safe (even with the banning of [[turbocharger]]s in 1989, which allowed engines to develop {{convert|1300|bhp|kW|abbr=on}}, {{convert|1000|bhp|kW|abbr=on}} from a naturally-aspirated engine was not impossible by 2005, and with better aerodynamics, cars were shattering straight-line speed records.) So, the permitted engine size was cut to 2.4-litre V8 (This reduced average power output of the engines from {{convert|900|bhp|kW|abbr=on}}, in the 2005 season, to a 2006 season average of {{convert|750|bhp|kW|abbr=on}} - equivalent to power outputs that were being achieved on 3 litres around the 1999/2000 seasons.)This also had the effect of reducing overall costs for the teams, an aim which is currently being vigorously pursued by [[Fédération Internationale de l'Automobile|FIA]].<ref>FIA Press release, 10/12/08 [http://www.fia.com/en-GB/mediacentre/pressreleases/f1releases/2008/Pages/fia_fota_meeting1.aspx FIA Press Releases]</ref>
+
+In the 'Top Fuel' class of Drag Racing, V8 engines displacing 8.2&nbsp;L or 500 cubic inches produce up to {{convert|8000|hp}}. Based on the Chrysler Hemi and running on highly explosive Nitro-Methane fuel, these frighteningly powerful units propel the cars from 0-100&nbsp;mph in 0.8 seconds or less, and from {{convert|0|-|325|mph|km/h||0|abbr=on}} in under 4.5 seconds. During the race the crankshaft in the engine will turn over less than 1000 times and may then have to be rebuilt.
+
+==References==
+{{reflist}}
+{{Refimprove|date=January 2008}}
+
+==External links==
+{{Commons category|V8 engines}}
+* [http://craig.backfire.ca/pages/autos/v8-engines V8 Engines] - The characteristics of V8 engines
+{{Piston_engine_configurations}}
+
+{{DEFAULTSORT:V8 Engine}}
+[[Category:Piston engine configurations|V-08]]
+
+[[da:V8]]
+[[de:V-Motor]]
+[[es:Motor V8]]
+[[fr:Moteur V8]]
+[[id:V8]]
+[[it:Motore V8]]
+[[lt:V8]]
+[[nl:V8 (motor)]]
+[[ja:V型8気筒]]
+[[no:V8-motor]]
+[[pl:V8]]
+[[pt:Motor V8]]
+[[ru:V8 двигатель]]
+[[sl:V8]]
+[[fi:V8]]
+[[sv:V8]]
+[[vec:V8]]
+[[zh:V8发动机]]

@@ -1,0 +1,78 @@
+{{Racing car |
+  Car_name         = Mercedes-Benz W25 | 
+  Image            = [[Image:Mercedes Silberpfeil-W25 1934 Seitenansicht.jpg|260px]]|
+  Category         = [[Grand Prix motor racing|Grand Prix]] | 
+  Constructor      = [[Mercedes-Benz]] | 
+  Designer         = [[Hans Nibel]], [[Max Sailer]], [[Albert Heess]], [[Max Wagner (automotive designer)|Max Wagner]] |
+  Team             = [[Daimler-Benz|Daimler-Benz AG]]|
+  Drivers          = [[Rudolf Caracciola]], [[Luigi Fagioli]], [[Manfred von Brauchitsch]] |
+  Chassis          = U-Section Pressed Steel Frame|
+  Front suspension = Double Wishbones w/Coil Springs & Friction Dampers|
+  Rear suspension  = Swing Axle w/Transverse Quarter Elliptic Springs, Friction Dampers|
+  Engine name      = M25|
+  Capacity         = 3.4 litre, later 4.3|
+  Configuration    = [[I8]]|
+  Turbo/NA         = supercharged|
+  Engine position  = [[Front-engine design|front-engine]], [[Longitudinal engine|longitudinally mounted]]|
+  Gearbox name     = [[Mercedes-Benz]]|
+  Gears            = 5-speed|
+  Type             = |
+  Differential     = |
+  Debut            = 1934 [[Avusrennen]]|
+  Races            =  |
+  Wins             =  |
+  Drivers_champ    = 1 ([[1935 Grand Prix season|1935]], [[Rudolf Caracciola|Rudolf Caracciola]]<ref>''1935 proved to be the best season ever for Mercedes with 9 major victories including a 1-2-3 at the Spanish GP and with Caracciola becoming the European Champion.'' [http://www.kolumbus.fi/leif.snellman/c9.htm Mercedes-Benz W25 (Grand Prix 750 kg)]</ref>)|
+  Poles            =  |
+  Fastest_laps     =  |
+}}
+
+The '''Mercedes-Benz W25''' was a Grand Prix racing car designed by [[Daimler-Benz|Daimler-Benz AG]] for the [[1934 Grand Prix season]], in which new rules were introduced, and no championship was held. In [[1935 Grand Prix season|1935]]<ref>http://www.kolumbus.fi/leif.snellman/poi.htm</ref>, the [[European Championship (auto racing)|European Championship]] was resumed, and it was won by [[Rudolf Caracciola]] in a W25. In modified form, the W25 remained in use until [[1937 Grand Prix season|1937]], when it was succeeded by the [[Mercedes-Benz W125]]. 
+
+== History ==
+For the 1934 season, Grand Prix racing's governing body [[AIACR]] introduced a [[Formula racing|formula]] limited mainly by a maximum weight of 750kg<ref>http://www.ddavid.com/formula1/merc25.htm</ref>, which was considerable less than the weight of Daimler's previous car used in racing, the outdated seven litre [[Mercedes-Benz SSK]]. That range of cars had been developed in the 1920s by [[Ferdinand Porsche]], who was by now independent, and proposed his [[P-Wagen project]] race car concept to the chancellor in office since January 1933: Adolf Hitler. He decided to support both the new company [[Auto Union]], who took over Porsche's concept, and [[Mercedes-Benz]], who had more than a quarter century of experience in major international racing.
+
+Despite reducing weight and engine size to roughly the half, Daimler engineers soon managed to get more power from the supercharged [[Straight-8]] M25 engine than the maximum 300hp of the SSK. While the W25 was developed in 1933, the first appearance was scheduled to be at the 1934 [[Avusrennen]] in Berlin, held on May 27. Mercedes showed up, but after encountering carburetor<ref>http://www.teamdan.com/archive/gen/1934/1934.html#avus</ref> or fuel pump<ref>http://www.kolumbus.fi/leif.snellman/gp342.htm#10</ref> problems in practice, withdrew from the race. The next entry a week later, again on home soil, at the Nürburgring [[Eifelrennen]], was successful, with [[Manfred von Brauchitsch]]<ref>http://www.kolumbus.fi/leif.snellman/gp342.htm#15</ref> winning. It is often claimed that this race was the beginning of the [[Silver Arrows]], but it since has been proven that already in 1932 at the AVUS, v. Brauchitsch had raced a SSKL covered with streamline aluminium sheets, which had been described as a silver arrow by the media. Besides, both German rounds were run to Formula libre rules to attract more entries.
+
+In [[1934 Grand Prix season|1934]], the W25 won four major races (Eifelrennen, [[Coppa Acerbo]], Spanish and Italian GP) compared to three for [[Auto Union]] ([[1934 German Grand Prix|German]], Swiss and Czechoslovakian GP), plus the [[Klausenpass]] [[hillclimbing]] event. These popular uphill races were usually dominated by the superior traction of the mid engine Auto Union of [[Hans Stuck]], who won<ref>http://www.kolumbus.fi/leif.snellman/ds.htm#ST</ref> at [[Felsberg]], [[Kesselberg]], Freiburg [[Schauinsland]] and [[Mont Ventoux]]. The German cars also took two wins in Italy, were the major competitors came from. On the other hand, two events on the soil of [[World War I]] adversaries ended rather embarrassingly. The [[1934 French Grand Prix]]<ref>http://www.kolumbus.fi/leif.snellman/gp343.htm#19</ref> held near Paris had been a disaster for both German teams, as none of their cars finished. The [[1934 Belgian Grand Prix]] was held on the [[Circuit de Spa-Francorchamps]] which then had a tight corner named after the nearby ''Ancienne Douane'', the old customs station at the former border with Germany. The border had been moved after the war, but the Belgians set up an even tighter chicane for the Germans: Custom officials demanded a hefty sum of duty<ref>''An expected exiting Belgian GP came to nothing when the Belgian customs asked the German teams to pay 180,000 francs duty for their alcohol based special fuel. 48 hours before the start the Mercedes-Benz and the Auto Union teams therefore withdrew their entries.'' [http://www.kolumbus.fi/leif.snellman/gp344.htm#27 V GRAND PRIX DE BELGIQUE]</ref> for the special race fuel containing alcohol which was consumed by the supercharged German engines. Both teams withdrew on short notice.
+
+[[Image:Bundesarchiv B 145 Bild-P016402, Berlin, Rennen auf der Avus.jpg|thumb|300px|Streamlined W25K #36 of Manfred von Brauchitsch in the banked AVUS north turn, 1937]]
+In [[1935 Grand Prix season|1935]]<ref>http://www.kolumbus.fi/leif.snellman/poi.htm</ref>, the [[European Championship (auto racing)|European Championship]] was resumed, and [[Rudolf Caracciola]] took the title by winning three of five championship events. [[Luigi Fagioli]] also contributed three to the nine Grand Prix wins of the W25, which in that year was also designated W25B. Auto Union added some more wins, and the government-backed German manufacturer mostly dominated the sport. Nuvolari famously won the [[1935 German Grand Prix]], but his Alfa Romeo was the only non-German car to win a European Championship race from 1935 to 1939. 
+
+Development of the chassis and the car had allowed to increase capacity to more than 4 litre, and output of the new enigen version M25C<ref>http://www.supercars.net/cars/2065.html</ref> was well over 400 hp. As the M25 engines became unreliable when enlarged to 4.7 litre and 490hp, a V12 engine was tested, but it proved too heavy. To accommodate it, the chassis was lightened and shortened (thus ''K'' for ''kurz''), but this worsened handling. Thus, in [[1936 Grand Prix season|1936]], the W25K was often beaten by Auto Union's [[Bernd Rosemeyer]]. Only Caracciola could take two wins, one at the twisty circuit of the very wet [[1936 Monaco Grand Prix]]. Mercedes decided to skip the rest of the season to concentrate on development. By driving the race car himself, young engineer [[Rudolf Uhlenhaut]] determined that the W25 had a too stiff suspension in a too soft chassis, which made handling difficult. Even though new rules would come in effect in [[1938 Grand Prix season|1938]], he set out to develop a new car for [[1938 Grand Prix season|1938]], the [[Mercedes-Benz W125]], which was very successful in the season it was made for. 
+
+For the [[1937 Avusrennen]]<ref>http://www.kolumbus.fi/leif.snellman/gp372.htm#15</ref>, two Streamline V12-powered W25K<ref>http://www.supercars.net/cars/1268.html</ref> were entered, as weight and handling was of low importance at the AVUS which had been fitted with a banked north turn. Streamline variants<ref>http://www.supercars.net/cars/2067.html</ref><ref>http://www.supercars.net/cars/2068.html</ref> were also used for records attempts.<ref>http://www.kolumbus.fi/leif.snellman/reco.htm</ref>
+
+== Gallery ==
+{{Listen|type=sound|filename=Mercedes-Benz W25 (1934).ogg|title=1934 Mercedes-Benz W25|description=Mercedes-Benz W25 at [[Goodwood Festival of Speed]] 2009|style=float:right}}
+<gallery>
+File:Mercedes Silberpfeil-W25 1934 Vorderansicht.jpg|
+File:Silberpfeil-W25 1934 Rueckansicht.jpg|
+File:Mercedes-Benz W25.jpg|
+</gallery>
+
+== References ==
+{{reflist|2}}
+* Chris Nixon, ''Racing the Silver Arrows: Mercedes-Benz versus Auto Union 1934-1939'' (Osprey, London, 1986)
+
+==External links==
+{{commonscat|Mercedes-Benz W25}}
+* [http://www.oldtimers-im-fokus.ch/mercedes_benz_w25_1934.html Mercedes Benz W25 Silberpfeil] {{de icon}}
+* http://www.kolumbus.fi/leif.snellman/c9.htm
+* http://www.ddavid.com/formula1/merc25.htm
+* [http://www.supercars.net/cars/2064.html 1934 Mercedes-Benz W25]
+* [http://www.supercars.net/cars/2067.html 1934 Mercedes-Benz W25 Record] 317.5 km/h
+* [http://www.supercars.net/cars/2065.html 1935 Mercedes-Benz W25C] M25C 4310 cc / 462bhp @ 5800 rpm
+* [http://www.supercars.net/cars/2066.html 1936 Mercedes-Benz W25E] shortened wheelbase
+* [http://www.supercars.net/cars/2068.html 1936 Mercedes-Benz W25 Record] 
+* [http://www.supercars.net/cars/1268.html 1937 Mercedes-Benz W25 Avus Streamline]
+
+{{Mercedes Grand Prix}}
+{{Silver Arrows}}
+
+[[Category:Mercedes-Benz vehicles|W25]]
+[[Category:Grand Prix cars]]
+
+[[de:Mercedes-Benz W 25]]
+[[fi:Mercedes-Benz W25]]
+[[sl:Mercedes-Benz W25]]
+[[sv:Mercedes-Benz W25]]

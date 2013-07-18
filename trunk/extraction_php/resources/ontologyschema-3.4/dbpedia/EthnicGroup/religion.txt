@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = religion
+|rdfs:domain = EthnicGroup
+|rdfs:range = owl:Thing
+}}

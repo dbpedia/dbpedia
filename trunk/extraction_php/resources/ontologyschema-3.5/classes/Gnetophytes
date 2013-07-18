@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Gnetophytes
+| rdfs:subClassOf = Plant
+}}

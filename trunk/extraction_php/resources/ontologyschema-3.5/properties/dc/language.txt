@@ -1,0 +1,5 @@
+{{DatatypeProperty
+|rdfs:label		= language
+|rdfs:domain	= owl:Thing
+|rdfs:range		= xsd:string
+}}

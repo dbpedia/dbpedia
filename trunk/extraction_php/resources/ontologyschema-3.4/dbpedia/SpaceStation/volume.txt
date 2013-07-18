@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = volume
+|rdfs:domain = SpaceStation
+|rdfs:range = cubicMetre
+}}

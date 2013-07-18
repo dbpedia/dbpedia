@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = trustee
+|rdfs:domain = School
+|rdfs:range = Person
+}}

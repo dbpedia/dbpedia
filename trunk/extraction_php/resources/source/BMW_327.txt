@@ -1,0 +1,62 @@
+{{Infobox Automobile| image = [[Image:Emw327-totale-nah.jpg|250px|BMW 327 cabriolet]]
+| name = BMW/EMW 327
+| manufacturer = [[BMW|Bayerische Motoren Werke AG (BMW)]]
+| production = 1937  – 1941<br> 1,396 built<br>1946 – 1955<br> 505 built
+| predecessor =
+|assembly=[[Eisenach]], [[Germany]]<br>[[Eisenach]], [[East Germany]]
+| successor = [[Automobilwerk Eisenach|EMW 327]]<br>[[BMW 503]]
+| body_style = [[coupé|2-door coupé]], [[Cabriolet (automobile)|2-door cabriolet]]
+| engine = 1971&nbsp;cc [[Overhead valve|OHV]] [[I-6|Straight 6]]
+| layout=[[FR layout]]
+| transmission = 4 speed manual<ref name="conceptcarz.com">{{Cite web|url=http://www.conceptcarz.com/vehicle/z14263/BMW_327.aspx|title=1938 BMW 327|accessdate=2008-02-12|work=conceptcarz.com}}</ref>
+| length = {{convert|4500|mm|in||abbr=on}}
+| width = {{convert|1600|mm|in||abbr=on}}
+| height = {{convert|1430|mm|in||abbr=on}}
+| weight = {{convert|1100|kg|lb||abbr=on}} <br>(measurements approximate)
+| wheelbase =  {{convert|2750|mm|in||abbr=on}}
+| track = 
+|fuel_capacity= 
+| related = [[BMW 326]]<br>[[BMW 328]]<br>[[Bristol 400]]
+| similar = 
+| designer = 
+}}
+
+The '''BMW 327''' is a medium sized touring coupé produced by [[BMW|the Bavarian firm]] between 1937 and 1941,<ref name="conceptcarz.com"/> and again produced after 1945. It sat on a shortened version of the [[BMW 326]] chassis.
+
+==Launch==
+The first 327, launched in 1937, was a [[Cabriolet (automobile)|cabriolet]]. In 1938, this was joined by a [[coupé|fixed head coupé]] version. The car was shorter and lower than its sedan counterpart, but shared the famous BMW grill and a streamlined form representative of the more progressive designs of the 1930s.
+
+==Technical==
+Mechanically, the car utilised the hydraulic brake control, gear box, clutch and front suspension system first seen on the 326, along with the [[live axle]] used on the [[BMW 320]] and [[BMW 328]]. Also shared with the 326 was the 1971 cc [[straight 6]] power plant, although the 327 boasted a modest power increase to {{convert|55|bhp|abbr=on}}. The advertised top speed of 125 km/h (78 mph) constituted a useful performance advantage for the shorter car.
+
+A higher-powered model, the 327/28, was offered with the [[BMW 328]]'s {{convert|80|hp|kW|0|abbr=on}} engine. 569 of these high-powered 327s were built up to 1940.<ref name=Norbye6869>{{cite book |last=Norbye |first=Jan P. |authorlink= |coauthors= |title=BMW - Bavaria's Driving Machines|year=1984 |publisher=Publications International |location=Skokie, IL |isbn=0-517-42464-9|pages=68-69|chapter=Glory Years: A Tale of Two Liters}}</ref>
+
+==Commercial==
+Among some enthusiasts, the 327 has subsequently been overshadowed by its more uncompromising sibling, the {{convert|80|bhp|abbr=on}} [[BMW 328]] which appeared in April 1938. In its day, however, the 327 was the bigger seller, with 1,396 built between 1937 and 1941, and significant further production after 1945.
+
+==Afterlife==
+[[Image:EMW 327-2 Coupe 1952.jpg|thumb|EMW 327, manufactured after the settlement of the name/badge dispute]]
+
+During the 1930s, [[Eisenach]] was the centre of BMW’s automobile manufacturing. In 1945, Eisenach was occupied by [[United States]] forces. However, the wartime allies had already agreed that [[Thuringia]] would fall within the [[Soviet occupation zone]]. BMW's automobile factory in Eisenach was not fully destroyed, and assembly of the 327 resumed. Clear production figures are hard to obtain, but many of the 327s surviving with collectors into the twenty-first century were post-war products. After the [[Second World War|war]], it became clear that the Soviets would not return the Eisenach factory to BMW.  BMW-branded automobiles produced between 1946 and 1951 were therefore being produced outside the control of BMW headquarters in [[Munich]]. This cause a protracted dispute concerning title to the BMW brand and other assets, but in 1952 it was determined that [[Automobilwerk Eisenach|Eisenach]]-produced models such as the 327s should be badged as EMW (Eisenacher Motoren Werke) rather than as BMW (Bayerische Motoren Werke).  EMW changed their badge from BMW's blue and white roundel to a red and white roundel.
+
+It is not clear how many of the post war 327s were branded as BMWs and how many as EMWs, but probably more than 500 were produced with one or other of the badges.
+
+==References==
+{{commonscat|BMW 327}}
+{{reflist}}
+
+*{{Italian|BMW 327|[[2008-02-12]]}}
+
+{{BMW pre war}}
+
+[[Category:BMW vehicles|327]]
+[[Category:Roadsters]]
+[[Category:Convertibles]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:1930s automobiles]]
+[[Category:1940s automobiles]]
+[[Category:1950s automobiles]]
+[[Category:Vehicles introduced in 1937]]
+
+[[de:BMW 327]]
+[[it:BMW 327]]

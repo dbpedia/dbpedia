@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = named after
+| rdfs:domain = SpaceShuttle
+}}

@@ -1,0 +1,24 @@
+{{TemplateMapping
+| mapToClass = SpaceShuttle
+| mappings = 
+	{{PropertyMapping | templateProperty = number | ontologyProperty = number }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = contract | ontologyProperty = contractAward }}
+	{{PropertyMapping | templateProperty = named_after | ontologyProperty = namedAfter }}
+	{{PropertyMapping | templateProperty = first_flight | ontologyProperty = firstFlight }}
+	{{PropertyMapping | templateProperty = last_flight | ontologyProperty = lastFlight }}
+	{{PropertyMapping | templateProperty = missions | ontologyProperty = missions }}
+	{{PropertyMapping | templateProperty = crews | ontologyProperty = crews }}
+	{{PropertyMapping | templateProperty = time | ontologyProperty = timeInSpace | unit = Time }}
+	{{PropertyMapping | templateProperty = orbits | ontologyProperty = orbits }}
+	{{PropertyMapping | templateProperty = distance | ontologyProperty = distance | unit = Length }}
+	{{PropertyMapping | templateProperty = deployed | ontologyProperty = satellitesDeployed }}
+	{{PropertyMapping | templateProperty = dockings_mir | ontologyProperty = mirDockings }}
+	{{PropertyMapping | templateProperty = dockings_iss | ontologyProperty = issDockings }}
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = first_date | ontologyProperty = firstFlightStartDate }}
+	{{PropertyMapping | templateProperty = first_date | ontologyProperty = firstFlightEndDate }}
+	{{PropertyMapping | templateProperty = last_date | ontologyProperty = lastFlightStartDate }}
+	{{PropertyMapping | templateProperty = last_date | ontologyProperty = lastFlightEndDate }}
+}}

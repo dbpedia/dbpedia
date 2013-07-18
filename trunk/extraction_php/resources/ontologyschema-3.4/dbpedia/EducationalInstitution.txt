@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Educational Institution
+|rdfs:subClassOf = Organisation
+}}

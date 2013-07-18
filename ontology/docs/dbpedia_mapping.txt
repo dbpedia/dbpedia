@@ -1,0 +1,197 @@
+DBpedia: MAPPING WIKIPEDIA TEMPLATES TO DBPEDIA ONTOLOGY
+========================================================
+Date  : 2008-11-30
+Author: Anja Jentzsch <mail@anjajentzsch.de>
+
+
+1) DATABASE dbpedia_extraction
+==============================
+
+Tables: 
+* template_uri
+	map template URI to database internal template ID
+* template_property
+	map template properties to template IDs
+
+* class 
+	ontology class with hierarchy, label etc.
+* class_property
+	ontology properties with type, label and range
+* class_property_range
+	range ontology class ID for ObjectProperties
+
+* template_class
+	map template IDs to ontology classes (n:1 relations possible)
+* template_property
+	map template properties to ontology properties (n:1 relations possible)
+
+* template_property_merge_rule
+  map several ordered template properties to one ontology property
+  
+The database structure can be found as a SQL file in the DBpedia SVN at
+ontology/dbpedia_extraction.sql .
+
+For a detailed documentation on the tables see dbpedia_database.txt .
+
+
+2) EXCEL MAPPING FILE (SVN /ontology/mapping.xls)
+=================================================
+
+The mappings are defined in the mapping.xls file. 
+You can define which Wikipedia template you want to map to which ontology class
+as well as which properties should map to which ones on an ontology class, which 
+properties have the same meaning, which should be merged and so on.
+
+The .xls contains one macro to save the mandatory sheets as .csv (shortkey: STRG+N).
+Another macro saves the current sheet as .csv (shortkey: STRG+M)
+
+
+1. CLASSES
+
+ 1a) CLASS FROM TEMPLATE URI(S)
+ 
+	 Column	Content
+	 A			class name
+	 				Remember to add new classes to the hierarchy sheet.
+	 B ff.	DBpedia URL 
+	 				example: http://dbpedia.org/resource/Template:infobox_musical_artist
+
+
+
+ 1b) CLASS WITHOUT TEMPLATE URI
+     For ontology classes without corresponding template (e.g. for aggregation reasons).
+
+	 Column	Content
+	 A			class name
+	 				Remember to add new classes to the hierarchy sheet.
+
+
+2. PROPERTIES
+
+ 2a) PROPERTY WITHOUT SUPERPROPERTY
+
+	 Column	Content
+	 B			property name
+	 				use properties names in the same way Wikipedia uses them
+	 C			range
+					allowed ranges are:
+						Data Types:	String, int, float, Geocoordinates
+						Classes:		anywhere else in the mapping file defined class names
+						Units:			cf. 2d for explanation
+	 E			property label
+
+
+ 2b) PROPERTY WITH SUPERPROPERTY
+
+	 Column	Content
+	 B			property name
+	 D			super class
+	 E			super property
+					use property name, not label
+
+ 2c) EQUALITY OF TEMPLATE PROPERTIES
+
+	 Column	Content
+	 B			property name 1
+	 C			=
+	 D			property name 2
+
+ 2d) UNIT PROPERTY
+
+	 Column	Content
+	 B			property name
+	 C			Unit
+	 E			property label
+	 F			unit type
+	 				e.g. "Length, "Area", "Volume", "Speed", "Force", "Energy", "Temperature", "Mass", "Pressure", "Torque", "Fuel efficiency", "Power", "Currency", "Population density", "Flow rate", "Density", "Time", "Weight"
+	 G			exact unit
+	 				e.g. "cm", "km"
+
+ 2e) UNIT SUBPROPERTY
+
+	 Column	Content
+	 B			property name
+	 D			super class
+	 E			super property
+					use property name, not label
+	 G			exact unit
+	 				OPTIONAL, e.g. "cm", "km"
+
+ 2f) MERGING PROPERTIES TO ONE ONTOLOGY PROPERTY
+
+	 Column	Content
+	 B			property name
+	 D			super class
+	 E			super property
+					use property name, not label
+	 G			exact unit
+	 				OPTIONAL, e.g. "cm", "km"
+	 H			X#
+	 				for X use letter, # number
+	 				properties with same letters (for one template) will be merged in 
+	 					the given (numbered) order
+
+3) CSV -> DATABASE (SVN: ontology/mapping_db.php)
+=================================================
+
+The csv to database script takes the .csv files exported from Excel and
+writes their content into the extraction database.
+It uses the databaseconfig.php file from the DBpedia ./extraction folder.
+
+First it gets the class hierarchy from the hierarchy.csv.
+Only one class (for now: Resource) should be parentless, note the warnings.
+
+Then all other .csv files are parsed.
+Note that it only adds classes and their properties if they are in the hierarchy.
+
+
+4) DATABASE -> ONTOLOGY (SVN: ontology/export_owl.php)
+======================================================
+
+The database to ontology script exports the ontology from the extraction 
+database to OWL. 
+It uses the databaseconfig.php file from the DBpedia ./extraction folder.
+
+
+5) DB -> GRAPHVIZ (SVN: ontology/export_graphviz.php)
+=====================================================
+
+The Graphviz script exports the ontology from the extraction database to a 
+.viz file.
+It uses the databaseconfig.php file from the DBpedia ./extraction folder.
+
+
+6) RULES / MAPPING EXCEPTIONS (SVN: ontology/rules.xls)
+=======================================================
+
+There are many Wikipedia templates which have the same properties or are even
+only redirects to another template. You can then define all the mappings for 
+one of those using all the URIs and afterwards define exceptions in the 
+rules.xls file.
+Use the rules_class sheet for this as follows:
+	Column	Content
+	A				template URI
+					pattern: http://dbpedia.org/resource/Template:...
+	B				ontology class name
+	
+In other cases you want to map templates to classes dependend on a certain
+template property value.
+Example: If the property hasCurrentMembers on MusicialArtist is set, 
+				 use Band instead of MusicalArtist.
+Use the rules_properties sheet for this as follows:
+	Column	Content
+	A				original class name
+	B				deciding template property
+	C				set or value
+					Use set if the template property just needs to be set (any value) or
+					value if you want to decide the mapping on a certain property value.
+	D				exact value, if C == value
+	E				new mapping class name
+
+Then export the .xls to .csv files and run the rules_db.php script on those.
+
+The .xls contains one macro to save the sheets as .csv (shortkey: STRG+N).
+
+The rules_db.php takes the .csv files exported from Excel and writes their
+content into the extraction database.
+It uses the databaseconfig.php file from the DBpedia ./extraction folder.

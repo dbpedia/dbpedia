@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+Copyright (C) 2009 Philipp Heim, Sebastian Hellmann, Jens Lehmann, Steffen Lohmann and Timo Stegemann
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.	
+-->
+
+<mx:TitleWindow xmlns:mx="http://www.adobe.com/2006/mxml"
+		width="560" height="100%" borderAlpha="0.7" creationComplete="{init();}" title="Edit">
+	<mx:Script>
+		<![CDATA[
+			
+			import connection.config.IConfig;
+			import flash.display.DisplayObject;
+			import flash.events.Event;
+			import mx.collections.ArrayCollection;
+			import mx.controls.Alert;
+			import mx.core.Application;
+			import mx.events.CloseEvent;
+			import mx.managers.PopUpManager;
+			import popup.AddURI;
+			
+			private var _config:IConfig;
+			
+			[Bindable(event="configChange")]
+			public function get config():IConfig {
+				return _config;
+			}
+			
+			public function set config(value:IConfig):void {
+				_config = value;
+				
+				for each (var o1:Object in _config.autocompleteURIs) {
+					tempACDP.addItem(o1);
+				}
+				
+				for each (var o2:Object in _config.ignoredProperties) {
+					tempIgPropDP.addItem(o2);
+				}
+				
+				dispatchEvent(new Event("configChange"));
+			}
+			
+			[Bindable]
+			private var tempACDP:ArrayCollection = new ArrayCollection();
+			
+			[Bindable]
+			private var tempIgPropDP:ArrayCollection = new ArrayCollection();
+			
+			private function init():void {
+				callLater(PopUpManager.centerPopUp, [this]);
+				
+			}
+			
+			
+			
+			public function apply():void {
+				
+				config.autocompleteURIs = tempACDP;
+				config.defaultGraphURI = inDefaultGraphURI.text;
+				config.description = inDescription.text;
+				config.endpointURI = inEndpointURI.text;
+				config.ignoredProperties = tempIgPropDP;
+				config.isVirtuoso = inIsVirtuoso.selected;
+				config.name = inName.text;
+				config.useProxy = inUseProxy.selected;
+				
+				
+			}
+			
+			public function ok():void {
+				
+				apply();
+				cancel();
+			}
+			
+			public function cancel():void {
+				PopUpManager.removePopUp(this);
+			}
+			
+			private function addACURI():void {
+				var addURI:AddURI = PopUpManager.createPopUp(Application.application as DisplayObject, AddURI) as AddURI;
+				addURI.collection = tempACDP;
+			}
+			
+			private var selectedACURI:Object;
+			
+			private function removeACURI():void {
+				if (inAutocompleteURIs.selectedItem != null) {
+					selectedACURI = inAutocompleteURIs.selectedItem;
+					Alert.show("Do you really want to delete this entry?", "Delete entry", Alert.YES + Alert.NO, this, dispatchCloseEventAC);
+				}
+			}
+			
+			private function dispatchCloseEventAC(event:CloseEvent):void {
+				if (event.detail==Alert.YES) {
+					tempACDP.removeItemAt(tempACDP.getItemIndex(selectedACURI));
+				}
+			}
+			
+			private function addIgPropURI():void {
+				var addURI:AddURI = PopUpManager.createPopUp(Application.application as DisplayObject, AddURI) as AddURI;
+				addURI.collection = tempIgPropDP;
+			}
+			
+			private var selectedIgPropURI:Object;
+			
+			private function removeIgPropURI():void {
+				if (inIgnoredProperties.selectedItem != null) {
+					selectedIgPropURI = inIgnoredProperties.selectedItem;
+					Alert.show("Do you really want to delete this entry?", "Delete entry", Alert.YES + Alert.NO, this, dispatchCloseEventIgProp);
+				}
+			}
+			
+			private function dispatchCloseEventIgProp(event:CloseEvent):void {
+				if (event.detail==Alert.YES) {
+					tempIgPropDP.removeItemAt(tempIgPropDP.getItemIndex(selectedIgPropURI));
+				}
+			}
+			
+			
+		]]>
+	</mx:Script>
+	
+	<mx:Form width="100%">
+		
+		<mx:FormItem width="100%" label="Name:">
+			<mx:TextInput id="inName" width="100%" text="{config.name}" />
+		</mx:FormItem>
+		<mx:FormItem width="100%" label="Description:">
+			<mx:TextArea id="inDescription" width="100%" text="{config.description}" />
+		</mx:FormItem>
+		<mx:FormItem width="100%" label="Endpoint URI:">
+			<mx:TextInput id="inEndpointURI" width="100%" text="{config.endpointURI}" />
+		</mx:FormItem>
+		<mx:FormItem width="100%" label="Default Graph URI:">
+			<mx:TextInput id="inDefaultGraphURI" width="100%" text="{config.defaultGraphURI}" />
+		</mx:FormItem>
+		<mx:FormItem width="100%" label="Is Virtuoso Server:">
+			<mx:CheckBox id="inIsVirtuoso" width="100%" selected="{config.isVirtuoso}" />
+		</mx:FormItem>
+		<mx:FormItem width="100%" label="Use Proxy:">
+			<mx:CheckBox id="inUseProxy" width="100%" selected="{config.useProxy}" />
+		</mx:FormItem>
+		<mx:FormItem width="100%" label="Autocomplete URIs:">
+			<mx:HBox width="100%">
+				<mx:List id="inAutocompleteURIs" width="100%" dataProvider="{tempACDP}" />
+				<mx:VBox>
+					<mx:Button id="bAddACURI" label="+" click="{addACURI();}" />
+					<mx:Button id="bRemoveACURI" label="-" click="{removeACURI();}" />
+				</mx:VBox>
+			</mx:HBox>
+		</mx:FormItem>
+		<mx:FormItem width="100%" label="Ignored Properties:">
+			<mx:HBox width="100%">
+				<mx:List id="inIgnoredProperties" width="100%" dataProvider="{tempIgPropDP}" />
+				<mx:VBox>
+					<mx:Button id="bAddIgPropURI" label="+" />
+					<mx:Button id="bRemoveIgPropURI" label="-" />
+				</mx:VBox>
+			</mx:HBox>
+		</mx:FormItem>
+		
+	</mx:Form>
+	
+	<mx:HBox horizontalAlign="right" width="100%">
+		<mx:Button id="okButton" label="OK" click="{ok();}" />
+		<mx:Button id="cancelButton" label="Cancel" click="{cancel();}" />
+	</mx:HBox>
+	
+</mx:TitleWindow>

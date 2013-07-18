@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = average class size
+| rdfs:domain = School
+| rdfs:range = xsd:float
+}}

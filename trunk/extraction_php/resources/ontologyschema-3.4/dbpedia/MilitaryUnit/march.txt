@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = march
+|rdfs:domain = MilitaryUnit
+|rdfs:range = MusicalWork
+}}

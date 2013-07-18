@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = discovered
+|rdfs:domain = Planet
+|rdfs:range = xsd:date
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = musical band
+|rdfs:domain = Single
+|rdfs:range = Band
+}}

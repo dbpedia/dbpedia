@@ -1,0 +1,41 @@
+{{ DBpediaTemplateMapping
+| mapToClass = TelevisionShow
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = creator | ontologyProperty = TelevisionShow/creator }}
+	{{ DBpediaPropertyMapping | templateProperty = director | ontologyProperty = TelevisionShow/director }}
+	{{ DBpediaPropertyMapping | templateProperty = creat_director | ontologyProperty = TelevisionShow/creativeDirector }}
+	{{ DBpediaPropertyMapping | templateProperty = developer | ontologyProperty = TelevisionShow/developer }}
+	{{ DBpediaPropertyMapping | templateProperty = presenter | ontologyProperty = TelevisionShow/presenter }}
+	{{ DBpediaPropertyMapping | templateProperty = starring | ontologyProperty = TelevisionShow/starring }}
+	{{ DBpediaPropertyMapping | templateProperty = voices | ontologyProperty = TelevisionShow/voice }}
+	{{ DBpediaPropertyMapping | templateProperty = opentheme | ontologyProperty = TelevisionShow/openingTheme }}
+	{{ DBpediaPropertyMapping | templateProperty = endtheme | ontologyProperty = TelevisionShow/endingTheme }}
+	{{ DBpediaPropertyMapping | templateProperty = composer | ontologyProperty = TelevisionShow/composer }}
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = TelevisionShow/country }}
+	{{ DBpediaPropertyMapping | templateProperty = num_seasons | ontologyProperty = TelevisionShow/seasonNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = num_episodes | ontologyProperty = TelevisionShow/episodeNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = executive_producer | ontologyProperty = TelevisionShow/executiveProducer }}
+	{{ DBpediaPropertyMapping | templateProperty = co_exec | ontologyProperty = TelevisionShow/coExecutiveProducer }}
+	{{ DBpediaPropertyMapping | templateProperty = producer | ontologyProperty = TelevisionShow/producer }}
+	{{ DBpediaPropertyMapping | templateProperty = co-producer | ontologyProperty = TelevisionShow/coProducer }}
+	{{ DBpediaPropertyMapping | templateProperty = editor | ontologyProperty = TelevisionShow/editor }}
+	{{ DBpediaPropertyMapping | templateProperty = story_editor | ontologyProperty = TelevisionShow/storyEditor }}
+	{{ DBpediaPropertyMapping | templateProperty = channel | ontologyProperty = TelevisionShow/channel }}
+	{{ DBpediaPropertyMapping | templateProperty = related | ontologyProperty = TelevisionShow/related }}
+	{{ DBpediaPropertyMapping | templateProperty = distributor | ontologyProperty = TelevisionShow/distributor }}
+	{{ DBpediaPropertyMapping | templateProperty = network | ontologyProperty = TelevisionShow/network }}
+	{{ DBpediaPropertyMapping | templateProperty = show_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = genre | ontologyProperty = Work/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = writer | ontologyProperty = Work/author }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = Work/language }}
+	{{ DBpediaPropertyMapping | templateProperty = runtime | ontologyProperty = Work/runtime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = first_run | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = first_aired | ontologyProperty = Work/releaseDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last_aired | ontologyProperty = Work/completionDate }}
+	{{ DBpediaPropertyMapping | templateProperty = preceded_by | ontologyProperty = Work/previousWork }}
+	{{ DBpediaPropertyMapping | templateProperty = followed_by | ontologyProperty = Work/subsequentWork }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = production_website | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = alternate_titles | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = official_website | ontologyProperty = foaf:homepage }}
+}}

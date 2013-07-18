@@ -1,0 +1,132 @@
+{{TemplateMapping
+|mapToClass = Organisation
+|mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{PropertyMapping | templateProperty = abbreviation | ontologyProperty = abbreviation}}
+	
+	{{PropertyMapping | templateProperty = affiliations | ontologyProperty = affiliation}}
+	
+	{{PropertyMapping | templateProperty = motto | ontologyProperty = motto}}
+	
+	{{PropertyMapping | templateProperty = formation | ontologyProperty = formationDate}}
+	
+	{{PropertyMapping | templateProperty = formation | ontologyProperty = formationYear}}
+
+	{{PropertyMapping | templateProperty = extinction | ontologyProperty = extinctionDate}}
+	
+	{{PropertyMapping | templateProperty = extinction | ontologyProperty = extinctionYear}}
+
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type}}
+	
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status}}
+	
+	{{PropertyMapping | templateProperty = purpose | ontologyProperty = purpose}}
+	
+	{{PropertyMapping | templateProperty = headquarters | ontologyProperty = headquarter}}
+	
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	
+	{{GeocoordinatesMapping | coordinates = coords }}
+	
+	{{PropertyMapping | templateProperty = region_served | ontologyProperty = regionServed}}
+	
+	{{PropertyMapping | templateProperty = membership | ontologyProperty = membership}}
+	
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name | ontologyProperty = person}}
+	
+	{{PropertyMapping | templateProperty = leader_title | ontologyProperty = title}}
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name | ontologyProperty = personName}}
+	
+	{{PropertyMapping | templateProperty = leader_title | ontologyProperty = title}}
+	
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name2 | ontologyProperty = person}}
+	
+	{{PropertyMapping | templateProperty = leader_title2 | ontologyProperty = title}}
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name2 | ontologyProperty = personName}}
+	
+	{{PropertyMapping | templateProperty = leader_title2 | ontologyProperty = title}}
+	
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name3 | ontologyProperty = person}}
+	
+	{{PropertyMapping | templateProperty = leader_title3 | ontologyProperty = title}}
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name3 | ontologyProperty = personName}}
+	
+	{{PropertyMapping | templateProperty = leader_title3 | ontologyProperty = title}}
+	
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name4 | ontologyProperty = person}}
+	
+	{{PropertyMapping | templateProperty = leader_title4 | ontologyProperty = title}}
+	}}
+	
+	{{IntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = leaderFunction | mappings =
+	
+	{{PropertyMapping | templateProperty = leader_name4 | ontologyProperty = personName}}
+	
+	{{PropertyMapping | templateProperty = leader_title4 | ontologyProperty = title}}
+	
+	}}
+	
+	
+	{{PropertyMapping | templateProperty = main_organ | ontologyProperty = mainOrgan}}
+	
+	{{PropertyMapping | templateProperty = parent_organization | ontologyProperty = parentOrganisation}}
+	
+	{{PropertyMapping | templateProperty = num_staff | ontologyProperty = numberOfStaff}}
+	
+	{{PropertyMapping | templateProperty = num_volunteers | ontologyProperty = numberOfVolunteers}}
+	
+	{{PropertyMapping | templateProperty = budget | ontologyProperty = budget | unit = Currency}}
+	
+	{{PropertyMapping | templateProperty = website | ontologyProperty = 
+	foaf:homepage}}
+
+	
+	
+	
+	}}
+	
+	
+	
+	
+	
+	
+	
+	

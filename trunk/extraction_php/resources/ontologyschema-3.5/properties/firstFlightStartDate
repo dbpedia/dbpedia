@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = first flight start date
+| rdfs:domain = SpaceShuttle
+| rdfs:range = xsd:date
+}}

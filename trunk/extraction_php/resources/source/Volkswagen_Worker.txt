@@ -1,0 +1,260 @@
+[[Image:Formula_Truck_2006_Volkswagen_Monteiro..jpg|250px|thumb|Volkswagen Worker Formula Truck competing in the Brazilian [[Fórmula Truck]] Championship.]]
+
+The '''Volkswagen Worker''' Range covers the 8 Tonne to 31 Tonne [[Gross vehicle weight|(GVW)]] category in the [[Volkswagen Truck and Bus]] Range.<ref>Press Release http://www.vwtbpress.com.br/noticia.asp?n=235</ref>
+
+* 17 model variants .
+
+* 9 are Electronic Engines 5 Cummins & 4 MWM all Common Rail Diesel Engined.
+
+* 8 Mechanical Engines 4 Cummins and 4 MWM.
+
+* The majority of the Worker range has been driven on 3 Continents & 30 Countries in the Toughest Conditions eg [[South America]].
+
+==Specs & Range==
+The 1st number before '''.''' = the ''Gross Vehicle Weight'' the 2nd number = the ''Horsepower'' rating.
+
+''E''= Electronic Versions
+
+*8.120 Euro III
+
+*8.150E
+
+*13.170E
+
+*13.180 Euro III
+
+*13.180E
+
+*15.170E
+
+*15.180 Euro III
+
+*15.180E
+
+*17.180 Euro III
+
+*17.220 Euro III
+
+*17.220 Euro III tractor
+
+*17.250E
+
+*24.220 Euro III
+
+*24.250E
+
+*26.220 Euro III
+
+*26.260E
+
+*31.260E
+
+{| class="wikitable"
+|RIGIDS / FREIGHT CARRIERS / TIPPERS
+|-
+! Model
+! Engine Make/Capacity
+! Power kW@rpm
+! Torque Nm@rpm
+! Transmission
+Make/Type/Speed
+
+! GVM (kg)
+Technical
+Capacity
+
+! GCM (kg)
+Technical
+Capacity
+
+
+|-
+| 8.120
+| MWM 4.10-TCA-EURO III (Turbo Intercooler) 
+| 84.6 @ 2400
+| 400 @ 1600 
+| Eaton FS-4305-C  Synchromesh 5 Speed
+| 7700
+| 10500 
+|-
+| 8.150E
+| Cummins Interact 4.0-EURO III (Turbo Intercooler) 
+| 110 @ 2500
+| 550 @ 1400 - 1700
+| Eaton FS-4305-C Synchromesh 5 Speed
+| 8150
+| 11000
+|-
+| 13.170E
+| MWM 4.10-TCA-EURO III (Turbo Intercooler)
+| 125 @ 25000 
+| 600 @ 1200 - 1600
+| Eaton FS-4205-A Synchromesh
+| 12900
+| 23000  
+|-
+| 13.180
+| MWM 6.10 TCA-EURO III (Turbo Intercooler) 
+| 127 @ 2400
+| 600 @ 1700
+| Eaton FS-4205-A Manual Synchromesh 5 Speed
+| 13000
+| 23000 
+|-
+| 13.180E
+| MWM 4.12 TCE-EURO III (Turbo Intercooler)
+| 132 @ 2200
+| 600 @ 1600 - 2000
+| Eaton FS-4205-A Manual
+Synchromesh 5 Speed
+| 12900
+| 23000 
+|-
+| 15.170E
+| Cummins Interact 4.0-EURO III (Turbo Intercooler)
+| 125 @ 2500
+| 600 @ 1200 - 1600
+| Eaton FS-4205-A Manual
+Synchromesh 5 Speed
+| 14500
+| 27000
+|-
+| 15.180
+| MWM 6.10 TCA-EURO III (Turbo Intercooler)
+| 127 @ 2400
+| 600 @ 1700
+| Eaton FS-4205-A Manual
+Synchromesh 5 Speed
+| 14500
+| 27000
+|-
+| 15.180E
+| MWM 4.12 TCE-EURO III (Turbo Intercooler)
+| 132 @ 2200
+| 600 @ 1600 - 2000
+| Eaton FS-4205-A Manual
+Synchromesh 5 Speed
+| 14500
+| 27000 
+|-
+| 17.180
+| MWM 6.10 TCA-EURO III (Turbo Intercooler)
+| 127 @ 2400
+| 600 @ 1700
+| Eaton FS 5306-A Manual
+Synchromesh 6 Speed
+| 16000
+| 28800
+|-
+| 17.220
+| Cummins C8.3215 P5-0-EURO III (Turbo Intercooler)
+| 160 @ 2200
+| 888 @ 1400
+| Eaton FS 6306-A Manual
+Synchromesh 6 Speed
+| 16000
+| 35000
+|-
+| 17.250E
+| Cummins Interact 6.0-EURO III (Turbo Intercooler)
+| 184 @ 2500 
+| 950 @ 1200 - 1700 
+| Eaton FS-6306-B  Manual
+Synchromesh 6 Speed
+| 16000
+| 35000
+|-
+| 24.220
+| Cummins C8.3215 P5-0-EURO III (Turbo Intercooler)
+| 160 @ 2200
+| 888 @ 1400
+| Eaton FS-6306 A  Manual
+Synchromesh 6 Speed
+| 23000
+| 35000
+|-
+| 24.250E
+| Cummins Interact 6.0-EURO III (Turbo Intercooler)
+| 184 @ 2500
+| 950 @ 1200 - 1700
+| Eaton FS-6306 B Manual
+Synchromesh 6 Speed
+| 23000
+| 35000
+|-
+| 26.220
+| Cummins C8.3215 P5-0-EURO III (Turbo Intercooler)
+| 160 @ 2200
+| 888 @ 1400
+| Eaton RT 8908-LL Manual
+Synchromesh 10 Speed 3 Reverse
+| 23000
+| 35000
+|-
+| 26.260E
+| MWM 6.12TCAE-EURO III (Turbo Intercooler)
+| 191 @ 2500 
+| 900 @ 1300 - 1900
+| Eaton RT 7608-LL Manual
+Synchromesh 10 Speed 3 Reverse
+| 23000
+| 42000
+|-
+| 31.260E
+| MWM 6.12 TCAE-EURO III
+| 191 @ 2500 
+| 900 @ 1300 - 1900
+| Eaton RT 7608-LL Manual
+Synchromesh 10 Speed 3 Reverse
+| 23000
+| 42000
+|}
+
+{| class="wikitable"
+|TRACTORS
+|-
+! Model
+! Engine Make/Capacity
+! Power kW@rpm
+! Torque Nm@rpm
+! Transmission
+Make/Type/Speed
+
+! GVM (kg)
+Technical
+Capacity
+
+! GCM (kg)
+Technical
+Capacity
+
+|-
+| 17.220 Tractor
+| Cummins C8.3 215 P5-0 (Turbo Intercooler)
+| 160 @ 2200 
+| 888 @ 1400
+| Eaton FS 6306-A Manual
+Synchromesh 6 Speed
+| 16000
+| 35000
+|}
+
+
+==References==
+<div class="references-small" style="column-count:2;-moz-column-count:2;">
+<references/>
+</div>
+<br>
+
+=External Links=
+*[http://www.vwtrucksandbuses.com/en/vehicles_worker.aspx Volkswagen Worker International portal]
+*[http://www.camionesvw.com.mx/vwcms_publish/vwcms/master_public/virtualmaster/es_mxcam.html VW de México truck site] {{es icon}}
+
+
+{{Volkswagen Truck and Bus}}
+
+[[Category:Volkswagen vehicles|Worker]]
+[[Category:Trucks]]
+
+[[de:VW Worker]]
+[[pt:Volkswagen Worker]]

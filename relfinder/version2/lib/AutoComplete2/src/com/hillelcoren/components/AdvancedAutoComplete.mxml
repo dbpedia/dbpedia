@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoComplete 
+	xmlns="com.hillelcoren.components.*" 
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	initialize="init()">
+	
+	<mx:Metadata>
+		[IconFile("icon.png")]
+		
+		/**
+		 * These events are active when the context menu is used
+		 */
+		[Event(name="menuHide",type="mx.events.MenuEvent")]
+		[Event(name="menuShow",type="mx.events.MenuEvent")]
+		[Event(name="itemClick",type="mx.events.MenuEvent")]
+				
+	</mx:Metadata>
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.LinkButton;
+			import mx.controls.Button;
+			import mx.core.EdgeMetrics;
+			import mx.events.ResizeEvent;
+			import mx.events.MoveEvent;
+			import mx.events.MenuEvent;
+			import mx.containers.GridRow;
+			import mx.containers.GridItem;
+			import mx.core.UIComponent;
+			import mx.containers.VBox;
+			import mx.containers.HBox;
+			import mx.managers.PopUpManager;
+			import mx.core.IFlexDisplayObject;
+			import mx.core.Application;
+			import mx.controls.Button;
+			import mx.collections.ArrayCollection;
+			import com.hillelcoren.components.autoComplete.interfaces.IBrowser;
+			import com.hillelcoren.components.autoComplete.classes.*;
+			
+			private var _showBrowseButton:Boolean;
+			private var _showBrowseButtonChanged:Boolean;
+			private var _browseButton:Button;
+			
+			private var _browser:IBrowser;
+			private var _useListBuilder:Boolean;
+			private var _browserFields:Array;
+			protected var _browserClass:Class = Browser;
+			protected var _listBuilderClass:Class = ListBuilder;
+			private var _browserItemRenderer:IFactory;
+			private var _browseButtonGridItem:GridItem;
+			
+			private var _browseLabel:String = "Browse";
+			private var _removeLabel:String = "Remove";	
+						
+			private var _selectionLayout:String = LAYOUT_VERTICAL;
+			private var _selectionLayoutChanged:Boolean;
+			private var _multiSelect:MultiSelect;
+
+			private var _showOrderButtons:Boolean;
+			private var _showOrderButtonsChanged:Boolean;			
+			
+			private var _showRemoveButton:Boolean;
+			private var _showRemoveButtonChanged:Boolean;
+			
+			private var _actionsMenuDataProvider:Object;
+			private var _actionsMenuDataProviderChanged:Boolean;
+					
+			private var _actionsMenu:ActionsMenu;
+			
+			[Embed(source="/com/hillelcoren/assets/icons/actionsUp.png")]
+			private var _upIcon:Class;
+			[Embed(source="/com/hillelcoren/assets/icons/actionsDown.png")]
+			private var _downIcon:Class;
+			[Embed(source="/com/hillelcoren/assets/icons/actionsOver.png")]
+			private var _overIcon:Class;
+						
+			private function init():void
+			{
+				addEventListener( MoveEvent.MOVE, handleMove );
+			}							
+			
+			override protected function commitProperties():void
+			{
+				super.commitProperties();
+				
+				if (_showBrowseButtonChanged)
+				{
+					_showBrowseButtonChanged = false;
+					setBrowseButtonVisible( _showBrowseButton );
+				}
+				
+				if (_selectionLayoutChanged)
+				{
+					_selectionLayoutChanged = false;
+					
+					_selectedItems.removeAll();
+					_showSelectedItems = _selectionLayout == LAYOUT_HORIZONTAL;
+					
+					var showMultiSelect:Boolean = (_selectionLayout == LAYOUT_VERTICAL && _allowMultipleSelection);
+					showMultiSelectList( showMultiSelect );																			
+				}		
+				
+				if (_actionsMenuDataProviderChanged)
+				{
+					_actionsMenuDataProviderChanged = false;
+					
+					if (_actionsMenuDataProvider)
+					{
+						var button:Button = new Button();
+						button.setStyle( "upIcon", _upIcon );				
+						button.setStyle( "downIcon", _downIcon );				
+						button.setStyle( "overIcon", _overIcon );				
+						button.setStyle( "styleName", "actionsMenuButton" );
+						button.addEventListener( MouseEvent.CLICK, handleButtonClick );
+						
+						inlineButton = button;						
+					}
+					else
+					{
+						inlineButton = null;
+					}	
+					
+					// I haven't been able to figure out why this is needed
+					super.commitProperties();			
+				}
+				
+				if (_showOrderButtonsChanged)
+				{
+					_showOrderButtonsChanged = false;
+					
+					if (_multiSelect)
+					{
+						_multiSelect.showOrderButtons = _showOrderButtons;
+					}
+				}
+				
+				if (_showRemoveButtonChanged)
+				{
+					_showRemoveButtonChanged = false;
+					
+					if (_multiSelect)
+					{
+						_multiSelect.showRemoveButton = _showRemoveButton;	
+					}					
+				}				
+			}
+			
+			private function handleButtonClick( event:Event ):void
+			{
+				var vm:EdgeMetrics = flowBox.viewMetricsAndPadding;
+	        	var textHeight:int = textInput.height + vm.top + vm.bottom;
+	        	
+	        	_actionsMenu = new ActionsMenu();
+				_actionsMenu.dataProvider = _actionsMenuDataProvider;
+				_actionsMenu.parentWidth = flowBox.width;
+				_actionsMenu.rowHeight = textHeight;
+				
+				_actionsMenu.addEventListener( MenuEvent.MENU_HIDE, handleMenuHide );
+				_actionsMenu.addEventListener( MenuEvent.MENU_SHOW, handleMenuShow );
+				_actionsMenu.addEventListener( MenuEvent.ITEM_CLICK, handleItemClick );	
+
+				positionActionsMenu();
+				
+				PopUpManager.addPopUp( _actionsMenu, this );
+				
+				event.stopPropagation();
+			}
+			
+			private function positionActionsMenu():void
+			{
+				if (!_actionsMenu)
+				{
+					return;
+				}
+				
+				var localPoint:Point = new Point( 0, 0 );
+				var globalPoint:Point = localToGlobal( localPoint );
+				
+				var vm:EdgeMetrics = flowBox.viewMetricsAndPadding;
+	        	var textHeight:int = textInput.height + vm.top + vm.bottom;
+	        	
+	        	_actionsMenu.x = globalPoint.x;
+				_actionsMenu.y = globalPoint.y + (height - textHeight);			
+			}
+			
+			private function handleMenuHide( event:Event ):void
+			{
+				flowBox.buttonEnabled = true;
+				
+				if (focusManager.getFocus() == _inlineButton)
+				{
+					stage.focus = null;
+				}
+				
+				dispatchEvent( event );
+			}
+			
+			private function handleMenuShow( event:MenuEvent ):void
+			{
+				flowBox.buttonEnabled = false;
+				
+				dispatchEvent( event );
+			}
+						
+			private function handleItemClick( event:MenuEvent ):void
+			{
+				dispatchEvent( event );
+			}								
+					
+			private function handleMove( event:Event ):void
+			{
+				callLater( positionActionsMenu );
+			}
+			
+			private function handleBrowseClick( event:Event ):void
+			{
+				showBrowser();
+			}
+			
+			public function showBrowser():void
+			{
+				if (!_dataProvider)
+				{
+					return;
+				}
+				
+				var useListBuilder:Boolean = _useListBuilder && _allowMultipleSelection;
+				
+				if (useListBuilder)
+				{
+					_browser = new _listBuilderClass();	
+					ListBuilder( _browser ).showOrderButtons = _showOrderButtons;
+				}
+				else
+				{
+					_browser = new _browserClass();
+					Browser( _browser ).browserFields = _browserFields;
+					Browser( _browser ).allowMultipleSelection = _allowMultipleSelection;					
+				}
+				
+				var dp:ArrayCollection = new ArrayCollection( _dataProvider.source );
+				dp.sort = _dataProvider.sort;
+				dp.refresh();
+				
+				_browser.dataProvider = dp;
+				_browser.filterFunction = _filterFunction;
+				_browser.title = "Browse";
+				_browser.labelFunction = _labelFunction;
+				_browser.addEventListener( Event.CHANGE, handleBrowserChange );
+				
+				if (_allowMultipleSelection || useListBuilder)
+				{
+					_browser.originalSelectedItems = _selectedItems;
+				}
+							
+				PopUpManager.addPopUp( IFlexDisplayObject( _browser ), DisplayObject( Application.application), true );
+				PopUpManager.centerPopUp( IFlexDisplayObject( _browser ) );
+				
+				_browser.init();
+				
+				if (!useListBuilder && _selectedItems.length == 0)
+				{
+					Browser( _browser ).searchStr = searchText;
+				}													
+			}
+			
+			private function handleBrowserChange( event:Event ):void
+			{
+				var item:Object;
+				
+				if (useListBuilder || !_allowMultipleSelection)
+				{
+					_selectedItems.removeAll();				
+				}
+				
+				for each (item in _browser.selectedItems)
+				{
+					_selectedItems.addItem( item );				
+				}					
+				
+				PopUpManager.removePopUp( IFlexDisplayObject( _browser ) );
+				
+				if (_allowMultipleSelection && _selectionLayout == LAYOUT_HORIZONTAL)
+				{
+					searchText = null;
+				}
+				
+				setFocus();
+				dispatchEvent( new Event( Event.CHANGE ) );
+			}			
+			
+			private function handleMultiSelectChange( event:Event ):void
+			{
+				dispatchEvent( event );
+			}
+			
+			private function setBrowseButtonVisible( show:Boolean ):void
+			{
+				if (show && _browseButton == null)
+				{
+					_browseButton = new Button();
+					_browseButton.label = _browseLabel;
+					_browseButton.width = Consts.BUTTON_WIDTH;
+					_browseButton.addEventListener( MouseEvent.CLICK, handleBrowseClick );
+				}
+				
+				if (show)
+				{
+					_browseButtonGridItem = new GridItem();
+					_browseButtonGridItem.addChild( _browseButton );
+					mainGridRow.addChild( _browseButtonGridItem );									
+				}
+				else if ( _browseButton != null )
+				{
+					mainGridRow.removeChild( _browseButtonGridItem );
+				}			
+			}
+			
+			private function showMultiSelectList( show:Boolean ):void
+			{
+				if (show && _multiSelect == null)
+				{
+					_multiSelect = new MultiSelect();
+					_multiSelect.labelFunction = _labelFunction;
+					_multiSelect.addEventListener( Event.CHANGE, handleMultiSelectChange );
+					_multiSelect.dataProvider = _selectedItems;	
+					_multiSelect.showOrderButtons = _showOrderButtons;
+					_multiSelect.removeLabel = _removeLabel;					
+				}
+				
+				if (show)
+				{
+					addChildAt( _multiSelect, 0 );				
+				}
+				else if (_multiSelect && _multiSelect.parent)
+				{
+					removeChild( _multiSelect );					
+				}
+				
+				_selectedItems.removeAll();											
+			}
+			
+			[Inspectable(enumeration="horizontal,vertical")]
+			/**
+			 * When allowMultipleSelection is set to true, this specifies whether to layout the selected
+			 * items horizontally (in a flow layout) or vertically (in a List).
+			 * @default horizontal
+			 */
+			public function set selectionLayout( value:String ):void
+			{
+				_selectionLayout = value;
+				_selectionLayoutChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			[Inspectable(enumeration="false,true")]
+			/**
+			 * A flag that indicates whether or not to display the browse button.
+			 * Clicking the browse button will show either a DataGrid or a List (depending
+			 * on whether the dataProvider contains Objects or Strings). It useListBuilder
+			 * is enabled an alternate List Builder browser will be displayed
+			 * @default false
+			 */
+			public function set showBrowseButton( value:Boolean ):void
+			{
+				_showBrowseButton = value;
+				_showBrowseButtonChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			[Inspectable(enumeration="false,true")]
+			/**
+			 * A flag that indicates whether or not we display the ordering buttons and allow the 
+			 * items to be drag-and-drop reorderd. This is only enabled when allowMultipleSelection is
+			 * set to true and the multiSelectLayout property is set to AutoComplete.LAYOUT_VERTICAL
+			 */
+			public function set showOrderButtons( value:Boolean ):void
+			{
+				_showOrderButtons = value;
+				_showOrderButtonsChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			[Inspectable(enumeration="false,true")]
+			public function set useListBuilder( value:Boolean ):void
+			{
+				_useListBuilder = value;
+			}
+			
+			/**
+			 * If this is set to true, when the user clicks the Browse button we'll  
+			 * display the List Builder (rather than a DataGrid or List). <p> 
+			 * The List Builder contains two lists next to each other. The user can add/remove 
+			 * items by selecting them and clicking the move left/move right buttons or by
+			 * drag and dropping the items betweent the lists
+			 * @default false
+			 */
+			public function get useListBuilder():Boolean
+			{
+				return _useListBuilder;
+			}
+			
+			/**
+			 * The fields/columns to display in the browse window. If listBuilder is enable
+			 * this property is ignored.
+			 */
+			public function set browserFields( value:Array ):void
+			{
+				_browserFields = value;
+			}
+						
+			public function get browserClass():Class
+			{
+				return _browserClass;
+			}
+			
+			public function set browserClass( value:Class ):void
+			{
+				_browserClass = value;
+			}
+			
+			public function set showRemoveButton( value:Boolean ):void
+			{
+				_showRemoveButton = value;
+				_showRemoveButtonChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			/**
+			 * The text value for the label the browse button. 
+			 * @default Browse
+			 */
+			public function set browseLabel( value:String ):void
+			{
+				_browseLabel = value;
+			}			
+			
+			/**
+			 * The text value for the label the remove button.
+			 * @default Remove
+			 */
+			public function set removeLabel( value:String ):void
+			{
+				_removeLabel = value;
+			}
+						
+			/**
+			 * Returns the next available (un-selected) item in the data provider
+			 */ 
+			public function getNextItem():*
+			{
+				filterData();
+				
+				if (dataProvider.length > 0)
+				{
+					return dataProvider.getItemAt( 0 );
+				}
+				else
+				{
+					return null;
+				}
+			}
+			
+			/**
+			 * The menu options displayed in the Actions Menu. Set this value
+			 * to enable the menu feature.
+			 */
+			public function set actionsMenuDataProvider( value:Object ):void
+			{
+				if (_actionsMenuDataProvider != value)
+				{
+					_actionsMenuDataProvider = value;
+					_actionsMenuDataProviderChanged = true;
+				
+					invalidateProperties();
+				}
+			}
+			
+			
+		]]>
+	</mx:Script>
+		
+</AutoComplete>

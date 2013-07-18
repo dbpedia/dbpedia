@@ -1,0 +1,57 @@
+{{Infobox Automobile
+|image=<!-- Image with unknown copyright status removed: [[Image:Ruf RT12.jpg|250px|Ruf Rt 12|{{deletable image-caption|1=Wednesday, 3 September 2008}}]] -->
+|name=Ruf Rt 12
+|manufacturer=[[Ruf Automobile|Ruf]] (modified [[Porsche]])
+|class=[[sports car]]
+|production=2004-present
+|successor=
+|body_style=2-door [[coupé]]
+|layout=[[Rear-engine design|Rear-engine]], [[rear wheel drive]] ([[all wheel drive]] an option)
+|engine={{convert|3.8|L|cuin|1}} [[twin-turbo]]charged [[flat-6]]
+|transmission=6-speed [[manual transmission|manual]]
+|wheelbase=
+|length=
+|width=
+|height=
+|weight=
+|related=[[Porsche 997]],<br />[[Porsche 911 Turbo]]
+|similar=
+|designer=
+}}
+
+The '''Ruf Rt 12''' is a sports car built by [[Ruf Automobile]] of [[Germany]] and based on the [[Porsche 997|997-Generation]] [[Porsche 911|Porsche 911 Carrera S]].
+
+== Model information ==
+Ruf introduced the model in Fall 2004 at the Essen Motor Show as the first of their offerings built on Porsche's new 997 platform. A twin-turbocharged, 3.6 litre flat-six cylinder engine based on the previous 996 series Turbo engine provides 530 and 560 [[Horsepower#Brake horsepower (bhp)|bhp]] options while the bored-out 3.8 litre option produces {{convert|650|bhp|abbr=on}}; targeting customers demanding more performance and hardcore handling than Porsche 911 Turbo and GT2.
+
+The Rt 12 features specially developed Ruf bodywork, giving the vehicle a unique appearance while functioning to increase [[downforce]], improving high speed stability. Large cross-drilled brakes are included, although some debate has arisen as to how much of an upgrade the system provides over the factory-optional ceramic brakes (PCCB) that Porsche offers on "S" model 997s. Alois Ruf Jr, the company's owner, is doubtful of the lifetime of the PCCB system which seems to explain this choice of brake system.<ref>[http://www.roadandtrack.com/article.asp?section_id=3&article_id=30&page_number=2 ROADandTRACK.com - Road Tests - Ruf RTurbo (2/2002)<!-- Bot generated title -->]</ref> In addition, Ruf chose to replace the factory "active" suspension system with a static system of their own design.  A Ruf system with hydraulic control, developed together with Öhlins, which can raise ride-height in situations such as driveway entries is available as an option.
+
+AWD is available as an option. All but two customers have ordered their Ruf Rt 12 with AWD.
+
+== Performance ==
+The Rt 12 is among the fastest production cars in the world, with a 0-60 time of 3.2 seconds and 219 mph (350 km/h) top speed with standard gearing,<ref>[http://www.ruf-automobile.de/content.php?seite=seiten/modelle.php&archiv=&jahr=&details=1 Ruf AutomobileRuf Automobile GmbH - Manufaktur für Hochleistungs-Fahrzeuge - Automobile<!-- Bot generated title -->]</ref> giving it superior straight-line performance when compared to the current generation of supercars, such as the [[Enzo Ferrari (car)|Ferrari Enzo]], [[Porsche Carrera GT]] and [[SLR McLaren|Mercedes-McLaren SLR]]. Other vehicles such as the [[Dauer 962 Le Mans]], [[Bugatti Veyron]] and [[McLaren F1]] have higher top speeds, but each of these examples is considerably more expensive.
+
+Although the top speed is officially reported as {{convert|219|mi/h|km/h|abbr=on}}, there is a taller gearing option which is reported to boost the car's figures in {{convert|650|bhp|abbr=on}} form to a speed in excess of {{convert|225|mi/h|km/h|abbr=on}}. Since every Rt 12 is manufactured to customer specification with a variety of major choices such as rear or all wheel drive, suspension systems and engines, the actual weight and performance figures vary between each individual car.
+
+== Cost ==
+As of May 2006, the Rt 12 base price is 194,500 Euros (approx US$ 250,000). The 560 and {{convert|650|bhp|abbr=on}} engine options are €6,100 and €29,800 respectively. Various options are available, such as hydraulically adjustable suspension, taller sixth gear and a concealed, integrated roll cage. The Rt 12 can be configured to €259,800 (approx US$ 334,000) which includes the {{convert|650|bhp|abbr=on}} engine and all major factory options.
+
+== Impressions ==
+As with many modern Ruf cars and their Porsche equivalents, the Rt 12 is praised for its exceptional ability to act as a practical every day car despite its supercar performance figures. The car is usable in town and is capable of pulling at {{convert|30|mi/h|km/h|abbr=on}} in sixth gear despite the high pressure turbos. The car is reported to have excellent stability and handling to match its engine output.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.ruf-automobile.de/content.php?seite=seiten/modelle.php&archiv=&jahr=&details=1 Official site]
+*[http://video.google.com/videoplay?docid=1877188541544667183 Google Video 4 minutes of Rt 12 footage, [[German language]]]
+*[http://www.pistonheads.com/doc.asp?c=105&i=12366 Pistonheads review of the Rt 12]
+*[http://www.youtube.com/watch?v=cOSOfm1s4XY RUF RT12 @ Bruntingthorpe [HD]]
+
+{{Ruf}}
+
+[[Category:Sports cars]]
+[[Category:Rear-engined vehicles]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Ruf vehicles]]
+[[Category:Vehicles with boxer engines]]

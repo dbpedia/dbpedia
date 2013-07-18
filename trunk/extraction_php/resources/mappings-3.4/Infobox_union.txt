@@ -1,0 +1,10 @@
+{{ DBpediaTemplateMapping
+| mapToClass = TradeUnion
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = TradeUnion/country }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = affiliation | ontologyProperty = Organisation/affiliation }}
+	{{ DBpediaPropertyMapping | templateProperty = full_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

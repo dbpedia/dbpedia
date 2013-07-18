@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = course
+| rdfs:domain = GrandPrix
+| rdfs:range = Length
+}}

@@ -1,0 +1,53 @@
+{{Infobox Automobile
+|image=
+|name=Ruf CTR2
+|manufacturer=[[Ruf Automobile|Ruf]] (modified [[Porsche]])
+|class=[[sports car]]
+|production=1995-1997
+|successor=[[Ruf CTR3]]
+|body_style=2-door [[coupé]]
+|layout=[[Rear-engine design|Rear-engine]], [[all-wheel drive]]
+|engine={{convert|3.6|L|cuin|1}} [[Twin-turbo|twin-turbocharged]] [[flat-6]]
+|transmission=6-speed [[manual transmission|manual]]
+|wheelbase={{convert|2271|mm|in|abbr=on}}
+|length={{convert|4290|mm|in|abbr=on}}
+|width={{convert|1735|mm|in|abbr=on}}
+|height={{convert|1300|mm|in|abbr=on}}
+|weight={{convert|1381|kg|lb|0}}
+|related=[[Porsche 911]],<br />[[Porsche 993]]
+|similar=
+|designer=
+}}
+
+The '''Ruf CTR2''' was a 2-door [[sports car]] built by [[Ruf Automobile]] of [[Germany]] and based on [[Porsche]]'s [[Porsche 993|Type 993 generation 911]].
+
+== History ==
+Ruf came into the public eye in 1987 when they released their [[Porsche 911]] Carrera 3.2-based [[Ruf CTR|CTR]], an extremely limited-production model which for several years held the title of world's fastest production vehicle. Wanting an ultra-high performance model to remain among the company offerings, Alois Ruf Jr., the company owner, followed up the original with a CTR2 in 1995, based on the then-new 993-chassis [[Porsche 911|911 Turbo]]. Priced at $315,000 [[United States Dollar|USD]], the CTR2 featured standard all-wheel-drive, Recaro racing seats with Simpson five-point belts, enlarged brakes, an integrated roll-cage, a Ruf manufactured coil-over suspension system and a kevlar body with lightweight glass; power came from a Ruf-tuned version of the Porsche-built 3.6 litre, twin-turbocharged flat-six engine producing {{Convert|520|hp|kW|0|abbr=on}} and 505 foot-pounds (685 N·m) of torque.  A later version of the same engine would bump the power output to {{Convert|580|hp|kW|0|abbr=on}}.
+
+Capable of running from 0-60 mph in under 3.5 seconds and hitting a top speed in excess of 220 miles per hour (354 km/h), the CTR2 was one of the fastest production vehicles in the world, capable of performing on-par with [[Ferrari|Ferrari's]] [[Ferrari F50|F50]] and [[Jaguar (car)|Jaguar]]'s [[Jaguar XJ220|XJ220]]. The one million dollar [[McLaren F1]] was the only ''production car'' at the time which performed better under testing.
+
+Ruf even attempted to enter two road registered race modified versions of the CTR2 for the 1997 [[Pikes Peak Hillclimb]] race. One of them was driven by Steve and David Beddor and, unlike other competitors, the car was driven in and out of the circuit. Steve Beddor would finish second despite finishing on top in qualifying and David finished fourth.<ref>[http://www.na.rim.or.jp/~wombat/PPIHC/1997/results.html 75th Chevolet Pikes Peak International Hill Climb Results<!-- Bot generated title -->]</ref>
+
+==Specifications==
+*Weight: {{convert|1381|kg|lb|0}}
+*Power: {{Convert|520|hp|kW|0|abbr=on}}@ 5800 rpm
+*Torque: {{Auto ft.lbf|506|0}}@ 4800 rpm
+*Specific output: approx. {{Convert|144.44|hp|kW|0|abbr=on}} per litre
+*Power to weight ratio: approx. 5.86 pounds per horsepower
+
+**0-{{convert|60|mph|km/h||abbr=on}}: 3.8 sec
+**0-{{convert|100|mph|km/h||abbr=on}}: 7.8 sec
+**Quarter mile: 11.5 seconds at 126 mph 
+**Top Speed: {{convert|215|mph|km/h|0|abbr=on}}
+
+==References==
+{{Reflist}}
+*http://auto-specs.zercustoms.com/r/ruf/1997-ruf-ctr-2-specifications.html
+{{Refimprove||article|date=October 2006}}
+
+{{Ruf}}
+
+[[Category:Coupes]]
+[[Category:Rear-engined vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Ruf vehicles|CTR2]]

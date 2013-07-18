@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+Copyright (C) 2009 Philipp Heim, Sebastian Hellmann, Jens Lehmann, Steffen Lohmann and Timo Stegemann
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.	
+-->
+	
+<mx:TitleWindow xmlns:mx="http://www.adobe.com/2006/mxml"  width="500" height="100%" borderAlpha="0.7" creationComplete="{init();}">
+	<mx:Script>
+		<![CDATA[
+			import mx.managers.PopUpManager;
+			
+			private function init():void {
+				title = "Infos";
+				PopUpManager.centerPopUp(this);
+			}
+			
+			public function close():void {
+				PopUpManager.removePopUp(this);
+			}
+		]]>
+	</mx:Script>
+	
+	<mx:VBox width="100%" height="100%">
+		<mx:Text width="100%">
+            <mx:htmlText>
+                <![CDATA[<b>Copyright (C) 2009</b>
+<a href="mailto:philipp.heim@vis.uni-stuttgart.de">Philipp Heim (philipp.heim@vis.uni-stuttgart.de)</a>, 
+<a href="mailto:hellmann@informatik.uni-leipzig.de">Sebastian Hellmann (hellmann@informatik.uni-leipzig.de)</a>, 
+<a href="mailto:lehmann@informatik.uni-leipzig.de">Jens Lehmann (lehmann@informatik.uni-leipzig.de)</a>,
+<a href="mailto:steffen.lohmann@uni-due.de">Steffen Lohmann (steffen.lohmann@uni-due.de)</a>,
+<a href="mailto:timo.stegemann@uni-due.de">Timo Stegemann (timo.stegemann@uni-due.de)</a>
+				]]>
+            </mx:htmlText>
+        </mx:Text>
+		<mx:HBox horizontalAlign="right" width="100%">
+			<mx:Button id="cButton" label="Close" click="{close();}" />
+		</mx:HBox>
+	</mx:VBox>
+</mx:TitleWindow>

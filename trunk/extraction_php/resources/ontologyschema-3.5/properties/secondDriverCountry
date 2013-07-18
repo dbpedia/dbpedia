@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = second driver country
+| rdfs:domain = GrandPrix
+| rdfs:range = Country
+}}

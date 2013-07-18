@@ -1,0 +1,171 @@
+{{Infobox Automobile
+|name             = Audi A2
+|image            = [[Image:Audia21991.JPG|250px]]
+|manufacturer     = [[Audi|Audi AG]]
+|parent_company   = [[Volkswagen Group]]
+|aka              = 
+|production_start = June 2000<ref name="ETKA"/>
+|production_end   = August 2005<ref name="ETKA"/>
+|assembly         = [[Neckarsulm]], [[Germany]]<ref name="ETKA"/>
+|successor        = [[Audi A1]]
+|class            = [[Compact MPV]], [[supermini car|supermini]]
+|body_style       = 5-[[vehicle door|door]] [[hatchback]]<ref name="ETKA"/>
+|layout           = [[transverse engine|transverse]] [[front-engine design|front engine]],<br>[[front wheel drive]]<ref name="ETKA"/>
+|platform         =
+|engine           = 1.4&nbsp;[[litre|L]] [[straight-4|I4]],<br>1.6&nbsp;L I4 [[gasoline direct injection|FSI]],<br>1.2&nbsp;L I3 [[Turbocharged Direct Injection|TDI]],<br>1.4&nbsp;L I3 TDI
+|transmission     = 5-speed [[GETRAG]] [[manual transmission|manual]]
+|wheelbase        = 
+|length           = {{convert|3826|mm|1|abbr=on|lk=on}}
+|width            = {{convert|1673|mm|1|abbr=on}}
+|height           = {{convert|1553|mm|1|abbr=on}}
+|weight           = {{convert|895|kg|0|abbr=on|lk=on}} to<br>{{convert|1030|kg|0|abbr=on}}
+|fuel_capacity    = 
+|related          = 
+|designer         = [[Luc Donckerwolke]]
+|sp               = uk
+}}
+[[Image:Audi A2 L Silber.jpg|thumb|300px|Audi A2]]
+The '''Audi A2''' (internally designated '''''Typ'' 8Z'''<ref name="ETKA"/>) is a premium [[compact MPV]] styled five-[[vehicle door|door]] four-[[car seat|seat]] [[hatchback]]<ref name="ETKA">[[ETKA]] official factory data</ref> designed [[supermini car|supermini]], produced by the [[Germany|German]] [[automotive industry|automaker]] [[Audi|Audi AG]] from June 2000 to 2005.<ref name="ETKA"/>  Based on the Audi Al<sub>2</sub> [[concept vehicle|concept car]] first shown at the [[Frankfurt Motor Show]] in 1997,<ref>CarAutoPortal.com [http://www.carautoportal.com/audi/audi-a2.php Audi A2]</ref> the A2  was notable for being constructed from [[aluminium]].
+
+Trim variants in [[Germany]] and mainland [[Europe]] included: 'Advance', 'Style', 'High Tech', 'S line'; whereas in the [[United Kingdom]], they included: 'Standard', 'SE' (for 'Special Equipment'), 'Sport', 'Special Edition' (2005 only).
+
+The last cars left Audi's [[Neckarsulm]] 'aluminium plant' in August 2005.<ref name="ETKA"/>
+
+==History==
+The A2 was produced at Audi's "aluminium" [[Neckarsulm]] plant in [[Germany]].<ref name="ETKA"/>  It was the first five-[[vehicle door|door]] vehicle on sale in [[Europe]] whose average [[fuel consumption]] is less than {{convert|3|L/100 km|1|lk=on}}, although these figures only applied to a special "3L" version with a [[diesel engine]], automatic gearbox, stop-start system, less power and narrower [[tire|tyres]].  Due to the construction, the average A2 weighs less than {{convert|1000|kg|-1|lk=on}}.
+
+==Styling==
+The A2 was a surprise when it debuted only two years after the original AL2 study. Many initial reviews, including those from What Car? and Autocar in the UK commented on the design. Autocar's initial drive verdict: "The best thing about the A2 is that it isn’t merely a design exercise. Yes, it’s a great car to look at, sit in and touch, but it’s also a riot to drive" <ref>[http://www.autocar.co.uk/CarReviews/RoadTestsDesign/Audi-A2-1.4/231168/ Autocar UK]</ref>. The [[avant-garde]] styling did not, however, win favour with some potential customers.  Audi was reported to be disappointed with the level of sales; the final production was 176,377 <ref>[http://www.spiegel.de/auto/fahrkultur/0,1518,642497,00.html  Spiegel]</ref> units.  This is in comparison to rival [[Mercedes-Benz]]' [[Mercedes-Benz A-Class|A-Class]] sales of 1&nbsp;million.
+
+==Design, engineering and construction==
+
+The overriding theme in the design and engineering of the A2 was summarized by the then Audi UK product manager in an interview after the car won a design award in 2001 as "create a small Audi, not a cheap Audi"<ref name="dandad.org">[http://www.dandad.org/inspiration/creativityworks/pdf/innovative.pdf]</ref>, and the creative brief is said to have been “Transport four people from Stuttgart to Milan on a single tank of petrol”.<ref name="dandad.org"/>
+
+The A2 is built using considerable [[aluminium]] and [[aluminium alloy]] content, providing significant weight advantage over similar sized cars.  This helps the car to be significantly more economical than vehicles using traditional steel [[monocoque]]s; under certain circumstances, consumption of just over {{convert|2|L/100 km|-1|lk=on}} is possible.  The Audi A2 won the Nordic Countries "EcoRun" economical driving race in 2005 with consumption of {{convert|2.62|L/100 km|1|abbr=on}}.  Even the normal [[petrol engine]]d versions are capable of {{convert|5|L/100 km|1|abbr=on}}.  The A2 was also notable for being the first Audi model since the 1970s [[Audi 50]] not to be offered with its' 'trademark' [[quattro (four wheel drive system)|quattro]] four-wheel drive option. The A2 has [[drag coefficient|coefficient of drag]]: 0.25 - 0.29 depending on model<ref> [http://www.audiworld.com/model/a2/news/091499.shtml]</ref>.
+
+The A2 still uses a contemporary [[monocoque]] construction, albeit with some elements of [[space frame]] principles; and is tagged by Audi as an 'Audi Space Frame' design.  The outer [[body panel|panels]] of the body have little or no structural function - similarities exist with the original [[Renault Espace]]; and the "space frame" bears the forces working on the car.  Due to the decision to create "knots" instead of [[welding]] the space frame, improvements in shell stability, shell durability, lower weight, and better interior space are evident.  Unfortunately, the cost of working with aluminium, particularly with small production runs, meant that the A2 was more expensive than its competitors.  This may have contributed to the relatively slow sales in conjunction with the dearth of marketing from Audi.
+
+Audi was the first manufacturer to try and incorporate lightweight building concepts using aluminium and associated alloys into a "[[mass market]]" vehicle; the previous efforts at using the Audi Space Frame were limited to the rather more expensive [[Audi A8]].  As a guide to the [[mass]] involved: the entire shell weighs so little that two people can easily pick it up; the side panel over the doors including the A- and D-pillars weighs approximately {{convert|2|kg|0|lk=on}}.  A 2002 model A2 with standard equipment has a mass of {{convert|895|kg|0|abbr=on}}.
+
+The A2 can, however, thus be considered a trailblazer for various newer aluminium-based vehicles, such as the second-generation [[Audi A8#D3|Audi A8 (D3)]] and [[Audi TT]], and the X350 [[Jaguar XJ]] and 2006 [[Jaguar XK]].
+
+===Interior===
+The A2 has a large interior space for the exterior dimensions, including a [[trunk (automobile)|boot]], at {{convert|1141|L|cuft|1|lk=on}}, which is larger than the next model in Audi's range, the [[Audi A3]].  This is due mainly to the "sandwich"-type [[automotive engineering|construction]], similar again to that of the Renault Espace or the Mercedes A-Class, which enables the [[floorpan]] to have an upper and a lower portion.  The space in the middle is used to house various components, such as the [[fuel tank]] and the engine's electronics.  The rear passengers also benefit, as their foot space reaches into this sandwich space, creating a comfortable seating position even for tall rear [[car seat|seat]] passengers.  This is in direct contrast to the comfort available on the rear bench of an A-Class.  To improve the weight distribution of the vehicle, its [[car battery|battery]] is located inside the boot, under the floor.
+
+The A2's interior was very upmarket in comparison with other superminis.  In both the UK and Europe, there were several choices of seat material and colour.  Material-wise, you could choose from the standard Matrix cloth, optional Cirrus cloth, optional [[alcantara (material)|Alcantara]]/[[leather]], or full pearl[[Nappa leather]] seat coverings.  On the Sport models, you received sports seats with electrically adjustable [[lumbar]] support as standard in Jaquered satin cloth.  You could have most seat materials in a choice of red, blue, beige, pale grey, dark grey or black.  Individual options were also available such as vivid yellow, red or blue seats, steering wheels, gear lever and handbrake lever. The color.storm models introduced in 2003 brought vivid colours to both the outside and inside of the A2, including "papaya" orange.
+
+The A2 had many innovative ideas - such as the space floor storage system which was a box that slotted in the rear passenger foot well, a rear cup holder which unclipped and a double (false) floor boot where items could be hidden from thieves. The headrests also do not need to be removed from the rear seats when they are folded, and a four-seater can have the rear seats removed in a matter of seconds.
+
+===Service Hatch / "Serviceklappe"===
+The front of the car included an unusual design feature called the "Serviceklappe" in German — this translates to "service hatch" or "service panel".  On early cars, this was a glossy black panel at the lower edge of the [[hood (vehicle)|bonnet]] (hood), where the radiator [[grille]] would normally be sited.  Behind it are the filling points for [[motor oil|oil]] and [[windshield washer fluid|screen wash fluid]], and the [[dipstick]].  Thanks to these features, in the daily use of the car the bonnet does not need to be raised.
+
+The bonnet was widely rumoured to be sealed &mdash; Car&Driver wrote: "...feature of the A2 that may foretell the future: the sealed hood".  Actually, the bonnet is easily removed, being held in place by two twist-lock catches.  The around 8&nbsp;kg heavy bonnet then comes away from the car altogether, unlike the usual hinged flip-up arrangement on most other cars. Due to the service flap, the need to gain access to the [[internal combustion engine]] is minimal.
+
+==Facelift and additional models==
+The service hatch is the most obvious indicator of the age of any particular A2. It was changed to matte black for the "color.storm" colour schemes, and for [[model year]] 2004 it acquired fake grille slats. It is, however, relatively simple to change, so should not be taken as a reliable age indicator.<ref> [http://www.a2oc.net/forum/archive/index.php/t-1718.html] A2OC</ref>
+Very little else was changed externally during the life of the car. Colours and [[wheel|roadwheels]] designs were changed mildly during the production run.  The only other external indicator of the age of the car is the [[windscreen wiper]]; very early models have a traditional blade, where newer ones have a "flex" version ("Aerotwin" from Bosch, model 760).  This change was made for model year 2002.
+
+===Changes and additions <ref> [http://www.audia2museum.de/59.html]A2 Museum</ref>===
+===2000-2001===
+* February 2000: introduction of the A2 with 75PS petrol engine
+* September 2000: introduction of the 75PS diesel
+* June 2001: introduction of the 3l
+
+===2002-2003===
+* CAN-BUS is used for the OBD systems, as required by EU Regulations. 
+* Aerotwin wiper
+* Diesel-engined A2s after May 2002 no longer have a pre-heater run by diesel, but an internal electrical heating element. 
+* June 2002: FSI introduced with larger (42l) petrol tank.
+* July 2002: Use of the 42l petrol tank in all non 3l versions. 3l available with 34l tank, allowing a theoretical 1100&nbsp;km range.
+* The first color.storms (in red, yellow and blue) become available
+* Diesel engines used after September 2003, engine code BHC, fulfil the requirements for Euro4 exhaust emissions, again as a result of legislation. 
+
+===2003-2004===
+* Extended color.storm colour options, including orange and later silver
+* September 2003: Availability of the 90PS TDI
+* October 2003: Grill with slats
+* Use of MK60 ESP / ABS system.
+
+==Special versions==
+Audi also has a version of the A2 in its Neckarsulm plant which has been converted into a [[pickup truck]] by trainees &mdash; the "A2 Caddy".  This was on public show for the first time at the A2-Club of Germany's annual meeting in [[Amberg]], Germany, in August 2005. Pictures of the event are available on the German A2-freun.de site linked below.
+
+Audi also released an S line version in Germany - with larger wheels, sports seats, special half-leather seat coverings and steering wheel and lowered [[suspension (vehicle)|suspension]].  In the UK, the last Audi A2's were badged as special edition models featuring a parcel shelf, climate control and a CD player free of charge.
+
+==1.2 TDI==
+The Audi A2 1.2 [[TDI]] had the lowest [[drag coefficient]] of any car in the world at the time of its launch.<ref> [http://www.audiworld.com/news/01/A2TDI/content.shtml]</ref>. It was also one of the most economical and lowest polluting, only emitting 89g/km of CO2 emissions. 
+
+Two versions of the car were available in Germany during its production run. The 3L version, which used only {{convert|3|L/100 km|abbr=on}}, was "standard". This version had no power steering, climate control or other extras, with the only optional extra being body coloured door handles and wing mirrors. The reason behind having no optional extras was that every option adds weight and loses economy. For this reason the fuel tank was also only 20l.
+
+The second version, which was at least available in Germany, was a 1.2TDI version which, though not possessing 2.99l/100&nbsp;km economy was still capable of 3.2l/100&nbsp;km. This version had options for climate and other extras but was not available in all markets.
+
+On both versions, the glass was thinner, the seats were lighter <ref> [http://www.audiworld.com/news/00/a20612/content.shtml]</ref> and smaller wheels and tyres were used, with the standard fitment being only 145/65R14 Bridgestone Ecopias using very flat wheelcovers to minimize turbulence. The engine block was also made from a light alloy despite it being a diesel.
+The rear spoiler was reshaped, moved and extended through [[wind tunnel]]ling to achieve a 0.25&nbsp;cd figure. Additional underbody panels were also added to achieve this.<ref>[http://www.a2-freun.de/forum/showthread.php?t=26925]</ref>
+The car had an [[automated manual transmission]] which had a Tiptronic mode and a clutch which engaged when the accelerator pedal was released for maximum economy.
+The car also had an ECO button, when engaged it limited the power to {{Convert|30|bhp|kW PS|0|abbr=on}} (excluding kick down)and programmed the transmission to change up at the most economical point. ECO mode also activated the start/stop function, a feature that was revolutionary back in 1999.
+
+==Replacement==
+Although there has been no direct replacement for the A2, Audi is expected to launch a new [[supermini]]-class [[Audi A1]] model in 2010.<ref name="car">{{cite web|url=http://www.carmagazine.co.uk/Secret-new-cars/Search-Results/Spyshots/Audi-A1-2010-first-spy-photos-of-Audis-Mini/|title=Audi A1 (2010): first spy photos of Audi’s Mini|work=[[CAR Magazine]]|date=2009-10-16}}</ref>
+
+==Technical information==
+The Audi A2 was available with the following [[internal combustion engine]]s:
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 88%;"
+|- style="background:#DCDCDC" align="center" valign="middle"
+![[internal combustion engine|engine]]<br>name!![[engine displacement|displacement]]<br>/ [[engine configuration|configuration]]!![[motive power|max. power]] (DIN)<br>at [[revolutions per minute|rpm]]!![[torque|max. torque]]<br>at rpm!!engine ID<br>code(s)!!0-{{convert|100|km/h|0|abbr=on|lk=on}}<br><small>([[second]]s)</small>!!top<br>speed!![[fuel economy in automobiles|fuel<br>consumption]]<ref>''Automobil Revue'', catalogue edition 2005, p.121-22. Fuel consumption= EU city cycle.</ref>!!years<br>produced<ref name="ETKA"/>
+|- 
+|colspan="9" align="center"  bgcolor=#C0C0C0|<big>'''''[[petrol engine]]s'''''</big><br>all [[fuel injection|fuel injected]]
+|-
+| align="left"|'''1.4&nbsp;16v'''||1390&nbsp;[[cubic centimetre|cc]] [[straight-4|inline 4cyl]] [[multi-valve|16v]] [[overhead camshaft#double overhead camshaft|DOHC]]||{{convert|55|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 5,000&nbsp;rpm||{{convert|126|Nm|0|abbr=on|lk=on}}<br>@ 3,800&nbsp;rpm||[[list of Volkswagen Group petrol engines#1.4 55kW|AUA,<br>BBY]]||12.3&nbsp;sec||{{convert|173|km/h|1|abbr=on|lk=on}}||{{convert|6.0|L/100 km|1|abbr=on|lk=on}}||06/00&ndash;04/02<br>05/02&ndash;08/05
+|-
+| align="left"|'''1.6&nbsp;FSI'''||1598&nbsp;cc inline 4cyl 16v DOHC<br>[[gasoline direct injection|Fuel Stratified Injection (FSI)]]||{{convert|81|kW|PS bhp|0|abbr=on}}<br>@ 5,800&nbsp;rpm||{{convert|155|Nm|0|abbr=on}}<br>@ 4,400&nbsp;rpm||BAD||9.8&nbsp;sec||{{convert|202|km/h|1|abbr=on}}||{{convert|5.9|L/100 km|1|abbr=on}}||05/02&ndash;08/05
+|-
+|colspan="9" align="center"  bgcolor=#C0C0C0|<big>'''''[[diesel engine]]s'''''</big><br>all [[Turbocharged Direct Injection]] (TDI)
+|-
+| align="left"|'''1.2&nbsp;TDI'''<br>aka: 3L||1191&nbsp;[[cubic centimetre|cc]] [[straight-3|inline 3cyl]] [[overhead camshaft#single overhead camshaft|SOHC]]||{{convert|45|kW|PS bhp|0|abbr=on|lk=on}}<br>@ 4,000&nbsp;rpm||{{convert|140|Nm|0|abbr=on|lk=on}}<br>@ 1,800&ndash;2,400&nbsp;rpm||[[list of Volkswagen Group diesel engines#1.2 TDI 3L|ANY,<br>AYZ]]||14.9&nbsp;sec||{{convert|168|km/h|1|abbr=on|lk=on}}||{{convert|3.0|L/100 km|1|abbr=on|lk=on}}||03/01&ndash;08/05
+|-
+| align="left"|'''1.4&nbsp;TDI'''||1422&nbsp;cc inline 3cyl  SOHC||{{convert|55|kW|PS bhp|0|abbr=on}}<br>@ 4,000&nbsp;rpm||{{convert|195|Nm|0|abbr=on}}<br>@ 2,200&nbsp;rpm||[[list of Volkswagen Group diesel engines#1.4 TDI 51-66kW|AMF,<br>BHC]]||12.6&nbsp;sec||{{convert|173|km/h|1|abbr=on}}||{{convert|4.3|L/100 km|1|abbr=on}}||06/00&ndash;08/03<br>09/03&ndash;08/05
+|-
+| align="left"|'''1.4&nbsp;TDI'''||1422&nbsp;cc inline 3cyl SOHC||{{convert|66|kW|PS bhp|0|abbr=on}}<br>@ 4,000&nbsp;rpm||{{convert|230|Nm|0|abbr=on}}<br>@ 1,900&ndash;2,200&nbsp;rpm||[[list of Volkswagen Group diesel engines#1.4 TDI 51-66kW|ATL]]||10.9&nbsp;sec||{{convert|188|km/h|1|abbr=on}}||{{convert|4.3|L/100 km|1|abbr=on}}||11/03&ndash;08/05
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons cat|Audi A2}}
+*[http://www.audi.com Audi corporate website]
+**[http://www.autointell.com/european_companies/volkswagen/audi-ag/audi-concepts/audi-al2-concept/audiag1114.htm Al<sub>2</sub> Concept at Automotive Intelligence]
+**http://www.greenconsumerguide.com/audi_a2_tdi.php
+**[http://www.a2oc.net International Audi A2 Owner's Club, ''The'' award-winning resource for any A2 owner]
+**[http://www.audi-a2club.de German A2 website]
+**[http://used-audi-a2.freeway.co.uk UK used Audi A2 information]
+**[http://www.audi-forums.com/audi-a2-forum/ Audi A2 forum]
+**[http://www.audi-a2.nl/ Dutch Audi A2 forum]
+**[http://www.audipassion.com/univers_audi/actualites/2006/bourse_miniature_ingolstadt_26_11_06/bourse_miniatures_2006_373.jpg A2 Caddy]
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+
+[[Category:Audi vehicles|A2]]
+[[Category:Euro NCAP superminis]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles introduced in 1999]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+
+[[bg:Ауди A2]]
+[[da:Audi A2]]
+[[de:Audi A2]]
+[[es:Audi A2]]
+[[fr:Audi A2]]
+[[hr:Audi A2]]
+[[it:Audi A2]]
+[[lv:Audi A2]]
+[[nl:Audi A2]]
+[[ja:アウディ・A2]]
+[[no:Audi A2]]
+[[pl:Audi A2]]
+[[pt:Audi A2]]
+[[ru:Audi A2]]
+[[sk:Audi A2]]
+[[fi:Audi A2]]
+[[sv:Audi A2]]

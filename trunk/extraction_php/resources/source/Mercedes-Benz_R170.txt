@@ -1,0 +1,95 @@
+{{Infobox Automobile
+| image          = [[Image:Mercedes-Benz SLK R170.jpg|250px|R170 Mercerdes-Benz SLK]]
+| name           = Mercedes-Benz R170
+| manufacturer   = [[Mercedes-Benz]]
+| parent_company = [[DaimlerChrysler]] (1998-2007)<Br>[[Daimler-Benz]] (1997-98)
+| production     = 1997-2004
+| class          = [[Sports car]]
+| body_style     = 2-door [[retractable hardtop]]
+| successor      = [[Mercedes-Benz R171]]
+}}
+
+The [[Mercedes-Benz]] '''R170''' was an [[automobile platform]] for [[sports car]]s produced since 1997.  R170 models were originally sold as the [[Mercedes-Benz SLK-Class|SLK-Class]] and was based on the [[Mercedes-Benz W202|W202]] [[Mercedes-Benz C-Class|C-Class]].  It was replaced by a new SLK-Class platform - the ''R171'' - for 2005.  ''R170'' and [[Mercedes-Benz R171|R171]] chassis production is handled by [[Karmann]] of [[Germany]].
+
+Vehicles:
+* 1997-2004 [[Mercedes-Benz SLK-Class]]
+* 2004-2008 [[Chrysler Crossfire]] as Chrysler ZH platform
+
+1996 SLK 200 R170.435 engine: M111.946
+
+1996 SLK 200K R170.445 engine: M111.943
+
+1998 SLK 230K R170.447 engine: M111.973
+
+2000 SLK 200K R170.444 engine: M111.958
+
+2000 SLK 320 R170.465 engine: M112.947
+
+2000 SLK 230K R170.449 engine: M111.983
+
+2000 SLK 320K R170.465 engine: M112.947
+
+2001 SLK 32K R170.466 engine: M112.960
+
+==Models and Specifications==
+Was the first Mercedes-Benz hard top convertable
+
+{| class=wikitable
+!Model
+!Years
+!Engine
+!Power
+|-
+|SLK200 ||1997- 2004 ||2L ''[[Mercedes-Benz M111 engine|M111]]'' [[Straight-4|L4]]||102 kW (136 hp)
+|-
+|rowspan=2|SLK200K ||1997- 2000<sup>*</sup>||2L ''[[Mercedes-Benz M111 engine|M111]]'' [[Straight-4|L4]]||143 kW (192 hp)
+|-
+|2001- 2004||2L ''[[Mercedes-Benz M111 engine|M111]]'' [[Straight-4|L4]]||122 kW (163 hp)
+|-
+|rowspan=2|SLK230K ||1998- 2000||2.3L ''[[Mercedes-Benz M111 engine|M111]]'' [[Straight-4|L4]]||144 kW (193 hp)
+|-
+|2001- 2004||2.3L ''[[Mercedes-Benz M111 engine|M111]]'' [[Straight-4|L4]]||147 kW (197 hp)
+|-
+|SLK320 ||2001- 2004||3.2L ''[[Mercedes-Benz M112 engine|M112]]'' [[V6]]||162 kW (218 hp)
+|-
+|SLK32 AMG ||2001- 2004||3.2L ''[[Mercedes-Benz M112 engine|M112]]'' [[V6]]||264 kW (354 hp)
+|}
+
+<sup>*</sup>Exported only to Portugal, Italy and Greece.
+
+==Performance==
+
+{| class=wikitable
+!Model
+!Years
+!0-100km/h (62mph)
+!Top Speed
+|-
+|SLK200 ||1997- 2004 ||9.3 seconds||208&nbsp;km/h (129&nbsp;mph)
+|-
+|rowspan=2|SLK200K ||1997- 2000||7.7 seconds||236&nbsp;km/h (147&nbsp;mph)
+|-
+|2001- 2004||8.2 seconds||223&nbsp;km/h (138&nbsp;mph)
+|-
+|rowspan=2|SLK230K ||1998- 2000||7.4 seconds||231&nbsp;km/h (143&nbsp;mph)
+|-
+|2001- 2004||6.9 seconds||240&nbsp;km/h (148&nbsp;mph)
+|-
+|SLK320 ||2001- 2004||6.5 seconds||245&nbsp;km/h (152&nbsp;mph)
+|-
+|SLK32 AMG ||2001- 2004||4.5 seconds||250<sup>*</sup>/280<sup>*†</sup>/310<sup>‡</sup> km/h (155/174/193&nbsp;mph)
+|}
+
+<sup>*</sup>Electronically limited top speed
+<sup>*†</sup>AMG optional increased limited top speed
+<sup>‡</sup>With limiter removed
+
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz platforms|R170]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+{{Modern-auto-stub}}
+
+[[de:Mercedes-Benz R170]]
+[[sv:Mercedes-Benz R170]]

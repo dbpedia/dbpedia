@@ -1,0 +1,6 @@
+{{DatatypeProperty
+| rdfs:label = power output
+| rdfs:domain = AutomobileEngine
+| rdfs:range = Power
+| rdf:type = owl:FunctionalProperty
+}}

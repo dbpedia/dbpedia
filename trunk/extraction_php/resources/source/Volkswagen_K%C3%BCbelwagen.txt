@@ -1,0 +1,175 @@
+{{Infobox Automobile
+ | image            = [[Image:VW Kuebelwagen 1.jpg|300px|VW Kübelwagen sand]]
+ | name             = VW type 82 'Kübelwagen'
+ | manufacturer     = [[Volkswagen]]
+ | parent_company   = 
+ | aka              = Safari, "Bucket / Tub Car"
+ | production       = 50,435 (1940 - 1945)
+ | assembly         = KDF-Stadt (= [[Wolfsburg]])
+ | predecessor      = VW type 62
+ | successor        = [[Volkswagen 181|VW type 181 'Thing']]
+ | class            = [[List of military vehicles|Military Vehicle]]
+ | body_style       = 4-door utility [[roadster]]
+ | layout           = [[RR layout]]
+ | platform         = VW type 1 [[Kdf-Wagen]]
+ | engine           = air-cooled [[flat-4]],<br />985 cc (23 hp) /<br /> 1,131 cc (25 hp)
+ | transmission     = 4-speed manual;<br />self-locking differential
+ | wheelbase        = {{convert|240|cm|in|1|abbr=on}}
+ | length           = {{convert|374|cm|in|1|abbr=on}}
+ | width            = {{convert|160|cm|in|1|abbr=on}}
+ | height           = {{convert|165|cm|in|1|abbr=on}} (top up);<br />{{convert|111|cm|in|1|abbr=on}} collapsible
+ | ground_clearance = {{convert|28|cm|in|1|abbr=on}} ({{convert|26|cm|in|1|abbr=on}} laden)
+ | front_track      = 
+ | rear_track       = 
+ | weight           = {{convert|715|kg|lb|0|abbr=on}} (GVW 1,160 kg)
+ | top_speed        = {{convert|80|km/h|mi/h|1|abbr=on}}
+ | fuel_capacity    = {{Convert|30|L|usgal impgal|1|abbr=on}}
+ | related          = [[Volkswagen Schwimmwagen|VW 166 'Schwimmwagen']]<br>[[VW 276 Schlepperfahrzeug]]
+ | similar          = [[Willys MB|Willys MB jeep]]
+ | designer         = 
+}}
+
+The Volkswagen '''Kübelwagen''' (short for ''Kübelsitzwagen'', meaning "[[bucket seat]] car") was a military vehicle designed by [[Ferdinand Porsche]] and built by [[Volkswagen]] during [[World War II]] for use by the [[Nazi Germany|German]] military (both [[Wehrmacht]] and [[Waffen-SS]]).  Based heavily on the [[Volkswagen Beetle]], it was prototyped as the '''Type 62''', but eventually became known internally as the '''Type 82'''.
+
+With its rolling chassis and mechanics built at [[Wolfsburg|Stadt des KdF-Wagens]] (Stadt des Kraft durch Freude Wagens, now [[Wolfsburg]]) and its body built by US-owned firm [[Ambi Budd]] in Berlin[http://www.ltv-vwc.org.uk/wheelspin/ws_july_2000/Wierd05_Military01.htm], the Kübelwagen was for the Germans what the [[Willys MB|jeep]] was for the [[Allies of World War II|Allies]].
+
+==History==
+[[Image:Bundesarchiv Bild 101I-022-2926-07, Russland, Unternehmen "Zitadelle", VW Kübelwagen.jpg|thumb|left|The Kübelwagen on the [[Eastern Front (World War II)|Eastern Front]] in 1943.]]
+[[Image:Vwkybelwagen2.jpg|thumb|right|thumb|Volkswagen Kübelwagen]]
+[[Image:Vwkybelwagen1.jpg|thumb|right|thumb|VW Kübelwagen rear]]
+
+Although [[Adolf Hitler]] discussed with [[Ferdinand Porsche]] the possibility of military application of the Volkswagen as early as April 1934, it wasn't until January 1938, that high ranking [[Third Reich]] army officials formally approached Porsche about designing an inexpensive, light-weight military transport vehicle that could be operated reliably both on- and off-road in even the most extreme conditions, suggesting that the Beetle could provide the basis for such a vehicle.
+
+Porsche began work on the project immediately, having a prototype of the vehicle ready within the month, but realized during development that it wouldn't be enough to reinforce the Beetle's chassis to handle the stresses that military use would put on it. In order to guarantee adequate off-road performance of a two-wheel driven vehicle with a 1,000 cc FMCV 1 engine, it would have to be light-weight. In fact, the army had stipulated a laden weight of 950&nbsp;kg including four battle-dressed troops, which meant that the vehicle itself should not weigh more than 550&nbsp;kg. Porsche therefore sub-contracted [[Trutz]], an experienced military coachbuilder to help out with the body design.
+
+Developmental testing by the military began after a presentation of the prototypes designated as Type 62 in November 1938. Despite lacking [[four wheel drive]], a mainstay of the [[United States|American]] military [[Jeep]]s, the vehicle proved very competent at maneuvering its way over rough terrain, even in a direct comparison with a contemporary standard German army 4x4, and the project was given the green light for further development. The vehicle's light weight and ZF self-locking differential compensated for the lack of 4X4 capabilities.
+
+Further development of the Type 62 took place during 1939, including a more angular body design; and pre-production models were field-tested in the invasion of Poland, that started in September that year. Despite their overall satisfaction with the vehicle's performance, military commanders demanded that a few important changes be made: the lowest speed of the vehicle had to be reduced from 8&nbsp;km/h to 4&nbsp;km/h as an adjustment to the pace of marching soldiers. Secondly it needed some improvement of its off road ability. Porsche responded to both requests by mounting new axles with [[portal axle|gear-reduction hubs]], providing the car with more torque ''and'' more ground-clearance all at once [http://en.wikipedia.org/wiki/Portal_gear]. Revised dampers, 16-inch wheels and a limited slip differential, as well as countless small modifications completed the specification. In order to reflect the changes, the vehicle was re-named Type 82.
+
+Full scale production of the Type 82 Kübelwagen started in February 1940, as soon as the VW factories had become operational. No major changes took place until production ended in 1945, only small modifications were implemented&mdash;mostly eliminating unnecessary parts and reinforcing some which had proved unequal to the task. Prototype versions were assembled with four-wheel drive (Type 86) and different engines, but none offered a significant increase in performance or capability over the existing Type 82 and the designs were never implemented. As of March 1943, the car received a revised dash and the bigger 1,131 cc engine developed for the [[Schwimmwagen]] that produced more torque and power than the original 985 cc unit. When Volkswagen production ceased at the end of the war, 50,435 Kübelwagen vehicles had been produced [http://mitglied.lycos.de/Geschichtsverein/vwik.html] and the vehicle had proven itself to be surprisingly useful, reliable, and durable.
+
+VW resurrected the basic Kübelwagen design several decades after the war as the 1969 [[Volkswagen 181|Type 181]], developed for the [[Bundeswehr|German Federal Armed Forces]] and later also produced for the civilian market known as "Thing" in the US, "Trekker" in the UK and "Safari" in Mexico. Although similar in looks and design, almost no parts were interchangeable with the type 82.
+
+== Technology and performance ==
+[[Image:Bundesarchiv N 1603 Bild-192, Sizilien, Reifenpanne mit VW-Kübelwagen.jpg|thumb|right|VW Type 82 with visible engine in Sicily (1943).]]
+When the German military took delivery of the first vehicles, they immediately put them to the test on- and off-road in snow and ice to test their capability at handling European winters; several four-wheel-drive vehicles were used as reference points.  The two-wheel drive Kübelwagen surprised even those who had been a part of its development, as it handily out-performed the other vehicles in nearly every test.  Most notably - thanks to its smooth, flat underbody&mdash;the Kübel would propel itself much like a motorised sled when its wheels were sinking into sand, snow or mud, allowing it to follow tracked vehicles with remarkable tenacity.
+
+In November 1943, the U.S. military conducted a series of tests as well on several Type 82s they had captured in North [[Africa]]; they concluded that the vehicle was simpler, easier to manufacture and maintain, faster, and more comfortable for four passengers than the U.S. Jeeps. This statement is at odds with U.S. War Department Technical Manual TM-E 30-451, ''Handbook on German Military Forces'', dated 15 March 1945.  In this manual (p.&nbsp;416), it states "The Volkswagen, the German equivalent of the U.S. "Jeep", is inferior in every way except in the comfort of its seating accommodations."
+
+At the same time another Kübelwagen also captured in North Africa had been dissected in Britain by engineers of the Humber Car Company, whose report was equally unfavourable and dismissive.<ref>"Report of examination of a German Light Aid Detachment Vehicle type VW82", published by Humber Car Co. in 1943 (GB)</ref>
+
+Among the design features that contributed to the Kübelwagen's performance were:
+* Light weight - although over a foot longer than the [[Willys MB]], it was over 300&nbsp;kg (some 700 lb) lighter
+* Very flat and smooth underbody, that allowed the car to slide over the surface it was traversing, if need be
+* Considerable ground clearance - roughly 28&nbsp;cm (11 in) &mdash;in part thanks to:
+* The use of [[portal gear]] hub reduction, providing more torque and ride height simultaneously
+* Independent suspension on all four wheels
+* Self-locking differential, limiting slippage and retaining traction
+
+Apart from that the air-cooled engine proved highly tolerant of hot and cold climates, and naturally invulnerable to bullet holes in the absence of a radiator.  Only for starting under winter conditions, a specially volatile starting fuel was required, contained in a small auxiliary fuel tank.
+
+Also the body of the vehicle could easily be modified to special purposes, since it was not a load-bearing part of the structure of the vehicle.
+
+The Kübelwagen could reach a top speed of 80 kilometers per hour.
+
+== Body variants ==
+[[Image:MHV VW Käfer Typ 82 01.jpg|right|thumb|Type 82E – Kübelwagen chassis / Beetle body.]]
+[[Image:MHV VW Käfer Typ 82 02.jpg|right|thumb|Type 82E rear]]
+
+'''The following body types and variants of the Type 82 were produced:'''<br />
+Type 62: Prototype Kübelwagen, constructed from May 15, 1938; pre-production models (1939) field tested in the invasion of Poland <br />
+Type 67: 2-stretcher [[ambulance]]; Type 60 Beetle chassis with modified Type 82 body <br />
+Type 82/0: Basic four seater <br />
+Type 82/I: Three-seat radio car <br />
+Type 82/2: Sirencar (Siemens motordriven siren mounted on passenger side in place of the rear seat) <br />
+Type 82/3: Mock-up armoured vehicle/command car with machinegun-fitted turret over the cabin <br />
+Type 82/5: Kübelwagen chassis with the Type 60 LO Lieferwagen (open pickup truck) body
+[http://www.panzerbaer.de/models/35_cmk_vw_typ825-a.htm]<br />
+Type 82/6: Tropical version sedan-body box van <br />
+Type 82/7: Three-seat 'Command car' made up of a Type 82 chassis, fitted with a Beetle body and roll-up canvas roof section. These three-seaters had a co-drivers seat with fully reclining backrest for the commander.
+<br />
+Type 82/8: Like Type 82/0 but had an open body made of wood <br />
+Type 82/E: Kübelwagen chassis with Beetle body (688 manufactured)<br />
+Type 86: All-wheel drive prototype (6 fabricated) <br />
+Type 87: 'Kommandeurwagen' Type 86 [[4x4]] Kübelwagen chassis with Beetle command car body. Fitted with [[running boards]], under-hood-mounted spare tire (accompanied by a gas can, a jack, a small tool kit, and a shovel), and widened fenders for its larger-diameter Kronprinz (Crown Prince) off-road tires, some were provided to preferred officers, who could push through virtually any kind of terrain with them (667 produced) [http://mitglied.lycos.de/Geschichtsverein/vwik.html]<br />
+Type 89: Fitted with an experimental [[automatic transmission]] <br />
+Type 98: 4x4 Kübelwagen-chassis with a Beetle body <br />
+Type 106: Fitted with an experimental [[Transmission (mechanics)|transmission]] (assumed different from the Type 89) <br />
+Type 107: Fitted with a [[turbocharger]] <br />
+Type 115: Fitted with a [[supercharger]] <br />
+Type 126: Fitted with a [[Manual transmission#Synchronized transmission|fully-synchronized]] [[gearbox]] (assumed different from the Type 278) <br />
+Type 155/1: [[Half-track]] / snow-track Kübelwagen prototype. Pictures of several track-set designs exist [http://www.geocities.com/CapeCanaveral/Lab/1167/evwtrack.html],<br /> although it is possible that these were consecutively fitted to the same prototype. Trials proved that the Type 155 was able to cover the most difficult terrain, but the modifications necessary to the standard Kübelwagen were extensive and the resulting vehicle was both very slow and forbiddingly inefficient. <br />
+Type 157: Railway car equipment, used for Types 82 and 87 <br />
+Type 164: Six-wheeled, twin engine, dual-control prototype; never entered production <br />
+Type 177: Fitted with a 5-speed transmission (as opposed to the standard 4-speed unit)<br />
+Type 179: Fitted with [[fuel-injected]] [[Volkswagen]] engine <br />
+Type 179-F: Later updated directly to the [[Schwimmwagen]] (mentioned above)- Could cross wateriness terrain and temporarily be used as a small boat and/or landing craft. Because of a thick and bulletproof skid plate the engine was protected and all valves in the rear were airtight. The engine had a flush-activated 179 Fuel Injected engine that would act as a drainer to push water out and not flood the engine.
+Type 198: Fitted with a PTO and auxiliary gearbox for starting the engines of armoured fighting vehicles<ref>"Typ198 Anwerfgetriebe fur Kfz. Motoren" published by Oberkommando der Heere in 1944, Berlin (D)</ref><br />
+Type 235: Fitted for power by an electric motor <br />
+Type 239: Fitted for power by a wood-gas generator mounted on the nose (also listed as Type 230) <br />
+Type 240: Fitted for power by bottled gas <br />
+[[VW 276 Schlepperfahrzeug|Type 276]]: Type 82 fitted with a towing hook to pull a 37 PAK gun<ref>"Der VW Kübelwagen Typ 82 im Zweiten Weltkrieg" by Janusz Piekalkiewicz, published by Motorbuch, Stuttgart in 2002
+ISBN 3879434689 </ref><br />
+Type 278: Fitted with [[Manual transmission#Synchronized transmission|synchronized]] [[gearbox]] <br />
+Type 307: Fitted with a heavy-duty [[carburetor]] <br />
+Type 309: Prototype fitted with a [[diesel engine]] <br />
+Type 331: Prototype fitted for power by a "native fuel system" (acetylene gas) engine (also listed as Type 231) <br />
+Type 332: Fitted for power by [[anthracite]] [[coal]]
+
+==References==
+{{No footnotes|date=September 2009}}
+Taylor, Blaine ''Volkswagen Military Vehicles of the Third Reich'' Coypright © 2004 Blaine Taylor ISBN 0-306-81313-0
+
+== Citations ==
+{{reflist}}
+
+== Images ==
+<gallery>
+Image:1943 Kübelwagen 25HP 1131cc.jpg|1943 Kübelwagen 25hp 1131cc
+Image:Austria_Gmuend_Porsche_Museum07.jpg|VW type 82 at [http://de.wikipedia.org/wiki/Porsche-Werk_Gmünd Gmünd]
+Image:VW_Kuebelwagen_2.jpg
+Image:Kübelwagen.jpg
+</gallery>
+
+==External links==
+{{Commons category|Volkswagen Kübelwagen}}
+* http://www.kubelwagen.co.uk
+* http://www.vw166.com/kubelwagen/
+*[http://www.allworldwars.com/German%20Volkswagen%201944%20Technical%20Manual.html Volkswagen Kübelwagen Technical Manual TM E9-803, US War Department, June 1944]
+
+==See also==
+*[[FN Herstal AS 24]]
+*[[FMC XR311]]
+*[[M151 MUTT]]
+*[[Baja bug]]
+*[[Cal Look]]
+*[[Punch buggy]]
+*[[Steyr 50]]
+*[[Volksrod]]
+*[[Volkswagen]]
+*[[Volkswagen 181]] (Thing/Safari/Trekker)
+*[[Volkswagen Beetle]]
+*[[Volkswagen New Beetle]]
+
+{{VW}}
+
+{{DEFAULTSORT:Volkswagen Kubelwagen}}
+[[Category:World War II German vehicles]]
+[[Category:Volkswagen vehicles|Kubelwagen]]
+[[Category:Goods manufactured in Germany]]
+[[Category:Rear-engined vehicles]]
+[[Category:Vehicles with boxer engines]]
+[[Category:Military Light Utility Vehicle]]
+
+[[cs:KdF 82]]
+[[de:VW Typ 82]]
+[[et:Kübelwagen]]
+[[es:Kubelwagen]]
+[[fr:Volkswagen Kübelwagen]]
+[[nl:Volkswagen Kübelwagen]]
+[[ja:キューベルワーゲン]]
+[[pl:Kübelwagen 82]]
+[[pt:Kübelwagen]]
+[[ru:Volkswagen Тур 82]]
+[[fi:Volkswagen Kübelwagen]]
+[[sv:Volkswagen Kübelwagen]]

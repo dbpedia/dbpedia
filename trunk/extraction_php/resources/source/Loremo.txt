@@ -1,0 +1,110 @@
+{{Infobox Company
+| name             = Loremo AG
+| logo             = 
+| type             = [[Public company]]
+| genre            = 
+| foundation       = 2000
+| founder          = 
+| location_city    = [[Marl]]
+| location_country = [[Germany]]
+| location         = 
+| locations        = 
+| area_served      = 
+| key_people       = Ulrich Sommer, Thomas Zollhoefer
+| industry         = [[Automotive industry]]
+| products         = 
+| services         = 
+| market cap       = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| assets           = 
+| equity           = 
+| owner            = 
+| num_employees    = 
+| parent           = 
+| divisions        = 
+| subsid           = 
+| homepage         = http://www.loremo.com/
+| footnotes        = 
+| intl             = 
+}}
+
+'''Loremo AG''' is a [[Germany|German]] [[automaker]] [[corporation]], based in [[Marl]]. It was founded in 2000.<ref name="bw">{{citeweb|title=Light, Sexy And Fun To Drive|url=http://www.businessweek.com/autos/content/apr2006/bw20060404_870400.htm?chan=autos_autos+index+page_auto+shows|publisher=''[[Businessweek]]''|accessdate=2008-09-14}}</ref> Loremo is  focused on designing and manufacturing cars with very low weight and air resistance,  the term "Loremo" is an abbreviation for ''Low Resistance Mobile''.<ref>{{cite news| first=William| last=Boston| url=http://www.time.com/time/europe/magazine/article/0,13005,901060717-1211547-1,00.html| title=Driving On The Light Side| publisher=''[[Time (magazine)]]''| accessdate=2006-09-02}}</ref> Initially the car was conceived for [[emerging markets]] such as [[China]] and [[India]]. However, due to the worldwide attention on [[global warming]], the company also plans to sell the Loremo across the [[European Union]].
+
+==Petrol and Diesel vehicles==
+
+[[Image:Range of the Loremo.gif|thumb|left|220px|Range of the Loremo LS base model.]]
+
+At the 2006 [[Geneva Auto Show]] the company has demonstrated its concept car which the company says will become a 157 [[fuel efficiency|mpg<sub>US</sub>]] (1.5 l/100&nbsp;km) [[turbodiesel]] car.<ref>{{cite news| first=Brandon| last=Hill| url=http://www.dailytech.com/article.aspx?newsid=1000| title=157 MPG Vehicle for only $13,000| publisher=''[[DailyTech]]'| accessdate=2006-04-28}}</ref> Two different Loremo models are currently waiting in the pipeline to be produced: the Loremo LS base model, and the sportier Loremo GT.  The Loremo GT will be based on a three cylinder turbo diesel engine and with this configuration the vehicle still manages to achieve 87 miles per gallon.<ref name="bw"/> Both models will be equipped with a [[manual transmission]] and be [[Mid-engine design|mid-engined]] in a 2+2 configuration.
+
+According to the company, the Loremo LS base model will produce only 50 grams of [[carbon dioxide]] per kilometer, which would be better than any other car on the market in terms of [[environmental sustainability]]. By comparison, the next most energy efficient model is the [[Smart (automobile)|Smart]] by German automaker [[Daimler AG]] which produces 88 grams of carbon dioxide per kilometer.
+
+[[Image:The Loremo LS at the 2006 Geneva Auto Show.jpg|thumb|right|The Loremo LS at the 2006 [[Geneva Auto Show]].]]
+<!--  [[Image:The Loremo L1 Prototype at the 2007 International Motor Show.jpg|thumb|left|220px|The Loremo L1 Prototype at the [[2007 International Motor Show]].]] -->
+
+The presentation of the Loremo during the Geneva Auto show in 2006 focused on the car's body, as it still lacked an engine. In September 2007 the company successfully accomplished the car's [[proof of concept]] in [[Frankfurt am Main]], as part of the annual [[International Motor Show]]. In preparation of presenting the first driving prototype, the Loremo L1 was equipped with a turbodiesel motor. However, in light of diminishing [[fossil fuels]], an [[electric motor]] is expected to be available in the lineup in addition to the currently planned models.
+
+On 21. January 2009 the company announced that the more powerful version Loremo GT would not be equipped with a 3-cylinder diesel engine but with a more powerful (850&nbsp;cm³, 45 KW) petrol engine.
+
+There are no conventional doors on the Loremo automobile. Getting in and out of the car is done by lifting the front portion of the car, including the windscreen, up and forward. The section is hinged at the front of the car where a radiator would normally sit. This method of entry is unconventional, but Loremo AG says that it is convenient.<ref>{{citeweb|title=The Loremo is accessed over the side – uncommon but convenient|url=http://evolution.loremo.com/content/view/96/205/lang,en/|publisher=''evolution.loremo.com''|accessdate=2008-09-15}}</ref>
+
+The project is in prototype stage, specific plans for mass production have not been made public. An area reserved for setting up a factory in Indupark Dorsten-Marl has been on offer to other organisations since the start of 2009.
+
+== All-electric vehicles==
+The next step in development is an electric-powered car. 
+
+According to the company, on 11. April 2009 the electrical version Loremo EV drove for the first time on public roads and reached speed of up to 100&nbsp;km/h. A film about this drive was published on Youtube <ref>[http://www.youtube.com/watch?v=5QIZVqYdYyY&feature=PlayList&p=27073C08FF039871&index=30]</ref>.
+
+==Technical information==
+{| class="wikitable"
+|+ '''Technical Data of the ''Low Resistance Mobile'' (LoReMo)'''<ref>http://evolution.loremo.com/content/view/98/141/lang,en/</ref>
+| bgcolor="#ffffff" align="center"| || bgcolor="#dfefff" align="center"| '''Loremo LS''' || bgcolor="#dfefff" align="center" |'''Loremo GT''' || bgcolor="#dfefff" align="center" |'''Loremo EV'''
+|-----
+| bgcolor="#efefef" |Seats || bgcolor="#dfefff" align="center"| 2+2 || bgcolor="#dfefff" align="center"| 2+2 || bgcolor="#dfefff" align="center"| 2+2
+|-----
+| bgcolor="#efefef" |Motor || bgcolor="#dfefff" align="center"|  2-cylinder [[Turbodiesel]] || bgcolor="#dfefff" align="center"|  2-cylinder [[Petrol engine]] || bgcolor="#dfefff" align="center"|  Central Electric Motor 
+|-----
+| bgcolor="#efefef" |Output|| bgcolor="#dfefff" align="center" | 20&nbsp;kW/28&nbsp;HP || bgcolor="#dfefff" align="center" |45&nbsp;kW/61&nbsp;HP || bgcolor="#dfefff" align="center" |20&nbsp;kW, Li-Ion
+|-----
+| bgcolor="#efefef" |Maximum speed || bgcolor="#dfefff" align="center"| {{convert|170|km/h|mi/h|abbr=on}} || bgcolor="#dfefff" align="center"|{{convert|200|km/h|mi/h|abbr=on}} || bgcolor="#dfefff" align="center"|{{convert|170|km/h|mi/h|abbr=on}}
+|-----
+| bgcolor="#efefef" |0-100&nbsp;km/h || bgcolor="#dfefff" align="center"|<20 s || bgcolor="#dfefff" align="center"| <10 s || bgcolor="#dfefff" align="center"| <15 s
+|-----
+| bgcolor="#efefef" |Weight|| bgcolor="#dfefff" align="center" |  {{convert|550|kg|lb|0|abbr=on}}  || bgcolor="#dfefff" align="center" | {{convert|550|kg|lb|0|abbr=on}}  || bgcolor="#dfefff" align="center" | {{convert|600|kg|lb|0|abbr=on}} 
+|-----
+| bgcolor="#efefef" |Consumption || bgcolor="#dfefff" align="center"| {{convert|2|L/100 km|abbr=on}} || bgcolor="#dfefff" align="center" |{{convert|3|L/100 km|abbr=on}}|| bgcolor="#dfefff" align="center" |6 kwh/100&nbsp;km
+|-----
+| bgcolor="#efefef" |Tank ([[Litre]]) || bgcolor="#dfefff" align="center"| {{Convert|20|L|usgal impgal|1|abbr=on}} || bgcolor="#dfefff" align="center" |{{Convert|20|L|usgal impgal|1|abbr=on}}|| bgcolor="#dfefff" align="center" |lithium ion accumulator
+|-----
+| bgcolor="#efefef" |Fuel range|| bgcolor="#dfefff" align="center"| {{convert|1000|km|mi|abbr=on}} || bgcolor="#dfefff" align="center" |{{convert|700|km|mi|abbr=on}} || bgcolor="#dfefff" align="center" | {{convert|150|km|mi|abbr=on}}
+|-----
+| bgcolor="#efefef" |[[drag (physics)|drag]] || bgcolor="#dfefff" align="center"| Cw=0.214; Cw×A=0.22 m² || bgcolor="#dfefff" align="center" |Cw=0.214; Cw×A=0.22 m²|| bgcolor="#dfefff" align="center" |Cw=0.214; Cw×A=0.22 m²
+|-----
+| bgcolor="#efefef" |Dimensions (l x b x h) || bgcolor="#dfefff" align="center"| 380&nbsp;cm × 136&nbsp;cm × 114&nbsp;cm || bgcolor="#dfefff" align="center" |380&nbsp;cm × 136&nbsp;cm × 114&nbsp;cm || bgcolor="#dfefff" align="center" |380&nbsp;cm × 136&nbsp;cm × 114&nbsp;cm 
+|-----
+| bgcolor="#efefef" |Price || bgcolor="#dfefff" align="center" | 17,000 [[Euro]] || bgcolor="#dfefff" align="center" | 24,000 [[Euro]]|| bgcolor="#dfefff" align="center" | 34,000 [[Euro]]
+|-----
+|}
+<br clear="all" />
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.loremo.com Official Loremo Website]
+*A [http://www.youtube.com/watch?v=wtlQ5EcoUxs YouTube video] picturing the prototype of the Loremo as presented during the International Motor Show in Frankfurt am Main, September 2007
+*Another [http://www.youtube.com/watch?v=YEUopHCP5MM YouTube video] featuring the electric-powered version of the Loremo, filmed in Dorsten/Marl, North Rhine-Westphalia, Germany, May 2009
+*Public Address Science: [http://www.publicaddress.net/assets/upload/17248/-482351479/PAS_Loremo.mp3 The Astonishing New Car from Bavaria that Won't Cost the Earth] (Audio file, broadcasted May 12, 2007)
+
+[[Category:Motor vehicle manufacturers of Germany]]
+[[Category:Low weight cars]]
+[[Category:Energy conservation]]
+[[Category:Planned production electric vehicles]]
+[[Category:Battery electric vehicle manufacturers]]
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+[[Category:Upcoming automobiles]]
+
+[[de:Loremo]]
+[[eo:Loremo]]
+[[no:Loremo]]

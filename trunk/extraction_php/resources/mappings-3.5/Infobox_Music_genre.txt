@@ -1,0 +1,10 @@
+{{TemplateMapping
+| mapToClass = MusicGenre
+| mappings = 
+	{{PropertyMapping | templateProperty = stylistic_origins | ontologyProperty = stylisticOrigin }}
+	{{PropertyMapping | templateProperty = instruments | ontologyProperty = instrument }}
+	{{PropertyMapping | templateProperty = derivatives | ontologyProperty = derivative }}
+	{{PropertyMapping | templateProperty = subgenres | ontologyProperty = musicSubgenre }}
+	{{PropertyMapping | templateProperty = fusiongenres | ontologyProperty = musicFusionGenre }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+}}

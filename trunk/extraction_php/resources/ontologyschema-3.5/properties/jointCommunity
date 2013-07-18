@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = joint community
+| rdfs:domain = City
+| rdfs:range = PopulatedPlace
+}}

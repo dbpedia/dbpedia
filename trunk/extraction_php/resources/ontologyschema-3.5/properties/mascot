@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = mascot
+| rdfs:range = xsd:string
+}}

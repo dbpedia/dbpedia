@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Park
+|rdfs:subClassOf = Place
+}}

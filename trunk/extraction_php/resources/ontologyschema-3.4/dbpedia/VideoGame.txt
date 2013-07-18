@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = VideoGame
+|rdfs:subClassOf = Work
+}}

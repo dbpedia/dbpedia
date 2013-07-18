@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = lowest position
+|rdfs:domain = Island
+|rdfs:range = geo:SpatialThing
+}}

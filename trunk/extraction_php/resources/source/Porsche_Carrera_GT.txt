@@ -1,0 +1,91 @@
+{{Infobox Automobile
+| name           = Porsche Carrera GT
+| image          = [[Image:Porsche Carrera GT - Goodwood Breakfast Club (July 2008).jpg|250px|Porsche Carrera GT]]
+| manufacturer   = [[Porsche]]
+| parent_company = 
+| aka            = 
+| production     = 2004&ndash;2006<br/>(1,270 produced)
+| assembly       = [[Leipzig]], [[Germany]]
+| predecessor    = [[Porsche 911 GT1]]
+| successor      = [[Porsche GT1]]
+| class          = [[Sports car]]
+| body_style     = 2-door [[roadster]]
+| layout         = [[Rear mid-engine, rear-wheel drive layout|Mid-engine, rear wheel drive]]<ref name="2006-RSportsCars-Porsche-Carrera-GT">{{cite web |url=http://www.rsportscars.com/eng/cars/carrera_gt.asp |title=RSportsCars: Porsche Carrera GT |accessdate=2007-05-04 |publisher=RSportsCars }}</ref>
+| platform       = 
+| engine         = 5.7 litre  [[Overhead camshaft|DOHC]] [[V10 engine|V10]]<ref name="2006-RSportsCars-Porsche-Carrera-GT" /><ref name="2006-Serious-Wheels-Porsche-Carrera-GT">{{cite web |url=http://www.seriouswheels.com/cars/top-2004-Porsche-Carrera-GT.htm |title=Serious Wheels: Porsche Carrera GT |accessdate=2007-05-04 |publisher=Serious Wheels }}</ref>
+| transmission   = 6-speed [[Manual transmission|manual]]<ref name="2006-Serious-Wheels-Porsche-Carrera-GT" />
+| wheelbase      = 
+| length         = {{convert|4623|mm|in||abbr=on}}<ref name="2006-RSportsCars-Porsche-Carrera-GT" />
+| width          = {{convert|1930|mm|in||abbr=on}}<ref name="2006-RSportsCars-Porsche-Carrera-GT" />
+| height         = {{convert|1168|mm|in||abbr=on}}<ref name="2006-RSportsCars-Porsche-Carrera-GT" />
+| weight         = {{convert|1380|kg|lb||abbr=on}}<ref name="2006-RSportsCars-Porsche-Carrera-GT" />
+| fuel_capacity  = {{Convert|92|L|usgal impgal|1|abbr=on}}
+| related        = 
+| designer       = 
+| sp             = us
+}}
+The '''Porsche Carrera GT''' (Project Code 980) is a [[RMR layout|mid-engined]] [[sports car]] that was manufactured by [[Porsche]] in [[Leipzig]]<ref name="LA"/>, [[Germany]].
+
+== History ==
+{{seealso|Porsche LMP}}
+The development of  Carrera GT can be traced back to its predecessors, the [[Porsche 911 GT1|911 GT1]] and [[Porsche WSC-95|LMP1-98]] [[race car|racing cars]]. Due in part to the [[Fédération Internationale de l'Automobile|FIA]] and [[Automobile Club de l'Ouest|ACO]] rule changes in 1998, both designs had ended.  Porsche at the time had planned on a new [[Le Mans prototype]] for 1999. The car was initially intended to use a turbocharged [[flat-6]], but was later redesigned to use a new [[V10 engine]], pushing the project back to planned completion in 2000. The V10 was a unit secretly built by Porsche for the [[Arrows|Footwork]] [[Formula One]] team in 1992, but later shelved. The engine was resurrected for the Le Mans prototype and increased in size to 5.7 litres. Unfortunately the project was canceled after two days of testing for the first car, in mid-1999, mostly due to Porsche's wish to build the [[Porsche Cayenne|Cayenne]] SUV with involvement from [[Volkswagen]] and [[Audi]], thus requiring engineering expertise to be pulled from the motorsports division. It was also speculated that [[Volkswagen|VW]]-[[Audi]] chairman [[Ferdinand Piëch]] wanted Audi's new Le Mans Prototype, the [[Audi R8 Race Car|Audi R8]] not to face competition from Porsche in 2004.
+
+Porsche did keep part of the project alive by using the 5.5&nbsp;L V10 from the prototype in a [[concept car]] shown at the 2000 [[Geneva Motor Show]], mainly in an attempt to draw attention to their display. Surprising interest in the vehicle and an influx of revenue provided from the Cayenne helped Porsche decide to produce the car, and development started on a road-legal version that would be produced in small numbers at Porsche's new manufacturing facility in [[Leipzig, Germany|Leipzig]]. Porsche started a production run of Carrera GTs in 2004, shipping the units with an MSRP of $440,000 [[United States Dollar|USD]] and a dealer invoice price of approximately $414,800 USD. In addition, the delivery charge could be as much as $5,000 USD. The first Carrera GT went on sale in the US on January 31, 2004.
+
+Originally a production run of 1,500 cars was planned. But Porsche announced in August, 2005 that it would not continue production of the Carrera GT through 2006, citing discontinuation was due to changing airbag regulations in the US. {{As of|2006|5|alt=As of May 6, 2006}}, 1,270 GT's had been manufactured, with 604 being sold in the United States.<ref>[http://www.sybarites.org/2006/05/11/porsche-announce-the-end-of-carrera-gt-production Porsche Announces The End Of Carrera GT Production]</ref>
+
+== Design ==
+[[Image:Porsche Carrera GT engine.jpg|thumb|left|5.7 [[litre]] [[V10 engine|V10]] [[internal combustion engine|engine]]]]
+The Carrera GT is powered by a 5.7 [[litre]] [[V10 engine|V10]] [[internal combustion engine|engine]] producing 612 DIN (605 SAE) [[horsepower]] (450 k[[watt|W]]),<ref name="CD">{{cite web|title=Porsche Carrera GT - Road Test|publisher=''Car and Driver''|url=http://caranddriver.com/reviews/hot_lists/high_performance/porsche_file/porsche_carrera_gt_road_test|accessdate=2008-02-21}}</ref> whereas the original [[concept car]] featured a 5.5 litre version rated at 558 hp (416 kW).  Porsche claims it will accelerate from 0 to 100 [[km/h]] (62.1 [[Miles per hour|mph]]) in 3.9&nbsp;seconds and has a maximum speed of 330&nbsp;km/h (205&nbsp;mph)<ref name="LA">{{cite web|title=Porsche Carrera GT - Auto Shows|publisher=''Car and Driver''|url=http://caranddriver.com/reviews/hot_lists/high_performance/sports_car_central/porsche_carrera_gt_auto_shows|accessdate=2008-02-25}}</ref>, although road tests indicated that in reality the car can accelerate from 0-{{convert|60|mph|km/h|abbr=on}} in 3.5&nbsp;seconds<ref name="CD"/> and 0-{{convert|100|mph|km/h|abbr=on}} in 6.8<ref name="CD"/> seconds, while 0-{{convert|125|mph|km/h|abbr=on}} in 9.9 seconds{{Fact|date=January 2008}}.
+
+The Carrera GT has a basic five colour paint scheme which includes Guards Red, Fayence Yellow, Basalt Black, GT Silver and Seal Grey. Custom colours were also available from the factory. A traditional six-speed [[manual transmission]] is the only available transmission. Attached to this gearbox is a beechwood gearknob which pays homage to the wooden gearknob used in the [[Porsche 917]] Le Mans racers. In its second year of production, a limited edition [[carbon fiber|carbon fibre]] knob was also made available.
+
+The Carrera GT has large side inlets and air [[dam]]s that help cool the large [[V10 engine]] that had {{convert|612|bhp|kW PS|0|abbr=on}}{{Fact|date=December 2008}} framed by the [[carbon fiber|carbon fibre]] rear hood. Fitted with Porsche's latest [[reinforced carbon-carbon#similar products|Carbon fibre-reinforced Silicon Carbide]] (C/SiC) [[ceramic]] composite [[brake]] system, the {{convert|15|in|mm|sing=on}} [[SGL Carbon]] disc brakes make an impressive appearance underneath the 19&nbsp;inch front and 20&nbsp;inch rear wheels.  Similar to other Porsche models, such as the [[w:Porsche 911|911]], the GT includes an automated rear wing spoiler which deploys above {{convert|70|mph|km/h|abbr=on}}.
+
+The interior is fitted with soft leather. [[Bose Corporation|Bose]] [[audio system]] and navigation systems are available as options. In typical Porsche fashion, the [[ignition]] is to the left of the steering wheel. This placement dates back to the early days of Le Mans racing when drivers were required to make a running start, hop into their cars, start them and begin the race. The placement of the ignition enabled the driver to start the car with his left hand and put it in gear with his right.
+
+== Technology ==
+[[Image:PCCB Brake Carrera GT.jpg|thumb|The Porsche Carrera GT's carbon-ceramic (silicon carbide) [[disc brake]]]]Notable technology includes a pure [[Graphite-reinforced plastic|carbon fiber]] [[monocoque]] and subframe, [[dry sump]] lubrication and inboard [[Suspension (vehicle)|suspension]]. The carbon fiber monocoque and subframe were produced and assembled by ATR Composites Group of [[Italy]]. The spoiler of the Carrera GT extends into the air when the car reaches about {{convert|70|mi|km}} an hour and evens out the air flow, which causes less drag. The Carrera GT radiator is about five times the size of a 911 Turbo's. Front and rear suspension consist of pushrod activated shock absorbers and dampers with front and rear anti-roll bars.
+
+== Gallery ==
+<gallery>
+image:Porsche carrera gt front.jpg|Porsche Carrera GT – Front
+Image:Porsche carrera gt rear.jpg|Porsche Carrera GT – Rear
+image:carraragtinterior.jpg|Porsche Carrera GT Interior
+Image:CarreraGT.jpg|Porsche Carrera GT
+</gallery>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{commonscat|Porsche Carrera GT}}
+* [http://www.porsche.com/ Porsche Official Web Site]
+* [http://www.sybarites.org/2006/05/11/porsche-announce-the-end-of-carrera-gt-production/ Final Carrera GT Produced]
+
+{{Porsche}}
+
+[[Category:Porsche vehicles|Carrera GT]]
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+[[Category:Sports cars]]
+[[Category:Roadsters]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2004]]
+
+[[bs:Porsche Carrera GT]]
+[[bg:Порше Карера ГТ]]
+[[cs:Porsche Carrera GT]]
+[[de:Porsche Carrera GT]]
+[[es:Porsche Carrera GT]]
+[[fr:Porsche Carrera GT]]
+[[it:Porsche Carrera GT]]
+[[nl:Porsche Carrera GT]]
+[[ja:ポルシェ・カレラGT]]
+[[no:Porsche Carrera GT]]
+[[pl:Porsche Carrera GT]]
+[[pt:Porsche Carrera GT]]
+[[ru:Porsche 980 Carrera GT]]
+[[fi:Porsche Carrera GT]]
+[[sv:Porsche 980 Carrera GT]]
+[[tr:Porsche Carrera GT]]
+[[uk:Porsche Carrera GT]]

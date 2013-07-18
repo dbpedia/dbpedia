@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = mission duration
+| rdfs:domain = SpaceMission
+| rdfs:range = Time
+}}

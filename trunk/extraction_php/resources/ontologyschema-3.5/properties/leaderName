@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = leader name
+| rdfs:domain = PopulatedPlace
+| rdfs:range = Person
+}}

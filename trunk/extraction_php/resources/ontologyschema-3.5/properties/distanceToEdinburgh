@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = distance to Edinburgh
+| rdfs:domain = City
+| rdfs:range = Length
+}}

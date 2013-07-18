@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = canonized place
+| rdfs:domain = Saint
+| rdfs:range = PopulatedPlace
+}}

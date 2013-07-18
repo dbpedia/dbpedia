@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = total population
+|rdfs:domain = EthnicGroup
+|rdfs:range = xsd:integer
+}}

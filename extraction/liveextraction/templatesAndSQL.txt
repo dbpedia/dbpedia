@@ -1,0 +1,51 @@
+
+
+DROP TABLE TemplateAnnotation_relatedClasses;
+DROP TABLE PropertyMapping;
+DROP TABLE PropertyAnnotation;
+DROP TABLE TemplateAnnotation;
+
+
+SELECT * 
+FROM templateannotation ta 
+JOIN propertyannotation pa ON (ta.id = pa.parent_id) 
+WHERE ta.name = "TemplateName/Doc";
+
+SELECT * 
+FROM templateannotation a 
+JOIN templateannotation_impliedclasses b ON (b.templateannotation_id = a.id);
+FROM templateannotation to property annotation uri
+
+
+SELECT * 
+FROM templateannotation a 
+JOIN propertyannotation b ON (b.parent_id = a.id) 
+JOIN propertyannotation_uris c ON (c.propertyannotation_id = b.id);
+
+
+
+{{DBpedia Property Annotation 
+| property = birthplace 
+| refineTo = birthPlace
+| refineTo = foaf:birth
+}}
+
+
+{{DBpedia Property Annotation 
+| property = birthplace 
+| renameTo = birthPlace
+| renameTo = foaf:birth
+| label ???
+| type ?? uri, List??
+| parseHint ????
+}}
+
+{{DBpedia Property Annotation 
+| property = xqcid 
+| ignore
+}}
+
+{{DBpedia Template Annotation  | 
+relatesToConcept = Person
+relatesToConcept = LivingPeople
+}}

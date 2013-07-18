@@ -1,0 +1,48 @@
+{{Infobox Automobile
+|name=BMW M41 engine
+|manufacturer=[[BMW]]
+|production=1994&ndash;2000
+|successor=[[BMW M47]]
+|class=[[Straight-4]] [[Diesel engine|Diesel]]
+|engine=1.7&nbsp;L (1665&nbsp;cc/101&nbsp;in³)
+}}
+The '''[[BMW]] M41''' was a [[straight-4]] [[Diesel engine]] produced from 1994 through 2000[http://bimmerportal.com .]
+
+{| class=wikitable
+|+Models
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|M41D17||1.7&nbsp;L (1665&nbsp;cc/101&nbsp;in³)||66&nbsp;kW (90&nbsp;hp) @ 4400||190&nbsp;N·m (140&nbsp;ft·lbf) @ 2000||4800||1994-2000
+|}
+
+Applications:
+* 1994-2000 [[BMW E36|E36]] [[BMW 3-Series|318tds]]
+
+
+==M41D17==
+
+With the M41 engine the first four cylinder diesel engine was introduced by BMW.
+
+Then engine had been derived of the [[BMW_M51|M51D25]] the engine and shared 56% of the components, only 14% had be newly developed. 
+
+This engine became available in several models of the E36 model series
+
+* 4 door sedan
+* 5 door touring
+* 3 door compact
+
+Fuel consumption is around 6,5 l/100km in combined use (EUR) in the 318tds 4 door sedan version.
+
+==See also==
+* [[List of BMW engines]]
+
+[[Category:BMW engines|M41]]
+
+
+{{automotive-part-stub}}
+
+[[da:BMW M41]]
+[[it:BMW M41]]
+[[no:BMW M41]]
+[[pl:BMW M41]]

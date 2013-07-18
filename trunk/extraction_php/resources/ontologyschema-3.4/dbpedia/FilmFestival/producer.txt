@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = producer
+|rdfs:domain = FilmFestival
+|rdfs:range = Person
+}}

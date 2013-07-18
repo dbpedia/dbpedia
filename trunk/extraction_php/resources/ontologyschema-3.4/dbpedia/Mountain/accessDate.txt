@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= ascent date
+|rdfs:domain 	= Mountain
+|rdfs:range		= xsd:gYear
+}}

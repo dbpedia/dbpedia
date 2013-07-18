@@ -1,0 +1,17 @@
+{{ DBpediaTemplateMapping
+| mapToClass = FilmFestival
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = opening | ontologyProperty = FilmFestival/openingFilm }}
+	{{ DBpediaPropertyMapping | templateProperty = closing | ontologyProperty = FilmFestival/closingFilm }}
+	{{ DBpediaPropertyMapping | templateProperty = films | ontologyProperty = FilmFestival/film }}
+	{{ DBpediaPropertyMapping | templateProperty = directors | ontologyProperty = FilmFestival/director }}
+	{{ DBpediaPropertyMapping | templateProperty = producers | ontologyProperty = FilmFestival/producer }}
+	{{ DBpediaPropertyMapping | templateProperty = writers | ontologyProperty = FilmFestival/writer }}
+	{{ DBpediaPropertyMapping | templateProperty = starring | ontologyProperty = FilmFestival/starring }}
+	{{ DBpediaPropertyMapping | templateProperty = language | ontologyProperty = FilmFestival/language }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = date | ontologyProperty = Event/startDate }}
+	{{ DBpediaPropertyMapping | templateProperty = date | ontologyProperty = Event/endDate }}
+	{{ DBpediaPropertyMapping | templateProperty = location | ontologyProperty = Event/location }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

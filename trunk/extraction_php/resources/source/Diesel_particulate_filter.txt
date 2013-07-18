@@ -1,0 +1,131 @@
+[[Image:FAP-Filter Peugeot.jpg|thumb|A diesel particulate filter (top left) in a Peugeot]]
+A '''diesel particulate filter''', sometimes called a '''DPF''', is a device designed to remove [[diesel particulate matter]] or [[soot]] from the [[exhaust gas]] of a [[diesel engine]]. Wall-flow diesel particulate filters usually remove 85% or more of the soot, and can at times (heavily loaded condition) attain soot removal efficiencies of close to 100%. A [[Diesel engine|diesel]]-powered [[vehicle]] equipped with functioning filter will emit no visible smoke from its exhaust pipe.
+
+In addition to collecting the particulate, a method must exist to clean the filter. Some filters are single-use (disposable), while others are designed to burn off the accumulated particulate, either through the use of a catalyst (passive), or through an active technology, such as a fuel burner which heats the filter to soot combustion temperatures, through engine modifications (the engine is set to run a certain specific way when the filter load reaches a pre-determined level, either to heat the exhaust gases, or to produce high amounts of [[nitrogen oxide|NO<sub>2</sub>]], which will oxidize the particulates at relatively low temperatures), or through other methods. This is known as "filter regeneration". [[Sulfur]] in the fuel interferes with many "regeneration" strategies, so almost all jurisdictions that are interested in the reduction of particulate emissions, are also passing regulations governing fuel sulfur levels.
+
+==History==
+Particulate filters have been in use on non-road machines since 1980, and in automobiles since 1996. Diesel engines during combustion of the fuel/air mix produce a variety of particles generically classified as diesel particulate matter due to incomplete combustion. The composition of the particles varies widely dependent upon engine type, age, and the emissions specification that the engine was designed to meet. [[Two-stroke]] diesel engines produce more particulate per horsepower output than do [[four-stroke]] diesel engines, as they burn the fuel-air mix less completely. 
+
+Historically diesel engine emissions were not regulated until 1987 when the first California Heavy Truck rule was introduced capping particulate emissions at 0.60 g/BHP Hour. Since then progressively tighter standards have been introduced for both [http://www.dieselnet.com/standards/us/hd.html On-Road] and [http://www.dieselnet.com/standards/us/offroad.html Non-Road] diesel engines.  
+
+While particulate emissions from diesel engines was first regulated in the [[United States]], similar regulations have also been adopted by the [[European Union]], most Asian countries, and the rest of [[North America|North]] and [[South America]] [http://www.dieselnet.com/standards/ World List of Standards].
+
+While no jurisdiction has made filters mandatory, the increasingly stringent emissions regulations that engine manufactures must meet mean that eventually all on-road diesel engines will be fitted with them. The American 2007 heavy truck engine emissions regulations cannot be met without filters.  In the European Union, filters are expected to be necessary to meet Euro.VI heavy truck engine emissions regulations currently under discussion and planned for the 2012-2013 time frame. [[PSA Peugeot Citroën]] was the first company to make them standard fit on passenger cars in 2000, in anticipation of the future [[Euro V]] regulations. 
+
+It is expected that non-road diesel engines will be regulated in a similar manner.
+
+As of July 2006 the [[California Air Resources Board]] is looking at introducing regulations that will require [[retrofit]] of all diesel engines operating in the state by the year 2013. Other jurisdictions may also do this. A variety of retrofit programs have been done:
+*2001 - [[Hong Kong]] retrofit program
+*2002 - In [[Japan]] the [[Tokyo|Prefecture of Tokyo]] passed a law banning trucks without filters from entering the city limits.
+*2003 - [[Mexico City]] started a program to retrofit trucks
+*2004 - [[New York City]] retrofit program (non-road)
+*2008 - [[Milan]] [[Ecopass]] area [[road pricing|traffic charge]], charging a hefty entrance tax on all diesel vehicles except for those with a particulate filter, either stock or retrofit
+*2008 - [[London]] [[London low emission zone| Low Emission Zone]] charges charging vehicles that do not meet [[emission standard]]s encourages retrofit filters
+
+==Variants of DPFs==
+
+[[Image:7.8Isuzu7500.jpg|thumb|Cordierite Diesel Particulate Filter on GM 7.8 Isuzu]]
+
+Unlike a [[catalytic converter]] which is a flow-through device, a DPF cleans exhaust gas by forcing the gas to flow through the filter. There are a variety of diesel particulate filter technologies on the market. Each is designed around similar requirements:
+# Fine filtration
+# Minimum [[pressure drop]]
+# Low cost
+# Mass production suitability
+# Product durability
+
+===Cordierite wall flow filters===
+The most common filter is made of [[cordierite]] (a ceramic material that is also used as catalytic converter supports (cores)). Cordierite filters provide excellent filtration efficiency, are (relatively) inexpensive, and have thermal properties that make packaging them for installation in the vehicle simple. The major drawback is that cordierite has a relatively low [[melting point]] (about 1200&nbsp;[[°C]]) and cordierite substrates have been known to melt down during filter regeneration. This is mostly an issue if the filter has become loaded more heavily than usual, and is more of an issue with passive systems than with active systems, unless there is a system break down.
+
+Cordierite filter cores look like catalytic converter cores that have had alternate channels plugged - the plugs force the exhaust gas flow through the wall and the particulate collects on the inlet face.
+
+===Silicon carbide wall flow filters===
+The second most popular filter material is [[silicon carbide]], or [[SiC]]. It has a higher (2700&nbsp;°C) melting point than cordierite, however it is not as stable thermally, making packaging an issue. Small SiC cores are made of single pieces, while larger cores are made in segments, which are separated by a special cement so that heat expansion of the core will be taken up by the cement, and not the package. SiC cores are usually more expensive than cordierite cores, however they are manufactured in similar sizes, and one can often be used to replace the other.
+
+Silicon carbide filter cores also look like catalytic converter cores that have had alternate channels plugged - again the plugs force the exhaust gas flow through the wall and the particulate collects on the inlet face.
+
+===Ceramic Fiber Filters===
+Fibrous ceramic filters are made from several different types of ceramic fibers that are mixed together to form a porous media.  This media can be formed into almost any shape and can be customized to suit various applications.  The porosity can be controlled in order to produce high flow, lower efficiency or high efficiency lower volume filtration.  Fibrous filters have an advantage over wall flow design of producing lower back pressure.
+
+===Metal fiber flow through filters===
+Some cores are made from metal fibers - generally the fibers are "woven" into a monolith. Such cores have the advantage that an electrical current can be passed through the monolith to heat the core for regeneration purposes, allowing the filter to regenerate at low exhaust temperatures and/or low exhaust flow rates. Metal fiber cores tend to be more expensive than cordierite or silicon carbide cores, and generally not interchangeable with them.
+
+===Paper===
+Disposable paper cores are used in certain specialty applications, without a regeneration strategy. [[Coal mine]]s are common users — the exhaust gas is usually first passed through a water trap to cool it, and then through the filter. Paper filters are also used when a diesel machine must be used indoors for short periods of time, such as on a forklift being used to install equipment inside of a store.
+
+===Partial filters===
+There are a variety of devices that produce over 50% particulate matter filtration, but less than 85%. Partial filters come in a variety of materials. The only commonality between them is that they produce more back pressure than a catalytic converter, and less than a diesel particulate filter. Partial filter technology is popular for retrofit.
+
+==Filter usage==
+A properly designed filter will have little effect on fuel usage, however improper installation can be catastrophic, which is why automobile and truck engine manufacturers have avoided the use of filter technology until now. It was first offered as standard by the French manufacturer [[PSA Peugeot Citroën]] in early 2000, and has been a huge success.{{Fact|date=June 2007}} Slow adoption by the [[Germany|German]] car industry sparked local protests in [[March 2005]].{{Fact|date=June 2007}}
+
+==Maintenance==
+Filters require more maintenance than catalytic converters. Engine oil ash builds up on the surface of the inlet face of the filter, and will eventually clog the pores. This increases the pressure drop over the filter, which when it reaches {{convert|3.6|psi}}<!-- was 100 inH2O --> or higher it is capable of causing engine damage. Regular filter maintenance is a necessity.<ref>[http://www.dpfregeneration.com - DPFRegeneration.com - Clean and Thermal Bake Diesel Particulate Filters]</ref>
+
+==Regeneration==
+{{Wikify|date=June 2008}}
+[[Image:Dosierpumpe.gif|thumb|Metering pump for Diesel or additive injection, 3 L/h at 5 bar]]
+Regeneration is the process of removing the accumulated soot from the filter. This is done either passively (by adding a catalyst to the filter) or actively. On-board active filter management can use a variety of strategies:
+# Engine management to increase exhaust temperature
+# Use of a fuel borne catalyst to reduce soot burn-out temperature
+# A fuel burner to increase the exhaust temperature
+# A catalytic oxidizer to increase the exhaust temperature, with after injection (HC-Doser)
+# Resistive heating coils to increase the exhaust temperature
+# [[Microwave energy]] to increase the particulate temperature
+
+All on-board active systems use extra fuel, whether through burning to heat the DPF, or providing extra power to the DPF's electrical system, although the use of a fuel borne catalyst reduces the energy required very significantly. Typically a computer monitors one or more sensors that measure back pressure and/or temperature, and based on pre-programmed set points the computer makes decisions on when to activate the regeneration cycle. The additional fuel can be supplied by a [[metering pump]]. Running the cycle too often while keeping the back pressure in the exhaust system low will use extra fuel. The reverse runs risk of engine damage and/or uncontrolled regeneration and possible DPF failure. Quality regeneration software is a necessity for longevity of the active DPF system. 
+
+Diesel particulate matter combusts when temperatures above 600 degrees Celsius are attained. This temperature can be reduced to somewhere in the range of 350 to 450 degrees Celsius by use of a fuel borne catalyst. The actual temperature of soot burn-out will depend on the chemistry employed. The start of combustion causes a further increase in temperature. In some cases, in the absence of a fuel borne catalyst, the combustion of the particulate matter can raise temperatures above the structural integrity threshold of the filter material, which can cause catastrophic failure of the substrate. Various strategies have been developed to limit this possibility. Note that unlike a spark-ignited engine, which typically has less than 0.5% oxygen in the exhaust gas stream before the emission control device(s), many diesel engines run above 15% oxygen pre-filter. While the amount of available oxygen makes fast regeneration of a filter possible, it also contributes to runaway regeneration problems.
+
+Some applications use off-board regeneration. Off-board regeneration requires operator intervention (i.e. the machine is either plugged into a wall/floor mounted regeneration station, or the filter is removed from the machine and placed in the regeneration station). Off-board regeneration is not usable for on-road vehicles, except in situations where the vehicles are parked in a central depot when not in use. Off-board regeneration is mainly used in industrial and mining applications. Coal mines (with the attendant explosion risk from coal damp) use off-board regeneration if non-disposable filters are installed, with the regeneration stations sited in an area where non-permissible machinery is allowed. 
+
+Many [[forklift]]s make also use off-board regeneration - typically mining machinery and other machinery that spend their operational lives in one location, which makes having a stationary regeneration station practical. In situations where the filter is physically removed from the machine for regeneration there is also the advantage of being able to inspect the filter core on a daily basis (DPF cores for non-road applications are typically sized to be usable for one shift - so regeneration is a daily occurrence.<ref>[http://www.deep.org/reports/stobiedpf.pdf Bruce R. Conrad], "Diesel Emissions Evaluation Program - INCO" Diesel Emissions Evaluation Program Website (May 2006) </ref>
+
+== Diesel Oxidation Catalyst (DOC) ==
+DOCs is the other diesel [[retrofit]] system. They are devices that use a chemical process to break down pollutants in the [[exhaust]] stream into less harmful components. More specifically, DOCs utilise [[palladium]] and [[platinum]] catalysts to reduce the particulate matter (PM), 
+hydrocarbon based soluble organic fraction (SOF), and carbon monoxide content of diesel exhaust by simple oxidation :
+
+CO + ½O<sub>2</sub> &rarr; CO<sub>2</sub>
+
+[HC] + O<sub>2</sub> &rarr; CO<sub>2</sub> + H<sub>2</sub>O
+
+{{Expand-section|date=June 2008}}
+
+== Retrofit solutions and certification ==
+When used in a retrofit application to reduce the emissions of an older vehicle, the devices may require certification and approval. Schemes such as the [[London low emission zone]] require equipment to be certified for use on a particular vehicle or engine, together with an annual inspection of vehicles to ensure they are still operating as expected.
+
+== Notes ==
+<references/>
+
+== See also ==
+* [[Air pollution]]
+* [[Selective catalytic reduction]]
+* [[Smog]]
+* [[Ultra-low sulphur diesel]]
+
+== External links ==
+* [http://www.dieselretrofit.eu Diesel Retrofit in Europe].
+*[http://www.energysavingtrust.org.uk/fleet/Informationcentre/Accreditation/lowemissionzone/ Case studies in the use of abatement devices to meet Low Emission Zone requirements ]
+* [http://www.ectausa.com Emissions Control Technology Association]
+* [http://www.aecc.eu Association for Emissions Control by Catalyst].
+* [http://www.epa.gov/otaq/retrofit/documents/f03016.pdf EPA, Questions and Answers on Using a Diesel Oxidation Catalyst in Heavy-duty Trucks and Buses].
+* [http://www.airqualitycs.com/decs.php CARB Verified Diesel Emission Retrofit Database].
+* [http://www.arb.ca.gov/diesel/verdev/verdev.htm  CARB's Diesel Emission Control Strategies Verification]
+* [http://www.factsaboutscr.com FactsAboutSCR.com, North American SCR Stakeholders Group]
+
+[[Category:Automotive accessories]]
+[[Category:Engine technology]]
+[[Category:Filters]]
+[[Category:Particulate control]]
+
+[[da:Partikelfilter]]
+[[de:Dieselrußpartikelfilter]]
+[[es:Filtro antipartículas]]
+[[fr:Filtre à particules]]
+[[it:Filtro attivo antiparticolato]]
+[[nl:Roetfilter]]
+[[ja:DPF]]
+[[pl:Filtr cząstek stałych]]
+[[pt:Filtro de partículas diesel]]
+[[sk:Filtrácia výfukových plynov]]
+[[fi:Hiukkassuodatin]]
+[[sv:Partikelfilter]]

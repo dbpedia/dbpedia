@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Arachnid
+| rdfs:subClassOf = Animal
+}}

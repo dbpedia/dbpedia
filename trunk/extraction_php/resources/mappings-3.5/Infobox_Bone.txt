@@ -1,0 +1,11 @@
+{{TemplateMapping
+| mapToClass = Bone
+| mappings = 
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = GraySubject | ontologyProperty = graySubject }}
+	{{PropertyMapping | templateProperty = GrayPage | ontologyProperty = grayPage }}
+	{{PropertyMapping | templateProperty = MeshName | ontologyProperty = meshName }}
+	{{PropertyMapping | templateProperty = MeshNumber | ontologyProperty = meshNumber }}
+	{{PropertyMapping | templateProperty = DorlandsPre | ontologyProperty = dorlandsPrefix }}
+	{{PropertyMapping | templateProperty = DorlandsSuf | ontologyProperty = dorlandsSuffix }}
+}}

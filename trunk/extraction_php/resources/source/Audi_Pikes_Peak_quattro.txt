@@ -1,0 +1,60 @@
+{{Infobox Automobile
+|name           = Audi Pikes Peak quattro
+|image          = 
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|aka            = 
+|production     = 2003
+|assembly       = 
+|predecessor    = 
+|successor      = [[Audi Q7]]
+|class          = [[concept car]], [[Sport utility vehicle|SUV]]
+|body_style     = 5-door 6-seater large SUV
+|layout         = [[Front-engine design|Front engine]],<br>[[quattro (four wheel drive system)|quattro]] permanent [[four wheel drive]]
+|platform       =
+|engine         = 4.2L [[gasoline direct injection|FSI]] [[V8 engine|V8]] 2x[[overhead camshaft|DOHC]]
+|transmission   = 6-speed [[tiptronic]] [[automatic transmission]]
+|wheelbase      =
+|length         =
+|width          =
+|height         =
+|weight         =
+|fuel_capacity  =
+|related        = 
+}}
+
+The '''Audi Pikes Peak quattro''' was a [[sport utility vehicle]] [[concept car]].  It was created by [[Germany|German]] premium [[automobile]] manufacturer, [[Audi]].<ref>{{PDF|[http://www.audi.com/etc/medialib/cms4imp/audi2/company/financial_information/pdf.Par.0103.File.pdf Audi 2003 Product Strategy - indicating Audi Pikes Peak quattro detail (p.13)]|1.50&nbsp;MB}} - </ref><ref>[http://www.conceptcarz.com/vehicle/z6661/Audi_Pikes%20Peak%20Quattro/default.aspx Audi Pikes Peak quattro info, from ConceptCarz.com]</ref>  The Pikes Peak quattro was first introduced at the 2003 [[North American International Auto Show]].  It was the first of three concept cars designed by [[Audi]] and shown in 2003, ahead of the [[Audi Nuvolari quattro|Nuvolari quattro]] and the [[Audi Le Mans quattro|Le Mans quattro]].
+
+The Pikes Peak quattro was named after the famed [[hillclimbing]] course, [[Pikes Peak International Hill Climb|Pikes Peak]] in the Rocky Mountains, which they had taken overall wins and broken records during the 1980s, due to the off-road capability of their "quattro" cars.
+
+The Pikes Peak quattro design was subsequently developed into the production [[Audi Q7]].
+
+==Engine, performance, and design==
+The Pikes Peak quattro uses a [[twin-turbo]]charged 4.2 L [[gasoline direct injection|Fuel Stratified Injection]] (FSI) [[V8 engine]].  This develops {{convert|368|kW|PS bhp|0|lk=on|abbr=on}} and {{convert|630|Nm|0|lk=on|abbr=on}} of [[torque]] from 2000&nbsp;rpm, and features [[overhead camshaft|DOHC]] (two per cylinder bank) with 5 valves per cylinder.
+
+Engine output is transmitted through a 6-speed [[tiptronic]] [[automatic transmission]], complete with [[steering wheel]] mounted paddle shifters.  [[quattro (four wheel drive system)|quattro]] permanent [[four wheel drive]] system is also standard.
+
+Acceleration is 0-{{convert|100|km/h|0|abbr=on}} in 4.7 seconds, while the top speed is electronically limited to {{convert|250|km/h|0|abbr=on}}.
+
+The Pikes Peak quattro is well-suited for off-road use with its high ride height, adaptive air suspension, [[quattro (four wheel drive system)|quattro]] permanent [[four wheel drive]], and power [[rack and pinion]] steering.
+{{clr}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat|Audi concept vehicles}}
+{{Commonscat|Pikes Peak International Hill Climb}}
+* [http://www.audi.com Audi official site]
+
+{{Audi}}
+
+{{DEFAULTSORT:Pikes Peak Quattro}}
+[[Category:Audi vehicles]]
+[[Category:Audi concept vehicles]]
+
+
+{{modern-auto-stub}}
+
+[[nl:Audi Pikes Peak quattro]]
+[[pt:Audi Pikes Peak]]

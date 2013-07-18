@@ -1,0 +1,7 @@
+{{ MainTemplate |
+prop E = {{subTpl | value_A  | value_B }} text {{subTpl | value_C | value_D }} |
+prop A = text {{subTpl }} |
+prop B = text {{subTpl | valueX | valueY }} text |
+prop C = text {{AnothersubTpl | value a = X | value b = y | value c }} |
+prop D = text
+}}

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = past team
+| rdfs:domain = FootballPlayer
+| rdfs:range = SportsTeam
+}}

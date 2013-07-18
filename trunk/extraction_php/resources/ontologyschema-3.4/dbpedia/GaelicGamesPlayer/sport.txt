@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = sport
+|rdfs:domain = GaelicGamesPlayer
+|rdfs:range = owl:Thing
+}}

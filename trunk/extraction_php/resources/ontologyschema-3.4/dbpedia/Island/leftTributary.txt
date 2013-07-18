@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = left tributary
+|rdfs:domain = Island
+|rdfs:range = Island
+}}

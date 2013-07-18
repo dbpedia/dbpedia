@@ -1,0 +1,24 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Aircraft
+| mappings =
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = national origin | ontologyProperty = origin }}
+
+	{{DateIntervalMapping | templateProperty = produced |
+	startDateOntologyProperty = productionStartDate|
+	endDateOntologyProperty = productionEndDate}}
+
+	{{DateIntervalMapping | templateProperty = produced |
+	startDateOntologyProperty = productionStartYear|
+	endDateOntologyProperty = productionEndYear}}
+
+	{{PropertyMapping | templateProperty = number built | ontologyProperty = numberBuilt }}
+	{{PropertyMapping | templateProperty = program cost | ontologyProperty = programCost | unit = Currency }}
+	{{PropertyMapping | templateProperty = unit cost | ontologyProperty = unitCost | unit = Currency }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = manufacturer | ontologyProperty = manufacturer }}
+	{{PropertyMapping | templateProperty = introduction | ontologyProperty = introductionDate }}
+	{{PropertyMapping | templateProperty = retired | ontologyProperty = retired }}
+	{{PropertyMapping | templateProperty = developed from | ontologyProperty = predecessor }}
+	{{PropertyMapping | templateProperty = variants with their own articles | ontologyProperty = successor }}
+</textarea>

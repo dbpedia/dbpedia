@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = campus type
+| rdfs:domain = School
+| rdfs:range = xsd:string
+}}

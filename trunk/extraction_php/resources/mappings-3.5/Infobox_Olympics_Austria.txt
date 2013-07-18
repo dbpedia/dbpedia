@@ -1,0 +1,19 @@
+{{TemplateMapping
+| mapToClass = OlympicResult
+| mappings = 
+	{{PropertyMapping | templateProperty = NOC | ontologyProperty = nationalOlympicCommittee }}
+	{{PropertyMapping | templateProperty = NOCname | ontologyProperty = nationalOlympicCommittee }}
+	{{PropertyMapping | templateProperty = oldcode | ontologyProperty = oldcode }}
+	{{PropertyMapping | templateProperty = games | ontologyProperty = games }}
+	{{PropertyMapping | templateProperty = competitors | ontologyProperty = numberOfCompetitors }}
+	{{PropertyMapping | templateProperty = sports | ontologyProperty = numberOfSports }}
+	{{PropertyMapping | templateProperty = flagbearer | ontologyProperty = flagBearer }}
+	{{PropertyMapping | templateProperty = officials | ontologyProperty = numberOfOfficials }}
+	{{PropertyMapping | templateProperty = gold | ontologyProperty = numberOfGoldMedalsWon }}
+	{{PropertyMapping | templateProperty = silver | ontologyProperty = numberOfSilverMedalsWon }}
+	{{PropertyMapping | templateProperty = bronze | ontologyProperty = numberOfBronzeMedalsWon }}
+	{{PropertyMapping | templateProperty = rank | ontologyProperty = rankInFinalMedalCount }}
+	{{PropertyMapping | templateProperty = summerappearances | ontologyProperty = summerAppearances }}
+	{{PropertyMapping | templateProperty = winterappearances | ontologyProperty = winterAppearances }}
+	{{PropertyMapping | templateProperty = otherappearances | ontologyProperty = otherAppearances }}
+}}

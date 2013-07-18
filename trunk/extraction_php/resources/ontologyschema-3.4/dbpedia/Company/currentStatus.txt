@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= current status
+|rdfs:domain	= Company
+|rdfs:range		= xsd:string
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = population metro
+| rdfs:domain = PopulatedPlace
+| rdfs:range = xsd:integer
+}}

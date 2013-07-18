@@ -1,0 +1,125 @@
+{{Infobox Automobile
+| image          = [[Image:Mercedes-Benz R 350.jpg|250px|Mercedes-Benz R350 (US)]]
+| name           = Mercedes-Benz R-Class
+| manufacturer   = [[Mercedes-Benz]]
+| parent_company = [[Daimler AG]]
+| production     = 2005–present
+| class          = [[Sports Touring Wagon]] / [[Full-size]] [[crossover SUV]]
+| body_style     = 5-door [[station wagon|wagon]]
+| starting price = [[United States dollar|US$]]67,855.00 
+| wheelbase      = 3215&nbsp;mm (126.6&nbsp;in)
+| length         = 5157&nbsp;mm (203.0&nbsp;in)
+| width          = 2006–08: 1922&nbsp;mm (75.7&nbsp;in)<br>2009–: {{Auto in|77.1|0}}
+| height         = 1661&nbsp;mm (65.4&nbsp;in)
+| engine         = 3.0L [[V6]]<br>
+3.5L [[V6]]<br>
+5.0L [[V8]]<br>
+5.5L [[V8]]<br>
+6.2L [[V8]]
+| platform       = [[Mercedes-Benz W251]]
+| transmission   = 7-speed [[automatic transmission|automatic]]
+| assembly       = [[Tuscaloosa, Alabama]], [[United States|USA]]<br>[[Mexico City]], [[Mexico]]
+| layout         = [[Front-engine design|Front engine]], [[rear-wheel drive]] / [[four-wheel drive]]
+| related        = [[Mercedes-Benz M-Class]] <br> [[Mercedes-Benz GL-Class]]}}
+
+The '''R-Class''' is a [[multi-purpose vehicle]] (MPV) offered by [[Daimler AG]] in 2006 model year under the '''[[Mercedes-Benz]]''' [[brand]]. It is the first full-sized multi-purpose vehicle ever produced by Mercedes-Benz. It was first seen at the 2001 [[Detroit Auto Show]] as the '''Vision GST''' (''Grand Sports Tourer'') concept, and the final production vehicle was shown at the 2005 [[New York International Auto Show]]. The R-Class is built on the W251 [[Automobile platform|chassis]], and is assembled in [[Tuscaloosa, Alabama]] and [[Mexico City]]. It is priced between the [[Mercedes-Benz M-Class|M-Class]] and the [[Mercedes-Benz GL-Class|GL-Class]]. It was initially marketed by Mercedes-Benz as a "Sports Cruiser" and later as a "Family Tourer".<ref>http://www.mercedes-benz.ca/index.cfm?id=306</ref>
+
+The R-Class is offered in two wheelbases, {{convert|2980|mm|in|1|abbr=on}} and {{convert|3215|mm|in|1|abbr=on}}.
+
+Models using the [[BlueTec]] Diesel engine will be introduced for the 2009 model year.
+{|class="wikitable" style="font-size:98%;" width="300"
+|-
+|+Models
+!Model !!Engine !!Power
+|-
+!colspan=3|Diesel
+|-
+|'''R 280 CDI''' ||3.0&nbsp;L V6 ||{{convert|190|PS|kW hp||abbr=on}}
+|-
+|'''R 320 CDI''' ||3.0&nbsp;L V6 ||{{convert|224|PS|kW hp||abbr=on}}
+|-
+!colspan=3|Petrol
+|-
+|'''R 280''' ||3.0 [[litre|L]] [[V6]] ||{{convert|231|PS|kW hp||abbr=on}}
+|-
+|'''R 350''' ||3.5&nbsp;L V6 ||{{convert|272|PS|kW hp||abbr=on}}
+|-
+|'''R 500''' ||5.0&nbsp;L [[V8]] ||{{convert|306|PS|kW hp||abbr=on}}
+|-
+|'''R 550''' ||5.5&nbsp;L V8 ||{{convert|388|PS|kW hp||abbr=on}}
+|-
+|'''R 63 AMG''' ||6.2&nbsp;L V8 ||{{convert|510|PS|kW hp||abbr=on}}
+|-
+|}
+
+==AMG==
+
+The [[Mercedes-AMG|AMG]] version of the W251, the '''R63 AMG''', was introduced at the 2006 [[North American International Auto Show]] as a 2007 model. It features a handbuilt 6.2&nbsp;L ''[[Mercedes-Benz M156 engine|M156]]'' [[V8]] engine producing 503&nbsp;hp (375&nbsp;kW) and 465&nbsp;ft·lbf (630&nbsp;N·m) of torque. Mercedes-Benz's [[7G-Tronic]] seven-speed [[automatic transmission]] is standard, but the R63 features AMG-calibrated shift times with shifting buttons on the back of the steering wheel.
+
+The R63 AMG is electronically limited to a top speed of {{convert|155|mi/h|km/h|abbr=on}}, with 0-60 mph time of 5.0~ seconds. It is no longer sold in the United States.
+
+==Safety==
+
+The R-Class scores "Good" in the [[IIHS]] front crash test.<ref>http://www.iihs.org/ratings/rating.aspx?id=914</ref>  But was given an "Acceptable" rating in the side impact crash test before 2009 models built after September 2008 because the test dummy's torso faced excessive loads.<ref>http://www.iihs.org/ratings/rating.aspx?id=965</ref>
+For 2009 models built after September 2008, Mercedes modified the seatbelts and interior door trim and the IIHS rated the R-class "Good" overall in side impacts allowing the R-Class to receive the ''Top Safety Pick'' award.<ref>http://www.iihs.org/ratings/ratingsbyseries.aspx?id=630</ref>
+
+==2007 updates==
+[[Image:Mercedes R320CDI L AMG-Sportpaket front.JPG|200px|thumb|right|Facelift R320 CDI L with the AMG pack]]
+Mercedes-Benz announced in May 2007 that the R-Class range would be broadened.<ref>http://www.emercedesbenz.com/May07/10_Enhanced_Styling_Updated_Seating_More_Engines_And_Rear_Wheel_Drive_Mercedes_Enhances_R_Class_Lineup.html</ref> Rear-wheel drive variants will be available in addition to the [[four-wheel-drive]] versions, and more flexible seating options (5, 6, or 7-seat versions) would be offered, AMG styling and a new three litre petrol and diesel engine will be available in the R280 and R280 CDI.
+
+==Poor sales and replacement==
+Sales have not met with manufacturer's expectations, having fallen well short of a planned 50,000 a year. In 2007 only 13,031 vehicles were sold worldwide, and Mercedes is currently working on a replacement for the R-Class. <ref>"MBUSI to produce Mercedes’ first hybrid in wake of poor R-Class reception", article published [[January 15]] in Tuscaloosa News, http://www.tuscaloosanews.com/article/20080115/LATEST/64323222
+</ref> The R-Class will get a minor face-lift for 2011.{{Fact|date=December 2008}}
+
+{| class="wikitable"
+|-
+! US Calendar Year
+! Sales
+|-
+| 2005
+| 4,959
+|-
+| 2006
+| 18,168
+|-
+| 2007
+| 13,031
+|-
+| 2008
+| 7,733
+|}
+
+{{Clear}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat|Mercedes-Benz R-Class}}
+* [http://www.mercedes-benz.com/ Mercedes-Benz International]
+* [http://www.mercedes-benz.com/grandsportstourer Experience the R-Class - the Grand Sports Tourer]
+* [http://www.familycar.com/RoadTests/MercedesR350/Photos.htm R350 Gallery] - FamilyCar.com, R500 images available.
+
+{{Mercedes-Benz vehicles}}
+
+[[Category:Mercedes-Benz vehicles|R-Class]]
+[[Category:Crossover SUVs]]
+[[Category:Minivans]]
+[[Category:2000s automobiles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles introduced in 2006]]
+
+[[cs:Mercedes-Benz třídy R]]
+[[de:Mercedes-Benz R-Klasse]]
+[[es:Mercedes-Benz Clase R]]
+[[fr:Mercedes-Benz Classe R]]
+[[it:Mercedes-Benz Classe R]]
+[[nl:Mercedes-Benz R-Klasse]]
+[[ja:メルセデス・ベンツ Rクラス]]
+[[pt:Mercedes-Benz Classe R]]
+[[ru:Mercedes-Benz R-класс]]
+[[simple:Mercedes-Benz R-Class]]
+[[fi:Mercedes-Benz R-sarja]]
+[[sv:Mercedes-Benz R-klass]]
+[[tr:Mercedes-Benz R Serisi]]
+[[uk:Mercedes-Benz R-Class]]

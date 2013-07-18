@@ -1,0 +1,97 @@
+{{one source|date=November 2009}}
+{{Infobox Automobile engine
+|name          = Volkswagen wasserboxer
+|image         = [[image:wasserboxer.jpg|250px]] ''1;913&nbsp;cc DH wasserboxer
+|manufacturer  = [[Volkswagen Group]]
+|aka           = 
+|production    = August 1982&ndash;July 1992<ref name=ETKA>[[ETKA]]</ref>
+|predecessor   = [[Volkswagen air cooled engine]]
+|successor     = 
+|configuration = [[flat-4]] [[petrol engine]]
+|displacement  = {{convert|1914|cc|1|abbr=on|lk=on}},<br>{{convert|2109|cc|1|abbr=on}}
+|bore          = {{convert|94.0|mm|2|abbr=on|lk=on}}<ref name=ETKA/>
+|stroke        = 
+|length        = 
+|width         = 
+|height        = 
+|diameter      = 
+|weight        = 
+|block         = [[casting|Cast]] [[aluminium alloy]]
+|head          = Cast aluminium alloy
+|valvetrain    = [[overhead valve|pushrod OHV]]
+|fuelsystem    = 
+|fueltype      = [[gasoline|Petrol/gasoline]]
+|oilsystem     = [[Wet sump]]
+|coolingsystem = [[water cooling|Watercooled]]
+|power         = 
+|specpower     = 
+|torque        = 
+|compression   = 
+|fuelcon       = 
+|specfuelcon   = 
+|oilcon        = 
+}}
+The '''Volkswagen wasserboxer''' is a four [[cylinder (engine)|cylinder]] [[flat engine|horizontally opposed]] [[overhead valve|pushrod overhead valve]] (OHV) [[petrol engine]] developed by [[Volkswagen]].  The engine is [[water cooling|watercooled]], and takes its name from the {{lang-de|"wasserboxer"}}; which when translated into English, means "water-boxer" - or water-cooled boxer - with boxer being an alternative name for a horizontally opposed engine.  It was available in two [[engine displacement|displacements]] - either a 1.9&nbsp;[[litre]]<ref name=ETKA/> or a 2.1&nbsp;litre;<ref name=ETKA/> the 2.1&nbsp;litre being a longer [[stroke (engine)|stroke]] version of the 1.9&nbsp;litre, both variants sharing the same [[bore (engine)|cylinder bore]].<ref name=ETKA/>  This engine was unique to the [[Volkswagen Type 2 (T3)]] (Transporter T3 / Caravelle / Vanagon / T25), having never been used in any other vehicle.<ref name=ETKA/>
+
+==Design detail==
+The Wasserboxer featured a [[casting|cast]] [[aluminium alloy]] [[cylinder block]], [[cylinder head]]s, and [[piston]]s; and a [[forging|forged]] [[steel]] flatplane [[crankshaft]] with three [[main bearing]]s.<ref name=ETKA/>
+
+The Wasserboxer, as with all Volkswagen boxer engines, directly drives the three-bearing [[camshaft]] via a small steel gear on the crankshaft, and a large aluminium one on the camshaft, so there is no [[timing belt]] or timing chain.  The entire mechanism is internal to the engine, so there should be no concerns regarding wear or replacements, as long as the [[motor oil|engine oil]] is changed regularly.  The [[overhead valve|overhead]] [[poppet valve#internal combustion engine|poppet valves]] each feature two [[concentric]] valve [[spring (device)|springs]], and are operated by pushrods and adjustable rocker arms.<ref name=ETKA/>
+
+It also featured "Heron", or "bowl-in-piston" type [[combustion chamber]]s - where the combustion takes place within the piston area, and not in a recess machined in the cylinder head.<ref name=ETKA/>
+
+The [[cylinder bank]]s contain [[cast iron]] [[cylinder liner]]s inserted into a [[water jacket]], with a "rubber lip" style [[head gasket]], which is a very different design as compared to most vehicles.  The top of the cylinder liners is pressed into a recessed cut-out in the cylinder heads, that are sealed with compressible metal rings, to prevent leakage.<ref name=ETKA/>
+
+Some Wasserboxers were plagued by water jacket gasket failures (often erroneously referred to as head gaskets) due to several design issues.  Engine failure was also a result of poorly placed sensors, corrosion in the cooling system, and many areas subjected to leaks.
+
+This engine is representative of the fact that boxer four cylinders produce an audible low pitch "rumble", rather than a high pitch buzz/whine, when running.  Some find this aspect of the engine to be pleasing, owing to the dislike{{citation needed|date=June 2008}} of the "sewing machine" sound of [[inline-four engine]]s.
+
+The switch to water-cooling for the boxer engines was made mid-year in 1982, because Volkswagen could no longer make the [[air-cooled engine]]s meet [[emission standard|emissions standards]].  (The previous generation [[Volkswagen Type 2#T2|Volkswagen Type 2 (T2)]], currently produced in Brazil, has been switched to water-cooled engines since 23 December 2005 in response to Brazil's emission laws; the power plant used in the previous-generation T2 is an [[Audi]]-sourced inline four.)  Water-cooled models can be distinguished by a second radiator [[grille]].
+
+==Variants==
+All data from [[ETKA]].<ref name=ETKA/>
+{|class="wikitable" style="text-align: center; font-size: 94%;"
+|-
+!engine<br>ID code!![[compression ratio|compr.<br>ratio]]!!max. [[motive power|motive]] [[power (physics)|power]]!![[fuel]] system!!years!!notes
+|-
+|colspan="7" align="center"  bgcolor=#C0C0C0|<big>'''1.9&nbsp;[[litre]] engines &mdash; {{convert|1914|cc|1|abbr=on|lk=on}}</big>
+|-
+|align="left"|'''DF||8.6:1||{{convert|44|kW|PS bhp|0|abbr=on|lk=on}}||34 PICT-5 [[carburetor]]||08/82-07/92|| 
+|-
+|align="left"|'''DG||8.6:1||{{convert|57|kW|PS bhp|0|abbr=on}}||2E3 or 2E4 carburetor||08/82-07/92|| 
+|-
+|align="left"|'''DH|| ||{{convert|60|kW|PS bhp|0|abbr=on}}||Digijet (Digital-[[Jetronic]]) [[fuel injection]], vane-type [[air flow meter]]||01/83-07/85|| 
+|-
+|align="left"|'''EY||7.5:1||{{convert|55|bhp|kW PS|0|abbr=on}}||34 PICT-5 carburetor|| ||{{citation needed|date=November 2009}}
+|-
+|align="left"|'''GW||8.6:1||{{convert|66|kW|PS bhp|0|abbr=on}}||Digijet (Digital-Jetronic) fuel injection, vane-type air flow meter||08/83-07/85|| 
+|-
+|align="left"|'''SP|| ||{{convert|54|kW|PS bhp|0|abbr=on}}||2E3 or 2E4 carburetor||08/86-07/89||Switzerland only
+|-
+|colspan="7" align="center"  bgcolor=#C0C0C0|<big>'''2.1&nbsp;[[litre]] engines &mdash; {{convert|2109|cc|1|abbr=on|lk=on}}</big>
+|-
+|align="left"|'''DJ||10:1||{{convert|82|kW|PS bhp|0|abbr=on|lk=on}}||Digijet (Digital-[[Jetronic]]) [[fuel injection]], vane-type [[air flow meter]]||08/84-07/92||sold in [[Europe]]an countries not requiring catalytic converter
+|-
+|align="left"|'''MV|| ||{{convert|70|kW|PS bhp|0|abbr=on}}||[[Digifant Engine Management system|Digifant II]] fuel injection, vane-type air flow meter||08/85-07/92||also used until the end of Vanagon importation into the US in 1991
+|-
+|align="left"|'''SR|| ||{{convert|64|kW|PS bhp|0|abbr=on}}||Digifant II fuel injection, vane-type air flow meter||08/86-07/92||Switzerland only
+|-
+|align="left"|'''SS||9:1||{{convert|68|kW|PS bhp|0|abbr=on}}||Digifant II fuel injection, vane-type air flow meter||08/89-07/92|| 
+|}
+
+==See also==
+{{commons category|Volkswagen Group engines}}
+*[[list of discontinued Volkswagen Group petrol engines]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.Volkswagen.com Volkswagen.com] corporate website
+
+{{Volkswagen Group brands}}
+{{VW}}
+{{Volkswagen Commercial Vehicles}}
+
+[[Category:Boxer engines]]
+[[Category:Volkswagen engines]]

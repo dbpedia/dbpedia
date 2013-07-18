@@ -1,0 +1,14 @@
+{{TemplateMapping
+| mapToClass = ChemicalCompound
+| mappings = 
+	{{PropertyMapping | templateProperty = Density | ontologyProperty = density | unit = Density }}
+	{{PropertyMapping | templateProperty = MeltingPt | ontologyProperty = meltingPoint | unit = Temperature }}
+	{{PropertyMapping | templateProperty = BoilingPt | ontologyProperty = boilingPoint | unit = Temperature }}
+	{{PropertyMapping | templateProperty = melting point K | ontologyProperty = meltingPoint | unit = kelvin }}
+	{{PropertyMapping | templateProperty = melting point C | ontologyProperty = meltingPoint | unit = degreeCelsius }}
+	{{PropertyMapping | templateProperty = melting point F | ontologyProperty = meltingPoint | unit = degreeFahrenheit }}
+	{{PropertyMapping | templateProperty = boiling point K | ontologyProperty = boilingPoint | unit = kelvin }}
+	{{PropertyMapping | templateProperty = boiling point C | ontologyProperty = boilingPoint | unit = degreeCelsius }}
+	{{PropertyMapping | templateProperty = boiling point F | ontologyProperty = boilingPoint | unit = degreeFahrenheit }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+}}

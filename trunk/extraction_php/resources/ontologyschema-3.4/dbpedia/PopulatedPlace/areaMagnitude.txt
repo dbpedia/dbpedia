@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = area magnitude
+|rdfs:domain = PopulatedPlace
+|rdfs:range = squareMetre
+}}

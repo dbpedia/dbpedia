@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = model end date
+| rdfs:domain = MeanOfTransportation
+| rdfs:range = xsd:date
+}}

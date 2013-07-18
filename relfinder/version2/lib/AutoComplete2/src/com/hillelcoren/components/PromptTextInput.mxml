@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox
+	xmlns:mx="http://www.adobe.com/2006/mxml"	
+	implements="com.hillelcoren.components.autoComplete.interfaces.iComboItem"
+	verticalScrollPolicy="off" horizontalScrollPolicy="off"
+	verticalAlign="middle" backgroundColor="#FFFFFF"
+	width="100" borderStyle="inset" initialize="init()" 
+	xmlns:classes="com.hillelcoren.components.autoComplete.classes.*">
+	
+	<mx:Metadata>
+		[Event("change")]
+	</mx:Metadata>
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.core.Application;
+			import mx.core.UIComponent;
+			import mx.containers.Box;
+			import mx.controls.Image;
+			import mx.states.SetStyle;
+			
+			private var _prompt:String;
+			private var _isPromptSet:Boolean;
+			private var _drawFocusBorder:Boolean = true;
+			
+			[Bindable]
+			private var _enableClearIcon:Boolean = true;
+			private var _enablePrompt:Boolean = true;
+			private var _isMouseOver:Boolean;
+			
+			[Embed(source="/com/hillelcoren/assets/clear.png")]
+			private var _clearAsset:Class;
+			
+			private var _text:String;
+			private var _textChanged:Boolean;
+			
+			private function init():void
+			{
+				addEventListener( FocusEvent.FOCUS_IN, handleFocusIn );
+				addEventListener( FocusEvent.FOCUS_OUT, handleFocusOut );
+				addEventListener( MouseEvent.MOUSE_OVER, handleMouseOver );
+				addEventListener( MouseEvent.MOUSE_OUT, handleMouseOut );
+				
+				textInput.addEventListener( Event.CHANGE, handleChange );				
+				
+				showPrompt();
+			}
+			
+			override protected function commitProperties():void
+			{
+				super.commitProperties();
+				
+				if (_textChanged)
+				{
+					_textChanged = false;
+					setNewText();
+				}
+			}
+			
+			private function showPrompt():void
+			{
+				if (_prompt == null || !_enablePrompt)
+				{
+					return;
+				}
+				
+				if (!textInput)
+				{
+					return;
+				}
+				
+				// check that the component isn't currently focused
+				var focus:InteractiveObject = textInput.getFocus();
+				
+				if (focus && focus.parent == textInput)
+				{
+					return;
+				}
+				
+				_isPromptSet = true;
+				textInput.text = _prompt;
+				
+				setStyle( "color", Consts.COLOR_TEXT_DISABLED );
+				setStyle( "fontStyle", "italic" );
+			}
+			
+			private function hidePrompt():void
+			{
+				if (_isPromptSet)
+				{
+					textInput.text = "";	
+				}
+				
+				_isPromptSet = false;
+				
+				clearStyle( "color" );
+				clearStyle( "fontStyle" );
+			}
+			
+			public function set prompt( value:String ):void
+			{
+				_prompt = value;
+				
+				showPrompt();
+			}
+			
+			public function set enableClearIcon( value:Boolean ):void
+			{
+				_enableClearIcon = value;
+			}
+			
+			public function set enablePrompt( value:Boolean ):void
+			{
+				_enablePrompt = value;
+				
+				if (!_enablePrompt)
+				{
+					hidePrompt();
+				}
+			}
+			
+			override public function validateNow():void
+			{
+				super.validateNow();
+				
+				textInput.validateNow();
+			}
+			
+			public function get text():String
+			{
+				if (_isPromptSet)
+				{
+					return "";
+				}
+				else
+				{
+					// When setting the htmlText property there's a delay until the text
+					// property is ready. This will force it to update it's text value 
+					if (textInput.text == null && textInput.htmlText != null)
+					{
+						validateNow();
+					}
+					
+					return textInput.text;
+				}
+			}
+			
+			public function get item():Object
+			{
+				return null;
+			}
+			
+			/*
+			public function get htmlText():String
+			{
+				if (_isPromptSet)
+				{
+					return "";
+				}
+				else
+				{
+					return textInput.htmlText;
+				}
+			}
+			*/
+			
+			public function get selectionBeginIndex():int
+			{
+				return textInput.selectionBeginIndex;
+			}
+			
+			public function set text( value:String ):void
+			{
+				_text = value;
+				_textChanged = true;
+				
+				invalidateProperties();
+			}
+			
+			private function setNewText():void
+			{	
+				if (_text == null)
+				{
+					textInput.text = "";
+					textInput.setSelection( 0, 0 );
+					
+					showPrompt();
+					hideClearIcon();
+				}	
+				else
+				{
+					hidePrompt();
+					textInput.text = _text;							
+				}
+				
+				textInput.validateNow();
+			}
+			
+			/*
+			public function set htmlText( value:String ):void
+			{
+				if (value == null)
+				{
+					textInput.htmlText = "";
+					textInput.setSelection( 0, 0 );
+					
+					showPrompt();
+					hideClearIcon();
+				}	
+				else
+				{
+					hidePrompt();
+					textInput.htmlText = value;																		
+				}					
+			}
+			*/
+			
+			public function setTextSelected( value:Boolean ):void
+			{
+				var startPos:uint = value ? 0 : text.length;
+				
+				textInput.setSelection( startPos, text.length );
+			}
+				
+			private function handleFocusIn( event:FocusEvent ):void
+			{
+				if (_drawFocusBorder)
+				{
+					drawFocus( true );					
+				}
+				
+				if (_isPromptSet)
+				{
+					hidePrompt();
+				}
+			}
+			
+			private function handleFocusOut( event:FocusEvent ):void
+			{
+				if (_drawFocusBorder)
+				{
+					drawFocus( false );
+				}
+				
+				if (textInput.text.length == 0)
+				{
+					showPrompt();
+				}
+			}
+			
+			public function set drawFocusBorder( value:Boolean ):void
+			{
+				_drawFocusBorder = value;
+			}
+			
+			private function handleChange( event:Event ):void
+			{
+				dispatchEvent( event );
+				
+				// this helps keep the input at a good 
+				// horizontal scroll position
+				var scrollPos:int 		= textInput.horizontalScrollPosition;
+    			var maxScrollPos:int 	= textInput.maxHorizontalScrollPosition;
+    			
+    			if (scrollPos - maxScrollPos > 50)
+    			{
+    				textInput.horizontalScrollPosition -= 50;
+    			}
+				
+				if (_isMouseOver)
+				{
+					if (text && text.length > 0)
+					{
+						showClearIcon();
+					}
+					else
+					{
+						hideClearIcon();
+					}
+				}																		
+			}
+			
+			private function handleMouseOver( event:MouseEvent ):void
+			{
+				_isMouseOver = true;
+				
+				if (text.length == 0)
+				{
+					return;
+				}
+				
+				showClearIcon();
+			}
+			
+			private function handleMouseOut( event:MouseEvent ):void
+			{
+				_isMouseOver = false;
+				
+				/*
+				if (clearIcon.visible = true)
+				{
+					if (event.relatedObject == getChildAt(1))
+					{
+						return;
+					}					
+					
+					hideClearIcon();
+				}
+				*/
+				
+				hideClearIcon();
+			}
+			
+			private function hideClearIcon():void
+			{
+				clearIcon.visible = false;
+			}
+			
+			private function showClearIcon():void
+			{
+				if (_enableClearIcon)
+				{
+					clearIcon.visible = true;
+				}																			
+			}
+			
+			private function handleClearClick():void
+			{
+				text = null;
+				validateNow();
+				
+				hidePrompt();
+				setFocus();
+				
+				var event:Event = new Event( Event.CHANGE );
+				dispatchEvent( event );
+			}
+			
+			override public function setFocus():void
+			{
+				textInput.setFocus();
+			}	
+			
+			public function setTextFocus():void
+			{
+				textInput.setSelection( 0, 0 );
+				setFocus();
+			}	
+			
+			public function isCursorAtBeginning():Boolean
+			{
+				return selectionBeginIndex == 0;
+			}				
+			
+			public function isCursorAtEnd():Boolean
+			{
+				return selectionBeginIndex == text.length;
+			}
+
+			public function isEditable():Boolean
+			{
+				return true;
+			}
+			
+			public function setCursorPosition( value:int ):void
+			{
+				_setCursorPosition( value );
+				callLater( _setCursorPosition, [value] );
+			}	
+			
+			private function _setCursorPosition( value:int ):void
+			{
+				textInput.selectionBeginIndex = value;
+				textInput.selectionEndIndex = value;
+			}
+			
+		]]>
+	</mx:Script>
+	
+	<classes:ShorterTextInput id="textInput" width="100%" borderStyle="none"/> 
+	<mx:Image id="clearIcon" source="@Embed('/com/hillelcoren/assets/clear.png')" verticalAlign="middle" 
+		visible="false" includeInLayout="{ _enableClearIcon }" click="handleClearClick()"/>
+			
+</mx:HBox>

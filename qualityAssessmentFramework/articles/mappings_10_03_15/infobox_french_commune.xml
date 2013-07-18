@@ -1,0 +1,29 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = AdministrativeRegion
+| mappings =
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+        {{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+        {{PropertyMapping | templateProperty = city_motto | ontologyProperty = motto }}
+        {{PropertyMapping | templateProperty = time_zone | ontologyProperty = timeZone }}
+        {{PropertyMapping | templateProperty = region | ontologyProperty = region }}
+        {{PropertyMapping | templateProperty = departments | ontologyProperty = department }}
+        {{PropertyMapping | templateProperty = arrondissements | ontologyProperty = arrondissement }}
+        {{PropertyMapping | templateProperty = cantons | ontologyProperty = canton }}
+        {{PropertyMapping | templateProperty = subdivisions | ontologyProperty = subdivisions }}
+        {{PropertyMapping | templateProperty = intercommunality | ontologyProperty = intercommunality }}        
+        {{PropertyMapping | templateProperty = mayor | ontologyProperty = mayor }}
+        {{PropertyMapping | templateProperty = elevation_m | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_max_m | ontologyProperty = maximumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = elevation_min_m | ontologyProperty = minimumElevation | unit = metre }}
+        {{PropertyMapping | templateProperty = area_km2 | ontologyProperty = area | unit = squareKilometre  }}
+        {{PropertyMapping | templateProperty = population | ontologyProperty = populationTotal }}
+        {{PropertyMapping | templateProperty = population_year | ontologyProperty = populationAsOf }}
+        {{PropertyMapping | templateProperty = postal_code | ontologyProperty = postalCode }}
+        {{PropertyMapping | templateProperty = INSEE | ontologyProperty = inseeCode }}
+        {{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+
+	{{GeocoordinatesMapping | latitude = latitude  | longitude = longitude }}
+</textarea>

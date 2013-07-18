@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= sales
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= Sales
+}}

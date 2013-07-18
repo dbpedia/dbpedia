@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = source confluence place
+| rdfs:range = PopulatedPlace
+}}

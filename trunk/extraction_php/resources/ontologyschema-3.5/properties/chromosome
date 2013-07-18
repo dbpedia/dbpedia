@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = chromosome
+| rdfs:domain = Protein
+| rdfs:range = xsd:string
+}}

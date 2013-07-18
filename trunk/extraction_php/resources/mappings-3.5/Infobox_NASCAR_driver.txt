@@ -1,0 +1,9 @@
+{{TemplateMapping
+| mapToClass = NascarDriver
+| mappings = 
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Birthdate | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = Birthplace | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = Died | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = Cause of Death | ontologyProperty = deathCause }}
+}}

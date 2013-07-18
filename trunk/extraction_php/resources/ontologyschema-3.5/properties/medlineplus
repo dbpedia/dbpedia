@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = MedlinePlus
+| rdfs:domain = Disease
+| rdfs:range = xsd:string
+}}

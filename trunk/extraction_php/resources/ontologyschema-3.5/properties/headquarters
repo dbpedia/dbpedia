@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = headquarters
+| rdfs:domain = Newspaper
+| rdfs:range = PopulatedPlace
+}}

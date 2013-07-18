@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = city
+|rdfs:domain = BodyOfWater
+|rdfs:range = PopulatedPlace
+}}

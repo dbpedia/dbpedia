@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = distributing company
+| rdfs:domain = RecordLabel
+| rdfs:range = Company
+}}

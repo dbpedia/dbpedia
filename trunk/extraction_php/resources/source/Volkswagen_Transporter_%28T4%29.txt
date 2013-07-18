@@ -1,0 +1,143 @@
+{{redirect|Eurovan|the large MPV codeveloped by PSA and Fiat|Eurovan (PSA/Fiat joint venture)}}
+{{Infobox Automobile
+|layout=[[Front-engine design|Front engine]], [[front-wheel drive]] / [[four-wheel drive]]
+|name=Volkswagen Transporter (T4)
+|aka=Volkswagen Eurovan
+|manufacturer=[[Volkswagen]]
+|production=1991-2003
+|body_style=4-door [[minivan]]<br>3-door [[minivan]]
+|class=[[Minivan]]
+|platform=[[Volkswagen Group T platform#T4|Volkswagen Group T platform]]
+|engine=<br>[[Volkswagen Routan]] ([[United States]] & [[Canada]])
+|length=1991-97: {{Auto in|186.6|0}}<br>1998-2003: {{Auto in|188.5|0}}
+|width={{Auto in|72.4|0}}
+|height=1991-97: {{Auto in|75.6|0}}<br>1991-93 CV: {{Auto in|74.8|0}}<Br>1994-97 CV: {{Auto in|77.6|0}}<br>1999-2003: {{Auto in|76.4|0}}
+|transmission=4-speed [[Automatic transmission|automatic]]<bR>5-speed [[Manual transmission|manual]]
+|image=[[Image:Volkswagen Eurovan -- 08-21-2009.jpg|250px|1998-2003 Volkswagen Eurovan (US)]]
+}}
+
+The '''Volkswagen Transporter''' (known in North America as the '''Volkswagen Eurovan''') was the first [[front-engine design|front-engined]] [[van]] produced by [[Germany|German]] automaker [[Volkswagen Commercial Vehicles]] and is the successor of the [[Volkswagen Type 2]] van.  It is built on the [[Volkswagen Group T platform]].
+
+==History==
+As early as the late 1970s, [[Volkswagen]] began to think about replacing their rear-engined [[Volkswagen Type 2|Type 2]] vans with a more modern, front-engined, water-cooled design, as they had very successfully done with their passenger cars earlier in that decade.  The reason why in 1980 they still introduced the new rear-engined '''[[Vanagon|T3/Vanagon]]''' instead is unclear; the front-engined van was delayed until 1990.
+
+==T4 (1990–2003)==
+
+The T4, released in 1990, was the first Transporter without a rear engine. It was now available in two wheelbases, with the front engined layout allowing greater diversity for special bodies - from wreckers to three-axled minibuses to large box-bodied ambulances. Transversely mounted engines with four, five and six cylinders, and the turbocharged [[direct injection]] [[diesel engine]]s, were available. The T4 ceased production in 2003 after 14 years (making it second only to the T1 for length of production in its home market).
+
+There was one major model change to the T4, in 1994, when the re-shaped front end was introduced.  This was needed to fit the six-cylinder [[VR6]] engine into the Transporter's engine bay. The commercial variants, however, which were not available with the VR6, retained the old look (although they were changed as well, they just still looked almost the same).  Keeping with the [[Volkswagen Type 2|Type 2's]] tradition, these two versions are called '''T4a''' and '''T4b''' by enthusiasts.
+{{imagestack|
+[[Image:VW Eurovan T4a Multivan Allstar.jpg|thumb|Early 1990s Multivan Allstar]]
+[[File:90-93 Volkswagen Eurovan.jpg|right|thumb|1993 Volkswagen Eurovan (US)]]
+[[Image:VW Eurovan T4b Highroof Halfpanel.jpg|thumb|Late 1990s Transporter Highroof Half-Panel long wheelbase]]
+
+The engine range has become rather too large to elaborate here. T4a were available with [[Straight-4|four-]] and [[Straight-5|five-cylinder]] engines, both petrol and diesel; the T4b saw not only the VR6, but also the five-cylinder [[Turbocharged Direct Injection|TDI]] engines that since have replaced the traditional normally aspirated diesels.
+
+===T4 in US===
+
+The Eurovan, as the T4 generation was exported to North America from 1992 until 2003 (in the United States, the Eurovan was only sold in 1993, and again in 1999-2003, whereas it was not sold in [[Canada]] for 1997-98) only as a passenger version, except for those that were shipped to Winnebago Industries for conversion to either '''Campers''', which were shipped to and sold by U.S. VW dealers, or to '''Rialtas''', where were sold by Winnebago dealers directly. Smaller than a standard American delivery van, but larger than an American or Japanese passenger minivan, VW played up its size with the slogan, "EuroVan: There's nothing mini about it."
+
+In the U.S., the models were:
+*the seven-seat '''Eurovan CL''','''GL''', and '''GLS'''
+*the '''Eurovan MV''', in which the second row of seats face the rear and are removable, the third row converts into a bed, a folding table in the passenger area, window curtains, and a fluorescent lamp above table.
+*the '''Eurovan MV Weekender''', an '''MV''' plus a [[Westfalia]] conversion that adds a pop-top roof, a second overhead bed, bug screens for side windows and rear hatch, utility battery, and standard refrigerator.
+*the '''Eurovan Camper''', which is the long wheelbase commercial van converted by [[Winnebago Industries]] to include a pop-top roof, two two-person beds, seating for four (plus optional single or two-person center seats), a one cubic foot refrigerator that runs on propane, DC, or AC, a propane furnace, a closet, cabinets, sink with cold water and a gray water tank, a two-burner propane stove, two two-person dinette tables, coach battery, house lighting, and the two front bucket seats made to swivel around to face the dinette/kitchen area.
+
+===Engines===
+[[File:2.5 81kW ACU T4 (1995).jpg|thumb|right|A {{convert|110|PS|kW hp||abbr=on}} 2.5 litre [[straight-5]] [[petrol engine]] mounted in a MY 1995 European specification Volkswagen Caravelle T4.]]
+====Petrol engines====
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 90%;"
+|- style="background:#DCDCDC" align="center" valign="middle" 
+!Model
+!Engine code
+!Engine type
+!Displacement
+!Max output
+!Max torque
+!Years
+|- bgcolor=#ffffff
+|'''1.8'''||PD||[[Straight-4]] [[SOHC]] 8V||1.781 cc||{{convert|67|PS|kW hp||abbr=on}} at 4000 rpm||{{convert|140|Nm|lbft||abbr=on}} at 2200 rpm||1990-1992
+|- bgcolor=#ffffff
+|'''2.0'''||AAC||Straight-4 SOHC 8V||1.968 cc||{{convert|84|PS|kW hp||abbr=on}} at 4300 rpm||{{convert|159|Nm|lbft||abbr=on}} at 2200 rpm||1990-2003
+|- bgcolor=#ffffff
+|'''2.5'''||AAF; ACU||[[Straight-5]] SOHC 10V||2.461 cc||{{convert|110|PS|kW hp||abbr=on}} at 4500 rpm||{{convert|190|Nm|lbft||abbr=on}} at 2200 rpm||1990-1997
+|- bgcolor=#ffffff
+|'''2.5'''||AET; APL; AVT||Straight-5 SOHC 10V||2.461 cc||{{convert|115|PS|kW hp||abbr=on}} at 4500 rpm||{{convert|200|Nm|lbft||abbr=on}} at 2200 rpm||1997-2003
+|- bgcolor=#ffffff
+|'''2.8 VR6'''||AES||[[VR6 engine|VR6]] DOHC 12V||2.792 cc||{{convert|140|PS|kW hp||abbr=on}} at 4500 rpm||{{convert|240|Nm|lbft||abbr=on}} at 3000 rpm||1996-2000
+|- bgcolor=#ffffff
+|'''2.8 VR6'''||AMV, AXK||VR6 [[DOHC]] 24V||2.792 cc||{{convert|204|PS|kW hp||abbr=on}} at 6200 rpm||{{convert|245|Nm|lbft||abbr=on}} at 2500 rpm||2000-2003
+|}
+
+====Diesel engines====
+=====Indirect injection=====
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 90%;"
+|- style="background:#DCDCDC" align="center" valign="middle" 
+!Model
+!Engine code
+!Engine type
+!Displacement
+!Max output
+!Max torque
+!Years
+|- bgcolor=#ffffff
+|'''1.9 D'''||1X||Straight-4 SOHC 8V||1.896 cc||{{convert|61|PS|kW hp||abbr=on}} at 3700 rpm||{{convert|127|Nm|lbft||abbr=on}} at 1700 rpm||1990-1995
+|- bgcolor=#ffffff
+|'''1.9 [[Turbodiesel|TD]]'''||ABL||Straight-4 SOHC 8V||1.896 cc||{{convert|68|PS|kW hp||abbr=on}} at 3700 rpm||{{convert|140|Nm|lbft||abbr=on}} at 2000 rpm||1993-2003
+|- bgcolor=#ffffff
+|'''2.4 D'''||AJA||Straight-5 SOHC 10V||2.370 cc||{{convert|75|PS|kW hp||abbr=on}} at 3700 rpm||{{convert|160|Nm|lbft||abbr=on}} at 1900 rpm||1997-2003
+|- bgcolor=#ffffff
+|'''2.4 D'''||AAB||Straight-5 SOHC 10V||2.370 cc||{{convert|78|PS|kW hp||abbr=on}} at 3700 rpm||{{convert|164|Nm|lbft||abbr=on}} at 1800 rpm||1990-1998
+|}
+
+=====[[Turbocharged Direct Injection]]=====
+{|class="wikitable" cellpadding="0"  cellspacing="0" style="text-align: center; font-size: 90%;"
+|- style="background:#DCDCDC" align="center" valign="middle" 
+!Model
+!Engine code
+!Engine type
+!Displacement
+!Max output
+!Max torque
+!Years
+|- bgcolor=#ffffff
+|'''2.5 <font color="silver">TD</font><font color="blue">I</font>'''||AJT; AYY||Straight-5 SOHC 10V||2.461 cc||{{convert|88|PS|kW hp||abbr=on}} at 4500 rpm||{{convert|195|Nm|lbft||abbr=on}} at 2000 rpm||1998-2003
+|- bgcolor=#ffffff
+|'''2.5 <font color="silver">TDI</font>'''||ACV; AUF; AYC; AXL||Straight-5 SOHC 10V||2.461 cc||{{convert|102|PS|kW hp||abbr=on}} at 3500 rpm||{{convert|250|Nm|lbft||abbr=on}} at 1900 rpm||1995-2003
+|- bgcolor=#ffffff
+|'''2.5 <font color="silver">TD</font><font color="red">I</font>'''||AHY; AXG||Straight-5 SOHC 10V||2.461 cc||{{convert|151|PS|kW hp||abbr=on}} at 4000 rpm||{{convert|295|Nm|lbft||abbr=on}} at 1900 rpm||1998-2003
+|}
+
+==T5 (2003-present)==
+{{main|Volkswagen Transporter (T5)}}
+
+[[Image:VW Eurovan T5 Multivan.jpg|200px|right|thumb|2004 Multivans]]
+The fifth generation of the VW Transporter hit the market in Europe late in 2003.  It is a direct successor to the T4 in its looks and utility value, unlike the [[Volkswagen Microbus Concept|Microbus concept car]] that VW had been showing around several years prior to the T5's introduction.  The Microbus concept was almost produced, but Volkswagen scuttled plans for building it due to cost problems.
+
+The T5 Transporter is not available in the [[United States]] and [[Canada]] in any form. Instead, Volkswagen offers the [[Volkswagen Routan]], a passenger minivan based on [[Chrysler]]'s [[Dodge Caravan|Dodge Grand Caravan]]. The T5 Transporter, however, is still sold under the Eurovan nameplate in [[Mexico]].
+
+== External links ==
+*[http://www.vwt4forum.co.uk/ Volkswagen T4 Owners Club]
+* http://vwcamperbus.forum2go.nl/ (het forum van de Volkswagen kampeerauto's)
+
+==See also==
+*[[Volkswagen Transporter]]
+
+{{Volkswagen Commercial Vehicles}}
+{{Volkswagen Commercial Vehicles (Europe) timeline}}
+{{Volkswagen (North America) timeline 1980 to date}}
+
+[[Category:Volkswagen vehicles|Transporter (T4)]]
+[[Category:Vans]]
+[[Category:Minivans]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+[[Category:Vehicles with VR engines]]
+[[Category:Vehicles introduced in 1990]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+
+[[de:VW Bus]]
+[[lv:Volkswagen Transporter]]
+[[no:Volkswagen Transporter]]
+[[pt:Volkswagen Eurovan]]

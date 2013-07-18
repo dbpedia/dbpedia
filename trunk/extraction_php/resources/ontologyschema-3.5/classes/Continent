@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Continent
+| rdfs:subClassOf = PopulatedPlace
+}}

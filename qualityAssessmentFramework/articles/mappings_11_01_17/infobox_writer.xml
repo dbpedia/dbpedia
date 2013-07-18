@@ -1,0 +1,27 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{TemplateMapping
+| mapToClass = Writer
+| mappings =
+	{{PropertyMapping | templateProperty = notableworks | ontologyProperty = notableWork }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = pseudonym | ontologyProperty = pseudonym }}
+	{{PropertyMapping | templateProperty = birthname | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = birthdate | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = birthplace | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = deathdate | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = deathplace | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = occupation | ontologyProperty = occupation }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = ethnicity | ontologyProperty = ethnicity }}
+	{{PropertyMapping | templateProperty = citizenship | ontologyProperty = citizenship }}
+	{{DateIntervalMapping | templateProperty = period | startDateOntologyProperty = activeYearsStartYear | endDateOntologyProperty = activeYearsEndYear }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = movement | ontologyProperty = movement }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = partner | ontologyProperty = partner }}
+	{{PropertyMapping | templateProperty = children | ontologyProperty = child }}
+	{{PropertyMapping | templateProperty = relatives | ontologyProperty = relative }}
+	{{PropertyMapping | templateProperty = influences | ontologyProperty = influencedBy }}
+	{{PropertyMapping | templateProperty = influenced | ontologyProperty = influenced }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+</textarea>

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/units.txt> <http://dbpedia.org/property/length> "100.05"^^<http://dbpedia.org/units/Centimeter> .
+<http://dbpedia.org/resource/units.txt> <http://dbpedia.org/property/width> "23"^^<http://dbpedia.org/units/Inches> .
+<http://dbpedia.org/resource/units.txt> <http://dbpedia.org/property/height> "10"^^<http://dbpedia.org/units/Kilometer> .
+<http://dbpedia.org/resource/units.txt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:dummytemplate> .

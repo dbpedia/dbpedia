@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = residence
+| rdfs:domain = Person
+}}

@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= fuel capacity    
+|rdfs:domain	= Automobile
+|rdfs:range		= litre
+|rdf:type	= owl:FunctionalProperty
+}}

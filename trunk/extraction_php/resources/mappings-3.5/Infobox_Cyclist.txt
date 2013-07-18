@@ -1,0 +1,12 @@
+{{TemplateMapping
+| mapToClass = Cyclist
+| mappings = 
+	{{PropertyMapping | templateProperty = ridername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = nickname | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = dateofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = dateofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = Mass }}
+	{{PropertyMapping | templateProperty = currentteam | ontologyProperty = currentTeam }}
+}}

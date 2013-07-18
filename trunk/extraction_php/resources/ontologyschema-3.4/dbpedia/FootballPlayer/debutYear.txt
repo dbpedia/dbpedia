@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = debut year
+|rdfs:domain = FootballPlayer
+|rdfs:range = xsd:date
+}}

@@ -1,0 +1,11 @@
+{{TemplateMapping
+| mapToClass = MusicFestival
+| mappings = 
+	{{PropertyMapping | templateProperty = music_festival_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+	{{PropertyMapping | templateProperty = years_active | ontologyProperty = startDate }}
+	{{PropertyMapping | templateProperty = years_active | ontologyProperty = endDate }}
+	{{PropertyMapping | templateProperty = dates | ontologyProperty = date }}
+	{{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

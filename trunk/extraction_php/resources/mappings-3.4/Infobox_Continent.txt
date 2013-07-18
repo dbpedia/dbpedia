@@ -1,0 +1,9 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Continent
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = Place/areaTotal | unit = Area }}
+	{{ DBpediaPropertyMapping | templateProperty = population | ontologyProperty = PopulatedPlace/populationTotal }}
+	{{ DBpediaPropertyMapping | templateProperty = density | ontologyProperty = PopulatedPlace/populationDensity | unit = PopulationDensity }}
+	{{ DBpediaPropertyMapping | templateProperty = demonym | ontologyProperty = PopulatedPlace/demonym }}
+	{{ DBpediaPropertyMapping | templateProperty = languages | ontologyProperty = PopulatedPlace/language }}
+}}

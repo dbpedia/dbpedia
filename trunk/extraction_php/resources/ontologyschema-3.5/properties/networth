@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = networth
+| rdfs:domain = Person
+| rdfs:range = Currency
+}}

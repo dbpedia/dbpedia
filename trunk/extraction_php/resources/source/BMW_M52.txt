@@ -1,0 +1,122 @@
+{{Infobox Automobile
+|image=[[Image:M52TUB25.jpg|250px]]<br><small>M52TUB25 from an E46 323Ci (125 kW/245 Nm)</small>
+|name=BMW M52 engine
+|manufacturer=[[BMW|BMW, Bayerische Motoren Werke AG]]
+|production=1994&ndash;2001
+|predecessor=[[BMW M50]]
+|successor=[[BMW M54]]
+|class=[[Straight-6]]
+|engine=
+|similar=[[Mercedes-Benz M104 engine|Mercedes-Benz M104]]
+}}
+The [[BMW]] '''M52''' is a [[Straight 6]] [[piston engine]]. Displacement ranges from 2000 cc to 3200 cc. It is a [[DOHC]] 24-valve engine, originally introduced with [[VANOS]] [[Variable Valve Timing]]. It replaced the [[BMW M50]] engine in 1994 and was replaced in 2001 with the [[BMW M54]] engine.  The world market engine used [[Nikasil]] lined aluminium cylinders instead of a cast iron sleeves used in the American market engine. The reason for this is Nikasil is eroded by the higher sulfur content fuel used in America.
+
+In markets with low-sulfur fuel this engine was very highly regarded and the M52 was on the [[Ward's 10 Best Engines]] list for 1995 through to 1998. However, there was criticism of the M52 engine in some markets, especially the UK, which had high levels of sulfur in the petrol during the late 90's. Sulfur acts as a corrosive agent against Nikasil and led to a lot of the early engines having premature bore-liner wear. Fortunately this problem was solved in post-September 1998 cars with the introduction of steel cylinder liners, with the designation M52 TU-3. However problems are still present in these engines so affected cars of this period should be bought with caution unless the service history verifies that work was carried out to rectify the problem. The American market M52 used iron sleeves from the beginning, and so, was unaffected by this problem.
+
+A ''Technical Update'' or ''M52TU'' version in 1999 added Double-[[VANOS]] and other modifications.
+
+{| class=wikitable
+|+Models
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year!!Stroke!!Bore!!Compression
+|-
+|M52B20||rowspan=2|2.0&nbsp;L (1991&nbsp;cc/121&nbsp;in³)||110&nbsp;kW (148&nbsp;hp) @ 5900||190&nbsp;N·m (140&nbsp;ft·lb) @ 4200||6500||1994|| 66&nbsp;mm (2.6in) || 80&nbsp;mm (3.15in) || 11.0:1
+|-
+|M52TUB20||110&nbsp;kW (148&nbsp;hp) @ 5900||190&nbsp;N·m (140&nbsp;ft·lb) @ 3500||6500||1998|| 66&nbsp;mm (2.6in) || 80&nbsp;mm (3.15in) || 11.0:1
+|-
+|M54B22||2.2&nbsp;L (2171&nbsp;cc/132&nbsp;in³)||125 kW (168 hp)|| 210 N·m (155 ft·lb)  ||6500||2000 || || ||
+|-
+|M52TUB24||2.4&nbsp;L (2394&nbsp;cc/146&nbsp;in³)||135 kW (184 hp) @ 5800|| 240 N·m (177 ft·lb) @ 3600  ||6500||2000 || || ||
+|-
+|M52B25||rowspan=2|2.5&nbsp;L (2494&nbsp;cc/152&nbsp;in³)||123&nbsp;kW (170&nbsp;hp) @ 5500||245&nbsp;N·m (181&nbsp;ft·lb) @ 3950||6500||1995|| || ||
+|-
+|M52TUB25||123&nbsp;kW (170&nbsp;hp) @ 5500||245&nbsp;N·m (181&nbsp;ft·lb) @ 3500||6500||1998||75&nbsp;mm (2.95in)||84&nbsp;mm (3.31in)||10.5:1
+|-
+|rowspan=2|M52B28||rowspan=3|2.8&nbsp;L (2793&nbsp;cc/170&nbsp;in³)||142&nbsp;kW (190&nbsp;hp) @ 5300||280&nbsp;N·m (207&nbsp;ft·lb) @ 3950||6500||1995|| 84&nbsp;mm (3.31in) || 84&nbsp;mm (3.31in) ||10.2:1
+|-
+|141&nbsp;kW (189&nbsp;hp) @ 5300||275&nbsp;N·m (203&nbsp;ft·lb) @ 3950||6500||1997|| || ||
+|-
+|M52TUB28||142&nbsp;kW (193&nbsp;hp) @ 5500||280&nbsp;N·m (207&nbsp;ft·lb) @ 3500||6500||1998|| || ||
+|}
+
+==M52B20==
+
+A 2.0&nbsp;L (1991&nbsp;cc/121&nbsp;in³) version was introduced in 1994. Bore is 80&nbsp;mm and stroke is 66&nbsp;mm.
+
+Applications:
+* 1994-1999 [[BMW E36|E36]] [[BMW 3-Series|320i]]
+* 1995-1999 [[BMW E39|E39]] [[BMW 5-Series|520i]]
+
+==M52TUB20==
+
+Applications:
+* [[BMW Z3|E36/7]] [[BMW Z3|Z3 2.0i]]
+* 1998-2001 [[BMW E46|E46]] [[BMW 3-Series|320i/320Ci]]
+* 1998-2003 [[BMW E39|E39]] [[BMW 5-Series|520i]]
+
+==M52B24==
+
+2.4&nbsp;L. For Thai market only.
+
+Applications:
+* 1995-1999 [[BMW E36|E36]] [[BMW 3-Series|3-Series]]
+* 2000-2002 [[BMW E39|E39]] [[BMW 5-Series|5-Series]] (M52TU)
+
+==M52B25==
+
+A 2.5&nbsp;L (2494&nbsp;cc) version introduced in 1995, with an alloy block (at least for Europe). It produces 125&nbsp;kW (170&nbsp;hp). Bore is 84&nbsp;mm and stroke is 75&nbsp;mm, as for the previous M20B25Applications:
+* 1995-2000 [[BMW E36|E36]] [[BMW 3-Series|323i/323ti]]
+* 1995-1999 [[BMW E39|E39]] [[BMW 5-Series|523i]]
+*(also used in the 2001-2002 Z3 2.5i)
+
+==M52TUB25==
+
+While retaining most of the internal dimensions and components of the earlier M52, the M52TU (Technical Upgrade) featured an aluminum alloy block in all markets including North America. More importantly, it featured a revised head design with Double-VANOS (variable intake AND exhaust cam timing) for additional improvements in torque delivery, economy and emissions. It also featured a variable intake manifold and an upgraded Siemens engine control system.
+
+Applications:
+* 1997-2001 [[BMW E46|E46]] [[BMW 3-Series|323i/323Ci/323ti]] (M52T)
+* 1998-2001 [[BMW E39|E39]] [[BMW 5-Series|523i]] (M52TU)
+* 1998-2001 [[BMW Z3|E36/7]] [[BMW Z3|Z3]] (M52TU)
+
+==M52B28==
+
+A 2.8&nbsp;L (2793&nbsp;cc) version also debuted in 1994. It has square 84&nbsp;mm bore and stroke and produces 193&nbsp;hp (142&nbsp;kW).
+
+Applications:
+* 1995-2000 [[BMW E36|E36]] [[BMW 3-Series|328i]]
+* 1995-1999 [[BMW E39|E39]] [[BMW 5-Series|528i]]
+* 1995-1999 [[BMW E38|E38]] [[BMW 7-Series|728i/728iL]]
+* 1997-1999 [[BMW Z3|E36/7]] [[BMW Z3|Z3 2.8]]
+
+==M52TUB28==
+
+Applications:
+* 1997-2001 [[BMW E46|E46]] [[BMW 3-Series|328i/328Ci]]
+* 1997-2001 [[BMW Z3|E36/7/8]] [[BMW Z3|Z3 2.8]]
+* 1998-2001 [[BMW E39|E39]] [[BMW 5-Series|528i]]
+* 1998-2001 [[BMW E38|E38]] [[BMW 7-Series|728i]]
+
+==S52B32==
+
+This engine was sold only in the USA and Canada and is closely based on the iron-block USA-spec M52 engine. It differs in having an 86.4mm bore and an 89.6mm stroke for a displacement of approximately 3.2 litres. It shares very few components with the European [[BMW M50#S50B30|S50]]. The S52 is essentially a large displacement M52 with minor upgrades to increase performance. It uses a regular M52 head with the same stepped VANOS system (on the intake cam only) but uses more aggressive cams. The intake manifold is from the M52B28 but the S52 uses a bigger throttle body. The exhaust manifolds are the same between M52 and S52 but the S52 uses a less restrictive exhaust system. Even the connecting rods are exactly the same 135 mm units used in the M52B28. The lubrication system on the S52 is optimized for greater flow. Engine management is handled by the same Siemens system as the M52 but is tuned to the larger displacement and slightly more performance biased.
+
+Physically, there are very few external characteristics that distinguish the S52 from its M52 brother. The "M-Power" valve cover is the easiest to spot although it must be noted that S52 and M52 valve covers are easily interchangeable. A more subtle difference is the oil filter housing. While the M52 uses a threaded black plastic cover on its filter, the S52 uses an aluminum cover held in place by a nut. This is essentially the same housing as was used on the 1991-1995 M50 series engines. As such, the S52 uses M50-style filter cartridges instead of the M52 style. Power from the S52B32US is officially quoted at 240 HP but many feel that this figure is understated. Maximum permissible engine speed varies from 6500 rpm to 6800 rpm to allow a margin of safety for the hydraulic lifters and the rest of the valve-train, although the engine can safely rev to 7000 rpm.
+
+Applications:	 
+* 1996-1999 US-spec [[BMW E36|E36]] [[BMW M3|M3]]	 
+* 1996-2000 US-spec [[BMW Z3|E36/7/8]] [[BMW M Roadster|M Roadster/M Coupe]]
+
+==See also==
+* [[BMW engines]]
+* [[BMW M50]]
+* [[BMW M54]]
+
+==External links==
+* [http://www.bmwworld.com/engines/m52.htm The BMW M52 Engine at BMWworld.com]
+
+[[Category:BMW engines|M52]]
+
+[[de:BMW M52]]
+[[it:BMW M52]]
+[[no:BMW M52]]
+[[pl:BMW M52]]

@@ -1,0 +1,159 @@
+{{Infobox Automobile
+| image = [[Image:BMW E38 front 20080108.jpg|250px|BMW 7-Series E38]]
+| name = BMW 7-Series (E38)
+| assembly = [[Dingolfing]], [[Germany]]
+| manufacturer = [[BMW]]
+| production = 1994 - 2001 <br/> 340,242 built <ref name=DeAutosab90Kittler>{{cite book |last=Kittler |first=Eberhard |authorlink= |coauthors= |title= Deutsche Autos seit 1990, Band 5|year=1. Auflage 2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02128-5}}</ref><ref>''Auto Katalog'', 2003 edition, p. 312. Note: Figures include early E65 production.</ref>
+| predecessor = [[BMW E32]]
+| successor = [[BMW E65/E66/E67/E68]]
+| body_style = [[saloon (car)|4-door saloon]]
+| engine = 2.8&nbsp;L [[I6]] <br/> 3.0–4.4&nbsp;L [[V8 engine|V8]] <br/> 5.4&nbsp;L [[V12 engine|V12]] <br/>2.5–2.9&nbsp;L [[I6]] [[Turbodiesel]] <br/> 3.9&nbsp;L [[V8 engine|V8]] Turbodiesel
+| layout=[[FR layout]]
+| transmission = 5-speed [[manual transmission|manual]]<br/> 6-speed manual<br/> 5-speed [[automatic transmission|automatic]]
+| length = {{convert|4984|mm|in||abbr=on}}−{{convert|5124|mm|in||abbr=on}}
+| width = {{convert|1862|mm|in||abbr=on}}
+| height = {{convert|1425|mm|in||abbr=on}}−{{convert|1435|mm|in||abbr=on}}
+| weight = {{convert|1710|kg|lb||abbr=on}}−{{convert|2185|kg|lb||abbr=on}}
+| wheelbase =  {{convert|2930|mm|in||abbr=on}}−{{convert|3070|mm|in||abbr=on}}
+}}
+
+The '''BMW E38''' model was the basis for the 1994 through 2001 [[BMW 7 Series]] automobiles. It replaced the [[BMW E32]] in 1995 and itself was replaced by the [[BMW E65/E66]] for the 2002 [[model year]].
+
+The E38 models were offered with either a five-speed [[automatic transmission|automatic]] or [[manual transmission]]; 730d, 740d, 740i/iL, and 750i/iL had a 5-speed [[ZF Friedrichshafen AG|ZF]] automatic standard. The [[engine]] variants in Europe were 725tds, 728i, 730i, 730d, 735i, 740i (4.0 and 4.4 L), 740d and 750i. In the [[Americas]], the models were sold as the 740i, 740iL and 750iL. The 740i/iL were powered by a 4.4&nbsp;L [[V8]] engine. The base prices in 2001 were US$62,900 for the 740i, US$66,900 for the 740iL and US$92,100 for the 750iL. The considerably rarer 5.4&nbsp;L [[V12 engine|V12]] was BMW's [[flagship car|flagship vehicle]], with a 5.4&nbsp;L 322&nbsp;bhp (240&nbsp;kW) engine, also shared by the [[Rolls-Royce Silver Seraph]]. V8 and V12 cars had [[wheelbase|long-wheelbase]] variants, with the "L" added to the designation. A rare European executive long-wheelbase [[limousine]] model was also produced, called the BMW L7, available as both 740iL (4.4&nbsp;L V8) and 750iL (5.4&nbsp;L V12) variants. Protection Line light-armored vehicles were built from 2000-2001, again utilizing the 740iL and 750iL platforms, and cost US$99,100 and US$124,400, respectively. These models included body armor, bullet-resistant glass and run-flat tires.
+
+Features of the E38 7 Series included high-pressure headlight washers, auto-leveling [[xenon HID headlamp]]s, power moonroof, a sound system with 14 speakers and four subwoofers as well as 6-disc CD changer, onboard [[satellite navigation]] and rain-sensing wipers. Other features included an automatic [[climate control]] system with separate controls for the driver and passenger, a three-position memory system for the driver’s seat, safety-belt height, new steering wheel and outside mirrors. Front-seat side airbags and a Head Protection System (HPS) were also standard. The car featured an all-leather interior with burl walnut trim. The continuous-motion Active Comfort Seat technology was introduced in 1998 to improve comfort and reduce fatigue for the driver and front passenger.
+
+When the E38 was phased out in 2001 to make way for the new [[BMW E65|E65]], sales of E38s increased noticeably in the car's final months of production as people moved to buy the car before it was replaced. The E65's [[Chris Bangle|radical styling]] and [[iDrive]] was not initially well-received by consumers, so used E38s increased in value as demand increased. Also contributing to the E38's continued popularity was its appearance in several films such as ''[[Tomorrow Never Dies]]'', ''[[The Transporter]]'', and ''[[The Game (film)|The Game]]''. The E38 740i featured in the [[BMW Films#Ambush|BMW Film ''Ambush'']], even though it was the only featured car in the series to be replaced the following year.
+
+==Models using the E38 platform==
+[[Image:BMW M62 V8 engine.jpg|thumb|250px|right|4.4L M62B44 V8 (US)]]
+
+'''Models offered in Europe and elsewhere (non-[[USA]])'''
+{| class="wikitable"
+|-
+!Model!!Engine!!Power/Torque!!Years produced
+|-
+|725tds||2.5L [[BMW M51|M51D25]] [[Diesel engine|Diesel]] I6|| {{convert|105|kW|PS hp|0|abbr=on}} / {{convert|280|Nm|lbft|0|abbr=on}}||1995-2001
+|-
+|728i/728iL||2.8L [[BMW M52|M52B28]] [[Petrol]] I6|| {{convert|142|kW|PS hp|0|abbr=on}} / {{convert|280|Nm|lbft|0|abbr=on}}||1996-2001
+|-
+|730i/730iL||3.0L [[BMW M60|M60B30]] [[Petrol]] V8|| {{convert|160|kW|PS hp|0|abbr=on}} / {{convert|290|Nm|lbft|0|abbr=on}}||1994-1996
+|-
+|735i/735iL||3.5L [[BMW M62|M62B35]] [[Petrol]] V8|| {{convert|173|kW|PS hp|0|abbr=on}} / {{convert|320|Nm|lbft|0|abbr=on}}||1994-1997
+|-
+|735i/735iL||3.5L [[BMW M62|M62TUB35]] [[Petrol]] V8|| {{convert|174|kW|PS hp|0|abbr=on}} / {{convert|345|Nm|lbft|0|abbr=on}}||1998-2001
+|-
+|730d||2.9L [[BMW M57|M57D30]] [[Diesel engine|Diesel]] I6|| {{convert|142|kW|PS hp|0|abbr=on}} / {{convert|410|Nm|lbft|0|abbr=on}}||1998-2001
+|-
+|740d||3.9L [[BMW M67|M67D40]] [[Diesel engine|Diesel]] V8|| {{convert|180|kW|PS hp|0|abbr=on}} / {{convert|560|Nm|lbft|0|abbr=on}}||1998-2001
+|}
+
+'''North American specific models'''
+{| class="wikitable"
+|-
+!Model!!Engine!!Power/Torque!!Years produced
+|-
+|740i/740iL||4.0L [[BMW M60|M60B40]] [[Petrol]] V8|| {{convert|210|kW|PS hp|0|abbr=on}} / {{convert|400|Nm|lbft|0|abbr=on}} ||1995
+|-
+|740i/740iL||4.4L [[BMW M62|M62B44]] [[Petrol]] V8|| {{convert|210|kW|PS hp|0|abbr=on}} / {{convert|420|Nm|lbft|0|abbr=on}} ||1996-1998
+|-
+|740i/740iL||4.4L [[BMW M62|M62TUB44]] [[Petrol]] V8|| {{convert|210|kW|PS hp|0|abbr=on}} / {{convert|440|Nm|lbft|0|abbr=on}} ||1999-2001
+|-
+|750iL||5.4L [[BMW M73|M73B54]] [[Petrol]] V12|| {{convert|240|kW|PS hp|0|abbr=on}} / {{convert|490|Nm|lbft|0|abbr=on}} ||1995-1997
+|-
+|750iL||5.4L [[BMW M73N|M73TUB54]] [[Petrol]] V12|| {{convert|240|kW|PS hp|0|abbr=on}} / {{convert|490|Nm|lbft|0|abbr=on}} ||1998-2001
+|}
+
+==Model History==
+===1995===
+<!-- Deleted image removed: [[Image:1995740iinoregon.jpg|thumb|250px|right|1995 E38 740i]] -->
+*E38 Production begins in 1994 for the 1995 Model Year replacing the E32.  Initial production E38s were available with either a 2.5&nbsp;L Turbodiesel [[I6]] 3.0L or 4.0&nbsp;L M60 V8 or the 5.4&nbsp;L M73 V12 engine.
+*US Model Range includes the 740i, 740iL and 750iL.
+1995 E38 used a block made of Nikasil, which is aluminium impregnated with nickel and silicon. The cylinder bores are crosshatched, which is the name given to a pattern scratched into the surface of the cylinder wall. These scratches help seat and seal the piston rings, allowing good compression. Unfortunately, excessive sulphur from fuel reacts adversely with the nickel, causing very slight blemishes in the top few millimeters of the cylinder bore.<ref>[http://web.archive.org/web/20070617084713/http://www.koalamotorsport.com/article-m60v8.asp Koala Motorsport - tech-home<!-- Bot generated title -->]</ref>
+
+===1996===
+<!-- Missing image removed: [[Image:2001 BMW 740iL E38.jpg|thumb|250px|right| 2001 E38 740iL]] -->
+*750i included [[Steptronic]] [[automatic transmission]] with manual shift mode.
+*728i and 735i was launched with [[traction control system|traction control]], [[Anti-lock braking system|ABS]], alloy wheels, dual [[airbags]], [[air-conditioning]], leather upholstery, and electric front seats.
+*740i and 740iL upgraded from the [[M60]] 4.0&nbsp;L to the [[M62]] 4.4&nbsp;L [[V8]] engine.
+*Steptronic and traction control become standard on 730i, 740i, and 740iL.  Steptronic is not available in the North American market until 1999 when the 740i ZSP Sport Package was offered.
+*An [[Alpina]] sports suspension, onboard TV and [[satellite navigation system]] were offered as options.
+
+===1997===
+<!--  Commented out because image was deleted: [[Image:PreciousBMW.jpg|thumb|250px|right|1997 E38 740iL]] -->
+*730i/730i SE and 735i/735i SE launched. Equipment includes central locking, front fog lamps and electric heated mirrors; 735i has rear head restraints and electric front seats; 730i SE has a sunroof; 735i SE has air-conditioning, cruise control and leather. *Revisions midway through the model year include front head airbags; automatic air-conditioning on 728i/735i; on-board computer on 728i; DSC III ([[Electronic Stability Control|Dynamic Stability Control]]) offered on 740i/740iL and 750i/750iL.
+*[[Headlight#HID technology|xenon headlamps]] were included on 750i/750iL.
+* 750iL is extensively featured in the high grossing James Bond series film [[Tomorrow Never Dies]].
+
+===1998===
+*A new ZSP option (Sport Package) includes an Alpina suspension, multi-spoke alloys, sports seats and shadowline exterior trim.
+*Revisions midway through the model year include new front and rear lights, a revised grille, black side sills and valances, and a remote locking with memory system
+*Parking sensors become available on 728i, 730i,735i and 740i
+*DSC (Dynamic Stability Control) now standard on all 7 series models
+*Satellite navigation system become standard on 750i and 750iL
+*HPS or Head Protection System is introduced and offered as standard on all 7 series models (indicated by HPS badge on interior A-pillar)
+
+===1999===
+[[Image:1999 BMW e38.jpg|thumb|The front side of 1999 E38 728i]]
+[[Image:1999 BMW e38 rear.jpg|thumb|The rear side of 1999 E38 728i]]
+*'Facelift' from 9/98 production featuring 'scalloped' headlamps, new front fenders with shorter turn signal lenses and side fascia improvements (including elimination of the visible jackpoints)
+*The 735 and 740 models receive an improved M62TU V8 engine with single [[VANOS]] variable valve timing.  The 4.4 engine gets a marked increase in torque from 310 to {{Auto ft.lbf|324|0}}  Horsepower remains at {{Convert|282|hp|kW|0|abbr=on}}.
+*A Sport Package becomes available for the 740i which includes:  blacked-out exterior "shadowline" trim, Vavona redwood interior trim, 18-way adjustable sport seats, staggered {{convert|18|in|mm|adj=on}} alloy wheels, a stiffer M inspired suspension with thicker front and rear anti-sway bars, [[Steptronic]] Transmission with higher stall-speed torque converter, and a higher 3.15 final drive ratio (versus 2.92).
+* The 750 receives an improved M73N 5.4 liter V12 engine making a slight increase in power and torque.
+
+===2000===
+*A number of previously optional features become standard, including Xenon headlamps, rain-sensitive windshield wipers, headlight washers, GPS navigation, and upgraded audio including [[Digital signal processing|DSP]] and 6-disc CD changer
+*The sport package is extended to include the 740iL but without the same performance enhancing features as the 740i receives.  The 740iL Sport maintains the same visual cues as the 740i Sport such as vavona redwood trim, shadowline exterior trim and 18" staggered alloy wheels. The iL comes standard with EDC for improved handling.
+*In Europe, [[Adaptive Cruise Control]] became available as an option.
+
+===2001===
+[[Image:98-01 BMW 7-Series.jpg|thumb|right|2001 E38 740iL (Facelifted) (US)]]
+*Final year of E38 sales with production ending in July 2001.
+The last E38 (a silver 740i with black leather interior) rolled off BMW's assembly line on July 27, 2001 to make way for the new E65. The E65 was received so poorly by consumers that sales of 
+E38s increased noticeably in the car's final months of production as people moved to buy the car 
+before it went out of production and used E38s increased in value.
+<ref>[http://www.picvalley.net/v.php?p=u/2585/2393822547026142961244281966i8aWY0Wa9IXYKlamKtnM.JPG PicValley.net - FREE anonymous photo hosting and photo sharing<!-- Bot generated title -->]</ref>
+*Body-colored side skirts and bumper facias, which were previously flat black
+*Clear front and rear turn signal lights replace amber-colored lights.
+*More previously optional features become standard, including a [[Motorola StarTAC]] or [[Motorola TimePort]] (depending on date of production) with [[BMW Assist]] telemetry system.
+*Widescreen Navigation and a faster CD based navigation computer were phased in from 9/00 production on all models.
+*(US Models) Power folding exterior mirrors are now standard on the 750iL, and included in the optional convenience package on all other models.
+
+==Tuning==
+[[Image:BMW 750il.jpg|thumb|right|Dinan-Modified BMW 750iL]]
+The E38 has been successfully modified with a large number of after market performance tools, including free-flow exhaust and intake systems, suspension adjustment, and braking system performance upgrades.
+
+[[Engine tuning]] companies such as [[Alpina]], [[Dinan Cars|Dinan]] and [[Hartge]] have built both [[turbocharged]] and [[supercharged]] versions of the M73 V12 motor.
+
+==Film==
+Contributing to the E38's continued popularity was its appearance in several films such as ''[[Tomorrow Never Dies]]'' (740iL & 750iL), ''[[Enemy of the State]]'' (740iL), ''[[Bad Santa]]'' (740iL), ''[[Fun with Dick and Jane]]'' (740iL), ''[[The Transporter]]'' (735i), and ''[[The Game (film)|The Game]]'' (750iL). Even though it was the only featured car in the series to be replaced the following year, the E38 featured in the [[BMW Films#Ambush|BMW Film ''Ambush'']] which was released in fall 2001.
+
+In the [[James Bond (film series)|007 James Bond film]] ''[[Tomorrow Never Dies]]'', the several E38 cars used during production were modified so they could be driven from the backseat. The car type is actually a BMW 740iL but they were [[Rice burner#Improper Badging|re-badged]] as the 750iL. One survives today and can be seen at exhibition “TOP SECRET” at Museum Industriekultur, Nuremberg. Besides the 7 Series saloons, BMW also supplied a $14,000 [[BMW R1200C|R1200C motorcycle]]. BMW received the rights to use movie clips from the film in its multimillion-dollar campaign, and during the 1997 holiday season they offered a special promotion that included the R1200C with the purchase of the 750iL. <ref>{{cite web|url=http://www.ew.com/ew/article/0,,290464_2,00.html |title=BOND OF GOLD &#124; Tomorrow Never Dies &#124; Movie News &#124; Movies &#124; Entertainment Weekly &#124; 2 |publisher=Ew.com |date=1997-11-28 |accessdate=2009-07-25}}</ref>
+
+[[Image:007-BMW.jpg|230px|thumb|right|[[BMW 7 Series]] car from ''Tomorrow Never Dies'', seen at an exhibition at Museum Industriekultur, Nuremberg.]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commonscat|BMW E38}}
+*{{dmoz|/Recreation/Autos/Makes_and_Models/BMW/7_Series/|BMW 7 Series}}
+
+{{BMW cars}}
+
+[[Category:BMW platforms|E38]]
+[[Category:Vehicles introduced in 1994]]
+[[Category:Tomorrow Never Dies]]
+
+[[da:BMW E38]]
+[[de:BMW E38]]
+[[et:BMW E38]]
+[[es:BMW E38]]
+[[it:BMW E38]]
+[[nl:BMW E38]]
+[[no:BMW E38]]
+[[pl:BMW E38]]
+[[pt:BMW E38]]
+[[ru:BMW E38]]
+[[sv:BMW 7-serie#E38]]
+[[uk:BMW E38]]

@@ -1,0 +1,77 @@
+{{wikify|date=July 2008}}
+
+== Background ==
+The updated 2.5 liter engine designated M56B25, was produced between 2002 and 2005. It was the first BMW Super Ultra
+Low Emission Vehicles (SULEV) and the details are listed below.
+
+The M56B25 power output and vehicle performance was the same as the comparable model equipped with
+the M54B25 engine (US only).
+M56 SULEV models listed above were sold in California, New York and Massachusetts as 2003 models
+and in Vermont starting in 2004 model year.
+
+In addition, these vehicles were certified as Partial Zero Emission Vehicles (PZEV):
+The vehicles meet the SULEV tailpipe emission standard, which is approximately 1/5 of the
+ULEV standard.
+The vehicles conform to the Zero Evaporative Emissions requirements.
+
+== Models ==
+From 2003 to 2005 - 325iA/M (E46) sedan, coupe and sport wagon with automatic or manual transmission. It was available with both an automatic and manual transmission.
+
+== Market ==
+Sales of this model started in 2003. The E46 SULEV has only been sold in 4 states in the US.
+California, New York, Massachusetts and later in 2004 in Vermont.<br />
+
+== Specs of the M56 engine ==
+* HC block in the air intake system:
+Hydrocarbon escape via the intake system is prevented
+due to the use of an additional carbon filter (1)
+incorporated in the air filter housing and a "closed"
+throttle valve actuator (2).<br />
+
+* Fuel system components:
+All metal fuel system components (fuel rail (1),
+injectors (2), tank ventilation valve (3), etc.) are made
+of stainless steel and are fastened together using
+coupling type connectors (4).<br />
+
+* Fuel tank and tank ventilation system:
+The fuel tank (1), tank filler neck (2) and evaporative
+canister (3) are made of stainless steel.<br />
+
+* Crankcase ventilation system:
+The crankcase ventilation valve (1) is incorporated in
+the aluminum cylinder head cover (2).<br />
+
+* System components used to achieve SULEV tailpipe emission requirements:
+# Dual down stream catalytic converters
+# "Warm up" catalytic converters – high cell density technology
+# Upstream oxygen sensors – wide band technology
+# Pistons – only 3mm fire land
+# VANOS – set to fixed position during start up for improved engine start
+# New style fuel injectors–4 hole design (5 bar fuel pressure)
+
+Secondary air system with secondary air mass flow
+sensor (1) used for improved monitoring of secondary
+air flow.<br />
+
+In addition SULEV models also incorporate a "Direct Ozone Reduction System". The external heat
+exchange surfaces of the radiator are coated with a catalyst which reduces the ozone in the ambient air
+drawn through the radiator.
+
+=== Engine type ===
+2.5 Liter [[Six Cylinder Engine]] (M56 [[SULEV]])
+The M56 is a re-engineered M54 engine to meet stricter emission requirements. Exclusively in the US.
+
+==External links==
+{{Commonscat}}
+<!--
+READ FIRST: External links that do not completely conform to the external link policy should be submitted through the Open Directory Project. Please read up on this by visiting the ODP article and external link policy:
+- http://en.wikipedia.org/wiki/Open_Directory_Project
+- http://en.wikipedia.org/wiki/Wikipedia:External_links
+-->
+* [http://www.bmw-planet.com/2009/01/10/lib-m56-engine-specificities-e46/ BMW-Planet.com - M56 engine specifications]
+
+[[Category:BMW]]
+[[Category:BMW engines|M56]]
+
+[[pl:BMW M56]]

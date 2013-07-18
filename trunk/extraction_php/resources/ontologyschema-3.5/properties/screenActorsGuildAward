@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = Screen Actors Guild Award
+| rdfs:domain = Actor
+| rdfs:range = Award
+}}

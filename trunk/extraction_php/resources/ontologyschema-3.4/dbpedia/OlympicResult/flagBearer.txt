@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = flag bearer
+|rdfs:domain = OlympicResult
+|rdfs:range = Person
+}}

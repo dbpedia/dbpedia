@@ -1,0 +1,26 @@
+{{ DBpediaTemplateMapping
+| mapToClass = ChristianBishop
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = religion | ontologyProperty = Person/religion }}
+	{{ DBpediaPropertyMapping | templateProperty = Title | ontologyProperty = Person/title }}
+	{{ DBpediaPropertyMapping | templateProperty = Predecessor | ontologyProperty = Person/predecessor }}
+	{{ DBpediaPropertyMapping | templateProperty = Successor | ontologyProperty = Person/successor }}
+	{{ DBpediaPropertyMapping | templateProperty = date of birth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place of birth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = date of death | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = place of death | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = enthroned | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = ended | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = birth_date | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = birthplace | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = death_date | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = deathplace | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = nationality | ontologyProperty = Person/nationality }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/father }}
+	{{ DBpediaPropertyMapping | templateProperty = parents | ontologyProperty = Person/mother }}
+	{{ DBpediaPropertyMapping | templateProperty = spouse | ontologyProperty = Person/spouse }}
+	{{ DBpediaPropertyMapping | templateProperty = children | ontologyProperty = Person/child }}
+	{{ DBpediaPropertyMapping | templateProperty = occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = alma_mater | ontologyProperty = Person/almaMater }}
+}}

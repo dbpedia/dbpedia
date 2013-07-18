@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Wrestling Event
+|rdfs:subClassOf = SportsEvent
+}}

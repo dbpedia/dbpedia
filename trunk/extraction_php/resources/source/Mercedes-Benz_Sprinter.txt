@@ -1,0 +1,181 @@
+{{distinguish|Toyota Sprinter}}
+{{TOC left}}
+{{Infobox Automobile
+|name           = Mercedes-Benz Sprinter
+|image          = [[Image:Mercedes-Benz Sprinter Modelljahr 2006.jpg|250px]]<br>''2006 Mercedes-Benz Sprinter''
+|manufacturer   = [[Daimler-Benz]] (1995–98)<br>[[DaimlerChrysler]] (1998–2007)<br>[[Daimler AG]] (2008–present Mercedes-Benz & Freightliner)<br>[[Chrysler LLC|Chrysler Vans, LLC]] (2008–present Dodge)
+|parent_company = [[Daimler AG]]
+|aka            = 
+|production     = 1995–present
+|assembly       = [[Düsseldorf]], [[Germany]]<br>[[Buenos Aires]], [[Argentina]]<br>[[Mexico City]], [[Mexico]]<br>[[Monterrey]], [[Mexico]]<br>[[Gaffney, South Carolina]], [[United States]]<br>[[Ladson, South Carolina]], United States
+|predecessor    = [[Mercedes-Benz T1]]
+|class          = [[Light commercial vehicle]], Full-size [[van]]
+|body_style     = 4-[[vehicle door|door]] [[minivan]]<br>2-door [[pickup truck]]<br>4-door [[crew cab]]<br>4-door [[minibus]]
+|layout         = [[front-engine design|Front engine]], [[rear-wheel drive]]
+|platform       = 
+|sp             = uk
+}}
+{{Infobox Automobile generation
+|name          = First generation
+|image         = [[Image:Dodge-Sprinter.jpg|250px]]<br>''US-Spec Dodge Sprinter 2500''
+|aka           = Dodge Sprinter<br>Freightliner Sprinter
+|production    = 1995–2006
+|predecessor   = 
+|successor     = 
+|platform      = 
+|engine        = '''Phase I 1995&ndash;2000:'''<br>2.3[[litre|L]] [[inline-four engine|I4]] [[Mercedes-Benz OM601 engine|OM 601]] 79 hp [[diesel engine|Diesel]]<br>2.9L [[straight-five engine|I5]] [[Mercedes-Benz OM602 engine|OM 602]] 102 hp [[Turbodiesel]]<br>2.9L I5 OM 602 129 hp Turbodiesel<br>2.3L I4 [[Mercedes-Benz M111 engine|M 111]] 143 hp [[DOHC]] [[multi-valve|16v]] [[Multi Point Injection|MPI]]<br>'''Phase II 2000&ndash;2007:''' 2.1L I4 [[Mercedes-Benz OM611 engine|OM 611]] 82 hp [[common rail|CDI]]<br>2.1L I4 OM 611 109 hp CDI<br>2.1L I4 OM 611 129 hp CDI<br>2.7L I5 OM 612/ OM 647 156 hp CDI<br>2.3L I4 M 111 143 hp DOHC 16V MPI
+|transmission  = 5-speed [[manual transmission|manual]]<br>5-speed [[automatic transmission|automatic]]
+|wheelbase     = SWB: {{Auto in|118.0|0}}<br>MWB: {{Auto in|140.0|0}}<br>LWB: {{Auto in|158.0|0}}
+|length        = SWB: {{Auto in|196.0|0}}<br>MWB: {{Auto in|225.0|0}}<br>MWB Wagon: {{Auto in|226.0|0}}<br>LWB: {{Auto in|263.0|0}}
+|width         = {{Auto in|74.0|0}}<br>Van: {{Auto in|78.3|0}}<br>Wagon: {{Auto in|74.2|0}}
+|height        = 2500 High Ceiling SWB: {{Auto in|93.1|0}}<br>2500 Super High Ceiling SWB: {{Auto in|102.0|0}}<br>3500 Super High Ceiling: {{Auto in|93.0|0}}<br>3500 High Ceiling: {{Auto in|94.0|0}}<br>2500 Super High Ceiling 140/158 in WB: {{Auto in|104.0|0}}<br>3500 Super High Ceiling 140/158 in WB: {{Auto in|103.0|0}}<br>2500 Super High Ceiling Wagon: {{Auto in|93.5|0}}<br>2500 High Ceiling 104 in WB: {{Auto in|95.0|0}}
+|weight        = 
+|fuel_capacity = 
+|related       = [[Volkswagen LT]]
+|designer      = 
+|sp            = uk
+}}
+{{Infobox Automobile generation
+|name          = Second generation
+|image         = [[Image:2nd Dodge Sprinter 2500.jpg|250px]]<br>''Dodge Sprinter 2500 (US)''
+|aka           = Dodge Sprinter<br>Volkswagen Crafter
+|production    = 2006-present
+|predecessor   = 
+|successor     = 
+|platform      = 
+|engine        = 2.1[[litre|L]] [[inline-four engine|I4]] [[Mercedes-Benz OM646 engine|OM 646]] CDI<br>3.0L [[V6 engine|V6]] [[Mercedes-Benz OM642 engine|OM642]] CDI<br>3.5L V6 [[petrol engine|petrol/gasoline]]
+|transmission  = 6-speed [[manual transmission|manual]]<br>5-speed [[automatic transmission|automatic]]
+|wheelbase     = '''SWB:''' {{convert|3250|mm|1|abbr=on|lk=on}} (not available in US)<br>'''MWB:''' {{convert|3665|mm|1|abbr=on}}<br>'''LWB:''' {{convert|4325|mm|1|abbr=on}}
+|length        = '''Chassis Double Cab LWB:'''<br>{{convert|6680|mm|1|abbr=on}}<br>{{convert|6840|mm|1|abbr=on}}<br>{{convert|6845|mm|1|abbr=on}}<br>'''Chassis Double Cab MWB:'''<br>{{convert|5870|mm|1|abbr=on}}<br>{{convert|6085|mm|1|abbr=on}}<br>{{convert|6140|mm|1|abbr=on}}<br>'''Chassis Double Cab SWB:'''<br>{{convert|5305|mm|1|abbr=on}}<br>{{convert|5560|mm|1|abbr=on}}<br>'''Chassis Single Cab LWB:'''<br>{{convert|6680|mm|1|abbr=on}}<br>{{convert|6845|mm|1|abbr=on}}<br>{{convert|6930|mm|1|abbr=on}}<br>'''Chassis Single Cab MWB:'''<br>{{convert|5870|mm|1|abbr=on}}<br>{{convert|6020|mm|1|abbr=on}}<br>{{convert|6085|mm|1|abbr=on}}<br>'''Chassis Single Cab SWB:'''<br>{{convert|5305|mm|1|abbr=on}}<br>{{convert|5570|mm|1|abbr=on}}<br>'''LWB:'''<br>{{convert|7345|mm|1|abbr=on}}<br>{{convert|6940|mm|1|abbr=on}}<br>'''MWB:'''<br>{{convert|5910|mm|1|abbr=on}}<br>'''SWB:'''<br>{{convert|5245|mm|1|abbr=on}}
+|width         = '''Vans:'''<br>{{convert|1993|mm|1|abbr=on}}<ref>[http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/van/home/new_vans/new_vans_showroom/sprinter/tech_data/Panel_Van.0004.html Mercedes-Benz UK Sprinter Details]</ref><br>'''Pickup Trucks:'''<br>{{convert|1990|mm|1|abbr=on}}
+|height        = '''Chassis Double Cab LWB:'''<br>{{convert|2420|mm|1|abbr=on}}<br>{{convert|2405|mm|1|abbr=on}}<br>'''Chassis Double Cab MWB:'''<br>{{convert|2440|mm|1|abbr=on}}<br>{{convert|2425|mm|1|abbr=on}}<br>'''Chassis Double Cab SWB:'''<br>{{convert|2365|mm|1|abbr=on}} (also Chassis Single Cab SWB)<br>{{convert|2380|mm|1|abbr=on}}<br>'''Chassis Single Cab LWB:'''<br>{{convert|2385|mm|1|abbr=on}}<br>{{convert|2395|mm|1|abbr=on}}<br>'''Chassis Single Cab MWB:'''<br>{{convert|2410|mm|1|abbr=on}}<br>{{convert|2400|mm|1|abbr=on}}<br>'''LWB:'''<br>{{convert|3055|mm|1|abbr=on}} (with roof)<br>{{convert|3050|mm|1|abbr=on}} (with roof)<br>{{convert|2715|mm|1|abbr=on}}<br>{{convert|2825|mm|1|abbr=on}}<br>{{convert|2820|mm|1|abbr=on}}<br>'''MWB:'''<br>{{convert|2720|mm|1|abbr=on}} (with roof)<br>{{convert|3050|mm|1|abbr=on}} (with roof)<br>{{convert|2820|mm|1|abbr=on}} (with roof)<br>{{convert|2435|mm|1|abbr=on}}<br>{{convert|2535|mm|1|abbr=on}}<br>'''SWB:'''<br>{{convert|2435|mm|1|abbr=on}}<br>{{convert|2725|mm|1|abbr=on}} (with roof)
+|weight        = 
+|fuel_capacity = 
+|related       = [[Volkswagen Crafter]] (LT3)
+|designer      = [[Laurent Boulay]]
+|sp            = uk
+}}
+{{Globalize/US}}
+The '''Mercedes-Benz Sprinter''' is a [[light commercial vehicle]], built by [[Daimler AG]] of [[Düsseldorf]], [[Germany]] as a [[van]], [[chassis cab]] and [[minibus]], and sold as a [[Mercedes-Benz|Mercedes]] model, except in [[North America]] where it is built from [[complete knock down]] (CKD) kits and sold by [[Freightliner LLC|Freightliner]].  The [[body shell]] is also used in a joint-venture with [[Volkswagen Commercial Vehicles]] who made the [[Volkswagen LT]] and the [[Volkswagen Crafter]].
+
+==History==
+===Europe===
+The first generation Sprinter was launched in Europe in 1995 to replace the famous but outdated [[Mercedes-Benz T1]] van (dating from 1977).  
+
+The second generation Sprinter was introduced in Europe in 2006.  It was voted Van of the Year 2007 by [[Professional Van and Light Truck Magazine]].
+
+===North America===
+The first generation (VA Chassis) [[North America]]n Sprinter was launched in 2001 in the U.S., and originally branded as a Freightliner.  Units sold to the rest of North America were badged as Mercedes until 2004 when they received Dodge branding.  Units in the United States, but maybe not in Canada and Mexico could be purchased as a Dodge or Freightliner brand from 2004.  The product was launched and supported by DaimlerChrysler Vans LLC, a small division based out of [[Huntersville, North Carolina]].  Key individuals from DaimlerChrysler Commercial Vehicle Division and [[Freightliner]] were selected to spearhead the effort and made up the bulk of the division.  DaimlerChrysler Vans LLC retained sole responsibility for the North American Sprinter market until the sales, service and parts support responsibilities were absorbed by Chrysler Commercial Vehicle Division in 2004.  Nearly all of the original staff were retained, though the base of operations shifted from North Carolina to Auburn Hills, Michigan.  The remainder of DaimlerChrysler Vans LLC remained active in Huntersville as an engineering, upfitter certification and safety compliance resource in support of the Sprinter.
+
+For 2004, DaimlerChrysler introduced a Dodge-branded version of the Sprinter to the North American market.  It was identical to the [[Freightliner Trucks]] version except for minor styling details and badging.  Rather than redesign the aging [[Dodge Ram Van]] which used the same basic body and layout since the 1970s and was discontinued in 2003, DaimlerChrysler chose to replace it with the Sprinter.  The Sprinter offered many advantages over the Ram Van; in particular it was a more fuel efficient alternative and available with a factory-built tall roof.  
+
+From 2001 through 2006, the cargo van versions of the Sprinter were manufactured in Dusseldorf Germany, partially disassembled and shipped to a facility in [[Gaffney, South Carolina]] where they were reassembled.  The cargo versions, classified as [[light truck]]s, are subject to the 25% [[chicken tax]] if imported as a complete unit, which is avoided by the disassembly and subsequent reassembly.  Passenger vans were not subject to the same tax classifications, and were imported as an assembled unit through Mercedes at the Port of Jacksonville, Florida.
+
+The second generation (VB Chassis) Sprinter debuted in early 2007.{{citation needed|date=September 2007}}  The cargo version of this model is re-assembled at a plant in [[Ladson, South Carolina]] which was previously used as an [[American LaFrance]] factory.  Like its predecessor, the passenger version is brought in as a complete unit.  The previous reassembly facility in Gaffney, South Carolina continues to be used by Freightliner Custom Chassis Corporation.  The second (North American) generation Sprinter is a complete redesign from the prior model, with the WA380 transmission being the only significant carryover part from the earlier generation.
+
+==Uses==
+The Sprinter is designed primarily for business, not private users, although [[recreational vehicle]] (RV) conversions are available.  In the US, the first generation Sprinters (2001–2006) were offered solely with the Mercedes-Benz 2.7&nbsp;[[litre]] [[straight-five engine|straight five cylinder]] [[turbodiesel]].
+
+Companies such as [[Microsoft]] are replacing van conversions with wide bus bodies - with Sprinters with side-facing benches and tall right-side doors - as campus shuttle buses.  Limited numbers of complete "[[station wagons|wagons]]" (passenger vans) are being produced in Germany and shipped complete to the U.S. market for mostly individual and church [[van]] uses.  Typical Sprinter Wagons are 8–10 passengers, and have glass in all of the normal positions that windows can be factory installed.  Vans shipped to the U.S. on-spec (speculation to sell by dealer/distributor) are mostly sent in Arctic White color, but many standard and a few special colors are available on these passenger vans.  The Dodge dealer network for Sprinters is limited to certified locations (known as "Business Link" certified dealers, usually only awarded to "Five Star" certified dealers), and dealer knowledge is still limited in both sales and service.  Special orders typically take one to three months for delivery, and make stretch out even longer, due to the assembly and disassembly in Germany, exporting of parts to South Carolina for re-assembly, the exception being passenger van models which are assembled in Germany and exported assembled: mid–late 2006 orders are probably going to be for 2007 models and delayed further for production to catch up to demand.{{citation needed|date=September 2007}}
+
+In North America, most Sprinters are sold as cargo vans to expediters in the United States.  Such expediters are similar to truck drivers, except they take smaller loads and will wait in a town indefinitely after unloading, until dispatchers find another customer nearby to transport goods.  The advent of the Sprinter van with its cargo space of 13-1/2 feet (4.1 m) has allowed van expediters to take three 48 x 48 in (1.22 x 1.22 m) skids or pallets where previously they were confined to two.  A Sprinter driver is capable of hauling approximately 3000 lb (1360 kg) of cargo.  The pool of Sprinter drivers gives more choice, efficiency and flexibility to trucking companies and their customers.  They have become popular delivery and supply vans, with [[DHL]] and [[FedEx]] moving their fleets away from trucks and more and more towards smaller, more aerodynamic and more fuel-efficient Sprinters.{{citation needed|date=September 2007}}  Trade workers and others who spend time in the cargo bed of the Sprinter find the added roof height, an option on all Sprinters, a more comfortable alternative to traditional North American vans; even a six-footer can stand upright inside.  It has been noted that Sprinters are substantially more expensive to buy and maintain than their American counterparts, which is an important consideration for small business operators. The base price of current Sprinter models is USD $39,405 versus USD $27,470 for a Ford Econoline, as of 11/09. This has made them less viable as an owner-operated vehicle in the US market where margins have been declining for years in the expediting business.
+
+Another market in which Sprinters are gaining ground is as van conversions and [[recreational vehicle|mini-motorhomes]].  They have adopted as a smaller high-end fuel efficient van-based RV chassis, rather than replacing Ford and GM chassis.{{citation needed|date=September 2007}}  Sprinter RV conversions can also be called Sprinter [[Campervan|Camper Vans]].  An example of a Sprinter RV [[Campervan| Camper Van]] or [[conversion van]] is Midwest Automotive Design's Sprinter RV Camper Van.<ref>{{cite web|url=http://www.midwestautomotivedesigns.com/?page=model&model=9|title=Midwest Automotive Desings, Corp|date= |accessdate=2009-11-23}}</ref>  Other Sprinter Conversion Vans offered by Midwest include Sprinter limousines, family and luxury vans, mobile offices or [[Conversion van#Conversion types| Office vans]], mobility vans or [[wheelchair accessible van| wheelchair accessible vans]], and golf vans. 
+
+Despite not being marketed as a family vehicle, a custom-modified version of the Dodge-branded version of the van is used by the ten-member Gosselin family, the subjects of the [[TLC (TV channel)|TLC]] reality series ''[[Jon & Kate Plus 8]]''.<ref>{{cite web|url=http://www.motherproof.com/advice-safety/story/really-big-vans-for-really-big-families/|title=Really Big Vans for Really Big Families|publisher=MotherProof.com|date= |accessdate=2009-09-26}}</ref>
+
+==Engines==
+The Sprinter is currently offered with [[inline-four engine|inline four]] and [[straight-six engine|inline six]] cylinder [[diesel engine]]s; inline six cylinder [[petrol engine|petrol/gasoline]] or [[liquefied petroleum gas]] (LPG) engines in Europe, Asia, Australia, and South America.  In North America, only the six cylinder 3.0&nbsp;litre [[turbodiesel]] and six cylinder 3.5&nbsp;litre gasoline engines are offered.
+
+An [[hybrid car|electric hybrid]] version has been tested, but is not currently officially part of the Sprinter range.<ref>[http://news.com.com/The+greening+of+the+city+bus/2100-11389_3-6079090.html The greening of the city bus | CNET News.com<!-- Bot generated title -->]</ref><ref>[http://www.fl-sprinter.com Freightliner Sprinter website]</ref><ref>[http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/van/home/new_vans/new_vans_showroom/sprinter.html UK Sprinter website]</ref><ref>[http://www.dodge.com/sprinter/index.html?context=vehiclePage&type=vehicleLink Dodge Sprinter website]</ref>
+
+===2000&ndash;2007 (2002&ndash;2006 USA)===
+{|class="wikitable" cellpadding="0" style="text-align:center; font-size:96%;"
+|-style="background:#dcdcdc; text-align:center; vertical-align:middle;"
+!models
+!engine code
+![[engine configuration]]
+![[engine displacement]]
+!max. [[power (physics)|power]]
+!max. [[torque]]
+|- style="background:#fff;"
+|'''208 CDI<br>308 CDI<br>408 CDI'''||OM 611||[[inline-four engine|inline four]] [[multi-valve|16v]] [[DOHC]]||{{convert|2148|cc|1|abbr=on|lk=on}}||{{convert|82|PS|kW hp|0|abbr=on|lk=on}}||{{convert|200|Nm|0|abbr=on|lk=on}}
+|-
+|'''211 CDI<br>311 CDI<br>411 CDI'''||OM 611||inline four 16v DOHC||{{convert|2148|cc|1|abbr=on}}||{{convert|109|PS|kW hp|0|abbr=on}}||{{convert|270|Nm|0|abbr=on}}
+|-
+|'''213 CDI<br>313 CDI<br>413 CDI'''||OM 611||inline four 16v DOHC||{{convert|2148|cc|1|abbr=on}}||{{convert|129|PS|kW hp|0|abbr=on}}||{{convert|300|Nm|0|abbr=on}}
+|-
+|'''216 CDI<br>316 CDI<br>416 CDI<br>616 CDI'''||OM 612 /<br>OM 647||[[straight-five engine|inline five]] 20v DOHC||{{convert|2685|cc|1|abbr=on}}||{{convert|156|PS|kW hp|0|abbr=on}}||{{convert|330|Nm|0|abbr=on}}
+|-
+|'''214'''<br>'''314'''<br>'''414'''||M 111||inline four 16v DOHC||{{convert|2295|cc|1|abbr=on}}||{{convert|143|PS|kW hp|0|abbr=on}}||{{convert|210|Nm|0|abbr=on}}
+|}
+
+===2006&ndash;present (2007&ndash;present USA)===
+{| class="wikitable" cellpadding="0" style="text-align:center; font-size:96%;"
+|- style="background:#dcdcdc; text-align:center; vertical-align:middle;"
+!models
+!engine code
+![[engine configuration]]
+![[engine displacement]]
+!max. [[power (physics)|power]]
+!max. [[torque]]
+|- style="background:#fff;"
+|'''209 CDI<br>309 CDI<br>509 CDI'''||OM 646||[[inline-four engine|inline four]] [[multi-valve|16v]] [[DOHC]]||{{convert|2148|cc|1|abbr=on|lk=on}}||{{convert|88|PS|kW hp|0|abbr=on|lk=on}}||{{convert|220|Nm|0|abbr=on|lk=on}}
+|-
+|'''211 CDI<br>311 CDI<br>411 CDI<br>511 CDI'''||OM 646||inline four 16v DOHC||{{convert|2148|cc|1|abbr=on}}||{{convert|109|PS|kW hp|0|abbr=on}}||{{convert|280|Nm|0|abbr=on}}
+|-
+|'''213 CDI<br>313 CDI'''||OM 646||inline four 16v DOHC||{{convert|2148|cc|1|abbr=on}}||{{convert|129|PS|kW hp|0|abbr=on}}||{{convert|305|Nm|0|abbr=on}}
+|-
+|'''215 CDI<br>315 CDI<br>415 CDI<br>515 CDI'''||OM 646||inline four 16v DOHC||{{convert|2148|cc|1|abbr=on}}||{{convert|150|PS|kW hp|0|abbr=on}}||{{convert|330|Nm|0|abbr=on}}
+|-
+|'''218 CDI<br>318 CDI<br>418 CDI<br>518 CDI'''||OM 642||[[V6 engine|V6]] 24v DOHC||{{convert|2987|cc|1|abbr=on}}||{{convert|184|PS|kW hp|0|abbr=on}}||{{convert|400|Nm|0|abbr=on}}
+|-
+|'''224<br>324<br>424<br>524'''||M 272||V6 24v DOHC||{{convert|3498|cc|1|abbr=on}}||{{convert|258|PS|kW hp|0|abbr=on}}||{{convert|340|Nm|0|abbr=on}}
+|}
+
+According to the Mercedes-Benz German website, the Sprinter is also available as the 316/416/516 NGT - [[Compressed Natural Gas]] (CNG).
+
+==Sprinter model range==
+The model designations for the first generation Sprinter are W901, W902, W903, W904 and W905, depending on the gross weight rating.
+*Passenger van
+*Conversion van
+*Cargo van
+*[[Minibus]]
+*Cab-chassis
+
+==See also==
+*[[Mercedes-Benz]] - Worldwide of Mercedes-Benz Sprinter
+*[[Dodge]] - USA & Canada of Dodge Sprinter
+*[[Freightliner Trucks]] - USA & Canada of Freightliner Sprinter
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www2.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/van/home/new_vans/new_vans_showroom/sprinter.html UK Mercedes-Benz Sprinter]
+*[http://www.dodge.com/en/2009/sprinter/ Official Dodge Sprinter website]
+*[http://www.fl-sprinter.com Official Freightliner Sprinter website]
+*[http://www.ibenz.co.uk/mercedes-sprinter/ Mercedes Sprinter UK Models]
+
+{{Mercedes-Benz vehicles}}
+{{Dodge}}
+
+[[Category:Mercedes-Benz vehicles|Sprinter]]
+[[Category:Buses]]
+[[Category:Trucks]]
+[[Category:Vans]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Hybrid vans]]
+[[Category:Plug-in hybrid vehicles]]
+
+[[da:Mercedes-Benz Sprinter]]
+[[de:Mercedes-Benz Sprinter]]
+[[nl:Mercedes-Benz Sprinter]]
+[[ja:メルセデス・ベンツ スプリンター]]
+[[pl:Mercedes-Benz Sprinter]]
+[[pt:Mercedes-Benz Sprinter]]
+[[ru:Mercedes-Benz Sprinter]]
+[[sv:Mercedes-Benz Sprinter]]
+[[tr:Mercedes-Benz Sprinter]]
+[[uk:Mercedes-Benz Sprinter]]

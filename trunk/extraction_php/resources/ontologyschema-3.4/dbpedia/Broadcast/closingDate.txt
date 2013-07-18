@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = closing date
+|rdfs:domain = Broadcast
+|rdfs:range = xsd:date
+}}

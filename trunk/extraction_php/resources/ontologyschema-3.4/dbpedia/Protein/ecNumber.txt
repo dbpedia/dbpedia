@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = EC number
+|rdfs:domain = Protein
+|rdfs:range = xsd:string
+}}

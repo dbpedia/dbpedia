@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label 	= material
+|rdfs:domain 	= Island
+|rdfs:range		= xsd:string
+}}

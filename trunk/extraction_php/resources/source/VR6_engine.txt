@@ -1,0 +1,156 @@
+{{refimprove|date=September 2007}}
+{{weasel|date=June 2009}}
+[[Image:15° VR6.png|thumb|200px|right|Schematic 'top view' of a 15° VR6 engine]]
+The '''VR6 engine''' is an [[internal combustion engine]] [[engine configuration|configuration]], consisting of six [[cylinder (engine)|cylinders]].  It was developed by the [[Germany|German]] [[automotive industry]] conglomerate and holding company - [[Volkswagen Group]] in the late [[1980s]], and is still produced by them today.
+
+It is similar to a [[V engine|'Vee' engine]], but with the 'rows' of cylinders offset and tilted from each other by an [[angle]] of either 10.6&nbsp;[[degree (angle)|degrees]] ([[degree symbol|°]]) or 15° - instead of the more common 45°, 60°, or 90° as found on conventional Vee engines. 
+
+==Description==
+[[Image:L V VR6 engines.svg|thumb|200px|left|Three types of [[engine configuration]] &mdash; '''a''': [[straight engine]], '''b''': [[V engine|Vee engine]], '''c''': VR engine]]
+[[Image:Stand VR6-motor.PNG|thumb|200px|right|An 'overhead view' of the schematic differences between [[engine configuration]]s.<br />On the left: an [[inline-four engine]], centre: a conventional [[V6 engine]], and on the right: a VR6 engine.<br />Note how the V6 engine requires two separate [[cylinder head]]s, whereas the VR6 needs just one cylinder head, like an inline or straight engine.]]
+The name VR6 comes from a combination of [[V engine]] ({{lang-de|V-Motor}}), and the German word "Reihenmotor" (meaning "row engine" or [[straight engine]]).
+
+The [[engine configuration|configuration]] can also be described as a "staggered six", in keeping with the geometry of the [[Lancia Fulvia]] staggered-four, developed in the late [[1950s]] (a continuation of Lancia's design practice dating back to the [[1920s]]).  Staggered engines are an amenable further development, with both uneven cylinder numbers, and with staggered-bank Vee configurations.
+
+The VR6 was specifically designed for [[transverse engine|transverse]] installation in [[front-wheel drive]] vehicles.  By using the narrow angle of 15° between the two 'rows' in the VR6 engine, it was possible to install a six-cylinder engine within the existing Volkswagen Group four-cylinder-model engine bays.  A wider [[V6 engine]] of conventional Vee design would have required lengthening existing vehicles to provide enough [[crumple zone]] between the front of the vehicle and the engine, and between the engine and the passenger cell.  The VR6 is able to use the [[firing order]] of a [[straight-six engine]] (aka inline-six) engine and, as a result, it is nearly as smooth as an inline-six.
+
+The narrow [[angle]] between cylinders allows the use of just one '[[cylinder bank]]', and one [[cylinder head]] - whereas conventional Vee engines require two cylinder banks and two separate cylinder heads.  As a result of using just one cylinder head, it also allows just two [[overhead camshaft]]s to drive all of the [[poppet valve#internal combustion engine|valves]].  This simplifies engine construction, and reduces costs.  In early 12-valve VR6 engines there are two overhead camshafts with six [[cam|cam lobes]] on each.  The forward camshaft has three intake valve lobes and three exhaust valve lobes to control the frontmost three cylinders.  The rear camshaft is designed the same way, but controls the rearmost three cylinders instead.  The operating ''principle'' of this design is most similar to a [[overhead camshaft#single overhead camshaft|single overhead camshaft]] (SOHC) design.  Later 24-valve VR6 engines still had two overhead camshafts, but now with 12 cam lobes each.  However, the operation of the camshafts in the 24-valve engine is different to that of the earlier 12-valve engine, in that the front camshaft only operates the intake valves, and the rear camshaft only operates the exhaust valves.  The operating principle of this design is most similar to a [[overhead camshaft#double overhead camshaft|double overhead camshaft]] (DOHC) design.
+
+There are several different variants of the VR6 engine.  The original VR6 engine displaced 2.8&nbsp;[[litre]]s and featured a 12-valve design (two valves per cylinder).  These engines produced a rated [[motive power|motive]] [[power (physics)|power]] output of {{convert|128|kW|PS bhp|0|lk=on}}, and {{convert|240|Nm|0|lk=on}} of [[torque]].
+
+==Detailed specifications==
+[[Image:Klepbediening VR6 24V.PNG|thumb|225px|right|Schematic diagram of the piston 'Vee' angle in the VR6 engine.<br />Note the '[[overhead camshaft#double overhead camshaft|double overhead camshaft]]' (DOHC) design - however, this diagram fails to show the required different length valve shafts.]]
+The original VR6 engine features a one-piece [[gray iron|grey]] [[cast iron]] [[crankcase]] and [[cylinder block]], and one lightweight [[aluminium alloy]] [[crossflow cylinder head|crossflow]] [[cylinder head]], with two [[poppet valve#internal combustion engine|valves]] per [[cylinder (engine)|cylinder]], operated by [[chain]]-driven [[overhead camshaft]]s.  All fuel and [[ignition system|ignition]] requirements of the VR6 engine are controlled by [[Robert Bosch GmbH|Bosch]] [[Motronic]] [[engine control unit]] (ECU).  This engine management system features an air mass sensor, dual [[engine knocking|knock]] sensors for cylinder-selective ignition knock regulation, and Lambda regulation for the air/fuel mixture.  Exhaust gases are channeled through a three-way [[catalytic converter]].
+
+[[Volkswagen Group]] identifies the original VR6 by the "AAA" engine ID code.  It operates on the [[four-stroke engine|four-stroke cycle]], has an [[engine displacement]] of 2.8&nbsp;[[litre]]s, although some [[Europe]]an engines had a displacement of 2.9&nbsp;litres (this variant identified by the "ABV" engine ID code).  The cylinder [[bore (engine)|bore]] diameter is 81.0&nbsp;[[millimetre]]s (mm), and the [[piston]] [[stroke (engine)|stroke]] is 90.0&nbsp;mm.  The "Vee" [[angle]] is 15[[degree (angle)|°]], and the [[compression ratio]] (CR) is 10:1. 
+
+The drop-[[forge]]d [[steel]], six-throw [[crankshaft]] runs in seven [[main bearing]]s.  The [[connecting rod]] [[bearing (mechanical)|bearing]] journals are offset 22° to one another.  Two [[overhead camshaft]]s (OHCs) operate the automatic [[hydraulics|hydraulic]] [[hydraulic tappet|valve lifters]] which, in turn, open and close the 39.0&nbsp;mm intake valves and 34.3&nbsp;mm exhaust valves.  Since the two 'rows' of [[piston]]s and cylinders share a single cylinder head and [[head gasket]], the piston crown (or top surface) is tilted.  Since the [[piston ring]]s are better not tilted, and will only work when perpendicular to the cylinder bore, the firewall{{clarify|date=June 2009}} has a varying height, leading to unequal thermal stresses and a heavier piston.{{citation needed|date=June 2009}}  Intake and exhaust valves need different [[camshaft]]s to vary valve overlap (they may be coaxial like in some 90° V8).  To minimise the number of camshafts, both rows share their camshafts (like some 90° V8).  Then due to the geometry, half of the [[valve stem]]s are very long,{{clarify|date=June 2009}} which may be a problem in high [[revolutions per minute|revving]] race engine applications.{{citation needed|date=June 2009}}  The intake and exhaust ports pass closely within the cylinder head; this then heats the intake air/fuel mixture ''before'' it is ignited by the [[spark plug]], which limits the amount of timing advance that can be used due to an increased possibility of pre-detonation of the air/fuel mixture and has the effect of reducing the [[power (physics)|power]].  This also cools the exhaust gasses, which hampers the operation of the catalytic converter.  In the [[automobile|road car]] production engine, a single plane [[manifold (automotive)#exhaust manifold|exhaust manifold]] seal is used, and therefore half of the ports have to be very long,{{clarify|date=June 2009}} leading to increased heat insertion into the manifold, requiring a heavier manifold, and an otherwise unnecessary turn in the [[manifold (automotive)#intake manifold|intake manifold]].  Since the cylinder pitch{{clarify|date=June 2009}} is decreased a bit too much (as compared to an [[straight-six engine|inline-six]]), the longer ports on the four-valve version are squeezed into a standing rectangular cross section, and do not have the typical and more ideal lying elliptical or half moon cross section.  In road car applications, the intake and exhaust ports are typically bent, and the different port lengths can easily be compensated.  An exception is the [[W engine]] derivative of the VR6, where every second intake port has a notable chicane.{{clarify|date=June 2009}}
+[[Image:Kleppen VR6-motor 12V.PNG|thumb|225px|left|Schematic diagram showing the differences in port lengths between a V6 and VR6 using '''12-valves''']]
+[[Image:Kleppen VR6-motor 24V.PNG|thumb|225px|right|Schematic diagram showing the differences in port lengths between a V6 and VR6 using '''24-valves''']]
+
+Because of the cylinder arrangement in the VR6 - with two rows of [[combustion chamber]]s within the same cylinder head, the intake ports between the two rows of cylinders are of varying lengths.  Depending on the specific generation of VR6, the difference in intake port length is compensated in the [[manifold (automotive)#intake manifold|intake manifold]], the camshaft overlap and lift profile, or a combination thereof.  In the original VR6, each port is 420&nbsp;mm long.  Exhaust gases are channeled from two 3-branch [[cast iron]] [[manifold (automotive)#exhaust manifold|exhaust manifolds]] (one dedicated to three cylinders) into a sheathed Y-pipe.  From there, they are channeled into a single flow pipe, before passing over the heated [[oxygen sensor]], and then to the [[catalytic converter]].
+
+The [[fuel injection|fuel injectors]], operated by the [[Robert Bosch GmbH|Bosch]] [[Motronic]] [[engine control unit]] (ECU) system, are mounted behind the bend of the intake manifolds.  Besides being the optimum location for fuel injection, this location also helps shield the injectors during a frontal impact.{{citation needed|date=June 2009}}<!-- I think if you crashed your car, the last thing on your mind would be weather your fuel injectors remained intact! -->  The water pump housing is cast integral with the cylinder block.  VR6 engines also use an additional auxiliary electric pump to circulate the engine coolant whilst the engine is running, and also during the cooling fan 'after-run' cycle, in addition to the belt-driven main water pump.
+
+A replaceable oil filter cartridge element is used on the VR6 engine.  The sump-mounted [[oil pump (internal combustion engine)|oil pump]] is driven via an intermediate shaft.  An oil pressure control valve is integrated in the pump.
+
+The one-piece [[cylinder block]] and [[crankcase]] is made from [[pearlitic]] [[gray iron|grey]] [[cast iron]] with [[microalloyed steel]] (microalloy).  The two rows of three cylinders are arranged at a 15° axial angle from the [[crankshaft]].  The cylinder [[bore (engine)|bores]] are 81.0&nbsp;[[millimetre]]s (mm) in [[diameter]], with a spacing of 65&nbsp;mm between cylinders.  They are staggered, but overlap along the length of the engine block - to allow the engine to be shorter and more compact than conventional V6 engines.
+
+The centerline of the cylinders are also offset from the centerline of the crankshaft by 12.5&nbsp;mm.  To accommodate the offset cylinder placement and narrow "Vee" design, the [[connecting rod]] bearing journals are offset 22° to each other.  This also allows the use of a 120° firing interval between cylinders.  The [[firing order]] is:  1, 5, 3, 6, 2, 4.
+
+==History and evolution==
+[[Image:2.9VR6 140kW ABV Corrado.jpg|thumb|200px|right|A European-spec 'ABV' 2.9&nbsp;[[litre]] VR6 in a [[Volkswagen Corrado]]]]
+The [[Volkswagen Group]] VR6 engine was introduced in [[Europe]] by [[Volkswagen|Volkswagen Passenger Cars]] in 1991, in the [[Volkswagen Passat|Passat]] and [[Volkswagen Corrado|Corrado]]; and in [[North America]] the following year.  The Passat, Passat Variant ([[station wagon|estate/wagon]]), and US-specification Corrado used the original 2.8&nbsp;[[litre]] design; the European-specification Corrado and the 4WD Passat [[4motion|Syncro]] received a 2.9&nbsp;litre version with {{convert|140|kW|PS bhp|0|lk=on}}.  This version also had a free flowing {{convert|6|cm|1|lk=on}} (2.5&nbsp;in) [[catalytic converter]], sharper [[camshaft]]s, 4&nbsp;[[bar (unit)|bar]] fuel pressure regulator, enlarged inlet manifold, and larger [[throttle body]].
+
+The 2.9&nbsp;litre engine, as destined for the Corrado, was originally designed to benefit from a dual-tract [[variable length intake manifold|variable-length inlet manifold]] - called the VSR (German: "Variables SaugRohr"), and made by [[Pieronberg]] for [[Volkswagen#Motorsport|Volkswagen Motorsport]].  This gave extra low-down torque, but was deleted before production on cost grounds, and was instead offered as an aftermarket option.  This design was later sold to [[Schrick]], who redesigned it and offered it as the Schrick VGI ("Variable Geometry Intake"). 
+
+In 1992, with the introduction of the [[Volkswagen Golf Mk3]], a six-cylinder engine was available for the first time in a lower-midsize segment [[hatchback]] in Europe.  North America waited until 1994 to received this engine; at the same time, the European model started to use the 2.9&nbsp;litre in the VR6 Syncro model.  The corresponding Vento/Jetta VR6 versions appeared in the same years.
+[[Image:VW VR5 engine.jpg|thumb|200px|right|The five-cylinder VR5 engine, also known as the 'V5']]
+
+Volkswagen Group removed a cylinder from the VR6 in 1997 to create the VR5 (aka 'V5'), the first block to use an uneven number of cylinders in a Vee design (other than the Honda V3 triples of [[MotoGP]] fame).  This version, which had a 2.3&nbsp;litre capacity, was capable of {{convert|110|kW|PS bhp|0|lk=on}}, and had a maximum [[torque]] of {{convert|210|Nm|0|lk=on}}.  It was introduced in the Passat in 1997, and the Golf and Bora in 1999.
+
+VWAG added further modifications to the design in 1999, with the introduction of the [[multi-valve|24-valve]] 2.8&nbsp;litre VR6.  This engine produced {{convert|150|kW|PS bhp|0|lk=on}}, and {{convert|265|Nm|0|lk=on}} of torque.  The new version was not available in the Passat (as it was incompatible with the then-current generation's [[longitudinal engine]] layout), but was introduced as the range topper in the Golf and Bora for European markets.  The VR6 name was dropped as a commercial designation,{{citation needed|date=June 2009}} and the 4WD system (now renamed [[4motion]]) became standard on the V6 (VR6) in Europe.  The corresponding multi-valve V5 was only released in 2001, with a 20&nbsp;PS power increase, to {{convert|125|kW|PS bhp|0}}.  The multi-valve V6 (VR6) was introduced in North America in 2001 aboard the [[Volkswagen Transporter (T4)|T4 Eurovan]], producing {{convert|150|kW|PS bhp|0}}, and in the GTI in 2002 (where it retained the VR6 name).
+
+In 1999, VWAG also released an updated 12-valve VR6 model for the North American market [[Volkswagen Group A platform#A4 (PQ34)|A4-platform]] [[Volkswagen Golf Mk4|Golf Mk4]]/[[Volkswagen Golf|GTI]]/[[Volkswagen Jetta|Jetta]] product line.  This new VR6 improved performance via updated [[camshaft]]s, [[variable length intake manifold|variable geometry intake manifold]], an increased [[compression ratio]] of 10.5:1, and updated emissions equipment.  [[motive power|Motive]] [[power (physics)|power]] increased to {{convert|130|kW|PS bhp|0}} at 5,800&nbsp;[[revolutions per minute]] (rpm), while torque increased to {{convert|245|Nm|0}} at 3,200&nbsp;rpm.  This engine option was available from 1999.5&mdash;2002, when it was replaced by the 24-valve engine.
+
+In 2001, the VR6 was enlarged to 3.2&nbsp;litres, to create a limited-production, high performance, {{convert|168|kW|PS bhp|0|lk=on}} version of the [[Volkswagen New Beetle|New Beetle]] called Beetle RSi.  The Beetle RSi was the first production vehicle to use the 3.2&nbsp;[[litre]] VR6.{{citation needed|date=June 2009}}  This engine was later used in the [[Volkswagen Golf Mk4#R32|Mk4 Golf R32]], and was also introduced in the original [[Audi TT]].  According to Volkswagen Group, this variant produced {{convert|184|kW|PS bhp|0}} and {{convert|320|Nm|0|lk=on}} of torque in TT trim, and {{convert|177|kW|PS bhp|0}} in R32 trim.  Although it was rated at the same power as the European version, the North American R32 featured a larger Audi TT [[mass airflow sensor]] (3" in diameter, compared to 2.75"), and a different airbox which should have given the same {{convert|184|kW|PS bhp|0}} output of the Audi.
+
+The 3.2&nbsp;litre was then used as a range-topper in the original [[Audi A3]] and TT.
+
+The 3.2 VR6 continued being used to power the R32, in the all-new [[Volkswagen Golf Mk5#R32|Mk5 Golf R32]].
+
+In 2005, the European market version of Volkswagen's sixth generation Passat, now with a [[transverse engine]] layout, went on sale with a revised version of the 3.2&nbsp;litre VR6 as its top-spec engine.  For North America, the Passat received a new 3.6&nbsp;litre VR6 with a narrower 10.6&nbsp;[[degree (angle)|degree]] cylinder angle, producing {{convert|206|kW|PS bhp|0|lk=on}}.  These revised 3.2 and 3.6 feature [[gasoline direct injection|Fuel Stratified Injection]] (FSI).  This new 3.2 FSI VR6 develops {{convert|184|kW|PS bhp|0|lk=on}} at 6,250&nbsp;rpm, and {{convert|330|Nm|0|lk=on}}at 3,000&nbsp;rpm.<ref>{{cite web|title=The Passat (sales brochure) - 3.2 FSI VR6|url=http://cdn.volkswagen.co.uk/assets/common/pdf/brochures/passat-saloon-brochure.pdf|work=Volkswagen Group United Kingdom Limited|publisher=Volkswagen.co.uk|pages=pages 14,18,24|format=PDF|date=1 December 2008|accessdate=31 July 2009}}</ref>  The introduction of the Passat VR6 also marked the first time a VR6 powered vehicle was made available in North America before Europe.
+
+The new [[Volkswagen Passat#R36|Passat R36]], available from early 2008, received an uprated version of the 3.6&nbsp;FSI VR6 engine, with {{convert|221|kW|PS bhp|0|lk=on}} at 6,600&nbsp;rpm and {{convert|350|Nm|0|lk=on}} at 2,400&nbsp;rpm, standard [[4motion]] [[four-wheel drive]], and standard [[Direct-Shift Gearbox]] (DSG).<ref>{{cite web|title=The Passat (sales brochure) - 3.6 FSI VR6|url=http://cdn.volkswagen.co.uk/assets/common/pdf/brochures/passat-saloon-brochure.pdf|work=Volkswagen Group United Kingdom Limited|publisher=Volkswagen.co.uk|pages=pages 11,12,14,19,24|format=PDF|date=1 December 2008|accessdate=31 July 2009}}</ref>
+
+==Usage==
+===VR6===
+The VR6 engine was used by [[Volkswagen|Volkswagen Passenger Cars]] in:
+{{div col|cols=2}}
+*[[Volkswagen Golf Mk3]]
+*[[Volkswagen Golf Mk4]]
+*[[Volkswagen Golf Mk5]]
+*[[Volkswagen Jetta#A3|Volkswagen Vento/Volkswagen Jetta Mk3]]
+*[[Volkswagen Jetta#A4|Volkswagen Bora/Volkswagen Jetta Mk4]]
+*[[Volkswagen New Beetle]]
+*[[Volkswagen Corrado]]
+*[[Volkswagen Passat]] (B3, B4, and B6 chassis)
+*[[Volkswagen Passat CC]]
+*[[Volkswagen Phaeton]]
+*[[Volkswagen Touareg]]
+*[[Volkswagen Sharan]] / [[SEAT Alhambra]] / [[Ford Galaxy]]
+*[[Volkswagen Transporter|Volkswagen Transporter/Caravelle/Multivan]] T4 and T5
+{{div col end}}
+
+The VR6 is also used in other [[Volkswagen Group]] products, namely:
+{{div col|cols=2}}
+*[[Audi A3]] Mk2
+*[[Audi TT]] both generations
+*[[Audi Q7]]
+*[[Porsche Cayenne]]
+*[[SEAT León]]
+*[[Škoda Superb#3T|Škoda Superb (B6, 3T)]]
+{{div col end}}
+
+===VR5===
+The VR5 was used by in the following Volkswagen Group products:
+*[[Volkswagen Golf Mk4]]
+*[[Volkswagen Bora]]
+*[[Volkswagen Passat#B5|Volkswagen Passat (B5)]]
+*[[Volkswagen New Beetle]]
+*[[SEAT Toledo]] Mk2
+
+{{VR6 engine}}
+
+==Other applications of "VR" technology==
+[[Volkswagen Group]] has also developed a series of engines which use 'narrow angle' designs mated together at 72 degrees.  For example, two imaginary VR6 engines mated together at 72 degrees result in a [[W12 engine]]d configuration, which is significantly shorter than a conventional [[V12 engine]], but only marginally wider.  [[W8 engine]] and [[W16 engine]] designs were developed in a similar fashion.  The W8 uses two imaginary four-cylinder VR engines mated together, and the W16 uses two imaginary eight-cylinder VR banks.
+
+Though Volkswagen Group describes these compound VR engines as being of [[W engine|W configuration]], it is more correct to describe them as staggered-bank V configuration engines,{{citation needed|date=July 2009}} in keeping with the staggered-straight VR geometry.
+
+==See also==
+{{commons category|VR6 engines}}
+*[[list of Volkswagen Group petrol engines]]
+*[[list of Volkswagen Group diesel engines]]
+*[[list of discontinued Volkswagen Group petrol engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+*[[list of North American Volkswagen engines]]
+*[[straight engine]]
+*[[V engine]]
+*[[W8 engine]]
+*[[W12 engine]]
+*[[W16 engine]]
+*[[W18 engine]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.VolkswagenAG.com VolkswagenAG.com] Volkswagen Group corporate website
+*[http://www.autozine.org/technical_school/engine/tech_engine_packaging.htm Volkswagen's VR6 and W-engines]
+*{{PDFlink|[http://www.vdo.com/NR/rdonlyres/FB32CC24-7D64-462B-A204-973CA019D76E/0/SensorenMotormanagement_UK_komplett_final_proofed.pdf VDO Sensors for Engine Management]}}  &mdash; shows build dates for various VWAG engines
+
+{{piston engine configurations}}
+{{Volkswagen Group brands}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+{{Volkswagen (North America) timeline 1980 to date}}
+{{Audi vehicles timeline (Europe)}}
+{{Audi vehicles timeline (North America)}}
+{{SEAT timeline 1980 to date}}
+{{Škoda timeline 1990 to date}}
+{{Volkswagen Commercial Vehicles (Europe) timeline}}
+
+[[Category:Volkswagen engines]]
+[[Category:Volkswagen]]
+[[Category:Audi]]
+[[Category:SEAT]]
+[[Category:Škoda]]
+
+[[de:VR-Motor]]
+[[es:Motor VR6]]
+[[nl:VR-motor]]
+[[ja:フォルクスワーゲン・VR6型エンジン]]
+[[pl:VR6]]
+[[pt:Motor VR]]
+[[ru:Конфигурация двигателя VR]]
+[[sv:VR6-motor]]
+[[uk:VR6]]

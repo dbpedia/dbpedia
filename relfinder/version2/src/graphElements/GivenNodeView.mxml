@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+Copyright (C) 2009 Philipp Heim, Sebastian Hellmann, Jens Lehmann, Steffen Lohmann and Timo Stegemann
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.	
+-->
+
+<mx:Canvas 
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	xmlns:flexlib="http://code.google.com/p/flexlib/" 
+	xmlns:ext="classes.extenders.*"
+	xmlns:nimer="com.mikenimer.components.datagrid.*"
+	xmlns:local="*"
+	creationComplete="setup()"
+	
+	
+	backgroundColor="{getBackgroundColor(null)}"
+	borderThickness="{getBorderThickness(app().selectedElement)}"
+	borderColor="{getColor(app().selectedElement)}"
+
+	width="120" height="25" toolTip="{data.element.label}"
+	verticalScrollPolicy="off" horizontalScrollPolicy="off" click="{data.hasBeenClicked()}"  borderStyle="solid" paddingBottom="2" paddingTop="2" paddingLeft="2" paddingRight="2" cornerRadius="8">
+		
+		<!-- 
+			borderColor="{getColor(app().currentElement)}"
+			filters="{calcFilters(data.colorRings.length)}"
+			borderThickness="{getBorderThickness(app().currentElement)}"
+		-->
+		
+		<mx:HBox id="content" height="100%" width="100%" horizontalGap="0" verticalAlign="middle" paddingBottom="0" paddingTop="0" paddingLeft="0" paddingRight="0">
+			<local:LoadingAnimation id="la" circleRadius="7" dotSize="2" numberOfDots="8"/>
+			<mx:Label id="nodeLabel" text="{data.element.rdfLabel}" width="120" fontSize="12" />
+			<!-- <mx:Button id="pinButton" width="10" height="10" styleName="pinBtn" />
+			<mx:Spacer width="2"/>
+			<mx:Button id="closeButton" width="10" height="10" styleName="closeBtn" /> -->
+		</mx:HBox>
+		<!-- data.element.title <mx:VBox paddingBottom="11" height="100%" width="100%">
+			<mx:TextArea borderStyle="none" width="100%" height="100%" text="{data.element.description}" mouseDown="event.stopPropagation()" />
+		</mx:VBox> -->
+	
+
+	
+	<mx:Script>
+		<![CDATA[
+			import flash.utils.Timer;
+			import graphElements.GivenNode;
+			import mx.collections.ArrayCollection;
+			import mx.core.Application;
+			import mx.events.DragEvent;
+			
+			private var showLoadingAnimation:Boolean = true;
+			
+			public var isPinned:Boolean = false;
+			
+			private var _data:GivenNode;
+			
+			[Bindable(event="dataChange")]
+			override public function get data():Object { 
+				return super.data;
+			}
+			
+			override public function set data(value:Object):void 
+			{
+				super.data = value;
+				
+				value.addEventListener("rdfLabelChange", rdfLabelChangeHandler);
+				value.addEventListener("isLoadingChange", elementChangeHandler);
+				value.addEventListener("elementChange", elementChangeHandler);
+				
+				dispatchEvent(new Event("dataChange"));
+			}
+			
+			private function elementChangeHandler(event:Event):void {
+				
+				if (showLoadingAnimation) {
+					if (_data == null || _data.element == null) {
+						if (data.element.isLoading) {
+							la.startRotation();
+						}else {
+							la.stopRotation();
+						}
+					}
+					setLabelWidth();
+				}
+			}
+			
+			private function setLabelWidth():void {
+				var calcWidth:Number = 120;
+				
+				if (isPinned) {
+					calcWidth -= 14;
+				}
+				
+				if (la.isRotating()) {
+					calcWidth -= 20;
+				}
+				
+				nodeLabel.width = calcWidth;
+			}
+			
+			private function rdfLabelChangeHandler(event:Event):void {
+			}
+			
+			public function setup():void {
+				//trace("setup");
+				data.pin();
+				addListeners();
+				
+				elementChangeHandler(null);
+				//trace("ListView has been build");
+				//this.addEventListener(MouseEvent.CLICK, canvasClickHandler);
+			}
+			
+			public function addListeners():void {
+				content.addEventListener(MouseEvent.CLICK, panelClickHandler);
+				//this.pTitleBar.addEventListener(MouseEvent.DOUBLE_CLICK, titleBarDoubleClickHandler);
+				
+				/*var timer:Timer = new Timer(4000, 1);
+				timer.addEventListener(TimerEvent.TIMER_COMPLETE, this.timerCompleteHandler);
+				timer.start();
+				*/
+				content.addEventListener(MouseEvent.MOUSE_DOWN, titleBarDownHandler);
+				//closeButton.addEventListener(MouseEvent.CLICK, closeClickHandler);
+				//pinButton.addEventListener(MouseEvent.CLICK, pinClickHandler);
+			}
+			
+			/*public function timerCompleteHandler(event:Event):void {
+				if (!this.isPinned) {	//if the window is not allready pinned
+					this.pinClickHandler(null);
+				}
+			}*/
+			
+			private function app(): Main {
+				return Application.application as Main;
+			}
+			
+			/*public function pinClickHandler(event:MouseEvent):void {
+				if (this.pinButton.styleName == "pinBtn") {
+					data.pin();
+					pinButton.styleName = "unpinBtn";
+					isPinned = true;
+				}else {
+					data.unpin();
+					pinButton.styleName = "pinBtn";
+					isPinned = false;
+				}
+			}*/
+			
+			public function panelClickHandler(event:MouseEvent):void {
+				content.removeEventListener(MouseEvent.MOUSE_MOVE, titleBarMoveHandler);
+				this.parent.setChildIndex(this, this.parent.numChildren - 1);
+				this.panelFocusCheckHandler();
+			}
+			
+			public function titleBarDownHandler(event:MouseEvent):void {
+				content.addEventListener(MouseEvent.MOUSE_MOVE, titleBarMoveHandler);
+			}
+				
+			public function titleBarMoveHandler(event:MouseEvent):void {
+				if (this.width < screen.width) {
+					Application.application.parent.addEventListener(MouseEvent.MOUSE_UP, titleBarDragDropHandler);
+					content.addEventListener(DragEvent.DRAG_DROP,titleBarDragDropHandler);
+					this.parent.setChildIndex(this, this.parent.numChildren - 1);
+					this.panelFocusCheckHandler();
+					this.alpha = 0.5;
+					this.startDrag(false, new Rectangle(0, 0, screen.width - this.width, screen.height - this.height));
+					
+				}
+				/**
+				 * added by Philipp Heim
+				 */
+				event.stopImmediatePropagation();
+			}
+			
+			public function titleBarDragDropHandler(event:MouseEvent):void {
+				this.removeEventListener(MouseEvent.MOUSE_MOVE, titleBarMoveHandler);
+				this.alpha = 1.0;
+				this.stopDrag();
+			}
+			
+			public function panelFocusCheckHandler():void {
+				/*for (var i:int = 0; i < this.parent.numChildren; i++) {
+					var child:UIComponent = UIComponent(this.parent.getChildAt(i));
+					if (this.parent.getChildIndex(child) < this.parent.numChildren - 1) {
+						child.setStyle("headerColors", [0xe8e8e8, 0xc8c8c8]);
+						child.setStyle("borderColor", 0xc8c8c8);
+					} else if (this.parent.getChildIndex(child) == this.parent.numChildren - 1) {
+						child.setStyle("headerColors", [0xc8c8c8, 0xa8a8a8]);
+						child.setStyle("borderColor", 0xa8a8a8);
+					}
+				}*/
+			}
+			
+			public function closeClickHandler(event:MouseEvent):void {
+				this.removeEventListener(MouseEvent.CLICK, panelClickHandler);
+				//this.parent.removeChild(this);
+				//app().removeElementItem(this.data as ElementItem);
+			}
+			
+			private function getColor(selectedElement:Element): int {
+				if (selectedElement == data.element) {
+					return app().getStyle("themeColor"); //0x000000;//0x3399FF;
+				}
+				for each(var r:Relation in data.element.relations) {
+					for each(var p:Path in r.paths) {
+						if (p.isHighlighted) {
+							return 0xFF0000;
+						}
+					}
+					
+				}
+				//default
+				return 0x000000;
+			}
+			
+			private function getBorderThickness(selectedElement:Element): int {
+				if (selectedElement != data.element) {
+					return 2;
+				}else {
+					return 3;
+				}
+			}
+			
+			private function calcFilters(_length:int): Array {
+				var a:Array = new Array();
+				var radius:int = 5;
+				var alpha:Number = 1.0;
+				for each(var color:uint in data.colorRings) {
+					a.push(new GlowFilter(color, alpha, radius, radius, 15, 2));
+				}
+				return a;
+			}
+			
+			private function getBackgroundColor(hPaths:ArrayCollection):int {
+				/*var rels:Array = data.element.relations;
+				for each(var p:Path in hPaths) {
+					for each(var r:Relation in rels) {
+						if (p.relations.contains(r)) {
+							return 0xFF3333;
+						}
+					}
+				}*/
+				
+				return 0xffffff;
+			}
+			
+		]]>
+	</mx:Script>	
+	
+</mx:Canvas>

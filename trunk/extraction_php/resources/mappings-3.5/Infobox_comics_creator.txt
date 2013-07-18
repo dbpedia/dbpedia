@@ -1,0 +1,14 @@
+{{TemplateMapping
+| mapToClass = ComicsCreator
+| mappings = 
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birthname | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = birthdate | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = deathdate | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = deathplace | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = nationality | ontologyProperty = nationality }}
+	{{PropertyMapping | templateProperty = alias | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

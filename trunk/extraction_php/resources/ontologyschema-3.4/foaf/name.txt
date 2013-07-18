@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= name
+|rdfs:domain	= owl:Thing
+|rdfs:range		= xsd:string
+}}

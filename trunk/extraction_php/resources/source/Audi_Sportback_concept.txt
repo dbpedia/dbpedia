@@ -1,0 +1,53 @@
+{{Infobox Automobile
+| image          = [[Image:AudiSportbackConcept.jpg|250px]]
+| name           = Audi Sportback concept
+| manufacturer   = [[Audi|Audi AG]]
+| parent_company = [[Volkswagen Group]]
+| aka            =
+| production     = 2009
+| assembly       =
+| predecessor    =
+| successor      =
+| class          = [[executive car]]
+| body_style     = 5-door [[fastback]]
+| layout         = [[front-engine design|Front engine]],<br>[[quattro (four wheel drive system)|quattro]] [[four-wheel drive]]
+| platform       = 
+| engine         = 3.0&nbsp;L TDI [[V6]] [[diesel engine]]
+| transmission   = 9-speed [[tiptronic]] [[automatic transmission|automatic]]
+| wheelbase      =
+| length         = {{convert|4950|mm|in|1|abbr=on}}
+| width          = {{convert|1930|mm|in|1|abbr=on}}
+| height         = {{convert|1400|mm|in|1|abbr=on}}
+| weight         = {{convert|1800|kg|lb|1|abbr=on}}
+| fuel_capacity  =
+| electric_range =
+| related        =
+| designer       =
+}}
+
+The '''Audi Sportback concept''' is a [[concept car]] produced by [[Audi]]. It was introduced at the 2009 [[North American International Auto Show]]. The Sportback concept, a luxury five-door [[fastback]] model, is regarded as a preview of two future models: an [[Audi A5]] Sportback variant and the [[Audi A7]]. <ref name="car">{{cite web|url=http://www.carmagazine.co.uk/News/Search-Results/Motor-show--events/Detroit-Motor-Show-/2009/Audi-Sportback-unveiled-at-Detroit-auto-show-2009-110109/|title=Audi Sportback unveiled at Detroit auto show 2009|last=Pollard|first=Tim|date=2009-01-12|work=[[Car Magazine]]|accessdate=2009-01-19}}</ref> The Audi A5 Sportback has since debuted in July [[2009]], with the A7 being postponed to [[2010]].
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Audi concept vehicles}}
+* [http://www.audi.com/audi/com/en2/experience/motor_shows/audi_sportback_concept.html Audi Sportback concept - Audi World Site]
+
+{{Audi}}
+
+{{DEFAULTSORT:Sportback Concept}}
+[[Category:Audi concept vehicles]]
+[[Category:Audi vehicles]]
+
+
+{{Modern-auto-stub}}
+
+[[fr:Audi A7]]
+[[hr:Audi A7]]
+[[nl:Audi A7]]
+[[no:Audi A7]]
+[[pl:Audi A7]]
+[[ru:Audi A7]]
+[[sk:Audi A7]]
+[[de:Audi Sportback Concept]]

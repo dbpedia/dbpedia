@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = fastest lap
+| rdfs:domain = FormulaOneRacer
+| rdfs:range = xsd:integer
+}}

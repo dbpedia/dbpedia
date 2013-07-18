@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Moss
+| rdfs:subClassOf = Plant
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = floor count
+|rdfs:domain = Building
+|rdfs:range = xsd:integer
+}}

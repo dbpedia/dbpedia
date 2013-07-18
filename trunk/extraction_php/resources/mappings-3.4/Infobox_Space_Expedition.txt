@@ -1,0 +1,48 @@
+{{ DBpediaTemplateMapping
+| mapToClass = SpaceMission
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = spacecraft_name | ontologyProperty = SpaceMission/spacecraft }}
+	{{ DBpediaPropertyMapping | templateProperty = shuttle_name | ontologyProperty = SpaceMission/shuttle }}
+	{{ DBpediaPropertyMapping | templateProperty = command_module | ontologyProperty = SpaceMission/commandModule }}
+	{{ DBpediaPropertyMapping | templateProperty = service_module | ontologyProperty = SpaceMission/serviceModule }}
+	{{ DBpediaPropertyMapping | templateProperty = lunar_module | ontologyProperty = SpaceMission/lunarModule }}
+	{{ DBpediaPropertyMapping | templateProperty = booster | ontologyProperty = SpaceMission/booster }}
+	{{ DBpediaPropertyMapping | templateProperty = callsign | ontologyProperty = SpaceMission/callSign }}
+	{{ DBpediaPropertyMapping | templateProperty = crew_size | ontologyProperty = SpaceMission/crewSize }}
+	{{ DBpediaPropertyMapping | templateProperty = launch_pad | ontologyProperty = SpaceMission/launchPad }}
+	{{ DBpediaPropertyMapping | templateProperty = launch_date | ontologyProperty = SpaceMission/launchDate }}
+	{{ DBpediaPropertyMapping | templateProperty = spacewalk_begin | ontologyProperty = SpaceMission/spacewalkBegin }}
+	{{ DBpediaPropertyMapping | templateProperty = spacewalk_end | ontologyProperty = SpaceMission/spacewalkEnd }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = lunar_landing }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = landing_site }}
+	{{ DBpediaPropertyMapping | templateProperty = lunar_eva_duration | ontologyProperty = SpaceMission/lunarEvaTime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = lunar_rover | ontologyProperty = SpaceMission/lunarRover }}
+	{{ DBpediaPropertyMapping | templateProperty = cmp_eva_duration | ontologyProperty = SpaceMission/cmpEvaTime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = lunar_surface_time | ontologyProperty = SpaceMission/lunarSurfaceTime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = lunar_sample_mass | ontologyProperty = SpaceMission/lunarSampleMass | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = time_lunar_orbits | ontologyProperty = SpaceMission/lunarOrbitTime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = landing | ontologyProperty = SpaceMission/landingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = mission_duration | ontologyProperty = SpaceMission/missionDuration | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = orbits | ontologyProperty = SpaceMission/numberOfOrbits }}
+	{{ DBpediaPropertyMapping | templateProperty = inclination | ontologyProperty = SpaceMission/orbitalInclination }}
+	{{ DBpediaPropertyMapping | templateProperty = distance_traveled | ontologyProperty = SpaceMission/distanceTraveled | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = crew_caption | ontologyProperty = SpaceMission/crewMember }}
+	{{ DBpediaPropertyMapping | templateProperty = previous_mission | ontologyProperty = SpaceMission/previousMission }}
+	{{ DBpediaPropertyMapping | templateProperty = next_mission | ontologyProperty = SpaceMission/nextMission }}
+	{{ DBpediaPropertyMapping | templateProperty = NumberOfCrew | ontologyProperty = SpaceMission/crewSize }}
+	{{ DBpediaPropertyMapping | templateProperty = LaunchDate | ontologyProperty = SpaceMission/launchDate }}
+	{{ DBpediaPropertyMapping | templateProperty = LaunchVehicle | ontologyProperty = SpaceMission/launchvehicle }}
+	{{ DBpediaPropertyMapping | templateProperty = LandingDate | ontologyProperty = SpaceMission/landingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = LandingVehicle | ontologyProperty = SpaceMission/landingvehicle }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = LandingSite }}
+	{{ DBpediaPropertyMapping | templateProperty = StationVisitLength | ontologyProperty = SpaceMission/stationvisitlength | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = StationEVALength | ontologyProperty = SpaceMission/stationevalength | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = Duration | ontologyProperty = SpaceMission/missionDuration | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = Distance | ontologyProperty = SpaceMission/distanceTraveled | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = Mass | ontologyProperty = SpaceMission/mass | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = CrewCaption | ontologyProperty = SpaceMission/crewMember }}
+	{{ DBpediaPropertyMapping | templateProperty = previous | ontologyProperty = SpaceMission/previousMission }}
+	{{ DBpediaPropertyMapping | templateProperty = next | ontologyProperty = SpaceMission/nextMission }}
+	{{ DBpediaPropertyMapping | templateProperty = mission_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+}}

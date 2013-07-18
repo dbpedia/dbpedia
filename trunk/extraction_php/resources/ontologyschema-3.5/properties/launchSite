@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = launch site
+| rdfs:range = Building
+}}

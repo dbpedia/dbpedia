@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = frequently updated
+|rdfs:domain = Software
+|rdfs:range = xsd:string
+}}

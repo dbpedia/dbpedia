@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = conservation status
+|rdfs:domain = Species
+|rdfs:range = xsd:string
+}}

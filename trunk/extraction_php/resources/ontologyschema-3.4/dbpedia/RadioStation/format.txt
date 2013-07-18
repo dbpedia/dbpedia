@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = format
+|rdfs:domain = RadioStation
+|rdfs:range = owl:Thing
+}}

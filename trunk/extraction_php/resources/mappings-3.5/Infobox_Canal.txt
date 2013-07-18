@@ -1,0 +1,33 @@
+{{TemplateMapping
+| mapToClass = Canal
+| mappings = 
+	{{PropertyMapping | templateProperty = company | ontologyProperty = company }}
+	{{PropertyMapping | templateProperty = engineer | ontologyProperty = principalEngineer }}
+	{{PropertyMapping | templateProperty = a_engineer | ontologyProperty = engineer }}
+	{{PropertyMapping | templateProperty = date_act | ontologyProperty = dateAct }}
+	{{PropertyMapping | templateProperty = date_const | ontologyProperty = dateConstruction }}
+	{{PropertyMapping | templateProperty = date_use | ontologyProperty = dateUse }}
+	{{PropertyMapping | templateProperty = date_comp | ontologyProperty = dateCompleted }}
+	{{PropertyMapping | templateProperty = date_ext | ontologyProperty = dateExtended }}
+	{{PropertyMapping | templateProperty = date_closed | ontologyProperty = dateClosed }}
+	{{PropertyMapping | templateProperty = date_rest | ontologyProperty = dateRestored }}
+	{{PropertyMapping | templateProperty = start | ontologyProperty = startPoint }}
+	{{PropertyMapping | templateProperty = o_start | ontologyProperty = originalStartPoint }}
+	{{PropertyMapping | templateProperty = end | ontologyProperty = endPoint }}
+	{{PropertyMapping | templateProperty = o_end | ontologyProperty = originalEndPoint }}
+	{{PropertyMapping | templateProperty = branch | ontologyProperty = branch }}
+	{{PropertyMapping | templateProperty = branch_of | ontologyProperty = branchOf }}
+	{{PropertyMapping | templateProperty = join | ontologyProperty = hasJunctionWith }}
+	{{PropertyMapping | templateProperty = maximumBoatLength | ontologyProperty = maximumBoatLength | unit = Length }}
+	{{PropertyMapping | templateProperty = originalMaximumBoatLength | ontologyProperty = originalMaximumBoatLength | unit = Length }}
+	{{PropertyMapping | templateProperty = maximumBoatBeam | ontologyProperty = maximumBoatBeam | unit = Length }}
+	{{PropertyMapping | templateProperty = originalMaximumBoatBeam | ontologyProperty = originalMaximumBoatBeam | unit = Length }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = o_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = m_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = elev | ontologyProperty = elevation | unit = foot }}
+	{{CalculateMapping | operation = add | templateProperty1 = len  | unit1 = foot  | templateProperty2 = len_in  | unit2 = inch  | ontologyProperty = maximumBoatLength }}
+	{{CalculateMapping | operation = add | templateProperty1 = o_len  | unit1 = foot  | templateProperty2 = o_len_in  | unit2 = inch  | ontologyProperty = originalMaximumBoatLength }}
+	{{CalculateMapping | operation = add | templateProperty1 = beam  | unit1 = foot  | templateProperty2 = beam_in  | unit2 = inch  | ontologyProperty = maximumBoatBeam }}
+	{{CalculateMapping | operation = add | templateProperty1 = o_beam  | unit1 = foot  | templateProperty2 = o_beam_in  | unit2 = inch  | ontologyProperty = originalMaximumBoatBeam }}
+}}

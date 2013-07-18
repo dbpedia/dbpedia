@@ -1,0 +1,164 @@
+{{Infobox Automobile
+| image = [[Image:Vw 411 v sst.jpg|250px|1969-72 Volkswagen 411 estate]]
+| name = Volkswagen 411 / Volkswagen 412
+| manufacturer = [[Volkswagen|Volkswagen AG]]
+| production = 1968-1972 ''(411)''<br>1972-1974 ''(412)''
+| predecessor = 
+| successor = [[Volkswagen Passat]]
+| body_style =2-door [[sedan (car)|saloon]] <br>4-door [[sedan (car)|saloon]] <br>3-door [[station wagon|estate]]
+| engine = 1679&nbsp;cc [[Flat-4]] ''(411)''<br>1795 cc [[Flat-4]] ''(412)''
+| layout=[[RR layout]]
+| transmission = 4 speed manual <br>3 speed automatic optional
+| length = {{convert|4553|mm|in||abbr=on}} ''(411)''<br>{{convert|4583|mm|in||abbr=on}}<ref name=AutoMotoruSport1974>{{cite journal| authorlink = | title = Test VW 412 LS| journal = [[Auto, Motor und Sport|Auto Motor u. Sport]]| volume = Heft 3 1974| pages = Seite 40- 48 |date = date 2 Februar 1974}}</ref> ''(412)''
+| width = {{convert|1675|mm|in||abbr=on}}<ref name=AutoMotoruSport1974/>
+| height = {{convert|1475|mm|in||abbr=on}}<ref name=AutoMotoruSport1974/>
+| weight = {{convert|1020|kg|lb||abbr=on}} <br>  ''2-door 411''<br>{{convert|1120|kg|lb||abbr=on}} <br>  ''Variant''
+| wheelbase =  {{convert|2500|mm|in||abbr=on}}<ref name=AutoMotoruSport1974/>
+|fuel_capacity={{Convert|50|L|usgal impgal|1|abbr=on}}<ref name=DailyExpressMotorShowReviewOct1969re1970>{{cite journal|journal =Daily Express Motor Show Review 1969 on 1970 Cars |volume = | authorlink = Basil Cardew (Ed) |title = | publisher=Daily Express Newspaper  |location= London |pages = Page 59 (VW 411E)| date = [[October]] [[1969]]}}</ref> 
+| track = {{convert|1377|mm|in||abbr=on}} ''(front)'' 
+| related = [[Volkswagen Type 3]]
+| similar = 
+| designer = 
+}}
+
+The '''Volkswagen Type 4''' was a mid-sized 2 or 4-door [[sedan (car)|saloon]] or 2-door [[station wagon|estate]] built by [[Volkswagen]] (VW) of [[Germany]]. It was introduced at the [[Paris Motor Show]] in October 1968<ref name=Autocar1968>{{cite journal| authorlink = Unsigned| title = News and Views: What's new at Paris| journal = [[Autocar]]| volume = vol 129 (nbr 3790)| pages = page 59 |date = date 3 October 1968}}</ref> and withdrawn from sale in 1974.
+
+The Type 4 was larger than the [[Volkswagen Type 3]] and had a more powerful engine (1.7 - 1.8 litres, as opposed to 1.5 - 1.6 for the Type 3). The Type 3 and Type 4 were the last of the company's [[air-cooled]] models apart from the vanagon Type 2 bus range which continued until 1983 (and had an updated version of the type 4 fuel injected engine), and followed on from the [[Volkswagen Type 1]] ("Beetle"). They were succeeded by the massively successful [[Volkswagen Golf|Golf/Rabbit]] and [[Volkswagen Passat|Dasher/Passat]].
+
+==Features==
+[[Image:VW 411 LE 1971 2.JPG|thumb|left|1971 Volkswagen 411LE.]]The Type 4 introduced many firsts to the Volkswagen range. These included: [[unibody]] construction, [[MacPherson strut]] front suspension, rear suspension with coil springs and trailing wishbones, a hydraulic clutch (for models equipped with a [[manual transmission]]), and one of the first [[automatic transmission|fully automatic transmissions]] (the first was in the 1969 Type 3 models) in a Volkswagen. (Previous cars had used an automatic (vacuum-actuated) clutch, but gears still had to be changed manually.) The Type 4 was also Volkswagen's first 4-door car. The MacPherson strut front suspension was later successfully employed in the [[VW Beetle|1302/1303]] ("Super Beetle").
+
+The Type 4's battery was located under the driver's seat. In the rear of the car was located a [[Gasoline heater|gasoline-operated heater]] (an [[Eberspächer]] BA4) that was fired by a glow plug accessible from a hidden rear window deck plate.
+
+==Models==
+[[Image:Volkswagen 411 Front view Essex.jpg|thumb|left|1968 Volkswagen 411 4-door saloon. 1968 models, without fuel injected motors, are distinguished by their unusually shaped single headlamp covers.]]
+The Type 4 was marketed as the Volkswagen 411, produced from 1968 to 1972, and, modestly improved, as the 412 from 1972 till 1974. Both ranges included a [[fastback]] saloon and an estate version. The car at launch came with a 1679 cc twin carburettor engine: just one year later, in 1969, this was replaced with a fuel injected unit, increasing claimed power output from 68 to {{convert|80|bhp|abbr=on}}, and making this one of the first mass production vehicles to include the feature &mdash; along with the Volkswagen Type 3, which also had received electronic fuel injection in 1968.   Fuel injection was indicated by the suffix letter 'E' (for ''Einspritzung'') in the model's name:  the 411E's {{convert|80|bhp|abbr=on}} engine was shared with the mid-engined [[Porsche 914]] also launched in 1969.  The most obvious visual change in 1969 was the replacement of single rectangular headlights, behind windcheating covers, with uncovered twin headlights  
+[[Image:Typ 4 412 Variant aus Offenbach.JPG|thumb|1974 Volkswagen 412 estate.]]
+Towards the end of 1973 the '''Volkswagen 412''', featuring a slightly larger, 1795 cc engine, replaced the 411.<ref name=AutoMotoruSport1974/>  Fuel feed reverted to a twin carburettor system.<ref name=AutoMotoruSport1974/>  The 412's headlight surround was reshaped and the nose panels were redesigned, to give the car a slightly less bland look.
+
+The design of the Volkswagen 412 Variant was followed when the [[Volkswagen Brasilia]] was produced in [[Brazil]], primarily for the [[Latin America]]n markets.
+
+==Sales and marketing==
+Even after five years of disappointing sales, no attempt was made to have the car compete on price, suggesting that the Type 4 was probably not particularly cheap to produce.   In February 1974 on the domestic market the 4-door 412L was priced at DM 10,995 (DM 11,145 for the 412 LS).<ref name=AutoMotoruSport1974/>   The price setter in the sector was probably the [[Opel Rekord]] which was offered in 1700 cc guise for DM 10,823, itself fractionally undercut by the [[Ford Granada (Europe)|Ford Consul 1700]] at DM 10,740.<ref name=AutoMotoruSport1974/>   The West German government was at this time cultivating currency stability, and from across the [[River Rhine|Upper Rhine]] the 1800 cc [[Peugeot 504|Peugeot 504 L]] was offered at a challenging DM 10,195.<ref name=AutoMotoruSport1974/>   Unfortunately, however, even in its home country, the verdict of the market place did not support Volkswagen's evident belief that the 412 deserved to command a price premium on account of its Volkswagen qualities.
+
+During a six year production span, just 367,728 Type 4s were produced. That was better than the 210,082 achieved by the contemporary [[Volkswagen K70]] (which effectively had only a four year model life). Nevertheless, Type 4 sales levels must have been disappointing when set against the volumes achieved by the [[Volkswagen Type 1|Type 1 (Beetle)]] and [[Volkswagen Type 3|Type 3]] models.  The domestic market dominance of [[General Motors|GM]]'s [[Opel Rekord]], its production running at about 300,000 cars annually, was not seriously threatened by Volkswagen's 411/412 in the family sedan sector.
+
+In the United States, where the Type 4 was on sale for four seasons, it was regarded as too underpowered. The Type 4 was in fact a sales disaster in the U.S., selling only 117,110 units over a four-year-period.
+
+==Popular perception==
+In contemporary German vernacular, the 411 was called "Nasenbär" ("[[coati]]") or "Vier Türen elf Jahre zu spät", meaning "four doors coming eleven years too late" because it was Volkswagen's first 4-door sedan. {{Fact|date=February 2007}}.   (The [[Opel Rekord]] had been offered with four doors only since 1959 while its Vauxhall counterparts were always four-door-only, and starting in 1957 [[Auto Union]] had offered a four door version of [[Auto Union 1000|their small family sedan]].)
+
+==The powerplant lived on==
+{{main|Volkswagen air cooled engine}}
+While the Type 4 was discontinued in 1974 when sales dropped, its engine became the power plant for [[Volkswagen Type 2]]s ("Kombis") produced from 1972 to 1979: it continued in modified form in the later "Vanagon" which was air-cooled from 1980 until mid-1983. The engine that superseded the Type 4 engine in late 1983 retained Volkswagen Type 1 architecture, yet featured water-cooled cylinder heads and cylinder jackets. The [[Wasserboxer]], VW speak for a water-cooled, opposed-cylinder (flat or [[boxer engine]]), did not enjoy the reputation for longevity that the original air-cooled design had forged. From the very start, the engine suffered cylinder-to-head sealing problems, mostly due to [[galvanic corrosion]], often a result of slack maintenance schedules. Volkswagen discontinued the engine in 1992, upon the introduction of the Eurovan.
+
+==Data==
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data Volkswagen Type 4 <ref name=DeAutos45bis90Oswald>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1975, Band 4|year= 2003 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02116-1, Pages. 62-65.}}</ref>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="15%"|Volkswagen 411 / 412
+
+! width="17%"|411 <br>2 or 4-door saloon
+
+! width="17%"|411 E/ LE <br>2 or 4-door saloon<br> Variant (3-door estate)
+! width="17%"|412 E/LE<br>2 or 4-door saloon<br> Variant (3-door estate)
+! width="17%"|412 <br>2 or 4-door saloon<br> Variant (3-door estate)
+! width="17%"|412 S<br>2 or 4-door saloon
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1968 - 1969 || align="center" |1969 - 1972 || align="center" |1972 - 1973 || align="center" |1973 - 1974 || align="center" |1973 - 1974
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="5" align="center" | [[Four stroke]] [[Flat-4|4 cylinder boxer motor]] , rear-mounted
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || align="center" |1679 cc || align="center" |1679 cc || align="center" |1679 cc || align="center" |1795 cc || align="center" |1795 cc
+|- bgcolor="#EEEEEE"
+| Bore x Stroke:&nbsp; || align="center" |90 x 66 || align="center" |90 x 66 || align="center" |90 x 66 || align="center" |93 x 66 || align="center" |93 x 66
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp; || align="center" |{{Convert|68|hp|kW|0|abbr=on}} @ 4500 || align="center" |{{Convert|80|hp|kW|0|abbr=on}} @ 4900 || align="center" |{{Convert|80|hp|kW|0|abbr=on}} @ 4900 || align="center" |{{Convert|75|hp|kW|0|abbr=on}} @ 5000 || align="center" |{{Convert|85|hp|kW|0|abbr=on}} @ 5000 
+|- bgcolor="#EEEEEE"
+| Max. Torque @ rpm:&nbsp; || align="center" | {{convert|124|Nm|lbft||abbr=on}} @ 2800 || align="center" | {{convert|132|Nm|lbft||abbr=on}} @ 2700 || align="center" | {{convert|132|Nm|lbft||abbr=on}} @ 2700 || align="center" |{{convert|129|Nm|lbft||abbr=on}} @ 3400 || align="center" | {{convert|135|Nm|lbft||abbr=on}} @ 3400 
+|- bgcolor="#EEEEEE"
+| Compression Ratio:&nbsp; || align="center" |7.8 : 1 || align="center" |8.2 : 1 || align="center" |8.2 : 1 || align="center" |- || align="center" |-
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || align="center" |Twin carburettors<br>Solex 34 PDSIT||colspan="2" align="center" |Electronic Fuel Injection<br>[[Robert Bosch GmbH|Bosch]] D-Jetronic||colspan="2" align="center" |Twin carburettors<br>Solex 40 PDSIT
+|- bgcolor="#EEEEEE"
+| Fuel tank capacity:&nbsp; || colspan="6" align="center" |  {{Convert|50|L|usgal impgal|1|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Valvetrain:&nbsp; || colspan="5" align="center" |   
+|- bgcolor="#EEEEEE"
+|  Cooling:&nbsp; || colspan="5" align="center" |[[Air-cooled engine|Air]]
+|- bgcolor="#EEEEEE"
+| Gearbox:&nbsp; || colspan="6" align="center" |  4-speed all-synchromesh manual with floor mounted lever control & rear wheel drive<br>Optional 3-speed automatic
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || colspan="6" align="center" |  12 volt
+|- bgcolor="#EEEEEE"
+| Front suspension:&nbsp; || colspan="6" align="center" | Independent.  [[MacPherson strut|MacPherson Struts]]
+|- bgcolor="#EEEEEE"
+| Rear suspension::&nbsp; || colspan="6" align="center" | Independent.  Semi-trailing arms with double joint axles and coil springs
+|- bgcolor="#EEEEEE"
+| Brakes:&nbsp; || colspan="6" align="center" | From discs / rear drums: Optional power assistance
+|- bgcolor="#EEEEEE"
+| Steering:&nbsp; || colspan="6" align="center" | Recirculating ball 
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; ||colspan="6" align="center" | [[Monocoque]]
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || colspan="2" align="center" |{{convert|1020|kg|lb||abbr=on}} - {{convert|1080|kg|lb||abbr=on}} ( 2-door)<br>{{convert|1040|kg|lb||abbr=on}} - {{convert|1100|kg|lb||abbr=on}} ( 4-door)<br> {{convert|1120|kg|lb||abbr=on}} ( Variant)|| colspan="3" align="center" |{{convert|1080|kg|lb||abbr=on}} ( 2-door)<br>{{convert|1100|kg|lb||abbr=on}} ( 4-door)<br> {{convert|1120|kg|lb||abbr=on}} ( Variant)
+|- bgcolor="#EEEEEE"
+|  || colspan="6" align="center" |
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || align="center" |{{convert|1376|mm|in||abbr=on}} {{convert|1342|mm|in||abbr=on}} || align="center" |{{convert|1376|mm|in||abbr=on}} {{convert|1342|mm|in||abbr=on}}|| align="center" |{{convert|1386|mm|in||abbr=on}} {{convert|1350|mm|in||abbr=on}}|| align="center" |{{convert|1386|mm|in||abbr=on}} {{convert|1350|mm|in||abbr=on}}|| align="center" |{{convert|1386|mm|in||abbr=on}} {{convert|1350|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || colspan="5" align="center" |{{convert|2500|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || colspan="2" align="center"| {{convert|4553|mm|in||abbr=on}} Saloon<br> {{convert|4525|mm|in||abbr=on}} Variant || colspan="3" align="center"| {{convert|4583|mm|in||abbr=on}} Saloon<br> {{convert|4555|mm|in||abbr=on}} Variant 
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || colspan="5" align="center" | {{convert|1636|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || colspan="5" align="center" | {{convert|1486|mm|in||abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="5" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="5" align="center" |
+|- bgcolor="#EEEEEE"
+|- bgcolor="#EEEEEE"
+| Top Speeds<br>   ........Manual:<br>  ....Automatic:|| align="center" |<br>145&nbsp;km/h (90&nbsp;mph)<br>142&nbsp;km/h (88&nbsp;mph) || align="center" |<br>155&nbsp;km/h (96&nbsp;mph)<br>152&nbsp;km/h (94&nbsp;mph) || align="center" |<br>155&nbsp;km/h (96&nbsp;mph)<br>152&nbsp;km/h (94&nbsp;mph) || align="center" |<br>150&nbsp;km/h (93&nbsp;mph)<br>147&nbsp;km/h (91&nbsp;mph)|| align="center" |<br>158&nbsp;km/h (98&nbsp;mph)<br>155&nbsp;km/h (96&nbsp;mph)
+|- bgcolor="#EEEEEE"
+| Acceleration 0 - 100&nbsp;km/h (0 - 62&nbsp;mph)<br>   ........Manual:<br>  ....Automatic:|| align="center" |<br>18.0 s<br>21.0 s || align="center" |<br>17.0 s<br>20.0 s || align="center" |<br>17.0 s<br>20.0 s || align="center" |<br>16.5 s<br>20.0 s || align="center" |<br>14.5 s<br>17.5 s
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+==Sources and further reading==
+{{reflist}}
+
+==External links==
+{{commonscat|Volkswagen Type 4}}
+* [http://home.clara.net/hallvw/index.htm Volkswagen Type 3 & 4 club]
+
+{{Volkswagen (Europe) timeline 1950-1979}}
+{{Volkswagen (North America) timeline 1950-1979}}
+
+{{VW}}
+
+[[Category:Volkswagen vehicles|Type 4]]
+[[Category:Vehicles with boxer engines]]
+[[Category:Vehicles introduced in 1968]]
+
+[[de:VW Typ 4]]
+[[it:Volkswagen Tipo 4]]
+[[nl:Volkswagen 412]]
+[[ja:フォルクスワーゲン・タイプ4]]
+[[pt:Volkswagen Typ 4]]
+[[ru:Volkswagen Typ 4]]
+[[fi:Volkswagen Typ 4]]
+[[sv:Volkswagen Typ 4]]

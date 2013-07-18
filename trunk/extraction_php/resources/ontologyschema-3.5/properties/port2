@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = port2
+| rdfs:domain = Spacecraft
+}}

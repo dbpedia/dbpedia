@@ -1,0 +1,17 @@
+{{TemplateMapping
+| mapToClass = Newspaper
+| mappings = 
+	{{PropertyMapping | templateProperty = format | ontologyProperty = format }}
+	{{PropertyMapping | templateProperty = owners | ontologyProperty = owner }}
+	{{PropertyMapping | templateProperty = editor | ontologyProperty = editor }}
+	{{PropertyMapping | templateProperty = chiefeditor | ontologyProperty = chiefEditor }}
+	{{PropertyMapping | templateProperty = assoceditor | ontologyProperty = associateEditor }}
+	{{PropertyMapping | templateProperty = maneditor | ontologyProperty = managingEditor }}
+	{{PropertyMapping | templateProperty = circulation | ontologyProperty = circulation }}
+	{{PropertyMapping | templateProperty = headquarters | ontologyProperty = headquarters }}
+	{{PropertyMapping | templateProperty = sister newspapers | ontologyProperty = sisterNewspaper }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = publisher | ontologyProperty = publisher }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

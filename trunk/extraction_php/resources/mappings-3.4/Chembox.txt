@@ -1,0 +1,14 @@
+{{ DBpediaTemplateMapping
+| mapToClass = ChemicalCompound
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Density | ontologyProperty = ChemicalCompound/density | unit = Density }}
+	{{ DBpediaPropertyMapping | templateProperty = MeltingPt | ontologyProperty = ChemicalCompound/meltingPoint | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = BoilingPt | ontologyProperty = ChemicalCompound/boilingPoint | unit = Temperature }}
+	{{ DBpediaPropertyMapping | templateProperty = melting point K | ontologyProperty = ChemicalCompound/meltingPoint | unit = kelvin }}
+	{{ DBpediaPropertyMapping | templateProperty = melting point C | ontologyProperty = ChemicalCompound/meltingPoint | unit = degreeCelsius }}
+	{{ DBpediaPropertyMapping | templateProperty = melting point F | ontologyProperty = ChemicalCompound/meltingPoint | unit = degreeFahrenheit }}
+	{{ DBpediaPropertyMapping | templateProperty = boiling point K | ontologyProperty = ChemicalCompound/boilingPoint | unit = kelvin }}
+	{{ DBpediaPropertyMapping | templateProperty = boiling point C | ontologyProperty = ChemicalCompound/boilingPoint | unit = degreeCelsius }}
+	{{ DBpediaPropertyMapping | templateProperty = boiling point F | ontologyProperty = ChemicalCompound/boilingPoint | unit = degreeFahrenheit }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = notable wine
+| rdfs:domain = Grape
+}}

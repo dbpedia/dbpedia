@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Race
+|rdfs:subClassOf = SportsEvent
+}}

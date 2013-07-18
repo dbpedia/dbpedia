@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = source district
+| rdfs:range = PopulatedPlace
+}}

@@ -1,0 +1,14 @@
+{{TemplateMapping
+| mapToClass = Magazine
+| mappings = 
+	{{PropertyMapping | templateProperty = editor | ontologyProperty = editor }}
+	{{PropertyMapping | templateProperty = editor_title | ontologyProperty = editorTitle }}
+	{{PropertyMapping | templateProperty = previous_editor | ontologyProperty = previousEditor }}
+	{{PropertyMapping | templateProperty = issn | ontologyProperty = issn }}
+	{{PropertyMapping | templateProperty = title | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = category | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = company | ontologyProperty = publisher }}
+	{{PropertyMapping | templateProperty = publisher | ontologyProperty = publisher }}
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = stages
+| rdfs:domain = Rocket
+| rdfs:range = xsd:integer
+}}

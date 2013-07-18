@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = variant
+| rdfs:domain = Beverage
+| rdfs:range = Beverage
+}}

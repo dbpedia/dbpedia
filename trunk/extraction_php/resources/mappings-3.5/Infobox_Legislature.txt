@@ -1,0 +1,11 @@
+{{TemplateMapping
+| mapToClass = Legislature
+| mappings = 
+	{{PropertyMapping | templateProperty = houses | ontologyProperty = house }}
+	{{PropertyMapping | templateProperty = leader1 | ontologyProperty = leader }}
+	{{PropertyMapping | templateProperty = members | ontologyProperty = numberOfMembers }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = meeting_place | ontologyProperty = meetingBuilding }}
+	{{PropertyMapping | templateProperty = meeting_place | ontologyProperty = meetingCity }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

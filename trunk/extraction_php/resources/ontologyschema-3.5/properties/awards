@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = awards
+| rdfs:domain = Building
+}}

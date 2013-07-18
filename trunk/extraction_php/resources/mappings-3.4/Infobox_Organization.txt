@@ -1,0 +1,168 @@
+{{DBpediaTemplateMapping
+|mapToClass = Organisation
+|mappings = 
+	{{DBpediaPropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{DBpediaPropertyMapping | templateProperty = abbreviation | ontologyProperty = 
+	Organisation/abbreviation}}
+	
+	{{DBpediaPropertyMapping | templateProperty = affiliations | ontologyProperty = 
+	Organisation/affiliation}}
+	
+	{{DBpediaPropertyMapping | templateProperty = motto | ontologyProperty = 
+	Organisation/motto}}
+	
+	{{DBpediaPropertyMapping | templateProperty = formation | ontologyProperty = 
+	Organisation/formationDate}}
+	
+	{{DBpediaPropertyMapping | templateProperty = formation | ontologyProperty =
+	Organisation/formationYear}}
+
+	{{DBpediaPropertyMapping | templateProperty = extinction | ontologyProperty = 
+	Organisation/extinctionDate}}
+	
+	{{DBpediaPropertyMapping | templateProperty = extinction | ontologyProperty =
+	Organisation/extinctionYear}}
+
+	{{DBpediaPropertyMapping | templateProperty = type | ontologyProperty = 
+	Organisation/type}}
+	
+	{{DBpediaPropertyMapping | templateProperty = status | ontologyProperty = 
+	Organisation/status}}
+	
+	{{DBpediaPropertyMapping | templateProperty = purpose | ontologyProperty = 
+	Organisation/purpose}}
+	
+	{{DBpediaPropertyMapping | templateProperty = headquarters | ontologyProperty = 
+	Organisation/headquarter}}
+	
+	{{DBpediaPropertyMapping | templateProperty = location | ontologyProperty = 
+	Organisation/location }}
+	
+	{{DBpediaGeocoordinatesMapping | coordinates = coords }}
+	
+	{{DBpediaPropertyMapping | templateProperty = region_served | ontologyProperty = 
+	Organisation/regionServed}}
+	
+	{{DBpediaPropertyMapping | templateProperty = membership | ontologyProperty = 
+	Organisation/membership}}
+	
+	{{DBpediaPropertyMapping | templateProperty = language | ontologyProperty = 
+	Organisation/language}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name | ontologyProperty = 
+	PersonFunction/person}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title | ontologyProperty = 
+	PersonFunction/title}} 
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name | ontologyProperty = 
+	PersonFunction/personName}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title | ontologyProperty = 
+	PersonFunction/title}} 
+	
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name2 | ontologyProperty = 
+	PersonFunction/person}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title2 | ontologyProperty = 
+	PersonFunction/title}} 
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name2 | ontologyProperty = 
+	PersonFunction/personName}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title2 | ontologyProperty = 
+	PersonFunction/title}} 
+	
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name3 | ontologyProperty = 
+	PersonFunction/person}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title3 | ontologyProperty = 
+	PersonFunction/title}} 
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name3 | ontologyProperty = 
+	PersonFunction/personName}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title3 | ontologyProperty = 
+	PersonFunction/title}} 
+	
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name4 | ontologyProperty = 
+	PersonFunction/person}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title4 | ontologyProperty = 
+	PersonFunction/title}} 
+	}}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_name4 | ontologyProperty = 
+	PersonFunction/personName}} 
+	
+	{{DBpediaPropertyMapping | templateProperty = leader_title4 | ontologyProperty = 
+	PersonFunction/title}} 
+	
+	}}
+	
+	
+	{{DBpediaPropertyMapping | templateProperty = main_organ | ontologyProperty = 
+	Organisation/mainOrgan}}
+	
+	{{DBpediaPropertyMapping | templateProperty = parent_organization | ontologyProperty = 
+	Organisation/parentOrganisation}}
+	
+	{{DBpediaPropertyMapping | templateProperty = num_staff | ontologyProperty = 
+	Organisation/numberOfStaff}}
+	
+	{{DBpediaPropertyMapping | templateProperty = num_volunteers | ontologyProperty = 
+	Organisation/numberOfVolunteers}}
+	
+	{{DBpediaPropertyMapping | templateProperty = budget | ontologyProperty = 
+	Organisation/budget | unit = Currency}}
+	
+	{{DBpediaPropertyMapping | templateProperty = website | ontologyProperty = 
+	foaf:homepage}}
+
+	
+	
+	
+	}}
+	
+	
+	
+	
+	
+	
+	
+	

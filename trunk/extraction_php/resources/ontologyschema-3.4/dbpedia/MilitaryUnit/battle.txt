@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = battle
+|rdfs:domain = MilitaryUnit
+|rdfs:range = MilitaryConflict
+}}

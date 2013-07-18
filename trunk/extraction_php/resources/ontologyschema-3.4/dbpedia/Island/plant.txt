@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = plant
+|rdfs:domain = Island
+|rdfs:range		= Plant
+}}

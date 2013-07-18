@@ -1,0 +1,4 @@
+{{ Dummy Template |
+ = xyz |
+ property b = abc 
+}}

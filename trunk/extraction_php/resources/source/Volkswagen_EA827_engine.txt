@@ -1,0 +1,237 @@
+{{TOC right}}{{unreferenced|date=August 2008}}
+The '''EA827''' family of [[petrol engine]]s was introduced in 1974 by Volkswagenwerk AG (now [[Volkswagen Group]]).  This is a very robust [[water cooling|water cooled]] engine configuration for four- up to eight- [[cylinder (engine)|cylinders]], and is still in [[list of Volkswagen Group factories|production]].
+
+The EA827 is also the base for [[diesel engine]]s, which share its {{convert|88|mm|2|lk=on}} cylinder spacing with the spark ignition petrol engines.
+
+==84 hp 1.4==
+; configuration : 1423 cc inline 4, bore {{convert|76.5|mm|in|1|abbr=on}} × stroke {{convert|77.4|mm|in|1|abbr=on}}
+; head : [[SOHC]] 2-valve per cylinder, 10:1 compression
+; block : cast iron, five bearings
+; output : 62 kW (84 hp) at 5500 rpm, 118 N•m (87 ft·lbf) at 4200 rpm
+;fuel : electronic injection[SPI] or carburettor
+; aspiration : cast aluminum intake manifold, cast iron exhaust manifold
+; application : [[VW CitiGolf]] (South Africa)
+
+==60 hp 1.3==
+; configuration : 1297 cc (78 in³) inline 4, bore {{convert|75|mm|in|1|abbr=on}} × stroke {{convert|73.4|mm|in|1|abbr=on}}
+; head : [[SOHC]] 2-valve per cylinder
+; block : grey cast iron, five bearings
+; output : 44 kW (60 hp) at 5500 rpm, 100 N•m (74 ft·lbf) at 3200 rpm
+;fuel : carburettor
+; application : [[Audi 80]], [[VW Passat]]
+
+==70 hp 1.5==
+; configuration : 1457 cc (89 in³) inline 4, bore {{convert|79.5|mm|in|1|abbr=on}} × stroke {{convert|73.4|mm|in|1|abbr=on}}
+; head : [[SOHC]] 2-valve per cylinder
+; block : grey cast iron, five bearings
+; output : 51,5 kW (70 hp) at 5600 rpm, 121 N•m (90 ft·lbf) at 2800 rpm
+;fuel : carburettor
+; application : [[VW Golf]], [[Audi 80]] ,[[VW Passat]], [[VW Scirocco]]
+
+==85 hp 1.5==
+; configuration : 1457 cc (89 in³) inline 4, bore {{convert|79.5|mm|in|1|abbr=on}} × stroke {{convert|73.4|mm|in|1|abbr=on}}
+; head : [[SOHC]] 2-valve per cylinder
+; block: grey cast iron, five bearings
+; output : 63 kW (85 hp) at 5600 rpm, 125 N•m (109 ft·lbf) at 3200 rpm
+;fuel : carburettor
+; application : [[VW Golf]], [[Audi 80]], [[VW Passat]]
+
+==85–110 hp 1.6 (GTI)==
+; configuration : 1588 cc (96 in³) inline 4, bore {{convert|79.5|mm|in|1|abbr=on}} × stroke {{convert|80|mm|in|1|abbr=on}}
+; head : [[SOHC]] 2-valve per cylinder
+; block: grey cast iron, five bearings
+; output : 63 kW (85 hp) at 5600 rpm, 125 N•m (109 ft·lbf) at 2800 rpm
+; output(GTI) : 81 kW (110 hp) at 5800 rpm, {{convert|150|Nm|ftlbf|abbr=on}} at 4000 rpm
+;fuel : carburettor, K-Jetronic
+; application : [[Volkswagen Golf|VW Golf GTI]], [[Audi 80]], [[VW Passat]]
+
+==70–102 hp 1.6==
+; configuration : 1595 cc (97 in³) inline 4, bore {{convert|81|mm|in|1|abbr=on}} × stroke {{convert|77.4|mm|in|1|abbr=on}}, 1.05 ratio
+; head : [[SOHC]] 2-valve per cylinder
+; block : grey cast iron, five bearings
+; output : 
+{| class="wikitable"
+|-
+! Output
+! Torque
+! Engine code
+! Applications
+|-
+| {{Convert|52|kW|hp|0|abbr=on}}/5200 rpm
+| {{convert|125|Nm|lbft||abbr=on}}/2800 rpm
+| PN
+| [[Audi 80]], [[VW Golf|VW Golf Mk II]]
+|-
+| {{Convert|74|kW|hp|0|abbr=on}}/5800 rpm
+| {{convert|135|Nm|lbft||abbr=on}}/4400 rpm
+| AEK
+| [[VW Golf|VW Golf Mk III]], [[VW Vento]], [[VW Passat|VW Passat B4]]
+|-
+| {{Convert|74|kW|hp|0|abbr=on}}/5800 rpm
+| {{convert|140|Nm|lbft||abbr=on}}/3500 rpm
+| AFT
+| [[VW Golf|VW Golf Mk III]], [[VW Vento]], [[VW Passat|VW Passat B4]], [[SEAT Ibiza|Seat Ibiza Mk I]], [[SEAT Córdoba|Seat Córdoba Mk I]], [[SEAT Toledo|Seat Toledo Mk I]]
+|-
+| {{Convert|74|kW|hp|0|abbr=on}}/5300 rpm
+| {{convert|140|Nm|lbft||abbr=on}}/3800 rpm
+| ADP; AHL
+| [[Audi A4|Audi A4 B5]], [[VW Passat|VW Passat B5]]
+|-
+| {{Convert|74|kW|hp|0|abbr=on}}/5600 rpm
+| {{convert|145|Nm|lbft||abbr=on}}/3800 rpm
+| AEH; AKL; APF; AUR
+| [[Audi A3|Audi A3 Mk I]], [[Audi A4|Audi A4 B5]], [[Volkswagen Polo Mk III|VW Polo Mk III Classic/Variant]], [[VW Golf|VW Golf Mk IV]], [[VW Bora]], [[VW Passat|VW Passat B5]], [[VW New Beetle]], [[Skoda Octavia]],, [[SEAT Ibiza|Seat Ibiza Mk I]], [[SEAT Córdoba|Seat Córdoba Mk I]], [[SEAT Toledo|Seat Toledo Mk II]]
+|-
+| {{Convert|75|kW|hp|0|abbr=on}}/5600 rpm
+| {{convert|148|Nm|lbft||abbr=on}}/3800 rpm
+| AYD; AWH; AVU; ALZ; BFQ; BFS; BGU; BSE; BSF
+| [[Audi A3]], [[Audi A4|Audi A4 B5-B7]], [[SEAT León|Seat León Mk II]], [[SEAT Altea]], [[SEAT Toledo|Seat Toledo Mk III]], [[Skoda Octavia|Skoda Octavia Mk I/II]], [[VW Golf|VW Golf Mk IV/V]], [[VW Jetta|VW Bora/Jetta]], [[VW New Beetle]], [[VW Passat|VW Passat B5/B6]]
+|}
+;fuel : ecotronic carburettor, KE-Jetronic
+; aspiration : cast aluminum intake manifold, cast iron exhaust manifold
+
+==75–112 hp 1.8==
+; configuration : 1781 cc inline 4, : bore /stroke 81/ 86.4 mm
+; head : [[SOHC]] 2-valve per cylinder
+; block : grey cast iron, five bearings
+; fuel : carburettor, K/KE-Jetronic, mono-Motronic, mono-jetronic, DigiFant2, CIS, CIS E 
+; output : 
+{| class="wikitable"
+|-
+! Output
+! Torque
+! Compression
+! Engine code
+|-
+| {{Convert|55|kW|hp|0|abbr=on}}/5000 rpm
+| {{convert|140|Nm|lbft||abbr=on}}/2500 rpm
+| 9.0:1
+| AAM; ANN
+|-
+| {{Convert|66|kW|hp|0|abbr=on}}/5400 rpm
+| {{convert|142|Nm|lbft||abbr=on}}/2600 rpm
+| 9.0:1
+| RP
+|-
+| {{Convert|66|kW|hp|0|abbr=on}}/5500 rpm
+| {{convert|145|Nm|lbft||abbr=on}}/2500 rpm
+| 10.0:1
+| ABS; ADZ; ANP
+|-
+| {{Convert|72|kW|hp|0|abbr=on}}/5400 rpm
+| {{convert|142|Nm|lbft||abbr=on}}/3000 rpm
+| ?
+| 2H
+|-
+| {{Convert|82|kW|hp|0|abbr=on}}/5800 rpm
+| {{convert|154|Nm|lbft||abbr=on}}/3500 rpm
+| 10.0:1
+| PB; 2E; EV
+|-
+| {{Convert|63.5|kW|hp|0|abbr=on}}/5200 rpm
+| {{convert|133|Nm|lbft||abbr=on}}/3000 rpm
+| 8.5:1
+| GX
+|}
+
+; application : [[Audi 80]], [[Audi 100]], [[Volkswagen Cabriolet|VW Cabriolet]],  [[Volkswagen Golf|VW Golf/Rabbit]], [[Volkswagen Passat|VW Passat]], [[Volkswagen Jetta|VW Jetta]]
+
+==113 hp 1.9E==
+; configuration : 1847 cc inline 4, : bore /stroke 82,5/ 86.4 mm
+; head : [[SOHC]] 2-valve per cylinder, 10,5: 1 compression ratio
+; block : grey cast iron, five bearings
+; fuel : KE-Jetronic
+; output : 83 kW (113 hp) at 5600 rpm, {{convert|160|Nm|ftlbf|abbr=on}} at 3400 rpm
+;fuel : KE-Jetronic
+; application : [[Audi 80]], [[Audi 100]]
+
+==129–139 hp 1.8 16V==
+; configuration : 1781 cc inline 4, : bore /stroke 81/ 86.4 mm
+; head : [[DOHC]] 4-valve per cylinder
+; block : grey cast iron, five bearings
+; fuel : K/KE-Jetronic
+; output : 94 kW (128 hp) in [[SEAT Toledo]] MY 1992–1995
+:        95 kW (129 hp)
+:	102 kW (139 hp)
+;fuel : K/KE-Jetronic
+; application : [[VW Golf]], [[VW Scirocco]], [[SEAT Ibiza]], [[SEAT Córdoba]], [[SEAT Toledo]], [[VW Jetta]], [[VW Passat]]
+
+==90–115 hp 2.0==<!-- This section is linked from [[AMC Gremlin]] -->
+; configuration : 1984 cc (121 in³), bore {{convert|82.5|mm|in|1|abbr=on}} × stroke {{convert|92.8|mm|in|1|abbr=on}}
+; head : aluminum, [[SOHC]], 2 valves per cylinder, compression ratio 10.0:1
+; block : grey cast iron
+; aspiration : cast aluminum intake manifold
+; engine management: KE-Jetronic, [[Digifant]]
+; output : 
+; application : [[Audi 80]], [[Audi 100]], [[AMC Gremlin]]
+; this engine was not assembled in the PORSCHE 924, the Porsche 924-engine based on the "mid-pressure" engine from NSU-Audi (Bore/Stroke: 86,5/84,4)
+
+==136–150 hp 2.0 16V==
+; Configuration : 1,984 cc inline 4 (121 in³)
+; Cylinders: bore × stroke 82.5 × 92.8 mm (0.89), 496 cc/cylinder, 10.5:1 compression ratio
+; Block : grey cast iron, five bearings
+; Head : [[DOHC]] 4-valve per cylinder
+; Fuel : KE-Jetronic, [[Digifant]]
+; Aspiration : long overhead cast aluminium intake manifold
+; output: 100 kW (136 hp), {{convert|180|Nm|lbft||abbr=on}} [[Volkswagen Passat#Mark 3 (B3 platform) (1988–94)|VW Passat B3 16V]] VW Jetta,Golf MKII
+; output: 103 kW (140 hp), {{convert|181|Nm|lbft||abbr=on}} [[Audi 80]]/[[Audi 100|100]] for south European market
+; output : 110 kW (150 hp) at 6000 rpm, {{convert|180|Nm|lbft||abbr=on}} at 4800 rpm [[VW Golf#Mark 3|VW Golf III GTI 16V]], [[Volkswagen Passat#Mark 4 (B4 platform) (1995–97)|VW Passat B4 16V]]
+; application : [[VW Golf |VW Golf GTI]], [[VW Passat]], [[Audi 100]], [[VW Jetta]] GLI,GTX
+
+==160/210 hp G60==
+; configuration : 1781 cc inline 4, : bore /stroke 81/ 86.4 mm
+; head : [[SOHC]] 2-valve per cylinder, 9.0:1 compression ratio
+; head : [[DOHC]] 4-valves per cylinder, 8,5:1 cpr
+; block : Code PG grey cast iron, five bearings
+; fuel : Bosch
+
+; aspiration: beltdriven G-Charger with intercooler
+
+; output : 118 kW (160 hp) at 5800 rpm, {{convert|235|Nm|ftlbf|abbr=on}} at 3500 rpm
+; output : 155kW (211 hp) at 5500 rpm, {{convert|280|Nm|ftlbf|abbr=on}} at 4200 rpm
+; tuned : 140 kW (190 hp) at 5300 rpm, {{convert|255|Nm|ftlbf|abbr=on}} at 3200 rpm
+; application : [[VW Golf]] [[G60]], [[VW Passat]] [[G60]], [[VW Corrado]] [[G60]]
+
+==See also==
+{{commons category|Volkswagen Group engines}}
+*[[list of Volkswagen Group petrol engines]]
+*[[list of Volkswagen Group diesel engines]]
+*[[list of discontinued Volkswagen Group petrol engines]]
+*[[list of discontinued Volkswagen Group diesel engines]]
+*[[list of North American Volkswagen engines]]
+*[[Wasserboxer]]
+*[[VR6 engine]]
+*[[Turbocharged Direct Injection]] (TDI)
+*[[Suction Diesel Injection]] (SDI)
+*[[BlueMotion]]
+*[[list of Volkswagen Group platforms]]
+
+==References==
+{{Reflist}}
+*[http://www.autoshoppingcenter.com/Volkswagen/vw_enginescode.html Volkswagen engine codes]
+*[http://www.autoshoppingcenter.com/Volkswagen/audi_enginescode.html Audi engine codes]
+
+==External links==
+*[http://www.VolkswagenAG.com Volkswagen Group corporate website]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Chemnitz.html Chemnitz (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Kassel.html Kassel (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Salzgitter.html Salzgitter (Germany) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Europa/Polkowice.html Polkowice (Poland) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/amerika/Sao_Carlos.html São Carlos (Brazil) - engine plant Mobility and Sustainability]
+**[http://www.volkswagen.com/vwcms/master_public/virtualmaster/en2/unternehmen/mobility_and_sustainability0/regionen/Asien/Shanghai.html Shanghai (China) - engine plant Mobility and Sustainability]
+**[http://www.audi.com/com/brand/en/company/investor_relations/audi_at_a_glance.html Audi at a glance - includes information on the Győr engine plant]
+
+{{Volkswagen Group brands}}
+{{VW}}
+{{Audi}}
+{{SEAT}}
+{{Škoda}}
+{{Volkswagen Commercial Vehicles}}
+
+[[Category:Automobile-related lists]]
+[[Category:Volkswagen engines| EA827]]
+[[Category:Audi| EA827]]
+[[Category:SEAT| EA827]]
+[[Category:Škoda| EA827]]
+[[Category:Diesel engines]]
+[[Category:Lists of engines]]

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = province
+| rdfs:range = PopulatedPlace
+}}

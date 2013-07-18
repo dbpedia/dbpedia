@@ -1,0 +1,46 @@
+{{ DBpediaConditionalMapping
+| cases =
+ {{ DBpediaCondition
+    | templateProperty = Current_members
+    | operator = isSet
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = Band
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | templateProperty = Past_members
+    | operator = isSet
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = Band
+                }}
+ }}
+
+ {{ DBpediaCondition
+    | otherwise
+    | mapping = {{ DBpediaTemplateMapping
+                | mapToClass = MusicalArtist
+                }}
+ }}
+
+| defaultMappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Background | ontologyProperty = MusicalArtist/background }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Birth_name | ontologyProperty = Person/birthName }}
+	{{ DBpediaPropertyMapping | templateProperty = Alias | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = Born | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Born | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = Died | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = Died | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = Origin | ontologyProperty = Person/homeTown }}
+	{{ DBpediaPropertyMapping | templateProperty = Instrument | ontologyProperty = Artist/instrument }}
+	{{ DBpediaPropertyMapping | templateProperty = Genre | ontologyProperty = Artist/genre }}
+	{{ DBpediaPropertyMapping | templateProperty = Occupation | ontologyProperty = Person/occupation }}
+	{{ DBpediaPropertyMapping | templateProperty = Years_active | ontologyProperty = Person/activeYearsStartYear }}
+	{{ DBpediaPropertyMapping | templateProperty = Years_active | ontologyProperty = Person/activeYearsEndYear }}
+	{{ DBpediaPropertyMapping | templateProperty = Label | ontologyProperty = Artist/label }}
+	{{ DBpediaPropertyMapping | templateProperty = Associated_acts | ontologyProperty = MusicalArtist/associatedBand }}
+	{{ DBpediaPropertyMapping | templateProperty = Associated_acts | ontologyProperty = MusicalArtist/associatedMusicalArtist }}
+	{{ DBpediaPropertyMapping | templateProperty = URL | ontologyProperty = foaf:homepage }}
+	{{ DBpediaPropertyMapping | templateProperty = Notable_instruments | ontologyProperty = Artist/instrument }}
+}}

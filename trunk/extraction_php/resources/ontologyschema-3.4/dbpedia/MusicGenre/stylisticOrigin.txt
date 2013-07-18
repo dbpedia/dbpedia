@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = stylistic origin
+|rdfs:domain = MusicGenre
+|rdfs:range = MusicGenre
+}}

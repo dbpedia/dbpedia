@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = team name
+|rdfs:domain = School
+|rdfs:range = xsd:string
+}}

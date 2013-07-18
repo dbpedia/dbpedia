@@ -1,0 +1,18 @@
+{{ DBpediaTemplateMapping
+| mapToClass = FigureSkater
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = country | ontologyProperty = FigureSkater/country }}
+	{{ DBpediaPropertyMapping | templateProperty = partner | ontologyProperty = FigureSkater/currentPartner }}
+	{{ DBpediaPropertyMapping | templateProperty = formerpartner | ontologyProperty = FigureSkater/formerPartner }}
+	{{ DBpediaPropertyMapping | templateProperty = coach | ontologyProperty = FigureSkater/coach }}
+	{{ DBpediaPropertyMapping | templateProperty = formercoach | ontologyProperty = FigureSkater/formerCoach }}
+	{{ DBpediaPropertyMapping | templateProperty = choreographer | ontologyProperty = FigureSkater/choreographer }}
+	{{ DBpediaPropertyMapping | templateProperty = formerchoreographer | ontologyProperty = FigureSkater/formerChoreographer }}
+	{{ DBpediaPropertyMapping | templateProperty = skatingclub | ontologyProperty = FigureSkater/skatingClub }}
+	{{ DBpediaPropertyMapping | templateProperty = title | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = dateofbirth | ontologyProperty = Person/birthDate }}
+	{{ DBpediaPropertyMapping | templateProperty = dateofdeath | ontologyProperty = Person/deathDate }}
+	{{ DBpediaPropertyMapping | templateProperty = residence | ontologyProperty = Person/residence }}
+	{{ DBpediaPropertyMapping | templateProperty = height | ontologyProperty = Person/height | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = retired | ontologyProperty = Person/activeYearsEndYear }}
+}}

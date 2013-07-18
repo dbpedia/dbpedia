@@ -1,0 +1,28 @@
+There are two processes to run:
+(see also knownIssues.txt, if you encounter problems)
+
+**** OAI Reader ****
+0. go into directory cd liveextraction
+1. configure 
+  a) ./prepareConfig.sh
+  b) configure files in config/en and config/meta manually
+2. put the wikipedia password in a file (liveextraction/pw.txt)
+3. ./makeExecutables.sh
+4. ./run_Default_Extraction.sh
+5. ./run_MetaExtraction.sh
+
+*** Live extraction ****
+Requirements: php curl odbc and cli
+0. go into /dbpedia/extraction
+1. copy /config/dbpedia.ini-dist to config/dbpedia.ini
+2. configure config/dbpedia.ini
+- make sure the dir to read oairecords are correct
+- make the appropriate entries
+- turn owlAxioms on
+- for log configuration copy  config/logger.ini-dist to config/logger.ini
+3. start 'php extract_live.php'
+
+**** known issues ****
+- about 0.1% of SPARUL inserts fail, because datatypes are not correct, just IGNORE for now
+- the HomepageExtractor throws a Segmentation fault sometimes, possible php bug
+  you can set it to keep in extract_live.php

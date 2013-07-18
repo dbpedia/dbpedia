@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Television Show
+|rdfs:subClassOf = Work
+}}

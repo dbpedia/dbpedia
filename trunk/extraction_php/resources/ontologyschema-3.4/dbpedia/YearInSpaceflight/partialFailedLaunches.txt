@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = partial failed launches
+|rdfs:domain = YearInSpaceflight
+|rdfs:range = xsd:integer
+}}

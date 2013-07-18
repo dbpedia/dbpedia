@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = ground
+|rdfs:domain = SoccerClub
+|rdfs:range = Place
+}}

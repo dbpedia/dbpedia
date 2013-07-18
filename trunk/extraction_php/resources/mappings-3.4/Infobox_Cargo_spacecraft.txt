@@ -1,0 +1,36 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Spacecraft
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = type | ontologyProperty = Spacecraft/type }}
+	{{ DBpediaPropertyMapping | templateProperty = organisation | ontologyProperty = Spacecraft/organisation }}
+	{{ DBpediaPropertyMapping | templateProperty = station | ontologyProperty = Spacecraft/station }}
+	{{ DBpediaPropertyMapping | templateProperty = crew | ontologyProperty = Spacecraft/crew }}
+	{{ DBpediaPropertyMapping | templateProperty = rocket | ontologyProperty = Spacecraft/rocket }}
+	{{ DBpediaPropertyMapping | templateProperty = site | ontologyProperty = Spacecraft/launchSite }}
+	{{ DBpediaPropertyMapping | templateProperty = launch | ontologyProperty = Spacecraft/launch }}
+	{{ DBpediaPropertyMapping | templateProperty = decay | ontologyProperty = Spacecraft/decay }}
+	{{ DBpediaPropertyMapping | templateProperty = COSPAR | ontologyProperty = Spacecraft/cosparId }}
+	{{ DBpediaPropertyMapping | templateProperty = freeflight | ontologyProperty = Spacecraft/freeFlightTime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = dockedtime | ontologyProperty = Spacecraft/dockedTime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = port1 | ontologyProperty = Spacecraft/port1 }}
+	{{ DBpediaPropertyMapping | templateProperty = dock1 | ontologyProperty = Spacecraft/port1DockingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = undock1 | ontologyProperty = Spacecraft/port1UndockingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = time1 | ontologyProperty = Spacecraft/port1DockedTime | unit = Time  }}
+	{{ DBpediaPropertyMapping | templateProperty = port2 | ontologyProperty = Spacecraft/port2 }}
+	{{ DBpediaPropertyMapping | templateProperty = dock2 | ontologyProperty = Spacecraft/port2DockingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = undock2 | ontologyProperty = Spacecraft/port2UndockingDate }}
+	{{ DBpediaPropertyMapping | templateProperty = time2 | ontologyProperty = Spacecraft/port2DockedTime | unit = Time }}
+	{{ DBpediaPropertyMapping | templateProperty = orbits | ontologyProperty = Spacecraft/orbits }}
+	{{ DBpediaPropertyMapping | templateProperty = regime | ontologyProperty = Spacecraft/regime }}
+	{{ DBpediaPropertyMapping | templateProperty = periapsis | ontologyProperty = Spacecraft/periapsis | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = apoapsis | ontologyProperty = Spacecraft/apoapsis | unit = Length }}
+	{{ DBpediaPropertyMapping | templateProperty = inclination | ontologyProperty = Spacecraft/inclination }}
+	{{ DBpediaPropertyMapping | templateProperty = mass | ontologyProperty = Spacecraft/totalMass | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = cargo | ontologyProperty = Spacecraft/totalCargo | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = dry | ontologyProperty = Spacecraft/dryCargo | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = fuel | ontologyProperty = Spacecraft/cargoFuel | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = gas | ontologyProperty = Spacecraft/cargoGas | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = water | ontologyProperty = Spacecraft/cargoWater | unit = Mass }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = contractors | ontologyProperty = MeanOfTransportation/manufacturer }}
+}}

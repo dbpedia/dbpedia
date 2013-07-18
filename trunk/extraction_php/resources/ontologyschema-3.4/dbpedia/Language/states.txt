@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = states
+|rdfs:domain = Language
+|rdfs:range = PopulatedPlace
+}}

@@ -1,0 +1,42 @@
+{{tfd|DBpedia Class}}
+{{Infobox 
+| bodyclass  = vevent
+| title      = {{{title|{{{name|<includeonly>{{SUBPAGENAME}}</includeonly>}}}}}}
+| titleclass = summary
+| labelstyle = white-space: nowrap
+| above      = [[File:DBpediaLogo.svg|200px|DBpedia logo]]<br />{{{rdfs:comment|}}}
+| image      = {{#if:{{{collapsible|}}}|{{hidden begin|title=Screenshot|titlestyle=text-align:center}}}}{{{screenshot|}}}
+| caption    = {{{caption|}}}{{#if:{{{collapsible|}}}|{{hidden end}}}}
+| label1     = Super classes
+| data1      = {{{rdfs:subClassOf<includeonly>|</includeonly>}}}
+| label2     = Equivalent classes
+| data2      = {{{owl:equivalentClass<includeonly>|</includeonly>}}}
+| label3     = See also
+| data3      = {{{rdfs:seeAlso<includeonly>|</includeonly>}}}
+}}
+
+{{DISPLAYTITLE:{{SUBPAGENAME}}}}
+
+This page describes the DBpedia class '''{{SUBPAGENAME}}'''.
+
+'''{{SUBPAGENAME}}''' has the following super classes:
+
+* [[User:DBpedia/ontology/{{{rdfs:subClassOf|}}}|{{{rdfs:subClassOf|}}}]]
+
+It is equivalent to the following externally defined classes:
+
+* {{{owl:equivalentClass|}}}
+
+The following resources may provide additional information about the class:
+
+* {{{rdfs:seeAlso|}}}
+
+Changing this description of the DBpedia class '''{{SUBPAGENAME}}''' will directly affect the class mapping of the DBpedia live extraction.
+
+See [http://dbpedia.org/ontology/{{SUBPAGENAME}} http://dbpedia.org/ontology/{{SUBPAGENAME}}] for all information about '''{{SUBPAGENAME}}'''.
+
+----
+
+More information about DBpedia can be found on its [[DBpedia|Wikipedia article]] or at [http://DBpedia.org http://DBpedia.org].
+
+[[Category:DBpedia]]

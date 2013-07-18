@@ -1,0 +1,468 @@
+
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\SpringGraph.as
+package com.adobe.flex.extras.controls.springgraph{import mx.core.IFactory;import mx.core.ClassFactory;import mx.core.UIComponent;import mx.core.IDataRenderer;import flash.events.MouseEvent;import flash.events.TimerEvent;import flash.utils.Timer;import flash.utils.getTimer;import mx.containers.Canvas;import mx.core.Container;import com.adobe.flex.extras.controls.forcelayout.ForceDirectedLayout;import flash.events.Event;import mx.effects.Fade;import mx.events.EffectEvent;import mx.effects.Effect;import flash.geom.Rectangle;/**
+*  The SpringGraph component displays a set of objects, using  *  a force-directed layout algorithm to position the objects. *  Behind the objects, the component draws lines connecting *  items that are linked. *  *  <p>The set of objects, and the links between them, is defined *  by this component's dataProvider property. For each Item in the dataProvider,  *  there is a corresonding itemRenderer, which is any UIComponent that implements *  the IDataRenderer interface. You define these via the itemRenderer or viewFactory *  properties. Each itemRenderer's 'data' property is a reference to its corresponding Item.</p> *  *  <p>SpringGraph does its drawing of lines and items inside the *  area that you define as the height and width *  of this component.</p> *  * <p>You can control what links look like, in 4 ways: * <br>1. do nothing. The edges will draw in a default width and color * <br>2. set 'lineColor'. The edges will draw with that color, in a default width. * <br>3. use Graph.link() to add a data object to any particular link. If that * data object contains a field called 'settings', then the * value of 'settings' should be an object with fields 'color', 'thickness', and 'alpha'. For  * example:<br><br> *     var data: Object = {settings: {alpha: 0.5, color: 0, thickness: 2}};<br> *     g.link(fromItem, toItem, data);<br> * <br>4. define an EdgeRenderer (see 'edgeRenderer' below) * </p> *  <p>This component allows the user to click on items and drag them around. * </p> *  *  <p>This component was written by Mark Shepherd of Adobe Flex Builder Engineering. *  The force-directed layout algorithm was translated and adapted to ActionScript 3 from  *  Java code written by Alexander Shapiro of TouchGraph, Inc. (http://www.touchgraph.com). * </p> * *  @mxml * *  <p>The <code>&lt;SpringGraph&gt;</code> tag inherits all the tag attributes *  of its superclass, and adds the following tag attributes:</p> * *  <pre> *  &lt;mx:SpringGraph *    <b>Properties</b> *    dataProvide
+*/
+public class SpringGraph extends Canvas{/**
+An effect that is applied to all itemRenderer instances when they		 * are removed from the spring graph.
+*/
+public var removeItemEffect : Effect;/**
+An effect that applied to all itemRenderer instances when they		 * are add to the spring graph.
+*/
+public var addItemEffect : Effect;private var creationIsComplete : Boolean;private var pendingDataProvider : Object;/**
+@private
+*/
+protected var _dataProvider : GraphDataProvider;/**
+@private
+*/
+public var distinguishedItem : Item;/**
+@private
+*/
+protected var _lineColor : int;/**
+@private
+*/
+public var distinguishedLineColor : int;/**
+@private
+*/
+public var _repulsionFactor : Number;/**
+@private
+*/
+public var defaultRepulsion : Number;/**
+@private
+*/
+protected var forceDirectedLayout : ForceDirectedLayout;/**
+@private
+*/
+protected var drawingSurface : UIComponent;/**
+@private
+*/
+protected var _graph : Graph;/**
+@private
+*/
+protected var _xmlNames : Array;private var timer : Timer;private var itemRendererFactory : IFactory;private var dragComponent : UIComponent;private var dragStartX : int;private var dragStartY : int;private var dragCursorStartX : int;private var dragCursorStartY : int;private var lastMouseDownTime : int;private var paused : Boolean;private var backgroundDragInProgress : Boolean;private var _viewFactory : IViewFactory;private var _edgeRenderer : IEdgeRenderer;private var _autoFit : Boolean;private var prevCoverage : Number;private var prevRepulsionFactor : Number;/**
+The XML element and attribute names to use when parsing an XML dataProvider.		   The array must have 4 elements:		   <ul>		   <li> the element name that defines nodes		   <li> the element name that defines edges		   <li> the edge attribute name that defines the 'from' node		   <li> the edge attribute name that defines the 'to' node		   </ul>
+*/
+public function set xmlNames (array:Array) : Void;/**
+[for experimental use]. The layout computations are stopped when the amount of motion 		 * falls below this threshold. I don't know what the units are, 		 * the range of meaningful values is from 0.001 to 2.0 or so. Low  		 * numbers mean that the layout takes longer to settle down, but gives 		 * a better result. High numbers means that the layout will stop 		 * sooner, but perhaps with not as nice a layout.
+*/
+public function set motionThreshold (t:Number) : Void;/**
+The layout computations are stopped when the amount of motion 		 * falls below this threshold.
+*/
+public function get motionThreshold () : Number;/**
+@private
+*/
+public function get draggedComponent () : UIComponent;/**
+*  Defines the UIComponent class for rendering an item. One instance	     *  of this class will be created for each item contained in the "dataProvider" property.	     *  You should specify an itemRenderer if you want every type of Item to have the same kind of view.	     *  If you want different types of Items to have different views,	     *  use viewFactory instead.	     *  	     *  @default null
+*/
+public function set itemRenderer (factory:IFactory) : Void;/**
+*  Defines the data model for this springgraph. The data is 	     *  a set of items which can be  linked to each other. You can provide the	     *  data as XML, or as a Graph object. 	     *  <p>	     * To use XML, provide an object of type XML with the following format:	     * <ul>	     * <li>root element can have any name; attributes are ignored</li>	     * <li>items are defined by elements whose name is 'Node', which must have a unique 'id' attribute.</li>	     * <li>links are defined by elements whose name is 'Edge', which must have attributes 'fromID' and 'toID', which	     * reference the id of the 2 items connect by a link.</li>	     * <li>you can have any nesting structure you like, we ignore it.</li>	     * <li>namespaces are not currently supported</li>	     * </ul>	     * <p>When the dataProvider is set to XML, we automatically create a Graph that repesents the items and links	     * in the XML data. Each itemRenderer's 'data' property is set to the Item object whose 'id' 	     * is the id of an XML Node, and whose 'data' property is the XML object representing the Node.	     * You can use the xmlNames property to define the names that you have used in your XML data.	     * The default XML names 'Node', 'Edge', 'fromID', and 'toID'.</p>	     *  @default null
+*/
+public function set dataProvider (obj:Object) : Void;public function get dataProvider () : Object;/**
+*  The color we use to draw the lines that represent links between items.	     *  	     *  @default 0xcccccc
+*/
+public function set lineColor (color:int) : Void;/**
+*  How strongly do items push each other away.	     *  	     *  @default 0.75
+*/
+public function set repulsionFactor (factor:Number) : Void;public function get repulsionFactor () : Number;/**
+A factory that can create views for specific Items. This is an instance of		 * a class (or component) that implements the IViewFactory interface. 	     *  You should specify only one of itemRenderer or viewFactory.
+*/
+public function set viewFactory (factory:IViewFactory) : Void;/**
+Defines an Edge Renderer object that we will use to render edges.		 * If this is null, we use our built-in edge renderer.
+*/
+public function set edgeRenderer (renderer:IEdgeRenderer) : Void;/**
+Enable/disable the auto-fit feature. When enabled, we automatically		 * and continuously adjust the 'repulsionFactor' property, as well as scroll the		 * viewing area of the roamer, so that the graph		 * items are entirely contained within, and nicely spread out over		 * the entire rectangle of this component. When disabled, we obey whatever		 * value you set into the 'repulsionFactor' property, and scrolling		 * must be done manually. When autoFit is enabled, you may still		 * set repulsionFactor and scroll - the component will smoothly continue		 * from wherever you left it.
+*/
+public function set autoFit (value:Boolean) : Void;public function SpringGraph ();/**
+@private
+*/
+protected function updateDisplayList (unscaledWidth:Number, unscaledHeight:Number) : void;/**
+@private
+*/
+private function drawEdges () : void;private function drawEdge (f:UIComponent, t:UIComponent, color:int) : void;private function myPreinitialize (event:Object) : void;private function myCreationComplete (event:Object) : void;/**
+@private
+*/
+public function removeComponent (component:UIComponent) : void;private function removeEffectDone (event:EffectEvent) : void;/**
+@private
+*/
+public function addComponent (component:UIComponent) : void;/**
+@private
+*/
+public function newComponent (item:Item) : UIComponent;private function mouseDownEvent (event:MouseEvent) : void;/**
+@private
+*/
+protected function dragBegin (event:MouseEvent) : void;private function dragContinue (event:MouseEvent) : void;private function dragEnd (event:MouseEvent) : void;private function backgroundMouseDownEvent (event:MouseEvent) : void;private function backgroundDragBegin (event:MouseEvent) : void;private function backgroundDragContinue (event:MouseEvent) : void;/**
+@private
+*/
+protected function scroll (deltaX:int, deltaY:int) : void;private function backgroundDragEnd (event:MouseEvent) : void;/**
+@private
+*/
+protected function startTimer () : void;/**
+@private
+*/
+protected function tick (event:TimerEvent = null) : void;/**
+*  Redraw everything. Call this when you changed something that	     * could affect the size of any of the active itemRenderers. There is	     * no need to call this when the graph data is changed, we update	     * automatically in that case.
+*/
+public function refresh () : void;/**
+*  Throw away the dataProvider, leaving an empty graph.
+*/
+public function empty () : void;/**
+@private	     *
+*/
+public function createComponent (item:Item) : UIComponent;private function setDataProvider (obj:Object) : void;private function doSetDataProvider (obj:Object) : void;/**
+@private
+*/
+public function graphChangeHandler (event:Event) : void;private function rebuild () : void;/**
+the implemenation of auto-separation, which runs on every drawing cycle.		 * The algorithm continuously adjusts repulsionFactor to try and keep the		 * available screen space filled to about 90%. (FYI, all of the numbers and		 * coefficients have been hand-tuned for the RoamerDemo sample on my laptop		 * screen. I can't guarantee they work well in all situations, let me know		 * if there are problems). (mark s. nov 2006)		 * @private
+*/
+private function autoFitTick () : void;private function calcItemsBoundingRect () : Rectangle;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\AbstractEdge.as
+package com.adobe.flex.extras.controls.forcelayout{/**
+Translated and adapted to Flex/ActionScript   * from TouchGraph's original java code  * by Mark Shepherd, Adobe FlexBuilder Engineering, 2006.  *   * @author   Alexander Shapiro  * @version  1.21  $Id: Edge.java,v 1.28 2002/04/01 05:52:15 x_ander Exp $  * @private
+*/
+public class AbstractEdge implements IEdge{public var from : Node;public var to : Node;public var length : int;public function AbstractEdge (f:Node, t:Node, len:int);public function getFrom () : Node;public function getTo () : Node;public function getLength () : int;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\ForceDirectedLayout.as
+package com.adobe.flex.extras.controls.forcelayout{import flash.utils.getTimer;import com.adobe.flex.extras.controls.forcelayout.IForEachNode;import com.adobe.flex.extras.controls.forcelayout.Node;/**
+TGLayout is the thread responsible for graph layout.  It updates  *  the real coordinates of the nodes in the graphEltSet object.  *  TGPanel sends it resetDamper commands whenever the layout needs  *  to be adjusted.  After every adjustment cycle, TGLayout triggers  *  a repaint of the TGPanel.  *  * *  *  This is the heart of the TouchGraph application.  Please provide a  *  Reference to TouchGraph.com if you are influenced by what you see  *  below.  Your cooperation will insure that this code remains  *  opensource.  * *  *  * <p><b>  *  Parts of this code build upon Sun's Graph Layout example.  *  http://java.sun.com/applets/jdk/1.1/demo/GraphLayout/Graph.java  * </b></p>  *  * Translated and adapted to Flex/ActionScript   * from TouchGraph's original java code  * by Mark Shepherd, Adobe FlexBuilder Engineering, 2006.  *   * @author   Alexander Shapiro  * @version  1.21  $Id: TGLayout.java,v 1.20 2002/04/01 05:51:55 x_ander Exp $  * @private
+*/
+public class ForceDirectedLayout implements IForEachEdge{/**
+private
+*/
+public var damper : Number;/**
+private
+*/
+public var maxMotion : Number;/**
+private
+*/
+public var lastMaxMotion : Number;/**
+private
+*/
+public var motionRatio : Number;/**
+private
+*/
+public var damping : Boolean;/**
+private
+*/
+public var rigidity : Number;/**
+private
+*/
+public var newRigidity : Number;/**
+private
+*/
+public var dataProvider : IDataProvider;/**
+private
+*/
+public var dragNode : Node;/**
+private
+*/
+public var maxMotionA : Array;public static var motionLimit : Number;/**
+Constructor with a supplied TGPanel <tt>tgp</tt>.
+*/
+public function ForceDirectedLayout (dataProvider:IDataProvider);public function setRigidity (r:Number) : void;public function setDragNode (n:Node) : void;/**
+synchronized
+*/
+private function relaxEdges () : void;/**
+synchronized
+*/
+private function avoidLabels () : void;public function startDamper () : void;public function stopDamper () : void;public function resetDamper () : void;public function stopMotion () : void;public function damp () : void;/**
+synchronized
+*/
+private function moveNodes () : void;/**
+synchronized
+*/
+private function relax () : void;public function tick () : Boolean;public function forEachEdge (e:IEdge) : void;public function forEachNode (n:Node) : void;public function forEachNodePair (n1:Node, n2:Node) : void;}internal class Refresher implements IForEachNode{public function forEachNode (n:Node) : void;}internal class Committer implements IForEachNode{public function forEachNode (n:Node) : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\IDataProvider.as
+package com.adobe.flex.extras.controls.forcelayout{/**
+*  @private
+*/
+public interface IDataProvider{public function forAllNodes (fen:IForEachNode) : void;public function forAllEdges (fee:IForEachEdge) : void;public function forAllNodePairs (fenp:IForEachNodePair) : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\IEdge.as
+package com.adobe.flex.extras.controls.forcelayout{/**
+*  @private
+*/
+public interface IEdge{public function getLength () : int;public function getFrom () : Node;public function getTo () : Node;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\IForEachEdge.as
+package com.adobe.flex.extras.controls.forcelayout{/**
+*  @private
+*/
+public interface IForEachEdge{public function forEachEdge (e:IEdge) : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\IForEachNode.as
+package com.adobe.flex.extras.controls.forcelayout{/**
+* @private
+*/
+public interface IForEachNode{public function forEachNode (n:Node) : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\IForEachNodePair.as
+package com.adobe.flex.extras.controls.forcelayout{/**
+* @private
+*/
+public interface IForEachNodePair{public function forEachNodePair (n1:Node, n2:Node) : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\forcelayout\Node.as
+package com.adobe.flex.extras.controls.forcelayout{/**
+Translated and adapted to Flex/ActionScript   * from TouchGraph's original java code  * by Mark Shepherd, Adobe FlexBuilder Engineering, 2006.  *   * @author   Alexander Shapiro  * @private
+*/
+public class Node{public var y : Number;public var dy : Number;public var repulsion : Number;public var fixed : Boolean;private var _x : Number;private var _dx : Number;public function set x (n:Number) : Void;public function get x () : Number;public function set dx (n:Number) : Void;public function get dx () : Number;public function Node ();public function refresh () : void;public function commit () : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\DefaultItemView.as
+package com.adobe.flex.extras.controls.springgraph{import mx.core.UIComponent;import mx.core.IDataRenderer;import flash.events.Event;/**
+@private
+*/
+public class DefaultItemView extends UIComponent implements IDataRenderer{private var _data : Object;public function get data () : Object;public function set data (d:Object) : Void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\Graph.as
+package com.adobe.flex.extras.controls.springgraph{import mx.controls.Alert;import flash.events.Event;import flash.events.EventDispatcher;import mx.controls.Button;import mx.controls.HSlider;/**
+*  A Graph is a collection of items that can be linked to each other.	 * 	  * @author   Mark Shepherd
+*/
+public class Graph extends EventDispatcher{public static const CHANGE : String;private var _nodes : Object;private var _edges : Object;private var nodeArray : Array;/**
+of Item
+*/
+private var edgeArray : Array;/**
+of [Item, Item]
+*/
+private var _distinguishedItem : Item;/**
+*  An array of all the links in the graph.	     *  Each array element is an array of 2 strings, 	     *  which are the ids of two items that are linked.
+*/
+public function get edges () : Array;/**
+*  An associative array of all the items in the graph.	     *  The key is the id, the value is the Item.
+*/
+public function get nodes () : Object;/**
+*  True if this graph has any nodes at all.
+*/
+public function get hasNodes () : Boolean;/**
+*  How many items are in this graph.
+*/
+public function get nodeCount () : int;/**
+Sometimes it's handy for the graph to remember one particular item.	     * You can use this for any purpose you like, it's not used internally by the Graph.	     * By default, the distinguished item is the first item that was added to this graph.
+*/
+public function get distinguishedItem () : Item;public function set distinguishedItem (item:Item) : Void;public function Graph ();/**
+*  Creates a graph from XML. The XML you provide should contain 2 kinds of elements<br>	     *  &lt;Node id="xxx" anything-else..../&gt;<br>	     *  and<br>	     *  &lt;Edge fromID="xxx" toID="yyy"/&gt;<br><br>	     * <p>You can have additional tags, and/or nest the tags any way you like; this will not	     * have any effect. We create a graph where each Item corresponds to a single node. The item's	     * id will come from the Node's id attribute (make sure this is unique). The item's data will	     * be the Node, and will be of type XML. The &lt;Edge&gt; elements must come *after* the corresponding	     * &lt;Node&gt; elements have appeared. Edges are not directional, you can interchange fromID and toID	     * with no effect.	     *	     *  @param xml an XML document containing Node and Edge elements	     *  @param strings the XML element and attribute names to use when parsing an XML dataProvider.		   The array must have 4 elements:		   <ul>		   <li> the element name that defines nodes		   <li> the element name that defines edges		   <li> the edge attribute name that defines the 'from' node		   <li> the edge attribute name that defines the 'to' node		   </ul>	     *  @return a graph that corresponds to the Node and Edge elements in the input
+*/
+public static function fromXML (xml:XML, strings:Array) : Graph;/**
+*  Removes an item from the graph.	     *	     *  @param item The item that you want to remove from the graph.
+*/
+public function remove (item:Item) : void;/**
+*  Remove the link between 2 items.	     *	     *  @param item1 an item in the graph that is linked to item2	     *  @param item2 an item in the graph that is linked to item1
+*/
+public function unlink (item1:Item, item2:Item) : void;/**
+*  Link 2 items. This has no effect if the 2 items are already	     *  linked. Links are not directional: link(a,b) is equivalent to	     *  link(b,a).	     *	     *  @param item1 an item in the graph	     *  @param item2 an item in the graph	     *  @param data any data you like, or null. The Graph doesn't ever look at this, 	     * but you may find it convenient to store here. 	     *  You can use getLinkData to retrieve this data later.
+*/
+public function link (item1:Item, item2:Item, data:Object = null) : void;/**
+*  Add an item to the graph.	     *	     *  @param item an item to add to the graph
+*/
+public function add (item:Item) : void;/**
+*  Find out if two items are linked.	     *	     *  @param item1 an item in the graph	     *  @param item2 an item in the graph	     *	     *  @return true if the two items are linked to each other.
+*/
+public function linked (item1:Item, item2:Item) : Boolean;/**
+*  retrieve the data that is associated with a link.	     *	     *  @param item1 an item in the graph	     *  @param item2 an item in the graph	     *	     *  @return Object the data that was associated with the link between the two items.	     *  If no data, or null, was associated with the link, we return 0. If there is no link	     *  between the items, we return null.
+*/
+public function getLinkData (item1:Item, item2:Item) : Object;/**
+*  Find out how many items are linked to a given item.	     *	     *  @param item an item in the graph	     *	     *  @return thes number of items to which this item is linked.
+*/
+public function numLinks (item:Item) : int;/**
+*  Find out if an item with a given id exists in the graph.	     *	     *  @param id any String	     *	     *  @return true if there is an item in the graph with the given id,	     *  false otherwise.
+*/
+public function hasNode (id:String) : Boolean;/**
+*  Find an item in the graph by id.	     *	     *  @param id any String	     *	     *  @return the item in the graph that has the given id,	     *  or null if there is no such item.
+*/
+public function find (id:String) : Item;/**
+*  Get an array of all the items that a given item is linked to.	     *	     *  @param id any String	     *	     *  @return an array of Items
+*/
+public function neighbors (id:String) : Object;/**
+Remove all items from the graph.
+*/
+public function empty () : void;private function changed () : void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\GraphDataProvider.as
+package com.adobe.flex.extras.controls.springgraph{import mx.core.UIComponent;import com.adobe.flex.extras.controls.forcelayout.IDataProvider;import com.adobe.flex.extras.controls.forcelayout.IForEachEdge;import com.adobe.flex.extras.controls.forcelayout.IForEachNode;import com.adobe.flex.extras.controls.forcelayout.IForEachNodePair;import com.adobe.flex.extras.controls.forcelayout.IEdge;import com.adobe.flex.extras.controls.forcelayout.Node;import flash.geom.Rectangle;/**
+Manages the graph data for a SpringGraph  *   * @author   Mark Shepherd  * @private
+*/
+public class GraphDataProvider implements IDataProvider{private var nodeStore : Object;/**
+{id: GraphNode}
+*/
+private var nodes : Array;/**
+{id: GraphNode}
+*/
+private var edges : Array;private var host : Object;private var _layoutChanged : Boolean;private var _distance : int;public var boundary : Rectangle;public function set graph (g:Graph) : Void;public function set distance (d:int) : Void;public function get distance () : int;public function get layoutChanged () : Boolean;public function set layoutChanged (b:Boolean) : Void;public function get repulsionFactor () : Number;public function get defaultRepulsion () : Number;public function get hasNodes () : Boolean;private function makeGraphNode (item:Item) : GraphNode;public function GraphDataProvider (host:Object);public function forAllNodes (fen:IForEachNode) : void;public function forAllEdges (fee:IForEachEdge) : void;public function forAllNodePairs (fenp:IForEachNodePair) : void;public function getEdges () : Array;public function findNode (component:UIComponent) : GraphNode;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\GraphEdge.as
+package com.adobe.flex.extras.controls.springgraph{import com.adobe.flex.extras.controls.forcelayout.AbstractEdge;/**
+Represents one edge of a SpringGraph 	 * 	 * @author   Mark Shepherd	 * @private
+*/
+public class GraphEdge extends AbstractEdge{public static var traversedMap : Object;public function get traversed () : Boolean;public function GraphEdge (f:GraphNode, t:GraphNode, len:int);public function getLength () : int;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\GraphNode.as
+package com.adobe.flex.extras.controls.springgraph{import mx.core.UIComponent;import mx.core.Application;import mx.controls.Alert;import com.adobe.flex.extras.controls.forcelayout.Node;import flash.geom.Rectangle;/**
+Represents one node of a SpringGraph 	 * 	 * @author   Mark Shepherd	 * @private
+*/
+public class GraphNode extends Node{public var view : UIComponent;public var item : Item;private var context : GraphDataProvider;public function refresh () : void;public function commit () : void;public function GraphNode (view:UIComponent, context:GraphDataProvider, item:Item);private function getX () : Number;private function setX (x:Number) : void;private function getY () : Number;private function setY (y:Number) : void;private function getRepulsion () : int;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\HistorySeed.as
+package com.adobe.flex.extras.controls.springgraph{/**
+@private
+*/
+public class HistorySeed extends Item{}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\HistorySeedView.as
+package com.adobe.flex.extras.controls.springgraph{import flash.events.Event;/**
+@private
+*/
+public class HistorySeedView extends DefaultItemView{private var gotY : Boolean;private var gotX : Boolean;private var firstX : Number;public function set x (value:Number) : Void;public function set y (value:Number) : Void;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\IEdgeRenderer.as
+package com.adobe.flex.extras.controls.springgraph{import flash.display.Graphics;import com.adobe.flex.extras.controls.springgraph.Item;import mx.core.UIComponent;/**
+Defines an object that knows how to draw the edges between 2 items in 
+	 * a SpringGraph.
+*/
+public interface IEdgeRenderer{/**
+SpringGraph will call this function each time it needs to draw
+		 * a link connecting two itemRenderer.
+		 * Note that fromView.data is the 'from' Item and toView.data is the 'to' Item.
+		 * @param g a Flash graphics object, representing the entire screen area of the 
+		 * SpringGraph component. You can use various Flash drawing commands to draw
+		 * onto this drawing surface
+		 * @param fromView the itemRenderer instance for the 'from' Item of this linik
+		 * @param toView the itemRenderer instance for the 'to' Item of this link
+		 * @param fromX the x-coordinate of fromView
+		 * @param fromY the y-coordinate of fromView
+		 * @param toX the x-coordinate of toView
+		 * @param toY the y-coordinate of toView
+		 * @param graph the Graph that we are drawing
+		 * @return true if we successfully drew the edge, false if we want the SpringGraph
+		 * to draw the edge.
+*/
+public function draw (g:Graphics, fromView:UIComponent, toView:UIComponent, fromX:int, fromY:int, toX:int, toY:int, graph:Graph) : Boolean;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\Item.as
+package com.adobe.flex.extras.controls.springgraph{/**
+The base class for all Graph items.	 * @author   Mark Shepherd	 *
+*/
+public class Item{private var _id : String;private var _data : Object;private static var counter : int;/**
+*  This item's unique id. Every item has a unique id.
+*/
+public function get id () : String;public function set id (s:String) : Void;/**
+*  This item's data, if any.
+*/
+public function get data () : Object;public function set data (o:Object) : Void;/**
+*  Constructor for Item. 	     * 	     * @param id if non-null, this becomes the unique id for this item. WARNING: every item	     * must have an id that is different from the id of all other items. If you do not provide	     * an id, we create one for you.
+*/
+public function Item (id:String = null);/**
+*  Find out if it's ok for the user to move this item with the mouse.	     *	     *  @return true if it is currently permitted for the user to move this item. By default, this is true,	     *  but subclasses of Item can override this as desired.
+*/
+public function okToMove () : Boolean;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\IViewFactory.as
+package com.adobe.flex.extras.controls.springgraph{import mx.core.UIComponent;/**
+Defines an object that knows how to create views for Items.
+*/
+public interface IViewFactory{/**
+* Create a UIComponent to represent a given Item in a SpringGraph. The returned UIComponent should
+		 * be a unique instance dedicated to that Item. This function might return a unique view component
+		 * on each call, or it might cache views and return the same view if called repeatedly 
+		 * for the same item. This function may return different classes of object based on the type
+		 * or data of the Item.
+		 * @param item an item for which y
+		 * @return a unique UIComponent to represent the Item. This component must also implement the IDataRenderer interface.
+		 * It's OK to return null.
+		 *
+*/
+public function getView (item:Item) : UIComponent;}}
+#file-cache E:\EigeneDateien\Dokumente\UniversityDuisburg\Softwiki\SoftWikiRepos\Codes\ActionScript\lib\SpringGraph_20061210\SpringGraph\com\adobe\flex\extras\controls\springgraph\Roamer.as
+package com.adobe.flex.extras.controls.springgraph{import flash.events.Event;import flash.events.TimerEvent;import flash.geom.Rectangle;/**
+* An extension to SpringGraph that restricts the visible items to a subset of the full graph.
+	 * You can control which items are currently visible by using the <code>itemLimit</code>, 
+	 * <code>maxDistanceFromCurrent</code>, and <code>currentItem properties</code>.
+*/
+public class Roamer extends SpringGraph{/**
+An array of items that will not be displayed, even if they 
+		 * are chosen to be visible by the Roamer's other computations.
+*/
+private var forceInvisible : Array;/**
+An array of items that will be displayed on the graph, even if they 
+		 * are not chosen to be visible by the Roamer's other computations.
+*/
+private var forceVisible : Array;private static var historySeed : Item;private var _currentItem : Item;private var _itemLimit : int;private var fullGraph : Graph;private var _maxDistanceFromCurrent : int;private var itemCount : int;private var allCurrentItems : Array;private var _showHistory : Boolean;private var _history : Array;private var historyCurrentlyViewed : int;private var _visibleHistoryItems : Object;private var _tidyHistory : Boolean;/**
+* The maximum number of items that are visible at any time.
+*/
+public function get itemLimit () : int;public function set itemLimit (i:int) : Void;/**
+* We only display items that are within this distance from the current item.
+*/
+public function set maxDistanceFromCurrent (i:int) : Void;public function get maxDistanceFromCurrent () : int;/**
+* The item that current acts as the 'center' or 'root' of the graph. 
+		 * This item defines the subset of the graph that will be visible.
+*/
+public function set currentItem (item:Item) : Void;public function get currentItem () : Item;/**
+* Defines the data model for this springgraph. See SpringGraph.dataProvider
+		 * for more information.
+*/
+public function get dataProvider () : Object;public function set dataProvider (obj:Object) : Void;/**
+The total number of items in the dataProvider.
+*/
+public function get fullNodeCount () : int;/**
+The number of items in the dataProvider that are currently visible.
+*/
+public function get visibleNodeCount () : int;/**
+If true, then all items that have been the 'current item' are made visible.
+		 * 
+		 *
+*/
+public function get showHistory () : Boolean;public function set showHistory (show:Boolean) : Void;/**
+Whether the back() function will have any effect at the moment.
+*/
+public function get backOK () : Boolean;/**
+Whether the forward() function will have any effect at the moment
+*/
+public function get forwardOK () : Boolean;/**
+An ordered list of all the items that been the current item.
+*/
+public function get history () : Array;/**
+The index into "history" that corresponds to the currentItem.
+		 * Can be any number between 0 and the index of the most recent history entry.
+		 * Usually this is simply the index of the most recent history entry. 
+		 * However, if you've used back() or forward() then this index will vary. You can also 
+		 * set this index to any valid value; this will cause currentItem to become
+		 * the corresponding history item.
+*/
+public function get historyIndex () : int;public function set historyIndex (i:int) : Void;/**
+Keeps all visibleHistoryItems clustered together. If this is set to false,
+		 * history items tend to form a long chain that makes the autoFit mode tend
+		 * to shrink the repulsionFactor excessively.
+*/
+public function get tidyHistory () : Boolean;public function set tidyHistory (b:Boolean) : Void;/**
+A list of all the items that are currently visible only 
+		 * because showHistory is enabled. In other words this list 
+		 * is the entire history minus the items that are currently visible anyway.
+*/
+public function get visibleHistoryItems () : Object;private function set visibleHistoryItems (o:Object) : Void;/**
+Find out if a given item has ever been the currentItem.
+		 * @param item an Item that is contained in this graph
+		 * @returns true if the indicated item has ever been the currentItem of this graph.
+*/
+public function hasBeenCurrentItem (item:Item) : Boolean;/**
+sets the data provider and chooses the initial currentItem.
+*/
+public function setDataProvider (dp:XML, currentId:String) : void;/**
+Calulate the distance between 2 items. Currently this is a fast-but-cheezy 
+		 * calculation that returns 0 (if the 2 items are the same), 1 (if the 2 items
+		 * are linked), or 99 otherwise. 
+		 * @return the distance between the two items.
+*/
+public function distance (fromItem:Item, toItem:Item) : int;/**
+Call this function after modifying the forceInvisible or forceVisible properties
+*/
+private function recreate () : void;/**
+Forget which items have been the current item. This will affect the history
+		 * used by 'showHistory' and 'hasBeenCurrentItem'.
+		 * 
+		 *
+*/
+public function resetHistory () : void;/**
+Force the item to be shown, even if it is outside the limits set by 
+		 * 'maxDistanceFromCurrent'. 
+		 *
+*/
+public function showItem (item:Item) : void;/**
+Force the item to not be shown, even if it is inside the limits set by 
+		 * 'maxDistanceFromCurrent'. 
+		 *
+*/
+public function hideItem (item:Item) : void;/**
+Cancels the effect of any prior calls to hideItem and/or showItem.
+		 *
+*/
+public function resetShowHide () : void;/**
+Sets the currentItem to the previous history Item. "historyIndex" will be decremented.
+		 *  Has no effect if historyIndex is already 0.
+*/
+public function back () : void;/**
+Sets the currentItem to the next history Item. "historyIndex" will be incremented.
+		 *  Has no effect if historyIndex is already the highest possible index in "history".
+*/
+public function forward () : void;private function doSetDataProvider (g:Graph) : void;private function setFullGraph (g:Graph) : void;private function addNodes (newNodes:Array, g:Graph) : Object;private function recreateGraph () : void;private function doTidyHistory (addedItems:Object, g:Graph) : void;private function arrayIncludes (list:Object, item:Object) : Boolean;private function addToGraph (item:Item, generation:int, graph:Graph) : Boolean;private function newCurrentItem (item:Item) : void;}}

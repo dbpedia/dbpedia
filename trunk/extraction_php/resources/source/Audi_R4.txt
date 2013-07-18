@@ -1,0 +1,44 @@
+{{Infobox Automobile
+|image          =
+|name           = Audi R4
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|aka            =
+|production     = 2012 (expected)
+|assembly       =
+|predecessor    =
+|successor      =
+|class          = [[Sports car]]<br/>[[roadster]]
+|body_style     = 2-door [[convertible]]
+|layout         = [[Mid-engine design|Mid engine]], [[four wheel drive]]
+|platform       = 
+|engine         =
+|transmission   =
+|wheelbase      =
+|length         =
+|width          =
+|height         = 
+|weight         =
+|fuel_capacity  =
+|related        =
+|designer       =
+}}
+The '''Audi R4''' is a small [[sports car]] expected to be built by [[Audi]].  The '''R4''' will have an electric variant as well as a gas-powered version.<ref name="Edmunds">{{cite web | title = Audi To Build R4 Electric Roadster | url = http://www.edmunds.com/insideline/do/News/articleId=159046 | publisher = Edmunds Inc. | date = October 14, 2009 | accessdate = October 19, 2009}}</ref>  Production versions are expected to enter the market in 2012.<ref name="Edmunds"/>  The vehicle will be the second Audi model to hold the 'R' moniker, after the [[Audi R8|R8]].  Like the R8, it will have a [[mid-engine]] configuration and will seat two.  It is expected to be available as a roadster.<ref name="Edmunds"/>
+
+== Electric version ==
+The electric version will be based on the e-Tron concept shown at the 2009 Frankfurt Auto Show.<ref name="Edmunds"/>  It will have a lithium-ion battery pack and four electric motors, one at each wheel.<ref name="Edmunds"/>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.audi.com Audi corporate website]
+
+{{Audi}}
+
+[[Category:Audi vehicles|R04]]
+[[Category:Audi concept vehicles|R04]]
+[[Category:Upcoming automobiles]]
+[[Category:Electric sports cars]]
+
+{{Modern-auto-stub}}{{electric-vehicle-stub}}

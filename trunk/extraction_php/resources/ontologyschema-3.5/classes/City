@@ -1,0 +1,15 @@
+{{Class
+| rdfs:label = City
+| rdfs:subClassOf = PopulatedPlace
+| specificProperties = {{SpecificProperty | ontologyProperty = distanceToCardiff | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = highestElevation | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = winterTemperature | unit = degreeCelsius }}
+                       {{SpecificProperty | ontologyProperty = distanceToLondon | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = distanceToBelfast | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = summerTemperature | unit = degreeCelsius }}
+                       {{SpecificProperty | ontologyProperty = annualTemperature | unit = degreeCelsius }}
+                       {{SpecificProperty | ontologyProperty = distanceToDouglas | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = coastLine | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = distanceToEdinburgh | unit = kilometre }}
+                       {{SpecificProperty | ontologyProperty = lowestElevation | unit = metre }}
+}}

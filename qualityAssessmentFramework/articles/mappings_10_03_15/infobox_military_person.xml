@@ -1,0 +1,27 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = MilitaryPerson
+| mappings =
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = born | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = died | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = placeofburial | ontologyProperty = restingPlace }}	
+	{{PropertyMapping | templateProperty = placeofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = placeofdeath | ontologyProperty = deathPlace }}
+        {{PropertyMapping | templateProperty = nickname | ontologyProperty = foaf:nick}}
+        {{PropertyMapping | templateProperty = allegiance | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = branch | ontologyProperty = militaryBranch }}
+	{{DateIntervalMapping 
+          | templateProperty = serviceyears 
+          | startDateOntologyProperty = serviceStartYear 
+          | endDateOntologyProperty = serviceEndYear
+        }}
+	{{PropertyMapping | templateProperty = servicenumber | ontologyProperty = serviceNumber }}
+	{{PropertyMapping | templateProperty = unit | ontologyProperty = militaryUnit }}
+	{{PropertyMapping | templateProperty = commands | ontologyProperty = militaryCommand }}
+	{{PropertyMapping | templateProperty = battles | ontologyProperty = battle }}
+	{{PropertyMapping | templateProperty = awards | ontologyProperty = award }}
+	{{PropertyMapping | templateProperty = relations | ontologyProperty = relation }}
+	{{PropertyMapping | templateProperty = laterwork | ontologyProperty = occupation }}
+</textarea>

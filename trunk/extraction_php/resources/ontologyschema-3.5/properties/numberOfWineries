@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = number of wineries
+| rdfs:domain = WineRegion
+| rdfs:range = xsd:integer
+}}

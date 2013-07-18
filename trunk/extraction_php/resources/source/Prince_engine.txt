@@ -1,0 +1,79 @@
+{{Infobox Automobile engine
+|name=BMW/PSA Prince engine
+|manufacturer=[[BMW]]<br>[[PSA Group]]
+|production=2004&ndash;
+|predecessor=[[Tritec engine]]<br>[[PSA TU engine]]
+|successor=
+|class=[[Straight-4]]
+}}
+'''Prince''' is the codename for a family of modern [[automobile]] [[straight-4]] [[piston engine|engines]] developed jointly by [[BMW]] and [[PSA Peugeot Citroën]].  It is a compact engine family of 1.4&ndash;1.6&nbsp;L in displacement and includes most modern features including [[gasoline direct injection]] and [[variable valve timing]].
+
+For BMW, the engines replaces the BMW/[[Chrysler]] [[Tritec engine]] [Now owned by FIAT/FPT] family in the [[MINI (BMW)|MINI]].  PSA has started to use the Prince family in place of their [[PSA TU engine|TU family]] — the [[Peugeot 207]] being the first car to receive it.
+
+The engines’ components will be produced by PSA at their [[Douvrin]], [[France]], facility, with MINI engine construction at Hams Hall in [[Birmingham]], [[England]].  The joint venture was announced on July 23, 2002 with the first engines produced in 2005. The Prince engine project is not related to the [[Prince Motor Company]].
+
+In late 2006, an extension of the cooperation between the two groups was announced <ref> the press release is here : [http://www.edubourse.com/finance/actualites.php?idActus=29298] {{Fr icon}}</ref>, promising new four cylinder engines, without further details. 
+
+==Engineering==
+
+The Prince family shares its basic block dimensions with the previous [[PSA TU engine]] family.  Some of the engineering was provided by BMW, including their [[Valvetronic]] variable valve lift system on the intake side.  Other features include on-demand oil and water pumps.  [[Gasoline direct injection]] with a twin-scroll [[turbocharger]] will be optional.[http://bimmerportal.com/productReviews.aspx]
+
+All Prince engines will share 84&nbsp;mm (3.3&nbsp;in) cylinder spacing and a 77&nbsp;mm (3&nbsp;in) bore. The engine features a two-piece "bedplate" aluminum crankcase for extra stiffness.
+
+==1.4==
+
+The 1.4&nbsp;L PSA [[PSA TU engine#ET3|ET3]] is the smallest member of the Prince family with a stroke measuring 75&nbsp;mm (2.9&nbsp;in) and total capacity of 1360&nbsp;cc.  Depending on application, power output varies from 90&nbsp;[[Horsepower#PS|PS]] to 95&nbsp;[[Horsepower#PS|PS]] while torque can range between 100–103&nbsp;[[Foot-pound force|ft·lbf]] (136–140&nbsp;[[Newton metre|N·m]]).
+
+Applications:
+* 2006–present [[Peugeot 207]]
+* 2007–present [[MINI (BMW)|MINI One]]
+* 2007–present [[Peugeot 308]]
+
+==1.6==
+
+The 1.6&nbsp;L engine is used in the second-generation [[MINI]] and various [[Peugeot 207]] models.  It has a 85.8&nbsp;mm (3.4&nbsp;in) stroke for a total of 1598&nbsp;cc of displacement.
+
+===Naturally-aspirated===
+
+The [[naturally-aspirated]] variant ('''EP6''') has conventional [[fuel injection]] and lost-foam cast heads.  Its high 11:1 [[compression ratio]] creates an output of 120&nbsp;PS (118&nbsp;hp/88&nbsp;kW) at 6000&nbsp;rpm with a redline of 6500&nbsp;rpm.  Torque is 118&nbsp;ft·lbf (160&nbsp;N·m) at 4250&nbsp;rpm.<ref name="bmwpr">{{cite web|url=http://news.hspn.com/articles/604/1/2007-Mini-Preview|title=2007 Mini Preview - Press Release|accessdate=August 15, 2006}}</ref>
+
+Applications:
+* 2006–present [[Peugeot 207]] Sport
+* 2007–present [[MINI (BMW)|MINI Cooper]]
+* 2007-present [[Peugeot 308]]
+* 2008-present [[Citroen C4]]
+
+===Turbocharged===
+
+The [[turbocharged]] 1.6&nbsp;L unit adds [[gasoline direct injection]] and has special low-pressure die-cast heads.  
+
+At this stage, there are two versions on offer - the THP150 and THP175, also known as the '''EP6DT''' and '''EP6DTS''' respectively within Peugeot.
+
+For the THP150 maximum torque is 177&nbsp;ft·lbf (240&nbsp;N·m) at 1400&nbsp;rpm, remaining flat to 5000&nbsp;rpm.  Power output is 150&nbsp;PS (148&nbsp;hp/110&nbsp;kW) at 5500 rpm.
+
+Applications:
+* 2006–present [[Peugeot 207]] CC/GT
+* 2007–present [[Peugeot 308]]
+* 2008-present [[Citroen C4]]
+
+For the THP175 maximum torque is 178&nbsp;ft·lbf (247&nbsp;N·m) at 1600&nbsp;rpm, remaining flat to 5000&nbsp;rpm.  Power output is 175&nbsp;PS (173&nbsp;hp/128&nbsp;kW) at&nbsp;5500 rpm.  An overboost function is available which temporarily increases torque to 192&nbsp;ft·lbf (260&nbsp;N·m) between 1700&nbsp;rpm and 4500&nbsp;rpm.
+
+Applications:
+* 2006–present [[Peugeot 207]] RC
+* 2007–present [[MINI (BMW)|MINI Cooper S]]
+* 2008–present [[Peugeot 308]]
+
+==References==
+
+* {{cite web|url=http://www.psa-peugeot-citroen.com/document/presse_dossier/PK_PSA_BMW1103281940.pdf|title=Press Kit|work=PSA Peugeot Citroën.com|accessdate=January 3, 2006|format=PDF}}
+
+===Sources===
+<references/>
+
+{{DEFAULTSORT:Prince Engine}}
+[[Category:PSA engines]]
+[[Category:BMW engines]]
+
+[[it:Motore Prince]]
+[[no:Prince-motor]]
+[[pt:Prince Engine]]

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = wha draft
+| rdfs:domain = IceHockeyPlayer
+| rdfs:range = xsd:string
+}}

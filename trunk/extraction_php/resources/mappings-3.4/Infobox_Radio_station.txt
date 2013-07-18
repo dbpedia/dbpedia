@@ -1,0 +1,22 @@
+{{ DBpediaTemplateMapping
+| mapToClass = RadioStation
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = RadioStation/city }}
+	{{ DBpediaPropertyMapping | templateProperty = area | ontologyProperty = RadioStation/area }}
+	{{ DBpediaPropertyMapping | templateProperty = frequency | ontologyProperty = RadioStation/frequency }}
+	{{ DBpediaPropertyMapping | templateProperty = airdate | ontologyProperty = RadioStation/airdate }}
+	{{ DBpediaPropertyMapping | templateProperty = share | ontologyProperty = RadioStation/share }}
+	{{ DBpediaPropertyMapping | templateProperty = shareasof | ontologyProperty = RadioStation/shareDate }}
+	{{ DBpediaPropertyMapping | templateProperty = sharesource | ontologyProperty = RadioStation/shareSource }}
+	{{ DBpediaPropertyMapping | templateProperty = format | ontologyProperty = RadioStation/format }}
+	{{ DBpediaPropertyMapping | templateProperty = facility_id | ontologyProperty = RadioStation/facilityId }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = callsign_meaning | ontologyProperty = RadioStation/callsignMeaning }}
+	{{ DBpediaPropertyMapping | templateProperty = former_callsigns | ontologyProperty = RadioStation/formerCallsign }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = RadioStation/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = sister_stations | ontologyProperty = RadioStation/sisterStation }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = slogan | ontologyProperty = Organisation/slogan }}
+	{{ DBpediaPropertyMapping | templateProperty = affiliations | ontologyProperty = Organisation/affiliation }}
+	{{ DBpediaPropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+}}

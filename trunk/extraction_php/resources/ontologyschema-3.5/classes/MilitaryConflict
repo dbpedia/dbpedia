@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Military Conflict
+| rdfs:subClassOf = Event
+}}

@@ -1,0 +1,9 @@
+{{Class
+| rdfs:label = Mean Of Transportation
+| specificProperties = {{SpecificProperty | ontologyProperty = diameter | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = mass | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = length | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = height | unit = millimetre }}
+                       {{SpecificProperty | ontologyProperty = weight | unit = kilogram }}
+                       {{SpecificProperty | ontologyProperty = width | unit = millimetre }}
+}}

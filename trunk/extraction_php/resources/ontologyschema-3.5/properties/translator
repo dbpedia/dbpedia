@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = translator
+| rdfs:domain = Book
+| rdfs:range = Person
+}}

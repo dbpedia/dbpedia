@@ -1,0 +1,90 @@
+{{Infobox Automobile
+| image =[[File:Mercedes-Benz 370S 1931.jpg|268px|Mercedes-Benz Typ Mannheim 370 S (1931)]]
+| name = Mercedes-Benz W10 
+| manufacturer = [[Mercedes-Benz]]
+| parent_company = Daimler-Benz AG
+| aka = Mercedes Benz Mannheim 350/370
+| production = 1929 – 1934
+| assembly = [[Stuttgart]]
+| predecessor = [[:de: Mercedes-Benz W03|Mercedes-Benz W03]]
+| successor = [[:de:Mercedes-Benz W18|Mercedes-Benz W18]]
+| class = [[touring car]]
+| body_style = 2/4 door [[roadster]]<br>4 door [[saloon]]<br>4 door [[limousine]]
+| layout = [[FR layout]]
+| platform = Mercedes-Benz W10
+| engine = 3444 cc straight 6<br>3689 cc straight 6<br>3820 cc straight 8
+| transmission = 3-speed manual
+| wheelbase = 3200 mm (350, 370, 380S)<br>3030 (370K)<br>2850mm (370S)
+| length = 
+| width = 
+| height = 
+| weight =
+| fuel_capacity =
+| related = 
+| similar_cars = 
+| designer =[[:de: Hans Nibel|Hans Nibel]]
+}}
+
+The '''Mercedes-Benz Mannheim 350''' replaced the [[:de:Mercedes-Benz W03|W03 350 models]] in 1929.   The structure originated by [[Ferdinand Porsche]] was modified by [[:de: Hans Nibel|Hans Nibel]] . 
+
+== Mercedes-Benz Type Mannheim 350 (1929 - 1930) ==
+In contemporary records the car was also sold as the “Mercedes-Benz 14/70 PS”, reflecting respectively its “[[Tax horsepower|fiscal]]” and “[[Horsepower|actual]]” horsepower.
+
+In essence the car followed the construction of the [[:de:Mercedes-Benz W03|its predecessor]].   However, the wheelbase was reduced by 230&nbsp;mm (9 inches) and the vehicle even in standard form was a little lighter.   In addition to the “Tourer” (two door four seater cabriolet) body, the car was available as a four door saloon and as a “Pullman Limousine” 
+
+The straight-six 3444 cc engine was also carried over from the predecessor model.   In this application an output of 70 PS (51&nbsp;kW) was claimed, delivered to the rear wheels through a three speed gear box controlled through a centrally mounted lever.
+Both axles were rigid, suspended on semi-elliptical leaf springs.  Cable-operated brakes provided stopping power to all four wheels.   The stated maximum speed was 95&nbsp;km/h (59 mph). 
+
+== Mercedes-Benz Type Mannheim 370 (1929 - 1935) ==
+In contemporary records the car was also sold as the “Mercedes-Benz 15/75 PS”
+
+Launched alongside the Mannheim 350 was the Mannheim 370.   In this form, the car had a straight-six 3689 cc.  Output of  75 PS (55&nbsp;kW) was claimed.   The three speed gear box was offered, at extra cost,  with a fourth higher ratio.   The maximum speed claimed for the Mannheim 370 was 100&nbsp;km/h (63 mph)
+
+== Mercedes-Benz Type Mannheim 370 K (WK10) (1930 - 1933) ==
+From 1930 the 370K ws offered with a wheelbase shortened by 175&nbsp;mm (7 inches).   
+
+Only cabriolet bodied versions of the 370K were offered.   The reduced size of the car permitted a maximum speed of 105&nbsp;km/h (65 mph) to be claimed.
+
+== Mercedes-Benz Typ Mannheim 370 S (WS10) (1930 - 1933) ==
+Shorter still, on a wheelbase of just 2850&nbsp;mm (112 inches) was the 370S, available only with roadster or sport-cabriolet bodies.  The maximum speed on these versions was stated as 115&nbsp;km/h (71 mph).  In 1933 the manufacturers increased the compression ratio from 5.5:1 to 5.75:1 with a corresponding increase in power output to 78 PS (57.3&nbsp;kW) at 3400 rpm
+
+== Mercedes-Benz Typ Mannheim 380 S (WS10) (1932 - 1933) ==
+In contemporary records the car was also sold as the “Mercedes-Benz 15/80 PS”
+
+The 380S came on the standard 3200&nbsp;mm wheelbase, but the car was distinguished by its longer eight cylinder side-valve engine.   Claimed output of the 3820 cc unit was 80 PS (59&nbsp;kW).
+
+Available with a choice of cabriolet bodies, the car, like its six cylinder sibling, rode on two rigid axels suspended on semi-elliptical leaf springs.   A top speed of 120&nbsp;km/h (75 mph) was claimed.
+
+== Mercedes-Benz Typ 380 S (W19) (1932 - 1933) ==
+In contemporary records the car was also sold as the “Mercedes-Benz 15/85 PS”
+
+A superficially comparable version of the car which appeared towards the end of the product run, the 380S (W19) appeared with swing axle rear suspension and a cross mounted leaf spring arrangement at the front.   Reflecting the extent of the change, this model acquired its own internal model number, W19, which differentiates it from the other members of the Mannheim line.   This car can really be seen as a prototype for the car’s [[:de: Mercedes-Benz W22|Type 380 (W22)]] successor.
+
+A still higher compression ratio accounted for a claimed increase in output to 85 PS (62.5&nbsp;kW)
+
+==Commercial==
+The cars were too large and expensive ever to sell in large numbers, though the Mannheim 370 broke the 1,000 units barrier.   Overall production was as follows:
+
+:W10 350:  .........65 cars
+:W10 370:  ....1,375 cars 
+:W10 370 S:  ....183 cars 
+:W10 380 S:  .......94 cars
+:W19 380 S: .......20 cars
+
+==Succession==
+In 1933 the Mercedes Benz Mannheim 350/370s were replaced by the [[:de:Mercedes-Benz W18|Type 290 (W18)]] and by the [[:de:Mercedes-Benz W22|Type 380 (W22)]]
+
+==Sources and further reading==
+*Oswald, Werner: Mercedes-Benz Personenwagen 1886-1986, Motorbuch-Verlag Stuttgart 1987, ISBN 3613011336
+
+{{reflist}}
+
+* {{De|Mercedes-Benz W10}}
+
+[[Category:Mercedes-Benz vehicles| W10]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Roadsters]]
+
+[[de:Mercedes-Benz W10]]
+[[it:Mercedes-Benz W10]]
+[[sv:Mercedes-Benz W10]]

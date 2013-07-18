@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = related
+|rdfs:domain = EthnicGroup
+|rdfs:range = EthnicGroup
+}}

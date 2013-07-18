@@ -1,0 +1,4 @@
+{{ ObjectProperty
+|rdfs:label		= thumbnail
+|rdfs:domain	= owl:Thing
+}}

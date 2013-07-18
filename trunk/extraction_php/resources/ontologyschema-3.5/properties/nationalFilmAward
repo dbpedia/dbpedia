@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = National Film Award
+| rdfs:domain = Actor
+| rdfs:range = Award
+}}

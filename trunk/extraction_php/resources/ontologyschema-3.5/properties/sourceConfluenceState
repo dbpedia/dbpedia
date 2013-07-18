@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = source confluence state
+| rdfs:domain = Island
+| rdfs:range = PopulatedPlace
+}}

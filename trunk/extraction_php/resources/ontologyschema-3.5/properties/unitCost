@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = unit cost
+| rdfs:domain = Aircraft
+| rdfs:range = Currency
+}}

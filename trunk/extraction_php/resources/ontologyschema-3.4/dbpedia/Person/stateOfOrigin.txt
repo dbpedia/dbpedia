@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= state of origin
+|rdfs:domain	= Person
+|rdfs:range		= owl:Thing <!-- PopulatedPlace -->
+}}

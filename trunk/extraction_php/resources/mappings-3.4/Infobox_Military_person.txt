@@ -1,0 +1,37 @@
+{{ DBpediaTemplateMapping
+| mapToClass = MilitaryPerson
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = allegiance | ontologyProperty = MilitaryPerson/allegiance }}
+	{{ DBpediaPropertyMapping | templateProperty = branch | ontologyProperty = MilitaryPerson/branch }}
+	{{ DBpediaPropertyMapping | templateProperty = rank | ontologyProperty = MilitaryPerson/militaryRank }}
+	
+	<!--
+	MilitaryPerson/unit was removed from ontology
+	{{DBpediaPropertyMapping | templateProperty = unit | ontologyProperty = MilitaryPerson/unit}}
+	-->
+	
+	{{DBpediaPropertyMapping | templateProperty = commands | ontologyProperty = MilitaryPerson/command}}
+	
+	<!--
+	MilitaryPerson/battle was removed from ontology
+	{{DBpediaPropertyMapping | templateProperty = battles | ontologyProperty = MilitaryPerson/battle}}
+	-->
+
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = born | ontologyProperty = Person/birthDate }}
+	{{DBpediaPropertyMapping | templateProperty = born | ontologyProperty = Person/birthYear}}
+	{{ DBpediaPropertyMapping | templateProperty = died | ontologyProperty = Person/deathDate }}
+	{{DBpediaPropertyMapping | templateProperty = died | ontologyProperty = Person/deathYear}}
+	{{ DBpediaPropertyMapping | templateProperty = placeofbirth | ontologyProperty = Person/birthPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofdeath | ontologyProperty = Person/deathPlace }}
+	{{ DBpediaPropertyMapping | templateProperty = placeofburial | ontologyProperty = Person/restingPlace }}
+	{{DBpediaPropertyMapping | templateProperty = placeofburial_label | ontologyProperty = Person/noteOnRestingPlace}}
+	{{DBpediaGeocoordinatesMapping | coordinates = placeofburial_coordinates }}
+	{{ DBpediaPropertyMapping | templateProperty = nickname | ontologyProperty = Person/otherName }}
+	{{ DBpediaPropertyMapping | templateProperty = awards | ontologyProperty = Person/award }}
+	{{ DBpediaPropertyMapping | templateProperty = relations | ontologyProperty = Person/relation }}
+	{{ DBpediaPropertyMapping | templateProperty = laterwork | ontologyProperty = Person/occupation }}
+    {{ DBpediaDateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = MilitaryPerson/serviceStartDate | endDateOntologyProperty = MilitaryPerson/serviceEndDate }}
+	{{ DBpediaDateIntervalMapping | templateProperty = serviceyears | startDateOntologyProperty = MilitaryPerson/serviceStartYear | endDateOntologyProperty = MilitaryPerson/serviceEndYear }}
+
+}}

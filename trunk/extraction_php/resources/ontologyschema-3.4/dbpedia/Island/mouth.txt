@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = mouth
+|rdfs:domain = Island
+|rdfs:range = owl:Thing
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= owner
+|rdfs:domain	= Organisation
+|rdfs:range		= Person
+}}

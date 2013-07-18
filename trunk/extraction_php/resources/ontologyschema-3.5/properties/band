@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = band
+| rdfs:domain = Protein
+| rdfs:range = xsd:string
+}}

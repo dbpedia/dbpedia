@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = added
+| rdfs:domain = HistoricPlace
+| rdfs:range = xsd:date
+}}

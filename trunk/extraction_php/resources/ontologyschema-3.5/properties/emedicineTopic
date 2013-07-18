@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = eMedicine topic
+| rdfs:domain = Disease
+| rdfs:range = xsd:string
+}}

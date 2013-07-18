@@ -1,0 +1,16 @@
+{{TemplateMapping
+| mapToClass = Municipality
+| mappings = 
+	{{PropertyMapping | templateProperty = neighboring_municipalities | ontologyProperty = neighboringMunicipality }}
+	{{PropertyMapping | templateProperty = postal_code | ontologyProperty = postalCode }}
+	{{PropertyMapping | templateProperty = municipality_code | ontologyProperty = areaCode }}
+	{{PropertyMapping | templateProperty = area | ontologyProperty = areaTotal | unit = squareKilometre }}
+	{{PropertyMapping | templateProperty = elevation | ontologyProperty = elevation | unit = metre }}
+	{{PropertyMapping | templateProperty = highest_m | ontologyProperty = maximumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = lowest_m | ontologyProperty = minimumElevation | unit = metre }}
+	{{PropertyMapping | templateProperty = population | ontologyProperty = populationTotal }}
+	{{PropertyMapping | templateProperty = populationof | ontologyProperty = populationAsOf }}
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = demonym | ontologyProperty = demonym }}
+	{{GeocoordinatesMapping | longitudeMinutes = long_m  | longitudeDirection = long_NS  | latitudeDegrees = lat_d  | latitudeMinutes = lat_m  | latitudeDirection = lat_EW }}
+}}

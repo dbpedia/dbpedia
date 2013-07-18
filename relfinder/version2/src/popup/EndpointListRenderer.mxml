@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="100%" height="100%" horizontalGap="0" verticalGap="0"
+	creationComplete="init()"
+	horizontalScrollPolicy="off" verticalScrollPolicy="off"
+	implements="mx.controls.listClasses.IDropInListItemRenderer, mx.core.IFontContextComponent">
+	
+	<mx:Script>
+		<![CDATA[
+			import connection.config.Config;
+			import connection.model.ConnectionModel;
+			import flash.display.DisplayObject;
+			import flash.events.Event;
+			import flash.events.MouseEvent;
+			import mx.collections.ArrayCollection;
+			import mx.controls.Alert;
+			import mx.controls.List;
+			import mx.controls.listClasses.BaseListData;
+			import mx.core.Application;
+			import mx.core.IFlexModuleFactory;
+			import mx.events.CloseEvent;
+			import mx.events.FlexEvent;
+			import mx.events.ResizeEvent;
+			import mx.managers.PopUpManager;
+			import mx.utils.ObjectUtil;
+			import popup.ExpertSettings;
+			
+			import popup.EditEndpointConfig;
+			
+			[Bindable]
+			private var _list:List;
+			
+			private function init():void
+			{
+				addEventListener("dataChange", dataChangeHandler);
+				
+				addEventListener(MouseEvent.MOUSE_OVER, mouseOverHandler);
+				addEventListener(MouseEvent.MOUSE_OUT, mouseOutHandler);
+				
+				if (listData && listData.owner) {
+					_list = listData.owner as List;
+					dispatchEvent(new FlexEvent(FlexEvent.DATA_CHANGE));
+				}
+			}
+			
+			private function mouseOverHandler(event:MouseEvent):void {
+				epEdit.visible = true;
+				epRemove.visible = true;
+			}
+			
+			private function mouseOutHandler(event:MouseEvent):void {
+				epEdit.visible = false;
+				epRemove.visible = false;
+			}
+			
+			
+			
+			private var _listData:BaseListData;
+			
+			[Bindable("dataChange")]
+			[Inspectable(environment="none")]
+			public function get listData():BaseListData
+			{
+				return _listData;
+			}
+			
+			public function set listData(value:BaseListData):void
+			{
+				_listData = value;
+			}
+			
+			public function get fontContext():IFlexModuleFactory
+			{
+				return moduleFactory;
+			}
+			
+			public function set fontContext(moduleFactory:IFlexModuleFactory):void
+			{
+				this.moduleFactory = moduleFactory;
+			}
+			
+			private var _data:Object;
+			
+			[Bindable("dataChange")]
+			override public function get data():Object {
+				return _data;
+			}
+			
+			override public function set data(value:Object):void 
+			{
+				_data = value;
+				
+				if (_data is Config) {
+					var conf:Config = _data as Config;
+					
+					epName.text = conf.name;
+					epDescription.text = conf.description;
+					
+					callLater(validateText);
+				}
+				
+				dispatchEvent(new FlexEvent(FlexEvent.DATA_CHANGE));
+			}
+			
+			private function validateText():void {
+				epName.validateNow();
+				epNumber.validateNow();
+				hb.validateNow();
+				epDescription.validateNow();
+				
+				super.height = epDescription.measuredHeight + hb.measuredHeight;
+				
+				validateNow();
+			}
+			
+			[Bindable("dataChange")]
+			private function getNumber():String {
+				if (_list && _list.dataProvider && data) {
+					return ((_list.dataProvider as ArrayCollection).getItemIndex(data) + 1).toString()
+				}
+				return "0";
+			}
+			
+			private function dataChangeHandler(event:Event):void {
+				if (data && data is Config) {
+					var conf:Config = data as Config;
+					
+					epName.text = conf.name;
+					epDescription.text = conf.description;
+					
+					callLater(validateText);
+				}
+			}
+			
+			private function edit(event:Event):void {
+				if (_data && _data is Config) {
+					var edit:EditEndpointConfig = PopUpManager.createPopUp(Application.application as DisplayObject, EditEndpointConfig, true) as EditEndpointConfig;
+					edit.config = _data as Config;
+					
+				}
+			}
+			
+			private function remove(event:Event):void {
+				if (_data && _data is Config) {
+					Alert.show("Do you really want to delete this entry?", "Delete entry", Alert.YES + Alert.NO, this, dispatchCloseEvent);
+				}
+			}
+			
+			private function dispatchCloseEvent(event:CloseEvent):void {
+				if (event.detail == Alert.YES) {
+					ConnectionModel.getInstance().sparqlConfigs.removeItemAt(ConnectionModel.getInstance().sparqlConfigs.getItemIndex(_data));
+					(parent.parent.parent.parent.parent as ExpertSettings).selectFirstSPARQL();
+				}
+			}
+			
+			
+			
+			
+		]]>
+	</mx:Script>
+	
+	<mx:HBox id="hb" width="100%" paddingBottom="0" horizontalGap="0" verticalGap="0" paddingRight="5">
+		<mx:Label id="epNumber" text="#{getNumber()}" fontWeight="bold" fontSize="12" paddingBottom="0"  />
+		<mx:Label id="epName" width="100%" fontWeight="bold" fontSize="12" paddingBottom="0"  />
+		<mx:Button id="epRemove" label="Remove" visible="false" click="remove(event);" paddingRight="2" />
+		<mx:Button id="epEdit" label="Edit" visible="false" click="edit(event);" />
+	</mx:HBox>
+	
+	<mx:Text id="epDescription" width="{hb.width - 10}" selectable="false" />
+	
+</mx:VBox>

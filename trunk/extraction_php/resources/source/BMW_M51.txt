@@ -1,0 +1,57 @@
+{{Infobox Automobile
+|name=BMW M51 engine
+|manufacturer=[[BMW]]
+|production=1991&ndash;2000
+|predecessor=[[BMW M21]]
+|successor=[[BMW M57]]
+|class=[[Straight-6]] [[Diesel engine|Diesel]]
+|engine=2.5&nbsp;L (2498&nbsp;cc/152&nbsp;in³)
+|similar=[[Mercedes-Benz OM603 engine|Mercedes-Benz OM603]]
+}}
+The '''[[BMW]] M51''' is a [[straight-6]] [[Diesel engine]] produced from July 1991 through February 2000.
+{| class=wikitable
+|+Models
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+
+||M51D25 UL ||rowspan=4|2.5&nbsp;L (2498&nbsp;cc/152&nbsp;in³)||{{convert|85|kW|hp|abbr=on}} @ 4800||{{convert|222|Nm|lbft||abbr=on}} @ 1900||5200||1991-1997
+|-
+||M51D25 OL ||{{convert|105|kW|hp|abbr=on}} @ 4800||{{convert|260|Nm|lbft||abbr=on}} @ 2200||5200||1991-1996
+|-
+||M51D25TU UL ||{{convert|85|kW|hp|abbr=on}} @ 4800||{{convert|230|Nm|lbft||abbr=on}} @ 1900||5200||1996-1998
+|-
+||M51D25TU OL ||{{convert|105|kW|hp|abbr=on}} @ 4600||{{convert|280|Nm|lbft||abbr=on}} @ 2200||5000||1996-2000
+|}
+
+The "td" stands for "turbodiesel" while "tds" refers to "[[Intercooler|intercooled]] turbodiesel". 
+
+Applications:
+* 1991-1996 [[BMW E36|E36]] [[BMW 3-Series|325td]] (M51D25 UL)
+* 1996-1998 [[BMW E36|E36]] [[BMW 3-Series|325td]] (M51D25TU UL)
+* 1993-1996 [[BMW E36|E36]] [[BMW 3-Series|325tds]] (M51D25 OL)
+* 1996-1998 [[BMW E36|E36]] [[BMW 3-Series|325tds]] (M51D25TU OL)
+
+
+* 1992-1996 [[BMW E34|E34]] [[BMW 5-Series|525td]] (M51D25 UL)
+* 1991-1996 [[BMW E34|E34]] [[BMW 5-Series|525tds]] (M51D25 OL)
+* 1996-2000 [[BMW E39|E39]] [[BMW 5-Series|525tds]] (M51D25TU OL)
+* 1996-2000 [[BMW E38|E38]] [[BMW 7-Series|725tds]] (M51D25TU OL)
+* 1995-2001 [[Land Rover]] [[Range Rover|Range Rover 2.5 D/DSE]]
+* 1992 [[UMM Alter II]] (Very rare model only one was made, the car was made in Portugal with the engine, gearbox and electronics being made and fitted in at BMW's Munich plant)
+
+Same engine is also used in 1995-2001 [[Opel Omega]].
+
+==See also==
+* [[List of BMW engines]]
+
+[[Category:BMW engines|M51]]
+[[Category:Articles lacking sources (Erik9bot)]]
+
+{{automotive-part-stub}}
+
+[[da:BMW M51]]
+[[it:BMW M51]]
+[[no:BMW M51]]
+[[pl:BMW M51]]
+[[fi:BMW M51]]

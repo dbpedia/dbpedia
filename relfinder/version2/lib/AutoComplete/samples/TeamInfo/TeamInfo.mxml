@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+////////////////////////////////////////////////////////////////////////////////
+//
+// Copyright (C) 2003-2006 Adobe Macromedia Software LLC and its licensors.
+// All Rights Reserved.
+// The following is Sample Code and is subject to all restrictions on such code
+// as contained in the End User License Agreement accompanying this product.
+// If you have received this file from a source other than Adobe,
+// then your use, modification, or distribution of it requires
+// the prior written permission of Adobe.
+//
+////////////////////////////////////////////////////////////////////////////////
+-->
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" xmlns:fc="http://www.adobe.com/2006/fc" >
+	
+	<mx:Script source="TeamInfo.as"/>
+	<mx:ArrayCollection id="TeamInfoAC" source="{TeamInfoDP}"/>
+    
+    <mx:Panel width="65%" height="80%" verticalGap="30" paddingLeft="30" paddingTop="20"  paddingBottom="20"
+  	 paddingRight="20" title="Team Info Sample">
+		<mx:Text text="This sample illustrates the use of custom filter funtion.labelfield and filterfunction properties
+are changed at runtime to achieve search based on different parameters. The example uses ArrayCollection as common dataprovider for AutoComplete and DataGrid." 
+		  	 width="725" fontFamily="Verdana" textAlign="justify" fontSize="10" color="#0000ff"/>
+		  	
+		<mx:Text htmlText="&lt;b&gt;Usage:&lt;/b&gt; Select search criteria and search parameter and start typing search string in AutoComplete component
+to see list of matching suggestions" width="725" fontFamily="Verdana" textAlign="justify" fontSize="10" color="#0000ff"/>
+		 	
+	 	<mx:HBox horizontalGap="25">
+	 		<mx:ComboBox id="SearchField" dataProvider="{SearchFieldDP}"  width="225" change="UpdateSearchField();" />
+	    	<mx:ComboBox id="SearchType" dataProvider="{SearchTypeDP}" width="225" change="UpdateSearchType();" />
+	 		<fc:AutoComplete width="225" id="SearchString" dataProvider="{TeamInfoAC}" labelField="firstname" 
+			creationComplete="AddChangeHandler();" lookAhead="false"/>
+	 	</mx:HBox>
+			
+		<mx:DataGrid minHeight="50" wordWrap="true" variableRowHeight="true" id="dg" width="725" height="234" editable="false" 
+			dataProvider="{TeamInfoAC}">
+			<mx:columns>
+				<mx:DataGridColumn headerText="First Name" dataField="firstname"/>
+				<mx:DataGridColumn headerText="Last Name" dataField="lastname"/>
+				<mx:DataGridColumn headerText="Designation" dataField="designation"/>
+				<mx:DataGridColumn headerText="Role" dataField="role"/>
+				<mx:DataGridColumn headerText="Birthdate" dataField="birthdate"/>
+				<mx:DataGridColumn headerText="Phone" dataField="phone"/>
+				<mx:DataGridColumn headerText="IM Id" width="120" dataField="imid"/>
+			</mx:columns>
+		</mx:DataGrid>
+  </mx:Panel>
+	
+</mx:Application>
+

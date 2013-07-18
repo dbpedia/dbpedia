@@ -1,0 +1,46 @@
+{{TemplateMapping
+| mapToClass = FootballPlayer
+| mappings = 
+	{{PropertyMapping | templateProperty = status | ontologyProperty = status }}
+	{{PropertyMapping | templateProperty = College | ontologyProperty = college }}
+	{{PropertyMapping | templateProperty = high_school | ontologyProperty = highschool }}
+	{{PropertyMapping | templateProperty = debutyear | ontologyProperty = debutYear }}
+	{{PropertyMapping | templateProperty = finalyear | ontologyProperty = finalYear }}
+	{{PropertyMapping | templateProperty = draftyear | ontologyProperty = draftYear }}
+	{{PropertyMapping | templateProperty = draftround | ontologyProperty = draftRound }}
+	{{PropertyMapping | templateProperty = draftpick | ontologyProperty = draftPick }}
+	{{PropertyMapping | templateProperty = undraftedyear | ontologyProperty = undraftedYear }}
+	{{PropertyMapping | templateProperty = teams | ontologyProperty = team }}
+	{{PropertyMapping | templateProperty = debutteam | ontologyProperty = debutTeam }}
+	{{PropertyMapping | templateProperty = suppdraftyear | ontologyProperty = supplementalDraftYear }}
+	{{PropertyMapping | templateProperty = suppdraftround | ontologyProperty = supplementalDraftRound }}
+	{{PropertyMapping | templateProperty = pastteams | ontologyProperty = pastTeam }}
+	{{PropertyMapping | templateProperty = espn | ontologyProperty = espnid }}
+	{{PropertyMapping | templateProperty = coachingteams | ontologyProperty = coachingTeam }}
+	{{PropertyMapping | templateProperty = playername | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = fullname | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = team | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = position1 | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = position2 | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = position3 | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = position4 | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = position5 | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = dateofbirth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = cityofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = countryofbirth | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = dateofdeath | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = cityofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = countryofdeath | ontologyProperty = deathPlace }}
+	{{PropertyMapping | templateProperty = Weight_lbs | ontologyProperty = weight | unit = pound }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length}}
+	{{PropertyMapping | templateProperty = position | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = number | ontologyProperty = currentNumber }}
+	{{PropertyMapping | templateProperty = birthdate | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = deathdate | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = currentteam | ontologyProperty = currentTeam }}
+	{{PropertyMapping | templateProperty = currentnumber | ontologyProperty = currentNumber }}
+	{{PropertyMapping | templateProperty = currentposition | ontologyProperty = currentPosition }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight | unit = pound }}
+	{{CalculateMapping | operation = add | templateProperty1 = Height_ft  | unit1 = foot  | templateProperty2 = Height_in  | unit2 = inch  | ontologyProperty = height }}
+	{{CalculateMapping | operation = add | templateProperty1 = heightft  | unit1 = foot  | templateProperty2 = heightin  | unit2 = inch  | ontologyProperty = height }}
+}}

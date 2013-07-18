@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label		= head alloy  
+|rdfs:domain	= AutomobileEngine
+}}

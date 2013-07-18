@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = largest win
+| rdfs:domain = SoccerClub
+| rdfs:range = xsd:string
+}}

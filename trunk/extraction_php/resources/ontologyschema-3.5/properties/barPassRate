@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = bar pass rate
+| rdfs:domain = School
+| rdfs:range = xsd:float
+}}

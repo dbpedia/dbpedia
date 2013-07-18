@@ -1,0 +1,523 @@
+{{Infobox Automobile
+|name           = Audi A4
+|image          = [[File:Audi A4 B8 front 20080414.jpg|250 px]]<br>''Audi A4 (B8)''
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|production     = 1994&nbsp;–&nbsp;present
+|assembly       = [[Ingolstadt]], [[Germany]]
+|predecessor    = [[Audi 80]]
+|class          = [[Compact executive car]]
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br>[[front-wheel drive]], or<br>[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|platform       = [[Volkswagen Group B platform]] series
+|related        = [[Audi S4]]<br>[[Audi RS4]]
+|sp             = uk
+}}
+The '''Audi A4''' is a [[compact executive car]] produced by the [[Germany|German]] [[automotive industry|car manufacturer]] [[Audi|Audi AG]] since late 1994.  The initial generation A4 succeeded the four previous generations of the [[Audi 80]].  And just like its Audi 80 predecessor, the Audi A4 [[automobile layout]] consists of a [[longitudinal engine|longitudinally orientated]] [[front-engine design|engine at the front]], with [[transaxle]]-type [[transmission (mechanics)|transmissions]] mounted immediately to the rear of the engine, again, orientated longitudinally.  Drive output is transmitted to either the [[front-wheel drive|front wheels]], or on some models, utilising Audi's 'trademark' [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system via a [[Torsen]] centre [[differential (mechanical device)|differential]].
+
+Since its inception, the Audi A4 has been available in four generations, based on the [[Volkswagen Group B platform|Volkswagen Group 'B' series]] of [[automobile platform]]s - usually known by the following codes - the initial B5, the subsequent B6 and B7, and the current B8.
+
+Of the main [[car body style|body styles]], it is (and always has been) available as a [[sedan (automobile)|saloon/sedan variant]], and an "Avant", which is Audi's name for an [[station wagon|estate/wagon]].  The second (B6) and third generations (B7) of the A4 also had a [[convertible|Cabriolet]] version, but the Cabriolet was not retained for the current fourth generation (B8), due to the introduction of the Cabriolet version of the related [[Audi A5|Audi A5 and S5]] [[coupé]]s.
+
+Additionally, [[high performance vehicle|higher performance]] versions directly related to the A4 include the [[Audi S4]], and the limited availability [[quattro GmbH]]-developed very high performance [[Audi RS4]].
+__TOC__{{-}}
+
+==B5 (''Typ'' 8D, 1994–2001){{anchor|B5}}==
+{{Infobox Automobile generation
+|name          = Audi A4 (B5)
+|image         = [[Image:Audi A4 B5 front 20080617.jpg|250 px]]<br>''1994-1997 Audi B5 A4 saloon''
+|aka           = 
+|production    = 1994–2001
+|predecessor   = [[Audi 80#B4|Audi 80 (B4)]]
+|successor     = [[#B6|Audi A4 (B6)]]
+|body_style    = 4 door [[sedan (automobile)|saloon/sedan]],<br>5-door Avant ([[station wagon|estate/wagon]])
+|platform      = [[Volkswagen Group B platform#B5 (PL45)|Volkswagen Group B5 (PL45) platform]]
+|engine        = '''''[[petrol engine]]s:'''''<br>1.6&nbsp;[[litre|L]] [[inline-four engine|I4]]<br>1.8&nbsp;L I4 [[multi-valve|20v]]<br>1.8&nbsp;L I4 20v[[turbocharger|Turbo]]<br>2.4&nbsp;L [[V6 engine|V6]] 30v<br>2.6&nbsp;L V6<br>2.8&nbsp;L V6<br>2.8&nbsp;L V6 30v;<br>'''''[[diesel engine]]s:'''''<br>1.9&nbsp;L I4 [[Turbocharged Direct Injection|TDI]]<br>2.5&nbsp;L V6 24v TDI
+|transmission  = 5-sp [[manual transmission|manual]];<br>4-sp [[automatic transmission|automatic]];<br>5-sp [[ZF 5HP19 transmission|ZF 5HP19]] automatic
+|wheelbase     = {{convert|2615|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4520|mm|1|abbr=on}};<br>Avant: {{convert|4488|mm|1|abbr=on}}
+|width         = {{convert|1730|mm|1|abbr=on}}
+|height        = {{convert|1415|mm|1|abbr=on}};<br>Avant: {{convert|1440|mm|1|abbr=on}}
+|weight        =
+|fuel_capacity = {{convert|62|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi S4#B5|Audi S4 (B5)]],<br>[[Audi RS4#B5|Audi RS4 (B5)]]<br>[[Škoda Superb]]<br>[[Volkswagen Passat#Passat Mk5 .28B5.2FB5.5.2FLingyu.2C 1996.E2.80.932005.29|Volkswagen Passat (B5)]]
+|designer      =
+|sp            = uk
+}}
+{{Refimprovesect|date=June 2008}}
+The first-generation '''Audi A4''' (known internally as the '''''Typ'' 8D''') was debuted by [[Audi]] in 1994, with production starting November 1994.  It was built on the [[Volkswagen Group B platform#B5 (PL45)|Volkswagen Group B5 (PL45) platform]], which it shared with the fourth generation [[Volkswagen Passat|Volkswagen Passat (B5, ''Typ'' 3B)]].  It had a [[front-engine design|front-mounted]] [[longitudinal engine]] and standard [[front-wheel drive]], and many variations of the A4 were also available with Audi's 'trademark' [[quattro (four wheel drive system)|quattro]] [[four-wheel drive]] system.  The A4 was initially introduced as a four-door [[sedan (automobile)|saloon/sedan]]; the Avant ([[station wagon|estate/wagon]]) arrived a year later.
+
+A wide range of [[internal combustion engine]]s were available to [[Europe]]an customers, between 1.6 and 2.8&nbsp;[[litre]]s for [[petrol engine]]s; and a 1.9&nbsp;litre [[diesel engine]] available with [[Volkswagen Group]]'s VE technology, capable of achieving a {{convert|90|PS|kW bhp|0|abbr=on|lk=on}} or {{convert|110|PS|kW bhp|0|abbr=on}}, although Audi's 2.8&nbsp;litre [[V6 engine]], carried over from the old [[Audi 80|80/90]] was the only engine option in North America until 1997.
+
+The Audi A4 was the first model in the Volkswagen Group to feature the new 1.8&nbsp;litre 20v engine with [[multi-valve|five valves per cylinder]], based on the unit [[Audi#Motorsports|Audi Sport]] had developed for their [[Supertouring]] race car.  A [[turbocharger|turbocharged]] version produced {{convert|150|PS|kW bhp|0|abbr=on}} and {{convert|210|Nm|lbft|0|lk=on}} torque.  This technology was added to the V6 family of engines in 1996, starting with the 2.8&nbsp;litre V6 30v, which now produced {{convert|193|PS|kW bhp|0|abbr=on}}.
+
+Audi also debuted their new [[tiptronic]] automatic transmission on the B5 platform, based on the unit [[Porsche]] developed for their [[Porsche 964|964]]-generation [[Porsche 911|911]].  The transmission is a conventional [[automatic transmission|automatic]] gearbox with a torque converter, but it offers the driver fully automatic operation, or manual selection of the gear ratios.
+
+===B5 facelift (1998–2001){{anchor|B5facelift}}===
+[[File:Audi A4 rear 20080326.jpg|thumb|left|Audi B5 A4 saloon rear view]]
+[[Image:Audi-A4-B5-1.jpg|thumb|left|1998-2001 Audi A4 saloon (US)]]
+[[Image:Audi A4 B5 Avant rear 20080517.jpg|thumb|left|1998-2001 Audi A4 Avant]]
+A [[facelift (automobile)|refreshed]] B5 A4 range appeared at the 1997 [[Frankfurt Motor Show]], with sales beginning in Europe in early 1998.  Besides the introduction of a 2.8&nbsp;[[litre]] 30-valve [[V6 engine]] (replacing the 2.8&nbsp;litre 12-valve), the most important additions to the range were the 2.5&nbsp;litre V6 [[Turbocharged Direct Injection]] (TDI) [[diesel engine]] with {{convert|150|PS|kW bhp|0|abbr=on|lk=on}} and standard [[quattro (four wheel drive system)|quattro]], and a six-speed manual gearbox, as well the new high-performance [[Audi S4]], now part of the A4 lineup (the previous S4 had been an [[Audi 100]]).  New rear lights, [[headlights]], door handles, and other minor exterior/interior changes rounded out the cosmetic updates.
+
+In mid 1998, the 1.8 20vT engine available outside Europe had its power output raised to {{convert|170|PS|kW bhp|0|abbr=on}}.  The previous KKK K03 [[turbocharger]], although fundamentally unchanged, did receive some revisions on the turbine side to prevent cracking due to heat.{{citation needed|date=April 2009}}  The 12-valve V6 was replaced by the 30-valve unit which had been available in Europe for two years.
+
+In 1999, Audi debuted an even higher performance '''''R'''enn'''S'''port'' model, the [[Audi RS4|RS4 Avant]], like its predecessor [[Audi RS2 Avant|RS2]], available only in the Avant bodystyle.
+
+===B5 engines===
+The following [[internal combustion engine|engines]] were available:
+{|class="wikitable" style="text-align: center; font-size: 95%"
+|-
+![[internal combustion engine|engine]] [[engine configuration|type]]!![[power (physics)|max. power]]!![[torque|max. torque]]!!top speed <small>(saloon)</small>!!0-100 km/h (62 mph) <small>(saloon)(manual)</small>!!years!![[emission standard|CO<sub>2</sub> emissions]]<ref>[http://www.ultimatespecs.com/?option=4&brand=2#A4%20%28B5%29 Ultimate specs]</ref>
+|-
+|colspan="7"|'''''[[petrol engine]]s'''''<br><small>all [[fuel injection|fuel injected]]</small>
+|-
+| align="left" | 1.6 [[inline-four engine|I4]] 8v [[overhead camshaft#single overhead camshaft|SOHC]] || {{convert|101|PS|kW bhp|0|abbr=on|lk=on}} || {{convert|140|Nm|0|abbr=on|lk=on}} || {{convert|190|km/h|1|abbr=on|lk=on}} || 11.9 sec || 1994–2000 || 174 g/km
+|-
+| align="left" | 1.6 I4 8v SOHC || {{convert|102|PS|kW bhp|0|abbr=on}} || {{convert|148|Nm|0|abbr=on}} || {{convert|192|km/h|1|abbr=on}} || 11.9 sec || 2000–2001 || 192 g/km
+|-
+| align="left" | 1.8 I4 [[multi-valve|20v]] [[overhead camshaft#double overhead camshaft|DOHC]] || {{convert|125|PS|kW bhp|0|abbr=on}} || {{convert|173|Nm|0|abbr=on}} || {{convert|205|km/h|1|abbr=on}} || 10.5 sec || 1994–2001 || 182 g/km
+|-
+| align="left" | 1.8T I4 20v DOHC [[turbocharger|Turbo]] || {{convert|150|PS|kW bhp|0|abbr=on}} || {{convert|210|Nm|0|abbr=on}} || {{convert|221|km/h|1|abbr=on}} || 8.3 sec || 1994–2001 || 182 g/km
+|-
+| align="left" | 1.8T I4 20v DOHC Turbo || {{convert|180|PS|kW bhp|0|abbr=on}} || {{convert|235|Nm|0|abbr=on}} || {{convert|231|km/h|1|abbr=on}} || || 1999–2001 || 194 g/km
+|-
+| align="left" | 2.4 [[V6 engine|V6]] 30v DOHC || {{convert|165|PS|kW bhp|0|abbr=on}} || {{convert|230|Nm|0|abbr=on}} || {{convert|226|km/h|1|abbr=on}} || 8.2 sec || 1997–2001 || 226 g/km
+|-
+| align="left" | 2.6 V6 12v SOHC || {{convert|150|PS|kW bhp|0|abbr=on}} || {{convert|225|Nm|0|abbr=on}} || {{convert|220|km/h|1|abbr=on}} || || 1994–1997 ||
+|-
+| align="left" | 2.8 V6 12v SOHC || {{convert|174|PS|kW bhp|0|abbr=on}} || {{convert|245|Nm|0|abbr=on}} || {{convert|230|km/h|1|abbr=on}} || || 1994–1997 ||
+|-
+| align="left" | 2.8 V6 30v DOHC || {{convert|193|PS|kW bhp|0|abbr=on}} || {{convert|280|Nm|0|abbr=on}} || {{convert|240|km/h|1|abbr=on}} || 7.4 sec || 1997–2001 || 
+|-
+|colspan="7" |'''''[[diesel engine]]s'''''<br><small>all [[fuel injection#direct injection|Direct Injection]] (DI)</small>
+|-
+| align="left" | 1.9 DI [[inline-four engine|I4]] 8v [[overhead camshaft#single overhead camshaft|SOHC]] || {{convert|75|PS|kW bhp|0|abbr=on|lk=on}} || {{convert|150|Nm|0|abbr=on|lk=on}} || {{convert|170|km/h|1|abbr=on|lk=on}} || || 1996–2001
+|-
+| align="left" | 1.9 [[Turbocharged Direct Injection|TDI]] I4 8v SOHC || {{convert|90|PS|kW bhp|0|abbr=on}} || {{convert|202|Nm|0|abbr=on}} || {{convert|184|km/h|1|abbr=on}} || 13.3 sec || 1994–1997 || 125 g/km
+|-
+| align="left" | 1.9 TDI I4 8v SOHC || {{convert|90|PS|kW bhp|0|abbr=on}} || {{convert|210|Nm|0|abbr=on}} || {{convert|182|km/h|1|abbr=on}} || 13.3 sec || 1997–2001 || 143 g/km
+|-
+| align="left" | 1.9 TDI I4 8v SOHC || {{convert|110|PS|kW bhp|0|abbr=on}} || {{convert|225|Nm|0|abbr=on}} || {{convert|196|km/h|1|abbr=on}} || 11.3 sec || 1994–1997 || 114 g/km
+|-
+| align="left" | 1.9 TDI I4 8v SOHC || {{convert|110|PS|kW bhp|0|abbr=on}} || {{convert|235|Nm|0|abbr=on}} || {{convert|195|km/h|1|abbr=on}} || 11.3 sec || 1997–2000 || 114 g/km
+|-
+| align="left" | 1.9 TDI I4 8v SOHC || {{convert|115|PS|kW bhp|0|abbr=on}} || {{convert|285|Nm|0|abbr=on}} || {{convert|200|km/h|1|abbr=on}} || 10.5 sec || 2000–2001 || 123 g/km
+|-
+| align="left" | 2.5 [[V6 engine|V6]] TDI [[multi-valve|24v]] [[overhead camshaft#double overhead camshaft|DOHC]] || {{convert|150|PS|kW bhp|0|abbr=on}} || {{convert|310|Nm|0|abbr=on}} || {{convert|220|km/h|1|abbr=on}} || 9.0 sec || 1997–2001 || 184 g/km
+|}
+
+===B5 safety===
+In the [[Euro NCAP]] safety and crash tests, the Audi B5 A4 received 3&nbsp;stars for front- and side-impact protection, but the last star is flagged to indicate that the driver may be subjected to a high risk of chest injury in the side impact.<ref name="euroncap.com">{{Cite web|url=http://www.euroncap.com/tests/audi_a4_1997/14.aspx|title=Audi A4|accessdate=2008-06-01|work=EuroNCAP.com}}</ref>
+*[[Adult]] occupant = {{rating|3|5}}
+*[[Pedestrian]] = {{rating|2|4}} (pre 2002 rating)
+
+===B5 A4-derived hybrid version===
+In 1997, Audi was the first European car manufacturer to put a [[hybrid vehicle]] into [[mass production|series production]], the third generation Audi duo, then based on the A4 Avant.<ref>Audi.com [http://www.audi.com/audi/com/en2/about_audi_ag/news/press_echo/Audi_Q7_hybrid___making_a_clean_start.html Audi Q7 hybrid - making a clean start]</ref><ref>Audi.com [http://www.audi.com/audi/aola/cr/about_audi_ag/company_perspective/design/studies/q7_hybrid_concept/hybrid_history.html Audi Q7 hybrid concept - 15 years of pioneering work]</ref>{{-}}
+
+==B6 (''Typ'' 8E/8H, 2001–2005){{anchor|B6}}==
+{{Infobox Automobile generation
+|name          = Audi A4 (B6)
+|image         = [[Image:Audi A4 sedan.jpg|250px]]<br>''Audi B6 A4 saloon (US)''
+|aka           =
+|production    = 2001–2005
+|predecessor   = [[#B5|Audi A4 (B5)]]
+|successor     = [[#B7|Audi A4 (B7)]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]]<br>5-door Avant ([[station wagon|estate/wagon]])<br>2-door [[convertible|Cabriolet]]
+|platform      = [[Volkswagen Group B platform#B6|Volkswagen Group B6 (PL46) platform]]
+|engine        = '''''[[petrol engine]]s:'''''<br>1.6&nbsp;[[litre|L]] [[inline-four engine|I4]],<br>2.0&nbsp;L I4 [[multi-valve|20v]],<br>2.0L I4 [[gasoline direct injection|FSI]] 16v;<br>1.8&nbsp;L I4 20v [[turbocharger|Turbo]];<br>2.4&nbsp;L [[V6 engine|V6]] 30v,<br>3.0&nbsp;L V6 30v;<br>'''''[[diesel engine]]s:'''''<br>1.9&nbsp;L I4 [[Turbocharged Direct Injection|TDI]],<br>2.5&nbsp;L V6 TDI,<br>3.0&nbsp;L V6 TDI
+|transmission  = 5 and 6-sp [[manual transmission|manual]];<br>5 and 6-sp [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2650|mm|1|abbr=on|lk=on}},<br>Cabriolet: {{convert|2654|mm|1|abbr=on}}
+|length        = {{convert|4547|mm|1|abbr=on}},<br>Avant: {{convert|4544|mm|1|abbr=on}}; Cabriolet: {{convert|4573|mm|1|abbr=on}}
+|width         = {{convert|1766|mm|1|abbr=on}},<br>Cabriolet: {{convert|1777|mm|1|abbr=on}}
+|height        = {{convert|1428|mm|1|abbr=on}},<br>Cabriolet: {{convert|1391|mm|1|abbr=on}}
+|weight        =
+|fuel_capacity = {{convert|66|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi S4#B6|Audi S4 (B6)]]
+|designer      =
+|sp            = uk
+}}
+{{Refimprovesect|date=April 2009}}
+[[Image:Audi-A4-B6-Avant.jpg|thumb|left|200px|Audi A4 Avant 3.0 (US)]]
+[[Image:Audi A4 1.8T convertible.jpg|thumb|left|200px|Audi A4 1.8T Cabriolet (US)]]
+[[Image:2005-Audi-A4-SLine.jpg|thumb|left|200px|2005 A4 saloon S line (US)]]
+An all-new A4, internally designated '''''Typ'' 8E''', debuted in late 2000, now riding on the all-new [[Volkswagen Group B platform#B6|Volkswagen Group B6 (PL46) platform]].  The car's new styling was inspired on the C5 (second-generation) [[Audi A6]].  The 1.6&nbsp;[[litre]] base model remained unchanged, but most other [[petrol engine|petrol/gasoline engines]] received either displacement increases, or power upgrades.  The 1.8&nbsp;litre [[multi-valve|20-valve]] [[turbocharger|Turbo]] was now available in two additional versions, with {{convert|150|PS|kW bhp|0|abbr=on|lk=on}} or {{convert|180|PS|kW bhp|0|abbr=on}}, this one with a standard six-speed [[manual gearbox]], while the naturally aspirated 1.8&nbsp;litre [[inline-four engine]] and 2.8&nbsp;litre [[V6 engine|V6]] were replaced by 2.0&nbsp;litre, and all-[[aluminium alloy]] 3.0&nbsp;litre units, still with five valves per cylinder, the most powerful of which was capable of {{convert|220|PS|kW bhp|0|abbr=on}} and {{convert|300|Nm|lbft|0|lk=on}} of torque.  The 1.9 [[Turbocharged Direct Injection]] (TDI) engine was upgraded to {{convert|130|PS|kW bhp|0|abbr=on}}, with [[Unit Injector|Pumpe Düse (Unit Injector)]] (PD) technology, and was now available with [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]], while the 2.5 [[V6 engine|V6]] TDI high-end model was introduced with {{convert|180|PS|kW bhp|0|abbr=on}} and standard quattro.  This generation of quattro consists of default of 50:50 front to rear dynamic torque distribution.  A [[Robert Bosch GmbH|Bosch]] ESP&nbsp;5.7 [[electronic stability control|Electronic Stability Programme]] (ESP) system, with [[anti-lock braking system|Anti-lock Braking System]] (ABS), [[brake assist]], and [[electronic brakeforce distribution|Electronic Brakeforce Distribution]] (EBD) were standard across the range.
+
+The Avant arrived in mid 2001.
+
+For 2002, Audi upgraded power in the 1.8 Turbo engines to {{convert|163|PS|kW bhp|0|abbr=on}} and {{convert|190|PS|kW bhp|0|abbr=on}} - the 190&nbsp;PS variant designated by a red 'T' on the boot lid, with both available with quattro, and in the 2.5 TDI intermediate version to {{convert|163|PS|kW bhp|0|abbr=on}}.  A 2.0 engine with [[gasoline direct injection|Fuel Stratified Injection]] (FSI) was also available.  A year later, Audi reintroduced the S4, now powered by a {{convert|344|PS|kW bhp|0|abbr=on}} 4.2&nbsp;L [[V8 engine]], as well as an A4 Cabriolet [[convertible]] variant ('''''Typ'' 8H'''), finally replacing the [[Audi 80|80]]-based Audi Cabriolet which had been discontinued in 1998.  It included an electro-hydraulic operated roof, which lowered in under 30 seconds, and incorporated some styling changes which eventually found their way to the saloon version (such as body-colored lower bumper and sill panels).
+
+Audi also introduced a [[continuously variable transmission]] developed by [[LuK]], named [[multitronic]], which replaced the conventional automatic transmission on [[front-wheel drive]] models.  The transmission won considerable praise from the [[automotive industry|automotive]] [[journalism|press]], and is generally regarded as being the best of its type in the world, due to its light weight and promptness in response, but its use was limited to models with a maximum of {{convert|310|Nm|lbft|0|abbr=on}} of torque.  The multitronic also requires more maintenance than either the manual or automatic transmissions - needing an oil change every {{convert|60000|km|-4|lk=on}}.
+
+Borrowing from the [[Audi A6]], the boot was redesigned to remove the extension of the top edge with a smoother fold line, and the rear light assemblies now formed part of the top line.
+
+An "ultra sport package" named 'Ultra Sport' was introduced in the North American market shortly before the B6 was replaced by the B7.  It included aluminium interior trim and door sills, [[Audi S and RS models#S line|"S line"]] steering wheel, front and rear spoilers, side skirts, and [[quattro GmbH]] designed 18" RS4 alloy roadwheels.
+
+===B6 engines===
+The following [[internal combustion engine|engines]] were available:
+{|class="wikitable" style="text-align: center"
+|-
+! [[internal combustion engine|engine]] [[engine configuration|type]] || cyl. || [[motive power|max. power]]
+|-
+|colspan="3" |'''''[[petrol engine]]s'''''<br><small>all [[fuel injection|fuel injected]]</small>
+|-
+| align="left" | 1.6 || [[inline-four engine|I4]] || {{convert|102|PS|kW bhp|0|abbr=on|lk=on}}
+|-
+| align="left" | 2.0 [[multi-valve|16v]] || I4 || {{convert|130|PS|kW bhp|0|abbr=on}}
+|-
+| align="left" | 2.0 [[gasoline direct injection|FSI]] 16v || I4 || {{convert|150|PS|kW bhp|0|abbr=on}}
+|-
+| align="left" | 1.8T 20v || I4 || {{convert|150|PS|kW bhp|0|abbr=on}} or {{convert|163|PS|kW bhp|0|abbr=on}}
+|-
+| align="left" | 1.8T 20v 'S line' || I4 || {{convert|180|PS|kW bhp|0|abbr=on}} or {{convert|190|PS|kW bhp|0|abbr=on}}
+|-
+| align="left" | 2.4 V6 30v || [[V6 engine|V6]] || {{convert|170|PS|kW bhp|0|abbr=on}}
+|-
+| align="left" | 3.0 V6 30v || V6 || {{convert|220|PS|kW bhp|0|abbr=on}}
+|-
+|colspan="3" |'''''[[diesel engine]]s'''''<br><small>all [[Turbocharged Direct Injection]] (TDI)</small>
+|-
+| align="left" | 1.9 TDI || I4 || {{convert|100|PS|kW bhp|0|abbr=on}} or {{convert|115|PS|kW bhp|0|abbr=on}} or {{convert|130|PS|kW bhp|0|abbr=on}}
+|-
+| align="left" | 2.5 V6 TDI 24v || V6 || {{convert|155|PS|kW bhp|0|abbr=on}} or {{convert|163|PS|kW bhp|0|abbr=on}} or {{convert|180|PS|kW bhp|0|abbr=on}}
+|}
+
+===B6 safety===
+The Audi A4 (B6 & B7) passed the [[Euro NCAP]] safety and crash tests, and was awarded the following car safety ratings:
+<ref name="euroncap.com/">{{Cite web|url=http://www.euroncap.com/tests/audi_a4_2001/88.aspx|title=Audi A4|accessdate=2008-06-01|work=EuroNCAP.com}}</ref>
+*[[Adult]] occupant = {{rating|4|5}}
+*[[Pedestrian]] = {{rating|1|4}} (pre 2002 rating)
+The IIHS awarded both the B6 & B7 a "Good" rating in the frontal crash test; the B7 was not retested since the front portion is structurally the same.<ref>http://www.iihs.org/ratings/rating.aspx?id=163</ref>{{-}}
+
+==B7 (''Typ'' 8E/8H, 2005–2008){{anchor|B7}}==
+{{Infobox Automobile generation
+|name          = Audi A4 (B7)
+|image         = [[Image:Audi A4 B7 front 20080318 new.jpg|250px]]<br>''Audi B7 A4 saloon''
+|aka           = 
+|production    = 2005–2008
+|predecessor   = [[#B6|Audi A4 (B6)]]
+|successor     = [[#B8|Audi A4 (B8)]]
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]],<br>5-door Avant ([[station wagon|estate/wagon]]),<br>2-door [[convertible|Cabriolet]]
+|platform      = [[Volkswagen Group B platform#B7|Volkswagen Group B7 (PL46) platform]]
+|engine        = '''''[[petrol engine]]s:'''''<br>1.6&nbsp;[[litre|L]] [[inline-four engine|I4]],<br>1.8&nbsp;L I4 20v[[turbocharger|T]],<br>1.8&nbsp;L I4 [[multi-valve|16v]] T[[gasoline direct injection|FSI]],<br>2.0&nbsp;L I4 20v,<br>2.0&nbsp;L I4 16v TSFI,<br>3.2&nbsp;L [[V6 engine|V6]] 24v FSI;<br>'''''[[diesel engine]]s:'''''<br>1.9&nbsp;L I4 [[Turbocharged Direct Injection|TDI]],<br>2.0&nbsp;L I4 TDI,<br>2.7&nbsp;L [[V6 engine|V6]] TDI,<br>3.0&nbsp;L V6 TDI
+|transmission  = 5 and 6-sp [[manual transmission|manual]],<br>6-sp [[ZF Friedrichshafen|ZF]] [[list of ZF transmissions#6-speed auto|6HP]] [[tiptronic]] [[automatic transmission|automatic]],<br>7-sp [[multitronic]] [[continuously variable transmission|CVT]]
+|wheelbase     = {{convert|2648|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4586|mm|1|abbr=on}},<br>Cabriolet: {{convert|4573|mm|1|abbr=on}}
+|width         = {{convert|1772|mm|1|abbr=on}},<br>Cabriolet: {{convert|1777|mm|1|abbr=on}}
+|height        = {{convert|1427|mm|1|abbr=on}},<br>Cabriolet: {{convert|1518|mm|1|abbr=on}}
+|weight        =
+|fuel_capacity = {{convert|66|L|impgal usgal|1|abbr=on|lk=on}}
+|related       = [[Audi S4#B7|Audi S4 (B7)]],<br>[[Audi RS4#B7|Audi RS4 (B7)]]<br>[[SEAT Exeo]]
+|designer      =
+|sp            = uk
+}}
+{{Refimprovesect|date=April 2009}}
+[[Image:Audi-A4-Avant-B7.jpg|thumb|left|200px|Audi A4 2.0T Avant (US)]]
+[[Image:Audi A4 2.0T convertible.jpg|thumb|left|200px|Audi A4 2.0T Cabriolet (US)]]
+[[Image:Audi A4 DTM Edition front.JPG|thumb|left|200px|Audi A4 DTM Edition]]
+Audi introduced a revised A4 in late 2004, with the internal designation of '''[[Volkswagen Group B platform#B7|B7]]'''.  However, this new range A4 still utilised the existing [[Volkswagen B platform#B6|Volkswagen B6 (PL46) platform]], a chassis derived from the outgoing B6, but enjoyed heavily revised [[steering]] settings, [[suspension (vehicle)|suspension]] geometry, new [[internal combustion engine]] ranges, navigation systems and chassis electronics (including a new advanced [[Robert Bosch GmbH|Bosch]] ESP&nbsp;8.0 [[electronic stability control|Electronic Stability Programme]] (ESP) system).  The front grille assembly has changed to be a tall trapezoidal shape in the same manner as the C6 (third-generation) [[Audi A6]].
+
+Audi's internal platform nomenclature uses PL46 ('''p'''assenger car '''l'''ongitudinal platform, size '''4''', generation '''6''') for both B6 and B7 chassis.  The '''''Typ'' 8E''' and '''''Typ'' 8H''' internal designations are also carried over from the B6 A4 range, but now have an additional identifying suffix - 8EC for the saloon, 8ED for the Avant, and 8HE for the Cabriolet.
+
+The engine lineup received many additions.  The 2005 introduction of [[gasoline direct injection|Fuel Stratified Injection]]  (FSI) on the 2.0 TFSI and 3.2 [[V6 engine|V6]] FSI [[petrol engine|petrol/gasoline engines]], as well as other refinements, increased power output to {{convert|200|PS|kW bhp|0|abbr=on|lk=on}} and {{convert|255|PS|kW bhp|0|abbr=on}}, respectively.  These engines both implement a [[multi-valve|four-valve per cylinder]] design.  The prior 5-valve design was incompatible with the FSI direct injection system (due to the siting of the fuel injector, now discharging directly into the [[combustion chamber]]).  The 2.0 [[Turbocharged Direct Injection]] (TDI) [[diesel engine]] now combines [[Unit Injector|Pumpe Düse (Unit Injector)]] (PD) technology with [[multi-valve|16 valves]] for the first time, while the larger 2.5 TDI V6 diesel was superseded by a 3.0 V6 TDI, offering a {{convert|204|PS|kW bhp|0|abbr=on}} model during the year 2005 which was upgraded to a {{convert|233|PS|kW bhp|0|abbr=on}} model in 2006.  A 2.7 V6 TDI was added later.
+
+[[Torsen]] T-2 based [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] remained available on most A4 models.  Audi retired its 5-speed [[manual transmission]]s in favour of a new [[Getrag]] 6-speed.  As before, [[multitronic]] [[continuously variable transmission]] (CVT), now with selectable 'seven-speeds', is available on front-wheel drive models, whilst a conventional [[ZF Friedrichshafen|ZF]] [[list of ZF transmissions#6-speed auto|6HP 6-speed]] [[tiptronic]] [[automatic transmission]] is available on the quattro [[four-wheel drive]] models.
+
+In addition to the higher-performance [[Audi S4]], which carried over the [[powertrain]] from the B6 S4 - Audi has reintroduced the ultra-high performance [[quattro GmbH]] developed [[Audi RS4]] ('''RS''' for '''''R'''enn'''S'''port'') to the lineup, for the first time on the [[sedan (automobile)|saloon/sedan]] and [[convertible|Cabriolet]] body, and with a naturally aspirated, but high-revving 4.2&nbsp;litre [[V8 engine|V8]] FSI engine.  Another notable inclusion on the RS4 is the latest generation [[Torsen]] T-3 quattro 4wd system, which uses a 'default' asymmetric 40:60 front-rear dynamic torque distribution bias.  This new asymmetric centre differential was initially only available on the RS4, but was added a year later on the S4.  The remainder of the B7 A4 range still utilised the T-2 50:50 default dynamic split centre diff.
+
+A [[special edition|limited edition]] variant, developed by [[quattro GmbH]], was first introduced in May 2005, named "Audi A4 DTM Edition".  It was inspired from Audi's race cars of the 2004 [[Deutsche Tourenwagen Masters]], and was reintroduced in 2006 as a regular option.  The 2.0T FSI engine received revised software mapping to the ECU, which increased the output to {{convert|220|PS|kW bhp|0|abbr=on}} and {{convert|300|Nm|lbft|0|abbr=on}} of torque.  It was available with front-wheel drive, or quattro four-wheel drive.
+
+The B7 Cabriolet model arrived later than the other two body variants, with sales beginning in February 2006.  New on the Cabriolet was an entry-level 2.0 TDI version, but to date, this is not being offered with the multitronic CVT gearbox.
+
+According to 2007 [[Sweden|Swedish]] vehicle inspection data, the Audi A4 Avant with [[diesel engine]] is the most reliable vehicle available on the market, with vehicle inspection rejection rate of 0.0% in 3 year old category.<ref>Tuulilasi.fi [http://www.tuulilasi.fi/valokeila/?subarea=uutiset&article=149985&page=2 Car unserviceabilities frequency sequence]</ref>  <small>(Please note that although the [[Mitsubishi Galant]] estate, [[Volkswagen Touareg]] and [[Toyota HiAce]] Traveller share the rejection rate of 0,0%, A4's result is achieved with average mileage of over {{convert|111000|km|lk=on}}, while the average mileage for other cars achieving the 0,0% rejection rate is between {{convert|71000|km|abbr=on}} and {{convert|77000|km|abbr=on}}.)</small>
+
+When its successor, the new B8 A4 range was introduced, the B7 series A4 was not destined for extinction - it was restyled and [[rebadged]] as the [[SEAT Exeo]] in 2008, with styling changes to the front and rear, also incorporating interior trim from the A4 Cabriolet.  The entire Audi B7 A4 production line from Audis [[Ingolstadt]] [[list of Volkswagen Group factories|plant]] was dismantled and sent to [[Volkswagen Group]]'s related [[SEAT]] factory in [[Martorell]], [[Spain]].<ref name="exeo">{{cite web|url=http://www.carmagazine.co.uk/Drives/Search-Results/First-drives/SEAT-Exeo-first-drive/|title=Seat Exeo (2009) CAR review|last=Kirk|first=Julian|date=2008-11-04|work=[[Car Magazine]]|accessdate=2009-01-13}}</ref>
+
+===B7 engines===
+The following [[internal combustion engine]]s were available:
+{|class="wikitable" style="text-align: center; font-size: 96%;"
+|-
+![[internal combustion engine|engine]] [[engine configuration|type]]<br>/ drive!![[power (physics)|max. power]]!![[sedan (automobile)|saloon]]!![[station wagon|Avant]]!![[convertible|Cabriolet]]!!0-{{convert|100|km/h|mph|0|abbr=on|lk=on}}<br><small>(saloon)</small>!!top speed<br><small>(saloon)</small>
+|-
+|colspan="7" align="center"  bgcolor=#C0C0C0|<big>'''''[[petrol engine]]s'''''</big><br>all [[fuel injection|fuel injected]]
+|-
+|align="left"|1.6
+|{{convert|102|PS|kW bhp|0|abbr=on|lk=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+| 
+|12.6&nbsp;[[second|sec]]
+|{{convert|120|mi/h|0|abbr=on|lk=on}}
+|-
+|align="left"|2.0
+| {{convert|130|PS|kW bhp|0|abbr=on}}
+| [[Image:black check.svg|12px]]
+| [[Image:black check.svg|12px]]
+| 
+|9.9&nbsp;sec
+|{{convert|131|mi/h|0|abbr=on}}
+|-
+|align="left"|1.8[[turbocharger|T]]
+|{{convert|163|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|8.6&nbsp;sec
+|{{convert|141|mi/h|0|abbr=on}}
+|-
+|align="left"|1.8T [[quattro (four wheel drive system)|quattro]]
+|{{convert|163|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+| 
+|8.7&nbsp;sec
+|{{convert|140|mi/h|0|abbr=on}}
+|-
+|align="left"|2.0T [[gasoline direct injection|FSI]]
+|{{convert|200|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|7.3&nbsp;sec
+|{{convert|149|mi/h|0|abbr=on}}
+|-
+|align="left"|2.0T FSI quattro
+|{{convert|200|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+| 
+|7.2&nbsp;sec
+|{{convert|147|mi/h|0|abbr=on}}
+|-
+|align="left"|2.0T FSI DTM Edition
+|{{convert|220|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|
+|7.1&nbsp;sec
+|{{convert|154|mi/h|0|abbr=on}}
+|-
+|align="left"|3.2 [[V6 engine|V6]] FSI
+|{{convert|256|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|6.8&nbsp;sec
+|155&nbsp;mph <small>(elec. limited)</small>
+|-
+|align="left"|3.2 V6 FSI quattro
+|{{convert|256|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|6.4&nbsp;sec
+|155&nbsp;mph <small>(elec. limited)</small>
+|-
+|colspan="7" align="center"  bgcolor=#C0C0C0|<big>'''''[[diesel engine]]s'''''</big><br>all [[Turbocharged Direct Injection]] (TDI)
+|-
+|align="left"|1.9 TDI
+|{{convert|115|PS|kW bhp|0|abbr=on|lk=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|
+|11.2&nbsp;[[second|sec]]
+|{{convert|124|mi/h|0|abbr=on|lk=on}}
+|-
+|align="left"|2.0 TDI
+|{{convert|140|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|9.7&nbsp;sec
+|{{convert|131|mi/h|0|abbr=on}}
+|-
+|align="left"|2.0 TDI
+|{{convert|170|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|
+|8.6&nbsp;sec
+|{{convert|141|mi/h|0|abbr=on}}
+|-
+|align="left"|2.0 TDI [[quattro (four wheel drive system)|quattro]]
+|{{convert|170|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|
+|8.5&nbsp;sec
+|{{convert|139|mi/h|0|abbr=on}}
+|-
+|align="left"|2.7 [[V6 engine|V6]] TDI
+|{{convert|180|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|8.4&nbsp;sec
+|{{convert|143|mi/h|0|abbr=on}}
+|-
+|align="left"|3.0 V6 TDI quattro
+|{{convert|233|PS|kW bhp|0|abbr=on}}
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|[[Image:black check.svg|12px]]
+|6.8&nbsp;sec
+|{{convert|153|mi/h|0|abbr=on}}
+|}
+
+===B7 safety===
+The Audi A4 offers many standard safety features, including [[Robert Bosch GmbH|Bosch]] ESP&nbsp;8.0 [[electronic stability control|Electronic Stability Programme]] (ESP) with [[anti-lock braking system|Anti-lock Braking System]] (ABS), side [[airbag]]s in the seats, 'sideguard' curtain airbags, and its optional [[quattro (four wheel drive system)|quattro]] four-wheel drive system.  It also received the [[Insurance Institute for Highway Safety]] (IIHS) "Top Safety Pick For 2007".<ref>IIHS.org [http://www.iihs.org/ratings/ratingsbyseries.aspx?id=558 IIHS-HLDI: Audi A4]</ref><ref>IIHS.org [http://www.iihs.org/ratings/tsp_archive.html TOP SAFETY PICK past winners]</ref>
+{{clr}}
+
+==B8 (''Typ'' 8K, 2008–present){{anchor|B8}}==
+{{Infobox Automobile generation
+|name          = Audi A4 (B8)
+|image         = [[Image:2009 Audi A4.jpg|250px]]<br>''2008 Audi B8 A4 saloon''
+|aka           = 
+|production    = 2008–present
+|assembly      = [[Ingolstadt, Germany]]<ref>[http://www.audi.co.uk/audi/uk/en2/about_audi_ag/production_location/germany.html Audi UK site - production info]</ref><br>[[Aurangabad, Maharashtra|Aurangabad]], [[India]] (CKD)<ref>[http://www.automobilesreview.com/auto-news/audi-starts-production-audi-a4-india/5106/ Audi A4 CKD assembled in India too]</ref>
+|predecessor   = [[#B7|Audi A4 (B7)]]
+|successor     =
+|body_style    = 4-door [[sedan (automobile)|saloon/sedan]],<br>5-door Avant ([[station wagon|estate/wagon]])
+|platform      = [[Volkswagen Group B platform#B8|Volkswagen Group B8 (MLB/MLP) platform]]
+|engine        = '''''[[petrol engine]]s:'''''<br>1.8&nbsp;[[litre|L]] [[turbocharger|T]][[gasoline direct injection|FSI]] [[inline-four engine|I4]],<br>2.0&nbsp;L TFSI I4,<br>3.2&nbsp;L [[V6 engine|V6]] FSI;<br>'''''[[diesel engine]]s:'''''<br>2.0&nbsp;L [[Turbocharged Direct Injection|TDI]] I4,<br>2.7&nbsp;L V6 TDI,<br>3.0&nbsp;L V6 TDI
+|transmission  = 6-sp [[manual transmission|manual]],<br>6-sp [[tiptronic]] [[automatic transmission|automatic]],<br>7-sp [[Direct-Shift Gearbox|S tronic]],<br>8-sp [[multitronic]] [[continuously variable transmission|CVT]]
+|wheelbase     = {{convert|2808|mm|1|abbr=on|lk=on}}<br>allroad: {{convert|2805|mm|1|abbr=on}}<br>LWB: {{convert|2869|mm|1|abbr=on}}
+|length        = {{convert|4703|mm|1|abbr=on}}<br>allroad: {{convert|4721|mm|1|abbr=on}}<br>LWB: {{convert|4763|mm|1|abbr=on}}
+|width         = {{convert|1826|mm|1|abbr=on}}<br>allroad: {{convert|1841|mm|1|abbr=on}}
+|height        = {{convert|1427|mm|1|abbr=on}}<br>Avant: {{convert|1436|mm|1|abbr=on}}<br>allroad: {{convert|1495|mm|1|abbr=on}}<br>LWB: {{convert|1426|mm|1|abbr=on}}
+|weight        =
+|fuel_capacity = FWD: {{convert|65|L|impgal usgal|1|abbr=on|lk=on}},<br>[[quattro (four wheel drive system)|quattro]]: {{convert|64|L|impgal usgal|1|abbr=on}}
+|related       = [[Audi A5]],<br>[[Audi S4#B8|Audi S4 (B8)]],<br>[[Audi Q5]]
+|designer      =
+|sp            = uk
+}}
+{{main|Audi A4 B8}}
+Audi released the first official pictures of the [[Volkswagen Group B platform#B8|B8]] series A4 in August 2007, and unveiled the car to the public at the September 2007 [[Frankfurt Motor Show]].  [[sedan (automobile)|Saloon/sedan]] and Avant ([[station wagon|estate/wagon]]) models are offered.  The Avant was unveiled to the public at the March 2008 [[Geneva Motor Show]].{{-}}
+
+==Land speed record==
+In 2009, Hohenester Sport announced its modified HS 650 Audi B7 A4 quattro had set a new world [[land speed record|speed record]] of the fastest [[biogas]]-powered car of {{convert|364.6|km/h|mph|1|abbr=on}} at the test track in cardboard castle, [[Niedersächsiches]], driven by [[Jürgen Hohenester]].  The vehicle includes a 3.0&nbsp;litre [[twin-turbo]] [[V6 engine]], with electronically limited {{convert|700|PS|kW bhp|0|abbr=on}} rating.<ref>AutoBlog.com [http://www.autoblog.com/2009/05/28/226-mph-audi-a4-beats-bugatti-to-set-world-record-for-fastest-ca/ 227 MPH Audi A4 beats Bugatti to set world record for fastest car powered by biogas]</ref>
+
+==Audi Sport A4 DTM==
+{{Refimprovesect|date=April 2009}}
+[[Audi#Motorsports|Audi Sport]] re-entered the [[Deutsche Tourenwagen Masters]] (DTM) series in 2004 (after having privateer teams run the [[Abt Sportsline]] [[Audi TT|Audi TT-R]]) with a [[V8 engine]]d [[silhouette racing car]] resembling the A4 saloon, known as the '''Audi A4 DTM'''.<ref>Audi.co.uk [http://www.audi.co.uk/audi/uk/en2/experience/Motorsport/dtm/The_Audi_A4_DTM.html The Audi A4 DTM]</ref>
+
+In the past, Audi had used a V8 engine in the series with the original [[Audi V8]] quattro, but had opted for a highly tuned V8 which Audi had no resources for.  So [[Honda]] was contacted; at the time they had been using V8s in the [[Indy Racing League]] (IRL).  Audi wanted a similar package in performance and reliability, so Honda and [[Mugen Motorsports|Mugen (M-Tec)]] got together and decided to let Audi use the Mugen/Honda MF308 V8 engine<ref>Racecar Engineering Oct 2007 - DTM: Worlds Closest Racing Saloon Series</ref>.  The only improvements made to the racing engine by Audi was shaving weight off the crankshaft, since the engine had already been designed from the ground up.  Audi Sport prepped tested/implemented/approved and raced the engine in 2004, which produced {{convert|460|PS|kW bhp|0|lk=on|abbr=on}} and over {{convert|500|Nm|ftlbf|0|lk=on|abbr=on}} of torque in 4.0 litre trim, and has been a mainstay in Audi's DTM programme.
+
+A4 DTM cars are identified by Audi Sport "R"-prefix designations.<ref>Fourtitude.com forums [http://forums.fourtitude.com/zerothread?id=3746997 Audi’s “R” numbers??]</ref>  The following variants have been produced:
+
+===R11 (2004)===
+{{Expand-section|date=July 2008}}
+The Audi R11 A4 DTM car resembled the B6 bodystyle of the Audi A4.
+
+===R12 (2005-2006)===
+{{Expand-section|date=July 2008}}
+The Audi R12 A4 DTM car resembled the 2005 B7 bodystyle of the Audi A4.  The R12 was revised for the 2006 season as the R12+.
+
+===R13 (2007)===
+The Audi R13 A4 DTM car also resembled the B7 bodystyle of the Audi A4.
+<!--  Commented out because image was deleted: [[Image:Audi_promo_dtm_free_a4.jpg]] -->
+*Engine:  4.0 Litre 90° [[V8 engine]]
+*Power:   {{convert|460|bhp|kW PS|0|lk=on|abbr=on}}
+*Torque:  over {{convert|500|Nm|ftlbf|lk=on|abbr=on}}
+*Gearbox: [[Xtrac]] or [[Hewland]] 6-speed sequential manual
+*Chassis: [[Space frame]] developed by [[Dallara]]
+*Tyres:   [[Dunlop Tyres|Dunlop]] Race Tyres
+*Front:   265/660-R18
+*Rear:    280/660-R18
+
+===R14 (2008)===
+The Audi R14 A4 DTM car resembles the latest B8 bodystyle of the Audi A4, and includes the LED daytime running lights.
+[[File:DTM Audi A4 Scheider09 amk.jpg|thumb|right|[[Timo Scheider]] driving an Audi A4 DTM 2009 in [[Hockenheimring]].]]
+*Chassis: Space frame, carbon-fibre composite driver's safety cell, carbon fibre composite front and rear crash structures must be [[FIA]]/[[DMSB]] approval safety cage
+*Engine: Custom-built [[Audi]] [[V8 engine]], 4.0 [[litre]], 90 degrees, 2x[[overhead camshaft|DOHC]], 9,000&nbsp;[[revolutions per minute|rpm]] rev-limit, 4-valves per cylinder
+*Pistons: [[Mahle GmbH|Mahle]]
+*Filter: [[Dow Automotive|Dow]]
+*Power: {{convert|460|bhp|kW PS|0|lk=on|abbr=on}}
+*Torque: over {{convert|500|Nm|ftlbf|abbr=on}}
+*ECU: [[Robert Bosch GmbH|Bosch]] MS 2.9
+*Fuel: [[Aral AG|Aral]] Ultimate 100 RON super-unleaded
+*Fuel delivery: [[Fuel injection]]
+*Lubrication: [[Castrol]], [[Royal Dutch Shell|Shell]] Helix (#13 [[Alexandre Premat]])
+*Gearbox: [[Hewland]] sequential 6-speed sports gear (controlled DTM standard)
+*Drivetrain: [[Rear-wheel drive]]
+*Clutch: [[Sandtler]] 3-plate carbon-fibre clutch
+*Grease/Radiator fluid: [[Würth]]
+*Steering: Servo assisted rack and pinion steering
+*Springs: [[Eibach Federn|Eibach]]
+*Brakes: [[AP Racing]] hydraulic dual circuit brake system, light alloy brake calipers, front and rear ventilated carbon brake discs (DTM standard), driver adjustable infinitely variable brake-balance
+*Wheels: OZ forged alumminium
+**Front: 10 x 18"
+**Rear: 11 x 18"
+*Tyres: [[Dunlop Tyres|Dunlop]] SP Sport Maxx radial slick and treaded rain tyres
+**Front: 265/660-R18
+**Rear: 280/660-R18
+*Length: {{convert|4800|mm|in|1|abbr=on}}
+*Width: {{convert|1850|mm|in|1|abbr=on}}
+*Height: {{convert|1200|mm|in|1|abbr=on}}
+*Wheelbase: {{convert|2795|mm|in|1|abbr=on}}
+*Minimum weight: {{convert|1050|kg|abbr=on}} (including driver)
+*Fuel Capacity: {{Convert|70|L|impgal usgal|1|abbr=on|lk=on}}
+*Safety equipment: [[Sabelt]] 6-point seatbelt, [[HANS Device]]
+*Ignition: [[Audi]]/[[Abt Sportsline]] [[Capacitor discharge ignition|CDI]] plug switchable on/off engine
+*Team: Audi Sport Team [[Abt Sportsline]], [[Phoenix Racing]], [[Team Rosberg]], [[Futurecom TME]]
+
+==See also==
+* [[Audi S4]]
+* [[Audi RS4]]
+* [[Volkswagen Group China]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat}}
+* [http://new-cars.audi.co.uk/audi-a4/ Audi UK - Official Audi A4 microsite]
+* [http://www.audiusa.com/audi/us/en2/new_cars/Audi_A4.html Audi USA - Official Audi A4 website]
+* [http://www.audicanada.ca/audi/ca/en2/new_cars/Audi_A4.html Audi Canada - Official Audi A4 website]
+* [http://www.audi.com.au/audi/au/en2/new_cars/a4.html Audi Australia - Official Audi A4 website]
+* [http://www.audi.co.nz/newcars/a4/a4/ Audi New Zealand - Official Audi A4 website]
+* [http://www.audi.co.za/a4/ Audi of South Africa - Official Audi A4 website]
+* [http://www.audi.co.in/audi/sea/in/new_cars/a4.html Audi India - Official Audi A4 website]
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+{{Audi vehicles timeline (North America)}}
+
+[[Category:Audi vehicles|A4]]
+[[Category:Compact executive cars]]
+[[Category:Euro NCAP large family cars]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+[[Category:Convertibles]]
+[[Category:Vehicles with CVT transmission]]
+[[Category:All wheel drive vehicles]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles introduced in 1994]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Hybrid electric cars]]
+
+[[bg:Ауди А4]]
+[[cs:Audi A4]]
+[[da:Audi A4]]
+[[de:Audi A4]]
+[[et:Audi A4]]
+[[es:Audi A4]]
+[[fr:Audi A4]]
+[[ko:아우디 A4]]
+[[hr:Audi A4]]
+[[it:Audi A4]]
+[[ka:აუდი A4]]
+[[lt:Audi A4]]
+[[hu:Audi A4]]
+[[nl:Audi A4]]
+[[ja:アウディ・A4]]
+[[no:Audi A4]]
+[[pl:Audi A4]]
+[[pt:Audi A4]]
+[[ro:Audi A4]]
+[[ru:Audi A4]]
+[[sk:Audi A4]]
+[[fi:Audi A4]]
+[[sv:Audi A4]]
+[[tr:Audi A4]]
+[[uk:Audi A4]]
+[[zh:奧迪 A4]]

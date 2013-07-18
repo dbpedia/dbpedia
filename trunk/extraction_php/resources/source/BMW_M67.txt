@@ -1,0 +1,36 @@
+The '''[[BMW]] M67''' is a [[Diesel engine|diesel]] automobile engine, used in the [[BMW 7-series]]. It was first introduced in 1998 and as of 2009, is still in production.
+
+The engine is a [[common rail]] [[turbodiesel]] [[V8 engine|V8]] design, using [[DOHC|double overhead camshafts]] and 32 valves.
+
+The 3.9 l version won the "3-4&nbsp;l" category of the [[International Engine of the Year]] award for 1999 and 2000.
+
+__NOTOC__
+{| class=wikitable
+|+'''Variants'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|rowspan=2|[[#M67D40|M67D40]]||rowspan=3|3.9&nbsp;[[Liter|l]] (3901&nbsp;[[cubic centimeter|cc]]/238&nbsp;in³)||175&nbsp;[[Watt|kW]] (234&nbsp;[[Horsepower|hp]]) @ 4000||560&nbsp;[[Newton metre|N·m]] (413&nbsp;[[foot-pound force|ft·lbf]]) @ 2000&nbsp;[[Revolutions per minute|rpm]]||rowspan=5|4700 ||1999
+|-
+|180&nbsp;kW (241&nbsp;hp) @ 4000||560&nbsp;Nm (413&nbsp;ft·lbf) @ 1750-2500||2000
+|-
+|[[#M67TUD40|M67TUD40]]||190&nbsp;kW (254&nbsp;hp) @ 4000||600&nbsp;Nm (442&nbsp;ft·lbf) @ 1900-2500||2002
+|-
+|rowspan=2|[[#M67D44|M67D44]]||rowspan=2|4.4&nbsp;l (4423&nbsp;cc/269&nbsp;in³)||220&nbsp;kW (299&nbsp;hp) @ 4000||700&nbsp;N·m (516&nbsp;ft·lbf) @ 1750-2500|| 2005 
+|-
+|242&nbsp;kW (329&nbsp;hp) @ 3800||750&nbsp;Nm (552&nbsp;ft·lbf) @ 1900-2500||2006 <ref>{{cite web | url=http://www.bmw.com/com/en/newvehicles/7series/sedan/2005/allfacts/engine_8c_diesel.html | title = BMW 7 series sedan 745d | author= BMW.com | accessdate = 2009-05-04 }} </ref>
+|}
+Applications:
+* 1998-2001 [[BMW E38|E38]] [[BMW 7-Series|7-Series]] as 740d with the 3.9 l engine
+* 2002-2005 [[BMW E65|E65]] [[BMW 7-Series|7-Series]] as 740d with the 3.9 l engine
+* 2005- [[BMW E66|E66]] [[BMW 7-Series|7-Series]] as 745d with the 4.4 l engine
+
+References
+<references/>
+
+[[Category:BMW engines|M67]]
+
+[[de:BMW M67]]
+[[it:BMW M67]]
+[[no:BMW M67]]
+[[pl:BMW M67]]

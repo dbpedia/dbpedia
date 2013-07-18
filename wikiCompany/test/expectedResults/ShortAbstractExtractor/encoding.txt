@@ -1,0 +1,1 @@
+<http://dbpedia.org/resource/encoding.txt> <http://www.w3.org/2000/01/rdf-schema#comment> "swedish: Sm\u00E5lland, deutsch: T\u00FCrschlie\u00DFanlage, francais: Fran\u00E7oise, \u00E9t\u00E9, espanol:Espa\u00F1a, degree Celsius: \u00B0C, japanese = \u30D9\u30EB\u30EA\u30F3, chinese:\u67CF\u6797"@en .

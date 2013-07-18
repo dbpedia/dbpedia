@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = sister college
+|rdfs:domain = College
+|rdfs:range = College
+}}

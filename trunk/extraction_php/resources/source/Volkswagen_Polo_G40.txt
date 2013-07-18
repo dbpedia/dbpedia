@@ -1,0 +1,75 @@
+{{refimprove|date=July 2009}}
+{{Infobox Automobile generation
+|name             = Volkswagen Polo GT G40
+|image            = [[Image:Polo GT G40.jpg|250px]]<br>''Original Volkswagen Polo Mk2 Coupé GT G40''<br>[[Image:Polo G40.jpg|250px]]<br>''1987 Volkswagen Polo Mk2F Coupé G40''
+|manufacturer     = [[Volkswagen|Volkswagen Passenger Cars]]
+|parent_company   = [[Volkswagen Group]]
+|aka              = Polo G40<br>Polo G-40<br>Polo G
+|production_start = August 1986<ref>[[ETKA]]</ref>
+|production_end   = July 1994
+|assembly         = [[Wolfsburg]], [[Germany]]
+|successor        = [[Volkswagen Polo GTI|Polo GTI]]
+|class            = [[supermini]]
+|body_style       = 3-[[vehicle door|door]] [[coupé]]/[[hatchback]]
+|layout           = [[transverse engine|Transverse]] [[front-engine design|front engine]],<br>[[front-wheel drive]]
+|platform         = [[Volkswagen Group A0 platform#A02|Volkswagen Group A02]]
+|engine           = 1.3&nbsp;[[litre|L]] [[inline-four engine|I4]] [[G-Lader]] [[supercharger]]
+|transmission     = 5-speed [[manual transmission|manual]]
+|wheelbase        = 
+|length           = 
+|width            = 
+|height           = 
+|weight           = 
+|fuel_capacity    = 
+|related          = 
+|designer         = 
+|sp               = uk
+}}
+The [[Volkswagen Polo Mk2]] and [[Volkswagen Polo Mk2#Polo Mark 2 facelift (1990-1994)|Polo Mk2F]] were available as [[G-Lader#sizes and car models|supercharged G40]] models - called the '''Volkswagen Polo G40''' (sometimes also called '''Volkswagen Polo GT G40''', '''Volkswagen Polo G-40''', or simply '''Volkswagen Polo G''').
+
+==Mk2==
+At the heart of the Polo GT G40 was its 1.3&nbsp;[[litre]] G40 [[internal combustion engine]] (engine ID code: [[list of discontinued Volkswagen Group petrol engines#1.3 G40 85kW|PY]]).   It displaced {{convert|1272|cc|1|lk=on}} from a [[bore (engine)|cylinder bore]] of {{convert|75.0|mm|3|lk=on}}, and a [[stroke (engine)|piston stroke]] of {{convert|72.0|mm|3}}.  The G40s '[[G-Lader]]' [[supercharger]] had an inlet diameter of {{convert|40|mm|in|2|abbr=on}}, hence the "G40" name.  This [[G60|G40 engine]] produced a maximum [[motive power|motive]] [[power (physics)|power]] output of {{convert|85|kW|PS bhp|0|lk=on}} at 5,500&nbsp;[[revolutions per minute]] (rpm), and generated a [[torque]] turning force of {{convert|150|Nm|0|lk=on}} at 3,500&nbsp;rpm.
+
+Stopping power included uprated front [[disc brake]]s, now radially ventilated, sized at {{convert|239|mm|1}} in diameter by {{convert|20|mm|3}} thick, with ATE single-piston sliding calipers.
+
+Standard [[wheel|roadwheels]] were 5.5Jx13H2 ET38 chrome-coloured 'Hockenheim' [[alloy wheel]]s.
+
+Performance figures indicate it could complete the standard discipline of sprinting from a standstill to {{convert|100|km/h|1|lk=on}} in 8.1&nbsp;[[second]]s, and could go on to reach a maximum speed of {{convert|196|km/h|1}}.  It was used by Volkswagen to set a number of world endurance speed records, such as the 1.3&nbsp;litre class records for speed over 24&nbsp;hours, and speed over a distance of {{convert|5000|km|0}}.
+
+There have been a number of one-make [[auto racing|race series]] for the Polo, starting with the '[[Volkswagen Polo G40 Cup]]' for Mk2 and Mk2F G60 versions.  The current Polo Cup championship for {{convert|78|kW|PS bhp|0}} cars is a support race at rounds of the [[Deutsche Tourenwagen Meisterschaft]].{{when|date=July 2009}}{{clarify|date=November 2009}}
+
+==Mk2F==
+At the time of launch of the [[Volkswagen Polo Mk2#Polo Mark 2 facelift (1990-1994)|Polo Mk2F]], the highest performance model was the Polo GT.  This featured a [[fuel injection#multi-point fuel injection|multi-point]] [[fuel injection|fuel injected]] version of the 1272&nbsp;cc engine.  This produced {{convert|56|kW|PS bhp|0|lk=on}}, and had a quoted top speed of {{convert|172|km/h|0}}.  0-60{{clarify|date=November 2009}} figures were 11.1&nbsp;seconds.  Defining features of the GT include red piping in the [[bumper (automobile)|bumpers]], black overhead cloth, a [[rev counter]] and a red "GT" badge in the [[grille]].  This was succeeded by the launch of the G40 in May 1991, displacing the GT as the most powerful Polo at the time.  The GT squareback was discontinued in 1992 due to poor sales in comparison with the coupé version.{{Citation needed|date=November 2008}}
+
+Soon after the launch of the Mk2F, another sporting model was added to the range — a new version of the supercharged G40, now as a full production model in all markets, rather than the limited batch of Mk2 G40s.  As with the previous model, Volkswagen Motorsport modified G40 Cup cars were sold for racing in a one-make series, the Volkswagen Polo G40 Cup.  Features that define the G40 from other Polo models at the time (on top of the GT) include a bee-sting aerial, [[BBS Kraftfahrzeugtechnik AG|BBS]] 5.5Jx13 cross-spoke [[alloy wheel]]s, Le Mans interior trim, and front and rear red "G40" badges.
+
+Although this version of the Polo was based on a nine-year-old design when it was launched, it sold well in most of [[Western Europe]], and was a popular choice in the [[United Kingdom]], where a large percentage of examples are still running 13&nbsp; years after they were last manufactured.  The model was replaced by the [[Volkswagen Polo GTI|Polo GTI]] in 1995 in Western Europe, and was not directly replaced in the UK until 2000.  However, the Polo Mk4 1.4 16v was the quickest Polo for the next 6&nbsp;years, followed by the GTI.
+
+==See also==
+{{commons category|Volkswagen Polo II}}
+*[[Volkswagen Polo]] - for an overview of the Polo range
+*[[G60]] - for detailed information on the [[G-Lader]] engine and subsequent [[forced induction]] developments
+
+==References==
+{{refbegin}}
+*{{cite journal|last=Sly|first=James|date=January/February 1990|title=Development of the G-60|journal=VW & Porsche magazine|pages=pg.52/53|accessdate=2009-07-23}}
+{{refend}}
+{{reflist}}
+
+==External links==
+*[http://www.Volkswagen.com Volkswagen.com] - official international portal
+*[http://www.polo2g40.de Polo2G40.de] {{de icon}}
+*[http://sleepers.no-ip.org/Clube/Volkswagen/Polo/G40/ Clube Polo G40 Portugal] - official Portuguese website with all national G40 projects
+
+{{VW}}
+{{Volkswagen (Europe) timeline 1980 to date}}
+
+[[Category:Vehicles introduced in 1986]]
+[[Category:1980s automobiles]]
+[[Category:1990s automobiles]]
+[[Category:Volkswagen vehicles|Polo G40]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Hatchbacks]]
+[[Category:Hot Hatch]]
+
+[[pt:Volkswagen Polo G40]]

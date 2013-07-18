@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = notable student
+|rdfs:domain = Scientist
+|rdfs:range = Person
+}}

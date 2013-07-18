@@ -1,0 +1,1 @@
+<http://dbpedia.org/resource/Encoding.txt> <http://dbpedia.org/property/abstract> "swedish: Sm\u00E5lland, deutsch: T\u00FCrschlie\u00DFanlage, francais: Fran\u00E7oise, \u00E9t\u00E9,\nespanol:Espa\u00F1a, degree Celsius: \u00B0C, japanese = \u30D9\u30EB\u30EA\u30F3, chinese:\u67CF\u6797"@en .

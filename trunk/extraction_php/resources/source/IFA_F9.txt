@@ -1,0 +1,46 @@
+{{Infobox Automobile| image = [[Image:IFA F9 front 20040924.jpg|250px|IFA F9]] 
+| name = IFA F9
+| manufacturer = Automobilwerk Zwickau <br> [[Automobilwerk Eisenach]]
+| production =  1949 – April 1956<br>40663 produced <ref name="motorbase.com">{{Cite web|url=http://www.motorbase.com/vehicle/by-id/1799309002/|title=IFA F9|accessdate=2008-02-29|work=motorbase.com}}</ref>
+| predecessor = [[DKW F8]]
+| successor = [[Wartburg (car)|Wartburg 311]]
+| body_style = 2  door [[sedan (car)|saloon]]<br> 2-door [[Cabriolet (automobile)|cabriolet]]<br>3-door [[station wagon|estate]]<ref name="edwfc.de">{{Cite web|url=http://www.edwfc.de/htmlALT/Modelle/Frameset01.htm|title=Modell-Palette|accessdate=2008-02-29|work=edwfc.de}}</ref>
+| engine = 910&nbsp;cc [[two stroke]] [[straight-3]] <br> 28 / 30 bhp<ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 978-3-613-02808-1}}</ref>
+| layout=[[FF layout]]
+| transmission = 4 speed manual 
+| length = {{convert|4200|mm|in||abbr=on}}<br> saloon
+| width = {{convert|1600|mm|in||abbr=on}}<br> saloon
+| height = {{convert|1450|mm|in||abbr=on}}<br> saloon
+| weight = {{convert|820|kg|lb||abbr=on}} (empty) 
+| wheelbase =  {{convert|2350|mm|in||abbr=on}}
+| track = 
+| fuel_capacity=
+| related = [[DKW F89]]
+| similar = 
+| designer = 
+}}
+
+The '''[[Industrieverband Fahrzeugbau|IFA]] F9''' was a compact [[automobile|saloon]] manufactured under the auspices of the [[Soviet occupation zone|Russian]] and [[East Germany|East German]] states between 1949 or 1950 and 1956.     It was initially built at [[Zwickau]] at the plant previously owned by [[Auto Union]].   In 1953 production was transferred to the former [[BMW]] manufacturing plant at [[Automobilwerk Eisenach|Eisenach]] where its underpinnings subsequently found their way into the [[Wartburg (car)|Wartburg 311]].
+
+==Origins==
+Mechanically the F9 derived from the [[DKW F8]] which had been available between 1939 and 1942. The body closely followed the design of the [[DKW F9]], a prototype with which [[Auto Union]] would have replaced the F8 on the Zwickau production lines earlier, had the [[Second World War|war]] not intervened. After the war, the first car assembled at Zwickau was the prewar [[DKW F8]], but the more modern F9 started to appear in 1949<ref name=AlleAutosder50er/> or 1950. Sources differ. Materials shortages probably delayed introduction in both German states, but the eastern car beat the western to the market, and certainly featured the three cylinder motor from the 1938 [[DKW F9|F9 prototype]] (rather than the two cylinder motor that had been in serial production in 1942) at least three years before [[Auto Union]] in [[Düsseldorf]] were installing it in their [[DKW F91|F91]]
+[[Image:DKW Meisterklasse 1952.JPG|250px|thumb|left|The half brother. While the Zwickau plant was producing the IFA F9, in the west [[Auto Union]] launched the [[DKW F89]] derived from the same prewar [[DKW F9]] prototype. At this stage, however, the western car was still powered by a two cylinder 684 cc engine.]]
+
+==The bodies==
+Surviving F9s appear  largely restricted to saloon versions, but various sports and cabriolet versions were also produced.   Steel for consumer industries was in short supply across many parts of Europe during this period, and the F9’s body construction increasingly involved plastic panels, especially after production was moved to Eisenach in 1953.   The car was accordingly usefully lighter than its western built [[DKW F91|Auto Union half brother]].
+
+==Technical==
+The F9 featured a three cylinder [[two stroke]] water cooled engine of 910 cc with a claimed output, at launch, of {{convert|28|bhp|abbr=on}}.   The engine was water cooled, the radiator being located behind the engine, an unusual configuration but one also found on the [[DKW F91]].   The front wheels were driven via a four speed manual gear box with a free wheel.
+
+==Sources and further reading==
+{{reflist}}
+
+*{{De| IFA F9}}
+
+[[Category:IFA vehicles]]
+[[Category:Compact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:1950s automobiles]]
+[[Category:Vehicles introduced in 1949]]
+
+[[de:IFA F9]]

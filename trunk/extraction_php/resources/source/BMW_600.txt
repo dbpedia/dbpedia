@@ -1,0 +1,60 @@
+{{Infobox Automobile
+|image=[[Image:BMW 600 (extended bubble car).jpg|250px]]
+|name=BMW 600
+|aka=
+|manufacturer=[[BMW]]
+|production=1957&ndash;1959
+|predecessor=None
+|successor=[[BMW 700]]
+|engine = 582&nbsp;cc [[flat twin]]
+|layout=[[RR layout]]
+|transmission=4-speed manual all-synchromesh<ref name=AlleAutosder50er>Alle Autos der 50er Jahre 1945 - 1960</ref>
+|length={{convert|2900|mm|in||abbr=on}} 
+|width={{convert|1400|mm|in||abbr=on}} 
+|fuel_capacity={{Convert|20|L|usgal impgal|1|abbr=on}} <br> {{Convert|3|L|usgal impgal|1|abbr=on}} reserve tank
+|height={{convert|1375|mm|in||abbr=on}} 
+|weight={{convert|515|kg|lb||abbr=on}} dry weight 
+|wheelbase={{convert|1700|mm|in||abbr=on}} 
+|related=[[Isetta|BMW Isetta]]
+|designer=WIlly Black <ref name=BavDrivMach122>Norbye, p.122</ref>
+}}
+
+The '''BMW 600''' was a [[microcar]] produced by [[BMW]] from the summer of 1957 until November 1959. It was a four-seat car partially based on the [[BMW Isetta]] two-seater, with more power, a longer [[wheelbase]], a back door, and a more conventional four-wheel configuration.
+
+==Overview==
+The front end of the 600 was similar to the Isetta's, but the 600's wheelbase was stretched to accommodate four seats. A single side door was included on the right side for rear seat access<ref name=AlleAutosder50er />. The Isetta's A-shaped tubular [[chassis]] was replaced by a more conventional perimeter frame using box-section side members and tubular [[crossmember]]s.<ref name=BavDrivMach122 /> BMW used a semi-[[trailing arm]] [[independent suspension]] for the first time on the 600. This suspension would be used on almost every new model for the next four decades. Because of the increased size and weight, the 600 had a more powerful engine than the Isetta. The 600 had the 582&nbsp;cc [[flat twin]] engine from the [[BMW R51/3|R67 motorcycle]] but used an H-pattern transaxle instead of the R67 sequential transmission without [[differential (mechanical device)|differential]]. The engine was rated at {{convert|14.5|kW|hp|abbr=on}} and accelerated the 600 to a top speed of {{convert|103|km/h|mph|abbr=on}}. The car had no [[fuel gauge]] but had two fuel taps, one lower in the tank than the other to be used as a reserve when fuel starvation with the higher tap is felt.
+
+In three years, only 34,813 BMW 600s were produced, partly due to price competition with the entry-level [[VW Beetle]]. In the late 1950s, consumers wanted cars that looked like cars, and they had lost interest in economy models. Sales of the 600 were, however, aided by the energy crisis of 1956&ndash;1957. The 600 was replaced by the [[BMW 700]] in 1959.
+
+<center><gallery>
+Image:BMW_600_Front.jpg|BMW 600 front
+Image:BMW_600_Rear.jpg|BMW 600 rear
+</gallery></center>
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=978-3-613-02808-1}}
+*{{cite book |last=Norbye |first=Jan P. |authorlink= |coauthors= |title=BMW - Bavaria's Driving Machines|year=1984 |publisher=Publications International |location=Skokie, IL |isbn=0-517-42464-9}}
+
+==External links==
+{{commonscat}}
+* [http://www.motorbase.com/vehicle/by-id/436/ Motorbase: BMW 600]
+* [http://www.microcarmuseum.com/tour/bmw600.html Microcar Museum: BMW 600 (blue)]
+* [http://www.microcarmuseum.com/tour/bmw600-yellow.html Microcar Museum: BMW 600 (yellow)]
+* [http://autos.groups.yahoo.com/group/BMW600/ BMW 600 Yahoo Group]  
+
+{{BMW early cars}}
+
+[[Category:BMW vehicles|600]]
+[[Category:Rear-engined vehicles]]
+[[Category:Vehicles with boxer engines]]
+[[Category:Vehicles introduced in 1957]]
+[[Category:Microcars]]
+
+[[de:BMW 600]]
+[[it:BMW 600]]
+[[ja:BMW・600]]
+[[pt:BMW 600]]
+[[sv:BMW 600]]

@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = inflow
+| rdfs:domain = Lake
+| rdfs:range = River
+}}

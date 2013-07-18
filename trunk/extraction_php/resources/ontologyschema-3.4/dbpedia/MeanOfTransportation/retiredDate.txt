@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = retired date
+|rdfs:domain = MeanOfTransportation
+|rdfs:range = xsd:date
+}}

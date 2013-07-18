@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" xmlns:fc="http://www.adobe.com/2006/fc">
+	<mx:Script source="CountriesData.as" />
+    <mx:Panel title="AutoComplete Example" height="75%" width="75%" layout="horizontal"
+        paddingTop="10" paddingBottom="10" paddingLeft="10" paddingRight="10">
+		<mx:VBox>
+			<mx:HBox>
+				<fc:AutoComplete id="AC" dataProvider="{myDP}" labelField="name"/>
+			    <mx:VBox width="250">
+			    <mx:Text  color="blue" text="Type the name of the country"/>
+			    <mx:Label text="Rank (Based on Density): {AC.selectedItem.rank}"/>
+			    <mx:Label text="You selected: {AC.selectedItem.name}"/>
+			    <mx:Label text="Density (Pop per km square): {AC.selectedItem.density}"/>
+			    <mx:Label text="Population: {AC.selectedItem.population}"/>
+			    <mx:Label text="Area (km square): {AC.selectedItem.area}"/>
+			    </mx:VBox>         
+			</mx:HBox>
+		    <mx:Text  text="Source:"/>
+		    <mx:Text  htmlText="{source}" color="#0033CC"/>
+		</mx:VBox>
+    </mx:Panel>    
+</mx:Application>

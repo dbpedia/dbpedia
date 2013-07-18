@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= configuration
+|rdfs:domain	= AutomobileEngine
+|rdfs:range	= engineConfiguration
+}}

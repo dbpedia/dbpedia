@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = opening date
+| rdfs:domain = Building
+| rdfs:range = xsd:date
+}}

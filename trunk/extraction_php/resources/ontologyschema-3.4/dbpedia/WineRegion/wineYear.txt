@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = wine year
+|rdfs:domain = WineRegion
+|rdfs:range = xsd:date
+}}

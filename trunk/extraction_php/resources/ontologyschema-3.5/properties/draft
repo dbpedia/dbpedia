@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = draft
+| rdfs:range = xsd:string
+}}

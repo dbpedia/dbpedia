@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= production end year
+|rdfs:domain	= MeanOfTransportation
+|rdfs:range		= xsd:gYear
+}}

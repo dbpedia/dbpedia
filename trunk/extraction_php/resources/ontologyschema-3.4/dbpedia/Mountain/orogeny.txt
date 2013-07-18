@@ -1,0 +1,4 @@
+{{ DBpediaObjectProperty
+|rdfs:label = orogeny
+|rdfs:domain = Mountain
+}}

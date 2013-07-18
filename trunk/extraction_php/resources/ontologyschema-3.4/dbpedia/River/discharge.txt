@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = discharge
+|rdfs:domain = River
+|rdfs:range = cubicMetrePerSecond
+}}

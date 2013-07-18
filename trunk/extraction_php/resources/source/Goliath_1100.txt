@@ -1,0 +1,45 @@
+{{Infobox Automobile
+|image =[[Image:GoliathHansa1100Coupé-20050827.jpg|250px|Goliath GP700]]
+| name = Goliath 1100 (till 1959)<br>Hansa 1100 (after 1959)
+| manufacturer = [[Borgward|Carl F. W. Borgward GmbH]]
+| production = 1957 – 1961 
+| predecessor =  [[Goliath GP900]]
+| successor = 
+| body_style = [[sedan (car)|2-door saloon]]<br>[[station wagon|3-door estate]]<br>[[coupé|2-door coupé]]
+| engine = 1094&nbsp;cc [[Flat-4|4 cylinder boxer motor]]
+ | layout=[[FF layout]]
+| transmission = 4 speed manual <br>all-syncromesh <br>[[Saxomat]] automatic clutch optional from 1959
+| length = {{convert|4060|mm|in||abbr=on}}
+| width = {{convert|1625|mm|in||abbr=on}}
+| height =  {{convert|1450|mm|in||abbr=on}}
+| weight =  
+| wheelbase =  {{convert|2270|mm|in||abbr=on}}<ref name=AlleAutosder50er>{{cite book |last=Gloor |first=Roger |authorlink= |coauthors= |title=Alle Autos der 50er Jahre 1945 - 1960|year=1. Auflage 2007 |publisher=Motorbuch Verlag |location=Stuttgart |id=ISBN 978-3-613-02808-1}}</ref>
+| track = 
+|fuel_capacity= 
+| related = 
+| similar = 
+| designer = 
+}}
+[[Image:Goliath 1100 Heck (ret) 2007-09-08.jpg|250px|right|thumb|The first Goliath 1100 was externally similar to the Goliath GP 900 that preceded it.  (After the 1959 name change the car acquired sharper [[tail fin]]s.)]]The '''Goliath 1100''' is a small two door saloon that was manufactured by the [[Bremen]] based [[Borgward]] subsidiary [[Goliath (car)|Goliath-Werke Borgward & Co]] between 1957 and 1961.   A three door kombi (estate) version was also available from launch and a two door coupe was offered a year later.   For 1959 the Goliath name was dropped and the car was rebadged as the Hansa 1100, recalling Borgward’s prewar model of the same name.
+
+The Goliath 1100 replaced the [[Goliath GP900]] and apart from a completely new engine,  little had changed.   In place of the GP 700’s two stroke engine, the 1100 featured a [[Flat-4|water cooled boxer motor]], an engine format taken up by [[Subaru EA engine|Subaru]] several years after the demise of the Goliath brand.
+
+==Goliath and Borgward==
+The Goliath business had been established in 1928 by the entrepreneurial engineer [[Carl F. W. Borgward|Carl Borgward]] in partnership with Wilhelm Tecklenburg.   The plant had been bombed to destruction during the [[Second World War|war]], but during the 1950s produced a succession of small [[front wheel drive]] passenger cars.   The Goliath 1100 was the last of these.
+
+==Chronology==
+The Goliath 1100 appeared at the [[Geneva Motor Show]] in March 1957<ref name=AlleAutosder50er/>.   From the outside, it was distinguished from the [[Goliath GP900|GP900]] by a more modern front grill.
+
+Later in 1957 the 40 bhp (29 kW) 1100 was joined by the 1100 Luxus version.   The cars shared the 1094 cc engine displacement, but the Luxus, courtesy of a second carburettor and a higher compression ratio, boasted an output of 55 bhp (40 kW).   A maximum speed of 135 km/h (84 mph) compared with 125 km/h (78 mph) claimed for the less powerful car.
+
+In October 1958 the Goliath 1100 was replaced by the Hansa 1100.   Hansa had been the brand name used by the business in the 1930s and 1940s.   The new Hansa 1100 used most of the same body panels, but it now featured sharper tailfins and, on the saloon version, an interestingly kinked chrome strip along the car’s flank.   An optional [[Saxomat]] automatic clutch was offered.
+
+==Sources and further reading==
+{{reflist}}
+
+[[Category:Borgward vehicles]]
+[[Category:Subcompact cars]]
+[[Category:Front wheel drive vehicles]]
+[[Category:Vehicles with boxer engines]]
+[[Category:1950s automobiles]]
+[[Category:1960s automobiles]]

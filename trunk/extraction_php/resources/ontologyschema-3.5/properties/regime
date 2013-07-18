@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = regime
+| rdfs:domain = Spacecraft
+| rdfs:range = xsd:string
+}}

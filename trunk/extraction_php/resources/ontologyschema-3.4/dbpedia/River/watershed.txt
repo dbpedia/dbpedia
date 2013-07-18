@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = watershed
+|rdfs:domain = River
+|rdfs:range = squareKilometre
+}}

@@ -1,0 +1,8 @@
+{{Class
+| rdfs:label = Canal
+| rdfs:subClassOf = River
+| specificProperties = {{SpecificProperty | ontologyProperty = originalMaximumBoatBeam | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = originalMaximumBoatLength | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = maximumBoatBeam | unit = metre }}
+                       {{SpecificProperty | ontologyProperty = maximumBoatLength | unit = metre }}
+}}

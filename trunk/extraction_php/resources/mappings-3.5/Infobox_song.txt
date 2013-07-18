@@ -1,0 +1,23 @@
+{{TemplateMapping
+| mapToClass = Song
+| mappings = 
+	{{PropertyMapping | templateProperty = Album | ontologyProperty = album }}
+	{{PropertyMapping | templateProperty = track_no | ontologyProperty = trackNumber }}
+	{{PropertyMapping | templateProperty = Writer | ontologyProperty = writer }}
+	{{PropertyMapping | templateProperty = Composer | ontologyProperty = composer }}
+	{{PropertyMapping | templateProperty = Producer | ontologyProperty = producer }}
+	{{PropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = Type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = Artist | ontologyProperty = artist }}
+	{{PropertyMapping | templateProperty = altArtist | ontologyProperty = artist }}
+	{{PropertyMapping | templateProperty = Published | ontologyProperty = publishDate }}
+	{{PropertyMapping | templateProperty = Released | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = Recorded | ontologyProperty = recordDate }}
+	{{PropertyMapping | templateProperty = Recorded | ontologyProperty = recordPlace }}
+	{{PropertyMapping | templateProperty = Genre | ontologyProperty = genre }}
+	{{PropertyMapping | templateProperty = Language | ontologyProperty = language }}
+	{{PropertyMapping | templateProperty = Length | ontologyProperty = runtime | unit = minute }}
+	{{PropertyMapping | templateProperty = Label | ontologyProperty = label }}
+	{{PropertyMapping | templateProperty = prev | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = next | ontologyProperty = subsequentWork }}
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = owning company
+| rdfs:range = Organisation
+}}

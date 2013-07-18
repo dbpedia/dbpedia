@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = subsequent infrastructure
+| rdfs:domain = Infrastructure
+| rdfs:range = Infrastructure
+}}

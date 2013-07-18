@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = population density
+| rdfs:range = PopulationDensity
+}}

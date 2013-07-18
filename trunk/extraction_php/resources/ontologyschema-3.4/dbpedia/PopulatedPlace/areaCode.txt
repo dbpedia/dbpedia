@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = area code
+|rdfs:domain = PopulatedPlace
+|rdfs:range = xsd:string
+}}

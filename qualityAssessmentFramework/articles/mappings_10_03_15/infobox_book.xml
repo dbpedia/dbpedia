@@ -1,0 +1,29 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Book
+| mappings = 
+ {{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+ {{PropertyMapping | templateProperty = title_orig | ontologyProperty = foaf:name }}
+ {{PropertyMapping | templateProperty = translator | ontologyProperty = translator }}
+ {{PropertyMapping | templateProperty = author | ontologyProperty = author }}
+ {{PropertyMapping | templateProperty = illustrator | ontologyProperty = illustrator }}
+ {{PropertyMapping | templateProperty = cover_artist | ontologyProperty = coverArtist }}
+ {{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+ {{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+ {{PropertyMapping | templateProperty = series | ontologyProperty = series }}
+ {{PropertyMapping | templateProperty = subject | ontologyProperty = subject }}
+ {{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+ &lt;!-- use dc:publisher instead -->
+ {{PropertyMapping | templateProperty = publisher | ontologyProperty = publisher }}
+ {{PropertyMapping | templateProperty = pub_date | ontologyProperty = publicationDate }}
+ {{PropertyMapping | templateProperty = english_pub_date | ontologyProperty = publicationDate }}
+ {{PropertyMapping | templateProperty = media_type | ontologyProperty = mediaType }}
+ {{PropertyMapping | templateProperty = pages | ontologyProperty = pages }}
+ {{PropertyMapping | templateProperty = isbn | ontologyProperty = isbn }}
+ {{PropertyMapping | templateProperty = oclc | ontologyProperty = oclc }}
+ {{PropertyMapping | templateProperty = dewey | ontologyProperty = dcc }}
+ {{PropertyMapping | templateProperty = congress | ontologyProperty = lcc}}
+ {{PropertyMapping | templateProperty = preceded_by | ontologyProperty = previousWork }}
+ {{PropertyMapping | templateProperty = followed_by | ontologyProperty = subsequentWork }}
+</textarea>

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = largest metro
+|rdfs:domain = City
+|rdfs:range = PopulatedPlace
+}}

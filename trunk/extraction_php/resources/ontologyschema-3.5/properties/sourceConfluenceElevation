@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = source confluence elevation
+| rdfs:range = Length
+}}

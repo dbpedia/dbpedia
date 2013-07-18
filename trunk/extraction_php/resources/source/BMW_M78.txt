@@ -1,0 +1,22 @@
+{{Infobox Automobile
+|name=BMW M78-motor
+|image=
+|manufacturer=[[BMW]]
+|production=[[1933]]&ndash;[[1934]]
+|predecessor=
+|successor=[[BMW M328]] 
+|class=[[Straight engine]]
+|engine=
+}}
+
+'''BMW M78''' is a [[reciprocating engine]] with [[straight engine|six straight cylinders]] produced by [[BMW]]. The engine has a [[Cylinder (engine)|cylinder volume]] of 1.2 litres (1&nbsp;182 ccm) and 30 effective [[horse power]] with 4&nbsp;000 revs per minute and a torque of 68 [[Newton metre|Nm]] at 2&nbsp;000 rpm.
+
+The engine was used in the [[BMW 303]] model from [[1933]], and was, among other things, equipped with a chain-driven [[camshaft]] and vertical, overlying valves. 
+
+==See also==
+* [[List of BMW engines]]
+
+[[Category:BMW engines|M78]]
+
+[[it:BMW M78]]
+[[no:BMW M78]]

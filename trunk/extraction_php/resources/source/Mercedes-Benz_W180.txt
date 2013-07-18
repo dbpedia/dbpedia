@@ -1,0 +1,137 @@
+{{Infobox Automobile
+| name = Mercedes-Benz W180
+| image = [[Image:MB220S4D.jpg|center|250px]]
+| manufacturer = [[Mercedes-Benz]]
+| production = 1954-1959 <br/> 84,645 built<ref name=Oswald4>{{cite book |last=Oswald |first=Werner |authorlink= |coauthors= |title= Deutsche Autos 1945-1990, Band 4|year=2001 |publisher=Motorbuch Verlag |location=Stuttgart |isbn=3-613-02131-5}}</ref> <br/> 220a: 25,937 <br/> 220 S Saloon: 55,279 <br/> 220 S Cabr./Coupé: 3,429
+| successor = 
+| class = [[luxury car]]
+| body_style =4-door [[sedan (car)|sedan]]<br /> 2-door [[coupe]]<br />2-door [[convertible]]
+| engine =[[straight-6]]
+}}
+: ''See [[Mercedes-Benz E-Class]] for a complete overview of all E-Class models.''
+
+The '''Mercedes-Benz W180''' is a 6-[[cylinder (engine)|cylinder]] [[sedan (car)|sedan]], [[coupé]], and [[convertible]] made from 1954 to 1959. The models associated with the W180 [[chassis]] code were the '''220a''' and '''220S'''. The latter has often been identified as the first E-Class, though Mercedes-Benz did not officially adopt the [[Mercedes-Benz E-Class|E-Class]] nameplate for its midsize line until 1984. The W180 was one in a series of Mercedes-Benz models to receive the "[[Mercedes-Benz Ponton|Ponton]]" moniker. This was in reference to the unibody-type, pontoon-shaped exterior styling which was also featured on the later [[Mercedes-Benz W128|W128]] line. 
+
+==220a (W180 I)==
+Introduced in March, 1954, the 220a was a more luxurious and up-scale version of the [[Mercedes-Benz W120|W120]] model 180 with a wheelbase stretched by {{convert|170|mm|in|abbr=on}} to accommodate the longer straight-6 engine taken from the [[Mercedes-Benz W187|W187]] model 220, that in this application delivered {{convert|85|PS|kW hp|abbr=on}}. Mechanically similar, but endowed with the shorter cabin, simpler trim and less chrome was the less pricey [[Mercedes-Benz W105|W105]] model 219. 220a production ended in April, 1956 with 25,937 units produced.
+
+==220S (W180 II)==
+The 220a was succeeded in March, 1956 by the 220S, which was externally almost identical, except for an additional chrome strip running along the front fenders and doors, but had an upgraded version of the 2.2L inline-six ({{convert|100|PS|kW hp|abbr=on}}, later {{convert|106|PS|kW hp|abbr=on}}).
+
+In July, 1956 a Cabriolet (two doors, four seats) joined the line-up, in October, 1956 a Coupé version followed suit. Some Cabriolets were finished with folding rear seats to accommodate additional luggage.
+
+Until October, 1959, 55,279 220S saloons and 3,429 Cabriolets and Coupés were built. At that time, these models were replaced by fuel-injected 220SE versions that officially bore the model code [[Mercedes-Benz W128|W128]].
+
+<br style="clear:both" />
+<div class="BoxenVerschmelzen">
+<div style="clear: both;" class="NavFrame">
+<div class="NavHead">
+<div align="left">'''Technical data Mercedes-Benz W180 <ref name="Oswald4"/>''' ''(Manufacturer's figures except where stated)''</div>
+</div>
+<div class="NavContent">
+{| class="wikitable"
+|- bgcolor="#FFDEAD"
+! width="25%"|Mercedes-Benz
+! width="25%"|220a (W180 I)
+! width="25%"|220 S (W180 II)
+! width="25%"|220 S Cabriolet/Coupé (W180 II)
+|- bgcolor="#EEEEEE"
+| Produced:&nbsp; || align="center" |1954 - 1956 || align="center" |1956 - 1959 || align="center" |1956 - 1959
+|- bgcolor="#EEEEEE"
+| Engine:&nbsp; || colspan="3" align="center" |[[I-6|6-cylinder-inline engine]] ([[four-stroke]]), front-mounted
+|- bgcolor="#EEEEEE"
+| Bore x Stroke:&nbsp; || colspan="3" align="center" |80&nbsp;mm x 72.8&nbsp;mm
+|- bgcolor="#EEEEEE"
+| Displacement:&nbsp; || colspan="3" align="center" |2195 cc
+|- bgcolor="#EEEEEE"
+| Max. Power @ rpm:&nbsp; ||  align="center" | {{convert|85|PS|kW hp|abbr=on}} @ 4800 ||  colspan="2" align="center" | {{convert|100|PS|kW hp|abbr=on}} @ 4800 <br/> from August 1957: {{convert|106|PS|kW hp|abbr=on}} @ 5200
+|- bgcolor="#EEEEEE"
+| Max. Torque @ rpm:&nbsp; || align="center" | {{convert|157|Nm|lbft|abbr=on}} @ 2400 || colspan="2" align="center" | {{convert|162|Nm|lbft|abbr=on}} @ 3500 from August 1957: {{convert|171.5|Nm|lbft|abbr=on}} @ 3500
+|- bgcolor="#EEEEEE"
+| Compression Ratio:&nbsp; || align="center" |7.6: 1 || colspan="2" align="center" |7.6: 1 <br/> from August 1957: 8.6: 1
+|- bgcolor="#EEEEEE"
+| Fuel feed:&nbsp; || align="center" | Single 2-bbl Solex 32 PAJTA || colspan="2" align="center" | Dual 2-bbl Solex 32 PAJTA
+|- bgcolor="#EEEEEE"
+| Fuel tank capacity:&nbsp; || colspan="3" align="center" |  {{Convert|64|L|usgal impgal|1|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Valvetrain:&nbsp; || colspan="3" align="center" | [[SOHC]], duplex chain 
+|- bgcolor="#EEEEEE"
+|  Cooling:&nbsp; || colspan="3" align="center" |Water
+|- bgcolor="#EEEEEE"
+| Gearbox:&nbsp; || colspan="3" align="center" | 4-speed manual w/ column shifter <br/>  rear wheel drive, standard axle ratio 4.11:1 (later 4.10:1)
+|- bgcolor="#EEEEEE"
+| Electrical system:&nbsp; || colspan="3" align="center" |  12 volt
+|- bgcolor="#EEEEEE"
+| Front suspension:&nbsp; || colspan="3" align="center" | Double wishbones, coil springs, stabilising bar
+|- bgcolor="#EEEEEE"
+| Rear suspension::&nbsp; || colspan="3" align="center" | Swing axle, radius arms, coil springs 
+|- bgcolor="#EEEEEE"
+| Brakes:&nbsp; || colspan="3" align="center" | Drum brakes (Ø 230&nbsp;mm), power assisted
+|- bgcolor="#EEEEEE"
+| Steering:&nbsp; || colspan="3" align="center" | Recirculating ball steering
+|- bgcolor="#EEEEEE"
+| Body structure:&nbsp; || colspan="3" align="center" | Sheet steel, monocoque (unibody) construction
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Dry weight:&nbsp; || align="center" |{{convert|1300|kg|lb|abbr=on}} || align="center" |{{convert|1350|kg|lb|abbr=on}} || align="center" |Cabriolet A/C: {{convert|1450|kg|lb|abbr=on}} <br/> Coupé: {{convert|1410|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Loaded weight:&nbsp; || align="center" |{{convert|1730|kg|lb|abbr=on}} || align="center" |{{convert|1790|kg|lb|abbr=on}} || align="center" |{{convert|1815|kg|lb|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Track front/<br>rear:&nbsp; || colspan="3" align="center" |{{convert|1430|mm|in|abbr=on}} / {{convert|1470|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Wheelbase:&nbsp; || colspan="2" align="center" | {{convert|2820|mm|in|abbr=on}} || align="center" | {{convert|2700|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Length:&nbsp; || align="center" | {{convert|4715|mm|in|abbr=on}} || align="center" | {{convert|4750|mm|in|abbr=on}} || align="center" | {{convert|4760|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Width:&nbsp; || align="center" | {{convert|1740|mm|in|abbr=on}} || align="center" | {{convert|1740|mm|in|abbr=on}} || align="center" | {{convert|1765|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Height:&nbsp; || align="center" | {{convert|1560|mm|in|abbr=on}} || align="center" | {{convert|1560|mm|in|abbr=on}} || align="center" | {{convert|1530|mm|in|abbr=on}}
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Tyre/Tire sizes:&nbsp; || colspan="3" align="center" | 6.70 x 13
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+|  || colspan="3" align="center" |
+|- bgcolor="#EEEEEE"
+| Top speed:&nbsp; || align="center" |{{convert|150|km/h|mph|abbr=on}} || align="center" |{{convert|160|km/h|mph|abbr=on}}|| align="center" |{{convert|160|km/h|mph|abbr=on}}
+|- bgcolor="#EEEEEE"
+| Fuel Consumption (estimate):&nbsp; || align="center" |{{convert|13.5|l/100 km|lk=off }} || align="center" |{{convert|13.5|l/100 km|lk=off }} || align="center" |{{convert|13.5|l/100 km|lk=off }}
+|- bgcolor="#EEEEEE"
+| Price Germany <br/> USA:&nbsp; || align="center" | DM 12,500 <br/> $ 4,175 <ref>US prices: Mike Covello: Standard Catalog of Imported Cars 1946-2002, Krause Publication, Iola 2002, ISBN 0-87341-605-8, p. 528-529 </ref> || align="center" | DM 12,500 <br/> $  4,494 || align="center" | DM 21,500 <br/> $  7,138
+|- bgcolor="#EEEEEE"
+|}
+</div>
+</div>
+</div>
+
+==References/Sources==
+{{Reflist}}
+
+* Werner Oswald: ''Deutsche Autos 1945-1990'', vol. 4. Motorbuch Verlag, Stuttgart 2001, ISBN 3-613-02131-5, p.&nbsp;31-38.
+
+== External links ==
+* [http://www.mbzponton.org Mercedes-Benz Ponton]
+* [http://www.mbzponton.org/valueadded/other/overview.htm#models MBZponton.org Ponton models overview]
+
+{{Classic Mercedes-Benz vehicles}}
+{{Mercedes-Benz S-Class lineage}}
+
+[[Category:Mercedes-Benz platforms|W180]]
+
+
+{{Classicpow-auto-stub}}
+
+[[de:Mercedes-Benz W 105]]
+[[it:Mercedes-Benz W180]]
+[[sv:Mercedes-Benz W180]]

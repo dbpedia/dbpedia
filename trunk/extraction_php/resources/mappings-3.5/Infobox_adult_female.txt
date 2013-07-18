@@ -1,0 +1,16 @@
+{{TemplateMapping
+| mapToClass = AdultActor
+| mappings = 
+	{{PropertyMapping | templateProperty = number of films | ontologyProperty = numberOfFilms }}
+	{{PropertyMapping | templateProperty = films | ontologyProperty = numberOfFilms }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = birth | ontologyProperty = birthDate }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = birthPlace }}
+	{{PropertyMapping | templateProperty = birthname | ontologyProperty = birthName }}
+	{{PropertyMapping | templateProperty = spouse | ontologyProperty = spouse }}
+	{{PropertyMapping | templateProperty = death | ontologyProperty = deathDate }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height }}
+	{{PropertyMapping | templateProperty = weight | ontologyProperty = weight }}
+	{{PropertyMapping | templateProperty = ethnicity | ontologyProperty = ethnicity }}
+	{{PropertyMapping | templateProperty = homepage | ontologyProperty = foaf:homepage }}
+}}

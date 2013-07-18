@@ -1,0 +1,201 @@
+The '''BMW M Roadster''' is the [[BMW M]] performance model of the [[BMW Z3]] and [[BMW Z4]] convertibles. It was produced between 1998 and 2002 and again beginning in 2006.  All models were produced in the [[Spartanburg, South Carolina]] [[BMW Manufacturing Co. Spartanburg|manufacturing facility]], though the complete M engine was imported from Germany.
+
+==Z3 M Roadster (1998-2002)==
+{{Infobox Automobile generation
+|image=[[Image:Z3mroadster.png|250px|2002 BMW Z3 M Roadster]]
+|name=First Generation [[E36/7]] M Roadster
+|aka=Z3 M Roadster, MZ3
+|manufacturer=[[BMW]]
+|production=1998&ndash;2002
+|class=[[Roadster]]
+|layout=[[FR layout]]
+|body_style=2-door [[convertible]]
+|assembly=[[United States]]
+|platform=[[E36/7]]
+|successor=Z4 M Roadster
+|designer=[[Joji Nagashima]]
+|engine=3.2 L [[inline-6]]<br> [[BMW_M50#S50B32|S50]] (1998-2000 non-US/CA)<br> [[BMW M52#S52B32|S52]] (1998-2000 US/CA)<br> [[BMW M50#S54B32|S54]] (2001-2002 world)
+|transmission =5 speed [[manual transmission|manual]]
+|wheelbase= {{convert|2459|mm|in|1|abbr=on}}
+|length= {{convert|4025|mm|in|1|abbr=on}}
+|width= {{convert|1740|mm|in|1|abbr=on}}
+|height= {{convert|1266|mm|in|1|abbr=on}}
+|weight= {{convert|1399|kg|lb|1|abbr=on}}
+|related=[[BMW Z3]]
+|similar=[[Mercedes-Benz SLK]]<br>[[Porsche Boxster]]
+}}
+The BMW [[BMW M|M]] Roadster was designed to be the performance version of the [[BMW Z3]], and there were significant differences between the two variants.  The body of the M Roadster had many slight differences.  These included front and rear bumpers, gills, rear [[Fender (vehicle)|wings]], [[Car boot|boot]] and mirrors.
+
+Under the skin many of the components were beefed up with many of them taken from the [[Bmw_m3#E30_M3|E30 M3]] and [[Bmw_m3#E36_M3|E36 M3 Evo]] including brakes and much of the suspension. Based on the [[E36]] platform, the Z3 Roadster was considered the [[E36/7]] platform. The M Roadster could run a wider track under the flared wheel arches as well as wider wheels and tires to try to tame the increased power.  Standard tyre sizes for the M Roadster is 225/45r17 at the front and 245/40r17 at the back.  The low [[Offset (wheel)|offset]] of the rear wheels allows plenty of flexibility to increase the rear tire width.  A dual exhaust system fed each set of three cylinders to two dual tailpipes.  This quad exhaust has since become an BMW [[BMW M|M]] division signature.
+
+Other changes included adding a limited slip differential, a different gearbox and strengthening the chassis.
+
+The interior had a different look to the standard Z3, starting with the M-version steering wheel and including different instrumentation such as an oil temperature gauge.
+Finally, the car was available in M-specific colors which were not released for the regular z3, at least in the early production years (not counting BMW's Individual program).
+
+Early cars featured [[Anti-lock braking system|ABS]] as standard.  Traction and stability control also became standard with the new engine.  The Z3 was [[Facelift (automobile)|facelifted]], but in common with other BMW M vehicles, the M Roadster's appearance was not updated.
+
+===Production Numbers===
+In the 5 years, from 1998 - 2002, only approximately 15,000 M Roadsters were produced for both European and North American markets.  This is compared to the several hundred thousand standard [[BMW Z3|Z3]]s produced in the same time frame.  This makes them very rare and highly desired by car and performance enthusiasts.
+
+{| class="wikitable"
+|-
+! Type
+! Spec
+! Engine
+! Dates
+! Production
+|-
+| CK91
+| European [[Left hand drive|LHD]]
+| [[BMW M50#S50B32|S50]]
+| 09/1996 - 06/2000
+| 3,557
+|-
+| CK92
+| European [[Right hand drive|RHD]]
+| [[BMW M50#S50B32|S50]]
+| 11/1997 - 06/2000
+| 918
+|-
+| CK93
+| North American [[Left hand drive|LHD]]
+| [[BMW M52#S52B32|S52]]
+| 02/1998 - 06/2000
+| 8,938
+|-
+| CL91
+| European [[Left hand drive|LHD]]
+| [[BMW M50#S54B32|S54]]
+| 02/2001 - 05/2002
+| 283
+|-
+| CL92
+| European [[Right hand drive|RHD]]
+| [[BMW M50#S54B32|S54]]
+| 02/2001 - 04/2002
+| 79
+|-
+| CL93
+| North American [[Left hand drive|LHD]]
+| [[BMW M50#S54B32|S54]]
+| 02/2001 - 05/2002
+| 1,600
+|}
+
+===Drivetrain===
+BMW M developed two versions of the original M roadster, one for the European market (in both left- and right-hand-drive) and one for the North American market. The European-spec model is fitted with the 321-hp (DIN) S50 B32 powerplant, as used in the European version of the E36 M3. North American-spec M roadsters utilize the 240-hp (SAE) S52 engine, as found in the North American iteration of the E36 M3. Both versions have identical ZF five-speed manual gearboxes, but the North American version is the only one fitted with BMW’s ASC+T traction control system (as of 9/98 production). Also, the European-spec M roadster is electronically governed to 155 mph, while the North American version is limited to 137 mph. (U.S-spec M roadsters also lack the "floating" front brake discs fitted to all other M roadsters.) 
+
+====Differences between the S50 and S52 engines====
+The North American-spec powerplant, known as the S52, is based closely on the regular production M52 engine. Like that motor, the S52 is a six-cylinder with a cast iron block, aluminum head and four valves per cylinder, with two-stage VANOS variable valve timing on the intake strokes. Unique to the S52 is a bore of 86.4&nbsp;mm and stroke of 89.6&nbsp;mm for a total displacement of 3,152cc. The engine is rated at 240 hp (SAE) at 6,000 rpm and 236 lb/ft of torque at 3,800 rpm.
+
+In addition to the larger displacement, the S52 utilizes the following special M components: 
+
+* Ported and polished cylinder head
+* Retuned VANOS variable valve timing for greater high-rpm power 
+* Heavy-duty valve springs 
+* More finely balanced camshafts 
+* Valve lifters, springs and spring seats with reduced mass 
+* Free-flowing intake and exhaust systems 
+
+The European-spec powerplant, known as the S50 B32, is a much more exotic unit. With a bore of 86.4&nbsp;mm and a stroke of 91&nbsp;mm, the S50 B32 has a total displacement of 3,201 cc. Like the S52, it has an iron block and aluminum head with four valves per cylinder. However, the S50 B32 incorporates the following special features to allow it to produce an impressive 321 hp (DIN) at 7,400 rpm and 258 lb/ft of torque at 3,250 rpm: 
+
+* Individual throttle plates for each cylinder 
+* Increased compression ratio to 11.3:1
+* Advanced BMW/Siemens MSS50 engine management system able to compute 20 million instructions per second
+* Double VANOS continuously variable valve timing on both intake and exhaust strokes
+* Lightweight pistons
+* Dual-mass flywheel
+* Graphite-coated conrods
+* Larger inlet valves
+* Second oil pump.
+
+The S54 powerplant of the later M roadsters and coupes is technically an evolution of the iron-block S50 B32 unit used in all European-spec cars built through June 2000. Although the peak power and torque of the S54 (325 hp at 7,400 rpm and 261 lb/ft of torque at 4,900 rpm) are barely increased compared to the S50 B32 (321 hp at 7,400 rpm and 258 lb/ft of torque at 3,250 rpm), they share few major components and differ in many areas including: 
+
+Increased cylinder bore to 87&nbsp;mm (from 86.1&nbsp;mm) for a new total displacement of 3,246 cc (from 3,201 cc), modified camshafts, high pressure Double VANOS continuously variable valve timing system with faster operation at high rpm, increased compression to 11.5:1 (from 11.3:1), a more advanced BMW/Siemens MSS 54 engine management control, finger-type rocker arms for reduced reciprocating mass and friction, one-piece aluminum head casting for lighter weight, and a scavenging oil pump to maintain pressure during heavy cornering  
+
+The S50 B32 unit can be identified by the "BMW M Power" inscription on its cam cover, while the S54 version contains only the "M" badge. The other major addition to the revised M roadster is an M-tuned version of Dynamic Stability Control (DSC) for all markets. An evolution of Automatic Stability Control plus Traction (ASC+T), DSC compensates for oversteer and understeer through manipulation of each individual brake as determined by sensors measuring steering angle, vehicle speed, cornering force, brake pressure and the vehicle’s rotation around its vertical axis. The system is fully integrated with the BMW/Siemens MSS 54 engine management control, and its intervention can be reduced or completely eliminated via a console-mounted button.
+
+All of the updated M roadsters sold worldwide are powered by the S54 engine, as used in the E46 M3. European-spec versions are rated at 325 hp (DIN), while North American versions produce 315 hp (SAE), which translates to about 320 hp (DIN). The small loss in power can be attributed to the more restrictive placement of the catalysts on North American-spec cars in order to improve cold-start emissions. All S54-powered M roadsters have an electronically-limited top speed of 155 mph (S52-powered M roadsters were limited to 137 mph), though the U.S.-spec model is not equipped with the two-piece floating front brake discs.
+
+===Gearbox===
+All M roadsters use the ZF Type C five-speed manual gearbox with the following ratios: 4.21 (1), 2.49 (2), 1.66 (3), 1.24 (4), 1.00 (5). The final drive is either 3.23:1 (S52) or 3.15:1 (S50 and S54). A limited slip differential with a maximum locking of 25 percent is standard.
+
+===Chassis===
+Like all Z3s, the M roadster’s suspension is made up of MacPherson struts in the front and semi-trailing arms in the rear. However, compared to the six-cylinder Z3 roadster, the M roadster has the following modifications: 
+
+Wider front and rear tracks (by 0.4 inches) Reduced ride height (by 1.1 inches) Modified front suspension geometry Firmer springs and shocks Thicker anti-roll bars Stronger semi-trailing arms Reinforced subframe 
+
+When the M roadster switched to the S54 engine (2/01 production), the chassis was upgraded to the even stiffer springs and shocks developed for the M coupe.
+
+===Brakes===
+The M roadster adopted the brakes from the contemporary E36 M3, four-wheel vented discs measuring 12.4 inches in the front and 12.3 inches in the rear. In addition, all M roadsters except those produced for the U.S. market were equipped with two-piece "floating" front discs.
+
+The U.S. market was denied the more efficient two-piece discs offered in the rest of the world because BMW of North America was concerned that, if not properly maintained, the discs presented the possibility of failing, thus creating a legal liability.  However, M roadsters produced for the Canadian market were equipped with the floating discs.
+
+===Wheels and tires===
+All M roadsters use the same size tires (225/45ZR17 in the front and 245/40ZR17 in the rear) mounted on one of two versions of the five-spoke "M RoadStar" alloy wheel. Both are sized 7.5x17-inch (front) and 9x17-inch (rear), but there are two distinct finishes: Early M roadsters (S50 and S52 engines) feature a Chromeline finish, while the later models (S54 engine) utilize a darker Chrome Shadow finish.
+
+===Cosmetics===
+The M roadster is based on the wider six-cylinder Z3 roadster body, but adds a more aggressive front fascia with brake cooling ducts in place of foglights, unique side gill vents with the M logo, chrome windshield washer nozzles (later models), curved M side-view mirrors, a lower rear bumper with four exposed exhaust tips and a relocated rear license plate (located between the taillights instead of within the bumper). NOTE: The M roadster was never updated to the reshaped rear fenders and taillights introduced on all other Z3 roadsters as part of the April, 1999 revision.
+
+The exterior of the S54-powered M roadster shares all of its body panels with that of the earlier version. Only the curved M badges and RoadStar alloy wheels with Chrome Shadow finish are unique to the newer model. It is also available in several exterior colors shared with the E46 M3: Laguna Seca Blue (448), Steel Gray metallic (400) and Phoenix Yellow metallic (445).
+
+====Cosmetics - European spec vs. U.S.spec====
+The North American-spec version of the M roadster is cosmetically very similar to the European version, but can be identified by its amber side marker lights (and turn signal lenses on cars built before September, 1998) in the front bumper, "free form" headlights in place of the ellipsoid units and twin side-mounted rear license plate illumination lights instead of the single bumper-mounted design.
+
+====Interior====
+The interior of the M roadster features several unique items including a chrome-ringed instrument cluster with red needles and the M logo, three auxiliary chrome-ringed gauges in the center console, power and heated sport seats with special pleated leather trim (monotone black or two-tone), a 375&nbsp;mm three-spoke M steering wheel with tri-color stitching, an illuminated M leather shift knob with the M logo on the shift pattern and a chrome boot surround, an oval-shaped rear-view mirror, leather door pulls and center console trim, chrome inside door handles, and door sill plates with the "M" logo.
+
+The most significant alteration to the interior of the revised M roadster is the addition of grey-faced gauges. In some markets, there is also a smaller auto-dimming rear-view mirror with chrome surround. Finally, two interior color combinations (Evergreen/Black and Kyalami Orange/Black) are discontinued on the newer model, while Laguna Seca Blue/Black and Dark Beige interiors are available.
+
+=====Interior - European spec vs. U.S. spec=====
+The interior of all M roadsters are essentially identical except for the instruments. In the main cluster, early Euro-spec cars have a 280&nbsp;km/h / 170 mph speedometer and a tachometer that reflects the S50 engine's 7,200-rpm redline, while North American models have a 160 mph / 260&nbsp;km/h speedometer and a tachometer with a redline graduated between 6,500 and 7,000 rpm to reflect the S52 engine's variable redline. In the center console, European models have an outside temperature gauge instead of the voltmeter used in North American editions.
+
+The later S54-powered M roadsters all have essentially the same grey-faced instruments, including a 280&nbsp;km/h / 170 mph speedometer and an outside temperature gauge (Fahrenheit on U.S. models, Celsius for all others).
+
+All M roadsters sold in North America are equipped with cruise control and the Harmon/Kardon audio system, optional features in some other markets.
+
+====Factory options====
+Compared to other M models, there are only slight variations in standard and optional equipment for the M roadster, depending on the market and production date. Because all M roadsters have Nappa leather upholstery, air conditioning, power seats with two-stage heating and (from 9/98) a power-folding soft top, the list of options is short. In general, it included cruise control (standard in some markets), headlight washers (not offered in the U.S.), a removable body-color hardtop and various audio systems.
+
+==Z4 M Roadster (2006-2008)==
+{{Infobox Automobile generation
+|image=[[Image:BMW M roadster front.jpg|250px|2007 BMW Z4 M Roadster]]
+|name=Second Generation [[BMW E85|E85]] M Roadster
+|aka=Z4 M Roadster
+|production=2006&ndash;2008
+|manufacturer=[[BMW]]
+|predecessor=Z3 M Roadster
+|designer=[[Anders Warming]]
+|class=[[Roadster]]
+|layout=[[FR layout]]
+|body_style=2-door [[convertible]]
+|platform     = [[BMW E85|E85]]
+|engine=3.2 L [[BMW M50#S54B32|S54]] [[inline-6]] (2007-)
+|related=[[BMW Z4]]
+}}
+BMW introduced an M version of the [[BMW E85|E85]] [[BMW Z4|Z4]] in late 2006. Called the M Roadster, it's powered by the same 3.2L, 8,000[[rpm]], ''[[BMW M50#S54B32|S54]]'' [[inline-6]] engine as the E46 series [[BMW M3|M3]], delivering 330[[horsepower|hp]] through a manual gearbox and a new 6-speed manual transmission. Other go-faster parts borrowed from the M3 include the CSL's compound (aluminum hubs, iron floating rotors) brakes and most of the M3's suspension components. Other changes include a [[hydraulic]] steering setup which provides better feel than the electric system in standard Z4 models. Weighing 3197 lb (1450&nbsp;kg), the M Roadster has been tested by major U.S. car magazines to accelerate from Zero-60 mph in 4.7 seconds, which is slightly quicker than the [[Porsche Boxster|Porsche Boxster S]] and [[Porsche Cayman|Porsche Cayman S]]. . Top speed is electronically limited to {{convert|155|mi/h|km/h|0|abbr=on}}.
+ 
+A new six-speed manual transmission is used since the M3's original six-speed doesn't fit the Z4's chassis. The six speed is the only transmission available in the M Coupe/Roadster; its final gear ratios are virtually the same as those of the M3. It is widely reported on owner forums that the 6-speed gearbox in the 2006 & 2007 M roadsters and coupes is prone to grinding when shifting from 1st to 2nd gear at high rpm. According to reports, there has been mixed response by BMW dealerships to this issue, some owners claiming to have received entirely-new gearboxes and others claiming their dealer calls the grinding "normal".
+
+The M Roadster's MSRP is $52,100. A fixed-roof version (the M Coupe) is also available, though marginally heavier. Around the Top Gear test track, the BMW set a time of 1:26.0 which is 0.8 of a second faster than the Base Corvette C6 LS2.
+
+
+The second-generation [[BMW E89|E89 Z4]] was announced on December 13, 2008,<ref name="2009pressrelease">{{cite web |url=http://www.autospies.com/images/users/Agent001/2009_Z4_Roadster_Release.pdf |title=U.S Press Information: 2009 Z4 Roadster |accessdate=2008-12-14 |date=2008-12-13 |format=PDF |work=BMW |pages=17 |language=English}}</ref> and debuted at the 2009 [[North American International Auto Show]] in [[Detroit]] the following month.  Using a retractable hardtop, the new [[BMW E89|E89 Z4]] replaces the previous roadster and coupe versions for the 2009 model year. As of February 2009, there are no official announcements in regards to the either an M Roadster or M Coupe for the [[E89]].
+
+==Awards==
+* The Z3 M Roadster was in Car and Driver's "[[Car and Driver Ten Best#1999|Ten Best]]" (1999)
+* "Design of the Year" award for the M Coupe in Automobile Magazine (1999)
+
+==References==
+<references/>
+
+==External links==
+* [http://www.bmw.com/generic/com/en/fascination/bmwm/index.html?content=automobiles/classics/roadster_1997.html BMW M "M Classics" Z3 M Roadster]
+* [http://www.z3roadster.it BMW Z3 Club]
+
+[[Category:BMW vehicles|M Roadster]]
+[[Category:Roadsters]]
+[[Category:Sports cars]]
+[[Category:Rear wheel drive vehicles]]

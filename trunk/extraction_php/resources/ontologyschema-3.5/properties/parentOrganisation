@@ -1,0 +1,5 @@
+{{ObjectProperty
+| rdfs:label = parent organisation
+| rdfs:domain = Organisation
+| rdfs:range = Organisation
+}}

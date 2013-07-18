@@ -1,0 +1,46 @@
+OAIHarvester2 version file.
+
+2008-05-20 0.1.12
+- Remove single-thread limitation from HarvesterVerb
+
+2006-06-19 0.1.10
+- Bug fix: add missing log4j configuration and log4j.properties file
+
+2006-06-19 0.1.10
+- Enhancement: Add new getSingleString to HarvesterVerb to allow applications
+to specify the node they're interested in.
+
+2006-05-26 0.1.9
+- Remove redundant BasicConfigurator
+
+2006-04-03 0.1.8
+- Fix test scripts and add xalan.jar to distribution
+
+2006-01-30 0.1.7
+- Switch references to Apache License, Version 2.0
+
+2005-11-11 0.1.6
+- URLEncode resumptionToken
+
+2005-09-22 0.1.5
+- Added no-arg constructors to verb classes to support unit testing with
+  mock objects
+- Added missing javadoc comments to verb classes
+- Cleaned up the indenting of the verb classes
+
+2005-09-13 0.1.4
+- Made the DocumentBuilders in HarvesterVerb thread-safe.
+- Fixed a problem related to incompatible versions of Xerces and Xalan.
+
+2003-10-21 0.1.3
+- Add a resumptionToken parameter to RawWrite.
+
+2003-10-20 0.1.2
+- Omit the XML declaration from OAI responses in the output file.
+- Added Log4j diagnostics.
+
+2003-10-09 0.1.1
+- Fixed a situation where multiple schemaLocation pairs occur in a single xsi:schemaLocation attribute
+
+2003-10-07 0.1
+- Initial version.

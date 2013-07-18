@@ -1,0 +1,36 @@
+{{ DBpediaTemplateMapping
+| mapToClass = LaunchPad
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = site | ontologyProperty = LaunchPad/launchSite }}
+	{{ DBpediaPropertyMapping | templateProperty = operator | ontologyProperty = LaunchPad/operator }}
+	{{ DBpediaPropertyMapping | templateProperty = tlaunches | ontologyProperty = LaunchPad/totalLaunches }}
+	{{ DBpediaPropertyMapping | templateProperty = pads | ontologyProperty = LaunchPad/numberOfPads }}
+	{{ DBpediaPropertyMapping | templateProperty = status | ontologyProperty = LaunchPad/status }}
+	{{ DBpediaPropertyMapping | templateProperty = launches | ontologyProperty = LaunchPad/launches }}
+	{{ DBpediaPropertyMapping | templateProperty = rockets | ontologyProperty = LaunchPad/associatedRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = status2 | ontologyProperty = LaunchPad/status }}
+	{{ DBpediaPropertyMapping | templateProperty = launches2 | ontologyProperty = LaunchPad/launches }}
+	{{ DBpediaPropertyMapping | templateProperty = rockets2 | ontologyProperty = LaunchPad/associatedRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = status3 | ontologyProperty = LaunchPad/status }}
+	{{ DBpediaPropertyMapping | templateProperty = launches3 | ontologyProperty = LaunchPad/launches }}
+	{{ DBpediaPropertyMapping | templateProperty = rockets3 | ontologyProperty = LaunchPad/associatedRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = minimumInclination | ontologyProperty = LaunchPad/minimumInclination }}
+	{{ DBpediaPropertyMapping | templateProperty = maximumInclination | ontologyProperty = LaunchPad/maximumInclination }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = short | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = pad1 | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = first | ontologyProperty = LaunchPad/firstLaunchRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = first | ontologyProperty = LaunchPad/firstLaunchDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last | ontologyProperty = LaunchPad/lastLaunchRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = last | ontologyProperty = LaunchPad/lastLaunchDate }}
+	{{ DBpediaPropertyMapping | templateProperty = pad2 | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = first2 | ontologyProperty = LaunchPad/firstLaunchRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = first2 | ontologyProperty = LaunchPad/firstLaunchDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last2 | ontologyProperty = LaunchPad/lastLaunchRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = last2 | ontologyProperty = LaunchPad/lastLaunchDate }}
+	{{ DBpediaPropertyMapping | templateProperty = pad3 | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = first3 | ontologyProperty = LaunchPad/firstLaunchRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = first3 | ontologyProperty = LaunchPad/firstLaunchDate }}
+	{{ DBpediaPropertyMapping | templateProperty = last3 | ontologyProperty = LaunchPad/lastLaunchRocket }}
+	{{ DBpediaPropertyMapping | templateProperty = last3 | ontologyProperty = LaunchPad/lastLaunchDate }}
+}}

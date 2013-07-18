@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = twin country
+|rdfs:domain = City
+|rdfs:range = Country
+}}

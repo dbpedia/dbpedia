@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = prospect league
+|rdfs:domain = IceHockeyPlayer
+|rdfs:range = xsd:string
+}}

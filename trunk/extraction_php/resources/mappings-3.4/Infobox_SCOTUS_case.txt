@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = SupremeCourtOfTheUnitedStatesCase
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = ArgueDate | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ArgueDateA | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ArgueDateB | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ReargueDate | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ReargueDate2 | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ReargueDateA | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ReargueDateB | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ReargueDateA2 | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = ReargueDateB2 | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/argueDate }}
+	{{ DBpediaPropertyMapping | templateProperty = DecideDate | ontologyProperty = SupremeCourtOfTheUnitedStatesCase/decideDate }}
+	{{ DBpediaPropertyMapping | templateProperty = FullName | ontologyProperty = foaf:name }}
+}}

@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = region
+| rdfs:range = PopulatedPlace
+}}

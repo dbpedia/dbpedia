@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = manager years
+|rdfs:domain = SoccerPlayer
+|rdfs:range = xsd:date
+}}

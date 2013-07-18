@@ -1,0 +1,64 @@
+{{Infobox Automobile
+|image=[[Image:MHV MB W109 300SEL6.3 01.jpg|250px|Mercedes-Benz 300SEL 6.3]]
+|name=Mercedes-Benz 300SEL 6.3
+|manufacturer=[[Daimler-Benz]]
+|production=1968&ndash;1972
+|platform=[[Mercedes-Benz W109]]
+|predecessor=
+|successor=[[Mercedes-Benz 450SEL 6.9]]
+}}
+The '''[[Mercedes-Benz]] 300 SEL 6.3''' started out as a private venture in 1966 by company engineer Erich Waxenberger, which culminated in the world's first "Super Saloon" or [[Q-car]].
+
+== Concept ==
+Waxenberger's principle was simple: Take the powerful 6.3 litre [[V8]] [[Mercedes-Benz M100 engine]] from the luxurious [[Mercedes-Benz 600]] limousine, and fit it into the regular [[Mercedes-Benz W109]] S-Class model which only had 6-cylinder engines at that time. The result was a nearly 2-tonne saloon with performance similar to most dedicated sports cars of the era. It is said that [[Rudolf Uhlenhaut]], when invited to test drive the prototype, opened the hood at the first red light to find out how the big engine and its supporting equipment had been squeezed in there.
+
+Surprisingly, the rather conservative company went ahead and launched the car into the marketplace at the [[Geneva Motor Show]] in March 1968,<ref name=Motor196803>{{cite journal| authorlink = | title = News: New V-8 Mercedes| journal = [[The Motor (magazine)|Motor]]| volume = nbr 3430| pages = page 58 |date = date 16 March 1968}}</ref>  in order to make better use of the M100 engine production facilities. The 6,500 build of the 6.3 outnumbered the 2,700 build of the 600 by far.
+
+What set this car apart from its contemporaries in the late 1960s though, was that it could cruise at over {{convert|200|km/h|mph|0|abbr=on}} with 5 occupants in complete [[ride quality|comfort]] within the body styled by [[Paul Bracq]]. Later, the company also fitted new, smaller V8 engines into the W109 series. The 300SEL 4.5 was only available in the USA, while the 280 SE 3.5 Coupé could also be ordered in Europe.
+
+In the 1970s, the [[Mercedes-Benz 450SEL 6.9]] was a successor to the 6.3, with even more modifications and power.
+
+== Features ==
+[[Image:MB W109 6 3 engine.jpg|thumb|250px|M100 engine]]
+6.3 litre [[V8]] with [[fuel injection]], 250 [[Horsepower#PS|PS DIN]], 300 [[Horsepower#hp_.28SAE.29|HP SAE]]
+
+=== Performance ===
+*0-62 mph : 7.8 seconds
+*0-100 km/h (62 mph): 7.8 seconds†
+*0-100 mph : 14.95 seconds
+*Standing 1/4 mile : 16.95 seconds
+*Top Speed : {{convert|221|km/h|mi/h|1|abbr=on}}†
+
+† Works figures
+
+=== Transmission ===
+4 speed automatic [[gearbox]]
+
+=== Other ===
+[[Air suspension]], ventilated [[disc brakes]] on all four wheels, [[power windows]], [[central locking]], [[power steering]].
+
+6,526 of these vehicles were produced, and though quite costly to maintain, they are very collectible today.
+
+== Motor racing ==
+[[Mercedes-AMG|AMG]], nowadays the sports tuning subsidiary of Mercedes-Benz, but then a small local tuning company founded by former Mercedes engineers, produced special versions of the 6.3 to compete in racing events, usually with the engine enlarged to 6.8 liters or more. The car had an impressive, but short-lived racing career, due to the lack of suitable tyres, or rule changes preventing the use of them.
+
+AMG's so-called [http://www.spiegel.de/auto/aktuell/0,1518,415796,00.html "Red pig" ] finished 2nd in the [[24 Hours of Spa]] in 1971. This heavy vehicle with 6834 cc and {{Convert|420|hp|kW|0|abbr=on}} was fast, but frequent refuelling was necessary, and tire wear was also high. The car was sold to French company [[Matra]], they used it for tests of jet fighter landing gear.
+
+== References ==
+{{reflist}}
+==External links==
+* [http://www.m-100.cc/ The International M-100 Group] (officially recognized by Daimler-Benz)
+* [http://www.w108.org Mercedes W108/W109 enthusiast site]
+* [http://personal.inet.fi/urheilu/keimola/30.htm Finnish Waxenberger in Keimola-racetrack]
+* http://www.m-100.cc/6point3/magazines/roadtest_jan1971/index.html ROAD TEST, January 1971: Mercedes Builds A Reluctant Racer 
+* [http://www.spiegel.de/auto/aktuell/0,1518,415796,00.html Renaissance der "roten Sau"]
+{{Mercedes-Benz vehicles}}
+
+{{DEFAULTSORT:Mercedes-Benz 300sel 6.3}}
+[[Category:Mercedes-Benz vehicles|300SEL 6.3]]
+[[Category:Racing cars]]
+
+[[de:Mercedes W108]]
+[[fr:Mercedes-Benz 300SEL 6.3]]
+[[no:Mercedes-Benz 300SEL 6.3]]
+[[sv:Mercedes-Benz W109]]

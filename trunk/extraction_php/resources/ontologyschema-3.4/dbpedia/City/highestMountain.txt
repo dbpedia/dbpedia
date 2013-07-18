@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = highest mountain
+|rdfs:domain = City
+|rdfs:range = Mountain
+}}

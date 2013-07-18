@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Record Label
+|rdfs:subClassOf = Company
+}}

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = inclination
+|rdfs:domain = Spacecraft
+|rdfs:range = xsd:float
+}}

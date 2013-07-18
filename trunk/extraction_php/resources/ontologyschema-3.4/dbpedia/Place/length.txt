@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = length
+|rdfs:domain = Place
+|rdfs:range = metre
+}}

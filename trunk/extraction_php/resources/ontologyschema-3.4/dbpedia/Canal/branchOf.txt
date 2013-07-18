@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = branch of
+|rdfs:domain = Canal
+|rdfs:range = Canal
+}}

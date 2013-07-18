@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = address
+|rdfs:domain = Building
+|rdfs:range = xsd:string
+}}

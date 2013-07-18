@@ -1,0 +1,41 @@
+{{Cleanup|date=July 2007}}
+[[Image:Nissan VQ35DE 005.jpg|250px|thumb|right|A [[cylinder head]] of four [[Poppet valve|valve]] engine.<br />( [[Nissan VQ engine]] )]]
+
+In [[automotive engineering]], an engine is referred to as '''multi-valve''' (or '''multivalve''') when each cylinder has more than two [[poppet valve|valves]]. Such designs have been around since at least 1912 ([[Peugeot]]) and perhaps earlier.
+
+All [[poppet valve]], four-stroke [[internal combustion engine]]s have at least two valves per cylinder — one for ''intake'' of air and fuel, and another for ''exhaust''  of combustion products. Adding more valves improves the flow of intake and exhaust gases, potentially improving combustion efficiency, power, and performance.  It is not practical to simply use two larger valves, for reasons of simple geometry (two smaller intake valves will fit side-by-side on one side of the combustion chamber, whereas a single one cannot be made much larger) and to keep the mass, and therefore inertia, of individual valves as low as possible.  Multi-valve geometry also tends to favor the spark plug being located at the top of the combustion chamber, which can be ideal for even flame propagation during combustion.  In addition, particularly as the valve begins to open, for equivalent valve/port areas multi-valve geometry allows for increased airflow.  Many use [[double overhead cam]]shafts ([[DOHC]]). However this is not always the case: [[Chevrolet]] recently showed a 3-valve version of its [[GM LS engine|Generation IV V8]] which uses [[pushrod]]s to actuate forked rockers, and [[Cummins]] makes a 4-valve pushrod [[straight-6]] [[Diesel engine|diesel]], the [[Cummins B Series engine|Cummins B Series]] (now know as ISB).
+
+Starting in 1922, many [[Bugatti]] engines used three valves per cylinder actuated by a single overhead camshaft ([[SOHC]]). Nissan has produced the 1988-96 [[Nissan KA engine|KA24E]] engine with three valves per cylinder (two intakes, one exhaust) that are also actuated by single overhead camshaft. Mercedes and Ford are currently producing V6 and V8 engines using this configuration. Ford claims an 80% improvement in high [[rpm]] breathing without the added cost of a second camshaft per bank of cylinders. The Ford design uses one spark plug per cylinder located in the center, but the Mercedes design uses two spark plugs per cylinder located on opposite sides, leaving the center free to add a direct-to-cylinder fuel injector at a later date. Thus there are many considerations to deciding how many valves an engine should have besides just the added cost versus adding breathing capability.
+
+Some versions of the [[Honda]] [[Honda F engine|F-series]] [[4 cylinder]] engines, [[Honda D engine|D-series]] [[4 cylinder]] engines, and all [[Honda J engine|J-series]] [[V6]] engines, [[Honda R engine|R-series]] [[4 cylinder]] engines, and the [[Chrysler SOHC V6 engine|Chrysler 3.5 L V6 engine]] actuate four valves per cylinder with a [[SOHC|single overhead camshaft]]. The [[V12 engine]]s of many [[World War II]] fighter aircraft also used a SOHC configuration with four valves for each cylinder.
+
+[[Mitsubishi Motors|Mitsubishi]] were the first to market an engine with five valves per cylinder, with the 548&nbsp;cc ''[[Mitsubishi 3G8 engine|3G81]]'' engine in their [[Mitsubishi Minica#Seventh generation|Minica Dangan ZZ]] [[kei car]] in 1989.<ref name="wards">{{Citation | title = A baby that sprints: tiny Mitsubishi engine blasts off with five valves | journal = Ward's Auto World | issue = April 1989 | url = http://findarticles.com/p/articles/mi_m3165/is_n4_v25/ai_7535123 | accessdate = 2007-07-28 | format = {{dead link|date=April 2009}} &ndash; <sup>[http://scholar.google.co.uk/scholar?hl=en&lr=&q=intitle%3AA+baby+that+sprints%3A+tiny+Mitsubishi+engine+blasts+off+with+five+valves&as_publication=Ward%27s+Auto+World&as_ylo=&as_yhi=&btnG=Search Scholar search]</sup> }}</ref><ref name="autospeed">[http://autospeed.drive.com.au/cms/A_2705/article.html "Mighty Minica ZZ-4"], Michael Knowling, ''Autospeed'', issue 353, [[October 19]] [[2005]]</ref> [[Volkswagen]], [[Audi]], [[Ferrari]] and [[Yamaha Motor Company|Yamaha]]/[[Toyota]] have subsequently introduced five-valve engines as well. It is arguable if five valve configuration gives any benefit over four valve designs.<ref name="autozine.org">{{Cite web|url=http://www.autozine.org/technical_school/engine/tech_engine_2.htm#3-to-5-valve|title=Multivalve Engines|accessdate=2008-02-02|work=autozine.org}}</ref>
+
+[[Maserati]] made an experimental 2.0&nbsp;L turbo-V6 engine with six valves per cylinder 1985 (three intakes, three exhaust).<ref>[http://www.maserati-alfieri.co.uk/alfieri26.htm Maserati's experimental 6-valve engine]</ref>
+
+Many engines were made with two valves per cylinder, but, starting in the late 80s, a virtual explosion of multi-valve and DOHC engines came to market. As a result, even the most basic engines today usually contain four valves per cylinder, though the two valve configuration is still popular.
+
+== Motorcycles ==
+[[Rudge-Whitworth]] introduced the 4-valve Ulster pushrod operated 500cc single cylinder machine in 1929.
+
+[[Honda]] introduced the 4-valve XL250 SOHC single cylinder engine in 1972. In 1977 Honda introduced the 3-valve SOHC CB400 twin cylinder models. [[Yamaha]] introduced the 5-valve DOHC four cylinder FZ750 in 1984.
+
+In 1978 Honda introduced the [[Honda CX series|CX500]], a V-twin with pushrod operated 4-valve cylinder heads.
+
+In the 1979 to 1992 era, Honda produced a limited number of racing and production motorcycles with 8-valve, V4 engines in 500 and 750cc displacements, the [[Honda NR|NR series]].
+
+== References ==
+{{reflist}}
+
+{{Machine configurations|state=uncollapsed}}
+
+== External links ==
+* [http://www.howautowork.com/Search_Results.html?cx=partner-pub-1034901973027528%3A7t4njrtldc3&cof=FORID%3A11&ie=ISO-8859-1&q=valve&sa=Search#1386 car valve summery and videos]
+*[http://kmoddl.library.cornell.edu/index.php Kinematic Models for Design Digital Library (KMODDL)] - Movies and photos of hundreds of working mechanical-systems models at Cornell University. Also includes an [http://kmoddl.library.cornell.edu/e-books.php e-book library] of classic texts on mechanical design and engineering.
+
+
+{{DEFAULTSORT:Multi-Valve}}
+[[Category:Engine technology]]
+[[Category:Engine valves]]
+
+[[ja:マルチバルブ]]

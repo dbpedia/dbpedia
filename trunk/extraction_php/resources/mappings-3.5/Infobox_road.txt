@@ -1,0 +1,18 @@
+{{TemplateMapping
+| mapToClass = Road
+| mappings = 
+	{{PropertyMapping | templateProperty = state | ontologyProperty = state }}
+	{{PropertyMapping | templateProperty = beltway_city | ontologyProperty = beltwayCity }}
+	{{PropertyMapping | templateProperty = counties | ontologyProperty = county }}
+	{{PropertyMapping | templateProperty = rural_municipalities | ontologyProperty = ruralMunicipality }}
+	{{PropertyMapping | templateProperty = cities | ontologyProperty = city }}
+	{{PropertyMapping | templateProperty = system | ontologyProperty = system }}
+	{{PropertyMapping | templateProperty = spur_type | ontologyProperty = spurType }}
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = route | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = alternate_name | ontologyProperty = otherName }}
+	{{PropertyMapping | templateProperty = length_mi | ontologyProperty = length | unit = mile }}
+	{{PropertyMapping | templateProperty = length_km | ontologyProperty = length | unit = kilometre }}
+	{{PropertyMapping | templateProperty = previous_route | ontologyProperty = previousInfrastructure }}
+	{{PropertyMapping | templateProperty = next_route | ontologyProperty = subsequentInfrastructure }}
+}}

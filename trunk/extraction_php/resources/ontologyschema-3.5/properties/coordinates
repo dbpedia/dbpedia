@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = coordinates
+| rdfs:range = xsd:string
+}}

@@ -1,0 +1,81 @@
+{{Infobox Automobile
+| image           = 
+| name            = Volkswagen Delivery
+| manufacturer    = [[Volkswagen Truck and Bus]]
+| parent_company  = [[MAN SE|MAN AG]]
+| aka             =
+| production      = 
+| assembly        = 
+| predecessor     = 
+| successor       = 
+| class           = 
+| body_style      = 
+| layout          = [[Front-engine design|front engine]],<br>[[rear-wheel drive]]
+| wheelbase       = 
+| engine          = 
+| transmission    = 
+| related         = 
+| designer        = 
+}}
+
+The 5 to 8 tonne ([[Gross vehicle weight|GVW]]) '''Volkswagen Delivery''' truck built by [[Volkswagen Truck and Bus]] is the vehicle that bridges the gap between the Volkswagen Light Commercial Vehicle Range, [[Volkswagen Caddy|Caddy]], [[Volkswagen Eurovan|T5 Range (Transporter/Multivan/California)]], and [[Volkswagen Crafter|Crafter]], and the Heavy Truck & Bus Range.
+
+The Delivery trucks gets its name from its vocation of urban and rural pickup and deliveries.
+
+Powered by 140hp & 150hp  MWM Euro III compliant [[Diesel engine]]s.<ref>Press Release [http://www.vwtbpress.com.br/noticia.asp?n=235 Volkswagen Trucks and Buses 2006 line: high technology at the consumer’s reach]</ref>
+
+==Specs & Range==
+* 5.140
+* 8.150
+
+{| class="wikitable"
+|Light Trucks
+|-
+! Model
+! Engine Make/Capacity
+! Power kW@rpm
+! Torque Nm@rpm
+! Transmission
+Make/Type/Speed
+
+! GVM (kg)
+Technical
+Capacity
+
+! GCM (kg)
+Technical
+Capacity
+
+|-
+| 5.140
+| MWM 4.08 TCE-EURO III
+| 101 @ 3400
+| 400 @ 1700 - 2200
+| Eaton FS 2305 C Manual 5 Speed
+| 5500
+| 8000
+|-
+| 8.150
+| MWM 4.08 TCE-EURO III 
+| 105 @ 3400
+| 400 @ 1700 - 2200
+| Eaton - FSO 4405 C Manual 5 Speed
+| 7850
+| 8000 
+|}
+
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.vwtrucksandbuses.com/en/vehicles_delivery.aspx Volkswagen Delivery International portal]
+*[http://www.vwtbpress.com.br Volkswagen Caminhões e Ônibus (Volkswagen Trucks and Buses) - press site] (English/Brazilian)
+
+
+{{Volkswagen Truck and Bus}}
+
+[[Category:Volkswagen vehicles|Delivery]]
+[[Category:Trucks]]
+
+[[pt:Volkswagen Delivery]]

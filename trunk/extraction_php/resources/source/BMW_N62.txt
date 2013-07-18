@@ -1,0 +1,89 @@
+{{Infobox Automobile
+|image=[[Image:BMW N62B48B Engine.JPG|250px]]
+|name=BMW N62
+|manufacturer=[[BMW]]
+|production=2002&ndash;
+|class=[[DOHC]] 90° [[V8]]
+|predecessor=[[BMW M62]]
+|engine=3.6&nbsp;L (3600&nbsp;cc/219&nbsp;in³)<br>4.0&nbsp;L (4000&nbsp;cc/244&nbsp;in³)<br>4.4&nbsp;L (4398&nbsp;cc/268&nbsp;in³)<br>4.8&nbsp;L (4799&nbsp;cc/292&nbsp;in³)
+|similar=[[Jaguar AJ-V8 engine|Jaguar AJ-V8]]<br>[[Ford Modular engine|Ford Modular V8]]<br>[[Ford Yamaha V8 engine|Ford/Yamaha V8]]<br>[[GM Premium V engine|GM Premium V]]<br>[[Mercedes-Benz M113 engine|Mercedes-Benz M113/M155]]<br>[[BMW M62]]<br>[[Toyota UZ engine|Toyota UZ]]<br>[[Nissan VH engine|Nissan VH]]<br>[[Nissan VK engine|Nissan VK]]
+}}
+The '''N62''' is a [[V8]] from [[BMW]], built in [[Munich, Germany]].  It has an [[Alusil]] aluminum engine block and aluminum DOHC cylinder heads.
+
+It uses SFI [[fuel injection]], has 4 valves per cylinder with [[BMW]]'s double-[[VANOS]] and [[Valvetronic]] technologies and features fracture-split forged powdered metal connecting rods.
+
+In the [[International Engine of the Year]] awards in 2002, the N62 won overall as well as claiming the "Best New Engine" and "Above 4-litre" categories.
+__NOTOC__
+{| class=wikitable
+|+'''Models'''
+|-
+!Engine!!Displacement!!Power!!Torque!!Redline!!Year
+|-
+|[[#N62B36|N62B36]]||3.6&nbsp;L (3600&nbsp;cc/219&nbsp;in³)||200&nbsp;kW (272&nbsp;hp) @ 6200||360&nbsp;N·m (262&nbsp;ft·lbf) @ 3700||6500||2001
+|-
+|[[#N62B40|N62B40]]||4.0&nbsp;L (4000&nbsp;cc/244&nbsp;in³)||225&nbsp;kW (306&nbsp;hp) @ 6300||390&nbsp;N·m (288&nbsp;ft·lbf) @ 3500||6500||2005
+|-
+|rowspan=2|[[#N62B44|N62B44]]||rowspan=2|4.4&nbsp;L (4398&nbsp;cc/268&nbsp;in³)||235&nbsp;kW (319&nbsp;hp) @ 6100||440&nbsp;N·m (325&nbsp;ft·lbf) @ 3700||6500||2004
+|-
+|245&nbsp;kW (333&nbsp;hp) @ 6100||450&nbsp;N·m (332&nbsp;ft·lbf) @ 3600||6500||2002
+|-
+|rowspan=2|[[#N62B48|N62B48]]||rowspan=2|4.8&nbsp;L (4799&nbsp;cc/292&nbsp;in³)||265&nbsp;kW (360&nbsp;hp) @ 6200||500&nbsp;N·m (369&nbsp;ft·lbf) @ 3500||6500||2004
+|-
+|270&nbsp;kW (367&nbsp;hp) @ 6300||490&nbsp;N·m (361&nbsp;ft·lbf) @ 3400||6500||2005
+|}
+
+==N62B36==
+The '''N62B36''' is a 3.6&nbsp;L (3600&nbsp;cc) version producing 200&nbsp;kW (272&nbsp;hp) at 6200 rpm and 360&nbsp;N·m (266&nbsp;ft·lbf) of torque at 3700 rpm. Bore is 84&nbsp;mm and stroke is 81.2&nbsp;mm.
+
+Applications:
+* 2002-2003 [[BMW E65|E65/E66]] [[BMW 7-Series|735i/735Li]]
+
+==N62B40==
+The '''N62B40''' is a 4.0&nbsp;L (4000&nbsp;cc/244&nbsp;in³) version producing 225&nbsp;kW (306&nbsp;hp) at 6300 rpm and 390&nbsp;N·m (288&nbsp;ft·lbf) at 3500 rpm. Bore is 87&nbsp;mm and stroke is 84.1&nbsp;mm.
+
+Applications:
+* [[BMW E60|E60/E61]] [[BMW 5-Series|540i Sedan and Touring (Only in Europe)]]
+* [[BMW E65|E65/E66]] [[BMW 7-Series|740i/740Li]]
+
+==N62B44==
+The '''N62B44''' is a 4.4&nbsp;L (4398&nbsp;cc) version.  Bore is 92&nbsp;mm and stroke is 82.7&nbsp;mm.  There are two versions, one producing 235&nbsp;kW (319&nbsp;hp) at 6100 rpm and 440&nbsp;N·m (325&nbsp;ft·lbf) at 3700 rpm and the other 245&nbsp;kW (333&nbsp;hp) at 6100 rpm and 450&nbsp;N·m (332&nbsp;ft·lbf) at 3600 rpm.
+
+Applications:
+* 235&nbsp;kW (319&nbsp;hp) and 440&nbsp;N·m (325&nbsp;ft·lbf)
+** 2004-2006 [[BMW E53|E53]] [[BMW X5|X5 4.4i]]
+
+* 245&nbsp;kW (333&nbsp;hp) and 450&nbsp;N·m (332&nbsp;ft·lbf)
+** 2002-2005 [[BMW E65|E65/E66]] [[BMW 7-Series|745i/745Li]]
+** 2004-2005 [[BMW E60|E60/E61]] [[BMW 5-Series|545i]]
+** 2004-2005 [[BMW E63|E63/E64]] [[BMW 6-Series|645Ci]]
+** 2005-2007 [[Morgan Aero 8]]<ref>http://www.autosite.com/content/research/buyersguide/index.cfm/action/viewGuide/year_si/2005/make_vch/Morgan/model_vch/Aero%208/xml/2005-morgan-aero-8.xml</ref>
+
+==N62B48==
+The '''N62B48''' comes in two versions, both displacing 4.8&nbsp;L (4799&nbsp;cc/292&nbsp;in³).  The first is a 265&nbsp;kW (360&nbsp;hp)/500&nbsp;N·m (369&nbsp;ft·lbf) used in the [[BMW X5|BMW X5 4.8iSA]], while a different tune is used for the 270&nbsp;kW (367&nbsp;hp)/490&nbsp;N·m (361&nbsp;ft·lbf) version. Bore is 93&nbsp;mm and stroke is 88.3&nbsp;mm.
+
+Applications:
+* 265&nbsp;kW (360&nbsp;hp) and 500&nbsp;N·m (369&nbsp;ft·lbf)
+** 2005-2006 [[BMW E53|E53]] [[BMW X5|X5 4.8iSA SAV]]
+* 270&nbsp;kW (367&nbsp;hp) and 490&nbsp;N·m (361&nbsp;ft·lbf)
+** 2006-2008 [[BMW E65|E65/E66]] [[BMW 7 Series|750i/750Li]]
+** 2006-Present [[BMW E60|E60/E61]] [[BMW 5 Series|550i Sedan and Touring]]
+** 2006-Present [[BMW E63|E63/E64]] [[BMW 6 Series|650i Coupè and Convertible]]
+** 2007-Present [[BMW E70|E70]] [[BMW X5|X5 4.8i SAV]]
+** 2003-Present [[Wiesmann|Wiesmann GT MF 4]]
+** 2008-Present [[Morgan Aero 8]]
+
+==See also==
+* [[BMW M62]]
+* [[List of BMW engines]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Bmw N62}}
+[[Category:BMW engines|N62]]
+
+[[de:BMW N62]]
+[[it:BMW N62]]
+[[nl:BMW N62]]
+[[no:BMW N62]]
+[[pl:BMW N62]]

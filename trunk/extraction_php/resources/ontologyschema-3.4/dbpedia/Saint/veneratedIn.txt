@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = venerated in
+|rdfs:domain = Saint
+|rdfs:range = Organisation
+}}

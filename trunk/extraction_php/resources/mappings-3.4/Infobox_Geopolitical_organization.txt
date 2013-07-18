@@ -1,0 +1,81 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Organisation
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = national_anthem | ontologyProperty = GeopoliticalOrganisation/anthem }}
+	{{ DBpediaPropertyMapping | templateProperty = royal_anthem | ontologyProperty = GeopoliticalOrganisation/anthem }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnic_groups_year | ontologyProperty = GeopoliticalOrganisation/ethnicGroupsInYear }}
+	{{ DBpediaPropertyMapping | templateProperty = government_type | ontologyProperty = GeopoliticalOrganisation/governmentType }}
+	{{ DBpediaPropertyMapping | templateProperty = currency | ontologyProperty = GeopoliticalOrganisation/currency | unit = Currency }}
+	{{ DBpediaPropertyMapping | templateProperty = native_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = conventional_long_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = common_name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = national_motto | ontologyProperty = Organisation/motto }}
+	{{ DBpediaPropertyMapping | templateProperty = capital | ontologyProperty = Organisation/budget | unit = Currency}}
+	{{ DBpediaPropertyMapping | templateProperty = largest_city | ontologyProperty = GeopoliticalOrganisation/largestCity }}
+	{{ DBpediaPropertyMapping | templateProperty = largest_settlement | ontologyProperty = GeopoliticalOrganisation/largestSettlement }}
+	{{ DBpediaPropertyMapping | templateProperty = largest_settlement_type | ontologyProperty = GeopoliticalOrganisation/largestSettlementType }}
+	{{ DBpediaPropertyMapping | templateProperty = official_languages | ontologyProperty = Organisation/language }}
+	{{ DBpediaPropertyMapping | templateProperty = regional_languages | ontologyProperty = Organisation/language }}
+	{{ DBpediaPropertyMapping | templateProperty = languages_type | ontologyProperty = GeopoliticalOrganisation/languageType }}
+	{{ DBpediaPropertyMapping | templateProperty = languages | ontologyProperty = Organisation/language }}
+	{{ DBpediaPropertyMapping | templateProperty = ethnic_groups | ontologyProperty = GeopoliticalOrganisation/ethnicGroup }}
+	{{ DBpediaPropertyMapping | templateProperty = demonym | ontologyProperty = GeopoliticalOrganisation/demonym }}
+	
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name1 | ontologyProperty =	PersonFunction/person}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title1 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name1 | ontologyProperty = PersonFunction/personName}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title1 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name2 | ontologyProperty =	PersonFunction/person}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title2 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name2 | ontologyProperty = PersonFunction/personName}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title2 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name3 | ontologyProperty =	PersonFunction/person}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title3 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name3 | ontologyProperty = PersonFunction/personName}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title3 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name4 | ontologyProperty =	PersonFunction/person}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title4 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name4 | ontologyProperty = PersonFunction/personName}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title4 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name5 | ontologyProperty =	PersonFunction/person}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title5 | ontologyProperty = PersonFunction/title}}}} 
+	{{ DBpediaIntermediateNodeMapping | nodeClass = PersonFunction |
+	correspondingProperty = Organisation/leaderFunction | mappings =
+	{{DBpediaPropertyMapping | templateProperty = leader_name5 | ontologyProperty = PersonFunction/personName}} 
+	{{DBpediaPropertyMapping | templateProperty = leader_title5 | ontologyProperty = PersonFunction/title}}}} 
+	
+	{{ DBpediaPropertyMapping | templateProperty = established_event1 | ontologyProperty = GeopoliticalOrganisation/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date1 | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date1 | ontologyProperty = Organisation/formationYear }}
+	{{ DBpediaPropertyMapping | templateProperty = established_event2 | ontologyProperty = GeopoliticalOrganisation/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date2 | ontologyProperty = Organisation/formationDate  }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date2 | ontologyProperty = Organisation/formationYear  }}
+	{{ DBpediaPropertyMapping | templateProperty = established_event9 | ontologyProperty = GeopoliticalOrganisation/establishedTitle }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date9 | ontologyProperty = Organisation/formationDate  }}
+	{{ DBpediaPropertyMapping | templateProperty = established_date9 | ontologyProperty = Organisation/formationYear  }}
+	{{ DBpediaPropertyMapping | templateProperty = area_magnitude | ontologyProperty = GeopoliticalOrganisation/areaMagnitude | unit = squareMetre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_km2 | ontologyProperty = GeopoliticalOrganisation/areaMetro | unit = squareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = area_sq_mi | ontologyProperty = GeopoliticalOrganisation/areaMetro | unit = squareMile }}
+	{{ DBpediaPropertyMapping | templateProperty = percent_water | ontologyProperty = GeopoliticalOrganisation/percentageOfAreaWater }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_km2 | ontologyProperty = GeopoliticalOrganisation/populationDensity | unit = inhabitantsPerSquareKilometre }}
+	{{ DBpediaPropertyMapping | templateProperty = population_density_sq_mi | ontologyProperty = GeopoliticalOrganisation/populationDensity | unit = inhabitantsPerSquareMile }}
+	{{ DBpediaGeocoordinatesMapping | latitudeDegrees = latd  | latitudeMinutes = latm  | latitudeDirection = latNS  | longitudeDegrees = longd  | longitudeMinutes = longm  | longitudeDirection = longEW }}
+}}

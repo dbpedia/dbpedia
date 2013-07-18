@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = FootballTeam
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = city | ontologyProperty = FootballTeam/city }}
+	{{ DBpediaPropertyMapping | templateProperty = owner | ontologyProperty = FootballTeam/owner }}
+	{{ DBpediaPropertyMapping | templateProperty = chairman | ontologyProperty = FootballTeam/chairman }}
+	{{ DBpediaPropertyMapping | templateProperty = president | ontologyProperty = FootballTeam/president }}
+	{{ DBpediaPropertyMapping | templateProperty = general manager | ontologyProperty = FootballTeam/generalManager }}
+	{{ DBpediaPropertyMapping | templateProperty = coach | ontologyProperty = FootballTeam/coach }}
+	{{ DBpediaPropertyMapping | templateProperty = team_owners | ontologyProperty = FootballTeam/teamOwner }}
+	{{ DBpediaPropertyMapping | templateProperty = team_ presidents | ontologyProperty = FootballTeam/teamPresident }}
+	{{ DBpediaPropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = founded | ontologyProperty = Organisation/formationDate }}
+	{{ DBpediaPropertyMapping | templateProperty = nicknames | ontologyProperty = SportsTeam/nickname }}
+}}

@@ -1,0 +1,389 @@
+{{Infobox Automobile
+|image          = [[Image:Audi A6 C6 Facelift 20090712 front.JPG|250px]]<br />''2008 Audi A6 saloon''
+|name           = Audi A6
+|manufacturer   = [[Audi|Audi AG]]
+|parent_company = [[Volkswagen Group]]
+|production     = [[Audi A6#C4|C4]]: 1994 - 1997,<br />[[Audi A6#C5|C5]]: 1998 - 2004,<br />[[Audi A6#C6|C6]]: 2005 - present
+|predecessor    = [[Audi 100]]
+|assembly       = [[Neckarsulm]], [[Germany]]
+|class          = [[Executive car]]
+|body_style     = 4-door [[sedan (automobile)|saloon/sedan]],<br />5-door Avant ([[station wagon|estate/wagon]])
+|layout         = [[longitudinal engine|longitudinal]] [[front-engine design|front engine]],<br />[[front-wheel drive]], or<br />[[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]]
+|platform       = [[Volkswagen Group C platform]] series
+|related        = [[Audi S6]]<br />[[Audi RS6]]
+|sp             = uk
+}}
+The '''Audi A6''' is an [[executive car]] produced by the [[Germany|German]] [[automaker]] [[Audi]].  It is available in both [[sedan (automobile)|saloon]], and Avant (Audi's term for an [[station wagon|estate]]) [[car body style|body styles]]. 
+
+All generations of the A6, were available as either [[front-wheel drive]], or with Audi's trademark [[Torsen]]-based [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] (4WD) system.
+
+The second and third generation A6 were also used as the basis for the "[[Audi A6 allroad quattro|Audi allroad quattro]]" and "A6 allroad quattro" models respectively.
+__TOC__
+{{clr}}
+
+==C4 (''Typ'' 4A, 1994-1997){{anchor|C4}}==
+{{Infobox Automobile generation
+|name          = Audi A6 (C4) 
+|image         = [[Image:Audi A6 C4 front 20081202.jpg|250px]]<br />''Audi A6 (C4)''
+|production    = 1994-1997
+|predecessor   = [[Audi 100#C3|Audi 100 (C3)]]
+|successor     = [[Audi A6#C5|Audi A6 (C5)]]
+|platform      = [[Volkswagen Group C platform#C4|Volkswagen Group C4 platform]]
+|engine        = 1.8&nbsp;L [[turbocharger|Turbo]] [[I4 engine|I4]]<br />2.4&nbsp;L [[V6 engine|V6]]<br />2.8&nbsp;L V6<br />1.9&nbsp;L [[Turbocharged Direct Injection|TDI]] I4<br />2.5&nbsp;L TDI [[I5 engine|I5]]
+|transmission  = 5-speed [[manual transmission|manual]]<br />6-speed manual<br />4-speed [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2760|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4796|mm|1|abbr=on}}
+|width         = {{convert|1810|mm|1|abbr=on}}
+|height        = saloon: {{convert|1452|mm|1|abbr=on}}<br />Avant: {{convert|1479|mm|1|abbr=on}}
+|fuel_capacity = {{convert|80|L|impgal usgal|1|abbr=on|lk=on}} 
+|weight        = 
+|related       = [[Audi S6]]
+|designer      = 
+|sp            = uk
+}}
+[[Image:Audi A6 C4 rear 20081202.jpg|thumb|left|Audi (C4) A6 saloon]]
+[[Image:Audi A6 2.8 wagon.jpg|thumb|left|Audi (C4) A6 Avant (U.S.)]]
+[[Audi]]'s [[mid-size car]] was previously named the [[Audi 100]] (or [[Audi 5000]] in the United States), and was released in three successive generations (C1, C2 and C3)<ref name="carautoportal">{{Cite web|url=http://www.carautoportal.com/audi/audi-a6.php|title=Audi A6 Reference|accessdate=2009-06-22|work=carautoportal.com}}</ref>.  In 1994, the latest generation (C4) of the [[Audi 100]] was facelifted and re-badged as the '''Audi A6''', to fit in with Audi's new [[alphanumeric]] [[nomenclature]] (as the full-size [[Audi A8|A8]] had just been introduced).  The exterior was changed only slightly from the "C4" Audi 100 - new front and back lights, new radiator [[grille]], similarly with [[chassis]] and [[internal combustion engine|engine]] and [[transmission (mechanics)|transmission]] choices.  The [[United Kingdom]] was the first market to receive the A6, as stock of right-hand-drive Audi 100s had run out before expected, and before the rest of mainland [[Europe]].
+
+The new engines for the A6 were 1.8 [[multi-valve|20v]] [[straight-4|in-line four cylinder]], and 2.8 30v [[V6 engine|V6]] [[petrol engine]]s, with the 2.3&nbsp;L [[straight-5|in-line five]] engine being dropped on most markets.  For the [[diesel engine]]s, a 1.9 [[Turbocharged Direct Injection]] (TDI) I4, and the 2.5 TDI I5 ({{convert|140|PS|kW bhp|0|abbr=on|lk=on}}) were available.
+
+Until 1997, the A6 came with several different engines, two of them [[turbodiesel]], and most of them available with Audi's [[Torsen]]-based [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.  The A6 was also available with saloon and Avant bodies.
+
+===C4 engines===
+The C4 design was available with the following [[internal combustion engine|engines]]:
+{| class="wikitable" border="1" style="text-align: center"
+|-
+! engine || [[engine configuration|configuration]] || [[motive power|max. power]] 
+|-
+|colspan="3" |'''''[[petrol engine]]s'''''
+|-
+| align="left" | 1.8 [[multi-valve|20v]] || [[straight-4|I4]] [[overhead camshaft#double overhead camshaft|DOHC]] || {{convert|92|kW|PS bhp|0|abbr=on|lk=on}}
+|-
+| align="left" | 2.0 8v || I4 || {{convert|74|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.0 8v || I4 || {{convert|85|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.0 16v || I4 || {{convert|103|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.3 10v || [[straight-5|I5]] || {{convert|98|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.6 12v || [[V6 engine|V6]] || {{convert|110|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.8 12v || V6 || {{convert|128|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.8 30v || V6 || {{convert|142|kW|PS bhp|0|abbr=on}}
+|-
+|colspan="3" |'''''[[diesel engine]]s'''''
+|-
+| align="left" | 1.9 [[Turbocharged Direct Injection|TDI]] 8v || I4 || {{convert|66|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.5 TDI 10v || I5 || {{convert|85|kW|PS bhp|0|abbr=on}}
+|-
+| align="left" | 2.5 TDI 10v || I5 || {{convert|103|kW|PS bhp|0|abbr=on}}
+|}
+
+===C4 S6===
+{{main|Audi S6}}
+A higher performance version of the C4 A6, called the '''[[Audi S6#C4|Audi S6]]''' was produced.  It included the 4.2 [[V8 engine]], which was uprated to {{convert|213|kW|PS bhp|0|lk=on}}, and a new [[limited edition]] {{convert|240|kW|PS bhp|0|abbr=on}} version was added: the S6 PLUS made by [[quattro GmbH]].
+{{clr}}
+
+==C5 (''Typ'' 4B, 1998-2004){{anchor|C5}}==
+{{Editorial|date=October 2008}}
+{{Infobox Automobile generation
+|name          = Audi A6 (C5) 
+|image         = [[Image:C5-Audi-A6-wagon.jpg|250px]]<br />''Audi A6 (C5) 2.8 Avant (U.S.)''
+|production    = 1998-2004
+|predecessor   = [[Audi A6#C4|Audi A6 (C4)]]
+|successor     = [[Audi A6#C6|Audi A6 (C6)]]
+|platform      = [[Volkswagen Group C platform#C5|Volkswagen Group C5 platform]]
+|engine        = 1.8L [[I4 engine|I4]] [[multi-valve|20v]]<br />1.8L Turbo I4 20v<br />2.0L I4 20v<br />2.4L [[V6 engine|V6]] 30v<br />2.8L [[V6 engine|V6]] 30v<br />3.0L [[V6 engine|V6]] 30v<br />2.7L [[V6 engine|V6]] Turbo 30v<br />4.2L [[V8 engine|V8]] 40v<br />1.9L TDI [[I4 engine|I4]]<br />2.5L TDI [[V6 engine|V6]] 24v
+|transmission  = 5-speed [[manual transmission|manual]]<br />6-speed manual<br />5-speed [[automatic transmission|automatic]]
+|wheelbase     = {{convert|2760|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4796|mm|1|abbr=on}}
+|width         = {{convert|1810|mm|1|abbr=on}}
+|height        = saloon: {{convert|1453|mm|1|abbr=on}}<br />Avant: {{convert|1479|mm|1|abbr=on}}
+|weight        = 
+|fuel_capacity = {{convert|70|L|impgal usgal|1|abbr=on|lk=on}} 
+|related       = [[Audi S6]]<br />[[Audi RS6]]<br />[[Audi A6 allroad quattro|Audi allroad quattro]]
+|designer      = 
+|sp            = uk
+}}
+[[Image:Audi A6 C5 rear 20081009.jpg|thumb|right|250px|Audi (C5) A6 saloon]]
+[[Image:Audi A6 C5 Avant 20090215 rear-1.jpg|thumb|right|250px|Audi (C5) A6 Avant]]
+In late 1997, the introduction of a new A6 (''typ'' 4A), based on a new design [[automobile platform]] - the [[Volkswagen Group C platform#C5|Volkswagen Group C5 platform]], with a new range of [[internal combustion engine|engines]] was announced.  This new A6 moved up a notch in quality, and was marketed in the same categories as the [[BMW 5-Series]] and the [[Mercedes-Benz E-Class]].  The [[italy|Italian]]-redesigned body presented a modern design, with a fastback styling which set the trend for the Audi lineup, and gave the relatively large [[sedan (automobile)|saloon]] an [[aerodynamic]] shell with a low [[coefficient of drag]] of 0.28.
+
+In 2000 and 2001, the "C5" A6 was on [[Car and Driver]] magazine's ''Ten Best'' list.  This new A6 was available with a wide range of engines and configurations.  The [[multivalve|30-valve]] 2.4 and 2.8 [[V6 engine]]s represented the bulk of the A6's development programme, with a multitude of other engine configurations available throughout the globe.  As an alternative to the [[manual transmission]], a five-speed [[tiptronic]] [[automatic transmission]] was also available. 
+
+The C5 saloon variant arrived in late 1997, and the Avant in 1998 in [[Europe]].  In the [[United States]], the C4 continued for 1997, with the C5 saloon available in 1998, and the C5 Avant available in 1999.  In [[Canada]], there was no Avant (Audi's name for a [[station wagon|estate/wagon]]) available at all in 1998 - Audi dropped the C4 Avant at the end of the 1997 [[model year]], and jumped straight to the C5 Avant in 1999 in conjunction with its release in the US.  As a result of complying with [[FMVSS]], the [[North America]]n models were equipped with front and rear bumpers that protruded several inches further than their European counterparts, with modified brackets and bumper suspension assemblies as result, and child-seat tethers for occupant safety.  In compliance with Canadian law, Canadian models received [[daytime running lamp|daytime running lights]] as standard equipment.  North American C5 A6 models received the 2.8 litre, 30-valve V6 engine, the 2.7 litre [[twin-turbo|"biturbo"]] V6 (also found in the B5 platform S4), and the 4.2 litre 40-valve [[V8 engine|V8]] [[petrol engine]]s.  The V8 models arrived with significantly altered exterior body panels, with slightly more flared [[fender (vehicle)|wheel arches (fenders)]], revised [[headlamp]]s and [[grille]] design (before being introduced in 2002 to all other A6 models), larger [[wheel|roadwheels]] (8Jx17"), larger [[brake]]s and [[Torsen]]-based [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] as standard.  
+
+In 2002, the A6 received a facelift, with revised headlight and grille design, exposed exhaust tips, and slight changes to accessory [[body molding]]s, and tailight colour from red to amber in North American models.  A new host of [[internal combustion engine|engines]] were also introduced.  The 1.8&nbsp;L engine was deleted and replaced by a 2.0&nbsp;L powerplant with {{convert|96|kW|PS bhp|0|lk=on}}.  The 1.9&nbsp;L [[Turbocharged Direct Injection]] (TDI) was tweaked to produce a maximum [[motive power|power output]] of {{convert|96|kW|PS bhp|0|abbr=on}}, and {{convert|310|Nm|0|lk=on}} of [[torque]], receiving a six-speed [[manual transmission|manual gearbox]] in the process.  The 2.4 V6 gained 5 extra hp and better balancing, and the 2.8 [[V6 engine]] was replaced by a 3.0&nbsp;L engine with {{convert|162|kW|PS bhp|0|abbr=on}}.  The turbocharged 2.7&nbsp;L was revised, resulting in {{convert|184|kW|PS bhp|0|abbr=on}} and {{convert|330|Nm|lbft|0|abbr=on}}, controlled by standard quattro.  The V6 diesel was also slightly modified resulting in {{convert|120|kW|PS bhp|0|abbr=on}} (after the second modification) and {{convert|350|Nm|0|abbr=on}}.  A new more powerful V6 diesel was also introduced with {{convert|132|kW|PS bhp|0|abbr=on}} and {{convert|370|Nm|0|abbr=on}}.  The 4.2 [[V8 engine]] which arrived in 2001 remained unchanged.
+
+Also new was the revolutionary [[multitronic]] [[continuously variable transmission]], available in most [[front wheel drive]] models.  All models, except the 2.0 petrol and 1.9 TDI, were available with Audi's trademark four-wheel drive system, quattro.  A four wheel drive version of the Avant, with raised ground clearance and slightly altered styling was sold as the [[Audi allroad quattro]], Audi's first [[crossover SUV]].
+
+Regarding this C5 generation, [[Car and Driver]] magazine stated, "''It is one of the most winsome mid-sizers to meet pavement, with some of the nicest handling this side of a [[BMW]].  In 2000, the moderate performance of this otherwise excellent, 3.0 litre V6-powered, sedan was improved by the addition of two higher-performance versions: the {{convert|250|PS|kW hp||abbr=on}}, 2.7T bi-turbo V6 and the {{convert|300|PS|kW hp||abbr=on}}, 4.2 V8, both with Audi's [[quattro (four wheel drive system)|quattro]] permanent [[four-wheel drive]] system.  In mid-2003, major muscle came along in the limited-run RS 6-powered by a {{convert|450|PS|kW hp|0|abbr=on}}, twin-turbo [[V8]] - which immediately finished first in a C/D comparison test''".{{Fact|date=May 2009}}
+
+The C5 design was replaced in 2004 by a new C6 model.
+
+{| class="wikitable" border="1"
+|+  Crash testing
+|-
+|[[EuroNCAP]] adult occupant:<ref>{{cite web|url=http://www.euroncap.com/tests/audi_a6_1998/48.aspx |title=For safer cars &#124; Audi A6 |publisher=Euro NCAP |date= |accessdate=2009-05-26}}</ref>
+|{{rating|3|5}}
+|-
+|[[IIHS]] overall frontal offset crash test:<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=129 |title=IIHS-HLDI: Audi A6 |publisher=Iihs.org |date=2006-03-29 |accessdate=2009-05-26}}</ref>
+|Acceptable
+|}
+
+===C5 engines===
+The C5 design was available with the following [[internal combustion engine|engines]]:
+{|class="wikitable" border="1" cellpadding="0"  style="text-align: center; font-size: 92%;"
+|- style="background:#dcdcdc; text-align:center; vertical-align:middle;"
+![[internal combustion engine|engine]]<br />name
+![[engine displacement|displacement]]
+![[engine configuration|engine<br />configuration]]
+![[motive power|max. power]] at [[revolutions per minute|rpm]]<br /><small>(Directive 80/1269/EEC)</small>
+![[torque|max. torque]]<br />at rpm
+!0-{{convert|100|km/h|0|abbr=on|lk=on}}<br /><small>(saloon)</small>
+!top speed<br /><small>(saloon)</small>
+!years
+|-
+|colspan="8" align="center" |<big>'''''[[petrol engine]]s'''''</big><br />all multipoint sequential [[fuel injection]]
+|-
+| align="left" |'''1.8 [[multi-valve|20v]]'''||{{convert|1781|cc|1|abbr=on|lk=on}}||[[straight-4|in-line 4cyl]]||{{convert|92|kW|PS bhp|0|abbr=on|lk=on}}<br />@ 5,800||{{convert|168|Nm|0|abbr=on|lk=on}}<br />@ 3,500||11.3&nbsp;[[second|s]]||{{convert|203|km/h|0|abbr=on|lk=on}}||1997–2001
+|-
+| align="left" |'''1.8 20v [[turbocharger|Turbo]]'''||{{convert|1781|cc|1|abbr=on}}||in-line 4cyl||{{convert|110|kW|PS bhp|0|abbr=on}}<br />@ 5,700||{{convert|210|Nm|0|abbr=on}}<br />@ 1,750–4,600||9.5&nbsp;s||{{convert|207|km/h|0|abbr=on}}||1997–2005
+|-
+| align="left" |'''2.0 20v'''||{{convert|1984|cc|1|abbr=on}}||in-line 4cyl||{{convert|96|kW|PS bhp|0|abbr=on}}<br />@ 5,700||{{convert|195|Nm|0|abbr=on}}<br />@ 3,300||10.5&nbsp;s||{{convert|203|km/h|0|abbr=on}}||2001–2005
+|-
+| align="left" |'''2.4 30v'''||{{convert|2393|cc|1|abbr=on}}||[[V6 engine|V6]]||{{convert|121|kW|PS bhp|0|abbr=on}}<br />@ 6,000||{{convert|230|Nm|0|abbr=on}}<br />@ 3,200||9.2&nbsp;s||{{convert|220|km/h|0|abbr=on}}||1997–2001
+|-
+| align="left" |'''2.4 30v'''||{{convert|2393|cc|1|abbr=on}}||V6||{{convert|125|kW|PS bhp|0|abbr=on}}<br />@ 6,000||{{convert|230|Nm|0|abbr=on}}<br />@ 3,200||9.3&nbsp;s||{{convert|224|km/h|0|abbr=on}}||2001–2005
+|-
+| align="left" |'''2.7 30v Turbo'''||{{convert|2671|cc|1|abbr=on}}||V6||{{convert|169|kW|PS bhp|0|abbr=on}}<br />@ 5,800||{{convert|310|Nm|0|abbr=on}}<br />@ 1,700||7.5&nbsp;s||{{convert|247|km/h|0|abbr=on}}||1999–2001
+|-
+| align="left" |'''2.7 30v Turbo'''||{{convert|2671|cc|1|abbr=on}}||V6||{{convert|184|kW|PS bhp|0|abbr=on}}<br />@ 5,800||{{convert|350|Nm|0|abbr=on}}<br />@ 1,800||6.8&nbsp;s||{{convert|248|km/h|0|abbr=on}}||2000–2005
+|-
+| align="left" |'''2.8 30v'''||{{convert|2671|cc|1|abbr=on}}||V6||{{convert|142|kW|PS bhp|0|abbr=on}}<br />@ 6,000||{{convert|280|Nm|0|abbr=on}}<br />@ 3,200||8.1&nbsp;s||{{convert|236|km/h|0|abbr=on}}||1997–2001
+|-
+| align="left" |'''3.0 30v'''||{{convert|2976|cc|1|abbr=on}}||V6||{{convert|162|kW|PS bhp|0|abbr=on}}<br />@ 6,300||{{convert|300|Nm|0|abbr=on}}<br />@ 3,200||7.5&nbsp;s||{{convert|243|km/h|0|abbr=on}}||2001–2005
+|-
+| align="left" |'''4.2 40v'''||{{convert|4172|cc|1|abbr=on}}||[[V8 engine|V8]]||{{convert|220|kW|PS bhp|0|abbr=on}}<br />@ 6,200||{{convert|400|Nm|0|abbr=on}}<br />@ 3,000||6.9&nbsp;s||{{convert|250|km/h|0|abbr=on}}<br /><small>(elec. limited)</small>||1999–2005
+|-
+|colspan="8" align="center" |<big>'''''[[diesel engine]]s'''''</big><br />all [[Turbocharged Direct Injection]] (TDI)
+|-
+| align="left" |'''1.9 TDI 8v'''||{{convert|1896|cc|1|abbr=on|lk=on}}||[[straight-4|in-line 4cyl]]||{{convert|81|kW|PS bhp|0|abbr=on|lk=on}}<br />@ 4,150||{{convert|235|Nm|0|abbr=on|lk=on}}<br />@ 1,900||12.6&nbsp;[[second|s]]||{{convert|194|km/h|0|abbr=on|lk=on}}||1997–2000
+|-
+| align="left" |'''1.9 TDI 8v'''||{{convert|1896|cc|1|abbr=on}}||in-line 4cyl||{{convert|85|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|285|Nm|0|abbr=on}}<br />@ 1,900||11.6&nbsp;s||{{convert|196|km/h|0|abbr=on}}||1998–2001
+|-
+| align="left" |'''1.9 TDI 8v'''||{{convert|1896|cc|1|abbr=on}}||in-line 4cyl||{{convert|96|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|285|Nm|0|abbr=on}}<br />@ 1,750–2,500||10.5&nbsp;s||{{convert|203|km/h|0|abbr=on}}||2001–2005
+|-
+| align="left" |'''1.9 TDI 8v'''||{{convert|1896|cc|1|abbr=on}}||in-line 4cyl||{{convert|96|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|310|Nm|0|abbr=on}}<br />@ 1,900||10.5&nbsp;s||{{convert|203|km/h|0|abbr=on}}||2001–2005
+|-
+| align="left" |'''2.5 TDI [[multi-valve|24v]]'''||{{convert|2496|cc|1|abbr=on}}||[[V6 engine|V6]]||{{convert|110|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|310|Nm|0|abbr=on}}<br />@ 1,500–3,200||10.0&nbsp;s||{{convert|215|km/h|0|abbr=on}}||1997–2001
+|-
+| align="left" |'''2.5 TDI 24v'''||{{convert|2496|cc|1|abbr=on}}||V6||{{convert|114|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|310|Nm|0|abbr=on}}<br />@ 1,400–3,500||9.7&nbsp;s||{{convert|219|km/h|0|abbr=on}}||2001–2002
+|-
+| align="left" |'''2.5 TDI 24v'''||{{convert|2496|cc|1|abbr=on}}||V6||{{convert|120|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|310|Nm|0|abbr=on}}<br />@ 1,400–3,600||9.3&nbsp;s||{{convert|222|km/h|0|abbr=on}}||2002–2005
+|-
+| align="left" |'''2.5 TDI 24v'''||{{convert|2496|cc|1|abbr=on}}||V6||{{convert|120|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|350|Nm|0|abbr=on}}<br />@ 1,500–3,000||9.3&nbsp;s||{{convert|222|km/h|0|abbr=on}}||2003–2005
+|-
+| align="left" |'''2.5 TDI 24v'''||{{convert|2496|cc|1|abbr=on}}||V6||{{convert|132|kW|PS bhp|0|abbr=on}}<br />@ 4,000||{{convert|370|Nm|0|abbr=on}}<br />@ 1,500–2,500||8.9&nbsp;s||{{convert|221|km/h|0|abbr=on}}||1999–2005
+|}
+
+===C5 S6 and RS6===
+{{main|Audi S6}}
+The [[Audi S6#C5|Audi S6]] was a high-powered variant of the A6, featuring a modified version of the 4.2 [[V8 engine]] producing {{convert|250|kW|PS bhp|0|lk=on}} and {{convert|420|Nm|abbr=on|lk=on}}.  It was available as a saloon and Avant.
+
+{{main|Audi RS6}}
+In the late years of the A6 C5 design, an ultra-high performance limited-run [[Audi RS6#C5|Audi RS6]] model was presented.  Weighing in excess of {{convert|1840|kg|0|lk=on}} and producing {{convert|331|kW|PS bhp|0|lk=on}} and {{convert|560|Nm|0|lk=on}}, it propels the RS6 from 0-{{convert|100|km/h|1|lk=on}} in 4.6&nbsp;seconds, and on to {{convert|200|km/h|1|abbr=on}} in under 17&nbsp;seconds.  Initially available as only an Avant, a saloon variant was later added.
+{{clr}}
+
+==C6 (''Typ'' 4F, 2005-present){{anchor|C6}}==
+{{Infobox Automobile generation
+|name          = Audi A6 (C6)
+|image         = [[Image:Audi A6 C6 Modellpflege 20090221 front.jpg|250px]]<br />''Audi (C6) A6 quattro saloon''
+|production    = 2005-present
+|predecessor   = [[Audi A6#C5|Audi A6 (C5)]]
+|successor     = 
+|platform      = [[Volkswagen Group C platform#C6|Volkswagen Group C6 platform]]
+|engine        = 2.0L [[turbocharger|Turbo]] [[straight-4|I4]]<br />2.4L [[V6 engine|V6]]<br />2.8L FSI V6<br />3.2L FSI V6<br />4.2L [[V8 engine|V8]]<br />2.0L [[Turbocharged Direct Injection|TDI]] [[straight-4|I4]]<br />2.7L TDI [[V6 engine|V6]]<br />3.0L TDI V6
+|transmission  = 6-speed [[manual transmission|manual]]<br />6-speed [[tiptronic]] [[automatic transmission|automatic]]<br />7-speed [[multitronic]] [[continuously variable transmission|CVT]]<br />7-speed [[Direct-Shift Gearbox|S tronic]] (2008~)
+|wheelbase     = {{convert|2843|mm|1|abbr=on|lk=on}}<br /> LWB: {{convert|2945|mm|1|abbr=on|lk=on}}
+|length        = {{convert|4927|mm|1|abbr=on}}<br /> LWB: {{convert|5035|mm|1|abbr=on}}
+|width         = {{convert|1855|mm|1|abbr=on}}
+|height        = saloon: {{convert|1459|mm|1|abbr=on}}<br />Avant: {{convert|1463|mm|1|abbr=on}}<br />LWB: {{convert|1485|mm|1|abbr=on}}
+|weight        = {{convert|1520|kg|1|abbr=on|lk=on}} -<br />{{convert|1845|kg|1|abbr=on}}
+|fuel_capacity = {{convert|80|L|impgal usgal|1|abbr=on|lk=on}} 
+|related       = [[Audi S6]]<br />[[Audi RS6]]<br />[[Audi A6 allroad quattro]]
+|designer      = [[Walter de'Silva]]
+|sp            = uk
+}}
+[[Image:Audi A6 C6 20090221 rear.jpg|thumb|left|Audi (C6) A6 saloon rear view]]
+[[Image:Audi-A6-wagon.jpg|thumb|left|Audi (C6) A6 3.2 Avant (U.S.)]]
+[[Image:Audi A6 (2005 C6) 001.JPG|thumb|left|Centre console of C6 A6, showing [[tiptronic]] gear shift lever, [[Multi Media Interface]] (MMI) controls, and electronic [[hand brake|parking brake]]]]
+The new A6 (C6) was released in 2005.  Designed by [[Walter de'Silva]], the new model is visually an evolution of the C5, but is longer (492&nbsp;cm), incorporates the new Audi trademark "single-frame grille", and features more sophisticated technology.  Most notable is the [[Multi Media Interface]] (MMI) which is a system controlling in-car entertainment, satellite navigation, climate control, car settings such as [[height adjustable suspension|suspension configuration]] and optional electronic accessories through a central screen interface.  This has the advantage of minimising the wealth of buttons normally found on a dashboard by replacing them with controls which operate multiple devices using the integrated display.
+
+On the [[internal combustion engine|engine]] side, the new [[gasoline direct injection|Fuel Stratified Injection]] (FSI) direct injection technology was introduced.  Although the line of engines represents the same progression as the former model, all engines were new.  The [[multitronic]] [[automatic transmission]] continues as an alternative for [[front-wheel drive]] models, alongside a new six-speed [[tiptronic]] [[Transmission (mechanics)|automatic gearbox]] available in the [[four-wheel drive]] models.  Audi's "trademark" [[Torsen]]-based [[quattro (four wheel drive system)|quattro]] permanent four wheel drive is available in most of the lineup, and standard in the most powerful models.  [[quattro (four wheel drive system)|quattro]] is ''not'' available on the multitronic variants of the A6, but is available on the manual and tiptronic gear systems.  Conversely the tiptronic system is not available on the front-wheel drive variants of the car.  The six-speed manual gearbox is available with the 3.2L [[V6 engine]], but not for the [[North America]]n market.
+
+In 2005, the new Audi A6 won the [[World Car of the Year]] award, and has recently won its class in the ''Practical Caravan'' "tow car of the year" awards, due to its array of towing features such as adjustable suspension height and damping, and the presence of a [[towing#Trailer Stability Program or TSP|Trailer Stability Programme]].
+
+Like the previous model, the A6 is available with other body options.  The Avant arrived during the course of 2005, while in [[People's Republic of China|China]], a long wheelbase version was introduced in the same year, named '''A6L'''.<ref name="a6l">{{cite web|url=http://www.audiworld.com/news/05/chinaa6/content.shtml|title=New Audi A6 Presented as a Long-Wheelbase Version Exclusively for China|date=2005-03-08|work=www.audiworld.com|accessdate=2009-02-03}}</ref>  The allroad variant (now called '''A6 allroad quattro''') made its debut in 2006, and as before, is an off-road ready version of the Avant, available with either a 2.7 V6 or 3.0 V6 [[Turbocharged Direct Injection]] [[diesel engine]]s, or a 3.2 V6 or 4.2 V8 [[petrol engine]].
+
+{| class="wikitable" border="1"
+|+  Crash testing
+|-
+|[[EuroNCAP]] adult occupant:<ref>{{cite web|url=http://www.euroncap.com/tests/audi_a6_2004/207.aspx |title=For safer cars &#124; Audi A6 |publisher=Euro NCAP |date= |accessdate=2009-05-26}}</ref>
+|{{rating|5|5}}
+|-
+|EuroNCAP child occupant:
+|{{rating|4|5}}
+|-
+|EuroNCAP pedestrian:
+|{{rating|1|4}}
+|-
+|[[IIHS]] overall frontal offset crash test:<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=557 |title=IIHS-HLDI: Audi A6 |publisher=Iihs.org |date=2008-11-25 |accessdate=2009-05-26}}</ref>
+|Good
+|-
+|IIHS side crash test:<ref>{{cite web|url=http://www.iihs.org/ratings/rating.aspx?id=559 |title=IIHS-HLDI: Audi A6 |publisher=Iihs.org |date=2008-11-25 |accessdate=2009-05-26}}</ref>
+|Good
+|}
+
+===C6 engines===
+[[Image:Audi BAR 001.JPG|thumb|right|The 4.2 [[gasoline direct injection|FSI]] [[V8 engine|V8]], one of the many engines offered in the C6 A6 range]]
+The C6 design was available with the following [[internal combustion engine|engines]]:
+{| class="wikitable" border="1" style="text-align: center"
+|-
+! engine || [[engine configuration|configuration]] || [[motive power|max. power]] 
+|-
+|colspan="3" |'''''[[petrol engine]]s'''''
+|-
+| align="left" | 2.0 16V TFSI || [[Straight-4|I4]] || {{convert|170|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 2.4 24V || V6 || {{convert|177|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 2.8 24V FSI || V6 || {{convert|210|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 3.0 30V || V6 || {{convert|218|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 3.2 24V FSI || V6 || {{convert|255|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 4.2 40V/32V FSI || V8 || {{convert|335|PS|kW hp|0|abbr=on}}<br />{{convert|350|PS|kW hp|0|abbr=on}}
+|-
+|colspan="3" |'''''[[diesel engine]]s'''''
+|-
+| align="left" | 2.0 16V TDI || I4|| {{convert|140|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 2.7 24V TDI || V6 || {{convert|180|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 3.0 24V TDI || V6 || {{convert|225|PS|kW hp|0|abbr=on}}<br />{{convert|233|PS|kW hp|0|abbr=on}}
+|}
+
+===C6 facelift===
+[[Image:Audi A6 C6 Avant Facelift front-1.JPG|250px|right|thumb|Audi (C6) A6 Avant (facelifted)]]
+[[Image:A6 avant c6 led.jpg|thumb|right|250px|[[light-emitting diode|LED]] tailights of a pre-facelift A6 Avant]]
+Audi unveiled a [[facelift (automobile)|facelifted]] "C6" Audi A6 on 12 August 2008, at the [[Moscow International Motor Show]].  It features some minor cosmetic changes to the front and rear areas, and a new [[internal combustion engine|engine]] variant, a {{convert|300|PS|kW bhp|0|abbr=on|lk=on}} 3.0&nbsp;litre V6 TFSI with a supercharger.  This is one of six petrol and four diesel engines available for the upgraded A6.<ref>[http://paultan.org/archives/2008/08/12/new-audi-a6-range-updated-for-2009-model-year/ New Audi A6 range updated for the 2009 model year]</ref>  All [[petrol engine]]s now feature cylinder-direct [[gasoline direct injection|Fuel Stratified Injection]] (FSI) technology, and all [[diesel engine]]s now feature [[common rail]] and [[Turbocharged Direct Injection]] technologies.
+
+{| class="wikitable" border="1" style="text-align: center"
+|-
+! engine || [[engine configuration|configuration]] || [[motive power|max. power]] 
+|-
+|colspan="3" |'''''[[petrol engine]]s'''''
+|-
+| align="left" | 2.0 16V TFSI || I4 || {{convert|170|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 2.8 24V FSI || V6 || {{convert|190|PS|kW hp|0|abbr=on}}<br />{{convert|220|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 3.2 24V FSI ||	V6 || {{convert|255|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 3.0 TFSI (Supercharger) || V6 || {{convert|300|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 4.2 32V FSI || V8 || {{convert|350|PS|kW hp|0|abbr=on}}
+|-
+|colspan="3" |'''''[[diesel engine]]s'''''
+|-
+| align="left" | 2.0 16V TDIe || I4|| {{convert|136|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 2.0 16V TDI || I4|| {{convert|170|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 2.7 24V TDI || V6 || {{convert|190|PS|kW hp|0|abbr=on}}
+|-
+| align="left" | 3.0 24V TDI || V6 || {{convert|240|PS|kW hp|0|abbr=on}}
+|}
+
+===C6 S6 and RS6===
+{{main|Audi S6}}
+The sporting [[Audi S6#C6|S6]] was introduced in the [[Frankfurt Motor Show]], with sales beginning in early 2006.  It is powered by a [[Lamborghini]]-derived 5.2&nbsp;litre [[gasoline direct injection|Fuel Stratified Injection]] (FSI) [[V10 engine]] producing {{convert|320|kW|PS bhp|0|lk=on}} and {{convert|540|Nm|0|lk=on}}.  The S6 reaches {{convert|100|km/h|1|lk=on}} from a standstill in 5.2&nbsp;seconds, and the quarter mile 13.5&nbsp;seconds.<ref>{{cite web|url=http://www.jbcarpages.com/audi/a6/|title=Audi A6 & S6 Reviews & Specs|work=JB car pages}}</ref>
+
+{{main|Audi RS6}}
+The latest version of ultra-high performance [[Audi RS6#C6|Audi RS6]] was launched in September 2008.  It features an all-[[aluminium alloy]] 5.0&nbsp;litre ({{convert|4991|cc|abbr=on|lk=on}}) 90° [[V10 engine|V10]] [[twin-turbo]]charged ("biturbo"), [[gasoline direct injection|Fuel Stratified Injection]] (FSI), with a [[dry sump]] lubrication system.  It produces a [[motive power|maximum power output]] of {{convert|426|kW|PS bhp|0|lk=on}}, and {{convert|650|Nm|0|lk=on}} of [[torque]].  Initially available only as an Avant, the saloon version was released in late 2008.
+{{clr}}
+
+==Awards==
+The second-generation A6 was on ''[[Car and Driver]]'' magazine's [[Car and Driver Ten Best|Ten Best list]] for 2000 and 2001.  The updated 2005 A6 won the ''[[World Car of the Year]]'' award for 2005.
+
+==See also==
+{{commonscat}}
+*[[Audi S6]]
+*[[Audi RS6]]
+*[[Audi allroad quattro]]
+*[[Volkswagen Group China]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.audi.com Audi.com] corporate website
+* [http://new-cars.audi.co.uk/audi-a6/ Audi UK A6 microsite]
+* [http://www.audi.co.nz/index.asp?artid=843107947 Audi New Zealand: 100 and A6 official history]
+<!--========================({{No More Links}})============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. WIKIPEDIA  |
+    | IS NOT A COLLECTION OF LINKS NOR SHOULD IT BE USED FOR ADVERTISING. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    =======================({{No More Links}})=============================-->
+
+{{Audi}}
+{{Audi vehicles timeline (Europe)}}
+{{Audi vehicles timeline (North America)}}
+
+[[Category:Vehicles introduced in 1994]]
+[[Category:1990s automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Audi vehicles|A6]]
+[[Category:Euro NCAP executive cars]]
+[[Category:Mid-size cars]]
+[[Category:Sedans]]
+[[Category:Station wagons]]
+[[Category:Vehicles with CVT transmission]]
+[[Category:Front wheel drive vehicles]]
+[[Category:All wheel drive vehicles]]
+
+[[cs:Audi A6]]
+[[da:Audi A6]]
+[[de:Audi A6]]
+[[es:Audi A6]]
+[[fr:Audi A6]]
+[[ko:아우디 A6]]
+[[hr:Audi A6]]
+[[it:Audi A6]]
+[[lt:Audi A6]]
+[[hu:Audi A6]]
+[[nl:Audi A6]]
+[[ja:アウディ・A6]]
+[[no:Audi A6]]
+[[pl:Audi A6]]
+[[pt:Audi A6]]
+[[ro:Audi A6]]
+[[ru:Audi A6]]
+[[sk:Audi A6]]
+[[fi:Audi A6]]
+[[sv:Audi A6]]
+[[tr:Audi A6]]
+[[uk:Audi A6]]
+[[zh:奥迪A6]]

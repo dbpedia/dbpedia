@@ -1,0 +1,4 @@
+{{DBpediaClass
+|rdfs:label = Military Person
+|rdfs:subClassOf = Person
+}}

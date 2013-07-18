@@ -1,0 +1,54 @@
+{{one source|date=September 2009}}
+{{Infobox Automobile
+|image=[[Image:BMW_Goldfish_V16.jpg|250px]]
+|name=BMW Goldfish V16 engine
+|manufacturer=[[BMW|BMW Bayerische Motoren Werke]]
+|production=1987
+|class=[[V16 engine|V16]]
+|related=[[BMW_M70|BMW M70 V12]]
+}}
+The [[BMW]] [[V16 engine]] known as the project '''Goldfish''' is a [[SOHC]] 32-valve [[V16 engine|V16]] 6.7 litre prototype [[automotive]] [[piston]] [[engine]] based on [[BMW_M70|BMW M70]] [[V12 engine|V12]] engine.<ref>{{cite web|url=http://www.zorro.milk-maid.de/scans/e32_v16.pdf |title= BMWCar - V16 E32|publisher=BMWCar |date=March 2009}}</ref>
+
+==Development==
+
+It was developed in late 1980s by [[BMW]] engineers as the top performance offer for the [[BMW]] [[BMW 7 Series (E32)|7-series (E32)]].
+
+In July 1987 the development started and by the beginning of the 1988 the engine was ready. It was put on dynamometer in January 1988 and was tested through out February of 1988. Later it was installed in a modified long-based BMW 7-series (E32) and was mated with the 6-speed manual gearbox taken from [[BMW_8_Series|BMW 8-series (E31)]].
+
+The engine never reached production and remained to show the possibilities of BMW engineers.
+
+==Technology & Performance==
+
+The engine design virtually copies the [[BMW M70]] V12 layout but with 4 more cylinders added.
+
+*6651 cc V16 engine
+
+*Cast silicone aluminum block and cylinder heads.
+
+*[[SOHC]], 2 valves per cylinder.
+
+*Bore and stroke: 84 mm x 75 mm. Bore spacing: 91 mm.
+
+*Compression ratio: 8.8:1
+
+*Maximum power: {{Convert|408|hp|kW|0|abbr=on}} @ 5200rpm
+
+*Maximum torque: {{convert|637|Nm|lbft|0|abbr=on}} torque @ 3900rpm
+
+*Redline: 6000rpm
+
+*Engine Management: 2 separate Bosch DME 3.3 for each bank
+
+*Dry weight: 310 kg
+
+==References==
+{{Reflist|2}}
+
+==See also==
+
+* [[BMW M70]] V12 engine
+* [[BMW 7 Series (E32)]]
+* [[List of BMW engines]]
+
+
+[[Category:BMW engines|Goldfish V16]]

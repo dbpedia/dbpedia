@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= operating income
+|rdfs:domain	= Company
+|rdfs:range		= Currency
+|rdf:type	= owl:FunctionalProperty
+}}

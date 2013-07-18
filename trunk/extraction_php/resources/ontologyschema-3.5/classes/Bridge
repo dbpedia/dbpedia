@@ -1,0 +1,5 @@
+{{Class
+| rdfs:label = Bridge
+| rdfs:subClassOf = Building
+| specificProperties = {{SpecificProperty | ontologyProperty = mainspan | unit = metre }}
+}}

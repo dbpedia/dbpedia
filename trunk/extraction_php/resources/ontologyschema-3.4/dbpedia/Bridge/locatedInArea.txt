@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = located in area
+|rdfs:domain = Bridge
+|rdfs:range = PopulatedPlace
+}}

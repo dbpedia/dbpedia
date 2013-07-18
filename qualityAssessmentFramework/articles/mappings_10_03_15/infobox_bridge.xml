@@ -1,0 +1,23 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = Bridge
+| mappings =
+	{{PropertyMapping | templateProperty = crosses | ontologyProperty = crosses }}
+	{{PropertyMapping | templateProperty = locale | ontologyProperty = locatedInArea }}
+	{{PropertyMapping | templateProperty = id | ontologyProperty = unitedStatesNationalBridgeId }}
+	{{PropertyMapping | templateProperty = mainspan | ontologyProperty = mainspan | unit = Length }}
+	{{PropertyMapping | templateProperty = bridge_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = official_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = maint | ontologyProperty = owningOrganisation }}
+	{{PropertyMapping | templateProperty = designer | ontologyProperty = architect }}
+	{{PropertyMapping | templateProperty = design | ontologyProperty = architectualBureau }}
+	{{PropertyMapping | templateProperty = length | ontologyProperty = length | unit = Length }}
+	{{PropertyMapping | templateProperty = width | ontologyProperty = width | unit = Length }}
+	{{PropertyMapping | templateProperty = height | ontologyProperty = height | unit = Length }}
+	{{PropertyMapping | templateProperty = begin | ontologyProperty = buildingStartDate }}
+	{{PropertyMapping | templateProperty = complete | ontologyProperty = buildingEndDate }}
+	{{PropertyMapping | templateProperty = open | ontologyProperty = openingDate }}
+	{{PropertyMapping | templateProperty = closed | ontologyProperty = dateOfAbandonment }}
+	{{GeocoordinatesMapping | coordinates = coordinates }}
+</textarea>

@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Formula One Racer
+| rdfs:subClassOf = Athlete
+}}

@@ -1,0 +1,109 @@
+{{DBpediaTemplateMapping
+|mapToClass = Automobile
+|mappings = 
+	{{DBpediaPropertyMapping | templateProperty = name | ontologyProperty = 
+	foaf:name}}
+	
+	{{DBpediaPropertyMapping | templateProperty = manufacturer | ontologyProperty = 
+	MeanOfTransportation/manufacturingCompany}}
+	
+	{{DBpediaPropertyMapping | templateProperty = parent_company | ontologyProperty = 
+	MeanOfTransportation/parentCompany}}
+	
+	{{DBpediaPropertyMapping | templateProperty = aka | ontologyProperty = 
+	foaf:name}}
+	
+	{{DBpediaDateIntervalMapping | templateProperty = production |
+	startDateOntologyProperty = MeanOfTransportation/productionStartDate|
+	endDateOntologyProperty = MeanOfTransportation/productionEndDate}}
+
+	{{DBpediaDateIntervalMapping | templateProperty = production |
+	startDateOntologyProperty = MeanOfTransportation/productionStartYear|
+	endDateOntologyProperty = MeanOfTransportation/productionEndYear}}
+
+	{{DBpediaDateIntervalMapping | templateProperty = model_year |
+	startDateOntologyProperty = MeanOfTransportation/modelStartDate|
+	endDateOntologyProperty = MeanOfTransportation/modelEndDate}}
+
+	{{DBpediaDateIntervalMapping | templateProperty = model_year |
+	startDateOntologyProperty = MeanOfTransportation/modelStartYear|
+	endDateOntologyProperty = MeanOfTransportation/modelEndYear}}
+	
+	{{DBpediaPropertyMapping | templateProperty = assembly | ontologyProperty = 
+	MeanOfTransportation/assembly}}
+	
+	{{DBpediaPropertyMapping | templateProperty = predecessor | ontologyProperty = 
+	MeanOfTransportation/predecessor}}
+	
+	{{DBpediaPropertyMapping | templateProperty = successor | ontologyProperty = 
+	MeanOfTransportation/successor}}
+	
+	{{DBpediaPropertyMapping | templateProperty = class | ontologyProperty = 
+	Automobile/class}}
+	
+	{{DBpediaPropertyMapping | templateProperty = body_style | ontologyProperty = 
+	Automobile/bodyStyle }}
+	
+	{{DBpediaPropertyMapping | templateProperty = layout | ontologyProperty = 
+	Automobile/layout }}
+	
+	{{DBpediaPropertyMapping | templateProperty = platform | ontologyProperty = 
+	Automobile/platform}}
+	
+	{{DBpediaIntermediateNodeMapping | nodeClass = AutomobileEngine |
+	correspondingProperty = Automobile/engine | nodeURI =
+	/{superResource}/Engine/{number} | mappings = 
+    
+        {{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = 
+		AutomobileEngine/powerOutput | unit = Power }}
+	 
+		{{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = 
+		AutomobileEngine/displacement | unit = Volume }}
+	
+    <!-- Produces wrong results in many cases
+		{{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = 
+		foaf:name}}
+	
+		{{DBpediaPropertyMapping | templateProperty = engine | ontologyProperty = 
+		AutomobileEngine/valvetrain}}
+    -->
+	}}
+	
+	{{DBpediaPropertyMapping | templateProperty = transmission | ontologyProperty = 
+	Automobile/transmission}}
+	
+	{{DBpediaPropertyMapping | templateProperty = wheelbase | ontologyProperty = 
+	Automobile/wheelbase | unit = millimetre}}
+	
+	{{DBpediaPropertyMapping | templateProperty = length | ontologyProperty = 
+	MeanOfTransportation/length | unit = Length}}
+	
+	{{DBpediaPropertyMapping | templateProperty = width | ontologyProperty = 
+	MeanOfTransportation/width | unit = Length}}
+	
+	{{DBpediaPropertyMapping | templateProperty = height | ontologyProperty = 
+	MeanOfTransportation/height | unit = Length}}
+	
+	{{DBpediaPropertyMapping | templateProperty = weight | ontologyProperty = 
+	MeanOfTransportation/weight | unit = Mass}}
+	
+	{{DBpediaPropertyMapping | templateProperty = related | ontologyProperty = 
+	MeanOfTransportation/relatedMeanOfTransportation}}
+	
+	{{DBpediaPropertyMapping | templateProperty = designer | ontologyProperty = 
+	MeanOfTransportation/designer}}
+
+	{{DBpediaPropertyMapping | templateProperty = designer | ontologyProperty = 
+	MeanOfTransportation/designCompany}}
+	
+	
+}}
+	
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = highest
+|rdfs:domain = City
+|rdfs:range = xsd:string
+}}

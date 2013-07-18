@@ -1,0 +1,72 @@
+{{Infobox Automobile
+| name = Mercedes-Benz T80
+| image = [[Image:MHV MB T80 World Record Car 1939.jpg|200px]]
+| platform = 
+| related = Mercedes [[Silver Arrows]]<br>[[Mercedes-Benz W125 Rekordwagen]]
+| production = one-off (1939)
+| body_style = six-wheel, mid-engined, 1-seater experimental racing car
+| engine = 3000 hp 44.5 Litre [[Daimler-Benz DB 603]] V12
+| transmission= 
+}}
+The '''Mercedes-Benz T80''' was a vehicle developed and built by [[Mercedes-Benz]], and designed by [[Ferdinand Porsche]]. It was intended to break the [[Land speed record|world land speed record]], but never made the attempt, having been over-taken by the outbreak of [[World War II]].
+
+== Background ==
+World-renowned German auto racer [[Hans Stuck]]'s pet project was to take the world land speed record and he convinced [[Mercedes-Benz]] to build a special racing car for the attempt. Officially sanctioned by [[Adolf Hitler|Hitler]] himself (a race car fan influenced by Stuck), the project was started in 1937, while the Nazi Third Reich was at the height of its powers. Automotive designer Dr. [[Ferdinand Porsche]] first targeted a speed of {{convert|550|km/h|mi/h|0|abbr=on}}, but after [[George Eyston]]'s and [[John Cobb (motorist)|John Cobb]]'s successful [[land speed record|LSR]] runs of 1938-39 the target speed was raised to {{convert|600|km/h|mi/h|0|abbr=on}}. By late 1939, when the project was finished, the target speed was a much higher 750&nbsp;km/h (465&nbsp;mph). This would also be the first attempt at the ''absolute'' land speed record on [[Germany|German]] soil, Hitler envisioned the T80 as another propaganda triumph of German technological superiority to be witnessed by all the world courtesy of German [[television]]. The same autobahn course had already proven itself ideal for record-breaking in smaller capacity classes, Britain's [[Goldie Gardner]] having exceeded {{convert|200|mi/h|km/h|abbr=on}} there in a 1,500&nbsp;cc MG.
+
+== Power ==
+The massive 44.5 litre [[Daimler-Benz DB 603]] inverted [[V12 engine|V12]] was selected to power the record-setting car.  The engine was a derivative of the famous [[Daimler-Benz DB 601|DB-601]] aircraft engine which powered the [[Messerschmitt Bf 109]] fighter in production at the time. The DB-603 fitted was just the third prototype (V3) engine of this variant and tuned up to {{convert|3000|hp|abbr=on}}, roughly twice the power of the Bf&nbsp;109 or the [[Supermarine Spitfire]]. The engine ran on a special mixture of methyl alcohol (63%), benzene (16%), ethanol (12%), acetone (4.4%), nitrobenzene (2.2%), avgas (2%), and ether (0.4%) with MW (methanol-water) injection for charge cooling and as an anti-detonant.
+
+Although this power figure sounds impressive, it's not unusual for one-off racing engines or the period, especially those used for short-duration record-breaking with esoteric fuels. The [[Rolls-Royce R]]-type, a more comparable engine than the Spitfire's [[Rolls-Royce Merlin|Merlin]], had delivered {{convert|2350|hp|abbr=on}} on a similar fuel mixture back in [[Supermarine S.6B|1931]]. Eyston's land speed record car [[Thunderbolt (car)|Thunderbolt]] used a pair of them, and offered over {{convert|4000|hp|abbr=on}}.
+
+== Construction ==
+The difficulty of the challenge was met with money and engineering genius.  By 1939, the T80 was fully completed at a cost of [[German mark|RM]] 600,000.  The car was over 8&nbsp;meters long (27&nbsp;ft), had three axles with two of them driven, weighed over 2.7 [[metric ton]]s (three [[short ton]]s), and produced 3000 hp (2200 kW) together with the aerodynamics of specialist Josef Mikcl to attain a projected speed of 750&nbsp;km/h (465&nbsp;mph). Aerodynamically, the T80 incorporated a [[Porsche]]-designed enclosed cockpit, low sloping hood, rounded fenders, and elongated tail booms. At the rear were two small wings to provide [[downforce]] and insure stability. The heavily streamlined twin-tailed body achieved a [[drag coefficient]] of 0.18, an astonishingly low figure for any vehicle.
+
+== Projections for the 1940 land speed record attempt ==
+As ambitiously planned, Hans Stuck would have driven the T80 over a special stretch of the Dessau [[Autobahn]] (now part of the modern A9 Autobahn), which was {{convert|25|m}} wide and {{convert|10|km|sing=on}} long with the median paved over. The date was set for the January 1940 "RekordWoche" (Record/Speed Week), but the outbreak of the war prevented the T80 run. In 1939, the vehicle had been unofficially nicknamed ''Schwarzer Vogel'' (Black Bird) by Hitler and was to be painted in German nationalistic colors complete with German ''Adler'' (Eagle) and ''[[Hakenkreuz]]'' (Swastika). But the event was cancelled and the T80 garaged.
+
+== War ==
+The DB-603 aircraft engine was subsequently removed during the war while the vehicle was moved to safety and storage in Karnten, [[Austria]]. The T80 survived the war, unlike many German artifacts, and was eventually moved into the [[Mercedes-Benz Museum]] in [[Stuttgart]] for permanent display.
+
+After the war, [[John Cobb (motorist)|John Cobb]] drove the [[Railton Mobil Special]] to a land speed record of 634&nbsp;km/h (394&nbsp;mph) in 1947, a speed which was 116&nbsp;km/h (72&nbsp;mph) slower than the 750&nbsp;km/h (465&nbsp;mph) ''projected'' for the T80 back in 1940. It took until 1964 for Art Arfons to hit {{convert|875|km/h|mi/h|0|abbr=on}} in the turbojet-powered "[[Green Monster (car)|Green Monster]]" to attain and surpass the T80's speed target, and the wheel-driven record of 409 mph (658.5 km/h) set by the four-[[Chrysler Hemi engine|Chrysler Hemi]]-engined [[Goldenrod (car)|Goldenrod]] American land speed record car in 1965, which is still the piston-engined land speed record for non-supercharged, wheel-driven cars. No wheel-driven land speed record vehicle exceeded the T80's maximum design velocity until 2001, when Don Vesco's [[turboshaft]]-powered "Turbinator" attained {{convert|458.440|mph|3|abbr=on}} at Bonneville.
+
+== Current status == 
+The T80 is currently on display at the [[Mercedes-Benz Museum]] in [[Stuttgart]]-[[Bad Cannstatt]]. Many people over the decades have urged Mercedes to fully restore the T80 and test run her to see if she would have reached 750&nbsp;km/h (465&nbsp;mph).
+
+== Technical data ==
+*Total weight: 2896 kg (6385 lb)
+*Power: 3,000 [[horsepower|PS]] (2,210 kW) @ 3200 rpm
+*Engine: 44.5&nbsp;liters
+*Wheels: (6) 7 X 31
+*Length: 8.24&nbsp;meters (27&nbsp;ft 0 in)
+*Width: 3.20&nbsp;meters (10&nbsp;ft 6 in)
+*Height: 1.74&nbsp;meters (5&nbsp;ft 9 in)
+*Drag Coefficient: 0.18
+*Speed: estimated at between 550-750&nbsp;km/h (340–465&nbsp;mph)
+
+== Names of the T80 ==
+*Official: Mercedes-Benz T80
+*Porsche: Mercedes Rekordwagen (Record Car)
+*Mikcl: Hochgeschwindigkeitsrennwagen (High-speed racing car)
+*Hitler: Schwarzer Vogel (Black Bird)
+
+== See also ==
+* [[Daimler-Benz DB 603]]
+
+== References ==
+* {{cite book
+  |author=Wolf-Heinrich Hucho
+  |title=Aerodynamik des Automobils (VDI-Buch)
+  |date=1997
+  |publisher=Springer
+}}
+
+== External links ==
+{{commonscat}}
+*[http://195.138.33.22/?lang=en Official Mercedes-Benz Museum website]
+*[http://www.kolumbus.fi/leif.snellman/reco.htm Speed record attempts], lists cars that attempted to break the land speed record from 1934 to 1940, including the T80.
+*[http://europeancarweb.com/museums/0301ec_mbmuseum/ Museum tour of the Mercedes-Benz Museum] at official website of ''European Car''.
+[[Category:Land speed record cars]]
+[[Category:Mercedes-Benz vehicles|T80]]
+
+[[de:Mercedes-Benz T80]]
+[[it:Mercedes-Benz T80]]

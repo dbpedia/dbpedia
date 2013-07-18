@@ -1,0 +1,63 @@
+{{Unreferenced|date=November 2006}}
+The '''Mercedes-Benz M117''' engine family is an OHC (overhead cam) design with 2 valves per cylinder V8 automobile engine made by Mercedes-Benz between 1969 and 1992.
+
+==Technical details==
+{| class="wikitable"
+! Years|| Note || Bore/Stroke<br/>[mm] || Displacement<br/>[cm<sup>3</sup>] || Compression|| Power [kW]<br/>at engine rpm  || Torque [Nm]<br/>at engine rpm
+|-
+| 69-76  || D-Jetronic || rowspan="3"|92 / 85 || rowspan="3"|4520 || || 165 || 378
+|-
+| 76-7?  || K-Jetronic ff. || 8.8 : 1 || 160 || 370 / 3250
+|-
+| 7?-79  ||  || || 165 ||
+|-
+| 78-79  || Alu-Block ff. || 97 / 85 || 5025 || 8.8 : 1 || 177 / 5000 || 404 / 3200
+|-
+| 79-81  ||  || rowspan="6"|96.5 / 85 || rowspan="6"|4973 || 8.8 : 1 || 177 / 4750 || 404 / 3200
+|-
+| 81-85  ||      || 9.2 : 1 || 170 / 4750 || 405 / 3000
+|-
+| rowspan="2"|85-87  || Euro || rowspan="2"|9.0 : 1 || 180 / 4750 || 400 / 3750
+|-
+| Cat || 164 / 4700 || 365 / 2500
+|-
+| rowspan="2"|87-92  || Euro || rowspan="2"|10.0 : 1 || 195 / 5200 || 405 / 4000
+|-
+| Cat || 185 / 5200 || 390 / 3750
+|-
+| 85-86 ?  || ECE  || rowspan="5"|96.5 / 94.8  || rowspan="5"|5547 || 10.0 : 1 || 220 / 5000 || 455 / 3750
+|-
+| rowspan="2"|85-87  || Euro || rowspan="2"|9.0 : 1 || 200 / 5000 || 430 / 3750
+|-
+| Cat || 178 /4800 || 390 / 3500
+|-
+| rowspan="2"|87-91  || Euro || rowspan="2"|10.0 : 1 || 220 / 5000 || 455 / 3750
+|-
+| Cat|| 205 / 5200 || 430 / 3750
+|}
+
+==Applications==
+*SPECIAL: 300E AMG "The Hammer" 5.4/5.6/6.0 ([[Mercedes-Benz W124|W124]]) (355/388 PS)
+
+*280 SE, SEL 4.5 ([[Mercedes-Benz W108|W108]]) USA, 143&nbsp;kW / 195 PS
+*300 SEL 4.5 ([[Mercedes-Benz W109|W109]]) USA, 143&nbsp;kW / 195 PS
+*450 SE, SEL ([[Mercedes-Benz W116|W116]])
+*450 SL, SLC ([[Mercedes-Benz R107|R107]]/[[Mercedes-Benz SLC-Class|C107]])
+*450 SLC 5.0 ([[Mercedes-Benz SLC-Class|C107]])
+
+*500 GE ([[Mercedes-Benz W463|W463]])
+
+*500 SE, SEL, SEC ([[Mercedes-Benz W126|W/V/C126]])
+*500 SL, SLC ([[Mercedes-Benz R107|R107]]/[[Mercedes-Benz SLC-Class|C107]])
+*560 SE, SEL, SEC ([[Mercedes-Benz W126|W/V/C126]])
+*560 SL ([[Mercedes-Benz R107|R107]]) USA
+
+RACING:
+*[[Sauber C8]]
+*[[Sauber C9]] (1987)
+
+{{DEFAULTSORT:Mercedes-Benz M117 Engine}}
+[[Category:Mercedes-Benz engines|M117]]
+
+[[de:Mercedes-Benz M117]]
+[[it:Mercedes-Benz M116]]

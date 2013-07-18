@@ -1,0 +1,62 @@
+{{Infobox Automobile engine
+| image         = 
+| name          = Mercedes-Benz OM612 engine
+| aka           = 
+| manufacturer  = [[Mercedes-Benz]]
+| type          = OM612
+| production    = [[1999]]–[[2006]]
+| predecessor   = [[Mercedes-Benz OM605 engine]]
+| successor     = [[Mercedes-Benz OM647 engine]]
+| bore          = 88.0 mm
+| stroke        = 88.3 mm
+| displacement  = {{convert|2685|cc|L cuin||abbr=on}}
+| length        = 
+| diameter      = 
+| width         = 
+| height        = 
+| weight        = 
+| block         = 
+| head          = 
+| valvetrain    = DOHC
+| supercharger  = 
+| turbocharger  = Yes
+| fuelsystem    = [[Common rail]] direct injection
+| fueltype      = [[Diesel fuel|Diesel]]
+| oilsystem     = 
+| coolingsystem = 
+| power         = 115–125&nbsp;kW (156–170&nbsp;hp)
+| specpower     = 
+| torque        = 330–370&nbsp;Nm (243–273&nbsp;lb·ft)
+| compression   = 
+| fuelcon       = 
+| specfuelcon   = 
+| oilcon        = 
+}}
+The '''[[Mercedes-Benz]] OM612 [[Internal combustion engine|engine]]''' is a [[straight-5]] [[diesel engine]] produced by [[Mercedes-Benz]].
+
+It was introduced in [[1999]] for the [[2000]] [[model year]] in a {{convert|170|PS|kW hp|0|abbr=on}} version in the [[Mercedes-Benz W210|W210 E-Class]], and in the [[Mercedes-Benz C-Class#W203|W203 C-Class]] in [[2000]].
+
+A detuned version with {{convert|156|PS|kW hp|0|abbr=on}} were used in the [[Mercedes-Benz Sprinter|W90x Sprinter]] from [[2000]] to [[2006]].
+
+== Technical specifications ==
+{|class="wikitable" cellpadding="0" cellspacing="0" style="text-align:center; font-size:91%;"
+|-
+!style="background:#DCDCDC" align="center" valign="middle" | Displacement
+!style="background:#DCDCDC" align="center" valign="middle" | Bore
+!style="background:#DCDCDC" align="center" valign="middle" | Stroke
+!style="background:#DCDCDC" align="center" valign="middle" | Cylinders
+!style="background:#DCDCDC" align="center" valign="middle" | Valves
+!style="background:#DCDCDC" align="center" valign="middle" | Power
+!style="background:#DCDCDC" align="center" valign="middle" | Torque
+!style="background:#DCDCDC" align="center" valign="middle" | Applications
+|-
+|rowspan="3"|{{convert|2685|cc|L cuin||abbr=on}}||rowspan="3"|88.0 mm||rowspan="3"|88.3 mm||rowspan="3"|[[straight-5]]||rowspan="3"|20||{{convert|156|PS|kW hp|0|abbr=on}} @3800 rpm||{{convert|330|Nm|lbft||abbr=on}} @1400–2400 rpm||2000 [[Mercedes-Benz Sprinter|W90x Sprinter]]
+|-
+|{{convert|163|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|370|Nm|lbft||abbr=on}} @1600–2800 rpm||1999 [[Mercedes-Benz W210|W210 E-Class]] and 2000 [[Mercedes-Benz C-Class#W203|W203 C-Class]] for [[Belgium]]
+|-
+|{{convert|170|PS|kW hp|0|abbr=on}} @4200 rpm||{{convert|370|Nm|lbft||abbr=on}} @1600–2800 rpm||1999 [[Mercedes-Benz W210|W210 E-Class]] and 2000 [[Mercedes-Benz C-Class#W203|W203 C-Class]] for others than [[Belgium]]
+|}
+
+{{automotive-part-stub}}
+
+[[Category:Mercedes-Benz engines|OM612]]

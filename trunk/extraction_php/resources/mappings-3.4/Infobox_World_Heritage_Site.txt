@@ -1,0 +1,10 @@
+{{ DBpediaTemplateMapping
+| mapToClass = WorldHeritageSite
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = ID | ontologyProperty = WorldHeritageSite/id }}
+	{{ DBpediaPropertyMapping | templateProperty = Region | ontologyProperty = WorldHeritageSite/region }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Type | ontologyProperty = Place/type }}
+	{{ DBpediaPropertyMapping | templateProperty = Link | ontologyProperty = foaf:homepage }}
+	{{ DBpediaGeocoordinatesMapping | coordinates = Coordinates }}
+}}

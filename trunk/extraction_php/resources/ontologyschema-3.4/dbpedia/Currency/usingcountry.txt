@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = usingCountry
+|rdfs:domain = Currency
+|rdfs:range = Country
+}}

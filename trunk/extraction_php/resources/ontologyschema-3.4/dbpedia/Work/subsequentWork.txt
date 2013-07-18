@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = subsequent work
+|rdfs:domain = Work
+|rdfs:range = Work
+}}

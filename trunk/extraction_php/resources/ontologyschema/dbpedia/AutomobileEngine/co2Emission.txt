@@ -1,0 +1,6 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label		= CO2 emission
+|rdfs:domain	= AutomobileEngine
+|rdfs:range		= gramPerKilometre
+|rdf:type	= owl:FunctionalProperty
+}}

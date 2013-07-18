@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = parent
+|rdfs:domain = RecordLabel
+|rdfs:range = RecordLabel
+}}

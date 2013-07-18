@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = Olivier Award
+|rdfs:domain = Comedian
+|rdfs:range = Award
+}}

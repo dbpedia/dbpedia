@@ -1,0 +1,4 @@
+{{ DBpediaClass
+|rdfs:label = Football Manager
+|rdfs:subClassOf = Person
+}}

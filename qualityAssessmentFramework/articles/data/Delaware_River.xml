@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><article><name>Delaware_River</name><snippet><id>0</id><patternClass>PlainProperty</patternClass><source>| name                        = Delaware River</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://xmlns.com/foaf/0.1/name&gt; &quot;Delaware River&quot;@en .</triple></snippet><snippet><id>1</id><patternClass>PlainProperty</patternClass><source>| country                     = [[United States]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/country&gt; &lt;http://dbpedia.org/resource/United_States&gt; .</triple></snippet><snippet><id>2</id><patternClass>PlainProperty</patternClass><source>| state                       = [[New York]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/state&gt; &lt;http://dbpedia.org/resource/New_York&gt; .</triple></snippet><snippet><id>3</id><patternClass>PlainProperty</patternClass><source>| state1                      = [[New Jersey]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/state&gt; &lt;http://dbpedia.org/resource/New_Jersey&gt; .</triple></snippet><snippet><id>4</id><patternClass>PlainProperty</patternClass><source>| state2                      = [[Pennsylvania]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/state&gt; &lt;http://dbpedia.org/resource/Pennsylvania&gt; .</triple></snippet><snippet><id>5</id><patternClass>PlainProperty</patternClass><source>| state3                      = [[Delaware]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/state&gt; &lt;http://dbpedia.org/resource/Delaware&gt; .</triple></snippet><snippet><id>6</id><patternClass>PlainProperty</patternClass><source>| city                        = [[Port Jervis, New York|Port Jervis, NY]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/city&gt; &lt;http://dbpedia.org/resource/Port_Jervis,_New_York&gt; .</triple></snippet><snippet><id>7</id><patternClass>PlainProperty</patternClass><source>| city1                       = [[Easton, Pennsylvania|Easton, PA]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/city&gt; &lt;http://dbpedia.org/resource/Easton,_Pennsylvania&gt; .</triple></snippet><snippet><id>8</id><patternClass>PlainProperty</patternClass><source>| city2                       = [[Trenton, New Jersey|Trenton, NJ]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/city&gt; &lt;http://dbpedia.org/resource/Trenton,_New_Jersey&gt; .</triple></snippet><snippet><id>9</id><patternClass>PlainProperty</patternClass><source>| city3                       = [[Camden, New Jersey|Camden, NJ]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/city&gt; &lt;http://dbpedia.org/resource/Camden,_New_Jersey&gt; .</triple></snippet><snippet><id>10</id><patternClass>PlainProperty</patternClass><source>| city4                       = [[Philadelphia|Philadelphia, PA]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/city&gt; &lt;http://dbpedia.org/resource/Philadelphia&gt; .</triple></snippet><snippet><id>11</id><patternClass>PlainProperty</patternClass><source>| city5                       = [[Wilmington, Delaware|Wilmington, DE]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/city&gt; &lt;http://dbpedia.org/resource/Wilmington,_Delaware&gt; .</triple></snippet><snippet><id>12</id><patternClass>PlainProperty</patternClass><source>| length_imperial             = 360</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/length&gt; &quot;579363.84&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><id>13</id><patternClass>PlainProperty</patternClass><source>| watershed_imperial          = 14119</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/watershed&gt; &quot;3.6568042129833984E10&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><comment></comment><id>14</id><patternClass>MultiPropertyTable</patternClass><source>| discharge_location          = [[Trenton, New Jersey|Trenton]]
+| discharge_average_imperial  = 13100
+| discharge_max_imperial      = 64800
+| discharge_min_imperial      = 4310</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/riverDischarge&gt; &lt;http://dbpedia.org/resource/Delaware_River__discharge_1&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_1&gt; &lt;http://dbpedia.org/ontology/dischargeLocation&gt; &lt;http://dbpedia.org/resource/Trenton,_New_Jersey&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_1&gt; &lt;http://dbpedia.org/ontology/dischargeAverage&gt; &quot;370.9506903683&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_1&gt; &lt;http://dbpedia.org/ontology/minimumDischarge&gt; &quot;122.04560881583&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_1&gt; &lt;http://dbpedia.org/ontology/maximumDischarge&gt; &quot;1834.9316592264&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><comment>new prop riverDischarge</comment><id>15</id><patternClass>MultiPropertyTable</patternClass><source>| discharge1_location         = Port Jervis
+| discharge1_average_imperial = 7900
+| discharge1_max_imperial     = 52900
+| discharge1_min_imperial     = 1420</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/riverDischarge&gt; &lt;http://dbpedia.org/resource/Delaware_River__discharge_2&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_2&gt; &lt;http://dbpedia.org/ontology/dischargeLocation&gt; &lt;http://dbpedia.org/resource/Port_Jervis,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_2&gt; &lt;http://dbpedia.org/ontology/dischargeAverage&gt; &quot;223.7&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_2&gt; &lt;http://dbpedia.org/ontology/minimumDischarge&gt; &quot;40.21&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__discharge_2&gt; &lt;http://dbpedia.org/ontology/maximumDischarge&gt; &quot;11497.96&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .</triple></snippet><snippet><comment></comment><id>16</id><patternClass>MultiPropertyTable</patternClass><source>| source_name                 = [[West Branch Delaware River|West Branch]]
+| source_location             = [[Mount Jefferson (New York)|Mount Jefferson]]
+| source_district             = [[Jefferson, New York|Town of Jefferson]]
+| source_region               = [[Schoharie County, New York|Schoharie County]]
+| source_state                = New York
+| source_country              = USA
+| source_lat_d                = 42
+| source_lat_m                = 27
+| source_lat_s                = 12
+| source_lat_NS               = N
+| source_long_d               = 74
+| source_long_m               = 36
+| source_long_s               = 26
+| source_long_EW              = W
+| source_elevation_imperial   = 2240</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/riverSource&gt; &lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://dbpedia.org/ontology/source&gt; &lt;http://dbpedia.org/resource/West_Branch_Delaware_River&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://dbpedia.org/ontology/sourcePlace&gt; &lt;http://dbpedia.org/resource/Mount_Jefferson_%28New_York%29&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://dbpedia.org/ontology/sourceDistrict&gt; &lt;http://dbpedia.org/resource/Jefferson,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://dbpedia.org/ontology/sourceRegion&gt; &lt;http://dbpedia.org/resource/Schoharie_County,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://dbpedia.org/ontology/sourceState&gt; &lt;http://dbpedia.org/resource/New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://dbpedia.org/ontology/sourceCountry&gt; &lt;http://dbpedia.org/resource/United_States&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://dbpedia.org/ontology/sourceElevation&gt; &quot;682.7520000000001&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://www.georss.org/georss/point&gt; &quot;42.45333333333333 -74.60722222222222&quot;@en .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#long&gt; &quot;-74.60722222222222&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_1&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#lat&gt; &quot;42.45333333333333&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .</triple></snippet><snippet><comment></comment><id>17</id><patternClass>MultiPropertyTable</patternClass><source>| source1_name                = [[East Branch Delaware River|East Branch]]
+| source1_location            = Grand Gorge
+| source1_district            = [[Roxbury, New York|Town of Roxbury]]
+| source1_region              = [[Delaware County, New York|Delaware County]]
+| source1_state               = [[New York]]
+| source1_country             = [[United States]]
+| source1_lat_d               = 42
+| source1_lat_m               = 21
+| source1_lat_s               = 26
+| source1_lat_NS              = N
+| source1_long_d              = 74
+| source1_long_m              = 30
+| source1_long_s              = 42
+| source1_long_EW             = W
+| source1_elevation_imperial  = 1560</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/riverSource&gt; &lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://dbpedia.org/ontology/source&gt; &lt;http://dbpedia.org/resource/East_Branch_Delaware_River&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://dbpedia.org/ontology/sourcePlace&gt; &lt;http://dbpedia.org/resource/Grand_Gorge,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://dbpedia.org/ontology/sourceDistrict&gt; &lt;http://dbpedia.org/resource/Roxbury,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://dbpedia.org/ontology/sourceRegion&gt; &lt;http://dbpedia.org/resource/Delaware_County,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://dbpedia.org/ontology/sourceState&gt; &lt;http://dbpedia.org/resource/New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://dbpedia.org/ontology/sourceCountry&gt; &lt;http://dbpedia.org/resource/United_States&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://dbpedia.org/ontology/sourceElevation&gt; &quot;475.488&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://www.georss.org/georss/point&gt; &quot;42.35722222222222 -74.51166666666667&quot;@en .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#long&gt; &quot;-74.51166666666667&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSource_2&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#lat&gt; &quot;42.35722222222222&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .</triple></snippet><snippet><id>18</id><patternClass>MultiPropertyTable</patternClass><source>| source_confluence_location  = 
+| source_confluence_district  = [[Hancock, New York|Town of Hancock]]
+| source_confluence_region    = [[Delaware County, New York|Delaware County]]
+| source_confluence_state     = [[New York]]
+| source_confluence_country   = [[United States]]
+| source_confluence_lat_d     = 41
+| source_confluence_lat_m     = 56
+| source_confluence_lat_s     = 20
+| source_confluence_lat_NS    = N
+| source_confluence_long_d    = 75
+| source_confluence_long_m    = 16
+| source_confluence_long_s    = 46
+| source_confluence_long_EW   = W
+| source_confluence_elevation_imperial = 880</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/riverSourceConfluence&gt; &lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://dbpedia.org/ontology/sourceDistrict&gt; &lt;http://dbpedia.org/resource/Hancock,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://dbpedia.org/ontology/sourceRegion&gt; &lt;http://dbpedia.org/resource/Delaware_County,_New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://dbpedia.org/ontology/sourceState&gt; &lt;http://dbpedia.org/resource/New_York&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://dbpedia.org/ontology/sourceCountry&gt; &lt;http://dbpedia.org/resource/United_States&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://dbpedia.org/ontology/sourceElevation&gt; &quot;268.224&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://www.georss.org/georss/point&gt; &quot;41.93888888888889 -75.27944444444445&quot;@en .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#long&gt; &quot;-75.27944444444445&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverSourceConfluence_1&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#lat&gt; &quot;41.93888888888889&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .</triple></snippet><snippet><id>19</id><patternClass>MultiPropertyTable</patternClass><source>| mouth_name                  = [[Delaware Bay]]
+| mouth_location              = 
+| mouth_district              =
+| mouth_region                =
+| mouth_state                 = [[Delaware]]
+| mouth_state1                = [[New Jersey]]
+| mouth_country               = [[United States]]
+| mouth_lat_d                 = 39
+| mouth_lat_m                 = 25
+| mouth_lat_s                 = 13
+| mouth_lat_NS                = N
+| mouth_long_d                = 75
+| mouth_long_m                = 31
+| mouth_long_s                = 11
+| mouth_long_EW               = W
+| mouth_elevation_imperial    = 0</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/riverMouth&gt; &lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://dbpedia.org/ontology/mouth&gt; &lt;http://dbpedia.org/resource/Delaware_Bay&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://dbpedia.org/ontology/state&gt; &lt;http://dbpedia.org/resource/Delaware&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://dbpedia.org/ontology/state&gt; &lt;http://dbpedia.org/resource/New_Jersey&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://dbpedia.org/ontology/country&gt; &lt;http://dbpedia.org/resource/United_States&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://dbpedia.org/ontology/elevation&gt; &quot;0.0&quot;^^&lt;http://www.w3.org/2001/XMLSchema#double&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://www.georss.org/georss/point&gt; &quot;39.42027777777778 -75.51972222222223&quot;@en .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#long&gt; &quot;-75.51972222222223&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .
+&lt;http://dbpedia.org/resource/Delaware_River__riverMouth_1&gt; &lt;http://www.w3.org/2003/01/geo/wgs84_pos#lat&gt; &quot;39.42027777777778&quot;^^&lt;http://www.w3.org/2001/XMLSchema#float&gt; .</triple></snippet><snippet><id>20</id><patternClass>PlainProperty</patternClass><source>| tributary_left              = [[Neversink River]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/leftTributary&gt; &lt;http://dbpedia.org/resource/Neversink_River&gt; .</triple></snippet><snippet><id>21</id><patternClass>PlainProperty</patternClass><source>| tributary_left1             = [[Musconetcong River]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/leftTributary&gt; &lt;http://dbpedia.org/resource/Musconetcong_River&gt; .</triple></snippet><snippet><id>22</id><patternClass>PlainProperty</patternClass><source>| tributary_right             = [[Lehigh River]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/rightTributary&gt; &lt;http://dbpedia.org/resource/Lehigh_River&gt; .</triple></snippet><snippet><id>23</id><patternClass>PlainProperty</patternClass><source>| tributary_right1            = [[Schuylkill River]]</source><triple>&lt;http://dbpedia.org/resource/Delaware_River&gt; &lt;http://dbpedia.org/ontology/rightTributary&gt; &lt;http://dbpedia.org/resource/Schuylkill_River&gt; .</triple></snippet></article>

@@ -1,0 +1,5 @@
+{{ DBpediaObjectProperty
+|rdfs:label = distributor
+|rdfs:domain = Beverage
+|rdfs:range = Organisation
+}}

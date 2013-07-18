@@ -1,0 +1,4 @@
+{{DatatypeProperty
+| rdfs:label = distance
+| rdfs:range = Length
+}}

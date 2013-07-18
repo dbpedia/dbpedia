@@ -1,0 +1,5 @@
+{{ DBpediaDatatypeProperty
+|rdfs:label = OMIM
+|rdfs:domain = Protein
+|rdfs:range = xsd:string
+}}

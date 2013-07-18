@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = kingdom
+| rdfs:domain = Species
+}}

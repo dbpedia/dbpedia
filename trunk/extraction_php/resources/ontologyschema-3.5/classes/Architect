@@ -1,0 +1,4 @@
+{{Class
+| rdfs:label = Architect
+| rdfs:subClassOf = Person
+}}

@@ -1,0 +1,71 @@
+<?xml version="1.0"?><textarea id="wpTextbox1" name="wpTextbox1" cols="80" rows="25" readonly="">{{DisclaimerMapping|{{PAGENAMEE}}}}
+
+{{TemplateMapping
+| mapToClass = TelevisionShow
+| mappings =
+	{{PropertyMapping | templateProperty = show_name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = show_name2 | ontologyProperty = foaf:name }}
+        {{PropertyMapping | templateProperty = genre | ontologyProperty = genre }}
+        {{PropertyMapping | templateProperty = format | ontologyProperty = format }}
+        {{PropertyMapping | templateProperty = creator | ontologyProperty = creator }}
+	{{PropertyMapping | templateProperty = developer | ontologyProperty = developer }}	
+	{{PropertyMapping | templateProperty = writer | ontologyProperty = author }}
+        {{PropertyMapping | templateProperty = director | ontologyProperty = director }}
+	{{PropertyMapping | templateProperty = creative_director | ontologyProperty = creativeDirector }}
+        {{PropertyMapping | templateProperty = presenter | ontologyProperty = presenter }}
+	{{PropertyMapping | templateProperty = starring | ontologyProperty = starring }}
+	{{PropertyMapping | templateProperty = voices | ontologyProperty = voice }}
+        {{PropertyMapping | templateProperty = narrated | ontologyProperty = narrator }}	
+        {{PropertyMapping | templateProperty = judges | ontologyProperty = showJudge }}
+        {{PropertyMapping | templateProperty = theme_music_composer | ontologyProperty = composer }}
+        {{PropertyMapping | templateProperty = opentheme | ontologyProperty = openingTheme }}
+	{{PropertyMapping | templateProperty = endtheme | ontologyProperty = endingTheme }}
+	{{PropertyMapping | templateProperty = composer | ontologyProperty = composer }}
+	{{PropertyMapping | templateProperty = country | ontologyProperty = country }}
+	{{PropertyMapping | templateProperty = num_seasons | ontologyProperty = numberOfSeasons }}
+	{{PropertyMapping | templateProperty = num_series | ontologyProperty = numberOfSeasons }}
+	{{PropertyMapping | templateProperty = num_episodes | ontologyProperty = numberOfEpisodes }}	
+	{{PropertyMapping | templateProperty = language | ontologyProperty = language }}
+&lt;!--  End of standard properties -->
+
+&lt;!-- Start of production-specific properties -->
+	{{PropertyMapping | templateProperty = executive_producer | ontologyProperty = executiveProducer }}
+	{{PropertyMapping | templateProperty = producer | ontologyProperty = producer }}
+	{{PropertyMapping | templateProperty = editor | ontologyProperty = editor }}
+	{{PropertyMapping | templateProperty = location | ontologyProperty = location }}
+        {{PropertyMapping | templateProperty = cinematography | ontologyProperty = person }}
+&lt;!--    
+        Either Single-camera or Multi-camera.
+        {{PropertyMapping | templateProperty = camera | ontologyProperty = ???? }} 
+-->
+	{{PropertyMapping | templateProperty = runtime | ontologyProperty = runtime | unit = Time }}
+        {{PropertyMapping | templateProperty = company | ontologyProperty = company }}
+	{{PropertyMapping | templateProperty = distributor | ontologyProperty = distributor }}        
+&lt;!-- End of production-specific properties -->
+
+&lt;!-- Start of broadcast-specific properties -->
+	{{PropertyMapping | templateProperty = channel | ontologyProperty = channel }}
+	{{PropertyMapping | templateProperty = network | ontologyProperty = network }}        
+        {{PropertyMapping | templateProperty = picture_format | ontologyProperty = format }}
+        {{PropertyMapping | templateProperty = audio_format | ontologyProperty = format }}
+	{{PropertyMapping | templateProperty = first_run | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = first_aired | ontologyProperty = releaseDate }}
+	{{PropertyMapping | templateProperty = last_aired | ontologyProperty = completionDate }}       
+        {{PropertyMapping | templateProperty = status | ontologyProperty = status }}         
+&lt;!-- end of broadcast-specific properties -->        
+        {{PropertyMapping | templateProperty = story_editor | ontologyProperty = storyEditor }}
+
+	{{PropertyMapping | templateProperty = related | ontologyProperty = related }}
+	{{PropertyMapping | templateProperty = distributor | ontologyProperty = distributor }}
+&lt;!-- start of chronological  -->
+	{{PropertyMapping | templateProperty = preceded_by | ontologyProperty = previousWork }}
+	{{PropertyMapping | templateProperty = followed_by | ontologyProperty = subsequentWork }}
+&lt;!-- end of chronological -->
+&lt;!-- start of external links  -->
+	{{PropertyMapping | templateProperty = website | ontologyProperty = foaf:homepage }}
+	{{PropertyMapping | templateProperty = production_website | ontologyProperty = foaf:homepage }}
+  
+        {{PropertyMapping | templateProperty = imdb_id | ontologyProperty = imdbId }} 
+        {{PropertyMapping | templateProperty = tv_com_id | ontologyProperty = tvComId }} 
+
+</textarea>

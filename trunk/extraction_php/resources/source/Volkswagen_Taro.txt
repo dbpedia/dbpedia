@@ -1,0 +1,94 @@
+{{Infobox Automobile
+|name             = Volkswagen Taro<br>(''Typ'' 7A)
+|image            = [[Image:VWTaro1991.jpg|250px]]<br>''1991 Volkswagen Taro''
+|manufacturer     = [[Volkswagen Commercial Vehicles]]<br>[[Toyota]]<br>[[Hino Motors|Hino]]
+|parent_company   = [[Volkswagen Group]]
+|aka              = 
+|production_start = February 1989
+|production_end   = March 1997
+|assembly         = [[Tahara, Aichi]], [[Japan]]<br>[[Hanover]], [[Germany]]
+|predecessor      = 
+|successor        = [[Volkswagen Amarok]]
+|class            = [[light commercial vehicle]]
+|body_style       = [[Pickup truck]]
+|layout           = [[longitudinal engine|Longitudinal]] [[front-engine design|front engine]];<br>[[rear-wheel drive]] (4x2), or<br>[[four-wheel drive]] (4x4)
+|platform         = 
+|engine           = 1.8&nbsp;[[litre|L]] [[inline-four engine|I4]] [[petrol engine|petrol]]<br>2.2&nbsp;L I4 petrol<br>2.4&nbsp;L I4 petrol<br>2.4&nbsp;L I4 [[diesel engine|diesel]]
+|transmission     = 5-speed [[manual transmission|manual]]
+|wheelbase        = 4x2: {{convert|2850|mm|1|abbr=on|lk=on}},<br>4x4: {{convert|3095|mm|1|abbr=on}}
+|length           = 4x2: {{convert|4725|mm|1|abbr=on}},<br>4x4: {{convert|4905|mm|1|abbr=on}}
+|width            = 4x2: {{convert|1650|mm|1|abbr=on}},<br>4x4: {{convert|1690|mm|1|abbr=on}}
+|height           = 4x2: {{convert|1555|mm|1|abbr=on}},<br>4x4: {{convert|1740|mm|1|abbr=on}}
+|weight           = 
+|fuel_capacity    = 4x2: {{convert|56|L|impgal usgal|1|abbr=on|lk=on}},<br>4x4: {{convert|65|L|impgal usgal|1|abbr=on}}
+|related          = [[Toyota Hilux]]
+|designer         = 
+|sp               = uk
+}}
+In January 1989,<ref name="PressRelease198901">{{cite book|title=Volkswagen Taro Press Release|date=Jan 1989}}</ref> [[Volkswagen Commercial Vehicles]] introduced a 1&nbsp;tonne [[pickup truck]], called the '''Volkswagen Taro''', to complement the half&nbsp;tonne [[Volkswagen Caddy|Caddy]] pickup / panel van ranges, and the 1&nbsp;tonne [[Volkswagen Eurovan|Transporter]] van and chassis cab ranges.
+__TOC__
+The Taro though, was a project of [[badge engineering]], the Taro was a rebadged [[Toyota Hilux]] - fully engineered and designed by [[Toyota]].
+
+The two companies came together to solve each others problems:
+*[[Volkswagen Group]] at the time did not have a one-tonne pickup truck;
+*[[Toyota]] wanted European market share of [[Europe]]an 1 tonne utility market.
+
+So in the late 1980s, Volkswagen Group and Toyota signed an agreement that Volkswagen Commercial Vehicles would manufacture the [[Toyota Hilux]] at its VWCV factory in Hanover, Germany, and it would be sold under the Volkswagen Taro moniker.
+
+The first Taros manufactured in [[Hanover]], [[Germany]] from 1989-1994 had a 2.4&nbsp;[[litre]] [[diesel engine]] with {{convert|61|kW|PS bhp|0|lk=on}}, torque was {{convert|165|Nm|0|lk=on}} at 2,400&nbsp;rpm, with loading space of {{convert|3.4|m2|lk=on}} and a {{convert|1125|kg|0|lk=on}} [[payload]].
+
+In September 1994 at the IAA Nutfahrzeuge (Commercial Vehicle Fair) in Hanover, [[Germany]],<ref name="PressRelease199409">{{cite book|title=Volkswagen Taro Press Release|date=Sept 1994}}</ref> Volkswagen released the [[four-wheel drive]] version of the Taro which had an extended cabin.
+
+The 4x4 Extended Cab Taro was manufactured in Toyota's Sahara plant in [[Japan]], but now the Taro had an updated 2.4&nbsp;litre diesel engine which produced {{convert|58|kW|PS bhp|0}} at 4,000&nbsp;rpm and torque of {{convert|163|Nm|0}} at 2,400&nbsp;rpm.
+
+The 4x4 Taro had a {{convert|2.9|m2|0}} loading space and {{convert|815|kg|0}} payload, but could tow {{convert|750|kg|0}} without brakes, and {{convert|2100|kg|0}} with brakes.
+
+The [[joint venture]] ended in 1996, due to being under both car [[marque]]s expectations.
+
+==Specifications==
+;engine ID code, [[engine displacement|displacement]], [[engine configuration|configuration]] and rated [[motive power|motive]] [[power (physics)|power]] output<ref>[[ETKA]]</ref>
+:'''2Y''': 1.8&nbsp;[[litre]] [[inline-four engine|inline four]] [[OHV]] [[petrol engine]] with [[carburettor]], {{convert|61|kW|PS bhp|0|lk=on}} at 4,000&nbsp;[[revolutions per minute|rpm]]
+:'''4Y''': 2.2&nbsp;litre inline four OHV petrol engine with carburettor, {{convert|69|kW|PS bhp|0|lk=on}}
+:'''2L''': 2.4&nbsp;litre inline four indirect injection [[SOHC]] [[diesel engine]], {{convert|61|kW|PS bhp|0|lk=on}} at 4,000&nbsp;rpm
+:'''22R''': 2.4&nbsp;litre inline four SOHC petrol engine with [[Robert Bosch GmbH|Bosch]] [[Jetronic#L|L-Jetronic]] [[common rail]] multi-point [[indirect injection|indirect]] [[fuel injection|injection]], {{convert|82|kW|PS bhp|0|lk=on}}
+;driveline: 4x2 = [[rear-wheel drive|RWD]], 4x4 = [[four-wheel drive|4WD]]
+;loading area (m²): (4x2) 3.1m² (4x4) 2.9m²
+;track width - front: (4x2) {{convert|1355|mm|1}}, (4x4) {{convert|1430|mm|1}}
+;track width - rear: (4x2) {{convert|1370|mm|1}}, (4x4) {{convert|1425|mm|1}}
+;[[turning circle]]: (4x2) {{convert|12.6|m|ft|1|lk=on}}, (4x4) {{convert|14.0|m|ft|1}}
+;permissible total weight: (4x2) {{convert|2395|kg|0|lk=on}}, (4x4) {{convert|2515|kg|0}}
+;payload: (4x2) {{convert|995|kg|0}}, (4x4) {{convert|815|kg|0}}
+;trailer weight braked: (4x2) {{convert|1800|kg|0}}, (4x4) {{convert|2100|kg|0}}
+;trailer weight unbraked: {{convert|750|kg|0}}
+;maximum speed km/h: (4x2) {{convert|145|km/h|1|lk=on}}, (4x4) {{convert|130|km/h|1}}
+;acceleration - 0-{{convert|80|km/h|1}}: (4x2) 15.0 secs, (4x4) 17.0 secs
+;fuel consumption: (4x2) {{convert|9.6|l/100 km|lk=off }}, (4x4) {{convert|10.2|l/100 km|lk=off }}
+
+Specifications Source<ref name="PressRelease198901"/>
+
+==Future Pick-Up==
+[[Volkswagen Commercial Vehicles]] division is now developing the [[Volkswagen Amarok]] pick-up, to be released in late 2009.  It will rival the [[Nissan Navara]] and [[Toyota Hilux]].
+
+It will have Single & Double Cab options as well as the option of 2WD or 4WD.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.Volkswagen-Commercial-Vehicles.com Volkswagen-Commercial-Vehicles.com] - official international portal
+
+<br>
+{{Volkswagen Commercial Vehicles}}
+{{Volkswagen Commercial Vehicles (Europe) timeline}}
+
+[[Category:Volkswagen vehicles|Taro]]
+[[Category:Pickup trucks]]
+[[Category:Toyota vehicles|Taro]]
+
+[[da:Volkswagen Taro]]
+[[de:VW Taro]]
+[[ja:フォルクスワーゲン・タロ]]
+[[no:Volkswagen Taro]]
+[[pt:Volkswagen Taro]]
+[[fi:Volkswagen Taro]]
+[[sv:Volkswagen Taro]]

@@ -1,0 +1,15 @@
+{{ DBpediaTemplateMapping
+| mapToClass = Nerve
+| mappings = 
+	{{ DBpediaPropertyMapping | templateProperty = Innervates | ontologyProperty = Nerve/innervates }}
+	{{ DBpediaPropertyMapping | templateProperty = BranchFrom | ontologyProperty = Nerve/branchFrom }}
+	{{ DBpediaPropertyMapping | templateProperty = BranchTo | ontologyProperty = Nerve/branchTo }}
+	{{ DBpediaPropertyMapping | templateProperty = Name | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = Latin | ontologyProperty = foaf:name }}
+	{{ DBpediaPropertyMapping | templateProperty = GraySubject | ontologyProperty = AnatomicalStructure/graySubject }}
+	{{ DBpediaPropertyMapping | templateProperty = GrayPage | ontologyProperty = AnatomicalStructure/grayPage }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshName | ontologyProperty = AnatomicalStructure/meshName }}
+	{{ DBpediaPropertyMapping | templateProperty = MeshNumber | ontologyProperty = AnatomicalStructure/meshNumber }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsPre | ontologyProperty = AnatomicalStructure/dorlandsPrefix }}
+	{{ DBpediaPropertyMapping | templateProperty = DorlandsSuf | ontologyProperty = AnatomicalStructure/dorlandsSuffix }}
+}}

@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = maximum temperature
+| rdfs:domain = Planet
+| rdfs:range = Temperature
+}}

@@ -1,0 +1,87 @@
+{{Infobox Automobile
+| image        = [[Image:Gumpert Apollo 3.jpg|250px]]
+| name         = Gumpert Apollo Basic
+| manufacturer = [[Gumpert]]
+| production   = 2005&ndash;present
+| engine       = {{convert|4.2|L|cuin|abbr=on}} bi-[[turbocharged]] [[V8]]
+| top_speed    = {{convert|224|mph|km/h|abbr=on}}
+| transmission = 6-speed sequential manual
+| weight       = {{convert|1100|kg|lb|abbr=on}} to {{convert|1200|kg|lb|abbr=on}}
+| designer     = [[Roland Gumpert]]<br>[[Roland Mayer]]
+| predecessor  = 
+| successor    = 
+| related      = 
+}}
+
+The '''Gumpert Apollo''' is a supercar produced by German automaker [[Gumpert|Gumpert Sportwagenmanufaktur GmbH]] in [[Altenburg]].
+
+==History==
+In 2001 [[Roland Gumpert]] proposed a new generation [[sports car]]. One of the first concerns of this car was that it be a street-legal car, ready for the race track. Gumpert returned to Germany at the end of 2001, after more than three years in China. There he was the head of sales and marketing, responsible for the development of the dealer network of the [[Audi]]-[[Volkswagen|VW]] joint enterprise. Just after he returned to Germany, [[Roland Mayer]] asked him if he would assist him in building a prototype sports car. Audi approved Gumpert's involvement in this project, on the condition that, if they did eventually develop a new sports car, it would not be a [[prototype]], but a series product.<ref name="PR GUMPERT Dezember 2008_english">{{cite web|url=http://www.m5board.com/vbulletin/attachments/gtboard-com-general-sportscars/75991d1229461830-40th-gumpert-apollo-manifacturered-apollor-project-rleated-audi-r8-pr-gumpert-dezember-2008_english.pdf|format=PDF|title=PR GUMPERT Dezember 2008_english|accessdate=2009-01-06}}</ref>
+
+The company, located in [[Altenburg]], [[Germany]], was founded in 2004 under the name GMG Sportwagenmanufaktur
+Altenburg GmbH. The technical guidelines were defined and the first designs of the car were drawn by [[Marco Vanetta]]. Upon Vanetta's completion of this process, the first 1:4 [[scale model]] of Gumpert's car was produced in 2002.
+
+Gumpert continued with the development of the Apollo, along with the [[Technical University of Munich]] and the [[Ingolstadt University of Applied Sciences]]. They have assisted with the [[construction|constructional work]], [[simulation|computer simulations]], and [[wind tunnel|wind tunnel tests]]. This research and development helped forming the blueprint for the first 1:1 scale model. Finally, two prototype Apollos were constructed.<ref name="Gumpert Sportwagenmanufaktur - History">{{cite web|url=http://www.gumpert.de/eng/historie.html|title=Gumpert Sportwagenmanufaktur - History|accessdate=2009-01-06}}</ref> The production of the Apollo started in October 2005.<ref name="Doc1280">{{cite web|url=http://www.nadim.com/GalleryDocs/Doc1280.pdf|format=PDF|title=Doc1280|accessdate=2009-01-06}}</ref>
+
+==Motorsport==
+
+[[Image:Gumpert Apollo Leipzig-Altenburg Airport.JPG|thumb|The Gumpert Apollo used the [[Leipzig-Altenburg Airport]] as a test track.]]
+
+During April 2005 the Apollo made its racing debut in the Divinol Cup. This Apollo was driven by the Belgian race driver [[Ruben Maes]]. Maes finished third on the [[Hockenheimring]] race track. Three years later Gumpert announced that they would enter a [[Hybrid electric vehicle|hybrid]] version of the Apollo in the 2008 [[24 Hours Nürburgring]], driven by 2004 winner [[Dirk Müller]] and ex-[[Formula One]] racer [[Heinz-Harald Frentzen]]. Three months passed between the first discussions and the finished hybrid Apollo. The Apollo was driven in the 24 Hours Nürburgring in May 2008.  The hybrid Apollo can deliver up to {{convert|382|kW|PS hp|0|abbr=on}}, powered with a 3.3 litre V8 [[bi-turbo]] engine coupled with a {{convert|100|kW|PS hp|0|abbr=on}} electric motor. The car has the ability to [[regenerative brake|recharge the battery under braking]].
+
+On July 27, 2008 an Apollo Sport was featured on the UK show [[Top Gear (current format)|Top Gear]]. [[Richard Hammond]] and [[The Stig]] drove the Apollo Sport.<ref name="Gumpert Apollo takes first place on the Top Gear Test Track :: RS246.com :: The World's #1 Audi S and RS Enthusiast Website">{{cite web|url=http://www.rs246.com/index.php?name=News&file=article&sid=65|title=Gumpert Apollo takes first place on the Top Gear Test Track :: RS246.com :: The World's #1 Audi S and RS Enthusiast Website|accessdate=2009-01-08}}</ref> With a lap time of 1:17.1, the Apollo Sport was the fastest on the 'Power Lap Board' as of November 2009.<ref name="BBC - Top Gear - Power Laps">{{cite web|url=http://www.bbc.co.uk/topgear/show/powerlaps.shtml|title=BBC - Top Gear - Power Laps|accessdate=2009-06-28}}</ref>
+<!-- PLEASE DO NOT ADD FURTHER INFORMATION ABOUT "TOP GEAR" HERE.  This article is not the place to record trivia about a TV programme racing other cars. -->
+
+==Design==
+The Apollo is a {{convert|1100|kg|lb|abbr=on}} to {{convert|1200|kg|lb|abbr=on}} (depending on options), street-legal race car. It is a mid-engined, rear wheel drive two-seater constructed on a tubular [[chromoly]] frame, with [[fiberglass]] or optional [[carbon fiber]] body panels. The manufacturers, Gumpert, claim the design of the Apollo is optimized so that the car could drive upside-down in a tunnel if driven at sufficiently high speeds (over 190&nbsp;mph),<ref>[http://www.gumpert.de/eng/apollovision.html]Gumpert Homepage</ref> though this remains to be tested. Top Gear presenter Richard Hammond claims that Gumpert have already found a suitable tunnel and have made all the preparations necessary and are simply waiting for a volunteer driver willing enough to do the test.<ref>Top Gear: Series 11, Episode 6</ref>
+<gallery>
+Image:2 Apollos (Prototype) with F-4 Phantom.jpg|2 Apollos with F-4 Phantom
+Image:Gumpert Apollo Geneva 2006 3.jpg|Interior View
+Image:Gumpert Apollo Geneva 2006 1.jpg|Salon International de l'Auto - Geneva
+</gallery>
+
+==Engine==
+A 4163 cc [[bi-turbo]] [[intercooled]] [[V8 engine]] powers the Apollo. The 90° V8 has a closed-deck light metal crankcase with [[dry sump]] lubrication. The light metal cylinder heads have five valves per cylinder, four overhead camshafts, [[VarioCam]] Direct variable valve timing on the intakes, and hydraulic valve clearance compensation. The double-flow exhaust system has four [[oxygen sensor]]s to monitor the gas mixture, and a 3-way [[catalytic converter]]. Modern controls include an on-board diagnostic system, eight-coil [[electronic ignition]], sequential multipoint [[fuel injection]], and an electronic ([[drive by wire]]) accelerator system.
+
+There are 3 engine types available, a base version with about {{convert|478|kW|PS hp|0|abbr=on}}, a sport version with around {{convert|515|kW|PS hp|0|abbr=on}} and a race version with around {{convert|588.4|kW|PS hp|0|abbr=on}}
+Top speed is {{convert|360|km/h|mph|abbr=on}} with 0-{{convert|100|km/h|mph|abbr=on}} reached in 3.2 seconds and 0-{{convert|200|km/h|mph|abbr=on}} in 8.8 seconds.
+
+==Dimensions==
+*Length: {{convert|4460|mm|in|abbr=on}}
+*Width: {{convert|1998|mm|in|abbr=on}}
+*Height: {{convert|1114|mm|in|abbr=on}}
+*Wheel Base: {{convert|2700|mm|in|abbr=on}}
+
+'''Weight'''
+*Curb Weight: under {{convert|1200|kg|lb|abbr=on}}
+*Total Allowed Weight: {{convert|1500|kg|lb|abbr=on}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Gumpert Apollo}}
+*[http://www.gumpert.de/eng/index_html.html Gumpert Sportwagenmanufaktur]
+*[http://www.gumpertuk.com Gumpert UK]
+*[http://www.gumpert-racing.com Gumpert USA]
+
+
+[[Category:Rear mid-engine, rear-wheel drive vehicles]]
+[[Category:Cars of Germany]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2005]]
+[[Category:Automobiles with gull-wing doors]]
+
+[[ca:Gumpert Apollo]]
+[[de:Gumpert Apollo]]
+[[es:Gumpert Apollo]]
+[[fr:Gumpert Apollo]]
+[[hr:Gumpert Apollo]]
+[[it:Gumpert Apollo]]
+[[he:Gumpert Apollo]]
+[[nl:Gumpert Apollo]]
+[[ja:グンペルト・アポロ]]
+[[pl:Gumpert Apollo]]
+[[pt:Gumpert Apollo]]
+[[sr:Гумперт Аполо]]
+[[fi:Gumpert Apollo]]

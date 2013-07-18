@@ -1,0 +1,4 @@
+{{ObjectProperty
+| rdfs:label = movement
+| rdfs:domain = Artist
+}}

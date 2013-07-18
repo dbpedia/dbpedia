@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = youth years
+| rdfs:domain = SoccerPlayer
+| rdfs:range = xsd:date
+}}

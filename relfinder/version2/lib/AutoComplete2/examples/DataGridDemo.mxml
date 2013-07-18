@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Box 
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:components="com.hillelcoren.components.*"
+	width="100%" height="100%"
+	verticalAlign="top" horizontalAlign="left" 
+	paddingLeft="20" paddingTop="15" paddingBottom="20" paddingRight="20"
+	initialize="init()">
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.collections.SortField;
+			import mx.collections.Sort;
+			import mx.utils.StringUtil;
+			import mx.utils.ObjectUtil;
+			import mx.core.ByteArrayAsset;
+			import mx.controls.dataGridClasses.DataGridColumn;
+			import mx.collections.ArrayCollection;
+			
+			[Bindable]
+			public var characters:ArrayCollection;
+			
+			[Bindable]
+			public var actors:ArrayCollection;
+			
+			[Bindable]  
+			[Embed(source="simpsons.txt", mimeType="application/octet-stream")]  
+			private var myFileClass:Class; 
+
+
+			private function init():void
+			{
+				characters = new ArrayCollection();
+				actors = new ArrayCollection();
+				
+				var MyFileByteArray:ByteArrayAsset = ByteArrayAsset(new myFileClass());  
+				var simpsons:String = MyFileByteArray.readUTFBytes(MyFileByteArray.length);
+				
+				for each (var simpson:String in simpsons.split( "\r" ))
+				{
+					var parts:Array = simpson.split( "\t" );
+					
+					var obj:Object = new Object();
+					obj.name = parts[0];
+					obj.voicedBy = new ArrayCollection();
+					
+					for each (var actor:String in String( parts[1] ).split( "," ))
+					{
+						actor = StringUtil.trim( actor );
+						
+						ArrayCollection( obj.voicedBy ).addItem( actor );
+						
+						if (!actors.contains( actor ))
+						{
+							actors.addItem( actor );
+						}
+					}
+					
+					characters.addItem( obj );
+				}
+				
+				var sort:Sort = new Sort();
+				var sortField:SortField = new SortField( "name" );
+				sort.fields = [ sortField ];
+				
+				characters.sort = sort;
+				characters.refresh();
+			}
+			
+			private function voicedByFunction( item:Object, column:DataGridColumn ):String
+			{
+				return ArrayCollection( item.voicedBy ).source.join( ", " );
+			}
+			
+		]]>
+	</mx:Script>
+	
+	<mx:Component id="autocomplete">
+		<components:AutoComplete dataProvider="{ outerDocument.actors }" 
+			isMultiSelect="true" multiSelectLayout="horizontal"
+			labelField="name" style="underline" backspaceAction="remove"/>
+	</mx:Component>
+						
+	<mx:DataGrid dataProvider="{ characters }" editable="true" width="100%" height="100%">
+		<mx:columns>
+			<mx:DataGridColumn headerText="Character" dataField="name" editable="false"/>
+			<mx:DataGridColumn width="300" headerText="Voiced By" labelFunction="voicedByFunction" editorUsesEnterKey="true"
+				itemEditor="{ autocomplete }" editorDataField="selectedItems" dataField="voicedBy"/>
+		</mx:columns>
+	</mx:DataGrid>
+
+</mx:Box>

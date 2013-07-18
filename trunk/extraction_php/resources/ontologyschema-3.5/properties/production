@@ -1,0 +1,5 @@
+{{DatatypeProperty
+| rdfs:label = production
+| rdfs:domain = Company
+| rdfs:range = xsd:integer
+}}

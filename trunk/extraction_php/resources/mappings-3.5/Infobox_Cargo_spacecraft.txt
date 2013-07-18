@@ -1,0 +1,36 @@
+{{TemplateMapping
+| mapToClass = Spacecraft
+| mappings = 
+	{{PropertyMapping | templateProperty = type | ontologyProperty = type }}
+	{{PropertyMapping | templateProperty = organisation | ontologyProperty = organisation }}
+	{{PropertyMapping | templateProperty = station | ontologyProperty = station }}
+	{{PropertyMapping | templateProperty = crew | ontologyProperty = crew }}
+	{{PropertyMapping | templateProperty = rocket | ontologyProperty = rocket }}
+	{{PropertyMapping | templateProperty = site | ontologyProperty = launchSite }}
+	{{PropertyMapping | templateProperty = launch | ontologyProperty = launch }}
+	{{PropertyMapping | templateProperty = decay | ontologyProperty = decay }}
+	{{PropertyMapping | templateProperty = COSPAR | ontologyProperty = cosparId }}
+	{{PropertyMapping | templateProperty = freeflight | ontologyProperty = freeFlightTime | unit = Time }}
+	{{PropertyMapping | templateProperty = dockedtime | ontologyProperty = dockedTime | unit = Time }}
+	{{PropertyMapping | templateProperty = port1 | ontologyProperty = port1 }}
+	{{PropertyMapping | templateProperty = dock1 | ontologyProperty = port1DockingDate }}
+	{{PropertyMapping | templateProperty = undock1 | ontologyProperty = port1UndockingDate }}
+	{{PropertyMapping | templateProperty = time1 | ontologyProperty = port1DockedTime | unit = Time  }}
+	{{PropertyMapping | templateProperty = port2 | ontologyProperty = port2 }}
+	{{PropertyMapping | templateProperty = dock2 | ontologyProperty = port2DockingDate }}
+	{{PropertyMapping | templateProperty = undock2 | ontologyProperty = port2UndockingDate }}
+	{{PropertyMapping | templateProperty = time2 | ontologyProperty = port2DockedTime | unit = Time }}
+	{{PropertyMapping | templateProperty = orbits | ontologyProperty = orbits }}
+	{{PropertyMapping | templateProperty = regime | ontologyProperty = regime }}
+	{{PropertyMapping | templateProperty = periapsis | ontologyProperty = periapsis | unit = Length }}
+	{{PropertyMapping | templateProperty = apoapsis | ontologyProperty = apoapsis | unit = Length }}
+	{{PropertyMapping | templateProperty = inclination | ontologyProperty = inclination }}
+	{{PropertyMapping | templateProperty = mass | ontologyProperty = totalMass | unit = Mass }}
+	{{PropertyMapping | templateProperty = cargo | ontologyProperty = totalCargo | unit = Mass }}
+	{{PropertyMapping | templateProperty = dry | ontologyProperty = dryCargo | unit = Mass }}
+	{{PropertyMapping | templateProperty = fuel | ontologyProperty = cargoFuel | unit = Mass }}
+	{{PropertyMapping | templateProperty = gas | ontologyProperty = cargoGas | unit = Mass }}
+	{{PropertyMapping | templateProperty = water | ontologyProperty = cargoWater | unit = Mass }}
+	{{PropertyMapping | templateProperty = name | ontologyProperty = foaf:name }}
+	{{PropertyMapping | templateProperty = contractors | ontologyProperty = manufacturer }}
+}}
