@@ -29,29 +29,30 @@ public static void main(String[] args ) throws FileNotFoundException, IOExceptio
     String line;
     
     /*
-     * enwiki-20130604-page.sql- data line start at line #50
-     * enwiki-20130604-categorylinks.sql data line start at line #44
-     * 
+     * enwiki-20130604-page.sql- data line start at line #49
+     * enwiki-20130604-categorylinks.sql data line start at line #43
+     * enwiki-20130604-category.sql data line start at line #42
      * change "int count" variable according to the data line for each SQl dump file
      */
-     File categoryLinksDumpFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\Wiki_Category_SQL_tables\\enwiki-20130604-categorylinks.sql" );
-     File outCategoryLinksDumpFile = new File( "typles_out\\enwiki-20130604-categorylinks_typles.txt"  );
+     File categoryLinksDumpFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\Wiki_Category_SQL_tables\\enwiki-20130604-category.sql" );
+     File outCategoryLinksDumpFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt");
     
      BufferedReader  fileReader;
     fileReader = new BufferedReader( new FileReader( categoryLinksDumpFile ) );
  int count=0;
         while ((line = fileReader.readLine())!=null )
         {
-           // line = fileReader.readLine();
+           System.out.println(line); 
+       
              
-            if(count>43){
+            if(count>=42){
                 FileWriter outFile2 = new FileWriter(outCategoryLinksDumpFile,true);
                  //  System.out.println("#############################################################");
                 
              String[] strArr = line.split("\\)\\,\\(");
              for(int i=0;i< strArr.length;i++){
                  if(i==0){
-                     String[] strArr2= strArr[0].split( "\\(" ) ;
+                     String[] strArr2= strArr[0].split("\\(",2) ;
                      outFile2.append(strArr2[1]+"\n");
                         //System.out.println( strArr2[1]);  
                  }
