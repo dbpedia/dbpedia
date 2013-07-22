@@ -51,4 +51,67 @@ public class CategoryDB
         }
 
     }
+    public static void getCategoryByName( String catTitle )
+    {
+        DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+        int updateQuery = 0;
+
+        String query = "SELECT * FROM `category` WHERE `cat_title`=?";
+
+
+        try
+        {
+            ps = connection.prepareStatement( query );
+            ps.setString( 1, catTitle );
+
+            rs = ps.executeQuery();
+            int nodeId = 0;
+            while ( rs.next() )
+            {
+                //TO-DO- write the insert method call
+              //  nodeId = rs.getInt(1);
+            }
+           // return nodeId;
+        } catch ( SQLException e )
+        {
+            e.printStackTrace();
+           // return 0;
+        }
+
+    }
+    
+    public static void insertCategory( String catTitle )
+    {
+        DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+        int updateQuery = 0;
+
+        String query = "SELECT * FROM `category` WHERE `cat_title`=?";
+
+
+        try
+        {
+            ps = connection.prepareStatement( query );
+            ps.setString( 1, catTitle );
+
+            rs = ps.executeQuery();
+            int nodeId = 0;
+            while ( rs.next() )
+            {
+                //TO-DO- write the insert method call
+              //  nodeId = rs.getInt(1);
+            }
+           // return nodeId;
+        } catch ( SQLException e )
+        {
+            e.printStackTrace();
+           // return 0;
+        }
+
+    }
 }
