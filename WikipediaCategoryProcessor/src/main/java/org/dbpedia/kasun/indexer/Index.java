@@ -28,8 +28,6 @@ import org.apache.lucene.util.Version;
 public class Index
 {
 
-   
-
     public static void indexPage( String pathToIndex, File pageTuplesFile ) throws IOException
     {
         int noOfDocs = 0;
@@ -38,9 +36,9 @@ public class Index
 
         try
         {
-           // NIOFSDirectory dir = new NIOFSDirectory( new File( pathToIndex ) );
+            // NIOFSDirectory dir = new NIOFSDirectory( new File( pathToIndex ) );
             //dir = new RAMDirectory() ;
-           // iW = new IndexWriter( dir, new IndexWriterConfig( Version.LUCENE_43, new WhitespaceAnalyzer( Version.LUCENE_43 ) ) );
+            // iW = new IndexWriter( dir, new IndexWriterConfig( Version.LUCENE_43, new WhitespaceAnalyzer( Version.LUCENE_43 ) ) );
 
 
 
@@ -49,7 +47,7 @@ public class Index
             fileReader = new BufferedReader( new FileReader( pageTuplesFile ) );
             int count = 0;
             String line;
-FileWriter  outFile ;
+            FileWriter outFile;
             while ( ( line = fileReader.readLine() ) != null )
             {
 
@@ -60,26 +58,26 @@ FileWriter  outFile ;
 //                StringReader page_namespace = new StringReader( strArr[1] );
 //                StringReader page_title = new StringReader( strArr[2] );
                     //System.out.println(strArr[0]+strArr[1]+strArr[2]);
-                    
-                    if(strArr[1].trim()=="0")
-                    {
-                         outFile = new FileWriter( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\pages_page_namespace_0_new.txt", true );
 
- 
-            outFile.append( strArr[0] + "\t" + strArr[1] + "\t" + strArr[2] + "\n" );
-            //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
-            outFile.close();
+                    if ( strArr[1].trim() == "0" )
+                    {
+                        outFile = new FileWriter( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\pages_page_namespace_0_new.txt", true );
+
+
+                        outFile.append( strArr[0] + "\t" + strArr[1] + "\t" + strArr[2] + "\n" );
+                        //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
+                        outFile.close();
                     }
                     /*
-                    Document doc = new Document();
-
-                    doc.add( new TextField( "page_id", strArr[0], Field.Store.YES ) );
-                    doc.add( new TextField( "page_namespace", strArr[1], Field.Store.YES ) );
-                    doc.add( new TextField( "page_title", strArr[2], Field.Store.YES ) );
-
-
-                    iW.addDocument( doc );
-*/
+                     * Document doc = new Document();
+                     *
+                     * doc.add( new TextField( "page_id", strArr[0], Field.Store.YES ) ); doc.add( new TextField(
+                     * "page_namespace", strArr[1], Field.Store.YES ) ); doc.add( new TextField( "page_title",
+                     * strArr[2], Field.Store.YES ) );
+                     *
+                     *
+                     * iW.addDocument( doc );
+                     */
 
                 } else
                 {
@@ -90,8 +88,8 @@ FileWriter  outFile ;
             }
 
 
-           // iW.close();
-          //  dir.close();
+            // iW.close();
+            //  dir.close();
 
         } catch ( CorruptIndexException e )
         {
@@ -101,7 +99,8 @@ FileWriter  outFile ;
             e.printStackTrace();
         }
     }
- public static void readPageTable( File pageTuplesFile ) throws IOException
+
+    public static void readPageTable( File pageTuplesFile ) throws IOException
     {
         int noOfDocs = 0;
 
@@ -109,36 +108,34 @@ FileWriter  outFile ;
 
         try
         {
-           
+
 
 
             BufferedReader fileReader;
             fileReader = new BufferedReader( new FileReader( pageTuplesFile ) );
             int count = 0;
             String line;
-FileWriter  outFile ;
+            FileWriter outFile;
             while ( ( line = fileReader.readLine() ) != null )
             {
 
                 String[] strArr = line.split( "\\," );
                 if ( strArr.length >= 3 )
                 {
-             
-                    
-                    if(strArr[1].trim().equals("0"))
+
+
+                    if ( strArr[1].trim().equals( "0" ) )
                     {
-                         outFile = new FileWriter( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\pages_page_namespace_0_new.txt", true );
+                        outFile = new FileWriter( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\pages_page_namespace_0_new.txt", true );
 
- 
-            outFile.append( strArr[0] + "\t" + strArr[1] + "\t" + strArr[2] + "\n" );
-            //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
-            outFile.close();
+
+                        outFile.append( strArr[0] + "\t" + strArr[1] + "\t" + strArr[2] + "\n" );
+                        //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
+                        outFile.close();
                     }
-                   
 
-                } 
-                
-                else
+
+                } else
                 {
                     System.out.println( line + "\n" );
                 }
@@ -156,7 +153,7 @@ FileWriter  outFile ;
             e.printStackTrace();
         }
     }
- 
+
     public static void indexCategoryLinks( String pathToIndex, File tuplesFile ) throws IOException
     {
         //String pathToIndex = "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\page_index";
@@ -195,8 +192,8 @@ FileWriter  outFile ;
 
                     doc.add( new TextField( "cl_from", strArr[0], Field.Store.YES ) );
                     doc.add( new TextField( "cl_to", strArr[1], Field.Store.YES ) );
-                     doc.add( new TextField( " cl_sortkey", strArr[2], Field.Store.YES ) );
-                   
+                    doc.add( new TextField( " cl_sortkey", strArr[2], Field.Store.YES ) );
+
                     doc.add( new TextField( "cl_type", strArr[6], Field.Store.YES ) );
                     iW.addDocument( doc );
                 } else
@@ -245,9 +242,10 @@ FileWriter  outFile ;
                 String[] strArr = line.split( "\\," );
                 //Data in following order`cat_id`,`cat_title`,`cat_pages`,`cat_subcats` 
                 //we need 0,1,2,3 elements of the string
-                if ( strArr.length >= 4 )
+                if ( strArr.length >= 2)
                 {
 
+                  //  System.out.println(strArr[0]+"####"+strArr[1]+"####"+strArr[2]+"#####"+strArr[3]+"###"+strArr[4]);
                     Document doc = new Document();
 
 
@@ -255,8 +253,13 @@ FileWriter  outFile ;
 
                     doc.add( new TextField( "cat_id", strArr[0], Field.Store.YES ) );
                     doc.add( new TextField( "cat_title", strArr[1], Field.Store.YES ) );
-                    doc.add( new TextField( "cat_pages", strArr[2], Field.Store.YES ) );
-                    doc.add( new TextField( "cat_subcats", strArr[3], Field.Store.YES ) );
+                  //  doc.add( new IntField( "cat_pages", Integer.parseInt( strArr[2].trim() ), Field.Store.YES ) );
+                  //  doc.add( new IntField( "cat_subcats", Integer.parseInt( strArr[3].trim() ), Field.Store.YES ) );
+                  //  doc.add( new IntField( "cat_files", Integer.parseInt( strArr[4].trim() ), Field.Store.YES ) );
+                  //  doc.add( new TextField( "cat_hidden", strArr[5].substring( 0,1), Field.Store.YES ) );
+
+
+
                     iW.addDocument( doc );
                 } else
                 {

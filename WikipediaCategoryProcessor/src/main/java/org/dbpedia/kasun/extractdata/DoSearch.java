@@ -26,8 +26,10 @@ public class DoSearch
         //page
         // String pathToIndex = "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\page_index";
         //categorylinks
-        String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\category_links";
-
+        String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\category";
+ File categoryTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt" );
+ //Index.indexCategory( pathToIndex, categoryTuplesFile );
+        
 /*
         
          String pathToIndex1 ="C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\page_index1"; 
@@ -38,8 +40,9 @@ public class DoSearch
          String pathToIndex6 = "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\page_index6";
          
         //page tuples
-         File pageTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-page_typles.txt" );
-*/
+         File pageTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-page_typles.txt" );File pageTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-page_typles.txt" );
+
+
          
         //  File ctLinksTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-categorylinks_typles.txt" );
 
@@ -59,11 +62,13 @@ public class DoSearch
 
 
        
-        String cateLinksField = "cl_from";
+       // String cateLinksField = "cl_from";
 
 
-         Search.searchCategoryLinks( new File( pathToIndex ), cateLinksField, 200 );
+       //  Search.searchCategoryLinks( new File( pathToIndex ), cateLinksField, 200 );
            
+ String cateLinksField = "cat_title";
+ Search.searchCategory( new File( pathToIndex ), cateLinksField, 2 );
 
     }
 }

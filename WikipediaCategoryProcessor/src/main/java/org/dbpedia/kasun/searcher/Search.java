@@ -72,7 +72,8 @@ public class Search
 
     }
 
-    public static void searchCategoryLinks( File indexDir, String filed, int hitsPerPage )
+    
+public static void searchCategoryLinks( File indexDir, String filed, int hitsPerPage )
         throws Exception
     {
        
@@ -109,6 +110,52 @@ public class Search
             int docId = hits[i].doc;
             Document d = searcher.doc( docId );
             outFile.append( d.get( "cl_from" ) + "\t" + d.get( "cl_to" ) + "\t" + d.get( "cl_sortkey" ) + d.get( "cl_type" ) +"\n" );
+            //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
+        }
+         outFile.close();
+        }
+    }
+        
+       
+    }
+    
+    public static void searchCategory( File indexDir, String filed, int hitsPerPage )
+        throws Exception
+    {
+       
+        WhitespaceAnalyzer analyzer = new WhitespaceAnalyzer( Version.LUCENE_43 );
+        NIOFSDirectory dir = new NIOFSDirectory( indexDir );
+          IndexReader reader = IndexReader.open( dir );
+        IndexSearcher searcher = new IndexSearcher( reader );
+     
+        
+        
+        
+        File uniqueCatFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\sorted_f2_categorylinks_match_article_pages.txt" );
+        String line;
+        BufferedReader fileReader;
+        fileReader = new BufferedReader( new FileReader( uniqueCatFile ) );
+        while ( ( line = fileReader.readLine() ) != null )
+        {
+          if(!line.isEmpty())  {
+           // String[] strArr = line.split( "\\t" );
+            FileWriter outFile = new FileWriter( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\categories_match_article_pages.txt", true );
+            
+        
+           TopScoreDocCollector collector = TopScoreDocCollector.create( hitsPerPage, true );
+        Query query = new QueryParser( Version.LUCENE_43, filed, analyzer ).parse( "'"+line.trim()+"'" );
+        searcher.search( query, collector );
+        ScoreDoc[] hits = collector.topDocs().scoreDocs;
+
+if(hits.length==0){
+      System.out.println(line);
+}
+
+        for ( int i = 0; i < hits.length; ++i )
+        {
+            int docId = hits[i].doc;
+            Document d = searcher.doc( docId );
+            outFile.append( d.get( "cat_id" ) + "\t" + d.get( "cat_title" )+"\n" );
             //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
         }
          outFile.close();
