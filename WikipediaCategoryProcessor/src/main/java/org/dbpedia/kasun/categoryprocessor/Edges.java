@@ -48,7 +48,7 @@ public class Edges
 
     public void findProminetNodes( Scanner leafNodeFileScanner ) throws IOException
     {
-
+         // input leaf nodelit as a file to enhance memoery useage    
         //all leaf nodes
 
         HashSet<String> prominetNodeList= new HashSet<String>();
@@ -86,7 +86,8 @@ public class Edges
                 ArrayList<String> childnodes = EdgeDB.getChildren( parentId.get( j ) );
 
                 //boolean prominentNode = isProminent( childnodes );
-                if(isProminent( childnodes )){
+                //check whether all children are leafs
+                if(isLeaf( childnodes )){
                     
                     //duplicates automatically removed
                     prominetNodeList.add( NodeDB.getCategoryName(parentId.get( j )) );
@@ -112,7 +113,7 @@ outFile4.close();
 
     }
 
-    private boolean isProminent( ArrayList<String> childnodes )
+    private boolean isLeaf( ArrayList<String> childnodes )
     {
         boolean status = true;
         for ( int k = 0; k < childnodes.size(); k++ )

@@ -5,10 +5,7 @@
 package org.dbpedia.kasun.categoryprocessor;
 
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 /**
@@ -25,15 +22,38 @@ public class CategoryProcesor
      */
     public static void main( String[] args ) throws IOException
     {
+        
+     
+       // CategoryDB.getCategoryByName();
+        
+          File uniqueCatNamesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\categories_not_found_in_category_table_ca_replaced_part_3.txt" );
+        String line;
+        BufferedReader fileReader;
+        fileReader = new BufferedReader( new FileReader( uniqueCatNamesFile ) );
+        //FileWriter outFile;
+       // FileWriter outFileCatNotFound;
+       
+        while ( ( line = fileReader.readLine() ) != null )
+        {
+            if ( !line.isEmpty() )
+            {
+               // CategoryDB.getCategoryDirectedByArticlePage(line);
+                CategoryDB.getCategoryByName(line);
+            }
+        }
+        
+        
+        
+        /*
         System.out.println("Threshold \t" +"Page Count");
         // TODO code application logic here
 for(int i=1; i<10; i++){
     int pageCount= CategoryDB.getCategoryPageCount( i );
     System.out.println(i+"\t" +pageCount);
-    
+   
     
 }
-        
+  */      
         /*
         
         Scanner fileScanner = null;
