@@ -53,10 +53,10 @@ public class DataProcesor {
       
                  
                  //insert parent and child to the node- duplicate enties are handle by the SQL 
-                 NodeDB.insertNode( parent );
+               //  NodeDB.insertNode( parent );
                  
                  outFile1.append(parent+"\n");
-                 NodeDB.insertNode( child);
+                // NodeDB.insertNode( child);
                  outFile2.append(child+"\n");
                  //get child and parent  Ids
                  parentId=NodeDB.getCategoryId( parent );

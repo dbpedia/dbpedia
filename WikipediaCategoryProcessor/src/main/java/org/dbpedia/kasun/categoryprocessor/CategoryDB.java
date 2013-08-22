@@ -32,7 +32,7 @@ public class CategoryDB
         ResultSet rs = null;
         int updateQuery = 0;
 
-        String query = "SELECT COUNT(*) FROM `category` WHERE `cat_subcats`=0 AND `cat_pages`>0 AND `cat_pages`< ? ";
+        String query = "SELECT COUNT(*) FROM `page_category` WHERE `cat_subcats`=0  AND `cat_pages`< ? ";
 
 
         try

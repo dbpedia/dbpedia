@@ -29,22 +29,23 @@ import java.util.ArrayList;
  */
 public class NodeDB {
     
-        public static void insertNode( String categoryName){
+        public static void insertNode( int nodeID, String categoryName){
         DB_connection con = new DB_connection();
         Connection connection = con.dbConnect();
         PreparedStatement ps = null;
         ResultSet rs = null;
           int updateQuery = 0;
         
-         String query = "INSERT IGNORE INTO node(category_name,is_leaf,is_prominent) VALUES (?,?,?)";
+         String query = "INSERT IGNORE INTO node(node_id,category_name,is_leaf,is_prominent) VALUES (?,?,?,?)";
 
 
         try
         {
             ps = connection.prepareStatement(query);
-            ps.setString( 1, categoryName);
-            ps.setBoolean( 2, false);
+            ps.setInt( 1, nodeID);
+            ps.setString( 2, categoryName);
             ps.setBoolean( 3, false);
+            ps.setBoolean( 4, false);
             updateQuery = ps.executeUpdate();
            
 //            while (rs.next())

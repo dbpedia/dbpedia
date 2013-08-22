@@ -32,20 +32,21 @@ public static void main(String[] args ) throws FileNotFoundException, IOExceptio
      * enwiki-20130604-page.sql- data line start at line #49
      * enwiki-20130604-categorylinks.sql data line start at line #43
      * enwiki-20130604-category.sql data line start at line #42
+     * enwiki-20130604-langlinks.sql data line start at line #39
      * change "int count" variable according to the data line for each SQl dump file
      */
-     File categoryLinksDumpFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\Wiki_Category_SQL_tables\\enwiki-20130604-category.sql" );
-     File outCategoryLinksDumpFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt");
+     File categoryLinksDumpFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\Wiki_Category_SQL_tables\\enwiki-20130604-langlinks.sql" );
+     File outCategoryLinksDumpFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-langlinks_typles.txt");
     
      BufferedReader  fileReader;
     fileReader = new BufferedReader( new FileReader( categoryLinksDumpFile ) );
  int count=0;
         while ((line = fileReader.readLine())!=null )
         {
-           System.out.println(line); 
+         //  System.out.println(line); 
        
              
-            if(count>=42){
+            if(count>=39){
                 FileWriter outFile2 = new FileWriter(outCategoryLinksDumpFile,true);
                  //  System.out.println("#############################################################");
                 

@@ -25,10 +25,34 @@ public class DoSearch
     {
         //page
         // String pathToIndex = "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\page_index";
-        //categorylinks
-        String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\category";
- File categoryTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt" );
- //Index.indexCategory( pathToIndex, categoryTuplesFile );
+        /*
+         * categorylinks
+         * 
+         */
+      //  String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\category";
+// File categoryTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt" );
+ 
+        /*
+         * languagelinks
+         */
+        
+        /*
+        String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\language_links";
+        File tuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-langlinks_typles.txt" );
+          Index.indexInterLanguageLinks( pathToIndex, tuplesFile );
+        */
+        /*
+         * category_page_links_view
+         */
+          String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\category_page_links_view";
+        File tuplesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_dir\\category_page_links_view\\page_id_cl_to.txt" );
+          Index.indexInterLanguageLinks( pathToIndex, tuplesFile );
+          
+          
+         
+          
+          
+        //Index.indexCategory( pathToIndex, categoryTuplesFile );
         
 /*
         
@@ -68,7 +92,7 @@ public class DoSearch
        //  Search.searchCategoryLinks( new File( pathToIndex ), cateLinksField, 200 );
            
  String cateLinksField = "cat_title";
- Search.searchCategory( new File( pathToIndex ), cateLinksField, 2 );
+ //Search.searchCategory( new File( pathToIndex ), cateLinksField, 2 );
 
     }
 }

@@ -22,10 +22,37 @@ public class CategoryProcesor
      */
     public static void main( String[] args ) throws IOException
     {
+        // inser category_only_pages
         
+                  //File catPagesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_dir\\pages_page_namespace_14_new_complete_line.txt" );
+       
+                  File catPagesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\leaf_categories\\leaf_categories_page_less_than_90.txt" );
+      
+                  String line;
+        BufferedReader fileReader;
+        fileReader = new BufferedReader( new FileReader( catPagesFile  ) );
+        //FileWriter outFile;
+       // FileWriter outFileCatNotFound;
+        FileWriter outFile = new FileWriter("F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\leaf_categories\\page_id_page_title_leaf_categories_page_less_than_90.txt", true);
+	
+        while ( ( line = fileReader.readLine() ) != null )
+        {
+            if ( !line.isEmpty() )
+            {
+                String splitLine[]= line.split("\t");
+           int pageId=  PageDB.getPageId( splitLine[1].trim() );
+          outFile.append( pageId +"\t"+splitLine[1].trim()+"\n" );
+           //  CategoryLinksDB.getCategoryByPageID( );
+                
+            
+            }
+        }
+        
+        outFile.close();
+           
      
        // CategoryDB.getCategoryByName();
-        
+        /*
           File uniqueCatNamesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\categories_not_found_in_category_table_ca_replaced_part_3.txt" );
         String line;
         BufferedReader fileReader;
@@ -42,18 +69,23 @@ public class CategoryProcesor
             }
         }
         
+        */
         
-        
-        /*
+       /* 
         System.out.println("Threshold \t" +"Page Count");
         // TODO code application logic here
-for(int i=1; i<10; i++){
+       	    	
+			 
+for(int i=1; i<100000; i++){
+     FileWriter outFile = new FileWriter("F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\page_threshold_values.txt", true);
+		
     int pageCount= CategoryDB.getCategoryPageCount( i );
-    System.out.println(i+"\t" +pageCount);
+     outFile.append(i+"\t" +pageCount+"\n");
+   // System.out.println(i+"\t" +pageCount);
    
-    
+       outFile.close();
 }
-  */      
+   */     
         /*
         
         Scanner fileScanner = null;

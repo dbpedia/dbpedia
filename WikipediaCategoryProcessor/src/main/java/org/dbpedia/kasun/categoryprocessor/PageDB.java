@@ -93,5 +93,85 @@ public class PageDB {
         
         return state;
     }
+    
+     public static int getPageId(String catPageTitle){
+        int resultId = 0;
+        
+         DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+
+     
+                
+                 String lineArr[];
+                PreparedStatement ps = null;
+                ResultSet rs = null;
+                int updateQuery = 0;
+             
+             
+                // System.out.println(line);
+                // System.out.println(temp);
+               
+                String query = "SELECT page_id FROM `category_only_page` WHERE `page_title` = '" + catPageTitle+"'" ;
+
+
+                try
+                {
+                    ps = connection.prepareStatement( query );
+                    // ps.setString( 1, temp );
+                    //ps.setString( 1, catTitle );
+                    rs = ps.executeQuery();
+                    int count = 0;
+
+                     while( rs.next() )
+                    {
+                    resultId= rs.getInt("page_id");
+                    }
+                  
+
+
+
+                   connection.close();
+                } catch ( SQLException e )
+                {
+                    e.printStackTrace();
+                    // return 0;
+                }
+   
+        
+        return resultId;
+    }
+    
+            public static void insertCategoryPage( String data){
+        DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+          int updateQuery = 0;
+        
+         String query = "INSERT IGNORE INTO category_only_page(page_id,page_namespace,page_title,page_restrictions, page_counter,page_is_redirect, page_is_new, page_random, page_touched,page_latest,page_len) VALUES ("+data+")";
+
+
+         
+
+        try
+        {
+            ps = connection.prepareStatement(query);
+ 
+            updateQuery = ps.executeUpdate();
+           
+//            while (rs.next())
+//            {
+//            }
+            
+         }
+        catch(SQLException e)
+        {
+            
+            System.out.println(data);
+           // e.printStackTrace();
+           // return null;
+        }
+        
+    }
 
 }

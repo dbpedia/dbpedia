@@ -61,7 +61,7 @@ public class Index
 
                     if ( strArr[1].trim() == "0" )
                     {
-                        outFile = new FileWriter( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\pages_page_namespace_0_new.txt", true );
+                        outFile = new FileWriter( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\results_dir\\pages_page_namespace_14_new.txt", true );
 
 
                         outFile.append( strArr[0] + "\t" + strArr[1] + "\t" + strArr[2] + "\n" );
@@ -156,7 +156,7 @@ public class Index
 
     public static void indexCategoryLinks( String pathToIndex, File tuplesFile ) throws IOException
     {
-        //String pathToIndex = "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\page_index";
+        //String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\page_index";
         int noOfDocs = 0;
 
         IndexWriter iW;
@@ -167,7 +167,7 @@ public class Index
             iW = new IndexWriter( dir, new IndexWriterConfig( Version.LUCENE_43, new WhitespaceAnalyzer( Version.LUCENE_43 ) ) );
 
 
-            //File pageTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt" );
+          //  File tuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-langlinks_typles.txt" );
 
 
 
@@ -278,4 +278,138 @@ public class Index
             e.printStackTrace();
         }
     }
+    
+    
+    public static void indexCategoryPageLinksView( String pathToIndex, File tuplesFile ) throws IOException
+    {
+        //String pathToIndex = "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\language_links";
+        int noOfDocs = 0;
+
+        IndexWriter iW;
+        try
+        {
+            NIOFSDirectory dir = new NIOFSDirectory( new File( pathToIndex ) );
+            //dir = new RAMDirectory() ;
+            iW = new IndexWriter( dir, new IndexWriterConfig( Version.LUCENE_43, new WhitespaceAnalyzer( Version.LUCENE_43 ) ) );
+
+
+            //File pageTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt" );
+
+
+
+            BufferedReader fileReader;
+            fileReader = new BufferedReader( new FileReader( tuplesFile ) );
+            int count = 0;
+            String line;
+
+            while ( ( line = fileReader.readLine() ) != null )
+            {
+
+                String[] strArr = line.split( "\\,",3 );
+                //Data in following order`cat_id`,`cat_title`,`cat_pages`,`cat_subcats` 
+                //we need 0,1,2,3 elements of the string
+                if ( strArr.length >= 2)
+                {
+
+                  //  System.out.println(strArr[0]+"####"+strArr[1]+"####"+strArr[2]+"#####"+strArr[3]+"###"+strArr[4]);
+                    Document doc = new Document();
+
+
+
+
+                    doc.add( new TextField( "page_id", strArr[0].trim(), Field.Store.YES ) );
+                    doc.add( new TextField( "page_title", strArr[1], Field.Store.YES ) );
+                 
+                  //  doc.add( new IntField( "cat_subcats", Integer.parseInt( strArr[3].trim() ), Field.Store.YES ) );
+                  //  doc.add( new IntField( "cat_files", Integer.parseInt( strArr[4].trim() ), Field.Store.YES ) );
+                  //  doc.add( new TextField( "cat_hidden", strArr[5].substring( 0,1), Field.Store.YES ) );
+
+
+
+                    iW.addDocument( doc );
+                } else
+                {
+                    System.out.println( line + "\n" );
+                }
+            }
+
+
+            iW.close();
+            dir.close();
+        } catch ( CorruptIndexException e )
+        {
+            e.printStackTrace();
+        } catch ( IOException e )
+        {
+            e.printStackTrace();
+        }
+    }
+    
+    
+    
+      public static void indexInterLanguageLinks( String pathToIndex, File tuplesFile ) throws IOException
+    {
+        //String pathToIndex = "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\index_dir\\language_links";
+        int noOfDocs = 0;
+
+        IndexWriter iW;
+        try
+        {
+            NIOFSDirectory dir = new NIOFSDirectory( new File( pathToIndex ) );
+            //dir = new RAMDirectory() ;
+            iW = new IndexWriter( dir, new IndexWriterConfig( Version.LUCENE_43, new WhitespaceAnalyzer( Version.LUCENE_43 ) ) );
+
+
+            //File pageTuplesFile = new File( "C:\\Users\\lsf\\Documents\\NetBeansProjects\\CategoryProcesor\\typles_out\\enwiki-20130604-category_typles.txt" );
+
+
+
+            BufferedReader fileReader;
+            fileReader = new BufferedReader( new FileReader( tuplesFile ) );
+            int count = 0;
+            String line;
+
+            while ( ( line = fileReader.readLine() ) != null )
+            {
+
+                String[] strArr = line.split( "\\,",3 );
+                //Data in following order`cat_id`,`cat_title`,`cat_pages`,`cat_subcats` 
+                //we need 0,1,2,3 elements of the string
+                if ( strArr.length >= 3)
+                {
+
+                  //  System.out.println(strArr[0]+"####"+strArr[1]+"####"+strArr[2]+"#####"+strArr[3]+"###"+strArr[4]);
+                    Document doc = new Document();
+
+
+
+
+                    doc.add( new TextField( "ll_from", strArr[0].trim(), Field.Store.YES ) );
+                    doc.add( new TextField( "ll_lang", strArr[1], Field.Store.YES ) );
+                  doc.add( new TextField( "ll_title", strArr[2] , Field.Store.YES ) );
+                  //  doc.add( new IntField( "cat_subcats", Integer.parseInt( strArr[3].trim() ), Field.Store.YES ) );
+                  //  doc.add( new IntField( "cat_files", Integer.parseInt( strArr[4].trim() ), Field.Store.YES ) );
+                  //  doc.add( new TextField( "cat_hidden", strArr[5].substring( 0,1), Field.Store.YES ) );
+
+
+
+                    iW.addDocument( doc );
+                } else
+                {
+                    System.out.println( line + "\n" );
+                }
+            }
+
+
+            iW.close();
+            dir.close();
+        } catch ( CorruptIndexException e )
+        {
+            e.printStackTrace();
+        } catch ( IOException e )
+        {
+            e.printStackTrace();
+        }
+    }
+    
 }
