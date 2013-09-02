@@ -46,7 +46,7 @@ public class DoSearch
          */
           String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\category_page_links_view";
         File tuplesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_dir\\category_page_links_view\\page_id_cl_to.txt" );
-          Index.indexInterLanguageLinks( pathToIndex, tuplesFile );
+          Index.indexCategoryPageLinksView( pathToIndex, tuplesFile );
           
           
          

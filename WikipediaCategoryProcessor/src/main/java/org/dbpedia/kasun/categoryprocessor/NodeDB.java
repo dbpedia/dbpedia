@@ -20,6 +20,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.HashSet;
 
 
 
@@ -156,8 +157,7 @@ public class NodeDB {
           
         }
 
-        
-        public static void updateProminetNode(ArrayList<String> prominentNodes){
+         public static void updateLanguageScore(Double score, int nodeID){
             
           DB_connection con = new DB_connection();
         Connection connection = con.dbConnect();
@@ -165,15 +165,49 @@ public class NodeDB {
         ResultSet rs = null;
           int updateQuery = 0;
         
-         String query = "UPDATE node SET is_prominent=? WHERE category_name=?";
+         String query = "UPDATE node SET score_interlang=? WHERE node_id=?";
 
 
         try
         {
-            for(int i=0; i<prominentNodes.size();i++){
+            
+            ps = connection.prepareStatement(query);
+            ps.setDouble( 1, score);
+            ps.setInt( 2, nodeID );         
+            updateQuery = ps.executeUpdate();
+            
+//            while (rs.next())
+//            {
+//            }
+            
+         }
+        catch(SQLException e)
+        {
+            e.printStackTrace();
+           // return null;
+        }
+          
+        }
+
+         
+        
+        public static void updateProminetNode(HashSet<Integer> prominentNodes){
+            
+          DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+          int updateQuery = 0;
+        
+         String query = "UPDATE node SET is_prominent=? WHERE node_id=?";
+
+
+        try
+        {
+            for (Integer i : prominentNodes) {
             ps = connection.prepareStatement(query);
             ps.setBoolean( 1, true);
-            ps.setString( 2, prominentNodes.get( i ) );         
+            ps.setInt( 2, i );         
             updateQuery = ps.executeUpdate();
             }
 //            while (rs.next())
@@ -188,5 +222,10 @@ public class NodeDB {
         }
           
         }
+
+    static void updateProminetNode( Integer s )
+    {
+        throw new UnsupportedOperationException( "Not yet implemented" );
+    }
 
 }

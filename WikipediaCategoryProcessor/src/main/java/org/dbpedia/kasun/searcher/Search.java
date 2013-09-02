@@ -13,6 +13,7 @@ package org.dbpedia.kasun.searcher;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.LinkedList;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.IndexReader;
@@ -27,6 +28,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.NIOFSDirectory;
 import org.apache.lucene.util.Version;
+import org.apache.lucene.queryparser.classic.ParseException;
 
 /**
  * TODO- describe the purpose of the class
@@ -169,36 +171,97 @@ public class Search
     public static ArrayList<String> SearchCatPageLinks( int pageID ) throws IOException, ParseException
     {
 
-        File indexDir = null;
-        String filed = null;
-        int hitsPerPage = 0;
+        File indexDir = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\category_page_links_view" );
+        String filed = "page_id";
+        int hitsPerPage = 100;
 
         ArrayList<String> clToResults = new ArrayList<String>();
         WhitespaceAnalyzer analyzer = new WhitespaceAnalyzer( Version.LUCENE_43 );
         NIOFSDirectory dir = new NIOFSDirectory( indexDir );
         IndexReader reader = IndexReader.open( dir );
         IndexSearcher searcher = new IndexSearcher( reader );
-        
-        
+
+
         TopScoreDocCollector collector = TopScoreDocCollector.create( hitsPerPage, true );
-                Query query = new QueryParser( Version.LUCENE_43, filed, analyzer ).parse( "" + pageID+ "" );
-                searcher.search( query, collector );
-                ScoreDoc[] hits = collector.topDocs().scoreDocs;
+        Query query = new QueryParser( Version.LUCENE_43, filed, analyzer ).parse( "" + pageID + "" );
+        searcher.search( query, collector );
+        ScoreDoc[] hits = collector.topDocs().scoreDocs;
 
-                if ( hits.length == 0 )
-                {
-                    System.out.println( pageID );
-                }
-
-                for ( int i = 0; i < hits.length; ++i )
-                {
-                    int docId = hits[i].doc;
-                    Document d = searcher.doc( docId );
-                    clToResults.add( d.get( "cl_to" ) );
-                  //  outFile.append( d.get( "cat_id" ) + "\t" + d.get( "cat_title" ) + "\n" );
-                    //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
-                }
-
+        if ( hits.length == 0 )
+        {
+            System.out.println( pageID );
+        } else
+        {
+         //   System.out.println( hits.length );
+            for ( int i = 0; i < hits.length; ++i )
+            {
+                int docId = hits[i].doc;
+                Document d = searcher.doc( docId );
+                clToResults.add( d.get( "page_title" ) );
+                //  outFile.append( d.get( "cat_id" ) + "\t" + d.get( "cat_title" ) + "\n" );
+                //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
+            }
+        }
+        reader.close();
+        dir.close();
         return clToResults;
     }
+    
+        public static LinkedList<Integer> SearchCategoryPages( String pageTitle ) throws IOException, ParseException
+    {
+
+        File indexDir = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\categoty_page_candidate_index" );
+        String filed = "page_title";
+        int hitsPerPage = 5;
+        
+       
+
+        LinkedList<Integer> clToResults = new LinkedList<Integer>();
+        WhitespaceAnalyzer analyzer = new WhitespaceAnalyzer( Version.LUCENE_43 );
+        NIOFSDirectory dir = new NIOFSDirectory( indexDir );
+        IndexReader reader = IndexReader.open( dir );
+        IndexSearcher searcher = new IndexSearcher( reader );
+        FileWriter outFile2;
+ try{
+
+        TopScoreDocCollector collector = TopScoreDocCollector.create( hitsPerPage, true );
+        Query query = new QueryParser( Version.LUCENE_43, filed, analyzer ).parse( pageTitle );
+        searcher.search( query, collector );
+        ScoreDoc[] hits = collector.topDocs().scoreDocs;
+        
+         if ( hits.length == 0 )
+        {
+            System.out.println( pageTitle );
+        } else
+        {
+          //  System.out.println( hits.length );
+            for ( int i = 0; i < hits.length; ++i )
+            {
+                int docId = hits[i].doc;
+                Document d = searcher.doc( docId );
+                clToResults.add( Integer.valueOf( d.get( "page_id" )) );
+                //  outFile.append( d.get( "cat_id" ) + "\t" + d.get( "cat_title" ) + "\n" );
+                //System.out.println((i + 1) + ". " + d.get("page_id") + "\t" + d.get("page_namespace")+ "\t" + d.get("page_title"));
+            }
+        }
+        
+         return clToResults;
+        }
+        catch (ParseException e){
+             outFile2 = new FileWriter( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\data_not_inserted_node_table\\pages_can't_parse.txt", true );
+                        outFile2.append(pageTitle + "\n" );
+                        outFile2.close();
+            
+           // System.out.println("Can't parse"+ pageTitle);
+            
+             return clToResults;
+        }
+       finally{
+     
+      reader.close();
+      dir.close();
+ }
+       
+    }
+    
 }

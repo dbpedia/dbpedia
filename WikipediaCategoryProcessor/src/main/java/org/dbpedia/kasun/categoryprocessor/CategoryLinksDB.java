@@ -30,6 +30,8 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.LinkedList;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.dbpedia.kasun.searcher.Search;
 
@@ -155,12 +157,13 @@ public class CategoryLinksDB
 
         FileWriter outFile;
         FileWriter outFile1;
+        FileWriter outFile2;
         int pageID;
         // int catID;
         String leafcategory;
 
 
-      
+
         int updateQuery = 0;
         String temp = null;
 
@@ -171,7 +174,7 @@ public class CategoryLinksDB
         {
 
 
-            File catPagesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\leaf_categories\\page_id_page_title_leaf_categories_page_less_than_90.txt" );
+            File catPagesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\leaf_categories\\leaf_categories_page_less_than_90.txt" );
 
             String line;
             BufferedReader fileReader;
@@ -187,35 +190,144 @@ public class CategoryLinksDB
                     leafcategory = splitLine[1].trim();
                     // catID= ;
                     pageID = PageDB.getPageId( leafcategory );
-                    NodeDB.insertNode( pageID, leafcategory );
 
-                    /*
-                     * search index and get the cl_to by pageID
-                     */
-
-                    ArrayList<String> listOfClTo = Search.SearchCatPageLinks( pageID );
-
-                    for ( int i = 0; i < listOfClTo.size(); i++ )
+                    if ( pageID > 0 )
                     {
+                        NodeDB.insertNode( pageID, leafcategory );
 
-                        int parentID = PageDB.getPageId( listOfClTo.get( i ) );
-                        if ( parentID > 0 )
-                        {
-                            NodeDB.insertNode( parentID, listOfClTo.get( i ) );
-                            // int parentID= NodeDB.getCategoryId( rs.getString( "cl_to" ) );
+                        /*
+                         * search index and get the cl_to by pageID
+                         */
 
-                            EdgeDB.insertEdge( parentID, pageID );
-                        } else
+                        ArrayList<String> listOfClTo = Search.SearchCatPageLinks( pageID );
+
+                        for ( int i = 0; i < listOfClTo.size(); i++ )
                         {
-                            outFile1 = new FileWriter( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\Parent_child_not_inderted_to_node_table.txt", true );
-                            outFile1.append( listOfClTo.get( i ) + "\n" );
-                            outFile1.close();
+
+                            int parentID = PageDB.getPageId( listOfClTo.get( i ) );
+                            if ( parentID > 0 )
+                            {
+                                NodeDB.insertNode( parentID, listOfClTo.get( i ) );
+                                // int parentID= NodeDB.getCategoryId( rs.getString( "cl_to" ) );
+
+                                EdgeDB.insertEdge( parentID, pageID );
+                            } else
+                            {
+                                outFile1 = new FileWriter( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\data_not_inserted_node_table\\Parent_child_not_inderted_to_node_table_V2.txt", true );
+                                outFile1.append( listOfClTo.get( i ) + "\n" );
+                                outFile1.close();
+                            }
+                            // count++;
+
                         }
-                        // count++;
-
+                    } else
+                    {
+                        outFile2 = new FileWriter( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\data_not_inserted_node_table\\Child_nodes_not_inderted_to_node_table_V2.txt", true );
+                        outFile2.append( line + "\n" );
+                        outFile2.close();
                     }
-
                 }
+            }
+        } catch ( Exception e )
+        {
+            e.printStackTrace();
+            // return 0;
+        }
+
+
+
+    }
+
+    public static void insertParentChildModified() throws IOException, ParseException
+    {
+
+
+        FileWriter outFile;
+        FileWriter outFile1;
+        FileWriter outFile2;
+     
+        // int catID;
+        String leafcategory;
+
+
+
+        int updateQuery = 0;
+        String temp = null;
+
+int count=0;
+
+
+        try
+        {
+
+
+            File catPagesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\leaf_categories\\leaf_categories_page_less_than_90_edited_4.txt" );
+
+            String line;
+            BufferedReader fileReader;
+            fileReader = new BufferedReader( new FileReader( catPagesFile ) );
+            //FileWriter outFile;
+            // FileWriter outFileCatNotFound;
+
+           // HashMap<String, Integer> pageMap = PageDB.getAllPages();
+
+            while ( ( line = fileReader.readLine() ) != null )
+            {
+                if ( !line.isEmpty() )
+                {
+                    String splitLine[] = line.split( "\t" );
+                    leafcategory = splitLine[1].trim();
+                    // catID= ;
+                    // pageID = PageDB.getPageId( leafcategory );
+                       int pageID=0;
+                       LinkedList<Integer> pageIdList= Search.SearchCategoryPages( leafcategory );
+                      if(!pageIdList.isEmpty() ){
+                            pageID =pageIdList.get(0);
+                       }
+                   
+                    if ( pageID > 0 )
+                    {
+                        NodeDB.insertNode( pageID, leafcategory );
+
+                        /*
+                         * search index and get the cl_to by pageID
+                         */
+
+                        ArrayList<String> listOfClTo = Search.SearchCatPageLinks( pageID );
+
+                        for ( int i = 0; i < listOfClTo.size(); i++ )
+                        {
+                            int parentID = 0;
+                            // int parentID = PageDB.getPageId( listOfClTo.get( i ) );
+                            
+                                 LinkedList<Integer> parentIdList= Search.SearchCategoryPages( listOfClTo.get( i ) );
+                      if(!parentIdList.isEmpty() ){
+                            parentID =parentIdList.get(0);
+                       }
+                            if ( parentID > 0 )
+                            {
+                                NodeDB.insertNode( parentID, listOfClTo.get( i ) );
+                                // int parentID= NodeDB.getCategoryId( rs.getString( "cl_to" ) );
+
+                                EdgeDB.insertEdge( parentID, pageID );
+                            } else
+                            {
+                                outFile1 = new FileWriter( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\data_not_inserted_node_table\\Parent_child_not_inderted_to_node_table_V2.txt", true );
+                                outFile1.append( listOfClTo.get( i ) + "\n" );
+                                outFile1.close();
+                            }
+                            // count++;
+
+                        }
+                    } else
+                    {
+                        outFile2 = new FileWriter( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\data_not_inserted_node_table\\Child_nodes_not_inderted_to_node_table_V2.txt", true );
+                        outFile2.append( line + "\n" );
+                        outFile2.close();
+                    }
+                }
+                 count++;
+                 System.out.println(count);
             }
         } catch ( Exception e )
         {

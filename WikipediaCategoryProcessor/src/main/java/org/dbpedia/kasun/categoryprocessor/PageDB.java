@@ -31,11 +31,23 @@
 package org.dbpedia.kasun.categoryprocessor;
 
 
-import java.io.FileWriter;
+import java.io.*;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.HashMap;
+import java.util.Map;
+import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.document.IntField;
+import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.CorruptIndexException;
+import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.store.NIOFSDirectory;
+import org.apache.lucene.util.Version;
 
 
 
@@ -140,6 +152,83 @@ public class PageDB {
         
         return resultId;
     }
+      public static HashMap<String,Integer> getAllPages() throws IOException{
+        int resultId = 0;
+        
+         DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+
+     HashMap<String,Integer> pagesMap= new HashMap<String,Integer>();
+                
+                 String lineArr[];
+                PreparedStatement ps = null;
+                ResultSet rs = null;
+                int updateQuery = 0;
+             
+             
+                // System.out.println(line);
+                // System.out.println(temp);
+               
+                String query = "SELECT page_id, page_title FROM `category_only_page`" ;
+
+
+                try
+                {
+                    
+                                      
+       String pathToIndex = "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\index\\categoty_page_candidate_index";
+        int noOfDocs = 0;
+
+        IndexWriter iW;
+       
+            NIOFSDirectory dir = new NIOFSDirectory( new File( pathToIndex ) );
+            //dir = new RAMDirectory() ;
+            iW = new IndexWriter( dir, new IndexWriterConfig( Version.LUCENE_43, new WhitespaceAnalyzer( Version.LUCENE_43 ) ) );
+
+                    ps = connection.prepareStatement( query );
+                    // ps.setString( 1, temp );
+                    //ps.setString( 1, catTitle );
+                    rs = ps.executeQuery();
+                    int count = 0;
+
+                     while( rs.next() )
+                    {
+      
+
+
+                    Document doc = new Document();
+
+
+
+
+                    doc.add( new TextField( "page_title",  rs.getString( "page_title" ), Field.Store.YES ) );
+                    doc.add( new IntField( "page_id", rs.getInt("page_id"), Field.Store.YES ) );
+                
+                    iW.addDocument( doc );
+                
+
+      
+                        
+                    //    pagesMap.put( rs.getString( "page_title" ), rs.getInt("page_id") );
+             //   System.out.println(pagesMap.size());
+                        //   resultId= rs.getInt("page_id");
+                    }
+                    iW.close();
+            dir.close();
+
+
+
+                   connection.close();
+                } catch ( SQLException e )
+                {
+                    e.printStackTrace();
+                    // return 0;
+                }
+   
+        
+        return pagesMap;
+    }
+     
     
             public static void insertCategoryPage( String data){
         DB_connection con = new DB_connection();

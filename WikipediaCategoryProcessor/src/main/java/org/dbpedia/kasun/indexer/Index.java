@@ -305,7 +305,7 @@ public class Index
             while ( ( line = fileReader.readLine() ) != null )
             {
 
-                String[] strArr = line.split( "\\,",3 );
+                String[] strArr = line.split( "\\t",2 );
                 //Data in following order`cat_id`,`cat_title`,`cat_pages`,`cat_subcats` 
                 //we need 0,1,2,3 elements of the string
                 if ( strArr.length >= 2)

@@ -20,7 +20,7 @@ import java.util.*;
 public class Edges
 {
 
-    ArrayList<String> leafNodes = new ArrayList<String>();
+    ArrayList<Integer> leafNodes = new ArrayList<Integer>();
 
     private int parentId;
 
@@ -46,24 +46,21 @@ public class Edges
         this.childId = childId;
     }
 
-    public void findProminetNodes( Scanner leafNodeFileScanner ) throws IOException
+    public void findProminetNodes( ) throws IOException
     {
          // input leaf nodelit as a file to enhance memoery useage    
         //all leaf nodes
 
-        HashSet<String> prominetNodeList= new HashSet<String>();
+        HashSet<Integer> prominetNodeList= new HashSet<Integer>();
 
-        while ( leafNodeFileScanner.hasNextLine() )
-        {
-            // System.out.println(fileScanner.nextLine());
+       
+            //get all leaf nodes
+            leafNodes=EdgeDB.getDisinctleafNodes();
 
-            leafNodes.add( leafNodeFileScanner.nextLine() );
-
-        }
 
         //creating a clode of leafnodes
-        ArrayList<String> leafNodesClone = new ArrayList<String>( leafNodes.size() );
-        for ( String p : leafNodes )
+        ArrayList<Integer> leafNodesClone = new ArrayList<Integer>( leafNodes.size() );
+        for ( Integer p : leafNodes )
         {
             leafNodesClone.add( p );
         }
@@ -83,14 +80,14 @@ public class Edges
             for ( int j = 0; j < parentId.size(); j++ )
             {
                 //get the children of parent node and check all children are leaf nodes
-                ArrayList<String> childnodes = EdgeDB.getChildren( parentId.get( j ) );
+                ArrayList<Integer> childnodes = EdgeDB.getChildren( parentId.get( j ) );
 
                 //boolean prominentNode = isProminent( childnodes );
                 //check whether all children are leafs
                 if(isLeaf( childnodes )){
                     
                     //duplicates automatically removed
-                    prominetNodeList.add( NodeDB.getCategoryName(parentId.get( j )) );
+                    prominetNodeList.add( parentId.get( j ) );
                     isLeafProminent=false;
                     
                 }
@@ -102,23 +99,19 @@ public class Edges
         }
         
         
-       FileWriter outFile4 = new FileWriter( "F:\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\program_outputs\\promiment_nodes.txt", true );
-        
-for (String s : prominetNodeList) {
-    //TO-DO insert this in to the database
-    outFile4.append( s+"\n");
-    System.out.println(s);
-}
-outFile4.close();
+     //  FileWriter outFile4 = new FileWriter( "F:\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\program_outputs\\promiment_nodes.txt", true );
+         //insert this in to the database
+    NodeDB.updateProminetNode(prominetNodeList );
+
 
     }
 
-    private boolean isLeaf( ArrayList<String> childnodes )
+    private boolean isLeaf( ArrayList<Integer> childnodes )
     {
         boolean status = true;
         for ( int k = 0; k < childnodes.size(); k++ )
         {
-            if ( !leafNodes.contains( (String) childnodes.get( k ) ) )
+            if ( !leafNodes.contains(childnodes.get( k ) ) )
             {
                 status = false;
                 break;

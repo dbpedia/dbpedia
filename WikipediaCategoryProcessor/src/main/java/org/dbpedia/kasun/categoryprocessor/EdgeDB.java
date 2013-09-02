@@ -59,7 +59,7 @@ public class EdgeDB {
         
     }
 
-    public static ArrayList<String> getChildren(int parenId){
+    public static ArrayList<Integer> getChildren(int parenId){
        
         DB_connection con = new DB_connection();
         Connection connection = con.dbConnect();
@@ -68,7 +68,7 @@ public class EdgeDB {
           int updateQuery = 0;
         
           //TO-DO rewrite the query
-         String query =  "SELECT tb.category_name FROM (SELECT node.category_name, edges.parent_id, edges.child_id FROM edges LEFT OUTER JOIN node ON edges.child_id=node.node_id)AS tb WHERE tb.parent_id=?";
+         String query =  "SELECT child_id FROM edges WHERE parent_id=?";
 
 
         try
@@ -79,12 +79,12 @@ public class EdgeDB {
              rs = ps.executeQuery();
              
              
-          ArrayList<String> childrenList= new ArrayList<String>();
+          ArrayList<Integer> childrenList= new ArrayList<Integer>();
            
            
             while (rs.next())
             {
-                childrenList.add(rs.getString( 1));
+                childrenList.add(rs.getInt("child_id"));
            }
              return childrenList;
          }
@@ -96,7 +96,7 @@ public class EdgeDB {
         
         
     }
-    public static ArrayList<Integer> getParent(String leafNode){
+    public static ArrayList<Integer> getParent(int leafNode){
        
         
          DB_connection con = new DB_connection();
@@ -106,13 +106,13 @@ public class EdgeDB {
           int updateQuery = 0;
         
           //TO-DO rewrite the query
-         String query =  "SELECT tb.parent_id FROM (SELECT node.category_name, edges.parent_id, edges.child_id FROM edges LEFT OUTER JOIN node ON edges.child_id=node.node_id)AS tb WHERE tb.category_name=?";
+         String query =  "SELECT parent_id FROM edges WHERE child_id =?";
 
 
         try
         {
             ps = connection.prepareStatement(query);
-            ps.setString( 1, leafNode);
+            ps.setInt( 1, leafNode);
            
              rs = ps.executeQuery();
              
@@ -160,6 +160,37 @@ public class EdgeDB {
                 chidId.add(rs.getInt("child_id") );
            }
             return chidId;
+         }
+        catch(SQLException e)
+        {
+            e.printStackTrace();
+            return null;
+        }
+        
+    }
+    
+     public static ArrayList<Integer>  getDisinctleafNodes(){
+        DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+          int updateQuery = 0;
+        
+         String query =  "SELECT  distinct `child_id` FROM edges WHERE  `child_id` NOT IN (SELECT `parent_id` FROM edges )";
+
+
+        try
+        {
+            ps = connection.prepareStatement(query);
+          //  ps.setInt(1, parentId);
+           
+             rs = ps.executeQuery();
+           ArrayList<Integer> leafId= new  ArrayList<Integer>();
+            while (rs.next())
+            {
+                leafId.add(rs.getInt("child_id") );
+           }
+            return leafId;
          }
         catch(SQLException e)
         {

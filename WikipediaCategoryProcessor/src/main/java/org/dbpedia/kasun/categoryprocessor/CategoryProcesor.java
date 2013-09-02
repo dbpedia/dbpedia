@@ -7,6 +7,7 @@ package org.dbpedia.kasun.categoryprocessor;
 
 import java.io.*;
 import java.util.Scanner;
+import org.apache.lucene.queryparser.classic.ParseException;
 
 /**
  * Copyright (C) 2012, Lanka Software Foundation.
@@ -20,12 +21,21 @@ public class CategoryProcesor
     /**
      * @param args the command line arguments
      */
-    public static void main( String[] args ) throws IOException
+    public static void main( String[] args ) throws IOException, ParseException
     {
+        
+        Edges edge= new Edges();
+        edge.findProminetNodes();
+      // CategoryLinksDB.insertParentChildModified();
+     //   PageDB.getAllPages();
+        
+        /*
         // inser category_only_pages
         
                   //File catPagesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_dir\\pages_page_namespace_14_new_complete_line.txt" );
        
+        
+        
                   File catPagesFile = new File( "F:\\Blogs\\GSOC 2013\\DbPedia\\Task 2- processing wikipedia catogories\\results_new\\leaf_categories\\leaf_categories_page_less_than_90.txt" );
       
                   String line;
@@ -50,6 +60,8 @@ public class CategoryProcesor
         
         outFile.close();
            
+        */
+        
      
        // CategoryDB.getCategoryByName();
         /*

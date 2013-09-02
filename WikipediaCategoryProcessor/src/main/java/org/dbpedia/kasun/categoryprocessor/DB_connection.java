@@ -14,7 +14,8 @@ public class DB_connection {
 		Connection conn = null;
 	    try {
 			Class.forName("com.mysql.jdbc.Driver").newInstance();
-	        conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/wiki_categories","root","nbuser");
+	         //conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/kasun","kasun","kasun_perrera_kk");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/wiki_categories","root","nbuser");
 		} catch (InstantiationException e) {
 			e.printStackTrace();
 		} catch (IllegalAccessException e) {
