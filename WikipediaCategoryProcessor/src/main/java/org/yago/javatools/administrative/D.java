@@ -76,7 +76,6 @@ public class D {
   /** Prints some Objects, returns them */
   public static Object p(Object... a) {
     pl(a);
-    System.out.println("");
     if (a == null || a.length == 0) return (null);
     if (a.length == 1) return (a[0]);
     return (a);
@@ -87,8 +86,11 @@ public class D {
     return (p(a));
   }
 
+
+  
   /** Prints some Objects on one line */
-  public static void pl(Object... a) {    
+  public static void pl(Object... a) { 
+      //System.out.print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
     System.out.print(toString(a));
   }
 
