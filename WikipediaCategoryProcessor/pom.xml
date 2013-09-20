@@ -32,6 +32,22 @@
             <artifactId>lucene-core</artifactId>
             <version>4.3.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.jayway.jsonpath</groupId>
+            <artifactId>json-path</artifactId>
+            <version>0.8.1</version>
+        </dependency>
+            
+        <dependency>
+            <groupId>org.apache.clerezza.ext</groupId>
+            <artifactId>org.json.simple</artifactId>
+            <version>0.3-incubating</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.api-client</groupId>
+            <artifactId>google-api-client</artifactId>
+            <version>1.16.0-rc</version>
+        </dependency>
             
         <dependency>
             <groupId>org.apache.lucene</groupId>

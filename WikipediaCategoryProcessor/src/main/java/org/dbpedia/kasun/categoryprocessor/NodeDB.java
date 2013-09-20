@@ -223,6 +223,43 @@ public class NodeDB {
           
         }
 
+        public static ArrayList<String> getCategoriesByHead( String head )
+    {
+        ArrayList<String> categoryList =new ArrayList<String>();
+        
+        DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+          int updateQuery = 0;
+        
+         String query =  "select node_id, category_name from node where head_of_name=?";
+
+ 
+        try
+        {
+            ps = connection.prepareStatement(query);
+            ps.setString( 1, head);
+           
+             rs = ps.executeQuery();
+         
+            while (rs.next())
+            {
+                categoryList.add( rs.getString( "category_name") );
+                //nodeName=rs.getString( "category_name");
+           }
+             connection.close();
+            return categoryList;
+         }
+        catch(SQLException e)
+        {
+            e.printStackTrace();
+            return null;
+        }
+        
+        
+    }
+        
     static void updateProminetNode( Integer s )
     {
         throw new UnsupportedOperationException( "Not yet implemented" );

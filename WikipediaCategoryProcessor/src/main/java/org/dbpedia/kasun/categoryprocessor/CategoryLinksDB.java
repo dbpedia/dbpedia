@@ -3,20 +3,6 @@
  * and open the template in the editor.
  */
 /**
- * KarshaAnnotate- Annotation tool for financial documents
- *
- * Copyright (C) 2013, Lanka Software Foundation and and University of Maryland.
- *
- * This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General
- * Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any
- * later version.
- *
- * This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
- * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
- * details.
- *
- * You should have received a copy of the GNU Affero General Public License along with this program. If not, see
- * <http://www.gnu.org/licenses/>.
  *
  * Date Author Changes Aug 13, 2013 Kasun Perera Created
  *
@@ -337,5 +323,41 @@ int count=0;
 
 
 
+    }
+    
+    public static ArrayList<Integer> getPagesLinkedByCatName( String catName )
+    {
+        
+         DB_connection con = new DB_connection();
+        Connection connection = con.dbConnect();
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+          int updateQuery = 0;
+          
+          ArrayList<Integer> listOfPages= new  ArrayList<Integer>();
+        
+         String query =  "select cl_from from categorylinks where cl_to=?";
+
+ 
+        try
+        {
+            ps = connection.prepareStatement(query);
+            ps.setString( 1, catName);
+           
+             rs = ps.executeQuery();
+         
+            while (rs.next())
+            {
+                listOfPages.add(rs.getInt( "cl_from" ) );
+           }
+            connection.close();
+            return listOfPages;
+         }
+        catch(SQLException e)
+        {
+            e.printStackTrace();
+            return null;
+        }
+        
     }
 }

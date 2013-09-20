@@ -10,7 +10,6 @@ import java.util.Scanner;
 import org.apache.lucene.queryparser.classic.ParseException;
 
 /**
- * Copyright (C) 2012, Lanka Software Foundation.
  *
  * Date Author Changes Jun 28, 2013 Kasun Perera Created
  *
