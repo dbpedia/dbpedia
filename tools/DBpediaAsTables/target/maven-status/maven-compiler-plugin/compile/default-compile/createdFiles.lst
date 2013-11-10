@@ -1,0 +1,7 @@
+de\mannheim\uni\utils\DivideFiles.class
+de\mannheim\uni\utils\FallBackSolution.class
+de\mannheim\uni\sparql\SPARQLEndpointQueryRunner.class
+de\mannheim\uni\convertors\ClassToCSV.class
+de\mannheim\uni\model\DBpediaInstanceProperty.class
+de\mannheim\uni\model\DBpediaInstance.class
+de\mannheim\uni\model\DBpediaProperty.class

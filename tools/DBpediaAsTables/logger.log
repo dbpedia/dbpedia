@@ -1,0 +1,1086 @@
+Nov 10, 2013 3:59:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting class http://dbpedia.org/ontology/Brain ...
+Nov 10, 2013 3:59:37 PM de.mannheim.uni.convertors.ClassToCSV getInstancesFromClass
+INFO: Retrieving instances: 0 - 10000
+Nov 10, 2013 3:59:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Retrieved instances of class: http://dbpedia.org/ontology/Brain: 537
+Nov 10, 2013 3:59:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Time to retrieve instances from this class in miliseconds:2542
+Nov 10, 2013 3:59:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 0/537
+Nov 10, 2013 3:59:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 1/537
+Nov 10, 2013 3:59:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 2/537
+Nov 10, 2013 3:59:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 3/537
+Nov 10, 2013 3:59:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 4/537
+Nov 10, 2013 3:59:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 5/537
+Nov 10, 2013 3:59:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 6/537
+Nov 10, 2013 3:59:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 7/537
+Nov 10, 2013 3:59:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 8/537
+Nov 10, 2013 3:59:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 9/537
+Nov 10, 2013 3:59:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 10/537
+Nov 10, 2013 3:59:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 11/537
+Nov 10, 2013 3:59:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 12/537
+Nov 10, 2013 3:59:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 13/537
+Nov 10, 2013 3:59:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 14/537
+Nov 10, 2013 3:59:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 15/537
+Nov 10, 2013 3:59:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 16/537
+Nov 10, 2013 3:59:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 17/537
+Nov 10, 2013 3:59:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 18/537
+Nov 10, 2013 3:59:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 19/537
+Nov 10, 2013 3:59:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 20/537
+Nov 10, 2013 3:59:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 21/537
+Nov 10, 2013 3:59:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 22/537
+Nov 10, 2013 3:59:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 23/537
+Nov 10, 2013 3:59:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 24/537
+Nov 10, 2013 3:59:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 25/537
+Nov 10, 2013 3:59:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 26/537
+Nov 10, 2013 3:59:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 27/537
+Nov 10, 2013 3:59:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 28/537
+Nov 10, 2013 3:59:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 29/537
+Nov 10, 2013 3:59:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 30/537
+Nov 10, 2013 3:59:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 31/537
+Nov 10, 2013 3:59:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 32/537
+Nov 10, 2013 3:59:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 33/537
+Nov 10, 2013 3:59:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 34/537
+Nov 10, 2013 3:59:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 35/537
+Nov 10, 2013 3:59:46 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 36/537
+Nov 10, 2013 3:59:46 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 37/537
+Nov 10, 2013 3:59:46 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 38/537
+Nov 10, 2013 3:59:46 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 39/537
+Nov 10, 2013 3:59:47 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 40/537
+Nov 10, 2013 3:59:47 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 41/537
+Nov 10, 2013 3:59:47 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 42/537
+Nov 10, 2013 3:59:47 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 43/537
+Nov 10, 2013 3:59:47 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 44/537
+Nov 10, 2013 3:59:48 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 45/537
+Nov 10, 2013 3:59:48 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 46/537
+Nov 10, 2013 3:59:48 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 47/537
+Nov 10, 2013 3:59:48 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 48/537
+Nov 10, 2013 3:59:48 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 49/537
+Nov 10, 2013 3:59:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 50/537
+Nov 10, 2013 3:59:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 51/537
+Nov 10, 2013 3:59:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 52/537
+Nov 10, 2013 3:59:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 53/537
+Nov 10, 2013 3:59:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 54/537
+Nov 10, 2013 3:59:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 55/537
+Nov 10, 2013 3:59:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 56/537
+Nov 10, 2013 3:59:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 57/537
+Nov 10, 2013 3:59:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 58/537
+Nov 10, 2013 3:59:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 59/537
+Nov 10, 2013 3:59:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 60/537
+Nov 10, 2013 3:59:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 61/537
+Nov 10, 2013 3:59:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 62/537
+Nov 10, 2013 3:59:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 63/537
+Nov 10, 2013 3:59:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 64/537
+Nov 10, 2013 3:59:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 65/537
+Nov 10, 2013 3:59:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 66/537
+Nov 10, 2013 3:59:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 67/537
+Nov 10, 2013 3:59:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 68/537
+Nov 10, 2013 3:59:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 69/537
+Nov 10, 2013 3:59:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 70/537
+Nov 10, 2013 3:59:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 71/537
+Nov 10, 2013 3:59:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 72/537
+Nov 10, 2013 3:59:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 73/537
+Nov 10, 2013 3:59:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 74/537
+Nov 10, 2013 3:59:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 75/537
+Nov 10, 2013 3:59:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 76/537
+Nov 10, 2013 3:59:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 77/537
+Nov 10, 2013 3:59:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 78/537
+Nov 10, 2013 3:59:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 79/537
+Nov 10, 2013 3:59:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 80/537
+Nov 10, 2013 3:59:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 81/537
+Nov 10, 2013 3:59:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 82/537
+Nov 10, 2013 3:59:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 83/537
+Nov 10, 2013 3:59:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 84/537
+Nov 10, 2013 3:59:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 85/537
+Nov 10, 2013 3:59:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 86/537
+Nov 10, 2013 3:59:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 87/537
+Nov 10, 2013 3:59:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 88/537
+Nov 10, 2013 3:59:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 89/537
+Nov 10, 2013 3:59:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 90/537
+Nov 10, 2013 3:59:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 91/537
+Nov 10, 2013 3:59:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 92/537
+Nov 10, 2013 3:59:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 93/537
+Nov 10, 2013 3:59:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 94/537
+Nov 10, 2013 3:59:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 95/537
+Nov 10, 2013 3:59:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 96/537
+Nov 10, 2013 3:59:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 97/537
+Nov 10, 2013 3:59:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 98/537
+Nov 10, 2013 3:59:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 99/537
+Nov 10, 2013 3:59:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 100/537
+Nov 10, 2013 3:59:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 101/537
+Nov 10, 2013 3:59:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 102/537
+Nov 10, 2013 3:59:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 103/537
+Nov 10, 2013 4:00:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 104/537
+Nov 10, 2013 4:00:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 105/537
+Nov 10, 2013 4:00:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 106/537
+Nov 10, 2013 4:00:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 107/537
+Nov 10, 2013 4:00:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 108/537
+Nov 10, 2013 4:00:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 109/537
+Nov 10, 2013 4:00:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 110/537
+Nov 10, 2013 4:00:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 111/537
+Nov 10, 2013 4:00:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 112/537
+Nov 10, 2013 4:00:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 113/537
+Nov 10, 2013 4:00:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 114/537
+Nov 10, 2013 4:00:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 115/537
+Nov 10, 2013 4:00:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 116/537
+Nov 10, 2013 4:00:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 117/537
+Nov 10, 2013 4:00:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 118/537
+Nov 10, 2013 4:00:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 119/537
+Nov 10, 2013 4:00:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 120/537
+Nov 10, 2013 4:00:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 121/537
+Nov 10, 2013 4:00:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 122/537
+Nov 10, 2013 4:00:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 123/537
+Nov 10, 2013 4:00:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 124/537
+Nov 10, 2013 4:00:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 125/537
+Nov 10, 2013 4:00:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 126/537
+Nov 10, 2013 4:00:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 127/537
+Nov 10, 2013 4:00:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 128/537
+Nov 10, 2013 4:00:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 129/537
+Nov 10, 2013 4:00:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 130/537
+Nov 10, 2013 4:00:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 131/537
+Nov 10, 2013 4:00:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 132/537
+Nov 10, 2013 4:00:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 133/537
+Nov 10, 2013 4:00:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 134/537
+Nov 10, 2013 4:00:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 135/537
+Nov 10, 2013 4:00:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 136/537
+Nov 10, 2013 4:00:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 137/537
+Nov 10, 2013 4:00:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 138/537
+Nov 10, 2013 4:00:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 139/537
+Nov 10, 2013 4:00:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 140/537
+Nov 10, 2013 4:00:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 141/537
+Nov 10, 2013 4:00:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 142/537
+Nov 10, 2013 4:00:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 143/537
+Nov 10, 2013 4:00:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 144/537
+Nov 10, 2013 4:00:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 145/537
+Nov 10, 2013 4:00:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 146/537
+Nov 10, 2013 4:00:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 147/537
+Nov 10, 2013 4:00:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 148/537
+Nov 10, 2013 4:00:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 149/537
+Nov 10, 2013 4:00:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 150/537
+Nov 10, 2013 4:00:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 151/537
+Nov 10, 2013 4:00:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 152/537
+Nov 10, 2013 4:00:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 153/537
+Nov 10, 2013 4:00:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 154/537
+Nov 10, 2013 4:00:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 155/537
+Nov 10, 2013 4:00:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 156/537
+Nov 10, 2013 4:00:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 157/537
+Nov 10, 2013 4:00:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 158/537
+Nov 10, 2013 4:00:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 159/537
+Nov 10, 2013 4:00:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 160/537
+Nov 10, 2013 4:00:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 161/537
+Nov 10, 2013 4:00:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 162/537
+Nov 10, 2013 4:00:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 163/537
+Nov 10, 2013 4:00:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 164/537
+Nov 10, 2013 4:00:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 165/537
+Nov 10, 2013 4:00:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 166/537
+Nov 10, 2013 4:00:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 167/537
+Nov 10, 2013 4:00:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 168/537
+Nov 10, 2013 4:00:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 169/537
+Nov 10, 2013 4:00:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 170/537
+Nov 10, 2013 4:00:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 171/537
+Nov 10, 2013 4:00:12 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 172/537
+Nov 10, 2013 4:00:12 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 173/537
+Nov 10, 2013 4:00:12 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 174/537
+Nov 10, 2013 4:00:13 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 175/537
+Nov 10, 2013 4:00:13 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 176/537
+Nov 10, 2013 4:00:13 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 177/537
+Nov 10, 2013 4:00:13 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 178/537
+Nov 10, 2013 4:00:13 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 179/537
+Nov 10, 2013 4:00:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 180/537
+Nov 10, 2013 4:00:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 181/537
+Nov 10, 2013 4:00:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 182/537
+Nov 10, 2013 4:00:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 183/537
+Nov 10, 2013 4:00:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 184/537
+Nov 10, 2013 4:00:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 185/537
+Nov 10, 2013 4:00:15 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 186/537
+Nov 10, 2013 4:00:15 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 187/537
+Nov 10, 2013 4:00:15 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 188/537
+Nov 10, 2013 4:00:15 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 189/537
+Nov 10, 2013 4:00:16 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 190/537
+Nov 10, 2013 4:00:16 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 191/537
+Nov 10, 2013 4:00:16 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 192/537
+Nov 10, 2013 4:00:16 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 193/537
+Nov 10, 2013 4:00:16 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 194/537
+Nov 10, 2013 4:00:17 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 195/537
+Nov 10, 2013 4:00:17 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 196/537
+Nov 10, 2013 4:00:17 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 197/537
+Nov 10, 2013 4:00:17 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 198/537
+Nov 10, 2013 4:00:17 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 199/537
+Nov 10, 2013 4:00:18 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 200/537
+Nov 10, 2013 4:00:18 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 201/537
+Nov 10, 2013 4:00:18 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 202/537
+Nov 10, 2013 4:00:18 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 203/537
+Nov 10, 2013 4:00:18 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 204/537
+Nov 10, 2013 4:00:19 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 205/537
+Nov 10, 2013 4:00:19 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 206/537
+Nov 10, 2013 4:00:19 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 207/537
+Nov 10, 2013 4:00:19 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 208/537
+Nov 10, 2013 4:00:19 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 209/537
+Nov 10, 2013 4:00:20 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 210/537
+Nov 10, 2013 4:00:20 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 211/537
+Nov 10, 2013 4:00:20 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 212/537
+Nov 10, 2013 4:00:20 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 213/537
+Nov 10, 2013 4:00:20 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 214/537
+Nov 10, 2013 4:00:20 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 215/537
+Nov 10, 2013 4:00:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 216/537
+Nov 10, 2013 4:00:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 217/537
+Nov 10, 2013 4:00:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 218/537
+Nov 10, 2013 4:00:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 219/537
+Nov 10, 2013 4:00:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 220/537
+Nov 10, 2013 4:00:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 221/537
+Nov 10, 2013 4:00:22 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 222/537
+Nov 10, 2013 4:00:22 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 223/537
+Nov 10, 2013 4:00:22 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 224/537
+Nov 10, 2013 4:00:22 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 225/537
+Nov 10, 2013 4:00:22 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 226/537
+Nov 10, 2013 4:00:23 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 227/537
+Nov 10, 2013 4:00:23 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 228/537
+Nov 10, 2013 4:00:23 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 229/537
+Nov 10, 2013 4:00:23 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 230/537
+Nov 10, 2013 4:00:23 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 231/537
+Nov 10, 2013 4:00:24 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 232/537
+Nov 10, 2013 4:00:24 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 233/537
+Nov 10, 2013 4:00:24 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 234/537
+Nov 10, 2013 4:00:24 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 235/537
+Nov 10, 2013 4:00:25 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 236/537
+Nov 10, 2013 4:00:25 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 237/537
+Nov 10, 2013 4:00:25 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 238/537
+Nov 10, 2013 4:00:25 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 239/537
+Nov 10, 2013 4:00:25 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 240/537
+Nov 10, 2013 4:00:25 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 241/537
+Nov 10, 2013 4:00:26 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 242/537
+Nov 10, 2013 4:00:26 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 243/537
+Nov 10, 2013 4:00:26 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 244/537
+Nov 10, 2013 4:00:26 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 245/537
+Nov 10, 2013 4:00:26 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 246/537
+Nov 10, 2013 4:00:26 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 247/537
+Nov 10, 2013 4:00:27 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 248/537
+Nov 10, 2013 4:00:27 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 249/537
+Nov 10, 2013 4:00:27 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 250/537
+Nov 10, 2013 4:00:27 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 251/537
+Nov 10, 2013 4:00:27 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 252/537
+Nov 10, 2013 4:00:27 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 253/537
+Nov 10, 2013 4:00:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 254/537
+Nov 10, 2013 4:00:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 255/537
+Nov 10, 2013 4:00:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 256/537
+Nov 10, 2013 4:00:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 257/537
+Nov 10, 2013 4:00:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 258/537
+Nov 10, 2013 4:00:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 259/537
+Nov 10, 2013 4:00:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 260/537
+Nov 10, 2013 4:00:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 261/537
+Nov 10, 2013 4:00:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 262/537
+Nov 10, 2013 4:00:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 263/537
+Nov 10, 2013 4:00:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 264/537
+Nov 10, 2013 4:00:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 265/537
+Nov 10, 2013 4:00:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 266/537
+Nov 10, 2013 4:00:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 267/537
+Nov 10, 2013 4:00:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 268/537
+Nov 10, 2013 4:00:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 269/537
+Nov 10, 2013 4:00:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 270/537
+Nov 10, 2013 4:00:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 271/537
+Nov 10, 2013 4:00:31 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 272/537
+Nov 10, 2013 4:00:31 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 273/537
+Nov 10, 2013 4:00:31 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 274/537
+Nov 10, 2013 4:00:31 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 275/537
+Nov 10, 2013 4:00:31 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 276/537
+Nov 10, 2013 4:00:32 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 277/537
+Nov 10, 2013 4:00:32 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 278/537
+Nov 10, 2013 4:00:32 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 279/537
+Nov 10, 2013 4:00:32 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 280/537
+Nov 10, 2013 4:00:33 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 281/537
+Nov 10, 2013 4:00:33 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 282/537
+Nov 10, 2013 4:00:33 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 283/537
+Nov 10, 2013 4:00:33 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 284/537
+Nov 10, 2013 4:00:33 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 285/537
+Nov 10, 2013 4:00:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 286/537
+Nov 10, 2013 4:00:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 287/537
+Nov 10, 2013 4:00:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 288/537
+Nov 10, 2013 4:00:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 289/537
+Nov 10, 2013 4:00:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 290/537
+Nov 10, 2013 4:00:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 291/537
+Nov 10, 2013 4:00:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 292/537
+Nov 10, 2013 4:00:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 293/537
+Nov 10, 2013 4:00:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 294/537
+Nov 10, 2013 4:00:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 295/537
+Nov 10, 2013 4:00:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 296/537
+Nov 10, 2013 4:00:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 297/537
+Nov 10, 2013 4:00:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 298/537
+Nov 10, 2013 4:00:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 299/537
+Nov 10, 2013 4:00:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 300/537
+Nov 10, 2013 4:00:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 301/537
+Nov 10, 2013 4:00:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 302/537
+Nov 10, 2013 4:00:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 303/537
+Nov 10, 2013 4:00:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 304/537
+Nov 10, 2013 4:00:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 305/537
+Nov 10, 2013 4:00:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 306/537
+Nov 10, 2013 4:00:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 307/537
+Nov 10, 2013 4:00:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 308/537
+Nov 10, 2013 4:00:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 309/537
+Nov 10, 2013 4:00:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 310/537
+Nov 10, 2013 4:00:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 311/537
+Nov 10, 2013 4:00:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 312/537
+Nov 10, 2013 4:00:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 313/537
+Nov 10, 2013 4:00:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 314/537
+Nov 10, 2013 4:00:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 315/537
+Nov 10, 2013 4:00:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 316/537
+Nov 10, 2013 4:00:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 317/537
+Nov 10, 2013 4:00:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 318/537
+Nov 10, 2013 4:00:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 319/537
+Nov 10, 2013 4:00:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 320/537
+Nov 10, 2013 4:00:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 321/537
+Nov 10, 2013 4:00:40 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 322/537
+Nov 10, 2013 4:00:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 323/537
+Nov 10, 2013 4:00:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 324/537
+Nov 10, 2013 4:00:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 325/537
+Nov 10, 2013 4:00:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 326/537
+Nov 10, 2013 4:00:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 327/537
+Nov 10, 2013 4:00:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 328/537
+Nov 10, 2013 4:00:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 329/537
+Nov 10, 2013 4:00:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 330/537
+Nov 10, 2013 4:00:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 331/537
+Nov 10, 2013 4:00:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 332/537
+Nov 10, 2013 4:00:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 333/537
+Nov 10, 2013 4:00:42 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 334/537
+Nov 10, 2013 4:00:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 335/537
+Nov 10, 2013 4:00:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 336/537
+Nov 10, 2013 4:00:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 337/537
+Nov 10, 2013 4:00:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 338/537
+Nov 10, 2013 4:00:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 339/537
+Nov 10, 2013 4:00:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 340/537
+Nov 10, 2013 4:00:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 341/537
+Nov 10, 2013 4:00:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 342/537
+Nov 10, 2013 4:00:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 343/537
+Nov 10, 2013 4:00:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 344/537
+Nov 10, 2013 4:00:44 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 345/537
+Nov 10, 2013 4:00:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 346/537
+Nov 10, 2013 4:00:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 347/537
+Nov 10, 2013 4:00:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 348/537
+Nov 10, 2013 4:00:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 349/537
+Nov 10, 2013 4:00:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 350/537
+Nov 10, 2013 4:00:45 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 351/537
+Nov 10, 2013 4:00:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 352/537
+Nov 10, 2013 4:00:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 353/537
+Nov 10, 2013 4:00:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 354/537
+Nov 10, 2013 4:00:49 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 355/537
+Nov 10, 2013 4:00:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 356/537
+Nov 10, 2013 4:00:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 357/537
+Nov 10, 2013 4:00:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 358/537
+Nov 10, 2013 4:00:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 359/537
+Nov 10, 2013 4:00:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 360/537
+Nov 10, 2013 4:00:50 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 361/537
+Nov 10, 2013 4:00:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 362/537
+Nov 10, 2013 4:00:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 363/537
+Nov 10, 2013 4:00:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 364/537
+Nov 10, 2013 4:00:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 365/537
+Nov 10, 2013 4:00:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 366/537
+Nov 10, 2013 4:00:51 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 367/537
+Nov 10, 2013 4:00:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 368/537
+Nov 10, 2013 4:00:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 369/537
+Nov 10, 2013 4:00:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 370/537
+Nov 10, 2013 4:00:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 371/537
+Nov 10, 2013 4:00:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 372/537
+Nov 10, 2013 4:00:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 373/537
+Nov 10, 2013 4:00:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 374/537
+Nov 10, 2013 4:00:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 375/537
+Nov 10, 2013 4:00:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 376/537
+Nov 10, 2013 4:00:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 377/537
+Nov 10, 2013 4:00:53 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 378/537
+Nov 10, 2013 4:00:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 379/537
+Nov 10, 2013 4:00:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 380/537
+Nov 10, 2013 4:00:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 381/537
+Nov 10, 2013 4:00:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 382/537
+Nov 10, 2013 4:00:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 383/537
+Nov 10, 2013 4:00:54 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 384/537
+Nov 10, 2013 4:00:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 385/537
+Nov 10, 2013 4:00:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 386/537
+Nov 10, 2013 4:00:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 387/537
+Nov 10, 2013 4:00:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 388/537
+Nov 10, 2013 4:00:55 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 389/537
+Nov 10, 2013 4:00:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 390/537
+Nov 10, 2013 4:00:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 391/537
+Nov 10, 2013 4:00:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 392/537
+Nov 10, 2013 4:00:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 393/537
+Nov 10, 2013 4:00:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 394/537
+Nov 10, 2013 4:00:56 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 395/537
+Nov 10, 2013 4:00:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 396/537
+Nov 10, 2013 4:00:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 397/537
+Nov 10, 2013 4:00:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 398/537
+Nov 10, 2013 4:00:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 399/537
+Nov 10, 2013 4:00:57 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 400/537
+Nov 10, 2013 4:00:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 401/537
+Nov 10, 2013 4:00:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 402/537
+Nov 10, 2013 4:00:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 403/537
+Nov 10, 2013 4:00:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 404/537
+Nov 10, 2013 4:00:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 405/537
+Nov 10, 2013 4:00:58 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 406/537
+Nov 10, 2013 4:00:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 407/537
+Nov 10, 2013 4:00:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 408/537
+Nov 10, 2013 4:00:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 409/537
+Nov 10, 2013 4:00:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 410/537
+Nov 10, 2013 4:00:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 411/537
+Nov 10, 2013 4:00:59 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 412/537
+Nov 10, 2013 4:01:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 413/537
+Nov 10, 2013 4:01:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 414/537
+Nov 10, 2013 4:01:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 415/537
+Nov 10, 2013 4:01:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 416/537
+Nov 10, 2013 4:01:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 417/537
+Nov 10, 2013 4:01:00 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 418/537
+Nov 10, 2013 4:01:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 419/537
+Nov 10, 2013 4:01:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 420/537
+Nov 10, 2013 4:01:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 421/537
+Nov 10, 2013 4:01:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 422/537
+Nov 10, 2013 4:01:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 423/537
+Nov 10, 2013 4:01:01 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 424/537
+Nov 10, 2013 4:01:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 425/537
+Nov 10, 2013 4:01:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 426/537
+Nov 10, 2013 4:01:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 427/537
+Nov 10, 2013 4:01:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 428/537
+Nov 10, 2013 4:01:02 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 429/537
+Nov 10, 2013 4:01:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 430/537
+Nov 10, 2013 4:01:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 431/537
+Nov 10, 2013 4:01:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 432/537
+Nov 10, 2013 4:01:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 433/537
+Nov 10, 2013 4:01:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 434/537
+Nov 10, 2013 4:01:03 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 435/537
+Nov 10, 2013 4:01:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 436/537
+Nov 10, 2013 4:01:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 437/537
+Nov 10, 2013 4:01:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 438/537
+Nov 10, 2013 4:01:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 439/537
+Nov 10, 2013 4:01:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 440/537
+Nov 10, 2013 4:01:04 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 441/537
+Nov 10, 2013 4:01:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 442/537
+Nov 10, 2013 4:01:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 443/537
+Nov 10, 2013 4:01:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 444/537
+Nov 10, 2013 4:01:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 445/537
+Nov 10, 2013 4:01:05 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 446/537
+Nov 10, 2013 4:01:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 447/537
+Nov 10, 2013 4:01:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 448/537
+Nov 10, 2013 4:01:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 449/537
+Nov 10, 2013 4:01:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 450/537
+Nov 10, 2013 4:01:06 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 451/537
+Nov 10, 2013 4:01:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 452/537
+Nov 10, 2013 4:01:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 453/537
+Nov 10, 2013 4:01:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 454/537
+Nov 10, 2013 4:01:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 455/537
+Nov 10, 2013 4:01:07 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 456/537
+Nov 10, 2013 4:01:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 457/537
+Nov 10, 2013 4:01:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 458/537
+Nov 10, 2013 4:01:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 459/537
+Nov 10, 2013 4:01:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 460/537
+Nov 10, 2013 4:01:08 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 461/537
+Nov 10, 2013 4:01:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 462/537
+Nov 10, 2013 4:01:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 463/537
+Nov 10, 2013 4:01:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 464/537
+Nov 10, 2013 4:01:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 465/537
+Nov 10, 2013 4:01:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 466/537
+Nov 10, 2013 4:01:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 467/537
+Nov 10, 2013 4:01:09 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 468/537
+Nov 10, 2013 4:01:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 469/537
+Nov 10, 2013 4:01:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 470/537
+Nov 10, 2013 4:01:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 471/537
+Nov 10, 2013 4:01:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 472/537
+Nov 10, 2013 4:01:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 473/537
+Nov 10, 2013 4:01:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 474/537
+Nov 10, 2013 4:01:10 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 475/537
+Nov 10, 2013 4:01:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 476/537
+Nov 10, 2013 4:01:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 477/537
+Nov 10, 2013 4:01:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 478/537
+Nov 10, 2013 4:01:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 479/537
+Nov 10, 2013 4:01:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 480/537
+Nov 10, 2013 4:01:11 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 481/537
+Nov 10, 2013 4:01:12 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 482/537
+Nov 10, 2013 4:01:43 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 483/537
+Nov 10, 2013 4:01:52 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 484/537
+Nov 10, 2013 4:02:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 485/537
+Nov 10, 2013 4:02:14 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 486/537
+Nov 10, 2013 4:02:15 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 487/537
+Nov 10, 2013 4:02:18 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 488/537
+Nov 10, 2013 4:02:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 489/537
+Nov 10, 2013 4:02:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 490/537
+Nov 10, 2013 4:02:21 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 491/537
+Nov 10, 2013 4:02:25 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 492/537
+Nov 10, 2013 4:02:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 493/537
+Nov 10, 2013 4:02:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 494/537
+Nov 10, 2013 4:02:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 495/537
+Nov 10, 2013 4:02:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 496/537
+Nov 10, 2013 4:02:28 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 497/537
+Nov 10, 2013 4:02:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 498/537
+Nov 10, 2013 4:02:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 499/537
+Nov 10, 2013 4:02:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 500/537
+Nov 10, 2013 4:02:29 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 501/537
+Nov 10, 2013 4:02:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 502/537
+Nov 10, 2013 4:02:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 503/537
+Nov 10, 2013 4:02:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 504/537
+Nov 10, 2013 4:02:30 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 505/537
+Nov 10, 2013 4:02:33 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 506/537
+Nov 10, 2013 4:02:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 507/537
+Nov 10, 2013 4:02:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 508/537
+Nov 10, 2013 4:02:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 509/537
+Nov 10, 2013 4:02:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 510/537
+Nov 10, 2013 4:02:34 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 511/537
+Nov 10, 2013 4:02:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 512/537
+Nov 10, 2013 4:02:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 513/537
+Nov 10, 2013 4:02:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 514/537
+Nov 10, 2013 4:02:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 515/537
+Nov 10, 2013 4:02:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 516/537
+Nov 10, 2013 4:02:35 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 517/537
+Nov 10, 2013 4:02:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 518/537
+Nov 10, 2013 4:02:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 519/537
+Nov 10, 2013 4:02:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 520/537
+Nov 10, 2013 4:02:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 521/537
+Nov 10, 2013 4:02:36 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 522/537
+Nov 10, 2013 4:02:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 523/537
+Nov 10, 2013 4:02:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 524/537
+Nov 10, 2013 4:02:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 525/537
+Nov 10, 2013 4:02:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 526/537
+Nov 10, 2013 4:02:37 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 527/537
+Nov 10, 2013 4:02:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 528/537
+Nov 10, 2013 4:02:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 529/537
+Nov 10, 2013 4:02:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 530/537
+Nov 10, 2013 4:02:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 531/537
+Nov 10, 2013 4:02:38 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 532/537
+Nov 10, 2013 4:02:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 533/537
+Nov 10, 2013 4:02:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 534/537
+Nov 10, 2013 4:02:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 535/537
+Nov 10, 2013 4:02:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Converting instance 536/537
+Nov 10, 2013 4:02:39 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Write to CSV
+Nov 10, 2013 4:02:41 PM de.mannheim.uni.convertors.ClassToCSV convertClass
+INFO: Total time to convert class in miliseconds: 186404

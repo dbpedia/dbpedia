@@ -1,0 +1,1 @@
+To start the convertor, run the ClassToCSV class, where the first argument should contain the local DBpedia endpoint, otherwise the default http://dbpedia.org/sparql will be used.
