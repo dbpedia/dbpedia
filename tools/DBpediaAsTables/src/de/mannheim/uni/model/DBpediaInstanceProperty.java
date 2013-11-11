@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class DBpediaInstanceProperty implements Serializable{
+public class DBpediaInstanceProperty implements Serializable {
 
 	private String uri;
 
@@ -15,7 +15,17 @@ public class DBpediaInstanceProperty implements Serializable{
 
 	private List<String> values;
 
+	private List<String> valuesLabels;
+
 	private boolean isFinalRange;
+
+	public List<String> getValuesLabels() {
+		return valuesLabels;
+	}
+
+	public void setValuesLabels(List<String> valuesLabels) {
+		this.valuesLabels = valuesLabels;
+	}
 
 	public String getUri() {
 		return uri;
@@ -51,7 +61,8 @@ public class DBpediaInstanceProperty implements Serializable{
 
 	public DBpediaInstanceProperty() {
 		types = new LinkedList<String>();
-		values = new ArrayList<String>();
+		values = new LinkedList<String>();
+		valuesLabels = new LinkedList<String>();
 		isFinalRange = false;
 	}
 

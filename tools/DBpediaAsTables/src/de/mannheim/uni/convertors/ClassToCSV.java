@@ -32,7 +32,7 @@ import de.mannheim.uni.sparql.SPARQLEndpointQueryRunner;
 public class ClassToCSV {
 
 	public static final String GET_INSTANCES_OF_CLASS = "select distinct ?Concept where {?Concept a ?type}";
-	public static final String GET_PROPERTIES_OF_INSTANCE = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT * WHERE { ?instance ?prop ?object  Optional{ ?object a ?DomainClass} optional {?prop rdfs:range ?range} }";
+	public static final String GET_PROPERTIES_OF_INSTANCE = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT * WHERE { ?instance ?prop ?object  Optional{ ?object a ?DomainClass} optional {?prop rdfs:range ?range} optional {?object rdfs:label ?label FILTER(LANGMATCHES(LANG(?label), \"en\")) }}";
 	public static final String GET_LEAF_CLASSES = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> PREFIX owl:<http://www.w3.org/2002/07/owl#> select distinct ?type {?type a owl:Class . FILTER NOT EXISTS{?subclass rdfs:subClassOf ?type}}";
 	public static final String GET_ALL_CLASSES = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> PREFIX owl:<http://www.w3.org/2002/07/owl#> select distinct ?type {?type a owl:Class}";
 
@@ -305,7 +305,7 @@ public class ClassToCSV {
 						propURI, properties);
 				if (prop.isObjectProperty()) {
 					List<String> values = instanceProp.gerPropertyByURI(
-							prop.getUri()).getValues();
+							prop.getUri()).getValuesLabels();
 					// compute the value
 					String value = "NULL";
 					if (values.size() > 0) {
@@ -318,9 +318,7 @@ public class ClassToCSV {
 							value = "";
 							for (String valueFromList : values) {
 								valueFromList = cleanString(valueFromList);
-								value += "|"
-										+ valueFromList.substring(valueFromList
-												.lastIndexOf("/") + 1);
+								value += "|" + valueFromList;
 							}
 							value += "}";
 							value = value.replaceFirst("\\|", "{");
@@ -435,6 +433,7 @@ public class ClassToCSV {
 
 				String range = "";
 				String domainClass = "";
+				String label = "";
 				if (sol.contains("range")) {
 					range = sol.get("range").toString();
 				}
@@ -447,6 +446,10 @@ public class ClassToCSV {
 					if (range.equals(""))
 						range = DBpediaProperty
 								.guessAttributeType(valueLitteral);
+				} else {
+					label = value.substring(value.lastIndexOf("/") + 1);
+					if (sol.contains("label"))
+						label = sol.getLiteral("label").getString();
 				}
 				if (!propertyOfInstance.isFinalRange()) {
 					if (range.equals("") && domainClass.equals(""))
@@ -474,6 +477,8 @@ public class ClassToCSV {
 				}
 				if (!propertyOfInstance.getValues().contains(value))
 					propertyOfInstance.getValues().add(value);
+				if (!propertyOfInstance.getValuesLabels().contains(label))
+					propertyOfInstance.getValuesLabels().add(label);
 			}
 
 			offset += queryRunner.getPageSize();
