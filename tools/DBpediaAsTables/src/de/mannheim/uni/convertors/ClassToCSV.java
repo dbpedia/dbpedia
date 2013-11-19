@@ -311,13 +311,17 @@ public class ClassToCSV {
 					if (values.size() > 0) {
 						value = values.get(0).substring(
 								values.get(0).lastIndexOf("/") + 1);
-						value = cleanString(value);
+						if (!value.startsWith("http://")) {
+							value = cleanString(value);
+						}
 						// if there are more values concatenate them into one
 						// value
 						if (values.size() > 1) {
 							value = "";
 							for (String valueFromList : values) {
-								valueFromList = cleanString(valueFromList);
+								if (!valueFromList.startsWith("http://")) {
+									valueFromList = cleanString(valueFromList);
+								}
 								value += "|" + valueFromList;
 							}
 							value += "}";
@@ -333,12 +337,16 @@ public class ClassToCSV {
 				String value = "NULL";
 				if (values.size() > 0) {
 					value = values.get(0);
-					value = cleanString(value);
+					if (!value.startsWith("http://")) {
+						value = cleanString(value);
+					}
 					// if there are more values concatenate them into one value
 					if (values.size() > 1) {
 						value = "";
 						for (String valueFromList : values) {
-							valueFromList = cleanString(valueFromList);
+							if (!valueFromList.startsWith("http://")) {
+								valueFromList = cleanString(valueFromList);
+							}
 							value += "|" + valueFromList;
 						}
 						value += "}";
