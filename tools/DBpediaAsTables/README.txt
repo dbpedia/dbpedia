@@ -5,7 +5,4 @@ For each class in the DBpedia ontology (such as Person, Radio Station, Ice Hocke
 The full documentation can be found on the following link: http://wiki.dbpedia.org/DBpediaAsTables
 
 
-
-
-To start the convertor, run the ClassToCSV class, where the first argument should contain the local DBpedia endpoint,
-otherwise the default http://dbpedia.org/sparql will be used.
+To start the convertor, run the ClassToCSV class, where the first argument should contain the local DBpedia endpoint, otherwise the default http://dbpedia.org/sparql will be used.
