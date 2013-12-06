@@ -1,5 +1,6 @@
 package de.mannheim.uni.convertors;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -7,6 +8,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.OutputStreamWriter;
+import java.io.Writer;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -14,7 +16,8 @@ import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-import au.com.bytecode.opencsv.CSVWriter;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 
 import com.hp.hpl.jena.query.ParameterizedSparqlString;
 import com.hp.hpl.jena.query.Query;
@@ -28,7 +31,7 @@ import de.mannheim.uni.model.DBpediaInstanceProperty;
 import de.mannheim.uni.model.DBpediaProperty;
 import de.mannheim.uni.sparql.SPARQLEndpointQueryRunner;
 
-public class ClassToCSV {
+public class ClassToJson {
 
 	public static final String GET_INSTANCES_OF_CLASS = "select distinct ?Concept FROM <http://dbpedia.org> where {?Concept a ?type}";
 	public static final String GET_PROPERTIES_OF_INSTANCE = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT * FROM <http://dbpedia.org>  WHERE { ?instance ?prop ?object  Optional{ ?object a ?DomainClass} optional {?prop rdfs:range ?range} optional {?object rdfs:label ?label FILTER(LANGMATCHES(LANG(?label), \"en\")) }}";
@@ -41,7 +44,7 @@ public class ClassToCSV {
 
 	Logger logger;
 
-	public ClassToCSV(Logger logger, String endpoint) {
+	public ClassToJson(Logger logger, String endpoint) {
 		// TODO Auto-generated constructor stub
 		// initialize
 		properties = new ArrayList<DBpediaProperty>();
@@ -130,12 +133,13 @@ public class ClassToCSV {
 	 */
 	public void convertTmpFilesToCSV(String classURI) {
 		// create the CSV File
-		CSVWriter writer = null;
+		Writer writer = null;
 		try {
-			writer = new CSVWriter(new OutputStreamWriter(new FileOutputStream(
-					"Output/"
+
+			writer = new BufferedWriter(new OutputStreamWriter(
+					new FileOutputStream("Output/"
 							+ classURI.substring(classURI.lastIndexOf("/") + 1)
-							+ ".csv"), "UTF-8"));
+							+ ".json"), "UTF-8"));
 			// writer = new CSVWriter(new FileWriter("Output/"
 			// + classURI.substring(classURI.lastIndexOf("/") + 1)
 			// + ".csv"), ';');
@@ -185,73 +189,49 @@ public class ClassToCSV {
 		// this is the URI
 		entries[0] = "URI";
 		int i = 1;
+		JSONArray list = new JSONArray();
+		// write the first one
+		JSONObject obj = new JSONObject();
+		obj.put("propertyLabel", "URI");
+		obj.put("propertyURI", "URI");
+		obj.put("propertyTypeLabel", "URI");
+		obj.put("propertyType", "http://www.w3.org/2002/07/owl#Thing");
+		list.add(obj);
 		for (String propURI : finalOrderProperties) {
+
 			DBpediaProperty prop = DBpediaProperty.gerPropertyByURI(propURI,
 					properties);
 			// add one more column
 			if (prop.isObjectProperty()) {
 				entries[i] = prop.getLabel() + "_label";
 				i++;
+				obj = new JSONObject();
+				obj.put("propertyLabel", prop.getLabel() + "_label");
+				obj.put("propertyURI", prop.getUri());
+				obj.put("propertyTypeLabel", "XMLSchema#string");
+				obj.put("propertyType", DBpediaProperty.STRING_SCHEMA_TYPE);
+				list.add(obj);
 			}
-			entries[i] = prop.getLabel();
-			i++;
+			obj = new JSONObject();
+			obj.put("propertyLabel", prop.getLabel());
+			obj.put("propertyURI", prop.getUri());
+			obj.put("propertyTypeLabel", prop.getFinalRangeLabel());
+			obj.put("propertyType", prop.getFinalRange());
+			list.add(obj);
 		}
-		writer.writeNext(entries);
-
-		// write the properties uris in the second row
-		entries = new String[totalPropSize];
-		// this is the URI
-		entries[0] = "URI";
-		i = 1;
-		for (String propURI : finalOrderProperties) {
-			DBpediaProperty prop = DBpediaProperty.gerPropertyByURI(propURI,
-					properties);
-			// add one more column
-			if (prop.isObjectProperty()) {
-				entries[i] = prop.getUri();
-				i++;
-			}
-			entries[i] = prop.getUri();
-			i++;
+		JSONObject props = new JSONObject();
+		props.put("properties", list);
+		try {
+			String jsonStr = props.toJSONString();
+			writer.write(jsonStr.substring(0, jsonStr.length() - 1) + ",\n");
+			writer.write("\"instances\":[");
+		} catch (IOException e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
 		}
-		writer.writeNext(entries);
-
-		// write the properties types label in the third row
-		entries = new String[totalPropSize];
-		// this is the URI
-		entries[0] = "URI";
-		i = 1;
-		for (String propURI : finalOrderProperties) {
-			DBpediaProperty prop = DBpediaProperty.gerPropertyByURI(propURI,
-					properties);
-			// add one more column
-			if (prop.isObjectProperty()) {
-				entries[i] = "XMLSchema#string";
-				i++;
-			}
-			entries[i] = prop.getFinalRangeLabel();
-			i++;
-		}
-		writer.writeNext(entries);
-		// write the properties types uri in the fourth row
-		entries = new String[totalPropSize];
-		// this is the URI
-		entries[0] = "http://www.w3.org/2002/07/owl#Thing";
-		i = 1;
-		for (String propURI : finalOrderProperties) {
-			DBpediaProperty prop = DBpediaProperty.gerPropertyByURI(propURI,
-					properties);
-			// add one more column
-			if (prop.isObjectProperty()) {
-				entries[i] = DBpediaProperty.STRING_SCHEMA_TYPE;
-				i++;
-			}
-			entries[i] = prop.getFinalRange();
-			i++;
-		}
-		writer.writeNext(entries);
 
 		// write instances from the files
+		boolean isFirst = true;
 		File folder = new File("tmpFiles");
 		for (File fileEntry : folder.listFiles()) {
 			try {
@@ -262,7 +242,8 @@ public class ClassToCSV {
 				ois.close();
 
 				writeToCSV(writer, properties, instancesWithPropertiesTmp,
-						classURI, totalPropSize, finalOrderProperties);
+						classURI, totalPropSize, finalOrderProperties, isFirst);
+				isFirst = false;
 				fileEntry.delete();
 			} catch (Exception e1) {
 				// TODO Auto-generated catch block
@@ -271,6 +252,7 @@ public class ClassToCSV {
 
 		}
 		try {
+			writer.write("]}");
 			writer.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -289,16 +271,19 @@ public class ClassToCSV {
 	 * @param totalPropSize
 	 * @param finalOrderProperties
 	 */
-	private void writeToCSV(CSVWriter writer, List<DBpediaProperty> properties,
+	private void writeToCSV(Writer writer, List<DBpediaProperty> properties,
 			List<DBpediaInstance> instancesWithProperties, String classURI,
-			int totalPropSize, List<String> finalOrderProperties) {
+			int totalPropSize, List<String> finalOrderProperties,
+			boolean isFirst) {
 
 		// write the instances
 
 		for (DBpediaInstance instanceProp : instancesWithProperties) {
+			JSONObject objMain = new JSONObject();
 			String[] entries = new String[totalPropSize];
 			entries[0] = instanceProp.getUri();
 			int i = 1;
+			JSONObject obj = new JSONObject();
 			for (String propURI : finalOrderProperties) {
 				DBpediaProperty prop = DBpediaProperty.gerPropertyByURI(
 						propURI, properties);
@@ -307,6 +292,7 @@ public class ClassToCSV {
 							prop.getUri()).getValuesLabels();
 					// compute the value
 					String value = "NULL";
+					boolean isAdded = false;
 					if (values.size() > 0) {
 						value = values.get(0).substring(
 								values.get(0).lastIndexOf("/") + 1);
@@ -315,25 +301,29 @@ public class ClassToCSV {
 						}
 						// if there are more values concatenate them into one
 						// value
+
 						if (values.size() > 1) {
-							value = "";
+							JSONArray list = new JSONArray();
+
 							for (String valueFromList : values) {
 								if (!valueFromList.startsWith("http://")) {
 									valueFromList = cleanString(valueFromList);
 								}
-								value += "|" + valueFromList;
+								list.add(valueFromList);
 							}
-							value += "}";
-							value = value.replaceFirst("\\|", "{");
+							obj.put(prop.getUri() + "_label", list);
+							isAdded = true;
 						}
+
 					}
-					entries[i] = value;
-					i++;
+					if (!isAdded)
+						obj.put(prop.getUri() + "_label", value);
 				}
 				List<String> values = instanceProp.gerPropertyByURI(
 						prop.getUri()).getValues();
 				// compute the value
 				String value = "NULL";
+				boolean isAdded = false;
 				if (values.size() > 0) {
 					value = values.get(0);
 					if (!value.startsWith("http://")) {
@@ -341,22 +331,34 @@ public class ClassToCSV {
 					}
 					// if there are more values concatenate them into one value
 					if (values.size() > 1) {
+						JSONArray list = new JSONArray();
 						value = "";
 						for (String valueFromList : values) {
 							if (!valueFromList.startsWith("http://")) {
 								valueFromList = cleanString(valueFromList);
 							}
-							value += "|" + valueFromList;
+
+							list.add(valueFromList);
 						}
-						value += "}";
-						value = value.replaceFirst("\\|", "{");
+						obj.put(prop.getUri(), list);
+						isAdded = true;
 					}
 				}
-				entries[i] = value;
-				i++;
+				if (!isAdded)
+					obj.put(prop.getUri(), value);
 			}
-			writer.writeNext(entries);
-
+			objMain.put(instanceProp.getUri(), obj);
+			try {
+				if (isFirst) {
+					writer.write(objMain.toJSONString());
+					isFirst = false;
+				} else {
+					writer.write(",\n" + objMain.toJSONString());
+				}
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
 
 	}
@@ -718,13 +720,13 @@ public class ClassToCSV {
 		Logger logger = getLogger();
 		// generate folders if they are missing
 		generateFolders();
-		ClassToCSV convetor = new ClassToCSV(logger, endpoint);
+		ClassToJson convetor = new ClassToJson(logger, endpoint);
 		// List<String> allClasses = convetor.getCLasses(GET_ALL_CLASSES);
 		// removeDoneCLasses(allClasses);
 		List<String> allClasses = new ArrayList<String>();
 		allClasses.add("http://dbpedia.org/ontology/Aircraft");
 		for (String clazz : allClasses) {
-			convetor = new ClassToCSV(logger, endpoint);
+			convetor = new ClassToJson(logger, endpoint);
 			convetor.convertClass(clazz);
 		}
 	}
