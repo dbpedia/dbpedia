@@ -719,10 +719,10 @@ public class ClassToCSV {
 		// generate folders if they are missing
 		generateFolders();
 		ClassToCSV convetor = new ClassToCSV(logger, endpoint);
-		// List<String> allClasses = convetor.getCLasses(GET_ALL_CLASSES);
-		// removeDoneCLasses(allClasses);
-		List<String> allClasses = new ArrayList<String>();
-		allClasses.add("http://dbpedia.org/ontology/Aircraft");
+		List<String> allClasses = convetor.getCLasses(GET_ALL_CLASSES);
+		removeDoneCLasses(allClasses);
+		// List<String> allClasses = new ArrayList<String>();
+		// allClasses.add("http://dbpedia.org/ontology/Aircraft");
 		for (String clazz : allClasses) {
 			convetor = new ClassToCSV(logger, endpoint);
 			convetor.convertClass(clazz);

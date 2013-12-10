@@ -598,8 +598,8 @@ public class ClassToJson {
 	public List<String> getCLasses(String query) {
 		List<String> classes = new ArrayList<String>();
 		Query queryQGetInstances = QueryFactory.create(query);
-		queryQGetInstances = SPARQLEndpointQueryRunner
-				.addOrderByToQuery(queryQGetInstances.toString());
+		// queryQGetInstances = SPARQLEndpointQueryRunner
+		// .addOrderByToQuery(queryQGetInstances.toString());
 		ResultSet RS = queryRunner
 				.runSelectQuery(queryQGetInstances.toString());
 		int offset = 0;
@@ -631,10 +631,10 @@ public class ClassToJson {
 		File folder = new File("Output");
 		for (File fileEntry : folder.listFiles()) {
 			if (allClasses.contains("http://dbpedia.org/ontology/"
-					+ fileEntry.getName().replace(".csv", "")))
+					+ fileEntry.getName().replace(".json", "")))
 				allClasses.remove("http://dbpedia.org/ontology/"
-						+ fileEntry.getName().replace(".csv", ""));
-			if (fileEntry.getName().replace(".csv", "").equals("Thing")
+						+ fileEntry.getName().replace(".json", ""));
+			if (fileEntry.getName().replace(".json", "").equals("Thing")
 					&& allClasses
 							.contains("http://www.w3.org/2002/07/owl#Thing"))
 				allClasses.remove("http://www.w3.org/2002/07/owl#Thing");
@@ -721,10 +721,10 @@ public class ClassToJson {
 		// generate folders if they are missing
 		generateFolders();
 		ClassToJson convetor = new ClassToJson(logger, endpoint);
-		// List<String> allClasses = convetor.getCLasses(GET_ALL_CLASSES);
-		// removeDoneCLasses(allClasses);
-		List<String> allClasses = new ArrayList<String>();
-		allClasses.add("http://dbpedia.org/ontology/Aircraft");
+		List<String> allClasses = convetor.getCLasses(GET_ALL_CLASSES);
+		removeDoneCLasses(allClasses);
+		// List<String> allClasses = new ArrayList<String>();
+		// allClasses.add("http://dbpedia.org/ontology/Aircraft");
 		for (String clazz : allClasses) {
 			convetor = new ClassToJson(logger, endpoint);
 			convetor.convertClass(clazz);
