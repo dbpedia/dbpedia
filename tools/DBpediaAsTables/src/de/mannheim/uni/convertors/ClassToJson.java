@@ -264,8 +264,9 @@ public class ClassToJson {
 			boolean isFirst = true;
 			File folder = new File("tmpFiles");
 			for (File fileEntry : folder.listFiles()) {
-				if (!fileEntry.getName().startsWith(
-						classURI.substring(classURI.lastIndexOf("/") + 1)))
+				if (!fileEntry.getName().matches(
+						classURI.substring(classURI.lastIndexOf("/") + 1)
+								+ "\\d+\\..+"))
 					continue;
 				try {
 					FileInputStream fis = new FileInputStream(
@@ -696,8 +697,8 @@ public class ClassToJson {
 			// too big to be represented as json
 			allClasses.remove("http://www.w3.org/2002/07/owl#Thing");
 			allClasses.remove("http://dbpedia.org/ontology/Agent");
-			allClasses.remove("	http://dbpedia.org/ontology/Place");
-			allClasses.remove("	http://dbpedia.org/ontology/Person");
+			allClasses.remove("http://dbpedia.org/ontology/Place");
+			allClasses.remove("http://dbpedia.org/ontology/Person");
 		}
 
 	}

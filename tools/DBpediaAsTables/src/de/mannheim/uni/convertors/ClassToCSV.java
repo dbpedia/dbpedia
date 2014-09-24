@@ -289,8 +289,9 @@ public class ClassToCSV {
 			// write instances from the files
 			File folder = new File("tmpFiles");
 			for (File fileEntry : folder.listFiles()) {
-				if (!fileEntry.getName().startsWith(
-						classURI.substring(classURI.lastIndexOf("/") + 1)))
+				if (!fileEntry.getName().matches(
+						classURI.substring(classURI.lastIndexOf("/") + 1)
+								+ "\\d+\\..+"))
 					continue;
 				try {
 					FileInputStream fis = new FileInputStream(
