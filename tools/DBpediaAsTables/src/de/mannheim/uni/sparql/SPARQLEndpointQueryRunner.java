@@ -153,7 +153,7 @@ public class SPARQLEndpointQueryRunner {
 					e.printStackTrace();
 				}
 				// *****************REMOVE THIS IF YOU WANT ALL RESULTS
-				break;
+				// break;
 			}
 		}
 
