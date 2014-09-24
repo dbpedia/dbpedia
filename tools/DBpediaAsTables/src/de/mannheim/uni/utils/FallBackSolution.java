@@ -21,13 +21,13 @@ import de.mannheim.uni.sparql.SPARQLEndpointQueryRunner;
 public class FallBackSolution {
 	public static void main(String[] args) {
 		try {
-			FileInputStream fis = new FileInputStream(
-					"tmpProps\\owl#ThingProperties.ser");
+
+			FileInputStream fis = new FileInputStream("tmpProps/" + args[0]
+					+ "Properties.ser");
 			ObjectInputStream ois = new ObjectInputStream(fis);
 			List<DBpediaProperty> properties = (List) ois.readObject();
 			ois.close();
-			convertTmpFilesToCSV("http://www.w3.org/2002/07/owl#Thing",
-					properties);
+			convertTmpFilesToCSV(args[0], properties);
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -36,13 +36,19 @@ public class FallBackSolution {
 	}
 
 	public static void convertTmpFilesToCSV(String classURI,
-			List<DBpediaProperty> properties) {
+			List<DBpediaProperty> properties1) {
+		List<DBpediaProperty> properties = new ArrayList<DBpediaProperty>();
+		for (DBpediaProperty prop : properties1) {
+			if (prop.getUri().startsWith("http://dbpedia.org/property/"))
+				continue;
+			properties.add(prop);
+		}
+
 		// create the CSV File
 		CSVWriter writer = null;
 		try {
-			writer = new CSVWriter(new FileWriter("Output\\"
-					+ classURI.substring(classURI.lastIndexOf("/") + 1)
-					+ ".csv"), ';');
+			writer = new CSVWriter(
+					new FileWriter("Output/" + classURI + ".csv"), ';');
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -156,8 +162,10 @@ public class FallBackSolution {
 		writer.writeNext(entries);
 
 		// write instances from the files
-		File folder = new File("tmpParts");
+		File folder = new File("tmpFiles");
 		for (File fileEntry : folder.listFiles()) {
+			if (!fileEntry.getName().startsWith(classURI))
+				continue;
 			try {
 				FileInputStream fis = new FileInputStream(fileEntry.getPath());
 				ObjectInputStream ois = new ObjectInputStream(fis);

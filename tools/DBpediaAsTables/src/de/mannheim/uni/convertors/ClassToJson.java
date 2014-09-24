@@ -15,6 +15,7 @@ import java.util.List;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
+import java.util.zip.GZIPOutputStream;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -33,8 +34,8 @@ import de.mannheim.uni.sparql.SPARQLEndpointQueryRunner;
 
 public class ClassToJson {
 
-	public static final String GET_INSTANCES_OF_CLASS = "select distinct ?Concept FROM <http://dbpedia.org> where {?Concept a ?type}";
-	public static final String GET_PROPERTIES_OF_INSTANCE = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT * FROM <http://dbpedia.org>  WHERE { ?instance ?prop ?object  Optional{ ?object a ?DomainClass} optional {?prop rdfs:range ?range} optional {?object rdfs:label ?label FILTER(LANGMATCHES(LANG(?label), \"en\")) }}";
+	public static final String GET_INSTANCES_OF_CLASS = "select distinct ?Concept where {?Concept a ?type}";
+	public static final String GET_PROPERTIES_OF_INSTANCE = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> select distinct * where {?instance ?prop ?object .FILTER(?prop!=<http://dbpedia.org/ontology/wikiPageWikiLink> && ?prop!=<http://dbpedia.org/property/wikiPageUsesTemplate> && ?prop!=<http://purl.org/dc/terms/subject> && ?prop!=<http://dbpedia.org/ontology/wikiPageExternalLink> && ?prop!=<http://www.w3.org/ns/prov#wasDerivedFrom> && ?prop!=<http://www.w3.org/ns/prov#wasDerivedFrom> && ?prop!=<http://dbpedia.org/ontology/abstract>). FILTER(!regex(str(?prop), \"^http://xmlns.com\")).  optional {?prop rdfs:range ?range} .optional {?object rdfs:label ?label FILTER(LANGMATCHES(LANG(?label), \"en\")) } }";
 	public static final String GET_LEAF_CLASSES = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> PREFIX owl:<http://www.w3.org/2002/07/owl#> select distinct ?type FROM <http://dbpedia.org>  {?type a owl:Class . FILTER NOT EXISTS{?subclass rdfs:subClassOf ?type}}";
 	public static final String GET_ALL_CLASSES = "PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#> PREFIX owl:<http://www.w3.org/2002/07/owl#> select distinct ?type FROM <http://dbpedia.org> {?type a owl:Class}";
 
@@ -78,7 +79,7 @@ public class ClassToJson {
 			instancesWithProperties.add(processInstance(instanceURI));
 
 			// write instances to file, to avoid out of memory exception
-			if (instancesWithProperties.size() > 10000) {
+			if (instancesWithProperties.size() > 30000) {
 				try {
 					FileOutputStream fos = new FileOutputStream("tmpFiles/"
 							+ classURI.substring(classURI.lastIndexOf("/") + 1)
@@ -137,9 +138,9 @@ public class ClassToJson {
 		try {
 
 			writer = new BufferedWriter(new OutputStreamWriter(
-					new FileOutputStream("Output/"
+					new GZIPOutputStream(new FileOutputStream("Output/"
 							+ classURI.substring(classURI.lastIndexOf("/") + 1)
-							+ ".json"), "UTF-8"));
+							+ ".json.gz")), "UTF-8"));
 			// writer = new CSVWriter(new FileWriter("Output/"
 			// + classURI.substring(classURI.lastIndexOf("/") + 1)
 			// + ".csv"), ';');
@@ -379,8 +380,8 @@ public class ClassToJson {
 
 		Query queryQGetInstances = QueryFactory.create(queryStringGetInstances
 				.toString());
-		// queryQGetInstances = SPARQLEndpointQueryRunner
-		// .addOrderByToQuery(queryQGetInstances.toString());
+		queryQGetInstances = SPARQLEndpointQueryRunner
+				.addOrderByToQuery(queryQGetInstances.toString());
 		queryQGetInstances.setLimit(queryRunner.getPageSize());
 
 		ResultSet RS = queryRunner
@@ -454,6 +455,10 @@ public class ClassToJson {
 					}
 					if (sol.get("object").isLiteral()) {
 						Literal valueLitteral = sol.getLiteral("object");
+						// remove non english literals
+						if (valueLitteral.toString().contains("@"))
+							if (!valueLitteral.toString().endsWith("@en"))
+								continue;
 						value = valueLitteral.getString();
 						if (range.equals(""))
 							range = DBpediaProperty
@@ -566,6 +571,7 @@ public class ClassToJson {
 			ObjectInputStream ois = new ObjectInputStream(fis);
 			instance = (DBpediaInstance) ois.readObject();
 			ois.close();
+			fis.close();
 
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
@@ -583,6 +589,7 @@ public class ClassToJson {
 			ObjectOutputStream oos = new ObjectOutputStream(fos);
 			oos.writeObject(instance);
 			oos.close();
+			fos.close();
 		} catch (Exception e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -638,6 +645,12 @@ public class ClassToJson {
 					&& allClasses
 							.contains("http://www.w3.org/2002/07/owl#Thing"))
 				allClasses.remove("http://www.w3.org/2002/07/owl#Thing");
+
+			// too big to be represented as json
+			allClasses.remove("http://www.w3.org/2002/07/owl#Thing");
+			allClasses.remove("http://dbpedia.org/ontology/Agent");
+			allClasses.remove("	http://dbpedia.org/ontology/Place");
+			allClasses.remove("	http://dbpedia.org/ontology/Person");
 		}
 
 	}
@@ -724,7 +737,7 @@ public class ClassToJson {
 		List<String> allClasses = convetor.getCLasses(GET_ALL_CLASSES);
 		removeDoneCLasses(allClasses);
 		// List<String> allClasses = new ArrayList<String>();
-		// allClasses.add("http://dbpedia.org/ontology/Aircraft");
+		// allClasses.add("http://dbpedia.org/ontology/Brain");
 		for (String clazz : allClasses) {
 			convetor = new ClassToJson(logger, endpoint);
 			convetor.convertClass(clazz);

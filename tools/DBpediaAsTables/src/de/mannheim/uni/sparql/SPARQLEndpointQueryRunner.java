@@ -8,7 +8,7 @@ import com.hp.hpl.jena.query.ResultSet;
 
 public class SPARQLEndpointQueryRunner {
 	public final static String DBPEDIA_ENDPOINT = "http://dbpedia.org/sparql";
-	public final static String LOCAL_DBPEDIA_ENDPOINT = "http://wifo5-38.informatik.uni-mannheim.de:8890/sparql";
+	public final static String LOCAL_DBPEDIA_ENDPOINT = "http://wifo5-32.informatik.uni-mannheim.de:8891/sparql";
 
 	private String endpoint;
 
@@ -23,6 +23,7 @@ public class SPARQLEndpointQueryRunner {
 	private boolean useCount;
 
 	private boolean usePropertyPaths;
+	private QueryExecution objectToExec;
 
 	public boolean isUseCount() {
 		return useCount;
@@ -121,10 +122,14 @@ public class SPARQLEndpointQueryRunner {
 		return runner;
 	}
 
+	public void closeConnection() {
+		objectToExec.close();
+	}
+
 	public ResultSet runSelectQuery(String query) {
 		Query q = QueryFactory.create(query);
-		QueryExecution objectToExec = QueryExecutionFactory.sparqlService(
-				endpoint, q.toString());
+		objectToExec = QueryExecutionFactory.sparqlService(endpoint,
+				q.toString());
 		objectToExec.setTimeout(timeout);
 		// retry every 1000 millis if the endpoint goes down
 		int localRetries = 0;
@@ -134,17 +139,21 @@ public class SPARQLEndpointQueryRunner {
 				results = objectToExec.execSelect();
 				break;
 			} catch (Exception ex) {
+
 				ex.printStackTrace();
 				localRetries++;
-				// if (localRetries >= retries) {
-				// ex.printStackTrace();
-				// break;
-				// }
+				if (localRetries >= retries) {
+					ex.printStackTrace();
+					break;
+				}
+
 				try {
-					Thread.sleep(1000);
+					Thread.sleep(1);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
+				// *****************REMOVE THIS IF YOU WANT ALL RESULTS
+				break;
 			}
 		}
 
@@ -182,8 +191,9 @@ public class SPARQLEndpointQueryRunner {
 		// TODO Auto-generated method stub
 		SPARQLEndpointQueryRunner qr = new SPARQLEndpointQueryRunner(
 				"http://dbpedia.org/sparql");
+		String query = "SELECT ?p ?t WHERE { { SELECT DISTINCT ?p ?t WHERE { <http://dbpedia.org/resource/Pulp_Fiction> ?p ?o . ?o <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?t } ORDER BY ?p ?t } } OFFSET 10000 LIMIT 10000";
+		qr.runSelectQuery(query);
 		// qr.getSubClasses("http://dbpedia.org/class/yago/Object100002684",
 		// new ArrayList<String>());
 	}
-
 }
