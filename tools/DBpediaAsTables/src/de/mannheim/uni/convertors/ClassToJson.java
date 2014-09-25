@@ -686,20 +686,20 @@ public class ClassToJson {
 		File folder = new File("json");
 		for (File fileEntry : folder.listFiles()) {
 			if (allClasses.contains("http://dbpedia.org/ontology/"
-					+ fileEntry.getName().replace(".json", "")))
+					+ fileEntry.getName().replace(".json.gz", "")))
 				allClasses.remove("http://dbpedia.org/ontology/"
-						+ fileEntry.getName().replace(".json", ""));
-			if (fileEntry.getName().replace(".json", "").equals("Thing")
+						+ fileEntry.getName().replace(".json.gz", ""));
+			if (fileEntry.getName().replace(".json.gz", "").equals("Thing")
 					&& allClasses
 							.contains("http://www.w3.org/2002/07/owl#Thing"))
 				allClasses.remove("http://www.w3.org/2002/07/owl#Thing");
 
-			// too big to be represented as json
-			allClasses.remove("http://www.w3.org/2002/07/owl#Thing");
-			allClasses.remove("http://dbpedia.org/ontology/Agent");
-			allClasses.remove("http://dbpedia.org/ontology/Place");
-			allClasses.remove("http://dbpedia.org/ontology/Person");
 		}
+		// too big to be represented as json
+//		allClasses.remove("http://www.w3.org/2002/07/owl#Thing");
+//		allClasses.remove("http://dbpedia.org/ontology/Agent");
+//		allClasses.remove("http://dbpedia.org/ontology/Place");
+//		allClasses.remove("http://dbpedia.org/ontology/Person");
 
 	}
 
