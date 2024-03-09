@@ -657,30 +657,22 @@ public class CBZip2InputStream
         return u;
     }
 
-    private int bsR( final int n )
-    {
-        while( m_bsLive < n )
-        {
-            char ch = 0;
-            try
-            {
-                ch = (char)m_input.read();
-            }
-            catch( final IOException ioe )
-            {
-                compressedStreamEOF();
-            }
+    private int bsR(final int n) throws IOException {
+        // Ensure the input stream is not null
+        if (m_input == null) {
+            throw new IOException("Input stream is null.");
+        }
 
-            if( ch == -1 )
-            {
-                compressedStreamEOF();
+        while (m_bsLive < n) {
+            int ch = m_input.read();
+            if (ch == -1) {
+                throw new IOException("Unexpected end of compressed stream.");
             }
-
-            m_bsBuff = ( m_bsBuff << 8 ) | ( ch & 0xff );
+            m_bsBuff = (m_bsBuff << 8) | (ch & 0xff);
             m_bsLive += 8;
         }
 
-        final int result = ( m_bsBuff >> ( m_bsLive - n ) ) & ( ( 1 << n ) - 1 );
+        final int result = (m_bsBuff >> (m_bsLive - n)) & ((1 << n) - 1);
         m_bsLive -= n;
         return result;
     }
@@ -704,19 +696,14 @@ public class CBZip2InputStream
         m_streamEnd = true;
     }
 
-    private void endBlock()
-    {
+    private void endBlock() {
         m_computedBlockCRC = m_crc.getFinalCRC();
-        /*
-         * A bad CRC is considered a fatal error.
-         */
-        if( m_storedBlockCRC != m_computedBlockCRC )
-        {
-            crcError();
+        // A bad CRC is considered a fatal error.
+        if (m_storedBlockCRC != m_computedBlockCRC) {
+            throw new IOException("CRC Error: Block CRC mismatch.");
         }
 
-        m_computedCombinedCRC = ( m_computedCombinedCRC << 1 )
-            | ( m_computedCombinedCRC >>> 31 );
+        m_computedCombinedCRC = (m_computedCombinedCRC << 1) | (m_computedCombinedCRC >>> 31);
         m_computedCombinedCRC ^= m_computedBlockCRC;
     }
 
@@ -975,8 +962,15 @@ public class CBZip2InputStream
         }
     }
     
-    public void close() throws IOException 
-    {
-	bsFinishedWithStream();
+   public void close() throws IOException {
+        try {
+            // Close the input stream if it's not null
+            if (m_input != null) {
+                m_input.close();
+            }
+        } finally {
+            // Ensure the input stream is set to null even if an exception occurs
+            m_input = null;
+        }
     }
 }
