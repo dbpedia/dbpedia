@@ -1,11 +1,28 @@
 #!/bin/bash
-APP_ROOT=${0%/*}
+
+# Determine the script's directory
+APP_ROOT=$(dirname "$(readlink -f "$0")")
+
+# Initialize classpath
 CP="$APP_ROOT"
-SEP=':'
-if [ "$(uname)" = "Cygwin" ]; then SEP=';'; fi
-for jar in "$APP_ROOT"/lib/*.jar "$APP_ROOT"/lib/*/*.jar
-do
-  if [ ! -e "$jar" ]; then continue; fi
-  CP="$CP$SEP$jar"
+
+# Determine platform-dependent separator
+if [[ "$OSTYPE" == "cygwin" || "$OSTYPE" == "msys" ]]; then
+    SEP=';'
+else
+    SEP=':'
+fi
+
+# Construct classpath by adding JAR files in lib directories
+find "$APP_ROOT"/lib -name "*.jar" -type f -print0 | while IFS= read -r -d $'\0' jar; do
+    CP="${CP}${SEP}${jar}"
 done
+
+# Check if any JAR files were found
+if [ "$CP" = "$APP_ROOT" ]; then
+    echo "No JAR files found in the lib directory or its subdirectories."
+    exit 1
+fi
+
+# Execute Java program
 exec java -cp "$CP" DumpValidator "$@"
